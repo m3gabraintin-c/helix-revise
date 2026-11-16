@@ -2,6 +2,8 @@
 
 A free, independent revision site, built as a single self-contained HTML page.
 
+**Live site: https://m3gabraintin-c.github.io/helix-revise/** · Found a wrong answer? [Report it](https://github.com/m3gabraintin-c/helix-revise/issues/new).
+
 ## What's inside
 
 Topic-by-topic practice quizzes for:
@@ -34,6 +36,19 @@ Then visit http://localhost:8000. Web fonts load from Google Fonts. Without a co
 
 `index.html` sits at the repo root, so GitHub Pages works as is: **Settings → Pages → Deploy from a branch → `main` / root**.
 
+## Accessibility
+
+The site targets WCAG 2.1 AA: semantic headings, a skip link, full keyboard use with visible focus, focus moved to the new heading on every page change, AA colour contrast in light and dark themes, text (not just colour) for right and wrong answers, labelled form controls, and no animation when the system asks for reduced motion. Please report any barrier as an issue.
+
+## Contributing
+
+Corrections and new questions are welcome as [issues](https://github.com/m3gabraintin-c/helix-revise/issues) or pull requests. Edit questions in the `DATA` block of `index.html`, then regenerate `questions/` with the command above.
+
+## Licence
+
+- Code: [MIT](LICENSE)
+- Questions and answers: [CC BY-NC 4.0](LICENSE-QUESTIONS.md)
+
 ## Disclaimer
 
-Not affiliated with or endorsed by the VCAA, Pearson Edexcel or any other exam board or revision provider. Questions are original and were written for this site.
+Not affiliated with or endorsed by the VCAA, Pearson Edexcel or any other exam board or revision provider. Questions are original and were written for this site; some were drafted with AI help and then reviewed.

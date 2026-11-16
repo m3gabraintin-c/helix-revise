@@ -1,9 +1,19 @@
-<!doctype html><html><head><meta charset=utf8><meta name=viewport content="width=device-width,initial-scale=1,viewport-fit=cover"><style>:root{color-scheme:light;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}html{scroll-padding-top:env(safe-area-inset-top,0px)}body{margin:0;padding:0;font:14px -apple-system,BlinkMacSystemFont,sans-serif;background:#fff;color:#000}img{max-width:100%}[hidden]:not([hidden=until-found i]){display:none!important}</style></head><body>
-<title>Helix Revise</title>
+<!doctype html><html lang="en-AU"><head><meta charset="utf-8"><meta name=viewport content="width=device-width,initial-scale=1,viewport-fit=cover"><style>:root{color-scheme:light;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}html{scroll-padding-top:env(safe-area-inset-top,0px)}body{margin:0;padding:0;font:14px -apple-system,BlinkMacSystemFont,sans-serif;background:#fff;color:#000}img{max-width:100%}[hidden]:not([hidden=until-found i]){display:none!important}</style><title>Helix Revise: free VCE revision quizzes</title>
+<meta name="description" content="Free self-marking revision quizzes for VCE Units 1–4 (Methods, General, Specialist, Chemistry, Physics, Biology, Psychology) and GCSE Biology. No sign-up; progress stays on your device.">
+<link rel="canonical" href="https://m3gabraintin-c.github.io/helix-revise/">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Helix Revise">
+<meta property="og:title" content="Helix Revise: free VCE revision quizzes">
+<meta property="og:description" content="Free self-marking revision quizzes for VCE Units 1–4 (Methods, General, Specialist, Chemistry, Physics, Biology, Psychology) and GCSE Biology. No sign-up; progress stays on your device.">
+<meta property="og:url" content="https://m3gabraintin-c.github.io/helix-revise/">
+<meta property="og:locale" content="en_AU">
+<meta name="twitter:card" content="summary">
+<meta name="theme-color" content="#efeae2">
 <meta name="claude:viewport-fit-sides" content="cover">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600&family=Nunito+Sans:opsz,wght@6..12,400;6..12,600;6..12,700&display=swap">
+</head><body>
 <style>
 /* Layout: a hazy shoreline. Misty sea-blue sky at the top of the page fades into pale sand;
    driftwood brown is the one accent, dune-grass wheat only for thin rules, labels and the hero art.
@@ -15,14 +25,15 @@
   --line: #d8cdbe;
   --ink: #3a3029;       /* dark grass stem */
   --muted: #6b5e52;
-  --accent: #7a5f45;    /* driftwood */
+  --accent: #775d43;    /* driftwood */
   --accent-ink: #ffffff;
   --accent-soft: #eadfcf;
   --sky: #dce3e6;       /* sea mist */
   --grass: #c2a47c;     /* dune-grass seed heads, decorative */
-  --grass-ink: #80603f;
-  --good: #4f6f80; --good-soft: #dde6ea;
-  --bad: #a0574a; --bad-soft: #f3e1da;
+  --grass-ink: #7c5d3d;
+  --good: #4b6979; --good-soft: #dde6ea;
+  --bad: #965145; --bad-soft: #f3e1da;
+  --field: #817a71;     /* form-control borders: 3:1 against every surface */
   --shadow: rgba(58, 48, 41, 0.10);
   --font-display: "Cormorant Garamond", "Iowan Old Style", Georgia, serif;
   --font: "Nunito Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
@@ -32,7 +43,7 @@
     --bg: #1c1916; --surface: #24201c; --surface-2: #2e2924; --line: #3d3630;
     --ink: #eee7dd; --muted: #b5a999; --accent: #d9be97; --accent-ink: #2a2119; --accent-soft: #3a3128;
     --sky: #232a2e; --grass: #c9ab80; --grass-ink: #d9be97;
-    --good: #9dbccb; --good-soft: #22303a; --bad: #e0a595; --bad-soft: #3d2622; --shadow: rgba(0,0,0,0.45);
+    --good: #9dbccb; --good-soft: #22303a; --bad: #e0a595; --bad-soft: #3d2622; --shadow: rgba(0,0,0,0.45); --field: #797470;
     color-scheme: dark;
   }
 }
@@ -40,7 +51,7 @@
   --bg: #1c1916; --surface: #24201c; --surface-2: #2e2924; --line: #3d3630;
   --ink: #eee7dd; --muted: #b5a999; --accent: #d9be97; --accent-ink: #2a2119; --accent-soft: #3a3128;
   --sky: #232a2e; --grass: #c9ab80; --grass-ink: #d9be97;
-  --good: #9dbccb; --good-soft: #22303a; --bad: #e0a595; --bad-soft: #3d2622; --shadow: rgba(0,0,0,0.45);
+  --good: #9dbccb; --good-soft: #22303a; --bad: #e0a595; --bad-soft: #3d2622; --shadow: rgba(0,0,0,0.45); --field: #797470;
   color-scheme: dark;
 }
 * { box-sizing: border-box; }
@@ -52,6 +63,12 @@ a { color: inherit; text-decoration: none; }
 button, select, input, textarea { font: inherit; color: inherit; }
 button { cursor: pointer; }
 :focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+/* Headings get script focus on page change so screen readers announce the new page; no ring needed. */
+[tabindex="-1"]:focus { outline: none; }
+.skip { position: absolute; left: 16px; top: -100px; z-index: 50; background: var(--accent); color: var(--accent-ink); padding: 8px 16px; border-radius: 999px; font-weight: 600; }
+.skip:focus { top: 12px; }
+.sr-only { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+.prose { max-width: 42rem; } .prose h2 { font-family: var(--font-display); font-size: 1.6rem; margin-top: 8px; } .prose ol, .prose ul { margin: 0; padding-left: 1.4rem; } .prose li + li { margin-top: 6px; } .prose a { color: var(--accent); text-decoration: underline; }
 h1, h2 { text-wrap: balance; margin: 0; }
 p { margin: 0; }
 .wrap { width: 100%; margin: 0 auto; padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); }
@@ -154,13 +171,13 @@ details.faq p { margin-top: 8px; font-size: 0.875rem; color: var(--muted); }
 .qmeta .chip-h { background: var(--accent-soft); color: var(--accent); font-weight: 600; }
 .qprompt { font-size: 1.125rem; font-weight: 600; line-height: 1.35; margin-bottom: 20px; }
 .opts { display: grid; gap: 8px; }
-.opt { display: flex; align-items: center; gap: 12px; min-height: 52px; border: 1px solid var(--line); border-radius: 14px; padding: 12px 16px; text-align: left; background: var(--surface); transition: background .15s; }
+.opt { display: flex; align-items: center; gap: 12px; min-height: 52px; border: 1px solid var(--field); border-radius: 14px; padding: 12px 16px; text-align: left; background: var(--surface); transition: background .15s; }
 .opt:not(:disabled):hover { background: var(--surface-2); }
 .opt:disabled { cursor: default; }
 .opt .letter { display: flex; width: 24px; height: 24px; flex-shrink: 0; align-items: center; justify-content: center; border-radius: 999px; border: 1px solid var(--line); font-size: 0.75rem; font-weight: 600; }
 .opt.right { border-color: var(--good); background: var(--good-soft); }
 .opt.wrong { border-color: var(--bad); background: var(--bad-soft); }
-textarea.ans { width: 100%; min-height: 96px; border-radius: 8px; border: 1px solid var(--line); background: var(--bg); padding: 12px; font-size: 0.875rem; outline: none; resize: vertical; }
+textarea.ans { width: 100%; min-height: 96px; border-radius: 8px; border: 1px solid var(--field); background: var(--bg); padding: 12px; font-size: 0.875rem; outline: none; resize: vertical; }
 textarea.ans:focus { border-color: var(--accent); }
 .model { border: 1px solid var(--line); background: var(--surface-2); border-radius: 8px; padding: 16px; font-size: 0.875rem; }
 .model b { display: block; margin-bottom: 4px; }
@@ -176,34 +193,37 @@ fieldset.pick .all { font-family: var(--font-display); font-weight: 600; font-si
 fieldset.pick .grid { display: grid; gap: 8px; margin-top: 12px; grid-template-columns: repeat(auto-fit, minmax(min(100%, 260px), 1fr)); font-size: 0.875rem; }
 input[type=checkbox] { accent-color: var(--accent); margin-top: 4px; width: 16px; height: 16px; flex-shrink: 0; }
 .dock { position: sticky; bottom: calc(16px + env(safe-area-inset-bottom, 0px)); z-index: 10; display: flex; flex-wrap: wrap; align-items: center; gap: 12px; border: 1px solid var(--line); background: var(--surface); border-radius: 18px; padding: 16px; box-shadow: 0 10px 30px var(--shadow); }
-.dock select { border-radius: 6px; border: 1px solid var(--line); background: var(--bg); padding: 4px 8px; }
+.dock select { border-radius: 6px; border: 1px solid var(--field); background: var(--bg); padding: 4px 8px; }
 .dock .go { margin-left: auto; }
 .subj-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 15rem), 1fr)); gap: 12px; }
 .subj { display: flex; flex-direction: column; gap: 6px; padding: 18px 20px; min-height: 44px; transition: background-color .2s, border-color .2s; }
 .subj:hover { background: var(--surface-2); border-color: var(--grass); }
 .subj b { font-family: var(--font-display); font-size: 1.35rem; font-weight: 600; line-height: 1.15; }
-.subj-sel { min-height: 44px; border-radius: 12px; border: 1px solid var(--line); background: var(--surface); color: var(--ink); padding: 8px 12px; font: inherit; max-width: 100%; }
+.subj-sel { min-height: 44px; border-radius: 12px; border: 1px solid var(--field); background: var(--surface); color: var(--ink); padding: 8px 12px; font: inherit; max-width: 100%; }
 .sr { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); }
 @media (prefers-reduced-motion: reduce) { * { transition: none !important; animation: none !important; } }
 </style>
 
+<a class="skip" href="#app">Skip to main content</a>
 <header class="site">
   <div class="wrap w5">
     <a class="brand" href="#">
       <svg viewBox="0 0 32 32" aria-hidden="true"><rect width="32" height="32" rx="12" fill="var(--accent)"/><path d="M10 7c0 6 12 6 12 12s-12 0-12 6M22 7c0 6-12 6-12 12s12 0 12 6" fill="none" stroke="var(--accent-ink)" stroke-width="2.2" stroke-linecap="round"/></svg>
       <span>Helix Revise</span>
     </a>
-    <nav class="top">
+    <nav class="top" aria-label="Main">
       <a class="plain" href="#topics">Subjects</a>
+      <a class="plain" href="#about">About</a>
       <a class="pill-btn" href="#custom">Build a quiz</a>
     </nav>
   </div>
 </header>
-<main id="app"></main>
+<main id="app" tabindex="-1"></main>
 <footer class="site">
   <div class="wrap w5">
-    <p>Helix Revise is a free, independent revision tool. Not affiliated with or endorsed by the VCAA, Pearson Edexcel or any other exam board or revision provider. Questions are original and written for this site.</p>
-    <p><a href="#privacy">Privacy</a> · Progress is stored only in your browser.</p>
+    <p>Helix Revise is a free, independent revision tool. Not affiliated with or endorsed by the VCAA, Pearson Edexcel or any other exam board or revision provider. Questions are original practice questions written for this site, some drafted with AI help and then reviewed.</p>
+    <p><a href="#about">About</a> · <a href="#privacy">Privacy</a> · <a href="https://github.com/m3gabraintin-c/helix-revise">Source on GitHub</a> · <a href="https://github.com/m3gabraintin-c/helix-revise/issues/new">Report a problem</a></p>
+    <p>Code: <a href="https://github.com/m3gabraintin-c/helix-revise/blob/main/LICENSE">MIT licence</a>. Questions: <a href="https://github.com/m3gabraintin-c/helix-revise/blob/main/LICENSE-QUESTIONS.md">CC BY-NC 4.0</a>. Progress is stored only in your browser.</p>
   </div>
 </footer>
 
@@ -355,30 +375,33 @@ const DATA = {"S":[["methods","Mathematical Methods","VCE · Units 3 & 4","VCE �
       <section class="stack" style="gap:12px"><h2 style="font-size:1.125rem;font-weight:600">Frequently asked questions</h2>
         <div class="card">${faqsFor(sj).map(([q, a]) => `<details class="faq"><summary>${esc(q)}<span>+</span></summary><p>${esc(a)}</p></details>`).join("")}</div></section>
     </div>`;
-    app.querySelectorAll("[data-topic]").forEach(b => b.onclick = () => { const n = +b.dataset.topic; open.has(n) ? open.delete(n) : open.add(n); subjectView(id); });
-    app.querySelector("#toggleAll").onclick = () => { if (allOpen) open.clear(); else topics.forEach(t => open.add(t.number)); subjectView(id); };
+    // Re-rendering replaces the buttons, so put focus back on the one that was pressed.
+    app.querySelectorAll("[data-topic]").forEach(b => b.onclick = () => { const n = +b.dataset.topic; open.has(n) ? open.delete(n) : open.add(n); subjectView(id); app.querySelector(`[data-topic="${n}"]`).focus(); });
+    app.querySelector("#toggleAll").onclick = () => { if (allOpen) open.clear(); else topics.forEach(t => open.add(t.number)); subjectView(id); app.querySelector("#toggleAll").focus(); };
   }
 
   // Quiz runner. Renders into `host`. opts: { slug, backHref, onBack }
   function runQuiz(host, initial, opts) {
     let pool = initial, order = shuffle(pool), i = 0, results = [], picked = null, revealed = false;
+    let focusTo = null; // which part to focus after the next render, so keyboard users keep their place
     const record = r => {
       results.push(r);
       if (results.length === order.length && opts.slug && pool === initial) saveScore(opts.slug, results.filter(x => x === "correct").length, order.length);
-      render();
+      focusTo = "after"; render();
     };
-    const restart = p => { pool = p; order = shuffle(pool); i = 0; results = []; picked = null; revealed = false; render(); };
+    const restart = p => { pool = p; order = shuffle(pool); i = 0; results = []; picked = null; revealed = false; focusTo = "prompt"; render(); };
     function render() {
       if (!order.length) { host.innerHTML = `<p class="muted">No questions yet for this subtopic.</p>`; return; }
       if (i >= order.length) {
         const correct = results.filter(r => r === "correct").length;
         const missed = order.filter((_, k) => results[k] === "wrong");
         const pct = Math.round(correct / order.length * 100);
-        host.innerHTML = `<div class="card result"><p class="eyebrow">Quiz complete</p><p class="big">${correct}/${order.length}</p>
+        host.innerHTML = `<div class="card result" data-focus="result"><p class="eyebrow">Quiz complete</p><p class="big">${correct}/${order.length}</p>
           <p class="muted">${pct >= 80 ? "Excellent work." : pct >= 50 ? "Good effort. Review the ones you missed." : "Keep going. Try the missed questions again."}</p>
           <div class="row" style="justify-content:center">${missed.length ? `<button class="btn btn-primary" id="rMissed">Retry ${missed.length} missed</button>` : ""}<button class="btn btn-ghost" id="rAll">Restart quiz</button><a class="btn btn-ghost" href="${opts.backHref}">All topics</a></div></div>`;
         if (missed.length) host.querySelector("#rMissed").onclick = () => restart(missed);
         host.querySelector("#rAll").onclick = () => restart(initial);
+        applyFocus();
         return;
       }
       const q = order[i], answered = results.length > i;
@@ -387,23 +410,30 @@ const DATA = {"S":[["methods","Mathematical Methods","VCE · Units 3 & 4","VCE �
       if (q.type === "mcq") {
         body = `<div class="opts">${q.options.map((o, k) => {
           let cls = ""; if (answered && k === q.answer) cls = "right"; else if (answered && k === picked) cls = "wrong";
-          return `<button class="opt ${cls}" data-k="${k}" ${answered ? "disabled" : ""}><span class="letter">${String.fromCharCode(65 + k)}</span><span>${esc(o)}</span></button>`;
+          const note = answered ? (k === q.answer ? " (correct answer)" : k === picked ? " (your answer)" : "") : "";
+          return `<button class="opt ${cls}" data-k="${k}" ${answered ? "disabled" : ""}><span class="letter">${String.fromCharCode(65 + k)}</span><span>${esc(o)}${note ? `<span class="sr-only">${note}</span>` : ""}</span></button>`;
         }).join("")}</div>`;
       } else if (!revealed) {
         body = `<div class="stack" style="gap:12px;align-items:flex-start"><label class="sr" for="ans-${esc(q.id)}">Your answer</label><textarea class="ans" id="ans-${esc(q.id)}" placeholder="Write your answer (optional), then reveal the model answer."></textarea><button class="btn btn-primary" id="reveal">Show answer</button></div>`;
       } else {
-        body = `<div class="stack"><div class="model"><b>Model answer</b><p>${esc(q.answer)}</p></div>${answered ? "" : `<div class="row" style="gap:8px"><span class="small muted" style="width:100%">Did you get it?</span><button class="btn btn-good" id="got">Got it</button><button class="btn btn-bad" id="miss">Missed it</button></div>`}</div>`;
+        body = `<div class="stack"><div class="model" data-focus="model"><b>Model answer</b><p>${esc(q.answer)}</p></div>${answered ? "" : `<div class="row" style="gap:8px"><span class="small muted" style="width:100%">Did you get it?</span><button class="btn btn-good" id="got">Got it</button><button class="btn btn-bad" id="miss">Missed it</button></div>`}</div>`;
       }
-      const after = answered ? `<div class="stack" style="margin-top:20px;align-items:flex-start">${q.type === "mcq" ? `<p class="verdict ${results[i] === "correct" ? "ok" : "no"}">${results[i] === "correct" ? "Correct!" : "Not quite."}</p>` : ""}${q.explanation ? `<p class="small muted">${esc(q.explanation)}</p>` : ""}<button class="btn btn-primary" id="next">${i + 1 === order.length ? "See results" : "Next question"}</button></div>` : "";
-      host.innerHTML = `<div class="stack" style="gap:20px"><div class="dots" aria-label="Question ${i + 1} of ${order.length}">${dots}</div>
+      const after = answered ? `<div class="stack" data-focus="after" style="margin-top:20px;align-items:flex-start">${q.type === "mcq" ? `<p class="verdict ${results[i] === "correct" ? "ok" : "no"}">${results[i] === "correct" ? "Correct!" : `Not quite. The answer is ${String.fromCharCode(65 + q.answer)}.`}</p>` : `<p class="verdict">${results[i] === "correct" ? "Marked as got it." : "Marked as missed."}</p>`}${q.explanation ? `<p class="small muted">${esc(q.explanation)}</p>` : ""}<button class="btn btn-primary" id="next">${i + 1 === order.length ? "See results" : "Next question"}</button></div>` : "";
+      host.innerHTML = `<div class="stack" style="gap:20px"><div class="dots" aria-hidden="true">${dots}</div>
         <div class="qcard"><div class="qmeta"><span>Question ${i + 1} of ${order.length}</span>${q.higherOnly ? '<span class="chip chip-h">Higher</span>' : ""}<span class="chip">${q.type === "mcq" ? "Multiple choice" : "Written · self-mark"}</span></div>
-        <h2 class="qprompt">${esc(q.prompt)}</h2>${body}${after}</div></div>`;
+        <h2 class="qprompt" data-focus="prompt">${esc(q.prompt)}</h2>${body}${after}</div></div>`;
       host.querySelectorAll(".opt").forEach(b => b.onclick = () => { const k = +b.dataset.k; picked = k; record(k === q.answer ? "correct" : "wrong"); });
       const $ = id => host.querySelector("#" + id);
-      if ($("reveal")) $("reveal").onclick = () => { revealed = true; render(); };
+      if ($("reveal")) $("reveal").onclick = () => { revealed = true; focusTo = "model"; render(); };
       if ($("got")) $("got").onclick = () => record("correct");
       if ($("miss")) $("miss").onclick = () => record("wrong");
-      if ($("next")) { $("next").onclick = () => { picked = null; revealed = false; i++; render(); host.scrollIntoView({ block: "nearest" }); }; }
+      if ($("next")) { $("next").onclick = () => { picked = null; revealed = false; i++; focusTo = i >= order.length ? "result" : "prompt"; render(); host.scrollIntoView({ block: "nearest" }); }; }
+      applyFocus();
+    }
+    function applyFocus() {
+      const t = focusTo && host.querySelector(`[data-focus="${focusTo}"]`);
+      focusTo = null;
+      if (t) { t.tabIndex = -1; t.focus({ preventScroll: false }); }
     }
     render();
   }
@@ -423,6 +453,7 @@ const DATA = {"S":[["methods","Mathematical Methods","VCE · Units 3 & 4","VCE �
     app.innerHTML = `<div class="wrap w3 view stack" style="gap:24px"><div class="stack" style="gap:4px"><h1 class="page-h1">Build your own quiz</h1><p class="muted">Choose a subject and the subtopics to mix together. Questions are shuffled each time.</p></div><div id="cbody" class="stack" style="gap:24px"></div></div>`;
     const body = app.querySelector("#cbody");
     function pick() {
+      const keep = document.activeElement && body.contains(document.activeElement) ? document.activeElement.id : null;
       body.innerHTML = `<label class="stack small" style="gap:6px;font-weight:500" for="csubj">Subject<select class="subj-sel" id="csubj">${groups().map(g => `<optgroup label="${esc(g)}">${subjects.filter(s => s.group === g).map(s => `<option value="${s.id}" ${s.id === customSubj ? "selected" : ""}>${esc(s.name)}</option>`).join("")}</optgroup>`).join("")}</select></label>
       <div class="stack" style="gap:12px">${avail.map(t => {
         const all = t.subtopics.every(s => selected.has(s.slug));
@@ -431,20 +462,47 @@ const DATA = {"S":[["methods","Mathematical Methods","VCE · Units 3 & 4","VCE �
       }).join("")}</div>
       <div class="dock"><label class="row small" style="gap:8px" for="qcount">Questions <select id="qcount">${[5, 10, 20, 30, 50].map(n => `<option ${n === qCount ? "selected" : ""}>${n}</option>`).join("")}</select></label>
         <span class="small muted" id="avail">${poolSize()} available</span><button class="btn btn-primary go" id="start" ${poolSize() ? "" : "disabled"}>Start quiz</button></div>`;
-      body.querySelector("#csubj").onchange = e => { customSubj = e.target.value; selected.clear(); customView(); };
+      body.querySelector("#csubj").onchange = e => { customSubj = e.target.value; selected.clear(); customView(); app.querySelector("#csubj").focus(); };
       body.querySelectorAll("[data-all]").forEach(c => c.onchange = () => { const t = avail.find(x => x.number === +c.dataset.all); t.subtopics.forEach(s => c.checked ? selected.add(s.slug) : selected.delete(s.slug)); pick(); });
       body.querySelectorAll("[data-sub]").forEach(c => c.onchange = () => { c.checked ? selected.add(c.dataset.sub) : selected.delete(c.dataset.sub); pick(); });
       body.querySelector("#qcount").onchange = e => { qCount = +e.target.value; };
+      if (keep && document.getElementById(keep)) document.getElementById(keep).focus();
       body.querySelector("#start").onclick = () => {
         const qs = shuffle([...selected].flatMap(s => bank[s])).slice(0, qCount);
         body.innerHTML = `<div class="stack"><button class="link" id="back" style="align-self:flex-start">← Change selection</button><div id="quiz"></div></div>`;
         body.querySelector("#back").onclick = pick;
         runQuiz(body.querySelector("#quiz"), qs, { backHref: `#s-${customSubj}` });
+        const first = body.querySelector(".qprompt"); if (first) { first.tabIndex = -1; first.focus(); }
       };
     }
     pick();
   }
 
+  const REPO = "https://github.com/m3gabraintin-c/helix-revise";
+  function aboutView() {
+    const rows = groups().map(g => `<li><b>${esc(g)}:</b> ${subjects.filter(s => s.group === g).map(s => `${esc(s.name)} (${subjQs(s).toLocaleString("en-AU")})`).join(", ")}</li>`).join("");
+    app.innerHTML = `<div class="wrap w2 view stack-lg prose">
+      <div class="stack" style="gap:12px"><h1 class="page-h1">About Helix Revise</h1>
+        <p class="lead muted">Helix Revise is a free website for practising for school science and maths exams. You answer short quizzes, check your answers straight away, and see which topics you have mastered.</p></div>
+      <section class="stack" aria-labelledby="a-how"><h2 id="a-how">How it works</h2>
+        <ol><li><b>Pick a subject</b> from <a href="#topics">Subjects</a>, then a topic and a subtopic.</li>
+          <li><b>Answer the questions.</b> Multiple-choice questions are marked instantly, with an explanation. For written questions, write your answer, show the model answer, then mark yourself.</li>
+          <li><b>Check your progress.</b> Your best score for each subtopic shows on the subject page, so you can see what to revise next.</li>
+          <li><b>Mix topics</b> with <a href="#custom">Build a quiz</a> when you want exam-style variety.</li></ol></section>
+      <section class="stack" aria-labelledby="a-start"><h2 id="a-start">Getting started</h2>
+        <p>There is nothing to install and no account to create. Open the site in any modern browser on a phone, tablet or computer and choose a subject. Your scores are saved in your browser on that device only, so they will not follow you to another device, and clearing your browser data resets them. See <a href="#privacy">Privacy</a>.</p></section>
+      <section class="stack" aria-labelledby="a-subj"><h2 id="a-subj">What's covered</h2>
+        <p>${totalQs.toLocaleString("en-AU")} questions across ${subjects.length} subjects and ${subCount} subtopics (question counts in brackets):</p><ul>${rows}</ul>
+        <p>VCE questions follow the VCAA study design areas of study. They are original practice questions, not past exam questions, so use them alongside official past papers.</p></section>
+      <section class="stack" aria-labelledby="a-acc"><h2 id="a-acc">Accuracy and reporting mistakes</h2>
+        <p>Questions are written for this site. Some were drafted with AI help and then checked by a reviewer for correct answers, level and duplicates. Mistakes can still slip through. If you spot one, please <a href="${REPO}/issues/new">report it on GitHub</a> with the subject, the question text and what you think is wrong.</p></section>
+      <section class="stack" aria-labelledby="a-contrib"><h2 id="a-contrib">Contributing</h2>
+        <p>The whole site is one HTML file, open source on <a href="${REPO}">GitHub</a>. Every question is also listed as plain text in the <a href="${REPO}/tree/main/questions">questions folder</a>, one folder per subject, which is the easiest place to review them. Suggestions and corrections are welcome as GitHub issues or pull requests.</p></section>
+      <section class="stack" aria-labelledby="a-lic"><h2 id="a-lic">Licence</h2>
+        <p>The website code is available under the <a href="${REPO}/blob/main/LICENSE">MIT licence</a>. The questions and answers are available under <a href="${REPO}/blob/main/LICENSE-QUESTIONS.md">Creative Commons Attribution-NonCommercial 4.0</a>: you may share and adapt them for non-commercial use if you credit Helix Revise.</p>
+        <p class="small muted">Helix Revise is independent and not affiliated with or endorsed by the VCAA, Pearson Edexcel or any other exam board.</p></section>
+    </div>`;
+  }
   function privacyView() {
     app.innerHTML = `<div class="wrap w2 view stack"><h1 class="page-h1">Privacy</h1><p class="muted">Helix Revise has no accounts and sets no tracking cookies. Your quiz scores are saved in your browser's local storage and never leave your device. Clearing your browser's site data deletes them.</p></div>`;
   }
@@ -452,19 +510,26 @@ const DATA = {"S":[["methods","Mathematical Methods","VCE · Units 3 & 4","VCE �
     app.innerHTML = `<div class="wrap w2 view stack" style="text-align:center;align-items:center;padding-block:4rem"><h1 class="page-h1">Page not found</h1><a class="link" href="#topics">Back to all subjects</a></div>`;
   }
 
-  function route() {
+  function route(moveFocus) {
     const h = decodeURIComponent(location.hash.slice(1));
     if (!h) home();
     else if (h === "topics") subjectsView();
     else if (h.startsWith("s-") && subjById[h.slice(2)]) subjectView(h.slice(2));
     else if (h === "custom") customView();
     else if (h === "privacy") privacyView();
+    else if (h === "about") aboutView();
     else if (bank[h] && subBySlug[h]) quizView(h);
     else notFound();
     window.scrollTo(0, 0);
+    const h1 = app.querySelector("h1");
+    document.title = h && h1 ? `${h1.textContent} · Helix Revise` : "Helix Revise: free VCE revision quizzes";
+    // The old page's link is gone, so move focus to the new heading (screen readers announce it).
+    if (moveFocus && h1) { h1.tabIndex = -1; h1.focus(); }
   }
-  window.addEventListener("hashchange", route);
-  route();
+  // Hash routing would treat "#app" as a page, so the skip link focuses <main> directly.
+  document.querySelector(".skip").onclick = e => { e.preventDefault(); app.focus(); };
+  window.addEventListener("hashchange", () => route(true));
+  route(false);
 })();
 </script>
 
