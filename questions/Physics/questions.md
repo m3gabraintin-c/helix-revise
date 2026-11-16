@@ -63,9 +63,185 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 *Written answer*
 
+**Q9.** What is the freezing point of water, 0 °C, on the kelvin scale?
+<!-- id: physics12a1-tkp-9 -->
+
+- A. 0 K
+- B. 100 K
+- C. 273 K
+- D. −273 K
+
+**Q10.** Absolute zero, 0 K, is closest to which temperature on the Celsius scale?
+<!-- id: physics12a1-tkp-10 -->
+
+- A. −373 °C
+- B. −273 °C
+- C. 0 °C
+- D. 273 °C
+
+**Q11.** The temperature of a metal block rises by 25 K. What is the change in its temperature on the Celsius scale?
+<!-- id: physics12a1-tkp-11 -->
+
+- A. 25 °C
+- B. 298 °C
+- C. −248 °C
+- D. 248 °C
+
+**Q12.** Tiny pollen grains suspended in water are observed under a microscope to jiggle in random directions. According to the kinetic particle model, this occurs because the grains are
+<!-- id: physics12a1-tkp-12 -->
+
+- A. attracted to the walls of the container
+- B. repelled by each other because they carry like charges
+- C. pushed by convection currents caused by the microscope lamp
+- D. bombarded unevenly by fast-moving, randomly moving water molecules
+
+**Q13.** A sample of hydrogen gas (molecular mass 2 u) and a sample of oxygen gas (molecular mass 32 u) are both at 300 K. Compared with oxygen molecules, the hydrogen molecules have
+<!-- id: physics12a1-tkp-13 -->
+
+- A. the same average kinetic energy but a greater average speed
+- B. a greater average kinetic energy and a greater average speed
+- C. the same average kinetic energy and the same average speed
+- D. a smaller average kinetic energy but a greater average speed
+
+**Q14.** In the kinetic particle model, absolute zero is the temperature at which the particles of a substance
+<!-- id: physics12a1-tkp-14 -->
+
+- A. are all at rest relative to each other and exert no forces
+- B. have the greatest possible potential energy
+- C. have the minimum possible random kinetic energy
+- D. change from a liquid to a solid
+
+**Q15.** The temperature of a gas is raised from 27 °C to 327 °C. The average translational kinetic energy of its particles
+<!-- id: physics12a1-tkp-15 -->
+
+- A. increases by a factor of about 12
+- B. increases by 300 J
+- C. remains the same
+- D. doubles
+
+**Q16.** Two objects are placed in contact and, after some time, there is no net transfer of energy between them. According to the kinetic particle model, the objects now have the same
+<!-- id: physics12a1-tkp-16 -->
+
+- A. average random kinetic energy per particle
+- B. total internal energy
+- C. number of particles
+- D. average particle speed, even if the particle masses differ
+
+**Q17.** A large bath of water at 30 °C is in thermal contact with a small cup of water at 80 °C. The net transfer of energy is
+<!-- id: physics12a1-tkp-17 -->
+
+- A. from the bath to the cup, because the bath has more internal energy
+- B. zero, because both contain the same substance
+- C. from the cup to the bath, because the cup has the higher temperature
+- D. from the bath to the cup, because the bath has more particles
+
+**Q18.** A gas is trapped in a sealed syringe at constant temperature. The plunger is pushed in so that the volume is halved. The pressure of the gas increases because
+<!-- id: physics12a1-tkp-18 -->
+
+- A. the particles move faster
+- B. the particles hit the walls more often, since they have less distance to travel between collisions
+- C. the particles become heavier
+- D. each collision with the wall exerts a greater force
+
+**Q19.** Which of the following is an assumption of the kinetic particle model of an ideal gas?
+<!-- id: physics12a1-tkp-19 -->
+
+- A. The particles attract each other strongly at all separations
+- B. The particles collide with the walls and each other so that they lose energy each time
+- C. The volume of the particles is much greater than the volume of the container
+- D. There are negligible forces between the particles except during collisions
+
+**Q20.** A solid block is heated and its temperature rises while it remains solid. Which change best describes the particles?
+<!-- id: physics12a1-tkp-20 -->
+
+- A. They vibrate about their fixed positions with a greater average kinetic energy
+- B. They begin to move freely throughout the whole block
+- C. They become more tightly packed
+- D. They break away from the block and move through the air
+
+**Q21.** A liquid-in-glass thermometer is calibrated by marking the liquid level at two fixed points. On the Celsius scale these fixed points are
+<!-- id: physics12a1-tkp-21 -->
+
+- A. −273 °C and 0 °C
+- B. 0 °C at the freezing point of water and 273 °C at absolute zero
+- C. 0 °C at the freezing point and 100 °C at the boiling point of water at standard atmospheric pressure
+- D. 37 °C at body temperature and 100 °C at the boiling point of water
+
+**Q22.** Why does the gas in a sealed container exert the same pressure on every wall, if the container is at a uniform temperature?
+<!-- id: physics12a1-tkp-22 -->
+
+- A. Gravity pulls the particles equally in every direction
+- B. The particles move randomly in all directions, so on average equal numbers collide with each wall
+- C. The particles only move in straight lines between the walls
+- D. The walls are made of the same material
+
+**Q23.** A sealed sample of gas is at 20 °C. It is heated until the average kinetic energy of its particles has doubled. The final temperature is closest to
+<!-- id: physics12a1-tkp-23 -->
+
+- A. 40 °C
+- B. 313 °C
+- C. 586 °C
+- D. 1 K
+
+**Q24.** The temperature of a gas rises from 300 K to 900 K. The average speed of its particles increases by a factor of approximately
+<!-- id: physics12a1-tkp-24 -->
+
+- A. 9
+- B. 3
+- C. 1.7
+- D. 1.2
+
+**Q25.** A block of ice at 0 °C is heated and begins to melt. While it is melting, the temperature stays at 0 °C. According to the kinetic particle model, the energy supplied is
+<!-- id: physics12a1-tkp-25 -->
+
+- A. converted into an increase in the average kinetic energy of the particles
+- B. lost to the surroundings so the particles slow down
+- C. used to make the particles more massive
+- D. used to increase the potential energy of the particles as the bonds between them are loosened
+
+**Q26.** (a) Convert 25 °C to kelvin. (b) Convert 350 K to degrees Celsius. (2 marks)
+<!-- id: physics12a1-tkp-26 -->
+
+*Written answer*
+
+**Q27.** Tiny smoke particles in air are seen under a microscope to move in a random, jerky manner. Explain this observation using the kinetic particle model. (3 marks)
+<!-- id: physics12a1-tkp-27 -->
+
+*Written answer*
+
+**Q28.** Helium (atomic mass 4 u) and methane (molecular mass 16 u) gases are at the same temperature. Compare their average translational kinetic energies and calculate the ratio of the average speed of helium particles to that of methane particles. (3 marks)
+<!-- id: physics12a1-tkp-28 -->
+
+*Written answer*
+
+**Q29.** Use the kinetic particle model to explain what is meant by two objects in thermal contact reaching thermal equilibrium. (3 marks)
+<!-- id: physics12a1-tkp-29 -->
+
+*Written answer*
+
+**Q30.** Compare the arrangement and motion of particles in a solid, a liquid and a gas. (3 marks)
+<!-- id: physics12a1-tkp-30 -->
+
+*Written answer*
+
+**Q31.** A sample of gas is cooled from 120 °C to −153 °C. (a) Express both temperatures in kelvin. (b) Calculate the change in temperature in kelvin. (3 marks)
+<!-- id: physics12a1-tkp-31 -->
+
+*Written answer*
+
+**Q32.** When a hot cup of water cools by evaporation, the temperature of the water that remains falls. Use the kinetic particle model to explain why. (3 marks)
+<!-- id: physics12a1-tkp-32 -->
+
+*Written answer*
+
+**Q33.** A student states that raising the temperature of a gas from 10 °C to 20 °C doubles the average kinetic energy of its particles. Evaluate this claim with a calculation. (3 marks)
+<!-- id: physics12a1-tkp-33 -->
+
+*Written answer*
+
 #### Specific heat capacity
 
-**Q9.** How much energy is needed to raise the temperature of 0.500 kg of water from 20 °C to 60 °C? (c of water = 4180 J kg⁻¹ K⁻¹)
+**Q34.** How much energy is needed to raise the temperature of 0.500 kg of water from 20 °C to 60 °C? (c of water = 4180 J kg⁻¹ K⁻¹)
 <!-- id: physics12a1-shc-1 -->
 
 - A. 8.36 × 10⁴ J
@@ -73,7 +249,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 1.67 × 10⁵ J
 - D. 4.18 × 10⁴ J
 
-**Q10.** Equal masses of metal X (c = 900 J kg⁻¹ K⁻¹) and metal Y (c = 380 J kg⁻¹ K⁻¹) absorb the same amount of energy. Which statement is correct?
+**Q35.** Equal masses of metal X (c = 900 J kg⁻¹ K⁻¹) and metal Y (c = 380 J kg⁻¹ K⁻¹) absorb the same amount of energy. Which statement is correct?
 <!-- id: physics12a1-shc-2 -->
 
 - A. Neither temperature changes
@@ -81,7 +257,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Y undergoes the greater temperature rise
 - D. Both undergo the same temperature rise
 
-**Q11.** The specific heat capacity of ice is 2100 J kg⁻¹ K⁻¹. This means that
+**Q36.** The specific heat capacity of ice is 2100 J kg⁻¹ K⁻¹. This means that
 <!-- id: physics12a1-shc-3 -->
 
 - A. 2100 J is needed to raise the temperature of 1 kg of ice by 1 K
@@ -89,7 +265,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. ice must be at 2100 K to melt
 - D. 2100 J is needed to melt 1 kg of ice
 
-**Q12.** A 1500 W immersion heater, with no energy losses, heats 2.0 kg of water for 100 s. The temperature rise of the water is closest to (c of water = 4180 J kg⁻¹ K⁻¹)
+**Q37.** A 1500 W immersion heater, with no energy losses, heats 2.0 kg of water for 100 s. The temperature rise of the water is closest to (c of water = 4180 J kg⁻¹ K⁻¹)
 <!-- id: physics12a1-shc-4 -->
 
 - A. 36 K
@@ -97,7 +273,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 9.0 K
 - D. 18 K
 
-**Q13.** Coastal cities usually have a smaller daily temperature range than inland cities. This is mainly because water
+**Q38.** Coastal cities usually have a smaller daily temperature range than inland cities. This is mainly because water
 <!-- id: physics12a1-shc-5 -->
 
 - A. has a high specific heat capacity, so its temperature changes little for a large energy change
@@ -105,24 +281,185 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. is a good conductor of heat
 - D. reflects all incoming radiation
 
-**Q14.** A 0.250 kg aluminium block at 100.0 °C is placed in 0.400 kg of water at 20.0 °C in an insulated container. Calculate the final equilibrium temperature. Use c(aluminium) = 900 J kg⁻¹ K⁻¹ and c(water) = 4180 J kg⁻¹ K⁻¹. (4 marks)
+**Q39.** A 0.250 kg aluminium block at 100.0 °C is placed in 0.400 kg of water at 20.0 °C in an insulated container. Calculate the final equilibrium temperature. Use c(aluminium) = 900 J kg⁻¹ K⁻¹ and c(water) = 4180 J kg⁻¹ K⁻¹. (4 marks)
 <!-- id: physics12a1-shc-6 -->
 
 *Written answer*
 
-**Q15.** A 2000 W electric kettle heats 1.50 kg of water from 18.0 °C to 100 °C. (a) Calculate the energy absorbed by the water. (b) Calculate the time taken if the kettle is 100% efficient. (c) Calculate the time taken if only 85% of the electrical energy is transferred to the water. (4 marks)
+**Q40.** A 2000 W electric kettle heats 1.50 kg of water from 18.0 °C to 100 °C. (a) Calculate the energy absorbed by the water. (b) Calculate the time taken if the kettle is 100% efficient. (c) Calculate the time taken if only 85% of the electrical energy is transferred to the water. (4 marks)
 <!-- id: physics12a1-shc-7 -->
 
 *Written answer*
 
-**Q16.** In an experiment, a 50 W heater is placed in a 1.0 kg metal block for 300 s and the block temperature rises by 17 K. (a) Calculate the value of the specific heat capacity of the metal that a student would obtain from these data. (b) The true value is lower than the student's value. Explain why, and suggest one improvement. (3 marks)
+**Q41.** In an experiment, a 50 W heater is placed in a 1.0 kg metal block for 300 s and the block temperature rises by 17 K. (a) Calculate the value of the specific heat capacity of the metal that a student would obtain from these data. (b) The true value is lower than the student's value. Explain why, and suggest one improvement. (3 marks)
 <!-- id: physics12a1-shc-8 -->
+
+*Written answer*
+
+**Q42.** Which of the following is the SI unit of specific heat capacity?
+<!-- id: physics12a1-shc-9 -->
+
+- A. J K⁻¹
+- B. J kg⁻¹ K⁻¹
+- C. J kg K⁻¹
+- D. kg J⁻¹ K
+
+**Q43.** How much energy is needed to raise the temperature of 2.0 kg of copper from 25 °C to 75 °C? (c of copper = 385 J kg⁻¹ K⁻¹)
+<!-- id: physics12a1-shc-10 -->
+
+- A. 1.93 × 10⁴ J
+- B. 5.78 × 10⁴ J
+- C. 3.85 × 10⁴ J
+- D. 7.70 × 10⁴ J
+
+**Q44.** An oil of specific heat capacity 2000 J kg⁻¹ K⁻¹ absorbs 3.0 × 10⁴ J. If the mass of oil is 0.50 kg, its temperature rise is
+<!-- id: physics12a1-shc-11 -->
+
+- A. 15 K
+- B. 60 K
+- C. 3.0 K
+- D. 30 K
+
+**Q45.** A graph of energy supplied Q (vertical axis) against temperature change ΔT (horizontal axis) is plotted for a sample of a substance. The gradient of the line equals
+<!-- id: physics12a1-shc-12 -->
+
+- A. mc, the mass multiplied by the specific heat capacity
+- B. c/m
+- C. 1/(mc)
+- D. m/c
+
+**Q46.** 2.0 kg of water at 30 °C is mixed with 1.0 kg of water at 60 °C in an insulated container. The final temperature is
+<!-- id: physics12a1-shc-13 -->
+
+- A. 45 °C
+- B. 40 °C
+- C. 50 °C
+- D. 35 °C
+
+**Q47.** 1.0 kg of water and 1.0 kg of copper are each heated through 10 K. Which statement is correct?
+<!-- id: physics12a1-shc-14 -->
+
+- A. The copper requires more energy because it conducts heat better
+- B. The water requires less energy because it is a liquid
+- C. The water requires more energy because it has the greater specific heat capacity
+- D. Both require the same energy because the masses and temperature changes are equal
+
+**Q48.** 0.20 kg of copper cools from 150 °C to 50 °C. The energy released is (c of copper = 385 J kg⁻¹ K⁻¹)
+<!-- id: physics12a1-shc-15 -->
+
+- A. 1.16 × 10⁴ J
+- B. 3.85 × 10³ J
+- C. 7.7 × 10⁴ J
+- D. 7.7 × 10³ J
+
+**Q49.** Water is commonly used as the coolant in car engines mainly because it
+<!-- id: physics12a1-shc-16 -->
+
+- A. can absorb a large amount of energy for each kelvin of temperature rise
+- B. has a very low boiling point
+- C. has a lower specific heat capacity than metals
+- D. does not expand when heated
+
+**Q50.** Two samples of equal mass are heated by identical heaters and their temperatures are recorded against time. Sample P warms more quickly than sample Q. This shows that
+<!-- id: physics12a1-shc-17 -->
+
+- A. P has a higher specific heat capacity than Q
+- B. P has a lower specific heat capacity than Q
+- C. P and Q have the same specific heat capacity
+- D. P has a higher melting point than Q
+
+**Q51.** A 0.50 kg metal sample absorbs 9.0 × 10³ J and its temperature rises by 40 K. Its specific heat capacity is
+<!-- id: physics12a1-shc-18 -->
+
+- A. 225 J kg⁻¹ K⁻¹
+- B. 900 J kg⁻¹ K⁻¹
+- C. 180 J kg⁻¹ K⁻¹
+- D. 450 J kg⁻¹ K⁻¹
+
+**Q52.** In an experiment to find the specific heat capacity of a liquid heated by an electric heater, the liquid is stirred continuously. The main reason is to
+<!-- id: physics12a1-shc-19 -->
+
+- A. make the temperature uniform so the thermometer reading represents the whole liquid
+- B. increase the specific heat capacity of the liquid
+- C. reduce the mass of liquid being heated
+- D. remove the need to measure the heating time
+
+**Q53.** 1.0 kg of water at 20 °C and 1.0 kg of aluminium at 100 °C are placed in contact in an insulated container. The final temperature will be
+<!-- id: physics12a1-shc-20 -->
+
+- A. exactly 60 °C, because the masses are equal
+- B. closer to 20 °C than to 100 °C, because water has the greater specific heat capacity
+- C. closer to 100 °C than to 20 °C, because aluminium is hotter
+- D. closer to 20 °C than to 100 °C, because water has the lower specific heat capacity
+
+**Q54.** On a sunny day the sand on a beach becomes much hotter than the sea beside it. The best explanation is that sand
+<!-- id: physics12a1-shc-21 -->
+
+- A. has a higher specific heat capacity than water
+- B. absorbs more solar energy than water in every case
+- C. cannot lose energy to the air
+- D. has a lower specific heat capacity than water, so the same energy produces a larger temperature rise
+
+**Q55.** Samples A and B are both made of the same metal. A has mass 1.0 kg and B has mass 2.0 kg. The same amount of energy is supplied to each. The ratio ΔT(A) : ΔT(B) is
+<!-- id: physics12a1-shc-22 -->
+
+- A. 2 : 1
+- B. 1 : 2
+- C. 1 : 1
+- D. 4 : 1
+
+**Q56.** A 2400 W heater transfers 90% of its electrical energy to 1.0 kg of water for 60 s. The temperature rise of the water is closest to (c of water = 4180 J kg⁻¹ K⁻¹)
+<!-- id: physics12a1-shc-23 -->
+
+- A. 34 K
+- B. 31 K
+- C. 28 K
+- D. 62 K
+
+**Q57.** The temperature of a block rises by 35 °C. This is a temperature change of
+<!-- id: physics12a1-shc-24 -->
+
+- A. 308 K
+- B. 238 K
+- C. 35 K
+- D. −238 K
+
+**Q58.** The specific heat capacity of water can be written as 4.18 J g⁻¹ K⁻¹. The energy needed to raise 200 g of water by 10 K is
+<!-- id: physics12a1-shc-25 -->
+
+- A. 8.36 × 10⁶ J
+- B. 4.18 × 10³ J
+- C. 836 J
+- D. 8.36 × 10³ J
+
+**Q59.** Define specific heat capacity and state its SI unit. (2 marks)
+<!-- id: physics12a1-shc-26 -->
+
+*Written answer*
+
+**Q60.** An electric heater of power 2400 W, which transfers all its energy to the water, is used to heat 5.0 kg of water at 15 °C for 4.0 minutes. Calculate the final temperature of the water. (c of water = 4180 J kg⁻¹ K⁻¹) (3 marks)
+<!-- id: physics12a1-shc-27 -->
+
+*Written answer*
+
+**Q61.** Describe an experiment to determine the specific heat capacity of a metal block using an electric heater. Include the measurements made and how the result is calculated. (4 marks)
+<!-- id: physics12a1-shc-28 -->
+
+*Written answer*
+
+**Q62.** A 0.300 kg metal sample at 100.0 °C is placed in 0.200 kg of water at 20.0 °C in an insulated container. The final temperature is 26.0 °C. Calculate the specific heat capacity of the metal. (c of water = 4180 J kg⁻¹ K⁻¹) (4 marks)
+<!-- id: physics12a1-shc-29 -->
+
+*Written answer*
+
+**Q63.** A 500 W heater, with no energy losses, is used to raise the temperature of a 0.80 kg aluminium block by 45 K. Calculate the time the heater must be on. (c of aluminium = 900 J kg⁻¹ K⁻¹) (3 marks)
+<!-- id: physics12a1-shc-30 -->
 
 *Written answer*
 
 #### Latent heat and phase change
 
-**Q17.** How much energy is needed to melt 0.200 kg of ice at 0 °C? (latent heat of fusion of water = 3.34 × 10⁵ J kg⁻¹)
+**Q64.** How much energy is needed to melt 0.200 kg of ice at 0 °C? (latent heat of fusion of water = 3.34 × 10⁵ J kg⁻¹)
 <!-- id: physics12a1-lat-1 -->
 
 - A. 6.68 × 10⁴ J
@@ -130,7 +467,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 1.67 × 10⁶ J
 - D. 4.52 × 10⁵ J
 
-**Q18.** Water is boiling at a steady 100 °C on a stove. According to the kinetic particle model, the energy supplied is being used to
+**Q65.** Water is boiling at a steady 100 °C on a stove. According to the kinetic particle model, the energy supplied is being used to
 <!-- id: physics12a1-lat-2 -->
 
 - A. reduce the mass of the water
@@ -138,7 +475,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. increase the potential energy of the particles as the bonds between them are overcome
 - D. decrease the number of particles
 
-**Q19.** Steam at 100 °C causes a more severe burn than the same mass of water at 100 °C because
+**Q66.** Steam at 100 °C causes a more severe burn than the same mass of water at 100 °C because
 <!-- id: physics12a1-lat-3 -->
 
 - A. steam releases a large amount of latent heat as it condenses on the skin
@@ -146,7 +483,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. steam conducts heat better than water
 - D. steam has a higher temperature
 
-**Q20.** 1 kg of ice at −10 °C is heated at a constant rate until it is steam at 110 °C. Which stage of the process takes the longest time? (c ice = 2100, c water = 4180 J kg⁻¹ K⁻¹; L fusion = 3.34 × 10⁵, L vaporisation = 2.26 × 10⁶ J kg⁻¹)
+**Q67.** 1 kg of ice at −10 °C is heated at a constant rate until it is steam at 110 °C. Which stage of the process takes the longest time? (c ice = 2100, c water = 4180 J kg⁻¹ K⁻¹; L fusion = 3.34 × 10⁵, L vaporisation = 2.26 × 10⁶ J kg⁻¹)
 <!-- id: physics12a1-lat-4 -->
 
 - A. warming the water from 0 °C to 100 °C
@@ -154,7 +491,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. warming the ice to 0 °C
 - D. melting the ice
 
-**Q21.** How much energy is required to change 0.100 kg of ice at 0 °C to water at 20 °C? (L fusion = 3.34 × 10⁵ J kg⁻¹; c water = 4180 J kg⁻¹ K⁻¹)
+**Q68.** How much energy is required to change 0.100 kg of ice at 0 °C to water at 20 °C? (L fusion = 3.34 × 10⁵ J kg⁻¹; c water = 4180 J kg⁻¹ K⁻¹)
 <!-- id: physics12a1-lat-5 -->
 
 - A. 8.36 × 10³ J
@@ -162,24 +499,182 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 4.18 × 10⁴ J
 - D. 4.18 × 10⁵ J
 
-**Q22.** Calculate the energy required to change 0.300 kg of ice at −10.0 °C into steam at 100 °C. Data: c ice = 2100 J kg⁻¹ K⁻¹; c water = 4180 J kg⁻¹ K⁻¹; L fusion = 3.34 × 10⁵ J kg⁻¹; L vaporisation = 2.26 × 10⁶ J kg⁻¹. (4 marks)
+**Q69.** Calculate the energy required to change 0.300 kg of ice at −10.0 °C into steam at 100 °C. Data: c ice = 2100 J kg⁻¹ K⁻¹; c water = 4180 J kg⁻¹ K⁻¹; L fusion = 3.34 × 10⁵ J kg⁻¹; L vaporisation = 2.26 × 10⁶ J kg⁻¹. (4 marks)
 <!-- id: physics12a1-lat-6 -->
 
 *Written answer*
 
-**Q23.** A 0.0500 kg piece of ice at 0 °C is placed in 0.300 kg of water at 25.0 °C in an insulated container. Calculate the final temperature, assuming all the ice melts and no energy is lost. (L fusion = 3.34 × 10⁵ J kg⁻¹; c water = 4180 J kg⁻¹ K⁻¹) (4 marks)
+**Q70.** A 0.0500 kg piece of ice at 0 °C is placed in 0.300 kg of water at 25.0 °C in an insulated container. Calculate the final temperature, assuming all the ice melts and no energy is lost. (L fusion = 3.34 × 10⁵ J kg⁻¹; c water = 4180 J kg⁻¹ K⁻¹) (4 marks)
 <!-- id: physics12a1-lat-7 -->
 
 *Written answer*
 
-**Q24.** A block of ice at 0 °C is heated steadily. Using the kinetic particle model, explain why its temperature stays constant while it melts even though energy is being supplied. (3 marks)
+**Q71.** A block of ice at 0 °C is heated steadily. Using the kinetic particle model, explain why its temperature stays constant while it melts even though energy is being supplied. (3 marks)
 <!-- id: physics12a1-lat-8 -->
+
+*Written answer*
+
+**Q72.** What is meant by the specific latent heat of fusion of a substance?
+<!-- id: physics12a1-lat-9 -->
+
+- A. The energy needed to melt 1 kg of the solid at its melting point without a change in temperature
+- B. The energy needed to raise 1 kg of the solid by 1 K
+- C. The energy needed to turn 1 kg of liquid into gas at its boiling point
+- D. The energy released when 1 kg of liquid cools by 1 K
+
+**Q73.** Which is the correct SI unit for specific latent heat?
+<!-- id: physics12a1-lat-10 -->
+
+- A. J kg⁻¹ K⁻¹
+- B. J kg⁻¹
+- C. J K⁻¹
+- D. J kg
+
+**Q74.** Calculate the energy needed to vaporise 0.500 kg of water at 100 °C. (L vaporisation = 2.26 × 10⁶ J kg⁻¹)
+<!-- id: physics12a1-lat-11 -->
+
+- A. 1.13 × 10⁵ J
+- B. 1.67 × 10⁵ J
+- C. 1.13 × 10⁶ J
+- D. 2.26 × 10⁶ J
+
+**Q75.** What mass of ice at 0 °C can be melted by 1.67 × 10⁵ J of energy? (L fusion = 3.34 × 10⁵ J kg⁻¹)
+<!-- id: physics12a1-lat-12 -->
+
+- A. 2.00 kg
+- B. 0.0739 kg
+- C. 0.250 kg
+- D. 0.500 kg
+
+**Q76.** On a graph of temperature against energy supplied for a substance heated at a constant rate, the horizontal sections represent
+<!-- id: physics12a1-lat-13 -->
+
+- A. changes of state, where energy goes into potential energy and temperature is constant
+- B. the substance not absorbing any energy
+- C. the specific heat capacity becoming zero because the substance is insulated
+- D. the particles stopping moving
+
+**Q77.** The specific latent heat of vaporisation of water is much greater than its specific latent heat of fusion. The best explanation is that
+<!-- id: physics12a1-lat-14 -->
+
+- A. water particles are heavier in the gas phase
+- B. vaporisation completely separates the particles and also does work pushing back the atmosphere
+- C. water boils at a higher temperature than it melts, so the particles move faster
+- D. ice has already lost most of its bonds before it melts
+
+**Q78.** How much energy is released when 0.250 kg of water at 0 °C freezes to ice at 0 °C? (L fusion = 3.34 × 10⁵ J kg⁻¹)
+<!-- id: physics12a1-lat-15 -->
+
+- A. 1.05 × 10⁵ J
+- B. 5.65 × 10⁵ J
+- C. 8.35 × 10⁴ J
+- D. 3.34 × 10⁵ J
+
+**Q79.** Evaporation of sweat cools the skin. According to the particle model, this is because
+<!-- id: physics12a1-lat-16 -->
+
+- A. the sweat particles gain energy from the air and become colder
+- B. evaporation increases the mass of the sweat
+- C. evaporating particles stop moving
+- D. the most energetic particles escape the liquid, lowering the average kinetic energy of those left
+
+**Q80.** A 500 W heater supplies all its energy to 0.100 kg of ice at 0 °C. How long does it take to melt all the ice? (L fusion = 3.34 × 10⁵ J kg⁻¹)
+<!-- id: physics12a1-lat-17 -->
+
+- A. 66.8 s
+- B. 452 s
+- C. 668 s
+- D. 0.0150 s
+
+**Q81.** How much energy is released when 0.0200 kg of steam at 100 °C condenses to water at 100 °C? (L vaporisation = 2.26 × 10⁶ J kg⁻¹)
+<!-- id: physics12a1-lat-18 -->
+
+- A. 6.68 × 10³ J
+- B. 4.52 × 10⁴ J
+- C. 8.36 × 10³ J
+- D. 5.36 × 10⁴ J
+
+**Q82.** As liquid water at 0 °C freezes to ice at 0 °C, the internal energy of the water
+<!-- id: physics12a1-lat-19 -->
+
+- A. stays the same because the temperature is constant
+- B. decreases because the kinetic energy of the particles decreases
+- C. decreases because the potential energy of the particles decreases
+- D. increases because the particles become more ordered
+
+**Q83.** A substance is heated by a constant power supply, and its temperature is plotted against time. The solid section of the graph is steeper than the liquid section. This is because the solid has
+<!-- id: physics12a1-lat-20 -->
+
+- A. a higher specific heat capacity than the liquid
+- B. a lower latent heat than the liquid
+- C. a higher mass than the liquid
+- D. a lower specific heat capacity than the liquid
+
+**Q84.** Sublimation is the process in which a substance
+<!-- id: physics12a1-lat-21 -->
+
+- A. changes from gas to liquid
+- B. changes directly from solid to gas without becoming liquid
+- C. melts and then immediately boils
+- D. changes from liquid to solid
+
+**Q85.** Ice cubes at 0 °C cool a drink more effectively than the same mass of water at 0 °C because the ice
+<!-- id: physics12a1-lat-22 -->
+
+- A. has a higher specific heat capacity
+- B. is a lower temperature
+- C. absorbs a large amount of latent heat as it melts
+- D. has more particles
+
+**Q86.** What mass of steam at 100 °C must condense to water at 100 °C to release 1.13 × 10⁵ J? (L vaporisation = 2.26 × 10⁶ J kg⁻¹)
+<!-- id: physics12a1-lat-23 -->
+
+- A. 0.0500 kg
+- B. 0.338 kg
+- C. 0.500 kg
+- D. 0.0250 kg
+
+**Q87.** Calculate the energy released when 0.100 kg of steam at 100 °C is converted to water at 50.0 °C. (L vaporisation = 2.26 × 10⁶ J kg⁻¹; c water = 4180 J kg⁻¹ K⁻¹)
+<!-- id: physics12a1-lat-24 -->
+
+- A. 2.26 × 10⁵ J
+- B. 2.47 × 10⁵ J
+- C. 2.09 × 10⁴ J
+- D. 4.93 × 10⁵ J
+
+**Q88.** Define the specific latent heat of vaporisation of a substance and state its SI unit. (2 marks)
+<!-- id: physics12a1-lat-25 -->
+
+*Written answer*
+
+**Q89.** Steam of mass 0.0400 kg at 100 °C is bubbled into 0.500 kg of water at 20.0 °C in an insulated container. Assuming all the steam condenses and no energy is lost, calculate the final temperature of the water. (L vaporisation = 2.26 × 10⁶ J kg⁻¹; c water = 4180 J kg⁻¹ K⁻¹) (4 marks)
+<!-- id: physics12a1-lat-26 -->
+
+*Written answer*
+
+**Q90.** A sample of ice at −20 °C is heated at a constant rate until it becomes steam above 100 °C. Describe the shape of the graph of temperature against time. (4 marks)
+<!-- id: physics12a1-lat-27 -->
+
+*Written answer*
+
+**Q91.** Ice at 0 °C is added to 0.250 kg of water at 30.0 °C to cool it to 0 °C. Calculate the mass of ice that must melt. Assume no energy is lost to the surroundings. (L fusion = 3.34 × 10⁵ J kg⁻¹; c water = 4180 J kg⁻¹ K⁻¹) (3 marks)
+<!-- id: physics12a1-lat-28 -->
+
+*Written answer*
+
+**Q92.** A freezer removes energy at a constant rate of 150 W from 0.400 kg of water at 20.0 °C. Calculate the time taken for the water to cool and freeze completely to ice at 0 °C. (L fusion = 3.34 × 10⁵ J kg⁻¹; c water = 4180 J kg⁻¹ K⁻¹) (3 marks)
+<!-- id: physics12a1-lat-29 -->
+
+*Written answer*
+
+**Q93.** A 0.100 kg block of ice at −20.0 °C is placed in 0.400 kg of water at 40.0 °C in an insulated container. Calculate the final temperature, assuming no energy is lost. (c ice = 2100 J kg⁻¹ K⁻¹; c water = 4180 J kg⁻¹ K⁻¹; L fusion = 3.34 × 10⁵ J kg⁻¹) (4 marks)
+<!-- id: physics12a1-lat-30 -->
 
 *Written answer*
 
 #### Conduction, convection and radiation
 
-**Q25.** Which method of thermal energy transfer can occur across a vacuum?
+**Q94.** Which method of thermal energy transfer can occur across a vacuum?
 <!-- id: physics12a1-ccr-1 -->
 
 - A. convection
@@ -187,7 +682,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. conduction and convection
 - D. conduction
 
-**Q26.** Metals are good thermal conductors mainly because
+**Q95.** Metals are good thermal conductors mainly because
 <!-- id: physics12a1-ccr-2 -->
 
 - A. they have a high specific heat capacity
@@ -195,7 +690,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. they contain delocalised electrons that transfer energy quickly
 - D. they are always at a higher temperature than non-metals
 
-**Q27.** On a sunny afternoon at the beach, a breeze blows from the sea towards the land. This is best explained by
+**Q96.** On a sunny afternoon at the beach, a breeze blows from the sea towards the land. This is best explained by
 <!-- id: physics12a1-ccr-3 -->
 
 - A. warm air over the land rising and cooler, denser air from the sea moving in to replace it
@@ -203,7 +698,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. the sea having a lower specific heat capacity than land
 - D. conduction of heat from the sand to the sea
 
-**Q28.** A wall of thickness 0.10 m conducts energy at a rate of 40 W for a given temperature difference. The wall is replaced by the same material of thickness 0.20 m with the same area and the same temperature difference. The rate of conduction becomes
+**Q97.** A wall of thickness 0.10 m conducts energy at a rate of 40 W for a given temperature difference. The wall is replaced by the same material of thickness 0.20 m with the same area and the same temperature difference. The rate of conduction becomes
 <!-- id: physics12a1-ccr-4 -->
 
 - A. 40 W
@@ -211,7 +706,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 10 W
 - D. 20 W
 
-**Q29.** Double-glazed windows reduce heat loss mainly because
+**Q98.** Double-glazed windows reduce heat loss mainly because
 <!-- id: physics12a1-ccr-5 -->
 
 - A. glass reflects all infrared radiation
@@ -219,24 +714,221 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. glass is a perfect insulator
 - D. the second pane increases the temperature of the room
 
-**Q30.** A ceramic tile and a woollen carpet are both at room temperature (20 °C), yet the tile feels much colder to bare feet. Explain why. (3 marks)
+**Q99.** A ceramic tile and a woollen carpet are both at room temperature (20 °C), yet the tile feels much colder to bare feet. Explain why. (3 marks)
 <!-- id: physics12a1-ccr-6 -->
 
 *Written answer*
 
-**Q31.** A pot of water is heated on an electric stove element. Describe how energy is transferred from the element to the water at the top of the pot. (3 marks)
+**Q100.** A pot of water is heated on an electric stove element. Describe how energy is transferred from the element to the water at the top of the pot. (3 marks)
 <!-- id: physics12a1-ccr-7 -->
 
 *Written answer*
 
-**Q32.** A vacuum flask has a double-walled glass container with the space between the walls evacuated and the inner surfaces silvered, plus an insulating stopper. Identify the main mode of energy transfer that each feature reduces. (3 marks)
+**Q101.** A vacuum flask has a double-walled glass container with the space between the walls evacuated and the inner surfaces silvered, plus an insulating stopper. Identify the main mode of energy transfer that each feature reduces. (3 marks)
 <!-- id: physics12a1-ccr-8 -->
+
+*Written answer*
+
+**Q102.** Convection can occur only in
+<!-- id: physics12a1-ccr-9 -->
+
+- A. solids and liquids
+- B. solids only
+- C. fluids (liquids and gases)
+- D. a vacuum
+
+**Q103.** In a non-metal solid such as wood or glass, energy is conducted mainly by
+<!-- id: physics12a1-ccr-10 -->
+
+- A. vibrations passed between neighbouring particles
+- B. delocalised electrons moving through the solid
+- C. bulk movement of heated material
+- D. electromagnetic waves travelling through the solid
+
+**Q104.** Which surface is the best absorber of thermal radiation?
+<!-- id: physics12a1-ccr-11 -->
+
+- A. white and glossy
+- B. polished silver
+- C. shiny aluminium foil
+- D. matt black
+
+**Q105.** A slab conducts energy at 30 W. The area is doubled while the thickness and the temperature difference stay the same. The rate of conduction becomes
+<!-- id: physics12a1-ccr-12 -->
+
+- A. 15 W
+- B. 60 W
+- C. 30 W
+- D. 120 W
+
+**Q106.** A slab conducts energy at 25 W when the temperature difference across it is 10 K. If the temperature difference is increased to 20 K, with everything else unchanged, the rate becomes
+<!-- id: physics12a1-ccr-13 -->
+
+- A. 12.5 W
+- B. 25 W
+- C. 50 W
+- D. 100 W
+
+**Q107.** The rate of conduction is given by P = kAΔT/L. A glass pane has k = 0.80 W m⁻¹ K⁻¹, area 2.0 m², thickness 0.010 m and a temperature difference of 5.0 K across it. The rate of energy transfer is
+<!-- id: physics12a1-ccr-14 -->
+
+- A. 800 W
+- B. 0.080 W
+- C. 80 W
+- D. 160 W
+
+**Q108.** A hot air balloon rises when its burner heats the air inside the envelope. This is because the heated air
+<!-- id: physics12a1-ccr-15 -->
+
+- A. has more mass than the surrounding air
+- B. radiates energy upwards
+- C. has a greater specific heat capacity
+- D. expands and becomes less dense than the surrounding air
+
+**Q109.** The heating element of an electric kettle is placed at the base because
+<!-- id: physics12a1-ccr-16 -->
+
+- A. hot water sinks and carries energy to the cooler water above
+- B. heated water at the base rises while cooler water sinks, setting up convection currents
+- C. water is a good conductor so energy passes quickly upwards
+- D. the base radiates energy mainly upwards through the lid
+
+**Q110.** A split-system air conditioner used for cooling is mounted high on a wall. This is effective because
+<!-- id: physics12a1-ccr-17 -->
+
+- A. cool air is less dense and rises to fill the room
+- B. warm air at floor level is conducted to the unit
+- C. cool air from the unit is denser and sinks, so warmer air rises and is drawn in to be cooled
+- D. radiation from the unit travels horizontally across the room
+
+**Q111.** The SI unit of thermal conductivity, k, is
+<!-- id: physics12a1-ccr-18 -->
+
+- A. W m⁻¹ K⁻¹
+- B. J kg⁻¹ K⁻¹
+- C. W m⁻² K
+- D. J m⁻¹ K⁻¹
+
+**Q112.** Which of the following is an example of energy transfer mainly by convection?
+<!-- id: physics12a1-ccr-19 -->
+
+- A. warmth felt on the face from the Sun
+- B. a metal spoon warming in hot tea
+- C. heat felt at the hand held beside a lamp
+- D. hot air rising from a bitumen road on a summer day
+
+**Q113.** Fibreglass batts in a ceiling are effective insulators mainly because
+<!-- id: physics12a1-ccr-20 -->
+
+- A. fibreglass is a perfect insulator
+- B. they trap many small pockets of air, which conducts poorly and cannot circulate easily
+- C. they reflect all convection currents back into the room
+- D. glass fibres absorb all the energy that reaches them
+
+**Q114.** Which statement about thermal radiation from the Sun is correct?
+<!-- id: physics12a1-ccr-21 -->
+
+- A. It is carried by particles in the upper atmosphere
+- B. It travels more slowly than visible light
+- C. It travels through space as electromagnetic waves at the speed of light
+- D. It reaches Earth only by convection currents in space
+
+**Q115.** An object stays at a constant temperature in surroundings at the same temperature. For this object, thermal radiation is
+<!-- id: physics12a1-ccr-22 -->
+
+- A. absorbed at the same rate as it is emitted
+- B. emitted but not absorbed
+- C. absorbed but not emitted
+- D. neither emitted nor absorbed
+
+**Q116.** As the temperature of a hot object increases, the rate at which it emits thermal radiation
+<!-- id: physics12a1-ccr-23 -->
+
+- A. decreases
+- B. stays the same
+- C. increases only if its surface is shiny
+- D. increases
+
+**Q117.** A metal rod and a wooden rod of the same size are each heated at one end. The far end of the metal rod becomes warm much sooner because
+<!-- id: physics12a1-ccr-24 -->
+
+- A. wood has a higher thermal conductivity
+- B. metal has a higher thermal conductivity
+- C. the metal rod is always at a higher temperature than the wooden rod
+- D. wood transfers energy mainly by radiation
+
+**Q118.** A shiny metallised emergency blanket is wrapped around a person suffering from cold exposure mainly to
+<!-- id: physics12a1-ccr-25 -->
+
+- A. reflect infrared radiation from the body back towards the person
+- B. increase conduction from the body to the air
+- C. absorb the infrared radiation emitted by the body
+- D. allow convection currents to carry energy away
+
+**Q119.** A copper rod conducts 12 W between its ends for a given temperature difference. A second rod of the same copper has half the length and twice the cross-sectional area, with the same temperature difference. It conducts at
+<!-- id: physics12a1-ccr-26 -->
+
+- A. 24 W
+- B. 6.0 W
+- C. 48 W
+- D. 12 W
+
+**Q120.** At night a breeze commonly blows from the land towards the sea because
+<!-- id: physics12a1-ccr-27 -->
+
+- A. the land retains energy longer than the sea, so air over the land rises
+- B. the land cools faster than the sea, so warmer air over the sea rises and cooler air from the land replaces it
+- C. the sea cools faster than the land, so cool sea air is drawn inland
+- D. radiation from the land pushes air seawards
+
+**Q121.** Radiators in a house are often placed low on a wall, near the floor. Explain how this helps heat the whole room. (2 marks)
+<!-- id: physics12a1-ccr-28 -->
+
+*Written answer*
+
+**Q122.** Insulation in a ceiling is made of material with thermal conductivity 0.040 W m⁻¹ K⁻¹. The ceiling has an area of 12 m² and the insulation is 0.10 m thick. Calculate the rate of conduction through the ceiling when the temperature difference across it is 15 K. Use P = kAΔT/L. (3 marks)
+<!-- id: physics12a1-ccr-29 -->
+
+*Written answer*
+
+**Q123.** Two identical cars are parked in the sun. One is painted matt black and the other is painted white. After an hour the black car is much hotter. Explain why. (2 marks)
+<!-- id: physics12a1-ccr-30 -->
+
+*Written answer*
+
+**Q124.** A down jacket is filled with fluffy feathers. Explain why it keeps the wearer warm. (3 marks)
+<!-- id: physics12a1-ccr-31 -->
+
+*Written answer*
+
+**Q125.** Distinguish between conduction and convection as methods of energy transfer. (2 marks)
+<!-- id: physics12a1-ccr-32 -->
+
+*Written answer*
+
+**Q126.** A glass window has thermal conductivity 0.84 W m⁻¹ K⁻¹, an area of 1.5 m² and a thickness of 4.0 mm. Calculate the rate of conduction through the window when the temperature difference between its faces is 6.0 K. Use P = kAΔT/L. (3 marks)
+<!-- id: physics12a1-ccr-33 -->
+
+*Written answer*
+
+**Q127.** A person standing beside a campfire feels warm on the side of their body facing the fire, even though they are not above the flames. Explain why this is mainly due to radiation and not convection or conduction. (2 marks)
+<!-- id: physics12a1-ccr-34 -->
+
+*Written answer*
+
+**Q128.** The fins on the back of a refrigerator are painted matt black and have a large surface area. Explain how these features help the refrigerator lose energy to the room. (3 marks)
+<!-- id: physics12a1-ccr-35 -->
+
+*Written answer*
+
+**Q129.** A metal spoon left in a bowl of hot soup soon feels hot at the handle, but a wooden spoon does not. Explain this difference. (2 marks)
+<!-- id: physics12a1-ccr-36 -->
 
 *Written answer*
 
 #### Thermal radiation and Wien's law
 
-**Q33.** The surface of the Sun has a temperature of about 5800 K. Using Wien's law with constant 2.898 × 10⁻³ m K, the peak wavelength of its radiation is closest to
+**Q130.** The surface of the Sun has a temperature of about 5800 K. Using Wien's law with constant 2.898 × 10⁻³ m K, the peak wavelength of its radiation is closest to
 <!-- id: physics12a1-wien-1 -->
 
 - A. 50 nm
@@ -244,7 +936,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 2.00 µm
 - D. 5.00 µm
 
-**Q34.** As the temperature of a hot object (blackbody) increases, which of the following is true?
+**Q131.** As the temperature of a hot object (blackbody) increases, which of the following is true?
 <!-- id: physics12a1-wien-2 -->
 
 - A. The peak wavelength and total emitted power both increase
@@ -252,7 +944,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. The peak wavelength increases and total emitted power decreases
 - D. The peak wavelength decreases and total emitted power increases
 
-**Q35.** The human body has a surface temperature of about 310 K. The peak of its thermal radiation lies in the
+**Q132.** The human body has a surface temperature of about 310 K. The peak of its thermal radiation lies in the
 <!-- id: physics12a1-wien-3 -->
 
 - A. ultraviolet region
@@ -260,7 +952,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. infrared region
 - D. microwave region
 
-**Q36.** Star A has a peak emission wavelength of 400 nm and star B has a peak emission wavelength of 800 nm. Assuming both behave as blackbodies, the surface temperature of star A compared with star B is
+**Q133.** Star A has a peak emission wavelength of 400 nm and star B has a peak emission wavelength of 800 nm. Assuming both behave as blackbodies, the surface temperature of star A compared with star B is
 <!-- id: physics12a1-wien-4 -->
 
 - A. the same
@@ -268,7 +960,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. twice as great
 - D. four times as great
 
-**Q37.** Two identical cups of hot coffee at 90 °C, one with a matte black surface and one with a shiny silver surface, are left in a room. Which statement is most likely correct about radiation from the cups?
+**Q134.** Two identical cups of hot coffee at 90 °C, one with a matte black surface and one with a shiny silver surface, are left in a room. Which statement is most likely correct about radiation from the cups?
 <!-- id: physics12a1-wien-5 -->
 
 - A. The matte black cup radiates more energy per second
@@ -276,24 +968,223 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Neither cup radiates energy
 - D. The silver cup radiates more energy per second
 
-**Q38.** The filament of a lamp has a peak emission wavelength of 1.45 µm. (a) Use Wien's law (constant 2.898 × 10⁻³ m K) to calculate the filament temperature. (b) In which region of the electromagnetic spectrum is the peak, and what does this suggest about the efficiency of the lamp for lighting? (3 marks)
+**Q135.** The filament of a lamp has a peak emission wavelength of 1.45 µm. (a) Use Wien's law (constant 2.898 × 10⁻³ m K) to calculate the filament temperature. (b) In which region of the electromagnetic spectrum is the peak, and what does this suggest about the efficiency of the lamp for lighting? (3 marks)
 <!-- id: physics12a1-wien-6 -->
 
 *Written answer*
 
-**Q39.** The Earth has an average surface temperature of about 288 K. Calculate the peak wavelength of the radiation it emits and name the region of the spectrum. (constant 2.898 × 10⁻³ m K) (3 marks)
+**Q136.** The Earth has an average surface temperature of about 288 K. Calculate the peak wavelength of the radiation it emits and name the region of the spectrum. (constant 2.898 × 10⁻³ m K) (3 marks)
 <!-- id: physics12a1-wien-7 -->
 
 *Written answer*
 
-**Q40.** Describe how the graph of intensity versus wavelength for a blackbody radiator changes when its temperature is increased. (3 marks)
+**Q137.** Describe how the graph of intensity versus wavelength for a blackbody radiator changes when its temperature is increased. (3 marks)
 <!-- id: physics12a1-wien-8 -->
+
+*Written answer*
+
+**Q138.** Which statement correctly expresses Wien's law for a blackbody radiator?
+<!-- id: physics12a1-wien-9 -->
+
+- A. The product of the peak wavelength and the absolute temperature is constant
+- B. The peak wavelength is directly proportional to the absolute temperature
+- C. The peak wavelength is proportional to the square of the absolute temperature
+- D. The peak wavelength is independent of the absolute temperature
+
+**Q139.** A tungsten-halogen lamp has a filament at 3000 K. Using Wien's law (constant 2.898 × 10⁻³ m K), its peak wavelength is closest to
+<!-- id: physics12a1-wien-10 -->
+
+- A. 97 nm
+- B. 970 nm
+- C. 9.7 µm
+- D. 97 µm
+
+**Q140.** A cooling object has its peak thermal emission at a wavelength of 10 µm. Using Wien's law (constant 2.898 × 10⁻³ m K), its temperature is closest to
+<!-- id: physics12a1-wien-11 -->
+
+- A. 29 K
+- B. 100 K
+- C. 290 K
+- D. 2900 K
+
+**Q141.** A metal block is heated from 27 °C to 327 °C. Its peak emission wavelength will
+<!-- id: physics12a1-wien-12 -->
+
+- A. decrease by a factor of about 12
+- B. double
+- C. stay the same
+- D. halve
+
+**Q142.** Two stars are observed, one appearing blue and one appearing red. Assuming both behave as blackbodies, which statement is correct?
+<!-- id: physics12a1-wien-13 -->
+
+- A. The blue star is hotter because its peak wavelength is shorter
+- B. The red star is hotter because its peak wavelength is longer
+- C. The stars have the same temperature but different sizes
+- D. The stars must have the same peak wavelength
+
+**Q143.** Which statement about thermal radiation is correct?
+<!-- id: physics12a1-wien-14 -->
+
+- A. It is emitted only by objects hotter than 100 °C
+- B. It is emitted by all objects with a temperature above absolute zero
+- C. It is emitted only by objects that glow visibly
+- D. It is emitted only by objects in contact with air
+
+**Q144.** Energy from the Sun reaches the Earth across the vacuum of space by
+<!-- id: physics12a1-wien-15 -->
+
+- A. conduction through the solar wind
+- B. convection currents in space
+- C. electromagnetic radiation
+- D. sound waves
+
+**Q145.** An ideal blackbody is best described as an object that
+<!-- id: physics12a1-wien-16 -->
+
+- A. reflects all incident radiation and emits none
+- B. emits radiation only in the visible region
+- C. is always black in colour at every temperature
+- D. absorbs all incident radiation and emits the maximum possible thermal radiation for its temperature
+
+**Q146.** On a hot sunny day, a person wearing a white shirt tends to feel cooler than a person wearing a black shirt. This is mainly because the white shirt
+<!-- id: physics12a1-wien-17 -->
+
+- A. reflects more of the incident radiation and absorbs less
+- B. absorbs more radiation and emits it all away
+- C. emits no thermal radiation
+- D. is a better conductor of heat
+
+**Q147.** The inner walls of a vacuum flask are silvered. This reduces heat transfer mainly because the shiny surface
+<!-- id: physics12a1-wien-18 -->
+
+- A. prevents conduction through the glass
+- B. is a poor emitter and a good reflector of thermal radiation
+- C. increases convection inside the flask
+- D. absorbs radiation and stores it
+
+**Q148.** A cup of tea has cooled until its temperature equals that of the surrounding room. Which statement is correct?
+<!-- id: physics12a1-wien-19 -->
+
+- A. The cup has stopped emitting thermal radiation
+- B. The cup emits radiation but absorbs none
+- C. The cup emits and absorbs radiation at the same rate
+- D. The cup absorbs radiation but emits none
+
+**Q149.** A hot star has its peak emission at 290 nm. Using Wien's law (constant 2.898 × 10⁻³ m K), its surface temperature is closest to
+<!-- id: physics12a1-wien-20 -->
+
+- A. 1.0 × 10² K
+- B. 1.0 × 10³ K
+- C. 1.0 × 10⁵ K
+- D. 1.0 × 10⁴ K
+
+**Q150.** Object X is at 300 K and object Y is at 900 K. Both behave as blackbodies. The ratio of the peak wavelength of X to the peak wavelength of Y is
+<!-- id: physics12a1-wien-21 -->
+
+- A. 3
+- B. 1/3
+- C. 9
+- D. 1/9
+
+**Q151.** The element of an electric stove at about 1000 K glows dull red. Using Wien's law (constant 2.898 × 10⁻³ m K), the peak of its emitted radiation is in the
+<!-- id: physics12a1-wien-22 -->
+
+- A. visible region, in the red
+- B. infrared region
+- C. ultraviolet region
+- D. X-ray region
+
+**Q152.** The cosmic microwave background has a blackbody spectrum corresponding to a temperature of about 2.7 K. Its peak wavelength (constant 2.898 × 10⁻³ m K) is closest to
+<!-- id: physics12a1-wien-23 -->
+
+- A. 1.1 µm
+- B. 11 µm
+- C. 1.1 mm
+- D. 11 mm
+
+**Q153.** Solar hot water collector plates are painted matte black because a matte black surface
+<!-- id: physics12a1-wien-24 -->
+
+- A. reflects most of the Sun's radiation
+- B. emits no radiation of its own
+- C. is a good insulator
+- D. is a good absorber of radiation
+
+**Q154.** A pottery kiln wall is at 127 °C. Using Wien's law (constant 2.898 × 10⁻³ m K), the peak wavelength of the radiation it emits is closest to
+<!-- id: physics12a1-wien-25 -->
+
+- A. 7.2 µm
+- B. 23 µm
+- C. 2.3 µm
+- D. 0.72 µm
+
+**Q155.** On a graph of intensity versus wavelength for a blackbody, the area under the curve represents the
+<!-- id: physics12a1-wien-26 -->
+
+- A. peak wavelength
+- B. temperature of the object in kelvin
+- C. total power emitted per unit area
+- D. range of visible wavelengths emitted
+
+**Q156.** A star has a peak emission wavelength of 450 nm. Using Wien's law (constant 2.898 × 10⁻³ m K), calculate its surface temperature. (2 marks)
+<!-- id: physics12a1-wien-27 -->
+
+*Written answer*
+
+**Q157.** A metal sphere is heated from 800 K to 1600 K. State how the peak wavelength of its emitted radiation changes and describe the effect on the proportion of its radiation that is visible. (2 marks)
+<!-- id: physics12a1-wien-28 -->
+
+*Written answer*
+
+**Q158.** A furnace operates at 1500 K and a nearby metal bench is at 300 K. Calculate the peak wavelength emitted by each and compare them. (constant 2.898 × 10⁻³ m K) (3 marks)
+<!-- id: physics12a1-wien-29 -->
+
+*Written answer*
+
+**Q159.** Explain why energy from the Sun can reach the Earth by radiation but not by conduction or convection. (2 marks)
+<!-- id: physics12a1-wien-30 -->
+
+*Written answer*
+
+**Q160.** A dark-painted car and a white car are parked in the sun. Explain why the interior of the dark car heats up faster during the day, and why the dark car also loses energy by radiation more quickly at night. (3 marks)
+<!-- id: physics12a1-wien-31 -->
+
+*Written answer*
+
+**Q161.** A vacuum flask has double glass walls with the space between them evacuated and the inner surfaces silvered. Explain how these features keep the contents hot. (3 marks)
+<!-- id: physics12a1-wien-32 -->
+
+*Written answer*
+
+**Q162.** Betelgeuse has a surface temperature of about 3500 K and Rigel about 12 000 K. Calculate the peak wavelength of each (constant 2.898 × 10⁻³ m K) and use your results to explain why Betelgeuse appears red while Rigel appears blue-white. (4 marks)
+<!-- id: physics12a1-wien-33 -->
+
+*Written answer*
+
+**Q163.** The spectrum of a blackbody has its peak at 1.2 µm. (a) Calculate its temperature (constant 2.898 × 10⁻³ m K). (b) The temperature is then raised by 1000 K. Calculate the new peak wavelength. (3 marks)
+<!-- id: physics12a1-wien-34 -->
+
+*Written answer*
+
+**Q164.** Calculate the peak wavelength of the thermal radiation emitted by boiling water at 100 °C (constant 2.898 × 10⁻³ m K) and state the region of the electromagnetic spectrum in which it lies. (3 marks)
+<!-- id: physics12a1-wien-35 -->
+
+*Written answer*
+
+**Q165.** Define a blackbody and explain why a small hole in the wall of a closed, hollow cavity behaves very nearly like one. (3 marks)
+<!-- id: physics12a1-wien-36 -->
+
+*Written answer*
+
+**Q166.** A thermal imaging camera views a cup of tea at 80 °C in a room at 20 °C. Calculate the peak wavelength emitted by the tea (constant 2.898 × 10⁻³ m K) and explain why the cup appears brighter in the image than the room. (4 marks)
+<!-- id: physics12a1-wien-37 -->
 
 *Written answer*
 
 #### Climate and the enhanced greenhouse effect
 
-**Q41.** Which of the following is a greenhouse gas?
+**Q167.** Which of the following is a greenhouse gas?
 <!-- id: physics12a1-gh-1 -->
 
 - A. methane, CH₄
@@ -301,7 +1192,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. nitrogen, N₂
 - D. oxygen, O₂
 
-**Q42.** Which statement best describes the natural greenhouse effect?
+**Q168.** Which statement best describes the natural greenhouse effect?
 <!-- id: physics12a1-gh-2 -->
 
 - A. Greenhouse gases absorb visible light from the Sun and reflect it back to space
@@ -309,7 +1200,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Greenhouse gases block all radiation from escaping the atmosphere
 - D. Greenhouse gases trap warm air near the ground and stop convection
 
-**Q43.** The enhanced greenhouse effect is the
+**Q169.** The enhanced greenhouse effect is the
 <!-- id: physics12a1-gh-3 -->
 
 - A. cooling caused by volcanic eruptions
@@ -317,7 +1208,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. natural warming caused by water vapour in the atmosphere
 - D. additional warming caused by increased concentrations of greenhouse gases from human activity
 
-**Q44.** As Arctic sea ice melts, the Earth's albedo in that region decreases. The most likely consequence is
+**Q170.** As Arctic sea ice melts, the Earth's albedo in that region decreases. The most likely consequence is
 <!-- id: physics12a1-gh-4 -->
 
 - A. more sunlight absorbed, which warms the region further (a positive feedback)
@@ -325,7 +1216,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. greater cloud formation that cancels the effect entirely
 - D. more sunlight reflected, which cools the region
 
-**Q45.** If the average rate at which the Earth absorbs solar energy exceeds the average rate at which it radiates energy to space, the Earth's average temperature will
+**Q171.** If the average rate at which the Earth absorbs solar energy exceeds the average rate at which it radiates energy to space, the Earth's average temperature will
 <!-- id: physics12a1-gh-5 -->
 
 - A. fall to absolute zero
@@ -333,18 +1224,220 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. increase until the rates are equal again
 - D. remain unchanged
 
-**Q46.** Distinguish between the natural greenhouse effect and the enhanced greenhouse effect, and state why the natural effect is important to life on Earth. (3 marks)
+**Q172.** Distinguish between the natural greenhouse effect and the enhanced greenhouse effect, and state why the natural effect is important to life on Earth. (3 marks)
 <!-- id: physics12a1-gh-6 -->
 
 *Written answer*
 
-**Q47.** Explain two ways global warming leads to a rise in sea level. (3 marks)
+**Q173.** Explain two ways global warming leads to a rise in sea level. (3 marks)
 <!-- id: physics12a1-gh-7 -->
 
 *Written answer*
 
-**Q48.** The Sun's radiation peaks at about 500 nm, whereas the Earth's emitted radiation peaks at about 10 µm. Explain how this difference helps account for the greenhouse effect. (3 marks)
+**Q174.** The Sun's radiation peaks at about 500 nm, whereas the Earth's emitted radiation peaks at about 10 µm. Explain how this difference helps account for the greenhouse effect. (3 marks)
 <!-- id: physics12a1-gh-8 -->
+
+*Written answer*
+
+**Q175.** Which gas makes the largest contribution to the natural greenhouse effect?
+<!-- id: physics12a1-gh-9 -->
+
+- A. water vapour, H₂O
+- B. carbon dioxide, CO₂
+- C. methane, CH₄
+- D. ozone, O₃
+
+**Q176.** Carbon dioxide is a greenhouse gas but nitrogen is not. The main reason is that
+<!-- id: physics12a1-gh-10 -->
+
+- A. carbon dioxide is denser than nitrogen and sinks to the surface
+- B. the vibration frequencies of carbon dioxide molecules match infrared frequencies, so they absorb it, whereas N₂ does not
+- C. carbon dioxide absorbs visible light from the Sun but nitrogen does not
+- D. carbon dioxide is present in much larger quantities than nitrogen
+
+**Q177.** The albedo of a surface is defined as the
+<!-- id: physics12a1-gh-11 -->
+
+- A. fraction of incident radiation that is absorbed by the surface
+- B. temperature of the surface divided by the temperature of the Sun
+- C. fraction of incident radiation that is reflected by the surface
+- D. power emitted by the surface per unit area
+
+**Q178.** Wien's law gives λ_max = 2.898 × 10⁻³ m K ÷ T. The Earth's surface has an average temperature of about 288 K. The wavelength at which it emits most strongly is closest to
+<!-- id: physics12a1-gh-12 -->
+
+- A. 0.10 µm
+- B. 1.0 µm
+- C. 100 µm
+- D. 10 µm
+
+**Q179.** The power radiated per unit area by a surface is proportional to T⁴, where T is its absolute temperature. If the absolute temperature of a surface is doubled, the power it radiates per unit area increases by a factor of
+<!-- id: physics12a1-gh-13 -->
+
+- A. 16
+- B. 2
+- C. 4
+- D. 8
+
+**Q180.** Which human activity is a major source of atmospheric methane?
+<!-- id: physics12a1-gh-14 -->
+
+- A. cement production
+- B. raising livestock such as cattle and sheep
+- C. burning of hydrogen fuel
+- D. use of solar panels
+
+**Q181.** Scientists can estimate carbon dioxide concentrations from hundreds of thousands of years ago by analysing
+<!-- id: physics12a1-gh-15 -->
+
+- A. the colour of the sea ice at the poles
+- B. the thickness of the current Antarctic ice shelves only
+- C. air bubbles trapped in layers of ice cores
+- D. the number of days with snowfall each year
+
+**Q182.** Which of the following is an example of a positive feedback in the climate system?
+<!-- id: physics12a1-gh-16 -->
+
+- A. Warmer air holds more water vapour, which forms clouds that cool the surface to exactly cancel the warming
+- B. Increased plant growth removes CO₂ and cools the Earth
+- C. Increased evaporation causes more rainfall that cools the oceans
+- D. Warmer oceans dissolve less CO₂, so more CO₂ stays in the atmosphere and causes further warming
+
+**Q183.** As the Earth warms, more water evaporates into the atmosphere. Because water vapour is a greenhouse gas, this process
+<!-- id: physics12a1-gh-17 -->
+
+- A. amplifies the warming, acting as a positive feedback
+- B. reduces the warming, acting as a negative feedback
+- C. has no effect on temperature because water vapour is a natural gas
+- D. only affects the albedo of the polar regions
+
+**Q184.** Increased atmospheric CO₂ also affects the oceans. When CO₂ dissolves in seawater, the ocean becomes
+<!-- id: physics12a1-gh-18 -->
+
+- A. more alkaline, because carbon dioxide is a base
+- B. more acidic, because carbonic acid forms
+- C. warmer by the energy released as the gas dissolves
+- D. less dense, so the sea level falls
+
+**Q185.** The solar constant (intensity of sunlight at the top of the atmosphere, facing the Sun) is about 1361 W m⁻². Sunlight is intercepted by the Earth's cross-sectional disc, of area πR², but spread over the whole sphere, of area 4πR². The average incident intensity over the whole Earth is closest to
+<!-- id: physics12a1-gh-19 -->
+
+- A. 1361 W m⁻²
+- B. 680 W m⁻²
+- C. 340 W m⁻²
+- D. 1070 W m⁻²
+
+**Q186.** The Earth's average incident solar intensity is about 340 W m⁻² and its average albedo is 0.30. The average intensity absorbed by the Earth–atmosphere system is closest to
+<!-- id: physics12a1-gh-20 -->
+
+- A. 340 W m⁻²
+- B. 102 W m⁻²
+- C. 30 W m⁻²
+- D. 238 W m⁻²
+
+**Q187.** The volume of water in a layer of ocean increases by a fraction of 2.0 × 10⁻⁴ for each 1 K rise in temperature. A 1000 m deep layer covering a fixed area warms uniformly by 0.50 K. The increase in the height of the sea surface is closest to
+<!-- id: physics12a1-gh-21 -->
+
+- A. 0.10 m
+- B. 0.20 m
+- C. 1.0 m
+- D. 0.010 m
+
+**Q188.** Satellite measurements show the Earth absorbs about 0.80 W m⁻² more than it radiates to space, averaged over its surface of area 5.1 × 10¹⁴ m². The net rate at which energy is being gained is closest to
+<!-- id: physics12a1-gh-22 -->
+
+- A. 4.1 × 10¹³ W
+- B. 4.1 × 10¹⁴ W
+- C. 6.4 × 10¹⁴ W
+- D. 1.6 × 10¹⁵ W
+
+**Q189.** Thawing of Arctic permafrost releases trapped methane and carbon dioxide. Which statement about this process is correct?
+<!-- id: physics12a1-gh-23 -->
+
+- A. It is a negative feedback because it removes greenhouse gases from the air
+- B. It is not a feedback because humans did not release the gases directly
+- C. It is a positive feedback because warming releases greenhouse gases that cause further warming
+- D. It has no effect because methane does not absorb infrared radiation
+
+**Q190.** Large volcanic eruptions can lower global average temperatures for a year or two. This is mainly because
+<!-- id: physics12a1-gh-24 -->
+
+- A. volcanoes release large amounts of water vapour that absorbs infrared
+- B. the heat of the lava absorbs energy from the atmosphere
+- C. ash and sulfate aerosols in the upper atmosphere absorb all infrared from the Earth
+- D. aerosols reflect incoming sunlight back to space, increasing the albedo
+
+**Q191.** The pre-industrial atmospheric concentration of carbon dioxide was about 280 ppm. This means that in every
+<!-- id: physics12a1-gh-25 -->
+
+- A. 1 000 000 molecules of air, about 280 are CO₂
+- B. 1000 molecules of air, about 280 are CO₂
+- C. 100 molecules of air, about 280 are CO₂
+- D. 1 000 000 000 molecules of air, about 280 are CO₂
+
+**Q192.** Which of the following surfaces has the highest albedo?
+<!-- id: physics12a1-gh-26 -->
+
+- A. open ocean water
+- B. fresh snow
+- C. dark forest
+- D. bare dark soil
+
+**Q193.** Which statement correctly distinguishes weather from climate?
+<!-- id: physics12a1-gh-27 -->
+
+- A. Weather refers to the average temperature of the whole Earth, and climate to a single region
+- B. Climate describes conditions only in the polar regions
+- C. Climate is the average of weather conditions over a long period, typically decades, whereas weather is the state of the atmosphere over a short period
+- D. Weather and climate are the same thing measured in different units
+
+**Q194.** Describe how burning fossil fuels contributes to the enhanced greenhouse effect. (2 marks)
+<!-- id: physics12a1-gh-28 -->
+
+*Written answer*
+
+**Q195.** A planet's surface has an average temperature of 330 K. Use Wien's law, λ_max = 2.898 × 10⁻³ m K ÷ T, to calculate the wavelength at which the surface emits most strongly, and state the region of the electromagnetic spectrum. (2 marks)
+<!-- id: physics12a1-gh-29 -->
+
+*Written answer*
+
+**Q196.** Explain how ice cores provide evidence of past atmospheric carbon dioxide concentrations and past temperatures. (3 marks)
+<!-- id: physics12a1-gh-30 -->
+
+*Written answer*
+
+**Q197.** Explain what is meant by a positive feedback in the climate system, using the thawing of permafrost as an example. (3 marks)
+<!-- id: physics12a1-gh-31 -->
+
+*Written answer*
+
+**Q198.** Using the idea of energy balance, explain why an increase in the concentration of atmospheric CO₂ leads to a rise in the Earth's average surface temperature. (4 marks)
+<!-- id: physics12a1-gh-32 -->
+
+*Written answer*
+
+**Q199.** A 800 m deep layer of ocean covering a fixed area warms uniformly by 0.80 K. The volume of water increases by a fraction of 2.1 × 10⁻⁴ for each 1 K rise in temperature. Calculate the rise in sea level due to thermal expansion of this layer. (3 marks)
+<!-- id: physics12a1-gh-33 -->
+
+*Written answer*
+
+**Q200.** The Earth absorbs 0.60 W m⁻² more energy than it radiates, averaged over its surface of area 5.1 × 10¹⁴ m². Calculate the extra energy gained by the Earth in one year (3.15 × 10⁷ s). (3 marks)
+<!-- id: physics12a1-gh-34 -->
+
+*Written answer*
+
+**Q201.** Explain how the increase in atmospheric CO₂ affects the chemistry of the oceans, and why this is a concern. (2 marks)
+<!-- id: physics12a1-gh-35 -->
+
+*Written answer*
+
+**Q202.** Contrast the way a large volcanic eruption and increased CO₂ emissions each affect the Earth's average temperature. (3 marks)
+<!-- id: physics12a1-gh-36 -->
+
+*Written answer*
+
+**Q203.** A student argues that an unusually cold week in winter proves that global warming is not occurring. Use the terms weather and climate to evaluate this claim. (3 marks)
+<!-- id: physics12a1-gh-37 -->
 
 *Written answer*
 
@@ -352,7 +1445,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 #### Wave model of light
 
-**Q49.** Light has a frequency of 6.00 × 10¹⁴ Hz in a vacuum. Its wavelength is (c = 3.00 × 10⁸ m s⁻¹)
+**Q204.** Light has a frequency of 6.00 × 10¹⁴ Hz in a vacuum. Its wavelength is (c = 3.00 × 10⁸ m s⁻¹)
 <!-- id: physics12a1-wave-1 -->
 
 - A. 5.00 × 10⁻⁷ m
@@ -360,7 +1453,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 2.00 × 10⁻⁷ m
 - D. 2.00 × 10⁻⁶ m
 
-**Q50.** Diffraction of light as it passes through a single slit is most noticeable when
+**Q205.** Diffraction of light as it passes through a single slit is most noticeable when
 <!-- id: physics12a1-wave-2 -->
 
 - A. the slit is made of metal
@@ -368,7 +1461,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. the slit width is comparable to the wavelength
 - D. the light is white
 
-**Q51.** The fact that light can be polarised provides evidence that light is
+**Q206.** The fact that light can be polarised provides evidence that light is
 <!-- id: physics12a1-wave-3 -->
 
 - A. a transverse wave
@@ -376,7 +1469,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. a sound wave
 - D. a longitudinal wave
 
-**Q52.** Light passes from air into glass. Which of the following describes the changes in speed, wavelength and frequency?
+**Q207.** Light passes from air into glass. Which of the following describes the changes in speed, wavelength and frequency?
 <!-- id: physics12a1-wave-4 -->
 
 - A. speed unchanged, wavelength decreases, frequency increases
@@ -384,7 +1477,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. speed decreases, wavelength decreases, frequency unchanged
 - D. speed decreases, wavelength unchanged, frequency decreases
 
-**Q53.** Two coherent light waves meet at point P, having travelled paths that differ by 1.5 wavelengths. The interference at P is
+**Q208.** Two coherent light waves meet at point P, having travelled paths that differ by 1.5 wavelengths. The interference at P is
 <!-- id: physics12a1-wave-5 -->
 
 - A. constructive, giving a bright region
@@ -392,24 +1485,211 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. neither constructive nor destructive
 - D. constructive only if the light is polarised
 
-**Q54.** Light of wavelength 650 nm in air enters glass of refractive index 1.50. Calculate (a) the frequency of the light, (b) the speed of the light in the glass, and (c) the wavelength of the light in the glass. (c = 3.00 × 10⁸ m s⁻¹) (3 marks)
+**Q209.** Light of wavelength 650 nm in air enters glass of refractive index 1.50. Calculate (a) the frequency of the light, (b) the speed of the light in the glass, and (c) the wavelength of the light in the glass. (c = 3.00 × 10⁸ m s⁻¹) (3 marks)
 <!-- id: physics12a1-wave-6 -->
 
 *Written answer*
 
-**Q55.** Light passes through two polarising filters in turn. Describe what happens to the intensity of the transmitted light as the second filter is rotated through 90° from the position where its axis is parallel to the first, and explain why sound waves cannot be polarised. (3 marks)
+**Q210.** Light passes through two polarising filters in turn. Describe what happens to the intensity of the transmitted light as the second filter is rotated through 90° from the position where its axis is parallel to the first, and explain why sound waves cannot be polarised. (3 marks)
 <!-- id: physics12a1-wave-7 -->
 
 *Written answer*
 
-**Q56.** Explain why diffraction of light is not noticed when light passes through an ordinary doorway, but diffraction of sound is. Give approximate magnitudes in your answer. (3 marks)
+**Q211.** Explain why diffraction of light is not noticed when light passes through an ordinary doorway, but diffraction of sound is. Give approximate magnitudes in your answer. (3 marks)
 <!-- id: physics12a1-wave-8 -->
+
+*Written answer*
+
+**Q212.** Which statement correctly describes an electromagnetic wave such as light?
+<!-- id: physics12a1-wave-9 -->
+
+- A. It consists of oscillating electric and magnetic fields perpendicular to each other and to the direction of travel
+- B. It consists of an oscillating electric field only, parallel to the direction of travel
+- C. It consists of compressions and rarefactions of a medium
+- D. It can only travel through a material medium
+
+**Q213.** Which of the following regions of the electromagnetic spectrum has the longest wavelength?
+<!-- id: physics12a1-wave-10 -->
+
+- A. X-rays
+- B. Microwaves
+- C. Visible light
+- D. Ultraviolet
+
+**Q214.** Red light has a wavelength of 700 nm in a vacuum. Its frequency is (c = 3.00 × 10⁸ m s⁻¹)
+<!-- id: physics12a1-wave-11 -->
+
+- A. 2.10 × 10² Hz
+- B. 2.33 × 10⁻¹⁵ Hz
+- C. 4.29 × 10¹⁴ Hz
+- D. 4.29 × 10¹⁷ Hz
+
+**Q215.** The refractive index of diamond is 2.42. The speed of light in diamond is closest to (c = 3.00 × 10⁸ m s⁻¹)
+<!-- id: physics12a1-wave-12 -->
+
+- A. 7.26 × 10⁸ m s⁻¹
+- B. 2.42 × 10⁸ m s⁻¹
+- C. 3.00 × 10⁸ m s⁻¹
+- D. 1.24 × 10⁸ m s⁻¹
+
+**Q216.** Young's double-slit experiment is considered evidence for the wave model of light because it showed
+<!-- id: physics12a1-wave-13 -->
+
+- A. a pattern of alternating bright and dark fringes caused by interference
+- B. two bright bands directly behind the two slits
+- C. that light travels in straight lines
+- D. that light slows down in glass
+
+**Q217.** In a double-slit experiment the two slits are moved closer together, with everything else unchanged. The fringe spacing on the screen will
+<!-- id: physics12a1-wave-14 -->
+
+- A. decrease
+- B. increase
+- C. stay the same
+- D. increase only for the central fringe
+
+**Q218.** In a double-slit experiment, red light is replaced with blue light and nothing else is changed. The fringe spacing will
+<!-- id: physics12a1-wave-15 -->
+
+- A. increase, because blue light has a higher frequency
+- B. stay the same, because the slits are unchanged
+- C. decrease, because blue light has a shorter wavelength
+- D. disappear, because blue light cannot be diffracted
+
+**Q219.** Light of wavelength 600 nm passes through two slits 0.20 mm apart. The screen is 1.5 m away. The spacing between adjacent bright fringes is
+<!-- id: physics12a1-wave-16 -->
+
+- A. 4.5 × 10⁻⁶ m
+- B. 4.5 × 10⁻² m
+- C. 5.0 × 10² m
+- D. 4.5 × 10⁻³ m
+
+**Q220.** In a double-slit experiment, a dark fringe forms at a point on the screen because
+<!-- id: physics12a1-wave-17 -->
+
+- A. a crest from one slit arrives together with a trough from the other slit
+- B. light cannot reach that point from either slit
+- C. the light from the two slits is absorbed by the screen
+- D. a crest from one slit arrives together with a crest from the other slit
+
+**Q221.** Which statement best describes the single-slit diffraction pattern of monochromatic light?
+<!-- id: physics12a1-wave-18 -->
+
+- A. Equally bright fringes of equal width
+- B. A central bright maximum that is wider and brighter than the other maxima
+- C. A central dark band flanked by bright bands
+- D. Two bright bands directly in line with the slit edges
+
+**Q222.** A single slit is made narrower while the light source stays the same. The central bright region on the screen
+<!-- id: physics12a1-wave-19 -->
+
+- A. becomes narrower
+- B. does not change
+- C. becomes wider
+- D. becomes dimmer but keeps the same width
+
+**Q223.** Polarised light is light in which
+<!-- id: physics12a1-wave-20 -->
+
+- A. the wavelength has been reduced
+- B. the waves have all been made longitudinal
+- C. the frequency has been fixed at a single value
+- D. the oscillations of the electric field lie in a single plane
+
+**Q224.** Unpolarised light passes through a single ideal polarising filter. Compared with the incident light, the transmitted intensity is about
+<!-- id: physics12a1-wave-21 -->
+
+- A. one half
+- B. zero
+- C. the same
+- D. one quarter
+
+**Q225.** Two polarising filters are crossed at 90°. A third filter is placed between them with its axis at 45° to each. What happens to the light reaching the observer?
+<!-- id: physics12a1-wave-22 -->
+
+- A. No light is transmitted, because the first two filters are crossed
+- B. Some light is transmitted
+- C. All of the light is transmitted
+- D. The light becomes unpolarised again
+
+**Q226.** Polarising sunglasses reduce glare from a horizontal water surface. This works because reflected light is
+<!-- id: physics12a1-wave-23 -->
+
+- A. mostly of a single colour, which the lenses absorb
+- B. longitudinally polarised, which the lenses block
+- C. partially polarised mostly in the horizontal plane, and the lenses have a vertical transmission axis
+- D. unpolarised, and the lenses halve its intensity
+
+**Q227.** Two light sources are said to be coherent if they
+<!-- id: physics12a1-wave-24 -->
+
+- A. have the same intensity
+- B. are the same colour as seen by the eye
+- C. are placed close together
+- D. emit waves of the same frequency with a constant phase difference
+
+**Q228.** Two separate light globes placed next to each other do not produce a visible interference pattern because
+<!-- id: physics12a1-wave-25 -->
+
+- A. their light is not coherent, as the phase difference varies randomly
+- B. light from different sources never interferes
+- C. the wavelengths of the globes are too long
+- D. the light from globes is polarised
+
+**Q229.** Light of wavelength 532 nm in air enters water of refractive index 1.33. The wavelength in water is closest to
+<!-- id: physics12a1-wave-26 -->
+
+- A. 708 nm
+- B. 400 nm
+- C. 532 nm
+- D. 1.33 × 10² nm
+
+**Q230.** Visible light of different colours passes through the same narrow slit. Which colour is diffracted (spread) the most?
+<!-- id: physics12a1-wave-27 -->
+
+- A. Violet
+- B. Blue
+- C. Red
+- D. Green
+
+**Q231.** Define what is meant by coherent light sources, and explain why the two slits in Young's experiment must act as coherent sources. (2 marks)
+<!-- id: physics12a1-wave-28 -->
+
+*Written answer*
+
+**Q232.** Light of wavelength 550 nm passes through a double slit with a slit separation of 0.25 mm. A screen is placed 2.0 m from the slits. Calculate the spacing between adjacent bright fringes. (3 marks)
+<!-- id: physics12a1-wave-29 -->
+
+*Written answer*
+
+**Q233.** Explain how a double slit produces a pattern of bright and dark fringes on a screen. (3 marks)
+<!-- id: physics12a1-wave-30 -->
+
+*Written answer*
+
+**Q234.** Coherent light of wavelength 600 nm passes through two slits. At point P on the screen, the distances from the two slits differ by 2.4 × 10⁻⁶ m. Determine whether P is a bright or dark fringe, showing your working. (2 marks)
+<!-- id: physics12a1-wave-31 -->
+
+*Written answer*
+
+**Q235.** A radio station broadcasts at a frequency of 100 MHz. Calculate the wavelength of the radio waves, and explain why radio waves of this frequency diffract around buildings while visible light does not. (c = 3.00 × 10⁸ m s⁻¹) (3 marks)
+<!-- id: physics12a1-wave-32 -->
+
+*Written answer*
+
+**Q236.** A double-slit experiment is set up in air and then the whole apparatus is immersed in water without changing anything else. Describe and explain the change in the fringe spacing. (3 marks)
+<!-- id: physics12a1-wave-33 -->
+
+*Written answer*
+
+**Q237.** In a double-slit experiment the slit separation is 0.30 mm and the screen is 1.8 m from the slits. The spacing between adjacent bright fringes is measured to be 3.6 mm. Calculate the wavelength of the light. (3 marks)
+<!-- id: physics12a1-wave-34 -->
 
 *Written answer*
 
 #### The electromagnetic spectrum
 
-**Q57.** Which part of the electromagnetic spectrum has the highest frequency?
+**Q238.** Which part of the electromagnetic spectrum has the highest frequency?
 <!-- id: physics12a1-em-1 -->
 
 - A. X-rays
@@ -417,7 +1697,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. radio waves
 - D. ultraviolet light
 
-**Q58.** All electromagnetic waves travelling in a vacuum have the same
+**Q239.** All electromagnetic waves travelling in a vacuum have the same
 <!-- id: physics12a1-em-2 -->
 
 - A. frequency
@@ -425,7 +1705,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. speed
 - D. energy
 
-**Q59.** A radio station broadcasts at a frequency of 100 MHz. The wavelength of its waves in air is closest to
+**Q240.** A radio station broadcasts at a frequency of 100 MHz. The wavelength of its waves in air is closest to
 <!-- id: physics12a1-em-3 -->
 
 - A. 30 m
@@ -433,7 +1713,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 0.33 m
 - D. 3.00 m
 
-**Q60.** Which pairing of radiation and application is correct?
+**Q241.** Which pairing of radiation and application is correct?
 <!-- id: physics12a1-em-4 -->
 
 - A. radio waves: imaging fractured bones
@@ -441,7 +1721,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. ultraviolet: television remote controls
 - D. infrared: sterilising surgical instruments
 
-**Q61.** Light of wavelength 450 nm is in which region of the electromagnetic spectrum?
+**Q242.** Light of wavelength 450 nm is in which region of the electromagnetic spectrum?
 <!-- id: physics12a1-em-5 -->
 
 - A. microwave
@@ -449,24 +1729,202 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. visible
 - D. infrared
 
-**Q62.** (a) List the seven main regions of the electromagnetic spectrum in order of increasing frequency. (b) State how the frequency and wavelength of an electromagnetic wave are related. (3 marks)
+**Q243.** (a) List the seven main regions of the electromagnetic spectrum in order of increasing frequency. (b) State how the frequency and wavelength of an electromagnetic wave are related. (3 marks)
 <!-- id: physics12a1-em-6 -->
 
 *Written answer*
 
-**Q63.** An X-ray has a wavelength of 0.100 nm. (a) Calculate its frequency. (b) Calculate the time taken for light from the Sun to reach Earth, a distance of 1.50 × 10¹¹ m. (c = 3.00 × 10⁸ m s⁻¹) (3 marks)
+**Q244.** An X-ray has a wavelength of 0.100 nm. (a) Calculate its frequency. (b) Calculate the time taken for light from the Sun to reach Earth, a distance of 1.50 × 10¹¹ m. (c = 3.00 × 10⁸ m s⁻¹) (3 marks)
 <!-- id: physics12a1-em-7 -->
 
 *Written answer*
 
-**Q64.** Explain why ultraviolet radiation is more harmful to living tissue than visible light, and describe one way humans are protected from it. (3 marks)
+**Q245.** Explain why ultraviolet radiation is more harmful to living tissue than visible light, and describe one way humans are protected from it. (3 marks)
 <!-- id: physics12a1-em-8 -->
+
+*Written answer*
+
+**Q246.** Which region of the electromagnetic spectrum has the longest wavelengths?
+<!-- id: physics12a1-em-9 -->
+
+- A. gamma rays
+- B. radio waves
+- C. microwaves
+- D. infrared radiation
+
+**Q247.** Green light has a wavelength of 530 nm in a vacuum. Its frequency is closest to
+<!-- id: physics12a1-em-10 -->
+
+- A. 5.66 × 10¹⁴ Hz
+- B. 1.59 × 10² Hz
+- C. 1.77 × 10⁻¹⁵ Hz
+- D. 5.66 × 10⁶ Hz
+
+**Q248.** Microwave ovens heat food mainly because the microwaves are
+<!-- id: physics12a1-em-11 -->
+
+- A. reflected by the water molecules in the food
+- B. converted to infrared by the oven walls
+- C. absorbed by water molecules in the food, increasing their thermal energy
+- D. ionising the molecules in the food
+
+**Q249.** A thermal imaging camera forms an image of a person in complete darkness by detecting
+<!-- id: physics12a1-em-12 -->
+
+- A. visible light reflected from the person
+- B. ultraviolet radiation emitted by the person
+- C. radio waves emitted by the person
+- D. infrared radiation emitted by the person
+
+**Q250.** A microwave oven operates at a frequency of 2.45 GHz. The wavelength of its microwaves is closest to
+<!-- id: physics12a1-em-13 -->
+
+- A. 8.17 m
+- B. 0.122 m
+- C. 1.22 m
+- D. 7.35 × 10¹⁷ m
+
+**Q251.** The frequency of an electromagnetic wave travelling in a vacuum is doubled. Its wavelength
+<!-- id: physics12a1-em-14 -->
+
+- A. halves
+- B. doubles
+- C. is unchanged
+- D. quadruples
+
+**Q252.** Which of the following is NOT an electromagnetic wave?
+<!-- id: physics12a1-em-15 -->
+
+- A. infrared radiation
+- B. ultraviolet radiation
+- C. ultrasound
+- D. radio waves
+
+**Q253.** Electromagnetic waves are best described as
+<!-- id: physics12a1-em-16 -->
+
+- A. longitudinal vibrations of air particles
+- B. streams of charged particles
+- C. longitudinal waves of electric charge
+- D. transverse waves of oscillating electric and magnetic fields
+
+**Q254.** Light has a frequency of 6.00 × 10¹⁴ Hz. Its wavelength in a vacuum is
+<!-- id: physics12a1-em-17 -->
+
+- A. 5.00 × 10⁻⁷ m
+- B. 2.00 × 10⁶ m
+- C. 1.80 × 10²³ m
+- D. 5.00 × 10⁻⁶ m
+
+**Q255.** A radio signal is sent from the ground to a geostationary satellite 3.60 × 10⁷ m away. The time taken for the signal to reach the satellite is
+<!-- id: physics12a1-em-18 -->
+
+- A. 8.33 s
+- B. 1.08 × 10¹⁶ s
+- C. 0.120 s
+- D. 1.20 × 10⁻⁷ s
+
+**Q256.** Gamma rays are used in medicine mainly for
+<!-- id: physics12a1-em-19 -->
+
+- A. detecting forged banknotes
+- B. night-vision imaging
+- C. communicating with satellites
+- D. sterilising equipment and treating cancer
+
+**Q257.** Some banknotes carry ink that glows visibly under an ultraviolet lamp. This occurs because the ink
+<!-- id: physics12a1-em-20 -->
+
+- A. reflects the ultraviolet as infrared
+- B. absorbs ultraviolet and re-emits it as visible light
+- C. transmits ultraviolet without interacting with it
+- D. converts ultraviolet into X-rays
+
+**Q258.** Radiation with a wavelength of 10 μm lies in which region of the electromagnetic spectrum?
+<!-- id: physics12a1-em-21 -->
+
+- A. infrared
+- B. microwave
+- C. ultraviolet
+- D. visible
+
+**Q259.** Mobile phone networks transmit signals using mainly
+<!-- id: physics12a1-em-22 -->
+
+- A. ultraviolet light
+- B. infrared radiation
+- C. microwaves
+- D. gamma rays
+
+**Q260.** Which list is in order of increasing wavelength?
+<!-- id: physics12a1-em-23 -->
+
+- A. gamma rays, ultraviolet, infrared, radio waves
+- B. radio waves, infrared, ultraviolet, gamma rays
+- C. ultraviolet, gamma rays, radio waves, infrared
+- D. infrared, ultraviolet, radio waves, gamma rays
+
+**Q261.** Electromagnetic radiation with a frequency of 1.0 × 10¹⁰ Hz belongs to which region?
+<!-- id: physics12a1-em-24 -->
+
+- A. radio waves
+- B. microwaves
+- C. infrared radiation
+- D. visible light
+
+**Q262.** State two properties that all electromagnetic waves share in a vacuum, and state one property that differs between different regions of the spectrum. (3 marks)
+<!-- id: physics12a1-em-25 -->
+
+*Written answer*
+
+**Q263.** Describe how infrared radiation is produced by everyday objects and give one application that uses it. (2 marks)
+<!-- id: physics12a1-em-26 -->
+
+*Written answer*
+
+**Q264.** Distinguish between ionising and non-ionising electromagnetic radiation, naming one region of each type. (3 marks)
+<!-- id: physics12a1-em-27 -->
+
+*Written answer*
+
+**Q265.** Explain how an X-ray image of a broken arm is formed. (3 marks)
+<!-- id: physics12a1-em-28 -->
+
+*Written answer*
+
+**Q266.** A radar pulse is sent from an airport and its echo returns after 4.0 × 10⁻⁴ s. Calculate the distance to the aircraft. (c = 3.00 × 10⁸ m s⁻¹) (3 marks)
+<!-- id: physics12a1-em-29 -->
+
+*Written answer*
+
+**Q267.** Compare gamma rays and radio waves in terms of frequency, wavelength and photon energy. (3 marks)
+<!-- id: physics12a1-em-30 -->
+
+*Written answer*
+
+**Q268.** Give two uses of ultraviolet radiation and identify the property of ultraviolet that makes each use possible. (2 marks)
+<!-- id: physics12a1-em-31 -->
+
+*Written answer*
+
+**Q269.** The visible spectrum extends from about 400 nm (violet) to 700 nm (red). Calculate the frequency at each end and state which end has the higher frequency. (c = 3.00 × 10⁸ m s⁻¹) (4 marks)
+<!-- id: physics12a1-em-32 -->
+
+*Written answer*
+
+**Q270.** A student claims that radio waves travel faster than visible light because they are used to send signals over long distances. Evaluate this claim. (2 marks)
+<!-- id: physics12a1-em-33 -->
+
+*Written answer*
+
+**Q271.** A 5G signal uses a frequency of 28.0 GHz, while an older mobile signal uses 700 MHz. Calculate the wavelength of each. (c = 3.00 × 10⁸ m s⁻¹) (3 marks)
+<!-- id: physics12a1-em-34 -->
 
 *Written answer*
 
 #### Refraction and Snell's law
 
-**Q65.** A ray of light in air strikes a glass surface (n = 1.50) at 40° to the normal. The angle of refraction is closest to (n of air = 1.00)
+**Q272.** A ray of light in air strikes a glass surface (n = 1.50) at 40° to the normal. The angle of refraction is closest to (n of air = 1.00)
 <!-- id: physics12a1-ref-1 -->
 
 - A. 74.6°
@@ -474,7 +1932,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 59.0°
 - D. 25.4°
 
-**Q66.** The speed of light in a transparent liquid is 2.25 × 10⁸ m s⁻¹. The refractive index of the liquid is (c = 3.00 × 10⁸ m s⁻¹)
+**Q273.** The speed of light in a transparent liquid is 2.25 × 10⁸ m s⁻¹. The refractive index of the liquid is (c = 3.00 × 10⁸ m s⁻¹)
 <!-- id: physics12a1-ref-2 -->
 
 - A. 1.33
@@ -482,7 +1940,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 2.25
 - D. 0.75
 
-**Q67.** A ray of light travels from water into air at an oblique angle. The ray
+**Q274.** A ray of light travels from water into air at an oblique angle. The ray
 <!-- id: physics12a1-ref-3 -->
 
 - A. is always totally internally reflected
@@ -490,7 +1948,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. bends away from the normal
 - D. continues undeviated
 
-**Q68.** Total internal reflection can occur only when light
+**Q275.** Total internal reflection can occur only when light
 <!-- id: physics12a1-ref-4 -->
 
 - A. travels from a medium of lower refractive index to one of higher refractive index at any angle
@@ -498,7 +1956,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. strikes a surface along the normal
 - D. travels from air into glass above the critical angle
 
-**Q69.** The critical angle for light travelling from glass (n = 1.50) to air is closest to
+**Q276.** The critical angle for light travelling from glass (n = 1.50) to air is closest to
 <!-- id: physics12a1-ref-5 -->
 
 - A. 48.2°
@@ -506,24 +1964,220 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 33.7°
 - D. 41.8°
 
-**Q70.** A ray of light in air strikes the surface of water (n = 1.33) with an angle of incidence of 30.0°. (a) Calculate the angle of refraction. (b) Calculate the speed of light in the water. (c) State whether the ray bends towards or away from the normal. (c = 3.00 × 10⁸ m s⁻¹) (4 marks)
+**Q277.** A ray of light in air strikes the surface of water (n = 1.33) with an angle of incidence of 30.0°. (a) Calculate the angle of refraction. (b) Calculate the speed of light in the water. (c) State whether the ray bends towards or away from the normal. (c = 3.00 × 10⁸ m s⁻¹) (4 marks)
 <!-- id: physics12a1-ref-6 -->
 
 *Written answer*
 
-**Q71.** Diamond has a refractive index of 2.42. (a) Calculate the critical angle for a diamond–air boundary. (b) Explain why a cut diamond sparkles. (3 marks)
+**Q278.** Diamond has a refractive index of 2.42. (a) Calculate the critical angle for a diamond–air boundary. (b) Explain why a cut diamond sparkles. (3 marks)
 <!-- id: physics12a1-ref-7 -->
 
 *Written answer*
 
-**Q72.** A swimming pool appears shallower than its true depth when viewed from above. Explain this using refraction. (3 marks)
+**Q279.** A swimming pool appears shallower than its true depth when viewed from above. Explain this using refraction. (3 marks)
 <!-- id: physics12a1-ref-8 -->
+
+*Written answer*
+
+**Q280.** A ray of light in air strikes the surface of water (n = 1.33) at an angle of incidence of 45°. The angle of refraction is closest to
+<!-- id: physics12a1-ref-9 -->
+
+- A. 70.1°
+- B. 32.1°
+- C. 45.0°
+- D. 57.9°
+
+**Q281.** Light passes from air into glass. Which quantity does NOT change?
+<!-- id: physics12a1-ref-10 -->
+
+- A. Speed
+- B. Wavelength
+- C. Frequency
+- D. Direction of travel at an oblique angle of incidence
+
+**Q282.** Light of wavelength 600 nm in air enters glass of refractive index 1.50. Its wavelength in the glass is
+<!-- id: physics12a1-ref-11 -->
+
+- A. 900 nm
+- B. 600 nm
+- C. 500 nm
+- D. 400 nm
+
+**Q283.** Snell's law for light crossing a boundary from medium 1 to medium 2 is written as
+<!-- id: physics12a1-ref-12 -->
+
+- A. n₁ sin θ₁ = n₂ sin θ₂
+- B. n₁ sin θ₂ = n₂ sin θ₁
+- C. n₁ cos θ₁ = n₂ cos θ₂
+- D. θ₁/θ₂ = n₂/n₁
+
+**Q284.** A ray travels from water (n = 1.33) into glass (n = 1.50) with an angle of incidence of 30.0°. The angle of refraction is closest to
+<!-- id: physics12a1-ref-13 -->
+
+- A. 19.5°
+- B. 26.3°
+- C. 30.0°
+- D. 34.3°
+
+**Q285.** The critical angle for light travelling from water (n = 1.33) to air is closest to
+<!-- id: physics12a1-ref-14 -->
+
+- A. 41.2°
+- B. 53.1°
+- C. 48.8°
+- D. 36.9°
+
+**Q286.** Optical fibres can carry light over long distances with little loss because
+<!-- id: physics12a1-ref-15 -->
+
+- A. the core has a lower refractive index than the cladding
+- B. the cladding is coated with a reflective metal
+- C. light strikes the core–cladding boundary at angles smaller than the critical angle
+- D. the core has a higher refractive index than the cladding, so light is totally internally reflected
+
+**Q287.** When light inside a medium strikes a boundary at exactly the critical angle, the refracted ray travels
+<!-- id: physics12a1-ref-16 -->
+
+- A. along the boundary, at 90° to the normal
+- B. along the normal, at 0° to the normal
+- C. at the same angle as the incident ray
+- D. back into the original medium
+
+**Q288.** A ray in air strikes a transparent material at 60° to the normal and refracts at 35° to the normal. The refractive index of the material is closest to
+<!-- id: physics12a1-ref-17 -->
+
+- A. 1.05
+- B. 1.51
+- C. 1.71
+- D. 0.66
+
+**Q289.** When light travels from air into glass, which statement is correct?
+<!-- id: physics12a1-ref-18 -->
+
+- A. Speed increases and wavelength decreases
+- B. Speed decreases and frequency decreases
+- C. Speed and wavelength both decrease
+- D. Speed and wavelength both increase
+
+**Q290.** A ray bends towards the normal as it passes from medium X into medium Y. Which statement is correct?
+<!-- id: physics12a1-ref-19 -->
+
+- A. Light travels faster in Y than in X
+- B. Y has a lower refractive index than X
+- C. The frequency of the light is lower in Y than in X
+- D. Light travels slower in Y than in X
+
+**Q291.** A ray of light in air strikes a glass surface along the normal. The ray
+<!-- id: physics12a1-ref-20 -->
+
+- A. passes into the glass without changing direction but slows down
+- B. passes into the glass without changing direction or speed
+- C. bends towards the normal and slows down
+- D. is totally internally reflected
+
+**Q292.** The critical angle for light travelling from glass (n = 1.50) to water (n = 1.33) is closest to
+<!-- id: physics12a1-ref-21 -->
+
+- A. 48.8°
+- B. 62.5°
+- C. 41.8°
+- D. 27.5°
+
+**Q293.** A ray inside glass (n = 1.50) strikes a glass–air boundary at 30.0° to the normal. The angle of refraction in air is closest to
+<!-- id: physics12a1-ref-22 -->
+
+- A. 19.5°
+- B. 30.0°
+- C. 41.8°
+- D. 48.6°
+
+**Q294.** A ray of light passes through a parallel-sided glass block and emerges into air on the opposite face. The emergent ray is
+<!-- id: physics12a1-ref-23 -->
+
+- A. parallel to the incident ray but displaced sideways
+- B. parallel to the incident ray and in line with it
+- C. bent towards the normal compared with the incident ray
+- D. at the critical angle to the normal
+
+**Q295.** A ray inside glass (n = 1.50) strikes a glass–air boundary at 45° to the normal. What happens?
+<!-- id: physics12a1-ref-24 -->
+
+- A. It refracts into air at 45° to the normal
+- B. It is totally internally reflected, leaving at 45° to the normal
+- C. It is totally internally reflected, leaving at 41.8° to the normal
+- D. It refracts into air at about 71° to the normal
+
+**Q296.** No transparent material has a refractive index less than 1 because
+<!-- id: physics12a1-ref-25 -->
+
+- A. light would then bend away from the normal when entering it from air
+- B. the frequency would increase in the material
+- C. light travels fastest in a vacuum, so v is never greater than c
+- D. light cannot be refracted in gases
+
+**Q297.** A ray of light in air strikes a glass surface (n = 1.52) at an angle of incidence of 35.0°. Calculate the angle of refraction. (2 marks)
+<!-- id: physics12a1-ref-26 -->
+
+*Written answer*
+
+**Q298.** Yellow light of wavelength 589 nm in air enters glass of refractive index 1.52. Calculate (a) the speed of the light in the glass and (b) its wavelength in the glass. (c = 3.00 × 10⁸ m s⁻¹) (3 marks)
+<!-- id: physics12a1-ref-27 -->
+
+*Written answer*
+
+**Q299.** Explain, in terms of the speed of light, why a ray bends towards the normal when it passes from air into glass at an oblique angle. (2 marks)
+<!-- id: physics12a1-ref-28 -->
+
+*Written answer*
+
+**Q300.** A glass has a refractive index of 1.60. (a) Calculate the critical angle for a glass–air boundary. (b) State the two conditions needed for total internal reflection at this boundary. (3 marks)
+<!-- id: physics12a1-ref-29 -->
+
+*Written answer*
+
+**Q301.** A ray in water (n = 1.33) strikes a boundary with glass (n = 1.50) at an angle of incidence of 40.0°. Calculate the angle of refraction in the glass. (2 marks)
+<!-- id: physics12a1-ref-30 -->
+
+*Written answer*
+
+**Q302.** Describe an experiment, using a ray box and a rectangular glass block, to determine the refractive index of the glass. State what is measured and how the result is obtained. (4 marks)
+<!-- id: physics12a1-ref-31 -->
+
+*Written answer*
+
+**Q303.** Explain how an optical fibre transmits light along its length with very little loss through the sides. (3 marks)
+<!-- id: physics12a1-ref-32 -->
+
+*Written answer*
+
+**Q304.** A straw in a glass of water looks bent at the water surface when viewed from the side. Explain why. (2 marks)
+<!-- id: physics12a1-ref-33 -->
+
+*Written answer*
+
+**Q305.** A ray in glass (n = 1.50) strikes a glass–water (n = 1.33) boundary at an angle of incidence of 55.0°. (a) Calculate the angle of refraction in the water. (b) State, with a reason, whether total internal reflection occurs. (3 marks)
+<!-- id: physics12a1-ref-34 -->
+
+*Written answer*
+
+**Q306.** In an experiment, a ray in air strikes a clear plastic block. At an angle of incidence of 20.0° the angle of refraction is 13.0°, and at 40.0° the angle of refraction is 25.0°. Calculate the refractive index from each trial and state the average value. (3 marks)
+<!-- id: physics12a1-ref-35 -->
+
+*Written answer*
+
+**Q307.** Light of frequency 5.00 × 10¹⁴ Hz travels from air into water (n = 1.33). Determine (a) its wavelength in air, (b) its speed in water, (c) its wavelength in water and (d) its frequency in water. (c = 3.00 × 10⁸ m s⁻¹) (4 marks)
+<!-- id: physics12a1-ref-36 -->
+
+*Written answer*
+
+**Q308.** Explain why a glass prism splits white light into a spectrum of colours. (3 marks)
+<!-- id: physics12a1-ref-37 -->
 
 *Written answer*
 
 #### Total internal reflection and dispersion
 
-**Q73.** Light travels from glass (refractive index 1.50) into air. What is the critical angle for this boundary?
+**Q309.** Light travels from glass (refractive index 1.50) into air. What is the critical angle for this boundary?
 <!-- id: physics12a2-tir-1 -->
 
 - A. 48.2°
@@ -531,7 +2185,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 33.7°
 - D. 41.8°
 
-**Q74.** Which pair of conditions must BOTH be met for total internal reflection to occur at a boundary?
+**Q310.** Which pair of conditions must BOTH be met for total internal reflection to occur at a boundary?
 <!-- id: physics12a2-tir-2 -->
 
 - A. Light moves from a less dense to a more dense medium, and the angle of incidence is less than the critical angle
@@ -539,7 +2193,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Light moves from a more dense to a less dense medium, and the angle of incidence is less than the critical angle
 - D. Light moves from a less dense to a more dense medium, and the angle of incidence is greater than the critical angle
 
-**Q75.** White light passes through a glass prism and spreads into a spectrum. Violet light is deviated more than red light because, in glass,
+**Q311.** White light passes through a glass prism and spreads into a spectrum. Violet light is deviated more than red light because, in glass,
 <!-- id: physics12a2-tir-3 -->
 
 - A. glass has a higher refractive index for violet light than for red light
@@ -547,7 +2201,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. violet light has a lower frequency than red light
 - D. violet light travels faster than red light
 
-**Q76.** A light ray in air strikes the surface of water (n = 1.33) at an angle of incidence of 40°. What is the angle of refraction?
+**Q312.** A light ray in air strikes the surface of water (n = 1.33) at an angle of incidence of 40°. What is the angle of refraction?
 <!-- id: physics12a2-tir-4 -->
 
 - A. 30.1°
@@ -555,7 +2209,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 28.9°
 - D. 25.4°
 
-**Q77.** An optical fibre has a core of refractive index 1.48 surrounded by cladding of refractive index 1.46. The cladding has a lower refractive index so that
+**Q313.** An optical fibre has a core of refractive index 1.48 surrounded by cladding of refractive index 1.46. The cladding has a lower refractive index so that
 <!-- id: physics12a2-tir-5 -->
 
 - A. the light is dispersed into its colours along the fibre
@@ -563,17 +2217,17 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. light travels faster in the core than in the cladding
 - D. light is refracted out of the core and into the cladding
 
-**Q78.** The refractive index of diamond is 2.42. (a) Calculate the critical angle for a diamond-air boundary. (b) Explain why a cut diamond sparkles. (3 marks)
+**Q314.** The refractive index of diamond is 2.42. (a) Calculate the critical angle for a diamond-air boundary. (b) Explain why a cut diamond sparkles. (3 marks)
 <!-- id: physics12a2-tir-6 -->
 
 *Written answer*
 
-**Q79.** Light in glass (n = 1.52) strikes a glass-water (n = 1.33) boundary. (a) Calculate the critical angle. (b) State what happens to a ray with an angle of incidence of 55° and to a ray with an angle of incidence of 65°. (3 marks)
+**Q315.** Light in glass (n = 1.52) strikes a glass-water (n = 1.33) boundary. (a) Calculate the critical angle. (b) State what happens to a ray with an angle of incidence of 55° and to a ray with an angle of incidence of 65°. (3 marks)
 <!-- id: physics12a2-tir-7 -->
 
 *Written answer*
 
-**Q80.** Explain why a prism disperses white light into a spectrum, and why a rainbow shows red on the outer edge of the primary arc. (3 marks)
+**Q316.** Explain why a prism disperses white light into a spectrum, and why a rainbow shows red on the outer edge of the primary arc. (3 marks)
 <!-- id: physics12a2-tir-8 -->
 
 *Written answer*
@@ -582,7 +2236,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 #### Nuclear stability and isotopes
 
-**Q81.** Which statement correctly describes isotopes of an element?
+**Q317.** Which statement correctly describes isotopes of an element?
 <!-- id: physics12a2-nsi-1 -->
 
 - A. They have the same number of nucleons but different numbers of electrons
@@ -590,7 +2244,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. They have the same number of protons but different numbers of neutrons
 - D. They have the same mass number but different numbers of protons
 
-**Q82.** How many neutrons are in a nucleus of uranium-235 (atomic number 92)?
+**Q318.** How many neutrons are in a nucleus of uranium-235 (atomic number 92)?
 <!-- id: physics12a2-nsi-2 -->
 
 - A. 235
@@ -598,7 +2252,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 143
 - D. 92
 
-**Q83.** Protons in a nucleus repel each other electrostatically, yet most nuclei are stable. The main reason is
+**Q319.** Protons in a nucleus repel each other electrostatically, yet most nuclei are stable. The main reason is
 <!-- id: physics12a2-nsi-3 -->
 
 - A. the weak nuclear force, which binds protons to neutrons
@@ -606,7 +2260,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. the gravitational force between nucleons, which exceeds the electrostatic repulsion
 - D. the electrons orbiting the nucleus, which screen the repulsion
 
-**Q84.** For stable nuclei with a high atomic number, the ratio of neutrons to protons is
+**Q320.** For stable nuclei with a high atomic number, the ratio of neutrons to protons is
 <!-- id: physics12a2-nsi-4 -->
 
 - A. exactly one
@@ -614,7 +2268,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. greater than one
 - D. zero
 
-**Q85.** On a graph of binding energy per nucleon against mass number, which of these nuclei lies closest to the maximum?
+**Q321.** On a graph of binding energy per nucleon against mass number, which of these nuclei lies closest to the maximum?
 <!-- id: physics12a2-nsi-5 -->
 
 - A. Iron-56
@@ -622,24 +2276,24 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Hydrogen-2
 - D. Helium-4
 
-**Q86.** A helium-4 nucleus has a mass defect of 0.0304 u. Taking 1 u to be equivalent to 931.5 MeV, calculate (a) the binding energy of the nucleus and (b) the binding energy per nucleon. (3 marks)
+**Q322.** A helium-4 nucleus has a mass defect of 0.0304 u. Taking 1 u to be equivalent to 931.5 MeV, calculate (a) the binding energy of the nucleus and (b) the binding energy per nucleon. (3 marks)
 <!-- id: physics12a2-nsi-6 -->
 
 *Written answer*
 
-**Q87.** Carbon has isotopes ¹²C, ¹³C and ¹⁴C (Z = 6). (a) State the number of protons and neutrons in each isotope. (b) ¹⁴C is radioactive while ¹²C and ¹³C are stable. Suggest why. (3 marks)
+**Q323.** Carbon has isotopes ¹²C, ¹³C and ¹⁴C (Z = 6). (a) State the number of protons and neutrons in each isotope. (b) ¹⁴C is radioactive while ¹²C and ¹³C are stable. Suggest why. (3 marks)
 <!-- id: physics12a2-nsi-7 -->
 
 *Written answer*
 
-**Q88.** Explain why large stable nuclei contain more neutrons than protons. (3 marks)
+**Q324.** Explain why large stable nuclei contain more neutrons than protons. (3 marks)
 <!-- id: physics12a2-nsi-8 -->
 
 *Written answer*
 
 #### Alpha, beta and gamma radiation
 
-**Q89.** Which radiation is stopped by a sheet of paper?
+**Q325.** Which radiation is stopped by a sheet of paper?
 <!-- id: physics12a2-abg-1 -->
 
 - A. Gamma radiation
@@ -647,7 +2301,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Alpha radiation
 - D. Beta radiation
 
-**Q90.** Radium-226 (Z = 88) undergoes alpha decay. The daughter nucleus is
+**Q326.** Radium-226 (Z = 88) undergoes alpha decay. The daughter nucleus is
 <!-- id: physics12a2-abg-2 -->
 
 - A. radon-222 (Z = 86)
@@ -655,7 +2309,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. actinium-226 (Z = 89)
 - D. thorium-222 (Z = 90)
 
-**Q91.** Cobalt-60 (Z = 27) decays by beta-minus emission. The daughter nucleus has
+**Q327.** Cobalt-60 (Z = 27) decays by beta-minus emission. The daughter nucleus has
 <!-- id: physics12a2-abg-3 -->
 
 - A. A = 56 and Z = 25
@@ -663,7 +2317,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. A = 60 and Z = 26
 - D. A = 59 and Z = 27
 
-**Q92.** A nucleus emits a gamma ray. As a result, the nucleus
+**Q328.** A nucleus emits a gamma ray. As a result, the nucleus
 <!-- id: physics12a2-abg-4 -->
 
 - A. gains one proton and loses one neutron
@@ -671,7 +2325,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. changes its atomic number but not its mass number
 - D. loses two protons and two neutrons
 
-**Q93.** The count rate from an unknown source is measured through different absorbers. Paper has almost no effect, 3 mm of aluminium reduces the count to near background, and adding lead causes no further change. The source emits
+**Q329.** The count rate from an unknown source is measured through different absorbers. Paper has almost no effect, 3 mm of aluminium reduces the count to near background, and adding lead causes no further change. The source emits
 <!-- id: physics12a2-abg-5 -->
 
 - A. alpha and gamma radiation
@@ -679,24 +2333,193 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. gamma radiation only
 - D. beta radiation only
 
-**Q94.** Write nuclear equations for (a) the alpha decay of americium-241 (Z = 95) to neptunium (Z = 93) and (b) the beta-minus decay of carbon-14 (Z = 6) to nitrogen (Z = 7). Show the particle emitted in each. (3 marks)
+**Q330.** Write nuclear equations for (a) the alpha decay of americium-241 (Z = 95) to neptunium (Z = 93) and (b) the beta-minus decay of carbon-14 (Z = 6) to nitrogen (Z = 7). Show the particle emitted in each. (3 marks)
 <!-- id: physics12a2-abg-6 -->
 
 *Written answer*
 
-**Q95.** Compare alpha, beta and gamma radiation in terms of their ionising ability and their penetrating power. (3 marks)
+**Q331.** Compare alpha, beta and gamma radiation in terms of their ionising ability and their penetrating power. (3 marks)
 <!-- id: physics12a2-abg-7 -->
 
 *Written answer*
 
-**Q96.** Smoke detectors commonly contain a small americium-241 source that emits alpha particles. Explain why an alpha emitter is suitable for this use and why it is safe in normal use. (3 marks)
+**Q332.** Smoke detectors commonly contain a small americium-241 source that emits alpha particles. Explain why an alpha emitter is suitable for this use and why it is safe in normal use. (3 marks)
 <!-- id: physics12a2-abg-8 -->
+
+*Written answer*
+
+**Q333.** An alpha particle is identical to
+<!-- id: physics12a2-abg-9 -->
+
+- A. a helium-4 nucleus
+- B. a hydrogen nucleus
+- C. a fast-moving electron
+- D. a high-energy photon
+
+**Q334.** A beta-minus particle is
+<!-- id: physics12a2-abg-10 -->
+
+- A. a helium nucleus
+- B. a high-speed electron emitted from the nucleus
+- C. an electromagnetic wave from the nucleus
+- D. a proton emitted from the nucleus
+
+**Q335.** Gamma radiation consists of
+<!-- id: physics12a2-abg-11 -->
+
+- A. fast-moving neutrons
+- B. helium nuclei
+- C. high-energy electromagnetic radiation
+- D. electrons and positrons
+
+**Q336.** Uranium-238 (Z = 92) decays by alpha emission. The daughter nucleus is
+<!-- id: physics12a2-abg-12 -->
+
+- A. thorium-238 (Z = 90)
+- B. protactinium-234 (Z = 91)
+- C. uranium-234 (Z = 90)
+- D. thorium-234 (Z = 90)
+
+**Q337.** Strontium-90 (Z = 38) decays by beta-minus emission. The daughter nucleus is
+<!-- id: physics12a2-abg-13 -->
+
+- A. yttrium-90 (Z = 39)
+- B. strontium-90 (Z = 39)
+- C. rubidium-90 (Z = 37)
+- D. krypton-86 (Z = 36)
+
+**Q338.** Compared with an alpha particle, a beta-minus particle has
+<!-- id: physics12a2-abg-14 -->
+
+- A. the same charge but a smaller mass
+- B. the opposite sign of charge and a much smaller mass
+- C. the same sign of charge and a larger mass
+- D. no charge and a much smaller mass
+
+**Q339.** A beam of alpha, beta and gamma radiation passes through a strong magnetic field. Which radiation continues in a straight line?
+<!-- id: physics12a2-abg-15 -->
+
+- A. Alpha radiation
+- B. Beta radiation
+- C. Gamma radiation
+- D. Alpha and beta radiation
+
+**Q340.** Fluorine-18 (Z = 9) decays by beta-plus emission. The daughter nucleus is
+<!-- id: physics12a2-abg-16 -->
+
+- A. neon-18 (Z = 10)
+- B. fluorine-17 (Z = 9)
+- C. oxygen-17 (Z = 8)
+- D. oxygen-18 (Z = 8)
+
+**Q341.** An alpha-emitting source is most hazardous to a person when it is
+<!-- id: physics12a2-abg-17 -->
+
+- A. inhaled or swallowed
+- B. held 1 m away
+- C. behind a sheet of paper
+- D. covered by a layer of clothing
+
+**Q342.** Which material is most effective at reducing the intensity of gamma radiation?
+<!-- id: physics12a2-abg-18 -->
+
+- A. A sheet of paper
+- B. A thick block of lead
+- C. A thin sheet of aluminium foil
+- D. A few centimetres of air
+
+**Q343.** When a nucleus emits an alpha particle, its neutron number
+<!-- id: physics12a2-abg-19 -->
+
+- A. increases by 2
+- B. decreases by 4
+- C. stays the same
+- D. decreases by 2
+
+**Q344.** During beta-minus decay, the change inside the nucleus is that
+<!-- id: physics12a2-abg-20 -->
+
+- A. a neutron changes into a proton
+- B. a proton changes into a neutron
+- C. two protons and two neutrons are ejected
+- D. a neutron is ejected from the nucleus
+
+**Q345.** Gamma radiation is often emitted immediately after an alpha or beta decay because
+<!-- id: physics12a2-abg-21 -->
+
+- A. the nucleus has gained extra protons
+- B. the daughter nucleus is left in an excited state
+- C. the atom has too many electrons
+- D. the alpha or beta particle has been absorbed
+
+**Q346.** Alpha particles are more strongly ionising than beta particles mainly because they
+<!-- id: physics12a2-abg-22 -->
+
+- A. travel much faster
+- B. have no charge
+- C. have a larger charge and move more slowly
+- D. have a smaller mass
+
+**Q347.** A factory monitors the thickness of paper as it is rolled by placing a radioactive source on one side and a detector on the other. The most suitable source is
+<!-- id: physics12a2-abg-23 -->
+
+- A. an alpha emitter, because it is the most ionising
+- B. a gamma emitter, because it is the most penetrating
+- C. a source with a very long half-life only
+- D. a beta emitter, because the count rate changes with small changes in thickness
+
+**Q348.** Thorium-232 (Z = 90) undergoes one alpha decay followed by two beta-minus decays. The final nucleus has
+<!-- id: physics12a2-abg-24 -->
+
+- A. A = 228 and Z = 90
+- B. A = 228 and Z = 88
+- C. A = 230 and Z = 90
+- D. A = 232 and Z = 92
+
+**Q349.** The antineutrino is included in the equation for beta-minus decay because
+<!-- id: physics12a2-abg-25 -->
+
+- A. it carries away the proton's charge
+- B. it allows energy and momentum to be conserved
+- C. it is needed to balance the mass number
+- D. it is the particle that changes into a proton
+
+**Q350.** An electric field is applied between a positive plate and a negative plate while alpha particles pass between them. The alpha particles are deflected
+<!-- id: physics12a2-abg-26 -->
+
+- A. toward the positive plate
+- B. in a straight line
+- C. toward the negative plate
+- D. in a circle around the nucleus
+
+**Q351.** Describe how a sheet of paper, a sheet of aluminium and a block of lead, together with a radiation detector, could be used to identify whether a source emits alpha, beta or gamma radiation. (3 marks)
+<!-- id: physics12a2-abg-27 -->
+
+*Written answer*
+
+**Q352.** Explain why alpha radiation is highly ionising but has low penetrating power, whereas gamma radiation is weakly ionising but highly penetrating. (3 marks)
+<!-- id: physics12a2-abg-28 -->
+
+*Written answer*
+
+**Q353.** Radon-222 (Z = 86) decays to polonium (Z = 84) by emitting an alpha particle. Write the nuclear equation. (1 mark)
+<!-- id: physics12a2-abg-29 -->
+
+*Written answer*
+
+**Q354.** A narrow beam containing alpha, beta-minus and gamma radiation passes through a uniform magnetic field. Describe how each type of radiation behaves. (3 marks)
+<!-- id: physics12a2-abg-30 -->
+
+*Written answer*
+
+**Q355.** Bismuth-214 (Z = 83) undergoes beta-minus decay to polonium, and the polonium nucleus then undergoes alpha decay to lead. Write the nuclear equation for each decay, identifying the daughter nuclei. (4 marks)
+<!-- id: physics12a2-abg-31 -->
 
 *Written answer*
 
 #### Half-life and activity
 
-**Q97.** A sample of a radioisotope contains 80 g of the isotope. The half-life is 6.0 hours. How much of the isotope remains after 24 hours?
+**Q356.** A sample of a radioisotope contains 80 g of the isotope. The half-life is 6.0 hours. How much of the isotope remains after 24 hours?
 <!-- id: physics12a2-hla-1 -->
 
 - A. 5.0 g
@@ -704,7 +2527,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 20 g
 - D. 10 g
 
-**Q98.** The half-life of a radioisotope is best defined as the time taken for
+**Q357.** The half-life of a radioisotope is best defined as the time taken for
 <!-- id: physics12a2-hla-2 -->
 
 - A. all the nuclei in a sample to decay
@@ -712,7 +2535,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. a single nucleus to have a 50% chance of decaying twice
 - D. the mass of the sample to halve because it loses half its protons
 
-**Q99.** The activity of a sample falls from 1200 Bq to 150 Bq in 15 days. The half-life is
+**Q358.** The activity of a sample falls from 1200 Bq to 150 Bq in 15 days. The half-life is
 <!-- id: physics12a2-hla-3 -->
 
 - A. 7.5 days
@@ -720,7 +2543,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 2.5 days
 - D. 5.0 days
 
-**Q100.** An activity of 1 becquerel (Bq) means
+**Q359.** An activity of 1 becquerel (Bq) means
 <!-- id: physics12a2-hla-4 -->
 
 - A. 1 nucleus decays per second
@@ -728,7 +2551,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 1 nucleus decays per day
 - D. 1 gram of the material decays per second
 
-**Q101.** Which statement about radioactive decay of a large sample of identical nuclei is correct?
+**Q360.** Which statement about radioactive decay of a large sample of identical nuclei is correct?
 <!-- id: physics12a2-hla-5 -->
 
 - A. Heating the sample shortens the half-life
@@ -736,24 +2559,24 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. It is impossible to predict when any one nucleus will decay, but the fraction decaying in a given time is predictable
 - D. Nuclei that have survived longest are most likely to decay next
 
-**Q102.** A hospital sample of iodine-131 (half-life 8.0 days) has an initial activity of 64 MBq. Calculate (a) the activity after 24 days and (b) the time for the activity to fall to 2.0 MBq. (3 marks)
+**Q361.** A hospital sample of iodine-131 (half-life 8.0 days) has an initial activity of 64 MBq. Calculate (a) the activity after 24 days and (b) the time for the activity to fall to 2.0 MBq. (3 marks)
 <!-- id: physics12a2-hla-6 -->
 
 *Written answer*
 
-**Q103.** A wooden artefact has a carbon-14 activity of 25% of that of living wood. The half-life of carbon-14 is 5730 years. Estimate the age of the artefact and state one assumption made. (3 marks)
+**Q362.** A wooden artefact has a carbon-14 activity of 25% of that of living wood. The half-life of carbon-14 is 5730 years. Estimate the age of the artefact and state one assumption made. (3 marks)
 <!-- id: physics12a2-hla-7 -->
 
 *Written answer*
 
-**Q104.** Technetium-99m (half-life 6.0 hours) is used as a medical tracer. (a) What fraction of the initial activity remains after 24 hours? (b) Explain why a half-life of this length is suitable for a diagnostic tracer. (3 marks)
+**Q363.** Technetium-99m (half-life 6.0 hours) is used as a medical tracer. (a) What fraction of the initial activity remains after 24 hours? (b) Explain why a half-life of this length is suitable for a diagnostic tracer. (3 marks)
 <!-- id: physics12a2-hla-8 -->
 
 *Written answer*
 
 #### Nuclear fission and fusion
 
-**Q105.** Which statement best describes nuclear fission?
+**Q364.** Which statement best describes nuclear fission?
 <!-- id: physics12a2-nff-1 -->
 
 - A. A neutron changes into a proton inside a nucleus
@@ -761,7 +2584,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. A heavy nucleus splits into two smaller nuclei, usually after absorbing a neutron
 - D. A nucleus emits an alpha particle spontaneously
 
-**Q106.** Nuclear fusion of hydrogen isotopes in a reactor needs extremely high temperatures because
+**Q365.** Nuclear fusion of hydrogen isotopes in a reactor needs extremely high temperatures because
 <!-- id: physics12a2-nff-2 -->
 
 - A. the neutrons must be slowed to thermal speeds
@@ -769,7 +2592,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. gamma rays are needed to split the nuclei first
 - D. the nuclei must have enough kinetic energy to overcome their electrostatic repulsion and get close enough for the strong force to act
 
-**Q107.** Energy is released in both fission of uranium-235 and fusion of hydrogen-2 and hydrogen-3 because
+**Q366.** Energy is released in both fission of uranium-235 and fusion of hydrogen-2 and hydrogen-3 because
 <!-- id: physics12a2-nff-3 -->
 
 - A. the products have a greater total mass than the reactants
@@ -777,7 +2600,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. the products have a greater binding energy per nucleon than the reactants
 - D. the number of nucleons decreases
 
-**Q108.** The role of control rods in a fission reactor is to
+**Q367.** The role of control rods in a fission reactor is to
 <!-- id: physics12a2-nff-4 -->
 
 - A. slow neutrons so they can cause fission
@@ -785,7 +2608,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. transfer thermal energy to the turbines
 - D. supply neutrons to start the reaction
 
-**Q109.** A fission reactor is operating at a steady power output. On average, how many neutrons released by each fission go on to cause another fission?
+**Q368.** A fission reactor is operating at a steady power output. On average, how many neutrons released by each fission go on to cause another fission?
 <!-- id: physics12a2-nff-5 -->
 
 - A. None
@@ -793,24 +2616,24 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Exactly one
 - D. Two to three
 
-**Q110.** In one fission of a uranium-235 nucleus the total mass decreases by 0.20 u. (1 u = 931.5 MeV; 1 eV = 1.60 × 10⁻¹⁹ J.) Calculate the energy released (a) in MeV and (b) in joules. (3 marks)
+**Q369.** In one fission of a uranium-235 nucleus the total mass decreases by 0.20 u. (1 u = 931.5 MeV; 1 eV = 1.60 × 10⁻¹⁹ J.) Calculate the energy released (a) in MeV and (b) in joules. (3 marks)
 <!-- id: physics12a2-nff-6 -->
 
 *Written answer*
 
-**Q111.** Compare nuclear fission and nuclear fusion in terms of the nuclei involved, the conditions required and the waste produced. (3 marks)
+**Q370.** Compare nuclear fission and nuclear fusion in terms of the nuclei involved, the conditions required and the waste produced. (3 marks)
 <!-- id: physics12a2-nff-7 -->
 
 *Written answer*
 
-**Q112.** Explain how a chain reaction is sustained in a fission reactor, and how it is kept under control. (3 marks)
+**Q371.** Explain how a chain reaction is sustained in a fission reactor, and how it is kept under control. (3 marks)
 <!-- id: physics12a2-nff-8 -->
 
 *Written answer*
 
 #### Radiation dose and biological effects
 
-**Q113.** The gray (Gy), the unit of absorbed dose, is equivalent to
+**Q372.** The gray (Gy), the unit of absorbed dose, is equivalent to
 <!-- id: physics12a2-rdb-1 -->
 
 - A. one sievert per second
@@ -818,7 +2641,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. one joule per kilogram
 - D. one joule per coulomb
 
-**Q114.** A patient's tissue of mass 5.0 kg absorbs 0.40 J of radiation energy. The absorbed dose is
+**Q373.** A patient's tissue of mass 5.0 kg absorbs 0.40 J of radiation energy. The absorbed dose is
 <!-- id: physics12a2-rdb-2 -->
 
 - A. 0.40 Gy
@@ -826,7 +2649,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 12.5 Gy
 - D. 0.080 Gy
 
-**Q115.** For the same absorbed dose, alpha radiation causes more biological damage than gamma radiation when absorbed inside the body mainly because alpha particles
+**Q374.** For the same absorbed dose, alpha radiation causes more biological damage than gamma radiation when absorbed inside the body mainly because alpha particles
 <!-- id: physics12a2-rdb-3 -->
 
 - A. have a longer half-life
@@ -834,7 +2657,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. have no charge
 - D. deposit their energy over a very short path, producing dense ionisation
 
-**Q116.** A technician stands 1.0 m from a small gamma source and measures a dose rate of 40 µSv h⁻¹. Treating the source as a point source, the dose rate at 2.0 m would be
+**Q375.** A technician stands 1.0 m from a small gamma source and measures a dose rate of 40 µSv h⁻¹. Treating the source as a point source, the dose rate at 2.0 m would be
 <!-- id: physics12a2-rdb-4 -->
 
 - A. 20 µSv h⁻¹
@@ -842,7 +2665,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 80 µSv h⁻¹
 - D. 5.0 µSv h⁻¹
 
-**Q117.** Which of the following is a long-term (chronic) effect of exposure to ionising radiation?
+**Q376.** Which of the following is a long-term (chronic) effect of exposure to ionising radiation?
 <!-- id: physics12a2-rdb-5 -->
 
 - A. An increased risk of cancer years later
@@ -850,17 +2673,17 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Skin burns appearing within hours
 - D. Nausea and vomiting within a day
 
-**Q118.** A worker's tissue of mass 50 kg absorbs 2.5 mJ of energy from alpha particles. (a) Calculate the absorbed dose. (b) The radiation weighting factor for alpha radiation is 20. Calculate the equivalent dose. (3 marks)
+**Q377.** A worker's tissue of mass 50 kg absorbs 2.5 mJ of energy from alpha particles. (a) Calculate the absorbed dose. (b) The radiation weighting factor for alpha radiation is 20. Calculate the equivalent dose. (3 marks)
 <!-- id: physics12a2-rdb-6 -->
 
 *Written answer*
 
-**Q119.** A gamma source gives a dose rate of 80 µSv h⁻¹ at a distance of 1.0 m. (a) State the three main ways of reducing exposure to a radiation source. (b) Calculate the dose received by a person who works 3.0 hours at a distance of 2.0 m (assume a point source and no shielding). (3 marks)
+**Q378.** A gamma source gives a dose rate of 80 µSv h⁻¹ at a distance of 1.0 m. (a) State the three main ways of reducing exposure to a radiation source. (b) Calculate the dose received by a person who works 3.0 hours at a distance of 2.0 m (assume a point source and no shielding). (3 marks)
 <!-- id: physics12a2-rdb-7 -->
 
 *Written answer*
 
-**Q120.** Explain how ionising radiation can damage living cells, and why radiotherapy is able to destroy tumours. (3 marks)
+**Q379.** Explain how ionising radiation can damage living cells, and why radiotherapy is able to destroy tumours. (3 marks)
 <!-- id: physics12a2-rdb-8 -->
 
 *Written answer*
@@ -869,7 +2692,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 #### Charge, current and potential difference
 
-**Q121.** A current of 3.0 A flows through a heater for 20 s. How much charge passes through the heater?
+**Q380.** A current of 3.0 A flows through a heater for 20 s. How much charge passes through the heater?
 <!-- id: physics12a2-cpd-1 -->
 
 - A. 60 C
@@ -877,7 +2700,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 6.7 C
 - D. 23 C
 
-**Q122.** A 12 V battery moves 5.0 C of charge around a circuit. The total energy transferred to the circuit is
+**Q381.** A 12 V battery moves 5.0 C of charge around a circuit. The total energy transferred to the circuit is
 <!-- id: physics12a2-cpd-2 -->
 
 - A. 17 J
@@ -885,7 +2708,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 0.42 J
 - D. 2.4 J
 
-**Q123.** In a simple circuit with a cell and a lamp, conventional current flows
+**Q382.** In a simple circuit with a cell and a lamp, conventional current flows
 <!-- id: physics12a2-cpd-3 -->
 
 - A. in both directions alternately
@@ -893,7 +2716,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. from the positive terminal to the negative terminal outside the cell
 - D. in the same direction as the electron flow
 
-**Q124.** A charge of 4.8 C passes a point in a wire. The charge on one electron is 1.60 × 10⁻¹⁹ C. How many electrons passed the point?
+**Q383.** A charge of 4.8 C passes a point in a wire. The charge on one electron is 1.60 × 10⁻¹⁹ C. How many electrons passed the point?
 <!-- id: physics12a2-cpd-4 -->
 
 - A. 7.7 × 10⁻²⁰
@@ -901,7 +2724,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 3.0 × 10¹⁹
 - D. 3.0 × 10²⁰
 
-**Q125.** To measure the current through a lamp and the potential difference across it, the meters should be connected so that
+**Q384.** To measure the current through a lamp and the potential difference across it, the meters should be connected so that
 <!-- id: physics12a2-cpd-5 -->
 
 - A. the ammeter is in parallel with the lamp and the voltmeter is in series with it
@@ -909,24 +2732,24 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. the ammeter is in series with the lamp and the voltmeter is in parallel with it
 - D. both meters are in series with the lamp
 
-**Q126.** A current of 0.25 A flows in a circuit for 2.0 minutes. (a) Calculate the charge that passes. (b) Calculate the number of electrons that this charge represents (e = 1.60 × 10⁻¹⁹ C). (c) If the supply is 6.0 V, calculate the energy transferred. (3 marks)
+**Q385.** A current of 0.25 A flows in a circuit for 2.0 minutes. (a) Calculate the charge that passes. (b) Calculate the number of electrons that this charge represents (e = 1.60 × 10⁻¹⁹ C). (c) If the supply is 6.0 V, calculate the energy transferred. (3 marks)
 <!-- id: physics12a2-cpd-6 -->
 
 *Written answer*
 
-**Q127.** Distinguish between electric current and potential difference in a circuit. (3 marks)
+**Q386.** Distinguish between electric current and potential difference in a circuit. (3 marks)
 <!-- id: physics12a2-cpd-7 -->
 
 *Written answer*
 
-**Q128.** A lamp passes 90 C of charge in 5.0 minutes while transferring 540 J of electrical energy. Calculate (a) the current in the lamp, (b) the potential difference across it and (c) its power. (3 marks)
+**Q387.** A lamp passes 90 C of charge in 5.0 minutes while transferring 540 J of electrical energy. Calculate (a) the current in the lamp, (b) the potential difference across it and (c) its power. (3 marks)
 <!-- id: physics12a2-cpd-8 -->
 
 *Written answer*
 
 #### Resistance and Ohm's law
 
-**Q129.** A resistor has a potential difference of 9.0 V across it and a current of 0.30 A through it. Its resistance is
+**Q388.** A resistor has a potential difference of 9.0 V across it and a current of 0.30 A through it. Its resistance is
 <!-- id: physics12a2-rol-1 -->
 
 - A. 30 Ω
@@ -934,7 +2757,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 0.033 Ω
 - D. 27 Ω
 
-**Q130.** A metal wire has resistance R. A second wire of the same material has twice the length and twice the diameter. Its resistance is
+**Q389.** A metal wire has resistance R. A second wire of the same material has twice the length and twice the diameter. Its resistance is
 <!-- id: physics12a2-rol-2 -->
 
 - A. 2R
@@ -942,7 +2765,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. R/2
 - D. R
 
-**Q131.** An ohmic conductor at constant temperature has a current-potential difference graph that is
+**Q390.** An ohmic conductor at constant temperature has a current-potential difference graph that is
 <!-- id: physics12a2-rol-3 -->
 
 - A. a curve that gets steeper as the potential difference increases
@@ -950,7 +2773,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. a straight line through the origin
 - D. a horizontal straight line
 
-**Q132.** As the current through the filament of a lamp increases, its resistance increases. This is mainly because
+**Q391.** As the current through the filament of a lamp increases, its resistance increases. This is mainly because
 <!-- id: physics12a2-rol-4 -->
 
 - A. the potential difference across the filament decreases
@@ -958,7 +2781,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. the number of charge carriers decreases
 - D. the higher temperature causes more frequent collisions between charge carriers and the vibrating lattice
 
-**Q133.** A 4.0 Ω heating element is connected to a 12 V supply. The power dissipated is
+**Q392.** A 4.0 Ω heating element is connected to a 12 V supply. The power dissipated is
 <!-- id: physics12a2-rol-5 -->
 
 - A. 48 W
@@ -966,24 +2789,24 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 36 W
 - D. 3.0 W
 
-**Q134.** A length of uniform wire of length 1.5 m has a resistance of 6.0 Ω. A second wire of the same material has a length of 4.5 m and half the diameter. (a) Calculate the resistance of the second wire. (b) State the relationships you used. (3 marks)
+**Q393.** A length of uniform wire of length 1.5 m has a resistance of 6.0 Ω. A second wire of the same material has a length of 4.5 m and half the diameter. (a) Calculate the resistance of the second wire. (b) State the relationships you used. (3 marks)
 <!-- id: physics12a2-rol-6 -->
 
 *Written answer*
 
-**Q135.** A student measures the following for a component: 1.0 V, 0.10 A; 2.0 V, 0.18 A; 3.0 V, 0.24 A. (a) Calculate the resistance at each point. (b) State whether the component is ohmic and justify your answer. (3 marks)
+**Q394.** A student measures the following for a component: 1.0 V, 0.10 A; 2.0 V, 0.18 A; 3.0 V, 0.24 A. (a) Calculate the resistance at each point. (b) State whether the component is ohmic and justify your answer. (3 marks)
 <!-- id: physics12a2-rol-7 -->
 
 *Written answer*
 
-**Q136.** An electric heater is rated at 230 V and draws a current of 8.0 A. Calculate (a) its resistance, (b) its power, and (c) the energy it transfers in 30 minutes, in joules. (3 marks)
+**Q395.** An electric heater is rated at 230 V and draws a current of 8.0 A. Calculate (a) its resistance, (b) its power, and (c) the energy it transfers in 30 minutes, in joules. (3 marks)
 <!-- id: physics12a2-rol-8 -->
 
 *Written answer*
 
 #### Series and parallel circuits
 
-**Q137.** A 10 Ω resistor and a 20 Ω resistor are connected in series to a 12 V supply. The current in the circuit is
+**Q396.** A 10 Ω resistor and a 20 Ω resistor are connected in series to a 12 V supply. The current in the circuit is
 <!-- id: physics12a2-spc-1 -->
 
 - A. 0.40 A
@@ -991,7 +2814,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 1.2 A
 - D. 2.5 A
 
-**Q138.** A 6.0 Ω resistor and a 12 Ω resistor are connected in parallel. The equivalent resistance is
+**Q397.** A 6.0 Ω resistor and a 12 Ω resistor are connected in parallel. The equivalent resistance is
 <!-- id: physics12a2-spc-2 -->
 
 - A. 4.0 Ω
@@ -999,7 +2822,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 18 Ω
 - D. 9.0 Ω
 
-**Q139.** Two identical lamps are connected in parallel across a 12 V supply. The potential difference across each lamp is
+**Q398.** Two identical lamps are connected in parallel across a 12 V supply. The potential difference across each lamp is
 <!-- id: physics12a2-spc-3 -->
 
 - A. 6.0 V
@@ -1007,7 +2830,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 24 V
 - D. 0 V
 
-**Q140.** One lamp burns out (becomes an open circuit) in a circuit with three lamps. All three lamps go out. The lamps must have been connected
+**Q399.** One lamp burns out (becomes an open circuit) in a circuit with three lamps. All three lamps go out. The lamps must have been connected
 <!-- id: physics12a2-spc-4 -->
 
 - A. to different power supplies
@@ -1015,7 +2838,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. in series with each other
 - D. in a mix of series and parallel with the burnt lamp in a branch
 
-**Q141.** A third resistor is added in parallel to a two-resistor parallel network connected across a fixed supply. Compared with before, the total resistance and the supply current are
+**Q400.** A third resistor is added in parallel to a two-resistor parallel network connected across a fixed supply. Compared with before, the total resistance and the supply current are
 <!-- id: physics12a2-spc-5 -->
 
 - A. total resistance increases and supply current decreases
@@ -1023,24 +2846,24 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. total resistance increases and supply current increases
 - D. total resistance decreases and supply current increases
 
-**Q142.** A 12 V supply is connected to a 4.0 Ω resistor in series with a parallel combination of a 6.0 Ω resistor and a 3.0 Ω resistor. Calculate (a) the total resistance, (b) the supply current, (c) the potential difference across the 4.0 Ω resistor and (d) the current in the 6.0 Ω resistor. (4 marks)
+**Q401.** A 12 V supply is connected to a 4.0 Ω resistor in series with a parallel combination of a 6.0 Ω resistor and a 3.0 Ω resistor. Calculate (a) the total resistance, (b) the supply current, (c) the potential difference across the 4.0 Ω resistor and (d) the current in the 6.0 Ω resistor. (4 marks)
 <!-- id: physics12a2-spc-6 -->
 
 *Written answer*
 
-**Q143.** A 100 Ω resistor and a 200 Ω resistor are connected in series across a 9.0 V supply. Calculate the current and the potential difference across each resistor. (3 marks)
+**Q402.** A 100 Ω resistor and a 200 Ω resistor are connected in series across a 9.0 V supply. Calculate the current and the potential difference across each resistor. (3 marks)
 <!-- id: physics12a2-spc-7 -->
 
 *Written answer*
 
-**Q144.** Explain why household appliances are connected in parallel rather than in series. (3 marks)
+**Q403.** Explain why household appliances are connected in parallel rather than in series. (3 marks)
 <!-- id: physics12a2-spc-8 -->
 
 *Written answer*
 
 #### Electrical power and energy
 
-**Q145.** A heater connected to the 230 V mains supply draws a current of 8.0 A. What is the power of the heater?
+**Q404.** A heater connected to the 230 V mains supply draws a current of 8.0 A. What is the power of the heater?
 <!-- id: physics12a3-epe-1 -->
 
 - A. 29 W
@@ -1048,7 +2871,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 0.035 W
 - D. 1.8 × 10⁴ W
 
-**Q146.** A 1200 W kettle operates for 5.0 minutes. How much electrical energy does it transfer?
+**Q405.** A 1200 W kettle operates for 5.0 minutes. How much electrical energy does it transfer?
 <!-- id: physics12a3-epe-2 -->
 
 - A. 3.6 × 10⁵ J
@@ -1056,7 +2879,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 6.0 × 10³ J
 - D. 1.2 × 10³ J
 
-**Q147.** The current through a fixed ohmic resistor is doubled. What happens to the power dissipated in the resistor?
+**Q406.** The current through a fixed ohmic resistor is doubled. What happens to the power dissipated in the resistor?
 <!-- id: physics12a3-epe-3 -->
 
 - A. It halves.
@@ -1064,7 +2887,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. It is unchanged.
 - D. It becomes four times larger.
 
-**Q148.** A 6.0 Ω resistor and a 3.0 Ω resistor are connected in parallel. What is the equivalent resistance?
+**Q407.** A 6.0 Ω resistor and a 3.0 Ω resistor are connected in parallel. What is the equivalent resistance?
 <!-- id: physics12a3-epe-4 -->
 
 - A. 18 Ω
@@ -1072,7 +2895,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 4.5 Ω
 - D. 9.0 Ω
 
-**Q149.** A 2.0 kW heater runs for 3.0 hours. Electricity costs 30 cents per kWh. What is the cost?
+**Q408.** A 2.0 kW heater runs for 3.0 hours. Electricity costs 30 cents per kWh. What is the cost?
 <!-- id: physics12a3-epe-5 -->
 
 - A. $1.80
@@ -1080,24 +2903,24 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. $0.60
 - D. $0.18
 
-**Q150.** A 12 V battery of negligible internal resistance is connected across a 4.0 Ω resistor and an 8.0 Ω resistor in series. Calculate (a) the current in the circuit, (b) the potential difference across the 8.0 Ω resistor, and (c) the power dissipated in the 8.0 Ω resistor. (3 marks)
+**Q409.** A 12 V battery of negligible internal resistance is connected across a 4.0 Ω resistor and an 8.0 Ω resistor in series. Calculate (a) the current in the circuit, (b) the potential difference across the 8.0 Ω resistor, and (c) the power dissipated in the 8.0 Ω resistor. (3 marks)
 <!-- id: physics12a3-epe-6 -->
 
 *Written answer*
 
-**Q151.** A 60 Ω resistor and a 120 Ω resistor are connected in parallel across a 240 V supply. Calculate (a) the current in each resistor, (b) the total current drawn from the supply, and (c) the total power dissipated. (4 marks)
+**Q410.** A 60 Ω resistor and a 120 Ω resistor are connected in parallel across a 240 V supply. Calculate (a) the current in each resistor, (b) the total current drawn from the supply, and (c) the total power dissipated. (4 marks)
 <!-- id: physics12a3-epe-7 -->
 
 *Written answer*
 
-**Q152.** An electric motor draws 500 W of electrical power and delivers 350 W of useful mechanical power. (a) Calculate its efficiency. (b) Calculate the energy transferred as waste heat in 10 minutes of operation. (3 marks)
+**Q411.** An electric motor draws 500 W of electrical power and delivers 350 W of useful mechanical power. (a) Calculate its efficiency. (b) Calculate the energy transferred as waste heat in 10 minutes of operation. (3 marks)
 <!-- id: physics12a3-epe-8 -->
 
 *Written answer*
 
 #### Electrical safety
 
-**Q153.** What is the main safety function of the earth wire in a mains-powered appliance with a metal casing?
+**Q412.** What is the main safety function of the earth wire in a mains-powered appliance with a metal casing?
 <!-- id: physics12a3-es-1 -->
 
 - A. It increases the resistance of the appliance to reduce power use.
@@ -1105,7 +2928,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. It limits the normal operating current of the appliance.
 - D. It supplies the return path for the normal operating current.
 
-**Q154.** A 230 V appliance has a power rating of 1.15 kW. Which fuse rating is most appropriate to protect it?
+**Q413.** A 230 V appliance has a power rating of 1.15 kW. Which fuse rating is most appropriate to protect it?
 <!-- id: physics12a3-es-2 -->
 
 - A. 5 A
@@ -1113,7 +2936,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 10 A
 - D. 2 A
 
-**Q155.** A residual current device (RCD) disconnects the supply when it detects
+**Q414.** A residual current device (RCD) disconnects the supply when it detects
 <!-- id: physics12a3-es-3 -->
 
 - A. any increase in the frequency of the supply.
@@ -1121,7 +2944,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. a voltage drop across the neutral wire.
 - D. a difference between the current in the live and neutral wires of a few tens of milliamperes.
 
-**Q156.** Why does a double-insulated appliance not require an earth wire?
+**Q415.** Why does a double-insulated appliance not require an earth wire?
 <!-- id: physics12a3-es-4 -->
 
 - A. Its plug has two pins, which makes it safer.
@@ -1129,7 +2952,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. It operates at a lower voltage than other appliances.
 - D. The neutral wire acts as the earth.
 
-**Q157.** Which statement best explains the danger of electric shock to a person?
+**Q416.** Which statement best explains the danger of electric shock to a person?
 <!-- id: physics12a3-es-5 -->
 
 - A. Direct current is always more dangerous than alternating current.
@@ -1137,17 +2960,17 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. The danger depends only on the supply voltage and not on the current.
 - D. A shock is dangerous only if it lasts longer than one hour.
 
-**Q158.** Explain how a fuse protects a household appliance circuit, and why the fuse is placed in the live wire rather than the neutral wire. (3 marks)
+**Q417.** Explain how a fuse protects a household appliance circuit, and why the fuse is placed in the live wire rather than the neutral wire. (3 marks)
 <!-- id: physics12a3-es-6 -->
 
 *Written answer*
 
-**Q159.** A toaster with a metal casing is connected to the mains through a three-pin plug. A fault causes the live wire inside the toaster to touch the casing. Describe what happens if (a) the casing is connected to the earth wire, and (b) the toaster is not earthed. (3 marks)
+**Q418.** A toaster with a metal casing is connected to the mains through a three-pin plug. A fault causes the live wire inside the toaster to touch the casing. Describe what happens if (a) the casing is connected to the earth wire, and (b) the toaster is not earthed. (3 marks)
 <!-- id: physics12a3-es-7 -->
 
 *Written answer*
 
-**Q160.** A person with wet hands, with a body resistance of 1500 Ω, touches a live conductor at 230 V and a good earth. (a) Calculate the current through the person. (b) Explain why an RCD with a 30 mA trip threshold would protect the person but a 15 A circuit breaker would not. (3 marks)
+**Q419.** A person with wet hands, with a body resistance of 1500 Ω, touches a live conductor at 230 V and a good earth. (a) Calculate the current through the person. (b) Explain why an RCD with a 30 mA trip threshold would protect the person but a 15 A circuit breaker would not. (3 marks)
 <!-- id: physics12a3-es-8 -->
 
 *Written answer*
@@ -1156,7 +2979,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 #### Motion graphs
 
-**Q161.** On a position-time graph, the gradient of the graph at an instant represents
+**Q420.** On a position-time graph, the gradient of the graph at an instant represents
 <!-- id: physics12a3-mg-1 -->
 
 - A. acceleration.
@@ -1164,7 +2987,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. velocity.
 - D. distance travelled.
 
-**Q162.** The area between a velocity-time graph and the time axis for an interval represents
+**Q421.** The area between a velocity-time graph and the time axis for an interval represents
 <!-- id: physics12a3-mg-2 -->
 
 - A. the average speed.
@@ -1172,7 +2995,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. the acceleration.
 - D. the displacement during the interval.
 
-**Q163.** A cyclist's velocity increases uniformly from 0 to 20 m s⁻¹ in 5.0 s, then stays constant at 20 m s⁻¹ for a further 10 s. What is the total displacement over the 15 s?
+**Q422.** A cyclist's velocity increases uniformly from 0 to 20 m s⁻¹ in 5.0 s, then stays constant at 20 m s⁻¹ for a further 10 s. What is the total displacement over the 15 s?
 <!-- id: physics12a3-mg-3 -->
 
 - A. 150 m
@@ -1180,7 +3003,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 300 m
 - D. 250 m
 
-**Q164.** The graph of position against time for an object is a curve with a gradient that becomes steadily more positive. The object is
+**Q423.** The graph of position against time for an object is a curve with a gradient that becomes steadily more positive. The object is
 <!-- id: physics12a3-mg-4 -->
 
 - A. at rest.
@@ -1188,7 +3011,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. accelerating in the positive direction.
 - D. decelerating while moving in the positive direction.
 
-**Q165.** An object's velocity changes uniformly from +6.0 m s⁻¹ to −6.0 m s⁻¹ over 6.0 s. What is the total distance travelled in this time?
+**Q424.** An object's velocity changes uniformly from +6.0 m s⁻¹ to −6.0 m s⁻¹ over 6.0 s. What is the total distance travelled in this time?
 <!-- id: physics12a3-mg-5 -->
 
 - A. 9.0 m
@@ -1196,24 +3019,24 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 36 m
 - D. 0 m
 
-**Q166.** A velocity-time graph for a train consists of three straight sections: velocity rises uniformly from 0 to 12 m s⁻¹ in 4.0 s, stays at 12 m s⁻¹ for 6.0 s, then falls uniformly to 0 in the final 4.0 s. (a) Calculate the acceleration in each section. (b) Calculate the total displacement and the average velocity for the 14 s journey. (4 marks)
+**Q425.** A velocity-time graph for a train consists of three straight sections: velocity rises uniformly from 0 to 12 m s⁻¹ in 4.0 s, stays at 12 m s⁻¹ for 6.0 s, then falls uniformly to 0 in the final 4.0 s. (a) Calculate the acceleration in each section. (b) Calculate the total displacement and the average velocity for the 14 s journey. (4 marks)
 <!-- id: physics12a3-mg-6 -->
 
 *Written answer*
 
-**Q167.** A position-time graph for a car shows: x = 0 at t = 0 rising in a straight line to x = 40 m at t = 8.0 s; constant at 40 m until t = 12 s; then a straight line back to x = 0 at t = 20 s. (a) Find the velocity in each of the three sections. (b) State the total displacement and the total distance travelled. (3 marks)
+**Q426.** A position-time graph for a car shows: x = 0 at t = 0 rising in a straight line to x = 40 m at t = 8.0 s; constant at 40 m until t = 12 s; then a straight line back to x = 0 at t = 20 s. (a) Find the velocity in each of the three sections. (b) State the total displacement and the total distance travelled. (3 marks)
 <!-- id: physics12a3-mg-7 -->
 
 *Written answer*
 
-**Q168.** A ball is thrown vertically upwards and returns to the launch height. Ignoring air resistance, with upwards taken as positive, describe the shape of its velocity-time graph and explain what the gradient, the time-axis intercept and the areas above and below the axis tell you. (3 marks)
+**Q427.** A ball is thrown vertically upwards and returns to the launch height. Ignoring air resistance, with upwards taken as positive, describe the shape of its velocity-time graph and explain what the gradient, the time-axis intercept and the areas above and below the axis tell you. (3 marks)
 <!-- id: physics12a3-mg-8 -->
 
 *Written answer*
 
 #### Equations of constant acceleration
 
-**Q169.** A car starts from rest and accelerates uniformly at 2.5 m s⁻² for 8.0 s. What is its final speed?
+**Q428.** A car starts from rest and accelerates uniformly at 2.5 m s⁻² for 8.0 s. What is its final speed?
 <!-- id: physics12a3-eca-1 -->
 
 - A. 10 m s⁻¹
@@ -1221,7 +3044,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 80 m s⁻¹
 - D. 20 m s⁻¹
 
-**Q170.** A car travelling at 25 m s⁻¹ brakes uniformly at 5.0 m s⁻² until it stops. What distance does it travel while braking?
+**Q429.** A car travelling at 25 m s⁻¹ brakes uniformly at 5.0 m s⁻² until it stops. What distance does it travel while braking?
 <!-- id: physics12a3-eca-2 -->
 
 - A. 62.5 m
@@ -1229,7 +3052,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 125 m
 - D. 31 m
 
-**Q171.** A stone is dropped from rest. Ignoring air resistance and using g = 9.8 m s⁻², how far does it fall in 2.0 s?
+**Q430.** A stone is dropped from rest. Ignoring air resistance and using g = 9.8 m s⁻², how far does it fall in 2.0 s?
 <!-- id: physics12a3-eca-3 -->
 
 - A. 39 m
@@ -1237,7 +3060,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 4.9 m
 - D. 9.8 m
 
-**Q172.** An object has known initial velocity u, acceleration a (constant) and displacement s. Which equation gives the final velocity v directly, without needing the time?
+**Q431.** An object has known initial velocity u, acceleration a (constant) and displacement s. Which equation gives the final velocity v directly, without needing the time?
 <!-- id: physics12a3-eca-4 -->
 
 - A. s = ut + ½at²
@@ -1245,7 +3068,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. v = u + at
 - D. v² = u² + 2as
 
-**Q173.** A ball is thrown vertically upwards at 14.7 m s⁻¹ from ground level. Taking g = 9.8 m s⁻² and ignoring air resistance, how long until it returns to ground level?
+**Q432.** A ball is thrown vertically upwards at 14.7 m s⁻¹ from ground level. Taking g = 9.8 m s⁻² and ignoring air resistance, how long until it returns to ground level?
 <!-- id: physics12a3-eca-5 -->
 
 - A. 1.5 s
@@ -1253,24 +3076,24 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 1.2 s
 - D. 4.5 s
 
-**Q174.** A train moving at 12 m s⁻¹ accelerates uniformly and covers 400 m in 20 s. Calculate (a) its acceleration and (b) its final speed. (3 marks)
+**Q433.** A train moving at 12 m s⁻¹ accelerates uniformly and covers 400 m in 20 s. Calculate (a) its acceleration and (b) its final speed. (3 marks)
 <!-- id: physics12a3-eca-6 -->
 
 *Written answer*
 
-**Q175.** A driver travelling at 20 m s⁻¹ sees an obstacle. The driver's reaction time is 0.60 s, during which the speed stays constant, then the car brakes with a constant deceleration of 8.0 m s⁻² until it stops. Calculate the total stopping distance. (4 marks)
+**Q434.** A driver travelling at 20 m s⁻¹ sees an obstacle. The driver's reaction time is 0.60 s, during which the speed stays constant, then the car brakes with a constant deceleration of 8.0 m s⁻² until it stops. Calculate the total stopping distance. (4 marks)
 <!-- id: physics12a3-eca-7 -->
 
 *Written answer*
 
-**Q176.** A stone is dropped from the top of a cliff and hits the water below after 3.0 s. Ignoring air resistance and using g = 9.8 m s⁻², calculate (a) the height of the cliff and (b) the speed of the stone as it hits the water. (3 marks)
+**Q435.** A stone is dropped from the top of a cliff and hits the water below after 3.0 s. Ignoring air resistance and using g = 9.8 m s⁻², calculate (a) the height of the cliff and (b) the speed of the stone as it hits the water. (3 marks)
 <!-- id: physics12a3-eca-8 -->
 
 *Written answer*
 
 #### Newton's laws of motion
 
-**Q177.** A net force of 12 N acts on a 3.0 kg object on a smooth horizontal surface. What is the acceleration?
+**Q436.** A net force of 12 N acts on a 3.0 kg object on a smooth horizontal surface. What is the acceleration?
 <!-- id: physics12a3-nlm-1 -->
 
 - A. 9.0 m s⁻²
@@ -1278,7 +3101,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 36 m s⁻²
 - D. 0.25 m s⁻²
 
-**Q178.** A book rests on a table. Which force forms the Newton's third law pair with the gravitational force of Earth on the book?
+**Q437.** A book rests on a table. Which force forms the Newton's third law pair with the gravitational force of Earth on the book?
 <!-- id: physics12a3-nlm-2 -->
 
 - A. The normal force of the table on the book.
@@ -1286,7 +3109,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. The force of the book on the table.
 - D. The weight force of the table.
 
-**Q179.** A 60 kg person stands on a bathroom scale in a lift that accelerates upwards at 1.5 m s⁻². Taking g = 9.8 m s⁻², what is the magnitude of the normal force on the person (the scale reading in newtons)?
+**Q438.** A 60 kg person stands on a bathroom scale in a lift that accelerates upwards at 1.5 m s⁻². Taking g = 9.8 m s⁻², what is the magnitude of the normal force on the person (the scale reading in newtons)?
 <!-- id: physics12a3-nlm-3 -->
 
 - A. 678 N
@@ -1294,7 +3117,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 588 N
 - D. 498 N
 
-**Q180.** A crate is dragged at constant velocity across a rough floor by a horizontal 20 N force. What is the magnitude of the friction force acting on the crate?
+**Q439.** A crate is dragged at constant velocity across a rough floor by a horizontal 20 N force. What is the magnitude of the friction force acting on the crate?
 <!-- id: physics12a3-nlm-4 -->
 
 - A. 0 N
@@ -1302,7 +3125,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. less than 20 N
 - D. 20 N
 
-**Q181.** A block slides from rest down a frictionless 30° incline. Taking g = 9.8 m s⁻², what is the magnitude of its acceleration?
+**Q440.** A block slides from rest down a frictionless 30° incline. Taking g = 9.8 m s⁻², what is the magnitude of its acceleration?
 <!-- id: physics12a3-nlm-5 -->
 
 - A. 2.5 m s⁻²
@@ -1310,24 +3133,24 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 8.5 m s⁻²
 - D. 4.9 m s⁻²
 
-**Q182.** Two blocks of mass 2.0 kg and 3.0 kg are in contact on a frictionless horizontal surface. A horizontal 10 N force pushes the 2.0 kg block, which in turn pushes the 3.0 kg block. Calculate (a) the acceleration of the blocks and (b) the magnitude of the force the 2.0 kg block exerts on the 3.0 kg block. (3 marks)
+**Q441.** Two blocks of mass 2.0 kg and 3.0 kg are in contact on a frictionless horizontal surface. A horizontal 10 N force pushes the 2.0 kg block, which in turn pushes the 3.0 kg block. Calculate (a) the acceleration of the blocks and (b) the magnitude of the force the 2.0 kg block exerts on the 3.0 kg block. (3 marks)
 <!-- id: physics12a3-nlm-6 -->
 
 *Written answer*
 
-**Q183.** A 1200 kg car starts from rest. The engine produces a forward force of 3000 N while resistive forces total 1000 N. Calculate (a) the acceleration, (b) the speed after 10 s, and (c) the distance travelled in 10 s. (4 marks)
+**Q442.** A 1200 kg car starts from rest. The engine produces a forward force of 3000 N while resistive forces total 1000 N. Calculate (a) the acceleration, (b) the speed after 10 s, and (c) the distance travelled in 10 s. (4 marks)
 <!-- id: physics12a3-nlm-7 -->
 
 *Written answer*
 
-**Q184.** A car brakes suddenly and an unrestrained passenger continues to move forward relative to the car. Use Newton's laws to explain why this happens and how a seatbelt reduces the risk of injury. (3 marks)
+**Q443.** A car brakes suddenly and an unrestrained passenger continues to move forward relative to the car. Use Newton's laws to explain why this happens and how a seatbelt reduces the risk of injury. (3 marks)
 <!-- id: physics12a3-nlm-8 -->
 
 *Written answer*
 
 #### Momentum and impulse
 
-**Q185.** What is the magnitude of the momentum of a 0.50 kg ball moving at 12 m s⁻¹?
+**Q444.** What is the magnitude of the momentum of a 0.50 kg ball moving at 12 m s⁻¹?
 <!-- id: physics12a3-mi-1 -->
 
 - A. 6.0 kg m s⁻¹
@@ -1335,7 +3158,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 24 kg m s⁻¹
 - D. 3.0 kg m s⁻¹
 
-**Q186.** A 2.0 kg trolley moving at 3.0 m s⁻¹ collides with a stationary 1.0 kg trolley and they stick together. What is their common velocity immediately after the collision?
+**Q445.** A 2.0 kg trolley moving at 3.0 m s⁻¹ collides with a stationary 1.0 kg trolley and they stick together. What is their common velocity immediately after the collision?
 <!-- id: physics12a3-mi-2 -->
 
 - A. 1.0 m s⁻¹
@@ -1343,7 +3166,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 3.0 m s⁻¹
 - D. 2.0 m s⁻¹
 
-**Q187.** A 0.15 kg ball hits a wall at 20 m s⁻¹ and rebounds in the opposite direction at 15 m s⁻¹. What is the magnitude of the impulse on the ball?
+**Q446.** A 0.15 kg ball hits a wall at 20 m s⁻¹ and rebounds in the opposite direction at 15 m s⁻¹. What is the magnitude of the impulse on the ball?
 <!-- id: physics12a3-mi-3 -->
 
 - A. 3.0 N s
@@ -1351,7 +3174,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 0.75 N s
 - D. 5.25 N s
 
-**Q188.** Why do crumple zones in cars reduce the injury to occupants in a collision?
+**Q447.** Why do crumple zones in cars reduce the injury to occupants in a collision?
 <!-- id: physics12a3-mi-4 -->
 
 - A. They reduce the momentum of the car before the collision.
@@ -1359,7 +3182,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. They make the collision perfectly elastic.
 - D. They increase the time over which the car stops, reducing the average force for the same change in momentum.
 
-**Q189.** A 1.0 kg trolley moving at 4.0 m s⁻¹ collides with an identical stationary trolley. Afterwards, the first moves at 1.0 m s⁻¹ and the second at 3.0 m s⁻¹, both in the original direction. The collision is best described as
+**Q448.** A 1.0 kg trolley moving at 4.0 m s⁻¹ collides with an identical stationary trolley. Afterwards, the first moves at 1.0 m s⁻¹ and the second at 3.0 m s⁻¹, both in the original direction. The collision is best described as
 <!-- id: physics12a3-mi-5 -->
 
 - A. inelastic, because momentum is conserved but kinetic energy is not.
@@ -1367,24 +3190,24 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. elastic, because the trolleys separate afterwards.
 - D. inelastic, because momentum is not conserved.
 
-**Q190.** A cricket ball of mass 0.16 kg travelling at 30 m s⁻¹ is hit straight back, leaving the bat at 40 m s⁻¹. The contact time is 5.0 ms. Calculate (a) the impulse delivered to the ball and (b) the average force exerted by the bat. (3 marks)
+**Q449.** A cricket ball of mass 0.16 kg travelling at 30 m s⁻¹ is hit straight back, leaving the bat at 40 m s⁻¹. The contact time is 5.0 ms. Calculate (a) the impulse delivered to the ball and (b) the average force exerted by the bat. (3 marks)
 <!-- id: physics12a3-mi-6 -->
 
 *Written answer*
 
-**Q191.** A 1000 kg car moving at 15 m s⁻¹ collides with a stationary 2000 kg truck and the two vehicles lock together. (a) Calculate the speed of the combined wreckage immediately afterwards. (b) Calculate the kinetic energy lost. (c) Classify the collision. (4 marks)
+**Q450.** A 1000 kg car moving at 15 m s⁻¹ collides with a stationary 2000 kg truck and the two vehicles lock together. (a) Calculate the speed of the combined wreckage immediately afterwards. (b) Calculate the kinetic energy lost. (c) Classify the collision. (4 marks)
 <!-- id: physics12a3-mi-7 -->
 
 *Written answer*
 
-**Q192.** Two skaters, of mass 60 kg and 40 kg, stand at rest on frictionless ice and push apart. The 40 kg skater moves away at 3.0 m s⁻¹. (a) Find the velocity of the 60 kg skater. (b) Calculate the total kinetic energy after the push and state its source. (3 marks)
+**Q451.** Two skaters, of mass 60 kg and 40 kg, stand at rest on frictionless ice and push apart. The 40 kg skater moves away at 3.0 m s⁻¹. (a) Find the velocity of the 60 kg skater. (b) Calculate the total kinetic energy after the push and state its source. (3 marks)
 <!-- id: physics12a3-mi-8 -->
 
 *Written answer*
 
 #### Work, energy and power
 
-**Q193.** A 50 N force acts at 60° to the horizontal on a box, moving it 4.0 m along the horizontal floor. How much work does the force do on the box?
+**Q452.** A 50 N force acts at 60° to the horizontal on a box, moving it 4.0 m along the horizontal floor. How much work does the force do on the box?
 <!-- id: physics12a3-wep-1 -->
 
 - A. 200 J
@@ -1392,7 +3215,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 100 J
 - D. 50 J
 
-**Q194.** What is the kinetic energy of a 1000 kg car travelling at 20 m s⁻¹?
+**Q453.** What is the kinetic energy of a 1000 kg car travelling at 20 m s⁻¹?
 <!-- id: physics12a3-wep-2 -->
 
 - A. 2.0 × 10⁵ J
@@ -1400,7 +3223,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 2.0 × 10⁴ J
 - D. 4.0 × 10⁵ J
 
-**Q195.** The speed of a moving object is doubled. Its kinetic energy
+**Q454.** The speed of a moving object is doubled. Its kinetic energy
 <!-- id: physics12a3-wep-3 -->
 
 - A. doubles.
@@ -1408,7 +3231,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. increases by a factor of √2.
 - D. stays the same.
 
-**Q196.** A 0.20 kg ball is dropped from rest from a height of 5.0 m. Ignoring air resistance and taking g = 9.8 m s⁻², what is its speed just before hitting the ground?
+**Q455.** A 0.20 kg ball is dropped from rest from a height of 5.0 m. Ignoring air resistance and taking g = 9.8 m s⁻², what is its speed just before hitting the ground?
 <!-- id: physics12a3-wep-4 -->
 
 - A. 9.8 m s⁻¹
@@ -1416,7 +3239,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 7.0 m s⁻¹
 - D. 49 m s⁻¹
 
-**Q197.** A crane lifts a 500 kg load vertically at a constant speed of 0.40 m s⁻¹. Taking g = 9.8 m s⁻², what is the power output of the crane's lifting force?
+**Q456.** A crane lifts a 500 kg load vertically at a constant speed of 0.40 m s⁻¹. Taking g = 9.8 m s⁻², what is the power output of the crane's lifting force?
 <!-- id: physics12a3-wep-5 -->
 
 - A. 1.0 kW
@@ -1424,24 +3247,24 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 4.9 kW
 - D. 200 W
 
-**Q198.** A spring with spring constant 200 N m⁻¹ is compressed by 0.10 m and used to launch a 0.050 kg mass along a frictionless horizontal surface. Calculate (a) the elastic potential energy stored and (b) the speed of the mass as it leaves the spring. (3 marks)
+**Q457.** A spring with spring constant 200 N m⁻¹ is compressed by 0.10 m and used to launch a 0.050 kg mass along a frictionless horizontal surface. Calculate (a) the elastic potential energy stored and (b) the speed of the mass as it leaves the spring. (3 marks)
 <!-- id: physics12a3-wep-6 -->
 
 *Written answer*
 
-**Q199.** A 2.0 kg block slides from rest down a 5.0 m long ramp from a height of 3.0 m, reaching the bottom at 6.0 m s⁻¹. Take g = 9.8 m s⁻². (a) Calculate the energy transformed to thermal energy by friction. (b) Calculate the average friction force on the block. (4 marks)
+**Q458.** A 2.0 kg block slides from rest down a 5.0 m long ramp from a height of 3.0 m, reaching the bottom at 6.0 m s⁻¹. Take g = 9.8 m s⁻². (a) Calculate the energy transformed to thermal energy by friction. (b) Calculate the average friction force on the block. (4 marks)
 <!-- id: physics12a3-wep-7 -->
 
 *Written answer*
 
-**Q200.** A 70 kg person climbs stairs with a vertical height of 12 m in 30 s at a steady pace. Take g = 9.8 m s⁻². (a) Calculate the gain in gravitational potential energy. (b) Calculate the average useful power output. (c) If the person's body is 25% efficient, calculate the chemical energy used. (4 marks)
+**Q459.** A 70 kg person climbs stairs with a vertical height of 12 m in 30 s at a steady pace. Take g = 9.8 m s⁻². (a) Calculate the gain in gravitational potential energy. (b) Calculate the average useful power output. (c) If the person's body is 25% efficient, calculate the chemical energy used. (4 marks)
 <!-- id: physics12a3-wep-8 -->
 
 *Written answer*
 
 #### Torque and equilibrium
 
-**Q201.** A 40 N force is applied perpendicular to a spanner at a distance of 0.30 m from the nut. What is the torque about the nut?
+**Q460.** A 40 N force is applied perpendicular to a spanner at a distance of 0.30 m from the nut. What is the torque about the nut?
 <!-- id: physics12a3-te-1 -->
 
 - A. 40.3 N m
@@ -1449,7 +3272,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 133 N m
 - D. 0.0075 N m
 
-**Q202.** For an extended object to be in static equilibrium, which conditions must be satisfied?
+**Q461.** For an extended object to be in static equilibrium, which conditions must be satisfied?
 <!-- id: physics12a3-te-2 -->
 
 - A. The net torque must be zero only.
@@ -1457,7 +3280,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. The net force must equal the weight of the object.
 - D. The net force must be zero only.
 
-**Q203.** A 30 kg child sits 2.0 m from the pivot of a light, balanced seesaw. A 40 kg child sits on the other side. How far from the pivot must the 40 kg child sit to balance it?
+**Q462.** A 30 kg child sits 2.0 m from the pivot of a light, balanced seesaw. A 40 kg child sits on the other side. How far from the pivot must the 40 kg child sit to balance it?
 <!-- id: physics12a3-te-3 -->
 
 - A. 2.0 m
@@ -1465,7 +3288,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 1.5 m
 - D. 1.0 m
 
-**Q204.** A 60 N force is applied to the end of a 0.25 m spanner at an angle of 30° to the spanner's length. What is the torque about the nut?
+**Q463.** A 60 N force is applied to the end of a 0.25 m spanner at an angle of 30° to the spanner's length. What is the torque about the nut?
 <!-- id: physics12a3-te-4 -->
 
 - A. 15 N m
@@ -1473,7 +3296,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 30 N m
 - D. 7.5 N m
 
-**Q205.** Why is it easier to loosen a tight nut with a longer spanner?
+**Q464.** Why is it easier to loosen a tight nut with a longer spanner?
 <!-- id: physics12a3-te-5 -->
 
 - A. A longer spanner gives a larger lever arm, so more torque is produced by the same force.
@@ -1481,17 +3304,17 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. A longer spanner increases the force the person applies.
 - D. A longer spanner reduces the torque needed to loosen the nut.
 
-**Q206.** A uniform horizontal beam of length 4.0 m and mass 20 kg rests on supports at its two ends, A (left) and B (right). A 30 kg load sits 1.0 m from A. Taking g = 9.8 m s⁻², calculate the upward force exerted by each support. (4 marks)
+**Q465.** A uniform horizontal beam of length 4.0 m and mass 20 kg rests on supports at its two ends, A (left) and B (right). A 30 kg load sits 1.0 m from A. Taking g = 9.8 m s⁻², calculate the upward force exerted by each support. (4 marks)
 <!-- id: physics12a3-te-6 -->
 
 *Written answer*
 
-**Q207.** A uniform horizontal beam of length 2.0 m and mass 10 kg is hinged to a wall at one end. A 4.0 kg mass hangs from its free end, and a vertical cable attached to the free end holds the beam horizontal. Taking g = 9.8 m s⁻², calculate (a) the tension in the cable and (b) the vertical force exerted by the hinge. (4 marks)
+**Q466.** A uniform horizontal beam of length 2.0 m and mass 10 kg is hinged to a wall at one end. A 4.0 kg mass hangs from its free end, and a vertical cable attached to the free end holds the beam horizontal. Taking g = 9.8 m s⁻², calculate (a) the tension in the cable and (b) the vertical force exerted by the hinge. (4 marks)
 <!-- id: physics12a3-te-7 -->
 
 *Written answer*
 
-**Q208.** A tall, narrow cupboard is tilted slowly about one bottom edge. Explain, using centre of mass and torque, why it topples at a smaller tilt angle than a short, wide cupboard of the same mass. (3 marks)
+**Q467.** A tall, narrow cupboard is tilted slowly about one bottom edge. Explain, using centre of mass and torque, why it topples at a smaller tilt angle than a short, wide cupboard of the same mass. (3 marks)
 <!-- id: physics12a3-te-8 -->
 
 *Written answer*
@@ -1502,7 +3325,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 #### Newton's law of gravitation
 
-**Q209.** Two asteroids attract each other with a gravitational force F. If the distance between their centres is doubled, the new force is:
+**Q468.** Two asteroids attract each other with a gravitational force F. If the distance between their centres is doubled, the new force is:
 <!-- id: physics-1-1-1 -->
 
 - A. F/4
@@ -1510,7 +3333,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 2F
 - D. 4F
 
-**Q210.** The masses of two objects are both doubled and the distance between their centres is also doubled. The gravitational force between them:
+**Q469.** The masses of two objects are both doubled and the distance between their centres is also doubled. The gravitational force between them:
 <!-- id: physics-1-1-2 -->
 
 - A. doubles
@@ -1518,7 +3341,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. quadruples
 - D. halves
 
-**Q211.** What is the gravitational force exerted by Earth on a 70 kg bushwalker standing at Earth's surface? (Use G = 6.67 × 10⁻¹¹ N m² kg⁻², M_Earth = 5.97 × 10²⁴ kg, R_Earth = 6.37 × 10⁶ m.)
+**Q470.** What is the gravitational force exerted by Earth on a 70 kg bushwalker standing at Earth's surface? (Use G = 6.67 × 10⁻¹¹ N m² kg⁻², M_Earth = 5.97 × 10²⁴ kg, R_Earth = 6.37 × 10⁶ m.)
 <!-- id: physics-1-1-3 -->
 
 - A. 70 N
@@ -1526,12 +3349,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 687 N
 - D. 2.74 × 10³ N
 
-**Q212.** Calculate the gravitational force exerted by Mars (mass 6.42 × 10²³ kg, radius 3.39 × 10⁶ m) on a 2.0 kg rock sample sitting on its surface. (G = 6.67 × 10⁻¹¹ N m² kg⁻²)
+**Q471.** Calculate the gravitational force exerted by Mars (mass 6.42 × 10²³ kg, radius 3.39 × 10⁶ m) on a 2.0 kg rock sample sitting on its surface. (G = 6.67 × 10⁻¹¹ N m² kg⁻²)
 <!-- id: physics-1-1-4 -->
 
 *Written answer*
 
-**Q213.** Two 1000 kg cars are parked with their centres 5.0 m apart in a Melbourne car park. The gravitational force between them is closest to: (G = 6.67 × 10⁻¹¹ N m² kg⁻²)
+**Q472.** Two 1000 kg cars are parked with their centres 5.0 m apart in a Melbourne car park. The gravitational force between them is closest to: (G = 6.67 × 10⁻¹¹ N m² kg⁻²)
 <!-- id: physics-1-1-5 -->
 
 - A. 1.3 × 10⁻⁵ N
@@ -1539,7 +3362,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 6.7 × 10⁻⁵ N
 - D. 2.7 × 10⁻⁶ N
 
-**Q214.** An apple falls from a tree in a Yarra Valley orchard. Compared with the force Earth exerts on the apple, the force the apple exerts on Earth is:
+**Q473.** An apple falls from a tree in a Yarra Valley orchard. Compared with the force Earth exerts on the apple, the force the apple exerts on Earth is:
 <!-- id: physics-1-1-6 -->
 
 - A. equal in magnitude and opposite in direction
@@ -1547,7 +3370,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. much larger, because Earth's mass is larger
 - D. zero, because the apple is falling
 
-**Q215.** The SI units of the universal gravitational constant G are:
+**Q474.** The SI units of the universal gravitational constant G are:
 <!-- id: physics-1-1-7 -->
 
 - A. N kg⁻¹
@@ -1555,12 +3378,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. N m kg⁻²
 - D. N m² kg²
 
-**Q216.** When a ball is dropped, Earth and the ball exert equal and opposite gravitational forces on each other. Explain why we observe the ball accelerating but not Earth.
+**Q475.** When a ball is dropped, Earth and the ball exert equal and opposite gravitational forces on each other. Explain why we observe the ball accelerating but not Earth.
 <!-- id: physics-1-1-8 -->
 
 *Written answer*
 
-**Q217.** The Moon (mass 7.35 × 10²² kg) orbits Earth at a mean centre-to-centre distance of 3.84 × 10⁸ m. The gravitational force between Earth and the Moon is closest to: (G = 6.67 × 10⁻¹¹ N m² kg⁻², M_Earth = 5.97 × 10²⁴ kg)
+**Q476.** The Moon (mass 7.35 × 10²² kg) orbits Earth at a mean centre-to-centre distance of 3.84 × 10⁸ m. The gravitational force between Earth and the Moon is closest to: (G = 6.67 × 10⁻¹¹ N m² kg⁻², M_Earth = 5.97 × 10²⁴ kg)
 <!-- id: physics-1-1-9 -->
 
 - A. 7.62 × 10²⁸ N
@@ -1568,7 +3391,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 1.98 × 10²⁰ N
 - D. 3.52 × 10²² N
 
-**Q218.** If the distance between two spherical masses is tripled, the gravitational force between them becomes:
+**Q477.** If the distance between two spherical masses is tripled, the gravitational force between them becomes:
 <!-- id: physics-1-1-10 -->
 
 - A. 1/3 of the original
@@ -1576,7 +3399,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 1/6 of the original
 - D. 1/9 of the original
 
-**Q219.** One of two masses is halved and the separation of their centres is also halved. The gravitational force:
+**Q478.** One of two masses is halved and the separation of their centres is also halved. The gravitational force:
 <!-- id: physics-1-1-11 -->
 
 - A. doubles
@@ -1584,12 +3407,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. stays the same
 - D. quadruples
 
-**Q220.** Jupiter (mass 1.90 × 10²⁷ kg) and its moon Io (mass 8.93 × 10²² kg) are 4.22 × 10⁸ m apart, centre to centre. Calculate the gravitational force between them. (G = 6.67 × 10⁻¹¹ N m² kg⁻²)
+**Q479.** Jupiter (mass 1.90 × 10²⁷ kg) and its moon Io (mass 8.93 × 10²² kg) are 4.22 × 10⁸ m apart, centre to centre. Calculate the gravitational force between them. (G = 6.67 × 10⁻¹¹ N m² kg⁻²)
 <!-- id: physics-1-1-12 -->
 
 *Written answer*
 
-**Q221.** The Sun (mass 1.99 × 10³⁰ kg) is 1.50 × 10¹¹ m from Earth. The gravitational force of the Sun on Earth is closest to: (G = 6.67 × 10⁻¹¹ N m² kg⁻², M_Earth = 5.97 × 10²⁴ kg)
+**Q480.** The Sun (mass 1.99 × 10³⁰ kg) is 1.50 × 10¹¹ m from Earth. The gravitational force of the Sun on Earth is closest to: (G = 6.67 × 10⁻¹¹ N m² kg⁻², M_Earth = 5.97 × 10²⁴ kg)
 <!-- id: physics-1-1-13 -->
 
 - A. 5.28 × 10³³ N
@@ -1597,7 +3420,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 1.98 × 10²⁰ N
 - D. 5.90 × 10⁻³ N
 
-**Q222.** A spacecraft travels directly from Earth to the Moon (mass of Earth ≈ 81 × mass of the Moon). The point where the net gravitational force from Earth and the Moon is zero is located:
+**Q481.** A spacecraft travels directly from Earth to the Moon (mass of Earth ≈ 81 × mass of the Moon). The point where the net gravitational force from Earth and the Moon is zero is located:
 <!-- id: physics-1-1-14 -->
 
 - A. exactly halfway between them
@@ -1605,7 +3428,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. about 90% of the way from Earth to the Moon
 - D. about 99% of the way from Earth to the Moon
 
-**Q223.** Which statement about the gravitational force between two masses is correct?
+**Q482.** Which statement about the gravitational force between two masses is correct?
 <!-- id: physics-1-1-15 -->
 
 - A. It can be attractive or repulsive depending on the masses
@@ -1613,12 +3436,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. It depends on the medium between the two masses
 - D. It is always attractive and acts along the line joining their centres
 
-**Q224.** Gravity is described as the weakest of the fundamental forces, yet it holds us firmly on the ground. Explain this apparent contradiction.
+**Q483.** Gravity is described as the weakest of the fundamental forces, yet it holds us firmly on the ground. Explain this apparent contradiction.
 <!-- id: physics-1-1-16 -->
 
 *Written answer*
 
-**Q225.** A 1500 kg satellite orbits at an altitude equal to one Earth radius above the surface. The gravitational force on it is closest to: (G = 6.67 × 10⁻¹¹ N m² kg⁻², M_Earth = 5.97 × 10²⁴ kg, R_Earth = 6.37 × 10⁶ m)
+**Q484.** A 1500 kg satellite orbits at an altitude equal to one Earth radius above the surface. The gravitational force on it is closest to: (G = 6.67 × 10⁻¹¹ N m² kg⁻², M_Earth = 5.97 × 10²⁴ kg, R_Earth = 6.37 × 10⁶ m)
 <!-- id: physics-1-1-17 -->
 
 - A. 3.68 × 10³ N
@@ -1626,7 +3449,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 7.36 × 10³ N
 - D. 1.64 × 10³ N
 
-**Q226.** The gravitational force between two lead spheres in a Cavendish-type experiment is 8.0 × 10⁻⁹ N when their centres are 2.0 m apart. What is the force when their centres are 4.0 m apart?
+**Q485.** The gravitational force between two lead spheres in a Cavendish-type experiment is 8.0 × 10⁻⁹ N when their centres are 2.0 m apart. What is the force when their centres are 4.0 m apart?
 <!-- id: physics-1-1-18 -->
 
 - A. 4.0 × 10⁻⁹ N
@@ -1634,7 +3457,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 1.6 × 10⁻⁸ N
 - D. 3.2 × 10⁻⁸ N
 
-**Q227.** In 1971 an Apollo astronaut dropped a hammer and a feather together on the Moon and they landed at the same time. The best explanation is that:
+**Q486.** In 1971 an Apollo astronaut dropped a hammer and a feather together on the Moon and they landed at the same time. The best explanation is that:
 <!-- id: physics-1-1-19 -->
 
 - A. the Moon exerts the same gravitational force on both objects
@@ -1642,12 +3465,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. the gravitational acceleration a = GM/r² does not depend on the mass of the falling object
 - D. the feather and hammer have the same mass on the Moon
 
-**Q228.** A student claims that Earth pulls on the Moon with a larger force than the Moon pulls on Earth because Earth is more massive. Evaluate this claim.
+**Q487.** A student claims that Earth pulls on the Moon with a larger force than the Moon pulls on Earth because Earth is more massive. Evaluate this claim.
 <!-- id: physics-1-1-20 -->
 
 *Written answer*
 
-**Q229.** Using g = 9.8 N kg⁻¹ at Earth's surface, R = 6.37 × 10⁶ m and G = 6.67 × 10⁻¹¹ N m² kg⁻², the mass of Earth is calculated to be closest to:
+**Q488.** Using g = 9.8 N kg⁻¹ at Earth's surface, R = 6.37 × 10⁶ m and G = 6.67 × 10⁻¹¹ N m² kg⁻², the mass of Earth is calculated to be closest to:
 <!-- id: physics-1-1-21 -->
 
 - A. 9.36 × 10¹⁷ kg
@@ -1655,7 +3478,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 5.96 × 10³⁰ kg
 - D. 5.96 × 10²⁴ kg
 
-**Q230.** A student plots the gravitational force F between two fixed masses against 1/r², where r is their separation. The graph should be:
+**Q489.** A student plots the gravitational force F between two fixed masses against 1/r², where r is their separation. The graph should be:
 <!-- id: physics-1-1-22 -->
 
 - A. a straight line through the origin
@@ -1663,7 +3486,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. a curve that rises then flattens
 - D. a horizontal line
 
-**Q231.** Two 5.0 kg bowling balls sit with their centres 0.50 m apart. The gravitational force between them is: (G = 6.67 × 10⁻¹¹ N m² kg⁻²)
+**Q490.** Two 5.0 kg bowling balls sit with their centres 0.50 m apart. The gravitational force between them is: (G = 6.67 × 10⁻¹¹ N m² kg⁻²)
 <!-- id: physics-1-1-23 -->
 
 - A. 3.3 × 10⁻⁹ N
@@ -1671,19 +3494,19 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 1.7 × 10⁻⁹ N
 - D. 6.7 × 10⁻¹⁰ N
 
-**Q232.** A spacecraft moves from an orbital radius of 7.0 × 10⁶ m out to 4.2 × 10⁷ m from Earth's centre. By what factor does the gravitational force on it decrease?
+**Q491.** A spacecraft moves from an orbital radius of 7.0 × 10⁶ m out to 4.2 × 10⁷ m from Earth's centre. By what factor does the gravitational force on it decrease?
 <!-- id: physics-1-1-24 -->
 
 *Written answer*
 
-**Q233.** Two 50 kg masses attract each other with a gravitational force of 1.0 × 10⁻⁸ N. Calculate the distance between their centres. (G = 6.67 × 10⁻¹¹ N m² kg⁻²)
+**Q492.** Two 50 kg masses attract each other with a gravitational force of 1.0 × 10⁻⁸ N. Calculate the distance between their centres. (G = 6.67 × 10⁻¹¹ N m² kg⁻²)
 <!-- id: physics-1-1-25 -->
 
 *Written answer*
 
 #### Gravitational field strength
 
-**Q234.** Using g = GM/R², the gravitational field strength at Earth's surface is closest to: (Use G = 6.67 × 10⁻¹¹ N m² kg⁻², M_Earth = 5.97 × 10²⁴ kg, R_Earth = 6.37 × 10⁶ m.)
+**Q493.** Using g = GM/R², the gravitational field strength at Earth's surface is closest to: (Use G = 6.67 × 10⁻¹¹ N m² kg⁻², M_Earth = 5.97 × 10²⁴ kg, R_Earth = 6.37 × 10⁶ m.)
 <!-- id: physics-1-2-1 -->
 
 - A. 6.25 × 10⁷ N kg⁻¹
@@ -1691,7 +3514,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 9.81 N kg⁻¹
 - D. 4.91 N kg⁻¹
 
-**Q235.** The unit N kg⁻¹ for gravitational field strength is equivalent to:
+**Q494.** The unit N kg⁻¹ for gravitational field strength is equivalent to:
 <!-- id: physics-1-2-2 -->
 
 - A. kg m s⁻¹
@@ -1699,7 +3522,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. m s⁻¹
 - D. m s⁻²
 
-**Q236.** The International Space Station orbits about 400 km above Earth's surface. The gravitational field strength at its altitude is closest to: (Use G = 6.67 × 10⁻¹¹ N m² kg⁻², M_Earth = 5.97 × 10²⁴ kg, R_Earth = 6.37 × 10⁶ m.)
+**Q495.** The International Space Station orbits about 400 km above Earth's surface. The gravitational field strength at its altitude is closest to: (Use G = 6.67 × 10⁻¹¹ N m² kg⁻², M_Earth = 5.97 × 10²⁴ kg, R_Earth = 6.37 × 10⁶ m.)
 <!-- id: physics-1-2-3 -->
 
 - A. 8.7 N kg⁻¹
@@ -1707,12 +3530,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 9.8 N kg⁻¹
 - D. 2.5 N kg⁻¹
 
-**Q237.** Calculate the gravitational field strength at the 'surface' of Jupiter (mass 1.90 × 10²⁷ kg, radius 6.99 × 10⁷ m). (G = 6.67 × 10⁻¹¹ N m² kg⁻²)
+**Q496.** Calculate the gravitational field strength at the 'surface' of Jupiter (mass 1.90 × 10²⁷ kg, radius 6.99 × 10⁷ m). (G = 6.67 × 10⁻¹¹ N m² kg⁻²)
 <!-- id: physics-1-2-4 -->
 
 *Written answer*
 
-**Q238.** At a height above Earth's surface equal to one Earth radius, the gravitational field strength is approximately:
+**Q497.** At a height above Earth's surface equal to one Earth radius, the gravitational field strength is approximately:
 <!-- id: physics-1-2-5 -->
 
 - A. 4.9 N kg⁻¹
@@ -1720,7 +3543,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 9.8 N kg⁻¹
 - D. 1.09 N kg⁻¹
 
-**Q239.** The Moon has mass 7.35 × 10²² kg and radius 1.74 × 10⁶ m. The gravitational field strength at its surface is closest to: (G = 6.67 × 10⁻¹¹ N m² kg⁻²)
+**Q498.** The Moon has mass 7.35 × 10²² kg and radius 1.74 × 10⁶ m. The gravitational field strength at its surface is closest to: (G = 6.67 × 10⁻¹¹ N m² kg⁻²)
 <!-- id: physics-1-2-6 -->
 
 - A. 2.82 × 10⁶ N kg⁻¹
@@ -1728,7 +3551,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 1.62 N kg⁻¹
 - D. 0.27 N kg⁻¹
 
-**Q240.** Planet P has twice the mass and twice the radius of Earth. The gravitational field strength at its surface, compared with Earth's, is:
+**Q499.** Planet P has twice the mass and twice the radius of Earth. The gravitational field strength at its surface, compared with Earth's, is:
 <!-- id: physics-1-2-7 -->
 
 - A. the same
@@ -1736,12 +3559,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. one quarter
 - D. half
 
-**Q241.** Distinguish between mass and weight, using an astronaut travelling from Earth to the Moon as an example.
+**Q500.** Distinguish between mass and weight, using an astronaut travelling from Earth to the Moon as an example.
 <!-- id: physics-1-2-8 -->
 
 *Written answer*
 
-**Q242.** A planet has the same average density as Earth but twice Earth's radius. Its surface gravitational field strength is:
+**Q501.** A planet has the same average density as Earth but twice Earth's radius. Its surface gravitational field strength is:
 <!-- id: physics-1-2-9 -->
 
 - A. twice Earth's
@@ -1749,7 +3572,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. four times Earth's
 - D. eight times Earth's
 
-**Q243.** The direction of the gravitational field at any point near a planet is:
+**Q502.** The direction of the gravitational field at any point near a planet is:
 <!-- id: physics-1-2-10 -->
 
 - A. away from the centre of the planet
@@ -1757,7 +3580,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. tangential to the planet's surface
 - D. in the direction the planet rotates
 
-**Q244.** An 80 kg astronaut stands on Mars (mass 6.42 × 10²³ kg, radius 3.39 × 10⁶ m). Her weight on Mars is closest to: (G = 6.67 × 10⁻¹¹ N m² kg⁻²)
+**Q503.** An 80 kg astronaut stands on Mars (mass 6.42 × 10²³ kg, radius 3.39 × 10⁶ m). Her weight on Mars is closest to: (G = 6.67 × 10⁻¹¹ N m² kg⁻²)
 <!-- id: physics-1-2-11 -->
 
 - A. 784 N
@@ -1765,12 +3588,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 298 N
 - D. 3.73 N
 
-**Q245.** Planet X has 4 times the mass and 2 times the radius of Earth. Determine the gravitational field strength at its surface (g_Earth = 9.8 N kg⁻¹).
+**Q504.** Planet X has 4 times the mass and 2 times the radius of Earth. Determine the gravitational field strength at its surface (g_Earth = 9.8 N kg⁻¹).
 <!-- id: physics-1-2-12 -->
 
 *Written answer*
 
-**Q246.** In a gravitational field diagram, regions where the field lines are closer together indicate:
+**Q505.** In a gravitational field diagram, regions where the field lines are closer together indicate:
 <!-- id: physics-1-2-13 -->
 
 - A. a weaker gravitational field
@@ -1778,7 +3601,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. zero gravitational field
 - D. a stronger gravitational field
 
-**Q247.** Gravitational field strength at a point is best defined as:
+**Q506.** Gravitational field strength at a point is best defined as:
 <!-- id: physics-1-2-14 -->
 
 - A. the gravitational force per unit mass on a small test mass placed at that point
@@ -1786,7 +3609,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. the gravitational potential energy of a 1 kg mass at that point
 - D. the speed a falling object reaches at that point
 
-**Q248.** At what altitude above Earth's surface is the gravitational field strength half its surface value? (R_Earth = 6.37 × 10⁶ m)
+**Q507.** At what altitude above Earth's surface is the gravitational field strength half its surface value? (R_Earth = 6.37 × 10⁶ m)
 <!-- id: physics-1-2-15 -->
 
 - A. 6.37 × 10⁶ m
@@ -1794,12 +3617,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 3.19 × 10⁶ m
 - D. 9.01 × 10⁶ m
 
-**Q249.** Show how the expression g = GM/r² follows from Newton's law of universal gravitation.
+**Q508.** Show how the expression g = GM/r² follows from Newton's law of universal gravitation.
 <!-- id: physics-1-2-16 -->
 
 *Written answer*
 
-**Q250.** Two identical stars are some distance apart. The net gravitational field strength at the midpoint between them is:
+**Q509.** Two identical stars are some distance apart. The net gravitational field strength at the midpoint between them is:
 <!-- id: physics-1-2-17 -->
 
 - A. twice the field of one star at that point
@@ -1807,7 +3630,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. zero
 - D. directed towards one of the stars
 
-**Q251.** Over a region the size of a sports oval near Earth's surface, the gravitational field is modelled as uniform. This means the field lines are drawn:
+**Q510.** Over a region the size of a sports oval near Earth's surface, the gravitational field is modelled as uniform. This means the field lines are drawn:
 <!-- id: physics-1-2-18 -->
 
 - A. radiating outwards from the ground
@@ -1815,7 +3638,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. curved, closer together at the edges
 - D. parallel, equally spaced and pointing downwards
 
-**Q252.** Astronauts on the International Space Station float freely inside the cabin. This is because:
+**Q511.** Astronauts on the International Space Station float freely inside the cabin. This is because:
 <!-- id: physics-1-2-19 -->
 
 - A. they and the station are both in free fall, accelerating at the same rate towards Earth
@@ -1823,12 +3646,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. the station is beyond the reach of Earth's gravity
 - D. the station's mass cancels Earth's gravity
 
-**Q253.** A planet has a surface gravitational field strength of 3.7 N kg⁻¹ and a radius of 3.39 × 10⁶ m. Calculate its mass. (G = 6.67 × 10⁻¹¹ N m² kg⁻²)
+**Q512.** A planet has a surface gravitational field strength of 3.7 N kg⁻¹ and a radius of 3.39 × 10⁶ m. Calculate its mass. (G = 6.67 × 10⁻¹¹ N m² kg⁻²)
 <!-- id: physics-1-2-20 -->
 
 *Written answer*
 
-**Q254.** A 10 kg box of equipment is taken from Earth to the Moon. On the Moon its mass is:
+**Q513.** A 10 kg box of equipment is taken from Earth to the Moon. On the Moon its mass is:
 <!-- id: physics-1-2-21 -->
 
 - A. 1.6 kg
@@ -1836,7 +3659,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 16 kg
 - D. 62 kg
 
-**Q255.** Geostationary satellites orbit 4.22 × 10⁷ m from Earth's centre. The gravitational field strength at this radius is closest to: (G = 6.67 × 10⁻¹¹ N m² kg⁻², M_Earth = 5.97 × 10²⁴ kg)
+**Q514.** Geostationary satellites orbit 4.22 × 10⁷ m from Earth's centre. The gravitational field strength at this radius is closest to: (G = 6.67 × 10⁻¹¹ N m² kg⁻², M_Earth = 5.97 × 10²⁴ kg)
 <!-- id: physics-1-2-22 -->
 
 - A. 9.8 N kg⁻¹
@@ -1844,7 +3667,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 0.224 N kg⁻¹
 - D. 1.47 N kg⁻¹
 
-**Q256.** A space probe is at a distance of 3R from Earth's centre, where R is Earth's radius. The field strength there, as a fraction of the surface value, is:
+**Q515.** A space probe is at a distance of 3R from Earth's centre, where R is Earth's radius. The field strength there, as a fraction of the surface value, is:
 <!-- id: physics-1-2-23 -->
 
 - A. 1/3
@@ -1852,19 +3675,19 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 1/16
 - D. 1/9
 
-**Q257.** The measured value of g at Earth's poles (about 9.83 N kg⁻¹) is slightly greater than at the equator (about 9.78 N kg⁻¹). Give one reason for this.
+**Q516.** The measured value of g at Earth's poles (about 9.83 N kg⁻¹) is slightly greater than at the equator (about 9.78 N kg⁻¹). Give one reason for this.
 <!-- id: physics-1-2-24 -->
 
 *Written answer*
 
-**Q258.** A spacecraft lies on the line between Earth and the Moon, 3.0 × 10⁸ m from Earth's centre and 8.4 × 10⁷ m from the Moon's centre. Calculate the net gravitational field strength there and state its direction. (G = 6.67 × 10⁻¹¹ N m² kg⁻², M_Earth = 5.97 × 10²⁴ kg, M_Moon = 7.35 × 10²² kg)
+**Q517.** A spacecraft lies on the line between Earth and the Moon, 3.0 × 10⁸ m from Earth's centre and 8.4 × 10⁷ m from the Moon's centre. Calculate the net gravitational field strength there and state its direction. (G = 6.67 × 10⁻¹¹ N m² kg⁻², M_Earth = 5.97 × 10²⁴ kg, M_Moon = 7.35 × 10²² kg)
 <!-- id: physics-1-2-25 -->
 
 *Written answer*
 
 #### Satellites, orbits and Kepler's law
 
-**Q259.** The ISS orbits at a radius of 6.77 × 10⁶ m from Earth's centre. Its orbital speed is closest to: (G = 6.67 × 10⁻¹¹ N m² kg⁻², M_Earth = 5.97 × 10²⁴ kg)
+**Q518.** The ISS orbits at a radius of 6.77 × 10⁶ m from Earth's centre. Its orbital speed is closest to: (G = 6.67 × 10⁻¹¹ N m² kg⁻², M_Earth = 5.97 × 10²⁴ kg)
 <!-- id: physics-1-3-1 -->
 
 - A. 7.67 × 10³ m s⁻¹
@@ -1872,7 +3695,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 1.08 × 10⁴ m s⁻¹
 - D. 2.42 × 10³ m s⁻¹
 
-**Q260.** The ISS (orbital radius 6.77 × 10⁶ m, speed 7.67 × 10³ m s⁻¹) has an orbital period closest to:
+**Q519.** The ISS (orbital radius 6.77 × 10⁶ m, speed 7.67 × 10³ m s⁻¹) has an orbital period closest to:
 <!-- id: physics-1-3-2 -->
 
 - A. 15 minutes
@@ -1880,7 +3703,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 24 hours
 - D. 46 minutes
 
-**Q261.** A geostationary satellite has a period of 24 hours. Its orbital radius from Earth's centre is closest to: (G = 6.67 × 10⁻¹¹ N m² kg⁻², M_Earth = 5.97 × 10²⁴ kg)
+**Q520.** A geostationary satellite has a period of 24 hours. Its orbital radius from Earth's centre is closest to: (G = 6.67 × 10⁻¹¹ N m² kg⁻², M_Earth = 5.97 × 10²⁴ kg)
 <!-- id: physics-1-3-3 -->
 
 - A. 3.58 × 10⁷ m
@@ -1888,12 +3711,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 4.22 × 10⁷ m
 - D. 1.78 × 10¹⁵ m
 
-**Q262.** Starting from Newton's law of gravitation and the centripetal force, derive Kepler's third law, T² = 4π²r³/(GM), for a satellite in circular orbit.
+**Q521.** Starting from Newton's law of gravitation and the centripetal force, derive Kepler's third law, T² = 4π²r³/(GM), for a satellite in circular orbit.
 <!-- id: physics-1-3-4 -->
 
 *Written answer*
 
-**Q263.** A satellite is moved to a circular orbit with four times the original radius. According to Kepler's third law, its period becomes:
+**Q522.** A satellite is moved to a circular orbit with four times the original radius. According to Kepler's third law, its period becomes:
 <!-- id: physics-1-3-5 -->
 
 - A. 4 times as long
@@ -1901,7 +3724,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 2 times as long
 - D. 8 times as long
 
-**Q264.** Two satellites, one of 500 kg and one of 2000 kg, are in circular orbits of the same radius around Earth. Compared with the lighter satellite, the heavier one has:
+**Q523.** Two satellites, one of 500 kg and one of 2000 kg, are in circular orbits of the same radius around Earth. Compared with the lighter satellite, the heavier one has:
 <!-- id: physics-1-3-6 -->
 
 - A. the same speed and period
@@ -1909,7 +3732,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. twice the period
 - D. a quarter of the speed
 
-**Q265.** For a satellite in uniform circular orbit around Earth, the net force on the satellite is:
+**Q524.** For a satellite in uniform circular orbit around Earth, the net force on the satellite is:
 <!-- id: physics-1-3-7 -->
 
 - A. zero, because its speed is constant
@@ -1917,12 +3740,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. directed along its velocity
 - D. directed outwards, balancing gravity
 
-**Q266.** A weather satellite is in a circular orbit with a period of 100 minutes. Calculate its altitude above Earth's surface. (Use G = 6.67 × 10⁻¹¹ N m² kg⁻², M_Earth = 5.97 × 10²⁴ kg, R_Earth = 6.37 × 10⁶ m.)
+**Q525.** A weather satellite is in a circular orbit with a period of 100 minutes. Calculate its altitude above Earth's surface. (Use G = 6.67 × 10⁻¹¹ N m² kg⁻², M_Earth = 5.97 × 10²⁴ kg, R_Earth = 6.37 × 10⁶ m.)
 <!-- id: physics-1-3-8 -->
 
 *Written answer*
 
-**Q267.** A satellite is boosted from a low circular orbit to a higher circular orbit. In the higher orbit its orbital speed is:
+**Q526.** A satellite is boosted from a low circular orbit to a higher circular orbit. In the higher orbit its orbital speed is:
 <!-- id: physics-1-3-9 -->
 
 - A. higher
@@ -1930,7 +3753,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. lower
 - D. zero
 
-**Q268.** Which set of conditions is required for a geostationary orbit?
+**Q527.** Which set of conditions is required for a geostationary orbit?
 <!-- id: physics-1-3-10 -->
 
 - A. Above the poles, period of 24 hours
@@ -1938,7 +3761,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Above the equator, period of 90 minutes, any direction
 - D. Above the equator, period of 24 hours, orbiting in the same direction as Earth's rotation
 
-**Q269.** The centripetal acceleration of a satellite in circular orbit is equal to:
+**Q528.** The centripetal acceleration of a satellite in circular orbit is equal to:
 <!-- id: physics-1-3-11 -->
 
 - A. the gravitational field strength at its orbital radius
@@ -1946,12 +3769,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 9.8 m s⁻² at all altitudes
 - D. its orbital speed divided by its period
 
-**Q270.** Explain why geostationary satellites, such as the NBN Sky Muster satellites serving rural Australia, are well suited to communications.
+**Q529.** Explain why geostationary satellites, such as the NBN Sky Muster satellites serving rural Australia, are well suited to communications.
 <!-- id: physics-1-3-12 -->
 
 *Written answer*
 
-**Q271.** The Moon orbits Earth at a radius of 3.84 × 10⁸ m. Using Kepler's third law, its period is closest to: (G = 6.67 × 10⁻¹¹ N m² kg⁻², M_Earth = 5.97 × 10²⁴ kg)
+**Q530.** The Moon orbits Earth at a radius of 3.84 × 10⁸ m. Using Kepler's third law, its period is closest to: (G = 6.67 × 10⁻¹¹ N m² kg⁻², M_Earth = 5.97 × 10²⁴ kg)
 <!-- id: physics-1-3-13 -->
 
 - A. 1.0 day
@@ -1959,7 +3782,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 365 days
 - D. 4.4 days
 
-**Q272.** Mars' moon Phobos orbits at a radius of 9.38 × 10⁶ m with a period of 2.76 × 10⁴ s. The mass of Mars is closest to: (G = 6.67 × 10⁻¹¹ N m² kg⁻²)
+**Q531.** Mars' moon Phobos orbits at a radius of 9.38 × 10⁶ m with a period of 2.76 × 10⁴ s. The mass of Mars is closest to: (G = 6.67 × 10⁻¹¹ N m² kg⁻²)
 <!-- id: physics-1-3-14 -->
 
 - A. 1.6 × 10²² kg
@@ -1967,7 +3790,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 6.4 × 10²³ kg
 - D. 2.5 × 10²⁵ kg
 
-**Q273.** If a satellite's orbital radius is doubled, its orbital speed changes by a factor of:
+**Q532.** If a satellite's orbital radius is doubled, its orbital speed changes by a factor of:
 <!-- id: physics-1-3-15 -->
 
 - A. 1/2
@@ -1975,12 +3798,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 1/4
 - D. 1/√2
 
-**Q274.** Mars orbits the Sun at a mean radius of 2.28 × 10¹¹ m and Earth at 1.50 × 10¹¹ m. Use Kepler's third law to find the orbital period of Mars in Earth years.
+**Q533.** Mars orbits the Sun at a mean radius of 2.28 × 10¹¹ m and Earth at 1.50 × 10¹¹ m. Use Kepler's third law to find the orbital period of Mars in Earth years.
 <!-- id: physics-1-3-16 -->
 
 *Written answer*
 
-**Q275.** The work done by Earth's gravitational force on a satellite during one complete uniform circular orbit is:
+**Q534.** The work done by Earth's gravitational force on a satellite during one complete uniform circular orbit is:
 <!-- id: physics-1-3-17 -->
 
 - A. zero, because the force is always perpendicular to the velocity
@@ -1988,7 +3811,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. negative, because gravity slows it down
 - D. equal to its kinetic energy
 
-**Q276.** The kinetic energy of a satellite of mass m in a circular orbit of radius r around a planet of mass M is:
+**Q535.** The kinetic energy of a satellite of mass m in a circular orbit of radius r around a planet of mass M is:
 <!-- id: physics-1-3-18 -->
 
 - A. GMm/r
@@ -1996,7 +3819,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. GMm/r²
 - D. 2GMm/r
 
-**Q277.** Satellite A orbits Earth at radius r and satellite B at radius 4r. The ratio of their speeds v_A : v_B is:
+**Q536.** Satellite A orbits Earth at radius r and satellite B at radius 4r. The ratio of their speeds v_A : v_B is:
 <!-- id: physics-1-3-19 -->
 
 - A. 1 : 2
@@ -2004,12 +3827,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 2 : 1
 - D. 16 : 1
 
-**Q278.** The Moon orbits Earth at radius 3.84 × 10⁸ m with a period of 27.3 days. Calculate its orbital speed.
+**Q537.** The Moon orbits Earth at radius 3.84 × 10⁸ m with a period of 27.3 days. Calculate its orbital speed.
 <!-- id: physics-1-3-20 -->
 
 *Written answer*
 
-**Q279.** Two moons orbit the same planet. Moon Q's orbital radius is 9 times Moon P's. The ratio of their periods T_Q : T_P is:
+**Q538.** Two moons orbit the same planet. Moon Q's orbital radius is 9 times Moon P's. The ratio of their periods T_Q : T_P is:
 <!-- id: physics-1-3-21 -->
 
 - A. 9 : 1
@@ -2017,7 +3840,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 3 : 1
 - D. 27 : 1
 
-**Q280.** GPS satellites have an orbital period of 12 hours. Given that the geostationary orbital radius (24-hour period) is 4.22 × 10⁷ m, the radius of a GPS orbit is closest to:
+**Q539.** GPS satellites have an orbital period of 12 hours. Given that the geostationary orbital radius (24-hour period) is 4.22 × 10⁷ m, the radius of a GPS orbit is closest to:
 <!-- id: physics-1-3-22 -->
 
 - A. 2.66 × 10⁷ m
@@ -2025,7 +3848,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 1.06 × 10⁷ m
 - D. 2.98 × 10⁷ m
 
-**Q281.** An astronaut on a bathroom scale inside an orbiting spacecraft reads zero. This is because:
+**Q540.** An astronaut on a bathroom scale inside an orbiting spacecraft reads zero. This is because:
 <!-- id: physics-1-3-23 -->
 
 - A. gravity does not act in space
@@ -2033,19 +3856,19 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. the astronaut's mass becomes zero in orbit
 - D. the spacecraft's engines cancel gravity
 
-**Q282.** Earth orbits the Sun at a radius of 1.50 × 10¹¹ m with a period of 3.16 × 10⁷ s. Calculate the mass of the Sun. (G = 6.67 × 10⁻¹¹ N m² kg⁻²)
+**Q541.** Earth orbits the Sun at a radius of 1.50 × 10¹¹ m with a period of 3.16 × 10⁷ s. Calculate the mass of the Sun. (G = 6.67 × 10⁻¹¹ N m² kg⁻²)
 <!-- id: physics-1-3-24 -->
 
 *Written answer*
 
-**Q283.** A satellite in a low orbit experiences slight atmospheric drag. Explain what happens to its orbital radius and its speed over time.
+**Q542.** A satellite in a low orbit experiences slight atmospheric drag. Explain what happens to its orbital radius and its speed over time.
 <!-- id: physics-1-3-25 -->
 
 *Written answer*
 
 #### Gravitational potential energy from graphs
 
-**Q284.** The area under a gravitational force versus distance graph between two radii represents:
+**Q543.** The area under a gravitational force versus distance graph between two radii represents:
 <!-- id: physics-1-4-1 -->
 
 - A. the gravitational field strength
@@ -2053,7 +3876,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. the change in gravitational potential energy of the object between those radii
 - D. the power required to move the object
 
-**Q285.** The area under a gravitational field strength versus distance graph between two radii represents:
+**Q544.** The area under a gravitational field strength versus distance graph between two radii represents:
 <!-- id: physics-1-4-2 -->
 
 - A. the total change in gravitational potential energy
@@ -2061,7 +3884,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. the gravitational force per metre
 - D. the change in gravitational potential energy per kilogram
 
-**Q286.** The units of the area under a gravitational field strength (N kg⁻¹) versus distance (m) graph are:
+**Q545.** The units of the area under a gravitational field strength (N kg⁻¹) versus distance (m) graph are:
 <!-- id: physics-1-4-3 -->
 
 - A. J kg⁻¹
@@ -2069,12 +3892,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. J
 - D. N kg⁻¹ m⁻¹
 
-**Q287.** Describe how a gravitational force–distance graph can be used to find the energy needed to move a satellite from one orbital radius to a higher one.
+**Q546.** Describe how a gravitational force–distance graph can be used to find the energy needed to move a satellite from one orbital radius to a higher one.
 <!-- id: physics-1-4-4 -->
 
 *Written answer*
 
-**Q288.** A 2.0 kg bag is lifted 5.0 m onto a mezzanine floor. Taking g = 9.8 N kg⁻¹, its gravitational potential energy increases by:
+**Q547.** A 2.0 kg bag is lifted 5.0 m onto a mezzanine floor. Taking g = 9.8 N kg⁻¹, its gravitational potential energy increases by:
 <!-- id: physics-1-4-5 -->
 
 - A. 10 J
@@ -2082,7 +3905,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 49 J
 - D. 196 J
 
-**Q289.** On a g–r graph, g is 9.8 N kg⁻¹ at r = 6.4 × 10⁶ m and 8.2 N kg⁻¹ at r = 7.0 × 10⁶ m. Treating the graph as a straight line between these points, the energy needed to raise a 1000 kg satellite between these radii is about:
+**Q548.** On a g–r graph, g is 9.8 N kg⁻¹ at r = 6.4 × 10⁶ m and 8.2 N kg⁻¹ at r = 7.0 × 10⁶ m. Treating the graph as a straight line between these points, the energy needed to raise a 1000 kg satellite between these radii is about:
 <!-- id: physics-1-4-6 -->
 
 - A. 5.4 × 10⁶ J
@@ -2090,7 +3913,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 5.4 × 10⁹ J
 - D. 9.0 × 10³ J
 
-**Q290.** Why is ΔU = mgΔh unsuitable for calculating the energy needed to lift a satellite to an altitude of 20 000 km?
+**Q549.** Why is ΔU = mgΔh unsuitable for calculating the energy needed to lift a satellite to an altitude of 20 000 km?
 <!-- id: physics-1-4-7 -->
 
 - A. mgh applies only to objects at rest
@@ -2098,12 +3921,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. mgh ignores Newton's third law
 - D. g decreases significantly over that distance, so it cannot be treated as constant
 
-**Q291.** The gravitational field strength is 8.13 N kg⁻¹ at r = 7.0 × 10⁶ m and 6.22 N kg⁻¹ at r = 8.0 × 10⁶ m from Earth's centre. Using a single trapezium, estimate the energy required to raise a 250 kg satellite between these radii.
+**Q550.** The gravitational field strength is 8.13 N kg⁻¹ at r = 7.0 × 10⁶ m and 6.22 N kg⁻¹ at r = 8.0 × 10⁶ m from Earth's centre. Using a single trapezium, estimate the energy required to raise a 250 kg satellite between these radii.
 <!-- id: physics-1-4-8 -->
 
 *Written answer*
 
-**Q292.** A probe moves from radius r₁ to a larger radius r₂ from Earth's centre. Ignoring changes in kinetic energy, the minimum energy needed equals:
+**Q551.** A probe moves from radius r₁ to a larger radius r₂ from Earth's centre. Ignoring changes in kinetic energy, the minimum energy needed equals:
 <!-- id: physics-1-4-9 -->
 
 - A. the probe's mass multiplied by the area under the g–r graph from r₁ to r₂
@@ -2111,7 +3934,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. the area under the g–r graph from 0 to r₁
 - D. the gradient of the F–r graph at r₂
 
-**Q293.** A model rocket at Woomera rises vertically after its engine has stopped. As it rises, ignoring air resistance:
+**Q552.** A model rocket at Woomera rises vertically after its engine has stopped. As it rises, ignoring air resistance:
 <!-- id: physics-1-4-10 -->
 
 - A. both its gravitational potential energy and its kinetic energy increase
@@ -2119,7 +3942,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. its gravitational potential energy decreases and its kinetic energy increases
 - D. its total mechanical energy decreases
 
-**Q294.** On a g–r graph, each grid square represents 0.5 N kg⁻¹ by 1.0 × 10⁶ m. The region under the curve between two radii covers about 12 squares. The change in gravitational potential energy of a 200 kg satellite between those radii is:
+**Q553.** On a g–r graph, each grid square represents 0.5 N kg⁻¹ by 1.0 × 10⁶ m. The region under the curve between two radii covers about 12 squares. The change in gravitational potential energy of a 200 kg satellite between those radii is:
 <!-- id: physics-1-4-11 -->
 
 - A. 6.0 × 10⁶ J
@@ -2127,12 +3950,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 1.2 × 10⁹ J
 - D. 2.4 × 10⁹ J
 
-**Q295.** A student uses ΔU = mgΔh with g = 9.8 N kg⁻¹ to find the GPE gain of a payload lifted to 400 km altitude. Is the answer too high or too low? Explain.
+**Q554.** A student uses ΔU = mgΔh with g = 9.8 N kg⁻¹ to find the GPE gain of a payload lifted to 400 km altitude. Is the answer too high or too low? Explain.
 <!-- id: physics-1-4-12 -->
 
 *Written answer*
 
-**Q296.** A meteoroid starts from rest far from Earth. The area under the g–r graph from its starting point to the top of the atmosphere is 3.2 × 10⁶ J kg⁻¹. Ignoring other forces, its speed on reaching the atmosphere is about:
+**Q555.** A meteoroid starts from rest far from Earth. The area under the g–r graph from its starting point to the top of the atmosphere is 3.2 × 10⁶ J kg⁻¹. Ignoring other forces, its speed on reaching the atmosphere is about:
 <!-- id: physics-1-4-13 -->
 
 - A. 1.8 × 10³ m s⁻¹
@@ -2140,7 +3963,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 6.4 × 10⁶ m s⁻¹
 - D. 2.5 × 10³ m s⁻¹
 
-**Q297.** Above Earth's surface, a graph of gravitational field strength g against distance r from Earth's centre is best described as:
+**Q556.** Above Earth's surface, a graph of gravitational field strength g against distance r from Earth's centre is best described as:
 <!-- id: physics-1-4-14 -->
 
 - A. a curve decreasing in proportion to 1/r², approaching zero but never reaching it
@@ -2148,7 +3971,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. a horizontal line at 9.8 N kg⁻¹
 - D. a straight line increasing with r
 
-**Q298.** For a 500 kg satellite, the area under its gravitational force–distance graph between two radii, compared with the area under the g–r graph between the same radii, is:
+**Q557.** For a 500 kg satellite, the area under its gravitational force–distance graph between two radii, compared with the area under the g–r graph between the same radii, is:
 <!-- id: physics-1-4-15 -->
 
 - A. the same
@@ -2156,12 +3979,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 500 times smaller
 - D. larger by a factor of 500²
 
-**Q299.** A 450 kg module is lifted from Earth's surface (g = 9.8 N kg⁻¹) to the ISS altitude of 400 km (g = 8.69 N kg⁻¹). Using the average field strength, estimate its increase in gravitational potential energy.
+**Q558.** A 450 kg module is lifted from Earth's surface (g = 9.8 N kg⁻¹) to the ISS altitude of 400 km (g = 8.69 N kg⁻¹). Using the average field strength, estimate its increase in gravitational potential energy.
 <!-- id: physics-1-4-16 -->
 
 *Written answer*
 
-**Q300.** A meteorite falls towards Earth from rest at a great distance. Ignoring air resistance, the kinetic energy it gains equals:
+**Q559.** A meteorite falls towards Earth from rest at a great distance. Ignoring air resistance, the kinetic energy it gains equals:
 <!-- id: physics-1-4-17 -->
 
 - A. the gradient of the force–distance graph
@@ -2169,7 +3992,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. the area under the force–distance graph over the distance it falls
 - D. zero, because gravity is a conservative force
 
-**Q301.** A student estimates the area under a curved g–r graph (decreasing and concave up) by joining the end points with a straight line and finding the trapezium area. This estimate will be:
+**Q560.** A student estimates the area under a curved g–r graph (decreasing and concave up) by joining the end points with a straight line and finding the trapezium area. This estimate will be:
 <!-- id: physics-1-4-18 -->
 
 - A. an underestimate, because the straight line lies below the curve
@@ -2177,7 +4000,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. an overestimate, because g increases with r
 - D. an overestimate, because the straight line lies above the curve
 
-**Q302.** The area under Earth's g–r graph from the surface (R = 6.37 × 10⁶ m) to infinity equals GM/R = 6.25 × 10⁷ J kg⁻¹. The minimum launch speed needed to escape Earth's gravity (ignoring air resistance) is closest to:
+**Q561.** The area under Earth's g–r graph from the surface (R = 6.37 × 10⁶ m) to infinity equals GM/R = 6.25 × 10⁷ J kg⁻¹. The minimum launch speed needed to escape Earth's gravity (ignoring air resistance) is closest to:
 <!-- id: physics-1-4-19 -->
 
 - A. 1.12 × 10⁴ m s⁻¹
@@ -2185,12 +4008,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 6.25 × 10⁷ m s⁻¹
 - D. 3.13 × 10⁷ m s⁻¹
 
-**Q303.** On a force–distance graph for a 1200 kg satellite, each grid square represents 100 N by 1.0 × 10⁵ m. The area under the curve between two orbital radii is 35 squares. Calculate the change in gravitational potential energy.
+**Q562.** On a force–distance graph for a 1200 kg satellite, each grid square represents 100 N by 1.0 × 10⁵ m. The area under the curve between two orbital radii is 35 squares. Calculate the change in gravitational potential energy.
 <!-- id: physics-1-4-20 -->
 
 *Written answer*
 
-**Q304.** A cricket ball is thrown vertically upwards at 20 m s⁻¹. Using conservation of energy (g = 9.8 m s⁻²) and ignoring air resistance, its maximum height is closest to:
+**Q563.** A cricket ball is thrown vertically upwards at 20 m s⁻¹. Using conservation of energy (g = 9.8 m s⁻²) and ignoring air resistance, its maximum height is closest to:
 <!-- id: physics-1-4-21 -->
 
 - A. 2.0 m
@@ -2198,7 +4021,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 41 m
 - D. 10 m
 
-**Q305.** A 60 kg hiker walks from Thredbo village (1365 m above sea level) to the summit of Mt Kosciuszko (2228 m). Taking g = 9.8 N kg⁻¹, her gain in gravitational potential energy is closest to:
+**Q564.** A 60 kg hiker walks from Thredbo village (1365 m above sea level) to the summit of Mt Kosciuszko (2228 m). Taking g = 9.8 N kg⁻¹, her gain in gravitational potential energy is closest to:
 <!-- id: physics-1-4-22 -->
 
 - A. 1.3 × 10⁶ J
@@ -2206,7 +4029,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 5.1 × 10⁵ J
 - D. 5.1 × 10⁴ J
 
-**Q306.** A small mass moves from the surface of a planet out to 2R from its centre. Which graph's area gives the work done per kilogram against gravity?
+**Q565.** A small mass moves from the surface of a planet out to 2R from its centre. Which graph's area gives the work done per kilogram against gravity?
 <!-- id: physics-1-4-23 -->
 
 - A. The area under the gravitational force–distance graph from 0 to R
@@ -2214,12 +4037,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. The area under the field strength–distance graph from 0 to 2R
 - D. The area under the gravitational field strength–distance graph from R to 2R
 
-**Q307.** A coin is dropped from the Eureka Skydeck in Melbourne, 285 m above the ground. Ignoring air resistance and taking g = 9.8 m s⁻², use energy conservation to find its speed just before hitting the ground.
+**Q566.** A coin is dropped from the Eureka Skydeck in Melbourne, 285 m above the ground. Ignoring air resistance and taking g = 9.8 m s⁻², use energy conservation to find its speed just before hitting the ground.
 <!-- id: physics-1-4-24 -->
 
 *Written answer*
 
-**Q308.** Explain why the gravitational potential energy of a satellite increases as it moves to a larger orbital radius, with reference to work done.
+**Q567.** Explain why the gravitational potential energy of a satellite increases as it moves to a larger orbital radius, with reference to work done.
 <!-- id: physics-1-4-25 -->
 
 *Written answer*
@@ -2228,7 +4051,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 #### Coulomb's law and electric fields
 
-**Q309.** Two small spheres carrying charges of +2.0 μC and +3.0 μC are 0.30 m apart. What is the magnitude and nature of the electrostatic force between them? (k = 8.99 × 10⁹ N m² C⁻²)
+**Q568.** Two small spheres carrying charges of +2.0 μC and +3.0 μC are 0.30 m apart. What is the magnitude and nature of the electrostatic force between them? (k = 8.99 × 10⁹ N m² C⁻²)
 <!-- id: physics-2-1-1 -->
 
 - A. 0.60 N, repulsive
@@ -2236,7 +4059,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 0.18 N, repulsive
 - D. 1.8 N, repulsive
 
-**Q310.** The distance between two point charges is tripled. The electrostatic force between them becomes:
+**Q569.** The distance between two point charges is tripled. The electrostatic force between them becomes:
 <!-- id: physics-2-1-2 -->
 
 - A. one-third of its original value
@@ -2244,7 +4067,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. three times its original value
 - D. nine times its original value
 
-**Q311.** Both point charges are doubled in magnitude and the distance between them is also doubled. The force between them:
+**Q570.** Both point charges are doubled in magnitude and the distance between them is also doubled. The force between them:
 <!-- id: physics-2-1-3 -->
 
 - A. doubles
@@ -2252,7 +4075,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. is unchanged
 - D. halves
 
-**Q312.** What is the electric field at a point 0.50 m from a point charge of +4.0 nC? (k = 8.99 × 10⁹ N m² C⁻²)
+**Q571.** What is the electric field at a point 0.50 m from a point charge of +4.0 nC? (k = 8.99 × 10⁹ N m² C⁻²)
 <!-- id: physics-2-1-4 -->
 
 - A. 1.4 × 10² N C⁻¹ directed towards the charge
@@ -2260,7 +4083,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 2.9 × 10² N C⁻¹ directed away from the charge
 - D. 1.4 × 10² N C⁻¹ directed away from the charge
 
-**Q313.** Two parallel plates 2.0 cm apart have a potential difference of 500 V across them. What is the electric field strength between the plates?
+**Q572.** Two parallel plates 2.0 cm apart have a potential difference of 500 V across them. What is the electric field strength between the plates?
 <!-- id: physics-2-1-5 -->
 
 - A. 2.5 × 10⁴ V m⁻¹
@@ -2268,7 +4091,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 1.0 × 10¹ V m⁻¹
 - D. 1.0 × 10³ V m⁻¹
 
-**Q314.** An electron is placed between two parallel plates where the uniform field strength is 2.5 × 10⁴ V m⁻¹. What is the magnitude of the force on the electron?
+**Q573.** An electron is placed between two parallel plates where the uniform field strength is 2.5 × 10⁴ V m⁻¹. What is the magnitude of the force on the electron?
 <!-- id: physics-2-1-6 -->
 
 - A. 4.0 × 10⁻¹⁷ N
@@ -2276,7 +4099,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 8.0 × 10⁻¹⁷ N
 - D. 1.6 × 10⁻¹⁸ N
 
-**Q315.** An electron is released from rest midway between two charged parallel plates. In which direction does it accelerate?
+**Q574.** An electron is released from rest midway between two charged parallel plates. In which direction does it accelerate?
 <!-- id: physics-2-1-7 -->
 
 - A. Towards the negative plate
@@ -2284,7 +4107,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Towards the positive plate
 - D. It does not accelerate because the field is uniform
 
-**Q316.** Which statement about electric field lines is correct?
+**Q575.** Which statement about electric field lines is correct?
 <!-- id: physics-2-1-8 -->
 
 - A. They can cross at points where the field is very strong.
@@ -2292,7 +4115,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. They always show the actual path taken by a charged particle.
 - D. They begin on positive charges and end on negative charges.
 
-**Q317.** Which statement best describes the electric field between two large, oppositely charged parallel plates, away from the edges?
+**Q576.** Which statement best describes the electric field between two large, oppositely charged parallel plates, away from the edges?
 <!-- id: physics-2-1-9 -->
 
 - A. It is uniform in both magnitude and direction.
@@ -2300,7 +4123,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. It decreases with the inverse square of distance from each plate.
 - D. It is zero at the midpoint between the plates.
 
-**Q318.** How much work is done by the electric field on an electron accelerated from rest through a potential difference of 2000 V?
+**Q577.** How much work is done by the electric field on an electron accelerated from rest through a potential difference of 2000 V?
 <!-- id: physics-2-1-10 -->
 
 - A. 8.0 × 10⁻²³ J
@@ -2308,7 +4131,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 1.6 × 10⁻¹⁶ J
 - D. 6.4 × 10⁻¹⁶ J
 
-**Q319.** Charges +Q and −Q of equal magnitude are fixed a distance apart. At the midpoint between them, the electric field is:
+**Q578.** Charges +Q and −Q of equal magnitude are fixed a distance apart. At the midpoint between them, the electric field is:
 <!-- id: physics-2-1-11 -->
 
 - A. zero
@@ -2316,7 +4139,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. non-zero and directed towards −Q
 - D. non-zero and perpendicular to the line joining the charges
 
-**Q320.** A charge of +4q and a charge of +q are separated by a distance d. At what point on the line between them is the electric field zero?
+**Q579.** A charge of +4q and a charge of +q are separated by a distance d. At what point on the line between them is the electric field zero?
 <!-- id: physics-2-1-12 -->
 
 - A. d/3 from the +4q charge
@@ -2324,7 +4147,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. d/2 from either charge
 - D. d/3 from the +q charge
 
-**Q321.** At a distance r from a point charge the electric field strength is E. What is the field strength at a distance 2r?
+**Q580.** At a distance r from a point charge the electric field strength is E. What is the field strength at a distance 2r?
 <!-- id: physics-2-1-13 -->
 
 - A. E/4
@@ -2332,7 +4155,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 2E
 - D. 4E
 
-**Q322.** A proton is placed in a uniform electric field of 3.0 × 10³ N C⁻¹. What is the magnitude of its acceleration? (mₚ = 1.67 × 10⁻²⁷ kg)
+**Q581.** A proton is placed in a uniform electric field of 3.0 × 10³ N C⁻¹. What is the magnitude of its acceleration? (mₚ = 1.67 × 10⁻²⁷ kg)
 <!-- id: physics-2-1-14 -->
 
 - A. 5.3 × 10¹⁴ m s⁻²
@@ -2340,7 +4163,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 4.8 × 10⁻¹⁶ m s⁻²
 - D. 2.9 × 10⁸ m s⁻²
 
-**Q323.** Which statement correctly compares electric and gravitational fields?
+**Q582.** Which statement correctly compares electric and gravitational fields?
 <!-- id: physics-2-1-15 -->
 
 - A. Gravitational fields of point masses follow an inverse square law but electric fields of point charges do not.
@@ -2348,7 +4171,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Electric forces can be attractive or repulsive, whereas gravitational forces are only attractive.
 - D. The gravitational force between two protons is greater than the electric force between them.
 
-**Q324.** Two identical small conducting spheres carry charges of +6 μC and −2 μC. They are touched together and then returned to their original separation. Compared with the original force, the new force is:
+**Q583.** Two identical small conducting spheres carry charges of +6 μC and −2 μC. They are touched together and then returned to their original separation. Compared with the original force, the new force is:
 <!-- id: physics-2-1-16 -->
 
 - A. one-third of the original magnitude, and attractive
@@ -2356,7 +4179,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. two-thirds of the original magnitude, and repulsive
 - D. one-third of the original magnitude, and repulsive
 
-**Q325.** The unit N C⁻¹ for electric field strength is equivalent to:
+**Q584.** The unit N C⁻¹ for electric field strength is equivalent to:
 <!-- id: physics-2-1-17 -->
 
 - A. V m⁻¹
@@ -2364,7 +4187,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. C m⁻¹
 - D. N m C⁻¹
 
-**Q326.** An electron is accelerated from rest through a potential difference of 500 V. What is its final speed? (mₑ = 9.1 × 10⁻³¹ kg)
+**Q585.** An electron is accelerated from rest through a potential difference of 500 V. What is its final speed? (mₑ = 9.1 × 10⁻³¹ kg)
 <!-- id: physics-2-1-18 -->
 
 - A. 9.4 × 10⁶ m s⁻¹
@@ -2372,44 +4195,44 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 1.8 × 10¹⁴ m s⁻¹
 - D. 3.1 × 10⁵ m s⁻¹
 
-**Q327.** Calculate the magnitude of the electrostatic force between the electron and proton in a hydrogen atom, given their separation is 5.3 × 10⁻¹¹ m. State whether the force is attractive or repulsive.
+**Q586.** Calculate the magnitude of the electrostatic force between the electron and proton in a hydrogen atom, given their separation is 5.3 × 10⁻¹¹ m. State whether the force is attractive or repulsive.
 <!-- id: physics-2-1-19 -->
 
 *Written answer*
 
-**Q328.** Describe in words the electric field pattern around two equal positive point charges placed near each other.
+**Q587.** Describe in words the electric field pattern around two equal positive point charges placed near each other.
 <!-- id: physics-2-1-20 -->
 
 *Written answer*
 
-**Q329.** An electron enters the region between two horizontal charged parallel plates travelling horizontally. Explain why its path between the plates is parabolic.
+**Q588.** An electron enters the region between two horizontal charged parallel plates travelling horizontally. Explain why its path between the plates is parabolic.
 <!-- id: physics-2-1-21 -->
 
 *Written answer*
 
-**Q330.** Two parallel plates are 5.0 mm apart. What potential difference must be applied to produce a uniform electric field of 4.0 × 10⁵ V m⁻¹ between them?
+**Q589.** Two parallel plates are 5.0 mm apart. What potential difference must be applied to produce a uniform electric field of 4.0 × 10⁵ V m⁻¹ between them?
 <!-- id: physics-2-1-22 -->
 
 *Written answer*
 
-**Q331.** A small charged sphere experiences a force of 2.4 × 10⁻³ N at a point where the electric field strength is 8.0 × 10³ N C⁻¹. Calculate the magnitude of the charge on the sphere.
+**Q590.** A small charged sphere experiences a force of 2.4 × 10⁻³ N at a point where the electric field strength is 8.0 × 10³ N C⁻¹. Calculate the magnitude of the charge on the sphere.
 <!-- id: physics-2-1-23 -->
 
 *Written answer*
 
-**Q332.** Calculate the ratio of the electrostatic force to the gravitational force between two protons, and comment on the result. (k = 8.99 × 10⁹ N m² C⁻², G = 6.67 × 10⁻¹¹ N m² kg⁻², mₚ = 1.67 × 10⁻²⁷ kg)
+**Q591.** Calculate the ratio of the electrostatic force to the gravitational force between two protons, and comment on the result. (k = 8.99 × 10⁹ N m² C⁻², G = 6.67 × 10⁻¹¹ N m² kg⁻², mₚ = 1.67 × 10⁻²⁷ kg)
 <!-- id: physics-2-1-24 -->
 
 *Written answer*
 
-**Q333.** Point charges of +3.0 nC and −3.0 nC are 0.20 m apart. Calculate the magnitude and direction of the electric field at the midpoint between them.
+**Q592.** Point charges of +3.0 nC and −3.0 nC are 0.20 m apart. Calculate the magnitude and direction of the electric field at the midpoint between them.
 <!-- id: physics-2-1-25 -->
 
 *Written answer*
 
 #### Magnetic fields of wires and solenoids
 
-**Q334.** A long straight wire lies horizontally on a bench and carries a current towards the north. What is the direction of the magnetic field at a point directly above the wire?
+**Q593.** A long straight wire lies horizontally on a bench and carries a current towards the north. What is the direction of the magnetic field at a point directly above the wire?
 <!-- id: physics-2-2-1 -->
 
 - A. West
@@ -2417,7 +4240,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. East
 - D. Vertically upwards
 
-**Q335.** Which description best matches the magnetic field around a long straight current-carrying wire?
+**Q594.** Which description best matches the magnetic field around a long straight current-carrying wire?
 <!-- id: physics-2-2-2 -->
 
 - A. Straight lines radiating outward from the wire
@@ -2425,7 +4248,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. A uniform field directed along the wire
 - D. Concentric circles centred on the wire, in planes perpendicular to it
 
-**Q336.** The distance from a long straight current-carrying wire is doubled. The magnetic field strength:
+**Q595.** The distance from a long straight current-carrying wire is doubled. The magnetic field strength:
 <!-- id: physics-2-2-3 -->
 
 - A. halves
@@ -2433,7 +4256,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. doubles
 - D. stays the same
 
-**Q337.** Which statement best describes the magnetic field inside a long solenoid carrying a steady current?
+**Q596.** Which statement best describes the magnetic field inside a long solenoid carrying a steady current?
 <!-- id: physics-2-2-4 -->
 
 - A. It is zero because fields from opposite sides cancel.
@@ -2441,7 +4264,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. It forms circles around the axis of the solenoid.
 - D. It is strongest close to the windings and zero on the axis.
 
-**Q338.** Looking at one end of a solenoid, the current is seen to flow anticlockwise. That end of the solenoid behaves as:
+**Q597.** Looking at one end of a solenoid, the current is seen to flow anticlockwise. That end of the solenoid behaves as:
 <!-- id: physics-2-2-5 -->
 
 - A. a south pole
@@ -2449,7 +4272,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. a north pole
 - D. a north or south pole depending on the number of turns
 
-**Q339.** Which change would NOT increase the magnetic field strength inside a solenoid?
+**Q598.** Which change would NOT increase the magnetic field strength inside a solenoid?
 <!-- id: physics-2-2-6 -->
 
 - A. Increasing the current
@@ -2457,7 +4280,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Inserting a soft iron core
 - D. Stretching it to twice its length while keeping the same number of turns and current
 
-**Q340.** Inside a bar magnet, the magnetic field lines are directed:
+**Q599.** Inside a bar magnet, the magnetic field lines are directed:
 <!-- id: physics-2-2-7 -->
 
 - A. from the south pole to the north pole
@@ -2465,7 +4288,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. radially outwards from the centre
 - D. nowhere, because the field inside is zero
 
-**Q341.** Which statement correctly distinguishes magnetic field lines from electric field lines?
+**Q600.** Which statement correctly distinguishes magnetic field lines from electric field lines?
 <!-- id: physics-2-2-8 -->
 
 - A. Magnetic field lines begin on north monopoles and end on south monopoles.
@@ -2473,7 +4296,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Magnetic field lines can cross, but electric field lines cannot.
 - D. Electric field lines form closed loops around stationary charges.
 
-**Q342.** Two long parallel wires carry currents in the same direction. The wires will:
+**Q601.** Two long parallel wires carry currents in the same direction. The wires will:
 <!-- id: physics-2-2-9 -->
 
 - A. repel each other
@@ -2481,7 +4304,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. attract each other
 - D. twist so that they become perpendicular
 
-**Q343.** Two long parallel wires carry equal currents in the same direction. At the point midway between them, the magnetic field is:
+**Q602.** Two long parallel wires carry equal currents in the same direction. At the point midway between them, the magnetic field is:
 <!-- id: physics-2-2-10 -->
 
 - A. twice the field due to one wire
@@ -2489,7 +4312,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. directed parallel to the wires
 - D. zero
 
-**Q344.** The tesla (T), the unit of magnetic field strength, is equivalent to:
+**Q603.** The tesla (T), the unit of magnetic field strength, is equivalent to:
 <!-- id: physics-2-2-11 -->
 
 - A. N A⁻¹ m⁻¹
@@ -2497,7 +4320,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. V m⁻¹
 - D. A m N⁻¹
 
-**Q345.** The north pole of a compass needle points towards Earth's geographic North Pole. This means that near Earth's geographic North Pole there is:
+**Q604.** The north pole of a compass needle points towards Earth's geographic North Pole. This means that near Earth's geographic North Pole there is:
 <!-- id: physics-2-2-12 -->
 
 - A. a magnetic north pole
@@ -2505,7 +4328,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. a region where Earth's magnetic field is zero
 - D. a magnetic pole that alternates between north and south daily
 
-**Q346.** In a magnetic field diagram, a region of stronger magnetic field is shown by:
+**Q605.** In a magnetic field diagram, a region of stronger magnetic field is shown by:
 <!-- id: physics-2-2-13 -->
 
 - A. field lines drawn further apart
@@ -2513,7 +4336,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. field lines drawn closer together
 - D. field lines that end at a point
 
-**Q347.** The current in a solenoid is doubled and the number of turns per metre is halved. The magnetic field inside the solenoid:
+**Q606.** The current in a solenoid is doubled and the number of turns per metre is halved. The magnetic field inside the solenoid:
 <!-- id: physics-2-2-14 -->
 
 - A. doubles
@@ -2521,7 +4344,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. halves
 - D. is unchanged
 
-**Q348.** A long straight wire is vertical and carries current upwards. Viewed from above, the magnetic field lines around it circulate:
+**Q607.** A long straight wire is vertical and carries current upwards. Viewed from above, the magnetic field lines around it circulate:
 <!-- id: physics-2-2-15 -->
 
 - A. anticlockwise
@@ -2529,7 +4352,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. radially outward
 - D. vertically upwards, parallel to the wire
 
-**Q349.** A long vertical wire carries current upwards. What is the direction of the magnetic field at a point 2.0 cm due east of the wire?
+**Q608.** A long vertical wire carries current upwards. What is the direction of the magnetic field at a point 2.0 cm due east of the wire?
 <!-- id: physics-2-2-16 -->
 
 - A. South
@@ -2537,7 +4360,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. East
 - D. Vertically upwards
 
-**Q350.** What is the fundamental source of magnetic fields?
+**Q609.** What is the fundamental source of magnetic fields?
 <!-- id: physics-2-2-17 -->
 
 - A. Stationary electric charges
@@ -2545,7 +4368,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Moving electric charges
 - D. Only permanent magnets
 
-**Q351.** Iron filings are sprinkled around a current-carrying solenoid. The pattern outside the solenoid most closely resembles that of:
+**Q610.** Iron filings are sprinkled around a current-carrying solenoid. The pattern outside the solenoid most closely resembles that of:
 <!-- id: physics-2-2-18 -->
 
 - A. concentric circles centred on the middle of the solenoid
@@ -2553,44 +4376,44 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. nothing, because the entire field is confined inside the solenoid
 - D. a bar magnet, with poles at each end
 
-**Q352.** Describe the magnetic field around a long straight current-carrying wire and explain how its direction is found.
+**Q611.** Describe the magnetic field around a long straight current-carrying wire and explain how its direction is found.
 <!-- id: physics-2-2-19 -->
 
 *Written answer*
 
-**Q353.** Explain why the magnetic field inside a long solenoid is strong and nearly uniform, while the field outside is relatively weak.
+**Q612.** Explain why the magnetic field inside a long solenoid is strong and nearly uniform, while the field outside is relatively weak.
 <!-- id: physics-2-2-20 -->
 
 *Written answer*
 
-**Q354.** State two differences between magnetic field lines and electric field lines from static charges.
+**Q613.** State two differences between magnetic field lines and electric field lines from static charges.
 <!-- id: physics-2-2-21 -->
 
 *Written answer*
 
-**Q355.** A wire perpendicular to this page carries current into the page. Describe the direction of the magnetic field around it as seen by someone looking at the page.
+**Q614.** A wire perpendicular to this page carries current into the page. Describe the direction of the magnetic field around it as seen by someone looking at the page.
 <!-- id: physics-2-2-22 -->
 
 *Written answer*
 
-**Q356.** Two long parallel wires 10 cm apart carry equal currents in opposite directions. Explain what the magnetic field is like at the point midway between them.
+**Q615.** Two long parallel wires 10 cm apart carry equal currents in opposite directions. Explain what the magnetic field is like at the point midway between them.
 <!-- id: physics-2-2-23 -->
 
 *Written answer*
 
-**Q357.** A solenoid produces a magnetic field of 4.0 mT inside it when the current is 2.0 A. What is the field when the current is increased to 5.0 A, with all else unchanged?
+**Q616.** A solenoid produces a magnetic field of 4.0 mT inside it when the current is 2.0 A. What is the field when the current is increased to 5.0 A, with all else unchanged?
 <!-- id: physics-2-2-24 -->
 
 *Written answer*
 
-**Q358.** Explain how the polarity of an electromagnet can be reversed and why a soft iron core is commonly used.
+**Q617.** Explain how the polarity of an electromagnet can be reversed and why a soft iron core is commonly used.
 <!-- id: physics-2-2-25 -->
 
 *Written answer*
 
 #### Forces on moving charges and currents
 
-**Q359.** A straight wire 0.50 m long carries a current of 3.0 A at right angles to a uniform magnetic field of 0.20 T. What is the magnitude of the force on the wire?
+**Q618.** A straight wire 0.50 m long carries a current of 3.0 A at right angles to a uniform magnetic field of 0.20 T. What is the magnitude of the force on the wire?
 <!-- id: physics-2-3-1 -->
 
 - A. 0.30 N
@@ -2598,7 +4421,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 3.0 N
 - D. 7.5 N
 
-**Q360.** A current-carrying wire is placed parallel to a uniform magnetic field. The magnetic force on the wire is:
+**Q619.** A current-carrying wire is placed parallel to a uniform magnetic field. The magnetic force on the wire is:
 <!-- id: physics-2-3-2 -->
 
 - A. maximum
@@ -2606,7 +4429,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. equal to IlB, directed along the wire
 - D. equal to IlB, perpendicular to the wire
 
-**Q361.** A rectangular coil of 50 turns has a side of length 0.10 m perpendicular to a 0.40 T magnetic field. The coil carries 2.0 A. What is the force on that side?
+**Q620.** A rectangular coil of 50 turns has a side of length 0.10 m perpendicular to a 0.40 T magnetic field. The coil carries 2.0 A. What is the force on that side?
 <!-- id: physics-2-3-3 -->
 
 - A. 0.080 N
@@ -2614,7 +4437,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 4.0 N
 - D. 8.0 N
 
-**Q362.** A horizontal wire carries current towards the east in a magnetic field directed vertically downwards. What is the direction of the force on the wire?
+**Q621.** A horizontal wire carries current towards the east in a magnetic field directed vertically downwards. What is the direction of the force on the wire?
 <!-- id: physics-2-3-4 -->
 
 - A. South
@@ -2622,7 +4445,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. West
 - D. North
 
-**Q363.** An electron travels north through a uniform magnetic field directed vertically upwards. What is the direction of the magnetic force on the electron when it enters the field?
+**Q622.** An electron travels north through a uniform magnetic field directed vertically upwards. What is the direction of the magnetic force on the electron when it enters the field?
 <!-- id: physics-2-3-5 -->
 
 - A. West
@@ -2630,7 +4453,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. South
 - D. Vertically downwards
 
-**Q364.** A proton moves at 2.0 × 10⁶ m s⁻¹ perpendicular to a 0.50 T magnetic field. What is the magnitude of the magnetic force on it?
+**Q623.** A proton moves at 2.0 × 10⁶ m s⁻¹ perpendicular to a 0.50 T magnetic field. What is the magnitude of the magnetic force on it?
 <!-- id: physics-2-3-6 -->
 
 - A. 6.4 × 10⁻¹³ N
@@ -2638,7 +4461,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 3.2 × 10⁻¹³ N
 - D. 1.6 × 10⁻¹⁹ N
 
-**Q365.** An electron travelling at 3.0 × 10⁶ m s⁻¹ enters a uniform magnetic field of 2.0 × 10⁻³ T at right angles. What is the radius of its circular path? (mₑ = 9.1 × 10⁻³¹ kg)
+**Q624.** An electron travelling at 3.0 × 10⁶ m s⁻¹ enters a uniform magnetic field of 2.0 × 10⁻³ T at right angles. What is the radius of its circular path? (mₑ = 9.1 × 10⁻³¹ kg)
 <!-- id: physics-2-3-7 -->
 
 - A. 4.3 mm
@@ -2646,7 +4469,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 8.5 mm
 - D. 1.2 × 10² m
 
-**Q366.** A charged particle moves in a circle in a uniform magnetic field. How much work does the magnetic force do on the particle during one revolution?
+**Q625.** A charged particle moves in a circle in a uniform magnetic field. How much work does the magnetic force do on the particle during one revolution?
 <!-- id: physics-2-3-8 -->
 
 - A. qvB × 2πr, because the force acts all the way around the circle
@@ -2654,7 +4477,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. A negative amount, because the force points towards the centre
 - D. Zero, because the force is always perpendicular to the velocity
 
-**Q367.** A charged particle moving perpendicular to a uniform magnetic field has its speed doubled. The radius of its circular path:
+**Q626.** A charged particle moving perpendicular to a uniform magnetic field has its speed doubled. The radius of its circular path:
 <!-- id: physics-2-3-9 -->
 
 - A. doubles
@@ -2662,7 +4485,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. quadruples
 - D. is unchanged
 
-**Q368.** A proton and an electron enter the same uniform magnetic field with the same velocity, perpendicular to the field. Which statement is correct?
+**Q627.** A proton and an electron enter the same uniform magnetic field with the same velocity, perpendicular to the field. Which statement is correct?
 <!-- id: physics-2-3-10 -->
 
 - A. Both have the same radius but curve in opposite senses.
@@ -2670,7 +4493,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. The electron's path has the larger radius and both curve in the same sense.
 - D. The proton's path has the larger radius and both curve in the same sense.
 
-**Q369.** A charged particle passes undeflected through a region where a uniform electric field of 2.0 × 10⁴ V m⁻¹ is perpendicular to a uniform magnetic field of 0.10 T (both perpendicular to its velocity). What is the particle's speed?
+**Q628.** A charged particle passes undeflected through a region where a uniform electric field of 2.0 × 10⁴ V m⁻¹ is perpendicular to a uniform magnetic field of 0.10 T (both perpendicular to its velocity). What is the particle's speed?
 <!-- id: physics-2-3-11 -->
 
 - A. 2.0 × 10³ m s⁻¹
@@ -2678,7 +4501,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 2.0 × 10⁵ m s⁻¹
 - D. 2.0 × 10⁴ m s⁻¹
 
-**Q370.** A charged particle moves in the same direction as a uniform magnetic field. Its subsequent motion is:
+**Q629.** A charged particle moves in the same direction as a uniform magnetic field. Its subsequent motion is:
 <!-- id: physics-2-3-12 -->
 
 - A. a circle in a plane perpendicular to the field
@@ -2686,7 +4509,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. a decelerating straight line
 - D. a straight line at constant speed
 
-**Q371.** In a simple DC motor, what is the purpose of the split-ring commutator?
+**Q630.** In a simple DC motor, what is the purpose of the split-ring commutator?
 <!-- id: physics-2-3-13 -->
 
 - A. To reverse the current in the coil every half turn so the torque keeps acting in the same direction
@@ -2694,7 +4517,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. To increase the strength of the magnetic field
 - D. To keep the current in the coil flowing in the same direction at all times
 
-**Q372.** In a DC motor, the coil sides that are parallel to the magnetic field at a given instant experience a force that is:
+**Q631.** In a DC motor, the coil sides that are parallel to the magnetic field at a given instant experience a force that is:
 <!-- id: physics-2-3-14 -->
 
 - A. maximum
@@ -2702,7 +4525,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. directed along the wire
 - D. directed parallel to the field
 
-**Q373.** An alpha particle (charge +2e, mass 4 u) and a proton (charge +e, mass 1 u) enter the same magnetic field with the same speed, perpendicular to the field. What is the ratio of the radius of the alpha particle's path to the proton's?
+**Q632.** An alpha particle (charge +2e, mass 4 u) and a proton (charge +e, mass 1 u) enter the same magnetic field with the same speed, perpendicular to the field. What is the ratio of the radius of the alpha particle's path to the proton's?
 <!-- id: physics-2-3-15 -->
 
 - A. 4
@@ -2710,7 +4533,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 2
 - D. 1
 
-**Q374.** For a current-carrying wire in a magnetic field, both the current direction and the magnetic field direction are reversed. The force on the wire:
+**Q633.** For a current-carrying wire in a magnetic field, both the current direction and the magnetic field direction are reversed. The force on the wire:
 <!-- id: physics-2-3-16 -->
 
 - A. reverses direction
@@ -2718,7 +4541,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. doubles in magnitude
 - D. stays in the same direction with the same magnitude
 
-**Q375.** A charged particle moves in a circle perpendicular to a uniform magnetic field. If its speed is increased, which statement is correct?
+**Q634.** A charged particle moves in a circle perpendicular to a uniform magnetic field. If its speed is increased, which statement is correct?
 <!-- id: physics-2-3-17 -->
 
 - A. The radius increases but the period stays the same.
@@ -2726,7 +4549,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. The radius decreases and the period increases.
 - D. The radius stays the same but the period decreases.
 
-**Q376.** A singly charged positive ion travelling at 1.0 × 10⁵ m s⁻¹ follows a circular path of radius 0.10 m in a 0.50 T magnetic field. What is the mass of the ion?
+**Q635.** A singly charged positive ion travelling at 1.0 × 10⁵ m s⁻¹ follows a circular path of radius 0.10 m in a 0.50 T magnetic field. What is the mass of the ion?
 <!-- id: physics-2-3-18 -->
 
 - A. 8.0 × 10⁻²⁵ kg
@@ -2734,44 +4557,44 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 8.0 × 10⁻¹⁶ kg
 - D. 8.0 × 10⁻²⁴ kg
 
-**Q377.** Show that a particle of mass m and charge q moving at speed v perpendicular to a uniform magnetic field B travels in a circle of radius r = mv/(qB).
+**Q636.** Show that a particle of mass m and charge q moving at speed v perpendicular to a uniform magnetic field B travels in a circle of radius r = mv/(qB).
 <!-- id: physics-2-3-19 -->
 
 *Written answer*
 
-**Q378.** An electron travelling at 4.0 × 10⁶ m s⁻¹ is to move in a circle of radius 0.050 m. What magnetic field strength is required? (mₑ = 9.1 × 10⁻³¹ kg)
+**Q637.** An electron travelling at 4.0 × 10⁶ m s⁻¹ is to move in a circle of radius 0.050 m. What magnetic field strength is required? (mₑ = 9.1 × 10⁻³¹ kg)
 <!-- id: physics-2-3-20 -->
 
 *Written answer*
 
-**Q379.** Explain why a magnetic field can change the direction of a moving charged particle but cannot change its speed.
+**Q638.** Explain why a magnetic field can change the direction of a moving charged particle but cannot change its speed.
 <!-- id: physics-2-3-21 -->
 
 *Written answer*
 
-**Q380.** A 20-turn rectangular coil has a side 5.0 cm long perpendicular to a 0.30 T magnetic field. If the coil carries 1.5 A, calculate the force on that side.
+**Q639.** A 20-turn rectangular coil has a side 5.0 cm long perpendicular to a 0.30 T magnetic field. If the coil carries 1.5 A, calculate the force on that side.
 <!-- id: physics-2-3-22 -->
 
 *Written answer*
 
-**Q381.** Explain the role of the split-ring commutator and brushes in a DC motor.
+**Q640.** Explain the role of the split-ring commutator and brushes in a DC motor.
 <!-- id: physics-2-3-23 -->
 
 *Written answer*
 
-**Q382.** A horizontal wire of length 0.20 m and mass 6.0 g lies perpendicular to a horizontal magnetic field of 0.50 T. What current is needed in the wire for the magnetic force to support its weight? (g = 9.8 m s⁻²)
+**Q641.** A horizontal wire of length 0.20 m and mass 6.0 g lies perpendicular to a horizontal magnetic field of 0.50 T. What current is needed in the wire for the magnetic force to support its weight? (g = 9.8 m s⁻²)
 <!-- id: physics-2-3-24 -->
 
 *Written answer*
 
-**Q383.** A positive ion travels horizontally towards the east and enters a region where the magnetic field points vertically upwards. In which direction is the ion initially deflected? Justify your answer.
+**Q642.** A positive ion travels horizontally towards the east and enters a region where the magnetic field points vertically upwards. In which direction is the ion initially deflected? Justify your answer.
 <!-- id: physics-2-3-25 -->
 
 *Written answer*
 
 #### Particle accelerators and the synchrotron
 
-**Q384.** Where is the Australian Synchrotron located?
+**Q643.** Where is the Australian Synchrotron located?
 <!-- id: physics-2-4-1 -->
 
 - A. Lucas Heights, New South Wales
@@ -2779,7 +4602,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Clayton, Victoria
 - D. Hobart, Tasmania
 
-**Q385.** In the storage ring of a synchrotron, what is the main purpose of the bending magnets?
+**Q644.** In the storage ring of a synchrotron, what is the main purpose of the bending magnets?
 <!-- id: physics-2-4-2 -->
 
 - A. To increase the speed of the electrons
@@ -2787,7 +4610,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. To slow the electrons before they reach the beamlines
 - D. To change the direction of the electrons so they follow a closed path
 
-**Q386.** What is the function of the radio-frequency (RF) cavities in a synchrotron storage ring?
+**Q645.** What is the function of the radio-frequency (RF) cavities in a synchrotron storage ring?
 <!-- id: physics-2-4-3 -->
 
 - A. To replace the energy the electrons lose as synchrotron radiation
@@ -2795,7 +4618,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. To focus the X-rays onto samples
 - D. To remove unwanted electrons from the beam
 
-**Q387.** Synchrotron radiation is emitted when:
+**Q646.** Synchrotron radiation is emitted when:
 <!-- id: physics-2-4-4 -->
 
 - A. electrons collide with atoms in the vacuum tube
@@ -2803,7 +4626,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. electrons travel in a straight line at constant velocity
 - D. electrons are absorbed by the walls of the storage ring
 
-**Q388.** In an electron gun, electrons released from a heated filament are accelerated by:
+**Q647.** In an electron gun, electrons released from a heated filament are accelerated by:
 <!-- id: physics-2-4-5 -->
 
 - A. the magnetic field of the filament current
@@ -2811,7 +4634,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. the electric field between the cathode and the anode
 - D. collisions with gas molecules in the tube
 
-**Q389.** An electron gun accelerates electrons from rest through 15 kV. What kinetic energy does each electron gain?
+**Q648.** An electron gun accelerates electrons from rest through 15 kV. What kinetic energy does each electron gain?
 <!-- id: physics-2-4-6 -->
 
 - A. 1.5 × 10⁴ J
@@ -2819,7 +4642,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 2.4 × 10⁻¹⁸ J
 - D. 2.4 × 10⁻¹⁵ J
 
-**Q390.** Why are magnetic fields used to steer charged particles in accelerators, but not to increase their kinetic energy?
+**Q649.** Why are magnetic fields used to steer charged particles in accelerators, but not to increase their kinetic energy?
 <!-- id: physics-2-4-7 -->
 
 - A. The magnetic force is perpendicular to the velocity, so it does no work on the particles.
@@ -2827,7 +4650,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Magnetic fields are too weak to affect electrons.
 - D. The magnetic force always acts opposite to the velocity, slowing the particles.
 
-**Q391.** Why are electric fields used to accelerate charged particles in a linear accelerator?
+**Q650.** Why are electric fields used to accelerate charged particles in a linear accelerator?
 <!-- id: physics-2-4-8 -->
 
 - A. Electric fields only exert forces perpendicular to the particle's motion.
@@ -2835,7 +4658,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Electric fields keep the particles moving in a circle.
 - D. Electric fields reduce the mass of the particles.
 
-**Q392.** As electrons gain speed in a synchrotron's booster ring, what must happen to the magnetic field in the bending magnets for the electrons to stay on the same circular path?
+**Q651.** As electrons gain speed in a synchrotron's booster ring, what must happen to the magnetic field in the bending magnets for the electrons to stay on the same circular path?
 <!-- id: physics-2-4-9 -->
 
 - A. It must decrease.
@@ -2843,7 +4666,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. It must increase.
 - D. It must reverse direction every lap.
 
-**Q393.** What is the role of the linear accelerator (linac) at the start of a synchrotron?
+**Q652.** What is the role of the linear accelerator (linac) at the start of a synchrotron?
 <!-- id: physics-2-4-10 -->
 
 - A. To store electrons for many hours
@@ -2851,7 +4674,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. To convert electrons into X-ray photons
 - D. To accelerate electrons from the electron gun to very high speed in a straight line using electric fields
 
-**Q394.** An electron is accelerated from rest through 100 V and then enters a 1.0 × 10⁻³ T magnetic field at right angles. What is the radius of its path? (mₑ = 9.1 × 10⁻³¹ kg)
+**Q653.** An electron is accelerated from rest through 100 V and then enters a 1.0 × 10⁻³ T magnetic field at right angles. What is the radius of its path? (mₑ = 9.1 × 10⁻³¹ kg)
 <!-- id: physics-2-4-11 -->
 
 - A. 3.4 cm
@@ -2859,7 +4682,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 6.7 cm
 - D. 1.7 cm
 
-**Q395.** In a mass spectrometer, ions with the same charge and speed enter a uniform magnetic field. Compared with lighter ions, heavier ions:
+**Q654.** In a mass spectrometer, ions with the same charge and speed enter a uniform magnetic field. Compared with lighter ions, heavier ions:
 <!-- id: physics-2-4-12 -->
 
 - A. follow a path of smaller radius
@@ -2867,7 +4690,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. follow the same path
 - D. travel in a straight line
 
-**Q396.** Which is a common use of synchrotron light at facilities such as the Australian Synchrotron?
+**Q655.** Which is a common use of synchrotron light at facilities such as the Australian Synchrotron?
 <!-- id: physics-2-4-13 -->
 
 - A. Generating electricity for the power grid
@@ -2875,7 +4698,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Determining the structure of proteins using X-ray diffraction
 - D. Powering nuclear fission reactions
 
-**Q397.** The accelerating voltage of an electron gun is increased by a factor of 4. Assuming non-relativistic speeds, the final speed of the electrons:
+**Q656.** The accelerating voltage of an electron gun is increased by a factor of 4. Assuming non-relativistic speeds, the final speed of the electrons:
 <!-- id: physics-2-4-14 -->
 
 - A. increases by a factor of 4
@@ -2883,7 +4706,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. increases by a factor of √2
 - D. doubles
 
-**Q398.** Electrons in a synchrotron storage ring of circumference 216 m travel at very nearly the speed of light (3.0 × 10⁸ m s⁻¹). Approximately how long does each lap take?
+**Q657.** Electrons in a synchrotron storage ring of circumference 216 m travel at very nearly the speed of light (3.0 × 10⁸ m s⁻¹). Approximately how long does each lap take?
 <!-- id: physics-2-4-15 -->
 
 - A. 0.72 μs
@@ -2891,7 +4714,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 1.4 μs
 - D. 7.2 ms
 
-**Q399.** An alpha particle (charge +2e) is accelerated from rest through a potential difference of 50 kV. How much kinetic energy does it gain?
+**Q658.** An alpha particle (charge +2e) is accelerated from rest through a potential difference of 50 kV. How much kinetic energy does it gain?
 <!-- id: physics-2-4-16 -->
 
 - A. 8.0 × 10⁻¹⁵ J
@@ -2899,7 +4722,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 3.2 × 10⁻¹⁴ J
 - D. 1.0 × 10⁵ J
 
-**Q400.** An electron enters the region between two charged parallel plates moving parallel to the plates. While between the plates, its velocity component parallel to the plates:
+**Q659.** An electron enters the region between two charged parallel plates moving parallel to the plates. While between the plates, its velocity component parallel to the plates:
 <!-- id: physics-2-4-17 -->
 
 - A. increases steadily
@@ -2907,7 +4730,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. stays constant
 - D. becomes zero
 
-**Q401.** An electron moves in a circular path in a uniform magnetic field directed into the page. As seen by someone looking at the page, the electron circulates:
+**Q660.** An electron moves in a circular path in a uniform magnetic field directed into the page. As seen by someone looking at the page, the electron circulates:
 <!-- id: physics-2-4-18 -->
 
 - A. anticlockwise
@@ -2915,37 +4738,37 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. in an outward spiral at constant speed
 - D. clockwise
 
-**Q402.** Outline the role of each of these parts of the Australian Synchrotron: electron gun, linac, booster ring, storage ring and beamlines.
+**Q661.** Outline the role of each of these parts of the Australian Synchrotron: electron gun, linac, booster ring, storage ring and beamlines.
 <!-- id: physics-2-4-19 -->
 
 *Written answer*
 
-**Q403.** Explain why electrons in a synchrotron storage ring emit synchrotron radiation and why energy must be continually supplied to them.
+**Q662.** Explain why electrons in a synchrotron storage ring emit synchrotron radiation and why energy must be continually supplied to them.
 <!-- id: physics-2-4-20 -->
 
 *Written answer*
 
-**Q404.** An electron gun accelerates electrons from rest through 3.0 kV. Calculate the speed of the electrons leaving the gun. (mₑ = 9.1 × 10⁻³¹ kg)
+**Q663.** An electron gun accelerates electrons from rest through 3.0 kV. Calculate the speed of the electrons leaving the gun. (mₑ = 9.1 × 10⁻³¹ kg)
 <!-- id: physics-2-4-21 -->
 
 *Written answer*
 
-**Q405.** Electrons travelling at 3.2 × 10⁷ m s⁻¹ enter a uniform magnetic field of 5.0 × 10⁻³ T at right angles. Calculate the radius of their circular path. (mₑ = 9.1 × 10⁻³¹ kg)
+**Q664.** Electrons travelling at 3.2 × 10⁷ m s⁻¹ enter a uniform magnetic field of 5.0 × 10⁻³ T at right angles. Calculate the radius of their circular path. (mₑ = 9.1 × 10⁻³¹ kg)
 <!-- id: physics-2-4-22 -->
 
 *Written answer*
 
-**Q406.** In a mass spectrometer, singly charged carbon-12 and carbon-14 ions enter the same magnetic field with the same speed. Find the ratio of the radius of the carbon-14 path to the carbon-12 path.
+**Q665.** In a mass spectrometer, singly charged carbon-12 and carbon-14 ions enter the same magnetic field with the same speed. Find the ratio of the radius of the carbon-14 path to the carbon-12 path.
 <!-- id: physics-2-4-23 -->
 
 *Written answer*
 
-**Q407.** Explain why the tubes in which electrons travel in a particle accelerator must be kept at a very high vacuum.
+**Q666.** Explain why the tubes in which electrons travel in a particle accelerator must be kept at a very high vacuum.
 <!-- id: physics-2-4-24 -->
 
 *Written answer*
 
-**Q408.** Two parallel plates 4.0 cm apart have a potential difference of 200 V. Calculate the acceleration of an electron between the plates. (mₑ = 9.1 × 10⁻³¹ kg)
+**Q667.** Two parallel plates 4.0 cm apart have a potential difference of 200 V. Calculate the acceleration of an electron between the plates. (mₑ = 9.1 × 10⁻³¹ kg)
 <!-- id: physics-2-4-25 -->
 
 *Written answer*
@@ -2954,7 +4777,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 #### Newton's laws and forces
 
-**Q409.** A 1200 kg car accelerates uniformly from rest to 20 m/s in 8.0 s. What is the magnitude of the net force on the car?
+**Q668.** A 1200 kg car accelerates uniformly from rest to 20 m/s in 8.0 s. What is the magnitude of the net force on the car?
 <!-- id: physics-3-1-1 -->
 
 - A. 3000 N
@@ -2962,7 +4785,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 9600 N
 - D. 150 N
 
-**Q410.** A book rests on a table. According to Newton's third law, the reaction force to the book's weight is:
+**Q669.** A book rests on a table. According to Newton's third law, the reaction force to the book's weight is:
 <!-- id: physics-3-1-2 -->
 
 - A. the normal force exerted by the table on the book
@@ -2970,7 +4793,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. the force exerted by the book on the table
 - D. the friction force between the book and the table
 
-**Q411.** A 70 kg student stands in a lift that is accelerating upwards at 1.5 m/s². What is the normal force from the floor on the student? Take g = 9.8 m/s².
+**Q670.** A 70 kg student stands in a lift that is accelerating upwards at 1.5 m/s². What is the normal force from the floor on the student? Take g = 9.8 m/s².
 <!-- id: physics-3-1-3 -->
 
 - A. 581 N
@@ -2978,7 +4801,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 791 N
 - D. 105 N
 
-**Q412.** A 50 kg person stands in a lift moving downwards at a constant 3.0 m/s. What is the normal force on the person? Take g = 9.8 m/s².
+**Q671.** A 50 kg person stands in a lift moving downwards at a constant 3.0 m/s. What is the normal force on the person? Take g = 9.8 m/s².
 <!-- id: physics-3-1-4 -->
 
 - A. 340 N
@@ -2986,7 +4809,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 0 N
 - D. 490 N
 
-**Q413.** A block slides down a frictionless ramp inclined at 30° to the horizontal. What is its acceleration? Take g = 9.8 m/s².
+**Q672.** A block slides down a frictionless ramp inclined at 30° to the horizontal. What is its acceleration? Take g = 9.8 m/s².
 <!-- id: physics-3-1-5 -->
 
 - A. 4.9 m/s²
@@ -2994,7 +4817,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 9.8 m/s²
 - D. 2.5 m/s²
 
-**Q414.** Two blocks of mass 3.0 kg and 2.0 kg sit side by side on a frictionless surface. A 20 N horizontal force pushes the 3.0 kg block, which pushes the 2.0 kg block. What is the force between the blocks?
+**Q673.** Two blocks of mass 3.0 kg and 2.0 kg sit side by side on a frictionless surface. A 20 N horizontal force pushes the 3.0 kg block, which pushes the 2.0 kg block. What is the force between the blocks?
 <!-- id: physics-3-1-6 -->
 
 - A. 12 N
@@ -3002,7 +4825,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 20 N
 - D. 10 N
 
-**Q415.** A 2.0 kg trolley on a frictionless bench is connected by a light string over a frictionless pulley to a 0.50 kg mass hanging freely. What is the acceleration of the system? Take g = 9.8 m/s².
+**Q674.** A 2.0 kg trolley on a frictionless bench is connected by a light string over a frictionless pulley to a 0.50 kg mass hanging freely. What is the acceleration of the system? Take g = 9.8 m/s².
 <!-- id: physics-3-1-7 -->
 
 - A. 2.45 m/s²
@@ -3010,7 +4833,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 1.96 m/s²
 - D. 4.9 m/s²
 
-**Q416.** For a 2.0 kg trolley on a frictionless bench pulled by a 0.50 kg hanging mass (system acceleration 1.96 m/s²), what is the tension in the string?
+**Q675.** For a 2.0 kg trolley on a frictionless bench pulled by a 0.50 kg hanging mass (system acceleration 1.96 m/s²), what is the tension in the string?
 <!-- id: physics-3-1-8 -->
 
 - A. 4.9 N
@@ -3018,7 +4841,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 5.9 N
 - D. 3.9 N
 
-**Q417.** A passenger on a Melbourne tram lurches forward when the tram brakes suddenly. The best explanation is that:
+**Q676.** A passenger on a Melbourne tram lurches forward when the tram brakes suddenly. The best explanation is that:
 <!-- id: physics-3-1-9 -->
 
 - A. the passenger tends to keep moving at the original velocity while the tram slows down
@@ -3026,7 +4849,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. momentum is transferred from the tram to the passenger
 - D. the braking force on the tram is also applied to the passenger
 
-**Q418.** A ute tows a trailer along a straight highway and speeds up. How does the force of the ute on the trailer compare with the force of the trailer on the ute?
+**Q677.** A ute tows a trailer along a straight highway and speeds up. How does the force of the ute on the trailer compare with the force of the trailer on the ute?
 <!-- id: physics-3-1-10 -->
 
 - A. The ute's force on the trailer is larger, which is why they accelerate
@@ -3034,7 +4857,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. The trailer's force on the ute is larger because the trailer resists motion
 - D. They are equal only when the speed is constant
 
-**Q419.** A 5.0 kg box rests on a ramp inclined at 25° to the horizontal. What is the normal force on the box? Take g = 9.8 m/s².
+**Q678.** A 5.0 kg box rests on a ramp inclined at 25° to the horizontal. What is the normal force on the box? Take g = 9.8 m/s².
 <!-- id: physics-3-1-11 -->
 
 - A. 21 N
@@ -3042,7 +4865,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 44 N
 - D. 54 N
 
-**Q420.** A 10 kg box slides down a ramp inclined at 20° at constant velocity. What is the magnitude of the friction force on the box? Take g = 9.8 m/s².
+**Q679.** A 10 kg box slides down a ramp inclined at 20° at constant velocity. What is the magnitude of the friction force on the box? Take g = 9.8 m/s².
 <!-- id: physics-3-1-12 -->
 
 - A. 92 N
@@ -3050,7 +4873,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 0 N
 - D. 34 N
 
-**Q421.** A skydiver falls at terminal velocity. Which statement is correct?
+**Q680.** A skydiver falls at terminal velocity. Which statement is correct?
 <!-- id: physics-3-1-13 -->
 
 - A. The air resistance equals the skydiver's weight and the net force is zero
@@ -3058,7 +4881,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. The acceleration of the skydiver is 9.8 m/s² downwards
 - D. The net force on the skydiver equals the skydiver's weight
 
-**Q422.** A 1500 kg car travelling at 25 m/s brakes with a constant net braking force of 6000 N. What is its stopping distance?
+**Q681.** A 1500 kg car travelling at 25 m/s brakes with a constant net braking force of 6000 N. What is its stopping distance?
 <!-- id: physics-3-1-14 -->
 
 - A. 6.3 m
@@ -3066,7 +4889,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 156 m
 - D. 39 m
 
-**Q423.** A child pulls a 40 kg toboggan across frictionless snow with a rope that makes 30° above the horizontal and has a tension of 150 N. What is the horizontal acceleration of the toboggan?
+**Q682.** A child pulls a 40 kg toboggan across frictionless snow with a rope that makes 30° above the horizontal and has a tension of 150 N. What is the horizontal acceleration of the toboggan?
 <!-- id: physics-3-1-15 -->
 
 - A. 3.8 m/s²
@@ -3074,7 +4897,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 3.2 m/s²
 - D. 6.5 m/s²
 
-**Q424.** A locomotive pulls three identical 20 000 kg carriages along a frictionless level track with an acceleration of 0.50 m/s². What is the tension in the coupling between the first and second carriages?
+**Q683.** A locomotive pulls three identical 20 000 kg carriages along a frictionless level track with an acceleration of 0.50 m/s². What is the tension in the coupling between the first and second carriages?
 <!-- id: physics-3-1-16 -->
 
 - A. 10 000 N
@@ -3082,7 +4905,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 60 000 N
 - D. 20 000 N
 
-**Q425.** An 80 kg astronaut stands on the Moon, where g = 1.6 m/s². Which describes the astronaut's mass and weight there?
+**Q684.** An 80 kg astronaut stands on the Moon, where g = 1.6 m/s². Which describes the astronaut's mass and weight there?
 <!-- id: physics-3-1-17 -->
 
 - A. Mass 80 kg, weight 128 N
@@ -3090,7 +4913,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Mass 80 kg, weight 784 N
 - D. Mass 13 kg, weight 784 N
 
-**Q426.** A person whose true weight is 600 N stands on bathroom scales in a lift. The scales read 500 N. The lift could be:
+**Q685.** A person whose true weight is 600 N stands on bathroom scales in a lift. The scales read 500 N. The lift could be:
 <!-- id: physics-3-1-18 -->
 
 - A. moving upwards at constant speed
@@ -3098,44 +4921,44 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. moving upwards and speeding up
 - D. moving downwards and slowing down
 
-**Q427.** A child pulls a 40 kg toboggan across level snow with a rope at 30° above the horizontal and a tension of 150 N. Calculate the normal force from the snow on the toboggan. (g = 9.8 m/s²)
+**Q686.** A child pulls a 40 kg toboggan across level snow with a rope at 30° above the horizontal and a tension of 150 N. Calculate the normal force from the snow on the toboggan. (g = 9.8 m/s²)
 <!-- id: physics-3-1-19 -->
 
 *Written answer*
 
-**Q428.** A horse pulls a cart. A student argues that by Newton's third law the cart pulls back on the horse with an equal force, so they can never move. Explain the error in this argument.
+**Q687.** A horse pulls a cart. A student argues that by Newton's third law the cart pulls back on the horse with an equal force, so they can never move. Explain the error in this argument.
 <!-- id: physics-3-1-20 -->
 
 *Written answer*
 
-**Q429.** A 65 kg passenger is in a lift moving downwards that slows down at 1.2 m/s². Calculate the normal force on the passenger. (g = 9.8 m/s²)
+**Q688.** A 65 kg passenger is in a lift moving downwards that slows down at 1.2 m/s². Calculate the normal force on the passenger. (g = 9.8 m/s²)
 <!-- id: physics-3-1-21 -->
 
 *Written answer*
 
-**Q430.** A 4.0 kg block slides down a ramp inclined at 35°, with a constant friction force of 10 N acting on it. Calculate its acceleration. (g = 9.8 m/s²)
+**Q689.** A 4.0 kg block slides down a ramp inclined at 35°, with a constant friction force of 10 N acting on it. Calculate its acceleration. (g = 9.8 m/s²)
 <!-- id: physics-3-1-22 -->
 
 *Written answer*
 
-**Q431.** Masses of 5.0 kg and 3.0 kg hang on either side of a light, frictionless pulley (an Atwood machine). Calculate the acceleration and the tension in the string. (g = 9.8 m/s²)
+**Q690.** Masses of 5.0 kg and 3.0 kg hang on either side of a light, frictionless pulley (an Atwood machine). Calculate the acceleration and the tension in the string. (g = 9.8 m/s²)
 <!-- id: physics-3-1-23 -->
 
 *Written answer*
 
-**Q432.** A student claims that while a ball thrown upwards is rising, an upward force of the throw keeps acting on it. Evaluate this claim, ignoring air resistance.
+**Q691.** A student claims that while a ball thrown upwards is rising, an upward force of the throw keeps acting on it. Evaluate this claim, ignoring air resistance.
 <!-- id: physics-3-1-24 -->
 
 *Written answer*
 
-**Q433.** A car tows a 500 kg trailer with a horizontal force of 1500 N. The trailer experiences 300 N of resistance. Calculate the trailer's acceleration.
+**Q692.** A car tows a 500 kg trailer with a horizontal force of 1500 N. The trailer experiences 300 N of resistance. Calculate the trailer's acceleration.
 <!-- id: physics-3-1-25 -->
 
 *Written answer*
 
 #### Projectile motion
 
-**Q434.** A ball rolls horizontally off a wall 4.9 m high at 3.0 m/s. How far from the base of the wall does it land? Take g = 9.8 m/s². Ignore air resistance.
+**Q693.** A ball rolls horizontally off a wall 4.9 m high at 3.0 m/s. How far from the base of the wall does it land? Take g = 9.8 m/s². Ignore air resistance.
 <!-- id: physics-3-2-1 -->
 
 - A. 1.5 m
@@ -3143,7 +4966,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 3.0 m
 - D. 14.7 m
 
-**Q435.** A stone is thrown horizontally from the top of a 20 m sea cliff. How long does it take to reach the water below? Take g = 9.8 m/s². Ignore air resistance.
+**Q694.** A stone is thrown horizontally from the top of a 20 m sea cliff. How long does it take to reach the water below? Take g = 9.8 m/s². Ignore air resistance.
 <!-- id: physics-3-2-2 -->
 
 - A. 4.1 s
@@ -3151,7 +4974,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 2.9 s
 - D. 2.0 s
 
-**Q436.** A football is kicked at 40° above the horizontal. At the highest point of its flight, ignoring air resistance:
+**Q695.** A football is kicked at 40° above the horizontal. At the highest point of its flight, ignoring air resistance:
 <!-- id: physics-3-2-3 -->
 
 - A. its velocity is horizontal and its acceleration is 9.8 m/s² downwards
@@ -3159,7 +4982,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. its velocity is zero and its acceleration is 9.8 m/s² downwards
 - D. its velocity is horizontal and its acceleration is zero
 
-**Q437.** A football is kicked from level ground at 20 m/s at 30° above the horizontal. What is its maximum height? Take g = 9.8 m/s². Ignore air resistance.
+**Q696.** A football is kicked from level ground at 20 m/s at 30° above the horizontal. What is its maximum height? Take g = 9.8 m/s². Ignore air resistance.
 <!-- id: physics-3-2-4 -->
 
 - A. 15.3 m
@@ -3167,7 +4990,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 20.4 m
 - D. 10.2 m
 
-**Q438.** A football is kicked from level ground at 20 m/s at 30° above the horizontal. What is its time of flight? Take g = 9.8 m/s². Ignore air resistance.
+**Q697.** A football is kicked from level ground at 20 m/s at 30° above the horizontal. What is its time of flight? Take g = 9.8 m/s². Ignore air resistance.
 <!-- id: physics-3-2-5 -->
 
 - A. 1.0 s
@@ -3175,7 +4998,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 2.0 s
 - D. 4.1 s
 
-**Q439.** A football is kicked from level ground at 20 m/s at 30° above the horizontal. What is its horizontal range? Take g = 9.8 m/s². Ignore air resistance.
+**Q698.** A football is kicked from level ground at 20 m/s at 30° above the horizontal. What is its horizontal range? Take g = 9.8 m/s². Ignore air resistance.
 <!-- id: physics-3-2-6 -->
 
 - A. 18 m
@@ -3183,7 +5006,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 20 m
 - D. 35 m
 
-**Q440.** Ignoring air resistance, which launch angle gives the maximum range for a projectile launched from and landing on level ground?
+**Q699.** Ignoring air resistance, which launch angle gives the maximum range for a projectile launched from and landing on level ground?
 <!-- id: physics-3-2-7 -->
 
 - A. 45°
@@ -3191,7 +5014,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 60°
 - D. 90°
 
-**Q441.** On level ground with no air resistance, which pair of launch angles gives the same range for the same launch speed?
+**Q700.** On level ground with no air resistance, which pair of launch angles gives the same range for the same launch speed?
 <!-- id: physics-3-2-8 -->
 
 - A. 25° and 55°
@@ -3199,7 +5022,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 30° and 45°
 - D. 20° and 80°
 
-**Q442.** Ignoring air resistance, how does the horizontal component of a projectile's velocity change during its flight?
+**Q701.** Ignoring air resistance, how does the horizontal component of a projectile's velocity change during its flight?
 <!-- id: physics-3-2-9 -->
 
 - A. It decreases to zero at the highest point
@@ -3207,7 +5030,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. It remains constant
 - D. It decreases uniformly throughout the flight
 
-**Q443.** From the same height and at the same instant, one ball is dropped and an identical ball is launched horizontally at 10 m/s. Ignoring air resistance, which reaches the level ground first?
+**Q702.** From the same height and at the same instant, one ball is dropped and an identical ball is launched horizontally at 10 m/s. Ignoring air resistance, which reaches the level ground first?
 <!-- id: physics-3-2-10 -->
 
 - A. The dropped ball
@@ -3215,7 +5038,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. It depends on the height of release
 - D. Both land at the same time
 
-**Q444.** A ball is thrown vertically upwards at 14.7 m/s. How long does it take to reach its highest point? Take g = 9.8 m/s². Ignore air resistance.
+**Q703.** A ball is thrown vertically upwards at 14.7 m/s. How long does it take to reach its highest point? Take g = 9.8 m/s². Ignore air resistance.
 <!-- id: physics-3-2-11 -->
 
 - A. 1.5 s
@@ -3223,7 +5046,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 0.67 s
 - D. 2.3 s
 
-**Q445.** A netball is thrown horizontally at 8.0 m/s and is in the air for 0.60 s before it is caught at a lower height. What is its speed just before it is caught? Take g = 9.8 m/s². Ignore air resistance.
+**Q704.** A netball is thrown horizontally at 8.0 m/s and is in the air for 0.60 s before it is caught at a lower height. What is its speed just before it is caught? Take g = 9.8 m/s². Ignore air resistance.
 <!-- id: physics-3-2-12 -->
 
 - A. 13.9 m/s
@@ -3231,7 +5054,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 5.9 m/s
 - D. 8.0 m/s
 
-**Q446.** An archer fires an arrow horizontally at 50 m/s at a target 25 m away. How far does the arrow drop vertically before it hits the target? Take g = 9.8 m/s². Ignore air resistance.
+**Q705.** An archer fires an arrow horizontally at 50 m/s at a target 25 m away. How far does the arrow drop vertically before it hits the target? Take g = 9.8 m/s². Ignore air resistance.
 <!-- id: physics-3-2-13 -->
 
 - A. 2.5 m
@@ -3239,7 +5062,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 1.2 m
 - D. 0.61 m
 
-**Q447.** A projectile is launched on level ground. If the launch speed is doubled with the angle unchanged, the range (ignoring air resistance) is:
+**Q706.** A projectile is launched on level ground. If the launch speed is doubled with the angle unchanged, the range (ignoring air resistance) is:
 <!-- id: physics-3-2-14 -->
 
 - A. multiplied by 2
@@ -3247,7 +5070,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. multiplied by 8
 - D. multiplied by 4
 
-**Q448.** A ball is launched at 15 m/s at 60° above the horizontal. What is the horizontal component of its velocity?
+**Q707.** A ball is launched at 15 m/s at 60° above the horizontal. What is the horizontal component of its velocity?
 <!-- id: physics-3-2-15 -->
 
 - A. 7.5 m/s
@@ -3255,7 +5078,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 15 m/s
 - D. 9.8 m/s
 
-**Q449.** A projectile is launched with a horizontal velocity component of 15 m/s and a vertical component of 20 m/s upwards. What is its speed 1.0 s after launch? Take g = 9.8 m/s². Ignore air resistance.
+**Q708.** A projectile is launched with a horizontal velocity component of 15 m/s and a vertical component of 20 m/s upwards. What is its speed 1.0 s after launch? Take g = 9.8 m/s². Ignore air resistance.
 <!-- id: physics-3-2-16 -->
 
 - A. 25 m/s
@@ -3263,7 +5086,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 15 m/s
 - D. 10 m/s
 
-**Q450.** Compared with the ideal (no air resistance) path, a real cricket ball hit at the same speed and angle has:
+**Q709.** Compared with the ideal (no air resistance) path, a real cricket ball hit at the same speed and angle has:
 <!-- id: physics-3-2-17 -->
 
 - A. the same range but a lower maximum height
@@ -3271,7 +5094,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. a lower maximum height, a shorter range and a steeper descent than ascent
 - D. a symmetrical path with a shorter range
 
-**Q451.** A marble rolls horizontally off a bench 1.8 m high and lands 1.2 m from the base of the bench. What was its launch speed? Take g = 9.8 m/s². Ignore air resistance.
+**Q710.** A marble rolls horizontally off a bench 1.8 m high and lands 1.2 m from the base of the bench. What was its launch speed? Take g = 9.8 m/s². Ignore air resistance.
 <!-- id: physics-3-2-18 -->
 
 - A. 0.67 m/s
@@ -3279,44 +5102,44 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 1.2 m/s
 - D. 2.0 m/s
 
-**Q452.** A golf ball is hit from level ground at 30 m/s at 40° above the horizontal. Ignoring air resistance, calculate its horizontal range. (g = 9.8 m/s²)
+**Q711.** A golf ball is hit from level ground at 30 m/s at 40° above the horizontal. Ignoring air resistance, calculate its horizontal range. (g = 9.8 m/s²)
 <!-- id: physics-3-2-19 -->
 
 *Written answer*
 
-**Q453.** A golf ball is hit from level ground at 30 m/s at 40° above the horizontal. Ignoring air resistance, calculate its maximum height. (g = 9.8 m/s²)
+**Q712.** A golf ball is hit from level ground at 30 m/s at 40° above the horizontal. Ignoring air resistance, calculate its maximum height. (g = 9.8 m/s²)
 <!-- id: physics-3-2-20 -->
 
 *Written answer*
 
-**Q454.** A stone is thrown horizontally at 12 m/s from a bridge 45 m above a river. Calculate the time of flight and how far horizontally it travels. (g = 9.8 m/s², ignore air resistance)
+**Q713.** A stone is thrown horizontally at 12 m/s from a bridge 45 m above a river. Calculate the time of flight and how far horizontally it travels. (g = 9.8 m/s², ignore air resistance)
 <!-- id: physics-3-2-21 -->
 
 *Written answer*
 
-**Q455.** Explain why the horizontal and vertical components of a projectile's motion can be analysed independently.
+**Q714.** Explain why the horizontal and vertical components of a projectile's motion can be analysed independently.
 <!-- id: physics-3-2-22 -->
 
 *Written answer*
 
-**Q456.** A footballer kicks a ball at 18 m/s at 35° above the horizontal towards goalposts 20 m away. The crossbar is 2.4 m high. Determine whether the ball passes over the crossbar. (g = 9.8 m/s², ignore air resistance)
+**Q715.** A footballer kicks a ball at 18 m/s at 35° above the horizontal towards goalposts 20 m away. The crossbar is 2.4 m high. Determine whether the ball passes over the crossbar. (g = 9.8 m/s², ignore air resistance)
 <!-- id: physics-3-2-23 -->
 
 *Written answer*
 
-**Q457.** A stone is thrown horizontally at 12 m/s from a bridge 45 m above a river. Calculate its speed just before it hits the water. (g = 9.8 m/s², ignore air resistance)
+**Q716.** A stone is thrown horizontally at 12 m/s from a bridge 45 m above a river. Calculate its speed just before it hits the water. (g = 9.8 m/s², ignore air resistance)
 <!-- id: physics-3-2-24 -->
 
 *Written answer*
 
-**Q458.** A supply package is released from a plane flying horizontally at 60 m/s at an altitude of 500 m. Ignoring air resistance, how far horizontally from the release point does it land, and where is the plane when it lands?
+**Q717.** A supply package is released from a plane flying horizontally at 60 m/s at an altitude of 500 m. Ignoring air resistance, how far horizontally from the release point does it land, and where is the plane when it lands?
 <!-- id: physics-3-2-25 -->
 
 *Written answer*
 
 #### Circular motion and banked tracks
 
-**Q459.** A 1000 kg car travels around a flat curve of radius 50 m at a constant 15 m/s. What friction force is needed to keep it on the curve?
+**Q718.** A 1000 kg car travels around a flat curve of radius 50 m at a constant 15 m/s. What friction force is needed to keep it on the curve?
 <!-- id: physics-3-3-1 -->
 
 - A. 4500 N
@@ -3324,7 +5147,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 9800 N
 - D. 2250 N
 
-**Q460.** For an object in uniform circular motion, the net force on it is directed:
+**Q719.** For an object in uniform circular motion, the net force on it is directed:
 <!-- id: physics-3-3-2 -->
 
 - A. tangent to the circle in the direction of motion
@@ -3332,7 +5155,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. away from the centre of the circle
 - D. in the direction of the velocity
 
-**Q461.** A ball on a string moves in a horizontal circle of radius 0.80 m, completing 2.0 revolutions per second. What is its speed?
+**Q720.** A ball on a string moves in a horizontal circle of radius 0.80 m, completing 2.0 revolutions per second. What is its speed?
 <!-- id: physics-3-3-3 -->
 
 - A. 2.5 m/s
@@ -3340,7 +5163,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 10 m/s
 - D. 1.6 m/s
 
-**Q462.** A curve of radius 80 m is to be banked so that cars at 20 m/s need no sideways friction. What is the required banking angle? Take g = 9.8 m/s².
+**Q721.** A curve of radius 80 m is to be banked so that cars at 20 m/s need no sideways friction. What is the required banking angle? Take g = 9.8 m/s².
 <!-- id: physics-3-3-4 -->
 
 - A. 63°
@@ -3348,7 +5171,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 14°
 - D. 27°
 
-**Q463.** A car travels around a banked track at exactly its design speed. Ignoring friction and air resistance, which statement is correct?
+**Q722.** A car travels around a banked track at exactly its design speed. Ignoring friction and air resistance, which statement is correct?
 <!-- id: physics-3-3-5 -->
 
 - A. Only gravity and the normal force act, and their resultant is horizontal towards the centre
@@ -3356,7 +5179,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. The resultant force points down the slope of the bank
 - D. The normal force equals the car's weight
 
-**Q464.** A car rounds a flat curve. If its speed doubles while the radius stays the same, the required centripetal force:
+**Q723.** A car rounds a flat curve. If its speed doubles while the radius stays the same, the required centripetal force:
 <!-- id: physics-3-3-6 -->
 
 - A. is multiplied by 2
@@ -3364,7 +5187,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. is unchanged
 - D. is halved
 
-**Q465.** A roller-coaster car goes over the top of a vertical loop of radius 10 m on the inside of the track. What is the minimum speed at the top for it to stay in contact with the track? Take g = 9.8 m/s².
+**Q724.** A roller-coaster car goes over the top of a vertical loop of radius 10 m on the inside of the track. What is the minimum speed at the top for it to stay in contact with the track? Take g = 9.8 m/s².
 <!-- id: physics-3-3-7 -->
 
 - A. 14 m/s
@@ -3372,7 +5195,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 9.9 m/s
 - D. 98 m/s
 
-**Q466.** A 0.50 kg ball on a string moves in a vertical circle of radius 1.0 m. At the lowest point its speed is 6.0 m/s. What is the tension in the string there? Take g = 9.8 m/s².
+**Q725.** A 0.50 kg ball on a string moves in a vertical circle of radius 1.0 m. At the lowest point its speed is 6.0 m/s. What is the tension in the string there? Take g = 9.8 m/s².
 <!-- id: physics-3-3-8 -->
 
 - A. 13.1 N
@@ -3380,7 +5203,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 4.9 N
 - D. 22.9 N
 
-**Q467.** A 1200 kg car drives over the top of a hump-back bridge (radius 40 m) at 12 m/s. What is the normal force on the car at the top? Take g = 9.8 m/s².
+**Q726.** A 1200 kg car drives over the top of a hump-back bridge (radius 40 m) at 12 m/s. What is the normal force on the car at the top? Take g = 9.8 m/s².
 <!-- id: physics-3-3-9 -->
 
 - A. 7440 N
@@ -3388,7 +5211,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 11 760 N
 - D. 4320 N
 
-**Q468.** What is the maximum speed at which a car can drive over the top of a hump of radius 25 m without losing contact with the road? Take g = 9.8 m/s².
+**Q727.** What is the maximum speed at which a car can drive over the top of a hump of radius 25 m without losing contact with the road? Take g = 9.8 m/s².
 <!-- id: physics-3-3-10 -->
 
 - A. 22.1 m/s
@@ -3396,7 +5219,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 245 m/s
 - D. 7.8 m/s
 
-**Q469.** A car travels around a banked curve faster than its design speed. Sideways friction on the tyres acts:
+**Q728.** A car travels around a banked curve faster than its design speed. Sideways friction on the tyres acts:
 <!-- id: physics-3-3-11 -->
 
 - A. up the slope of the bank
@@ -3404,7 +5227,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. down the slope of the bank
 - D. nowhere, because friction is not needed
 
-**Q470.** A cyclist rounds a flat corner at Albert Park. What provides the centripetal force?
+**Q729.** A cyclist rounds a flat corner at Albert Park. What provides the centripetal force?
 <!-- id: physics-3-3-12 -->
 
 - A. The normal force from the road
@@ -3412,7 +5235,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. A centrifugal force acting outwards
 - D. Friction between the tyres and the road
 
-**Q471.** Which statement about an object in uniform circular motion is correct?
+**Q730.** Which statement about an object in uniform circular motion is correct?
 <!-- id: physics-3-3-13 -->
 
 - A. Its speed is constant but its velocity is changing
@@ -3420,7 +5243,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Both its speed and its velocity are constant
 - D. Its acceleration is zero because its speed is constant
 
-**Q472.** A curve of radius 120 m is banked at 15°. What is its design speed? Take g = 9.8 m/s².
+**Q731.** A curve of radius 120 m is banked at 15°. What is its design speed? Take g = 9.8 m/s².
 <!-- id: physics-3-3-14 -->
 
 - A. 34.3 m/s
@@ -3428,7 +5251,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 315 m/s
 - D. 8.9 m/s
 
-**Q473.** A child rides a merry-go-round at a radius of 2.0 m and completes one revolution every 4.0 s. What is the child's centripetal acceleration?
+**Q732.** A child rides a merry-go-round at a radius of 2.0 m and completes one revolution every 4.0 s. What is the child's centripetal acceleration?
 <!-- id: physics-3-3-15 -->
 
 - A. 3.1 m/s²
@@ -3436,7 +5259,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 4.9 m/s²
 - D. 1.6 m/s²
 
-**Q474.** A car rounds a frictionless banked curve at its design speed. Compared with the car's weight, the normal force on the car is:
+**Q733.** A car rounds a frictionless banked curve at its design speed. Compared with the car's weight, the normal force on the car is:
 <!-- id: physics-3-3-16 -->
 
 - A. equal to the weight
@@ -3444,7 +5267,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. zero
 - D. greater than the weight
 
-**Q475.** A hammer thrower releases the hammer while it moves in a horizontal circle. Immediately after release, viewed from above, the hammer moves:
+**Q734.** A hammer thrower releases the hammer while it moves in a horizontal circle. Immediately after release, viewed from above, the hammer moves:
 <!-- id: physics-3-3-17 -->
 
 - A. along the tangent to the circle at the point of release
@@ -3452,7 +5275,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. along a curved path continuing the circle
 - D. radially inwards towards the centre
 
-**Q476.** A 0.20 kg puck on a frictionless air table moves in a circle of radius 0.50 m on a string, with a period of 0.50 s. What is the tension in the string?
+**Q735.** A 0.20 kg puck on a frictionless air table moves in a circle of radius 0.50 m on a string, with a period of 0.50 s. What is the tension in the string?
 <!-- id: physics-3-3-18 -->
 
 - A. 2.5 N
@@ -3460,44 +5283,44 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 7.9 N
 - D. 2.0 N
 
-**Q477.** Show that the design speed v of a curve of radius r banked at angle θ satisfies tan θ = v²/(rg).
+**Q736.** Show that the design speed v of a curve of radius r banked at angle θ satisfies tan θ = v²/(rg).
 <!-- id: physics-3-3-19 -->
 
 *Written answer*
 
-**Q478.** A racetrack curve of radius 200 m is to be designed for cars travelling at 108 km/h. Calculate the banking angle needed so that no friction is required. (g = 9.8 m/s²)
+**Q737.** A racetrack curve of radius 200 m is to be designed for cars travelling at 108 km/h. Calculate the banking angle needed so that no friction is required. (g = 9.8 m/s²)
 <!-- id: physics-3-3-20 -->
 
 *Written answer*
 
-**Q479.** A student swings a bucket of water in a vertical circle of radius 0.90 m. Calculate the minimum speed at the top so the water stays in the bucket, and explain why. (g = 9.8 m/s²)
+**Q738.** A student swings a bucket of water in a vertical circle of radius 0.90 m. Calculate the minimum speed at the top so the water stays in the bucket, and explain why. (g = 9.8 m/s²)
 <!-- id: physics-3-3-21 -->
 
 *Written answer*
 
-**Q480.** A 60 kg passenger passes through the bottom of a roller-coaster loop of radius 12 m at 20 m/s. Calculate the normal force on the passenger. (g = 9.8 m/s²)
+**Q739.** A 60 kg passenger passes through the bottom of a roller-coaster loop of radius 12 m at 20 m/s. Calculate the normal force on the passenger. (g = 9.8 m/s²)
 <!-- id: physics-3-3-22 -->
 
 *Written answer*
 
-**Q481.** A 1400 kg car rounds a flat curve of radius 40 m. The maximum sideways friction available is 7000 N. Calculate the maximum speed for the curve.
+**Q740.** A 1400 kg car rounds a flat curve of radius 40 m. The maximum sideways friction available is 7000 N. Calculate the maximum speed for the curve.
 <!-- id: physics-3-3-23 -->
 
 *Written answer*
 
-**Q482.** Passengers in a car going around a sharp corner feel 'thrown outwards'. Explain why this is not caused by a real outward force.
+**Q741.** Passengers in a car going around a sharp corner feel 'thrown outwards'. Explain why this is not caused by a real outward force.
 <!-- id: physics-3-3-24 -->
 
 *Written answer*
 
-**Q483.** A 1500 kg car travels around a banked curve of radius 100 m at its design speed of 25 m/s. State the magnitude and direction of the net force on the car.
+**Q742.** A 1500 kg car travels around a banked curve of radius 100 m at its design speed of 25 m/s. State the magnitude and direction of the net force on the car.
 <!-- id: physics-3-3-25 -->
 
 *Written answer*
 
 #### Momentum, impulse, work and energy
 
-**Q484.** A 0.16 kg cricket ball travelling at 30 m/s is hit straight back at 40 m/s. What is the magnitude of the impulse on the ball?
+**Q743.** A 0.16 kg cricket ball travelling at 30 m/s is hit straight back at 40 m/s. What is the magnitude of the impulse on the ball?
 <!-- id: physics-3-4-1 -->
 
 - A. 1.6 N s
@@ -3505,7 +5328,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 11.2 N s
 - D. 6.4 N s
 
-**Q485.** A 58 g tennis ball hits a racquet at 20 m/s and leaves in the opposite direction at 30 m/s. The contact time is 5.0 ms. What is the average force on the ball?
+**Q744.** A 58 g tennis ball hits a racquet at 20 m/s and leaves in the opposite direction at 30 m/s. The contact time is 5.0 ms. What is the average force on the ball?
 <!-- id: physics-3-4-2 -->
 
 - A. 116 N
@@ -3513,7 +5336,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 232 N
 - D. 580 N
 
-**Q486.** A 1200 kg car travelling at 15 m/s collides with a stationary 800 kg car, and they lock together. What is their speed just after the collision?
+**Q745.** A 1200 kg car travelling at 15 m/s collides with a stationary 800 kg car, and they lock together. What is their speed just after the collision?
 <!-- id: physics-3-4-3 -->
 
 - A. 9.0 m/s
@@ -3521,7 +5344,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 6.0 m/s
 - D. 7.5 m/s
 
-**Q487.** A 1200 kg car at 15 m/s collides with a stationary 800 kg car and they move off together at 9.0 m/s. How much kinetic energy is transformed in the collision?
+**Q746.** A 1200 kg car at 15 m/s collides with a stationary 800 kg car and they move off together at 9.0 m/s. How much kinetic energy is transformed in the collision?
 <!-- id: physics-3-4-4 -->
 
 - A. 81 000 J
@@ -3529,7 +5352,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 135 000 J
 - D. 0 J
 
-**Q488.** Which statement best describes an elastic collision?
+**Q747.** Which statement best describes an elastic collision?
 <!-- id: physics-3-4-5 -->
 
 - A. Momentum is conserved but kinetic energy is not
@@ -3537,7 +5360,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Both momentum and total kinetic energy are conserved
 - D. The objects stick together after colliding
 
-**Q489.** Car airbags reduce injuries in a crash mainly because they:
+**Q748.** Car airbags reduce injuries in a crash mainly because they:
 <!-- id: physics-3-4-6 -->
 
 - A. reduce the occupant's change in momentum
@@ -3545,7 +5368,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. reduce the occupant's kinetic energy before the crash
 - D. increase the time over which the occupant's momentum changes, reducing the average force
 
-**Q490.** A shopper pushes a 30 kg trolley 15 m across a level car park with a constant 80 N force directed 20° below the horizontal. How much work does this force do on the trolley?
+**Q749.** A shopper pushes a 30 kg trolley 15 m across a level car park with a constant 80 N force directed 20° below the horizontal. How much work does this force do on the trolley?
 <!-- id: physics-3-4-7 -->
 
 - A. 1.1 kJ
@@ -3553,7 +5376,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 0.41 kJ
 - D. 4.4 kJ
 
-**Q491.** A spring with spring constant 200 N/m is compressed by 0.15 m. How much elastic potential energy does it store?
+**Q750.** A spring with spring constant 200 N/m is compressed by 0.15 m. How much elastic potential energy does it store?
 <!-- id: physics-3-4-8 -->
 
 - A. 4.5 J
@@ -3561,7 +5384,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 30 J
 - D. 15 J
 
-**Q492.** A ball is dropped from rest from a height of 5.0 m. What is its speed just before it hits the ground? Take g = 9.8 m/s². Ignore air resistance.
+**Q751.** A ball is dropped from rest from a height of 5.0 m. What is its speed just before it hits the ground? Take g = 9.8 m/s². Ignore air resistance.
 <!-- id: physics-3-4-9 -->
 
 - A. 7.0 m/s
@@ -3569,7 +5392,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 9.9 m/s
 - D. 98 m/s
 
-**Q493.** A 4.0 kg rifle fires a 10 g bullet horizontally at 400 m/s. What is the rifle's recoil speed?
+**Q752.** A 4.0 kg rifle fires a 10 g bullet horizontally at 400 m/s. What is the rifle's recoil speed?
 <!-- id: physics-3-4-10 -->
 
 - A. 0.10 m/s
@@ -3577,7 +5400,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 100 m/s
 - D. 1.0 m/s
 
-**Q494.** The impulse acting on an object is equal to:
+**Q753.** The impulse acting on an object is equal to:
 <!-- id: physics-3-4-11 -->
 
 - A. its change in momentum
@@ -3585,7 +5408,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. the force divided by the time
 - D. its final momentum multiplied by the time
 
-**Q495.** A lift raises an 800 kg load 20 m at constant speed in 16 s. What is the minimum average power output of the lift motor? Take g = 9.8 m/s².
+**Q754.** A lift raises an 800 kg load 20 m at constant speed in 16 s. What is the minimum average power output of the lift motor? Take g = 9.8 m/s².
 <!-- id: physics-3-4-12 -->
 
 - A. 1.0 kW
@@ -3593,7 +5416,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 157 kW
 - D. 4.9 kW
 
-**Q496.** A 0.50 kg mass hung from a spring stretches it by 4.9 cm. What is the spring constant? Take g = 9.8 m/s².
+**Q755.** A 0.50 kg mass hung from a spring stretches it by 4.9 cm. What is the spring constant? Take g = 9.8 m/s².
 <!-- id: physics-3-4-13 -->
 
 - A. 10 N/m
@@ -3601,7 +5424,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 100 N/m
 - D. 1000 N/m
 
-**Q497.** A 50 kg skateboarder rolls at 3.0 m/s at the bottom of a frictionless ramp. What maximum height can they reach up the ramp? Take g = 9.8 m/s².
+**Q756.** A 50 kg skateboarder rolls at 3.0 m/s at the bottom of a frictionless ramp. What maximum height can they reach up the ramp? Take g = 9.8 m/s².
 <!-- id: physics-3-4-14 -->
 
 - A. 0.92 m
@@ -3609,7 +5432,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 0.31 m
 - D. 0.46 m
 
-**Q498.** Two ice skaters of mass 60 kg and 40 kg stand at rest and push off each other. The 40 kg skater moves off at 3.0 m/s. What is the speed of the 60 kg skater?
+**Q757.** Two ice skaters of mass 60 kg and 40 kg stand at rest and push off each other. The 40 kg skater moves off at 3.0 m/s. What is the speed of the 60 kg skater?
 <!-- id: physics-3-4-15 -->
 
 - A. 2.0 m/s
@@ -3617,7 +5440,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 4.5 m/s
 - D. 1.2 m/s
 
-**Q499.** The total momentum of a system of colliding objects is conserved when:
+**Q758.** The total momentum of a system of colliding objects is conserved when:
 <!-- id: physics-3-4-16 -->
 
 - A. the collision is elastic
@@ -3625,7 +5448,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. the objects stick together
 - D. the objects have equal masses
 
-**Q500.** A car's braking force is constant. If the car's initial speed is doubled, its braking distance:
+**Q759.** A car's braking force is constant. If the car's initial speed is doubled, its braking distance:
 <!-- id: physics-3-4-17 -->
 
 - A. is multiplied by 2
@@ -3633,7 +5456,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. is multiplied by 4
 - D. is multiplied by √2
 
-**Q501.** An object of mass 3.0 kg has a momentum of 12 kg m/s. What is its kinetic energy?
+**Q760.** An object of mass 3.0 kg has a momentum of 12 kg m/s. What is its kinetic energy?
 <!-- id: physics-3-4-18 -->
 
 - A. 18 J
@@ -3641,37 +5464,37 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 4.0 J
 - D. 24 J
 
-**Q502.** A 3000 kg truck travelling at 10 m/s collides with a stationary 1000 kg car. Immediately after, the car moves forward at 12 m/s. Calculate the truck's velocity after the collision and determine whether the collision is elastic.
+**Q761.** A 3000 kg truck travelling at 10 m/s collides with a stationary 1000 kg car. Immediately after, the car moves forward at 12 m/s. Calculate the truck's velocity after the collision and determine whether the collision is elastic.
 <!-- id: physics-3-4-19 -->
 
 *Written answer*
 
-**Q503.** Explain how the crumple zones of a car reduce the force on occupants in a collision.
+**Q762.** Explain how the crumple zones of a car reduce the force on occupants in a collision.
 <!-- id: physics-3-4-20 -->
 
 *Written answer*
 
-**Q504.** A toy launcher uses a spring with k = 400 N/m compressed by 0.10 m to fire a 50 g ball horizontally. Assuming all the elastic energy becomes kinetic energy, calculate the launch speed.
+**Q763.** A toy launcher uses a spring with k = 400 N/m compressed by 0.10 m to fire a 50 g ball horizontally. Assuming all the elastic energy becomes kinetic energy, calculate the launch speed.
 <!-- id: physics-3-4-21 -->
 
 *Written answer*
 
-**Q505.** A 1500 kg car travelling at 20 m/s brakes to a stop in 40 m. Calculate the average braking force using energy methods.
+**Q764.** A 1500 kg car travelling at 20 m/s brakes to a stop in 40 m. Calculate the average braking force using energy methods.
 <!-- id: physics-3-4-22 -->
 
 *Written answer*
 
-**Q506.** A 0.45 kg football is kicked from rest to 25 m/s, with a foot contact time of 0.010 s. Calculate the impulse on the ball and the average force from the foot.
+**Q765.** A 0.45 kg football is kicked from rest to 25 m/s, with a foot contact time of 0.010 s. Calculate the impulse on the ball and the average force from the foot.
 <!-- id: physics-3-4-23 -->
 
 *Written answer*
 
-**Q507.** A 2.0 kg ball is dropped from 1.25 m onto a floor and rebounds to 0.80 m. Calculate the impulse the floor exerts on the ball. (g = 9.8 m/s², ignore air resistance)
+**Q766.** A 2.0 kg ball is dropped from 1.25 m onto a floor and rebounds to 0.80 m. Calculate the impulse the floor exerts on the ball. (g = 9.8 m/s², ignore air resistance)
 <!-- id: physics-3-4-24 -->
 
 *Written answer*
 
-**Q508.** A 500 kg roller-coaster car starts from rest at a height of 30 m. Ignoring friction, calculate its speed at a point 12 m above the ground. (g = 9.8 m/s²)
+**Q767.** A 500 kg roller-coaster car starts from rest at a height of 30 m. Ignoring friction, calculate its speed at a point 12 m above the ground. (g = 9.8 m/s²)
 <!-- id: physics-3-4-25 -->
 
 *Written answer*
@@ -3680,7 +5503,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 #### Einstein's postulates and frames
 
-**Q509.** Which statement is Einstein's first postulate of special relativity?
+**Q768.** Which statement is Einstein's first postulate of special relativity?
 <!-- id: physics-4-1-1 -->
 
 - A. The laws of physics are the same in all inertial frames of reference.
@@ -3688,7 +5511,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Time passes at the same rate for all observers.
 - D. All motion is measured relative to a stationary aether.
 
-**Q510.** Which statement is Einstein's second postulate of special relativity?
+**Q769.** Which statement is Einstein's second postulate of special relativity?
 <!-- id: physics-4-1-2 -->
 
 - A. The speed of light is greatest when the source moves towards the observer.
@@ -3696,7 +5519,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Light requires a medium, the aether, to travel through.
 - D. Nothing can travel at the speed of light, including light pulses in a vacuum.
 
-**Q511.** An inertial frame of reference is best described as a frame that is:
+**Q770.** An inertial frame of reference is best described as a frame that is:
 <!-- id: physics-4-1-3 -->
 
 - A. moving at the speed of light
@@ -3704,7 +5527,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. not accelerating, so it is at rest or moving at constant velocity
 - D. attached to the surface of the Sun
 
-**Q512.** Which of the following is NOT an inertial frame of reference?
+**Q771.** Which of the following is NOT an inertial frame of reference?
 <!-- id: physics-4-1-4 -->
 
 - A. A V/Line train travelling at a constant 120 km/h on a straight, level track
@@ -3712,7 +5535,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. A laboratory bench at rest on Earth's surface (to a good approximation)
 - D. A car travelling around a roundabout at a constant 40 km/h
 
-**Q513.** A spacecraft travelling at 0.50c relative to Earth switches on a forward-pointing headlight. What speed does an observer on Earth measure for the light from the headlight?
+**Q772.** A spacecraft travelling at 0.50c relative to Earth switches on a forward-pointing headlight. What speed does an observer on Earth measure for the light from the headlight?
 <!-- id: physics-4-1-5 -->
 
 - A. c
@@ -3720,7 +5543,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 0.50c
 - D. 1.25c
 
-**Q514.** A spacecraft moves away from Earth at 0.60c. A laser pulse is sent from Earth towards the spacecraft. What speed does the astronaut on the spacecraft measure for the pulse?
+**Q773.** A spacecraft moves away from Earth at 0.60c. A laser pulse is sent from Earth towards the spacecraft. What speed does the astronaut on the spacecraft measure for the pulse?
 <!-- id: physics-4-1-6 -->
 
 - A. 0.40c
@@ -3728,7 +5551,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 1.6c
 - D. 0.60c
 
-**Q515.** What was the main result of the Michelson–Morley experiment?
+**Q774.** What was the main result of the Michelson–Morley experiment?
 <!-- id: physics-4-1-7 -->
 
 - A. A clear fringe shift showed Earth's speed through the aether.
@@ -3736,7 +5559,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. No significant change in the interference pattern was detected, giving no evidence for the aether.
 - D. Light was shown to need a medium to travel through space.
 
-**Q516.** A passenger in a windowless carriage of a smoothly moving train at constant velocity drops a ball and does several pendulum experiments. Which idea explains why she cannot work out the train's speed from these experiments?
+**Q775.** A passenger in a windowless carriage of a smoothly moving train at constant velocity drops a ball and does several pendulum experiments. Which idea explains why she cannot work out the train's speed from these experiments?
 <!-- id: physics-4-1-8 -->
 
 - A. Light travels at the same speed for all observers.
@@ -3744,7 +5567,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Time dilation makes moving clocks run slow.
 - D. The laws of physics are the same in all inertial frames.
 
-**Q517.** Proper time is the time interval between two events measured by an observer:
+**Q776.** Proper time is the time interval between two events measured by an observer:
 <!-- id: physics-4-1-9 -->
 
 - A. for whom the two events occur at the same location
@@ -3752,7 +5575,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. who is moving fastest relative to the events
 - D. who measures the longest time interval
 
-**Q518.** The proper length of an object is the length measured by an observer who is:
+**Q777.** The proper length of an object is the length measured by an observer who is:
 <!-- id: physics-4-1-10 -->
 
 - A. moving at the speed of light relative to the object
@@ -3760,7 +5583,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. moving at the greatest possible speed relative to the object
 - D. on Earth, regardless of the object's motion
 
-**Q519.** Two lightning strikes hit opposite ends of a long platform at the same time according to an observer standing on the platform. According to a passenger on a train moving rapidly along the platform, the strikes:
+**Q778.** Two lightning strikes hit opposite ends of a long platform at the same time according to an observer standing on the platform. According to a passenger on a train moving rapidly along the platform, the strikes:
 <!-- id: physics-4-1-11 -->
 
 - A. must occur at the same time, because simultaneity is absolute
@@ -3768,7 +5591,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. generally do not occur at the same time
 - D. occur at the same location
 
-**Q520.** Einstein was motivated to develop special relativity mainly by a conflict between:
+**Q779.** Einstein was motivated to develop special relativity mainly by a conflict between:
 <!-- id: physics-4-1-12 -->
 
 - A. Newton's law of gravitation and Kepler's laws
@@ -3776,7 +5599,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Ohm's law and Faraday's law
 - D. Maxwell's electromagnetism, which predicts a fixed speed of light, and Galilean (classical) velocity addition
 
-**Q521.** Which quantity is measured to have the same value by all inertial observers, whatever their relative motion?
+**Q780.** Which quantity is measured to have the same value by all inertial observers, whatever their relative motion?
 <!-- id: physics-4-1-13 -->
 
 - A. The speed of light in a vacuum
@@ -3784,7 +5607,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. The length of a moving rod
 - D. The kinetic energy of a moving particle
 
-**Q522.** A train moves at speed v relative to the track and turns on its headlight. Using classical Galilean velocity addition, what speed would a trackside observer be predicted to measure for the light?
+**Q781.** A train moves at speed v relative to the track and turns on its headlight. Using classical Galilean velocity addition, what speed would a trackside observer be predicted to measure for the light?
 <!-- id: physics-4-1-14 -->
 
 - A. c
@@ -3792,7 +5615,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. c − v
 - D. v
 
-**Q523.** Which statement about the scope of special relativity is correct?
+**Q782.** Which statement about the scope of special relativity is correct?
 <!-- id: physics-4-1-15 -->
 
 - A. It applies only to objects travelling at the speed of light.
@@ -3800,7 +5623,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. It applies to observers in inertial (non-accelerating) frames of reference.
 - D. It applies only to light and not to objects with mass.
 
-**Q524.** Why can a spacecraft with mass never reach the speed of light?
+**Q783.** Why can a spacecraft with mass never reach the speed of light?
 <!-- id: physics-4-1-16 -->
 
 - A. Air resistance in space becomes too large near c.
@@ -3808,7 +5631,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. The second postulate forbids objects from moving faster than 0.5c.
 - D. As v approaches c, the Lorentz factor approaches infinity, so infinite energy would be needed.
 
-**Q525.** Lightning strikes the front and back of a fast-moving train simultaneously in the ground frame. A passenger sits exactly in the middle of the train. According to the passenger, which strike happened first?
+**Q784.** Lightning strikes the front and back of a fast-moving train simultaneously in the ground frame. A passenger sits exactly in the middle of the train. According to the passenger, which strike happened first?
 <!-- id: physics-4-1-17 -->
 
 - A. The strike at the front of the train
@@ -3816,7 +5639,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Both strikes happened at the same time
 - D. It depends on the colour of the light
 
-**Q526.** Astronauts Ana and Ben pass each other in spacecraft moving at constant relative velocity. Each finds that the other's clock is running slow. Which statement is correct?
+**Q785.** Astronauts Ana and Ben pass each other in spacecraft moving at constant relative velocity. Each finds that the other's clock is running slow. Which statement is correct?
 <!-- id: physics-4-1-18 -->
 
 - A. Only Ana is correct, because she noticed it first.
@@ -3824,44 +5647,44 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Only the faster astronaut is correct.
 - D. Neither is correct, because clocks always run at the same rate.
 
-**Q527.** State Einstein's two postulates of special relativity.
+**Q786.** State Einstein's two postulates of special relativity.
 <!-- id: physics-4-1-19 -->
 
 *Written answer*
 
-**Q528.** Galileo argued that a person below deck on a smoothly sailing ship could not tell whether the ship was moving. Explain this using Einstein's first postulate.
+**Q787.** Galileo argued that a person below deck on a smoothly sailing ship could not tell whether the ship was moving. Explain this using Einstein's first postulate.
 <!-- id: physics-4-1-20 -->
 
 *Written answer*
 
-**Q529.** Explain the significance of the null result of the Michelson–Morley experiment for the development of special relativity.
+**Q788.** Explain the significance of the null result of the Michelson–Morley experiment for the development of special relativity.
 <!-- id: physics-4-1-21 -->
 
 *Written answer*
 
-**Q530.** Use the second postulate to explain why two events that are simultaneous for one observer may not be simultaneous for another observer moving relative to the first.
+**Q789.** Use the second postulate to explain why two events that are simultaneous for one observer may not be simultaneous for another observer moving relative to the first.
 <!-- id: physics-4-1-22 -->
 
 *Written answer*
 
-**Q531.** Distinguish between an inertial and a non-inertial frame of reference, giving one example of each.
+**Q790.** Distinguish between an inertial and a non-inertial frame of reference, giving one example of each.
 <!-- id: physics-4-1-23 -->
 
 *Written answer*
 
-**Q532.** A rocket travelling at 0.90c relative to Earth fires a laser pulse backwards, towards Earth. What speed does an observer on Earth measure for the pulse? Justify your answer.
+**Q791.** A rocket travelling at 0.90c relative to Earth fires a laser pulse backwards, towards Earth. What speed does an observer on Earth measure for the pulse? Justify your answer.
 <!-- id: physics-4-1-24 -->
 
 *Written answer*
 
-**Q533.** Two observers in relative motion measure different time intervals between the same pair of events. Explain why this is not a contradiction.
+**Q792.** Two observers in relative motion measure different time intervals between the same pair of events. Explain why this is not a contradiction.
 <!-- id: physics-4-1-25 -->
 
 *Written answer*
 
 #### Time dilation and Lorentz factor
 
-**Q534.** What is the Lorentz factor γ for a spacecraft travelling at 0.60c?
+**Q793.** What is the Lorentz factor γ for a spacecraft travelling at 0.60c?
 <!-- id: physics-4-2-1 -->
 
 - A. 1.25
@@ -3869,7 +5692,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 1.67
 - D. 1.6
 
-**Q535.** What is the Lorentz factor γ for a particle travelling at 0.80c?
+**Q794.** What is the Lorentz factor γ for a particle travelling at 0.80c?
 <!-- id: physics-4-2-2 -->
 
 - A. 0.60
@@ -3877,7 +5700,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 1.25
 - D. 2.78
 
-**Q536.** A proton in the Australian Synchrotron's booster ring is travelling at 0.99c. What is its Lorentz factor, to three significant figures?
+**Q795.** A proton in the Australian Synchrotron's booster ring is travelling at 0.99c. What is its Lorentz factor, to three significant figures?
 <!-- id: physics-4-2-3 -->
 
 - A. 1.01
@@ -3885,7 +5708,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 7.09
 - D. 0.141
 
-**Q537.** At what speed is the Lorentz factor equal to 2.0?
+**Q796.** At what speed is the Lorentz factor equal to 2.0?
 <!-- id: physics-4-2-4 -->
 
 - A. 0.50c
@@ -3893,7 +5716,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 0.707c
 - D. 0.866c
 
-**Q538.** Which equation correctly relates the dilated time Δt to the proper time Δt₀?
+**Q797.** Which equation correctly relates the dilated time Δt to the proper time Δt₀?
 <!-- id: physics-4-2-5 -->
 
 - A. Δt = γΔt₀
@@ -3901,7 +5724,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Δt = γ²Δt₀
 - D. Δt = Δt₀ − γ
 
-**Q539.** An astronaut on a spacecraft travelling at 0.60c relative to Earth measures the time between her heartbeats as 1.00 s. What time between heartbeats would an observer on Earth measure?
+**Q798.** An astronaut on a spacecraft travelling at 0.60c relative to Earth measures the time between her heartbeats as 1.00 s. What time between heartbeats would an observer on Earth measure?
 <!-- id: physics-4-2-6 -->
 
 - A. 0.80 s
@@ -3909,7 +5732,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 1.00 s
 - D. 1.56 s
 
-**Q540.** A spacecraft travels at 0.80c. The journey takes 6.0 years according to clocks on the spacecraft. How long does the journey take according to clocks on Earth?
+**Q799.** A spacecraft travels at 0.80c. The journey takes 6.0 years according to clocks on the spacecraft. How long does the journey take according to clocks on Earth?
 <!-- id: physics-4-2-7 -->
 
 - A. 3.6 years
@@ -3917,7 +5740,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 10 years
 - D. 16.7 years
 
-**Q541.** Observers on Earth measure a spacecraft's journey at 0.80c to take 20 years. How much does the astronaut age during the journey?
+**Q800.** Observers on Earth measure a spacecraft's journey at 0.80c to take 20 years. How much does the astronaut age during the journey?
 <!-- id: physics-4-2-8 -->
 
 - A. 33 years
@@ -3925,7 +5748,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 7.2 years
 - D. 12 years
 
-**Q542.** A Qantas aircraft cruises at 300 m/s. Which best describes the Lorentz factor for the aircraft relative to the ground?
+**Q801.** A Qantas aircraft cruises at 300 m/s. Which best describes the Lorentz factor for the aircraft relative to the ground?
 <!-- id: physics-4-2-9 -->
 
 - A. Very slightly greater than 1, about 1 + 5 × 10⁻¹³
@@ -3933,7 +5756,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. About 1.001
 - D. Slightly less than 1
 
-**Q543.** A clock on a spacecraft ticks once per second. Which observer measures the proper time between two ticks?
+**Q802.** A clock on a spacecraft ticks once per second. Which observer measures the proper time between two ticks?
 <!-- id: physics-4-2-10 -->
 
 - A. An observer on Earth watching the spacecraft pass
@@ -3941,7 +5764,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. An observer on a second spacecraft moving relative to the first
 - D. Any observer, because all observers measure the same interval
 
-**Q544.** Which statement about the Lorentz factor γ is always true?
+**Q803.** Which statement about the Lorentz factor γ is always true?
 <!-- id: physics-4-2-11 -->
 
 - A. 0 ≤ γ ≤ 1
@@ -3949,7 +5772,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. γ ≥ 1
 - D. γ = 1 only at the speed of light
 
-**Q545.** What is the Lorentz factor for an object moving at 0.50c?
+**Q804.** What is the Lorentz factor for an object moving at 0.50c?
 <!-- id: physics-4-2-12 -->
 
 - A. 2.00
@@ -3957,7 +5780,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 0.87
 - D. 1.15
 
-**Q546.** A particle in an accelerator has a Lorentz factor of 5.0. What is its speed?
+**Q805.** A particle in an accelerator has a Lorentz factor of 5.0. What is its speed?
 <!-- id: physics-4-2-13 -->
 
 - A. 0.980c
@@ -3965,7 +5788,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 0.960c
 - D. 0.800c
 
-**Q547.** A pion has a mean lifetime of 26 ns when at rest. Pions in a beam travel at 0.95c. What mean lifetime is measured in the laboratory?
+**Q806.** A pion has a mean lifetime of 26 ns when at rest. Pions in a beam travel at 0.95c. What mean lifetime is measured in the laboratory?
 <!-- id: physics-4-2-14 -->
 
 - A. 8.1 ns
@@ -3973,7 +5796,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 26 ns
 - D. 25 ns
 
-**Q548.** GPS satellites orbit at about 3.9 km/s. Considering special relativity alone, how do the satellite clocks behave compared with clocks on the ground?
+**Q807.** GPS satellites orbit at about 3.9 km/s. Considering special relativity alone, how do the satellite clocks behave compared with clocks on the ground?
 <!-- id: physics-4-2-15 -->
 
 - A. They run fast, as seen from the ground.
@@ -3981,7 +5804,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. They run slow, as seen from the ground.
 - D. They stop completely.
 
-**Q549.** A spacecraft's speed increases from 0.40c to 0.80c. Which describes the change in its Lorentz factor?
+**Q808.** A spacecraft's speed increases from 0.40c to 0.80c. Which describes the change in its Lorentz factor?
 <!-- id: physics-4-2-16 -->
 
 - A. It doubles from about 1.09 to about 2.18.
@@ -3989,7 +5812,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. It stays the same, because γ only depends on acceleration.
 - D. It increases from about 1.09 to about 1.67.
 
-**Q550.** A spacecraft passes Earth at 0.60c. While 50 minutes pass on Earth clocks, how much time do Earth observers measure passing on the spacecraft's clock?
+**Q809.** A spacecraft passes Earth at 0.60c. While 50 minutes pass on Earth clocks, how much time do Earth observers measure passing on the spacecraft's clock?
 <!-- id: physics-4-2-17 -->
 
 - A. 40 minutes
@@ -3997,7 +5820,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 50 minutes
 - D. 30 minutes
 
-**Q551.** In the 'twin paradox', a twin travels to a distant star at high speed and returns, while her brother stays on Earth. Why is it the travelling twin who is younger when they reunite?
+**Q810.** In the 'twin paradox', a twin travels to a distant star at high speed and returns, while her brother stays on Earth. Why is it the travelling twin who is younger when they reunite?
 <!-- id: physics-4-2-18 -->
 
 - A. Her heart beats more slowly because of the cold of space.
@@ -4005,44 +5828,44 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Light travels faster on the return journey.
 - D. Her spacecraft gains mass, which slows down biological processes.
 
-**Q552.** Calculate the Lorentz factor for a spacecraft travelling at 0.90c.
+**Q811.** Calculate the Lorentz factor for a spacecraft travelling at 0.90c.
 <!-- id: physics-4-2-19 -->
 
 *Written answer*
 
-**Q553.** A spacecraft travels at 0.70c to a distant star. The journey takes 20.0 years according to Earth observers. How much does the astronaut age during the journey?
+**Q812.** A spacecraft travels at 0.70c to a distant star. The journey takes 20.0 years according to Earth observers. How much does the astronaut age during the journey?
 <!-- id: physics-4-2-20 -->
 
 *Written answer*
 
-**Q554.** An unstable particle has a lifetime of 1.8 μs in its own rest frame. In the laboratory its lifetime is measured as 9.0 μs. Calculate the Lorentz factor and the particle's speed.
+**Q813.** An unstable particle has a lifetime of 1.8 μs in its own rest frame. In the laboratory its lifetime is measured as 9.0 μs. Calculate the Lorentz factor and the particle's speed.
 <!-- id: physics-4-2-21 -->
 
 *Written answer*
 
-**Q555.** Using the idea of a light clock (a light pulse bouncing between two mirrors), explain why a moving clock is measured to run slow.
+**Q814.** Using the idea of a light clock (a light pulse bouncing between two mirrors), explain why a moving clock is measured to run slow.
 <!-- id: physics-4-2-22 -->
 
 *Written answer*
 
-**Q556.** At what speed, in m/s, would a moving clock be measured to run at half the rate of an identical stationary clock?
+**Q815.** At what speed, in m/s, would a moving clock be measured to run at half the rate of an identical stationary clock?
 <!-- id: physics-4-2-23 -->
 
 *Written answer*
 
-**Q557.** Explain why time dilation is not noticed in everyday life, using a car travelling at 30 m/s on the Monash Freeway as an example.
+**Q816.** Explain why time dilation is not noticed in everyday life, using a car travelling at 30 m/s on the Monash Freeway as an example.
 <!-- id: physics-4-2-24 -->
 
 *Written answer*
 
-**Q558.** An astronaut on a spacecraft travelling at 0.80c relative to Earth takes 30 minutes to eat a meal, measured on her own clock. How long does the meal take according to observers on Earth?
+**Q817.** An astronaut on a spacecraft travelling at 0.80c relative to Earth takes 30 minutes to eat a meal, measured on her own clock. How long does the meal take according to observers on Earth?
 <!-- id: physics-4-2-25 -->
 
 *Written answer*
 
 #### Length contraction and muon evidence
 
-**Q559.** Which equation gives the length L of a moving object measured by an observer, where L₀ is its proper length?
+**Q818.** Which equation gives the length L of a moving object measured by an observer, where L₀ is its proper length?
 <!-- id: physics-4-3-1 -->
 
 - A. L = L₀/γ
@@ -4050,7 +5873,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. L = L₀ − γ
 - D. L = γ²L₀
 
-**Q560.** Length contraction of a moving object occurs:
+**Q819.** Length contraction of a moving object occurs:
 <!-- id: physics-4-3-2 -->
 
 - A. only perpendicular to the direction of motion
@@ -4058,7 +5881,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. equally in all directions
 - D. only when the object is accelerating
 
-**Q561.** A spacecraft has a proper length of 100 m. What length does an observer on Earth measure as it flies past at 0.60c?
+**Q820.** A spacecraft has a proper length of 100 m. What length does an observer on Earth measure as it flies past at 0.60c?
 <!-- id: physics-4-3-3 -->
 
 - A. 125 m
@@ -4066,7 +5889,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 80 m
 - D. 64 m
 
-**Q562.** A rod has a proper length of 2.0 m and moves lengthwise at 0.80c past an observer. What length does the observer measure?
+**Q821.** A rod has a proper length of 2.0 m and moves lengthwise at 0.80c past an observer. What length does the observer measure?
 <!-- id: physics-4-3-4 -->
 
 - A. 3.3 m
@@ -4074,7 +5897,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 1.6 m
 - D. 1.2 m
 
-**Q563.** A spacecraft with a proper length of 50 m and a proper width of 10 m flies lengthwise past Earth at 0.80c. What width do Earth observers measure?
+**Q822.** A spacecraft with a proper length of 50 m and a proper width of 10 m flies lengthwise past Earth at 0.80c. What width do Earth observers measure?
 <!-- id: physics-4-3-5 -->
 
 - A. 10 m
@@ -4082,7 +5905,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 16.7 m
 - D. 3.6 m
 
-**Q564.** A star is 4.0 light-years from Earth, measured in Earth's frame. An astronaut travels to it at 0.60c. What distance to the star does the astronaut measure?
+**Q823.** A star is 4.0 light-years from Earth, measured in Earth's frame. An astronaut travels to it at 0.60c. What distance to the star does the astronaut measure?
 <!-- id: physics-4-3-6 -->
 
 - A. 5.0 light-years
@@ -4090,7 +5913,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 4.0 light-years
 - D. 2.4 light-years
 
-**Q565.** A star is 4.0 light-years from Earth in Earth's frame. An astronaut travels there at 0.60c. How long does the trip take according to the astronaut's clock?
+**Q824.** A star is 4.0 light-years from Earth in Earth's frame. An astronaut travels there at 0.60c. How long does the trip take according to the astronaut's clock?
 <!-- id: physics-4-3-7 -->
 
 - A. 6.7 years
@@ -4098,7 +5921,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 5.3 years
 - D. 8.3 years
 
-**Q566.** Which observer measures the proper length of a spacecraft?
+**Q825.** Which observer measures the proper length of a spacecraft?
 <!-- id: physics-4-3-8 -->
 
 - A. An observer on Earth as the spacecraft flies past
@@ -4106,7 +5929,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Any observer, because all measure the same length
 - D. An observer at rest relative to the spacecraft
 
-**Q567.** Where are most of the muons detected at Earth's surface produced?
+**Q826.** Where are most of the muons detected at Earth's surface produced?
 <!-- id: physics-4-3-9 -->
 
 - A. High in the atmosphere, when cosmic rays collide with nuclei of atmospheric gases
@@ -4114,7 +5937,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Inside Earth's crust, by radioactive decay
 - D. In thunderclouds, by lightning
 
-**Q568.** A muon has a mean lifetime of 2.2 μs at rest and travels at 0.99c. Ignoring relativity, what mean distance would it travel before decaying?
+**Q827.** A muon has a mean lifetime of 2.2 μs at rest and travels at 0.99c. Ignoring relativity, what mean distance would it travel before decaying?
 <!-- id: physics-4-3-10 -->
 
 - A. 4.6 km
@@ -4122,7 +5945,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 92 m
 - D. 2.2 km
 
-**Q569.** A muon with a rest-frame mean lifetime of 2.2 μs travels at 0.99c (γ = 7.09). Taking time dilation into account, what mean distance does it travel in Earth's frame before decaying?
+**Q828.** A muon with a rest-frame mean lifetime of 2.2 μs travels at 0.99c (γ = 7.09). Taking time dilation into account, what mean distance does it travel in Earth's frame before decaying?
 <!-- id: physics-4-3-11 -->
 
 - A. 650 m
@@ -4130,7 +5953,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 4.6 km
 - D. 46 km
 
-**Q570.** In the muon's own frame of reference, the muon lives for only about 2.2 μs. How does an observer in the muon's frame explain the muon reaching Earth's surface?
+**Q829.** In the muon's own frame of reference, the muon lives for only about 2.2 μs. How does an observer in the muon's frame explain the muon reaching Earth's surface?
 <!-- id: physics-4-3-12 -->
 
 - A. The muon's clock runs fast in its own frame.
@@ -4138,7 +5961,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. The muon's lifetime is time dilated in its own frame.
 - D. The atmosphere is moving relative to the muon, so its thickness is length contracted.
 
-**Q571.** Muons travel at 0.995c (γ = 10.0). In the muon's frame, how thick is a 10 km layer of atmosphere?
+**Q830.** Muons travel at 0.995c (γ = 10.0). In the muon's frame, how thick is a 10 km layer of atmosphere?
 <!-- id: physics-4-3-13 -->
 
 - A. 1.0 km
@@ -4146,7 +5969,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 10 km
 - D. 0.10 km
 
-**Q572.** Why does the detection of muons at sea level provide evidence for special relativity?
+**Q831.** Why does the detection of muons at sea level provide evidence for special relativity?
 <!-- id: physics-4-3-14 -->
 
 - A. Muons travel faster than light in the atmosphere.
@@ -4154,7 +5977,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Muons are detected at the same rate at all altitudes.
 - D. Muons have no mass, so they do not decay.
 
-**Q573.** An observer on Earth and an observer travelling with a muon analyse its journey through the atmosphere. On which quantity do they agree?
+**Q832.** An observer on Earth and an observer travelling with a muon analyse its journey through the atmosphere. On which quantity do they agree?
 <!-- id: physics-4-3-15 -->
 
 - A. The muon's lifetime
@@ -4162,7 +5985,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. The speed of the muon relative to Earth
 - D. The time taken for the muon to reach the ground
 
-**Q574.** At what speed would a metre ruler moving lengthwise be measured to be 60 cm long?
+**Q833.** At what speed would a metre ruler moving lengthwise be measured to be 60 cm long?
 <!-- id: physics-4-3-16 -->
 
 - A. 0.60c
@@ -4170,7 +5993,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 0.36c
 - D. 0.80c
 
-**Q575.** A train with a proper length of 200 m travels at 0.60c through a tunnel with a proper length of 160 m. What is the train's length in the tunnel's frame?
+**Q834.** A train with a proper length of 200 m travels at 0.60c through a tunnel with a proper length of 160 m. What is the train's length in the tunnel's frame?
 <!-- id: physics-4-3-17 -->
 
 - A. 160 m, the same as the tunnel's length
@@ -4178,7 +6001,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 200 m
 - D. 128 m
 
-**Q576.** A train with a proper length of 200 m travels at 0.60c through a tunnel with a proper length of 160 m. What is the tunnel's length in the train's frame?
+**Q835.** A train with a proper length of 200 m travels at 0.60c through a tunnel with a proper length of 160 m. What is the tunnel's length in the train's frame?
 <!-- id: physics-4-3-18 -->
 
 - A. 200 m
@@ -4186,44 +6009,44 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 160 m
 - D. 250 m
 
-**Q577.** A spacecraft has a proper length of 120 m. Calculate its length as measured by an observer it passes at 0.90c.
+**Q836.** A spacecraft has a proper length of 120 m. Calculate its length as measured by an observer it passes at 0.90c.
 <!-- id: physics-4-3-19 -->
 
 *Written answer*
 
-**Q578.** An astronaut travelling at 0.95c measures the length of her own spacecraft. Explain whether she observes it to be contracted.
+**Q837.** An astronaut travelling at 0.95c measures the length of her own spacecraft. Explain whether she observes it to be contracted.
 <!-- id: physics-4-3-20 -->
 
 *Written answer*
 
-**Q579.** Muons produced 12 km above the ground travel at 0.98c and have a mean lifetime of 2.2 μs in their rest frame. Calculate the mean distance they travel in Earth's frame before decaying.
+**Q838.** Muons produced 12 km above the ground travel at 0.98c and have a mean lifetime of 2.2 μs in their rest frame. Calculate the mean distance they travel in Earth's frame before decaying.
 <!-- id: physics-4-3-21 -->
 
 *Written answer*
 
-**Q580.** A muon travels at 0.98c (γ = 5.03) relative to Earth. In the muon's frame, how thick is a 12 km layer of atmosphere?
+**Q839.** A muon travels at 0.98c (γ = 5.03) relative to Earth. In the muon's frame, how thick is a 12 km layer of atmosphere?
 <!-- id: physics-4-3-22 -->
 
 *Written answer*
 
-**Q581.** Explain how the detection of large numbers of muons at sea level is evidence for both time dilation and length contraction.
+**Q840.** Explain how the detection of large numbers of muons at sea level is evidence for both time dilation and length contraction.
 <!-- id: physics-4-3-23 -->
 
 *Written answer*
 
-**Q582.** A star is 8.0 light-years from Earth in Earth's frame. At what speed must an astronaut travel for her to measure the distance as 4.8 light-years?
+**Q841.** A star is 8.0 light-years from Earth in Earth's frame. At what speed must an astronaut travel for her to measure the distance as 4.8 light-years?
 <!-- id: physics-4-3-24 -->
 
 *Written answer*
 
-**Q583.** A spacecraft flies from Earth to the Moon. Identify which observer measures the proper length of the spacecraft and which measures the proper length of the Earth–Moon distance, explaining why.
+**Q842.** A spacecraft flies from Earth to the Moon. Identify which observer measures the proper length of the spacecraft and which measures the proper length of the Earth–Moon distance, explaining why.
 <!-- id: physics-4-3-25 -->
 
 *Written answer*
 
 #### Mass–energy equivalence
 
-**Q584.** In the equation E = mc², where m is the rest mass of a body, the equation states that:
+**Q843.** In the equation E = mc², where m is the rest mass of a body, the equation states that:
 <!-- id: physics-4-4-1 -->
 
 - A. a body at rest has energy in proportion to its mass
@@ -4231,7 +6054,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. a body's energy depends only on its speed
 - D. energy can be created from nothing
 
-**Q585.** What is the rest energy of an electron (mass 9.1 × 10⁻³¹ kg)?
+**Q844.** What is the rest energy of an electron (mass 9.1 × 10⁻³¹ kg)?
 <!-- id: physics-4-4-2 -->
 
 - A. 2.7 × 10⁻²² J
@@ -4239,7 +6062,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 4.1 × 10⁻¹⁴ J
 - D. 8.2 × 10⁻¹⁷ J
 
-**Q586.** An electron (rest energy 8.19 × 10⁻¹⁴ J) travels at 0.60c. What is its kinetic energy?
+**Q845.** An electron (rest energy 8.19 × 10⁻¹⁴ J) travels at 0.60c. What is its kinetic energy?
 <!-- id: physics-4-4-3 -->
 
 - A. 1.5 × 10⁻¹⁴ J
@@ -4247,7 +6070,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 2.0 × 10⁻¹⁴ J
 - D. 8.2 × 10⁻¹⁴ J
 
-**Q587.** Which expression gives the total energy of a particle of rest mass m moving with Lorentz factor γ?
+**Q846.** Which expression gives the total energy of a particle of rest mass m moving with Lorentz factor γ?
 <!-- id: physics-4-4-4 -->
 
 - A. mc²
@@ -4255,7 +6078,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. ½mv²
 - D. γmc²
 
-**Q588.** Which expression gives the relativistic kinetic energy of a particle of rest mass m?
+**Q847.** Which expression gives the relativistic kinetic energy of a particle of rest mass m?
 <!-- id: physics-4-4-5 -->
 
 - A. (γ − 1)mc²
@@ -4263,7 +6086,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. ½γmv
 - D. mc²/γ
 
-**Q589.** The Sun radiates energy at a rate of about 3.8 × 10²⁶ W. At what rate does the Sun's mass decrease as a result?
+**Q848.** The Sun radiates energy at a rate of about 3.8 × 10²⁶ W. At what rate does the Sun's mass decrease as a result?
 <!-- id: physics-4-4-6 -->
 
 - A. 1.3 × 10¹⁸ kg/s
@@ -4271,7 +6094,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 3.4 × 10⁴³ kg/s
 - D. 4.2 × 10⁶ kg/s
 
-**Q590.** In a nuclear fission reaction, the total mass of the products compared with the total mass of the reactants is:
+**Q849.** In a nuclear fission reaction, the total mass of the products compared with the total mass of the reactants is:
 <!-- id: physics-4-4-7 -->
 
 - A. larger, because energy is absorbed
@@ -4279,7 +6102,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. smaller, with the mass difference released as energy
 - D. smaller, with the lost mass converted into extra neutrons
 
-**Q591.** How much work must be done to accelerate a proton (mass 1.67 × 10⁻²⁷ kg) from rest to 0.80c?
+**Q850.** How much work must be done to accelerate a proton (mass 1.67 × 10⁻²⁷ kg) from rest to 0.80c?
 <!-- id: physics-4-4-8 -->
 
 - A. 4.8 × 10⁻¹¹ J
@@ -4287,7 +6110,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 1.5 × 10⁻¹⁰ J
 - D. 1.0 × 10⁻¹⁰ J
 
-**Q592.** Why does the classical formula Ek = ½mv² fail for particles moving close to the speed of light?
+**Q851.** Why does the classical formula Ek = ½mv² fail for particles moving close to the speed of light?
 <!-- id: physics-4-4-9 -->
 
 - A. It underestimates the energy, because the true energy required approaches infinity as v approaches c.
@@ -4295,7 +6118,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. It gives the correct energy but the wrong direction.
 - D. It only fails for particles with no charge.
 
-**Q593.** A proton has a rest energy of 938 MeV. What is its total energy when it travels at 0.60c?
+**Q852.** A proton has a rest energy of 938 MeV. What is its total energy when it travels at 0.60c?
 <!-- id: physics-4-4-10 -->
 
 - A. 235 MeV
@@ -4303,7 +6126,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 750 MeV
 - D. 938 MeV
 
-**Q594.** An electron and a positron, each with mass 9.1 × 10⁻³¹ kg, annihilate while at rest. How much energy is released?
+**Q853.** An electron and a positron, each with mass 9.1 × 10⁻³¹ kg, annihilate while at rest. How much energy is released?
 <!-- id: physics-4-4-11 -->
 
 - A. 8.2 × 10⁻¹⁴ J
@@ -4311,7 +6134,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 1.6 × 10⁻¹³ J
 - D. 3.3 × 10⁻¹³ J
 
-**Q595.** A cup of hot coffee cools down on a bench. According to mass–energy equivalence, which statement is correct?
+**Q854.** A cup of hot coffee cools down on a bench. According to mass–energy equivalence, which statement is correct?
 <!-- id: physics-4-4-12 -->
 
 - A. Its mass stays exactly the same, because only nuclear reactions change mass.
@@ -4319,7 +6142,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Its mass decreases by about 1%.
 - D. Its mass decreases very slightly, by an amount too small to measure.
 
-**Q596.** In the Sun, about 0.7% of the mass of hydrogen is converted to energy when it fuses to form helium. How much energy is released when 1.0 kg of hydrogen fuses?
+**Q855.** In the Sun, about 0.7% of the mass of hydrogen is converted to energy when it fuses to form helium. How much energy is released when 1.0 kg of hydrogen fuses?
 <!-- id: physics-4-4-13 -->
 
 - A. 6.3 × 10¹⁴ J
@@ -4327,7 +6150,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 6.3 × 10¹¹ J
 - D. 2.1 × 10⁶ J
 
-**Q597.** An electron gains kinetic energy equal to its rest energy. What is its Lorentz factor?
+**Q856.** An electron gains kinetic energy equal to its rest energy. What is its Lorentz factor?
 <!-- id: physics-4-4-14 -->
 
 - A. 1
@@ -4335,7 +6158,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 1.41
 - D. 4
 
-**Q598.** An electron (rest energy 0.511 MeV) is accelerated until γ = 3.0. What is its kinetic energy?
+**Q857.** An electron (rest energy 0.511 MeV) is accelerated until γ = 3.0. What is its kinetic energy?
 <!-- id: physics-4-4-15 -->
 
 - A. 1.53 MeV
@@ -4343,7 +6166,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 1.02 MeV
 - D. 0.170 MeV
 
-**Q599.** If 1.0 g of mass were converted completely into energy, how much energy would be released?
+**Q858.** If 1.0 g of mass were converted completely into energy, how much energy would be released?
 <!-- id: physics-4-4-16 -->
 
 - A. 9.0 × 10¹⁶ J
@@ -4351,7 +6174,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 9.0 × 10¹⁰ J
 - D. 9.0 × 10¹³ J
 
-**Q600.** Protons in a particle accelerator are already travelling at 0.999c. More energy is supplied to them. Which statement is correct?
+**Q859.** Protons in a particle accelerator are already travelling at 0.999c. More energy is supplied to them. Which statement is correct?
 <!-- id: physics-4-4-17 -->
 
 - A. Their total energy increases greatly while their speed increases only slightly.
@@ -4359,7 +6182,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Their energy stays the same, because they cannot go faster.
 - D. Their rest mass increases while their kinetic energy stays the same.
 
-**Q601.** The fission of one uranium-235 nucleus releases about 3.2 × 10⁻¹¹ J (200 MeV). What mass is converted into energy in one fission?
+**Q860.** The fission of one uranium-235 nucleus releases about 3.2 × 10⁻¹¹ J (200 MeV). What mass is converted into energy in one fission?
 <!-- id: physics-4-4-18 -->
 
 - A. 1.1 × 10⁻¹⁹ kg
@@ -4367,37 +6190,37 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 2.9 × 10⁶ kg
 - D. 3.6 × 10⁻²⁵ kg
 
-**Q602.** The Loy Yang power stations in the Latrobe Valley produce about 2.2 GW of electrical power. If this energy came entirely from converting mass, how much mass would be converted each day?
+**Q861.** The Loy Yang power stations in the Latrobe Valley produce about 2.2 GW of electrical power. If this energy came entirely from converting mass, how much mass would be converted each day?
 <!-- id: physics-4-4-19 -->
 
 *Written answer*
 
-**Q603.** An electron (mass 9.1 × 10⁻³¹ kg) travels at 0.80c. Calculate its total energy and its kinetic energy.
+**Q862.** An electron (mass 9.1 × 10⁻³¹ kg) travels at 0.80c. Calculate its total energy and its kinetic energy.
 <!-- id: physics-4-4-20 -->
 
 *Written answer*
 
-**Q604.** Using the relativistic kinetic energy equation, explain why an object with mass can never reach the speed of light.
+**Q863.** Using the relativistic kinetic energy equation, explain why an object with mass can never reach the speed of light.
 <!-- id: physics-4-4-21 -->
 
 *Written answer*
 
-**Q605.** Explain why, at everyday speeds, the classical kinetic energy ½mv² gives practically the same result as the relativistic kinetic energy (γ − 1)mc².
+**Q864.** Explain why, at everyday speeds, the classical kinetic energy ½mv² gives practically the same result as the relativistic kinetic energy (γ − 1)mc².
 <!-- id: physics-4-4-22 -->
 
 *Written answer*
 
-**Q606.** A proton (rest energy 938 MeV) is given 938 MeV of kinetic energy. Find its Lorentz factor and its speed.
+**Q865.** A proton (rest energy 938 MeV) is given 938 MeV of kinetic energy. Find its Lorentz factor and its speed.
 <!-- id: physics-4-4-23 -->
 
 *Written answer*
 
-**Q607.** Explain, using mass–energy equivalence, where the energy released by nuclear fusion in the Sun comes from.
+**Q866.** Explain, using mass–energy equivalence, where the energy released by nuclear fusion in the Sun comes from.
 <!-- id: physics-4-4-24 -->
 
 *Written answer*
 
-**Q608.** An electron's total energy is three times its rest energy. Calculate its speed.
+**Q867.** An electron's total energy is three times its rest energy. Calculate its speed.
 <!-- id: physics-4-4-25 -->
 
 *Written answer*
@@ -4406,7 +6229,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 #### Magnetic flux and Faraday's law
 
-**Q609.** What is the SI unit of magnetic flux?
+**Q868.** What is the SI unit of magnetic flux?
 <!-- id: physics-5-1-1 -->
 
 - A. weber (Wb)
@@ -4414,7 +6237,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. tesla per square metre (T m⁻²)
 - D. henry (H)
 
-**Q610.** A flat loop of area 0.020 m² sits perpendicular to a uniform magnetic field of 0.50 T. What is the magnetic flux through the loop?
+**Q869.** A flat loop of area 0.020 m² sits perpendicular to a uniform magnetic field of 0.50 T. What is the magnetic flux through the loop?
 <!-- id: physics-5-1-2 -->
 
 - A. 0.025 Wb
@@ -4422,7 +6245,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 0.010 Wb
 - D. 25 Wb
 
-**Q611.** A loop is oriented so that its plane is parallel to a uniform magnetic field of strength B. If the loop has area A, the flux through it is
+**Q870.** A loop is oriented so that its plane is parallel to a uniform magnetic field of strength B. If the loop has area A, the flux through it is
 <!-- id: physics-5-1-3 -->
 
 - A. BA
@@ -4430,12 +6253,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. zero
 - D. BA/√2
 
-**Q612.** Define magnetic flux and state the equation used to calculate it for a flat loop in a uniform field.
+**Q871.** Define magnetic flux and state the equation used to calculate it for a flat loop in a uniform field.
 <!-- id: physics-5-1-4 -->
 
 *Written answer*
 
-**Q613.** A square coil of side 10 cm is placed perpendicular to a 0.40 T magnetic field. What is the flux through one turn of the coil?
+**Q872.** A square coil of side 10 cm is placed perpendicular to a 0.40 T magnetic field. What is the flux through one turn of the coil?
 <!-- id: physics-5-1-5 -->
 
 - A. 4.0 × 10⁻² Wb
@@ -4443,7 +6266,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 40 Wb
 - D. 4.0 × 10⁻⁴ Wb
 
-**Q614.** The flux through each turn of a 200-turn coil increases uniformly from 0 to 3.0 × 10⁻³ Wb in 0.050 s. What is the magnitude of the average induced emf?
+**Q873.** The flux through each turn of a 200-turn coil increases uniformly from 0 to 3.0 × 10⁻³ Wb in 0.050 s. What is the magnitude of the average induced emf?
 <!-- id: physics-5-1-6 -->
 
 - A. 12 V
@@ -4451,7 +6274,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 0.030 V
 - D. 120 V
 
-**Q615.** A 50-turn coil of area 0.010 m² is perpendicular to a magnetic field that falls uniformly from 0.80 T to zero in 0.20 s. What is the magnitude of the average induced emf?
+**Q874.** A 50-turn coil of area 0.010 m² is perpendicular to a magnetic field that falls uniformly from 0.80 T to zero in 0.20 s. What is the magnitude of the average induced emf?
 <!-- id: physics-5-1-7 -->
 
 - A. 0.040 V
@@ -4459,12 +6282,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 0.80 V
 - D. 20 V
 
-**Q616.** A circular loop of radius 5.0 cm is perpendicular to a uniform 0.60 T magnetic field. Calculate the flux through the loop.
+**Q875.** A circular loop of radius 5.0 cm is perpendicular to a uniform 0.60 T magnetic field. Calculate the flux through the loop.
 <!-- id: physics-5-1-8 -->
 
 *Written answer*
 
-**Q617.** Which of the following will NOT induce an emf in a flat coil?
+**Q876.** Which of the following will NOT induce an emf in a flat coil?
 <!-- id: physics-5-1-9 -->
 
 - A. Rotating the coil about an axis perpendicular to the field
@@ -4472,7 +6295,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Increasing the strength of the field through the stationary coil
 - D. Pulling the coil out of the field region
 
-**Q618.** According to Faraday's law, the magnitude of the induced emf in a coil is proportional to
+**Q877.** According to Faraday's law, the magnitude of the induced emf in a coil is proportional to
 <!-- id: physics-5-1-10 -->
 
 - A. the rate of change of magnetic flux through the coil
@@ -4480,7 +6303,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. the magnetic field strength at the coil
 - D. the resistance of the coil
 
-**Q619.** A coil experiences a given flux change. If the number of turns is doubled and the time taken for the same flux change is halved, the average induced emf becomes
+**Q878.** A coil experiences a given flux change. If the number of turns is doubled and the time taken for the same flux change is halved, the average induced emf becomes
 <!-- id: physics-5-1-11 -->
 
 - A. four times as large
@@ -4488,12 +6311,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. twice as large
 - D. eight times as large
 
-**Q620.** A 150-turn coil of area 4.0 × 10⁻³ m² is perpendicular to a 0.50 T field. It is pulled completely out of the field in 0.080 s. Calculate the average emf induced.
+**Q879.** A 150-turn coil of area 4.0 × 10⁻³ m² is perpendicular to a 0.50 T field. It is pulled completely out of the field in 0.080 s. Calculate the average emf induced.
 <!-- id: physics-5-1-12 -->
 
 *Written answer*
 
-**Q621.** A 100-turn coil of area 0.050 m² in a 0.20 T field is rotated from having its plane perpendicular to the field to having its plane parallel to the field in 0.10 s. What is the average induced emf?
+**Q880.** A 100-turn coil of area 0.050 m² in a 0.20 T field is rotated from having its plane perpendicular to the field to having its plane parallel to the field in 0.10 s. What is the average induced emf?
 <!-- id: physics-5-1-13 -->
 
 - A. 10 V
@@ -4501,7 +6324,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 20 V
 - D. 5.0 V
 
-**Q622.** A single loop of area 0.040 m² is perpendicular to a 0.25 T field. It is flipped through 180° in 0.020 s. What is the average induced emf?
+**Q881.** A single loop of area 0.040 m² is perpendicular to a 0.25 T field. It is flipped through 180° in 0.020 s. What is the average induced emf?
 <!-- id: physics-5-1-14 -->
 
 - A. 1.0 V
@@ -4509,7 +6332,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 0 V
 - D. 2.0 V
 
-**Q623.** A loop of area 0.30 m² is in a uniform 0.20 T field. The normal to the loop makes an angle of 60° with the field. What is the flux through the loop?
+**Q882.** A loop of area 0.30 m² is in a uniform 0.20 T field. The normal to the loop makes an angle of 60° with the field. What is the flux through the loop?
 <!-- id: physics-5-1-15 -->
 
 - A. 0.052 Wb
@@ -4517,12 +6340,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 0.060 Wb
 - D. 0.12 Wb
 
-**Q624.** A rectangular loop moves at constant speed through a large region of uniform magnetic field, staying entirely inside the field. Explain why no current is induced in the loop.
+**Q883.** A rectangular loop moves at constant speed through a large region of uniform magnetic field, staying entirely inside the field. Explain why no current is induced in the loop.
 <!-- id: physics-5-1-16 -->
 
 *Written answer*
 
-**Q625.** A student pushes a bar magnet into a coil, first slowly and then quickly, starting and finishing in the same positions. Compared with the slow push, the quick push produces
+**Q884.** A student pushes a bar magnet into a coil, first slowly and then quickly, starting and finishing in the same positions. Compared with the slow push, the quick push produces
 <!-- id: physics-5-1-17 -->
 
 - A. the same emf and the same total change in flux
@@ -4530,7 +6353,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. a smaller emf, because there is less time for current to build up
 - D. a larger emf, but the same total change in flux
 
-**Q626.** The flux through each turn of a 25-turn coil increases uniformly from 2.0 mWb to 6.0 mWb over 40 ms. What is the average induced emf?
+**Q885.** The flux through each turn of a 25-turn coil increases uniformly from 2.0 mWb to 6.0 mWb over 40 ms. What is the average induced emf?
 <!-- id: physics-5-1-18 -->
 
 - A. 0.10 V
@@ -4538,7 +6361,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 0.25 V
 - D. 2.5 V
 
-**Q627.** While the flux through a coil is held constant at a large non-zero value, the induced emf in the coil is
+**Q886.** While the flux through a coil is held constant at a large non-zero value, the induced emf in the coil is
 <!-- id: physics-5-1-19 -->
 
 - A. at its maximum value
@@ -4546,12 +6369,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. constant and non-zero
 - D. zero
 
-**Q628.** State three ways to increase the emf induced in a coil by a moving bar magnet.
+**Q887.** State three ways to increase the emf induced in a coil by a moving bar magnet.
 <!-- id: physics-5-1-20 -->
 
 *Written answer*
 
-**Q629.** Which combination of units is equivalent to the volt?
+**Q888.** Which combination of units is equivalent to the volt?
 <!-- id: physics-5-1-21 -->
 
 - A. Wb s
@@ -4559,7 +6382,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. T m
 - D. T s m⁻²
 
-**Q630.** A 400-turn coil has a steady emf of 6.0 V induced in it for 0.30 s while the flux changes at a constant rate. What is the change in flux through each turn?
+**Q889.** A 400-turn coil has a steady emf of 6.0 V induced in it for 0.30 s while the flux changes at a constant rate. What is the change in flux through each turn?
 <!-- id: physics-5-1-22 -->
 
 - A. 5.0 × 10⁻² Wb
@@ -4567,7 +6390,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 4.5 × 10⁻¹ Wb
 - D. 4.5 × 10⁻³ Wb
 
-**Q631.** A coil of fixed area is placed in a magnetic field at Monash's physics lab. Which change would increase the flux through the coil the most?
+**Q890.** A coil of fixed area is placed in a magnetic field at Monash's physics lab. Which change would increase the flux through the coil the most?
 <!-- id: physics-5-1-23 -->
 
 - A. Doubling the field strength while rotating the coil from 60° to 0° between its normal and the field
@@ -4575,19 +6398,19 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Rotating the coil from 0° to 60° between its normal and the field
 - D. Halving the field strength while rotating the coil from 60° to 0°
 
-**Q632.** An 80-turn coil of area 0.025 m² is perpendicular to a magnetic field that increases uniformly from 0.10 T to 0.50 T in 0.20 s. The coil has a resistance of 4.0 Ω. Calculate the induced current.
+**Q891.** An 80-turn coil of area 0.025 m² is perpendicular to a magnetic field that increases uniformly from 0.10 T to 0.50 T in 0.20 s. The coil has a resistance of 4.0 Ω. Calculate the induced current.
 <!-- id: physics-5-1-24 -->
 
 *Written answer*
 
-**Q633.** Distinguish between magnetic flux density (B) and magnetic flux (Φ).
+**Q892.** Distinguish between magnetic flux density (B) and magnetic flux (Φ).
 <!-- id: physics-5-1-25 -->
 
 *Written answer*
 
 #### Lenz's law and induced currents
 
-**Q634.** Lenz's law is a direct consequence of the law of conservation of
+**Q893.** Lenz's law is a direct consequence of the law of conservation of
 <!-- id: physics-5-2-1 -->
 
 - A. charge
@@ -4595,7 +6418,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. energy
 - D. mass
 
-**Q635.** The north pole of a bar magnet is pushed towards one end of a coil connected in a closed circuit. The induced current makes the end of the coil nearest the magnet
+**Q894.** The north pole of a bar magnet is pushed towards one end of a coil connected in a closed circuit. The induced current makes the end of the coil nearest the magnet
 <!-- id: physics-5-2-2 -->
 
 - A. a north pole, repelling the magnet
@@ -4603,7 +6426,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. a south pole, repelling the magnet
 - D. neither pole, as only an emf is produced
 
-**Q636.** The north pole of a bar magnet is pulled away from one end of a closed coil. The induced current makes the end of the coil nearest the magnet
+**Q895.** The north pole of a bar magnet is pulled away from one end of a closed coil. The induced current makes the end of the coil nearest the magnet
 <!-- id: physics-5-2-3 -->
 
 - A. a north pole, repelling the magnet
@@ -4611,12 +6434,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. a south pole, attracting the magnet
 - D. a south pole, repelling the magnet
 
-**Q637.** State Lenz's law.
+**Q896.** State Lenz's law.
 <!-- id: physics-5-2-4 -->
 
 *Written answer*
 
-**Q638.** A strong magnet dropped down a vertical copper pipe falls much more slowly than one dropped beside the pipe. The best explanation is that
+**Q897.** A strong magnet dropped down a vertical copper pipe falls much more slowly than one dropped beside the pipe. The best explanation is that
 <!-- id: physics-5-2-5 -->
 
 - A. copper is ferromagnetic and attracts the magnet
@@ -4624,7 +6447,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. the pipe shields the magnet from gravity
 - D. eddy currents induced in the pipe produce magnetic fields that oppose the magnet's motion
 
-**Q639.** A flat loop lies in the plane of the page in a magnetic field directed into the page. The field strength is increasing. Viewed from the front, the induced current in the loop is
+**Q898.** A flat loop lies in the plane of the page in a magnetic field directed into the page. The field strength is increasing. Viewed from the front, the induced current in the loop is
 <!-- id: physics-5-2-6 -->
 
 - A. clockwise
@@ -4632,7 +6455,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. alternating between clockwise and anticlockwise
 - D. anticlockwise
 
-**Q640.** A flat loop lies in the plane of the page in a magnetic field directed into the page. The field strength is decreasing. Viewed from the front, the induced current in the loop is
+**Q899.** A flat loop lies in the plane of the page in a magnetic field directed into the page. The field strength is decreasing. Viewed from the front, the induced current in the loop is
 <!-- id: physics-5-2-7 -->
 
 - A. anticlockwise
@@ -4640,12 +6463,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. alternating between clockwise and anticlockwise
 - D. clockwise
 
-**Q641.** Use the principle of conservation of energy to explain why the induced current in a coil must oppose the motion of a magnet pushed into it.
+**Q900.** Use the principle of conservation of energy to explain why the induced current in a coil must oppose the motion of a magnet pushed into it.
 <!-- id: physics-5-2-8 -->
 
 *Written answer*
 
-**Q642.** A flat loop lies in the plane of the page in a magnetic field directed out of the page. The field strength is increasing. Viewed from the front, the induced current is
+**Q901.** A flat loop lies in the plane of the page in a magnetic field directed out of the page. The field strength is increasing. Viewed from the front, the induced current is
 <!-- id: physics-5-2-9 -->
 
 - A. anticlockwise
@@ -4653,7 +6476,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. zero
 - D. alternating between clockwise and anticlockwise
 
-**Q643.** A square loop is pulled at constant speed out of a region where a uniform field points into the page. While the loop is partly out of the field, the induced current, viewed from the front, is
+**Q902.** A square loop is pulled at constant speed out of a region where a uniform field points into the page. While the loop is partly out of the field, the induced current, viewed from the front, is
 <!-- id: physics-5-2-10 -->
 
 - A. anticlockwise
@@ -4661,7 +6484,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. zero
 - D. clockwise then anticlockwise
 
-**Q644.** A bar magnet is pushed into a coil. Compared with when the coil is open-circuited, when the coil is connected to a resistor the force needed to push the magnet in at the same speed is
+**Q903.** A bar magnet is pushed into a coil. Compared with when the coil is open-circuited, when the coil is connected to a resistor the force needed to push the magnet in at the same speed is
 <!-- id: physics-5-2-11 -->
 
 - A. smaller, because the induced current attracts the magnet
@@ -4669,12 +6492,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. the same, because the flux change is the same
 - D. zero, because the coil does work on the magnet
 
-**Q645.** A strong magnet is dropped into a long vertical copper pipe. Explain why it reaches a terminal velocity.
+**Q904.** A strong magnet is dropped into a long vertical copper pipe. Explain why it reaches a terminal velocity.
 <!-- id: physics-5-2-12 -->
 
 *Written answer*
 
-**Q646.** An aluminium ring rests over the top of a vertical solenoid with an iron core. When the switch to the solenoid is closed, the ring jumps upwards because
+**Q905.** An aluminium ring rests over the top of a vertical solenoid with an iron core. When the switch to the solenoid is closed, the ring jumps upwards because
 <!-- id: physics-5-2-13 -->
 
 - A. aluminium is strongly attracted to iron
@@ -4682,7 +6505,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. the solenoid's field pushes on the ring's own permanent magnetism
 - D. the ring is heated and expands upwards
 
-**Q647.** The aluminium ring in a 'jumping ring' demonstration is replaced with an identical ring that has a narrow cut through it. When the switch is closed, the cut ring
+**Q906.** The aluminium ring in a 'jumping ring' demonstration is replaced with an identical ring that has a narrow cut through it. When the switch is closed, the cut ring
 <!-- id: physics-5-2-14 -->
 
 - A. jumps higher because its resistance is lower
@@ -4690,7 +6513,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. has a current induced but no emf, so it does not jump
 - D. has an emf induced but no current, so it does not jump
 
-**Q648.** Some trains use eddy-current brakes, where electromagnets near the steel rails induce currents in the rails. The main energy transformation in this braking is
+**Q907.** Some trains use eddy-current brakes, where electromagnets near the steel rails induce currents in the rails. The main energy transformation in this braking is
 <!-- id: physics-5-2-15 -->
 
 - A. thermal energy to kinetic energy
@@ -4698,12 +6521,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. gravitational potential energy to kinetic energy
 - D. kinetic energy to thermal energy in the rails
 
-**Q649.** A wire loop lies flat on a bench in a vertical magnetic field that points upwards. The field is switched off. Viewed from above, what is the direction of the induced current? Explain.
+**Q908.** A wire loop lies flat on a bench in a vertical magnetic field that points upwards. The field is switched off. Viewed from above, what is the direction of the induced current? Explain.
 <!-- id: physics-5-2-16 -->
 
 *Written answer*
 
-**Q650.** In Faraday's law, ε = −NΔΦ/Δt, the negative sign indicates that
+**Q909.** In Faraday's law, ε = −NΔΦ/Δt, the negative sign indicates that
 <!-- id: physics-5-2-17 -->
 
 - A. the emf is always negative
@@ -4711,7 +6534,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. the induced emf opposes the change in flux that produces it
 - D. the induced current flows from negative to positive terminal outside the source
 
-**Q651.** A coil is connected to a centre-zero galvanometer. Pushing the north pole of a magnet into the coil makes the needle deflect to the right. Which action would also make the needle deflect to the right?
+**Q910.** A coil is connected to a centre-zero galvanometer. Pushing the north pole of a magnet into the coil makes the needle deflect to the right. Which action would also make the needle deflect to the right?
 <!-- id: physics-5-2-18 -->
 
 - A. Pushing the south pole of the magnet into the same end of the coil
@@ -4719,7 +6542,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Pulling the north pole of the magnet out of the same end of the coil
 - D. Holding the north pole of the magnet stationary inside the coil
 
-**Q652.** A magnet is dropped through a vertical coil whose ends are not connected to anything. Ignoring air resistance, as it falls through the coil the magnet
+**Q911.** A magnet is dropped through a vertical coil whose ends are not connected to anything. Ignoring air resistance, as it falls through the coil the magnet
 <!-- id: physics-5-2-19 -->
 
 - A. falls with acceleration less than g, because an emf is induced
@@ -4727,12 +6550,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. falls at constant speed
 - D. slows down while inside the coil
 
-**Q653.** In a jumping-ring demonstration, explain why the ring jumps when the switch is closed but does not jump while a steady DC current flows.
+**Q912.** In a jumping-ring demonstration, explain why the ring jumps when the switch is closed but does not jump while a steady DC current flows.
 <!-- id: physics-5-2-20 -->
 
 *Written answer*
 
-**Q654.** A long straight wire carries a constant current upwards in the plane of the page. A rectangular loop to the right of the wire, in the same plane, moves directly away from the wire. Viewed from the front, the induced current in the loop is
+**Q913.** A long straight wire carries a constant current upwards in the plane of the page. A rectangular loop to the right of the wire, in the same plane, moves directly away from the wire. Viewed from the front, the induced current in the loop is
 <!-- id: physics-5-2-21 -->
 
 - A. anticlockwise
@@ -4740,7 +6563,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. zero
 - D. clockwise then anticlockwise
 
-**Q655.** A copper plate swinging as a pendulum between the poles of a magnet stops quickly. If many deep slots are cut into the plate, it swings for much longer because
+**Q914.** A copper plate swinging as a pendulum between the poles of a magnet stops quickly. If many deep slots are cut into the plate, it swings for much longer because
 <!-- id: physics-5-2-22 -->
 
 - A. the slots reduce the mass of the plate
@@ -4748,7 +6571,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. the slots make the plate magnetic
 - D. the slots increase air resistance
 
-**Q656.** A conducting loop is held stationary near a stationary bar magnet. Which statement is correct?
+**Q915.** A conducting loop is held stationary near a stationary bar magnet. Which statement is correct?
 <!-- id: physics-5-2-23 -->
 
 - A. A steady current is induced because flux passes through the loop
@@ -4756,19 +6579,19 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. No current is induced because the flux through the loop is not changing
 - D. An alternating current is induced
 
-**Q657.** Electric vehicles use regenerative braking, where the drive motor acts as a generator. Explain how this slows the car.
+**Q916.** Electric vehicles use regenerative braking, where the drive motor acts as a generator. Explain how this slows the car.
 <!-- id: physics-5-2-24 -->
 
 *Written answer*
 
-**Q658.** The north pole of a magnet is moved towards the end of a coil. Viewed from the magnet's side, in which direction does the induced current flow around the coil? Explain.
+**Q917.** The north pole of a magnet is moved towards the end of a coil. Viewed from the magnet's side, in which direction does the induced current flow around the coil? Explain.
 <!-- id: physics-5-2-25 -->
 
 *Written answer*
 
 #### Generators, alternators and AC/RMS
 
-**Q659.** An alternator (AC generator) connects its rotating coil to the external circuit using
+**Q918.** An alternator (AC generator) connects its rotating coil to the external circuit using
 <!-- id: physics-5-3-1 -->
 
 - A. a split-ring commutator
@@ -4776,7 +6599,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. a permanent magnet
 - D. slip rings
 
-**Q660.** The function of a split-ring commutator in a DC generator is to
+**Q919.** The function of a split-ring commutator in a DC generator is to
 <!-- id: physics-5-3-2 -->
 
 - A. keep the coil's connections fixed so the output alternates
@@ -4784,7 +6607,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. reverse the coil's connection to the external circuit every half turn, so the output has one polarity
 - D. reduce friction between the brushes and the coil
 
-**Q661.** A coil rotates at constant speed in a uniform magnetic field. The induced emf is at its maximum when
+**Q920.** A coil rotates at constant speed in a uniform magnetic field. The induced emf is at its maximum when
 <!-- id: physics-5-3-3 -->
 
 - A. the plane of the coil is perpendicular to the field
@@ -4792,12 +6615,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. the flux through the coil is at its maximum
 - D. the coil has rotated 45° from the perpendicular position
 
-**Q662.** A coil rotates in a uniform magnetic field. Explain why the induced emf is a maximum when the plane of the coil is parallel to the field, even though the flux through it is zero.
+**Q921.** A coil rotates in a uniform magnetic field. Explain why the induced emf is a maximum when the plane of the coil is parallel to the field, even though the flux through it is zero.
 <!-- id: physics-5-3-4 -->
 
 *Written answer*
 
-**Q663.** A coil rotates at constant speed in a uniform magnetic field. At the instant the flux through the coil is a maximum, the induced emf is
+**Q922.** A coil rotates at constant speed in a uniform magnetic field. At the instant the flux through the coil is a maximum, the induced emf is
 <!-- id: physics-5-3-5 -->
 
 - A. zero
@@ -4805,7 +6628,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. half its maximum
 - D. equal to the RMS value
 
-**Q664.** The rotation rate of a simple AC generator is doubled. What happens to the peak emf and the frequency of the output?
+**Q923.** The rotation rate of a simple AC generator is doubled. What happens to the peak emf and the frequency of the output?
 <!-- id: physics-5-3-6 -->
 
 - A. Both double
@@ -4813,7 +6636,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Peak emf stays the same; frequency doubles
 - D. Peak emf quadruples; frequency doubles
 
-**Q665.** Australian household mains supply is 230 V RMS. What is the approximate peak voltage?
+**Q924.** Australian household mains supply is 230 V RMS. What is the approximate peak voltage?
 <!-- id: physics-5-3-7 -->
 
 - A. 230 V
@@ -4821,12 +6644,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 163 V
 - D. 460 V
 
-**Q666.** Australian mains electricity is 230 V RMS at 50 Hz. Calculate the peak voltage and the period of the supply.
+**Q925.** Australian mains electricity is 230 V RMS at 50 Hz. Calculate the peak voltage and the period of the supply.
 <!-- id: physics-5-3-8 -->
 
 *Written answer*
 
-**Q667.** A generator coil rotates at 50 revolutions per second. What is the period of the AC output?
+**Q926.** A generator coil rotates at 50 revolutions per second. What is the period of the AC output?
 <!-- id: physics-5-3-9 -->
 
 - A. 50 ms
@@ -4834,7 +6657,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 20 ms
 - D. 10 ms
 
-**Q668.** What is the peak-to-peak voltage of the 230 V RMS mains supply?
+**Q927.** What is the peak-to-peak voltage of the 230 V RMS mains supply?
 <!-- id: physics-5-3-10 -->
 
 - A. 325 V
@@ -4842,7 +6665,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 650 V
 - D. 230 V
 
-**Q669.** A 1000 W heater operates from the 230 V RMS mains. What is the peak current through it?
+**Q928.** A 1000 W heater operates from the 230 V RMS mains. What is the peak current through it?
 <!-- id: physics-5-3-11 -->
 
 - A. 6.1 A
@@ -4850,12 +6673,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 3.1 A
 - D. 8.7 A
 
-**Q670.** The rotation speed of a simple AC generator is halved. Describe the effect on the peak emf and on the frequency of the output.
+**Q929.** The rotation speed of a simple AC generator is halved. Describe the effect on the peak emf and on the frequency of the output.
 <!-- id: physics-5-3-12 -->
 
 *Written answer*
 
-**Q671.** The RMS value of an alternating voltage is best described as
+**Q930.** The RMS value of an alternating voltage is best described as
 <!-- id: physics-5-3-13 -->
 
 - A. the average value of the voltage over one cycle
@@ -4863,7 +6686,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. half the peak-to-peak voltage
 - D. the steady DC voltage that would deliver the same average power to a resistor
 
-**Q672.** A sinusoidal AC voltage with a peak of 20 V is applied across a 10 Ω resistor. What is the average power dissipated?
+**Q931.** A sinusoidal AC voltage with a peak of 20 V is applied across a 10 Ω resistor. What is the average power dissipated?
 <!-- id: physics-5-3-14 -->
 
 - A. 40 W
@@ -4871,7 +6694,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 20 W
 - D. 14 W
 
-**Q673.** A generator has a 100-turn coil of area 0.020 m² in a 0.50 T field, rotating at 25 revolutions per second. What is the average emf during a quarter turn starting from the position where the plane is perpendicular to the field?
+**Q932.** A generator has a 100-turn coil of area 0.020 m² in a 0.50 T field, rotating at 25 revolutions per second. What is the average emf during a quarter turn starting from the position where the plane is perpendicular to the field?
 <!-- id: physics-5-3-15 -->
 
 - A. 100 V
@@ -4879,12 +6702,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 50 V
 - D. 1.0 V
 
-**Q674.** A 2400 W electric kettle is connected to the 230 V RMS mains. Calculate the RMS current and the resistance of the heating element.
+**Q933.** A 2400 W electric kettle is connected to the 230 V RMS mains. Calculate the RMS current and the resistance of the heating element.
 <!-- id: physics-5-3-16 -->
 
 *Written answer*
 
-**Q675.** A coil rotates at constant speed in a uniform magnetic field. The average emf over one complete revolution is
+**Q934.** A coil rotates at constant speed in a uniform magnetic field. The average emf over one complete revolution is
 <!-- id: physics-5-3-17 -->
 
 - A. zero
@@ -4892,7 +6715,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. equal to the RMS emf
 - D. equal to half the peak emf
 
-**Q676.** In a generator, the brushes
+**Q935.** In a generator, the brushes
 <!-- id: physics-5-3-18 -->
 
 - A. reverse the current direction every half turn
@@ -4900,7 +6723,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. increase the speed of rotation
 - D. provide a sliding electrical contact between the rotating coil and the external circuit
 
-**Q677.** The output of a simple single-coil DC generator with a split-ring commutator is best described as
+**Q936.** The output of a simple single-coil DC generator with a split-ring commutator is best described as
 <!-- id: physics-5-3-19 -->
 
 - A. a constant, steady voltage
@@ -4908,12 +6731,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. a sinusoidal voltage that alternates in polarity
 - D. a square wave alternating in polarity
 
-**Q678.** Explain the difference between the output of a generator fitted with slip rings and one fitted with a split-ring commutator.
+**Q937.** Explain the difference between the output of a generator fitted with slip rings and one fitted with a split-ring commutator.
 <!-- id: physics-5-3-20 -->
 
 *Written answer*
 
-**Q679.** A wind turbine's generator becomes harder to turn when a load is connected to it. This is because
+**Q938.** A wind turbine's generator becomes harder to turn when a load is connected to it. This is because
 <!-- id: physics-5-3-21 -->
 
 - A. the current in the coil experiences a magnetic force that opposes its rotation
@@ -4921,7 +6744,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. the magnetic field disappears when current flows
 - D. friction in the brushes increases with current
 
-**Q680.** Large alternators in Victorian power stations rotate an electromagnet inside stationary output coils. A key advantage of this design is that
+**Q939.** Large alternators in Victorian power stations rotate an electromagnet inside stationary output coils. A key advantage of this design is that
 <!-- id: physics-5-3-22 -->
 
 - A. it produces DC without a commutator
@@ -4929,7 +6752,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. the large output current does not need to pass through sliding contacts
 - D. it eliminates the need for a turbine
 
-**Q681.** An AC supply has a peak voltage of 340 V. What is its RMS voltage?
+**Q940.** An AC supply has a peak voltage of 340 V. What is its RMS voltage?
 <!-- id: physics-5-3-23 -->
 
 - A. 240 V
@@ -4937,19 +6760,19 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 170 V
 - D. 340 V
 
-**Q682.** A 50-turn coil of area 0.030 m² is in a uniform 0.20 T field, with its plane perpendicular to the field. It rotates through half a turn in 0.010 s. Calculate the average emf.
+**Q941.** A 50-turn coil of area 0.030 m² is in a uniform 0.20 T field, with its plane perpendicular to the field. It rotates through half a turn in 0.010 s. Calculate the average emf.
 <!-- id: physics-5-3-24 -->
 
 *Written answer*
 
-**Q683.** Explain why RMS values, rather than peak values, are used to rate AC appliances and supplies.
+**Q942.** Explain why RMS values, rather than peak values, are used to rate AC appliances and supplies.
 <!-- id: physics-5-3-25 -->
 
 *Written answer*
 
 #### Transformers and transmission losses
 
-**Q684.** An ideal transformer has 1150 turns on its primary and 60 turns on its secondary. It is connected to the 230 V RMS mains. What is the secondary voltage?
+**Q943.** An ideal transformer has 1150 turns on its primary and 60 turns on its secondary. It is connected to the 230 V RMS mains. What is the secondary voltage?
 <!-- id: physics-5-4-1 -->
 
 - A. 12 V
@@ -4957,7 +6780,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 2.4 V
 - D. 24 V
 
-**Q685.** A transformer will not work if its primary is connected to a steady DC supply because
+**Q944.** A transformer will not work if its primary is connected to a steady DC supply because
 <!-- id: physics-5-4-2 -->
 
 - A. a steady current produces a constant flux, so no emf is induced in the secondary
@@ -4965,7 +6788,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. the iron core is demagnetised by DC
 - D. DC flows only in the secondary coil
 
-**Q686.** An ideal step-up transformer has a turns ratio of 1 : 20 (primary : secondary). The primary current is 50 A. What is the secondary current?
+**Q945.** An ideal step-up transformer has a turns ratio of 1 : 20 (primary : secondary). The primary current is 50 A. What is the secondary current?
 <!-- id: physics-5-4-3 -->
 
 - A. 1000 A
@@ -4973,12 +6796,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 2.5 A
 - D. 0.40 A
 
-**Q687.** Explain how a transformer produces an alternating voltage in its secondary coil.
+**Q946.** Explain how a transformer produces an alternating voltage in its secondary coil.
 <!-- id: physics-5-4-4 -->
 
 *Written answer*
 
-**Q688.** Transformer cores are made from thin laminated sheets of soft iron, insulated from each other, in order to
+**Q947.** Transformer cores are made from thin laminated sheets of soft iron, insulated from each other, in order to
 <!-- id: physics-5-4-5 -->
 
 - A. increase the turns ratio
@@ -4986,7 +6809,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. reduce energy losses due to eddy currents
 - D. allow the transformer to work with DC
 
-**Q689.** The power lost as heat in a transmission line carrying current I with total resistance R is
+**Q948.** The power lost as heat in a transmission line carrying current I with total resistance R is
 <!-- id: physics-5-4-6 -->
 
 - A. V²/R using the transmission voltage
@@ -4994,7 +6817,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. I²R
 - D. IR
 
-**Q690.** A power station transmits 10 MW. If the transmission voltage is increased from 20 kV to 200 kV, the power lost in the lines is
+**Q949.** A power station transmits 10 MW. If the transmission voltage is increased from 20 kV to 200 kV, the power lost in the lines is
 <!-- id: physics-5-4-7 -->
 
 - A. reduced to 1/10 of its original value
@@ -5002,12 +6825,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. increased 100 times
 - D. reduced to 1/100 of its original value
 
-**Q691.** A substation transformer steps 66 kV down to 11 kV. The primary has 1800 turns. Calculate the number of secondary turns, assuming an ideal transformer.
+**Q950.** A substation transformer steps 66 kV down to 11 kV. The primary has 1800 turns. Calculate the number of secondary turns, assuming an ideal transformer.
 <!-- id: physics-5-4-8 -->
 
 *Written answer*
 
-**Q692.** 500 kW of power is transmitted at 10 kV along lines with a total resistance of 4.0 Ω. What is the power lost in the lines?
+**Q951.** 500 kW of power is transmitted at 10 kV along lines with a total resistance of 4.0 Ω. What is the power lost in the lines?
 <!-- id: physics-5-4-9 -->
 
 - A. 200 W
@@ -5015,7 +6838,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 25 MW
 - D. 10 kW
 
-**Q693.** 500 kW of power is sent at 10 kV along lines with a total resistance of 4.0 Ω. What is the voltage at the load end of the lines?
+**Q952.** 500 kW of power is sent at 10 kV along lines with a total resistance of 4.0 Ω. What is the voltage at the load end of the lines?
 <!-- id: physics-5-4-10 -->
 
 - A. 10 kV
@@ -5023,7 +6846,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 9.8 kV
 - D. 200 V
 
-**Q694.** A student calculates the power loss in a transmission line using P = V²/R with V equal to the 10 kV transmission voltage. This is incorrect because
+**Q953.** A student calculates the power loss in a transmission line using P = V²/R with V equal to the 10 kV transmission voltage. This is incorrect because
 <!-- id: physics-5-4-11 -->
 
 - A. V²/R only applies to DC circuits
@@ -5031,12 +6854,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. the 10 kV is not the voltage across the line resistance; only the much smaller voltage drop across the lines should be used
 - D. the power loss does not depend on resistance
 
-**Q695.** Explain why electricity is transmitted at very high voltages over long distances.
+**Q954.** Explain why electricity is transmitted at very high voltages over long distances.
 <!-- id: physics-5-4-12 -->
 
 *Written answer*
 
-**Q696.** An ideal transformer has 4800 turns on its primary. It converts 240 V RMS to 12 V RMS. How many turns are on the secondary?
+**Q955.** An ideal transformer has 4800 turns on its primary. It converts 240 V RMS to 12 V RMS. How many turns are on the secondary?
 <!-- id: physics-5-4-13 -->
 
 - A. 96 000
@@ -5044,7 +6867,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 400
 - D. 120
 
-**Q697.** An ideal transformer supplies 60 W to a 12 V lamp. The primary is connected to 240 V RMS. What is the primary current?
+**Q956.** An ideal transformer supplies 60 W to a 12 V lamp. The primary is connected to 240 V RMS. What is the primary current?
 <!-- id: physics-5-4-14 -->
 
 - A. 5.0 A
@@ -5052,7 +6875,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 0.050 A
 - D. 0.25 A
 
-**Q698.** Transformer cores are made of soft iron mainly because soft iron
+**Q957.** Transformer cores are made of soft iron mainly because soft iron
 <!-- id: physics-5-4-15 -->
 
 - A. is easily magnetised and concentrates the changing flux so it links both coils
@@ -5060,12 +6883,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. stays permanently magnetised
 - D. has a high resistance that reduces heat in the coils
 
-**Q699.** 100 kW is to be transmitted through lines with a total resistance of 0.50 Ω. Calculate the power loss if it is transmitted at (a) 415 V and (b) 11 kV.
+**Q958.** 100 kW is to be transmitted through lines with a total resistance of 0.50 Ω. Calculate the power loss if it is transmitted at (a) 415 V and (b) 11 kV.
 <!-- id: physics-5-4-16 -->
 
 *Written answer*
 
-**Q700.** Which statement about an ideal step-down transformer is correct?
+**Q959.** Which statement about an ideal step-down transformer is correct?
 <!-- id: physics-5-4-17 -->
 
 - A. The secondary has more turns and carries a larger current than the primary
@@ -5073,7 +6896,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. The secondary delivers more power than the primary receives
 - D. The secondary has fewer turns and carries a larger current than the primary
 
-**Q701.** A 1 : 10 step-up transformer is connected to a 50 Hz supply. What is the frequency of the secondary output?
+**Q960.** A 1 : 10 step-up transformer is connected to a 50 Hz supply. What is the frequency of the secondary output?
 <!-- id: physics-5-4-18 -->
 
 - A. 500 Hz
@@ -5081,7 +6904,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 50 Hz
 - D. 0 Hz
 
-**Q702.** For the same power delivered, the transmission voltage is doubled. The power lost in the lines becomes
+**Q961.** For the same power delivered, the transmission voltage is doubled. The power lost in the lines becomes
 <!-- id: physics-5-4-19 -->
 
 - A. half its original value
@@ -5089,12 +6912,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. one quarter of its original value
 - D. unchanged
 
-**Q703.** Explain why transformer cores are laminated.
+**Q962.** Explain why transformer cores are laminated.
 <!-- id: physics-5-4-20 -->
 
 *Written answer*
 
-**Q704.** 2.0 MW is transmitted at 40 kV through lines with a total resistance of 5.0 Ω. Approximately what percentage of the transmitted power is lost in the lines?
+**Q963.** 2.0 MW is transmitted at 40 kV through lines with a total resistance of 5.0 Ω. Approximately what percentage of the transmitted power is lost in the lines?
 <!-- id: physics-5-4-21 -->
 
 - A. 6.3%
@@ -5102,7 +6925,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 0.063%
 - D. 0.63%
 
-**Q705.** The main reason AC rather than DC has traditionally been used for electricity distribution in Australia is that
+**Q964.** The main reason AC rather than DC has traditionally been used for electricity distribution in Australia is that
 <!-- id: physics-5-4-22 -->
 
 - A. AC loses no energy in transmission lines
@@ -5110,7 +6933,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. AC travels faster along wires than DC
 - D. AC is easier to store in batteries
 
-**Q706.** A zone substation transformer steps 22 kV down to 415 V. What is the approximate primary : secondary turns ratio?
+**Q965.** A zone substation transformer steps 22 kV down to 415 V. What is the approximate primary : secondary turns ratio?
 <!-- id: physics-5-4-23 -->
 
 - A. 1 : 53
@@ -5118,12 +6941,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 530 : 1
 - D. 53 : 1
 
-**Q707.** An ideal transformer's secondary supplies 4.0 A at 24 V to a load. The primary is connected to 240 V RMS. Calculate the primary current and the turns ratio.
+**Q966.** An ideal transformer's secondary supplies 4.0 A at 24 V to a load. The primary is connected to 240 V RMS. Calculate the primary current and the turns ratio.
 <!-- id: physics-5-4-24 -->
 
 *Written answer*
 
-**Q708.** A farm shed needs 20 kW at 240 V and is supplied by a line of total resistance 0.20 Ω. Calculate the voltage drop along the line and the power lost in it.
+**Q967.** A farm shed needs 20 kW at 240 V and is supplied by a line of total resistance 0.20 Ω. Calculate the voltage drop along the line and the power lost in it.
 <!-- id: physics-5-4-25 -->
 
 *Written answer*
@@ -5132,7 +6955,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 #### Wave properties and electromagnetic waves
 
-**Q709.** A red laser emits light of wavelength 600 nm in a vacuum. What is the frequency of this light? (c = 3.0 × 10^8 m s⁻¹)
+**Q968.** A red laser emits light of wavelength 600 nm in a vacuum. What is the frequency of this light? (c = 3.0 × 10^8 m s⁻¹)
 <!-- id: physics-6-1-1 -->
 
 - A. 5.0 × 10^14 Hz
@@ -5140,7 +6963,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 1.8 × 10^2 Hz
 - D. 5.0 × 10^11 Hz
 
-**Q710.** Light passes from air into a glass block. Which property of the light remains unchanged?
+**Q969.** Light passes from air into a glass block. Which property of the light remains unchanged?
 <!-- id: physics-6-1-2 -->
 
 - A. Wavelength
@@ -5148,7 +6971,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Speed
 - D. Both speed and wavelength
 
-**Q711.** According to Maxwell's theory, electromagnetic waves are produced by:
+**Q970.** According to Maxwell's theory, electromagnetic waves are produced by:
 <!-- id: physics-6-1-3 -->
 
 - A. stationary electric charges
@@ -5156,7 +6979,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. accelerating (e.g. oscillating) electric charges
 - D. a steady direct current in a straight wire
 
-**Q712.** In an electromagnetic wave travelling through space, the electric and magnetic fields are:
+**Q971.** In an electromagnetic wave travelling through space, the electric and magnetic fields are:
 <!-- id: physics-6-1-4 -->
 
 - A. parallel to each other and perpendicular to the direction of travel
@@ -5164,7 +6987,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. parallel to each other and to the direction of travel
 - D. perpendicular to each other and to the direction of travel
 
-**Q713.** Triple J broadcasts on an FM frequency of about 100 MHz. What is the wavelength of these radio waves?
+**Q972.** Triple J broadcasts on an FM frequency of about 100 MHz. What is the wavelength of these radio waves?
 <!-- id: physics-6-1-5 -->
 
 - A. 3.0 m
@@ -5172,7 +6995,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 30 m
 - D. 3.0 × 10^16 m
 
-**Q714.** Which scientist showed theoretically that electromagnetic waves should travel at about 3 × 10^8 m s⁻¹, suggesting that light is an electromagnetic wave?
+**Q973.** Which scientist showed theoretically that electromagnetic waves should travel at about 3 × 10^8 m s⁻¹, suggesting that light is an electromagnetic wave?
 <!-- id: physics-6-1-6 -->
 
 - A. Isaac Newton
@@ -5180,7 +7003,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Thomas Young
 - D. Christiaan Huygens
 
-**Q715.** Which colour of visible light has the highest frequency?
+**Q974.** Which colour of visible light has the highest frequency?
 <!-- id: physics-6-1-7 -->
 
 - A. Red
@@ -5188,7 +7011,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Violet
 - D. Green
 
-**Q716.** What is the period of a light wave with frequency 5.0 × 10^14 Hz?
+**Q975.** What is the period of a light wave with frequency 5.0 × 10^14 Hz?
 <!-- id: physics-6-1-8 -->
 
 - A. 5.0 × 10^-14 s
@@ -5196,7 +7019,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 6.0 × 10^-7 s
 - D. 2.0 × 10^-15 s
 
-**Q717.** A green laser pointer emits light of wavelength 532 nm. What is its frequency?
+**Q976.** A green laser pointer emits light of wavelength 532 nm. What is its frequency?
 <!-- id: physics-6-1-9 -->
 
 - A. 5.64 × 10^14 Hz
@@ -5204,7 +7027,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 1.60 × 10^2 Hz
 - D. 5.64 × 10^5 Hz
 
-**Q718.** Light of frequency 5.0 × 10^14 Hz travels through a plastic in which its speed is 2.0 × 10^8 m s⁻¹. What is its wavelength in the plastic?
+**Q977.** Light of frequency 5.0 × 10^14 Hz travels through a plastic in which its speed is 2.0 × 10^8 m s⁻¹. What is its wavelength in the plastic?
 <!-- id: physics-6-1-10 -->
 
 - A. 600 nm
@@ -5212,7 +7035,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 250 nm
 - D. 1.0 × 10^23 m
 
-**Q719.** Which statement correctly describes a key difference between light and sound?
+**Q978.** Which statement correctly describes a key difference between light and sound?
 <!-- id: physics-6-1-11 -->
 
 - A. Sound travels faster than light in air.
@@ -5220,7 +7043,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Light can travel through a vacuum, but sound requires a medium.
 - D. Sound can be polarised, but light cannot.
 
-**Q720.** In the wave model of light, increasing the amplitude of a light wave of fixed frequency increases its:
+**Q979.** In the wave model of light, increasing the amplitude of a light wave of fixed frequency increases its:
 <!-- id: physics-6-1-12 -->
 
 - A. frequency
@@ -5228,7 +7051,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. wavelength
 - D. intensity (brightness)
 
-**Q721.** In the 1850s, Foucault showed that light travels more slowly in water than in air. This result supported:
+**Q980.** In the 1850s, Foucault showed that light travels more slowly in water than in air. This result supported:
 <!-- id: physics-6-1-13 -->
 
 - A. Huygens' wave model of light
@@ -5236,7 +7059,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. the idea that light needs no medium
 - D. the idea that light is a longitudinal wave
 
-**Q722.** Which observation could NOT be explained by the classical wave model of light?
+**Q981.** Which observation could NOT be explained by the classical wave model of light?
 <!-- id: physics-6-1-14 -->
 
 - A. Two-slit interference
@@ -5244,7 +7067,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Diffraction through a narrow slit
 - D. Refraction at a boundary
 
-**Q723.** Electromagnetic radiation with a wavelength of 1.0 × 10^-10 m is best classified as:
+**Q982.** Electromagnetic radiation with a wavelength of 1.0 × 10^-10 m is best classified as:
 <!-- id: physics-6-1-15 -->
 
 - A. ultraviolet
@@ -5252,7 +7075,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. X-rays
 - D. microwaves
 
-**Q724.** Two points along the direction of travel of a 600 nm light wave are 900 nm apart. The oscillations at these two points are:
+**Q983.** Two points along the direction of travel of a 600 nm light wave are 900 nm apart. The oscillations at these two points are:
 <!-- id: physics-6-1-16 -->
 
 - A. exactly in phase
@@ -5260,7 +7083,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. in phase, because all points on a light wave move together
 - D. exactly out of phase (half a cycle apart)
 
-**Q725.** In Huygens' description of light, a wavefront is:
+**Q984.** In Huygens' description of light, a wavefront is:
 <!-- id: physics-6-1-17 -->
 
 - A. a surface joining points of the wave that are in the same phase
@@ -5268,7 +7091,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. the leading edge of a light pulse only
 - D. the direction in which the wave's energy travels
 
-**Q726.** A radio wave, a visible light wave and an X-ray all travel through a vacuum. Which statement is correct?
+**Q985.** A radio wave, a visible light wave and an X-ray all travel through a vacuum. Which statement is correct?
 <!-- id: physics-6-1-18 -->
 
 - A. The X-ray travels fastest because it has the highest frequency.
@@ -5276,44 +7099,44 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. The radio wave travels fastest because it has the longest wavelength.
 - D. They have the same frequency but different speeds.
 
-**Q727.** Explain why electromagnetic waves, unlike sound, do not need a medium in which to travel.
+**Q986.** Explain why electromagnetic waves, unlike sound, do not need a medium in which to travel.
 <!-- id: physics-6-1-19 -->
 
 *Written answer*
 
-**Q728.** Red light with frequency 4.6 × 10^14 Hz travels through water at 2.25 × 10^8 m s⁻¹. Calculate its wavelength in water.
+**Q987.** Red light with frequency 4.6 × 10^14 Hz travels through water at 2.25 × 10^8 m s⁻¹. Calculate its wavelength in water.
 <!-- id: physics-6-1-20 -->
 
 *Written answer*
 
-**Q729.** A 4G mobile phone tower transmits at 2.6 GHz. Calculate the wavelength of the signal.
+**Q988.** A 4G mobile phone tower transmits at 2.6 GHz. Calculate the wavelength of the signal.
 <!-- id: physics-6-1-21 -->
 
 *Written answer*
 
-**Q730.** Distinguish between transverse and longitudinal waves, giving one example of each.
+**Q989.** Distinguish between transverse and longitudinal waves, giving one example of each.
 <!-- id: physics-6-1-22 -->
 
 *Written answer*
 
-**Q731.** Outline Maxwell's contribution to the understanding of light.
+**Q990.** Outline Maxwell's contribution to the understanding of light.
 <!-- id: physics-6-1-23 -->
 
 *Written answer*
 
-**Q732.** Describe what happens to the speed, frequency and wavelength of light as it passes from air into glass.
+**Q991.** Describe what happens to the speed, frequency and wavelength of light as it passes from air into glass.
 <!-- id: physics-6-1-24 -->
 
 *Written answer*
 
-**Q733.** How many wavelengths of 500 nm light fit into a distance of 1.0 mm?
+**Q992.** How many wavelengths of 500 nm light fit into a distance of 1.0 mm?
 <!-- id: physics-6-1-25 -->
 
 *Written answer*
 
 #### Interference and Young's double slit
 
-**Q734.** In a Young's double-slit experiment, a bright fringe occurs at a point where the path difference from the two slits is:
+**Q993.** In a Young's double-slit experiment, a bright fringe occurs at a point where the path difference from the two slits is:
 <!-- id: physics-6-2-1 -->
 
 - A. an odd number of half wavelengths
@@ -5321,7 +7144,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. a whole number of wavelengths, nλ
 - D. zero only
 
-**Q735.** In a Young's double-slit pattern, a dark fringe occurs where the path difference is:
+**Q994.** In a Young's double-slit pattern, a dark fringe occurs where the path difference is:
 <!-- id: physics-6-2-2 -->
 
 - A. nλ, where n = 1, 2, 3, …
@@ -5329,7 +7152,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. λ/n, where n = 1, 2, 3, …
 - D. (n − ½)λ, where n = 1, 2, 3, …
 
-**Q736.** Light of wavelength 600 nm passes through two slits 0.30 mm apart and falls on a screen 2.0 m away. What is the spacing between adjacent bright fringes?
+**Q995.** Light of wavelength 600 nm passes through two slits 0.30 mm apart and falls on a screen 2.0 m away. What is the spacing between adjacent bright fringes?
 <!-- id: physics-6-2-3 -->
 
 - A. 4.0 mm
@@ -5337,7 +7160,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 2.0 mm
 - D. 8.0 mm
 
-**Q737.** In a Young's double-slit experiment, the slit separation is increased while everything else is unchanged. The fringe spacing will:
+**Q996.** In a Young's double-slit experiment, the slit separation is increased while everything else is unchanged. The fringe spacing will:
 <!-- id: physics-6-2-4 -->
 
 - A. increase
@@ -5345,7 +7168,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. stay the same
 - D. become zero
 
-**Q738.** A Young's double-slit experiment is repeated with blue light instead of red light. Compared with the red pattern, the blue fringes will be:
+**Q997.** A Young's double-slit experiment is repeated with blue light instead of red light. Compared with the red pattern, the blue fringes will be:
 <!-- id: physics-6-2-5 -->
 
 - A. further apart
@@ -5353,7 +7176,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. closer together
 - D. replaced by a single bright band
 
-**Q739.** The screen in a Young's double-slit experiment is moved further from the slits. The fringe spacing will:
+**Q998.** The screen in a Young's double-slit experiment is moved further from the slits. The fringe spacing will:
 <!-- id: physics-6-2-6 -->
 
 - A. decrease
@@ -5361,7 +7184,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. decrease, then increase
 - D. increase
 
-**Q740.** Light of wavelength 500 nm is used in a double-slit experiment. What is the path difference to the third bright fringe either side of the central maximum?
+**Q999.** Light of wavelength 500 nm is used in a double-slit experiment. What is the path difference to the third bright fringe either side of the central maximum?
 <!-- id: physics-6-2-7 -->
 
 - A. 1.5 µm
@@ -5369,7 +7192,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 1.0 µm
 - D. 0.75 µm
 
-**Q741.** Light of wavelength 600 nm is used in a Young's experiment. What is the path difference at the second dark fringe from the centre?
+**Q1000.** Light of wavelength 600 nm is used in a Young's experiment. What is the path difference at the second dark fringe from the centre?
 <!-- id: physics-6-2-8 -->
 
 - A. 1200 nm
@@ -5377,7 +7200,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 600 nm
 - D. 300 nm
 
-**Q742.** In a double-slit experiment using 500 nm light, point P on the screen has a path difference of 1.25 µm. What is observed at P?
+**Q1001.** In a double-slit experiment using 500 nm light, point P on the screen has a path difference of 1.25 µm. What is observed at P?
 <!-- id: physics-6-2-9 -->
 
 - A. The second bright fringe
@@ -5385,7 +7208,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. A dark fringe (the third dark fringe from the centre)
 - D. A bright fringe, because 1.25 µm is greater than λ
 
-**Q743.** In Young's original experiment, light from a single source was passed through a single slit before the double slits. The main purpose was to make the two slits act as:
+**Q1002.** In Young's original experiment, light from a single source was passed through a single slit before the double slits. The main purpose was to make the two slits act as:
 <!-- id: physics-6-2-10 -->
 
 - A. sources of different frequencies
@@ -5393,7 +7216,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. polarised sources
 - D. coherent sources with a constant phase relationship
 
-**Q744.** Two identical car headlights shining on a wall do not produce a visible interference pattern because the light from them is:
+**Q1003.** Two identical car headlights shining on a wall do not produce a visible interference pattern because the light from them is:
 <!-- id: physics-6-2-11 -->
 
 - A. not coherent
@@ -5401,7 +7224,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. travelling too fast
 - D. longitudinal
 
-**Q745.** A double-slit pattern has a fringe spacing of 2.4 mm when the slits are 0.50 mm apart and the screen is 2.0 m away. What is the wavelength of the light?
+**Q1004.** A double-slit pattern has a fringe spacing of 2.4 mm when the slits are 0.50 mm apart and the screen is 2.0 m away. What is the wavelength of the light?
 <!-- id: physics-6-2-12 -->
 
 - A. 300 nm
@@ -5409,7 +7232,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 1.2 × 10^3 nm
 - D. 6.0 × 10^3 nm
 
-**Q746.** Young's double-slit experiment provided strong evidence that light:
+**Q1005.** Young's double-slit experiment provided strong evidence that light:
 <!-- id: physics-6-2-13 -->
 
 - A. consists of particles with momentum
@@ -5417,7 +7240,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. behaves as a wave
 - D. travels faster in glass than in air
 
-**Q747.** A Young's double-slit apparatus is completely immersed in water, where light travels more slowly than in air. The fringe spacing will:
+**Q1006.** A Young's double-slit apparatus is completely immersed in water, where light travels more slowly than in air. The fringe spacing will:
 <!-- id: physics-6-2-14 -->
 
 - A. increase
@@ -5425,7 +7248,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. double
 - D. decrease
 
-**Q748.** In a double-slit pattern the fringe spacing is 2.0 mm. What is the distance from the centre of the central bright fringe to the centre of the third dark fringe?
+**Q1007.** In a double-slit pattern the fringe spacing is 2.0 mm. What is the distance from the centre of the central bright fringe to the centre of the third dark fringe?
 <!-- id: physics-6-2-15 -->
 
 - A. 5.0 mm
@@ -5433,7 +7256,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 3.0 mm
 - D. 7.0 mm
 
-**Q749.** Destructive interference between two light waves of equal amplitude occurs when the waves arrive:
+**Q1008.** Destructive interference between two light waves of equal amplitude occurs when the waves arrive:
 <!-- id: physics-6-2-16 -->
 
 - A. exactly in phase
@@ -5441,7 +7264,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. a whole cycle out of phase
 - D. with a path difference of zero
 
-**Q750.** In a double-slit interference pattern, what happens to the light energy that does not reach the dark fringes?
+**Q1009.** In a double-slit interference pattern, what happens to the light energy that does not reach the dark fringes?
 <!-- id: physics-6-2-17 -->
 
 - A. It is destroyed by destructive interference.
@@ -5449,7 +7272,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. It is redistributed to the bright fringes.
 - D. It is converted into heat in the slits.
 
-**Q751.** Light of wavelength 650 nm passes through slits 0.25 mm apart onto a screen 1.5 m away. How far from the centre of the central maximum is the fourth bright fringe?
+**Q1010.** Light of wavelength 650 nm passes through slits 0.25 mm apart onto a screen 1.5 m away. How far from the centre of the central maximum is the fourth bright fringe?
 <!-- id: physics-6-2-18 -->
 
 - A. 3.9 mm
@@ -5457,44 +7280,44 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 19.5 mm
 - D. 15.6 mm
 
-**Q752.** Explain, using the idea of path difference, how bright and dark fringes form in Young's double-slit experiment.
+**Q1011.** Explain, using the idea of path difference, how bright and dark fringes form in Young's double-slit experiment.
 <!-- id: physics-6-2-19 -->
 
 *Written answer*
 
-**Q753.** A 532 nm green laser produces fringes 4.0 mm apart on a screen 3.0 m from a double slit. Calculate the slit separation.
+**Q1012.** A 532 nm green laser produces fringes 4.0 mm apart on a screen 3.0 m from a double slit. Calculate the slit separation.
 <!-- id: physics-6-2-20 -->
 
 *Written answer*
 
-**Q754.** Light of wavelength 640 nm is used in a double-slit experiment. What is the path difference to the first dark fringe?
+**Q1013.** Light of wavelength 640 nm is used in a double-slit experiment. What is the path difference to the first dark fringe?
 <!-- id: physics-6-2-21 -->
 
 *Written answer*
 
-**Q755.** During a Young's double-slit experiment, one slit is covered. Describe how the pattern on the screen changes.
+**Q1014.** During a Young's double-slit experiment, one slit is covered. Describe how the pattern on the screen changes.
 <!-- id: physics-6-2-22 -->
 
 *Written answer*
 
-**Q756.** A student measures that 10 fringe spacings cover 25 mm on a screen 1.0 m from a double slit with separation 0.20 mm. Calculate the wavelength of the light.
+**Q1015.** A student measures that 10 fringe spacings cover 25 mm on a screen 1.0 m from a double slit with separation 0.20 mm. Calculate the wavelength of the light.
 <!-- id: physics-6-2-23 -->
 
 *Written answer*
 
-**Q757.** Describe the pattern seen when white light is used in a Young's double-slit experiment, and explain it.
+**Q1016.** Describe the pattern seen when white light is used in a Young's double-slit experiment, and explain it.
 <!-- id: physics-6-2-24 -->
 
 *Written answer*
 
-**Q758.** Explain why Young's double-slit result was a problem for Newton's particle model of light.
+**Q1017.** Explain why Young's double-slit result was a problem for Newton's particle model of light.
 <!-- id: physics-6-2-25 -->
 
 *Written answer*
 
 #### Diffraction and the λ/w ratio
 
-**Q759.** Diffraction of a wave through a gap is most noticeable when:
+**Q1018.** Diffraction of a wave through a gap is most noticeable when:
 <!-- id: physics-6-3-1 -->
 
 - A. the wavelength is similar to or larger than the gap width
@@ -5502,7 +7325,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. the wave has a very high frequency
 - D. the wave has a very large amplitude
 
-**Q760.** Light of wavelength 500 nm passes through each of the following slits. Which produces the greatest diffraction?
+**Q1019.** Light of wavelength 500 nm passes through each of the following slits. Which produces the greatest diffraction?
 <!-- id: physics-6-3-2 -->
 
 - A. A 5 µm slit
@@ -5510,7 +7333,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. A 50 µm slit
 - D. A 5 mm slit
 
-**Q761.** A single slit is made narrower while the wavelength of light is unchanged. The central bright band of the diffraction pattern will:
+**Q1020.** A single slit is made narrower while the wavelength of light is unchanged. The central bright band of the diffraction pattern will:
 <!-- id: physics-6-3-3 -->
 
 - A. become narrower
@@ -5518,7 +7341,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. become wider
 - D. split into two bands
 
-**Q762.** You can hear people talking in a corridor around a corner, but cannot see them. The best explanation is that:
+**Q1021.** You can hear people talking in a corridor around a corner, but cannot see them. The best explanation is that:
 <!-- id: physics-6-3-4 -->
 
 - A. sound travels faster than light
@@ -5526,7 +7349,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. sound is a transverse wave
 - D. sound wavelengths are comparable to the doorway width, but light wavelengths are far smaller
 
-**Q763.** Red light and blue light pass in turn through the same narrow slit. Compared with the blue pattern, the red diffraction pattern is:
+**Q1022.** Red light and blue light pass in turn through the same narrow slit. Compared with the blue pattern, the red diffraction pattern is:
 <!-- id: physics-6-3-5 -->
 
 - A. wider
@@ -5534,7 +7357,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. the same width
 - D. not formed at all
 
-**Q764.** When light diffracts through a narrow slit in air, which statement is correct?
+**Q1023.** When light diffracts through a narrow slit in air, which statement is correct?
 <!-- id: physics-6-3-6 -->
 
 - A. Its wavelength increases.
@@ -5542,7 +7365,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Its speed decreases.
 - D. Its frequency decreases.
 
-**Q765.** In hilly regions of country Victoria, AM radio (wavelength about 300 m) is often received better than FM radio (wavelength about 3 m). This is mainly because:
+**Q1024.** In hilly regions of country Victoria, AM radio (wavelength about 300 m) is often received better than FM radio (wavelength about 3 m). This is mainly because:
 <!-- id: physics-6-3-7 -->
 
 - A. AM waves travel faster than FM waves
@@ -5550,7 +7373,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. longer-wavelength AM waves diffract more around hills
 - D. AM waves have a higher frequency
 
-**Q766.** Microwaves of wavelength 3.0 cm pass through a gap of 6.0 cm. What is the value of λ/w?
+**Q1025.** Microwaves of wavelength 3.0 cm pass through a gap of 6.0 cm. What is the value of λ/w?
 <!-- id: physics-6-3-8 -->
 
 - A. 2.0
@@ -5558,7 +7381,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 18
 - D. 0.50
 
-**Q767.** Light of wavelength 500 nm passes through a 2.0 mm wide gap. Which best describes the diffraction?
+**Q1026.** Light of wavelength 500 nm passes through a 2.0 mm wide gap. Which best describes the diffraction?
 <!-- id: physics-6-3-9 -->
 
 - A. Negligible, because λ/w is about 2.5 × 10^-4
@@ -5566,7 +7389,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Very significant, because λ/w is about 1
 - D. None at all, because light cannot diffract
 
-**Q768.** Large telescopes such as those at Siding Spring Observatory have wide apertures partly because a larger aperture:
+**Q1027.** Large telescopes such as those at Siding Spring Observatory have wide apertures partly because a larger aperture:
 <!-- id: physics-6-3-10 -->
 
 - A. increases the wavelength of the incoming light
@@ -5574,7 +7397,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. increases diffraction, making images brighter
 - D. polarises the incoming light
 
-**Q769.** Ocean waves of wavelength 20 m approach a harbour entrance 20 m wide. Inside the harbour the waves will:
+**Q1028.** Ocean waves of wavelength 20 m approach a harbour entrance 20 m wide. Inside the harbour the waves will:
 <!-- id: physics-6-3-11 -->
 
 - A. continue in a narrow straight beam
@@ -5582,7 +7405,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. spread out significantly into the harbour
 - D. double in wavelength
 
-**Q770.** The wavelength of light and the width of a slit are both doubled. Compared with the original, the amount of diffraction will be:
+**Q1029.** The wavelength of light and the width of a slit are both doubled. Compared with the original, the amount of diffraction will be:
 <!-- id: physics-6-3-12 -->
 
 - A. doubled
@@ -5590,7 +7413,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. four times greater
 - D. the same
 
-**Q771.** Which change will increase the diffraction of light passing through a single slit?
+**Q1030.** Which change will increase the diffraction of light passing through a single slit?
 <!-- id: physics-6-3-13 -->
 
 - A. Using light of a longer wavelength
@@ -5598,7 +7421,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Making the slit wider
 - D. Increasing the brightness of the light
 
-**Q772.** The intensity of a laser beam passing through a single slit is increased. The diffraction pattern will be:
+**Q1031.** The intensity of a laser beam passing through a single slit is increased. The diffraction pattern will be:
 <!-- id: physics-6-3-14 -->
 
 - A. wider and brighter
@@ -5606,7 +7429,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. narrower and brighter
 - D. unchanged in brightness but wider
 
-**Q773.** For monochromatic light passing through a single slit, the pattern on the screen consists of:
+**Q1032.** For monochromatic light passing through a single slit, the pattern on the screen consists of:
 <!-- id: physics-6-3-15 -->
 
 - A. equally spaced bright fringes of equal brightness
@@ -5614,7 +7437,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. a broad, bright central band with much fainter, narrower side bands
 - D. a continuous spectrum of colours
 
-**Q774.** Laser light passing the sharp edge of a razor blade produces faint bright and dark bands at the edge of the shadow. This is mainly due to:
+**Q1033.** Laser light passing the sharp edge of a razor blade produces faint bright and dark bands at the edge of the shadow. This is mainly due to:
 <!-- id: physics-6-3-16 -->
 
 - A. refraction
@@ -5622,7 +7445,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. dispersion
 - D. diffraction
 
-**Q775.** Which wave would diffract MOST when passing through a 1.0 m wide doorway?
+**Q1034.** Which wave would diffract MOST when passing through a 1.0 m wide doorway?
 <!-- id: physics-6-3-17 -->
 
 - A. Sound of frequency 340 Hz (λ = 1.0 m)
@@ -5630,7 +7453,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Infrared radiation (λ = 10 µm)
 - D. Visible light (λ = 500 nm)
 
-**Q776.** Which observation is the strongest evidence from diffraction that light behaves as a wave?
+**Q1035.** Which observation is the strongest evidence from diffraction that light behaves as a wave?
 <!-- id: physics-6-3-18 -->
 
 - A. Light travels in straight lines through a wide window.
@@ -5638,44 +7461,44 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Light reflects from a mirror at equal angles.
 - D. Light from the Sun takes about 8 minutes to reach Earth.
 
-**Q777.** State how the amount of diffraction depends on wavelength and gap width.
+**Q1036.** State how the amount of diffraction depends on wavelength and gap width.
 <!-- id: physics-6-3-19 -->
 
 *Written answer*
 
-**Q778.** A Wi-Fi router transmits at 2.4 GHz. The signal passes through a 0.125 m gap between two steel shelves. Calculate λ/w and comment on the diffraction.
+**Q1037.** A Wi-Fi router transmits at 2.4 GHz. The signal passes through a 0.125 m gap between two steel shelves. Calculate λ/w and comment on the diffraction.
 <!-- id: physics-6-3-20 -->
 
 *Written answer*
 
-**Q779.** Explain why you can hear a radio playing in the next room through an open door, even though you cannot see it.
+**Q1038.** Explain why you can hear a radio playing in the next room through an open door, even though you cannot see it.
 <!-- id: physics-6-3-21 -->
 
 *Written answer*
 
-**Q780.** Describe the single-slit diffraction pattern produced by a red laser, and how it changes as the slit is made narrower.
+**Q1039.** Describe the single-slit diffraction pattern produced by a red laser, and how it changes as the slit is made narrower.
 <!-- id: physics-6-3-22 -->
 
 *Written answer*
 
-**Q781.** A red laser (650 nm) passing through a 0.10 mm slit produces a certain amount of diffraction. What slit width would give the same diffraction for blue light of 450 nm?
+**Q1040.** A red laser (650 nm) passing through a 0.10 mm slit produces a certain amount of diffraction. What slit width would give the same diffraction for blue light of 450 nm?
 <!-- id: physics-6-3-23 -->
 
 *Written answer*
 
-**Q782.** Microchip manufacturers use ultraviolet light rather than visible light to make extremely small circuit features. Explain why, in terms of diffraction.
+**Q1041.** Microchip manufacturers use ultraviolet light rather than visible light to make extremely small circuit features. Explain why, in terms of diffraction.
 <!-- id: physics-6-3-24 -->
 
 *Written answer*
 
-**Q783.** Explain how the diffraction of light supports the wave model rather than Newton's particle model.
+**Q1042.** Explain how the diffraction of light supports the wave model rather than Newton's particle model.
 <!-- id: physics-6-3-25 -->
 
 *Written answer*
 
 #### Polarisation of light
 
-**Q784.** The fact that light can be polarised shows that light is:
+**Q1043.** The fact that light can be polarised shows that light is:
 <!-- id: physics-6-4-1 -->
 
 - A. a longitudinal wave
@@ -5683,7 +7506,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. a transverse wave
 - D. a mechanical wave
 
-**Q785.** Unpolarised light passes through an ideal polarising filter. The intensity of the transmitted light is:
+**Q1044.** Unpolarised light passes through an ideal polarising filter. The intensity of the transmitted light is:
 <!-- id: physics-6-4-2 -->
 
 - A. the same as the original intensity
@@ -5691,7 +7514,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. zero
 - D. half the original intensity
 
-**Q786.** Two ideal polarising filters are placed with their transmission axes at 90° to each other. Unpolarised light is shone through both. The light emerging is:
+**Q1045.** Two ideal polarising filters are placed with their transmission axes at 90° to each other. Unpolarised light is shone through both. The light emerging is:
 <!-- id: physics-6-4-3 -->
 
 - A. zero
@@ -5699,7 +7522,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. a quarter of the original intensity
 - D. the same as the original intensity
 
-**Q787.** Sound waves in air cannot be polarised because they are:
+**Q1046.** Sound waves in air cannot be polarised because they are:
 <!-- id: physics-6-4-4 -->
 
 - A. too slow
@@ -5707,7 +7530,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. mechanical waves with long wavelengths
 - D. unable to diffract
 
-**Q788.** Polarised sunglasses reduce glare from the surface of Port Phillip Bay because:
+**Q1047.** Polarised sunglasses reduce glare from the surface of Port Phillip Bay because:
 <!-- id: physics-6-4-5 -->
 
 - A. the lenses absorb all wavelengths equally
@@ -5715,7 +7538,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. reflected light is partly horizontally polarised and the lenses only transmit vertically polarised light
 - D. reflected light is vertically polarised and the lenses block vertical light
 
-**Q789.** Plane-polarised light is light in which:
+**Q1048.** Plane-polarised light is light in which:
 <!-- id: physics-6-4-6 -->
 
 - A. all wavelengths are the same
@@ -5723,7 +7546,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. the magnetic field is zero
 - D. the electric field oscillates in only one plane
 
-**Q790.** A polarising filter is rotated slowly through 360° in front of a beam of plane-polarised light. The transmitted intensity:
+**Q1049.** A polarising filter is rotated slowly through 360° in front of a beam of plane-polarised light. The transmitted intensity:
 <!-- id: physics-6-4-7 -->
 
 - A. goes from maximum to zero twice
@@ -5731,7 +7554,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. goes from maximum to zero once
 - D. goes from maximum to zero four times
 
-**Q791.** A polarising filter is rotated in front of an unpolarised light source such as an incandescent globe. The transmitted intensity:
+**Q1050.** A polarising filter is rotated in front of an unpolarised light source such as an incandescent globe. The transmitted intensity:
 <!-- id: physics-6-4-8 -->
 
 - A. varies between maximum and zero
@@ -5739,7 +7562,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. stays constant at the original intensity
 - D. drops to zero
 
-**Q792.** A third polarising filter with its axis at 45° is placed between two crossed polarisers. Unpolarised light is shone through all three. What is observed?
+**Q1051.** A third polarising filter with its axis at 45° is placed between two crossed polarisers. Unpolarised light is shone through all three. What is observed?
 <!-- id: physics-6-4-9 -->
 
 - A. No light emerges, as before.
@@ -5747,7 +7570,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Some light now emerges from the final filter.
 - D. The light emerges unpolarised.
 
-**Q793.** Which of these waves can be polarised?
+**Q1052.** Which of these waves can be polarised?
 <!-- id: physics-6-4-10 -->
 
 - A. Sound waves in air
@@ -5755,7 +7578,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Seismic P-waves
 - D. Microwaves
 
-**Q794.** By convention, the direction of polarisation of an electromagnetic wave is the direction of oscillation of its:
+**Q1053.** By convention, the direction of polarisation of an electromagnetic wave is the direction of oscillation of its:
 <!-- id: physics-6-4-11 -->
 
 - A. electric field
@@ -5763,7 +7586,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. wave velocity
 - D. energy transfer
 
-**Q795.** A TV station broadcasts horizontally polarised signals. For best reception, the rods of a rooftop antenna should be:
+**Q1054.** A TV station broadcasts horizontally polarised signals. For best reception, the rods of a rooftop antenna should be:
 <!-- id: physics-6-4-12 -->
 
 - A. vertical
@@ -5771,7 +7594,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. at 45°
 - D. pointing directly at the transmitter along the line of travel
 
-**Q796.** A student wearing polarised sunglasses looks at a laptop screen and tilts her head 90°. The screen becomes much darker. This shows that light from the screen is:
+**Q1055.** A student wearing polarised sunglasses looks at a laptop screen and tilts her head 90°. The screen becomes much darker. This shows that light from the screen is:
 <!-- id: physics-6-4-13 -->
 
 - A. unpolarised
@@ -5779,7 +7602,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. polarised
 - D. coherent and monochromatic
 
-**Q797.** Unpolarised light of intensity 80 W m⁻² passes through two ideal polarisers with parallel transmission axes. The final intensity is:
+**Q1056.** Unpolarised light of intensity 80 W m⁻² passes through two ideal polarisers with parallel transmission axes. The final intensity is:
 <!-- id: physics-6-4-14 -->
 
 - A. 80 W m⁻²
@@ -5787,7 +7610,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 0 W m⁻²
 - D. 40 W m⁻²
 
-**Q798.** Huygens believed light was a longitudinal wave. Which observation is inconsistent with this belief?
+**Q1057.** Huygens believed light was a longitudinal wave. Which observation is inconsistent with this belief?
 <!-- id: physics-6-4-15 -->
 
 - A. Light can be polarised.
@@ -5795,7 +7618,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Light can be refracted.
 - D. Light shows interference.
 
-**Q799.** A photographer uses a polarising filter to darken the blue sky in landscape photos. This works because:
+**Q1058.** A photographer uses a polarising filter to darken the blue sky in landscape photos. This works because:
 <!-- id: physics-6-4-16 -->
 
 - A. the filter changes the wavelength of blue light
@@ -5803,7 +7626,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. the filter refracts blue light away from the lens
 - D. sunlight is fully polarised before entering the atmosphere
 
-**Q800.** An electromagnetic wave travels in the +x direction with its electric field oscillating along the y-axis. Its magnetic field oscillates along the:
+**Q1059.** An electromagnetic wave travels in the +x direction with its electric field oscillating along the y-axis. Its magnetic field oscillates along the:
 <!-- id: physics-6-4-17 -->
 
 - A. y-axis
@@ -5811,7 +7634,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. z-axis
 - D. y-axis and z-axis equally
 
-**Q801.** Light from the Sun is described as unpolarised. This means that:
+**Q1060.** Light from the Sun is described as unpolarised. This means that:
 <!-- id: physics-6-4-18 -->
 
 - A. its electric field oscillates parallel to its direction of travel
@@ -5819,37 +7642,37 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. it contains only one wavelength
 - D. its electric field oscillates in all directions perpendicular to its direction of travel
 
-**Q802.** Explain why polarisation provides evidence that light is a transverse wave.
+**Q1061.** Explain why polarisation provides evidence that light is a transverse wave.
 <!-- id: physics-6-4-19 -->
 
 *Written answer*
 
-**Q803.** Explain how polarised sunglasses reduce glare from a wet road.
+**Q1062.** Explain how polarised sunglasses reduce glare from a wet road.
 <!-- id: physics-6-4-20 -->
 
 *Written answer*
 
-**Q804.** Unpolarised light of intensity 120 W m⁻² passes through a polariser, then through a second polariser whose axis is at 90° to the first. State the intensity after each filter.
+**Q1063.** Unpolarised light of intensity 120 W m⁻² passes through a polariser, then through a second polariser whose axis is at 90° to the first. State the intensity after each filter.
 <!-- id: physics-6-4-21 -->
 
 *Written answer*
 
-**Q805.** Describe a simple test to determine whether a light source is polarised.
+**Q1064.** Describe a simple test to determine whether a light source is polarised.
 <!-- id: physics-6-4-22 -->
 
 *Written answer*
 
-**Q806.** Distinguish between polarised and unpolarised light.
+**Q1065.** Distinguish between polarised and unpolarised light.
 <!-- id: physics-6-4-23 -->
 
 *Written answer*
 
-**Q807.** Explain why sound waves cannot be polarised.
+**Q1066.** Explain why sound waves cannot be polarised.
 <!-- id: physics-6-4-24 -->
 
 *Written answer*
 
-**Q808.** Maxwell's theory predicted that light is a transverse electromagnetic wave. Explain how the polarisation of light supports this prediction.
+**Q1067.** Maxwell's theory predicted that light is a transverse electromagnetic wave. Explain how the polarisation of light supports this prediction.
 <!-- id: physics-6-4-25 -->
 
 *Written answer*
@@ -5858,7 +7681,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 #### Photoelectric effect and photons
 
-**Q809.** Using hc = 1.24 × 10^-6 eV m, what is the energy of a photon of wavelength 500 nm?
+**Q1068.** Using hc = 1.24 × 10^-6 eV m, what is the energy of a photon of wavelength 500 nm?
 <!-- id: physics-7-1-1 -->
 
 - A. 2.48 eV
@@ -5866,7 +7689,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 3.98 × 10^-19 eV
 - D. 6.20 eV
 
-**Q810.** Sodium has a work function of 2.30 eV. Taking h = 4.14 × 10^-15 eV s, what is its threshold frequency?
+**Q1069.** Sodium has a work function of 2.30 eV. Taking h = 4.14 × 10^-15 eV s, what is its threshold frequency?
 <!-- id: physics-7-1-2 -->
 
 - A. 3.47 × 10^33 Hz
@@ -5874,7 +7697,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 1.80 × 10^-15 Hz
 - D. 5.56 × 10^15 Hz
 
-**Q811.** Light of wavelength 400 nm falls on a metal with work function 2.30 eV. What is the maximum kinetic energy of the photoelectrons? (hc = 1.24 × 10^-6 eV m)
+**Q1070.** Light of wavelength 400 nm falls on a metal with work function 2.30 eV. What is the maximum kinetic energy of the photoelectrons? (hc = 1.24 × 10^-6 eV m)
 <!-- id: physics-7-1-3 -->
 
 - A. 3.10 eV
@@ -5882,12 +7705,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 0.80 eV
 - D. 2.30 eV
 
-**Q812.** Explain why increasing the intensity of red light that is below the threshold frequency of a metal does not cause photoelectrons to be emitted.
+**Q1071.** Explain why increasing the intensity of red light that is below the threshold frequency of a metal does not cause photoelectrons to be emitted.
 <!-- id: physics-7-1-4 -->
 
 *Written answer*
 
-**Q813.** Photons of energy 4.0 eV eject electrons from a metal with work function 2.5 eV. What is the stopping voltage?
+**Q1072.** Photons of energy 4.0 eV eject electrons from a metal with work function 2.5 eV. What is the stopping voltage?
 <!-- id: physics-7-1-5 -->
 
 - A. 4.0 V
@@ -5895,7 +7718,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 2.5 V
 - D. 1.5 V
 
-**Q814.** A metal surface is illuminated with light above its threshold frequency. The intensity is doubled while the frequency is kept constant. Which statement is correct?
+**Q1073.** A metal surface is illuminated with light above its threshold frequency. The intensity is doubled while the frequency is kept constant. Which statement is correct?
 <!-- id: physics-7-1-6 -->
 
 - A. The photocurrent increases but the maximum kinetic energy of the photoelectrons is unchanged.
@@ -5903,7 +7726,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Both the photocurrent and the maximum kinetic energy double.
 - D. The stopping voltage doubles.
 
-**Q815.** Red light below the threshold frequency of a metal shines on it. The intensity is increased greatly. What happens?
+**Q1074.** Red light below the threshold frequency of a metal shines on it. The intensity is increased greatly. What happens?
 <!-- id: physics-7-1-7 -->
 
 - A. Photoelectrons are emitted after a time delay.
@@ -5911,12 +7734,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Photoelectrons are emitted with very low kinetic energy.
 - D. The work function of the metal decreases.
 
-**Q816.** Ultraviolet light of wavelength 250 nm shines on zinc (work function 4.3 eV). Calculate the maximum kinetic energy of the photoelectrons in eV. (hc = 1.24 × 10^-6 eV m)
+**Q1075.** Ultraviolet light of wavelength 250 nm shines on zinc (work function 4.3 eV). Calculate the maximum kinetic energy of the photoelectrons in eV. (hc = 1.24 × 10^-6 eV m)
 <!-- id: physics-7-1-8 -->
 
 *Written answer*
 
-**Q817.** A graph of maximum kinetic energy of photoelectrons (y-axis) against frequency of incident light (x-axis) is a straight line. Its gradient equals:
+**Q1076.** A graph of maximum kinetic energy of photoelectrons (y-axis) against frequency of incident light (x-axis) is a straight line. Its gradient equals:
 <!-- id: physics-7-1-9 -->
 
 - A. the work function
@@ -5924,7 +7747,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Planck's constant
 - D. the charge of an electron
 
-**Q818.** On a graph of maximum kinetic energy of photoelectrons against frequency, the intercept on the energy axis (extrapolated) equals:
+**Q1077.** On a graph of maximum kinetic energy of photoelectrons against frequency, the intercept on the energy axis (extrapolated) equals:
 <!-- id: physics-7-1-10 -->
 
 - A. the threshold frequency
@@ -5932,7 +7755,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. zero
 - D. the negative of the work function
 
-**Q819.** Ek max versus frequency graphs are drawn for potassium and for zinc. Compared with each other, the two lines:
+**Q1078.** Ek max versus frequency graphs are drawn for potassium and for zinc. Compared with each other, the two lines:
 <!-- id: physics-7-1-11 -->
 
 - A. are parallel but have different frequency-axis intercepts
@@ -5940,12 +7763,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. are identical
 - D. have gradients proportional to the work functions
 
-**Q820.** In a photocell, the photocurrent reaches a maximum (saturation) value as the anode is made more positive. Explain why.
+**Q1079.** In a photocell, the photocurrent reaches a maximum (saturation) value as the anode is made more positive. Explain why.
 <!-- id: physics-7-1-12 -->
 
 *Written answer*
 
-**Q821.** Which observation of the photoelectric effect could NOT be explained by the wave model of light?
+**Q1080.** Which observation of the photoelectric effect could NOT be explained by the wave model of light?
 <!-- id: physics-7-1-13 -->
 
 - A. The photocurrent increases with light intensity.
@@ -5953,7 +7776,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Some light is reflected from the metal surface.
 - D. More intense light delivers more energy per second to the surface.
 
-**Q822.** What is the momentum of a photon of wavelength 600 nm? (h = 6.63 × 10^-34 J s)
+**Q1081.** What is the momentum of a photon of wavelength 600 nm? (h = 6.63 × 10^-34 J s)
 <!-- id: physics-7-1-14 -->
 
 - A. 3.32 × 10^-19 kg m s^-1
@@ -5961,7 +7784,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 1.11 × 10^-27 kg m s^-1
 - D. 3.68 × 10^-36 kg m s^-1
 
-**Q823.** A 5.0 mW laser pointer emits light of wavelength 650 nm. Approximately how many photons does it emit per second? (h = 6.63 × 10^-34 J s, c = 3.00 × 10^8 m s^-1)
+**Q1082.** A 5.0 mW laser pointer emits light of wavelength 650 nm. Approximately how many photons does it emit per second? (h = 6.63 × 10^-34 J s, c = 3.00 × 10^8 m s^-1)
 <!-- id: physics-7-1-15 -->
 
 - A. 1.6 × 10^19
@@ -5969,12 +7792,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 6.1 × 10^-17
 - D. 1.6 × 10^16
 
-**Q824.** A student measures stopping voltages of 0.50 V at 6.0 × 10^14 Hz and 1.33 V at 8.0 × 10^14 Hz. Determine Planck's constant in eV s and the work function of the metal.
+**Q1083.** A student measures stopping voltages of 0.50 V at 6.0 × 10^14 Hz and 1.33 V at 8.0 × 10^14 Hz. Determine Planck's constant in eV s and the work function of the metal.
 <!-- id: physics-7-1-16 -->
 
 *Written answer*
 
-**Q825.** Which change would increase the maximum kinetic energy of photoelectrons emitted from a given metal?
+**Q1084.** Which change would increase the maximum kinetic energy of photoelectrons emitted from a given metal?
 <!-- id: physics-7-1-17 -->
 
 - A. Using light of shorter wavelength
@@ -5982,7 +7805,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Moving the light source closer to the metal
 - D. Increasing the area of the metal plate
 
-**Q826.** A photon has an energy of 3.0 eV. What is its wavelength? (hc = 1.24 × 10^-6 eV m)
+**Q1085.** A photon has an energy of 3.0 eV. What is its wavelength? (hc = 1.24 × 10^-6 eV m)
 <!-- id: physics-7-1-18 -->
 
 - A. 41.4 nm
@@ -5990,7 +7813,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 4.14 μm
 - D. 1.24 μm
 
-**Q827.** In a photoelectric experiment, the stopping voltage depends on:
+**Q1086.** In a photoelectric experiment, the stopping voltage depends on:
 <!-- id: physics-7-1-19 -->
 
 - A. the intensity of the light only
@@ -5998,12 +7821,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. the frequency of the light and the work function of the metal
 - D. the distance between the light source and the cell
 
-**Q828.** Explain how the absence of a time delay in photoelectron emission supports the particle model of light.
+**Q1087.** Explain how the absence of a time delay in photoelectron emission supports the particle model of light.
 <!-- id: physics-7-1-20 -->
 
 *Written answer*
 
-**Q829.** Photoelectrons are emitted with a range of kinetic energies up to a maximum value. The best explanation is that:
+**Q1088.** Photoelectrons are emitted with a range of kinetic energies up to a maximum value. The best explanation is that:
 <!-- id: physics-7-1-21 -->
 
 - A. photons have a range of energies even in monochromatic light
@@ -6011,7 +7834,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. some electrons absorb two photons
 - D. electrons further below the surface or more tightly bound lose extra energy escaping
 
-**Q830.** A metal has a threshold wavelength of 540 nm. What is its work function? (hc = 1.24 × 10^-6 eV m)
+**Q1089.** A metal has a threshold wavelength of 540 nm. What is its work function? (hc = 1.24 × 10^-6 eV m)
 <!-- id: physics-7-1-22 -->
 
 - A. 2.30 eV
@@ -6019,7 +7842,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 3.68 × 10^-19 eV
 - D. 4.60 eV
 
-**Q831.** If the wavelength of monochromatic light is halved, the energy of each photon:
+**Q1090.** If the wavelength of monochromatic light is halved, the energy of each photon:
 <!-- id: physics-7-1-23 -->
 
 - A. halves
@@ -6027,19 +7850,19 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. quadruples
 - D. stays the same
 
-**Q832.** Describe how the stopping voltage is measured in a photoelectric experiment.
+**Q1091.** Describe how the stopping voltage is measured in a photoelectric experiment.
 <!-- id: physics-7-1-24 -->
 
 *Written answer*
 
-**Q833.** A 1.0 W green light source emits only light of wavelength 530 nm. Calculate the number of photons emitted per second. (h = 6.63 × 10^-34 J s, c = 3.00 × 10^8 m s^-1)
+**Q1092.** A 1.0 W green light source emits only light of wavelength 530 nm. Calculate the number of photons emitted per second. (h = 6.63 × 10^-34 J s, c = 3.00 × 10^8 m s^-1)
 <!-- id: physics-7-1-25 -->
 
 *Written answer*
 
 #### De Broglie wavelength and diffraction
 
-**Q834.** What is the de Broglie wavelength of an electron travelling at 2.0 × 10^6 m s^-1? (h = 6.63 × 10^-34 J s, mₑ = 9.11 × 10^-31 kg)
+**Q1093.** What is the de Broglie wavelength of an electron travelling at 2.0 × 10^6 m s^-1? (h = 6.63 × 10^-34 J s, mₑ = 9.11 × 10^-31 kg)
 <!-- id: physics-7-2-1 -->
 
 - A. 7.3 × 10^-10 m
@@ -6047,7 +7870,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 3.6 × 10^-10 m
 - D. 2.7 × 10^9 m
 
-**Q835.** An electron is accelerated from rest through 100 V. What is its de Broglie wavelength? (h = 6.63 × 10^-34 J s, mₑ = 9.11 × 10^-31 kg, e = 1.60 × 10^-19 C)
+**Q1094.** An electron is accelerated from rest through 100 V. What is its de Broglie wavelength? (h = 6.63 × 10^-34 J s, mₑ = 9.11 × 10^-31 kg, e = 1.60 × 10^-19 C)
 <!-- id: physics-7-2-2 -->
 
 - A. 1.74 × 10^-10 m
@@ -6055,7 +7878,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 4.14 × 10^-17 m
 - D. 1.23 × 10^-10 m
 
-**Q836.** An electron and a proton travel at the same speed. Compared with the electron, the proton's de Broglie wavelength is:
+**Q1095.** An electron and a proton travel at the same speed. Compared with the electron, the proton's de Broglie wavelength is:
 <!-- id: physics-7-2-3 -->
 
 - A. much shorter
@@ -6063,12 +7886,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. the same
 - D. longer by a factor of about 43
 
-**Q837.** In the Davisson–Germer experiment, electrons were accelerated through 54 V. Calculate their de Broglie wavelength. (h = 6.63 × 10^-34 J s, mₑ = 9.11 × 10^-31 kg, e = 1.60 × 10^-19 C)
+**Q1096.** In the Davisson–Germer experiment, electrons were accelerated through 54 V. Calculate their de Broglie wavelength. (h = 6.63 × 10^-34 J s, mₑ = 9.11 × 10^-31 kg, e = 1.60 × 10^-19 C)
 <!-- id: physics-7-2-4 -->
 
 *Written answer*
 
-**Q838.** An electron and a proton have the same kinetic energy. Which statement is correct?
+**Q1097.** An electron and a proton have the same kinetic energy. Which statement is correct?
 <!-- id: physics-7-2-5 -->
 
 - A. The proton's wavelength is about 43 times longer than the electron's.
@@ -6076,7 +7899,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. The electron's wavelength is about 1836 times longer than the proton's.
 - D. They have equal wavelengths.
 
-**Q839.** The speed of an electron doubles (non-relativistic). Its de Broglie wavelength:
+**Q1098.** The speed of an electron doubles (non-relativistic). Its de Broglie wavelength:
 <!-- id: physics-7-2-6 -->
 
 - A. doubles
@@ -6084,7 +7907,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. halves
 - D. is unchanged
 
-**Q840.** The accelerating voltage on an electron gun is increased by a factor of four. The de Broglie wavelength of the electrons:
+**Q1099.** The accelerating voltage on an electron gun is increased by a factor of four. The de Broglie wavelength of the electrons:
 <!-- id: physics-7-2-7 -->
 
 - A. quarters
@@ -6092,12 +7915,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. is unchanged
 - D. halves
 
-**Q841.** Explain how an electron diffraction pattern provides evidence for the wave nature of matter.
+**Q1100.** Explain how an electron diffraction pattern provides evidence for the wave nature of matter.
 <!-- id: physics-7-2-8 -->
 
 *Written answer*
 
-**Q842.** An electron beam and an X-ray beam produce identical diffraction patterns when passed through the same crystal. The electrons and X-ray photons must have the same:
+**Q1101.** An electron beam and an X-ray beam produce identical diffraction patterns when passed through the same crystal. The electrons and X-ray photons must have the same:
 <!-- id: physics-7-2-9 -->
 
 - A. wavelength
@@ -6105,7 +7928,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. speed
 - D. frequency
 
-**Q843.** Electron microscopes can resolve much finer detail than optical microscopes mainly because:
+**Q1102.** Electron microscopes can resolve much finer detail than optical microscopes mainly because:
 <!-- id: physics-7-2-10 -->
 
 - A. electrons travel faster than light
@@ -6113,7 +7936,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. electrons are not diffracted
 - D. electrons have no mass
 
-**Q844.** The observation that a beam of electrons produces a diffraction pattern when passed through a thin crystal provides evidence that:
+**Q1103.** The observation that a beam of electrons produces a diffraction pattern when passed through a thin crystal provides evidence that:
 <!-- id: physics-7-2-11 -->
 
 - A. electrons are made of photons
@@ -6121,12 +7944,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. electrons have wave-like properties
 - D. electrons have no charge
 
-**Q845.** An X-ray beam of photon energy 8.0 keV and an electron beam produce the same diffraction pattern from a crystal. Calculate the kinetic energy of the electrons in eV. (mₑ = 9.11 × 10^-31 kg, c = 3.00 × 10^8 m s^-1, e = 1.60 × 10^-19 C)
+**Q1104.** An X-ray beam of photon energy 8.0 keV and an electron beam produce the same diffraction pattern from a crystal. Calculate the kinetic energy of the electrons in eV. (mₑ = 9.11 × 10^-31 kg, c = 3.00 × 10^8 m s^-1, e = 1.60 × 10^-19 C)
 <!-- id: physics-7-2-12 -->
 
 *Written answer*
 
-**Q846.** A 0.16 kg cricket ball is bowled at 40 m s^-1. Its de Broglie wavelength is approximately: (h = 6.63 × 10^-34 J s)
+**Q1105.** A 0.16 kg cricket ball is bowled at 40 m s^-1. Its de Broglie wavelength is approximately: (h = 6.63 × 10^-34 J s)
 <!-- id: physics-7-2-13 -->
 
 - A. 4.1 × 10^-33 m
@@ -6134,7 +7957,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 9.7 × 10^33 m
 - D. 1.0 × 10^-34 m
 
-**Q847.** What is the momentum of an electron with a de Broglie wavelength of 0.20 nm? (h = 6.63 × 10^-34 J s)
+**Q1106.** What is the momentum of an electron with a de Broglie wavelength of 0.20 nm? (h = 6.63 × 10^-34 J s)
 <!-- id: physics-7-2-14 -->
 
 - A. 3.3 × 10^-24 kg m s^-1
@@ -6142,7 +7965,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 3.0 × 10^23 kg m s^-1
 - D. 3.3 × 10^-25 kg m s^-1
 
-**Q848.** What speed must an electron have for its de Broglie wavelength to be 0.50 nm? (h = 6.63 × 10^-34 J s, mₑ = 9.11 × 10^-31 kg)
+**Q1107.** What speed must an electron have for its de Broglie wavelength to be 0.50 nm? (h = 6.63 × 10^-34 J s, mₑ = 9.11 × 10^-31 kg)
 <!-- id: physics-7-2-15 -->
 
 - A. 7.3 × 10^5 m s^-1
@@ -6150,12 +7973,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 1.5 × 10^9 m s^-1
 - D. 1.3 × 10^-24 m s^-1
 
-**Q849.** Explain why an electron microscope can produce images with greater detail than a light microscope.
+**Q1108.** Explain why an electron microscope can produce images with greater detail than a light microscope.
 <!-- id: physics-7-2-16 -->
 
 *Written answer*
 
-**Q850.** An electron has a de Broglie wavelength of 0.20 nm. What is its kinetic energy in eV? (h = 6.63 × 10^-34 J s, mₑ = 9.11 × 10^-31 kg)
+**Q1109.** An electron has a de Broglie wavelength of 0.20 nm. What is its kinetic energy in eV? (h = 6.63 × 10^-34 J s, mₑ = 9.11 × 10^-31 kg)
 <!-- id: physics-7-2-17 -->
 
 - A. 6200 eV
@@ -6163,7 +7986,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 38 eV
 - D. 3.3 eV
 
-**Q851.** For a beam of electrons to show noticeable diffraction from a crystal, their de Broglie wavelength should be:
+**Q1110.** For a beam of electrons to show noticeable diffraction from a crystal, their de Broglie wavelength should be:
 <!-- id: physics-7-2-18 -->
 
 - A. much larger than the crystal
@@ -6171,7 +7994,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. exactly equal to the wavelength of visible light
 - D. similar to the spacing between atoms, around 10^-10 m
 
-**Q852.** In an electron diffraction tube, the accelerating voltage is increased. The diffraction rings:
+**Q1111.** In an electron diffraction tube, the accelerating voltage is increased. The diffraction rings:
 <!-- id: physics-7-2-19 -->
 
 - A. move closer together
@@ -6179,12 +8002,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. stay the same size
 - D. become brighter but do not change size
 
-**Q853.** A neutron (mass 1.67 × 10^-27 kg) has a de Broglie wavelength of 0.10 nm. Calculate its speed. (h = 6.63 × 10^-34 J s)
+**Q1112.** A neutron (mass 1.67 × 10^-27 kg) has a de Broglie wavelength of 0.10 nm. Calculate its speed. (h = 6.63 × 10^-34 J s)
 <!-- id: physics-7-2-20 -->
 
 *Written answer*
 
-**Q854.** A photon and an electron each have a wavelength of 0.25 nm. Which statement is correct?
+**Q1113.** A photon and an electron each have a wavelength of 0.25 nm. Which statement is correct?
 <!-- id: physics-7-2-21 -->
 
 - A. They have the same energy and the same momentum.
@@ -6192,7 +8015,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. The electron has more momentum and more energy.
 - D. They have the same energy, but the electron has more momentum.
 
-**Q855.** An X-ray photon has an energy of 5.0 keV. What is its wavelength? (hc = 1.24 × 10^-6 eV m)
+**Q1114.** An X-ray photon has an energy of 5.0 keV. What is its wavelength? (hc = 1.24 × 10^-6 eV m)
 <!-- id: physics-7-2-22 -->
 
 - A. 2.5 nm
@@ -6200,7 +8023,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 0.25 nm
 - D. 250 nm
 
-**Q856.** Approximately what accelerating voltage gives electrons a de Broglie wavelength of 0.10 nm? (h = 6.63 × 10^-34 J s, mₑ = 9.11 × 10^-31 kg, e = 1.60 × 10^-19 C)
+**Q1115.** Approximately what accelerating voltage gives electrons a de Broglie wavelength of 0.10 nm? (h = 6.63 × 10^-34 J s, mₑ = 9.11 × 10^-31 kg, e = 1.60 × 10^-19 C)
 <!-- id: physics-7-2-23 -->
 
 - A. 12 400 V
@@ -6208,19 +8031,19 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 1.5 V
 - D. 150 V
 
-**Q857.** Explain why the wave nature of a moving car is never observed.
+**Q1116.** Explain why the wave nature of a moving car is never observed.
 <!-- id: physics-7-2-24 -->
 
 *Written answer*
 
-**Q858.** The speed of electrons in a diffraction tube is doubled. Describe and explain the change in the diffraction pattern.
+**Q1117.** The speed of electrons in a diffraction tube is doubled. Describe and explain the change in the diffraction pattern.
 <!-- id: physics-7-2-25 -->
 
 *Written answer*
 
 #### Atomic energy levels and spectra
 
-**Q859.** Hydrogen has energy levels E₁ = −13.6 eV, E₂ = −3.40 eV and E₃ = −1.51 eV. What is the energy of the photon emitted when an electron moves from n = 3 to n = 2?
+**Q1118.** Hydrogen has energy levels E₁ = −13.6 eV, E₂ = −3.40 eV and E₃ = −1.51 eV. What is the energy of the photon emitted when an electron moves from n = 3 to n = 2?
 <!-- id: physics-7-3-1 -->
 
 - A. 1.89 eV
@@ -6228,7 +8051,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 3.40 eV
 - D. 4.91 eV
 
-**Q860.** In hydrogen, E₂ = −3.40 eV and E₄ = −0.85 eV. What is the wavelength of the photon emitted in the n = 4 to n = 2 transition? (hc = 1.24 × 10^-6 eV m)
+**Q1119.** In hydrogen, E₂ = −3.40 eV and E₄ = −0.85 eV. What is the wavelength of the photon emitted in the n = 4 to n = 2 transition? (hc = 1.24 × 10^-6 eV m)
 <!-- id: physics-7-3-2 -->
 
 - A. 292 nm
@@ -6236,7 +8059,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 365 nm
 - D. 1460 nm
 
-**Q861.** What is the minimum energy needed to ionise a hydrogen atom in its ground state (E₁ = −13.6 eV)?
+**Q1120.** What is the minimum energy needed to ionise a hydrogen atom in its ground state (E₁ = −13.6 eV)?
 <!-- id: physics-7-3-3 -->
 
 - A. 10.2 eV
@@ -6244,12 +8067,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 13.6 eV
 - D. 0 eV
 
-**Q862.** Calculate the frequency of the photon emitted when an electron in hydrogen moves from n = 3 (−1.51 eV) to n = 1 (−13.6 eV). (h = 4.14 × 10^-15 eV s)
+**Q1121.** Calculate the frequency of the photon emitted when an electron in hydrogen moves from n = 3 (−1.51 eV) to n = 1 (−13.6 eV). (h = 4.14 × 10^-15 eV s)
 <!-- id: physics-7-3-4 -->
 
 *Written answer*
 
-**Q863.** Hydrogen atoms are excited to the n = 4 level. How many different photon energies can be emitted as they return to the ground state?
+**Q1122.** Hydrogen atoms are excited to the n = 4 level. How many different photon energies can be emitted as they return to the ground state?
 <!-- id: physics-7-3-5 -->
 
 - A. 3
@@ -6257,7 +8080,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 10
 - D. 6
 
-**Q864.** A photon of energy 11.0 eV passes through hydrogen gas in the ground state (E₁ = −13.6 eV, E₂ = −3.40 eV, E₃ = −1.51 eV). What is most likely to happen?
+**Q1123.** A photon of energy 11.0 eV passes through hydrogen gas in the ground state (E₁ = −13.6 eV, E₂ = −3.40 eV, E₃ = −1.51 eV). What is most likely to happen?
 <!-- id: physics-7-3-6 -->
 
 - A. The photon is not absorbed.
@@ -6265,7 +8088,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. The photon ionises an atom.
 - D. The photon excites an atom to n = 3.
 
-**Q865.** When white light passes through a cool gas and is then viewed with a spectroscope, the result is:
+**Q1124.** When white light passes through a cool gas and is then viewed with a spectroscope, the result is:
 <!-- id: physics-7-3-7 -->
 
 - A. a series of bright lines on a dark background
@@ -6273,12 +8096,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. a continuous spectrum with no gaps
 - D. a single bright line
 
-**Q866.** Explain why the emission spectrum of a heated gas consists of discrete bright lines rather than a continuous spectrum.
+**Q1125.** Explain why the emission spectrum of a heated gas consists of discrete bright lines rather than a continuous spectrum.
 <!-- id: physics-7-3-8 -->
 
 *Written answer*
 
-**Q867.** The emission spectrum of a gas consists of discrete lines because:
+**Q1126.** The emission spectrum of a gas consists of discrete lines because:
 <!-- id: physics-7-3-9 -->
 
 - A. photons travel at different speeds
@@ -6286,7 +8109,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. the atoms' electron energy levels are quantised
 - D. electrons emit continuously as they orbit
 
-**Q868.** Transitions in hydrogen ending on the n = 1 level (E₁ = −13.6 eV, E₂ = −3.40 eV) produce photons in which part of the electromagnetic spectrum?
+**Q1127.** Transitions in hydrogen ending on the n = 1 level (E₁ = −13.6 eV, E₂ = −3.40 eV) produce photons in which part of the electromagnetic spectrum?
 <!-- id: physics-7-3-10 -->
 
 - A. Visible
@@ -6294,7 +8117,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Radio
 - D. Ultraviolet
 
-**Q869.** Which hydrogen transition emits the photon of highest frequency? (E₁ = −13.6 eV, E₂ = −3.40 eV, E₃ = −1.51 eV, E₄ = −0.85 eV)
+**Q1128.** Which hydrogen transition emits the photon of highest frequency? (E₁ = −13.6 eV, E₂ = −3.40 eV, E₃ = −1.51 eV, E₄ = −0.85 eV)
 <!-- id: physics-7-3-11 -->
 
 - A. n = 4 to n = 1
@@ -6302,12 +8125,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. n = 2 to n = 1
 - D. n = 4 to n = 2
 
-**Q870.** Explain how an absorption spectrum forms when white light passes through a cool gas.
+**Q1129.** Explain how an absorption spectrum forms when white light passes through a cool gas.
 <!-- id: physics-7-3-12 -->
 
 *Written answer*
 
-**Q871.** An atom has energy levels of −10.0 eV, −6.0 eV, −4.0 eV and −1.0 eV. Which photon energy could NOT be emitted by this atom?
+**Q1130.** An atom has energy levels of −10.0 eV, −6.0 eV, −4.0 eV and −1.0 eV. Which photon energy could NOT be emitted by this atom?
 <!-- id: physics-7-3-13 -->
 
 - A. 5.0 eV
@@ -6315,7 +8138,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 3.0 eV
 - D. 9.0 eV
 
-**Q872.** An atom has energy levels of −10.0 eV, −6.0 eV, −4.0 eV and −1.0 eV, and zero energy corresponds to a free electron. What is its ionisation energy from the ground state?
+**Q1131.** An atom has energy levels of −10.0 eV, −6.0 eV, −4.0 eV and −1.0 eV, and zero energy corresponds to a free electron. What is its ionisation energy from the ground state?
 <!-- id: physics-7-3-14 -->
 
 - A. 9.0 eV
@@ -6323,7 +8146,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 10.0 eV
 - D. 21.0 eV
 
-**Q873.** In de Broglie's explanation of the stable electron orbits in the Bohr model, the circumference of an allowed orbit equals:
+**Q1132.** In de Broglie's explanation of the stable electron orbits in the Bohr model, the circumference of an allowed orbit equals:
 <!-- id: physics-7-3-15 -->
 
 - A. half an electron wavelength
@@ -6331,12 +8154,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. the radius of the nucleus
 - D. a whole number of electron wavelengths
 
-**Q874.** An atom has energy levels E₁ = −8.0 eV, E₂ = −4.5 eV and E₃ = −2.0 eV. Atoms excited to E₃ return to the ground state. List all the photon energies that can be emitted.
+**Q1133.** An atom has energy levels E₁ = −8.0 eV, E₂ = −4.5 eV and E₃ = −2.0 eV. Atoms excited to E₃ return to the ground state. List all the photon energies that can be emitted.
 <!-- id: physics-7-3-16 -->
 
 *Written answer*
 
-**Q875.** A fluorescent mineral absorbs ultraviolet light and emits visible light. This is best explained by:
+**Q1134.** A fluorescent mineral absorbs ultraviolet light and emits visible light. This is best explained by:
 <!-- id: physics-7-3-17 -->
 
 - A. electrons dropping back to the ground state through intermediate energy levels
@@ -6344,7 +8167,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. the ultraviolet photons slowing down inside the mineral
 - D. the mineral reflecting the ultraviolet light
 
-**Q876.** A photon of energy 2.0 eV is absorbed by an atom. What is its wavelength? (hc = 1.24 × 10^-6 eV m)
+**Q1135.** A photon of energy 2.0 eV is absorbed by an atom. What is its wavelength? (hc = 1.24 × 10^-6 eV m)
 <!-- id: physics-7-3-18 -->
 
 - A. 248 nm
@@ -6352,7 +8175,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 1240 nm
 - D. 310 nm
 
-**Q877.** Sodium street lights emit yellow light of wavelength 589 nm. What energy gap in the sodium atom produces this light? (hc = 1.24 × 10^-6 eV m)
+**Q1136.** Sodium street lights emit yellow light of wavelength 589 nm. What energy gap in the sodium atom produces this light? (hc = 1.24 × 10^-6 eV m)
 <!-- id: physics-7-3-19 -->
 
 - A. 0.475 eV
@@ -6360,12 +8183,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 2.11 eV
 - D. 3.37 × 10^-19 eV
 
-**Q878.** A ground-state hydrogen atom (E₁ = −13.6 eV, E₂ = −3.40 eV) can be excited by an electron with 11.0 eV of kinetic energy, but not by a photon of 11.0 eV. Explain why.
+**Q1137.** A ground-state hydrogen atom (E₁ = −13.6 eV, E₂ = −3.40 eV) can be excited by an electron with 11.0 eV of kinetic energy, but not by a photon of 11.0 eV. Explain why.
 <!-- id: physics-7-3-20 -->
 
 *Written answer*
 
-**Q879.** Atomic energy levels are usually given negative values. This indicates that:
+**Q1138.** Atomic energy levels are usually given negative values. This indicates that:
 <!-- id: physics-7-3-21 -->
 
 - A. the electron has negative kinetic energy
@@ -6373,7 +8196,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. energy is released when an electron is ionised
 - D. the electron is bound to the atom and energy must be supplied to free it
 
-**Q880.** Dark lines in the spectrum of the Sun can be used to identify elements in its outer atmosphere because:
+**Q1139.** Dark lines in the spectrum of the Sun can be used to identify elements in its outer atmosphere because:
 <!-- id: physics-7-3-22 -->
 
 - A. each element absorbs a unique set of wavelengths matching its energy level differences
@@ -6381,7 +8204,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. hotter elements absorb all visible light
 - D. dark lines show where the Sun emits no light at all
 
-**Q881.** An electron with kinetic energy 12.5 eV collides with a ground-state hydrogen atom (E₁ = −13.6 eV, E₂ = −3.40 eV, E₃ = −1.51 eV, E₄ = −0.85 eV). What is the highest level the atom can be excited to?
+**Q1140.** An electron with kinetic energy 12.5 eV collides with a ground-state hydrogen atom (E₁ = −13.6 eV, E₂ = −3.40 eV, E₃ = −1.51 eV, E₄ = −0.85 eV). What is the highest level the atom can be excited to?
 <!-- id: physics-7-3-23 -->
 
 - A. n = 2
@@ -6389,19 +8212,19 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. n = 4
 - D. The atom is ionised.
 
-**Q882.** Calculate the wavelength of the photon emitted in hydrogen's n = 2 to n = 1 transition (E₁ = −13.6 eV, E₂ = −3.40 eV), and state the region of the spectrum. (hc = 1.24 × 10^-6 eV m)
+**Q1141.** Calculate the wavelength of the photon emitted in hydrogen's n = 2 to n = 1 transition (E₁ = −13.6 eV, E₂ = −3.40 eV), and state the region of the spectrum. (hc = 1.24 × 10^-6 eV m)
 <!-- id: physics-7-3-24 -->
 
 *Written answer*
 
-**Q883.** Use de Broglie's matter-wave idea to explain why electrons in an atom occupy only certain orbits.
+**Q1142.** Use de Broglie's matter-wave idea to explain why electrons in an atom occupy only certain orbits.
 <!-- id: physics-7-3-25 -->
 
 *Written answer*
 
 #### Wave-particle duality of light
 
-**Q884.** Young's double-slit experiment provided strong evidence that light:
+**Q1143.** Young's double-slit experiment provided strong evidence that light:
 <!-- id: physics-7-4-1 -->
 
 - A. is made of photons
@@ -6409,7 +8232,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. behaves as a wave
 - D. travels instantly
 
-**Q885.** Which experiment provides the clearest evidence for the particle nature of light?
+**Q1144.** Which experiment provides the clearest evidence for the particle nature of light?
 <!-- id: physics-7-4-2 -->
 
 - A. Young's double-slit experiment
@@ -6417,7 +8240,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Polarisation of light by a filter
 - D. The photoelectric effect
 
-**Q886.** Which statement best describes the current understanding of the nature of light?
+**Q1145.** Which statement best describes the current understanding of the nature of light?
 <!-- id: physics-7-4-3 -->
 
 - A. Light shows wave or particle behaviour depending on the experiment, and neither model alone explains all observations.
@@ -6425,12 +8248,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Light is purely a stream of particles, and interference is caused by photons colliding.
 - D. Light behaves as a wave in a vacuum and as a particle in matter.
 
-**Q887.** Describe what is meant by the wave-particle duality of light, referring to one piece of evidence for each model.
+**Q1146.** Describe what is meant by the wave-particle duality of light, referring to one piece of evidence for each model.
 <!-- id: physics-7-4-4 -->
 
 *Written answer*
 
-**Q888.** A double-slit experiment is performed with light so dim that only one photon is in the apparatus at a time. Over a long time the screen shows:
+**Q1147.** A double-slit experiment is performed with light so dim that only one photon is in the apparatus at a time. Over a long time the screen shows:
 <!-- id: physics-7-4-5 -->
 
 - A. two bright bands opposite the slits
@@ -6438,7 +8261,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. a uniform glow with no pattern
 - D. no detection, because single photons cannot interfere
 
-**Q889.** Newton's particle model and Huygens' wave model made different predictions about light entering water. Experiment showed that light:
+**Q1148.** Newton's particle model and Huygens' wave model made different predictions about light entering water. Experiment showed that light:
 <!-- id: physics-7-4-6 -->
 
 - A. speeds up in water, supporting the particle model
@@ -6446,7 +8269,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. slows down in water, supporting the wave model
 - D. speeds up in water, supporting the wave model
 
-**Q890.** In a double-slit experiment, light of wavelength 600 nm passes through slits 0.30 mm apart onto a screen 2.0 m away. What is the fringe spacing?
+**Q1149.** In a double-slit experiment, light of wavelength 600 nm passes through slits 0.30 mm apart onto a screen 2.0 m away. What is the fringe spacing?
 <!-- id: physics-7-4-7 -->
 
 - A. 0.40 mm
@@ -6454,12 +8277,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 9.0 × 10^-11 m
 - D. 4.0 mm
 
-**Q891.** Explain how a double-slit experiment performed one photon at a time supports the idea of wave-particle duality.
+**Q1150.** Explain how a double-slit experiment performed one photon at a time supports the idea of wave-particle duality.
 <!-- id: physics-7-4-8 -->
 
 *Written answer*
 
-**Q892.** In a double-slit pattern, what is the path difference from the two slits to the second dark band from the centre?
+**Q1151.** In a double-slit pattern, what is the path difference from the two slits to the second dark band from the centre?
 <!-- id: physics-7-4-9 -->
 
 - A. 1.5λ
@@ -6467,7 +8290,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. λ
 - D. 0.5λ
 
-**Q893.** Diffraction of a wave through a gap is most noticeable when:
+**Q1152.** Diffraction of a wave through a gap is most noticeable when:
 <!-- id: physics-7-4-10 -->
 
 - A. the gap is much larger than the wavelength
@@ -6475,7 +8298,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. the wave has a very high frequency
 - D. the wave has a very large amplitude
 
-**Q894.** Solar sails can propel a spacecraft using sunlight. This works because photons:
+**Q1153.** Solar sails can propel a spacecraft using sunlight. This works because photons:
 <!-- id: physics-7-4-11 -->
 
 - A. have rest mass that pushes the sail
@@ -6483,12 +8306,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. carry momentum, which is transferred to the sail when they reflect
 - D. create a magnetic field around the sail
 
-**Q895.** A green laser (532 nm) shines on two slits 0.25 mm apart, and the pattern forms on a wall 1.5 m away. Calculate the fringe spacing.
+**Q1154.** A green laser (532 nm) shines on two slits 0.25 mm apart, and the pattern forms on a wall 1.5 m away. Calculate the fringe spacing.
 <!-- id: physics-7-4-12 -->
 
 *Written answer*
 
-**Q896.** A single slit produces a diffraction pattern on a screen. The slit is made narrower. The central bright band:
+**Q1155.** A single slit produces a diffraction pattern on a screen. The slit is made narrower. The central bright band:
 <!-- id: physics-7-4-13 -->
 
 - A. becomes narrower
@@ -6496,7 +8319,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. disappears
 - D. becomes wider
 
-**Q897.** In the equation E = hf, which quantities describe a particle property and a wave property of light respectively?
+**Q1156.** In the equation E = hf, which quantities describe a particle property and a wave property of light respectively?
 <!-- id: physics-7-4-14 -->
 
 - A. E (photon energy) and f (frequency)
@@ -6504,7 +8327,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. h and E
 - D. h and f
 
-**Q898.** In a double-slit experiment, the distance from the slits to the screen is doubled. The fringe spacing:
+**Q1157.** In a double-slit experiment, the distance from the slits to the screen is doubled. The fringe spacing:
 <!-- id: physics-7-4-15 -->
 
 - A. halves
@@ -6512,12 +8335,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. quadruples
 - D. is unchanged
 
-**Q899.** Explain why the results of Young's double-slit experiment could not be explained by Newton's particle model of light.
+**Q1158.** Explain why the results of Young's double-slit experiment could not be explained by Newton's particle model of light.
 <!-- id: physics-7-4-16 -->
 
 *Written answer*
 
-**Q900.** Red laser light is replaced with blue laser light in a double-slit experiment, with everything else unchanged. The fringes:
+**Q1159.** Red laser light is replaced with blue laser light in a double-slit experiment, with everything else unchanged. The fringes:
 <!-- id: physics-7-4-17 -->
 
 - A. move further apart
@@ -6525,7 +8348,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. move closer together
 - D. change only in brightness
 
-**Q901.** Which observation from Young's double-slit experiment cannot be explained by a simple particle model of light?
+**Q1160.** Which observation from Young's double-slit experiment cannot be explained by a simple particle model of light?
 <!-- id: physics-7-4-18 -->
 
 - A. Light travels in straight lines to the slits
@@ -6533,7 +8356,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Light carries energy to the screen
 - D. Dark bands appear where light from both slits arrives
 
-**Q902.** Using the wave model of light, which result would be predicted for the photoelectric effect?
+**Q1161.** Using the wave model of light, which result would be predicted for the photoelectric effect?
 <!-- id: physics-7-4-19 -->
 
 - A. Light of any frequency should eventually eject electrons if it is intense enough.
@@ -6541,12 +8364,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Electrons should be emitted instantly even in dim light.
 - D. Maximum kinetic energy should depend only on frequency.
 
-**Q903.** Using the photon model, explain why a more intense beam of light of the same colour delivers more energy each second.
+**Q1162.** Using the photon model, explain why a more intense beam of light of the same colour delivers more energy each second.
 <!-- id: physics-7-4-20 -->
 
 *Written answer*
 
-**Q904.** What is the momentum of a photon with energy 2.0 eV? (e = 1.60 × 10^-19 C, c = 3.00 × 10^8 m s^-1)
+**Q1163.** What is the momentum of a photon with energy 2.0 eV? (e = 1.60 × 10^-19 C, c = 3.00 × 10^8 m s^-1)
 <!-- id: physics-7-4-21 -->
 
 - A. 6.7 × 10^-9 kg m s^-1
@@ -6554,7 +8377,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 3.2 × 10^-19 kg m s^-1
 - D. 9.6 × 10^-11 kg m s^-1
 
-**Q905.** A double-slit pattern has a fringe spacing of 3.0 mm with slits 0.40 mm apart and a screen 2.0 m away. What is the wavelength of the light?
+**Q1164.** A double-slit pattern has a fringe spacing of 3.0 mm with slits 0.40 mm apart and a screen 2.0 m away. What is the wavelength of the light?
 <!-- id: physics-7-4-22 -->
 
 - A. 150 nm
@@ -6562,7 +8385,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 600 nm
 - D. 267 nm
 
-**Q906.** Electrons fired one at a time through a double slit produce an interference pattern on a detector. This shows that:
+**Q1165.** Electrons fired one at a time through a double slit produce an interference pattern on a detector. This shows that:
 <!-- id: physics-7-4-23 -->
 
 - A. electrons are actually photons
@@ -6570,12 +8393,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. the slits emit their own light
 - D. matter, as well as light, displays wave-particle duality
 
-**Q907.** At a point P on a screen, the path difference from two slits is 1.2 μm. The light has a wavelength of 480 nm. Is P on a bright or dark band? Justify your answer.
+**Q1166.** At a point P on a screen, the path difference from two slits is 1.2 μm. The light has a wavelength of 480 nm. Is P on a bright or dark band? Justify your answer.
 <!-- id: physics-7-4-24 -->
 
 *Written answer*
 
-**Q908.** Explain how electron diffraction and the photoelectric effect together show that wave-particle duality applies to both light and matter.
+**Q1167.** Explain how electron diffraction and the photoelectric effect together show that wave-particle duality applies to both light and matter.
 <!-- id: physics-7-4-25 -->
 
 *Written answer*
@@ -6584,7 +8407,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 #### Experimental design and variables
 
-**Q909.** A student investigates how the length of a pendulum affects its period. What is the independent variable?
+**Q1168.** A student investigates how the length of a pendulum affects its period. What is the independent variable?
 <!-- id: physics-8-1-1 -->
 
 - A. The length of the pendulum
@@ -6592,7 +8415,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. The mass of the pendulum bob
 - D. The amplitude of the swing
 
-**Q910.** In an investigation of how the length of a pendulum affects its period, what is the dependent variable?
+**Q1169.** In an investigation of how the length of a pendulum affects its period, what is the dependent variable?
 <!-- id: physics-8-1-2 -->
 
 - A. The length of the string
@@ -6600,7 +8423,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. The number of swings timed
 - D. The gravitational field strength
 
-**Q911.** A student investigates how the voltage across a resistor affects the current through it. Which is a controlled variable?
+**Q1170.** A student investigates how the voltage across a resistor affects the current through it. Which is a controlled variable?
 <!-- id: physics-8-1-3 -->
 
 - A. The current through the resistor
@@ -6608,7 +8431,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. The temperature of the resistor
 - D. The ammeter reading
 
-**Q912.** Why must controlled variables be kept constant during an experiment?
+**Q1171.** Why must controlled variables be kept constant during an experiment?
 <!-- id: physics-8-1-4 -->
 
 - A. To increase the resolution of the measuring instruments
@@ -6616,7 +8439,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. To guarantee that the hypothesis is supported
 - D. So that any change in the dependent variable can be attributed to the independent variable
 
-**Q913.** Which is the best hypothesis for an investigation of how drop height affects the bounce height of a tennis ball?
+**Q1172.** Which is the best hypothesis for an investigation of how drop height affects the bounce height of a tennis ball?
 <!-- id: physics-8-1-5 -->
 
 - A. If the drop height increases, then the bounce height will increase proportionally, because a constant fraction of the ball's energy is lost in each bounce
@@ -6624,7 +8447,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Bounce height depends on many different factors
 - D. Drop height is the independent variable and bounce height is the dependent variable
 
-**Q914.** In VCE Physics, what does the term 'validity' of an investigation refer to?
+**Q1173.** In VCE Physics, what does the term 'validity' of an investigation refer to?
 <!-- id: physics-8-1-6 -->
 
 - A. The closeness of agreement between repeated measurements
@@ -6632,7 +8455,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. The closeness of a measurement to the true value
 - D. The smallest change in a quantity that an instrument can detect
 
-**Q915.** Which statement best describes 'repeatability'?
+**Q1174.** Which statement best describes 'repeatability'?
 <!-- id: physics-8-1-7 -->
 
 - A. The closeness of agreement between results obtained by different people using different equipment
@@ -6640,7 +8463,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. The closeness of agreement between successive measurements made by the same person, with the same method and equipment, under the same conditions
 - D. The number of significant figures given by an instrument
 
-**Q916.** A Year 12 class in Ballarat obtains a value for g that closely agrees with a value obtained by a class in Geelong using different equipment. This agreement demonstrates good:
+**Q1175.** A Year 12 class in Ballarat obtains a value for g that closely agrees with a value obtained by a class in Geelong using different equipment. This agreement demonstrates good:
 <!-- id: physics-8-1-8 -->
 
 - A. repeatability
@@ -6648,7 +8471,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. validity of the controlled variables
 - D. reproducibility
 
-**Q917.** A student investigates how the mass of a stack of paper coffee filters affects their terminal velocity. Which action best improves the validity of the investigation?
+**Q1176.** A student investigates how the mass of a stack of paper coffee filters affects their terminal velocity. Which action best improves the validity of the investigation?
 <!-- id: physics-8-1-9 -->
 
 - A. Dropping every stack from the same height in the same draught-free room
@@ -6656,7 +8479,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Recording times to more decimal places than the stopwatch displays
 - D. Changing both the number of filters and their shape between trials
 
-**Q918.** Between trials, a student changes both the length of a pendulum and the mass of its bob. What is the main problem with this design?
+**Q1177.** Between trials, a student changes both the length of a pendulum and the mass of its bob. What is the main problem with this design?
 <!-- id: physics-8-1-10 -->
 
 - A. The period cannot be measured if the mass changes
@@ -6664,7 +8487,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Changing the mass always introduces a systematic error
 - D. The experiment will become more precise but less accurate
 
-**Q919.** Which is the most appropriate risk control when using a laser to investigate double-slit interference?
+**Q1178.** Which is the most appropriate risk control when using a laser to investigate double-slit interference?
 <!-- id: physics-8-1-11 -->
 
 - A. Wear ordinary sunglasses so the beam can be viewed directly
@@ -6672,7 +8495,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Use a low-power (Class 2) laser and never look directly into the beam or its reflections
 - D. Use the most powerful laser available to make the fringes clearer
 
-**Q920.** Which of the following is a qualitative observation?
+**Q1179.** Which of the following is a qualitative observation?
 <!-- id: physics-8-1-12 -->
 
 - A. The current was 2.4 A
@@ -6680,7 +8503,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. The wire was 45.0 cm long
 - D. The wire became noticeably warm to the touch
 
-**Q921.** A student measures the period of a pendulum for lengths of 0.40 m, 0.42 m and 0.44 m only. Which change would best improve the design?
+**Q1180.** A student measures the period of a pendulum for lengths of 0.40 m, 0.42 m and 0.44 m only. Which change would best improve the design?
 <!-- id: physics-8-1-13 -->
 
 - A. Use at least five lengths spread over a wider range, such as 0.20 m to 1.20 m
@@ -6688,7 +8511,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Use a heavier bob for each length
 - D. Measure the lengths to the nearest centimetre instead of the nearest millimetre
 
-**Q922.** Why do students usually time 10 complete oscillations of a pendulum rather than a single oscillation?
+**Q1181.** Why do students usually time 10 complete oscillations of a pendulum rather than a single oscillation?
 <!-- id: physics-8-1-14 -->
 
 - A. It removes any systematic error caused by a faulty stopwatch
@@ -6696,7 +8519,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. It improves the accuracy of the length measurement
 - D. It increases the period of the pendulum
 
-**Q923.** Which of the following is secondary data?
+**Q1182.** Which of the following is secondary data?
 <!-- id: physics-8-1-15 -->
 
 - A. Times recorded by the student using a stopwatch
@@ -6704,7 +8527,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Values of g at different latitudes taken from a published scientific database
 - D. Distances measured by the student with a metre rule
 
-**Q924.** A student investigates whether the strength of a magnet depends on its temperature, using a magnetic field sensor. Which variable is most important to control?
+**Q1183.** A student investigates whether the strength of a magnet depends on its temperature, using a magnetic field sensor. Which variable is most important to control?
 <!-- id: physics-8-1-16 -->
 
 - A. The temperature of the magnet
@@ -6712,7 +8535,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. The colour of the magnet
 - D. The distance between the magnet and the sensor
 
-**Q925.** The aim of an experiment is 'to determine how the angle of an incline affects the acceleration of a trolley'. What is the dependent variable?
+**Q1184.** The aim of an experiment is 'to determine how the angle of an incline affects the acceleration of a trolley'. What is the dependent variable?
 <!-- id: physics-8-1-17 -->
 
 - A. The acceleration of the trolley
@@ -6720,7 +8543,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. The mass of the trolley
 - D. The length of the incline
 
-**Q926.** A student wants to test whether the resistance of a nichrome wire is proportional to its length. Which design is most appropriate?
+**Q1185.** A student wants to test whether the resistance of a nichrome wire is proportional to its length. Which design is most appropriate?
 <!-- id: physics-8-1-18 -->
 
 - A. Measure the resistance of five wires made of different metals
@@ -6728,44 +8551,44 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Measure the resistance of one length of wire many times
 - D. Vary the current through one fixed length of wire
 
-**Q927.** A student drops a bar magnet through coils with different numbers of turns and records the peak induced EMF. Identify the independent variable, the dependent variable and two controlled variables.
+**Q1186.** A student drops a bar magnet through coils with different numbers of turns and records the peak induced EMF. Identify the independent variable, the dependent variable and two controlled variables.
 <!-- id: physics-8-1-19 -->
 
 *Written answer*
 
-**Q928.** Write a suitable hypothesis for an investigation into how the angle of an incline affects the acceleration of a trolley rolling down it.
+**Q1187.** Write a suitable hypothesis for an investigation into how the angle of an incline affects the acceleration of a trolley rolling down it.
 <!-- id: physics-8-1-20 -->
 
 *Written answer*
 
-**Q929.** Explain why a student should take repeated measurements in an investigation, and state one limitation of doing so.
+**Q1188.** Explain why a student should take repeated measurements in an investigation, and state one limitation of doing so.
 <!-- id: physics-8-1-21 -->
 
 *Written answer*
 
-**Q930.** Explain the difference between repeatability and reproducibility.
+**Q1189.** Explain the difference between repeatability and reproducibility.
 <!-- id: physics-8-1-22 -->
 
 *Written answer*
 
-**Q931.** A student estimates the speed of sound by clapping once in front of a wall 20 m away and timing the echo with a stopwatch. Suggest two improvements to the method.
+**Q1190.** A student estimates the speed of sound by clapping once in front of a wall 20 m away and timing the echo with a stopwatch. Suggest two improvements to the method.
 <!-- id: physics-8-1-23 -->
 
 *Written answer*
 
-**Q932.** Why should an investigation use at least five well-spread values of the independent variable?
+**Q1191.** Why should an investigation use at least five well-spread values of the independent variable?
 <!-- id: physics-8-1-24 -->
 
 *Written answer*
 
-**Q933.** Define a controlled variable and explain what happens to the conclusion if an important controlled variable is not kept constant.
+**Q1192.** Define a controlled variable and explain what happens to the conclusion if an important controlled variable is not kept constant.
 <!-- id: physics-8-1-25 -->
 
 *Written answer*
 
 #### Accuracy, precision and uncertainty
 
-**Q934.** In VCE Physics, what does 'accuracy' describe?
+**Q1193.** In VCE Physics, what does 'accuracy' describe?
 <!-- id: physics-8-2-1 -->
 
 - A. How close a measurement is to the true value
@@ -6773,7 +8596,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. The smallest division on the measuring scale
 - D. The number of significant figures recorded
 
-**Q935.** In VCE Physics, what does 'precision' describe?
+**Q1194.** In VCE Physics, what does 'precision' describe?
 <!-- id: physics-8-2-2 -->
 
 - A. How close a measurement is to the true value
@@ -6781,7 +8604,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. The size of the systematic error
 - D. The range of the independent variable
 
-**Q936.** A student obtains values for g of 9.52, 9.53, 9.51 and 9.52 m/s². The accepted value is 9.80 m/s². The results are best described as:
+**Q1195.** A student obtains values for g of 9.52, 9.53, 9.51 and 9.52 m/s². The accepted value is 9.80 m/s². The results are best described as:
 <!-- id: physics-8-2-3 -->
 
 - A. accurate but not precise
@@ -6789,7 +8612,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. precise but not accurate
 - D. neither accurate nor precise
 
-**Q937.** A student obtains values for g of 9.2, 10.4, 9.6 and 10.0 m/s². The accepted value is 9.80 m/s². The results are best described as:
+**Q1196.** A student obtains values for g of 9.2, 10.4, 9.6 and 10.0 m/s². The accepted value is 9.80 m/s². The results are best described as:
 <!-- id: physics-8-2-4 -->
 
 - A. precise but not accurate
@@ -6797,7 +8620,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. neither accurate nor precise
 - D. accurate but not precise
 
-**Q938.** What is the resolution of a metre rule marked in millimetres?
+**Q1197.** What is the resolution of a metre rule marked in millimetres?
 <!-- id: physics-8-2-5 -->
 
 - A. 1 mm
@@ -6805,7 +8628,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 0.1 mm
 - D. 1 cm
 
-**Q939.** Using the convention of half the smallest scale division, what is the uncertainty in a single reading from an analogue ruler graduated in millimetres?
+**Q1198.** Using the convention of half the smallest scale division, what is the uncertainty in a single reading from an analogue ruler graduated in millimetres?
 <!-- id: physics-8-2-6 -->
 
 - A. ±1 mm
@@ -6813,7 +8636,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. ±0.1 mm
 - D. ±0.05 mm
 
-**Q940.** A digital voltmeter reads 3.47 V. Using the convention that the uncertainty of a digital meter equals its resolution, the reading should be recorded as:
+**Q1199.** A digital voltmeter reads 3.47 V. Using the convention that the uncertainty of a digital meter equals its resolution, the reading should be recorded as:
 <!-- id: physics-8-2-7 -->
 
 - A. 3.47 ± 0.1 V
@@ -6821,7 +8644,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 3.47 ± 0.01 V
 - D. 3.47 ± 0.001 V
 
-**Q941.** A length is measured as 2.50 ± 0.05 m. What is the percentage uncertainty?
+**Q1200.** A length is measured as 2.50 ± 0.05 m. What is the percentage uncertainty?
 <!-- id: physics-8-2-8 -->
 
 - A. 5%
@@ -6829,7 +8652,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 20%
 - D. 2%
 
-**Q942.** A rectangle is measured as 4.0 ± 0.1 cm long and 2.0 ± 0.1 cm wide. What is its area with absolute uncertainty?
+**Q1201.** A rectangle is measured as 4.0 ± 0.1 cm long and 2.0 ± 0.1 cm wide. What is its area with absolute uncertainty?
 <!-- id: physics-8-2-9 -->
 
 - A. 8.0 ± 0.6 cm²
@@ -6837,7 +8660,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 8.0 ± 0.3 cm²
 - D. 8.0 ± 0.01 cm²
 
-**Q943.** Two lengths, 12.0 ± 0.2 cm and 8.0 ± 0.1 cm, are added. What is the total length?
+**Q1202.** Two lengths, 12.0 ± 0.2 cm and 8.0 ± 0.1 cm, are added. What is the total length?
 <!-- id: physics-8-2-10 -->
 
 - A. 20.0 ± 0.1 cm
@@ -6845,7 +8668,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 20.0 ± 0.2 cm
 - D. 20.0 ± 0.02 cm
 
-**Q944.** Water starts at 20.0 ± 0.5 °C and is heated to 35.0 ± 0.5 °C. What is the temperature change?
+**Q1203.** Water starts at 20.0 ± 0.5 °C and is heated to 35.0 ± 0.5 °C. What is the temperature change?
 <!-- id: physics-8-2-11 -->
 
 - A. 15.0 ± 0.5 °C
@@ -6853,7 +8676,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 15.0 ± 1.0 °C
 - D. 15.0 ± 0.25 °C
 
-**Q945.** A speed is measured as 3.0 ± 0.1 m/s. What is the percentage uncertainty in v²?
+**Q1204.** A speed is measured as 3.0 ± 0.1 m/s. What is the percentage uncertainty in v²?
 <!-- id: physics-8-2-12 -->
 
 - A. 3.3%
@@ -6861,7 +8684,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 0.67%
 - D. 6.7%
 
-**Q946.** A 2.00 ± 0.02 kg cart moves at 4.0 ± 0.2 m/s. What is its kinetic energy with percentage uncertainty?
+**Q1205.** A 2.00 ± 0.02 kg cart moves at 4.0 ± 0.2 m/s. What is its kinetic energy with percentage uncertainty?
 <!-- id: physics-8-2-13 -->
 
 - A. 16 J ± 11%
@@ -6869,7 +8692,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 16 J ± 10%
 - D. 32 J ± 11%
 
-**Q947.** The time for 10 oscillations of a pendulum is 15.6 ± 0.2 s. What is the period?
+**Q1206.** The time for 10 oscillations of a pendulum is 15.6 ± 0.2 s. What is the period?
 <!-- id: physics-8-2-14 -->
 
 - A. 1.56 ± 0.2 s
@@ -6877,7 +8700,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 1.56 ± 0.002 s
 - D. 15.6 ± 0.02 s
 
-**Q948.** A voltmeter reads 12.0 V and an ammeter reads 0.35 A. The resistance should be reported as:
+**Q1207.** A voltmeter reads 12.0 V and an ammeter reads 0.35 A. The resistance should be reported as:
 <!-- id: physics-8-2-15 -->
 
 - A. 34.3 Ω
@@ -6885,7 +8708,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 34 Ω
 - D. 30 Ω
 
-**Q949.** Which instrument choice would most reduce the uncertainty when measuring the diameter of a thin copper wire?
+**Q1208.** Which instrument choice would most reduce the uncertainty when measuring the diameter of a thin copper wire?
 <!-- id: physics-8-2-16 -->
 
 - A. A metre rule
@@ -6893,7 +8716,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. A tape measure
 - D. A micrometer screw gauge
 
-**Q950.** A runner covers 100.0 ± 0.5 m in 12.5 ± 0.1 s. What is the average speed with absolute uncertainty?
+**Q1209.** A runner covers 100.0 ± 0.5 m in 12.5 ± 0.1 s. What is the average speed with absolute uncertainty?
 <!-- id: physics-8-2-17 -->
 
 - A. 8.0 ± 0.1 m/s
@@ -6901,7 +8724,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 8.0 ± 0.5 m/s
 - D. 8.0 ± 0.01 m/s
 
-**Q951.** Which statement best describes the 'true value' of a quantity?
+**Q1210.** Which statement best describes the 'true value' of a quantity?
 <!-- id: physics-8-2-18 -->
 
 - A. The mean of the student's measurements
@@ -6909,44 +8732,44 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. The largest value recorded in a set of trials
 - D. The value displayed on the most expensive instrument
 
-**Q952.** Explain the difference between accuracy and precision, using an example.
+**Q1211.** Explain the difference between accuracy and precision, using an example.
 <!-- id: physics-8-2-19 -->
 
 *Written answer*
 
-**Q953.** A spring's extension is measured five times: 4.2, 4.5, 4.3, 4.4 and 4.6 cm. Find the mean extension and estimate its uncertainty using half the range.
+**Q1212.** A spring's extension is measured five times: 4.2, 4.5, 4.3, 4.4 and 4.6 cm. Find the mean extension and estimate its uncertainty using half the range.
 <!-- id: physics-8-2-20 -->
 
 *Written answer*
 
-**Q954.** A pendulum of length 0.800 ± 0.005 m has a period of 1.80 ± 0.02 s. Using g = 4π²L/T², find g and its absolute uncertainty.
+**Q1213.** A pendulum of length 0.800 ± 0.005 m has a period of 1.80 ± 0.02 s. Using g = 4π²L/T², find g and its absolute uncertainty.
 <!-- id: physics-8-2-21 -->
 
 *Written answer*
 
-**Q955.** A resistor has 6.0 ± 0.1 V across it and 0.50 ± 0.02 A through it. Find its resistance with absolute uncertainty.
+**Q1214.** A resistor has 6.0 ± 0.1 V across it and 0.50 ± 0.02 A through it. Find its resistance with absolute uncertainty.
 <!-- id: physics-8-2-22 -->
 
 *Written answer*
 
-**Q956.** A metal cube has sides of 2.00 ± 0.02 cm and a mass of 21.6 ± 0.1 g. Find its density with absolute uncertainty.
+**Q1215.** A metal cube has sides of 2.00 ± 0.02 cm and a mass of 21.6 ± 0.1 g. Find its density with absolute uncertainty.
 <!-- id: physics-8-2-23 -->
 
 *Written answer*
 
-**Q957.** Explain why recording a calculated result with too many significant figures is misleading.
+**Q1216.** Explain why recording a calculated result with too many significant figures is misleading.
 <!-- id: physics-8-2-24 -->
 
 *Written answer*
 
-**Q958.** A student's reaction time introduces an uncertainty of ±0.2 s in any stopwatch timing. Compare the percentage uncertainty in the period when timing one 1.5 s oscillation with timing 20 oscillations.
+**Q1217.** A student's reaction time introduces an uncertainty of ±0.2 s in any stopwatch timing. Compare the percentage uncertainty in the period when timing one 1.5 s oscillation with timing 20 oscillations.
 <!-- id: physics-8-2-25 -->
 
 *Written answer*
 
 #### Random and systematic errors
 
-**Q959.** Which statement best describes random error?
+**Q1218.** Which statement best describes random error?
 <!-- id: physics-8-3-1 -->
 
 - A. Unpredictable variations that scatter readings either side of the true value
@@ -6954,7 +8777,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. An error caused by misreading a scale once
 - D. An error that can be removed by calibrating the instrument
 
-**Q960.** Which statement best describes systematic error?
+**Q1219.** Which statement best describes systematic error?
 <!-- id: physics-8-3-2 -->
 
 - A. An error that scatters readings randomly above and below the true value
@@ -6962,7 +8785,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. An error that is removed by taking more readings
 - D. An error that only affects the precision of results
 
-**Q961.** An electronic balance reads 0.3 g with nothing on the pan. This is an example of:
+**Q1220.** An electronic balance reads 0.3 g with nothing on the pan. This is an example of:
 <!-- id: physics-8-3-3 -->
 
 - A. a random error
@@ -6970,7 +8793,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. a systematic (zero) error
 - D. a resolution limit
 
-**Q962.** A student's reaction time varies slightly each time they start and stop a stopwatch. This mainly introduces:
+**Q1221.** A student's reaction time varies slightly each time they start and stop a stopwatch. This mainly introduces:
 <!-- id: physics-8-3-4 -->
 
 - A. systematic error
@@ -6978,7 +8801,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. a calibration error
 - D. random error
 
-**Q963.** Averaging many repeated measurements reduces the effect of:
+**Q1222.** Averaging many repeated measurements reduces the effect of:
 <!-- id: physics-8-3-5 -->
 
 - A. random errors only
@@ -6986,7 +8809,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. both random and systematic errors equally
 - D. neither random nor systematic errors
 
-**Q964.** A student records a length of 25 cm when the scale actually read 2.5 cm. According to VCE Physics terminology, this is best described as:
+**Q1223.** A student records a length of 25 cm when the scale actually read 2.5 cm. According to VCE Physics terminology, this is best described as:
 <!-- id: physics-8-3-6 -->
 
 - A. a random error that is reduced by averaging
@@ -6994,7 +8817,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. a systematic error caused by the instrument
 - D. an uncertainty due to the instrument's resolution
 
-**Q965.** A student always reads a ruler from the same angle above the pointer, so every reading is shifted the same way. This is:
+**Q1224.** A student always reads a ruler from the same angle above the pointer, so every reading is shifted the same way. This is:
 <!-- id: physics-8-3-7 -->
 
 - A. a random error due to parallax
@@ -7002,7 +8825,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. a systematic error due to parallax
 - D. an outlier
 
-**Q966.** The first 2 mm of a metre rule has been worn away, and a student measures lengths starting from the worn end. What is the effect?
+**Q1225.** The first 2 mm of a metre rule has been worn away, and a student measures lengths starting from the worn end. What is the effect?
 <!-- id: physics-8-3-8 -->
 
 - A. Every reading is 2 mm too small, a systematic error
@@ -7010,7 +8833,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. There is no effect because the scale is still marked in millimetres
 - D. Every reading is 2 mm too large, a systematic error
 
-**Q967.** A graph of extension against force for a spring is expected to pass through the origin but has a non-zero intercept. This most likely indicates:
+**Q1226.** A graph of extension against force for a spring is expected to pass through the origin but has a non-zero intercept. This most likely indicates:
 <!-- id: physics-8-3-9 -->
 
 - A. a systematic error
@@ -7018,7 +8841,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. that the spring obeys Hooke's law exactly
 - D. that more data points are needed to reduce precision
 
-**Q968.** One measurement in a set of repeated trials is far from the others. What is the most appropriate response?
+**Q1227.** One measurement in a set of repeated trials is far from the others. What is the most appropriate response?
 <!-- id: physics-8-3-10 -->
 
 - A. Always include it so the data are not manipulated
@@ -7026,7 +8849,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Delete it without comment
 - D. Change it to match the mean of the other values
 
-**Q969.** Which action reduces systematic error?
+**Q1228.** Which action reduces systematic error?
 <!-- id: physics-8-3-11 -->
 
 - A. Taking more repeated readings
@@ -7034,7 +8857,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Calibrating the instrument against a known standard
 - D. Recording more decimal places
 
-**Q970.** In a free-fall experiment, air resistance on a light ball causes the measured g to be:
+**Q1229.** In a free-fall experiment, air resistance on a light ball causes the measured g to be:
 <!-- id: physics-8-3-12 -->
 
 - A. consistently higher than the true value, a systematic error
@@ -7042,7 +8865,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. unaffected because air resistance is negligible for all objects
 - D. consistently lower than the true value, a systematic error
 
-**Q971.** The reading on a voltmeter fluctuates slightly up and down because of electrical noise in the circuit. This is:
+**Q1230.** The reading on a voltmeter fluctuates slightly up and down because of electrical noise in the circuit. This is:
 <!-- id: physics-8-3-13 -->
 
 - A. random error
@@ -7050,7 +8873,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. a zero error
 - D. a mistake
 
-**Q972.** A stopwatch runs 2% fast, so every time it records is 2% too long. Which statement about the results is correct?
+**Q1231.** A stopwatch runs 2% fast, so every time it records is 2% too long. Which statement about the results is correct?
 <!-- id: physics-8-3-14 -->
 
 - A. The results will be imprecise but accurate
@@ -7058,7 +8881,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. The results will be both accurate and precise
 - D. Averaging more trials will remove the error
 
-**Q973.** Increasing the number of trials from 3 to 10 will most likely:
+**Q1232.** Increasing the number of trials from 3 to 10 will most likely:
 <!-- id: physics-8-3-15 -->
 
 - A. remove all systematic errors
@@ -7066,7 +8889,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. reduce the effect of random errors on the mean, but not change any systematic error
 - D. increase the resolution of the instrument
 
-**Q974.** A thermometer reads 1.5 °C too high at all temperatures. It is used to find the temperature change of water in a specific heat capacity experiment. What is the effect on the calculated temperature change?
+**Q1233.** A thermometer reads 1.5 °C too high at all temperatures. It is used to find the temperature change of water in a specific heat capacity experiment. What is the effect on the calculated temperature change?
 <!-- id: physics-8-3-16 -->
 
 - A. The temperature change will be 1.5 °C too high
@@ -7074,7 +8897,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. The temperature change will be 1.5 °C too low
 - D. No effect, because the offset cancels when the initial temperature is subtracted from the final
 
-**Q975.** A light gate calculates speed as card length ÷ time. The card length is entered as 5.0 cm when it is actually 4.0 cm. What is the effect on the calculated speeds?
+**Q1234.** A light gate calculates speed as card length ÷ time. The card length is entered as 5.0 cm when it is actually 4.0 cm. What is the effect on the calculated speeds?
 <!-- id: physics-8-3-17 -->
 
 - A. All speeds are 25% too high, a systematic error
@@ -7082,7 +8905,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Speeds are randomly too high or too low
 - D. There is no effect because time is measured accurately
 
-**Q976.** Which pairing is correct?
+**Q1235.** Which pairing is correct?
 <!-- id: physics-8-3-18 -->
 
 - A. Random errors mainly affect accuracy; systematic errors mainly affect precision
@@ -7090,44 +8913,44 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Both mainly affect resolution
 - D. Neither affects accuracy
 
-**Q977.** Distinguish between random and systematic errors, giving an example of each.
+**Q1236.** Distinguish between random and systematic errors, giving an example of each.
 <!-- id: physics-8-3-19 -->
 
 *Written answer*
 
-**Q978.** A student measures g with a pendulum as 9.42 ± 0.05 m/s². The accepted value is 9.80 m/s². Comment on the result.
+**Q1237.** A student measures g with a pendulum as 9.42 ± 0.05 m/s². The accepted value is 9.80 m/s². Comment on the result.
 <!-- id: physics-8-3-20 -->
 
 *Written answer*
 
-**Q979.** Explain why repeating measurements and averaging does not reduce systematic error.
+**Q1238.** Explain why repeating measurements and averaging does not reduce systematic error.
 <!-- id: physics-8-3-21 -->
 
 *Written answer*
 
-**Q980.** A micrometer reads +0.03 mm when its jaws are fully closed. It then reads 1.27 mm when measuring a wire. What is the true diameter of the wire?
+**Q1239.** A micrometer reads +0.03 mm when its jaws are fully closed. It then reads 1.27 mm when measuring a wire. What is the true diameter of the wire?
 <!-- id: physics-8-3-22 -->
 
 *Written answer*
 
-**Q981.** Five timings of a trolley down a ramp are 2.31, 2.28, 2.35, 3.10 and 2.30 s. Identify the outlier and find the mean of the remaining values.
+**Q1240.** Five timings of a trolley down a ramp are 2.31, 2.28, 2.35, 3.10 and 2.30 s. Identify the outlier and find the mean of the remaining values.
 <!-- id: physics-8-3-23 -->
 
 *Written answer*
 
-**Q982.** Why is 'human error' not an acceptable explanation for discrepancies in a VCE Physics practical report?
+**Q1241.** Why is 'human error' not an acceptable explanation for discrepancies in a VCE Physics practical report?
 <!-- id: physics-8-3-24 -->
 
 *Written answer*
 
-**Q983.** A student predicts a trolley's acceleration down a ramp using a = g sin θ but ignores friction. Identify the type of error and how the measured acceleration compares with the prediction.
+**Q1242.** A student predicts a trolley's acceleration down a ramp using a = g sin θ but ignores friction. Identify the type of error and how the measured acceleration compares with the prediction.
 <!-- id: physics-8-3-25 -->
 
 *Written answer*
 
 #### Graphing and linearisation
 
-**Q984.** When graphing experimental data, which variable is conventionally plotted on the horizontal (x) axis?
+**Q1243.** When graphing experimental data, which variable is conventionally plotted on the horizontal (x) axis?
 <!-- id: physics-8-4-1 -->
 
 - A. The independent variable
@@ -7135,7 +8958,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. The controlled variable
 - D. The variable with the larger uncertainty
 
-**Q985.** The period of a pendulum is given by T = 2π√(L/g). Which graph will give a straight line through the origin?
+**Q1244.** The period of a pendulum is given by T = 2π√(L/g). Which graph will give a straight line through the origin?
 <!-- id: physics-8-4-2 -->
 
 - A. T against L
@@ -7143,7 +8966,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. T against L²
 - D. √T against L
 
-**Q986.** A graph of T² against L for a pendulum has a gradient of 4.0 s²/m. What is the value of g?
+**Q1245.** A graph of T² against L for a pendulum has a gradient of 4.0 s²/m. What is the value of g?
 <!-- id: physics-8-4-3 -->
 
 - A. 2.5 m/s²
@@ -7151,7 +8974,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 9.9 m/s²
 - D. 39 m/s²
 
-**Q987.** The intensity I of light from a point source is thought to follow I = k/r². Which graph should be plotted to test this?
+**Q1246.** The intensity I of light from a point source is thought to follow I = k/r². Which graph should be plotted to test this?
 <!-- id: physics-8-4-4 -->
 
 - A. I against r²
@@ -7159,7 +8982,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. I against 1/r
 - D. I against 1/r²
 
-**Q988.** For an object in uniform circular motion with fixed mass and radius, F = mv²/r. Which graph gives a straight line, and what is its gradient?
+**Q1247.** For an object in uniform circular motion with fixed mass and radius, F = mv²/r. Which graph gives a straight line, and what is its gradient?
 <!-- id: physics-8-4-5 -->
 
 - A. F against v², gradient m/r
@@ -7167,7 +8990,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. F against v², gradient r/m
 - D. F against 1/v², gradient mr
 
-**Q989.** A graph of current (y-axis) against voltage (x-axis) for a resistor has a gradient of 0.040 A/V. What is the resistance?
+**Q1248.** A graph of current (y-axis) against voltage (x-axis) for a resistor has a gradient of 0.040 A/V. What is the resistance?
 <!-- id: physics-8-4-6 -->
 
 - A. 0.040 Ω
@@ -7175,7 +8998,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 4.0 Ω
 - D. 2.5 Ω
 
-**Q990.** Which best describes a line of best fit for linear data?
+**Q1249.** Which best describes a line of best fit for linear data?
 <!-- id: physics-8-4-7 -->
 
 - A. A line joining each data point to the next
@@ -7183,7 +9006,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. A straight line with points scattered roughly evenly on either side, not necessarily passing through every point or the origin
 - D. A line that must always pass through the origin
 
-**Q991.** Theory predicts that a graph should pass through the origin, but the line of best fit has a clear non-zero intercept. This most likely indicates:
+**Q1250.** Theory predicts that a graph should pass through the origin, but the line of best fit has a clear non-zero intercept. This most likely indicates:
 <!-- id: physics-8-4-8 -->
 
 - A. only random errors in the measurements
@@ -7191,7 +9014,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. that the gradient is zero
 - D. a systematic error in the measurements
 
-**Q992.** For the photoelectric effect, a graph of maximum kinetic energy of photoelectrons against frequency of light is a straight line. What does the x-intercept represent?
+**Q1251.** For the photoelectric effect, a graph of maximum kinetic energy of photoelectrons against frequency of light is a straight line. What does the x-intercept represent?
 <!-- id: physics-8-4-9 -->
 
 - A. The threshold frequency
@@ -7199,7 +9022,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. The work function
 - D. The stopping voltage
 
-**Q993.** A trolley accelerates uniformly from rest. A graph of displacement s against t² has a gradient of 1.5 m/s². What is the acceleration?
+**Q1252.** A trolley accelerates uniformly from rest. A graph of displacement s against t² has a gradient of 1.5 m/s². What is the acceleration?
 <!-- id: physics-8-4-10 -->
 
 - A. 1.5 m/s²
@@ -7207,7 +9030,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 0.75 m/s²
 - D. 2.25 m/s²
 
-**Q994.** According to de Broglie, λ = h/p. Which graph gives a straight line with gradient equal to Planck's constant?
+**Q1253.** According to de Broglie, λ = h/p. Which graph gives a straight line with gradient equal to Planck's constant?
 <!-- id: physics-8-4-11 -->
 
 - A. λ against p
@@ -7215,7 +9038,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. λ against 1/p
 - D. λ against p²
 
-**Q995.** What does the area under a force–extension graph for a spring represent?
+**Q1254.** What does the area under a force–extension graph for a spring represent?
 <!-- id: physics-8-4-12 -->
 
 - A. The spring constant
@@ -7223,7 +9046,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. The power delivered to the spring
 - D. The elastic potential energy stored in the spring
 
-**Q996.** What is the purpose of error bars on a graph?
+**Q1255.** What is the purpose of error bars on a graph?
 <!-- id: physics-8-4-13 -->
 
 - A. To show the uncertainty in each plotted value
@@ -7231,7 +9054,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. To show which points are outliers
 - D. To show the gradient of the line
 
-**Q997.** Students draw the steepest and least steep lines that still pass through all the error bars on a graph. What is this used for?
+**Q1256.** Students draw the steepest and least steep lines that still pass through all the error bars on a graph. What is this used for?
 <!-- id: physics-8-4-14 -->
 
 - A. Finding the mean of the data
@@ -7239,7 +9062,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Removing systematic errors
 - D. Identifying the independent variable
 
-**Q998.** A line of best fit passes through the points (0.10, 0.45) and (0.50, 2.05). What is its gradient?
+**Q1257.** A line of best fit passes through the points (0.10, 0.45) and (0.50, 2.05). What is its gradient?
 <!-- id: physics-8-4-15 -->
 
 - A. 4.5
@@ -7247,7 +9070,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 4.0
 - D. 0.25
 
-**Q999.** For satellites orbiting the same planet, T² = (4π²/GM)r³. Which graph is linear?
+**Q1258.** For satellites orbiting the same planet, T² = (4π²/GM)r³. Which graph is linear?
 <!-- id: physics-8-4-16 -->
 
 - A. T against r³
@@ -7255,7 +9078,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. T against r
 - D. T² against r³
 
-**Q1000.** A graph of T² against r³ for moons of a planet has a gradient of 9.9 × 10⁻¹⁴ s²/m³. Given G = 6.67 × 10⁻¹¹ N m² kg⁻², what is the mass of the planet?
+**Q1259.** A graph of T² against r³ for moons of a planet has a gradient of 9.9 × 10⁻¹⁴ s²/m³. Given G = 6.67 × 10⁻¹¹ N m² kg⁻², what is the mass of the planet?
 <!-- id: physics-8-4-17 -->
 
 - A. 6.0 × 10²⁴ kg
@@ -7263,7 +9086,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 9.5 × 10²³ kg
 - D. 5.9 × 10⁻² kg
 
-**Q1001.** What does the area under an acceleration–time graph represent?
+**Q1260.** What does the area under an acceleration–time graph represent?
 <!-- id: physics-8-4-18 -->
 
 - A. The displacement
@@ -7271,37 +9094,37 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. The change in acceleration
 - D. The net force
 
-**Q1002.** The period of a mass on a spring is T = 2π√(m/k). Describe how to linearise this relationship to find k from a graph.
+**Q1261.** The period of a mass on a spring is T = 2π√(m/k). Describe how to linearise this relationship to find k from a graph.
 <!-- id: physics-8-4-19 -->
 
 *Written answer*
 
-**Q1003.** A graph of T² against mass m for a mass–spring system has a gradient of 0.20 s²/kg. Calculate the spring constant k.
+**Q1262.** A graph of T² against mass m for a mass–spring system has a gradient of 0.20 s²/kg. Calculate the spring constant k.
 <!-- id: physics-8-4-20 -->
 
 *Written answer*
 
-**Q1004.** A student suspects that sound intensity I from a speaker on a sports oval is inversely proportional to the square of the distance r. Describe how a graph could test this.
+**Q1263.** A student suspects that sound intensity I from a speaker on a sports oval is inversely proportional to the square of the distance r. Describe how a graph could test this.
 <!-- id: physics-8-4-21 -->
 
 *Written answer*
 
-**Q1005.** From a graph, the steepest line through the error bars has a gradient of 5.2 and the least steep line has a gradient of 4.6. State the gradient with its uncertainty.
+**Q1264.** From a graph, the steepest line through the error bars has a gradient of 5.2 and the least steep line has a gradient of 4.6. State the gradient with its uncertainty.
 <!-- id: physics-8-4-22 -->
 
 *Written answer*
 
-**Q1006.** A graph of maximum kinetic energy of photoelectrons against frequency has an x-intercept of 5.5 × 10¹⁴ Hz. Calculate the work function of the metal in eV (h = 4.14 × 10⁻¹⁵ eV s).
+**Q1265.** A graph of maximum kinetic energy of photoelectrons against frequency has an x-intercept of 5.5 × 10¹⁴ Hz. Calculate the work function of the metal in eV (h = 4.14 × 10⁻¹⁵ eV s).
 <!-- id: physics-8-4-23 -->
 
 *Written answer*
 
-**Q1007.** Why do physicists linearise data so that it produces a straight-line graph?
+**Q1266.** Why do physicists linearise data so that it produces a straight-line graph?
 <!-- id: physics-8-4-24 -->
 
 *Written answer*
 
-**Q1008.** A ball rolls from rest down a ramp. A graph of distance d against t² has a gradient of 0.60 m/s². Find the ball's acceleration.
+**Q1267.** A ball rolls from rest down a ramp. A graph of distance d against t² has a gradient of 0.60 m/s². Find the ball's acceleration.
 <!-- id: physics-8-4-25 -->
 
 *Written answer*
