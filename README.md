@@ -12,6 +12,14 @@ Topic-by-topic practice quizzes for:
 
 Each subject is split into topics and subtopics. You can quiz one subtopic at a time or use **Build a quiz** to mix several. Progress is stored only in your browser (`localStorage`). Nothing is sent to a server.
 
+## Question files
+
+`questions/` holds every question as Markdown, one folder per subject (`questions.md` + `answers.md`). It is generated from the `DATA` block in `index.html`, so after editing questions there, regenerate and check it:
+
+```bash
+python3 scripts/build_questions.py && python3 scripts/verify.py
+```
+
 ## Running it
 
 No build step and no dependencies. Open `index.html` in a browser, or serve the folder:
