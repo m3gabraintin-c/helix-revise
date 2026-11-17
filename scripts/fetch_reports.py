@@ -1,7 +1,7 @@
 # Download every report cited in difficulty/evidence/*.json into difficulty/reports/<pack>/ so the verifier can read it
 # locally. Tries the live VCAA URL, then the Internet Archive raw copy. .docx reports also get a .txt copy (tables kept
 # as "a | b | c" rows) because agents cannot open .docx. Run: python3 scripts/fetch_reports.py
-import glob, json, os, sys, re, subprocess, zipfile
+import base64, glob, hashlib, json, os, sys, re, subprocess, zipfile
 from xml.etree import ElementTree as ET
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -12,11 +12,16 @@ def get(u):
     r = subprocess.run(CURL + ["--max-time", "120", u], capture_output=True)
     return r.stdout if r.returncode == 0 and r.stdout[:4] in (b"%PDF", b"PK\x03\x04") else None  # maintenance pages are HTML
 
-def snapshot(u):
-    # CDX lists captures; keep real 200 documents (later captures can be the maintenance page) and take the newest
-    q = "https://web.archive.org/cdx/search/cdx?url=%s&filter=statuscode:200&filter=!mimetype:text/html&output=json" % u.split("://", 1)[1]
-    rows = json.loads(subprocess.run(CURL + ["--max-time", "60", q], capture_output=True).stdout or b"[]")[1:]
-    return "https://web.archive.org/web/%sid_/%s" % (rows[-1][1], rows[-1][2]) if rows else None
+def captures(u):
+    # CDX lists captures; keep real 200 documents (later captures can be the maintenance page), oldest first
+    q = "https://web.archive.org/cdx/search/cdx?url=%s&filter=statuscode:200&filter=!mimetype:text/html&output=json&fl=timestamp,original,digest" % u.split("://", 1)[1]
+    return json.loads(subprocess.run(CURL + ["--max-time", "60", q], capture_output=True).stdout or b"[]")[1:]
+
+def snapshot(u, rows=None):
+    rows = captures(u) if rows is None else rows
+    return "https://web.archive.org/web/%sid_/%s" % (rows[-1][0], rows[-1][1]) if rows else None
+
+def sha1_b32(b): return base64.b32encode(hashlib.sha1(b).digest()).decode()
 
 W = "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}"
 def docx_text(path):
@@ -41,11 +46,22 @@ for f in sorted(glob.glob(os.path.join(ROOT, "difficulty", "evidence", "%s.json"
     for url in sorted({e["url"] for e in pack["entries"]}):
         rel = "difficulty/reports/%s/%s" % (pack["subject"], url.rstrip("/").split("/")[-1])
         path = os.path.join(ROOT, rel)
-        src = old.get(url, {}).get("fetched_from") or "unrecorded" if os.path.exists(path) else None
-        if not src:
-            for cand in filter(None, [url, snapshot(url)]):
-                b = get(cand)
-                if b: open(path, "wb").write(b); src = cand; break
+        src = old.get(url, {}).get("fetched_from")
+        if src is None or src.startswith("unrecorded"):
+            # A file saved by an agent has no recorded source: match its SHA-1 against the archive's capture digests,
+            # so provenance is exact and the numbers already verified against it stay valid. Never overwrite it.
+            have = open(path, "rb").read() if os.path.exists(path) else None
+            rows = captures(url)
+            src = None
+            if have is not None:
+                hit = [r for r in rows if r[2] == sha1_b32(have)]
+                if hit: src = "https://web.archive.org/web/%sid_/%s" % (hit[0][0], hit[0][1])
+                elif get(url) == have: src = url
+                else: src = "unrecorded (matches no archived capture)"; print("WARN", rel, src)
+            else:
+                for cand in filter(None, [url, snapshot(url, rows)]):
+                    b = get(cand)
+                    if b: open(path, "wb").write(b); src = cand; break
         if src and path.endswith(".docx"):
             open(path[:-5] + ".txt", "w", encoding="utf-8").write(docx_text(path))
             rel = rel[:-5] + ".txt"

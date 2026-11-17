@@ -5,26 +5,30 @@ Every quiz question gets 1–5 stars and an estimated percentage of students who
 ## Pipeline
 
 ```bash
-python3 scripts/difficulty_batches.py      # DATA -> difficulty/batches/<course>/NNN.json + manifest.json (60 questions per batch)
-# run difficulty/rate.workflow.js with args {root, batches: <entries from manifest.json>}
-#   (its verifier step itself runs: python3 scripts/fetch_reports.py <subject> && python3 scripts/verify_evidence.py <subject>)
-python3 scripts/build_difficulty.py        # ratings -> checks -> `const DIFF = {...};` line in index.html
+python3 scripts/difficulty_batches.py --remaining   # unrated questions only -> difficulty/batches/<course>/r2-NNN.json + manifest-remaining.json
+# run difficulty/rate.workflow.js with args {root, packs: [[pack, needsResearch]], courses: [[course, pack|null, batchCount]], qaOnly?}
+python3 scripts/build_difficulty.py                  # ratings -> checks -> `const DIFF = {...};` line in index.html
 ```
 
-Run `build_difficulty.py` again after any re-rating. Questions without a rating show no chip.
+Run `build_difficulty.py` again after any re-rating. Questions without a rating show no chip. `--remaining` never re-batches a question that is already rated. Every step writes its result to disk, so a stopped run resumes by running these commands again.
 
 ## Who does what
 
-| Step | Model | Job | Output |
+Orchestrators plan and review; Haiku workers do all per-batch and per-chunk work. Workers read their input from files, write their output to files, and return only counts, so orchestrator context stays small.
+
+| Step | Who | Job | Output |
 |---|---|---|---|
-| Orchestrate | Opus (main session + `rate.workflow.js`) | Splits questions into batches, maps each course to its evidence pack, fans out agents, merges judges' results in code | — |
-| Research | Sonnet | Reads VCAA examination reports for one subject and records each question's printed statistic (MCQ % correct, written mean mark), its skill, the examiners' common errors, and the source URL. Computes base rates per course and per area of study. | `evidence/<subject>.json` |
-| Fetch reports | code (`fetch_reports.py`) | Downloads every cited report from the live VCAA site or, failing that, the newest real Internet Archive copy (CDX lookup). `.docx` reports also get a `.txt` copy. Records where each file came from. | `reports/<subject>/` + `index.json` |
-| Verify evidence | code (`verify_evidence.py`), then Haiku | Code checks each MCQ % in the `.docx` tables against the pack exactly. Haiku reads the local copies (PDF pages) for the rest. Each entry gets `verified`, `verified_by` and `checked_via`. Unverified entries are ignored by the judges and by the build. | same file |
-| Judge ×2 | Haiku and Sonnet, independently | Estimate `p` and confidence for every question in a batch and cite the evidence entries used | in memory |
-| Reconcile | Opus | Called only for questions where judges disagree (star gap ≥2, or `p` differs by more than 12 points, or a judge skipped it). Checks whose evidence holds up and decides. | in memory |
-| Merge | code | Agreeing judges: mean `p`, the weaker confidence, union of evidence | `ratings/<course>/NNN.json` |
-| Enforce | `build_difficulty.py` | Turns `p` into stars, downgrades to `low` any rating whose cited evidence is missing, unverified or has no number, caps confidence by course, and embeds the result | `index.html` |
+| Orchestrate | Opus (main session + `rate.workflow.js`) | Splits work into batches and evidence chunks, dispatches workers, re-dispatches failures, reports status | — |
+| Research | Haiku | Builds an evidence pack from VCAA examination reports (live, or Internet Archive copies of the VCAA URL): each question's printed statistic, skill and common error in its own words, and the source URL | `evidence/<pack>.json` |
+| Fetch and list | code (`fetch_reports.py`, `verify_evidence.py`, `evidence_tasks.py`) | Caches each cited report with its exact source (matched by archive digest), code-checks MCQ % in `.docx` tables, and lists what is still open: unverified entries per report, wording copied from a report (8-word overlap), placeholder skills, unclassified areas | `reports/<pack>/`, task list |
+| Evidence chunks | Haiku | Verify up to 40 entries against one cached report, reword copied text, or fix skills and areas. Each writes a patch file only | `work/evidence/<pack>/*.json` |
+| Apply | code (`apply_evidence_patches.py`) | Applies whitelisted patch fields (never numbers or URLs), records where each entry was checked, recomputes base rates from verified entries | `evidence/<pack>.json` |
+| Evidence review | Sonnet | Accepts the pack or returns issues; one Haiku fixer patches them, then one more review | — |
+| Judge ×2 | Haiku, independently | Estimate `p` and confidence for every question in a batch, citing verified evidence | `work/<course>/<batch>.a.json`, `.b.json` |
+| Merge | code (`merge_judges.py`) | Agreeing judges (star gap ≤1 and `p` within 12): mean `p`, weaker confidence, union of evidence. Missing items are re-judged; disagreements go to the tie-break. A tie-break older than a re-judge is ignored. | `ratings/<course>/<batch>.json` |
+| Tie-break | Haiku | Reads both judges' outputs for disputed questions and decides | `.tie.json` |
+| QA | Sonnet | Reviews rating files in groups of 6; flagged batches are re-judged once with the reason | — |
+| Enforce | `build_difficulty.py` | Turns `p` into stars, downgrades to `low` any rating whose cited evidence is not verified, VCAA-hosted and numeric, caps confidence by course, and embeds the result | `index.html` |
 
 The models never output stars. Stars come from `p` in code, so the bands are applied the same way everywhere.
 
@@ -73,7 +77,7 @@ The models never output stars. Stars come from `p` in code, so the bands are app
 ```json
 {"batch": "difficulty/batches/methods/000.json",
  "items": [{"id": "methods-1-1-1", "p": 82, "confidence": "high", "evidence": ["methods-2023-e2-A7"],
-            "basis": "one sentence", "judges": {"haiku": [80, "high"], "sonnet": [84, "high"]}, "resolved_by": "agree"}]}
+            "basis": "one sentence", "judges": {"a": [80, "high"], "b": [84, "high"]}, "resolved_by": "agree" | "tiebreak"}]}
 ```
 
 Embedded in `index.html` (compact): `const DIFF = {"methods-1-1-1": [2, 82, "h"], ...};` which holds stars, % and confidence `h|m|l`.
