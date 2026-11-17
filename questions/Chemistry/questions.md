@@ -13003,3 +13003,53 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 <!-- id: chem-8-4-25 -->
 
 *Written answer*
+
+### Exam-style questions (mixed topics)
+
+**Q1824.** Ethanol as a fuel
+<!-- id: chem-x1 -->
+*Multi-part question · 13 marks · Original question in the style of the VCE Chemistry exam, Section B*
+
+Bioethanol, C₂H₅OH, is made by fermenting glucose from plant material and can be burnt as a fuel. The molar heat of combustion of ethanol is 1360 kJ mol⁻¹. Use M(C₂H₅OH) = 46.0 g mol⁻¹.
+
+**a.** Write a balanced thermochemical equation, including states, for the complete combustion of ethanol. *(2 marks)*
+
+**b.** Calculate the energy released, in kJ, when 5.00 g of ethanol burns completely. *(2 marks)*
+
+A student burnt 1.20 g of ethanol in a spirit burner under a can holding 250 g of water. The temperature of the water rose from 20.0 °C to 41.5 °C. The specific heat capacity of water is 4.18 J g⁻¹ °C⁻¹.
+
+**c.** Calculate the student's experimental value for the molar heat of combustion of ethanol, in kJ mol⁻¹. *(3 marks)*
+
+**d.** Give one reason why the experimental value is lower than 1360 kJ mol⁻¹. *(1 mark)*
+
+Ethanol can be oxidised to ethanoic acid, CH₃COOH. Ethanoic acid then reacts with more ethanol, with a little concentrated sulfuric acid as a catalyst, to form an ester.
+
+**e.i.** Name a reagent that oxidises ethanol to ethanoic acid. *(1 mark)*
+
+**e.ii.** Give the IUPAC name of the ester formed, and name the type of reaction that forms it. *(2 marks)*
+
+**f.** Fermentation is represented by C₆H₁₂O₆(aq) → 2C₂H₅OH(aq) + 2CO₂(g). Calculate the percentage atom economy for making ethanol by fermentation. Use M(C₆H₁₂O₆) = 180.0 g mol⁻¹. *(2 marks)*
+
+**Q1825.** Green hydrogen: making it and using it
+<!-- id: chem-x2 -->
+*Multi-part question · 12 marks · Original question in the style of the VCE Chemistry exam, Section B*
+
+Green hydrogen is made by electrolysing water using electricity from renewable sources. In one electrolyser the electrolyte is acidic. Use F = 96 500 C mol⁻¹ and M(H₂) = 2.0 g mol⁻¹.
+
+**a.** Write the half-equation for the reaction at the cathode of the electrolyser. *(1 mark)*
+
+**b.** A current of 50.0 A passes through the electrolyser for 2.00 hours. Calculate the mass of hydrogen gas produced. *(3 marks)*
+
+The hydrogen is used in a fuel cell that also has an acidic electrolyte.
+
+**c.** Write the half-equation for the reaction at the anode of the fuel cell, and the overall equation for the cell. *(2 marks)*
+
+**d.** State one way in which a fuel cell differs from a primary galvanic cell such as an alkaline battery. *(1 mark)*
+
+Hydrogen is also used to make ammonia: N₂(g) + 3H₂(g) ⇌ 2NH₃(g), ΔH = −92 kJ mol⁻¹. At a fixed temperature, a 2.00 L vessel at equilibrium contains 0.400 mol N₂, 1.20 mol H₂ and 0.300 mol NH₃.
+
+**e.i.** Write the expression for the equilibrium constant, \(K\), for this reaction. *(1 mark)*
+
+**e.ii.** Calculate the value of \(K\) at this temperature. *(2 marks)*
+
+**f.** The temperature of the vessel is increased. Explain the effect on the equilibrium yield of ammonia. *(2 marks)*

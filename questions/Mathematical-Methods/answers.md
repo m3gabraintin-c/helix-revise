@@ -8880,3 +8880,59 @@ Topic: Normal distribution and standardisation (methods-8-2)
 Common mistake: Using \(n = 174\) in the standard error. Here \(n\) is the sample size, 200.
 
 Topic: Approximate confidence intervals for p (methods-8-4)
+
+**A1700.** A sine curve and a probability
+<!-- id: methods-x3 -->
+*Multi-part question · 10 marks*
+
+**a.** \(x = \frac{\pi}{12}\) or \(x = \frac{5\pi}{12}\) *(2 marks)*
+
+1. Let \(\theta = 2x\), so \(\theta \in [0, 2\pi]\) and \(\sin\theta = \frac{1}{2}\). Then \(\theta = \frac{\pi}{6}\) or \(\theta = \pi - \frac{\pi}{6} = \frac{5\pi}{6}\). *(1 mark)*
+2. Halve each solution: \(x = \frac{\pi}{12}\) or \(x = \frac{5\pi}{12}\). *(1 mark)*
+
+Common mistake: Forgetting to halve, or giving only the first-quadrant solution. Sine is also positive in the second quadrant, so \(\theta = \pi - \frac{\pi}{6}\) is a solution too.
+
+Topic: Exact values and general solutions (methods-2-4)
+
+**b.** \(1\) *(1 mark)*
+
+1. \(f'(x) = 2\cos(2x)\), so \(f'\left(\frac{\pi}{6}\right) = 2\cos\left(\frac{\pi}{3}\right) = 2 \times \frac{1}{2} = 1\). *(1 mark)*
+
+Common mistake: Writing \(f'(x) = \cos(2x)\). By the chain rule, the derivative of \(\sin(2x)\) is \(2\cos(2x)\).
+
+Topic: Exponential, logarithmic and circular derivatives (methods-4-3)
+
+**c.** 1 square unit *(2 marks)*
+
+1. \(f(x) \ge 0\) on \(\left[0, \frac{\pi}{2}\right]\), so the area is \(\displaystyle\int_0^{\pi/2} \sin(2x)\,dx = \left[-\frac{1}{2}\cos(2x)\right]_0^{\pi/2}\). *(1 mark)*
+2. \(= -\frac{1}{2}\cos(\pi) + \frac{1}{2}\cos(0) = \frac{1}{2} + \frac{1}{2} = 1\) square unit. *(1 mark)*
+
+Common mistake: Antidifferentiating \(\sin(2x)\) as \(-2\cos(2x)\). Divide by the 2 instead of multiplying: the antiderivative is \(-\frac{1}{2}\cos(2x)\).
+
+Topic: Area under and between curves (methods-6-3)
+
+**d.i.** The total area under a probability density function is 1. By part c, \(\int_0^{\pi/2} \sin(2x)\,dx = 1\), so \(k \times 1 = 1\) and \(k = 1\). *(1 mark)*
+
+1. \(\displaystyle\int_0^{\pi/2} k\sin(2x)\,dx = 1\). By part c the integral of \(\sin(2x)\) over this interval is 1, so \(k = 1\). *(1 mark)*
+
+Common mistake: Setting the maximum value of \(g\) equal to 1. That happens to give \(k = 1\) here as well, but the reason is that the area under \(g\) must be 1.
+
+Topic: Probability density functions (methods-8-1)
+
+**d.ii.** \(\frac{1}{4}\) *(2 marks)*
+
+1. \(\Pr\left(X < \frac{\pi}{6}\right) = \displaystyle\int_0^{\pi/6} \sin(2x)\,dx = \left[-\frac{1}{2}\cos(2x)\right]_0^{\pi/6}\). *(1 mark)*
+2. \(= -\frac{1}{2}\cos\left(\frac{\pi}{3}\right) + \frac{1}{2}\cos(0) = -\frac{1}{4} + \frac{1}{2} = \frac{1}{4}\). *(1 mark)*
+
+Common mistake: Evaluating \(\cos\) at \(\frac{\pi}{6}\) instead of at \(2 \times \frac{\pi}{6} = \frac{\pi}{3}\).
+
+Topic: Probability density functions (methods-8-1)
+
+**d.iii.** \(\frac{1}{2}\) *(2 marks)*
+
+1. \(\Pr\left(X < \frac{\pi}{4}\right) = \left[-\frac{1}{2}\cos(2x)\right]_0^{\pi/4} = -\frac{1}{2}\cos\left(\frac{\pi}{2}\right) + \frac{1}{2} = \frac{1}{2}\). *(1 mark)*
+2. The event \(X < \frac{\pi}{6}\) lies inside \(X < \frac{\pi}{4}\), so the probability is \(\dfrac{\Pr\left(X < \frac{\pi}{6}\right)}{\Pr\left(X < \frac{\pi}{4}\right)} = \dfrac{1/4}{1/2} = \frac{1}{2}\). *(1 mark)*
+
+Common mistake: Multiplying the two probabilities as if the events were independent. For a conditional probability, divide the probability of both events by the probability of the given event.
+
+Topic: Conditional probability and independence (methods-7-4)

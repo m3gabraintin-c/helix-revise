@@ -9274,3 +9274,136 @@ Explanation: Compare hydrogen sources and emissions.
 <!-- id: chem-8-4-25 -->
 
 Explanation: Link to energy and resource use.
+
+### Exam-style questions (mixed topics)
+
+**A1824.** Ethanol as a fuel
+<!-- id: chem-x1 -->
+*Multi-part question · 13 marks*
+
+**a.** C₂H₅OH(l) + 3O₂(g) → 2CO₂(g) + 3H₂O(l)   ΔH = −1360 kJ mol⁻¹ *(2 marks)*
+
+1. Balance C, then H, then O: 2 C atoms give 2CO₂, 6 H atoms give 3H₂O, and the 7 O atoms on the right need 3O₂ besides the O in ethanol: C₂H₅OH(l) + 3O₂(g) → 2CO₂(g) + 3H₂O(l). *(1 mark)*
+2. Combustion releases energy, so ΔH is negative: ΔH = −1360 kJ mol⁻¹ for 1 mol of ethanol as written. *(1 mark)*
+
+Common mistake: Giving ΔH as +1360 kJ mol⁻¹. The heat of combustion is quoted as a positive amount of energy released, but ΔH for an exothermic reaction is negative.
+
+Topic: Combustion and thermochemical equations (chem-1-2)
+
+**b.** 148 kJ *(2 marks)*
+
+1. n(C₂H₅OH) = 5.00 ÷ 46.0 = 0.1087 mol. *(1 mark)*
+2. Energy released = 0.1087 × 1360 = 148 kJ. *(1 mark)*
+
+Common mistake: Multiplying the mass by 1360. The heat of combustion is per mole, so convert grams to moles first.
+
+Topic: Enthalpy and fuel energy calculations (chem-1-3)
+
+**c.** 861 kJ mol⁻¹ (ΔH = −861 kJ mol⁻¹) *(3 marks)*
+
+1. Energy absorbed by the water: q = mcΔT = 250 × 4.18 × 21.5 = 22 468 J = 22.47 kJ. *(1 mark)*
+2. n(C₂H₅OH) = 1.20 ÷ 46.0 = 0.02609 mol. *(1 mark)*
+3. Molar heat of combustion = 22.47 ÷ 0.02609 = 861 kJ mol⁻¹. *(1 mark)*
+
+Common mistake: Using the mass of ethanol, 1.20 g, as m in q = mcΔT. Here m is the mass of the water that absorbed the energy.
+
+Topic: Calorimetry and specific heat capacity (chem-1-4)
+
+**d.** Some of the energy released was lost to the surroundings (the air and the can) instead of heating the water. (Incomplete combustion is also accepted.) *(1 mark)*
+
+1. Not all the energy released reaches the water: heat escapes to the air and warms the can. Incomplete combustion, which leaves soot, also releases less energy than complete combustion. *(1 mark)*
+
+Common mistake: Writing 'human error' or 'inaccurate measurements' without saying what happened. Name a specific effect, such as heat lost to the surroundings.
+
+Topic: Calorimetry and specific heat capacity (chem-1-4)
+
+**e.i.** Acidified potassium dichromate, Cr₂O₇²⁻/H⁺ (acidified permanganate, MnO₄⁻/H⁺, is also accepted). *(1 mark)*
+
+1. A strong oxidising agent in acid converts the primary alcohol to a carboxylic acid: acidified dichromate, Cr₂O₇²⁻/H⁺, or acidified permanganate, MnO₄⁻/H⁺. *(1 mark)*
+
+Common mistake: Leaving out the acid. The reagent is acidified dichromate or permanganate; H⁺ ions take part in the reaction.
+
+Topic: Addition, substitution, oxidation, condensation, hydrolysis (chem-5-3)
+
+**e.ii.** Ethyl ethanoate; a condensation (esterification) reaction. *(2 marks)*
+
+1. The alcohol (ethanol) gives the 'ethyl' part of the name and the acid (ethanoic acid) gives the 'ethanoate' part: ethyl ethanoate, CH₃COOCH₂CH₃. *(1 mark)*
+2. Water is formed as the two molecules join, so this is a condensation reaction (esterification). *(1 mark)*
+
+Common mistake: Calling it an addition reaction. A small molecule, water, is removed when the two molecules join, which makes it a condensation reaction.
+
+Topic: Reaction pathways, esters and yield (chem-5-4)
+
+**f.** 51.1% *(2 marks)*
+
+1. Atom economy = (mass of the wanted product ÷ total mass of reactants) × 100%, using the mole ratios in the equation. *(1 mark)*
+2. = (2 × 46.0) ÷ 180.0 × 100% = 92.0 ÷ 180.0 × 100% = 51.1%. *(1 mark)*
+
+Common mistake: Using one mole of ethanol (46.0 g) instead of the two moles in the equation, which gives 25.6%.
+
+Topic: Atom economy calculations (chem-8-2)
+
+**A1825.** Green hydrogen: making it and using it
+<!-- id: chem-x2 -->
+*Multi-part question · 12 marks*
+
+**a.** 2H⁺(aq) + 2e⁻ → H₂(g) *(1 mark)*
+
+1. Reduction happens at the cathode of an electrolytic cell. In acid, hydrogen ions are reduced: 2H⁺(aq) + 2e⁻ → H₂(g). *(1 mark)*
+
+Common mistake: Writing the oxidation of water, 2H₂O(l) → O₂(g) + 4H⁺(aq) + 4e⁻. That reaction happens at the anode.
+
+Topic: Electrolytic cell design and products (chem-4-1)
+
+**b.** 3.73 g *(3 marks)*
+
+1. Q = It = 50.0 × 2.00 × 3600 = 3.60 × 10⁵ C. *(1 mark)*
+2. n(e⁻) = Q ÷ F = 3.60 × 10⁵ ÷ 96 500 = 3.731 mol, so n(H₂) = 3.731 ÷ 2 = 1.865 mol. *(1 mark)*
+3. m(H₂) = 1.865 × 2.0 = 3.73 g. *(1 mark)*
+
+Common mistake: Using the time in hours, or forgetting that 2 mol of electrons are needed for every mole of H₂.
+
+Topic: Faraday's laws and calculations (chem-4-2)
+
+**c.** Anode: H₂(g) → 2H⁺(aq) + 2e⁻. Overall: 2H₂(g) + O₂(g) → 2H₂O(l). *(2 marks)*
+
+1. In a fuel cell, oxidation happens at the anode: H₂(g) → 2H⁺(aq) + 2e⁻. *(1 mark)*
+2. The cathode reaction is O₂(g) + 4H⁺(aq) + 4e⁻ → 2H₂O(l). Doubling the anode equation to balance the electrons and adding gives 2H₂(g) + O₂(g) → 2H₂O(l). *(1 mark)*
+
+Common mistake: Mixing up the electrodes. In a fuel cell the anode is where the fuel (H₂) is oxidised, and it is the negative electrode.
+
+Topic: Fuel cells (chem-2-3)
+
+**d.** In a fuel cell the reactants are supplied continuously from outside the cell, so it keeps working as long as fuel is supplied; a battery's reactants are stored inside it and get used up. *(1 mark)*
+
+1. A fuel cell's reactants (H₂ and O₂) flow in from outside and the product leaves, so it does not run flat while fuel is supplied. A primary cell contains a fixed amount of reactants. *(1 mark)*
+
+Common mistake: Saying a fuel cell does not use a redox reaction. Both use spontaneous redox reactions; the difference is where the reactants are stored.
+
+Topic: Fuel cells (chem-2-3)
+
+**e.i.** \(K = \dfrac{[\text{NH}_3]^2}{[\text{N}_2][\text{H}_2]^3}\) *(1 mark)*
+
+1. Products over reactants, each concentration raised to the power of its coefficient: \(K = \dfrac{[\text{NH}_3]^2}{[\text{N}_2][\text{H}_2]^3}\). *(1 mark)*
+
+Common mistake: Leaving out the powers, or writing a coefficient as a multiplier, such as \(3[\text{H}_2]\).
+
+Topic: Equilibrium constants and calculations (chem-3-3)
+
+**e.ii.** 0.521 M⁻² *(2 marks)*
+
+1. Concentrations: [N₂] = 0.400 ÷ 2.00 = 0.200 M, [H₂] = 1.20 ÷ 2.00 = 0.600 M, [NH₃] = 0.300 ÷ 2.00 = 0.150 M. *(1 mark)*
+2. \(K = \dfrac{0.150^2}{0.200 \times 0.600^3} = \dfrac{0.0225}{0.0432} = 0.521\) M⁻². *(1 mark)*
+
+Common mistake: Using amounts in mol instead of concentrations. The volume is 2.00 L, so divide every amount by 2.00 first; using mol gives 0.130, which is wrong.
+
+Topic: Equilibrium constants and calculations (chem-3-3)
+
+**f.** The yield decreases. The forward reaction is exothermic, so a temperature rise favours the endothermic reverse reaction: the position of equilibrium shifts to the left and K decreases. *(2 marks)*
+
+1. The forward reaction is exothermic (ΔH < 0), so the reverse reaction is endothermic. *(1 mark)*
+2. By Le Chatelier's principle, the system partly opposes the temperature rise by favouring the endothermic reverse reaction, so the equilibrium shifts to the left, K decreases and the yield of ammonia falls. *(1 mark)*
+
+Common mistake: Saying the yield rises because the reaction gets faster. A higher temperature means equilibrium is reached sooner, but for an exothermic reaction the equilibrium yield is lower.
+
+Topic: Le Chatelier's principle and yield optimisation (chem-3-4)

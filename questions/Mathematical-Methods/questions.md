@@ -12099,3 +12099,23 @@ Individual seedlings vary. Ten weeks after planting, the heights of the seedling
 **f.** Find the proportion of seedlings that are taller than 20 cm ten weeks after planting, correct to four decimal places. *(1 mark)*
 
 **g.** In a random sample of 200 seedlings, 174 were ready for sale. Find an approximate 95% confidence interval for the proportion of all the nursery's seedlings that are ready for sale. Give the end points correct to three decimal places. *(2 marks)*
+
+**Q1700.** A sine curve and a probability
+<!-- id: methods-x3 -->
+*Multi-part question · 10 marks · Technology-free · Original question in the style of VCAA Exam 1*
+
+Let \(f: [0, \pi] \to \mathbb{R}\), \(f(x) = \sin(2x)\).
+
+**a.** Solve \(f(x) = \frac{1}{2}\). *(2 marks)*
+
+**b.** Find the gradient of the graph of \(f\) at \(x = \frac{\pi}{6}\). *(1 mark)*
+
+**c.** Find the area of the region enclosed by the graph of \(f\) and the \(x\)-axis for \(0 \le x \le \frac{\pi}{2}\). *(2 marks)*
+
+The continuous random variable \(X\) has probability density function \[g(x) = \begin{cases} k\sin(2x) & 0 \le x \le \frac{\pi}{2} \\ 0 & \text{elsewhere} \end{cases}\] where \(k\) is a positive constant.
+
+**d.i.** Show that \(k = 1\). *(1 mark)*
+
+**d.ii.** Find \(\Pr\left(X < \frac{\pi}{6}\right)\). *(2 marks)*
+
+**d.iii.** Find \(\Pr\left(X < \frac{\pi}{6} \mid X < \frac{\pi}{4}\right)\). *(2 marks)*

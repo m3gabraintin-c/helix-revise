@@ -6482,3 +6482,128 @@ Explanation: Mention both identifying the relationship and extracting constants 
 <!-- id: physics-8-4-25 -->
 
 Explanation: Recognise that the gradient is half the acceleration.
+
+### Exam-style questions (mixed topics)
+
+**A1268.** Satellites in orbit
+<!-- id: physics-x1 -->
+*Multi-part question · 11 marks*
+
+**a.** 8.21 N kg⁻¹ *(2 marks)*
+
+1. Measure the orbital radius from Earth's centre: r = 6.37 × 10⁶ + 6.00 × 10⁵ = 6.97 × 10⁶ m. *(1 mark)*
+2. \(g = \dfrac{GM}{r^2} = \dfrac{6.67 \times 10^{-11} \times 5.98 \times 10^{24}}{(6.97 \times 10^{6})^2}\) = 8.21 N kg⁻¹. *(1 mark)*
+
+Common mistake: Using 600 km as the radius. Distances in Newton's law of gravitation are measured from the centre of Earth.
+
+Topic: Gravitational field strength (physics-1-2)
+
+**b.** 7.56 × 10³ m s⁻¹ *(2 marks)*
+
+1. Gravity provides the centripetal force: \(\dfrac{GMm}{r^2} = \dfrac{mv^2}{r}\), so \(v = \sqrt{\dfrac{GM}{r}}\). *(1 mark)*
+2. \(v = \sqrt{\dfrac{6.67 \times 10^{-11} \times 5.98 \times 10^{24}}{6.97 \times 10^{6}}}\) = 7.56 × 10³ m s⁻¹. *(1 mark)*
+
+Common mistake: Including the satellite's mass in the calculation. It cancels, so the orbital speed does not depend on the satellite's mass.
+
+Topic: Satellites, orbits and Kepler's law (physics-1-3)
+
+**c.** 96.5 minutes *(2 marks)*
+
+1. \(T = \dfrac{2\pi r}{v} = \dfrac{2\pi \times 6.97 \times 10^{6}}{7.56 \times 10^{3}}\) = 5.79 × 10³ s. *(1 mark)*
+2. 5.79 × 10³ s ÷ 60 = 96.5 minutes. *(1 mark)*
+
+Common mistake: Leaving the answer in seconds. The question asks for minutes.
+
+Topic: Satellites, orbits and Kepler's law (physics-1-3)
+
+**d.** The astronaut and the satellite are both in free fall towards Earth with the same acceleration, so the floor does not push on the astronaut. With no normal force, the astronaut's apparent weight is zero. *(2 marks)*
+
+1. Gravity still acts on the astronaut and provides the centripetal force for the orbit. *(1 mark)*
+2. The astronaut and satellite fall together with the same acceleration, so the floor exerts no normal force. With no normal force the apparent weight is zero, which is felt as weightlessness. *(1 mark)*
+
+Common mistake: Saying there is no gravity in orbit. At 600 km gravity is still about 84% as strong as at the surface; the astronaut is in free fall, not free of gravity.
+
+Topic: Newton's laws and forces (physics-3-1)
+
+**e.** 4.23 × 10⁷ m *(2 marks)*
+
+1. For a circular orbit, \(r^3 = \dfrac{GMT^2}{4\pi^2}\), with T = 24.0 × 3600 = 8.64 × 10⁴ s. *(1 mark)*
+2. Substitute: \[r^3 = \frac{6.67 \times 10^{-11} \times 5.98 \times 10^{24} \times (8.64 \times 10^{4})^2}{4\pi^2} = 7.54 \times 10^{22}\ \text{m}^3\] so r = 4.23 × 10⁷ m. *(1 mark)*
+
+Common mistake: Leaving T in hours. Use seconds so that every quantity is in SI units.
+
+Topic: Satellites, orbits and Kepler's law (physics-1-3)
+
+**f.** 0.200 m *(1 mark)*
+
+1. λ = c ÷ f = 3.00 × 10⁸ ÷ 1.50 × 10⁹ = 0.200 m. *(1 mark)*
+
+Common mistake: Treating GHz as 10⁶ Hz. Giga means 10⁹.
+
+Topic: Wave properties and electromagnetic waves (physics-6-1)
+
+**A1269.** Electrons: accelerated, turned and diffracted
+<!-- id: physics-x2 -->
+*Multi-part question · 13 marks*
+
+**a.** E = 1.0 × 10⁵ V m⁻¹; F = 1.6 × 10⁻¹⁴ N *(2 marks)*
+
+1. E = V ÷ d = 2.00 × 10³ ÷ 0.020 = 1.0 × 10⁵ V m⁻¹. *(1 mark)*
+2. F = qE = 1.60 × 10⁻¹⁹ × 1.0 × 10⁵ = 1.6 × 10⁻¹⁴ N. *(1 mark)*
+
+Common mistake: Using d = 2.0 instead of 0.020. Convert centimetres to metres before using E = V ÷ d.
+
+Topic: Coulomb's law and electric fields (physics-2-1)
+
+**b.** 3.20 × 10⁻¹⁶ J *(1 mark)*
+
+1. The work done on the electron by the field is W = qV = 1.60 × 10⁻¹⁹ × 2.00 × 10³ = 3.20 × 10⁻¹⁶ J, and all of it becomes kinetic energy. *(1 mark)*
+
+Common mistake: Mixing up kilovolts and electronvolts. Each electron gains 2.00 keV, which is 2.00 × 10³ × 1.60 × 10⁻¹⁹ J.
+
+Topic: Coulomb's law and electric fields (physics-2-1)
+
+**c.** ½mv² = 3.20 × 10⁻¹⁶ J, so v = √(2 × 3.20 × 10⁻¹⁶ ÷ 9.1 × 10⁻³¹) = 2.65 × 10⁷ m s⁻¹. *(2 marks)*
+
+1. Set the kinetic energy equal to the work done: ½mv² = 3.20 × 10⁻¹⁶ J. *(1 mark)*
+2. \(v = \sqrt{\dfrac{2 \times 3.20 \times 10^{-16}}{9.1 \times 10^{-31}}} = \sqrt{7.03 \times 10^{14}}\) = 2.65 × 10⁷ m s⁻¹. *(1 mark)*
+
+Common mistake: Leaving out the ½ in ½mv², which gives 1.88 × 10⁷ m s⁻¹, too small by a factor of √2.
+
+Topic: Momentum, impulse, work and energy (physics-3-4)
+
+**d.** 3.0 × 10⁻² m (3.0 cm) *(2 marks)*
+
+1. The magnetic force provides the centripetal force: \(qvB = \dfrac{mv^2}{r}\), so \(r = \dfrac{mv}{qB}\). *(1 mark)*
+2. \(r = \dfrac{9.1 \times 10^{-31} \times 2.65 \times 10^{7}}{1.60 \times 10^{-19} \times 5.00 \times 10^{-3}}\) = 3.0 × 10⁻² m. *(1 mark)*
+
+Common mistake: Treating mT as 10⁻⁶ T. Milli means 10⁻³, so 5.00 mT = 5.00 × 10⁻³ T.
+
+Topic: Forces on moving charges and currents (physics-2-3)
+
+**e.** The magnetic force is always at right angles to the electron's velocity, so it does no work. The kinetic energy, and so the speed, stays constant; only the direction of motion changes. *(2 marks)*
+
+1. The force qvB acts at right angles to the velocity at every instant. *(1 mark)*
+2. A force at right angles to the motion does no work, so the kinetic energy and the speed stay constant. The force only changes the direction, which gives circular motion. *(1 mark)*
+
+Common mistake: Saying there is no force because the field is perpendicular to the motion. The force is largest when v is perpendicular to B; it changes the direction, not the speed.
+
+Topic: Forces on moving charges and currents (physics-2-3)
+
+**f.i.** 2.75 × 10⁻¹¹ m *(2 marks)*
+
+1. p = mv = 9.1 × 10⁻³¹ × 2.65 × 10⁷ = 2.41 × 10⁻²³ kg m s⁻¹. *(1 mark)*
+2. λ = h ÷ p = 6.63 × 10⁻³⁴ ÷ 2.41 × 10⁻²³ = 2.75 × 10⁻¹¹ m. *(1 mark)*
+
+Common mistake: Using λ = hc ÷ E, which applies to photons. For a particle with mass, use λ = h ÷ p.
+
+Topic: De Broglie wavelength and diffraction (physics-7-2)
+
+**f.ii.** 45.2 keV *(2 marks)*
+
+1. The same pattern means the same wavelength, so E = hc ÷ λ = 6.63 × 10⁻³⁴ × 3.00 × 10⁸ ÷ 2.75 × 10⁻¹¹ = 7.23 × 10⁻¹⁵ J. *(1 mark)*
+2. In electronvolts: 7.23 × 10⁻¹⁵ ÷ 1.60 × 10⁻¹⁹ = 4.52 × 10⁴ eV = 45.2 keV. *(1 mark)*
+
+Common mistake: Giving the electrons' energy, 2.00 keV. A photon and an electron with the same wavelength have very different energies.
+
+Topic: Wave-particle duality of light (physics-7-4)

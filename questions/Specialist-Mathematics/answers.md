@@ -4083,3 +4083,121 @@ Explanation: Values inside the interval are plausible values of μ that would no
 <!-- id: specialist-8-4-25 -->
 
 Explanation: Find the rejection region under H₀, then calculate the probability of missing it under the true mean.
+
+### Exam-style questions (mixed topics)
+
+**A801.** A rational function, an integral and a solid
+<!-- id: specialist-x1 -->
+*Multi-part question · 11 marks*
+
+**a.** \(f(x) = \dfrac{2}{x - 1} - \dfrac{1}{x + 2}\) *(2 marks)*
+
+1. Write \(\dfrac{x + 5}{(x - 1)(x + 2)} = \dfrac{A}{x - 1} + \dfrac{B}{x + 2}\), so \(x + 5 = A(x + 2) + B(x - 1)\). *(1 mark)*
+2. Substitute \(x = 1\): \(6 = 3A\), so \(A = 2\). Substitute \(x = -2\): \(3 = -3B\), so \(B = -1\). *(1 mark)*
+
+Common mistake: A sign error at \(x = -2\): there \(B(x - 1) = -3B\), so \(B = -1\), not \(1\). Check by recombining the two fractions.
+
+Topic: Partial fractions integration (specialist-4-2)
+
+**b.** \(x = 1\), \(x = -2\) and \(y = 0\) *(2 marks)*
+
+1. The denominator is zero at \(x = 1\) and \(x = -2\) and the numerator is not, so \(x = 1\) and \(x = -2\) are vertical asymptotes. *(1 mark)*
+2. The numerator has lower degree than the denominator, so \(f(x) \to 0\) as \(x \to \pm\infty\): \(y = 0\) is a horizontal asymptote. *(1 mark)*
+
+Common mistake: Missing the horizontal asymptote. Both terms of the partial fraction form tend to 0 as \(x \to \pm\infty\), so \(y = 0\) is an asymptote.
+
+Topic: Rational functions and asymptotes (specialist-3-1)
+
+**c.** \(\Big[2\log_e|x - 1| - \log_e|x + 2|\Big]_2^4 = \log_e 9 - \log_e 6 + \log_e 4 = \log_e 6\) *(2 marks)*
+
+1. Using part a, \(\displaystyle\int_2^4 \left(\frac{2}{x - 1} - \frac{1}{x + 2}\right)dx = \Big[2\log_e|x - 1| - \log_e|x + 2|\Big]_2^4\). *(1 mark)*
+2. \(= (2\log_e 3 - \log_e 6) - (2\log_e 1 - \log_e 4) = \log_e 9 - \log_e 6 + \log_e 4 = \log_e\left(\frac{9 \times 4}{6}\right) = \log_e 6\). *(1 mark)*
+
+Common mistake: Dropping the coefficient 2 when antidifferentiating \(\frac{2}{x - 1}\), or losing the \(-\log_e 4\) from the lower limit.
+
+Topic: Partial fractions integration (specialist-4-2)
+
+**d.** \(\pi\left(\frac{11}{4} - \frac{4}{3}\log_e 2\right)\) cubic units *(3 marks)*
+
+1. \(V = \pi\displaystyle\int_2^4 f(x)^2\,dx\), where \(f(x)^2 = \dfrac{4}{(x - 1)^2} - \dfrac{4}{(x - 1)(x + 2)} + \dfrac{1}{(x + 2)^2}\). *(1 mark)*
+2. Split the middle term: \(\dfrac{4}{(x - 1)(x + 2)} = \dfrac{4}{3}\left(\dfrac{1}{x - 1} - \dfrac{1}{x + 2}\right)\). Then \(\displaystyle\int_2^4 f(x)^2\,dx = \left[-\frac{4}{x - 1}\right]_2^4 - \frac{4}{3}\Big[\log_e|x - 1| - \log_e|x + 2|\Big]_2^4 + \left[-\frac{1}{x + 2}\right]_2^4\). *(1 mark)*
+3. \(= \frac{8}{3} - \frac{4}{3}\log_e 2 + \frac{1}{12} = \frac{11}{4} - \frac{4}{3}\log_e 2\), so \(V = \pi\left(\frac{11}{4} - \frac{4}{3}\log_e 2\right)\) cubic units. *(1 mark)*
+
+Common mistake: Squaring term by term, as \(\left(\frac{2}{x - 1}\right)^2 - \left(\frac{1}{x + 2}\right)^2\). That leaves out the cross term \(-2 \times \frac{2}{x - 1} \times \frac{1}{x + 2}\).
+
+Topic: Volumes, arc length and surface area (specialist-4-4)
+
+**e.** \(f'(x) = -\dfrac{2}{(x - 1)^2} + \dfrac{1}{(x + 2)^2}\), and for \(x > 1\), \(\dfrac{1}{(x + 2)^2} < \dfrac{1}{(x - 1)^2} < \dfrac{2}{(x - 1)^2}\), so \(f'(x) < 0\). *(2 marks)*
+
+1. Differentiate the partial fraction form: \(f'(x) = -\dfrac{2}{(x - 1)^2} + \dfrac{1}{(x + 2)^2}\). *(1 mark)*
+2. For \(x > 1\), \(0 < x - 1 < x + 2\), so \((x - 1)^2 < (x + 2)^2\) and \(\dfrac{1}{(x + 2)^2} < \dfrac{1}{(x - 1)^2} < \dfrac{2}{(x - 1)^2}\). Therefore \(f'(x) < 0\) for every \(x > 1\). *(1 mark)*
+
+Common mistake: Checking a few values of \(x\). Examples cannot show that a statement holds for all \(x > 1\); the argument has to work for every such \(x\).
+
+Topic: Direct proof and divisibility (specialist-1-2)
+
+**A802.** A parcel dropped from a drone
+<!-- id: specialist-x2 -->
+*Multi-part question · 13 marks*
+
+**a.** Separating the variables and using \(v = 0\) when \(t = 0\) gives \(9.8 - 0.2v = 9.8e^{-0.2t}\), so \(v = 49\left(1 - e^{-0.2t}\right)\). *(2 marks)*
+
+1. Separate the variables: \(\displaystyle\int \frac{dv}{9.8 - 0.2v} = \int dt\), so \(-5\log_e(9.8 - 0.2v) = t + c\) (here \(9.8 - 0.2v > 0\)). *(1 mark)*
+2. When \(t = 0\), \(v = 0\), so \(c = -5\log_e 9.8\). Then \(\log_e\left(\dfrac{9.8 - 0.2v}{9.8}\right) = -0.2t\), so \(9.8 - 0.2v = 9.8e^{-0.2t}\) and \(v = 49\left(1 - e^{-0.2t}\right)\). *(1 mark)*
+
+Common mistake: Losing the factor \(-5\). The antiderivative of \(\dfrac{1}{9.8 - 0.2v}\) with respect to \(v\) is \(-\dfrac{1}{0.2}\log_e(9.8 - 0.2v) = -5\log_e(9.8 - 0.2v)\).
+
+Topic: Separable first-order differential equations (specialist-5-1)
+
+**b.** 49 m/s *(1 mark)*
+
+1. As \(t \to \infty\), \(e^{-0.2t} \to 0\), so \(v \to 49\) m/s. (Equivalently, \(\frac{dv}{dt} = 0\) when \(9.8 - 0.2v = 0\).) *(1 mark)*
+
+Common mistake: Giving 9.8, which is the initial acceleration in m/s². The terminal velocity is the velocity at which the acceleration becomes zero.
+
+Topic: Variable acceleration and v dv/dx (specialist-6-1)
+
+**c.** 90.13 m *(2 marks)*
+
+1. Distance \(= \displaystyle\int_0^5 49\left(1 - e^{-0.2t}\right)dt = 49\Big[t + 5e^{-0.2t}\Big]_0^5\). *(1 mark)*
+2. \(= 49\left(5 + 5e^{-1} - 5\right) = 245e^{-1} \approx 90.13\) m. *(1 mark)*
+
+Common mistake: Using \(s = \frac{1}{2}at^2\) with \(a = 9.8\). The acceleration is not constant here, so constant-acceleration formulas do not apply.
+
+Topic: Variable acceleration and v dv/dx (specialist-6-1)
+
+**d.** 82.1 m *(2 marks)*
+
+1. \(\dfrac{dx}{dv} = \dfrac{v}{9.8 - 0.2v}\), so \(x = \displaystyle\int_0^{30} \frac{v}{9.8 - 0.2v}\,dv\). *(1 mark)*
+2. With CAS (or by writing \(\dfrac{v}{9.8 - 0.2v} = -5 + \dfrac{49}{9.8 - 0.2v}\)), \(x = 245\log_e\left(\frac{49}{19}\right) - 150 \approx 82.1\) m. *(1 mark)*
+
+Common mistake: Integrating with respect to \(t\) by mistake. Here the variable of integration is \(v\), so the limits are the velocities 0 and 30.
+
+Topic: Variable acceleration and v dv/dx (specialist-6-1)
+
+**e.i.** \(\text{E}(T) = 7.7\); \(\text{sd}(T) = \sqrt{0.27} \approx 0.520\) *(2 marks)*
+
+1. \(T = X_1 + X_2 + X_3 + 0.5\), so \(\text{E}(T) = 3 \times 2.4 + 0.5 = 7.7\). *(1 mark)*
+2. The box's mass is constant and the parcels are independent, so \(\text{Var}(T) = 3 \times 0.3^2 = 0.27\) and \(\text{sd}(T) = \sqrt{0.27} \approx 0.520\). *(1 mark)*
+
+Common mistake: Writing \(\text{Var}(T) = 3^2 \times 0.3^2\). That is the variance of \(3X\), one parcel's mass tripled. Three independent parcels give \(3 \times 0.3^2\).
+
+Topic: Linear combinations of random variables (specialist-8-1)
+
+**e.ii.** \(0.062\) *(1 mark)*
+
+1. \(T\) is normal with mean 7.7 and standard deviation \(\sqrt{0.27}\), so with CAS \(\Pr(T > 8.5) \approx 0.062\). *(1 mark)*
+
+Common mistake: Using the standard deviation of one parcel, 0.3, instead of \(\sqrt{0.27}\).
+
+Topic: Linear combinations of random variables (specialist-8-1)
+
+**f.** \(H_0: \mu = 25\), \(H_1: \mu > 25\); p-value \(\approx 0.0256\); since \(0.0256 < 0.05\), reject \(H_0\). There is evidence that the mean delivery time is more than 25 minutes. *(3 marks)*
+
+1. \(H_0: \mu = 25\) and \(H_1: \mu > 25\), where \(\mu\) is the mean delivery time in minutes. *(1 mark)*
+2. If \(H_0\) is true, \(\bar{X}\) is normal with mean 25 and standard deviation \(\frac{4}{\sqrt{36}} = \frac{2}{3}\), so the p-value is \(\Pr(\bar{X} \ge 26.3) = \Pr(Z \ge 1.95) \approx 0.0256\). *(1 mark)*
+3. \(0.0256 < 0.05\), so reject \(H_0\): there is evidence at the 5% level that the mean delivery time is greater than 25 minutes. *(1 mark)*
+
+Common mistake: Using the standard deviation 4 instead of the standard error \(\frac{4}{\sqrt{36}}\). The test is about the sample mean, which varies less than single deliveries do.
+
+Topic: Hypothesis testing, p-values and errors (specialist-8-4)

@@ -9128,3 +9128,51 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 <!-- id: physics-8-4-25 -->
 
 *Written answer*
+
+### Exam-style questions (mixed topics)
+
+**Q1268.** Satellites in orbit
+<!-- id: physics-x1 -->
+*Multi-part question · 11 marks · Original question in the style of the VCE Physics exam, Section B*
+
+A satellite moves in a circular orbit 600 km above Earth's surface. Use G = 6.67 × 10⁻¹¹ N m² kg⁻², mass of Earth = 5.98 × 10²⁴ kg and radius of Earth = 6.37 × 10⁶ m.
+
+**a.** Calculate the gravitational field strength at the satellite's orbit. *(2 marks)*
+
+**b.** Calculate the orbital speed of the satellite. *(2 marks)*
+
+**c.** Calculate the period of the orbit, in minutes. *(2 marks)*
+
+**d.** An astronaut inside the satellite feels weightless, even though the gravitational field strength there is not zero. Explain why. *(2 marks)*
+
+A geostationary satellite orbits Earth once every 24.0 hours.
+
+**e.** Use Kepler's third law to calculate the orbital radius of the geostationary satellite. *(2 marks)*
+
+The satellites send data to the ground using radio waves of frequency 1.50 GHz.
+
+**f.** Calculate the wavelength of these radio waves. Use c = 3.00 × 10⁸ m s⁻¹. *(1 mark)*
+
+**Q1269.** Electrons: accelerated, turned and diffracted
+<!-- id: physics-x2 -->
+*Multi-part question · 13 marks · Original question in the style of the VCE Physics exam, Section B*
+
+In an electron gun, electrons start from rest and are accelerated between two parallel plates 2.0 cm apart, with a potential difference of 2.00 kV between them. Use e = 1.60 × 10⁻¹⁹ C, mₑ = 9.1 × 10⁻³¹ kg, h = 6.63 × 10⁻³⁴ J s and c = 3.00 × 10⁸ m s⁻¹. Ignore relativistic effects.
+
+**a.** Calculate the magnitude of the electric field between the plates, and the magnitude of the force it exerts on an electron. *(2 marks)*
+
+**b.** Calculate the kinetic energy of an electron as it leaves the plates, in joules. *(1 mark)*
+
+**c.** Show that the speed of the electrons is about 2.65 × 10⁷ m s⁻¹. *(2 marks)*
+
+The electrons then enter a uniform magnetic field of 5.00 mT, directed at right angles to their velocity.
+
+**d.** Calculate the radius of the electrons' circular path in the magnetic field. *(2 marks)*
+
+**e.** Explain why the magnetic field does not change the speed of the electrons. *(2 marks)*
+
+Electrons with this speed are then aimed at a thin crystal, where they produce a diffraction pattern.
+
+**f.i.** Calculate the de Broglie wavelength of the electrons. *(2 marks)*
+
+**f.ii.** X-rays produce the same diffraction pattern from this crystal. Calculate the energy of one of these X-ray photons, in keV. *(2 marks)*
