@@ -50,10 +50,14 @@ def ma_body(r):
         s += "Common mistake: %s\n\nTopic: %s (%s)\n\n" % (p["mistake"], SUBNAME[p["topic"]], p["topic"])
     return s
 
+CH = set(d.get("C", []))  # ids of challenge questions, marked in questions.md
+CHL = "*Challenge question*\n"
+
 def qblock(n, r):
     if isinstance(r, dict):
-        return "**Q%d.** %s\n<!-- id: %s -->\n" % (n, r["title"], r["id"]) + mq_body(r)
+        return "**Q%d.** %s\n<!-- id: %s -->\n" % (n, r["title"], r["id"]) + (CHL if r["id"] in CH else "") + mq_body(r)
     s = "**Q%d.** %s\n<!-- id: %s -->\n" % (n, r[2], r[0])
+    if r[0] in CH: s += CHL
     if r[-1]: s += "*Higher tier only*\n"
     if r[1] == 0:
         return s + "\n" + "\n".join("- %s. %s" % (LET[i], o) for i, o in enumerate(r[3])) + "\n\n"
@@ -133,10 +137,10 @@ for k in counts:
             r = allrows[id_]
             if isinstance(r, dict):
                 assert pre == r["title"]
-                exp = (mq_body(r) if kind == "q" else ma_body(r)).rstrip("\n")
+                exp = ((CHL if id_ in CH else "") + mq_body(r) if kind == "q" else ma_body(r)).rstrip("\n")
             elif kind == "q":
                 assert pre == r[2]
-                exp = ("*Higher tier only*\n" if r[-1] else "") + "\n"
+                exp = (CHL if id_ in CH else "") + ("*Higher tier only*\n" if r[-1] else "") + "\n"
                 exp += "\n".join("- %s. %s" % (LET[j], o) for j, o in enumerate(r[3])) if r[1] == 0 else "*Written answer*"
             else:
                 assert pre == ("%s. %s" % (LET[r[4]], r[3][r[4]]) if r[1] == 0 else r[3])

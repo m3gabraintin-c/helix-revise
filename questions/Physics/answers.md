@@ -2774,3960 +2774,4174 @@ Explanation: Inverse square law: the force factor is the square of the radius ra
 
 Explanation: Rearrange F = Gm₁m₂/r² for r and remember the square root.
 
+**A497.** A. 2/9 of the original
+<!-- id: physics-1-1-c1 -->
+
+Explanation: F ∝ m₁m₂/r²: doubling a mass gives × 2, tripling r gives × 1/9, so F becomes 2/9 of its value.
+
 #### Gravitational field strength
 
-**A497.** C. 9.81 N kg⁻¹
+**A498.** C. 9.81 N kg⁻¹
 <!-- id: physics-1-2-1 -->
 
 Explanation: g = 6.67×10⁻¹¹ × 5.97×10²⁴ / (6.37×10⁶)² ≈ 9.81 N kg⁻¹. Not squaring R gives 6.25×10⁷.
 
-**A498.** D. m s⁻²
+**A499.** D. m s⁻²
 <!-- id: physics-1-2-2 -->
 
 Explanation: 1 N = 1 kg m s⁻², so N kg⁻¹ = m s⁻², the unit of acceleration.
 
-**A499.** A. 8.7 N kg⁻¹
+**A500.** A. 8.7 N kg⁻¹
 <!-- id: physics-1-2-3 -->
 
 Explanation: r = 6.37×10⁶ + 4.0×10⁵ = 6.77×10⁶ m, so g = GM/r² ≈ 8.69 N kg⁻¹, which is still about 89% of the surface value.
 
-**A500.** g = GM/R² = 6.67×10⁻¹¹ × 1.90×10²⁷ / (6.99×10⁷)² ≈ 25.9 N kg⁻¹.
+**A501.** g = GM/R² = 6.67×10⁻¹¹ × 1.90×10²⁷ / (6.99×10⁷)² ≈ 25.9 N kg⁻¹.
 <!-- id: physics-1-2-4 -->
 
 Explanation: About 2.6 times Earth's surface value.
 
-**A501.** B. 2.45 N kg⁻¹
+**A502.** B. 2.45 N kg⁻¹
 <!-- id: physics-1-2-5 -->
 
 Explanation: The distance from the centre is 2R, so g = 9.8/2² ≈ 2.45 N kg⁻¹.
 
-**A502.** C. 1.62 N kg⁻¹
+**A503.** C. 1.62 N kg⁻¹
 <!-- id: physics-1-2-6 -->
 
 Explanation: g = GM/R² = 6.67×10⁻¹¹ × 7.35×10²² / (1.74×10⁶)² ≈ 1.62 N kg⁻¹.
 
-**A503.** D. half
+**A504.** D. half
 <!-- id: physics-1-2-7 -->
 
 Explanation: g ∝ M/R² = 2/2² = 1/2.
 
-**A504.** Mass is the amount of matter in an object (kg) and stays the same everywhere. Weight is the gravitational force on it, W = mg (N), so it depends on g. A 90 kg astronaut has a mass of 90 kg on both Earth and the Moon, but weighs about 882 N on Earth and about 146 N on the Moon (g ≈ 1.62 N kg⁻¹).
+**A505.** Mass is the amount of matter in an object (kg) and stays the same everywhere. Weight is the gravitational force on it, W = mg (N), so it depends on g. A 90 kg astronaut has a mass of 90 kg on both Earth and the Moon, but weighs about 882 N on Earth and about 146 N on the Moon (g ≈ 1.62 N kg⁻¹).
 <!-- id: physics-1-2-8 -->
 
 Explanation: Both definitions plus the correct units earn full marks.
 
-**A505.** A. twice Earth's
+**A506.** A. twice Earth's
 <!-- id: physics-1-2-9 -->
 
 Explanation: M = ρ(4/3)πR³, so g = GM/R² = (4/3)πGρR ∝ R. Doubling R doubles g.
 
-**A506.** B. towards the centre of mass of the planet
+**A507.** B. towards the centre of mass of the planet
 <!-- id: physics-1-2-10 -->
 
 Explanation: Gravity attracts a test mass towards the centre of mass, so the field points radially inwards.
 
-**A507.** C. 298 N
+**A508.** C. 298 N
 <!-- id: physics-1-2-11 -->
 
 Explanation: g_Mars = GM/R² ≈ 3.73 N kg⁻¹, so W = mg = 80 × 3.73 ≈ 298 N. 784 N is her weight on Earth.
 
-**A508.** g ∝ M/R² = 4/2² = 1, so g_X = 9.8 N kg⁻¹, the same as Earth.
+**A509.** g ∝ M/R² = 4/2² = 1, so g_X = 9.8 N kg⁻¹, the same as Earth.
 <!-- id: physics-1-2-12 -->
 
 Explanation: Use ratios rather than full values.
 
-**A509.** D. a stronger gravitational field
+**A510.** D. a stronger gravitational field
 <!-- id: physics-1-2-13 -->
 
 Explanation: The density of field lines shows field strength; closer lines mean a stronger field.
 
-**A510.** A. the gravitational force per unit mass on a small test mass placed at that point
+**A511.** A. the gravitational force per unit mass on a small test mass placed at that point
 <!-- id: physics-1-2-14 -->
 
 Explanation: g = F/m, the force per kilogram on a test mass, measured in N kg⁻¹.
 
-**A511.** B. 2.64 × 10⁶ m
+**A512.** B. 2.64 × 10⁶ m
 <!-- id: physics-1-2-15 -->
 
 Explanation: g ∝ 1/r², so r = √2 R = 9.01×10⁶ m and the altitude is r − R ≈ 2.64×10⁶ m. 9.01×10⁶ m is the radius, not the altitude.
 
-**A512.** The force on a test mass m at distance r is F = GMm/r². Field strength is force per unit mass, g = F/m = (GMm/r²)/m = GM/r².
+**A513.** The force on a test mass m at distance r is F = GMm/r². Field strength is force per unit mass, g = F/m = (GMm/r²)/m = GM/r².
 <!-- id: physics-1-2-16 -->
 
 Explanation: State the definition g = F/m and show that m cancels.
 
-**A513.** C. zero
+**A514.** C. zero
 <!-- id: physics-1-2-17 -->
 
 Explanation: At the midpoint, fields of equal size point in opposite directions and cancel.
 
-**A514.** D. parallel, equally spaced and pointing downwards
+**A515.** D. parallel, equally spaced and pointing downwards
 <!-- id: physics-1-2-18 -->
 
 Explanation: A uniform field has the same strength and direction everywhere, shown by parallel, equally spaced lines.
 
-**A515.** A. they and the station are both in free fall, accelerating at the same rate towards Earth
+**A516.** A. they and the station are both in free fall, accelerating at the same rate towards Earth
 <!-- id: physics-1-2-19 -->
 
 Explanation: g at the ISS is about 8.7 N kg⁻¹; the astronauts feel weightless because everything falls together, so there is no normal force.
 
-**A516.** M = gR²/G = 3.7 × (3.39×10⁶)² / 6.67×10⁻¹¹ ≈ 6.4 × 10²³ kg.
+**A517.** M = gR²/G = 3.7 × (3.39×10⁶)² / 6.67×10⁻¹¹ ≈ 6.4 × 10²³ kg.
 <!-- id: physics-1-2-20 -->
 
 Explanation: This is approximately the mass of Mars.
 
-**A517.** B. 10 kg
+**A518.** B. 10 kg
 <!-- id: physics-1-2-21 -->
 
 Explanation: Mass is the amount of matter and does not change with location; only weight (mg) changes.
 
-**A518.** C. 0.224 N kg⁻¹
+**A519.** C. 0.224 N kg⁻¹
 <!-- id: physics-1-2-22 -->
 
 Explanation: g = GM/r² = 3.98×10¹⁴ / (4.22×10⁷)² ≈ 0.224 N kg⁻¹.
 
-**A519.** D. 1/9
+**A520.** D. 1/9
 <!-- id: physics-1-2-23 -->
 
 Explanation: g ∝ 1/r², so at 3R it is (1/3)² = 1/9 of the surface value. Note that r is measured from the centre, not from the surface.
 
-**A520.** Earth is slightly flattened (an oblate spheroid), so the poles are closer to Earth's centre than the equator. Because g ∝ 1/r², g is larger at the poles. (Earth's rotation also reduces the effective g at the equator.)
+**A521.** Earth is slightly flattened (an oblate spheroid), so the poles are closer to Earth's centre than the equator. Because g ∝ 1/r², g is larger at the poles. (Earth's rotation also reduces the effective g at the equator.)
 <!-- id: physics-1-2-24 -->
 
 Explanation: One clearly explained reason is enough.
 
-**A521.** g_Earth = GM_E/r² = 3.98×10¹⁴ / (3.0×10⁸)² ≈ 4.42×10⁻³ N kg⁻¹ towards Earth. g_Moon = GM_M/r² = 4.90×10¹² / (8.4×10⁷)² ≈ 6.95×10⁻⁴ N kg⁻¹ towards the Moon. Net ≈ 3.7×10⁻³ N kg⁻¹ towards Earth.
+**A522.** g_Earth = GM_E/r² = 3.98×10¹⁴ / (3.0×10⁸)² ≈ 4.42×10⁻³ N kg⁻¹ towards Earth. g_Moon = GM_M/r² = 4.90×10¹² / (8.4×10⁷)² ≈ 6.95×10⁻⁴ N kg⁻¹ towards the Moon. Net ≈ 3.7×10⁻³ N kg⁻¹ towards Earth.
 <!-- id: physics-1-2-25 -->
 
 Explanation: The fields point in opposite directions, so subtract them.
 
+**A523.** D. 4.9 N/kg
+<!-- id: physics-1-2-c1 -->
+
+Explanation: g = GM/r²: 2M ÷ (2r)² = 2/4 = 1/2 of Earth's value, so 9.8 ÷ 2 = 4.9 N/kg.
+
 #### Satellites, orbits and Kepler's law
 
-**A522.** A. 7.67 × 10³ m s⁻¹
+**A524.** A. 7.67 × 10³ m s⁻¹
 <!-- id: physics-1-3-1 -->
 
 Explanation: v = √(GM/r) = √(3.98×10¹⁴ / 6.77×10⁶) ≈ 7.67×10³ m s⁻¹. Omitting the square root gives 5.88×10⁷.
 
-**A523.** B. 92 minutes
+**A525.** B. 92 minutes
 <!-- id: physics-1-3-2 -->
 
 Explanation: T = 2πr/v = 2π × 6.77×10⁶ / 7.67×10³ ≈ 5.55×10³ s ≈ 92 min. Leaving out the 2 gives about 46 min.
 
-**A524.** C. 4.22 × 10⁷ m
+**A526.** C. 4.22 × 10⁷ m
 <!-- id: physics-1-3-3 -->
 
 Explanation: r = ∛(GMT²/4π²) = ∛(3.98×10¹⁴ × 86400² / 4π²) ≈ 4.22×10⁷ m. 3.58×10⁷ m is the altitude above the surface, not the radius.
 
-**A525.** GMm/r² = mv²/r and v = 2πr/T. Substituting: GM/r² = 4π²r/T², which rearranges to T² = 4π²r³/(GM).
+**A527.** GMm/r² = mv²/r and v = 2πr/T. Substituting: GM/r² = 4π²r/T², which rearranges to T² = 4π²r³/(GM).
 <!-- id: physics-1-3-4 -->
 
 Explanation: Key steps: equate the forces, substitute v = 2πr/T, rearrange.
 
-**A526.** D. 8 times as long
+**A528.** D. 8 times as long
 <!-- id: physics-1-3-5 -->
 
 Explanation: T² ∝ r³, so T ∝ r^(3/2) = 4^(3/2) = 8.
 
-**A527.** A. the same speed and period
+**A529.** A. the same speed and period
 <!-- id: physics-1-3-6 -->
 
 Explanation: v = √(GM/r) and T = 2π√(r³/GM) depend only on the central mass and the radius, not on the satellite's mass.
 
-**A528.** B. the gravitational force, directed towards Earth's centre
+**A530.** B. the gravitational force, directed towards Earth's centre
 <!-- id: physics-1-3-7 -->
 
 Explanation: Gravity provides the centripetal force; the velocity changes direction, so the net force is not zero. There is no outward 'centrifugal' force in the inertial frame.
 
-**A529.** T = 6000 s. r = ∛(GMT²/4π²) = ∛(3.98×10¹⁴ × 6000² / 4π²) ≈ 7.13×10⁶ m. Altitude = 7.13×10⁶ − 6.37×10⁶ ≈ 7.6×10⁵ m (about 760 km).
+**A531.** T = 6000 s. r = ∛(GMT²/4π²) = ∛(3.98×10¹⁴ × 6000² / 4π²) ≈ 7.13×10⁶ m. Altitude = 7.13×10⁶ − 6.37×10⁶ ≈ 7.6×10⁵ m (about 760 km).
 <!-- id: physics-1-3-8 -->
 
 Explanation: Convert minutes to seconds and subtract Earth's radius at the end.
 
-**A530.** C. lower
+**A532.** C. lower
 <!-- id: physics-1-3-9 -->
 
 Explanation: v = √(GM/r), so a larger radius gives a smaller orbital speed.
 
-**A531.** D. Above the equator, period of 24 hours, orbiting in the same direction as Earth's rotation
+**A533.** D. Above the equator, period of 24 hours, orbiting in the same direction as Earth's rotation
 <!-- id: physics-1-3-10 -->
 
 Explanation: To stay above one point, the satellite must match Earth's rotation: equatorial, 24 h period, same direction.
 
-**A532.** A. the gravitational field strength at its orbital radius
+**A534.** A. the gravitational field strength at its orbital radius
 <!-- id: physics-1-3-11 -->
 
 Explanation: The only force is gravity, so a = F/m = GM/r² = g at that radius.
 
-**A533.** A geostationary satellite stays above the same point on the equator because its 24-hour period matches Earth's rotation. Ground dishes can stay pointed at one fixed spot without tracking, giving continuous coverage of a large region.
+**A535.** A geostationary satellite stays above the same point on the equator because its 24-hour period matches Earth's rotation. Ground dishes can stay pointed at one fixed spot without tracking, giving continuous coverage of a large region.
 <!-- id: physics-1-3-12 -->
 
 Explanation: Link the 24 h period and equatorial orbit to a fixed position in the sky.
 
-**A534.** B. 27.4 days
+**A536.** B. 27.4 days
 <!-- id: physics-1-3-13 -->
 
 Explanation: T = 2π√(r³/GM) = 2π√((3.84×10⁸)³ / 3.98×10¹⁴) ≈ 2.37×10⁶ s ≈ 27.4 days.
 
-**A535.** C. 6.4 × 10²³ kg
+**A537.** C. 6.4 × 10²³ kg
 <!-- id: physics-1-3-14 -->
 
 Explanation: M = 4π²r³/(GT²) = 4π² × (9.38×10⁶)³ / (6.67×10⁻¹¹ × (2.76×10⁴)²) ≈ 6.4×10²³ kg. Leaving out 4π² gives 1.6×10²².
 
-**A536.** D. 1/√2
+**A538.** D. 1/√2
 <!-- id: physics-1-3-15 -->
 
 Explanation: v ∝ 1/√r, so doubling r multiplies v by 1/√2 ≈ 0.71.
 
-**A537.** T_M/T_E = (r_M/r_E)^(3/2) = (2.28/1.50)^(3/2) = 1.52^1.5 ≈ 1.87, so T_Mars ≈ 1.87 years.
+**A539.** T_M/T_E = (r_M/r_E)^(3/2) = (2.28/1.50)^(3/2) = 1.52^1.5 ≈ 1.87, so T_Mars ≈ 1.87 years.
 <!-- id: physics-1-3-16 -->
 
 Explanation: Using a ratio with Earth avoids needing the Sun's mass.
 
-**A538.** A. zero, because the force is always perpendicular to the velocity
+**A540.** A. zero, because the force is always perpendicular to the velocity
 <!-- id: physics-1-3-17 -->
 
 Explanation: In a circular orbit gravity is always perpendicular to the displacement, so it does no work and the speed stays constant.
 
-**A539.** B. GMm/(2r)
+**A541.** B. GMm/(2r)
 <!-- id: physics-1-3-18 -->
 
 Explanation: mv²/r = GMm/r² gives mv² = GMm/r, so KE = ½mv² = GMm/(2r).
 
-**A540.** C. 2 : 1
+**A542.** C. 2 : 1
 <!-- id: physics-1-3-19 -->
 
 Explanation: v ∝ 1/√r, so v_A/v_B = √(4r/r) = 2.
 
-**A541.** T = 27.3 × 86400 = 2.36×10⁶ s. v = 2πr/T = 2π × 3.84×10⁸ / 2.36×10⁶ ≈ 1.02×10³ m s⁻¹.
+**A543.** T = 27.3 × 86400 = 2.36×10⁶ s. v = 2πr/T = 2π × 3.84×10⁸ / 2.36×10⁶ ≈ 1.02×10³ m s⁻¹.
 <!-- id: physics-1-3-20 -->
 
 Explanation: Convert days to seconds first.
 
-**A542.** D. 27 : 1
+**A544.** D. 27 : 1
 <!-- id: physics-1-3-21 -->
 
 Explanation: T ∝ r^(3/2) = 9^(3/2) = 27.
 
-**A543.** A. 2.66 × 10⁷ m
+**A545.** A. 2.66 × 10⁷ m
 <!-- id: physics-1-3-22 -->
 
 Explanation: r ∝ T^(2/3), so r = 4.22×10⁷ × (1/2)^(2/3) ≈ 2.66×10⁷ m. Simply halving gives 2.11×10⁷ m.
 
-**A544.** B. the astronaut and the scale are falling together, so there is no normal force between them
+**A546.** B. the astronaut and the scale are falling together, so there is no normal force between them
 <!-- id: physics-1-3-23 -->
 
 Explanation: Apparent weight is the normal force. In free fall everything accelerates at g, so the normal force is zero.
 
-**A545.** M = 4π²r³/(GT²) = 4π² × (1.50×10¹¹)³ / (6.67×10⁻¹¹ × (3.16×10⁷)²) ≈ 2.0×10³⁰ kg.
+**A547.** M = 4π²r³/(GT²) = 4π² × (1.50×10¹¹)³ / (6.67×10⁻¹¹ × (3.16×10⁷)²) ≈ 2.0×10³⁰ kg.
 <!-- id: physics-1-3-24 -->
 
 Explanation: Rearranged Kepler's third law; the mass found is that of the central body.
 
-**A546.** Drag removes mechanical energy, so the satellite drops to a smaller orbital radius. Because v = √(GM/r), its speed actually increases as it spirals inwards: gravity does positive work as it falls, adding more kinetic energy than drag removes.
+**A548.** Drag removes mechanical energy, so the satellite drops to a smaller orbital radius. Because v = √(GM/r), its speed actually increases as it spirals inwards: gravity does positive work as it falls, adding more kinetic energy than drag removes.
 <!-- id: physics-1-3-25 -->
 
 Explanation: The surprising point is that the speed increases; a full answer links this to v = √(GM/r).
 
+**A549.** v ≈ 7.5 × 10³ m/s; T ≈ 97 minutes
+<!-- id: physics-1-3-c1 -->
+
+Explanation: v = √(GM/r) = √(6.67 × 10⁻¹¹ × 5.98 × 10²⁴ ÷ 7.0 × 10⁶) ≈ 7.55 × 10³ m/s. T = 2πr/v ≈ 5.83 × 10³ s ≈ 97 min.
+
 #### Gravitational potential energy from graphs
 
-**A547.** C. the change in gravitational potential energy of the object between those radii
+**A550.** C. the change in gravitational potential energy of the object between those radii
 <!-- id: physics-1-4-1 -->
 
 Explanation: Area = ∫F dr = work done against gravity = change in gravitational potential energy.
 
-**A548.** D. the change in gravitational potential energy per kilogram
+**A551.** D. the change in gravitational potential energy per kilogram
 <!-- id: physics-1-4-2 -->
 
 Explanation: Area = ∫g dr, measured in (N kg⁻¹)(m) = J kg⁻¹; multiply by mass to get the energy change.
 
-**A549.** A. J kg⁻¹
+**A552.** A. J kg⁻¹
 <!-- id: physics-1-4-3 -->
 
 Explanation: N kg⁻¹ × m = N m kg⁻¹ = J kg⁻¹.
 
-**A550.** Find the area under the F–r graph between the two radii, for example by counting squares or using trapezia, and multiply by the scale of one square. This area is the work done against gravity, which equals the increase in the satellite's gravitational potential energy.
+**A553.** Find the area under the F–r graph between the two radii, for example by counting squares or using trapezia, and multiply by the scale of one square. This area is the work done against gravity, which equals the increase in the satellite's gravitational potential energy.
 <!-- id: physics-1-4-4 -->
 
 Explanation: Name the area, the method for estimating it, and that it equals ΔU.
 
-**A551.** B. 98 J
+**A554.** B. 98 J
 <!-- id: physics-1-4-5 -->
 
 Explanation: ΔU = mgΔh = 2.0 × 9.8 × 5.0 = 98 J.
 
-**A552.** C. 5.4 × 10⁹ J
+**A555.** C. 5.4 × 10⁹ J
 <!-- id: physics-1-4-6 -->
 
 Explanation: Area per kg ≈ average g × Δr = 9.0 × 0.6×10⁶ = 5.4×10⁶ J kg⁻¹. Multiply by 1000 kg to get 5.4×10⁹ J. 5.4×10⁶ J leaves out the mass.
 
-**A553.** D. g decreases significantly over that distance, so it cannot be treated as constant
+**A556.** D. g decreases significantly over that distance, so it cannot be treated as constant
 <!-- id: physics-1-4-7 -->
 
 Explanation: mgh assumes a uniform field. Over large distances g varies with 1/r², so the area under the g–r graph must be used.
 
-**A554.** Area ≈ ½(8.13 + 6.22) × 1.0×10⁶ = 7.18×10⁶ J kg⁻¹. Energy ≈ 250 × 7.18×10⁶ ≈ 1.8×10⁹ J.
+**A557.** Area ≈ ½(8.13 + 6.22) × 1.0×10⁶ = 7.18×10⁶ J kg⁻¹. Energy ≈ 250 × 7.18×10⁶ ≈ 1.8×10⁹ J.
 <!-- id: physics-1-4-8 -->
 
 Explanation: Average g × Δr, then multiply by mass. This slightly overestimates because the curve sags below the chord.
 
-**A555.** A. the probe's mass multiplied by the area under the g–r graph from r₁ to r₂
+**A558.** A. the probe's mass multiplied by the area under the g–r graph from r₁ to r₂
 <!-- id: physics-1-4-9 -->
 
 Explanation: The energy needed is the gain in GPE, which equals m × ∫g dr from r₁ to r₂.
 
-**A556.** B. its gravitational potential energy increases and its kinetic energy decreases
+**A559.** B. its gravitational potential energy increases and its kinetic energy decreases
 <!-- id: physics-1-4-10 -->
 
 Explanation: Mechanical energy is conserved, so the kinetic energy turns into gravitational potential energy as height increases.
 
-**A557.** C. 1.2 × 10⁹ J
+**A560.** C. 1.2 × 10⁹ J
 <!-- id: physics-1-4-11 -->
 
 Explanation: Each square = 0.5 × 1.0×10⁶ = 5×10⁵ J kg⁻¹. 12 squares = 6.0×10⁶ J kg⁻¹, and × 200 kg = 1.2×10⁹ J.
 
-**A558.** Too high. g decreases with altitude (to about 8.7 N kg⁻¹ at 400 km), so the true average g over the climb is less than 9.8 N kg⁻¹. Using 9.8 N kg⁻¹ throughout overestimates the area under the g–r graph.
+**A561.** Too high. g decreases with altitude (to about 8.7 N kg⁻¹ at 400 km), so the true average g over the climb is less than 9.8 N kg⁻¹. Using 9.8 N kg⁻¹ throughout overestimates the area under the g–r graph.
 <!-- id: physics-1-4-12 -->
 
 Explanation: Must link the decrease in g to the overestimate.
 
-**A559.** D. 2.5 × 10³ m s⁻¹
+**A562.** D. 2.5 × 10³ m s⁻¹
 <!-- id: physics-1-4-13 -->
 
 Explanation: Energy gained per kg = ½v², so v = √(2 × 3.2×10⁶) ≈ 2.5×10³ m s⁻¹. Leaving out the factor 2 gives 1.8×10³.
 
-**A560.** A. a curve decreasing in proportion to 1/r², approaching zero but never reaching it
+**A563.** A. a curve decreasing in proportion to 1/r², approaching zero but never reaching it
 <!-- id: physics-1-4-14 -->
 
 Explanation: g = GM/r² is an inverse square relationship: it falls steeply at first, then flattens towards zero.
 
-**A561.** B. 500 times larger
+**A564.** B. 500 times larger
 <!-- id: physics-1-4-15 -->
 
 Explanation: F = mg at every r, so ∫F dr = m∫g dr: the area is 500 times larger.
 
-**A562.** Average g ≈ (9.8 + 8.69)/2 = 9.245 N kg⁻¹. ΔU ≈ m × g_avg × Δh = 450 × 9.245 × 4.0×10⁵ ≈ 1.7×10⁹ J.
+**A565.** Average g ≈ (9.8 + 8.69)/2 = 9.245 N kg⁻¹. ΔU ≈ m × g_avg × Δh = 450 × 9.245 × 4.0×10⁵ ≈ 1.7×10⁹ J.
 <!-- id: physics-1-4-16 -->
 
 Explanation: Convert 400 km to 4.0×10⁵ m.
 
-**A563.** C. the area under the force–distance graph over the distance it falls
+**A566.** C. the area under the force–distance graph over the distance it falls
 <!-- id: physics-1-4-17 -->
 
 Explanation: The loss of GPE (the area under the F–r graph) turns into kinetic energy.
 
-**A564.** D. an overestimate, because the straight line lies above the curve
+**A567.** D. an overestimate, because the straight line lies above the curve
 <!-- id: physics-1-4-18 -->
 
 Explanation: For a decreasing curve that is concave up, the chord between two points lies above the curve, so the trapezium includes extra area.
 
-**A565.** A. 1.12 × 10⁴ m s⁻¹
+**A568.** A. 1.12 × 10⁴ m s⁻¹
 <!-- id: physics-1-4-19 -->
 
 Explanation: Set ½v² = 6.25×10⁷ J kg⁻¹, so v = √(1.25×10⁸) ≈ 1.12×10⁴ m s⁻¹. 7.91×10³ m s⁻¹ is the speed for a circular orbit at the surface.
 
-**A566.** One square = 100 × 1.0×10⁵ = 1.0×10⁷ J. ΔU = 35 × 1.0×10⁷ = 3.5×10⁸ J.
+**A569.** One square = 100 × 1.0×10⁵ = 1.0×10⁷ J. ΔU = 35 × 1.0×10⁷ = 3.5×10⁸ J.
 <!-- id: physics-1-4-20 -->
 
 Explanation: Because this is a force graph, the area is already energy; do not multiply by mass again.
 
-**A567.** B. 20 m
+**A570.** B. 20 m
 <!-- id: physics-1-4-21 -->
 
 Explanation: mgh = ½mv², so h = v²/(2g) = 400/19.6 ≈ 20.4 m. Leaving out the 2 gives about 41 m.
 
-**A568.** C. 5.1 × 10⁵ J
+**A571.** C. 5.1 × 10⁵ J
 <!-- id: physics-1-4-22 -->
 
 Explanation: ΔU = mgΔh = 60 × 9.8 × 863 ≈ 5.07×10⁵ J. Using the summit height alone gives 1.3×10⁶ J.
 
-**A569.** D. The area under the gravitational field strength–distance graph from R to 2R
+**A572.** D. The area under the gravitational field strength–distance graph from R to 2R
 <!-- id: physics-1-4-23 -->
 
 Explanation: Work per kg = ∫g dr over the actual path, from R to 2R.
 
-**A570.** mgh = ½mv², so v = √(2gh) = √(2 × 9.8 × 285) ≈ 75 m s⁻¹.
+**A573.** mgh = ½mv², so v = √(2gh) = √(2 × 9.8 × 285) ≈ 75 m s⁻¹.
 <!-- id: physics-1-4-24 -->
 
 Explanation: Mass cancels; in reality air resistance would make the speed much lower.
 
-**A571.** Gravity pulls the satellite towards Earth, so moving it outwards means work must be done against the gravitational force (the force and the displacement are opposite). This work is stored as an increase in gravitational potential energy, equal to the area under the F–r graph.
+**A574.** Gravity pulls the satellite towards Earth, so moving it outwards means work must be done against the gravitational force (the force and the displacement are opposite). This work is stored as an increase in gravitational potential energy, equal to the area under the F–r graph.
 <!-- id: physics-1-4-25 -->
 
 Explanation: Say that work is done against gravity, and link it to the area.
+
+**A575.** B. 1.0 × 10⁹ J
+<!-- id: physics-1-4-c1 -->
+
+Explanation: The area under a g–r graph is the change in GPE per kilogram. Multiply by the mass: 2.0 × 10⁶ × 500 = 1.0 × 10⁹ J.
 
 ### Electric & magnetic fields
 
 #### Coulomb's law and electric fields
 
-**A572.** A. 0.60 N, repulsive
+**A576.** A. 0.60 N, repulsive
 <!-- id: physics-2-1-1 -->
 
 Explanation: F = kq₁q₂/r² = 8.99 × 10⁹ × (2.0 × 10⁻⁶)(3.0 × 10⁻⁶)/0.30² ≈ 0.60 N; like charges repel. 0.18 N results from forgetting to square r.
 
-**A573.** B. one-ninth of its original value
+**A577.** B. one-ninth of its original value
 <!-- id: physics-2-1-2 -->
 
 Explanation: Coulomb's law is an inverse square law, so F ∝ 1/r²; tripling r divides F by 3² = 9.
 
-**A574.** C. is unchanged
+**A578.** C. is unchanged
 <!-- id: physics-2-1-3 -->
 
 Explanation: The product q₁q₂ increases by a factor of 4 and r² increases by a factor of 4, so F = kq₁q₂/r² is unchanged.
 
-**A575.** D. 1.4 × 10² N C⁻¹ directed away from the charge
+**A579.** D. 1.4 × 10² N C⁻¹ directed away from the charge
 <!-- id: physics-2-1-4 -->
 
 Explanation: E = kq/r² = 8.99 × 10⁹ × 4.0 × 10⁻⁹/0.25 ≈ 144 N C⁻¹. The field of a positive charge points away from it.
 
-**A576.** A. 2.5 × 10⁴ V m⁻¹
+**A580.** A. 2.5 × 10⁴ V m⁻¹
 <!-- id: physics-2-1-5 -->
 
 Explanation: E = V/d = 500/0.020 = 2.5 × 10⁴ V m⁻¹. Remember to convert cm to m.
 
-**A577.** B. 4.0 × 10⁻¹⁵ N
+**A581.** B. 4.0 × 10⁻¹⁵ N
 <!-- id: physics-2-1-6 -->
 
 Explanation: F = qE = 1.6 × 10⁻¹⁹ × 2.5 × 10⁴ = 4.0 × 10⁻¹⁵ N.
 
-**A578.** C. Towards the positive plate
+**A582.** C. Towards the positive plate
 <!-- id: physics-2-1-7 -->
 
 Explanation: The electric field points from the positive to the negative plate; an electron has negative charge, so the force on it is opposite to the field, towards the positive plate.
 
-**A579.** D. They begin on positive charges and end on negative charges.
+**A583.** D. They begin on positive charges and end on negative charges.
 <!-- id: physics-2-1-8 -->
 
 Explanation: Field lines point in the direction of force on a positive test charge, so they start on positive and end on negative charges; they never cross, and closer spacing means a stronger field.
 
-**A580.** A. It is uniform in both magnitude and direction.
+**A584.** A. It is uniform in both magnitude and direction.
 <!-- id: physics-2-1-9 -->
 
 Explanation: Between large parallel plates the field lines are parallel and evenly spaced, so E = V/d is the same at every point away from the edges.
 
-**A581.** B. 3.2 × 10⁻¹⁶ J
+**A585.** B. 3.2 × 10⁻¹⁶ J
 <!-- id: physics-2-1-10 -->
 
 Explanation: W = qV = 1.6 × 10⁻¹⁹ × 2000 = 3.2 × 10⁻¹⁶ J, which equals the kinetic energy gained.
 
-**A582.** C. non-zero and directed towards −Q
+**A586.** C. non-zero and directed towards −Q
 <!-- id: physics-2-1-11 -->
 
 Explanation: The field from +Q points away from +Q (towards −Q) and the field from −Q points towards −Q, so both point the same way and add.
 
-**A583.** D. d/3 from the +q charge
+**A587.** D. d/3 from the +q charge
 <!-- id: physics-2-1-12 -->
 
 Explanation: Set 4q/(d − x)² = q/x², giving d − x = 2x, so x = d/3 from the smaller charge.
 
-**A584.** A. E/4
+**A588.** A. E/4
 <!-- id: physics-2-1-13 -->
 
 Explanation: The field of a point charge E = kq/r² follows an inverse square law, so doubling r reduces E by a factor of 4.
 
-**A585.** B. 2.9 × 10¹¹ m s⁻²
+**A589.** B. 2.9 × 10¹¹ m s⁻²
 <!-- id: physics-2-1-14 -->
 
 Explanation: a = qE/m = (1.6 × 10⁻¹⁹ × 3.0 × 10³)/1.67 × 10⁻²⁷ ≈ 2.9 × 10¹¹ m s⁻². Using the electron mass gives 5.3 × 10¹⁴ m s⁻².
 
-**A586.** C. Electric forces can be attractive or repulsive, whereas gravitational forces are only attractive.
+**A590.** C. Electric forces can be attractive or repulsive, whereas gravitational forces are only attractive.
 <!-- id: physics-2-1-15 -->
 
 Explanation: Both fields of point sources are inverse square fields, but charge comes in two signs, so electric forces can repel; gravity only attracts and is far weaker between protons.
 
-**A587.** D. one-third of the original magnitude, and repulsive
+**A591.** D. one-third of the original magnitude, and repulsive
 <!-- id: physics-2-1-16 -->
 
 Explanation: Charge is shared: total +4 μC gives +2 μC each. Originally |q₁q₂| = 12 (μC)², now 4 (μC)², so the force is 1/3 as large and, with like charges, repulsive.
 
-**A588.** A. V m⁻¹
+**A592.** A. V m⁻¹
 <!-- id: physics-2-1-17 -->
 
 Explanation: 1 V = 1 J C⁻¹ = 1 N m C⁻¹, so V m⁻¹ = N m C⁻¹ m⁻¹ = N C⁻¹.
 
-**A589.** B. 1.3 × 10⁷ m s⁻¹
+**A593.** B. 1.3 × 10⁷ m s⁻¹
 <!-- id: physics-2-1-18 -->
 
 Explanation: qV = ½mv², so v = √(2qV/m) = √(2 × 1.6 × 10⁻¹⁹ × 500/9.1 × 10⁻³¹) ≈ 1.3 × 10⁷ m s⁻¹.
 
-**A590.** F = k e²/r² = 8.99 × 10⁹ × (1.6 × 10⁻¹⁹)²/(5.3 × 10⁻¹¹)² ≈ 8.2 × 10⁻⁸ N, attractive.
+**A594.** F = k e²/r² = 8.99 × 10⁹ × (1.6 × 10⁻¹⁹)²/(5.3 × 10⁻¹¹)² ≈ 8.2 × 10⁻⁸ N, attractive.
 <!-- id: physics-2-1-19 -->
 
 Explanation: Award marks for correct substitution, squaring r, and stating attractive (opposite charges).
 
-**A591.** Field lines radiate outwards from each charge and curve away from the region between them, so no lines connect the two charges. At the midpoint there is a neutral point where the field is zero. Lines never cross and are densest close to each charge.
+**A595.** Field lines radiate outwards from each charge and curve away from the region between them, so no lines connect the two charges. At the midpoint there is a neutral point where the field is zero. Lines never cross and are densest close to each charge.
 <!-- id: physics-2-1-20 -->
 
 Explanation: Key points: lines outward, repel/bend away from each other, neutral point at the centre.
 
-**A592.** The uniform field exerts a constant vertical force (qE), so the electron has constant vertical acceleration, while its horizontal velocity is unchanged because there is no horizontal force. Constant velocity in one direction combined with constant acceleration in the perpendicular direction produces a parabola, like a projectile.
+**A596.** The uniform field exerts a constant vertical force (qE), so the electron has constant vertical acceleration, while its horizontal velocity is unchanged because there is no horizontal force. Constant velocity in one direction combined with constant acceleration in the perpendicular direction produces a parabola, like a projectile.
 <!-- id: physics-2-1-21 -->
 
 Explanation: Must mention constant force/acceleration perpendicular to the plates and constant horizontal velocity.
 
-**A593.** V = Ed = 4.0 × 10⁵ × 5.0 × 10⁻³ = 2.0 × 10³ V (2000 V).
+**A597.** V = Ed = 4.0 × 10⁵ × 5.0 × 10⁻³ = 2.0 × 10³ V (2000 V).
 <!-- id: physics-2-1-22 -->
 
 Explanation: Common error: forgetting to convert 5.0 mm to 5.0 × 10⁻³ m.
 
-**A594.** q = F/E = 2.4 × 10⁻³/8.0 × 10³ = 3.0 × 10⁻⁷ C (0.30 μC).
+**A598.** q = F/E = 2.4 × 10⁻³/8.0 × 10³ = 3.0 × 10⁻⁷ C (0.30 μC).
 <!-- id: physics-2-1-23 -->
 
 Explanation: Rearrange F = qE.
 
-**A595.** Fₑ/F_g = ke²/(Gm²) = (8.99 × 10⁹ × (1.6 × 10⁻¹⁹)²)/(6.67 × 10⁻¹¹ × (1.67 × 10⁻²⁷)²) ≈ 1.2 × 10³⁶. The electric force is vastly larger, so gravity is negligible between subatomic particles.
+**A599.** Fₑ/F_g = ke²/(Gm²) = (8.99 × 10⁹ × (1.6 × 10⁻¹⁹)²)/(6.67 × 10⁻¹¹ × (1.67 × 10⁻²⁷)²) ≈ 1.2 × 10³⁶. The electric force is vastly larger, so gravity is negligible between subatomic particles.
 <!-- id: physics-2-1-24 -->
 
 Explanation: The distance cancels because both forces are inverse square.
 
-**A596.** Each charge is 0.10 m away: E = kq/r² = 8.99 × 10⁹ × 3.0 × 10⁻⁹/0.010 ≈ 2.7 × 10³ N C⁻¹. Both fields point towards the negative charge, so E_total ≈ 5.4 × 10³ N C⁻¹ directed towards the −3.0 nC charge.
+**A600.** Each charge is 0.10 m away: E = kq/r² = 8.99 × 10⁹ × 3.0 × 10⁻⁹/0.010 ≈ 2.7 × 10³ N C⁻¹. Both fields point towards the negative charge, so E_total ≈ 5.4 × 10³ N C⁻¹ directed towards the −3.0 nC charge.
 <!-- id: physics-2-1-25 -->
 
 Explanation: Students often subtract the fields; here they add because both point towards −3.0 nC.
 
+**A601.** B. 0.30 m from the +2 µC charge, on the side away from the −8 µC charge
+<!-- id: physics-2-1-c1 -->
+
+Explanation: Between opposite charges the fields point the same way, so the zero point is outside, nearer the smaller charge: 2/x² = 8/(x + 0.30)² gives x + 0.30 = 2x, so x = 0.30 m.
+
 #### Magnetic fields of wires and solenoids
 
-**A597.** C. East
+**A602.** C. East
 <!-- id: physics-2-2-1 -->
 
 Explanation: Using the right-hand grip rule with the thumb pointing north, the fingers curl so that the field above the wire points east (and below it points west).
 
-**A598.** D. Concentric circles centred on the wire, in planes perpendicular to it
+**A603.** D. Concentric circles centred on the wire, in planes perpendicular to it
 <!-- id: physics-2-2-2 -->
 
 Explanation: The field of a straight wire forms closed circular loops around it, perpendicular to the current, with direction given by the right-hand grip rule.
 
-**A599.** A. halves
+**A604.** A. halves
 <!-- id: physics-2-2-3 -->
 
 Explanation: The magnetic field of a long straight wire is proportional to I/r, so doubling the distance halves the field.
 
-**A600.** B. It is approximately uniform and parallel to the solenoid's axis.
+**A605.** B. It is approximately uniform and parallel to the solenoid's axis.
 <!-- id: physics-2-2-4 -->
 
 Explanation: Contributions from all the loops add along the axis, giving a strong, nearly uniform field parallel to the axis inside a long solenoid.
 
-**A601.** C. a north pole
+**A606.** C. a north pole
 <!-- id: physics-2-2-5 -->
 
 Explanation: Curl the fingers of your right hand anticlockwise in the direction of current; your thumb points towards you, so field lines emerge from that end, making it a north pole.
 
-**A602.** D. Stretching it to twice its length while keeping the same number of turns and current
+**A607.** D. Stretching it to twice its length while keeping the same number of turns and current
 <!-- id: physics-2-2-6 -->
 
 Explanation: The field depends on turns per unit length and current; stretching the coil reduces turns per metre and so weakens the field.
 
-**A603.** A. from the south pole to the north pole
+**A608.** A. from the south pole to the north pole
 <!-- id: physics-2-2-7 -->
 
 Explanation: Magnetic field lines are closed loops: outside the magnet they run N to S, so inside they return from S to N.
 
-**A604.** B. Magnetic field lines always form closed loops, whereas electric field lines from static charges begin and end on charges.
+**A609.** B. Magnetic field lines always form closed loops, whereas electric field lines from static charges begin and end on charges.
 <!-- id: physics-2-2-8 -->
 
 Explanation: No magnetic monopoles have been found, so magnetic field lines have no start or end point and form closed loops.
 
-**A605.** C. attract each other
+**A610.** C. attract each other
 <!-- id: physics-2-2-9 -->
 
 Explanation: Each wire sits in the magnetic field of the other; applying the right-hand rules shows the forces point towards each other when currents are in the same direction.
 
-**A606.** D. zero
+**A611.** D. zero
 <!-- id: physics-2-2-10 -->
 
 Explanation: At the midpoint the two fields are equal in size but, by the right-hand grip rule, opposite in direction, so they cancel.
 
-**A607.** A. N A⁻¹ m⁻¹
+**A612.** A. N A⁻¹ m⁻¹
 <!-- id: physics-2-2-11 -->
 
 Explanation: From F = IlB, B = F/(Il), so 1 T = 1 N A⁻¹ m⁻¹.
 
-**A608.** B. a magnetic south pole
+**A613.** B. a magnetic south pole
 <!-- id: physics-2-2-12 -->
 
 Explanation: Opposite poles attract, so the north pole of a compass is attracted to a magnetic south pole, located near the geographic North Pole.
 
-**A609.** C. field lines drawn closer together
+**A614.** C. field lines drawn closer together
 <!-- id: physics-2-2-13 -->
 
 Explanation: The density of field lines represents field strength; lines never cross and magnetic lines never end.
 
-**A610.** D. is unchanged
+**A615.** D. is unchanged
 <!-- id: physics-2-2-14 -->
 
 Explanation: The field inside a long solenoid is proportional to nI (turns per metre × current); doubling I and halving n leaves nI unchanged.
 
-**A611.** A. anticlockwise
+**A616.** A. anticlockwise
 <!-- id: physics-2-2-15 -->
 
 Explanation: With the right thumb pointing up (towards a viewer looking down), the fingers curl anticlockwise.
 
-**A612.** B. North
+**A617.** B. North
 <!-- id: physics-2-2-16 -->
 
 Explanation: Viewed from above the field circulates anticlockwise; on the east side of the wire, anticlockwise circulation points north.
 
-**A613.** C. Moving electric charges
+**A618.** C. Moving electric charges
 <!-- id: physics-2-2-17 -->
 
 Explanation: Magnetic fields are produced by moving charges, such as currents in wires and the motion and spin of electrons in magnetic materials.
 
-**A614.** D. a bar magnet, with poles at each end
+**A619.** D. a bar magnet, with poles at each end
 <!-- id: physics-2-2-18 -->
 
 Explanation: A solenoid's external field is like that of a bar magnet, emerging from the north end and re-entering at the south end.
 
-**A615.** The field forms concentric circles around the wire in planes perpendicular to the current, getting weaker with distance from the wire. Its direction is found with the right-hand grip rule: point the right thumb in the direction of conventional current and the fingers curl in the direction of the field.
+**A620.** The field forms concentric circles around the wire in planes perpendicular to the current, getting weaker with distance from the wire. Its direction is found with the right-hand grip rule: point the right thumb in the direction of conventional current and the fingers curl in the direction of the field.
 <!-- id: physics-2-2-19 -->
 
 Explanation: Marks for circular shape, perpendicular planes, and correct use of the right-hand grip rule.
 
-**A616.** Inside, the fields from every loop point in the same direction along the axis and add together, giving a strong, nearly uniform field. Outside, the field lines spread out over a much larger region (and contributions from opposite sides of loops partly cancel), so the field is much weaker.
+**A621.** Inside, the fields from every loop point in the same direction along the axis and add together, giving a strong, nearly uniform field. Outside, the field lines spread out over a much larger region (and contributions from opposite sides of loops partly cancel), so the field is much weaker.
 <!-- id: physics-2-2-20 -->
 
 Explanation: Key idea: superposition of fields from each turn.
 
-**A617.** 1. Magnetic field lines form closed loops, while electric field lines start on positive charges and end on negative charges. 2. The magnetic force on a moving charge is perpendicular to the field lines, whereas the electric force on a charge is along the field lines. (Also: magnetic fields exert no force on stationary charges.)
+**A622.** 1. Magnetic field lines form closed loops, while electric field lines start on positive charges and end on negative charges. 2. The magnetic force on a moving charge is perpendicular to the field lines, whereas the electric force on a charge is along the field lines. (Also: magnetic fields exert no force on stationary charges.)
 <!-- id: physics-2-2-21 -->
 
 Explanation: Any two valid differences.
 
-**A618.** The field forms circles around the wire that run clockwise as seen by the viewer. With the right thumb pointing into the page, the fingers curl clockwise.
+**A623.** The field forms circles around the wire that run clockwise as seen by the viewer. With the right thumb pointing into the page, the fingers curl clockwise.
 <!-- id: physics-2-2-22 -->
 
 Explanation: Into the page → clockwise; out of the page → anticlockwise.
 
-**A619.** The field from each wire at the midpoint has the same magnitude, and because the currents are opposite, the right-hand grip rule shows both fields point in the same direction. They add, so the field is twice that of one wire, directed perpendicular to the plane containing the wires.
+**A624.** The field from each wire at the midpoint has the same magnitude, and because the currents are opposite, the right-hand grip rule shows both fields point in the same direction. They add, so the field is twice that of one wire, directed perpendicular to the plane containing the wires.
 <!-- id: physics-2-2-23 -->
 
 Explanation: Contrast with same-direction currents, where the midpoint field is zero.
 
-**A620.** B ∝ I, so B = 4.0 × (5.0/2.0) = 10 mT (1.0 × 10⁻² T).
+**A625.** B ∝ I, so B = 4.0 × (5.0/2.0) = 10 mT (1.0 × 10⁻² T).
 <!-- id: physics-2-2-24 -->
 
 Explanation: Direct proportion between solenoid field and current.
 
-**A621.** Reversing the direction of the current reverses the field, swapping the north and south poles. A soft iron core is easily magnetised, which greatly strengthens and concentrates the field, and it loses its magnetism quickly when the current is switched off.
+**A626.** Reversing the direction of the current reverses the field, swapping the north and south poles. A soft iron core is easily magnetised, which greatly strengthens and concentrates the field, and it loses its magnetism quickly when the current is switched off.
 <!-- id: physics-2-2-25 -->
 
 Explanation: Two parts: reverse current; soft iron strengthens field and demagnetises easily.
 
+**A627.** A. Zero, and the wires attract each other
+<!-- id: physics-2-2-c1 -->
+
+Explanation: By the right-hand grip rule the two fields point in opposite directions midway, so they cancel. Parallel currents attract.
+
 #### Forces on moving charges and currents
 
-**A622.** A. 0.30 N
+**A628.** A. 0.30 N
 <!-- id: physics-2-3-1 -->
 
 Explanation: F = IlB = 3.0 × 0.50 × 0.20 = 0.30 N.
 
-**A623.** B. zero
+**A629.** B. zero
 <!-- id: physics-2-3-2 -->
 
 Explanation: The force on a current depends on the component of the field perpendicular to the current; when parallel, F = 0.
 
-**A624.** C. 4.0 N
+**A630.** C. 4.0 N
 <!-- id: physics-2-3-3 -->
 
 Explanation: F = nIlB = 50 × 2.0 × 0.10 × 0.40 = 4.0 N. 0.080 N is the force for a single turn.
 
-**A625.** D. North
+**A631.** D. North
 <!-- id: physics-2-3-4 -->
 
 Explanation: Using the right-hand slap rule (fingers along B down, thumb along current east), the palm faces north; equivalently F ∝ I × B gives north.
 
-**A626.** A. West
+**A632.** A. West
 <!-- id: physics-2-3-5 -->
 
 Explanation: For a positive charge the force (v × B) would be east; the electron is negative, so the force is west.
 
-**A627.** B. 1.6 × 10⁻¹³ N
+**A633.** B. 1.6 × 10⁻¹³ N
 <!-- id: physics-2-3-6 -->
 
 Explanation: F = qvB = 1.6 × 10⁻¹⁹ × 2.0 × 10⁶ × 0.50 = 1.6 × 10⁻¹³ N.
 
-**A628.** C. 8.5 mm
+**A634.** C. 8.5 mm
 <!-- id: physics-2-3-7 -->
 
 Explanation: r = mv/(qB) = (9.1 × 10⁻³¹ × 3.0 × 10⁶)/(1.6 × 10⁻¹⁹ × 2.0 × 10⁻³) ≈ 8.5 × 10⁻³ m.
 
-**A629.** D. Zero, because the force is always perpendicular to the velocity
+**A635.** D. Zero, because the force is always perpendicular to the velocity
 <!-- id: physics-2-3-8 -->
 
 Explanation: Work requires a force component along the displacement; the magnetic force is always perpendicular to the motion, so it does no work and the speed stays constant.
 
-**A630.** A. doubles
+**A636.** A. doubles
 <!-- id: physics-2-3-9 -->
 
 Explanation: r = mv/(qB), so r is directly proportional to v.
 
-**A631.** B. The proton's path has a much larger radius and curves in the opposite sense to the electron's.
+**A637.** B. The proton's path has a much larger radius and curves in the opposite sense to the electron's.
 <!-- id: physics-2-3-10 -->
 
 Explanation: They have equal and opposite charges, so they curve in opposite senses; r = mv/(qB) and the proton is about 1840 times more massive, so its radius is far larger.
 
-**A632.** C. 2.0 × 10⁵ m s⁻¹
+**A638.** C. 2.0 × 10⁵ m s⁻¹
 <!-- id: physics-2-3-11 -->
 
 Explanation: Undeflected means qE = qvB, so v = E/B = 2.0 × 10⁴/0.10 = 2.0 × 10⁵ m s⁻¹.
 
-**A633.** D. a straight line at constant speed
+**A639.** D. a straight line at constant speed
 <!-- id: physics-2-3-12 -->
 
 Explanation: When v is parallel to B, F = qvB sinθ = 0, so the particle continues with constant velocity.
 
-**A634.** A. To reverse the current in the coil every half turn so the torque keeps acting in the same direction
+**A640.** A. To reverse the current in the coil every half turn so the torque keeps acting in the same direction
 <!-- id: physics-2-3-13 -->
 
 Explanation: Without the commutator the torque would reverse each half turn and the coil would just oscillate; the commutator reverses the coil current at the right moment.
 
-**A635.** B. zero
+**A641.** B. zero
 <!-- id: physics-2-3-14 -->
 
 Explanation: A current parallel to the field experiences no magnetic force (F = IlB sinθ with θ = 0).
 
-**A636.** C. 2
+**A642.** C. 2
 <!-- id: physics-2-3-15 -->
 
 Explanation: r = mv/(qB): the alpha has 4 times the mass and 2 times the charge, so its radius is 4/2 = 2 times larger.
 
-**A637.** D. stays in the same direction with the same magnitude
+**A643.** D. stays in the same direction with the same magnitude
 <!-- id: physics-2-3-16 -->
 
 Explanation: Reversing one of I or B reverses the force; reversing both reverses it twice, leaving the force unchanged.
 
-**A638.** A. The radius increases but the period stays the same.
+**A644.** A. The radius increases but the period stays the same.
 <!-- id: physics-2-3-17 -->
 
 Explanation: r = mv/(qB) increases with v, while T = 2πr/v = 2πm/(qB) does not depend on speed.
 
-**A639.** B. 8.0 × 10⁻²⁶ kg
+**A645.** B. 8.0 × 10⁻²⁶ kg
 <!-- id: physics-2-3-18 -->
 
 Explanation: m = qBr/v = (1.6 × 10⁻¹⁹ × 0.50 × 0.10)/1.0 × 10⁵ = 8.0 × 10⁻²⁶ kg.
 
-**A640.** The magnetic force qvB is always perpendicular to the velocity, so it provides the centripetal force: qvB = mv²/r. Rearranging gives r = mv/(qB).
+**A646.** The magnetic force qvB is always perpendicular to the velocity, so it provides the centripetal force: qvB = mv²/r. Rearranging gives r = mv/(qB).
 <!-- id: physics-2-3-19 -->
 
 Explanation: Must identify the magnetic force as the centripetal force.
 
-**A641.** B = mv/(qr) = (9.1 × 10⁻³¹ × 4.0 × 10⁶)/(1.6 × 10⁻¹⁹ × 0.050) ≈ 4.6 × 10⁻⁴ T.
+**A647.** B = mv/(qr) = (9.1 × 10⁻³¹ × 4.0 × 10⁶)/(1.6 × 10⁻¹⁹ × 0.050) ≈ 4.6 × 10⁻⁴ T.
 <!-- id: physics-2-3-20 -->
 
 Explanation: Rearrange r = mv/(qB) for B.
 
-**A642.** The magnetic force is always perpendicular to the particle's velocity, so it has no component along the direction of motion and does no work. With no work done the kinetic energy, and therefore the speed, is constant; only the direction changes.
+**A648.** The magnetic force is always perpendicular to the particle's velocity, so it has no component along the direction of motion and does no work. With no work done the kinetic energy, and therefore the speed, is constant; only the direction changes.
 <!-- id: physics-2-3-21 -->
 
 Explanation: Key words: perpendicular, no work, kinetic energy constant.
 
-**A643.** F = nIlB = 20 × 1.5 × 0.050 × 0.30 = 0.45 N.
+**A649.** F = nIlB = 20 × 1.5 × 0.050 × 0.30 = 0.45 N.
 <!-- id: physics-2-3-22 -->
 
 Explanation: Remember to multiply by the number of turns and convert cm to m.
 
-**A644.** The brushes make a sliding electrical contact between the external DC supply and the rotating coil. The split-ring commutator reverses the direction of current in the coil every half rotation (when the coil plane is perpendicular to the field), so the forces on each side always produce torque in the same rotational direction and the motor keeps turning.
+**A650.** The brushes make a sliding electrical contact between the external DC supply and the rotating coil. The split-ring commutator reverses the direction of current in the coil every half rotation (when the coil plane is perpendicular to the field), so the forces on each side always produce torque in the same rotational direction and the motor keeps turning.
 <!-- id: physics-2-3-23 -->
 
 Explanation: Mention reversing current each half turn and torque in a constant direction.
 
-**A645.** IlB = mg, so I = mg/(lB) = (6.0 × 10⁻³ × 9.8)/(0.20 × 0.50) ≈ 0.59 A.
+**A651.** IlB = mg, so I = mg/(lB) = (6.0 × 10⁻³ × 9.8)/(0.20 × 0.50) ≈ 0.59 A.
 <!-- id: physics-2-3-24 -->
 
 Explanation: Convert 6.0 g to 6.0 × 10⁻³ kg; the current direction must give an upward force.
 
-**A646.** South. Using F = qv × B (or the right-hand slap rule) with velocity east and field up, the force on a positive charge points south.
+**A652.** South. Using F = qv × B (or the right-hand slap rule) with velocity east and field up, the force on a positive charge points south.
 <!-- id: physics-2-3-25 -->
 
 Explanation: For a negative particle the deflection would be north.
 
+**A653.** 2.3 × 10⁻³ m (2.3 mm)
+<!-- id: physics-2-3-c1 -->
+
+Explanation: qvB = mv²/r, so r = mv/(qB) = 9.11 × 10⁻³¹ × 2.0 × 10⁶ ÷ (1.6 × 10⁻¹⁹ × 5.0 × 10⁻³) ≈ 2.3 × 10⁻³ m.
+
 #### Particle accelerators and the synchrotron
 
-**A647.** C. Clayton, Victoria
+**A654.** C. Clayton, Victoria
 <!-- id: physics-2-4-1 -->
 
 Explanation: The Australian Synchrotron is in the Melbourne suburb of Clayton, next to Monash University; Lucas Heights hosts the OPAL research reactor.
 
-**A648.** D. To change the direction of the electrons so they follow a closed path
+**A655.** D. To change the direction of the electrons so they follow a closed path
 <!-- id: physics-2-4-2 -->
 
 Explanation: Magnetic forces are perpendicular to velocity, so they steer the beam around the ring without changing its speed.
 
-**A649.** A. To replace the energy the electrons lose as synchrotron radiation
+**A656.** A. To replace the energy the electrons lose as synchrotron radiation
 <!-- id: physics-2-4-3 -->
 
 Explanation: RF cavities provide oscillating electric fields that give the electrons back the energy they radiate, keeping their energy constant.
 
-**A650.** B. electrons are accelerated by changing direction in a magnetic field
+**A657.** B. electrons are accelerated by changing direction in a magnetic field
 <!-- id: physics-2-4-4 -->
 
 Explanation: Accelerating charges radiate electromagnetic energy; in a bending magnet the electrons are accelerated centripetally and emit intense light tangent to their path.
 
-**A651.** C. the electric field between the cathode and the anode
+**A658.** C. the electric field between the cathode and the anode
 <!-- id: physics-2-4-5 -->
 
 Explanation: The potential difference between cathode and anode creates an electric field that does work qV on each electron.
 
-**A652.** D. 2.4 × 10⁻¹⁵ J
+**A659.** D. 2.4 × 10⁻¹⁵ J
 <!-- id: physics-2-4-6 -->
 
 Explanation: Eₖ = qV = 1.6 × 10⁻¹⁹ × 1.5 × 10⁴ = 2.4 × 10⁻¹⁵ J (15 keV).
 
-**A653.** A. The magnetic force is perpendicular to the velocity, so it does no work on the particles.
+**A660.** A. The magnetic force is perpendicular to the velocity, so it does no work on the particles.
 <!-- id: physics-2-4-7 -->
 
 Explanation: A force perpendicular to motion changes direction only; to change kinetic energy, a force component along the motion is needed.
 
-**A654.** B. The electric force acts along the field, so it can do work on the particles and increase their kinetic energy.
+**A661.** B. The electric force acts along the field, so it can do work on the particles and increase their kinetic energy.
 <!-- id: physics-2-4-8 -->
 
 Explanation: A charge in an electric field experiences F = qE in the field direction; aligning the field with the motion transfers energy W = qV.
 
-**A655.** C. It must increase.
+**A662.** C. It must increase.
 <!-- id: physics-2-4-9 -->
 
 Explanation: The radius r = mv/(qB) increases with speed, so B must increase in step with the electrons' momentum to keep r constant.
 
-**A656.** D. To accelerate electrons from the electron gun to very high speed in a straight line using electric fields
+**A663.** D. To accelerate electrons from the electron gun to very high speed in a straight line using electric fields
 <!-- id: physics-2-4-10 -->
 
 Explanation: The linac uses a series of electric fields to boost electrons to nearly the speed of light before injection into the booster ring.
 
-**A657.** A. 3.4 cm
+**A664.** A. 3.4 cm
 <!-- id: physics-2-4-11 -->
 
 Explanation: v = √(2qV/m) ≈ 5.9 × 10⁶ m s⁻¹, then r = mv/(qB) = (9.1 × 10⁻³¹ × 5.9 × 10⁶)/(1.6 × 10⁻¹⁹ × 1.0 × 10⁻³) ≈ 3.4 × 10⁻² m.
 
-**A658.** B. follow a path of larger radius
+**A665.** B. follow a path of larger radius
 <!-- id: physics-2-4-12 -->
 
 Explanation: r = mv/(qB), so for equal q, v and B, radius is directly proportional to mass.
 
-**A659.** C. Determining the structure of proteins using X-ray diffraction
+**A666.** C. Determining the structure of proteins using X-ray diffraction
 <!-- id: physics-2-4-13 -->
 
 Explanation: The intense, highly collimated X-rays allow detailed diffraction studies of crystals, including proteins used in drug design.
 
-**A660.** D. doubles
+**A667.** D. doubles
 <!-- id: physics-2-4-14 -->
 
 Explanation: qV = ½mv², so v ∝ √V; four times the voltage gives √4 = 2 times the speed.
 
-**A661.** A. 0.72 μs
+**A668.** A. 0.72 μs
 <!-- id: physics-2-4-15 -->
 
 Explanation: t = distance/speed = 216/3.0 × 10⁸ ≈ 7.2 × 10⁻⁷ s = 0.72 μs.
 
-**A662.** B. 1.6 × 10⁻¹⁴ J
+**A669.** B. 1.6 × 10⁻¹⁴ J
 <!-- id: physics-2-4-16 -->
 
 Explanation: W = qV = 2 × 1.6 × 10⁻¹⁹ × 5.0 × 10⁴ = 1.6 × 10⁻¹⁴ J (100 keV). 8.0 × 10⁻¹⁵ J results from using charge e instead of 2e.
 
-**A663.** C. stays constant
+**A670.** C. stays constant
 <!-- id: physics-2-4-17 -->
 
 Explanation: The uniform electric field acts only perpendicular to the plates, so there is no force, and no acceleration, parallel to them.
 
-**A664.** D. clockwise
+**A671.** D. clockwise
 <!-- id: physics-2-4-18 -->
 
 Explanation: For an electron moving to the right with B into the page, the force qv × B (with negative q) points down the page, towards the centre below it, so the motion is clockwise.
 
-**A665.** Electron gun: produces electrons by thermionic emission and accelerates them with an electric field. Linac: uses electric fields to accelerate the electrons to near light speed in a straight line. Booster ring: further increases their energy as bending magnets' field increases to keep them on the circular path. Storage ring: bending magnets keep the electrons circulating for hours, producing synchrotron light, while RF cavities replace lost energy. Beamlines: channel the synchrotron light to experimental stations.
+**A672.** Electron gun: produces electrons by thermionic emission and accelerates them with an electric field. Linac: uses electric fields to accelerate the electrons to near light speed in a straight line. Booster ring: further increases their energy as bending magnets' field increases to keep them on the circular path. Storage ring: bending magnets keep the electrons circulating for hours, producing synchrotron light, while RF cavities replace lost energy. Beamlines: channel the synchrotron light to experimental stations.
 <!-- id: physics-2-4-19 -->
 
 Explanation: One correct role per part.
 
-**A666.** In the bending magnets the electrons change direction, so they are accelerating; accelerating charges emit electromagnetic radiation. This radiation carries energy away, so RF cavities must keep supplying energy, otherwise the electrons would lose energy and their orbit would not be maintained.
+**A673.** In the bending magnets the electrons change direction, so they are accelerating; accelerating charges emit electromagnetic radiation. This radiation carries energy away, so RF cavities must keep supplying energy, otherwise the electrons would lose energy and their orbit would not be maintained.
 <!-- id: physics-2-4-20 -->
 
 Explanation: Link acceleration (change in direction) to radiation, and radiation to energy loss.
 
-**A667.** ½mv² = qV, so v = √(2qV/m) = √(2 × 1.6 × 10⁻¹⁹ × 3.0 × 10³/9.1 × 10⁻³¹) ≈ 3.2 × 10⁷ m s⁻¹.
+**A674.** ½mv² = qV, so v = √(2qV/m) = √(2 × 1.6 × 10⁻¹⁹ × 3.0 × 10³/9.1 × 10⁻³¹) ≈ 3.2 × 10⁷ m s⁻¹.
 <!-- id: physics-2-4-21 -->
 
 Explanation: Non-relativistic treatment is acceptable at this speed (about 0.1c).
 
-**A668.** r = mv/(qB) = (9.1 × 10⁻³¹ × 3.2 × 10⁷)/(1.6 × 10⁻¹⁹ × 5.0 × 10⁻³) ≈ 3.6 × 10⁻² m (about 3.6 cm).
+**A675.** r = mv/(qB) = (9.1 × 10⁻³¹ × 3.2 × 10⁷)/(1.6 × 10⁻¹⁹ × 5.0 × 10⁻³) ≈ 3.6 × 10⁻² m (about 3.6 cm).
 <!-- id: physics-2-4-22 -->
 
 Explanation: Accept 3.6–3.7 cm depending on rounding of v.
 
-**A669.** r = mv/(qB) with q, v and B equal, so r ∝ m. Ratio = 14/12 ≈ 1.17.
+**A676.** r = mv/(qB) with q, v and B equal, so r ∝ m. Ratio = 14/12 ≈ 1.17.
 <!-- id: physics-2-4-23 -->
 
 Explanation: The heavier isotope follows the wider arc.
 
-**A670.** Any gas molecules in the tube would collide with the electrons, scattering them out of the beam and causing them to lose energy. A high vacuum lets the beam travel long distances (for hours in a storage ring) without these collisions.
+**A677.** Any gas molecules in the tube would collide with the electrons, scattering them out of the beam and causing them to lose energy. A high vacuum lets the beam travel long distances (for hours in a storage ring) without these collisions.
 <!-- id: physics-2-4-24 -->
 
 Explanation: Key idea: collisions with air molecules scatter and slow the beam.
 
-**A671.** E = V/d = 200/0.040 = 5.0 × 10³ V m⁻¹; F = qE = 8.0 × 10⁻¹⁶ N; a = F/m = 8.0 × 10⁻¹⁶/9.1 × 10⁻³¹ ≈ 8.8 × 10¹⁴ m s⁻², towards the positive plate.
+**A678.** E = V/d = 200/0.040 = 5.0 × 10³ V m⁻¹; F = qE = 8.0 × 10⁻¹⁶ N; a = F/m = 8.0 × 10⁻¹⁶/9.1 × 10⁻³¹ ≈ 8.8 × 10¹⁴ m s⁻², towards the positive plate.
 <!-- id: physics-2-4-25 -->
 
 Explanation: Show E, then F, then a.
+
+**A679.** 8.0 × 10⁻¹⁶ J; 4.2 × 10⁷ m/s
+<!-- id: physics-2-4-c1 -->
+
+Explanation: KE = qV = 1.6 × 10⁻¹⁹ × 5000 = 8.0 × 10⁻¹⁶ J. v = √(2KE/m) = √(2 × 8.0 × 10⁻¹⁶ ÷ 9.11 × 10⁻³¹) ≈ 4.2 × 10⁷ m/s (about 0.14c, so the classical result is close enough).
 
 ### Motion & Newton's laws
 
 #### Newton's laws and forces
 
-**A672.** A. 3000 N
+**A680.** A. 3000 N
 <!-- id: physics-3-1-1 -->
 
 Explanation: a = Δv/t = 20/8.0 = 2.5 m/s², so F = ma = 1200 × 2.5 = 3000 N.
 
-**A673.** B. the gravitational force exerted by the book on Earth
+**A681.** B. the gravitational force exerted by the book on Earth
 <!-- id: physics-3-1-2 -->
 
 Explanation: Weight is Earth pulling the book by gravity, so its third-law partner is the book pulling Earth by gravity. The normal force is a different interaction.
 
-**A674.** C. 791 N
+**A682.** C. 791 N
 <!-- id: physics-3-1-3 -->
 
 Explanation: N − mg = ma, so N = m(g + a) = 70 × (9.8 + 1.5) = 791 N.
 
-**A675.** D. 490 N
+**A683.** D. 490 N
 <!-- id: physics-3-1-4 -->
 
 Explanation: At constant velocity the acceleration is zero, so N = mg = 50 × 9.8 = 490 N.
 
-**A676.** A. 4.9 m/s²
+**A684.** A. 4.9 m/s²
 <!-- id: physics-3-1-5 -->
 
 Explanation: The component of gravity along the slope gives a = g sin θ = 9.8 × sin 30° = 4.9 m/s².
 
-**A677.** B. 8.0 N
+**A685.** B. 8.0 N
 <!-- id: physics-3-1-6 -->
 
 Explanation: The system accelerates at 20/5.0 = 4.0 m/s². The only horizontal force on the 2.0 kg block is the contact force, F = 2.0 × 4.0 = 8.0 N.
 
-**A678.** C. 1.96 m/s²
+**A686.** C. 1.96 m/s²
 <!-- id: physics-3-1-7 -->
 
 Explanation: The net force is the hanging weight, 0.50 × 9.8 = 4.9 N, acting on the total mass of 2.5 kg: a = 4.9/2.5 = 1.96 m/s².
 
-**A679.** D. 3.9 N
+**A687.** D. 3.9 N
 <!-- id: physics-3-1-8 -->
 
 Explanation: The tension is the only horizontal force on the trolley: T = 2.0 × 1.96 ≈ 3.9 N. It is less than the hanging weight (4.9 N) because the hanging mass accelerates downwards.
 
-**A680.** A. the passenger tends to keep moving at the original velocity while the tram slows down
+**A688.** A. the passenger tends to keep moving at the original velocity while the tram slows down
 <!-- id: physics-3-1-9 -->
 
 Explanation: By Newton's first law (inertia), the passenger keeps moving forward until a force (e.g. from the seat or a handrail) acts on them to slow them.
 
-**A681.** B. They are equal in magnitude and opposite in direction
+**A689.** B. They are equal in magnitude and opposite in direction
 <!-- id: physics-3-1-10 -->
 
 Explanation: These are a Newton's third law pair and are always equal and opposite. The system accelerates because of the forward friction from the road on the ute's drive wheels.
 
-**A682.** C. 44 N
+**A690.** C. 44 N
 <!-- id: physics-3-1-11 -->
 
 Explanation: Perpendicular to the slope the forces balance: N = mg cos θ = 5.0 × 9.8 × cos 25° ≈ 44 N.
 
-**A683.** D. 34 N
+**A691.** D. 34 N
 <!-- id: physics-3-1-12 -->
 
 Explanation: Constant velocity means zero net force along the slope, so friction = mg sin θ = 98 × sin 20° ≈ 34 N.
 
-**A684.** A. The air resistance equals the skydiver's weight and the net force is zero
+**A692.** A. The air resistance equals the skydiver's weight and the net force is zero
 <!-- id: physics-3-1-13 -->
 
 Explanation: At terminal velocity the velocity is constant, so by Newton's first law the forces are balanced: drag equals weight.
 
-**A685.** B. 78 m
+**A693.** B. 78 m
 <!-- id: physics-3-1-14 -->
 
 Explanation: a = 6000/1500 = 4.0 m/s². Using v² = u² + 2as: 0 = 625 − 8.0s, so s ≈ 78 m.
 
-**A686.** C. 3.2 m/s²
+**A694.** C. 3.2 m/s²
 <!-- id: physics-3-1-15 -->
 
 Explanation: Only the horizontal component causes horizontal acceleration: a = 150 cos 30°/40 = 129.9/40 ≈ 3.2 m/s².
 
-**A687.** D. 20 000 N
+**A695.** D. 20 000 N
 <!-- id: physics-3-1-16 -->
 
 Explanation: The coupling behind the first carriage accelerates the last two carriages: T = (2 × 20 000) × 0.50 = 20 000 N.
 
-**A688.** A. Mass 80 kg, weight 128 N
+**A696.** A. Mass 80 kg, weight 128 N
 <!-- id: physics-3-1-17 -->
 
 Explanation: Mass is unchanged by location. Weight = mg = 80 × 1.6 = 128 N.
 
-**A689.** B. moving upwards and slowing down
+**A697.** B. moving upwards and slowing down
 <!-- id: physics-3-1-18 -->
 
 Explanation: A reading below the true weight means a downward acceleration. Moving up while slowing down is a downward acceleration; the other options involve zero or upward acceleration.
 
-**A690.** N = mg − T sin 30° = 392 − 75 = 317 N (about 3.2 × 10² N).
+**A698.** N = mg − T sin 30° = 392 − 75 = 317 N (about 3.2 × 10² N).
 <!-- id: physics-3-1-19 -->
 
 Explanation: The upward component of the tension partly supports the toboggan, so the normal force is less than its weight. Deduct a mark for using 392 N.
 
-**A691.** The third-law pair forces act on different objects, so they do not cancel. The cart accelerates because the horse's forward pull on it is larger than the friction on the cart. The horse accelerates because the ground's forward friction on its hooves is larger than the cart's backward pull.
+**A699.** The third-law pair forces act on different objects, so they do not cancel. The cart accelerates because the horse's forward pull on it is larger than the friction on the cart. The horse accelerates because the ground's forward friction on its hooves is larger than the cart's backward pull.
 <!-- id: physics-3-1-20 -->
 
 Explanation: Key point: only forces acting on the same object can be added to find that object's net force.
 
-**A692.** Slowing while moving down means the acceleration is upwards: N = m(g + a) = 65 × (9.8 + 1.2) = 715 N.
+**A700.** Slowing while moving down means the acceleration is upwards: N = m(g + a) = 65 × (9.8 + 1.2) = 715 N.
 <!-- id: physics-3-1-21 -->
 
 Explanation: Students often wrongly subtract because the lift is moving down. What matters is the direction of the acceleration, not the direction of motion.
 
-**A693.** Down-slope weight component = 4.0 × 9.8 × sin 35° ≈ 22.5 N. Net force = 22.5 − 10 = 12.5 N, so a = 12.5/4.0 ≈ 3.1 m/s² down the slope.
+**A701.** Down-slope weight component = 4.0 × 9.8 × sin 35° ≈ 22.5 N. Net force = 22.5 − 10 = 12.5 N, so a = 12.5/4.0 ≈ 3.1 m/s² down the slope.
 <!-- id: physics-3-1-22 -->
 
 Explanation: Resolve the weight along the slope first, then subtract friction, which opposes the motion.
 
-**A694.** a = (5.0 − 3.0) × 9.8 / 8.0 = 2.45 m/s². T = 3.0 × (9.8 + 2.45) ≈ 36.8 N.
+**A702.** a = (5.0 − 3.0) × 9.8 / 8.0 = 2.45 m/s². T = 3.0 × (9.8 + 2.45) ≈ 36.8 N.
 <!-- id: physics-3-1-23 -->
 
 Explanation: Check with the 5.0 kg mass: 5.0 × (9.8 − 2.45) = 36.75 N, which agrees.
 
-**A695.** The claim is wrong. After release, the only force on the ball is gravity, acting downwards. The ball keeps rising because of its inertia (its initial upward velocity), and the downward net force slows it at 9.8 m/s².
+**A703.** The claim is wrong. After release, the only force on the ball is gravity, acting downwards. The ball keeps rising because of its inertia (its initial upward velocity), and the downward net force slows it at 9.8 m/s².
 <!-- id: physics-3-1-24 -->
 
 Explanation: This is a common misconception: motion does not need a force in the direction of motion (Newton's first law).
 
-**A696.** Net force = 1500 − 300 = 1200 N, so a = 1200/500 = 2.4 m/s².
+**A704.** Net force = 1500 − 300 = 1200 N, so a = 1200/500 = 2.4 m/s².
 <!-- id: physics-3-1-25 -->
 
 Explanation: Apply Newton's second law to the trailer alone, using only the forces acting on it.
 
+**A705.** C. 8.0 N
+<!-- id: physics-3-1-c1 -->
+
+Explanation: a = 20 ÷ 5.0 = 4.0 m/s². The front block needs F = 2.0 × 4.0 = 8.0 N.
+
 #### Projectile motion
 
-**A697.** C. 3.0 m
+**A706.** C. 3.0 m
 <!-- id: physics-3-2-1 -->
 
 Explanation: The fall time is t = √(2h/g) = √(9.8/9.8) = 1.0 s, so the horizontal distance = 3.0 × 1.0 = 3.0 m.
 
-**A698.** D. 2.0 s
+**A707.** D. 2.0 s
 <!-- id: physics-3-2-2 -->
 
 Explanation: The vertical motion starts from rest: t = √(2h/g) = √(40/9.8) ≈ 2.0 s. The horizontal speed does not affect this.
 
-**A699.** A. its velocity is horizontal and its acceleration is 9.8 m/s² downwards
+**A708.** A. its velocity is horizontal and its acceleration is 9.8 m/s² downwards
 <!-- id: physics-3-2-3 -->
 
 Explanation: At the top only the vertical velocity is zero; the horizontal component remains. Gravity still acts, so the acceleration is g downwards throughout.
 
-**A700.** B. 5.1 m
+**A709.** B. 5.1 m
 <!-- id: physics-3-2-4 -->
 
 Explanation: The vertical component is 20 sin 30° = 10 m/s, so h = u²/(2g) = 100/19.6 ≈ 5.1 m.
 
-**A701.** C. 2.0 s
+**A710.** C. 2.0 s
 <!-- id: physics-3-2-5 -->
 
 Explanation: t = 2u sin θ/g = 2 × 10/9.8 ≈ 2.0 s (twice the time taken to reach maximum height).
 
-**A702.** D. 35 m
+**A711.** D. 35 m
 <!-- id: physics-3-2-6 -->
 
 Explanation: Range = horizontal speed × time = 20 cos 30° × 2.04 ≈ 17.3 × 2.04 ≈ 35 m.
 
-**A703.** A. 45°
+**A712.** A. 45°
 <!-- id: physics-3-2-7 -->
 
 Explanation: Range = v² sin 2θ/g, which is greatest when sin 2θ = 1, i.e. θ = 45°.
 
-**A704.** B. 25° and 65°
+**A713.** B. 25° and 65°
 <!-- id: physics-3-2-8 -->
 
 Explanation: Complementary angles (adding to 90°) give the same sin 2θ, and so the same range.
 
-**A705.** C. It remains constant
+**A714.** C. It remains constant
 <!-- id: physics-3-2-9 -->
 
 Explanation: No horizontal force acts on the projectile, so by Newton's first law its horizontal velocity is constant.
 
-**A706.** D. Both land at the same time
+**A715.** D. Both land at the same time
 <!-- id: physics-3-2-10 -->
 
 Explanation: Both start with zero vertical velocity and have the same vertical acceleration, so their fall times are equal.
 
-**A707.** A. 1.5 s
+**A716.** A. 1.5 s
 <!-- id: physics-3-2-11 -->
 
 Explanation: At the top v = 0, so t = u/g = 14.7/9.8 = 1.5 s. (3.0 s is the total time to return to the hand.)
 
-**A708.** B. 9.9 m/s
+**A717.** B. 9.9 m/s
 <!-- id: physics-3-2-12 -->
 
 Explanation: The vertical velocity is 9.8 × 0.60 = 5.88 m/s. Speed = √(8.0² + 5.88²) ≈ 9.9 m/s. Velocity components add as vectors, not by simple addition.
 
-**A709.** C. 1.2 m
+**A718.** C. 1.2 m
 <!-- id: physics-3-2-13 -->
 
 Explanation: t = 25/50 = 0.50 s, and the drop = ½gt² = 4.9 × 0.25 ≈ 1.2 m.
 
-**A710.** D. multiplied by 4
+**A719.** D. multiplied by 4
 <!-- id: physics-3-2-14 -->
 
 Explanation: Range = v² sin 2θ/g, so the range is proportional to v²; doubling v gives four times the range.
 
-**A711.** A. 7.5 m/s
+**A720.** A. 7.5 m/s
 <!-- id: physics-3-2-15 -->
 
 Explanation: vx = 15 cos 60° = 7.5 m/s. (13 m/s is the vertical component, 15 sin 60°.)
 
-**A712.** B. 18 m/s
+**A721.** B. 18 m/s
 <!-- id: physics-3-2-16 -->
 
 Explanation: After 1.0 s, vy = 20 − 9.8 = 10.2 m/s and vx = 15 m/s, so speed = √(15² + 10.2²) ≈ 18 m/s.
 
-**A713.** C. a lower maximum height, a shorter range and a steeper descent than ascent
+**A722.** C. a lower maximum height, a shorter range and a steeper descent than ascent
 <!-- id: physics-3-2-17 -->
 
 Explanation: Drag removes energy and reduces both velocity components. This lowers the peak and shortens the range, and the horizontal speed is lower on the way down, so the descent is steeper.
 
-**A714.** D. 2.0 m/s
+**A723.** D. 2.0 m/s
 <!-- id: physics-3-2-18 -->
 
 Explanation: t = √(2 × 1.8/9.8) ≈ 0.606 s, so v = 1.2/0.606 ≈ 2.0 m/s.
 
-**A715.** Range = v² sin 2θ/g = 900 × sin 80°/9.8 ≈ 90 m. (Equivalently: t = 2 × 19.3/9.8 ≈ 3.94 s, and 23.0 × 3.94 ≈ 90 m.)
+**A724.** Range = v² sin 2θ/g = 900 × sin 80°/9.8 ≈ 90 m. (Equivalently: t = 2 × 19.3/9.8 ≈ 3.94 s, and 23.0 × 3.94 ≈ 90 m.)
 <!-- id: physics-3-2-19 -->
 
 Explanation: Either the range formula or the component method earns full marks if the working is shown.
 
-**A716.** uy = 30 sin 40° ≈ 19.3 m/s; h = uy²/(2g) = 19.3²/19.6 ≈ 19 m.
+**A725.** uy = 30 sin 40° ≈ 19.3 m/s; h = uy²/(2g) = 19.3²/19.6 ≈ 19 m.
 <!-- id: physics-3-2-20 -->
 
 Explanation: Only the vertical component matters for the maximum height.
 
-**A717.** t = √(2 × 45/9.8) ≈ 3.0 s; horizontal distance = 12 × 3.03 ≈ 36 m.
+**A726.** t = √(2 × 45/9.8) ≈ 3.0 s; horizontal distance = 12 × 3.03 ≈ 36 m.
 <!-- id: physics-3-2-21 -->
 
 Explanation: The vertical motion (from rest) sets the time; the horizontal motion is at constant velocity.
 
-**A718.** Ignoring air resistance, the only force is gravity, which acts vertically. So there is no horizontal acceleration (constant horizontal velocity), while the vertical motion has constant acceleration g. Perpendicular vectors do not affect each other, and the two components are linked only by time.
+**A727.** Ignoring air resistance, the only force is gravity, which acts vertically. So there is no horizontal acceleration (constant horizontal velocity), while the vertical motion has constant acceleration g. Perpendicular vectors do not affect each other, and the two components are linked only by time.
 <!-- id: physics-3-2-22 -->
 
 Explanation: Mention that gravity is vertical and that time is the common variable.
 
-**A719.** vx = 18 cos 35° ≈ 14.7 m/s, so t = 20/14.7 ≈ 1.36 s. y = (18 sin 35°)(1.36) − 4.9(1.36)² ≈ 14.0 − 9.0 ≈ 5.0 m. Since 5.0 m > 2.4 m, it passes over the crossbar.
+**A728.** vx = 18 cos 35° ≈ 14.7 m/s, so t = 20/14.7 ≈ 1.36 s. y = (18 sin 35°)(1.36) − 4.9(1.36)² ≈ 14.0 − 9.0 ≈ 5.0 m. Since 5.0 m > 2.4 m, it passes over the crossbar.
 <!-- id: physics-3-2-23 -->
 
 Explanation: Find the time to reach the posts from the horizontal motion first, then substitute it into the vertical equation.
 
-**A720.** vy² = 2gh = 2 × 9.8 × 45 = 882, so vy ≈ 29.7 m/s. v = √(12² + 882) = √1026 ≈ 32 m/s.
+**A729.** vy² = 2gh = 2 × 9.8 × 45 = 882, so vy ≈ 29.7 m/s. v = √(12² + 882) = √1026 ≈ 32 m/s.
 <!-- id: physics-3-2-24 -->
 
 Explanation: Conservation of energy gives the same result: v² = u² + 2gh.
 
-**A721.** t = √(2 × 500/9.8) ≈ 10.1 s, so the horizontal distance = 60 × 10.1 ≈ 606 m (about 610 m). The plane is directly above the package when it lands, because both have the same horizontal velocity.
+**A730.** t = √(2 × 500/9.8) ≈ 10.1 s, so the horizontal distance = 60 × 10.1 ≈ 606 m (about 610 m). The plane is directly above the package when it lands, because both have the same horizontal velocity.
 <!-- id: physics-3-2-25 -->
 
 Explanation: The package keeps the plane's horizontal velocity, so it stays directly beneath the plane throughout its fall.
 
+**A731.** 2.0 s; 30 m
+<!-- id: physics-3-2-c1 -->
+
+Explanation: Vertical: 20 = ½ × 9.8 × t², so t = 2.02 s. Horizontal: x = 15 × 2.02 ≈ 30 m. The horizontal velocity is constant.
+
 #### Circular motion and banked tracks
 
-**A722.** A. 4500 N
+**A732.** A. 4500 N
 <!-- id: physics-3-3-1 -->
 
 Explanation: F = mv²/r = 1000 × 15²/50 = 4500 N, supplied by sideways friction on the tyres.
 
-**A723.** B. towards the centre of the circle
+**A733.** B. towards the centre of the circle
 <!-- id: physics-3-3-2 -->
 
 Explanation: The velocity's direction changes continually towards the centre, so the acceleration, and therefore the net force, points towards the centre.
 
-**A724.** C. 10 m/s
+**A734.** C. 10 m/s
 <!-- id: physics-3-3-3 -->
 
 Explanation: v = 2πrf = 2π × 0.80 × 2.0 ≈ 10 m/s.
 
-**A725.** D. 27°
+**A735.** D. 27°
 <!-- id: physics-3-3-4 -->
 
 Explanation: tan θ = v²/(rg) = 400/(80 × 9.8) ≈ 0.510, so θ ≈ 27°.
 
-**A726.** A. Only gravity and the normal force act, and their resultant is horizontal towards the centre
+**A736.** A. Only gravity and the normal force act, and their resultant is horizontal towards the centre
 <!-- id: physics-3-3-5 -->
 
 Explanation: Centripetal force is not an extra force; it is the horizontal resultant of the weight and the normal force, which points towards the centre of the circle.
 
-**A727.** B. is multiplied by 4
+**A737.** B. is multiplied by 4
 <!-- id: physics-3-3-6 -->
 
 Explanation: F = mv²/r is proportional to v², so doubling v quadruples F.
 
-**A728.** C. 9.9 m/s
+**A738.** C. 9.9 m/s
 <!-- id: physics-3-3-7 -->
 
 Explanation: At minimum speed the normal force is zero and gravity alone provides the centripetal force: mg = mv²/r, so v = √(gr) = √98 ≈ 9.9 m/s.
 
-**A729.** D. 22.9 N
+**A739.** D. 22.9 N
 <!-- id: physics-3-3-8 -->
 
 Explanation: At the bottom T − mg = mv²/r, so T = 4.9 + 0.50 × 36/1.0 = 4.9 + 18 = 22.9 N.
 
-**A730.** A. 7440 N
+**A740.** A. 7440 N
 <!-- id: physics-3-3-9 -->
 
 Explanation: At the top mg − N = mv²/r, so N = 1200 × (9.8 − 144/40) = 1200 × 6.2 = 7440 N.
 
-**A731.** B. 15.7 m/s
+**A741.** B. 15.7 m/s
 <!-- id: physics-3-3-10 -->
 
 Explanation: Contact is lost when N = 0, which happens when mg = mv²/r. So v = √(gr) = √245 ≈ 15.7 m/s.
 
-**A732.** C. down the slope of the bank
+**A742.** C. down the slope of the bank
 <!-- id: physics-3-3-11 -->
 
 Explanation: Above the design speed more centripetal force is needed, and the car tends to slide up the bank. Friction opposes this by acting down the slope, adding an inward component.
 
-**A733.** D. Friction between the tyres and the road
+**A743.** D. Friction between the tyres and the road
 <!-- id: physics-3-3-12 -->
 
 Explanation: On a flat road the normal force and weight are vertical, so only sideways friction can provide the horizontal inward force.
 
-**A734.** A. Its speed is constant but its velocity is changing
+**A744.** A. Its speed is constant but its velocity is changing
 <!-- id: physics-3-3-13 -->
 
 Explanation: The magnitude (speed) is constant, but the direction keeps changing, so the velocity changes and there is a centripetal acceleration.
 
-**A735.** B. 17.8 m/s
+**A745.** B. 17.8 m/s
 <!-- id: physics-3-3-14 -->
 
 Explanation: v = √(rg tan θ) = √(120 × 9.8 × tan 15°) = √315 ≈ 17.8 m/s.
 
-**A736.** C. 4.9 m/s²
+**A746.** C. 4.9 m/s²
 <!-- id: physics-3-3-15 -->
 
 Explanation: v = 2πr/T = π ≈ 3.14 m/s, and a = v²/r = 9.87/2.0 ≈ 4.9 m/s².
 
-**A737.** D. greater than the weight
+**A747.** D. greater than the weight
 <!-- id: physics-3-3-16 -->
 
 Explanation: The vertical component N cos θ must balance mg, so N = mg/cos θ, which is greater than mg.
 
-**A738.** A. along the tangent to the circle at the point of release
+**A748.** A. along the tangent to the circle at the point of release
 <!-- id: physics-3-3-17 -->
 
 Explanation: Once the inward tension is removed there is no centripetal force, so the hammer continues in the direction of its instantaneous velocity, which is tangential.
 
-**A739.** B. 15.8 N
+**A749.** B. 15.8 N
 <!-- id: physics-3-3-18 -->
 
 Explanation: v = 2πr/T ≈ 6.28 m/s, so T = mv²/r = 0.20 × 39.5/0.50 ≈ 15.8 N.
 
-**A740.** Vertically: N cos θ = mg. Horizontally (towards the centre): N sin θ = mv²/r. Dividing the second equation by the first gives tan θ = v²/(rg).
+**A750.** Vertically: N cos θ = mg. Horizontally (towards the centre): N sin θ = mv²/r. Dividing the second equation by the first gives tan θ = v²/(rg).
 <!-- id: physics-3-3-19 -->
 
 Explanation: Award marks for resolving N into vertical and horizontal components correctly, then eliminating N.
 
-**A741.** 108 km/h = 30 m/s. tan θ = 30²/(200 × 9.8) = 900/1960 ≈ 0.459, so θ ≈ 25°.
+**A751.** 108 km/h = 30 m/s. tan θ = 30²/(200 × 9.8) = 900/1960 ≈ 0.459, so θ ≈ 25°.
 <!-- id: physics-3-3-20 -->
 
 Explanation: A common error is forgetting to convert km/h to m/s (divide by 3.6).
 
-**A742.** v = √(gr) = √(9.8 × 0.90) ≈ 3.0 m/s. At this speed gravity alone provides exactly the centripetal force needed, so the water needs no push from the bucket base; any slower and gravity would pull it out of the circular path.
+**A752.** v = √(gr) = √(9.8 × 0.90) ≈ 3.0 m/s. At this speed gravity alone provides exactly the centripetal force needed, so the water needs no push from the bucket base; any slower and gravity would pull it out of the circular path.
 <!-- id: physics-3-3-21 -->
 
 Explanation: The key idea is that the normal force from the bucket becomes zero at the minimum speed.
 
-**A743.** N − mg = mv²/r, so N = 60 × (9.8 + 400/12) = 60 × 43.1 ≈ 2.6 × 10³ N (about 4.4 times their weight).
+**A753.** N − mg = mv²/r, so N = 60 × (9.8 + 400/12) = 60 × 43.1 ≈ 2.6 × 10³ N (about 4.4 times their weight).
 <!-- id: physics-3-3-22 -->
 
 Explanation: At the bottom the normal force must both support the weight and provide the centripetal force.
 
-**A744.** mv²/r = F, so v = √(Fr/m) = √(7000 × 40/1400) = √200 ≈ 14 m/s (about 51 km/h).
+**A754.** mv²/r = F, so v = √(Fr/m) = √(7000 × 40/1400) = √200 ≈ 14 m/s (about 51 km/h).
 <!-- id: physics-3-3-23 -->
 
 Explanation: Friction is the sole centripetal force on a flat curve.
 
-**A745.** The passengers' inertia tends to keep them moving in a straight line (Newton's first law). The car turns inwards beneath them until the door or seat pushes them inwards, providing the centripetal force. No outward force acts; the sensation comes from the inward push of the car.
+**A755.** The passengers' inertia tends to keep them moving in a straight line (Newton's first law). The car turns inwards beneath them until the door or seat pushes them inwards, providing the centripetal force. No outward force acts; the sensation comes from the inward push of the car.
 <!-- id: physics-3-3-24 -->
 
 Explanation: 'Centrifugal force' is not a real force in an inertial frame; credit references to inertia and to an inward net force.
 
-**A746.** F = mv²/r = 1500 × 625/100 = 9375 N (about 9.4 × 10³ N), directed horizontally towards the centre of the curve.
+**A756.** F = mv²/r = 1500 × 625/100 = 9375 N (about 9.4 × 10³ N), directed horizontally towards the centre of the curve.
 <!-- id: physics-3-3-25 -->
 
 Explanation: The net force is horizontal, not parallel to the banked surface.
 
+**A757.** About 39°
+<!-- id: physics-3-3-c1 -->
+
+Explanation: The horizontal component of the normal force provides the centripetal force: tan θ = v²/(rg) = 400 ÷ (50 × 9.8) = 0.816, so θ ≈ 39°.
+
 #### Momentum, impulse, work and energy
 
-**A747.** C. 11.2 N s
+**A758.** C. 11.2 N s
 <!-- id: physics-3-4-1 -->
 
 Explanation: Taking the return direction as positive, Δp = 0.16 × (40 − (−30)) = 0.16 × 70 = 11.2 N s. The reversal of direction must be included.
 
-**A748.** D. 580 N
+**A759.** D. 580 N
 <!-- id: physics-3-4-2 -->
 
 Explanation: Δp = 0.058 × (30 + 20) = 2.9 N s, so F = Δp/Δt = 2.9/0.0050 = 580 N.
 
-**A749.** A. 9.0 m/s
+**A760.** A. 9.0 m/s
 <!-- id: physics-3-4-3 -->
 
 Explanation: Momentum is conserved: 1200 × 15 = 2000v, so v = 18 000/2000 = 9.0 m/s.
 
-**A750.** B. 54 000 J
+**A761.** B. 54 000 J
 <!-- id: physics-3-4-4 -->
 
 Explanation: Initial KE = ½ × 1200 × 15² = 135 000 J; final KE = ½ × 2000 × 9.0² = 81 000 J. The loss is 54 000 J, mostly to heat, sound and deformation.
 
-**A751.** C. Both momentum and total kinetic energy are conserved
+**A762.** C. Both momentum and total kinetic energy are conserved
 <!-- id: physics-3-4-5 -->
 
 Explanation: Momentum is conserved in all collisions of an isolated system; a collision is elastic only if total kinetic energy is also conserved.
 
-**A752.** D. increase the time over which the occupant's momentum changes, reducing the average force
+**A763.** D. increase the time over which the occupant's momentum changes, reducing the average force
 <!-- id: physics-3-4-6 -->
 
 Explanation: The change in momentum is fixed by the crash; spreading it over a longer time gives a smaller average force, since F = Δp/Δt.
 
-**A753.** A. 1.1 kJ
+**A764.** A. 1.1 kJ
 <!-- id: physics-3-4-7 -->
 
 Explanation: W = Fs cos θ = 80 × 15 × cos 20° ≈ 1128 J ≈ 1.1 kJ. Only the component of the force in the direction of motion does work.
 
-**A754.** B. 2.25 J
+**A765.** B. 2.25 J
 <!-- id: physics-3-4-8 -->
 
 Explanation: Es = ½kx² = 0.5 × 200 × 0.15² = 2.25 J.
 
-**A755.** C. 9.9 m/s
+**A766.** C. 9.9 m/s
 <!-- id: physics-3-4-9 -->
 
 Explanation: mgh = ½mv², so v = √(2gh) = √98 ≈ 9.9 m/s.
 
-**A756.** D. 1.0 m/s
+**A767.** D. 1.0 m/s
 <!-- id: physics-3-4-10 -->
 
 Explanation: The total momentum is zero before and after: 0.010 × 400 = 4.0 × v, so v = 1.0 m/s.
 
-**A757.** A. its change in momentum
+**A768.** A. its change in momentum
 <!-- id: physics-3-4-11 -->
 
 Explanation: Impulse = FΔt = Δp (the impulse-momentum theorem).
 
-**A758.** B. 9.8 kW
+**A769.** B. 9.8 kW
 <!-- id: physics-3-4-12 -->
 
 Explanation: Work = mgh = 800 × 9.8 × 20 = 156 800 J, so P = W/t = 156 800/16 = 9800 W = 9.8 kW.
 
-**A759.** C. 100 N/m
+**A770.** C. 100 N/m
 <!-- id: physics-3-4-13 -->
 
 Explanation: At equilibrium kx = mg, so k = (0.50 × 9.8)/0.049 = 4.9/0.049 = 100 N/m.
 
-**A760.** D. 0.46 m
+**A771.** D. 0.46 m
 <!-- id: physics-3-4-14 -->
 
 Explanation: ½mv² = mgh, so h = v²/(2g) = 9.0/19.6 ≈ 0.46 m. The mass cancels.
 
-**A761.** A. 2.0 m/s
+**A772.** A. 2.0 m/s
 <!-- id: physics-3-4-15 -->
 
 Explanation: The total momentum stays zero: 60v = 40 × 3.0, so v = 2.0 m/s in the opposite direction.
 
-**A762.** B. the net external force on the system is zero
+**A773.** B. the net external force on the system is zero
 <!-- id: physics-3-4-16 -->
 
 Explanation: Momentum is conserved for any isolated system, whatever the type of collision, provided no net external force acts.
 
-**A763.** C. is multiplied by 4
+**A774.** C. is multiplied by 4
 <!-- id: physics-3-4-17 -->
 
 Explanation: Work done by brakes = Fd = ½mv², so d is proportional to v²; doubling v gives four times the distance.
 
-**A764.** D. 24 J
+**A775.** D. 24 J
 <!-- id: physics-3-4-18 -->
 
 Explanation: v = 12/3.0 = 4.0 m/s, so KE = ½ × 3.0 × 4.0² = 24 J (equivalently p²/2m = 144/6).
 
-**A765.** 30 000 = 3000v + 1000 × 12, so v = 6.0 m/s forward. KE before = ½ × 3000 × 10² = 150 000 J; KE after = ½ × 3000 × 6² + ½ × 1000 × 12² = 54 000 + 72 000 = 126 000 J. KE is not conserved, so the collision is inelastic.
+**A776.** 30 000 = 3000v + 1000 × 12, so v = 6.0 m/s forward. KE before = ½ × 3000 × 10² = 150 000 J; KE after = ½ × 3000 × 6² + ½ × 1000 × 12² = 54 000 + 72 000 = 126 000 J. KE is not conserved, so the collision is inelastic.
 <!-- id: physics-3-4-19 -->
 
 Explanation: Both a momentum calculation and a kinetic energy comparison are needed for full marks.
 
-**A766.** Crumple zones deform progressively, increasing the time over which the car (and its occupants) come to rest. The change in momentum is the same, so by F = Δp/Δt a longer stopping time means a smaller average force. They also absorb kinetic energy through deformation.
+**A777.** Crumple zones deform progressively, increasing the time over which the car (and its occupants) come to rest. The change in momentum is the same, so by F = Δp/Δt a longer stopping time means a smaller average force. They also absorb kinetic energy through deformation.
 <!-- id: physics-3-4-20 -->
 
 Explanation: Reference to the same Δp with a longer Δt is essential.
 
-**A767.** Es = ½ × 400 × 0.10² = 2.0 J. ½ × 0.050 × v² = 2.0, so v = √80 ≈ 8.9 m/s.
+**A778.** Es = ½ × 400 × 0.10² = 2.0 J. ½ × 0.050 × v² = 2.0, so v = √80 ≈ 8.9 m/s.
 <!-- id: physics-3-4-21 -->
 
 Explanation: Remember to convert grams to kilograms.
 
-**A768.** KE = ½ × 1500 × 20² = 300 000 J. The work done by the brakes, F × 40, equals this KE, so F = 300 000/40 = 7500 N.
+**A779.** KE = ½ × 1500 × 20² = 300 000 J. The work done by the brakes, F × 40, equals this KE, so F = 300 000/40 = 7500 N.
 <!-- id: physics-3-4-22 -->
 
 Explanation: The work-energy theorem gives the answer without first finding the acceleration.
 
-**A769.** Impulse = Δp = 0.45 × 25 = 11.25 ≈ 11 N s. Average force = 11.25/0.010 ≈ 1.1 × 10³ N.
+**A780.** Impulse = Δp = 0.45 × 25 = 11.25 ≈ 11 N s. Average force = 11.25/0.010 ≈ 1.1 × 10³ N.
 <!-- id: physics-3-4-23 -->
 
 Explanation: Impulse units can be written as N s or kg m/s.
 
-**A770.** Impact speed = √(2 × 9.8 × 1.25) ≈ 4.95 m/s downwards; rebound speed = √(2 × 9.8 × 0.80) ≈ 3.96 m/s upwards. Impulse = 2.0 × (3.96 + 4.95) ≈ 17.8 N s upwards.
+**A781.** Impact speed = √(2 × 9.8 × 1.25) ≈ 4.95 m/s downwards; rebound speed = √(2 × 9.8 × 0.80) ≈ 3.96 m/s upwards. Impulse = 2.0 × (3.96 + 4.95) ≈ 17.8 N s upwards.
 <!-- id: physics-3-4-24 -->
 
 Explanation: The velocities are in opposite directions, so their magnitudes add.
 
-**A771.** Drop in height = 18 m. ½v² = gΔh, so v = √(2 × 9.8 × 18) = √352.8 ≈ 18.8 m/s.
+**A782.** Drop in height = 18 m. ½v² = gΔh, so v = √(2 × 9.8 × 18) = √352.8 ≈ 18.8 m/s.
 <!-- id: physics-3-4-25 -->
 
 Explanation: The mass cancels; use the change in height, not the final height.
+
+**A783.** D. 12 J
+<!-- id: physics-3-4-c1 -->
+
+Explanation: Momentum: 2.0 × 6.0 = 3.0v, so v = 4.0 m/s. KE before 36 J, after ½ × 3.0 × 4.0² = 24 J; 12 J is lost. Sticking means it is inelastic.
 
 ### Special relativity
 
 #### Einstein's postulates and frames
 
-**A772.** A. The laws of physics are the same in all inertial frames of reference.
+**A784.** A. The laws of physics are the same in all inertial frames of reference.
 <!-- id: physics-4-1-1 -->
 
 Explanation: The first postulate (principle of relativity) says no inertial frame is special: all physical laws take the same form in every one.
 
-**A773.** B. The speed of light in a vacuum is the same for all observers, regardless of the motion of the source or observer.
+**A785.** B. The speed of light in a vacuum is the same for all observers, regardless of the motion of the source or observer.
 <!-- id: physics-4-1-2 -->
 
 Explanation: The second postulate states that c is invariant: every inertial observer measures light in a vacuum travelling at 3.0 × 10⁸ m/s.
 
-**A774.** C. not accelerating, so it is at rest or moving at constant velocity
+**A786.** C. not accelerating, so it is at rest or moving at constant velocity
 <!-- id: physics-4-1-3 -->
 
 Explanation: Newton's first law holds in an inertial frame, which requires zero acceleration (constant velocity, including at rest).
 
-**A775.** D. A car travelling around a roundabout at a constant 40 km/h
+**A787.** D. A car travelling around a roundabout at a constant 40 km/h
 <!-- id: physics-4-1-4 -->
 
 Explanation: Moving in a circle involves centripetal acceleration even at constant speed, so the car's frame is non-inertial.
 
-**A776.** A. c
+**A788.** A. c
 <!-- id: physics-4-1-5 -->
 
 Explanation: By the second postulate, all inertial observers measure light in a vacuum at c regardless of the source's motion.
 
-**A777.** B. c
+**A789.** B. c
 <!-- id: physics-4-1-6 -->
 
 Explanation: The speed of light is invariant: the astronaut measures c, not c minus the spacecraft's speed.
 
-**A778.** C. No significant change in the interference pattern was detected, giving no evidence for the aether.
+**A790.** C. No significant change in the interference pattern was detected, giving no evidence for the aether.
 <!-- id: physics-4-1-7 -->
 
 Explanation: The null result showed no detectable aether wind, consistent with light having the same speed in all directions and frames.
 
-**A779.** D. The laws of physics are the same in all inertial frames.
+**A791.** D. The laws of physics are the same in all inertial frames.
 <!-- id: physics-4-1-8 -->
 
 Explanation: Because physical laws are identical in every inertial frame, no experiment done inside the carriage can reveal its uniform motion.
 
-**A780.** A. for whom the two events occur at the same location
+**A792.** A. for whom the two events occur at the same location
 <!-- id: physics-4-1-9 -->
 
 Explanation: Proper time Δt₀ is measured in the frame where both events happen at the same place; it is the shortest measured interval.
 
-**A781.** B. at rest relative to the object
+**A793.** B. at rest relative to the object
 <!-- id: physics-4-1-10 -->
 
 Explanation: Proper length L₀ is measured in the object's rest frame and is the longest length any observer measures.
 
-**A782.** C. generally do not occur at the same time
+**A794.** C. generally do not occur at the same time
 <!-- id: physics-4-1-11 -->
 
 Explanation: Simultaneity is relative: spatially separated events that are simultaneous in one frame are generally not simultaneous in a frame moving relative to it.
 
-**A783.** D. Maxwell's electromagnetism, which predicts a fixed speed of light, and Galilean (classical) velocity addition
+**A795.** D. Maxwell's electromagnetism, which predicts a fixed speed of light, and Galilean (classical) velocity addition
 <!-- id: physics-4-1-12 -->
 
 Explanation: Maxwell's equations give c = 1/√(μ₀ε₀) with no reference frame, contradicting the classical idea that the speed of light should change with the observer's motion.
 
-**A784.** A. The speed of light in a vacuum
+**A796.** A. The speed of light in a vacuum
 <!-- id: physics-4-1-13 -->
 
 Explanation: Only c is invariant in this list; time intervals, lengths and kinetic energies depend on the observer's frame.
 
-**A785.** B. c + v
+**A797.** B. c + v
 <!-- id: physics-4-1-14 -->
 
 Explanation: Galilean addition simply adds velocities, predicting c + v; experiments show the actual measured value is c, as special relativity requires.
 
-**A786.** C. It applies to observers in inertial (non-accelerating) frames of reference.
+**A798.** C. It applies to observers in inertial (non-accelerating) frames of reference.
 <!-- id: physics-4-1-15 -->
 
 Explanation: Special relativity deals with inertial frames; accelerated frames and gravity are treated by general relativity.
 
-**A787.** D. As v approaches c, the Lorentz factor approaches infinity, so infinite energy would be needed.
+**A799.** D. As v approaches c, the Lorentz factor approaches infinity, so infinite energy would be needed.
 <!-- id: physics-4-1-16 -->
 
 Explanation: Kinetic energy is (γ − 1)mc², and γ → ∞ as v → c, so the energy required becomes unbounded.
 
-**A788.** A. The strike at the front of the train
+**A800.** A. The strike at the front of the train
 <!-- id: physics-4-1-17 -->
 
 Explanation: The passenger moves towards the light from the front, so it reaches her first; since light travels at c in her frame from equal distances, she concludes the front strike occurred first.
 
-**A789.** B. Both are correct, because each is in an inertial frame and the situation is symmetric.
+**A801.** B. Both are correct, because each is in an inertial frame and the situation is symmetric.
 <!-- id: physics-4-1-18 -->
 
 Explanation: By the first postulate neither inertial frame is preferred, so each observer correctly measures the other's clock as running slow.
 
-**A790.** 1. The laws of physics are the same in all inertial frames of reference. 2. The speed of light in a vacuum is the same (c) for all observers, regardless of the motion of the source or observer.
+**A802.** 1. The laws of physics are the same in all inertial frames of reference. 2. The speed of light in a vacuum is the same (c) for all observers, regardless of the motion of the source or observer.
 <!-- id: physics-4-1-19 -->
 
 Explanation: Both postulates need to be stated; the words 'inertial frames' and 'in a vacuum' are key marking points.
 
-**A791.** The ship moving at constant velocity is an inertial frame. Since the laws of physics are the same in all inertial frames, any experiment below deck gives exactly the same result as on land, so there is no way to detect the ship's uniform motion.
+**A803.** The ship moving at constant velocity is an inertial frame. Since the laws of physics are the same in all inertial frames, any experiment below deck gives exactly the same result as on land, so there is no way to detect the ship's uniform motion.
 <!-- id: physics-4-1-20 -->
 
 Explanation: Link 'constant velocity' to 'inertial frame' and state that experiments give identical results.
 
-**A792.** The experiment detected no change in the speed of light with Earth's motion, so there was no evidence for an aether. This supported the idea that light travels at the same speed c in all directions and for all observers, which became Einstein's second postulate.
+**A804.** The experiment detected no change in the speed of light with Earth's motion, so there was no evidence for an aether. This supported the idea that light travels at the same speed c in all directions and for all observers, which became Einstein's second postulate.
 <!-- id: physics-4-1-21 -->
 
 Explanation: Mention both the absence of an aether and the constancy of the speed of light.
 
-**A793.** Light from each event travels at c in every frame. An observer moving towards one event meets its light sooner, and because they must also measure both light signals at speed c over equal distances in their own frame, they conclude that the events occurred at different times. So simultaneity depends on the frame.
+**A805.** Light from each event travels at c in every frame. An observer moving towards one event meets its light sooner, and because they must also measure both light signals at speed c over equal distances in their own frame, they conclude that the events occurred at different times. So simultaneity depends on the frame.
 <!-- id: physics-4-1-22 -->
 
 Explanation: Credit the key idea that c is fixed in every frame, so a moving observer cannot attribute the different arrival times to different light speeds.
 
-**A794.** An inertial frame is not accelerating (at rest or moving at constant velocity), e.g. a tram travelling at constant speed along a straight track. A non-inertial frame is accelerating, e.g. a car braking or a car turning a corner.
+**A806.** An inertial frame is not accelerating (at rest or moving at constant velocity), e.g. a tram travelling at constant speed along a straight track. A non-inertial frame is accelerating, e.g. a car braking or a car turning a corner.
 <!-- id: physics-4-1-23 -->
 
 Explanation: Any valid examples are acceptable; turning at constant speed counts as accelerating.
 
-**A795.** c (3.0 × 10⁸ m/s). By Einstein's second postulate, the speed of light in a vacuum is the same for all observers, regardless of the motion of the source.
+**A807.** c (3.0 × 10⁸ m/s). By Einstein's second postulate, the speed of light in a vacuum is the same for all observers, regardless of the motion of the source.
 <!-- id: physics-4-1-24 -->
 
 Explanation: A common error is 0.10c (c − 0.90c), which uses classical velocity addition.
 
-**A796.** Time intervals are not absolute in special relativity; they depend on the observer's frame of reference. Each observer's measurement is correct in their own inertial frame, and no frame is preferred, so both measurements are valid.
+**A808.** Time intervals are not absolute in special relativity; they depend on the observer's frame of reference. Each observer's measurement is correct in their own inertial frame, and no frame is preferred, so both measurements are valid.
 <!-- id: physics-4-1-25 -->
 
 Explanation: Key point: measurements of time are frame-dependent and both are valid; only c is the same for all.
 
+**A809.** D. c
+<!-- id: physics-4-1-c1 -->
+
+Explanation: Einstein's second postulate: the speed of light in a vacuum is the same for all observers in inertial frames.
+
 #### Time dilation and Lorentz factor
 
-**A797.** A. 1.25
+**A810.** A. 1.25
 <!-- id: physics-4-2-1 -->
 
 Explanation: γ = 1/√(1 − 0.60²) = 1/√0.64 = 1/0.80 = 1.25.
 
-**A798.** B. 1.67
+**A811.** B. 1.67
 <!-- id: physics-4-2-2 -->
 
 Explanation: γ = 1/√(1 − 0.64) = 1/√0.36 = 1/0.60 = 1.67; 2.78 comes from forgetting the square root.
 
-**A799.** C. 7.09
+**A812.** C. 7.09
 <!-- id: physics-4-2-3 -->
 
 Explanation: γ = 1/√(1 − 0.9801) = 1/√0.0199 = 1/0.141 = 7.09; 50.3 results from omitting the square root.
 
-**A800.** D. 0.866c
+**A813.** D. 0.866c
 <!-- id: physics-4-2-4 -->
 
 Explanation: 1/√(1 − v²/c²) = 2 gives 1 − v²/c² = 0.25, so v/c = √0.75 = 0.866.
 
-**A801.** A. Δt = γΔt₀
+**A814.** A. Δt = γΔt₀
 <!-- id: physics-4-2-5 -->
 
 Explanation: The moving clock's proper interval is stretched by γ when measured by an observer in relative motion, so Δt = γΔt₀.
 
-**A802.** B. 1.25 s
+**A815.** B. 1.25 s
 <!-- id: physics-4-2-6 -->
 
 Explanation: The astronaut measures proper time, so Δt = γΔt₀ = 1.25 × 1.00 = 1.25 s.
 
-**A803.** C. 10 years
+**A816.** C. 10 years
 <!-- id: physics-4-2-7 -->
 
 Explanation: Ship clocks record proper time, so Δt = γΔt₀ = (5/3) × 6.0 = 10 years.
 
-**A804.** D. 12 years
+**A817.** D. 12 years
 <!-- id: physics-4-2-8 -->
 
 Explanation: The astronaut's proper time is Δt₀ = Δt/γ = 20/1.67 = 12 years.
 
-**A805.** A. Very slightly greater than 1, about 1 + 5 × 10⁻¹³
+**A818.** A. Very slightly greater than 1, about 1 + 5 × 10⁻¹³
 <!-- id: physics-4-2-9 -->
 
 Explanation: v²/c² = (300/3.0 × 10⁸)² = 1 × 10⁻¹², so γ ≈ 1 + ½(v²/c²) = 1 + 5 × 10⁻¹³: always above 1 but negligible at everyday speeds.
 
-**A806.** B. An astronaut travelling with the clock on the spacecraft
+**A819.** B. An astronaut travelling with the clock on the spacecraft
 <!-- id: physics-4-2-10 -->
 
 Explanation: Both ticks happen at the same place for the astronaut moving with the clock, so that observer measures proper time.
 
-**A807.** C. γ ≥ 1
+**A820.** C. γ ≥ 1
 <!-- id: physics-4-2-11 -->
 
 Explanation: Since 0 ≤ v²/c² < 1, the denominator √(1 − v²/c²) is at most 1, so γ is at least 1 (equal to 1 only at rest).
 
-**A808.** D. 1.15
+**A821.** D. 1.15
 <!-- id: physics-4-2-12 -->
 
 Explanation: γ = 1/√(1 − 0.25) = 1/√0.75 = 1/0.866 = 1.15; 1.33 comes from forgetting the square root.
 
-**A809.** A. 0.980c
+**A822.** A. 0.980c
 <!-- id: physics-4-2-13 -->
 
 Explanation: 1 − v²/c² = 1/25 = 0.04, so v/c = √0.96 = 0.980; 0.960c forgets to take the square root.
 
-**A810.** B. 83 ns
+**A823.** B. 83 ns
 <!-- id: physics-4-2-14 -->
 
 Explanation: γ = 1/√(1 − 0.9025) = 1/√0.0975 = 3.20, so Δt = 3.20 × 26 ns = 83 ns.
 
-**A811.** C. They run slow, as seen from the ground.
+**A824.** C. They run slow, as seen from the ground.
 <!-- id: physics-4-2-15 -->
 
 Explanation: Moving clocks are measured to run slow (time dilation); this small effect must be corrected for GPS to stay accurate.
 
-**A812.** D. It increases from about 1.09 to about 1.67.
+**A825.** D. It increases from about 1.09 to about 1.67.
 <!-- id: physics-4-2-16 -->
 
 Explanation: γ(0.40c) = 1/√0.84 = 1.09 and γ(0.80c) = 1/√0.36 = 1.67; γ is not proportional to speed.
 
-**A813.** A. 40 minutes
+**A826.** A. 40 minutes
 <!-- id: physics-4-2-17 -->
 
 Explanation: The ship clock measures proper time, so Earth observers find Δt₀ = Δt/γ = 50/1.25 = 40 minutes.
 
-**A814.** B. She changes inertial frames (accelerates) to turn around, so the situation is not symmetric.
+**A827.** B. She changes inertial frames (accelerates) to turn around, so the situation is not symmetric.
 <!-- id: physics-4-2-18 -->
 
 Explanation: Only the stay-at-home twin remains in a single inertial frame; the travelling twin's turnaround breaks the symmetry, so she ages less.
 
-**A815.** γ = 1/√(1 − 0.90²) = 1/√0.19 = 1/0.436 = 2.29
+**A828.** γ = 1/√(1 − 0.90²) = 1/√0.19 = 1/0.436 = 2.29
 <!-- id: physics-4-2-19 -->
 
 Explanation: Common error: 1/0.19 = 5.26 (forgetting the square root).
 
-**A816.** γ = 1/√(1 − 0.49) = 1/√0.51 = 1.40. Δt₀ = Δt/γ = 20.0/1.40 = 14.3 years.
+**A829.** γ = 1/√(1 − 0.49) = 1/√0.51 = 1.40. Δt₀ = Δt/γ = 20.0/1.40 = 14.3 years.
 <!-- id: physics-4-2-20 -->
 
 Explanation: The astronaut experiences proper time, which is shorter than the Earth-measured time.
 
-**A817.** γ = 9.0/1.8 = 5.0. 1 − v²/c² = 1/25 = 0.04, so v = √0.96 c = 0.98c (about 2.94 × 10⁸ m/s).
+**A830.** γ = 9.0/1.8 = 5.0. 1 − v²/c² = 1/25 = 0.04, so v = √0.96 c = 0.98c (about 2.94 × 10⁸ m/s).
 <!-- id: physics-4-2-21 -->
 
 Explanation: Award marks separately for γ and for the speed; 0.96c is a common error.
 
-**A818.** To an outside observer the light in the moving clock follows a longer, diagonal path between the mirrors. Because the speed of light is the same (c) for all observers, the longer path takes more time, so each tick of the moving clock takes longer: it runs slow.
+**A831.** To an outside observer the light in the moving clock follows a longer, diagonal path between the mirrors. Because the speed of light is the same (c) for all observers, the longer path takes more time, so each tick of the moving clock takes longer: it runs slow.
 <!-- id: physics-4-2-22 -->
 
 Explanation: Key points: longer diagonal path, constant c, therefore longer time per tick.
 
-**A819.** γ = 2, so 1 − v²/c² = 0.25 and v = √0.75 c = 0.866c = 2.6 × 10⁸ m/s.
+**A832.** γ = 2, so 1 − v²/c² = 0.25 and v = √0.75 c = 0.866c = 2.6 × 10⁸ m/s.
 <!-- id: physics-4-2-23 -->
 
 Explanation: Running at half rate means each tick takes twice as long, so γ = 2.
 
-**A820.** For v = 30 m/s, v/c = 1 × 10⁻⁷, so v²/c² = 1 × 10⁻¹⁴ and γ ≈ 1 + 5 × 10⁻¹⁵. The difference from 1 is far too small to notice; time dilation only becomes significant at speeds close to c.
+**A833.** For v = 30 m/s, v/c = 1 × 10⁻⁷, so v²/c² = 1 × 10⁻¹⁴ and γ ≈ 1 + 5 × 10⁻¹⁵. The difference from 1 is far too small to notice; time dilation only becomes significant at speeds close to c.
 <!-- id: physics-4-2-24 -->
 
 Explanation: Students should show that γ is extremely close to 1 at everyday speeds.
 
-**A821.** γ = 1.67, so Δt = γΔt₀ = 1.67 × 30 = 50 minutes.
+**A834.** γ = 1.67, so Δt = γΔt₀ = 1.67 × 30 = 50 minutes.
 <!-- id: physics-4-2-25 -->
 
 Explanation: The astronaut's measurement is proper time because the meal takes place at one location in her frame.
 
+**A835.** B. 10 years
+<!-- id: physics-4-2-c1 -->
+
+Explanation: γ = 1 ÷ √(1 − 0.64) = 1.67. The ship's clocks measure proper time, so Earth time = 1.67 × 6.0 = 10 years.
+
 #### Length contraction and muon evidence
 
-**A822.** A. L = L₀/γ
+**A836.** A. L = L₀/γ
 <!-- id: physics-4-3-1 -->
 
 Explanation: Moving objects are contracted along their direction of motion, so L = L₀/γ is shorter than L₀.
 
-**A823.** B. only in the direction of motion
+**A837.** B. only in the direction of motion
 <!-- id: physics-4-3-2 -->
 
 Explanation: Only the dimension parallel to the relative velocity is contracted; perpendicular dimensions are unchanged.
 
-**A824.** C. 80 m
+**A838.** C. 80 m
 <!-- id: physics-4-3-3 -->
 
 Explanation: L = L₀/γ = 100/1.25 = 80 m.
 
-**A825.** D. 1.2 m
+**A839.** D. 1.2 m
 <!-- id: physics-4-3-4 -->
 
 Explanation: L = L₀/γ = 2.0 × 0.60 = 1.2 m.
 
-**A826.** A. 10 m
+**A840.** A. 10 m
 <!-- id: physics-4-3-5 -->
 
 Explanation: The width is perpendicular to the motion, so it is not contracted.
 
-**A827.** B. 3.2 light-years
+**A841.** B. 3.2 light-years
 <!-- id: physics-4-3-6 -->
 
 Explanation: In the astronaut's frame the Earth–star distance is moving and contracted: L = 4.0/1.25 = 3.2 light-years.
 
-**A828.** C. 5.3 years
+**A842.** C. 5.3 years
 <!-- id: physics-4-3-7 -->
 
 Explanation: In the astronaut's frame the distance is 3.2 ly, so t = 3.2/0.60 = 5.3 years (Earth time is 6.7 years, and 6.7/1.25 = 5.3).
 
-**A829.** D. An observer at rest relative to the spacecraft
+**A843.** D. An observer at rest relative to the spacecraft
 <!-- id: physics-4-3-8 -->
 
 Explanation: Proper length is measured in the object's own rest frame.
 
-**A830.** A. High in the atmosphere, when cosmic rays collide with nuclei of atmospheric gases
+**A844.** A. High in the atmosphere, when cosmic rays collide with nuclei of atmospheric gases
 <!-- id: physics-4-3-9 -->
 
 Explanation: Cosmic-ray protons strike atmospheric nuclei about 10–15 km up, producing pions that decay into muons.
 
-**A831.** B. 650 m
+**A845.** B. 650 m
 <!-- id: physics-4-3-10 -->
 
 Explanation: d = vt = 0.99 × 3.0 × 10⁸ × 2.2 × 10⁻⁶ = 653 m, far less than the height of the atmosphere.
 
-**A832.** C. 4.6 km
+**A846.** C. 4.6 km
 <!-- id: physics-4-3-11 -->
 
 Explanation: Dilated lifetime = 7.09 × 2.2 μs = 15.6 μs; d = 2.97 × 10⁸ × 15.6 × 10⁻⁶ ≈ 4.6 km.
 
-**A833.** D. The atmosphere is moving relative to the muon, so its thickness is length contracted.
+**A847.** D. The atmosphere is moving relative to the muon, so its thickness is length contracted.
 <!-- id: physics-4-3-12 -->
 
 Explanation: In the muon's frame its lifetime is the proper time; instead the distance to the ground is contracted by γ.
 
-**A834.** A. 1.0 km
+**A848.** A. 1.0 km
 <!-- id: physics-4-3-13 -->
 
 Explanation: L = L₀/γ = 10 km/10.0 = 1.0 km.
 
-**A835.** B. Far more muons reach sea level than classical physics predicts from their short lifetime.
+**A849.** B. Far more muons reach sea level than classical physics predicts from their short lifetime.
 <!-- id: physics-4-3-14 -->
 
 Explanation: Classically almost all muons should decay within about 650 m; their high detection rate at sea level matches time dilation and length contraction.
 
-**A836.** C. The speed of the muon relative to Earth
+**A850.** C. The speed of the muon relative to Earth
 <!-- id: physics-4-3-15 -->
 
 Explanation: Both measure the same relative speed; they disagree on lifetime (time dilation) and atmosphere thickness (length contraction).
 
-**A837.** D. 0.80c
+**A851.** D. 0.80c
 <!-- id: physics-4-3-16 -->
 
 Explanation: L/L₀ = 0.60 = 1/γ, so 1 − v²/c² = 0.36 and v/c = √0.64 = 0.80.
 
-**A838.** A. 160 m, the same as the tunnel's length
+**A852.** A. 160 m, the same as the tunnel's length
 <!-- id: physics-4-3-17 -->
 
 Explanation: L = 200/1.25 = 160 m, so in the tunnel's frame the train just fits.
 
-**A839.** B. 128 m
+**A853.** B. 128 m
 <!-- id: physics-4-3-18 -->
 
 Explanation: In the train's frame the tunnel moves and is contracted: L = 160/1.25 = 128 m, so the train does not fit.
 
-**A840.** γ = 1/√0.19 = 2.29. L = L₀/γ = 120/2.29 = 52 m.
+**A854.** γ = 1/√0.19 = 2.29. L = L₀/γ = 120/2.29 = 52 m.
 <!-- id: physics-4-3-19 -->
 
 Explanation: Check that the contracted length is shorter than the proper length.
 
-**A841.** No. She is at rest relative to her spacecraft, so she measures its proper length. Length contraction is only observed for objects moving relative to the observer.
+**A855.** No. She is at rest relative to her spacecraft, so she measures its proper length. Length contraction is only observed for objects moving relative to the observer.
 <!-- id: physics-4-3-20 -->
 
 Explanation: Key point: in her own frame the ship is at rest.
 
-**A842.** γ = 1/√(1 − 0.9604) = 1/√0.0396 = 5.03. Dilated lifetime = 5.03 × 2.2 μs = 11.1 μs. d = 0.98 × 3.0 × 10⁸ × 11.1 × 10⁻⁶ = 3.3 × 10³ m (3.3 km).
+**A856.** γ = 1/√(1 − 0.9604) = 1/√0.0396 = 5.03. Dilated lifetime = 5.03 × 2.2 μs = 11.1 μs. d = 0.98 × 3.0 × 10⁸ × 11.1 × 10⁻⁶ = 3.3 × 10³ m (3.3 km).
 <!-- id: physics-4-3-21 -->
 
 Explanation: Students must apply time dilation in Earth's frame; without it the distance is only 650 m.
 
-**A843.** L = L₀/γ = 12/5.03 = 2.4 km.
+**A857.** L = L₀/γ = 12/5.03 = 2.4 km.
 <!-- id: physics-4-3-22 -->
 
 Explanation: The 12 km is the proper length because it is measured in Earth's frame, where the atmosphere is at rest.
 
-**A844.** In Earth's frame, the muons' lifetimes are time dilated, so they live long enough to travel through the atmosphere. In the muons' frame, their lifetime is normal but the atmosphere is length contracted, so the distance is short enough to cover. Both frames predict the same observed result: many muons reach the ground.
+**A858.** In Earth's frame, the muons' lifetimes are time dilated, so they live long enough to travel through the atmosphere. In the muons' frame, their lifetime is normal but the atmosphere is length contracted, so the distance is short enough to cover. Both frames predict the same observed result: many muons reach the ground.
 <!-- id: physics-4-3-23 -->
 
 Explanation: Both frames must be described, and the agreement on the outcome noted.
 
-**A845.** L/L₀ = 4.8/8.0 = 0.60 = 1/γ, so 1 − v²/c² = 0.36 and v = 0.80c (2.4 × 10⁸ m/s).
+**A859.** L/L₀ = 4.8/8.0 = 0.60 = 1/γ, so 1 − v²/c² = 0.36 and v = 0.80c (2.4 × 10⁸ m/s).
 <!-- id: physics-4-3-24 -->
 
 Explanation: The Earth-frame distance is the proper length.
 
-**A846.** The astronaut on the spacecraft measures the spacecraft's proper length, because the spacecraft is at rest in her frame. An observer on Earth measures the proper Earth–Moon distance, because Earth and the Moon are (approximately) at rest in that frame.
+**A860.** The astronaut on the spacecraft measures the spacecraft's proper length, because the spacecraft is at rest in her frame. An observer on Earth measures the proper Earth–Moon distance, because Earth and the Moon are (approximately) at rest in that frame.
 <!-- id: physics-4-3-25 -->
 
 Explanation: Proper length is always measured in the rest frame of the object or distance.
 
+**A861.** About 6.6 km
+<!-- id: physics-4-3-c1 -->
+
+Explanation: γ = 1 ÷ √(1 − 0.995²) ≈ 10.0. Earth-frame time = 10.0 × 2.2 µs = 22 µs. Distance = 0.995 × 3.0 × 10⁸ × 22 × 10⁻⁶ ≈ 6.6 km (without relativity only about 660 m).
+
 #### Mass–energy equivalence
 
-**A847.** A. a body at rest has energy in proportion to its mass
+**A862.** A. a body at rest has energy in proportion to its mass
 <!-- id: physics-4-4-1 -->
 
 Explanation: E = mc² gives the rest energy: mass is a form of energy, with c² as the conversion factor.
 
-**A848.** B. 8.2 × 10⁻¹⁴ J
+**A863.** B. 8.2 × 10⁻¹⁴ J
 <!-- id: physics-4-4-2 -->
 
 Explanation: E₀ = mc² = 9.1 × 10⁻³¹ × (3.0 × 10⁸)² = 8.19 × 10⁻¹⁴ J.
 
-**A849.** C. 2.0 × 10⁻¹⁴ J
+**A864.** C. 2.0 × 10⁻¹⁴ J
 <!-- id: physics-4-4-3 -->
 
 Explanation: Ek = (γ − 1)mc² = 0.25 × 8.19 × 10⁻¹⁴ = 2.0 × 10⁻¹⁴ J; 1.5 × 10⁻¹⁴ J is the classical ½mv² value and 1.0 × 10⁻¹³ J is the total energy.
 
-**A850.** D. γmc²
+**A865.** D. γmc²
 <!-- id: physics-4-4-4 -->
 
 Explanation: Total energy is γmc², the sum of rest energy mc² and kinetic energy (γ − 1)mc².
 
-**A851.** A. (γ − 1)mc²
+**A866.** A. (γ − 1)mc²
 <!-- id: physics-4-4-5 -->
 
 Explanation: Kinetic energy is total energy minus rest energy: γmc² − mc² = (γ − 1)mc².
 
-**A852.** B. 4.2 × 10⁹ kg/s
+**A867.** B. 4.2 × 10⁹ kg/s
 <!-- id: physics-4-4-6 -->
 
 Explanation: Δm/Δt = P/c² = 3.8 × 10²⁶/9.0 × 10¹⁶ = 4.2 × 10⁹ kg each second.
 
-**A853.** C. smaller, with the mass difference released as energy
+**A868.** C. smaller, with the mass difference released as energy
 <!-- id: physics-4-4-7 -->
 
 Explanation: The mass defect Δm is released as energy according to E = Δmc².
 
-**A854.** D. 1.0 × 10⁻¹⁰ J
+**A869.** D. 1.0 × 10⁻¹⁰ J
 <!-- id: physics-4-4-8 -->
 
 Explanation: mc² = 1.50 × 10⁻¹⁰ J and γ = 5/3, so Ek = (2/3) × 1.50 × 10⁻¹⁰ = 1.0 × 10⁻¹⁰ J; 4.8 × 10⁻¹¹ J is the classical value.
 
-**A855.** A. It underestimates the energy, because the true energy required approaches infinity as v approaches c.
+**A870.** A. It underestimates the energy, because the true energy required approaches infinity as v approaches c.
 <!-- id: physics-4-4-9 -->
 
 Explanation: Relativistic Ek = (γ − 1)mc² grows without limit as v → c, whereas ½mv² stays finite, so the classical formula is far too small.
 
-**A856.** B. 1.17 GeV
+**A871.** B. 1.17 GeV
 <!-- id: physics-4-4-10 -->
 
 Explanation: E = γmc² = 1.25 × 938 MeV = 1173 MeV ≈ 1.17 GeV; 235 MeV is the kinetic energy only.
 
-**A857.** C. 1.6 × 10⁻¹³ J
+**A872.** C. 1.6 × 10⁻¹³ J
 <!-- id: physics-4-4-11 -->
 
 Explanation: Total mass 1.82 × 10⁻³⁰ kg is converted: E = 1.82 × 10⁻³⁰ × 9.0 × 10¹⁶ = 1.6 × 10⁻¹³ J.
 
-**A858.** D. Its mass decreases very slightly, by an amount too small to measure.
+**A873.** D. Its mass decreases very slightly, by an amount too small to measure.
 <!-- id: physics-4-4-12 -->
 
 Explanation: Any loss of energy ΔE reduces mass by ΔE/c²; for thermal energy this is around 10⁻¹² kg or less, which is undetectable.
 
-**A859.** A. 6.3 × 10¹⁴ J
+**A874.** A. 6.3 × 10¹⁴ J
 <!-- id: physics-4-4-13 -->
 
 Explanation: Δm = 0.007 kg, so E = 0.007 × 9.0 × 10¹⁶ = 6.3 × 10¹⁴ J.
 
-**A860.** B. 2
+**A875.** B. 2
 <!-- id: physics-4-4-14 -->
 
 Explanation: Ek = (γ − 1)mc² = mc² gives γ − 1 = 1, so γ = 2.
 
-**A861.** C. 1.02 MeV
+**A876.** C. 1.02 MeV
 <!-- id: physics-4-4-15 -->
 
 Explanation: Ek = (γ − 1)mc² = 2.0 × 0.511 = 1.02 MeV; 1.53 MeV is the total energy.
 
-**A862.** D. 9.0 × 10¹³ J
+**A877.** D. 9.0 × 10¹³ J
 <!-- id: physics-4-4-16 -->
 
 Explanation: E = mc² = 1.0 × 10⁻³ kg × 9.0 × 10¹⁶ = 9.0 × 10¹³ J; remember to convert grams to kilograms.
 
-**A863.** A. Their total energy increases greatly while their speed increases only slightly.
+**A878.** A. Their total energy increases greatly while their speed increases only slightly.
 <!-- id: physics-4-4-17 -->
 
 Explanation: Near c, γ rises steeply with tiny increases in speed, so the added energy appears as large increases in γmc² while v approaches but never reaches c.
 
-**A864.** B. 3.6 × 10⁻²⁸ kg
+**A879.** B. 3.6 × 10⁻²⁸ kg
 <!-- id: physics-4-4-18 -->
 
 Explanation: Δm = E/c² = 3.2 × 10⁻¹¹/9.0 × 10¹⁶ = 3.6 × 10⁻²⁸ kg.
 
-**A865.** E = Pt = 2.2 × 10⁹ × 86 400 = 1.9 × 10¹⁴ J. m = E/c² = 1.9 × 10¹⁴/9.0 × 10¹⁶ = 2.1 × 10⁻³ kg (about 2.1 g).
+**A880.** E = Pt = 2.2 × 10⁹ × 86 400 = 1.9 × 10¹⁴ J. m = E/c² = 1.9 × 10¹⁴/9.0 × 10¹⁶ = 2.1 × 10⁻³ kg (about 2.1 g).
 <!-- id: physics-4-4-19 -->
 
 Explanation: Check the conversion of one day to 86 400 s.
 
-**A866.** mc² = 8.19 × 10⁻¹⁴ J and γ = 1.67. Total energy E = γmc² = 1.67 × 8.19 × 10⁻¹⁴ = 1.37 × 10⁻¹³ J. Ek = E − mc² = 5.5 × 10⁻¹⁴ J.
+**A881.** mc² = 8.19 × 10⁻¹⁴ J and γ = 1.67. Total energy E = γmc² = 1.67 × 8.19 × 10⁻¹⁴ = 1.37 × 10⁻¹³ J. Ek = E − mc² = 5.5 × 10⁻¹⁴ J.
 <!-- id: physics-4-4-20 -->
 
 Explanation: Ek is (γ − 1)mc², not γmc².
 
-**A867.** Ek = (γ − 1)mc², and γ = 1/√(1 − v²/c²) approaches infinity as v approaches c. So an infinite amount of energy would be needed to reach c, which is impossible.
+**A882.** Ek = (γ − 1)mc², and γ = 1/√(1 − v²/c²) approaches infinity as v approaches c. So an infinite amount of energy would be needed to reach c, which is impossible.
 <!-- id: physics-4-4-21 -->
 
 Explanation: Key link: γ → ∞ as v → c, so Ek → ∞.
 
-**A868.** When v is much less than c, γ ≈ 1 + ½v²/c². Then (γ − 1)mc² ≈ ½(v²/c²)mc² = ½mv². So the two formulas agree at low speeds, and differ only near c.
+**A883.** When v is much less than c, γ ≈ 1 + ½v²/c². Then (γ − 1)mc² ≈ ½(v²/c²)mc² = ½mv². So the two formulas agree at low speeds, and differ only near c.
 <!-- id: physics-4-4-22 -->
 
 Explanation: Full credit for showing γ − 1 ≈ ½v²/c², or for a numerical example showing the two agree.
 
-**A869.** Ek = (γ − 1)mc² = mc², so γ = 2. 1 − v²/c² = 0.25, so v = √0.75 c = 0.866c (2.6 × 10⁸ m/s).
+**A884.** Ek = (γ − 1)mc² = mc², so γ = 2. 1 − v²/c² = 0.25, so v = √0.75 c = 0.866c (2.6 × 10⁸ m/s).
 <!-- id: physics-4-4-23 -->
 
 Explanation: Total energy is then 1876 MeV, twice the rest energy.
 
-**A870.** The total mass of the helium nucleus (and other products) is less than the total mass of the hydrogen nuclei that fused. This mass difference Δm is converted into energy according to E = Δmc², released mainly as kinetic energy of particles and as radiation.
+**A885.** The total mass of the helium nucleus (and other products) is less than the total mass of the hydrogen nuclei that fused. This mass difference Δm is converted into energy according to E = Δmc², released mainly as kinetic energy of particles and as radiation.
 <!-- id: physics-4-4-24 -->
 
 Explanation: Key point: the products have less mass than the reactants.
 
-**A871.** γ = 3, so 1 − v²/c² = 1/9 and v = √(8/9) c = 0.943c = 2.83 × 10⁸ m/s.
+**A886.** γ = 3, so 1 − v²/c² = 1/9 and v = √(8/9) c = 0.943c = 2.83 × 10⁸ m/s.
 <!-- id: physics-4-4-25 -->
 
 Explanation: Note that it is the total energy, γmc², that equals 3mc².
+
+**A887.** A. About 4.2 × 10⁹ kg
+<!-- id: physics-4-4-c1 -->
+
+Explanation: Δm = E/c² = 3.8 × 10²⁶ ÷ (3.0 × 10⁸)² ≈ 4.2 × 10⁹ kg. Dividing by c instead of c² gives the 10¹⁸ answer.
 
 ### Electricity generation & transmission
 
 #### Magnetic flux and Faraday's law
 
-**A872.** A. weber (Wb)
+**A888.** A. weber (Wb)
 <!-- id: physics-5-1-1 -->
 
 Explanation: Magnetic flux Φ = B⊥A has units T m², which is defined as the weber.
 
-**A873.** C. 0.010 Wb
+**A889.** C. 0.010 Wb
 <!-- id: physics-5-1-2 -->
 
 Explanation: Φ = BA = 0.50 × 0.020 = 0.010 Wb.
 
-**A874.** C. zero
+**A890.** C. zero
 <!-- id: physics-5-1-3 -->
 
 Explanation: With the plane parallel to the field, no field lines pass through the loop, so the perpendicular component of B through the area is zero.
 
-**A875.** Magnetic flux is a measure of the total magnetic field passing through an area. Φ = B⊥A, where B⊥ is the component of the magnetic field perpendicular to the area A; it is measured in webers (Wb).
+**A891.** Magnetic flux is a measure of the total magnetic field passing through an area. Φ = B⊥A, where B⊥ is the component of the magnetic field perpendicular to the area A; it is measured in webers (Wb).
 <!-- id: physics-5-1-4 -->
 
 Explanation: Award marks for the idea of field 'through' an area and for using only the perpendicular component.
 
-**A876.** B. 4.0 × 10⁻³ Wb
+**A892.** B. 4.0 × 10⁻³ Wb
 <!-- id: physics-5-1-5 -->
 
 Explanation: A = (0.10 m)² = 0.010 m², so Φ = 0.40 × 0.010 = 4.0 × 10⁻³ Wb.
 
-**A877.** A. 12 V
+**A893.** A. 12 V
 <!-- id: physics-5-1-6 -->
 
 Explanation: ε = NΔΦ/Δt = 200 × 3.0 × 10⁻³ / 0.050 = 12 V.
 
-**A878.** B. 2.0 V
+**A894.** B. 2.0 V
 <!-- id: physics-5-1-7 -->
 
 Explanation: ΔΦ = 0.80 × 0.010 = 8.0 × 10⁻³ Wb per turn, so ε = 50 × 8.0 × 10⁻³ / 0.20 = 2.0 V.
 
-**A879.** A = π(0.050)² = 7.85 × 10⁻³ m², so Φ = 0.60 × 7.85 × 10⁻³ ≈ 4.7 × 10⁻³ Wb.
+**A895.** A = π(0.050)² = 7.85 × 10⁻³ m², so Φ = 0.60 × 7.85 × 10⁻³ ≈ 4.7 × 10⁻³ Wb.
 <!-- id: physics-5-1-8 -->
 
 Explanation: Common error: using the radius in cm or using the diameter instead of the radius.
 
-**A880.** B. Moving the coil at constant velocity entirely within a region of uniform, constant magnetic field
+**A896.** B. Moving the coil at constant velocity entirely within a region of uniform, constant magnetic field
 <!-- id: physics-5-1-9 -->
 
 Explanation: An emf requires a change in flux; translating the coil within a uniform field leaves the flux through it unchanged.
 
-**A881.** A. the rate of change of magnetic flux through the coil
+**A897.** A. the rate of change of magnetic flux through the coil
 <!-- id: physics-5-1-10 -->
 
 Explanation: ε = −NΔΦ/Δt, so it depends on how quickly the flux changes, not on the flux itself.
 
-**A882.** A. four times as large
+**A898.** A. four times as large
 <!-- id: physics-5-1-11 -->
 
 Explanation: ε = NΔΦ/Δt; doubling N doubles ε and halving Δt doubles it again, giving a factor of 4.
 
-**A883.** ΔΦ = 0.50 × 4.0 × 10⁻³ = 2.0 × 10⁻³ Wb per turn; ε = NΔΦ/Δt = 150 × 2.0 × 10⁻³ / 0.080 ≈ 3.8 V (3.75 V).
+**A899.** ΔΦ = 0.50 × 4.0 × 10⁻³ = 2.0 × 10⁻³ Wb per turn; ε = NΔΦ/Δt = 150 × 2.0 × 10⁻³ / 0.080 ≈ 3.8 V (3.75 V).
 <!-- id: physics-5-1-12 -->
 
 Explanation: Check that the number of turns is included and that the final flux is zero.
 
-**A884.** A. 10 V
+**A900.** A. 10 V
 <!-- id: physics-5-1-13 -->
 
 Explanation: ΔΦ = BA − 0 = 0.20 × 0.050 = 0.010 Wb per turn, so ε = 100 × 0.010 / 0.10 = 10 V.
 
-**A885.** A. 1.0 V
+**A901.** A. 1.0 V
 <!-- id: physics-5-1-14 -->
 
 Explanation: The flux reverses from +BA to −BA, so ΔΦ = 2BA = 2 × 0.25 × 0.040 = 0.020 Wb and ε = 0.020 / 0.020 = 1.0 V.
 
-**A886.** B. 0.030 Wb
+**A902.** B. 0.030 Wb
 <!-- id: physics-5-1-15 -->
 
 Explanation: Only the component of B along the normal counts: Φ = BA cos 60° = 0.20 × 0.30 × 0.5 = 0.030 Wb.
 
-**A887.** The flux through the loop is BA and both B and A stay constant while the loop is fully inside the field, so the flux does not change. With ΔΦ/Δt = 0, Faraday's law gives zero emf and therefore no current.
+**A903.** The flux through the loop is BA and both B and A stay constant while the loop is fully inside the field, so the flux does not change. With ΔΦ/Δt = 0, Faraday's law gives zero emf and therefore no current.
 <!-- id: physics-5-1-16 -->
 
 Explanation: The key idea is that emf depends on a change in flux, not on motion itself.
 
-**A888.** D. a larger emf, but the same total change in flux
+**A904.** D. a larger emf, but the same total change in flux
 <!-- id: physics-5-1-17 -->
 
 Explanation: The flux change depends only on start and end positions, but the emf depends on the rate of change, which is greater for the quick push.
 
-**A889.** D. 2.5 V
+**A905.** D. 2.5 V
 <!-- id: physics-5-1-18 -->
 
 Explanation: ΔΦ = 4.0 mWb, so ε = 25 × 4.0 × 10⁻³ / 0.040 = 2.5 V.
 
-**A890.** D. zero
+**A906.** D. zero
 <!-- id: physics-5-1-19 -->
 
 Explanation: An emf is only induced when the flux changes; constant flux means ΔΦ/Δt = 0.
 
-**A891.** Any three of: move the magnet faster (increase the rate of change of flux); use a stronger magnet; increase the number of turns on the coil; increase the cross-sectional area of the coil (or use an iron core to increase the flux).
+**A907.** Any three of: move the magnet faster (increase the rate of change of flux); use a stronger magnet; increase the number of turns on the coil; increase the cross-sectional area of the coil (or use an iron core to increase the flux).
 <!-- id: physics-5-1-20 -->
 
 Explanation: Each method must link to increasing N or the rate of change of flux.
 
-**A892.** B. Wb s⁻¹
+**A908.** B. Wb s⁻¹
 <!-- id: physics-5-1-21 -->
 
 Explanation: From ε = NΔΦ/Δt, an emf has units of webers per second.
 
-**A893.** D. 4.5 × 10⁻³ Wb
+**A909.** D. 4.5 × 10⁻³ Wb
 <!-- id: physics-5-1-22 -->
 
 Explanation: ΔΦ = εΔt/N = 6.0 × 0.30 / 400 = 4.5 × 10⁻³ Wb.
 
-**A894.** A. Doubling the field strength while rotating the coil from 60° to 0° between its normal and the field
+**A910.** A. Doubling the field strength while rotating the coil from 60° to 0° between its normal and the field
 <!-- id: physics-5-1-23 -->
 
 Explanation: Φ = BA cos θ; doubling B and increasing cos θ from 0.5 to 1 multiplies the flux by 4, more than any other option.
 
-**A895.** ΔΦ = (0.50 − 0.10) × 0.025 = 0.010 Wb per turn; ε = 80 × 0.010 / 0.20 = 4.0 V; I = ε/R = 4.0 / 4.0 = 1.0 A.
+**A911.** ΔΦ = (0.50 − 0.10) × 0.025 = 0.010 Wb per turn; ε = 80 × 0.010 / 0.20 = 4.0 V; I = ε/R = 4.0 / 4.0 = 1.0 A.
 <!-- id: physics-5-1-24 -->
 
 Explanation: Use the change in field (0.40 T), not the final field.
 
-**A896.** Magnetic flux density B is the strength of the magnetic field at a point, measured in tesla. Magnetic flux Φ is the amount of field passing through a given area, Φ = B⊥A, measured in webers.
+**A912.** Magnetic flux density B is the strength of the magnetic field at a point, measured in tesla. Magnetic flux Φ is the amount of field passing through a given area, Φ = B⊥A, measured in webers.
 <!-- id: physics-5-1-25 -->
 
 Explanation: Students should give both the meaning and the units of each quantity.
 
+**A913.** 5.0 V
+<!-- id: physics-5-1-c1 -->
+
+Explanation: ΔΦ = BA = 0.50 × 0.010 = 5.0 × 10⁻³ Wb. emf = NΔΦ/Δt = 200 × 5.0 × 10⁻³ ÷ 0.20 = 5.0 V.
+
 #### Lenz's law and induced currents
 
-**A897.** C. energy
+**A914.** C. energy
 <!-- id: physics-5-2-1 -->
 
 Explanation: If the induced current aided the change, energy would be created from nothing; opposing the change means work must be done to produce electrical energy.
 
-**A898.** A. a north pole, repelling the magnet
+**A915.** A. a north pole, repelling the magnet
 <!-- id: physics-5-2-2 -->
 
 Explanation: The induced current opposes the approach of the magnet, so the near end becomes a north pole that repels the incoming north pole.
 
-**A899.** C. a south pole, attracting the magnet
+**A916.** C. a south pole, attracting the magnet
 <!-- id: physics-5-2-3 -->
 
 Explanation: The induced current opposes the magnet moving away, so the near end becomes a south pole which attracts the retreating north pole.
 
-**A900.** The direction of an induced current (or emf) is such that the magnetic field it produces opposes the change in magnetic flux that caused it.
+**A917.** The direction of an induced current (or emf) is such that the magnetic field it produces opposes the change in magnetic flux that caused it.
 <!-- id: physics-5-2-4 -->
 
 Explanation: The word 'change' is essential: the induced field opposes the change in flux, not the field itself.
 
-**A901.** D. eddy currents induced in the pipe produce magnetic fields that oppose the magnet's motion
+**A918.** D. eddy currents induced in the pipe produce magnetic fields that oppose the magnet's motion
 <!-- id: physics-5-2-5 -->
 
 Explanation: The moving magnet changes the flux through rings of the pipe, inducing currents whose fields oppose the relative motion (Lenz's law). Copper is not ferromagnetic.
 
-**A902.** D. anticlockwise
+**A919.** D. anticlockwise
 <!-- id: physics-5-2-6 -->
 
 Explanation: The induced current must produce a field out of the page to oppose the increasing inward flux, which requires an anticlockwise current.
 
-**A903.** D. clockwise
+**A920.** D. clockwise
 <!-- id: physics-5-2-7 -->
 
 Explanation: The induced current tries to maintain the inward flux, so it produces a field into the page, which requires a clockwise current.
 
-**A904.** If the induced current attracted the magnet, the magnet would speed up and more current would be produced with no work input, creating energy from nothing. Because the induced current opposes the motion, work must be done to push the magnet in, and this work is converted into electrical energy.
+**A921.** If the induced current attracted the magnet, the magnet would speed up and more current would be produced with no work input, creating energy from nothing. Because the induced current opposes the motion, work must be done to push the magnet in, and this work is converted into electrical energy.
 <!-- id: physics-5-2-8 -->
 
 Explanation: Look for the link between opposing force, work done and electrical energy produced.
 
-**A905.** B. clockwise
+**A922.** B. clockwise
 <!-- id: physics-5-2-9 -->
 
 Explanation: To oppose increasing outward flux the induced field must point into the page, which a clockwise current produces.
 
-**A906.** B. clockwise
+**A923.** B. clockwise
 <!-- id: physics-5-2-10 -->
 
 Explanation: The inward flux through the loop is decreasing, so the induced current produces an inward field to oppose the decrease, which is clockwise.
 
-**A907.** B. greater, because the induced current produces a field that opposes the magnet's motion
+**A924.** B. greater, because the induced current produces a field that opposes the magnet's motion
 <!-- id: physics-5-2-11 -->
 
 Explanation: A current flows only in the closed circuit, and its field opposes the motion, so extra work must be done, which becomes electrical energy.
 
-**A908.** As the magnet falls, the changing flux induces eddy currents in the pipe whose fields oppose its motion (Lenz's law), producing an upward force. This force increases with speed, so the magnet speeds up until the upward magnetic force equals its weight; the net force is then zero and it falls at constant (terminal) velocity.
+**A925.** As the magnet falls, the changing flux induces eddy currents in the pipe whose fields oppose its motion (Lenz's law), producing an upward force. This force increases with speed, so the magnet speeds up until the upward magnetic force equals its weight; the net force is then zero and it falls at constant (terminal) velocity.
 <!-- id: physics-5-2-12 -->
 
 Explanation: Must mention the force growing with speed until it balances the weight.
 
-**A909.** B. the increasing flux induces a current in the ring whose field repels the solenoid's field
+**A926.** B. the increasing flux induces a current in the ring whose field repels the solenoid's field
 <!-- id: physics-5-2-13 -->
 
 Explanation: The sudden rise in flux induces a current in the ring that opposes the increase, making the ring and solenoid repel.
 
-**A910.** D. has an emf induced but no current, so it does not jump
+**A927.** D. has an emf induced but no current, so it does not jump
 <!-- id: physics-5-2-14 -->
 
 Explanation: The changing flux still induces an emf, but without a complete circuit no current flows, so there is no opposing magnetic force.
 
-**A911.** D. kinetic energy to thermal energy in the rails
+**A928.** D. kinetic energy to thermal energy in the rails
 <!-- id: physics-5-2-15 -->
 
 Explanation: The eddy currents dissipate energy as heat in the rail's resistance, and that energy comes from the train's kinetic energy.
 
-**A912.** Anticlockwise viewed from above. The upward flux decreases, so the induced current produces an upward field inside the loop to oppose the decrease; by the right-hand grip rule this needs an anticlockwise current viewed from above.
+**A929.** Anticlockwise viewed from above. The upward flux decreases, so the induced current produces an upward field inside the loop to oppose the decrease; by the right-hand grip rule this needs an anticlockwise current viewed from above.
 <!-- id: physics-5-2-16 -->
 
 Explanation: Students should state the direction of the induced field before deducing the current direction.
 
-**A913.** C. the induced emf opposes the change in flux that produces it
+**A930.** C. the induced emf opposes the change in flux that produces it
 <!-- id: physics-5-2-17 -->
 
 Explanation: The negative sign represents Lenz's law: the direction of the induced emf is such that it opposes the change in flux.
 
-**A914.** B. Pulling the south pole of the magnet out of the same end of the coil
+**A931.** B. Pulling the south pole of the magnet out of the same end of the coil
 <!-- id: physics-5-2-18 -->
 
 Explanation: Removing a south pole reduces flux pointing towards the magnet, which is the same change in flux as adding flux pointing away from the magnet, as happens when a north pole is inserted.
 
-**A915.** B. accelerates at g, because no current flows to produce an opposing force
+**A932.** B. accelerates at g, because no current flows to produce an opposing force
 <!-- id: physics-5-2-19 -->
 
 Explanation: An emf is induced, but with an open circuit there is no current, so there is no magnetic force opposing the fall.
 
-**A916.** When the switch is closed the current, and therefore the flux through the ring, increases rapidly, inducing a current in the ring whose field opposes the solenoid's field, so the ring is repelled. Once the current is steady the flux is constant, so no emf or current is induced and there is no repulsion.
+**A933.** When the switch is closed the current, and therefore the flux through the ring, increases rapidly, inducing a current in the ring whose field opposes the solenoid's field, so the ring is repelled. Once the current is steady the flux is constant, so no emf or current is induced and there is no repulsion.
 <!-- id: physics-5-2-20 -->
 
 Explanation: Key idea: only a changing flux induces a current.
 
-**A917.** B. clockwise
+**A934.** B. clockwise
 <!-- id: physics-5-2-21 -->
 
 Explanation: To the right of the wire the field points into the page and gets weaker with distance, so the inward flux decreases; the induced current produces an inward field, which is clockwise.
 
-**A918.** B. the slots reduce the size of eddy currents, so there is less magnetic braking
+**A935.** B. the slots reduce the size of eddy currents, so there is less magnetic braking
 <!-- id: physics-5-2-22 -->
 
 Explanation: Slots break up the closed current paths, reducing the eddy currents and therefore the opposing magnetic force.
 
-**A919.** C. No current is induced because the flux through the loop is not changing
+**A936.** C. No current is induced because the flux through the loop is not changing
 <!-- id: physics-5-2-23 -->
 
 Explanation: Induction requires a changing flux; a constant flux through a stationary loop produces no emf.
 
-**A920.** When braking, the wheels turn the motor's coil in its magnetic field, inducing a current that charges the battery. By Lenz's law, the induced current produces a force (torque) that opposes the rotation, slowing the car while converting kinetic energy into electrical energy.
+**A937.** When braking, the wheels turn the motor's coil in its magnetic field, inducing a current that charges the battery. By Lenz's law, the induced current produces a force (torque) that opposes the rotation, slowing the car while converting kinetic energy into electrical energy.
 <!-- id: physics-5-2-24 -->
 
 Explanation: Award marks for identifying the opposing torque and the energy transformation.
 
-**A921.** Anticlockwise as viewed from the magnet. The near end of the coil must become a north pole to oppose the approaching north pole, and a current that appears anticlockwise when viewed from an end makes that end a north pole.
+**A938.** Anticlockwise as viewed from the magnet. The near end of the coil must become a north pole to oppose the approaching north pole, and a current that appears anticlockwise when viewed from an end makes that end a north pole.
 <!-- id: physics-5-2-25 -->
 
 Explanation: Use the right-hand grip rule: fingers curl with the current, thumb points to the north pole.
 
+**A939.** B. A north pole, so it repels the approaching magnet
+<!-- id: physics-5-2-c1 -->
+
+Explanation: Lenz's law: the induced current opposes the change in flux. If it attracted the magnet, energy would be created from nothing.
+
 #### Generators, alternators and AC/RMS
 
-**A922.** D. slip rings
+**A940.** D. slip rings
 <!-- id: physics-5-3-1 -->
 
 Explanation: Slip rings keep each end of the coil connected to the same external terminal, so the output alternates.
 
-**A923.** C. reverse the coil's connection to the external circuit every half turn, so the output has one polarity
+**A941.** C. reverse the coil's connection to the external circuit every half turn, so the output has one polarity
 <!-- id: physics-5-3-2 -->
 
 Explanation: By swapping the connections each half rotation, the commutator ensures the current in the external circuit always flows in the same direction.
 
-**A924.** B. the plane of the coil is parallel to the field
+**A942.** B. the plane of the coil is parallel to the field
 <!-- id: physics-5-3-3 -->
 
 Explanation: When the plane is parallel to the field the flux is zero but changing most rapidly, giving maximum emf.
 
-**A925.** The emf depends on the rate of change of flux, not the flux itself. When the plane is parallel to the field, the flux is passing through zero and changing at its fastest rate (the steepest part of the flux–time graph), so the emf is maximum.
+**A943.** The emf depends on the rate of change of flux, not the flux itself. When the plane is parallel to the field, the flux is passing through zero and changing at its fastest rate (the steepest part of the flux–time graph), so the emf is maximum.
 <!-- id: physics-5-3-4 -->
 
 Explanation: Common error: thinking maximum flux gives maximum emf.
 
-**A926.** A. zero
+**A944.** A. zero
 <!-- id: physics-5-3-5 -->
 
 Explanation: At maximum flux the flux is momentarily not changing (the turning point of the flux–time graph), so the emf is zero.
 
-**A927.** A. Both double
+**A945.** A. Both double
 <!-- id: physics-5-3-6 -->
 
 Explanation: Rotating faster halves the time for each flux change, doubling the emf, and also doubles the number of cycles per second.
 
-**A928.** B. 325 V
+**A946.** B. 325 V
 <!-- id: physics-5-3-7 -->
 
 Explanation: V_peak = √2 × V_RMS = 1.414 × 230 ≈ 325 V.
 
-**A929.** V_peak = √2 × 230 ≈ 325 V. Period T = 1/f = 1/50 = 0.020 s (20 ms).
+**A947.** V_peak = √2 × 230 ≈ 325 V. Period T = 1/f = 1/50 = 0.020 s (20 ms).
 <!-- id: physics-5-3-8 -->
 
 Explanation: Both values are needed for full marks.
 
-**A930.** C. 20 ms
+**A948.** C. 20 ms
 <!-- id: physics-5-3-9 -->
 
 Explanation: T = 1/f = 1/50 = 0.020 s = 20 ms.
 
-**A931.** C. 650 V
+**A949.** C. 650 V
 <!-- id: physics-5-3-10 -->
 
 Explanation: V_peak = 230√2 ≈ 325 V, and peak-to-peak is twice the peak, about 650 V.
 
-**A932.** A. 6.1 A
+**A950.** A. 6.1 A
 <!-- id: physics-5-3-11 -->
 
 Explanation: I_RMS = P/V_RMS = 1000/230 = 4.35 A, so I_peak = √2 × 4.35 ≈ 6.1 A.
 
-**A933.** Both are halved. The flux changes half as quickly, so the peak emf halves, and the coil completes half as many rotations per second, so the frequency halves.
+**A951.** Both are halved. The flux changes half as quickly, so the peak emf halves, and the coil completes half as many rotations per second, so the frequency halves.
 <!-- id: physics-5-3-12 -->
 
 Explanation: Students often forget that the peak emf, not just the frequency, changes.
 
-**A934.** D. the steady DC voltage that would deliver the same average power to a resistor
+**A952.** D. the steady DC voltage that would deliver the same average power to a resistor
 <!-- id: physics-5-3-13 -->
 
 Explanation: RMS is defined by equivalent heating effect: it gives the same average power in a resistor as a DC voltage of that value.
 
-**A935.** C. 20 W
+**A953.** C. 20 W
 <!-- id: physics-5-3-14 -->
 
 Explanation: V_RMS = 20/√2 = 14.1 V, so P = V_RMS²/R = 200/10 = 20 W. Using the peak voltage gives the wrong answer of 40 W.
 
-**A936.** A. 100 V
+**A954.** A. 100 V
 <!-- id: physics-5-3-15 -->
 
 Explanation: ΔΦ = BA = 0.010 Wb per turn and a quarter turn takes 1/(4 × 25) = 0.010 s, so ε = 100 × 0.010 / 0.010 = 100 V.
 
-**A937.** I_RMS = P/V_RMS = 2400/230 ≈ 10.4 A. R = V_RMS²/P = 230²/2400 ≈ 22.0 Ω.
+**A955.** I_RMS = P/V_RMS = 2400/230 ≈ 10.4 A. R = V_RMS²/P = 230²/2400 ≈ 22.0 Ω.
 <!-- id: physics-5-3-16 -->
 
 Explanation: Use RMS values for power calculations with AC.
 
-**A938.** A. zero
+**A956.** A. zero
 <!-- id: physics-5-3-17 -->
 
 Explanation: After a full revolution the flux returns to its starting value, so ΔΦ = 0 and the average emf over the revolution is zero.
 
-**A939.** D. provide a sliding electrical contact between the rotating coil and the external circuit
+**A957.** D. provide a sliding electrical contact between the rotating coil and the external circuit
 <!-- id: physics-5-3-18 -->
 
 Explanation: Brushes (usually carbon) press against the slip rings or commutator to connect the rotating coil to the stationary circuit.
 
-**A940.** B. a series of half-sine pulses, all of the same polarity
+**A958.** B. a series of half-sine pulses, all of the same polarity
 <!-- id: physics-5-3-19 -->
 
 Explanation: The commutator flips the negative half-cycles, so the output varies in size but never changes polarity.
 
-**A941.** Slip rings keep each end of the coil connected to the same external terminal, so the output current reverses every half turn (AC). A split-ring commutator swaps the connections every half turn, so the output always has the same polarity (varying DC).
+**A959.** Slip rings keep each end of the coil connected to the same external terminal, so the output current reverses every half turn (AC). A split-ring commutator swaps the connections every half turn, so the output always has the same polarity (varying DC).
 <!-- id: physics-5-3-20 -->
 
 Explanation: Award marks for linking each device to its output type.
 
-**A942.** A. the current in the coil experiences a magnetic force that opposes its rotation
+**A960.** A. the current in the coil experiences a magnetic force that opposes its rotation
 <!-- id: physics-5-3-21 -->
 
 Explanation: With a closed circuit, current flows in the coil and, by Lenz's law, the resulting force opposes the motion, so more mechanical work is needed.
 
-**A943.** C. the large output current does not need to pass through sliding contacts
+**A961.** C. the large output current does not need to pass through sliding contacts
 <!-- id: physics-5-3-22 -->
 
 Explanation: With stationary output coils, the high output current is taken directly from fixed terminals; only the small field current passes through slip rings.
 
-**A944.** A. 240 V
+**A962.** A. 240 V
 <!-- id: physics-5-3-23 -->
 
 Explanation: V_RMS = V_peak/√2 = 340/1.414 ≈ 240 V.
 
-**A945.** After half a turn the flux reverses, so ΔΦ = 2BA = 2 × 0.20 × 0.030 = 0.012 Wb per turn. ε = NΔΦ/Δt = 50 × 0.012 / 0.010 = 60 V.
+**A963.** After half a turn the flux reverses, so ΔΦ = 2BA = 2 × 0.20 × 0.030 = 0.012 Wb per turn. ε = NΔΦ/Δt = 50 × 0.012 / 0.010 = 60 V.
 <!-- id: physics-5-3-24 -->
 
 Explanation: Common error: using ΔΦ = BA and getting 30 V.
 
-**A946.** The RMS value gives the equivalent DC value that delivers the same average power to a resistor, so power can be calculated directly with P = V_RMS I_RMS. Peak values would overstate the average power, since the voltage is only at its peak for an instant.
+**A964.** The RMS value gives the equivalent DC value that delivers the same average power to a resistor, so power can be calculated directly with P = V_RMS I_RMS. Peak values would overstate the average power, since the voltage is only at its peak for an instant.
 <!-- id: physics-5-3-25 -->
 
 Explanation: Key idea: RMS links AC to the same heating effect as DC.
 
+**A965.** C. The peak voltage becomes 680 V and the frequency doubles
+<!-- id: physics-5-3-c1 -->
+
+Explanation: Faster rotation changes the flux faster, doubling the emf (RMS goes from 240 V to 480 V), and doubles the number of cycles per second.
+
 #### Transformers and transmission losses
 
-**A947.** A. 12 V
+**A966.** A. 12 V
 <!-- id: physics-5-4-1 -->
 
 Explanation: V_s = V_p × N_s/N_p = 230 × 60/1150 = 12 V.
 
-**A948.** A. a steady current produces a constant flux, so no emf is induced in the secondary
+**A967.** A. a steady current produces a constant flux, so no emf is induced in the secondary
 <!-- id: physics-5-4-2 -->
 
 Explanation: Transformers rely on a changing flux in the core; once a DC current is steady, the flux is constant and no emf is induced.
 
-**A949.** C. 2.5 A
+**A968.** C. 2.5 A
 <!-- id: physics-5-4-3 -->
 
 Explanation: For an ideal transformer, I_s = I_p × N_p/N_s = 50 × 1/20 = 2.5 A, so power in equals power out.
 
-**A950.** An alternating current in the primary coil produces a changing magnetic flux in the iron core. The core carries this changing flux through the secondary coil, and by Faraday's law the changing flux induces an alternating emf in the secondary.
+**A969.** An alternating current in the primary coil produces a changing magnetic flux in the iron core. The core carries this changing flux through the secondary coil, and by Faraday's law the changing flux induces an alternating emf in the secondary.
 <!-- id: physics-5-4-4 -->
 
 Explanation: Must include changing flux and Faraday's law.
 
-**A951.** C. reduce energy losses due to eddy currents
+**A970.** C. reduce energy losses due to eddy currents
 <!-- id: physics-5-4-5 -->
 
 Explanation: Insulated laminations break up current paths in the core, reducing eddy currents and the heat they produce.
 
-**A952.** C. I²R
+**A971.** C. I²R
 <!-- id: physics-5-4-6 -->
 
 Explanation: The heat loss in the line depends on the current through it and its resistance, P_loss = I²R.
 
-**A953.** D. reduced to 1/100 of its original value
+**A972.** D. reduced to 1/100 of its original value
 <!-- id: physics-5-4-7 -->
 
 Explanation: I = P/V falls by a factor of 10, and P_loss = I²R falls by a factor of 10² = 100.
 
-**A954.** N_s = N_p × V_s/V_p = 1800 × 11/66 = 300 turns.
+**A973.** N_s = N_p × V_s/V_p = 1800 × 11/66 = 300 turns.
 <!-- id: physics-5-4-8 -->
 
 Explanation: Check that the ratio is inverted correctly for a step-down transformer.
 
-**A955.** D. 10 kW
+**A974.** D. 10 kW
 <!-- id: physics-5-4-9 -->
 
 Explanation: I = P/V = 500 000/10 000 = 50 A, so P_loss = I²R = 50² × 4.0 = 10 000 W = 10 kW.
 
-**A956.** C. 9.8 kV
+**A975.** C. 9.8 kV
 <!-- id: physics-5-4-10 -->
 
 Explanation: I = 50 A, so the voltage drop is IR = 50 × 4.0 = 200 V, leaving 10 000 − 200 = 9800 V at the load.
 
-**A957.** C. the 10 kV is not the voltage across the line resistance; only the much smaller voltage drop across the lines should be used
+**A976.** C. the 10 kV is not the voltage across the line resistance; only the much smaller voltage drop across the lines should be used
 <!-- id: physics-5-4-11 -->
 
 Explanation: P = V²/R requires the voltage across the resistance itself, which is the voltage drop along the lines, not the supply voltage.
 
-**A958.** For a given power, P = VI, so a higher voltage means a smaller current. The power lost as heat in the lines is P_loss = I²R, so reducing the current greatly reduces losses (halving the current reduces losses by a factor of 4).
+**A977.** For a given power, P = VI, so a higher voltage means a smaller current. The power lost as heat in the lines is P_loss = I²R, so reducing the current greatly reduces losses (halving the current reduces losses by a factor of 4).
 <!-- id: physics-5-4-12 -->
 
 Explanation: Must link high voltage to low current and to I²R.
 
-**A959.** B. 240
+**A978.** B. 240
 <!-- id: physics-5-4-13 -->
 
 Explanation: N_s = N_p × V_s/V_p = 4800 × 12/240 = 240 turns.
 
-**A960.** D. 0.25 A
+**A979.** D. 0.25 A
 <!-- id: physics-5-4-14 -->
 
 Explanation: Power in equals power out, so I_p = P/V_p = 60/240 = 0.25 A.
 
-**A961.** A. is easily magnetised and concentrates the changing flux so it links both coils
+**A980.** A. is easily magnetised and concentrates the changing flux so it links both coils
 <!-- id: physics-5-4-15 -->
 
 Explanation: The core channels the changing flux produced by the primary through the secondary, improving flux linkage.
 
-**A962.** (a) I = 100 000/415 ≈ 241 A, P_loss = 241² × 0.50 ≈ 2.9 × 10⁴ W (29 kW). (b) I = 100 000/11 000 ≈ 9.09 A, P_loss = 9.09² × 0.50 ≈ 41 W.
+**A981.** (a) I = 100 000/415 ≈ 241 A, P_loss = 241² × 0.50 ≈ 2.9 × 10⁴ W (29 kW). (b) I = 100 000/11 000 ≈ 9.09 A, P_loss = 9.09² × 0.50 ≈ 41 W.
 <!-- id: physics-5-4-16 -->
 
 Explanation: The comparison shows how much higher voltage reduces losses.
 
-**A963.** D. The secondary has fewer turns and carries a larger current than the primary
+**A982.** D. The secondary has fewer turns and carries a larger current than the primary
 <!-- id: physics-5-4-17 -->
 
 Explanation: Fewer secondary turns lowers voltage; since power is conserved, the secondary current must be larger.
 
-**A964.** C. 50 Hz
+**A983.** C. 50 Hz
 <!-- id: physics-5-4-18 -->
 
 Explanation: The secondary emf is induced by the same changing flux, so it has the same frequency as the primary.
 
-**A965.** C. one quarter of its original value
+**A984.** C. one quarter of its original value
 <!-- id: physics-5-4-19 -->
 
 Explanation: Doubling V halves I, and P_loss = I²R becomes (1/2)² = 1/4 of the original.
 
-**A966.** The changing flux induces eddy currents in the iron core, which waste energy as heat. Laminations (thin sheets insulated from each other) break up the paths for these currents, reducing eddy currents and so reducing energy loss.
+**A985.** The changing flux induces eddy currents in the iron core, which waste energy as heat. Laminations (thin sheets insulated from each other) break up the paths for these currents, reducing eddy currents and so reducing energy loss.
 <!-- id: physics-5-4-20 -->
 
 Explanation: Key idea: insulation between layers increases the resistance of eddy current paths.
 
-**A967.** D. 0.63%
+**A986.** D. 0.63%
 <!-- id: physics-5-4-21 -->
 
 Explanation: I = 2.0 × 10⁶/40 000 = 50 A, P_loss = 50² × 5.0 = 12.5 kW, which is 12.5/2000 × 100 ≈ 0.63%.
 
-**A968.** B. AC voltages can be easily stepped up and down using transformers
+**A987.** B. AC voltages can be easily stepped up and down using transformers
 <!-- id: physics-5-4-22 -->
 
 Explanation: Transformers require a changing current, so AC allows efficient high-voltage transmission and safe low-voltage use.
 
-**A969.** D. 53 : 1
+**A988.** D. 53 : 1
 <!-- id: physics-5-4-23 -->
 
 Explanation: N_p/N_s = V_p/V_s = 22 000/415 ≈ 53, so the ratio is about 53 : 1.
 
-**A970.** Power = 24 × 4.0 = 96 W, so I_p = 96/240 = 0.40 A. The turns ratio N_p : N_s = 240 : 24 = 10 : 1.
+**A989.** Power = 24 × 4.0 = 96 W, so I_p = 96/240 = 0.40 A. The turns ratio N_p : N_s = 240 : 24 = 10 : 1.
 <!-- id: physics-5-4-24 -->
 
 Explanation: Power in equals power out for an ideal transformer.
 
-**A971.** I = 20 000/240 ≈ 83.3 A. Voltage drop = IR = 83.3 × 0.20 ≈ 16.7 V. Power loss = I²R = 83.3² × 0.20 ≈ 1.4 × 10³ W (1.4 kW).
+**A990.** I = 20 000/240 ≈ 83.3 A. Voltage drop = IR = 83.3 × 0.20 ≈ 16.7 V. Power loss = I²R = 83.3² × 0.20 ≈ 1.4 × 10³ W (1.4 kW).
 <!-- id: physics-5-4-25 -->
 
 Explanation: Students should see that low-voltage supply over a line causes significant loss.
+
+**A991.** About 1.0 MW at 22 kV and 10 kW at 220 kV: 100 times less
+<!-- id: physics-5-4-c1 -->
+
+Explanation: I = P/V: 455 A or 45.5 A. P(loss) = I²R: 1.03 × 10⁶ W or 1.03 × 10⁴ W. Ten times the voltage gives one-tenth the current and one-hundredth the loss.
 
 ### Light as a wave
 
 #### Wave properties and electromagnetic waves
 
-**A972.** A. 5.0 × 10^14 Hz
+**A992.** A. 5.0 × 10^14 Hz
 <!-- id: physics-6-1-1 -->
 
 Explanation: f = c/λ = (3.0 × 10^8)/(600 × 10^-9) = 5.0 × 10^14 Hz.
 
-**A973.** B. Frequency
+**A993.** B. Frequency
 <!-- id: physics-6-1-2 -->
 
 Explanation: Frequency is set by the source and does not change at a boundary; speed and wavelength both decrease in glass.
 
-**A974.** C. accelerating (e.g. oscillating) electric charges
+**A994.** C. accelerating (e.g. oscillating) electric charges
 <!-- id: physics-6-1-3 -->
 
 Explanation: Only accelerating charges produce changing electric and magnetic fields that propagate as an electromagnetic wave.
 
-**A975.** D. perpendicular to each other and to the direction of travel
+**A995.** D. perpendicular to each other and to the direction of travel
 <!-- id: physics-6-1-4 -->
 
 Explanation: EM waves are transverse: E and B oscillate at right angles to each other and to the propagation direction.
 
-**A976.** A. 3.0 m
+**A996.** A. 3.0 m
 <!-- id: physics-6-1-5 -->
 
 Explanation: λ = c/f = (3.0 × 10^8)/(1.0 × 10^8) = 3.0 m.
 
-**A977.** B. James Clerk Maxwell
+**A997.** B. James Clerk Maxwell
 <!-- id: physics-6-1-6 -->
 
 Explanation: Maxwell's equations predict a wave speed of 1/√(μ₀ε₀) ≈ 3.0 × 10^8 m s⁻¹, matching the measured speed of light.
 
-**A978.** C. Violet
+**A998.** C. Violet
 <!-- id: physics-6-1-7 -->
 
 Explanation: Violet has the shortest visible wavelength, so by f = c/λ it has the highest frequency.
 
-**A979.** D. 2.0 × 10^-15 s
+**A999.** D. 2.0 × 10^-15 s
 <!-- id: physics-6-1-8 -->
 
 Explanation: T = 1/f = 1/(5.0 × 10^14) = 2.0 × 10^-15 s.
 
-**A980.** A. 5.64 × 10^14 Hz
+**A1000.** A. 5.64 × 10^14 Hz
 <!-- id: physics-6-1-9 -->
 
 Explanation: f = c/λ = (3.0 × 10^8)/(532 × 10^-9) ≈ 5.64 × 10^14 Hz; 1.77 × 10^-15 is the period, not the frequency.
 
-**A981.** B. 400 nm
+**A1001.** B. 400 nm
 <!-- id: physics-6-1-10 -->
 
 Explanation: λ = v/f = (2.0 × 10^8)/(5.0 × 10^14) = 4.0 × 10^-7 m = 400 nm; 600 nm is the vacuum wavelength.
 
-**A982.** C. Light can travel through a vacuum, but sound requires a medium.
+**A1002.** C. Light can travel through a vacuum, but sound requires a medium.
 <!-- id: physics-6-1-11 -->
 
 Explanation: Light is a self-propagating electromagnetic wave needing no medium; sound is a mechanical longitudinal wave.
 
-**A983.** D. intensity (brightness)
+**A1003.** D. intensity (brightness)
 <!-- id: physics-6-1-12 -->
 
 Explanation: Wave intensity is proportional to the square of amplitude; frequency, speed and wavelength are unaffected.
 
-**A984.** A. Huygens' wave model of light
+**A1004.** A. Huygens' wave model of light
 <!-- id: physics-6-1-13 -->
 
 Explanation: The wave model predicts light slows in a denser medium when refracting towards the normal, whereas Newton's model predicted it speeds up.
 
-**A985.** B. The photoelectric effect
+**A1005.** B. The photoelectric effect
 <!-- id: physics-6-1-14 -->
 
 Explanation: The photoelectric effect requires light to be treated as photons; the other three are explained well by waves.
 
-**A986.** C. X-rays
+**A1006.** C. X-rays
 <!-- id: physics-6-1-15 -->
 
 Explanation: Wavelengths around 10^-10 m (0.1 nm) lie in the X-ray region; UV is roughly 10–400 nm.
 
-**A987.** D. exactly out of phase (half a cycle apart)
+**A1007.** D. exactly out of phase (half a cycle apart)
 <!-- id: physics-6-1-16 -->
 
 Explanation: 900 nm = 1.5λ, so the points are separated by one and a half wavelengths, which is half a cycle out of phase.
 
-**A988.** A. a surface joining points of the wave that are in the same phase
+**A1008.** A. a surface joining points of the wave that are in the same phase
 <!-- id: physics-6-1-17 -->
 
 Explanation: Wavefronts join points in phase; rays are drawn perpendicular to them to show the direction of travel.
 
-**A989.** B. They all travel at the same speed but have different frequencies.
+**A1009.** B. They all travel at the same speed but have different frequencies.
 <!-- id: physics-6-1-18 -->
 
 Explanation: All EM waves travel at c in a vacuum; they differ in frequency and wavelength.
 
-**A990.** An EM wave consists of oscillating electric and magnetic fields. A changing electric field produces a changing magnetic field, and a changing magnetic field produces a changing electric field, so the wave regenerates itself and propagates through empty space without any particles needing to vibrate.
+**A1010.** An EM wave consists of oscillating electric and magnetic fields. A changing electric field produces a changing magnetic field, and a changing magnetic field produces a changing electric field, so the wave regenerates itself and propagates through empty space without any particles needing to vibrate.
 <!-- id: physics-6-1-19 -->
 
 Explanation: Award marks for: oscillating E and B fields; each change induces the other (Maxwell/Faraday); no material medium required.
 
-**A991.** λ = v/f = (2.25 × 10^8)/(4.6 × 10^14) ≈ 4.9 × 10^-7 m (about 490 nm).
+**A1011.** λ = v/f = (2.25 × 10^8)/(4.6 × 10^14) ≈ 4.9 × 10^-7 m (about 490 nm).
 <!-- id: physics-6-1-20 -->
 
 Explanation: Use the speed in the medium, not c. The frequency is unchanged, so the wavelength in water is shorter than in air.
 
-**A992.** λ = c/f = (3.0 × 10^8)/(2.6 × 10^9) ≈ 0.12 m (11.5 cm).
+**A1012.** λ = c/f = (3.0 × 10^8)/(2.6 × 10^9) ≈ 0.12 m (11.5 cm).
 <!-- id: physics-6-1-21 -->
 
 Explanation: Remember 1 GHz = 10^9 Hz.
 
-**A993.** In a transverse wave the oscillation is perpendicular to the direction of energy transfer (e.g. light or any EM wave, waves on a string). In a longitudinal wave the oscillation is parallel to the direction of energy transfer (e.g. sound in air).
+**A1013.** In a transverse wave the oscillation is perpendicular to the direction of energy transfer (e.g. light or any EM wave, waves on a string). In a longitudinal wave the oscillation is parallel to the direction of energy transfer (e.g. sound in air).
 <!-- id: physics-6-1-22 -->
 
 Explanation: Both the definition and a correct example are needed for each type.
 
-**A994.** Maxwell unified electricity and magnetism in a set of equations that predicted self-sustaining electromagnetic waves. The predicted speed, 1/√(μ₀ε₀) ≈ 3.0 × 10^8 m s⁻¹, matched the measured speed of light, so he concluded that light is an electromagnetic wave.
+**A1014.** Maxwell unified electricity and magnetism in a set of equations that predicted self-sustaining electromagnetic waves. The predicted speed, 1/√(μ₀ε₀) ≈ 3.0 × 10^8 m s⁻¹, matched the measured speed of light, so he concluded that light is an electromagnetic wave.
 <!-- id: physics-6-1-23 -->
 
 Explanation: Key points: unification of E and M, prediction of EM waves, calculated speed equals c.
 
-**A995.** The speed decreases, the frequency stays the same, and the wavelength decreases (since λ = v/f).
+**A1015.** The speed decreases, the frequency stays the same, and the wavelength decreases (since λ = v/f).
 <!-- id: physics-6-1-24 -->
 
 Explanation: Common error: saying frequency changes. Frequency is fixed by the source.
 
-**A996.** Number = (1.0 × 10^-3)/(500 × 10^-9) = 2.0 × 10^3, i.e. 2000 wavelengths.
+**A1016.** Number = (1.0 × 10^-3)/(500 × 10^-9) = 2.0 × 10^3, i.e. 2000 wavelengths.
 <!-- id: physics-6-1-25 -->
 
 Explanation: Convert both quantities to metres before dividing.
 
+**A1017.** C. 5.0 × 10¹⁴ Hz; the frequency is unchanged
+<!-- id: physics-6-1-c1 -->
+
+Explanation: f = c/λ = 3.0 × 10⁸ ÷ 600 × 10⁻⁹ = 5.0 × 10¹⁴ Hz. Frequency is set by the source; the wavelength shortens instead.
+
 #### Interference and Young's double slit
 
-**A997.** C. a whole number of wavelengths, nλ
+**A1018.** C. a whole number of wavelengths, nλ
 <!-- id: physics-6-2-1 -->
 
 Explanation: Waves arriving with path difference nλ are in phase and interfere constructively.
 
-**A998.** D. (n − ½)λ, where n = 1, 2, 3, …
+**A1019.** D. (n − ½)λ, where n = 1, 2, 3, …
 <!-- id: physics-6-2-2 -->
 
 Explanation: A path difference of an odd number of half wavelengths means the waves arrive half a cycle out of phase, producing destructive interference.
 
-**A999.** A. 4.0 mm
+**A1020.** A. 4.0 mm
 <!-- id: physics-6-2-3 -->
 
 Explanation: Δx = λL/d = (600 × 10^-9 × 2.0)/(0.30 × 10^-3) = 4.0 × 10^-3 m = 4.0 mm.
 
-**A1000.** B. decrease
+**A1021.** B. decrease
 <!-- id: physics-6-2-4 -->
 
 Explanation: Δx = λL/d, so a larger d gives a smaller fringe spacing.
 
-**A1001.** C. closer together
+**A1022.** C. closer together
 <!-- id: physics-6-2-5 -->
 
 Explanation: Blue light has a shorter wavelength, and Δx is proportional to λ.
 
-**A1002.** D. increase
+**A1023.** D. increase
 <!-- id: physics-6-2-6 -->
 
 Explanation: Δx = λL/d, so fringe spacing is proportional to the slit-to-screen distance L.
 
-**A1003.** A. 1.5 µm
+**A1024.** A. 1.5 µm
 <!-- id: physics-6-2-7 -->
 
 Explanation: For bright fringes, path difference = nλ with the central fringe n = 0, so the third is 3 × 500 nm = 1500 nm = 1.5 µm.
 
-**A1004.** B. 900 nm
+**A1025.** B. 900 nm
 <!-- id: physics-6-2-8 -->
 
 Explanation: Dark fringes occur at (n − ½)λ; for n = 2, path difference = 1.5 × 600 nm = 900 nm.
 
-**A1005.** C. A dark fringe (the third dark fringe from the centre)
+**A1026.** C. A dark fringe (the third dark fringe from the centre)
 <!-- id: physics-6-2-9 -->
 
 Explanation: 1.25 µm / 500 nm = 2.5, an odd number of half wavelengths (0.5, 1.5, 2.5), so P is the third dark fringe.
 
-**A1006.** D. coherent sources with a constant phase relationship
+**A1027.** D. coherent sources with a constant phase relationship
 <!-- id: physics-6-2-10 -->
 
 Explanation: Interference fringes are only stable if the two sources are coherent: same frequency and a constant phase difference.
 
-**A1007.** A. not coherent
+**A1028.** A. not coherent
 <!-- id: physics-6-2-11 -->
 
 Explanation: Independent sources emit with randomly changing phases, so any fringe pattern shifts too rapidly to be seen.
 
-**A1008.** B. 600 nm
+**A1029.** B. 600 nm
 <!-- id: physics-6-2-12 -->
 
 Explanation: λ = Δx d / L = (2.4 × 10^-3 × 0.50 × 10^-3)/2.0 = 6.0 × 10^-7 m = 600 nm.
 
-**A1009.** C. behaves as a wave
+**A1030.** C. behaves as a wave
 <!-- id: physics-6-2-13 -->
 
 Explanation: Interference (alternating bright and dark fringes) is a wave property that a simple particle model could not explain.
 
-**A1010.** D. decrease
+**A1031.** D. decrease
 <!-- id: physics-6-2-14 -->
 
 Explanation: The frequency is unchanged but the speed falls, so λ decreases in water and Δx = λL/d decreases.
 
-**A1011.** A. 5.0 mm
+**A1032.** A. 5.0 mm
 <!-- id: physics-6-2-15 -->
 
 Explanation: The third dark fringe has path difference 2.5λ, so it lies 2.5Δx = 2.5 × 2.0 mm = 5.0 mm from the centre.
 
-**A1012.** B. half a cycle out of phase
+**A1033.** B. half a cycle out of phase
 <!-- id: physics-6-2-16 -->
 
 Explanation: Crests meet troughs, so the displacements cancel.
 
-**A1013.** C. It is redistributed to the bright fringes.
+**A1034.** C. It is redistributed to the bright fringes.
 <!-- id: physics-6-2-17 -->
 
 Explanation: Energy is conserved: interference redistributes energy, so bright fringes are brighter than they would be without interference.
 
-**A1014.** D. 15.6 mm
+**A1035.** D. 15.6 mm
 <!-- id: physics-6-2-18 -->
 
 Explanation: Δx = (650 × 10^-9 × 1.5)/(0.25 × 10^-3) = 3.9 mm, so the fourth bright fringe is at 4 × 3.9 = 15.6 mm.
 
-**A1015.** Light from the two coherent slits travels different distances to each point on the screen. Where the path difference is a whole number of wavelengths (nλ) the waves arrive in phase and interfere constructively, giving a bright fringe. Where the path difference is (n − ½)λ the waves arrive half a cycle out of phase and interfere destructively, giving a dark fringe.
+**A1036.** Light from the two coherent slits travels different distances to each point on the screen. Where the path difference is a whole number of wavelengths (nλ) the waves arrive in phase and interfere constructively, giving a bright fringe. Where the path difference is (n − ½)λ the waves arrive half a cycle out of phase and interfere destructively, giving a dark fringe.
 <!-- id: physics-6-2-19 -->
 
 Explanation: Marks for: coherent sources, path difference, nλ → constructive/bright, (n − ½)λ → destructive/dark.
 
-**A1016.** d = λL/Δx = (532 × 10^-9 × 3.0)/(4.0 × 10^-3) ≈ 4.0 × 10^-4 m = 0.40 mm.
+**A1037.** d = λL/Δx = (532 × 10^-9 × 3.0)/(4.0 × 10^-3) ≈ 4.0 × 10^-4 m = 0.40 mm.
 <!-- id: physics-6-2-20 -->
 
 Explanation: Rearrange Δx = λL/d and keep all values in metres.
 
-**A1017.** Path difference = ½λ = 320 nm (3.2 × 10^-7 m).
+**A1038.** Path difference = ½λ = 320 nm (3.2 × 10^-7 m).
 <!-- id: physics-6-2-21 -->
 
 Explanation: The first dark fringe is where the waves are half a wavelength out of step: (n − ½)λ with n = 1.
 
-**A1018.** The two-source interference fringes disappear. Only the single-slit diffraction pattern remains: a broad central bright band with much fainter side bands, and the overall intensity is lower.
+**A1039.** The two-source interference fringes disappear. Only the single-slit diffraction pattern remains: a broad central bright band with much fainter side bands, and the overall intensity is lower.
 <!-- id: physics-6-2-22 -->
 
 Explanation: Interference requires two coherent sources; with one slit only diffraction occurs.
 
-**A1019.** Δx = 25 mm ÷ 10 = 2.5 mm. λ = Δx d / L = (2.5 × 10^-3 × 0.20 × 10^-3)/1.0 = 5.0 × 10^-7 m = 500 nm.
+**A1040.** Δx = 25 mm ÷ 10 = 2.5 mm. λ = Δx d / L = (2.5 × 10^-3 × 0.20 × 10^-3)/1.0 = 5.0 × 10^-7 m = 500 nm.
 <!-- id: physics-6-2-23 -->
 
 Explanation: Measuring across many fringes reduces the uncertainty in Δx.
 
-**A1020.** The central fringe is white because all wavelengths have zero path difference there. Either side are coloured fringes, with violet/blue on the inner edge and red on the outer edge, because Δx = λL/d is larger for longer wavelengths. Further out the colours overlap and the pattern washes out.
+**A1041.** The central fringe is white because all wavelengths have zero path difference there. Either side are coloured fringes, with violet/blue on the inner edge and red on the outer edge, because Δx = λL/d is larger for longer wavelengths. Further out the colours overlap and the pattern washes out.
 <!-- id: physics-6-2-24 -->
 
 Explanation: Key idea: fringe spacing is proportional to wavelength, so colours separate.
 
-**A1021.** Newton's particle model predicted just two bright bands behind the two slits. Young observed many alternating bright and dark fringes, including darkness where light from both slits overlapped. Adding light to light to produce darkness can only be explained by wave interference.
+**A1042.** Newton's particle model predicted just two bright bands behind the two slits. Young observed many alternating bright and dark fringes, including darkness where light from both slits overlapped. Adding light to light to produce darkness can only be explained by wave interference.
 <!-- id: physics-6-2-25 -->
 
 Explanation: Highlight that particles cannot cancel each other to give dark regions.
 
+**A1043.** 4.0 mm; it decreases
+<!-- id: physics-6-2-c1 -->
+
+Explanation: Δx = λL/d = 600 × 10⁻⁹ × 2.0 ÷ 0.30 × 10⁻³ = 4.0 × 10⁻³ m. Blue light has a shorter wavelength, so the fringes move closer together.
+
 #### Diffraction and the λ/w ratio
 
-**A1022.** A. the wavelength is similar to or larger than the gap width
+**A1044.** A. the wavelength is similar to or larger than the gap width
 <!-- id: physics-6-3-1 -->
 
 Explanation: The extent of diffraction depends on λ/w; significant spreading occurs when λ/w is about 1 or greater.
 
-**A1023.** B. A 0.5 µm slit
+**A1045.** B. A 0.5 µm slit
 <!-- id: physics-6-3-2 -->
 
 Explanation: λ/w = 500 nm / 0.5 µm = 1, the largest ratio of the options.
 
-**A1024.** C. become wider
+**A1046.** C. become wider
 <!-- id: physics-6-3-3 -->
 
 Explanation: Decreasing w increases λ/w, so the light spreads more.
 
-**A1025.** D. sound wavelengths are comparable to the doorway width, but light wavelengths are far smaller
+**A1047.** D. sound wavelengths are comparable to the doorway width, but light wavelengths are far smaller
 <!-- id: physics-6-3-4 -->
 
 Explanation: Sound (λ ≈ 1 m) diffracts significantly through a doorway; light (λ ≈ 500 nm) has a tiny λ/w and barely diffracts.
 
-**A1026.** A. wider
+**A1048.** A. wider
 <!-- id: physics-6-3-5 -->
 
 Explanation: Red has the longer wavelength, so λ/w is larger and diffraction is greater.
 
-**A1027.** B. Its wavelength, frequency and speed are all unchanged.
+**A1049.** B. Its wavelength, frequency and speed are all unchanged.
 <!-- id: physics-6-3-6 -->
 
 Explanation: Diffraction changes the direction of travel (spreading) but not the wave's speed, frequency or wavelength in the same medium.
 
-**A1028.** C. longer-wavelength AM waves diffract more around hills
+**A1050.** C. longer-wavelength AM waves diffract more around hills
 <!-- id: physics-6-3-7 -->
 
 Explanation: Hills are hundreds of metres across, comparable to AM wavelengths, so AM signals bend around them much more.
 
-**A1029.** D. 0.50
+**A1051.** D. 0.50
 <!-- id: physics-6-3-8 -->
 
 Explanation: λ/w = 3.0 cm / 6.0 cm = 0.50, which gives noticeable diffraction.
 
-**A1030.** A. Negligible, because λ/w is about 2.5 × 10^-4
+**A1052.** A. Negligible, because λ/w is about 2.5 × 10^-4
 <!-- id: physics-6-3-9 -->
 
 Explanation: λ/w = (500 × 10^-9)/(2.0 × 10^-3) = 2.5 × 10^-4, far less than 1.
 
-**A1031.** B. reduces diffraction, allowing finer detail to be resolved
+**A1053.** B. reduces diffraction, allowing finer detail to be resolved
 <!-- id: physics-6-3-10 -->
 
 Explanation: A larger aperture gives a smaller λ/w, so less diffraction blurs the image and closer objects can be distinguished.
 
-**A1032.** C. spread out significantly into the harbour
+**A1054.** C. spread out significantly into the harbour
 <!-- id: physics-6-3-11 -->
 
 Explanation: λ/w = 1, so diffraction is significant and the waves spread widely behind the entrance.
 
-**A1033.** D. the same
+**A1055.** D. the same
 <!-- id: physics-6-3-12 -->
 
 Explanation: Diffraction depends on the ratio λ/w, which is unchanged (2λ/2w = λ/w).
 
-**A1034.** A. Using light of a longer wavelength
+**A1056.** A. Using light of a longer wavelength
 <!-- id: physics-6-3-13 -->
 
 Explanation: Increasing λ increases λ/w. Higher frequency means shorter λ, and a wider slit reduces λ/w.
 
-**A1035.** B. brighter, but the same width
+**A1057.** B. brighter, but the same width
 <!-- id: physics-6-3-14 -->
 
 Explanation: Intensity does not affect λ or w, so the angular spread is unchanged; only brightness increases.
 
-**A1036.** C. a broad, bright central band with much fainter, narrower side bands
+**A1058.** C. a broad, bright central band with much fainter, narrower side bands
 <!-- id: physics-6-3-15 -->
 
 Explanation: A single-slit pattern has a dominant central maximum about twice the width of the weaker side maxima.
 
-**A1037.** D. diffraction
+**A1059.** D. diffraction
 <!-- id: physics-6-3-16 -->
 
 Explanation: Light bends around the edge into the geometric shadow, producing diffraction bands.
 
-**A1038.** A. Sound of frequency 340 Hz (λ = 1.0 m)
+**A1060.** A. Sound of frequency 340 Hz (λ = 1.0 m)
 <!-- id: physics-6-3-17 -->
 
 Explanation: The 340 Hz sound has λ/w = 1, the largest ratio of the options.
 
-**A1039.** B. Light spreads into the region of geometric shadow after passing through a narrow gap.
+**A1061.** B. Light spreads into the region of geometric shadow after passing through a narrow gap.
 <!-- id: physics-6-3-18 -->
 
 Explanation: A simple particle model predicts sharp shadows; spreading into the shadow is a characteristic wave behaviour.
 
-**A1040.** Diffraction depends on the ratio λ/w. It is significant when λ/w is about 1 or greater, and becomes negligible when λ/w is much less than 1. Increasing λ or decreasing w increases diffraction.
+**A1062.** Diffraction depends on the ratio λ/w. It is significant when λ/w is about 1 or greater, and becomes negligible when λ/w is much less than 1. Increasing λ or decreasing w increases diffraction.
 <!-- id: physics-6-3-19 -->
 
 Explanation: Students should refer to the ratio, not just one variable.
 
-**A1041.** λ = c/f = (3.0 × 10^8)/(2.4 × 10^9) = 0.125 m. λ/w = 0.125/0.125 = 1.0, so the signal diffracts significantly and spreads widely beyond the gap.
+**A1063.** λ = c/f = (3.0 × 10^8)/(2.4 × 10^9) = 0.125 m. λ/w = 0.125/0.125 = 1.0, so the signal diffracts significantly and spreads widely beyond the gap.
 <!-- id: physics-6-3-20 -->
 
 Explanation: Show the wavelength calculation first, then the ratio.
 
-**A1042.** Sound waves have wavelengths around 0.1–3 m, comparable to the doorway width, so λ/w is close to 1 and they diffract strongly around the edges. Light has wavelengths around 400–700 nm, so λ/w is tiny and it hardly diffracts, travelling almost in straight lines.
+**A1064.** Sound waves have wavelengths around 0.1–3 m, comparable to the doorway width, so λ/w is close to 1 and they diffract strongly around the edges. Light has wavelengths around 400–700 nm, so λ/w is tiny and it hardly diffracts, travelling almost in straight lines.
 <!-- id: physics-6-3-21 -->
 
 Explanation: Must compare both wavelengths to the gap size.
 
-**A1043.** The pattern is a wide, bright central band with fainter, narrower bands on either side. As the slit narrows, λ/w increases, so the whole pattern spreads out: the central band becomes wider (and dimmer, because less light passes through).
+**A1065.** The pattern is a wide, bright central band with fainter, narrower bands on either side. As the slit narrows, λ/w increases, so the whole pattern spreads out: the central band becomes wider (and dimmer, because less light passes through).
 <!-- id: physics-6-3-22 -->
 
 Explanation: Marks for describing the pattern and the widening with narrower slits.
 
-**A1044.** Keep λ/w constant: w = 0.10 mm × (450/650) ≈ 0.069 mm (about 69 µm).
+**A1066.** Keep λ/w constant: w = 0.10 mm × (450/650) ≈ 0.069 mm (about 69 µm).
 <!-- id: physics-6-3-23 -->
 
 Explanation: Same diffraction means the same λ/w ratio.
 
-**A1045.** UV light has a shorter wavelength than visible light. For tiny features of a given width, λ/w is smaller, so there is less diffraction and spreading of the light, allowing sharper, smaller features to be produced.
+**A1067.** UV light has a shorter wavelength than visible light. For tiny features of a given width, λ/w is smaller, so there is less diffraction and spreading of the light, allowing sharper, smaller features to be produced.
 <!-- id: physics-6-3-24 -->
 
 Explanation: Link shorter λ to smaller λ/w and less blurring.
 
-**A1046.** Newton's particle model predicts that light travels in straight lines and casts sharp-edged shadows. When light passes through a narrow gap it spreads into the geometric shadow and forms bright and dark bands, which is characteristic of waves and is explained by Huygens' wavelets interfering.
+**A1068.** Newton's particle model predicts that light travels in straight lines and casts sharp-edged shadows. When light passes through a narrow gap it spreads into the geometric shadow and forms bright and dark bands, which is characteristic of waves and is explained by Huygens' wavelets interfering.
 <!-- id: physics-6-3-25 -->
 
 Explanation: Mention spreading into the shadow and the banded pattern.
 
+**A1069.** A. Wavelength 500 nm, gap 1.0 µm
+<!-- id: physics-6-3-c1 -->
+
+Explanation: Diffraction is significant when λ/w is close to or above 1. Here λ/w = 0.5, much larger than the others.
+
 #### Polarisation of light
 
-**A1047.** C. a transverse wave
+**A1070.** C. a transverse wave
 <!-- id: physics-6-4-1 -->
 
 Explanation: Only transverse waves have an oscillation direction that can be restricted to a single plane.
 
-**A1048.** D. half the original intensity
+**A1071.** D. half the original intensity
 <!-- id: physics-6-4-2 -->
 
 Explanation: On average only the component of the electric field along the transmission axis passes, so half the intensity is transmitted.
 
-**A1049.** A. zero
+**A1072.** A. zero
 <!-- id: physics-6-4-3 -->
 
 Explanation: The first filter polarises the light; the second, crossed filter blocks all of that polarised light.
 
-**A1050.** B. longitudinal
+**A1073.** B. longitudinal
 <!-- id: physics-6-4-4 -->
 
 Explanation: In a longitudinal wave the oscillation is along the direction of travel, so there is no perpendicular direction to select.
 
-**A1051.** C. reflected light is partly horizontally polarised and the lenses only transmit vertically polarised light
+**A1074.** C. reflected light is partly horizontally polarised and the lenses only transmit vertically polarised light
 <!-- id: physics-6-4-5 -->
 
 Explanation: Light reflected from horizontal surfaces is largely horizontally polarised; vertical transmission axes block it.
 
-**A1052.** D. the electric field oscillates in only one plane
+**A1075.** D. the electric field oscillates in only one plane
 <!-- id: physics-6-4-6 -->
 
 Explanation: Polarisation describes the direction of the electric field oscillation; in plane-polarised light it is confined to one plane.
 
-**A1053.** A. goes from maximum to zero twice
+**A1076.** A. goes from maximum to zero twice
 <!-- id: physics-6-4-7 -->
 
 Explanation: Maximum transmission occurs at 0° and 180°, and zero at 90° and 270°.
 
-**A1054.** B. stays constant at half the original
+**A1077.** B. stays constant at half the original
 <!-- id: physics-6-4-8 -->
 
 Explanation: Unpolarised light has electric field components in all directions equally, so every orientation transmits half.
 
-**A1055.** C. Some light now emerges from the final filter.
+**A1078.** C. Some light now emerges from the final filter.
 <!-- id: physics-6-4-9 -->
 
 Explanation: The middle filter transmits a component at 45°, which then has a component along the final filter's axis, so some light passes.
 
-**A1056.** D. Microwaves
+**A1079.** D. Microwaves
 <!-- id: physics-6-4-10 -->
 
 Explanation: Microwaves are transverse EM waves; the others are longitudinal mechanical waves.
 
-**A1057.** A. electric field
+**A1080.** A. electric field
 <!-- id: physics-6-4-11 -->
 
 Explanation: Polarisation is defined by the electric field, which is perpendicular to the magnetic field.
 
-**A1058.** B. horizontal
+**A1081.** B. horizontal
 <!-- id: physics-6-4-12 -->
 
 Explanation: The electric field is horizontal, so it drives charges most effectively along horizontal rods.
 
-**A1059.** C. polarised
+**A1082.** C. polarised
 <!-- id: physics-6-4-13 -->
 
 Explanation: LCD screens emit polarised light, so rotating the polarising lenses relative to it reduces transmission.
 
-**A1060.** D. 40 W m⁻²
+**A1083.** D. 40 W m⁻²
 <!-- id: physics-6-4-14 -->
 
 Explanation: The first filter halves the intensity to 40 W m⁻²; the second, parallel filter transmits all of this already polarised light.
 
-**A1061.** A. Light can be polarised.
+**A1084.** A. Light can be polarised.
 <!-- id: physics-6-4-15 -->
 
 Explanation: Diffraction, refraction and interference occur for longitudinal waves too, but polarisation only occurs for transverse waves.
 
-**A1062.** B. scattered skylight is partly polarised
+**A1085.** B. scattered skylight is partly polarised
 <!-- id: physics-6-4-16 -->
 
 Explanation: Light scattered by the atmosphere is partly polarised, so a suitably oriented filter blocks much of it.
 
-**A1063.** C. z-axis
+**A1086.** C. z-axis
 <!-- id: physics-6-4-17 -->
 
 Explanation: In an EM wave E, B and the direction of travel are mutually perpendicular, so B is along z.
 
-**A1064.** D. its electric field oscillates in all directions perpendicular to its direction of travel
+**A1087.** D. its electric field oscillates in all directions perpendicular to its direction of travel
 <!-- id: physics-6-4-18 -->
 
 Explanation: Unpolarised light is a random mixture of all transverse oscillation directions.
 
-**A1065.** Polarisation means restricting the oscillation to a single plane. This is only possible for transverse waves, where oscillations can occur in many directions perpendicular to the direction of travel. In a longitudinal wave the oscillation is always along the direction of travel, so there is nothing to filter. Because light can be polarised, it must be transverse.
+**A1088.** Polarisation means restricting the oscillation to a single plane. This is only possible for transverse waves, where oscillations can occur in many directions perpendicular to the direction of travel. In a longitudinal wave the oscillation is always along the direction of travel, so there is nothing to filter. Because light can be polarised, it must be transverse.
 <!-- id: physics-6-4-19 -->
 
 Explanation: Contrast transverse with longitudinal waves.
 
-**A1066.** Light reflecting off a horizontal surface such as a wet road is largely horizontally polarised. The lenses have vertical transmission axes, so they block most of this horizontally polarised reflected light while still transmitting about half of the unpolarised light from other objects.
+**A1089.** Light reflecting off a horizontal surface such as a wet road is largely horizontally polarised. The lenses have vertical transmission axes, so they block most of this horizontally polarised reflected light while still transmitting about half of the unpolarised light from other objects.
 <!-- id: physics-6-4-20 -->
 
 Explanation: Must mention the polarisation of the reflected light and the orientation of the lenses.
 
-**A1067.** After the first filter: 60 W m⁻² (half). After the second, crossed filter: 0 W m⁻².
+**A1090.** After the first filter: 60 W m⁻² (half). After the second, crossed filter: 0 W m⁻².
 <!-- id: physics-6-4-21 -->
 
 Explanation: The first filter always halves unpolarised light; crossed filters transmit nothing.
 
-**A1068.** Look at the light through a single polarising filter and rotate the filter through 180°. If the brightness stays constant, the light is unpolarised. If the brightness varies, dropping to (near) zero at one orientation, the light is plane-polarised.
+**A1091.** Look at the light through a single polarising filter and rotate the filter through 180°. If the brightness stays constant, the light is unpolarised. If the brightness varies, dropping to (near) zero at one orientation, the light is plane-polarised.
 <!-- id: physics-6-4-22 -->
 
 Explanation: The rotating filter is the key step.
 
-**A1069.** In unpolarised light the electric field oscillates in all directions perpendicular to the direction of travel. In plane-polarised light the electric field oscillates in only one plane.
+**A1092.** In unpolarised light the electric field oscillates in all directions perpendicular to the direction of travel. In plane-polarised light the electric field oscillates in only one plane.
 <!-- id: physics-6-4-23 -->
 
 Explanation: Refer to the electric field direction relative to the direction of travel.
 
-**A1070.** Sound in air is a longitudinal wave: the air particles oscillate parallel to the direction of travel. There is only one possible oscillation direction, so it cannot be restricted to a particular plane perpendicular to the motion.
+**A1093.** Sound in air is a longitudinal wave: the air particles oscillate parallel to the direction of travel. There is only one possible oscillation direction, so it cannot be restricted to a particular plane perpendicular to the motion.
 <!-- id: physics-6-4-24 -->
 
 Explanation: Link the inability to polarise directly to the longitudinal nature.
 
-**A1071.** Maxwell's theory describes light as oscillating electric and magnetic fields perpendicular to the direction of travel, which is a transverse wave. Polarisation filters can select one direction of the electric field oscillation, which is only possible for a transverse wave, so polarisation is consistent with Maxwell's model.
+**A1094.** Maxwell's theory describes light as oscillating electric and magnetic fields perpendicular to the direction of travel, which is a transverse wave. Polarisation filters can select one direction of the electric field oscillation, which is only possible for a transverse wave, so polarisation is consistent with Maxwell's model.
 <!-- id: physics-6-4-25 -->
 
 Explanation: Link the perpendicular E field in Maxwell's model to the ability to polarise.
+
+**A1095.** A. Some light emerges, because the middle filter passes a component the last filter can transmit
+<!-- id: physics-6-4-c1 -->
+
+Explanation: Each polariser transmits the component parallel to its axis. The 45° filter creates light with a component along the final axis. Polarisation shows light is a transverse wave.
 
 ### Light & matter
 
 #### Photoelectric effect and photons
 
-**A1072.** A. 2.48 eV
+**A1096.** A. 2.48 eV
 <!-- id: physics-7-1-1 -->
 
 Explanation: E = hc/λ = (1.24 × 10^-6)/(500 × 10^-9) = 2.48 eV. The value 3.98 × 10^-19 is the energy in joules, not eV.
 
-**A1073.** B. 5.56 × 10^14 Hz
+**A1097.** B. 5.56 × 10^14 Hz
 <!-- id: physics-7-1-2 -->
 
 Explanation: f₀ = W/h = 2.30/(4.14 × 10^-15) = 5.56 × 10^14 Hz. Using h in J s with W in eV gives the nonsensical 3.47 × 10^33 Hz.
 
-**A1074.** C. 0.80 eV
+**A1098.** C. 0.80 eV
 <!-- id: physics-7-1-3 -->
 
 Explanation: Photon energy = 1.24 × 10^-6/400 × 10^-9 = 3.10 eV, so Ek max = 3.10 − 2.30 = 0.80 eV.
 
-**A1075.** Each red photon has energy hf less than the work function. Electrons absorb one photon at a time, so increasing intensity only increases the number of photons, not the energy of each, and no electron gains enough energy to escape.
+**A1099.** Each red photon has energy hf less than the work function. Electrons absorb one photon at a time, so increasing intensity only increases the number of photons, not the energy of each, and no electron gains enough energy to escape.
 <!-- id: physics-7-1-4 -->
 
 Explanation: Key marks: photon energy hf < W; one photon–one electron interaction; intensity = number of photons.
 
-**A1076.** D. 1.5 V
+**A1100.** D. 1.5 V
 <!-- id: physics-7-1-5 -->
 
 Explanation: Ek max = hf − W = 1.5 eV, and the stopping voltage satisfies eV₀ = Ek max, so V₀ = 1.5 V.
 
-**A1077.** A. The photocurrent increases but the maximum kinetic energy of the photoelectrons is unchanged.
+**A1101.** A. The photocurrent increases but the maximum kinetic energy of the photoelectrons is unchanged.
 <!-- id: physics-7-1-6 -->
 
 Explanation: More intense light delivers more photons per second, ejecting more electrons, but each photon still has the same energy hf.
 
-**A1078.** B. No photoelectrons are emitted at any intensity.
+**A1102.** B. No photoelectrons are emitted at any intensity.
 <!-- id: physics-7-1-7 -->
 
 Explanation: Each photon has energy hf less than the work function, and an electron absorbs one photon at a time, so no electron can escape regardless of intensity.
 
-**A1079.** Photon energy = 1.24 × 10^-6/250 × 10^-9 = 4.96 eV. Ek max = 4.96 − 4.3 ≈ 0.66 eV (about 1.1 × 10^-19 J).
+**A1103.** Photon energy = 1.24 × 10^-6/250 × 10^-9 = 4.96 eV. Ek max = 4.96 − 4.3 ≈ 0.66 eV (about 1.1 × 10^-19 J).
 <!-- id: physics-7-1-8 -->
 
 Explanation: Use Ek max = hc/λ − W. Accept 0.66–0.67 eV.
 
-**A1080.** C. Planck's constant
+**A1104.** C. Planck's constant
 <!-- id: physics-7-1-9 -->
 
 Explanation: Ek max = hf − W has the form y = mx + c with gradient h.
 
-**A1081.** D. the negative of the work function
+**A1105.** D. the negative of the work function
 <!-- id: physics-7-1-10 -->
 
 Explanation: From Ek max = hf − W, setting f = 0 gives Ek max = −W.
 
-**A1082.** A. are parallel but have different frequency-axis intercepts
+**A1106.** A. are parallel but have different frequency-axis intercepts
 <!-- id: physics-7-1-11 -->
 
 Explanation: Both have gradient h, which is a universal constant; the different work functions give different threshold frequencies (x-intercepts).
 
-**A1083.** Once the anode is positive enough, every photoelectron emitted from the cathode is collected. Further increasing the voltage cannot increase the current because the rate of emission is fixed by the number of photons arriving per second.
+**A1107.** Once the anode is positive enough, every photoelectron emitted from the cathode is collected. Further increasing the voltage cannot increase the current because the rate of emission is fixed by the number of photons arriving per second.
 <!-- id: physics-7-1-12 -->
 
 Explanation: Link the saturation current to the photon arrival rate (intensity), not to the voltage.
 
-**A1084.** B. No electrons are emitted below a certain frequency, however intense the light.
+**A1108.** B. No electrons are emitted below a certain frequency, however intense the light.
 <!-- id: physics-7-1-13 -->
 
 Explanation: The wave model predicts any frequency would eventually emit electrons if intense enough; the existence of a threshold frequency requires light to be quantised into photons.
 
-**A1085.** C. 1.11 × 10^-27 kg m s^-1
+**A1109.** C. 1.11 × 10^-27 kg m s^-1
 <!-- id: physics-7-1-14 -->
 
 Explanation: p = h/λ = 6.63 × 10^-34/6.00 × 10^-7 = 1.11 × 10^-27 kg m s^-1.
 
-**A1086.** D. 1.6 × 10^16
+**A1110.** D. 1.6 × 10^16
 <!-- id: physics-7-1-15 -->
 
 Explanation: E photon = hc/λ = 3.06 × 10^-19 J; N = P/E = 5.0 × 10^-3/3.06 × 10^-19 ≈ 1.6 × 10^16 photons per second.
 
-**A1087.** h = Δ(eV₀)/Δf = 0.83 eV/2.0 × 10^14 Hz = 4.15 × 10^-15 eV s. W = hf − eV₀ = (4.15 × 10^-15)(6.0 × 10^14) − 0.50 ≈ 2.0 eV.
+**A1111.** h = Δ(eV₀)/Δf = 0.83 eV/2.0 × 10^14 Hz = 4.15 × 10^-15 eV s. W = hf − eV₀ = (4.15 × 10^-15)(6.0 × 10^14) − 0.50 ≈ 2.0 eV.
 <!-- id: physics-7-1-16 -->
 
 Explanation: Gradient of Ek max versus f gives h; the work function follows from either data point.
 
-**A1088.** A. Using light of shorter wavelength
+**A1112.** A. Using light of shorter wavelength
 <!-- id: physics-7-1-17 -->
 
 Explanation: Shorter wavelength means higher frequency and therefore higher photon energy hf; the other changes only alter the number of photons.
 
-**A1089.** B. 414 nm
+**A1113.** B. 414 nm
 <!-- id: physics-7-1-18 -->
 
 Explanation: λ = hc/E = 1.24 × 10^-6/3.0 = 4.13 × 10^-7 m ≈ 414 nm.
 
-**A1090.** C. the frequency of the light and the work function of the metal
+**A1114.** C. the frequency of the light and the work function of the metal
 <!-- id: physics-7-1-19 -->
 
 Explanation: eV₀ = hf − W, so only the photon frequency and the work function determine the stopping voltage.
 
-**A1091.** The wave model predicts that with dim light, energy would spread over the surface and an electron would need time to accumulate enough to escape. In fact electrons are emitted instantly, consistent with each electron absorbing a whole photon's energy in one interaction.
+**A1115.** The wave model predicts that with dim light, energy would spread over the surface and an electron would need time to accumulate enough to escape. In fact electrons are emitted instantly, consistent with each electron absorbing a whole photon's energy in one interaction.
 <!-- id: physics-7-1-20 -->
 
 Explanation: Contrast the wave prediction (gradual accumulation) with the observation (instant emission).
 
-**A1092.** D. electrons further below the surface or more tightly bound lose extra energy escaping
+**A1116.** D. electrons further below the surface or more tightly bound lose extra energy escaping
 <!-- id: physics-7-1-21 -->
 
 Explanation: The work function is the minimum energy to free the least-bound surface electrons; others need more energy, so they emerge with less kinetic energy.
 
-**A1093.** A. 2.30 eV
+**A1117.** A. 2.30 eV
 <!-- id: physics-7-1-22 -->
 
 Explanation: W = hc/λ₀ = 1.24 × 10^-6/540 × 10^-9 = 2.30 eV.
 
-**A1094.** B. doubles
+**A1118.** B. doubles
 <!-- id: physics-7-1-23 -->
 
 Explanation: E = hc/λ, so energy is inversely proportional to wavelength.
 
-**A1095.** A reverse voltage is applied so the anode is negative relative to the photoemissive cathode. The voltage is increased until the photocurrent just falls to zero; this voltage is the stopping voltage, where eV₀ equals the maximum kinetic energy of the photoelectrons.
+**A1119.** A reverse voltage is applied so the anode is negative relative to the photoemissive cathode. The voltage is increased until the photocurrent just falls to zero; this voltage is the stopping voltage, where eV₀ equals the maximum kinetic energy of the photoelectrons.
 <!-- id: physics-7-1-24 -->
 
 Explanation: Mention reverse potential, current reaching zero, and eV₀ = Ek max.
 
-**A1096.** E photon = hc/λ = (6.63 × 10^-34 × 3.00 × 10^8)/5.30 × 10^-7 = 3.75 × 10^-19 J. N = 1.0/3.75 × 10^-19 ≈ 2.7 × 10^18 photons per second.
+**A1120.** E photon = hc/λ = (6.63 × 10^-34 × 3.00 × 10^8)/5.30 × 10^-7 = 3.75 × 10^-19 J. N = 1.0/3.75 × 10^-19 ≈ 2.7 × 10^18 photons per second.
 <!-- id: physics-7-1-25 -->
 
 Explanation: Number per second = power ÷ energy per photon.
 
+**A1121.** 0.80 eV; 0.80 V
+<!-- id: physics-7-1-c1 -->
+
+Explanation: E(photon) = hc/λ = 1240 eV nm ÷ 400 nm = 3.1 eV. KE(max) = 3.1 − 2.3 = 0.80 eV, so a stopping voltage of 0.80 V is needed.
+
 #### De Broglie wavelength and diffraction
 
-**A1097.** C. 3.6 × 10^-10 m
+**A1122.** C. 3.6 × 10^-10 m
 <!-- id: physics-7-2-1 -->
 
 Explanation: λ = h/(mv) = 6.63 × 10^-34/(9.11 × 10^-31 × 2.0 × 10^6) = 3.6 × 10^-10 m.
 
-**A1098.** D. 1.23 × 10^-10 m
+**A1123.** D. 1.23 × 10^-10 m
 <!-- id: physics-7-2-2 -->
 
 Explanation: Ek = 1.60 × 10^-17 J, p = √(2mEk) = 5.40 × 10^-24 kg m s^-1, λ = h/p = 1.23 × 10^-10 m.
 
-**A1099.** A. much shorter
+**A1124.** A. much shorter
 <!-- id: physics-7-2-3 -->
 
 Explanation: λ = h/(mv); at the same speed the proton, being about 1836 times more massive, has a wavelength about 1836 times shorter.
 
-**A1100.** Ek = 54 × 1.60 × 10^-19 = 8.64 × 10^-18 J; p = √(2mEk) = √(2 × 9.11 × 10^-31 × 8.64 × 10^-18) = 3.97 × 10^-24 kg m s^-1; λ = h/p = 1.67 × 10^-10 m (0.167 nm).
+**A1125.** Ek = 54 × 1.60 × 10^-19 = 8.64 × 10^-18 J; p = √(2mEk) = √(2 × 9.11 × 10^-31 × 8.64 × 10^-18) = 3.97 × 10^-24 kg m s^-1; λ = h/p = 1.67 × 10^-10 m (0.167 nm).
 <!-- id: physics-7-2-4 -->
 
 Explanation: Steps: Ek = qV, p = √(2mEk), λ = h/p.
 
-**A1101.** B. The electron's wavelength is about 43 times longer than the proton's.
+**A1126.** B. The electron's wavelength is about 43 times longer than the proton's.
 <!-- id: physics-7-2-5 -->
 
 Explanation: p = √(2mEk), so λ ∝ 1/√m; √1836 ≈ 43, so the lighter electron has the longer wavelength.
 
-**A1102.** C. halves
+**A1127.** C. halves
 <!-- id: physics-7-2-6 -->
 
 Explanation: λ = h/(mv), so λ is inversely proportional to v.
 
-**A1103.** D. halves
+**A1128.** D. halves
 <!-- id: physics-7-2-7 -->
 
 Explanation: Ek ∝ V, p ∝ √Ek ∝ √V, so λ ∝ 1/√V; four times the voltage halves the wavelength.
 
-**A1104.** A diffraction pattern of bright and dark rings forms because electron waves scattered by regularly spaced atoms interfere constructively and destructively. Interference and diffraction are wave properties, and the ring spacing matches the de Broglie wavelength λ = h/p.
+**A1129.** A diffraction pattern of bright and dark rings forms because electron waves scattered by regularly spaced atoms interfere constructively and destructively. Interference and diffraction are wave properties, and the ring spacing matches the de Broglie wavelength λ = h/p.
 <!-- id: physics-7-2-8 -->
 
 Explanation: Refer to interference and to agreement with λ = h/p.
 
-**A1105.** A. wavelength
+**A1130.** A. wavelength
 <!-- id: physics-7-2-9 -->
 
 Explanation: Diffraction pattern spacing depends only on wavelength relative to the atomic spacing.
 
-**A1106.** B. the electrons' de Broglie wavelength is much shorter than visible light wavelengths
+**A1131.** B. the electrons' de Broglie wavelength is much shorter than visible light wavelengths
 <!-- id: physics-7-2-10 -->
 
 Explanation: Diffraction limits resolution; a shorter wavelength produces less diffraction blurring, so smaller features can be distinguished.
 
-**A1107.** C. electrons have wave-like properties
+**A1132.** C. electrons have wave-like properties
 <!-- id: physics-7-2-11 -->
 
 Explanation: Diffraction is a wave phenomenon, so electron diffraction confirms de Broglie's hypothesis of matter waves.
 
-**A1108.** Same pattern means same wavelength and hence the same momentum. p = E/c = (8000 × 1.60 × 10^-19)/3.00 × 10^8 = 4.27 × 10^-24 kg m s^-1. Electron Ek = p²/(2m) = 1.0 × 10^-17 J ≈ 62 eV.
+**A1133.** Same pattern means same wavelength and hence the same momentum. p = E/c = (8000 × 1.60 × 10^-19)/3.00 × 10^8 = 4.27 × 10^-24 kg m s^-1. Electron Ek = p²/(2m) = 1.0 × 10^-17 J ≈ 62 eV.
 <!-- id: physics-7-2-12 -->
 
 Explanation: Common error: assuming the electron has the same energy (8.0 keV) as the photon.
 
-**A1109.** D. 1.0 × 10^-34 m
+**A1134.** D. 1.0 × 10^-34 m
 <!-- id: physics-7-2-13 -->
 
 Explanation: λ = h/(mv) = 6.63 × 10^-34/(0.16 × 40) = 1.0 × 10^-34 m, far too small to observe.
 
-**A1110.** A. 3.3 × 10^-24 kg m s^-1
+**A1135.** A. 3.3 × 10^-24 kg m s^-1
 <!-- id: physics-7-2-14 -->
 
 Explanation: p = h/λ = 6.63 × 10^-34/2.0 × 10^-10 = 3.3 × 10^-24 kg m s^-1.
 
-**A1111.** B. 1.5 × 10^6 m s^-1
+**A1136.** B. 1.5 × 10^6 m s^-1
 <!-- id: physics-7-2-15 -->
 
 Explanation: v = h/(mλ) = 6.63 × 10^-34/(9.11 × 10^-31 × 5.0 × 10^-10) = 1.46 × 10^6 m s^-1.
 
-**A1112.** Electrons accelerated through thousands of volts have de Broglie wavelengths far shorter than visible light (around 400–700 nm). Less diffraction occurs for a given aperture or feature size, so finer detail can be resolved.
+**A1137.** Electrons accelerated through thousands of volts have de Broglie wavelengths far shorter than visible light (around 400–700 nm). Less diffraction occurs for a given aperture or feature size, so finer detail can be resolved.
 <!-- id: physics-7-2-16 -->
 
 Explanation: Link shorter wavelength to less diffraction and better resolution.
 
-**A1113.** C. 38 eV
+**A1138.** C. 38 eV
 <!-- id: physics-7-2-17 -->
 
 Explanation: p = h/λ = 3.3 × 10^-24; Ek = p²/(2m) = 6.0 × 10^-18 J ≈ 38 eV. 6200 eV is the energy of a photon of this wavelength.
 
-**A1114.** D. similar to the spacing between atoms, around 10^-10 m
+**A1139.** D. similar to the spacing between atoms, around 10^-10 m
 <!-- id: physics-7-2-18 -->
 
 Explanation: Significant diffraction occurs when λ is comparable to the gap or spacing, and atomic spacings are around 0.1 nm.
 
-**A1115.** A. move closer together
+**A1140.** A. move closer together
 <!-- id: physics-7-2-19 -->
 
 Explanation: Higher voltage gives higher momentum and a shorter wavelength, so electrons diffract through smaller angles.
 
-**A1116.** v = h/(mλ) = 6.63 × 10^-34/(1.67 × 10^-27 × 1.0 × 10^-10) ≈ 4.0 × 10^3 m s^-1.
+**A1141.** v = h/(mλ) = 6.63 × 10^-34/(1.67 × 10^-27 × 1.0 × 10^-10) ≈ 4.0 × 10^3 m s^-1.
 <!-- id: physics-7-2-20 -->
 
 Explanation: Rearrange λ = h/(mv).
 
-**A1117.** B. They have the same momentum, but the photon has more energy.
+**A1142.** B. They have the same momentum, but the photon has more energy.
 <!-- id: physics-7-2-21 -->
 
 Explanation: p = h/λ for both. The photon's energy is pc while the electron's kinetic energy is p²/(2m) = pv/2, which is far smaller since v ≪ c.
 
-**A1118.** C. 0.25 nm
+**A1143.** C. 0.25 nm
 <!-- id: physics-7-2-22 -->
 
 Explanation: λ = hc/E = 1.24 × 10^-6/5000 = 2.5 × 10^-10 m = 0.25 nm.
 
-**A1119.** D. 150 V
+**A1144.** D. 150 V
 <!-- id: physics-7-2-23 -->
 
 Explanation: p = h/λ = 6.63 × 10^-24; Ek = p²/(2m) = 2.4 × 10^-17 J ≈ 151 eV, so about 150 V. 12 400 V is the photon energy in eV for this wavelength.
 
-**A1120.** A car's momentum is very large, so its de Broglie wavelength λ = h/(mv) is extremely small (around 10^-38 m), far smaller than any gap or obstacle. Diffraction is therefore negligible and no wave effects can be detected.
+**A1145.** A car's momentum is very large, so its de Broglie wavelength λ = h/(mv) is extremely small (around 10^-38 m), far smaller than any gap or obstacle. Diffraction is therefore negligible and no wave effects can be detected.
 <!-- id: physics-7-2-24 -->
 
 Explanation: Must compare wavelength with the size of gaps or obstacles.
 
-**A1121.** The de Broglie wavelength halves because λ = h/(mv). Electrons diffract through smaller angles, so the rings become smaller and closer together (roughly half the radius for small angles).
+**A1146.** The de Broglie wavelength halves because λ = h/(mv). Electrons diffract through smaller angles, so the rings become smaller and closer together (roughly half the radius for small angles).
 <!-- id: physics-7-2-25 -->
 
 Explanation: Accept 'rings closer together/smaller' with the reason λ ∝ 1/v.
 
+**A1147.** C. About 43 times longer
+<!-- id: physics-7-2-c1 -->
+
+Explanation: p = √(2mK), so λ = h/√(2mK) ∝ 1/√m. √(1840) ≈ 43, and the lighter electron has the longer wavelength.
+
 #### Atomic energy levels and spectra
 
-**A1122.** A. 1.89 eV
+**A1148.** A. 1.89 eV
 <!-- id: physics-7-3-1 -->
 
 Explanation: Photon energy = E₃ − E₂ = −1.51 − (−3.40) = 1.89 eV.
 
-**A1123.** B. 486 nm
+**A1149.** B. 486 nm
 <!-- id: physics-7-3-2 -->
 
 Explanation: ΔE = 3.40 − 0.85 = 2.55 eV; λ = 1.24 × 10^-6/2.55 = 4.86 × 10^-7 m.
 
-**A1124.** C. 13.6 eV
+**A1150.** C. 13.6 eV
 <!-- id: physics-7-3-3 -->
 
 Explanation: Ionisation moves the electron from −13.6 eV to 0 eV, requiring 13.6 eV.
 
-**A1125.** ΔE = 13.6 − 1.51 = 12.09 eV. f = ΔE/h = 12.09/4.14 × 10^-15 = 2.92 × 10^15 Hz.
+**A1151.** ΔE = 13.6 − 1.51 = 12.09 eV. f = ΔE/h = 12.09/4.14 × 10^-15 = 2.92 × 10^15 Hz.
 <!-- id: physics-7-3-4 -->
 
 Explanation: Accept 2.9 × 10^15 Hz.
 
-**A1126.** D. 6
+**A1152.** D. 6
 <!-- id: physics-7-3-5 -->
 
 Explanation: Possible transitions: 4→3, 4→2, 4→1, 3→2, 3→1, 2→1, giving 6 distinct lines.
 
-**A1127.** A. The photon is not absorbed.
+**A1153.** A. The photon is not absorbed.
 <!-- id: physics-7-3-6 -->
 
 Explanation: A photon must be absorbed whole and its energy must exactly match a transition (10.2 or 12.09 eV); 11.0 eV matches none.
 
-**A1128.** B. a continuous spectrum with dark lines at specific wavelengths
+**A1154.** B. a continuous spectrum with dark lines at specific wavelengths
 <!-- id: physics-7-3-7 -->
 
 Explanation: Atoms absorb photons only at energies matching their level differences, removing those wavelengths and leaving dark absorption lines.
 
-**A1129.** Electrons in the atoms can only occupy specific, quantised energy levels. When an electron drops from a higher level to a lower level it emits a photon with energy equal to the difference, E = hf, so only specific frequencies and wavelengths appear.
+**A1155.** Electrons in the atoms can only occupy specific, quantised energy levels. When an electron drops from a higher level to a lower level it emits a photon with energy equal to the difference, E = hf, so only specific frequencies and wavelengths appear.
 <!-- id: physics-7-3-8 -->
 
 Explanation: Key ideas: quantised levels, photon energy equals level difference.
 
-**A1130.** C. the atoms' electron energy levels are quantised
+**A1156.** C. the atoms' electron energy levels are quantised
 <!-- id: physics-7-3-9 -->
 
 Explanation: Transitions occur between fixed levels, so only specific photon energies, and hence wavelengths, are emitted.
 
-**A1131.** D. Ultraviolet
+**A1157.** D. Ultraviolet
 <!-- id: physics-7-3-10 -->
 
 Explanation: The smallest such transition (2→1) is 10.2 eV, about 122 nm, which is ultraviolet; the others are even higher in energy.
 
-**A1132.** A. n = 4 to n = 1
+**A1158.** A. n = 4 to n = 1
 <!-- id: physics-7-3-11 -->
 
 Explanation: The 4→1 transition has the largest energy difference (12.75 eV), and f = E/h.
 
-**A1133.** Atoms in the gas absorb only photons whose energies exactly match differences between their energy levels. Those wavelengths are removed from the beam, and the re-emitted light goes in all directions, so dark lines appear on the continuous spectrum at those wavelengths.
+**A1159.** Atoms in the gas absorb only photons whose energies exactly match differences between their energy levels. Those wavelengths are removed from the beam, and the re-emitted light goes in all directions, so dark lines appear on the continuous spectrum at those wavelengths.
 <!-- id: physics-7-3-12 -->
 
 Explanation: Mention exact energy match and re-emission in random directions.
 
-**A1134.** B. 7.0 eV
+**A1160.** B. 7.0 eV
 <!-- id: physics-7-3-13 -->
 
 Explanation: Possible differences are 4.0, 6.0, 9.0, 2.0, 5.0 and 3.0 eV; 7.0 eV is not one of them.
 
-**A1135.** C. 10.0 eV
+**A1161.** C. 10.0 eV
 <!-- id: physics-7-3-14 -->
 
 Explanation: Ionisation takes the electron from −10.0 eV to 0 eV.
 
-**A1136.** D. a whole number of electron wavelengths
+**A1162.** D. a whole number of electron wavelengths
 <!-- id: physics-7-3-15 -->
 
 Explanation: An allowed orbit supports a standing wave, nλ = 2πr, so the electron does not radiate energy.
 
-**A1137.** E₃ → E₂: 2.5 eV; E₂ → E₁: 3.5 eV; E₃ → E₁: 6.0 eV.
+**A1163.** E₃ → E₂: 2.5 eV; E₂ → E₁: 3.5 eV; E₃ → E₁: 6.0 eV.
 <!-- id: physics-7-3-16 -->
 
 Explanation: Three transitions give three distinct photon energies.
 
-**A1138.** A. electrons dropping back to the ground state through intermediate energy levels
+**A1164.** A. electrons dropping back to the ground state through intermediate energy levels
 <!-- id: physics-7-3-17 -->
 
 Explanation: Each smaller downward step releases a lower-energy photon, which can be in the visible range.
 
-**A1139.** B. 620 nm
+**A1165.** B. 620 nm
 <!-- id: physics-7-3-18 -->
 
 Explanation: λ = hc/E = 1.24 × 10^-6/2.0 = 6.2 × 10^-7 m = 620 nm.
 
-**A1140.** C. 2.11 eV
+**A1166.** C. 2.11 eV
 <!-- id: physics-7-3-19 -->
 
 Explanation: ΔE = hc/λ = 1.24 × 10^-6/589 × 10^-9 = 2.11 eV. The value 3.37 × 10^-19 is the energy in joules.
 
-**A1141.** A photon must be absorbed completely, so its energy must exactly equal a transition energy, and 11.0 eV matches none. A colliding electron can transfer only part of its kinetic energy, so it can give 10.2 eV to raise the atom to n = 2 and keep 0.8 eV.
+**A1167.** A photon must be absorbed completely, so its energy must exactly equal a transition energy, and 11.0 eV matches none. A colliding electron can transfer only part of its kinetic energy, so it can give 10.2 eV to raise the atom to n = 2 and keep 0.8 eV.
 <!-- id: physics-7-3-20 -->
 
 Explanation: Contrast all-or-nothing photon absorption with partial energy transfer in collisions.
 
-**A1142.** D. the electron is bound to the atom and energy must be supplied to free it
+**A1168.** D. the electron is bound to the atom and energy must be supplied to free it
 <!-- id: physics-7-3-21 -->
 
 Explanation: Zero is defined as a free electron at rest; bound states have less energy, so they are negative.
 
-**A1143.** A. each element absorbs a unique set of wavelengths matching its energy level differences
+**A1169.** A. each element absorbs a unique set of wavelengths matching its energy level differences
 <!-- id: physics-7-3-22 -->
 
 Explanation: Each element's level structure is unique, so its absorption lines act as a fingerprint.
 
-**A1144.** B. n = 3
+**A1170.** B. n = 3
 <!-- id: physics-7-3-23 -->
 
 Explanation: A colliding electron can transfer part of its energy: 12.09 eV is needed for n = 3, but n = 4 requires 12.75 eV, which is more than 12.5 eV.
 
-**A1145.** ΔE = 10.2 eV; λ = 1.24 × 10^-6/10.2 = 1.22 × 10^-7 m (about 122 nm), which is ultraviolet.
+**A1171.** ΔE = 10.2 eV; λ = 1.24 × 10^-6/10.2 = 1.22 × 10^-7 m (about 122 nm), which is ultraviolet.
 <!-- id: physics-7-3-24 -->
 
 Explanation: Both the value and the region are needed.
 
-**A1146.** An electron in an orbit behaves as a wave, and a stable orbit is one where a whole number of wavelengths fits around the circumference (nλ = 2πr), forming a standing wave. Other orbits would cause destructive interference, so only certain orbits and energies are allowed.
+**A1172.** An electron in an orbit behaves as a wave, and a stable orbit is one where a whole number of wavelengths fits around the circumference (nλ = 2πr), forming a standing wave. Other orbits would cause destructive interference, so only certain orbits and energies are allowed.
 <!-- id: physics-7-3-25 -->
 
 Explanation: Key terms: standing wave, whole number of wavelengths, quantised energy.
 
+**A1173.** A. 6 energies; about 656 nm
+<!-- id: physics-7-3-c1 -->
+
+Explanation: From n = 4 the possible drops are 4→3, 4→2, 4→1, 3→2, 3→1 and 2→1. For 3 → 2: E = 3.4 − 1.51 = 1.89 eV, λ = 1240 ÷ 1.89 ≈ 656 nm.
+
 #### Wave-particle duality of light
 
-**A1147.** C. behaves as a wave
+**A1174.** C. behaves as a wave
 <!-- id: physics-7-4-1 -->
 
 Explanation: The interference pattern of bright and dark bands comes from superposition of waves, which a simple particle model cannot explain.
 
-**A1148.** D. The photoelectric effect
+**A1175.** D. The photoelectric effect
 <!-- id: physics-7-4-2 -->
 
 Explanation: The threshold frequency and instant emission require light to arrive in discrete packets of energy hf.
 
-**A1149.** A. Light shows wave or particle behaviour depending on the experiment, and neither model alone explains all observations.
+**A1176.** A. Light shows wave or particle behaviour depending on the experiment, and neither model alone explains all observations.
 <!-- id: physics-7-4-3 -->
 
 Explanation: This is wave-particle duality: interference needs the wave model, while the photoelectric effect needs the photon model.
 
-**A1150.** Light shows both wave and particle behaviour, and which appears depends on the experiment. Young's double-slit interference pattern is evidence for the wave model; the photoelectric effect, with its threshold frequency and instant emission, is evidence for the photon (particle) model.
+**A1177.** Light shows both wave and particle behaviour, and which appears depends on the experiment. Young's double-slit interference pattern is evidence for the wave model; the photoelectric effect, with its threshold frequency and instant emission, is evidence for the photon (particle) model.
 <!-- id: physics-7-4-4 -->
 
 Explanation: One wave and one particle experiment, each correctly linked to its model.
 
-**A1151.** B. individual dots that gradually build up an interference pattern
+**A1178.** B. individual dots that gradually build up an interference pattern
 <!-- id: physics-7-4-5 -->
 
 Explanation: Each photon arrives as a localised particle, yet the probability of arrival follows the wave interference pattern.
 
-**A1152.** C. slows down in water, supporting the wave model
+**A1179.** C. slows down in water, supporting the wave model
 <!-- id: physics-7-4-6 -->
 
 Explanation: Newton's model needed light to speed up in a denser medium to explain refraction; measurements showed it slows down, as the wave model predicts.
 
-**A1153.** D. 4.0 mm
+**A1180.** D. 4.0 mm
 <!-- id: physics-7-4-7 -->
 
 Explanation: Δx = λL/d = (6.0 × 10^-7 × 2.0)/3.0 × 10^-4 = 4.0 × 10^-3 m.
 
-**A1154.** Each photon is detected at a single point on the screen, showing particle behaviour. As many photons accumulate, they form the interference pattern, showing that the probability of where each photon lands is governed by wave interference.
+**A1181.** Each photon is detected at a single point on the screen, showing particle behaviour. As many photons accumulate, they form the interference pattern, showing that the probability of where each photon lands is governed by wave interference.
 <!-- id: physics-7-4-8 -->
 
 Explanation: Both aspects needed: localised detection and build-up of fringes.
 
-**A1155.** A. 1.5λ
+**A1182.** A. 1.5λ
 <!-- id: physics-7-4-9 -->
 
 Explanation: Dark bands occur at path differences of (n − ½)λ: 0.5λ for the first and 1.5λ for the second.
 
-**A1156.** B. the wavelength is similar to or larger than the gap width
+**A1183.** B. the wavelength is similar to or larger than the gap width
 <!-- id: physics-7-4-10 -->
 
 Explanation: The amount of spreading depends on the ratio λ/w; it is significant when λ/w is around 1 or greater.
 
-**A1157.** C. carry momentum, which is transferred to the sail when they reflect
+**A1184.** C. carry momentum, which is transferred to the sail when they reflect
 <!-- id: physics-7-4-11 -->
 
 Explanation: Photons have momentum p = h/λ; reflection reverses their momentum, exerting a force on the sail.
 
-**A1158.** Δx = λL/d = (5.32 × 10^-7 × 1.5)/2.5 × 10^-4 = 3.2 × 10^-3 m (3.2 mm).
+**A1185.** Δx = λL/d = (5.32 × 10^-7 × 1.5)/2.5 × 10^-4 = 3.2 × 10^-3 m (3.2 mm).
 <!-- id: physics-7-4-12 -->
 
 Explanation: Convert nm and mm to metres before substituting.
 
-**A1159.** D. becomes wider
+**A1186.** D. becomes wider
 <!-- id: physics-7-4-13 -->
 
 Explanation: Narrower slits increase λ/w, so the light spreads through larger angles.
 
-**A1160.** A. E (photon energy) and f (frequency)
+**A1187.** A. E (photon energy) and f (frequency)
 <!-- id: physics-7-4-14 -->
 
 Explanation: Photon energy is a particle (quantum) idea, frequency is a wave property, and h links the two models.
 
-**A1161.** B. doubles
+**A1188.** B. doubles
 <!-- id: physics-7-4-15 -->
 
 Explanation: Δx = λL/d, so the fringe spacing is directly proportional to L.
 
-**A1162.** Newton's model predicts two bright bands behind the slits, with brightness simply adding where streams overlap. Young observed many alternating bright and dark bands, and the dark bands require destructive interference of waves, which particles cannot produce.
+**A1189.** Newton's model predicts two bright bands behind the slits, with brightness simply adding where streams overlap. Young observed many alternating bright and dark bands, and the dark bands require destructive interference of waves, which particles cannot produce.
 <!-- id: physics-7-4-16 -->
 
 Explanation: Focus on the dark bands as the key evidence for interference.
 
-**A1163.** C. move closer together
+**A1190.** C. move closer together
 <!-- id: physics-7-4-17 -->
 
 Explanation: Blue light has a shorter wavelength, and Δx = λL/d.
 
-**A1164.** D. Dark bands appear where light from both slits arrives
+**A1191.** D. Dark bands appear where light from both slits arrives
 <!-- id: physics-7-4-18 -->
 
 Explanation: Dark bands come from destructive interference, where waves arriving half a wavelength out of phase cancel; particles alone would simply add.
 
-**A1165.** A. Light of any frequency should eventually eject electrons if it is intense enough.
+**A1192.** A. Light of any frequency should eventually eject electrons if it is intense enough.
 <!-- id: physics-7-4-19 -->
 
 Explanation: The wave model links energy to intensity, so it predicts no threshold and a time delay with dim light, which contradicts the observations.
 
-**A1166.** Each photon of a given frequency carries the same energy, E = hf. A more intense beam contains more photons arriving each second, so the total energy delivered per second (the power) is greater, while the energy of each photon is unchanged.
+**A1193.** Each photon of a given frequency carries the same energy, E = hf. A more intense beam contains more photons arriving each second, so the total energy delivered per second (the power) is greater, while the energy of each photon is unchanged.
 <!-- id: physics-7-4-20 -->
 
 Explanation: Intensity is related to photon number, not photon energy.
 
-**A1167.** B. 1.1 × 10^-27 kg m s^-1
+**A1194.** B. 1.1 × 10^-27 kg m s^-1
 <!-- id: physics-7-4-21 -->
 
 Explanation: p = E/c = (2.0 × 1.60 × 10^-19)/3.00 × 10^8 = 1.07 × 10^-27 kg m s^-1.
 
-**A1168.** C. 600 nm
+**A1195.** C. 600 nm
 <!-- id: physics-7-4-22 -->
 
 Explanation: λ = Δx·d/L = (3.0 × 10^-3 × 4.0 × 10^-4)/2.0 = 6.0 × 10^-7 m.
 
-**A1169.** D. matter, as well as light, displays wave-particle duality
+**A1196.** D. matter, as well as light, displays wave-particle duality
 <!-- id: physics-7-4-23 -->
 
 Explanation: Each electron is detected at a point (particle) but the distribution forms interference fringes (wave), just like single photons.
 
-**A1170.** Path difference/λ = 1.2 × 10^-6/4.8 × 10^-7 = 2.5, which is a half-integer number of wavelengths. The waves arrive out of phase and interfere destructively, so P is on a dark band (the third dark band).
+**A1197.** Path difference/λ = 1.2 × 10^-6/4.8 × 10^-7 = 2.5, which is a half-integer number of wavelengths. The waves arrive out of phase and interfere destructively, so P is on a dark band (the third dark band).
 <!-- id: physics-7-4-24 -->
 
 Explanation: Whole numbers of λ give bright bands; half-integers give dark bands.
 
-**A1171.** The photoelectric effect shows that light, usually treated as a wave, also behaves as particles (photons). Electron diffraction shows that electrons, usually treated as particles, also behave as waves with λ = h/p. Together they show both light and matter have dual natures.
+**A1198.** The photoelectric effect shows that light, usually treated as a wave, also behaves as particles (photons). Electron diffraction shows that electrons, usually treated as particles, also behave as waves with λ = h/p. Together they show both light and matter have dual natures.
 <!-- id: physics-7-4-25 -->
 
 Explanation: Need the 'reverse' behaviour shown for each.
+
+**A1199.** B. Below the threshold frequency, no photoelectrons are emitted however intense the light
+<!-- id: physics-7-4-c1 -->
+
+Explanation: In a wave model, enough intensity should eventually free electrons at any frequency. Photons of energy hf explain the threshold.
 
 ### Practical investigations
 
 #### Experimental design and variables
 
-**A1172.** A. The length of the pendulum
+**A1200.** A. The length of the pendulum
 <!-- id: physics-8-1-1 -->
 
 Explanation: The independent variable is the one deliberately changed by the experimenter, here the pendulum length.
 
-**A1173.** B. The period of oscillation
+**A1201.** B. The period of oscillation
 <!-- id: physics-8-1-2 -->
 
 Explanation: The dependent variable is the one measured in response to changes in the independent variable, here the period.
 
-**A1174.** C. The temperature of the resistor
+**A1202.** C. The temperature of the resistor
 <!-- id: physics-8-1-3 -->
 
 Explanation: Resistance changes with temperature, so temperature must be kept constant; current and voltage are the dependent and independent variables.
 
-**A1175.** D. So that any change in the dependent variable can be attributed to the independent variable
+**A1203.** D. So that any change in the dependent variable can be attributed to the independent variable
 <!-- id: physics-8-1-4 -->
 
 Explanation: Keeping other variables constant ensures a fair test, so the observed effect is caused by the independent variable alone.
 
-**A1176.** A. If the drop height increases, then the bounce height will increase proportionally, because a constant fraction of the ball's energy is lost in each bounce
+**A1204.** A. If the drop height increases, then the bounce height will increase proportionally, because a constant fraction of the ball's energy is lost in each bounce
 <!-- id: physics-8-1-5 -->
 
 Explanation: A good hypothesis is testable, states the predicted relationship between the variables and gives a reason.
 
-**A1177.** B. The extent to which the experiment actually investigates what it claims to investigate
+**A1205.** B. The extent to which the experiment actually investigates what it claims to investigate
 <!-- id: physics-8-1-6 -->
 
 Explanation: Validity is about whether the method and data genuinely address the aim, e.g. a fair test with controlled variables.
 
-**A1178.** C. The closeness of agreement between successive measurements made by the same person, with the same method and equipment, under the same conditions
+**A1206.** C. The closeness of agreement between successive measurements made by the same person, with the same method and equipment, under the same conditions
 <!-- id: physics-8-1-7 -->
 
 Explanation: Repeatability refers to repeated measurements under the same conditions; reproducibility involves changed conditions, people or equipment.
 
-**A1179.** D. reproducibility
+**A1207.** D. reproducibility
 <!-- id: physics-8-1-8 -->
 
 Explanation: Agreement between results obtained by different experimenters with different equipment and locations is reproducibility.
 
-**A1180.** A. Dropping every stack from the same height in the same draught-free room
+**A1208.** A. Dropping every stack from the same height in the same draught-free room
 <!-- id: physics-8-1-9 -->
 
 Explanation: Controlling drop height and air movement means only mass varies, so changes in terminal velocity can be attributed to mass.
 
-**A1181.** B. Two variables have been changed, so a change in period cannot be attributed to either one
+**A1209.** B. Two variables have been changed, so a change in period cannot be attributed to either one
 <!-- id: physics-8-1-10 -->
 
 Explanation: Only one independent variable should be changed at a time; otherwise the effects are confounded.
 
-**A1182.** C. Use a low-power (Class 2) laser and never look directly into the beam or its reflections
+**A1210.** C. Use a low-power (Class 2) laser and never look directly into the beam or its reflections
 <!-- id: physics-8-1-11 -->
 
 Explanation: Low-power lasers combined with avoiding direct and reflected beams minimise the risk of eye damage.
 
-**A1183.** D. The wire became noticeably warm to the touch
+**A1211.** D. The wire became noticeably warm to the touch
 <!-- id: physics-8-1-12 -->
 
 Explanation: Qualitative observations describe properties without numerical measurement; the others are quantitative.
 
-**A1184.** A. Use at least five lengths spread over a wider range, such as 0.20 m to 1.20 m
+**A1212.** A. Use at least five lengths spread over a wider range, such as 0.20 m to 1.20 m
 <!-- id: physics-8-1-13 -->
 
 Explanation: A wide range with enough data points is needed to reveal the true relationship between length and period.
 
-**A1185.** B. It reduces the percentage uncertainty in the period caused by reaction time
+**A1213.** B. It reduces the percentage uncertainty in the period caused by reaction time
 <!-- id: physics-8-1-14 -->
 
 Explanation: The reaction-time uncertainty is about the same for any timing, so spreading it over 10 periods makes the percentage uncertainty much smaller.
 
-**A1186.** C. Values of g at different latitudes taken from a published scientific database
+**A1214.** C. Values of g at different latitudes taken from a published scientific database
 <!-- id: physics-8-1-15 -->
 
 Explanation: Secondary data are collected by someone else; primary data are collected first-hand by the investigator.
 
-**A1187.** D. The distance between the magnet and the sensor
+**A1215.** D. The distance between the magnet and the sensor
 <!-- id: physics-8-1-16 -->
 
 Explanation: Field strength varies strongly with distance, so distance must be held constant; temperature is the independent variable and the sensor reading is the dependent variable.
 
-**A1188.** A. The acceleration of the trolley
+**A1216.** A. The acceleration of the trolley
 <!-- id: physics-8-1-17 -->
 
 Explanation: The quantity measured in response to the changed angle is the trolley's acceleration.
 
-**A1189.** B. Measure the resistance of at least five different lengths of the same wire at constant temperature and plot R against L
+**A1217.** B. Measure the resistance of at least five different lengths of the same wire at constant temperature and plot R against L
 <!-- id: physics-8-1-18 -->
 
 Explanation: Varying length only, keeping material, thickness and temperature constant, and graphing R against L directly tests proportionality.
 
-**A1190.** Independent: number of turns in the coil. Dependent: peak induced EMF. Controlled (any two): strength of the magnet, drop height, coil diameter/area, orientation of the magnet, type of wire.
+**A1218.** Independent: number of turns in the coil. Dependent: peak induced EMF. Controlled (any two): strength of the magnet, drop height, coil diameter/area, orientation of the magnet, type of wire.
 <!-- id: physics-8-1-19 -->
 
 Explanation: Award marks for correctly identifying each; controlled variables must be things that could plausibly affect the EMF.
 
-**A1191.** If the angle of the incline increases, then the acceleration of the trolley will increase, because the component of the gravitational force down the slope (mg sin θ) increases.
+**A1219.** If the angle of the incline increases, then the acceleration of the trolley will increase, because the component of the gravitational force down the slope (mg sin θ) increases.
 <!-- id: physics-8-1-20 -->
 
 Explanation: A good hypothesis is an 'if... then... because' statement linking the independent and dependent variables with a physics reason.
 
-**A1192.** Repeated measurements allow the effect of random errors to be reduced by averaging, help identify outliers and indicate the precision/repeatability of the data. However, repeating does not reduce systematic errors.
+**A1220.** Repeated measurements allow the effect of random errors to be reduced by averaging, help identify outliers and indicate the precision/repeatability of the data. However, repeating does not reduce systematic errors.
 <!-- id: physics-8-1-21 -->
 
 Explanation: Mention of averaging random error plus the limitation about systematic error gains full marks.
 
-**A1193.** Repeatability is the closeness of agreement of results when the same person repeats a measurement with the same method, equipment and conditions. Reproducibility is the closeness of agreement when the measurement is repeated by different people, with different equipment or in different locations.
+**A1221.** Repeatability is the closeness of agreement of results when the same person repeats a measurement with the same method, equipment and conditions. Reproducibility is the closeness of agreement when the measurement is repeated by different people, with different equipment or in different locations.
 <!-- id: physics-8-1-22 -->
 
 Explanation: The key distinction is same conditions (repeatability) versus changed conditions (reproducibility).
 
-**A1194.** Any two: increase the distance to the wall so the time is longer; clap in rhythm with the echoes and time many (e.g. 20) intervals, then divide; use microphones and a data logger instead of a hand-held stopwatch; repeat and average.
+**A1222.** Any two: increase the distance to the wall so the time is longer; clap in rhythm with the echoes and time many (e.g. 20) intervals, then divide; use microphones and a data logger instead of a hand-held stopwatch; repeat and average.
 <!-- id: physics-8-1-23 -->
 
 Explanation: The round-trip time of about 0.12 s is similar to human reaction time, so the improvements should reduce the percentage uncertainty in time.
 
-**A1195.** A wide range with enough values allows the trend or relationship to be identified reliably, reveals any non-linearity, reduces the influence of any single uncertain point on the line of best fit and allows a meaningful gradient to be found.
+**A1223.** A wide range with enough values allows the trend or relationship to be identified reliably, reveals any non-linearity, reduces the influence of any single uncertain point on the line of best fit and allows a meaningful gradient to be found.
 <!-- id: physics-8-1-24 -->
 
 Explanation: Refer to both the number of points and the spread across the range.
 
-**A1196.** A controlled variable is a variable that could affect the dependent variable and so is kept constant throughout the experiment. If it is not controlled, changes in the dependent variable may be caused by it rather than the independent variable, so the conclusion is not valid.
+**A1224.** A controlled variable is a variable that could affect the dependent variable and so is kept constant throughout the experiment. If it is not controlled, changes in the dependent variable may be caused by it rather than the independent variable, so the conclusion is not valid.
 <!-- id: physics-8-1-25 -->
 
 Explanation: Linking an uncontrolled variable to reduced validity is the key point.
 
+**A1225.** D. The effect of reaction-time uncertainty on each period is reduced by a factor of 10
+<!-- id: physics-8-1-c1 -->
+
+Explanation: Human reaction time adds a similar absolute uncertainty to any timing; spread over 10 periods its effect per period is one-tenth.
+
 #### Accuracy, precision and uncertainty
 
-**A1197.** A. How close a measurement is to the true value
+**A1226.** A. How close a measurement is to the true value
 <!-- id: physics-8-2-1 -->
 
 Explanation: Accuracy is closeness to the true value; precision is closeness of repeated measurements to each other.
 
-**A1198.** B. How closely a set of repeated measurements agree with each other
+**A1227.** B. How closely a set of repeated measurements agree with each other
 <!-- id: physics-8-2-2 -->
 
 Explanation: Precise measurements have little spread, regardless of whether they are close to the true value.
 
-**A1199.** C. precise but not accurate
+**A1228.** C. precise but not accurate
 <!-- id: physics-8-2-3 -->
 
 Explanation: The values are tightly clustered (precise) but about 0.28 m/s² below the accepted value (not accurate).
 
-**A1200.** D. accurate but not precise
+**A1229.** D. accurate but not precise
 <!-- id: physics-8-2-4 -->
 
 Explanation: The mean is 39.2 ÷ 4 = 9.8 m/s², matching the accepted value, but the values are widely spread.
 
-**A1201.** A. 1 mm
+**A1230.** A. 1 mm
 <!-- id: physics-8-2-5 -->
 
 Explanation: Resolution is the smallest change the instrument can display, which is one scale division of 1 mm.
 
-**A1202.** B. ±0.5 mm
+**A1231.** B. ±0.5 mm
 <!-- id: physics-8-2-6 -->
 
 Explanation: Half of the smallest division of 1 mm gives ±0.5 mm.
 
-**A1203.** C. 3.47 ± 0.01 V
+**A1232.** C. 3.47 ± 0.01 V
 <!-- id: physics-8-2-7 -->
 
 Explanation: The last displayed digit is in the hundredths place, so the resolution and uncertainty are ±0.01 V.
 
-**A1204.** D. 2%
+**A1233.** D. 2%
 <!-- id: physics-8-2-8 -->
 
 Explanation: Percentage uncertainty = 0.05 ÷ 2.50 × 100 = 2%.
 
-**A1205.** A. 8.0 ± 0.6 cm²
+**A1234.** A. 8.0 ± 0.6 cm²
 <!-- id: physics-8-2-9 -->
 
 Explanation: Percentage uncertainties add when multiplying: 2.5% + 5% = 7.5%, and 7.5% of 8.0 cm² is 0.6 cm².
 
-**A1206.** B. 20.0 ± 0.3 cm
+**A1235.** B. 20.0 ± 0.3 cm
 <!-- id: physics-8-2-10 -->
 
 Explanation: When quantities are added, their absolute uncertainties are added: 0.2 + 0.1 = 0.3 cm.
 
-**A1207.** C. 15.0 ± 1.0 °C
+**A1236.** C. 15.0 ± 1.0 °C
 <!-- id: physics-8-2-11 -->
 
 Explanation: When subtracting, absolute uncertainties still add: 0.5 + 0.5 = 1.0 °C.
 
-**A1208.** D. 6.7%
+**A1237.** D. 6.7%
 <!-- id: physics-8-2-12 -->
 
 Explanation: The percentage uncertainty in v is 0.1 ÷ 3.0 = 3.3%; squaring doubles it to about 6.7%.
 
-**A1209.** A. 16 J ± 11%
+**A1238.** A. 16 J ± 11%
 <!-- id: physics-8-2-13 -->
 
 Explanation: KE = ½ × 2.00 × 4.0² = 16 J; uncertainty = 1% (mass) + 2 × 5% (speed) = 11%.
 
-**A1210.** B. 1.56 ± 0.02 s
+**A1239.** B. 1.56 ± 0.02 s
 <!-- id: physics-8-2-14 -->
 
 Explanation: Dividing by an exact number divides both the value and its absolute uncertainty by 10.
 
-**A1211.** C. 34 Ω
+**A1240.** C. 34 Ω
 <!-- id: physics-8-2-15 -->
 
 Explanation: R = 12.0 ÷ 0.35 = 34.29 Ω, but the current has only 2 significant figures, so the answer is given to 2 significant figures.
 
-**A1212.** D. A micrometer screw gauge
+**A1241.** D. A micrometer screw gauge
 <!-- id: physics-8-2-16 -->
 
 Explanation: A micrometer has a resolution of about 0.01 mm, giving a much smaller percentage uncertainty for a small diameter.
 
-**A1213.** A. 8.0 ± 0.1 m/s
+**A1242.** A. 8.0 ± 0.1 m/s
 <!-- id: physics-8-2-17 -->
 
 Explanation: Percentage uncertainty = 0.5% + 0.8% = 1.3%, and 1.3% of 8.0 m/s is about 0.1 m/s.
 
-**A1214.** B. The value that would be obtained by an ideal measurement with no errors
+**A1243.** B. The value that would be obtained by an ideal measurement with no errors
 <!-- id: physics-8-2-18 -->
 
 Explanation: The true value is the ideal value, which can only be estimated because all real measurements contain some uncertainty.
 
-**A1215.** Accuracy is how close a measurement is to the true value; precision is how closely repeated measurements agree with each other. For example, readings of g of 9.51, 9.52 and 9.53 m/s² are precise but not accurate, because they are clustered but well below 9.80 m/s².
+**A1244.** Accuracy is how close a measurement is to the true value; precision is how closely repeated measurements agree with each other. For example, readings of g of 9.51, 9.52 and 9.53 m/s² are precise but not accurate, because they are clustered but well below 9.80 m/s².
 <!-- id: physics-8-2-19 -->
 
 Explanation: Any valid example that separates the two ideas gains full marks.
 
-**A1216.** Mean = 22.0 ÷ 5 = 4.4 cm. Half range = (4.6 − 4.2) ÷ 2 = 0.2 cm. Extension = 4.4 ± 0.2 cm.
+**A1245.** Mean = 22.0 ÷ 5 = 4.4 cm. Half range = (4.6 − 4.2) ÷ 2 = 0.2 cm. Extension = 4.4 ± 0.2 cm.
 <!-- id: physics-8-2-20 -->
 
 Explanation: Show both the mean and the half-range calculation.
 
-**A1217.** g = 4π² × 0.800 ÷ 1.80² = 9.75 m/s². Percentage uncertainty = 0.625% + 2 × 1.11% ≈ 2.8%, so the uncertainty is about ±0.3 m/s². g = 9.7 ± 0.3 m/s².
+**A1246.** g = 4π² × 0.800 ÷ 1.80² = 9.75 m/s². Percentage uncertainty = 0.625% + 2 × 1.11% ≈ 2.8%, so the uncertainty is about ±0.3 m/s². g = 9.7 ± 0.3 m/s².
 <!-- id: physics-8-2-21 -->
 
 Explanation: Remember to double the percentage uncertainty in T because T is squared.
 
-**A1218.** R = 6.0 ÷ 0.50 = 12 Ω. Percentage uncertainty = 1.7% + 4.0% = 5.7%, so ΔR ≈ 0.7 Ω. R = 12.0 ± 0.7 Ω.
+**A1247.** R = 6.0 ÷ 0.50 = 12 Ω. Percentage uncertainty = 1.7% + 4.0% = 5.7%, so ΔR ≈ 0.7 Ω. R = 12.0 ± 0.7 Ω.
 <!-- id: physics-8-2-22 -->
 
 Explanation: Percentage uncertainties add when dividing.
 
-**A1219.** Volume = 2.00³ = 8.00 cm³ with 3 × 1% = 3% uncertainty. Mass uncertainty = 0.46%. Density = 21.6 ÷ 8.00 = 2.70 g/cm³ with about 3.5% uncertainty, so ρ = 2.70 ± 0.09 g/cm³.
+**A1248.** Volume = 2.00³ = 8.00 cm³ with 3 × 1% = 3% uncertainty. Mass uncertainty = 0.46%. Density = 21.6 ÷ 8.00 = 2.70 g/cm³ with about 3.5% uncertainty, so ρ = 2.70 ± 0.09 g/cm³.
 <!-- id: physics-8-2-23 -->
 
 Explanation: The cube of the side triples its percentage uncertainty.
 
-**A1220.** Extra significant figures imply a higher precision than the measurements can support. The result should be given to the same number of significant figures as the least precise data used.
+**A1249.** Extra significant figures imply a higher precision than the measurements can support. The result should be given to the same number of significant figures as the least precise data used.
 <!-- id: physics-8-2-24 -->
 
 Explanation: Link significant figures to the precision or uncertainty of the original measurements.
 
-**A1221.** One oscillation: 0.2 ÷ 1.5 × 100 ≈ 13%. Twenty oscillations take 30 s: 0.2 ÷ 30 × 100 ≈ 0.67%. Timing 20 oscillations reduces the percentage uncertainty by a factor of 20.
+**A1250.** One oscillation: 0.2 ÷ 1.5 × 100 ≈ 13%. Twenty oscillations take 30 s: 0.2 ÷ 30 × 100 ≈ 0.67%. Timing 20 oscillations reduces the percentage uncertainty by a factor of 20.
 <!-- id: physics-8-2-25 -->
 
 Explanation: The absolute uncertainty stays the same, so a longer measured time gives a smaller percentage uncertainty.
 
+**A1251.** A. Precise but not accurate
+<!-- id: physics-8-2-c1 -->
+
+Explanation: They agree closely with each other (precise) but are consistently below the accepted value (inaccurate), which suggests a systematic error.
+
 #### Random and systematic errors
 
-**A1222.** A. Unpredictable variations that scatter readings either side of the true value
+**A1252.** A. Unpredictable variations that scatter readings either side of the true value
 <!-- id: physics-8-3-1 -->
 
 Explanation: Random errors vary unpredictably from reading to reading, so their effect can be reduced by averaging.
 
-**A1223.** B. An error that shifts every reading in the same direction by the same amount or proportion
+**A1253.** B. An error that shifts every reading in the same direction by the same amount or proportion
 <!-- id: physics-8-3-2 -->
 
 Explanation: Systematic errors are consistent biases, such as a zero error or a miscalibrated instrument.
 
-**A1224.** C. a systematic (zero) error
+**A1254.** C. a systematic (zero) error
 <!-- id: physics-8-3-3 -->
 
 Explanation: A zero offset adds the same amount to every reading, which is a systematic error.
 
-**A1225.** D. random error
+**A1255.** D. random error
 <!-- id: physics-8-3-4 -->
 
 Explanation: The reaction delay varies unpredictably from trial to trial, causing scatter, which is random error.
 
-**A1226.** A. random errors only
+**A1256.** A. random errors only
 <!-- id: physics-8-3-5 -->
 
 Explanation: Random errors tend to cancel when averaged, but a systematic bias is the same in every reading and remains.
 
-**A1227.** B. a mistake (personal error) that should be avoided or the reading repeated, not treated as an experimental error
+**A1257.** B. a mistake (personal error) that should be avoided or the reading repeated, not treated as an experimental error
 <!-- id: physics-8-3-6 -->
 
 Explanation: Mistakes are not part of uncertainty analysis; the reading should be identified, excluded or repeated.
 
-**A1228.** C. a systematic error due to parallax
+**A1258.** C. a systematic error due to parallax
 <!-- id: physics-8-3-7 -->
 
 Explanation: Reading consistently from the same off-normal angle biases every reading in the same direction.
 
-**A1229.** D. Every reading is 2 mm too large, a systematic error
+**A1259.** D. Every reading is 2 mm too large, a systematic error
 <!-- id: physics-8-3-8 -->
 
 Explanation: The physical end now sits where the 2 mm mark used to be, so each length reads 2 mm more than the true value.
 
-**A1230.** A. a systematic error
+**A1260.** A. a systematic error
 <!-- id: physics-8-3-9 -->
 
 Explanation: A consistent offset in every reading shifts the whole line, producing a non-zero intercept.
 
-**A1231.** B. Check for a mistake, repeat the measurement if possible, and exclude it from the mean with a note in the report if it is clearly anomalous
+**A1261.** B. Check for a mistake, repeat the measurement if possible, and exclude it from the mean with a note in the report if it is clearly anomalous
 <!-- id: physics-8-3-10 -->
 
 Explanation: Outliers should be investigated and, if justified, excluded transparently; data must never be altered.
 
-**A1232.** C. Calibrating the instrument against a known standard
+**A1262.** C. Calibrating the instrument against a known standard
 <!-- id: physics-8-3-11 -->
 
 Explanation: Calibration identifies and corrects consistent offsets; repetition only reduces random error.
 
-**A1233.** D. consistently lower than the true value, a systematic error
+**A1263.** D. consistently lower than the true value, a systematic error
 <!-- id: physics-8-3-12 -->
 
 Explanation: Air resistance always opposes motion, reducing the measured acceleration in every trial.
 
-**A1234.** A. random error
+**A1264.** A. random error
 <!-- id: physics-8-3-13 -->
 
 Explanation: Fluctuations above and below the true value are unpredictable and are random errors.
 
-**A1235.** B. The results may still be precise but they will be inaccurate
+**A1265.** B. The results may still be precise but they will be inaccurate
 <!-- id: physics-8-3-14 -->
 
 Explanation: A systematic error shifts all values equally, so it reduces accuracy while leaving the spread (precision) unchanged.
 
-**A1236.** C. reduce the effect of random errors on the mean, but not change any systematic error
+**A1266.** C. reduce the effect of random errors on the mean, but not change any systematic error
 <!-- id: physics-8-3-15 -->
 
 Explanation: More trials improve the reliability of the mean against random scatter, but a systematic bias remains in every reading.
 
-**A1237.** D. No effect, because the offset cancels when the initial temperature is subtracted from the final
+**A1267.** D. No effect, because the offset cancels when the initial temperature is subtracted from the final
 <!-- id: physics-8-3-16 -->
 
 Explanation: Both readings are 1.5 °C too high, so their difference is unaffected.
 
-**A1238.** A. All speeds are 25% too high, a systematic error
+**A1268.** A. All speeds are 25% too high, a systematic error
 <!-- id: physics-8-3-17 -->
 
 Explanation: Speed is proportional to the entered length, and 5.0 ÷ 4.0 = 1.25, so every speed is 25% too high.
 
-**A1239.** B. Random errors mainly affect precision; systematic errors mainly affect accuracy
+**A1269.** B. Random errors mainly affect precision; systematic errors mainly affect accuracy
 <!-- id: physics-8-3-18 -->
 
 Explanation: Scatter (random error) reduces precision, while a consistent bias (systematic error) moves results away from the true value.
 
-**A1240.** Random errors cause unpredictable scatter of readings either side of the true value, e.g. variation in reaction time when using a stopwatch. Systematic errors shift every reading in the same direction by a consistent amount, e.g. a balance with a zero error or a miscalibrated thermometer.
+**A1270.** Random errors cause unpredictable scatter of readings either side of the true value, e.g. variation in reaction time when using a stopwatch. Systematic errors shift every reading in the same direction by a consistent amount, e.g. a balance with a zero error or a miscalibrated thermometer.
 <!-- id: physics-8-3-19 -->
 
 Explanation: A clear definition and a valid example for each are needed.
 
-**A1241.** The accepted value lies outside the range 9.37 to 9.47 m/s², so random error alone cannot explain the difference and a systematic error is likely. For example, measuring the length only to the top of the bob (making L too short) would make g consistently too low.
+**A1271.** The accepted value lies outside the range 9.37 to 9.47 m/s², so random error alone cannot explain the difference and a systematic error is likely. For example, measuring the length only to the top of the bob (making L too short) would make g consistently too low.
 <!-- id: physics-8-3-20 -->
 
 Explanation: Compare the accepted value with the uncertainty range, then suggest a plausible systematic error in the right direction.
 
-**A1242.** A systematic error affects every reading in the same direction by the same amount, so the mean is shifted by the same amount. Averaging only reduces errors that vary randomly above and below the true value.
+**A1272.** A systematic error affects every reading in the same direction by the same amount, so the mean is shifted by the same amount. Averaging only reduces errors that vary randomly above and below the true value.
 <!-- id: physics-8-3-21 -->
 
 Explanation: Key idea: systematic errors do not cancel.
 
-**A1243.** True diameter = 1.27 − 0.03 = 1.24 mm.
+**A1273.** True diameter = 1.27 − 0.03 = 1.24 mm.
 <!-- id: physics-8-3-22 -->
 
 Explanation: Correct a zero error by subtracting the zero reading from every measurement.
 
-**A1244.** 3.10 s is the outlier. Mean of the remaining values = (2.31 + 2.28 + 2.35 + 2.30) ÷ 4 = 9.24 ÷ 4 = 2.31 s.
+**A1274.** 3.10 s is the outlier. Mean of the remaining values = (2.31 + 2.28 + 2.35 + 2.30) ÷ 4 = 9.24 ÷ 4 = 2.31 s.
 <!-- id: physics-8-3-23 -->
 
 Explanation: The outlier should be checked, noted and excluded rather than deleted silently.
 
-**A1245.** It is too vague. Genuine mistakes (such as misreading a scale) should be avoided or the reading repeated, and are not part of the error analysis. The report should instead identify specific random or systematic errors and their effect on the results.
+**A1275.** It is too vague. Genuine mistakes (such as misreading a scale) should be avoided or the reading repeated, and are not part of the error analysis. The report should instead identify specific random or systematic errors and their effect on the results.
 <!-- id: physics-8-3-24 -->
 
 Explanation: Show that you understand the difference between mistakes and experimental errors.
 
-**A1246.** This is a systematic error: friction always opposes motion, so the measured acceleration will be consistently less than g sin θ. It could be reduced by friction-compensating the track (tilting it slightly until the trolley moves at constant velocity) or including friction in the model.
+**A1276.** This is a systematic error: friction always opposes motion, so the measured acceleration will be consistently less than g sin θ. It could be reduced by friction-compensating the track (tilting it slightly until the trolley moves at constant velocity) or including friction in the model.
 <!-- id: physics-8-3-25 -->
 
 Explanation: State the error type, the direction of the effect and a reasonable fix.
 
+**A1277.** B. It causes a systematic error that repeating measurements cannot reduce
+<!-- id: physics-8-3-c1 -->
+
+Explanation: A zero offset shifts every reading by the same amount. Averaging does not remove it; correcting the zero does.
+
 #### Graphing and linearisation
 
-**A1247.** A. The independent variable
+**A1278.** A. The independent variable
 <!-- id: physics-8-4-1 -->
 
 Explanation: The independent variable goes on the x-axis and the dependent variable on the y-axis.
 
-**A1248.** B. T² against L
+**A1279.** B. T² against L
 <!-- id: physics-8-4-2 -->
 
 Explanation: Squaring gives T² = (4π²/g)L, which is linear in L with a gradient of 4π²/g.
 
-**A1249.** C. 9.9 m/s²
+**A1280.** C. 9.9 m/s²
 <!-- id: physics-8-4-3 -->
 
 Explanation: Gradient = 4π²/g, so g = 4π² ÷ 4.0 = 9.87 ≈ 9.9 m/s².
 
-**A1250.** D. I against 1/r²
+**A1281.** D. I against 1/r²
 <!-- id: physics-8-4-4 -->
 
 Explanation: If I = k/r², a graph of I against 1/r² is a straight line through the origin with gradient k.
 
-**A1251.** A. F against v², gradient m/r
+**A1282.** A. F against v², gradient m/r
 <!-- id: physics-8-4-5 -->
 
 Explanation: F is directly proportional to v², with constant of proportionality m/r.
 
-**A1252.** B. 25 Ω
+**A1283.** B. 25 Ω
 <!-- id: physics-8-4-6 -->
 
 Explanation: Gradient = I/V = 1/R, so R = 1 ÷ 0.040 = 25 Ω.
 
-**A1253.** C. A straight line with points scattered roughly evenly on either side, not necessarily passing through every point or the origin
+**A1284.** C. A straight line with points scattered roughly evenly on either side, not necessarily passing through every point or the origin
 <!-- id: physics-8-4-7 -->
 
 Explanation: A line of best fit represents the overall trend and balances the scatter of the points.
 
-**A1254.** D. a systematic error in the measurements
+**A1285.** D. a systematic error in the measurements
 <!-- id: physics-8-4-8 -->
 
 Explanation: A constant offset in every measurement shifts the line, giving a non-zero intercept.
 
-**A1255.** A. The threshold frequency
+**A1286.** A. The threshold frequency
 <!-- id: physics-8-4-9 -->
 
 Explanation: Since E_k = hf − φ, E_k = 0 when f = f₀, the threshold frequency.
 
-**A1256.** B. 3.0 m/s²
+**A1287.** B. 3.0 m/s²
 <!-- id: physics-8-4-10 -->
 
 Explanation: With u = 0, s = ½at², so the gradient = a/2 and a = 2 × 1.5 = 3.0 m/s².
 
-**A1257.** C. λ against 1/p
+**A1288.** C. λ against 1/p
 <!-- id: physics-8-4-11 -->
 
 Explanation: Since λ = h × (1/p), a graph of λ against 1/p is linear with gradient h.
 
-**A1258.** D. The elastic potential energy stored in the spring
+**A1289.** D. The elastic potential energy stored in the spring
 <!-- id: physics-8-4-12 -->
 
 Explanation: Work done = area under the F–x graph, which equals the elastic potential energy stored.
 
-**A1259.** A. To show the uncertainty in each plotted value
+**A1290.** A. To show the uncertainty in each plotted value
 <!-- id: physics-8-4-13 -->
 
 Explanation: Error bars show the range within which each true value is likely to lie.
 
-**A1260.** B. Estimating the uncertainty in the gradient
+**A1291.** B. Estimating the uncertainty in the gradient
 <!-- id: physics-8-4-14 -->
 
 Explanation: Half the difference between the maximum and minimum gradients gives an estimate of the gradient's uncertainty.
 
-**A1261.** C. 4.0
+**A1292.** C. 4.0
 <!-- id: physics-8-4-15 -->
 
 Explanation: Gradient = (2.05 − 0.45) ÷ (0.50 − 0.10) = 1.60 ÷ 0.40 = 4.0.
 
-**A1262.** D. T² against r³
+**A1293.** D. T² against r³
 <!-- id: physics-8-4-16 -->
 
 Explanation: T² is directly proportional to r³, with gradient 4π²/GM.
 
-**A1263.** A. 6.0 × 10²⁴ kg
+**A1294.** A. 6.0 × 10²⁴ kg
 <!-- id: physics-8-4-17 -->
 
 Explanation: M = 4π² ÷ (G × gradient) = 39.48 ÷ (6.67 × 10⁻¹¹ × 9.9 × 10⁻¹⁴) ≈ 6.0 × 10²⁴ kg.
 
-**A1264.** B. The change in velocity
+**A1295.** B. The change in velocity
 <!-- id: physics-8-4-18 -->
 
 Explanation: Area = acceleration × time, which equals the change in velocity.
 
-**A1265.** Square both sides: T² = (4π²/k)m. Plot T² (y-axis) against m (x-axis); the graph is a straight line through the origin with gradient 4π²/k, so k = 4π² ÷ gradient.
+**A1296.** Square both sides: T² = (4π²/k)m. Plot T² (y-axis) against m (x-axis); the graph is a straight line through the origin with gradient 4π²/k, so k = 4π² ÷ gradient.
 <!-- id: physics-8-4-19 -->
 
 Explanation: State the variables plotted, the gradient expression and how k is obtained.
 
-**A1266.** k = 4π² ÷ 0.20 = 39.5 ÷ 0.20 ≈ 2.0 × 10² N/m.
+**A1297.** k = 4π² ÷ 0.20 = 39.5 ÷ 0.20 ≈ 2.0 × 10² N/m.
 <!-- id: physics-8-4-20 -->
 
 Explanation: Gradient = 4π²/k, so rearrange for k.
 
-**A1267.** Measure I at several distances, then plot I against 1/r². If the graph is a straight line through the origin, then I ∝ 1/r² is supported; the gradient gives the constant of proportionality.
+**A1298.** Measure I at several distances, then plot I against 1/r². If the graph is a straight line through the origin, then I ∝ 1/r² is supported; the gradient gives the constant of proportionality.
 <!-- id: physics-8-4-21 -->
 
 Explanation: The key is choosing axes that would give a straight line through the origin if the relationship holds.
 
-**A1268.** Gradient = (5.2 + 4.6) ÷ 2 = 4.9, uncertainty = (5.2 − 4.6) ÷ 2 = 0.3. Gradient = 4.9 ± 0.3.
+**A1299.** Gradient = (5.2 + 4.6) ÷ 2 = 4.9, uncertainty = (5.2 − 4.6) ÷ 2 = 0.3. Gradient = 4.9 ± 0.3.
 <!-- id: physics-8-4-22 -->
 
 Explanation: Use the mean of the extreme gradients and half their difference.
 
-**A1269.** φ = hf₀ = 4.14 × 10⁻¹⁵ × 5.5 × 10¹⁴ ≈ 2.3 eV.
+**A1300.** φ = hf₀ = 4.14 × 10⁻¹⁵ × 5.5 × 10¹⁴ ≈ 2.3 eV.
 <!-- id: physics-8-4-23 -->
 
 Explanation: The x-intercept is the threshold frequency f₀ and the work function is φ = hf₀.
 
-**A1270.** A straight line makes the relationship easy to recognise and test, deviations from the model are easy to see, and the gradient and intercept can be used to find physical constants (such as g or k) using all the data rather than one point.
+**A1301.** A straight line makes the relationship easy to recognise and test, deviations from the model are easy to see, and the gradient and intercept can be used to find physical constants (such as g or k) using all the data rather than one point.
 <!-- id: physics-8-4-24 -->
 
 Explanation: Mention both identifying the relationship and extracting constants from the gradient or intercept.
 
-**A1271.** d = ½at², so the gradient = a/2. a = 2 × 0.60 = 1.2 m/s².
+**A1302.** d = ½at², so the gradient = a/2. a = 2 × 0.60 = 1.2 m/s².
 <!-- id: physics-8-4-25 -->
 
 Explanation: Recognise that the gradient is half the acceleration.
 
+**A1303.** Plot T² against L; g = 4π²/gradient ≈ 9.80 m/s²
+<!-- id: physics-8-4-c1 -->
+
+Explanation: Squaring gives T² = (4π²/g)L, a line through the origin with gradient 4π²/g. g = 4π² ÷ 4.03 ≈ 9.80 m/s².
+
+### Challenge questions
+
+#### Challenge set
+
+**A1304.** C. They and the station are in free fall together, though gravity there is still about 90% of its surface value
+<!-- id: physics-challenge-1 -->
+
+Explanation: Gravity provides the centripetal force for the orbit. Since everything accelerates together, there is no normal force: apparent weightlessness.
+
+**A1305.** B. 2.0 × 10⁵ m/s
+<!-- id: physics-challenge-2 -->
+
+Explanation: Undeflected means qE = qvB, so v = E/B = 2.0 × 10⁴ ÷ 0.10 = 2.0 × 10⁵ m/s, whatever the charge or mass.
+
+**A1306.** About 15 m/s
+<!-- id: physics-challenge-3 -->
+
+Explanation: Friction provides the centripetal force: 0.60mg = mv²/r, so v = √(0.60 × 9.8 × 40) ≈ 15.3 m/s. The mass cancels.
+
+**A1307.** About 6.3 m/s
+<!-- id: physics-challenge-4 -->
+
+Explanation: ½kx² = ½mv²: 1.0 J = ½ × 0.050 × v², so v = √40 ≈ 6.3 m/s.
+
+**A1308.** D. 2.0 × 10⁻¹⁴ J
+<!-- id: physics-challenge-5 -->
+
+Explanation: KE = (γ − 1)mc² = 0.25 × 8.2 × 10⁻¹⁴ ≈ 2.0 × 10⁻¹⁴ J. The classical ½mv² gives 1.5 × 10⁻¹⁴ J, which is too small.
+
+**A1309.** B. 0.10 A; 20 : 1
+<!-- id: physics-challenge-6 -->
+
+Explanation: Power in = power out: 240 × I = 12 × 2.0, so I = 0.10 A. Voltage ratio = turns ratio = 240 : 12 = 20 : 1.
+
+**A1310.** About 1.7 × 10⁻¹⁰ m; it is similar to the atomic spacing, so diffraction is noticeable
+<!-- id: physics-challenge-7 -->
+
+Explanation: p = √(2mqV) = √(2 × 9.11 × 10⁻³¹ × 1.6 × 10⁻¹⁹ × 54) ≈ 3.97 × 10⁻²⁴ kg m/s. λ = h/p ≈ 1.7 × 10⁻¹⁰ m, so λ/w ≈ 1.
+
+**A1311.** A. 2.00 ± 0.02 s
+<!-- id: physics-challenge-8 -->
+
+Explanation: Dividing by an exact number divides the value and the absolute uncertainty: 2.00 ± 0.02 s (1% either way).
+
+**A1312.** The falling magnet changes the flux through the copper, inducing eddy currents. By Lenz's law their fields oppose the motion, slowing the magnet. Gravitational potential energy becomes heat in the copper, not just kinetic energy.
+<!-- id: physics-challenge-9 -->
+
+Explanation: Plastic is an insulator, so no current is induced. A full answer names induction, Lenz's law and the energy transfer.
+
+**A1313.** About 3.1 × 10¹⁰ J; g is not constant over this distance (it falls to g/4 at 2R)
+<!-- id: physics-challenge-10 -->
+
+Explanation: ΔU = GMm(1/R − 1/2R) = GMm/(2R) = 6.67 × 10⁻¹¹ × 5.98 × 10²⁴ × 1000 ÷ (2 × 6.37 × 10⁶) ≈ 3.1 × 10¹⁰ J. mgh with g = 9.8 would give about 6.2 × 10¹⁰ J, double the answer.
+
 ### Exam-style questions (mixed topics)
 
-**A1272.** Satellites in orbit
+**A1314.** Satellites in orbit
 <!-- id: physics-x1 -->
 *Multi-part question · 11 marks*
 
@@ -6784,7 +6998,7 @@ Common mistake: Treating GHz as 10⁶ Hz. Giga means 10⁹.
 
 Topic: Wave properties and electromagnetic waves (physics-6-1)
 
-**A1273.** Electrons: accelerated, turned and diffracted
+**A1315.** Electrons: accelerated, turned and diffracted
 <!-- id: physics-x2 -->
 *Multi-part question · 13 marks*
 
@@ -6850,7 +7064,7 @@ Common mistake: Giving the electrons' energy, 2.00 keV. A photon and an electron
 
 Topic: Wave-particle duality of light (physics-7-4)
 
-**A1274.** From generator to town
+**A1316.** From generator to town
 <!-- id: physics-x3 -->
 *Multi-part question · 10 marks*
 
@@ -6913,7 +7127,7 @@ Common mistake: Dividing by √2. The peak is larger than the RMS value.
 
 Topic: Generators, alternators and AC/RMS (physics-5-3)
 
-**A1275.** Green light: waves and photons
+**A1317.** Green light: waves and photons
 <!-- id: physics-x4 -->
 *Multi-part question · 10 marks*
 
@@ -6968,3 +7182,124 @@ Topic: Photoelectric effect and photons (physics-7-1)
 Common mistake: Saying brighter light gives faster electrons, as the wave model predicts. The photoelectric effect shows energy depends on frequency, not intensity.
 
 Topic: Photoelectric effect and photons (physics-7-1)
+
+**A1318.** Challenge: electrons as particles and waves
+<!-- id: physics-cx1 -->
+*Multi-part question · 11 marks*
+
+**a.** 3.2 × 10⁻¹⁶ J *(1 mark)*
+
+1. KE = qV = 1.6 × 10⁻¹⁹ × 2000 = 3.2 × 10⁻¹⁶ J. *(1 mark)*
+
+Common mistake: Giving the answer in eV without converting to joules.
+
+Topic: Particle accelerators and the synchrotron (physics-2-4)
+
+**b.** 2.7 × 10⁷ m/s *(2 marks)*
+
+1. ½mv² = 3.2 × 10⁻¹⁶ J. *(1 mark)*
+2. v = √(2 × 3.2 × 10⁻¹⁶ ÷ 9.11 × 10⁻³¹) ≈ 2.7 × 10⁷ m/s. *(1 mark)*
+
+Common mistake: Forgetting the square root.
+
+Topic: Particle accelerators and the synchrotron (physics-2-4)
+
+**c.** v ≈ 0.09c, so γ ≈ 1.004 and relativistic effects are below 1%. *(1 mark)*
+
+1. v/c ≈ 0.088, giving γ ≈ 1.004, a negligible correction. *(1 mark)*
+
+Common mistake: Saying relativity only applies to spaceships.
+
+Topic: Time dilation and Lorentz factor (physics-4-2)
+
+**d.** About 7.5 × 10⁻² m *(2 marks)*
+
+1. qvB = mv²/r, so r = mv/(qB). *(1 mark)*
+2. r = 9.11 × 10⁻³¹ × 2.65 × 10⁷ ÷ (1.6 × 10⁻¹⁹ × 2.0 × 10⁻³) ≈ 0.075 m. *(1 mark)*
+
+Common mistake: Using 2.0 T instead of 2.0 × 10⁻³ T.
+
+Topic: Forces on moving charges and currents (physics-2-3)
+
+**e.** The magnetic force is always perpendicular to the velocity, so it does no work. *(1 mark)*
+
+1. Force perpendicular to motion: no work is done, so the kinetic energy is constant. *(1 mark)*
+
+Common mistake: Saying there is no force on the electrons.
+
+Topic: Forces on moving charges and currents (physics-2-3)
+
+**f.** About 2.7 × 10⁻¹¹ m *(2 marks)*
+
+1. p = mv = 9.11 × 10⁻³¹ × 2.65 × 10⁷ = 2.4 × 10⁻²³ kg m/s. *(1 mark)*
+2. λ = h/p = 6.63 × 10⁻³⁴ ÷ 2.4 × 10⁻²³ ≈ 2.7 × 10⁻¹¹ m. *(1 mark)*
+
+Common mistake: Using λ = hc/E, which is only for photons.
+
+Topic: De Broglie wavelength and diffraction (physics-7-2)
+
+**g.** The patterns have the same spacing because the wavelengths are equal. Each X-ray photon has E = hc/λ ≈ 7.2 × 10⁻¹⁵ J (about 45 keV), much more than the electron's 2 keV. *(2 marks)*
+
+1. Same wavelength gives the same diffraction pattern. *(1 mark)*
+2. Photon energy hc/λ ≈ 7.2 × 10⁻¹⁵ J, over 20 times the electron's KE. *(1 mark)*
+
+Common mistake: Assuming equal wavelengths mean equal energies.
+
+Topic: Wave-particle duality of light (physics-7-4)
+
+**A1319.** Challenge: from wind turbine to town
+<!-- id: physics-cx2 -->
+*Multi-part question · 11 marks*
+
+**a.** 160 V *(2 marks)*
+
+1. ΔΦ = BA = 0.40 × 0.020 = 8.0 × 10⁻³ Wb in a quarter period, Δt = 1 ÷ (4 × 50) = 0.0050 s. *(1 mark)*
+2. emf = NΔΦ/Δt = 100 × 8.0 × 10⁻³ ÷ 0.0050 = 160 V. *(1 mark)*
+
+Common mistake: Using a full period for Δt.
+
+Topic: Magnetic flux and Faraday's law (physics-5-1)
+
+**b.** Both double. *(2 marks)*
+
+1. Peak emf doubles, since the flux changes twice as fast. *(1 mark)*
+2. Frequency doubles to 100 Hz. *(1 mark)*
+
+Common mistake: Saying only the frequency changes.
+
+Topic: Generators, alternators and AC/RMS (physics-5-3)
+
+**c.** About 1 : 96 *(1 mark)*
+
+1. N(p) : N(s) = 690 : 66 000 ≈ 1 : 96. *(1 mark)*
+
+Common mistake: Inverting the ratio for a step-up transformer.
+
+Topic: Transformers and transmission losses (physics-5-4)
+
+**d.** 30 A; 7.3 kW; 242 V *(3 marks)*
+
+1. I = P/V = 2.0 × 10⁶ ÷ 66 000 ≈ 30.3 A. *(1 mark)*
+2. P(loss) = I²R = 30.3² × 8.0 ≈ 7.3 × 10³ W. *(1 mark)*
+3. V(drop) = IR = 30.3 × 8.0 ≈ 242 V. *(1 mark)*
+
+Common mistake: Using P = V²/R with 66 kV, which treats the whole line voltage as dropped across the line.
+
+Topic: Transformers and transmission losses (physics-5-4)
+
+**e.** I ≈ 2900 A; I²R ≈ 67 MW, far more than the 2.0 MW produced, and IR ≈ 23 kV is more than the supply voltage. *(2 marks)*
+
+1. I = 2.0 × 10⁶ ÷ 690 ≈ 2.9 × 10³ A. *(1 mark)*
+2. I²R ≈ 6.7 × 10⁷ W (or a 23 kV drop), which is impossible, so almost no power would reach the town. *(1 mark)*
+
+Common mistake: Concluding only that losses are 'larger', without numbers.
+
+Topic: Transformers and transmission losses (physics-5-4)
+
+**f.** Steady DC gives constant flux in the core, so no emf is induced in the secondary. *(1 mark)*
+
+1. A transformer needs a changing flux; DC gives a constant flux. *(1 mark)*
+
+Common mistake: Saying DC is too weak.
+
+Topic: Lenz's law and induced currents (physics-5-2)

@@ -7114,9 +7114,18 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 
 *Written answer*
 
+**Q999.** Biodiesel is often described as carbon neutral. The best reason this is not strictly true is that:
+<!-- id: chem-1-1-c1 -->
+*Challenge question*
+
+- A. Burning biodiesel produces no carbon dioxide
+- B. Plants absorb more CO₂ than biodiesel releases
+- C. Biodiesel contains no carbon atoms
+- D. Fossil fuels are used to grow, harvest and transport the crop and to make the methanol used in transesterification
+
 #### Combustion and thermochemical equations
 
-**Q999.** Which equation represents the complete combustion of methane?
+**Q1000.** Which equation represents the complete combustion of methane?
 <!-- id: chem-1-2-1 -->
 
 - A. CH₄(g) + 2O₂(g) → CO₂(g) + 2H₂O(l)
@@ -7124,7 +7133,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 2CH₄(g) + 3O₂(g) → 2CO(g) + 4H₂O(l)
 - D. CH₄(g) + O₂(g) → C(s) + 2H₂O(l)
 
-**Q1000.** In the balanced equation for the complete combustion of octane, 2C₈H₁₈ + xO₂ → 16CO₂ + 18H₂O, the value of x is
+**Q1001.** In the balanced equation for the complete combustion of octane, 2C₈H₁₈ + xO₂ → 16CO₂ + 18H₂O, the value of x is
 <!-- id: chem-1-2-2 -->
 
 - A. 12.5
@@ -7132,7 +7141,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 17
 - D. 50
 
-**Q1001.** Incomplete combustion of a hydrocarbon fuel in a poorly ventilated room is most likely to produce
+**Q1002.** Incomplete combustion of a hydrocarbon fuel in a poorly ventilated room is most likely to produce
 <!-- id: chem-1-2-3 -->
 
 - A. carbon dioxide and hydrogen gas
@@ -7140,12 +7149,12 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. carbon monoxide, soot and water
 - D. methane and oxygen
 
-**Q1002.** Write a balanced thermochemical equation, including states at SLC, for the complete combustion of ethanol. The molar heat of combustion of ethanol is 1364 kJ mol⁻¹.
+**Q1003.** Write a balanced thermochemical equation, including states at SLC, for the complete combustion of ethanol. The molar heat of combustion of ethanol is 1364 kJ mol⁻¹.
 <!-- id: chem-1-2-4 -->
 
 *Written answer*
 
-**Q1003.** Carbon monoxide from a faulty gas heater is dangerous mainly because it
+**Q1004.** Carbon monoxide from a faulty gas heater is dangerous mainly because it
 <!-- id: chem-1-2-5 -->
 
 - A. is a strong acid that burns the lungs
@@ -7153,7 +7162,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. reacts with water in the body to form methane
 - D. binds strongly to haemoglobin, reducing oxygen transport in the blood
 
-**Q1004.** Given CH₄(g) + 2O₂(g) → CO₂(g) + 2H₂O(l), ΔH = −890 kJ mol⁻¹, what is ΔH for 2CH₄(g) + 4O₂(g) → 2CO₂(g) + 4H₂O(l)?
+**Q1005.** Given CH₄(g) + 2O₂(g) → CO₂(g) + 2H₂O(l), ΔH = −890 kJ mol⁻¹, what is ΔH for 2CH₄(g) + 4O₂(g) → 2CO₂(g) + 4H₂O(l)?
 <!-- id: chem-1-2-6 -->
 
 - A. −1780 kJ mol⁻¹
@@ -7161,7 +7170,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. −445 kJ mol⁻¹
 - D. +1780 kJ mol⁻¹
 
-**Q1005.** Given CH₄(g) + 2O₂(g) → CO₂(g) + 2H₂O(l), ΔH = −890 kJ mol⁻¹, what is ΔH for CO₂(g) + 2H₂O(l) → CH₄(g) + 2O₂(g)?
+**Q1006.** Given CH₄(g) + 2O₂(g) → CO₂(g) + 2H₂O(l), ΔH = −890 kJ mol⁻¹, what is ΔH for CO₂(g) + 2H₂O(l) → CH₄(g) + 2O₂(g)?
 <!-- id: chem-1-2-7 -->
 
 - A. −890 kJ mol⁻¹
@@ -7169,12 +7178,12 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. +445 kJ mol⁻¹
 - D. −1780 kJ mol⁻¹
 
-**Q1006.** The molar heat of combustion of hydrogen is 286 kJ mol⁻¹. Write the thermochemical equation for the combustion of 2 mol of hydrogen gas at SLC.
+**Q1007.** The molar heat of combustion of hydrogen is 286 kJ mol⁻¹. Write the thermochemical equation for the combustion of 2 mol of hydrogen gas at SLC.
 <!-- id: chem-1-2-8 -->
 
 *Written answer*
 
-**Q1007.** For an exothermic reaction, which statement is correct?
+**Q1008.** For an exothermic reaction, which statement is correct?
 <!-- id: chem-1-2-9 -->
 
 - A. The products have higher enthalpy than the reactants and ΔH is positive
@@ -7182,7 +7191,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. The products have lower enthalpy than the reactants and ΔH is negative
 - D. The reactants and products have equal enthalpy
 
-**Q1008.** Which of the following processes is endothermic?
+**Q1009.** Which of the following processes is endothermic?
 <!-- id: chem-1-2-10 -->
 
 - A. Combustion of ethanol
@@ -7190,7 +7199,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. Combustion of hydrogen
 - D. Photosynthesis
 
-**Q1009.** The molar heat of combustion of butane is 2876 kJ mol⁻¹. Which thermochemical equation is correct?
+**Q1010.** The molar heat of combustion of butane is 2876 kJ mol⁻¹. Which thermochemical equation is correct?
 <!-- id: chem-1-2-11 -->
 
 - A. 2C₄H₁₀(g) + 13O₂(g) → 8CO₂(g) + 10H₂O(l)   ΔH = −5752 kJ mol⁻¹
@@ -7198,12 +7207,12 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. C₄H₁₀(g) + 13O₂(g) → 4CO₂(g) + 5H₂O(l)   ΔH = −2876 kJ mol⁻¹
 - D. 2C₄H₁₀(g) + 13O₂(g) → 8CO₂(g) + 10H₂O(l)   ΔH = +5752 kJ mol⁻¹
 
-**Q1010.** Explain why ΔH for an exothermic reaction is given a negative sign.
+**Q1011.** Explain why ΔH for an exothermic reaction is given a negative sign.
 <!-- id: chem-1-2-12 -->
 
 *Written answer*
 
-**Q1011.** For an exothermic reaction, the activation energy of the reverse reaction is
+**Q1012.** For an exothermic reaction, the activation energy of the reverse reaction is
 <!-- id: chem-1-2-13 -->
 
 - A. less than the activation energy of the forward reaction
@@ -7211,7 +7220,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. equal to the activation energy of the forward reaction
 - D. equal to ΔH of the forward reaction
 
-**Q1012.** A reaction has a forward activation energy of 120 kJ mol⁻¹ and ΔH = −80 kJ mol⁻¹. The activation energy of the reverse reaction is
+**Q1013.** A reaction has a forward activation energy of 120 kJ mol⁻¹ and ΔH = −80 kJ mol⁻¹. The activation energy of the reverse reaction is
 <!-- id: chem-1-2-14 -->
 
 - A. 40 kJ mol⁻¹
@@ -7219,7 +7228,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 200 kJ mol⁻¹
 - D. 120 kJ mol⁻¹
 
-**Q1013.** A reaction has a forward activation energy of 50 kJ mol⁻¹ and ΔH = +30 kJ mol⁻¹. The activation energy of the reverse reaction is
+**Q1014.** A reaction has a forward activation energy of 50 kJ mol⁻¹ and ΔH = +30 kJ mol⁻¹. The activation energy of the reverse reaction is
 <!-- id: chem-1-2-15 -->
 
 - A. 80 kJ mol⁻¹
@@ -7227,12 +7236,12 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 50 kJ mol⁻¹
 - D. 20 kJ mol⁻¹
 
-**Q1014.** Given C₃H₈(g) + 5O₂(g) → 3CO₂(g) + 4H₂O(l), ΔH = −2220 kJ mol⁻¹, determine ΔH for 6CO₂(g) + 8H₂O(l) → 2C₃H₈(g) + 10O₂(g).
+**Q1015.** Given C₃H₈(g) + 5O₂(g) → 3CO₂(g) + 4H₂O(l), ΔH = −2220 kJ mol⁻¹, determine ΔH for 6CO₂(g) + 8H₂O(l) → 2C₃H₈(g) + 10O₂(g).
 <!-- id: chem-1-2-16 -->
 
 *Written answer*
 
-**Q1015.** The enthalpy change for the combustion of methane is more negative when the water product is liquid rather than gaseous because
+**Q1016.** The enthalpy change for the combustion of methane is more negative when the water product is liquid rather than gaseous because
 <!-- id: chem-1-2-17 -->
 
 - A. condensing water vapour to liquid releases additional energy
@@ -7240,7 +7249,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. more oxygen is consumed when liquid water forms
 - D. gaseous water cannot be formed by combustion
 
-**Q1016.** Which statement best describes the energy changes during the combustion of a fuel?
+**Q1017.** Which statement best describes the energy changes during the combustion of a fuel?
 <!-- id: chem-1-2-18 -->
 
 - A. The energy absorbed breaking bonds is greater than the energy released forming bonds
@@ -7248,7 +7257,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. Bond breaking releases energy and bond forming absorbs energy
 - D. No bonds are broken; energy comes only from forming new bonds
 
-**Q1017.** Propane burns according to C₃H₈(g) + 5O₂(g) → 3CO₂(g) + 4H₂O(l). How many moles of oxygen are needed to completely burn 2.0 mol of propane?
+**Q1018.** Propane burns according to C₃H₈(g) + 5O₂(g) → 3CO₂(g) + 4H₂O(l). How many moles of oxygen are needed to completely burn 2.0 mol of propane?
 <!-- id: chem-1-2-19 -->
 
 - A. 5.0 mol
@@ -7256,12 +7265,12 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 10 mol
 - D. 7.0 mol
 
-**Q1018.** A gas heater in a Ballarat house is operating with a blocked air vent. Explain what type of combustion is likely to occur and name the possible products.
+**Q1019.** A gas heater in a Ballarat house is operating with a blocked air vent. Explain what type of combustion is likely to occur and name the possible products.
 <!-- id: chem-1-2-20 -->
 
 *Written answer*
 
-**Q1019.** What mass of carbon dioxide is produced by the complete combustion of 1.00 mol of propane, C₃H₈?
+**Q1020.** What mass of carbon dioxide is produced by the complete combustion of 1.00 mol of propane, C₃H₈?
 <!-- id: chem-1-2-21 -->
 
 - A. 44.0 g
@@ -7269,7 +7278,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 176 g
 - D. 132 g
 
-**Q1020.** What volume of CO₂, measured at SLC (25 °C, 100 kPa, molar volume 24.8 L mol⁻¹), is produced by the complete combustion of 0.500 mol of butane, C₄H₁₀?
+**Q1021.** What volume of CO₂, measured at SLC (25 °C, 100 kPa, molar volume 24.8 L mol⁻¹), is produced by the complete combustion of 0.500 mol of butane, C₄H₁₀?
 <!-- id: chem-1-2-22 -->
 
 - A. 49.6 L
@@ -7277,7 +7286,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 24.8 L
 - D. 99.2 L
 
-**Q1021.** Which balanced equation represents the incomplete combustion of methane to form carbon monoxide?
+**Q1022.** Which balanced equation represents the incomplete combustion of methane to form carbon monoxide?
 <!-- id: chem-1-2-23 -->
 
 - A. CH₄(g) + O₂(g) → CO(g) + 2H₂O(l)
@@ -7285,17 +7294,17 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. CH₄(g) + 2O₂(g) → CO(g) + 2H₂O(l)
 - D. 2CH₄(g) + O₂(g) → 2C(s) + 4H₂O(l)
 
-**Q1022.** Given CH₄(g) + 2O₂(g) → CO₂(g) + 2H₂O(l), ΔH = −890 kJ mol⁻¹ and H₂O(l) → H₂O(g), ΔH = +44 kJ mol⁻¹, calculate ΔH for the combustion of methane when water is produced as a gas.
+**Q1023.** Given CH₄(g) + 2O₂(g) → CO₂(g) + 2H₂O(l), ΔH = −890 kJ mol⁻¹ and H₂O(l) → H₂O(g), ΔH = +44 kJ mol⁻¹, calculate ΔH for the combustion of methane when water is produced as a gas.
 <!-- id: chem-1-2-24 -->
 
 *Written answer*
 
-**Q1023.** Balance the equation for the complete combustion of pentane, C₅H₁₂, and state the mole ratio of CO₂ produced to pentane consumed.
+**Q1024.** Balance the equation for the complete combustion of pentane, C₅H₁₂, and state the mole ratio of CO₂ produced to pentane consumed.
 <!-- id: chem-1-2-25 -->
 
 *Written answer*
 
-**Q1024.** Which equation correctly represents the complete combustion of propane at SLC?
+**Q1025.** Which equation correctly represents the complete combustion of propane at SLC?
 <!-- id: chem34a1-cte-1 -->
 
 - A. C₃H₈(g) + 5O₂(g) → 3CO₂(g) + 4H₂O(l)  ΔH = −2220 kJ mol⁻¹
@@ -7303,7 +7312,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. C₃H₈(g) + 3O₂(g) → 3CO(g) + 4H₂O(l)  ΔH = −2220 kJ mol⁻¹
 - D. 2C₃H₈(g) + 10O₂(g) → 6CO₂(g) + 8H₂O(l)  ΔH = −2220 kJ mol⁻¹
 
-**Q1025.** For the reaction 2C₈H₁₈(l) + 25O₂(g) → 16CO₂(g) + 18H₂O(l) ΔH = −10 928 kJ mol⁻¹, the enthalpy change when 1.00 mol of octane burns completely is
+**Q1026.** For the reaction 2C₈H₁₈(l) + 25O₂(g) → 16CO₂(g) + 18H₂O(l) ΔH = −10 928 kJ mol⁻¹, the enthalpy change when 1.00 mol of octane burns completely is
 <!-- id: chem34a1-cte-2 -->
 
 - A. −10 928 kJ
@@ -7311,7 +7320,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. −5464 kJ
 - D. +5464 kJ
 
-**Q1026.** A gas heater in a poorly ventilated room burns methane with a limited supply of oxygen. Compared with complete combustion, incomplete combustion
+**Q1027.** A gas heater in a poorly ventilated room burns methane with a limited supply of oxygen. Compared with complete combustion, incomplete combustion
 <!-- id: chem34a1-cte-3 -->
 
 - A. releases more energy per mole of methane and produces only CO₂.
@@ -7319,7 +7328,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. releases the same energy but produces hydrogen gas.
 - D. is endothermic because oxygen must be absorbed.
 
-**Q1027.** Given H₂(g) + ½O₂(g) → H₂O(l) ΔH = −286 kJ mol⁻¹, what is ΔH for 2H₂O(l) → 2H₂(g) + O₂(g)?
+**Q1028.** Given H₂(g) + ½O₂(g) → H₂O(l) ΔH = −286 kJ mol⁻¹, what is ΔH for 2H₂O(l) → 2H₂(g) + O₂(g)?
 <!-- id: chem34a1-cte-4 -->
 
 - A. −572 kJ mol⁻¹
@@ -7327,7 +7336,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. +286 kJ mol⁻¹
 - D. +572 kJ mol⁻¹
 
-**Q1028.** Which balanced equation correctly shows the incomplete combustion of ethanol producing carbon monoxide?
+**Q1029.** Which balanced equation correctly shows the incomplete combustion of ethanol producing carbon monoxide?
 <!-- id: chem34a1-cte-5 -->
 
 - A. C₂H₅OH(l) + 2O₂(g) → 2CO(g) + 3H₂O(l)
@@ -7335,24 +7344,33 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. C₂H₅OH(l) + O₂(g) → 2CO(g) + 3H₂O(l)
 - D. C₂H₅OH(l) + 2O₂(g) → 2CO₂(g) + 3H₂O(l)
 
-**Q1029.** Write a balanced thermochemical equation, including states, for the complete combustion of butane at SLC. ΔcH(butane) = −2874 kJ mol⁻¹. (2 marks)
+**Q1030.** Write a balanced thermochemical equation, including states, for the complete combustion of butane at SLC. ΔcH(butane) = −2874 kJ mol⁻¹. (2 marks)
 <!-- id: chem34a1-cte-6 -->
 
 *Written answer*
 
-**Q1030.** Methanol (CH₃OH) burns with ΔcH = −726 kJ mol⁻¹. Calculate the energy released when 80.0 g of methanol burns completely. (2 marks)
+**Q1031.** Methanol (CH₃OH) burns with ΔcH = −726 kJ mol⁻¹. Calculate the energy released when 80.0 g of methanol burns completely. (2 marks)
 <!-- id: chem34a1-cte-7 -->
 
 *Written answer*
 
-**Q1031.** Explain why the heat of combustion values in the VCAA data book are quoted with water in the liquid state, and predict how the magnitude of ΔH would change if the water product were gaseous. (2 marks)
+**Q1032.** Explain why the heat of combustion values in the VCAA data book are quoted with water in the liquid state, and predict how the magnitude of ΔH would change if the water product were gaseous. (2 marks)
 <!-- id: chem34a1-cte-8 -->
 
 *Written answer*
 
+**Q1033.** Octane burns in a limited supply of oxygen to form carbon monoxide and water only. In the balanced equation with the smallest whole-number coefficients, the coefficient of O₂ is:
+<!-- id: chem-1-2-c1 -->
+*Challenge question*
+
+- A. 25
+- B. 8.5
+- C. 17
+- D. 9
+
 #### Enthalpy and fuel energy calculations
 
-**Q1032.** Methane has ΔcH = −890 kJ mol⁻¹ (M = 16.0 g mol⁻¹). How much energy is released by the complete combustion of 32.0 g of methane?
+**Q1034.** Methane has ΔcH = −890 kJ mol⁻¹ (M = 16.0 g mol⁻¹). How much energy is released by the complete combustion of 32.0 g of methane?
 <!-- id: chem-1-3-1 -->
 
 - A. 1780 kJ
@@ -7360,7 +7378,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 445 kJ
 - D. 2.85 × 10⁴ kJ
 
-**Q1033.** Ethanol has a molar heat of combustion of 1364 kJ mol⁻¹ and M = 46.0 g mol⁻¹. Its heat of combustion per gram is
+**Q1035.** Ethanol has a molar heat of combustion of 1364 kJ mol⁻¹ and M = 46.0 g mol⁻¹. Its heat of combustion per gram is
 <!-- id: chem-1-3-2 -->
 
 - A. 0.0337 kJ g⁻¹
@@ -7368,7 +7386,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 6.27 × 10⁴ kJ g⁻¹
 - D. 1364 kJ g⁻¹
 
-**Q1034.** Octane has ΔcH = −5464 kJ mol⁻¹ (M = 114.0 g mol⁻¹). How much energy is released by burning 1.00 kg of octane?
+**Q1036.** Octane has ΔcH = −5464 kJ mol⁻¹ (M = 114.0 g mol⁻¹). How much energy is released by burning 1.00 kg of octane?
 <!-- id: chem-1-3-3 -->
 
 - A. 5.46 MJ
@@ -7376,12 +7394,12 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 47.9 MJ
 - D. 0.0479 MJ
 
-**Q1035.** Calculate the heat of combustion of propane in kJ g⁻¹, given ΔcH = −2220 kJ mol⁻¹ and M(C₃H₈) = 44.0 g mol⁻¹.
+**Q1037.** Calculate the heat of combustion of propane in kJ g⁻¹, given ΔcH = −2220 kJ mol⁻¹ and M(C₃H₈) = 44.0 g mol⁻¹.
 <!-- id: chem-1-3-4 -->
 
 *Written answer*
 
-**Q1036.** What mass of methane (ΔcH = −890 kJ mol⁻¹, M = 16.0 g mol⁻¹) must be burnt to release 2225 kJ of energy?
+**Q1038.** What mass of methane (ΔcH = −890 kJ mol⁻¹, M = 16.0 g mol⁻¹) must be burnt to release 2225 kJ of energy?
 <!-- id: chem-1-3-5 -->
 
 - A. 2.50 g
@@ -7389,7 +7407,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 139 g
 - D. 40.0 g
 
-**Q1037.** What volume of methane at SLC (24.8 L mol⁻¹) must be burnt to release 445 kJ of energy? ΔcH(CH₄) = −890 kJ mol⁻¹.
+**Q1039.** What volume of methane at SLC (24.8 L mol⁻¹) must be burnt to release 445 kJ of energy? ΔcH(CH₄) = −890 kJ mol⁻¹.
 <!-- id: chem-1-3-6 -->
 
 - A. 12.4 L
@@ -7397,7 +7415,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 11.2 L
 - D. 49.6 L
 
-**Q1038.** Propane has ΔcH = −2220 kJ mol⁻¹. How much energy is released when 10.0 L of propane, measured at SLC (24.8 L mol⁻¹), is burnt completely?
+**Q1040.** Propane has ΔcH = −2220 kJ mol⁻¹. How much energy is released when 10.0 L of propane, measured at SLC (24.8 L mol⁻¹), is burnt completely?
 <!-- id: chem-1-3-7 -->
 
 - A. 991 kJ
@@ -7405,12 +7423,12 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 505 kJ
 - D. 2.22 × 10⁴ kJ
 
-**Q1039.** Calculate the mass of CO₂ released per megajoule of energy produced by burning ethanol (ΔcH = −1364 kJ mol⁻¹).
+**Q1041.** Calculate the mass of CO₂ released per megajoule of energy produced by burning ethanol (ΔcH = −1364 kJ mol⁻¹).
 <!-- id: chem-1-3-8 -->
 
 *Written answer*
 
-**Q1040.** Given molar heats of combustion: H₂ 286, CH₄ 890, C₂H₅OH 1364 and C₈H₁₈ 5464 kJ mol⁻¹, which fuel releases the most energy per gram?
+**Q1042.** Given molar heats of combustion: H₂ 286, CH₄ 890, C₂H₅OH 1364 and C₈H₁₈ 5464 kJ mol⁻¹, which fuel releases the most energy per gram?
 <!-- id: chem-1-3-9 -->
 
 - A. Methane
@@ -7418,7 +7436,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. Hydrogen
 - D. Octane
 
-**Q1041.** Given molar heats of combustion: CH₄ 890, C₃H₈ 2220, C₂H₅OH 1364 and C₈H₁₈ 5464 kJ mol⁻¹, which fuel releases the most energy per mole of CO₂ produced?
+**Q1043.** Given molar heats of combustion: CH₄ 890, C₃H₈ 2220, C₂H₅OH 1364 and C₈H₁₈ 5464 kJ mol⁻¹, which fuel releases the most energy per mole of CO₂ produced?
 <!-- id: chem-1-3-10 -->
 
 - A. Propane
@@ -7426,7 +7444,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. Octane
 - D. Methane
 
-**Q1042.** How much energy is released by the complete combustion of 5.00 g of ethanol (ΔcH = −1364 kJ mol⁻¹, M = 46.0 g mol⁻¹)?
+**Q1044.** How much energy is released by the complete combustion of 5.00 g of ethanol (ΔcH = −1364 kJ mol⁻¹, M = 46.0 g mol⁻¹)?
 <!-- id: chem-1-3-11 -->
 
 - A. 148 kJ
@@ -7434,12 +7452,12 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 29.7 kJ
 - D. 1.25 × 10⁴ kJ
 
-**Q1043.** Calculate the volume of methane, measured at SLC (24.8 L mol⁻¹), that must be burnt to provide 10.0 MJ of energy. ΔcH(CH₄) = −890 kJ mol⁻¹.
+**Q1045.** Calculate the volume of methane, measured at SLC (24.8 L mol⁻¹), that must be burnt to provide 10.0 MJ of energy. ΔcH(CH₄) = −890 kJ mol⁻¹.
 <!-- id: chem-1-3-12 -->
 
 *Written answer*
 
-**Q1044.** Butane (M = 58.0 g mol⁻¹) releases 49.6 kJ of energy per gram on complete combustion. Its molar enthalpy of combustion is
+**Q1046.** Butane (M = 58.0 g mol⁻¹) releases 49.6 kJ of energy per gram on complete combustion. Its molar enthalpy of combustion is
 <!-- id: chem-1-3-13 -->
 
 - A. −49.6 kJ mol⁻¹
@@ -7447,7 +7465,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. −0.855 kJ mol⁻¹
 - D. +2.88 × 10³ kJ mol⁻¹
 
-**Q1045.** A car's 45.0 L petrol tank is filled with fuel modelled as octane (density 0.700 g mL⁻¹, M = 114.0 g mol⁻¹, ΔcH = −5464 kJ mol⁻¹). The energy available from a full tank is closest to
+**Q1047.** A car's 45.0 L petrol tank is filled with fuel modelled as octane (density 0.700 g mL⁻¹, M = 114.0 g mol⁻¹, ΔcH = −5464 kJ mol⁻¹). The energy available from a full tank is closest to
 <!-- id: chem-1-3-14 -->
 
 - A. 2.16 × 10⁶ kJ
@@ -7455,7 +7473,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 1.51 × 10⁶ kJ
 - D. 1.72 × 10⁸ kJ
 
-**Q1046.** C(s) + O₂(g) → CO₂(g), ΔH = −394 kJ mol⁻¹. How much energy is released by burning 6.0 g of carbon?
+**Q1048.** C(s) + O₂(g) → CO₂(g), ΔH = −394 kJ mol⁻¹. How much energy is released by burning 6.0 g of carbon?
 <!-- id: chem-1-3-15 -->
 
 - A. 394 kJ
@@ -7463,12 +7481,12 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 65.7 kJ
 - D. 197 kJ
 
-**Q1047.** A 9.0 kg barbecue gas cylinder contains propane (M = 44.0 g mol⁻¹, ΔcH = −2220 kJ mol⁻¹). Calculate the energy, in MJ, released by complete combustion of all the propane.
+**Q1049.** A 9.0 kg barbecue gas cylinder contains propane (M = 44.0 g mol⁻¹, ΔcH = −2220 kJ mol⁻¹). Calculate the energy, in MJ, released by complete combustion of all the propane.
 <!-- id: chem-1-3-16 -->
 
 *Written answer*
 
-**Q1048.** Brown coal is modelled as pure carbon (ΔcH = −394 kJ mol⁻¹). How much energy is released by burning 1.00 tonne of this coal?
+**Q1050.** Brown coal is modelled as pure carbon (ΔcH = −394 kJ mol⁻¹). How much energy is released by burning 1.00 tonne of this coal?
 <!-- id: chem-1-3-17 -->
 
 - A. 3.28 × 10⁷ kJ
@@ -7476,7 +7494,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 3.28 × 10⁴ kJ
 - D. 4.73 × 10³ kJ
 
-**Q1049.** What mass of CO₂ is released per megajoule of energy obtained from burning methane (ΔcH = −890 kJ mol⁻¹)?
+**Q1051.** What mass of CO₂ is released per megajoule of energy obtained from burning methane (ΔcH = −890 kJ mol⁻¹)?
 <!-- id: chem-1-3-18 -->
 
 - A. 44.0 g
@@ -7484,7 +7502,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 20.2 g
 - D. 3.92 × 10⁴ g
 
-**Q1050.** How much energy is released when 0.250 mol of octane (ΔcH = −5464 kJ mol⁻¹) burns completely?
+**Q1052.** How much energy is released when 0.250 mol of octane (ΔcH = −5464 kJ mol⁻¹) burns completely?
 <!-- id: chem-1-3-19 -->
 
 - A. 2.19 × 10⁴ kJ
@@ -7492,12 +7510,12 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 1.37 × 10³ kJ
 - D. 2.73 × 10³ kJ
 
-**Q1051.** What mass of ethanol (ΔcH = −1364 kJ mol⁻¹, M = 46.0) releases the same energy as 1.00 g of octane (ΔcH = −5464 kJ mol⁻¹, M = 114.0)?
+**Q1053.** What mass of ethanol (ΔcH = −1364 kJ mol⁻¹, M = 46.0) releases the same energy as 1.00 g of octane (ΔcH = −5464 kJ mol⁻¹, M = 114.0)?
 <!-- id: chem-1-3-20 -->
 
 *Written answer*
 
-**Q1052.** For 2C₈H₁₈(l) + 25O₂(g) → 16CO₂(g) + 18H₂O(l), ΔH = −10 928 kJ mol⁻¹. The molar enthalpy of combustion of octane is
+**Q1054.** For 2C₈H₁₈(l) + 25O₂(g) → 16CO₂(g) + 18H₂O(l), ΔH = −10 928 kJ mol⁻¹. The molar enthalpy of combustion of octane is
 <!-- id: chem-1-3-21 -->
 
 - A. −10 928 kJ mol⁻¹
@@ -7505,7 +7523,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. −21 856 kJ mol⁻¹
 - D. −5464 kJ mol⁻¹
 
-**Q1053.** A sample of biogas is 60.0% methane by volume, the rest being CO₂. How much energy is released when 100 L of this biogas at SLC (24.8 L mol⁻¹) burns completely? ΔcH(CH₄) = −890 kJ mol⁻¹.
+**Q1055.** A sample of biogas is 60.0% methane by volume, the rest being CO₂. How much energy is released when 100 L of this biogas at SLC (24.8 L mol⁻¹) burns completely? ΔcH(CH₄) = −890 kJ mol⁻¹.
 <!-- id: chem-1-3-22 -->
 
 - A. 2.15 × 10³ kJ
@@ -7513,7 +7531,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 1.44 × 10³ kJ
 - D. 2.38 × 10³ kJ
 
-**Q1054.** A hydrogen fuel cell bus in Melbourne needs 2.86 × 10⁵ kJ of energy. Assuming ΔcH(H₂) = −286 kJ mol⁻¹ and 100% efficiency, what mass of hydrogen is required?
+**Q1056.** A hydrogen fuel cell bus in Melbourne needs 2.86 × 10⁵ kJ of energy. Assuming ΔcH(H₂) = −286 kJ mol⁻¹ and 100% efficiency, what mass of hydrogen is required?
 <!-- id: chem-1-3-23 -->
 
 - A. 1.00 kg
@@ -7521,17 +7539,17 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 286 g
 - D. 1.00 × 10³ kg
 
-**Q1055.** Calculate the mass of hydrogen gas that must be burnt to release 1.00 MJ of energy. ΔcH(H₂) = −286 kJ mol⁻¹.
+**Q1057.** Calculate the mass of hydrogen gas that must be burnt to release 1.00 MJ of energy. ΔcH(H₂) = −286 kJ mol⁻¹.
 <!-- id: chem-1-3-24 -->
 
 *Written answer*
 
-**Q1056.** Explain why the energy released per gram (or per kilogram) is often more useful than the energy per mole when comparing fuels for vehicles.
+**Q1058.** Explain why the energy released per gram (or per kilogram) is often more useful than the energy per mole when comparing fuels for vehicles.
 <!-- id: chem-1-3-25 -->
 
 *Written answer*
 
-**Q1057.** In an energy profile diagram for an exothermic reaction,
+**Q1059.** In an energy profile diagram for an exothermic reaction,
 <!-- id: chem34a1-eep-1 -->
 
 - A. the products are at a higher enthalpy than the reactants.
@@ -7539,7 +7557,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. there is no activation energy.
 - D. the activation energy equals ΔH.
 
-**Q1058.** An energy profile shows reactants at 50 kJ mol⁻¹, the transition state at 230 kJ mol⁻¹ and products at 140 kJ mol⁻¹. The activation energy for the forward reaction and ΔH are respectively
+**Q1060.** An energy profile shows reactants at 50 kJ mol⁻¹, the transition state at 230 kJ mol⁻¹ and products at 140 kJ mol⁻¹. The activation energy for the forward reaction and ΔH are respectively
 <!-- id: chem34a1-eep-2 -->
 
 - A. 180 kJ mol⁻¹ and +90 kJ mol⁻¹
@@ -7547,7 +7565,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 230 kJ mol⁻¹ and +140 kJ mol⁻¹
 - D. 180 kJ mol⁻¹ and −90 kJ mol⁻¹
 
-**Q1059.** For the reaction in which reactants are at 50 kJ mol⁻¹, the transition state at 230 kJ mol⁻¹ and products at 140 kJ mol⁻¹, the activation energy of the reverse reaction is
+**Q1061.** For the reaction in which reactants are at 50 kJ mol⁻¹, the transition state at 230 kJ mol⁻¹ and products at 140 kJ mol⁻¹, the activation energy of the reverse reaction is
 <!-- id: chem34a1-eep-3 -->
 
 - A. 180 kJ mol⁻¹
@@ -7555,7 +7573,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 90 kJ mol⁻¹
 - D. 140 kJ mol⁻¹
 
-**Q1060.** A cold pack contains ammonium nitrate that dissolves in water and the pack becomes cold. Which statement is correct?
+**Q1062.** A cold pack contains ammonium nitrate that dissolves in water and the pack becomes cold. Which statement is correct?
 <!-- id: chem34a1-eep-4 -->
 
 - A. The process is exothermic because heat leaves the pack.
@@ -7563,7 +7581,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. The process has a negative ΔH because the temperature falls.
 - D. The process is endothermic; the system absorbs energy from the surroundings, so ΔH is positive.
 
-**Q1061.** Breaking chemical bonds in reactants and forming bonds in products are, respectively,
+**Q1063.** Breaking chemical bonds in reactants and forming bonds in products are, respectively,
 <!-- id: chem34a1-eep-5 -->
 
 - A. exothermic and endothermic.
@@ -7571,22 +7589,22 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. both exothermic.
 - D. both endothermic.
 
-**Q1062.** Sketch (describe in words) a labelled energy profile for the complete combustion of methane, ΔH = −890 kJ mol⁻¹, assuming an activation energy of 250 kJ mol⁻¹. State the activation energy of the reverse reaction. (3 marks)
+**Q1064.** Sketch (describe in words) a labelled energy profile for the complete combustion of methane, ΔH = −890 kJ mol⁻¹, assuming an activation energy of 250 kJ mol⁻¹. State the activation energy of the reverse reaction. (3 marks)
 <!-- id: chem34a1-eep-6 -->
 
 *Written answer*
 
-**Q1063.** Methane burns very exothermically, yet a mixture of methane and air can sit unreacted at room temperature indefinitely. Explain this using the concept of activation energy. (2 marks)
+**Q1065.** Methane burns very exothermically, yet a mixture of methane and air can sit unreacted at room temperature indefinitely. Explain this using the concept of activation energy. (2 marks)
 <!-- id: chem34a1-eep-7 -->
 
 *Written answer*
 
-**Q1064.** Hydrogen and oxygen react: 2H₂(g) + O₂(g) → 2H₂O(g). Bond energies: H–H 436 kJ mol⁻¹, O=O 498 kJ mol⁻¹, O–H 463 kJ mol⁻¹. Estimate ΔH for this reaction. (3 marks)
+**Q1066.** Hydrogen and oxygen react: 2H₂(g) + O₂(g) → 2H₂O(g). Bond energies: H–H 436 kJ mol⁻¹, O=O 498 kJ mol⁻¹, O–H 463 kJ mol⁻¹. Estimate ΔH for this reaction. (3 marks)
 <!-- id: chem34a1-eep-8 -->
 
 *Written answer*
 
-**Q1065.** What volume of carbon dioxide at SLC is produced when 10.0 g of propane (M = 44.0 g mol⁻¹) burns completely?
+**Q1067.** What volume of carbon dioxide at SLC is produced when 10.0 g of propane (M = 44.0 g mol⁻¹) burns completely?
 <!-- id: chem34a1-gse-1 -->
 
 - A. 5.64 L
@@ -7594,7 +7612,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 22.7 L
 - D. 248 L
 
-**Q1066.** How much energy is released when 50.0 L of methane at SLC burns completely? (ΔcH = −890 kJ mol⁻¹)
+**Q1068.** How much energy is released when 50.0 L of methane at SLC burns completely? (ΔcH = −890 kJ mol⁻¹)
 <!-- id: chem34a1-gse-2 -->
 
 - A. 4.45 × 10⁴ kJ
@@ -7602,7 +7620,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 890 kJ
 - D. 1.79 × 10³ kJ
 
-**Q1067.** A 2.00 L gas cylinder holds hydrogen at 150 kPa and 35 °C. The amount of hydrogen in the cylinder is
+**Q1069.** A 2.00 L gas cylinder holds hydrogen at 150 kPa and 35 °C. The amount of hydrogen in the cylinder is
 <!-- id: chem34a1-gse-3 -->
 
 - A. 0.117 mol
@@ -7610,7 +7628,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 0.0806 mol
 - D. 8.57 mol
 
-**Q1068.** At SLC, what volume of oxygen is needed to completely burn 6.20 L of ethane? 2C₂H₆(g) + 7O₂(g) → 4CO₂(g) + 6H₂O(l)
+**Q1070.** At SLC, what volume of oxygen is needed to completely burn 6.20 L of ethane? 2C₂H₆(g) + 7O₂(g) → 4CO₂(g) + 6H₂O(l)
 <!-- id: chem34a1-gse-4 -->
 
 - A. 6.20 L
@@ -7618,7 +7636,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 21.7 L
 - D. 43.4 L
 
-**Q1069.** Ethanol releases 29.6 kJ g⁻¹ and octane releases 47.9 kJ g⁻¹. What mass of ethanol releases the same energy as 1.00 kg of octane?
+**Q1071.** Ethanol releases 29.6 kJ g⁻¹ and octane releases 47.9 kJ g⁻¹. What mass of ethanol releases the same energy as 1.00 kg of octane?
 <!-- id: chem34a1-gse-5 -->
 
 - A. 618 g
@@ -7626,24 +7644,30 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 1.62 kg
 - D. 1.42 kg
 
-**Q1070.** A household barbecue uses 450 g of propane per hour (ΔcH = −2220 kJ mol⁻¹). Calculate (a) the energy released per hour and (b) the volume of CO₂ produced per hour at SLC. (3 marks)
+**Q1072.** A household barbecue uses 450 g of propane per hour (ΔcH = −2220 kJ mol⁻¹). Calculate (a) the energy released per hour and (b) the volume of CO₂ produced per hour at SLC. (3 marks)
 <!-- id: chem34a1-gse-6 -->
 
 *Written answer*
 
-**Q1071.** A gas sample of methane occupies 5.00 L at 25 °C and 100 kPa. It is burnt in a water heater that is 65.0% efficient at transferring energy to water. Calculate the energy transferred to the water. (ΔcH(CH₄) = −890 kJ mol⁻¹) (3 marks)
+**Q1073.** A gas sample of methane occupies 5.00 L at 25 °C and 100 kPa. It is burnt in a water heater that is 65.0% efficient at transferring energy to water. Calculate the energy transferred to the water. (ΔcH(CH₄) = −890 kJ mol⁻¹) (3 marks)
 <!-- id: chem34a1-gse-7 -->
 
 *Written answer*
 
-**Q1072.** Hydrogen (ΔcH = −286 kJ mol⁻¹) and methane (ΔcH = −890 kJ mol⁻¹) are compared as fuels. Calculate the energy released per litre of each gas at SLC and comment on one implication for storing hydrogen. (3 marks)
+**Q1074.** Hydrogen (ΔcH = −286 kJ mol⁻¹) and methane (ΔcH = −890 kJ mol⁻¹) are compared as fuels. Calculate the energy released per litre of each gas at SLC and comment on one implication for storing hydrogen. (3 marks)
 <!-- id: chem34a1-gse-8 -->
+
+*Written answer*
+
+**Q1075.** Methane has ΔH = −890 kJ/mol. Calculate the energy released when 10.0 L of methane, measured at SLC, burns completely.
+<!-- id: chem-1-3-c1 -->
+*Challenge question*
 
 *Written answer*
 
 #### Calorimetry and specific heat capacity
 
-**Q1073.** How much energy is needed to heat 250 g of water from 20.0 °C to 80.0 °C? (c = 4.18 J g⁻¹ °C⁻¹)
+**Q1076.** How much energy is needed to heat 250 g of water from 20.0 °C to 80.0 °C? (c = 4.18 J g⁻¹ °C⁻¹)
 <!-- id: chem-1-4-1 -->
 
 - A. 62.7 kJ
@@ -7651,7 +7675,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 20.9 kJ
 - D. 15.0 kJ
 
-**Q1074.** The specific heat capacity of a substance is the energy required to
+**Q1077.** The specific heat capacity of a substance is the energy required to
 <!-- id: chem-1-4-2 -->
 
 - A. raise the temperature of 1 mol of the substance by 1 °C
@@ -7659,7 +7683,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. melt 1 g of the substance
 - D. raise the temperature of the whole calorimeter by 1 °C
 
-**Q1075.** Water has an unusually high specific heat capacity mainly because
+**Q1078.** Water has an unusually high specific heat capacity mainly because
 <!-- id: chem-1-4-3 -->
 
 - A. water molecules are very large
@@ -7667,12 +7691,12 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. extensive hydrogen bonding between molecules absorbs energy before the molecules move faster
 - D. water molecules are non-polar
 
-**Q1076.** A calorimeter is calibrated with a heater operating at 5.00 V and 3.00 A for 120 s. The temperature rises by 0.750 °C. Calculate the calibration factor.
+**Q1079.** A calorimeter is calibrated with a heater operating at 5.00 V and 3.00 A for 120 s. The temperature rises by 0.750 °C. Calculate the calibration factor.
 <!-- id: chem-1-4-4 -->
 
 *Written answer*
 
-**Q1077.** A calorimeter is calibrated by passing a current of 2.50 A at 6.00 V for 180 s, and the temperature rises by 1.35 °C. The calibration factor is
+**Q1080.** A calorimeter is calibrated by passing a current of 2.50 A at 6.00 V for 180 s, and the temperature rises by 1.35 °C. The calibration factor is
 <!-- id: chem-1-4-5 -->
 
 - A. 3.65 × 10³ J °C⁻¹
@@ -7680,7 +7704,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 15.0 J °C⁻¹
 - D. 2.00 × 10³ J °C⁻¹
 
-**Q1078.** A calorimeter has a calibration factor of 3.50 kJ °C⁻¹. A reaction raises its temperature by 4.20 °C. The energy released by the reaction is
+**Q1081.** A calorimeter has a calibration factor of 3.50 kJ °C⁻¹. A reaction raises its temperature by 4.20 °C. The energy released by the reaction is
 <!-- id: chem-1-4-6 -->
 
 - A. 14.7 kJ
@@ -7688,7 +7712,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 1.20 kJ
 - D. 7.70 kJ
 
-**Q1079.** In a spirit-burner experiment, burning 0.460 g of ethanol (M = 46.0 g mol⁻¹) heats 200 g of water by 12.0 °C. Ignoring heat losses, the experimental molar enthalpy of combustion of ethanol is
+**Q1082.** In a spirit-burner experiment, burning 0.460 g of ethanol (M = 46.0 g mol⁻¹) heats 200 g of water by 12.0 °C. Ignoring heat losses, the experimental molar enthalpy of combustion of ethanol is
 <!-- id: chem-1-4-7 -->
 
 - A. −10.0 kJ mol⁻¹
@@ -7696,12 +7720,12 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. −21.8 kJ mol⁻¹
 - D. −1.36 × 10³ kJ mol⁻¹
 
-**Q1080.** Burning 1.15 g of ethanol (M = 46.0 g mol⁻¹) in a calorimeter with a calibration factor of 4.25 kJ °C⁻¹ raises the temperature by 6.80 °C. Calculate the experimental molar enthalpy of combustion of ethanol.
+**Q1083.** Burning 1.15 g of ethanol (M = 46.0 g mol⁻¹) in a calorimeter with a calibration factor of 4.25 kJ °C⁻¹ raises the temperature by 6.80 °C. Calculate the experimental molar enthalpy of combustion of ethanol.
 <!-- id: chem-1-4-8 -->
 
 *Written answer*
 
-**Q1081.** A student's experimental value for the heat of combustion of ethanol using a spirit burner and a metal can of water is much lower than the data book value. The most likely reason is
+**Q1084.** A student's experimental value for the heat of combustion of ethanol using a spirit burner and a metal can of water is much lower than the data book value. The most likely reason is
 <!-- id: chem-1-4-9 -->
 
 - A. the water had too high a specific heat capacity
@@ -7709,7 +7733,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. significant heat is lost to the surroundings rather than absorbed by the water
 - D. the thermometer read the temperature too high
 
-**Q1082.** Which change would most improve the accuracy of a spirit-burner experiment to determine the heat of combustion of a fuel?
+**Q1085.** Which change would most improve the accuracy of a spirit-burner experiment to determine the heat of combustion of a fuel?
 <!-- id: chem-1-4-10 -->
 
 - A. Using a larger flame placed further from the can
@@ -7717,7 +7741,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. Measuring the mass of the burner only before burning
 - D. Using a draught shield and insulating lid around the can
 
-**Q1083.** When 4.00 g of ammonium nitrate (M = 80.0 g mol⁻¹) dissolves in 100 g of water, the temperature falls by 3.10 °C. Assuming c = 4.18 J g⁻¹ °C⁻¹ for the solution, ΔH for dissolving ammonium nitrate is
+**Q1086.** When 4.00 g of ammonium nitrate (M = 80.0 g mol⁻¹) dissolves in 100 g of water, the temperature falls by 3.10 °C. Assuming c = 4.18 J g⁻¹ °C⁻¹ for the solution, ΔH for dissolving ammonium nitrate is
 <!-- id: chem-1-4-11 -->
 
 - A. +25.9 kJ mol⁻¹
@@ -7725,12 +7749,12 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. +1.30 kJ mol⁻¹
 - D. +0.324 kJ mol⁻¹
 
-**Q1084.** Explain why using an electrically determined calibration factor gives a more accurate result than using q = mcΔT with only the mass of water.
+**Q1087.** Explain why using an electrically determined calibration factor gives a more accurate result than using q = mcΔT with only the mass of water.
 <!-- id: chem-1-4-12 -->
 
 *Written answer*
 
-**Q1085.** If 5.00 kJ of energy is absorbed by 500 g of water, the temperature rise is (c = 4.18 J g⁻¹ °C⁻¹)
+**Q1088.** If 5.00 kJ of energy is absorbed by 500 g of water, the temperature rise is (c = 4.18 J g⁻¹ °C⁻¹)
 <!-- id: chem-1-4-13 -->
 
 - A. 0.418 °C
@@ -7738,7 +7762,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 10.0 °C
 - D. 2.39 × 10⁻³ °C
 
-**Q1086.** Equal masses of water (c = 4.18 J g⁻¹ °C⁻¹) and ethanol (c = 2.44 J g⁻¹ °C⁻¹) each absorb the same amount of energy. Which statement is correct?
+**Q1089.** Equal masses of water (c = 4.18 J g⁻¹ °C⁻¹) and ethanol (c = 2.44 J g⁻¹ °C⁻¹) each absorb the same amount of energy. Which statement is correct?
 <!-- id: chem-1-4-14 -->
 
 - A. The water has the larger temperature increase
@@ -7746,7 +7770,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. The ethanol has the larger temperature increase
 - D. Neither changes temperature because the energy is used in bonding
 
-**Q1087.** A bomb calorimeter differs from a simple solution calorimeter because a bomb calorimeter
+**Q1090.** A bomb calorimeter differs from a simple solution calorimeter because a bomb calorimeter
 <!-- id: chem-1-4-15 -->
 
 - A. is open to the atmosphere
@@ -7754,12 +7778,12 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. does not need to be calibrated
 - D. burns the sample in a sealed steel vessel with excess oxygen
 
-**Q1088.** Identify two sources of error in a spirit-burner experiment to measure the heat of combustion of ethanol, and state the effect of each on the calculated value.
+**Q1091.** Identify two sources of error in a spirit-burner experiment to measure the heat of combustion of ethanol, and state the effect of each on the calculated value.
 <!-- id: chem-1-4-16 -->
 
 *Written answer*
 
-**Q1089.** The main purpose of electrically calibrating a calorimeter is to
+**Q1092.** The main purpose of electrically calibrating a calorimeter is to
 <!-- id: chem-1-4-17 -->
 
 - A. determine how much energy is needed to raise the temperature of the whole calorimeter and its contents by 1 °C
@@ -7767,7 +7791,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. remove the need to measure temperature changes
 - D. speed up the chemical reaction
 
-**Q1090.** A 50.0 g block of metal absorbs 450 J of energy and its temperature rises by 20.0 °C. The specific heat capacity of the metal is
+**Q1093.** A 50.0 g block of metal absorbs 450 J of energy and its temperature rises by 20.0 °C. The specific heat capacity of the metal is
 <!-- id: chem-1-4-18 -->
 
 - A. 2.22 J g⁻¹ °C⁻¹
@@ -7775,7 +7799,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 1.13 J g⁻¹ °C⁻¹
 - D. 4.18 J g⁻¹ °C⁻¹
 
-**Q1091.** A bomb calorimeter with a calibration factor of 9.80 kJ °C⁻¹ is used to burn 0.320 g of methanol (M = 32.0 g mol⁻¹). The temperature rises by 0.740 °C. The experimental ΔcH of methanol is
+**Q1094.** A bomb calorimeter with a calibration factor of 9.80 kJ °C⁻¹ is used to burn 0.320 g of methanol (M = 32.0 g mol⁻¹). The temperature rises by 0.740 °C. The experimental ΔcH of methanol is
 <!-- id: chem-1-4-19 -->
 
 - A. −7.25 kJ mol⁻¹
@@ -7783,12 +7807,12 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. −725 kJ mol⁻¹
 - D. −13.2 kJ mol⁻¹
 
-**Q1092.** 50.0 mL of 1.00 M HCl is mixed with 50.0 mL of 1.00 M NaOH in a polystyrene cup and the temperature rises by 6.70 °C. Assuming the solution has a mass of 100 g and c = 4.18 J g⁻¹ °C⁻¹, calculate ΔH for the neutralisation per mole of water formed.
+**Q1095.** 50.0 mL of 1.00 M HCl is mixed with 50.0 mL of 1.00 M NaOH in a polystyrene cup and the temperature rises by 6.70 °C. Assuming the solution has a mass of 100 g and c = 4.18 J g⁻¹ °C⁻¹, calculate ΔH for the neutralisation per mole of water formed.
 <!-- id: chem-1-4-20 -->
 
 *Written answer*
 
-**Q1093.** A 2.00 g sample of a muesli bar is burnt and heats 100 g of water by 24.0 °C. Ignoring heat losses, the energy content of the bar is
+**Q1096.** A 2.00 g sample of a muesli bar is burnt and heats 100 g of water by 24.0 °C. Ignoring heat losses, the energy content of the bar is
 <!-- id: chem-1-4-21 -->
 
 - A. 10.0 kJ g⁻¹
@@ -7796,7 +7820,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 0.502 kJ g⁻¹
 - D. 5.02 kJ g⁻¹
 
-**Q1094.** In a solution calorimeter, the temperature of the solution rises during a reaction. Which statement is correct?
+**Q1097.** In a solution calorimeter, the temperature of the solution rises during a reaction. Which statement is correct?
 <!-- id: chem-1-4-22 -->
 
 - A. The reaction is exothermic and ΔH is negative
@@ -7804,7 +7828,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. The reaction is exothermic and ΔH is positive
 - D. The reaction is endothermic and ΔH is positive
 
-**Q1095.** A student's experiment gives the heat of combustion of ethanol as 820 kJ mol⁻¹, whereas the accepted value is 1364 kJ mol⁻¹. The percentage of the energy released that was captured by the water is closest to
+**Q1098.** A student's experiment gives the heat of combustion of ethanol as 820 kJ mol⁻¹, whereas the accepted value is 1364 kJ mol⁻¹. The percentage of the energy released that was captured by the water is closest to
 <!-- id: chem-1-4-23 -->
 
 - A. 39.9%
@@ -7812,17 +7836,17 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 166%
 - D. 82.0%
 
-**Q1096.** 0.200 g of methane (M = 16.0 g mol⁻¹, ΔcH = −890 kJ mol⁻¹) is burnt under a beaker containing 300 g of water. If only 70.0% of the energy released is absorbed by the water, calculate the temperature rise of the water.
+**Q1099.** 0.200 g of methane (M = 16.0 g mol⁻¹, ΔcH = −890 kJ mol⁻¹) is burnt under a beaker containing 300 g of water. If only 70.0% of the energy released is absorbed by the water, calculate the temperature rise of the water.
 <!-- id: chem-1-4-24 -->
 
 *Written answer*
 
-**Q1097.** Explain why a lid and a stirrer are used in a simple polystyrene-cup calorimeter.
+**Q1100.** Explain why a lid and a stirrer are used in a simple polystyrene-cup calorimeter.
 <!-- id: chem-1-4-25 -->
 
 *Written answer*
 
-**Q1098.** A solution calorimeter is calibrated by passing a current of 2.50 A at 6.00 V for 120 s. The temperature rises by 1.25 °C. The calibration factor is
+**Q1101.** A solution calorimeter is calibrated by passing a current of 2.50 A at 6.00 V for 120 s. The temperature rises by 1.25 °C. The calibration factor is
 <!-- id: chem34a1-cal-1 -->
 
 - A. 1.44 J °C⁻¹
@@ -7830,7 +7854,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 2250 J °C⁻¹
 - D. 1800 J °C⁻¹
 
-**Q1099.** Why is electrical calibration of a calorimeter preferred over simply using mass × 4.18 × ΔT?
+**Q1102.** Why is electrical calibration of a calorimeter preferred over simply using mass × 4.18 × ΔT?
 <!-- id: chem34a1-cal-2 -->
 
 - A. It accounts for energy absorbed by the calorimeter itself (container, thermometer, stirrer) and some heat loss.
@@ -7838,7 +7862,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. It removes the need to measure temperature.
 - D. It increases the specific heat capacity of water.
 
-**Q1100.** A student burns 0.500 g of ethanol in a spirit burner under a can holding 150.0 g of water, and the water temperature rises by 18.5 °C. The experimental heat of combustion of ethanol (M = 46.0 g mol⁻¹) is closest to
+**Q1103.** A student burns 0.500 g of ethanol in a spirit burner under a can holding 150.0 g of water, and the water temperature rises by 18.5 °C. The experimental heat of combustion of ethanol (M = 46.0 g mol⁻¹) is closest to
 <!-- id: chem34a1-cal-3 -->
 
 - A. −11.6 kJ mol⁻¹
@@ -7846,7 +7870,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. −1.07 × 10³ kJ mol⁻¹
 - D. −1.36 × 10³ kJ mol⁻¹
 
-**Q1101.** In a spirit burner experiment the experimental heat of combustion is much less than the data book value. Which is the most likely cause?
+**Q1104.** In a spirit burner experiment the experimental heat of combustion is much less than the data book value. Which is the most likely cause?
 <!-- id: chem34a1-cal-4 -->
 
 - A. The thermometer was read too quickly.
@@ -7854,7 +7878,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. Heat was lost to the surroundings and the can, and some combustion was incomplete.
 - D. The water had a higher specific heat capacity than 4.18 J g⁻¹ °C⁻¹.
 
-**Q1102.** A bomb calorimeter has a calibration factor of 8.62 kJ °C⁻¹. When 1.20 g of a fuel is burnt, the temperature rises by 5.80 °C. The heat of combustion of the fuel in kJ g⁻¹ is
+**Q1105.** A bomb calorimeter has a calibration factor of 8.62 kJ °C⁻¹. When 1.20 g of a fuel is burnt, the temperature rises by 5.80 °C. The heat of combustion of the fuel in kJ g⁻¹ is
 <!-- id: chem34a1-cal-5 -->
 
 - A. 41.7
@@ -7862,18 +7886,24 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 60.0
 - D. 8.62
 
-**Q1103.** A calorimeter with a calibration factor of 420 J °C⁻¹ contains 100.0 mL of 1.00 M HCl. 100.0 mL of 1.00 M NaOH is added and the temperature rises by 13.6 °C. Calculate ΔH for H⁺(aq) + OH⁻(aq) → H₂O(l). (3 marks)
+**Q1106.** A calorimeter with a calibration factor of 420 J °C⁻¹ contains 100.0 mL of 1.00 M HCl. 100.0 mL of 1.00 M NaOH is added and the temperature rises by 13.6 °C. Calculate ΔH for H⁺(aq) + OH⁻(aq) → H₂O(l). (3 marks)
 <!-- id: chem34a1-cal-6 -->
 
 *Written answer*
 
-**Q1104.** Explain why the calibration factor must be redetermined if the volume of water in a solution calorimeter is changed. (2 marks)
+**Q1107.** Explain why the calibration factor must be redetermined if the volume of water in a solution calorimeter is changed. (2 marks)
 <!-- id: chem34a1-cal-7 -->
 
 *Written answer*
 
-**Q1105.** A student's temperature–time graph for a calorimetry experiment shows the temperature peaking and then slowly falling. Describe how the student should determine ΔT and why. (2 marks)
+**Q1108.** A student's temperature–time graph for a calorimetry experiment shows the temperature peaking and then slowly falling. Describe how the student should determine ΔT and why. (2 marks)
 <!-- id: chem34a1-cal-8 -->
+
+*Written answer*
+
+**Q1109.** Burning 0.500 g of ethanol (M = 46.0 g/mol) heats 100.0 g of water from 20.0 °C to 45.0 °C. Calculate the experimental molar enthalpy of combustion, and explain why its size is smaller than the data-book value (−1364 kJ/mol).
+<!-- id: chem-1-4-c1 -->
+*Challenge question*
 
 *Written answer*
 
@@ -7881,7 +7911,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 
 #### Electrochemical series
 
-**Q1106.** Using the electrochemical series, which species is the strongest oxidising agent?
+**Q1110.** Using the electrochemical series, which species is the strongest oxidising agent?
 <!-- id: chem34a1-ecs-1 -->
 
 - A. Li⁺(aq)
@@ -7889,7 +7919,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. Zn(s)
 - D. Ag⁺(aq)
 
-**Q1107.** A strip of nickel is placed in each of the following 1.0 M solutions. In which will a reaction occur?
+**Q1111.** A strip of nickel is placed in each of the following 1.0 M solutions. In which will a reaction occur?
 <!-- id: chem34a1-ecs-2 -->
 
 - A. Zn²⁺(aq)
@@ -7897,7 +7927,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. Mg²⁺(aq)
 - D. Al³⁺(aq)
 
-**Q1108.** Which metal would NOT react with 1.0 M hydrochloric acid at SLC?
+**Q1112.** Which metal would NOT react with 1.0 M hydrochloric acid at SLC?
 <!-- id: chem34a1-ecs-3 -->
 
 - A. Copper
@@ -7905,7 +7935,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. Zinc
 - D. Magnesium
 
-**Q1109.** A predicted reaction using the electrochemical series may not be observed in practice because
+**Q1113.** A predicted reaction using the electrochemical series may not be observed in practice because
 <!-- id: chem34a1-ecs-4 -->
 
 - A. E° values change sign at higher temperatures.
@@ -7913,7 +7943,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. the series applies only to reactions involving gases.
 - D. reactions between metals and ions never occur in solution.
 
-**Q1110.** Iron(II) ions can act as both an oxidising agent and a reducing agent. Which pair of half-equations shows this?
+**Q1114.** Iron(II) ions can act as both an oxidising agent and a reducing agent. Which pair of half-equations shows this?
 <!-- id: chem34a1-ecs-5 -->
 
 - A. Fe²⁺(aq) + 2e⁻ → Fe(s) and Fe²⁺(aq) → Fe³⁺(aq) + e⁻
@@ -7921,24 +7951,33 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. Fe(s) → Fe²⁺(aq) + 2e⁻ and Fe(s) → Fe³⁺(aq) + 3e⁻
 - D. Fe²⁺(aq) + 2e⁻ → Fe(s) and Fe³⁺(aq) + e⁻ → Fe²⁺(aq)
 
-**Q1111.** A student adds zinc powder to a blue copper(II) sulfate solution. Predict what is observed, and write the oxidation and reduction half-equations and the overall equation. (3 marks)
+**Q1115.** A student adds zinc powder to a blue copper(II) sulfate solution. Predict what is observed, and write the oxidation and reduction half-equations and the overall equation. (3 marks)
 <!-- id: chem34a1-ecs-6 -->
 
 *Written answer*
 
-**Q1112.** Three metals X, Y and Z are tested. X displaces Y from a solution of Y²⁺ ions; Z displaces X from a solution of X²⁺ ions; Y does not react with Z²⁺ ions. List the metals in order of increasing strength as reducing agents and justify. (2 marks)
+**Q1116.** Three metals X, Y and Z are tested. X displaces Y from a solution of Y²⁺ ions; Z displaces X from a solution of X²⁺ ions; Y does not react with Z²⁺ ions. List the metals in order of increasing strength as reducing agents and justify. (2 marks)
 <!-- id: chem34a1-ecs-7 -->
 
 *Written answer*
 
-**Q1113.** Explain why bromine water can oxidise iodide ions but cannot oxidise chloride ions. Refer to E° values (Cl₂/Cl⁻ +1.36 V, Br₂/Br⁻ +1.09 V, I₂/I⁻ +0.54 V). (2 marks)
+**Q1117.** Explain why bromine water can oxidise iodide ions but cannot oxidise chloride ions. Refer to E° values (Cl₂/Cl⁻ +1.36 V, Br₂/Br⁻ +1.09 V, I₂/I⁻ +0.54 V). (2 marks)
 <!-- id: chem34a1-ecs-8 -->
 
 *Written answer*
 
+**Q1118.** Using the electrochemical series, which metal can reduce Fe³⁺(aq) to Fe²⁺(aq) but cannot reduce Fe²⁺(aq) to Fe(s)?
+<!-- id: chem-2-1-c1 -->
+*Challenge question*
+
+- A. Zinc
+- B. Magnesium
+- C. Copper
+- D. Silver
+
 #### Galvanic cells
 
-**Q1114.** In a galvanic cell made from a Zn/Zn²⁺ half-cell and a Cu/Cu²⁺ half-cell under standard conditions, the cathode and the maximum cell voltage are
+**Q1119.** In a galvanic cell made from a Zn/Zn²⁺ half-cell and a Cu/Cu²⁺ half-cell under standard conditions, the cathode and the maximum cell voltage are
 <!-- id: chem34a1-gc-1 -->
 
 - A. zinc, 1.10 V
@@ -7946,7 +7985,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. copper, 0.42 V
 - D. copper, 1.10 V
 
-**Q1115.** In a galvanic cell, electrons flow
+**Q1120.** In a galvanic cell, electrons flow
 <!-- id: chem34a1-gc-2 -->
 
 - A. from the cathode to the anode through the salt bridge.
@@ -7954,7 +7993,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. from the cathode to the anode through the external circuit.
 - D. from the anode to the cathode through the salt bridge.
 
-**Q1116.** A salt bridge soaked in KNO₃(aq) connects the half-cells of a galvanic cell. During operation,
+**Q1121.** A salt bridge soaked in KNO₃(aq) connects the half-cells of a galvanic cell. During operation,
 <!-- id: chem34a1-gc-3 -->
 
 - A. K⁺ ions move toward the cathode half-cell and NO₃⁻ ions move toward the anode half-cell.
@@ -7962,7 +8001,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. electrons travel through the salt bridge.
 - D. the salt bridge supplies electrons to the cathode.
 
-**Q1117.** A galvanic cell is built from an Ag/Ag⁺ half-cell and a Ni/Ni²⁺ half-cell. Which overall equation represents the cell reaction?
+**Q1122.** A galvanic cell is built from an Ag/Ag⁺ half-cell and a Ni/Ni²⁺ half-cell. Which overall equation represents the cell reaction?
 <!-- id: chem34a1-gc-4 -->
 
 - A. Ni²⁺(aq) + 2Ag(s) → Ni(s) + 2Ag⁺(aq)
@@ -7970,7 +8009,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 2Ag⁺(aq) + Ni(s) → 2Ag(s) + Ni²⁺(aq)
 - D. Ni(s) + Ag(s) → Ni²⁺(aq) + Ag⁺(aq)
 
-**Q1118.** A student builds a cell with Pb/Pb²⁺ and Fe/Fe²⁺ half-cells and measures 0.28 V instead of the predicted 0.31 V. The most likely reason is
+**Q1123.** A student builds a cell with Pb/Pb²⁺ and Fe/Fe²⁺ half-cells and measures 0.28 V instead of the predicted 0.31 V. The most likely reason is
 <!-- id: chem34a1-gc-5 -->
 
 - A. the cell is producing electricity in the wrong direction.
@@ -7978,24 +8017,33 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. the salt bridge is carrying electrons.
 - D. conditions were non-standard, e.g. the solutions were not 1.0 M or the temperature was not 25 °C.
 
-**Q1119.** A galvanic cell is built from a Mg/Mg²⁺ half-cell and an inert carbon electrode in a Fe³⁺/Fe²⁺ solution. Identify the anode and its polarity, write the half-equation at each electrode, and calculate the standard cell potential. (Mg²⁺/Mg −2.37 V; Fe³⁺/Fe²⁺ +0.77 V) (4 marks)
+**Q1124.** A galvanic cell is built from a Mg/Mg²⁺ half-cell and an inert carbon electrode in a Fe³⁺/Fe²⁺ solution. Identify the anode and its polarity, write the half-equation at each electrode, and calculate the standard cell potential. (Mg²⁺/Mg −2.37 V; Fe³⁺/Fe²⁺ +0.77 V) (4 marks)
 <!-- id: chem34a1-gc-6 -->
 
 *Written answer*
 
-**Q1120.** Explain why the oxidising and reducing agents in a galvanic cell must be kept in separate half-cells. (2 marks)
+**Q1125.** Explain why the oxidising and reducing agents in a galvanic cell must be kept in separate half-cells. (2 marks)
 <!-- id: chem34a1-gc-7 -->
 
 *Written answer*
 
-**Q1121.** Over time in a Zn/Cu galvanic cell, describe what happens to the mass of each electrode and to the colour of the copper(II) sulfate solution. Explain. (3 marks)
+**Q1126.** Over time in a Zn/Cu galvanic cell, describe what happens to the mass of each electrode and to the colour of the copper(II) sulfate solution. Explain. (3 marks)
 <!-- id: chem34a1-gc-8 -->
 
 *Written answer*
 
+**Q1127.** A galvanic cell is made from Zn(s)/Zn²⁺(aq) and Ag(s)/Ag⁺(aq) half-cells under standard conditions. The overall reaction and maximum voltage are:
+<!-- id: chem-2-2-c1 -->
+*Challenge question*
+
+- A. Zn(s) + Ag⁺(aq) → Zn²⁺(aq) + Ag(s), 0.04 V
+- B. Zn(s) + 2Ag⁺(aq) → Zn²⁺(aq) + 2Ag(s), 1.56 V
+- C. 2Ag(s) + Zn²⁺(aq) → 2Ag⁺(aq) + Zn(s), 1.56 V
+- D. Zn(s) + 2Ag⁺(aq) → Zn²⁺(aq) + 2Ag(s), 2.36 V
+
 #### Fuel cells
 
-**Q1122.** In a hydrogen–oxygen fuel cell with an acidic electrolyte, the half-equation at the cathode is
+**Q1128.** In a hydrogen–oxygen fuel cell with an acidic electrolyte, the half-equation at the cathode is
 <!-- id: chem34a1-fc-1 -->
 
 - A. H₂(g) → 2H⁺(aq) + 2e⁻
@@ -8003,7 +8051,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. O₂(g) + 4H⁺(aq) + 4e⁻ → 2H₂O(l)
 - D. 2H₂O(l) → O₂(g) + 4H⁺(aq) + 4e⁻
 
-**Q1123.** Which feature distinguishes a fuel cell from a primary galvanic cell (non-rechargeable battery)?
+**Q1129.** Which feature distinguishes a fuel cell from a primary galvanic cell (non-rechargeable battery)?
 <!-- id: chem34a1-fc-2 -->
 
 - A. Fuel cells produce electricity from a redox reaction.
@@ -8011,7 +8059,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. Fuel cells convert chemical energy into electrical energy.
 - D. Reactants are supplied continuously from outside the cell, so it does not run flat while fuel is supplied.
 
-**Q1124.** In an alkaline hydrogen fuel cell, the anode half-equation is
+**Q1130.** In an alkaline hydrogen fuel cell, the anode half-equation is
 <!-- id: chem34a1-fc-3 -->
 
 - A. H₂(g) + 2OH⁻(aq) → 2H₂O(l) + 2e⁻
@@ -8019,7 +8067,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. O₂(g) + 2H₂O(l) + 4e⁻ → 4OH⁻(aq)
 - D. 2H₂O(l) + 2e⁻ → H₂(g) + 2OH⁻(aq)
 
-**Q1125.** Fuel cell electrodes are usually porous and coated with a catalyst such as platinum. The main purpose is to
+**Q1131.** Fuel cell electrodes are usually porous and coated with a catalyst such as platinum. The main purpose is to
 <!-- id: chem34a1-fc-4 -->
 
 - A. increase the surface area for reaction and lower the activation energy, increasing the rate of the electrode reactions.
@@ -8027,7 +8075,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. prevent the electrolyte from conducting ions.
 - D. store hydrogen inside the electrode.
 
-**Q1126.** A direct methanol fuel cell with an acidic electrolyte has the overall reaction 2CH₃OH(l) + 3O₂(g) → 2CO₂(g) + 4H₂O(l). The anode half-equation is
+**Q1132.** A direct methanol fuel cell with an acidic electrolyte has the overall reaction 2CH₃OH(l) + 3O₂(g) → 2CO₂(g) + 4H₂O(l). The anode half-equation is
 <!-- id: chem34a1-fc-5 -->
 
 - A. CH₃OH(l) + 6H⁺(aq) + 6e⁻ → CO₂(g) + 5H₂O(l)
@@ -8035,24 +8083,33 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. O₂(g) + 4H⁺(aq) + 4e⁻ → 2H₂O(l)
 - D. CH₃OH(l) → CO₂(g) + 4H⁺(aq) + 4e⁻
 
-**Q1127.** Compare a hydrogen fuel cell with a coal-fired power station for producing electricity. Give two advantages and one disadvantage of the fuel cell. (3 marks)
+**Q1133.** Compare a hydrogen fuel cell with a coal-fired power station for producing electricity. Give two advantages and one disadvantage of the fuel cell. (3 marks)
 <!-- id: chem34a1-fc-6 -->
 
 *Written answer*
 
-**Q1128.** Write the anode and cathode half-equations for a methane fuel cell operating with an acidic electrolyte, and the overall equation. (3 marks)
+**Q1134.** Write the anode and cathode half-equations for a methane fuel cell operating with an acidic electrolyte, and the overall equation. (3 marks)
 <!-- id: chem34a1-fc-7 -->
 
 *Written answer*
 
-**Q1129.** In an acidic hydrogen fuel cell, explain the direction of movement of H⁺ ions through the electrolyte and why this is necessary. (2 marks)
+**Q1135.** In an acidic hydrogen fuel cell, explain the direction of movement of H⁺ ions through the electrolyte and why this is necessary. (2 marks)
 <!-- id: chem34a1-fc-8 -->
 
 *Written answer*
 
+**Q1136.** In a methanol fuel cell with an acidic electrolyte, the anode half-equation is:
+<!-- id: chem-2-3-c1 -->
+*Challenge question*
+
+- A. O₂(g) + 4H⁺(aq) + 4e⁻ → 2H₂O(l)
+- B. CH₃OH(l) + H₂O(l) → CO₂(g) + 6H⁺(aq) + 6e⁻
+- C. CH₃OH(l) + 6OH⁻(aq) → CO₂(g) + 5H₂O(l) + 6e⁻
+- D. CH₃OH(l) → CO₂(g) + 4H⁺(aq) + 4e⁻
+
 #### Green hydrogen and sustainable energy
 
-**Q1130.** Hydrogen produced by the electrolysis of water using electricity from solar or wind farms is described as
+**Q1137.** Hydrogen produced by the electrolysis of water using electricity from solar or wind farms is described as
 <!-- id: chem34a1-ghs-1 -->
 
 - A. grey hydrogen.
@@ -8060,7 +8117,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. green hydrogen.
 - D. brown hydrogen.
 
-**Q1131.** Most hydrogen produced today comes from steam methane reforming. Which equation represents the main reforming reaction?
+**Q1138.** Most hydrogen produced today comes from steam methane reforming. Which equation represents the main reforming reaction?
 <!-- id: chem34a1-ghs-2 -->
 
 - A. CH₄(g) + H₂O(g) → CO(g) + 3H₂(g)
@@ -8068,7 +8125,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. CH₄(g) + 2O₂(g) → CO₂(g) + 2H₂O(g)
 - D. C(s) + O₂(g) → CO₂(g)
 
-**Q1132.** Which green chemistry principle is best demonstrated by replacing a coal-fired power station with a solar farm that powers an electrolyser?
+**Q1139.** Which green chemistry principle is best demonstrated by replacing a coal-fired power station with a solar farm that powers an electrolyser?
 <!-- id: chem34a1-ghs-3 -->
 
 - A. Design for degradation
@@ -8076,7 +8133,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. Catalysis
 - D. Real-time analysis for pollution prevention
 
-**Q1133.** A disadvantage of green hydrogen compared with grey hydrogen at present is that
+**Q1140.** A disadvantage of green hydrogen compared with grey hydrogen at present is that
 <!-- id: chem34a1-ghs-4 -->
 
 - A. green hydrogen releases CO₂ when used in a fuel cell.
@@ -8084,7 +8141,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. green hydrogen cannot be used in fuel cells.
 - D. green hydrogen is currently more expensive to produce and needs large amounts of renewable electricity.
 
-**Q1134.** Australian projects plan to export hydrogen by converting it into ammonia. A key reason is that ammonia
+**Q1141.** Australian projects plan to export hydrogen by converting it into ammonia. A key reason is that ammonia
 <!-- id: chem34a1-ghs-5 -->
 
 - A. is a liquid under mild pressure and stores more hydrogen per litre than compressed hydrogen gas.
@@ -8092,26 +8149,35 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. releases CO₂ when converted back to hydrogen.
 - D. has a lower boiling point than hydrogen.
 
-**Q1135.** Describe how green hydrogen is produced and write the overall equation for the process. Explain why this hydrogen can be described as a sustainable energy carrier. (3 marks)
+**Q1142.** Describe how green hydrogen is produced and write the overall equation for the process. Explain why this hydrogen can be described as a sustainable energy carrier. (3 marks)
 <!-- id: chem34a1-ghs-6 -->
 
 *Written answer*
 
-**Q1136.** Explain the difference between an energy source and an energy carrier, using hydrogen and solar energy as examples. (2 marks)
+**Q1143.** Explain the difference between an energy source and an energy carrier, using hydrogen and solar energy as examples. (2 marks)
 <!-- id: chem34a1-ghs-7 -->
 
 *Written answer*
 
-**Q1137.** Steam methane reforming with carbon capture and storage produces 'blue' hydrogen. Evaluate whether blue hydrogen is a sustainable alternative to green hydrogen. (3 marks)
+**Q1144.** Steam methane reforming with carbon capture and storage produces 'blue' hydrogen. Evaluate whether blue hydrogen is a sustainable alternative to green hydrogen. (3 marks)
 <!-- id: chem34a1-ghs-8 -->
 
 *Written answer*
+
+**Q1145.** Renewable electricity is stored by making hydrogen in an electrolyser (70% efficient) and later converting it back in a fuel cell (60% efficient). The overall efficiency is:
+<!-- id: chem-2-4-c1 -->
+*Challenge question*
+
+- A. 42%
+- B. 65%
+- C. 130%
+- D. 10%
 
 ### Rates & equilibrium
 
 #### Collision theory and reaction rates
 
-**Q1138.** According to collision theory, which conditions must be met for a collision between reactant particles to result in a reaction?
+**Q1146.** According to collision theory, which conditions must be met for a collision between reactant particles to result in a reaction?
 <!-- id: chem-3-1-1 -->
 
 - A. The particles must collide with the correct orientation, regardless of their energy
@@ -8119,7 +8185,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. The particles must collide with energy exactly equal to the enthalpy change of the reaction
 - D. The particles must collide at least twice before bonds can break
 
-**Q1139.** A student reacts magnesium ribbon with 0.50 M and then 2.0 M hydrochloric acid at the same temperature. The main reason the 2.0 M acid reacts faster is that:
+**Q1147.** A student reacts magnesium ribbon with 0.50 M and then 2.0 M hydrochloric acid at the same temperature. The main reason the 2.0 M acid reacts faster is that:
 <!-- id: chem-3-1-2 -->
 
 - A. the activation energy of the reaction is lowered at higher concentration
@@ -8127,7 +8193,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. a greater proportion of collisions have energy equal to or greater than the activation energy
 - D. each acid particle has a higher average kinetic energy
 
-**Q1140.** Powdered calcium carbonate reacts faster with dilute hydrochloric acid than the same mass of marble chips because the powder:
+**Q1148.** Powdered calcium carbonate reacts faster with dilute hydrochloric acid than the same mass of marble chips because the powder:
 <!-- id: chem-3-1-3 -->
 
 - A. has a lower activation energy for the reaction
@@ -8135,12 +8201,12 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. raises the temperature of the acid before reacting
 - D. has a larger surface area, increasing the frequency of collisions with acid particles
 
-**Q1141.** Using collision theory, explain why marble chips react faster with 2 M hydrochloric acid than with 1 M hydrochloric acid at the same temperature.
+**Q1149.** Using collision theory, explain why marble chips react faster with 2 M hydrochloric acid than with 1 M hydrochloric acid at the same temperature.
 <!-- id: chem-3-1-4 -->
 
 *Written answer*
 
-**Q1142.** The volume of a sealed vessel containing a gaseous reaction mixture is halved at constant temperature. The rate of reaction increases mainly because:
+**Q1150.** The volume of a sealed vessel containing a gaseous reaction mixture is halved at constant temperature. The rate of reaction increases mainly because:
 <!-- id: chem-3-1-5 -->
 
 - A. the activation energy of the reaction decreases
@@ -8148,7 +8214,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. the orientation of every collision becomes favourable
 - D. the frequency of collisions between reactant particles increases
 
-**Q1143.** A 10 °C rise in temperature often roughly doubles the rate of a reaction. The main reason for this large increase is that:
+**Q1151.** A 10 °C rise in temperature often roughly doubles the rate of a reaction. The main reason for this large increase is that:
 <!-- id: chem-3-1-6 -->
 
 - A. the frequency of collisions doubles
@@ -8156,7 +8222,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. a much greater proportion of collisions have energy equal to or greater than the activation energy
 - D. the enthalpy change of the reaction becomes more negative
 
-**Q1144.** Which change would NOT increase the rate of reaction between zinc and dilute sulfuric acid?
+**Q1152.** Which change would NOT increase the rate of reaction between zinc and dilute sulfuric acid?
 <!-- id: chem-3-1-7 -->
 
 - A. Using larger lumps of zinc of the same total mass
@@ -8164,12 +8230,12 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. Using zinc powder instead of granules
 - D. Using a more concentrated sulfuric acid solution
 
-**Q1145.** Explain why increasing temperature increases reaction rate by much more than the increase in collision frequency alone would predict.
+**Q1153.** Explain why increasing temperature increases reaction rate by much more than the increase in collision frequency alone would predict.
 <!-- id: chem-3-1-8 -->
 
 *Written answer*
 
-**Q1146.** Calcium carbonate reacts with hydrochloric acid in an open conical flask sitting on an electronic balance. Which measurement is most suitable for following the rate of this reaction?
+**Q1154.** Calcium carbonate reacts with hydrochloric acid in an open conical flask sitting on an electronic balance. Which measurement is most suitable for following the rate of this reaction?
 <!-- id: chem-3-1-9 -->
 
 - A. The increase in mass of the flask as carbon dioxide forms
@@ -8177,7 +8243,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. The melting point of the calcium chloride produced
 - D. The total volume of the conical flask
 
-**Q1147.** The activation energy of a reaction is best described as:
+**Q1155.** The activation energy of a reaction is best described as:
 <!-- id: chem-3-1-10 -->
 
 - A. the energy released when products form
@@ -8185,7 +8251,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. the difference in energy between reactants and products
 - D. the average kinetic energy of the reactant particles
 
-**Q1148.** An exothermic reaction has a forward activation energy of 50 kJ mol⁻¹ and ΔH = −120 kJ mol⁻¹. What is the activation energy of the reverse reaction?
+**Q1156.** An exothermic reaction has a forward activation energy of 50 kJ mol⁻¹ and ΔH = −120 kJ mol⁻¹. What is the activation energy of the reverse reaction?
 <!-- id: chem-3-1-11 -->
 
 - A. 170 kJ mol⁻¹
@@ -8193,12 +8259,12 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 120 kJ mol⁻¹
 - D. 50 kJ mol⁻¹
 
-**Q1149.** The forward activation energy of a reaction is 185 kJ mol⁻¹ and ΔH = −92 kJ mol⁻¹. Calculate the activation energy of the reverse reaction.
+**Q1157.** The forward activation energy of a reaction is 185 kJ mol⁻¹ and ΔH = −92 kJ mol⁻¹. Calculate the activation energy of the reverse reaction.
 <!-- id: chem-3-1-12 -->
 
 *Written answer*
 
-**Q1150.** An endothermic reaction has ΔH = +40 kJ mol⁻¹ and a forward activation energy of 90 kJ mol⁻¹. What is the activation energy of the reverse reaction?
+**Q1158.** An endothermic reaction has ΔH = +40 kJ mol⁻¹ and a forward activation energy of 90 kJ mol⁻¹. What is the activation energy of the reverse reaction?
 <!-- id: chem-3-1-13 -->
 
 - A. 130 kJ mol⁻¹
@@ -8206,7 +8272,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 90 kJ mol⁻¹
 - D. 50 kJ mol⁻¹
 
-**Q1151.** The rate at which hydrogen gas is produced when magnesium reacts with excess hydrochloric acid slows down as the reaction proceeds. The best explanation is that:
+**Q1159.** The rate at which hydrogen gas is produced when magnesium reacts with excess hydrochloric acid slows down as the reaction proceeds. The best explanation is that:
 <!-- id: chem-3-1-14 -->
 
 - A. the activation energy increases as products form
@@ -8214,7 +8280,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. the catalyst in the mixture is used up
 - D. the reaction becomes endothermic as it proceeds
 
-**Q1152.** Argon gas is injected into a sealed rigid vessel containing a gaseous reaction mixture at constant temperature. What is the effect on the rate of reaction?
+**Q1160.** Argon gas is injected into a sealed rigid vessel containing a gaseous reaction mixture at constant temperature. What is the effect on the rate of reaction?
 <!-- id: chem-3-1-15 -->
 
 - A. The rate increases because the total pressure has increased
@@ -8222,12 +8288,12 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. No change, because the concentrations of the reactant gases are unchanged
 - D. The rate increases because argon reacts with the reactants
 
-**Q1153.** A 1.00 g marble chip (CaCO₃) reacts completely with excess hydrochloric acid in 120 s. Calculate the average rate of CO₂ production in mol s⁻¹.
+**Q1161.** A 1.00 g marble chip (CaCO₃) reacts completely with excess hydrochloric acid in 120 s. Calculate the average rate of CO₂ production in mol s⁻¹.
 <!-- id: chem-3-1-16 -->
 
 *Written answer*
 
-**Q1154.** A 0.0450 g sample of magnesium reacts completely with excess hydrochloric acid at SLC (25 °C, 100 kPa). What volume of hydrogen gas is produced? (Molar volume at SLC = 24.8 L mol⁻¹)
+**Q1162.** A 0.0450 g sample of magnesium reacts completely with excess hydrochloric acid at SLC (25 °C, 100 kPa). What volume of hydrogen gas is produced? (Molar volume at SLC = 24.8 L mol⁻¹)
 <!-- id: chem-3-1-17 -->
 
 - A. 41.5 mL
@@ -8235,7 +8301,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 91.9 mL
 - D. 45.9 mL
 
-**Q1155.** In a reaction producing carbon dioxide, 60.0 mL of gas is collected in the first 30 s and a further 20.0 mL in the next 30 s. What is the average rate of gas production over the first 60 s?
+**Q1163.** In a reaction producing carbon dioxide, 60.0 mL of gas is collected in the first 30 s and a further 20.0 mL in the next 30 s. What is the average rate of gas production over the first 60 s?
 <!-- id: chem-3-1-18 -->
 
 - A. 2.00 mL s⁻¹
@@ -8243,7 +8309,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 1.33 mL s⁻¹
 - D. 1.00 mL s⁻¹
 
-**Q1156.** Milk stored in a refrigerator at 4 °C spoils more slowly than milk left on a kitchen bench in a Melbourne summer. The best explanation is that at the lower temperature:
+**Q1164.** Milk stored in a refrigerator at 4 °C spoils more slowly than milk left on a kitchen bench in a Melbourne summer. The best explanation is that at the lower temperature:
 <!-- id: chem-3-1-19 -->
 
 - A. fewer collisions between reacting particles have energy equal to or greater than the activation energy
@@ -8251,12 +8317,12 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. the spoilage reactions become endothermic
 - D. the reacting particles collide with the correct orientation less often because they are larger
 
-**Q1157.** Describe two experimental methods that could be used to measure the rate of reaction between magnesium ribbon and hydrochloric acid.
+**Q1165.** Describe two experimental methods that could be used to measure the rate of reaction between magnesium ribbon and hydrochloric acid.
 <!-- id: chem-3-1-20 -->
 
 *Written answer*
 
-**Q1158.** Fine flour dust suspended in the air of a grain silo can explode if ignited, while a bag of flour burns slowly. This is mainly because the dust:
+**Q1166.** Fine flour dust suspended in the air of a grain silo can explode if ignited, while a bag of flour burns slowly. This is mainly because the dust:
 <!-- id: chem-3-1-21 -->
 
 - A. has an extremely large surface area in contact with oxygen
@@ -8264,7 +8330,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. contains a catalyst that bagged flour does not
 - D. has a higher activation energy than bagged flour
 
-**Q1159.** Which change increases BOTH the frequency of collisions and the proportion of collisions that have energy equal to or greater than the activation energy?
+**Q1167.** Which change increases BOTH the frequency of collisions and the proportion of collisions that have energy equal to or greater than the activation energy?
 <!-- id: chem-3-1-22 -->
 
 - A. Increasing the concentration of a reactant
@@ -8272,7 +8338,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. Increasing the temperature
 - D. Increasing the surface area of a solid reactant
 
-**Q1160.** Many collisions between reactant particles that have energy greater than the activation energy still do not produce products. The most likely reason is that:
+**Q1168.** Many collisions between reactant particles that have energy greater than the activation energy still do not produce products. The most likely reason is that:
 <!-- id: chem-3-1-23 -->
 
 - A. the particles collided with an orientation that did not allow the required bonds to break and form
@@ -8280,17 +8346,17 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. the enthalpy change of the reaction is positive
 - D. the activation energy changes during each collision
 
-**Q1161.** A graph of volume of hydrogen collected against time for magnesium reacting with hydrochloric acid is steep at first, then becomes flatter and finally horizontal. Explain this shape.
+**Q1169.** A graph of volume of hydrogen collected against time for magnesium reacting with hydrochloric acid is steep at first, then becomes flatter and finally horizontal. Explain this shape.
 <!-- id: chem-3-1-24 -->
 
 *Written answer*
 
-**Q1162.** A student writes: 'Heating a reaction mixture increases the rate because it lowers the activation energy.' Correct this statement.
+**Q1170.** A student writes: 'Heating a reaction mixture increases the rate because it lowers the activation energy.' Correct this statement.
 <!-- id: chem-3-1-25 -->
 
 *Written answer*
 
-**Q1163.** According to collision theory, for a reaction to occur, reactant particles must
+**Q1171.** According to collision theory, for a reaction to occur, reactant particles must
 <!-- id: chem34a1-ctr-1 -->
 
 - A. collide with energy equal to or greater than the activation energy and with the correct orientation.
@@ -8298,7 +8364,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. be in the same physical state.
 - D. be at a temperature above 100 °C.
 
-**Q1164.** Marble chips (CaCO₃) react with hydrochloric acid. Which change would NOT increase the initial rate of reaction?
+**Q1172.** Marble chips (CaCO₃) react with hydrochloric acid. Which change would NOT increase the initial rate of reaction?
 <!-- id: chem34a1-ctr-2 -->
 
 - A. Using powdered marble instead of chips
@@ -8306,7 +8372,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. Increasing the acid concentration
 - D. Warming the acid
 
-**Q1165.** Increasing the temperature by 10 °C often roughly doubles the rate of a reaction. The main reason is that
+**Q1173.** Increasing the temperature by 10 °C often roughly doubles the rate of a reaction. The main reason is that
 <!-- id: chem34a1-ctr-3 -->
 
 - A. the activation energy is halved.
@@ -8314,7 +8380,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. particles become larger and collide more often.
 - D. a much greater proportion of collisions have energy equal to or greater than the activation energy.
 
-**Q1166.** A student measures the mass of a flask as CaCO₃ chips react with excess HCl, and graphs mass lost against time. The gradient of the curve
+**Q1174.** A student measures the mass of a flask as CaCO₃ chips react with excess HCl, and graphs mass lost against time. The gradient of the curve
 <!-- id: chem34a1-ctr-4 -->
 
 - A. is greatest at the start and decreases to zero as reactants are used up.
@@ -8322,7 +8388,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. remains constant until the reaction stops suddenly.
 - D. increases throughout because products catalyse the reaction.
 
-**Q1167.** Increasing the pressure of a gaseous reaction mixture by reducing its volume increases the rate because
+**Q1175.** Increasing the pressure of a gaseous reaction mixture by reducing its volume increases the rate because
 <!-- id: chem34a1-ctr-5 -->
 
 - A. the activation energy decreases.
@@ -8330,24 +8396,33 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. the concentration of gas particles increases, so collisions occur more frequently.
 - D. the orientation of collisions becomes correct.
 
-**Q1168.** Coal dust in an underground mine can explode, while a lump of coal burns slowly. Explain this using collision theory. (2 marks)
+**Q1176.** Coal dust in an underground mine can explode, while a lump of coal burns slowly. Explain this using collision theory. (2 marks)
 <!-- id: chem34a1-ctr-6 -->
 
 *Written answer*
 
-**Q1169.** Two experiments react 1.0 g magnesium ribbon with excess HCl: Experiment 1 uses 1.0 M HCl, Experiment 2 uses 2.0 M HCl. Describe how a graph of H₂ volume against time for Experiment 2 would compare with Experiment 1, and explain. (3 marks)
+**Q1177.** Two experiments react 1.0 g magnesium ribbon with excess HCl: Experiment 1 uses 1.0 M HCl, Experiment 2 uses 2.0 M HCl. Describe how a graph of H₂ volume against time for Experiment 2 would compare with Experiment 1, and explain. (3 marks)
 <!-- id: chem34a1-ctr-7 -->
 
 *Written answer*
 
-**Q1170.** Explain why food stored in a refrigerator spoils more slowly than food left on the bench. (2 marks)
+**Q1178.** Explain why food stored in a refrigerator spoils more slowly than food left on the bench. (2 marks)
 <!-- id: chem34a1-ctr-8 -->
 
 *Written answer*
 
+**Q1179.** A 10 °C rise in temperature can double a reaction rate, although collision frequency rises only a few percent. The main reason is that:
+<!-- id: chem-3-1-c1 -->
+*Challenge question*
+
+- A. The activation energy decreases
+- B. Particles become larger and collide more often
+- C. The equilibrium constant increases
+- D. A much larger proportion of collisions have energy equal to or greater than the activation energy
+
 #### Maxwell–Boltzmann distributions and catalysts
 
-**Q1171.** In a Maxwell–Boltzmann distribution curve for a gas, the total area under the curve represents:
+**Q1180.** In a Maxwell–Boltzmann distribution curve for a gas, the total area under the curve represents:
 <!-- id: chem-3-2-1 -->
 
 - A. the total energy released by the reaction
@@ -8355,7 +8430,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. the activation energy of the reaction
 - D. the number of particles with energy greater than the activation energy
 
-**Q1172.** When the temperature of a gas sample is increased, its Maxwell–Boltzmann distribution curve:
+**Q1181.** When the temperature of a gas sample is increased, its Maxwell–Boltzmann distribution curve:
 <!-- id: chem-3-2-2 -->
 
 - A. becomes taller and narrower, with the peak moving to lower energy
@@ -8363,7 +8438,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. flattens and broadens, with the peak moving to higher energy and the area unchanged
 - D. stays the same, but the activation energy line moves to the left
 
-**Q1173.** On a Maxwell–Boltzmann distribution, the area under the curve to the right of the activation energy line represents:
+**Q1182.** On a Maxwell–Boltzmann distribution, the area under the curve to the right of the activation energy line represents:
 <!-- id: chem-3-2-3 -->
 
 - A. the number of particles with enough energy to react on collision
@@ -8371,12 +8446,12 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. the enthalpy change of the reaction
 - D. the number of particles with the most probable energy
 
-**Q1174.** Describe how the Maxwell–Boltzmann distribution of a gas changes when the temperature is increased from 25 °C to 50 °C, and explain the effect on reaction rate.
+**Q1183.** Describe how the Maxwell–Boltzmann distribution of a gas changes when the temperature is increased from 25 °C to 50 °C, and explain the effect on reaction rate.
 <!-- id: chem-3-2-4 -->
 
 *Written answer*
 
-**Q1175.** How is the Maxwell–Boltzmann distribution of a reaction mixture affected when a catalyst is added at constant temperature?
+**Q1184.** How is the Maxwell–Boltzmann distribution of a reaction mixture affected when a catalyst is added at constant temperature?
 <!-- id: chem-3-2-5 -->
 
 - A. The curve shifts to higher energies and the activation energy is unchanged
@@ -8384,7 +8459,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. The curve is unchanged, but the activation energy is lower, so a larger area lies beyond it
 - D. The curve and the activation energy are both unchanged
 
-**Q1176.** A catalyst increases the rate of a reaction by:
+**Q1185.** A catalyst increases the rate of a reaction by:
 <!-- id: chem-3-2-6 -->
 
 - A. increasing the kinetic energy of the reactant particles
@@ -8392,7 +8467,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. increasing the concentration of the reactants
 - D. providing an alternative reaction pathway with a lower activation energy
 
-**Q1177.** What effect does adding a catalyst have on the enthalpy change, ΔH, of a reaction?
+**Q1186.** What effect does adding a catalyst have on the enthalpy change, ΔH, of a reaction?
 <!-- id: chem-3-2-7 -->
 
 - A. ΔH becomes more negative
@@ -8400,12 +8475,12 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. ΔH is unchanged
 - D. ΔH becomes zero
 
-**Q1178.** With reference to a Maxwell–Boltzmann distribution, explain how a catalyst increases the rate of a reaction.
+**Q1187.** With reference to a Maxwell–Boltzmann distribution, explain how a catalyst increases the rate of a reaction.
 <!-- id: chem-3-2-8 -->
 
 *Written answer*
 
-**Q1179.** A catalyst is added to a reaction mixture that is already at equilibrium. Which statement is correct?
+**Q1188.** A catalyst is added to a reaction mixture that is already at equilibrium. Which statement is correct?
 <!-- id: chem-3-2-9 -->
 
 - A. The equilibrium shifts to the right, increasing the yield
@@ -8413,7 +8488,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. The rates of the forward and reverse reactions increase equally and the equilibrium position does not change
 - D. Only the forward reaction rate increases
 
-**Q1180.** The platinum, palladium and rhodium in a car's catalytic converter are best described as:
+**Q1189.** The platinum, palladium and rhodium in a car's catalytic converter are best described as:
 <!-- id: chem-3-2-10 -->
 
 - A. heterogeneous catalysts, because they are solids and the reactants are gases
@@ -8421,7 +8496,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. reactants that are consumed as exhaust gases pass over them
 - D. inhibitors that slow the formation of carbon monoxide
 
-**Q1181.** The rate of an enzyme-catalysed reaction falls sharply when the temperature is raised well above about 40 °C. The best explanation is that:
+**Q1190.** The rate of an enzyme-catalysed reaction falls sharply when the temperature is raised well above about 40 °C. The best explanation is that:
 <!-- id: chem-3-2-11 -->
 
 - A. the activation energy of the reaction increases
@@ -8429,12 +8504,12 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. the reactant particles have less kinetic energy
 - D. the reaction becomes endothermic at high temperature
 
-**Q1182.** Distinguish between a homogeneous and a heterogeneous catalyst, giving an example of each.
+**Q1191.** Distinguish between a homogeneous and a heterogeneous catalyst, giving an example of each.
 <!-- id: chem-3-2-12 -->
 
 *Written answer*
 
-**Q1183.** Which feature of the Maxwell–Boltzmann distribution of a fixed amount of gas does NOT change when the temperature increases?
+**Q1192.** Which feature of the Maxwell–Boltzmann distribution of a fixed amount of gas does NOT change when the temperature increases?
 <!-- id: chem-3-2-13 -->
 
 - A. The height of the peak
@@ -8442,7 +8517,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. The position of the most probable kinetic energy
 - D. The proportion of particles with energy above the activation energy
 
-**Q1184.** Compared with the distribution at 50 °C, the Maxwell–Boltzmann distribution of the same gas sample at 10 °C has:
+**Q1193.** Compared with the distribution at 50 °C, the Maxwell–Boltzmann distribution of the same gas sample at 10 °C has:
 <!-- id: chem-3-2-14 -->
 
 - A. a lower peak at a higher kinetic energy
@@ -8450,7 +8525,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. a taller peak at a lower kinetic energy
 - D. a smaller total area under the curve
 
-**Q1185.** When a catalyst is added to a reversible reaction, the rate of the reverse reaction:
+**Q1194.** When a catalyst is added to a reversible reaction, the rate of the reverse reaction:
 <!-- id: chem-3-2-15 -->
 
 - A. increases, because the catalyst also lowers the activation energy of the reverse reaction
@@ -8458,12 +8533,12 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. is unchanged, because the catalyst only affects the forward reaction
 - D. becomes zero, because the reaction goes to completion
 
-**Q1186.** Explain why adding a catalyst to a reversible reaction does not change the equilibrium yield of product.
+**Q1195.** Explain why adding a catalyst to a reversible reaction does not change the equilibrium yield of product.
 <!-- id: chem-3-2-16 -->
 
 *Written answer*
 
-**Q1187.** Which of the following is an example of a homogeneous catalyst?
+**Q1196.** Which of the following is an example of a homogeneous catalyst?
 <!-- id: chem-3-2-17 -->
 
 - A. Iron in the Haber process
@@ -8471,7 +8546,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. Vanadium(V) oxide in the contact process
 - D. Platinum in a car's catalytic converter
 
-**Q1188.** Which statement best describes how a heterogeneous catalyst such as iron works in the Haber process?
+**Q1197.** Which statement best describes how a heterogeneous catalyst such as iron works in the Haber process?
 <!-- id: chem-3-2-18 -->
 
 - A. The catalyst reacts permanently with nitrogen to form iron nitride as the product
@@ -8479,7 +8554,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. The catalyst dissolves in the gases to form a single phase
 - D. Reactant molecules adsorb onto the catalyst surface, weakening their bonds and allowing reaction at lower energy
 
-**Q1189.** The iron catalyst used in the Haber process is finely divided or porous. This is because:
+**Q1198.** The iron catalyst used in the Haber process is finely divided or porous. This is because:
 <!-- id: chem-3-2-19 -->
 
 - A. finely divided iron has a higher activation energy
@@ -8487,12 +8562,12 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. finely divided iron shifts the equilibrium towards ammonia
 - D. finely divided iron absorbs heat, making the reaction endothermic
 
-**Q1190.** Small amounts of lead or sulfur compounds in exhaust gases can 'poison' a catalytic converter. Explain what this means.
+**Q1199.** Small amounts of lead or sulfur compounds in exhaust gases can 'poison' a catalytic converter. Explain what this means.
 <!-- id: chem-3-2-20 -->
 
 *Written answer*
 
-**Q1191.** On an energy profile diagram, how does the pathway for a catalysed reaction compare with the uncatalysed pathway?
+**Q1200.** On an energy profile diagram, how does the pathway for a catalysed reaction compare with the uncatalysed pathway?
 <!-- id: chem-3-2-21 -->
 
 - A. It has a higher peak, with the products at a lower energy
@@ -8500,7 +8575,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. It has a lower peak, with the products at a lower energy
 - D. It has a lower peak, but the reactants and products are at the same energy levels
 
-**Q1192.** A catalyst lowers the forward activation energy of an exothermic reaction from 80 kJ mol⁻¹ to 50 kJ mol⁻¹. ΔH for the reaction is −30 kJ mol⁻¹. What is the activation energy of the catalysed reverse reaction?
+**Q1201.** A catalyst lowers the forward activation energy of an exothermic reaction from 80 kJ mol⁻¹ to 50 kJ mol⁻¹. ΔH for the reaction is −30 kJ mol⁻¹. What is the activation energy of the catalysed reverse reaction?
 <!-- id: chem-3-2-22 -->
 
 - A. 80 kJ mol⁻¹
@@ -8508,7 +8583,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 20 kJ mol⁻¹
 - D. 50 kJ mol⁻¹
 
-**Q1193.** Raising the temperature of a gas from 25 °C to 35 °C increases the average kinetic energy of its particles by only about 3%, yet the reaction rate may double. Using the Maxwell–Boltzmann distribution, this is explained by:
+**Q1202.** Raising the temperature of a gas from 25 °C to 35 °C increases the average kinetic energy of its particles by only about 3%, yet the reaction rate may double. Using the Maxwell–Boltzmann distribution, this is explained by:
 <!-- id: chem-3-2-23 -->
 
 - A. the activation energy line moving to a lower energy
@@ -8516,17 +8591,17 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. the peak of the curve becoming taller
 - D. a large relative increase in the number of particles in the high-energy tail beyond the activation energy
 
-**Q1194.** The uncatalysed oxidation of sulfur dioxide has Ea = 240 kJ mol⁻¹; with a V₂O₅ catalyst Ea = 140 kJ mol⁻¹. ΔH for 2SO₂(g) + O₂(g) → 2SO₃(g) is −196 kJ mol⁻¹. Calculate the activation energy of the catalysed reverse reaction.
+**Q1203.** The uncatalysed oxidation of sulfur dioxide has Ea = 240 kJ mol⁻¹; with a V₂O₅ catalyst Ea = 140 kJ mol⁻¹. ΔH for 2SO₂(g) + O₂(g) → 2SO₃(g) is −196 kJ mol⁻¹. Calculate the activation energy of the catalysed reverse reaction.
 <!-- id: chem-3-2-24 -->
 
 *Written answer*
 
-**Q1195.** Explain why a Maxwell–Boltzmann distribution curve starts at the origin and approaches, but never touches, the energy axis at high energies.
+**Q1204.** Explain why a Maxwell–Boltzmann distribution curve starts at the origin and approaches, but never touches, the energy axis at high energies.
 <!-- id: chem-3-2-25 -->
 
 *Written answer*
 
-**Q1196.** On a Maxwell–Boltzmann distribution curve, the area under the curve to the right of the activation energy represents
+**Q1205.** On a Maxwell–Boltzmann distribution curve, the area under the curve to the right of the activation energy represents
 <!-- id: chem34a1-mbc-1 -->
 
 - A. the total number of particles in the sample.
@@ -8534,7 +8609,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. the number of particles with energy equal to or greater than the activation energy.
 - D. the average kinetic energy of the particles.
 
-**Q1197.** When the temperature of a gas sample is increased, its Maxwell–Boltzmann curve
+**Q1206.** When the temperature of a gas sample is increased, its Maxwell–Boltzmann curve
 <!-- id: chem34a1-mbc-2 -->
 
 - A. becomes taller and narrower, with the peak shifting left.
@@ -8542,7 +8617,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. shifts to the right with the total area increasing.
 - D. stays the same but the activation energy decreases.
 
-**Q1198.** A catalyst increases the rate of a reaction by
+**Q1207.** A catalyst increases the rate of a reaction by
 <!-- id: chem34a1-mbc-3 -->
 
 - A. increasing the average kinetic energy of the reactant particles.
@@ -8550,7 +8625,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. shifting the Maxwell–Boltzmann curve to higher energies.
 - D. providing an alternative reaction pathway with a lower activation energy.
 
-**Q1199.** Which statement about a catalyst in a reversible reaction is correct?
+**Q1208.** Which statement about a catalyst in a reversible reaction is correct?
 <!-- id: chem34a1-mbc-4 -->
 
 - A. It increases the rate of the forward reaction only.
@@ -8558,7 +8633,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. It increases the rates of both forward and reverse reactions by lowering the activation energy of each.
 - D. It is consumed during the reaction.
 
-**Q1200.** Platinum and rhodium in a car's catalytic converter speed up the conversion of CO and NO into CO₂ and N₂. These metals are best described as
+**Q1209.** Platinum and rhodium in a car's catalytic converter speed up the conversion of CO and NO into CO₂ and N₂. These metals are best described as
 <!-- id: chem34a1-mbc-5 -->
 
 - A. heterogeneous catalysts that provide a surface where gas molecules adsorb and react.
@@ -8566,24 +8641,33 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. reactants that are slowly used up.
 - D. enzymes that denature at high temperature.
 
-**Q1201.** Describe (in words) a Maxwell–Boltzmann distribution for a gas at temperature T₁ and the same gas at a higher temperature T₂. Use it to explain why reaction rate increases with temperature. (3 marks)
+**Q1210.** Describe (in words) a Maxwell–Boltzmann distribution for a gas at temperature T₁ and the same gas at a higher temperature T₂. Use it to explain why reaction rate increases with temperature. (3 marks)
 <!-- id: chem34a1-mbc-6 -->
 
 *Written answer*
 
-**Q1202.** On a Maxwell–Boltzmann distribution, show how adding a catalyst changes the proportion of particles able to react. Explain why the curve itself does not change. (2 marks)
+**Q1211.** On a Maxwell–Boltzmann distribution, show how adding a catalyst changes the proportion of particles able to react. Explain why the curve itself does not change. (2 marks)
 <!-- id: chem34a1-mbc-7 -->
 
 *Written answer*
 
-**Q1203.** Hydrogen peroxide decomposes slowly: 2H₂O₂(aq) → 2H₂O(l) + O₂(g). Adding manganese(IV) oxide powder causes rapid bubbling, and the MnO₂ can be recovered unchanged in mass. Explain these observations and identify the type of catalyst. (3 marks)
+**Q1212.** Hydrogen peroxide decomposes slowly: 2H₂O₂(aq) → 2H₂O(l) + O₂(g). Adding manganese(IV) oxide powder causes rapid bubbling, and the MnO₂ can be recovered unchanged in mass. Explain these observations and identify the type of catalyst. (3 marks)
 <!-- id: chem34a1-mbc-8 -->
 
 *Written answer*
 
+**Q1213.** Adding a catalyst to a reaction mixture changes a Maxwell–Boltzmann distribution diagram by:
+<!-- id: chem-3-2-c1 -->
+*Challenge question*
+
+- A. Shifting the peak of the curve to the right
+- B. Making the curve taller and narrower
+- C. Leaving the curve unchanged and moving the activation-energy line to a lower energy
+- D. Moving the activation-energy line to a higher energy
+
 #### Equilibrium constants and calculations
 
-**Q1204.** Which is the correct equilibrium expression for N₂(g) + 3H₂(g) ⇌ 2NH₃(g)?
+**Q1214.** Which is the correct equilibrium expression for N₂(g) + 3H₂(g) ⇌ 2NH₃(g)?
 <!-- id: chem-3-3-1 -->
 
 - A. Kc = [N₂][H₂]³ / [NH₃]²
@@ -8591,7 +8675,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. Kc = 2[NH₃] / ([N₂] × 3[H₂])
 - D. Kc = [NH₃] / ([N₂][H₂])
 
-**Q1205.** What are the units of Kc for N₂(g) + 3H₂(g) ⇌ 2NH₃(g)?
+**Q1215.** What are the units of Kc for N₂(g) + 3H₂(g) ⇌ 2NH₃(g)?
 <!-- id: chem-3-3-2 -->
 
 - A. M²
@@ -8599,7 +8683,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. M⁻¹
 - D. no units
 
-**Q1206.** For 2SO₂(g) + O₂(g) ⇌ 2SO₃(g), the equilibrium constant is K. What is the equilibrium constant for 2SO₃(g) ⇌ 2SO₂(g) + O₂(g) at the same temperature?
+**Q1216.** For 2SO₂(g) + O₂(g) ⇌ 2SO₃(g), the equilibrium constant is K. What is the equilibrium constant for 2SO₃(g) ⇌ 2SO₂(g) + O₂(g) at the same temperature?
 <!-- id: chem-3-3-3 -->
 
 - A. K
@@ -8607,12 +8691,12 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 1/K
 - D. K²
 
-**Q1207.** Write the equilibrium expression, including units, for 2NO(g) + O₂(g) ⇌ 2NO₂(g).
+**Q1217.** Write the equilibrium expression, including units, for 2NO(g) + O₂(g) ⇌ 2NO₂(g).
 <!-- id: chem-3-3-4 -->
 
 *Written answer*
 
-**Q1208.** For 2SO₂(g) + O₂(g) ⇌ 2SO₃(g), the equilibrium constant is K. What is the equilibrium constant for SO₂(g) + ½O₂(g) ⇌ SO₃(g) at the same temperature?
+**Q1218.** For 2SO₂(g) + O₂(g) ⇌ 2SO₃(g), the equilibrium constant is K. What is the equilibrium constant for SO₂(g) + ½O₂(g) ⇌ SO₃(g) at the same temperature?
 <!-- id: chem-3-3-5 -->
 
 - A. K/2
@@ -8620,7 +8704,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. K²
 - D. √K
 
-**Q1209.** A reaction has Kc = 1 × 10²⁰ at 25 °C. Which statement is correct?
+**Q1219.** A reaction has Kc = 1 × 10²⁰ at 25 °C. Which statement is correct?
 <!-- id: chem-3-3-6 -->
 
 - A. The reaction must occur very rapidly
@@ -8628,7 +8712,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. At equilibrium the mixture consists almost entirely of products
 - D. The reaction is endothermic
 
-**Q1210.** At 450 °C, an equilibrium mixture for H₂(g) + I₂(g) ⇌ 2HI(g) contains [H₂] = 0.100 M, [I₂] = 0.100 M and [HI] = 0.700 M. What is the value of Kc?
+**Q1220.** At 450 °C, an equilibrium mixture for H₂(g) + I₂(g) ⇌ 2HI(g) contains [H₂] = 0.100 M, [I₂] = 0.100 M and [HI] = 0.700 M. What is the value of Kc?
 <!-- id: chem-3-3-7 -->
 
 - A. 70.0
@@ -8636,12 +8720,12 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 7.00
 - D. 0.0204
 
-**Q1211.** 0.500 mol of H₂ and 0.500 mol of I₂ are placed in a 5.00 L vessel. Kc for H₂(g) + I₂(g) ⇌ 2HI(g) is 64.0 at this temperature. Calculate the equilibrium concentration of HI.
+**Q1221.** 0.500 mol of H₂ and 0.500 mol of I₂ are placed in a 5.00 L vessel. Kc for H₂(g) + I₂(g) ⇌ 2HI(g) is 64.0 at this temperature. Calculate the equilibrium concentration of HI.
 <!-- id: chem-3-3-8 -->
 
 *Written answer*
 
-**Q1212.** For a reaction mixture that is not at equilibrium, the reaction quotient Q is found to be less than K. What will happen?
+**Q1222.** For a reaction mixture that is not at equilibrium, the reaction quotient Q is found to be less than K. What will happen?
 <!-- id: chem-3-3-9 -->
 
 - A. The net reaction proceeds in the forward direction until Q = K
@@ -8649,7 +8733,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. The value of K decreases until it equals Q
 - D. No change occurs because the system is already at equilibrium
 
-**Q1213.** For N₂O₄(g) ⇌ 2NO₂(g), Kc = 4.6 × 10⁻³ M at 25 °C. A mixture at 25 °C has [N₂O₄] = 0.50 M and [NO₂] = 0.020 M. Which statement is correct?
+**Q1223.** For N₂O₄(g) ⇌ 2NO₂(g), Kc = 4.6 × 10⁻³ M at 25 °C. A mixture at 25 °C has [N₂O₄] = 0.50 M and [NO₂] = 0.020 M. Which statement is correct?
 <!-- id: chem-3-3-10 -->
 
 - A. Q = 0.040, so the net reaction proceeds in reverse, producing more N₂O₄
@@ -8657,7 +8741,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. Q = Kc, so the mixture is at equilibrium
 - D. Q = 8.0 × 10⁻⁴, so the net reaction proceeds forward, producing more NO₂
 
-**Q1214.** Which change will alter the value of the equilibrium constant for a reaction?
+**Q1224.** Which change will alter the value of the equilibrium constant for a reaction?
 <!-- id: chem-3-3-11 -->
 
 - A. Adding a catalyst
@@ -8665,12 +8749,12 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. Decreasing the volume of the container
 - D. Changing the temperature
 
-**Q1215.** For 2SO₂(g) + O₂(g) ⇌ 2SO₃(g), Kc = 280 M⁻¹ at a certain temperature. A mixture contains [SO₂] = 0.10 M, [O₂] = 0.050 M and [SO₃] = 0.50 M. Determine whether the mixture is at equilibrium and, if not, the direction of net reaction.
+**Q1225.** For 2SO₂(g) + O₂(g) ⇌ 2SO₃(g), Kc = 280 M⁻¹ at a certain temperature. A mixture contains [SO₂] = 0.10 M, [O₂] = 0.050 M and [SO₃] = 0.50 M. Determine whether the mixture is at equilibrium and, if not, the direction of net reaction.
 <!-- id: chem-3-3-12 -->
 
 *Written answer*
 
-**Q1216.** The temperature of an exothermic equilibrium reaction is increased. What happens to the value of Kc?
+**Q1226.** The temperature of an exothermic equilibrium reaction is increased. What happens to the value of Kc?
 <!-- id: chem-3-3-13 -->
 
 - A. It decreases
@@ -8678,7 +8762,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. It stays the same
 - D. It becomes negative
 
-**Q1217.** 2.00 mol of PCl₅ is placed in a 1.00 L flask and allowed to reach equilibrium: PCl₅(g) ⇌ PCl₃(g) + Cl₂(g). At equilibrium, 0.40 mol of PCl₃ is present. What is the value of Kc?
+**Q1227.** 2.00 mol of PCl₅ is placed in a 1.00 L flask and allowed to reach equilibrium: PCl₅(g) ⇌ PCl₃(g) + Cl₂(g). At equilibrium, 0.40 mol of PCl₃ is present. What is the value of Kc?
 <!-- id: chem-3-3-14 -->
 
 - A. 0.10 M
@@ -8686,7 +8770,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 0.080 M
 - D. 10 M
 
-**Q1218.** 1.00 mol of N₂ and 3.00 mol of H₂ are placed in a 2.00 L vessel. At equilibrium, 0.400 mol of NH₃ has formed. What is the value of Kc for N₂(g) + 3H₂(g) ⇌ 2NH₃(g)?
+**Q1228.** 1.00 mol of N₂ and 3.00 mol of H₂ are placed in a 2.00 L vessel. At equilibrium, 0.400 mol of NH₃ has formed. What is the value of Kc for N₂(g) + 3H₂(g) ⇌ 2NH₃(g)?
 <!-- id: chem-3-3-15 -->
 
 - A. 0.0145 M⁻²
@@ -8694,12 +8778,12 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 17.3 M⁻²
 - D. 0.0579 M⁻²
 
-**Q1219.** Explain why the value of Kc does not change when extra reactant is added to an equilibrium mixture at constant temperature.
+**Q1229.** Explain why the value of Kc does not change when extra reactant is added to an equilibrium mixture at constant temperature.
 <!-- id: chem-3-3-16 -->
 
 *Written answer*
 
-**Q1220.** For the reaction X(g) ⇌ Y(g), Kc = 4.0 at a certain temperature. If 1.00 M of X is initially present with no Y, what is the equilibrium concentration of Y?
+**Q1230.** For the reaction X(g) ⇌ Y(g), Kc = 4.0 at a certain temperature. If 1.00 M of X is initially present with no Y, what is the equilibrium concentration of Y?
 <!-- id: chem-3-3-17 -->
 
 - A. 0.80 M
@@ -8707,7 +8791,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 0.25 M
 - D. 0.75 M
 
-**Q1221.** For 2A(g) ⇌ B(g), Kc = 2.5 × 10⁻³ M⁻¹. What is the value of Kc for 2B(g) ⇌ 4A(g) at the same temperature?
+**Q1231.** For 2A(g) ⇌ B(g), Kc = 2.5 × 10⁻³ M⁻¹. What is the value of Kc for 2B(g) ⇌ 4A(g) at the same temperature?
 <!-- id: chem-3-3-18 -->
 
 - A. 400 M
@@ -8715,7 +8799,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 1.6 × 10⁵ M²
 - D. 200 M
 
-**Q1222.** What are the units of Kc for CH₃COOH(l) + C₂H₅OH(l) ⇌ CH₃COOC₂H₅(l) + H₂O(l), treating all species as being in the same solution?
+**Q1232.** What are the units of Kc for CH₃COOH(l) + C₂H₅OH(l) ⇌ CH₃COOC₂H₅(l) + H₂O(l), treating all species as being in the same solution?
 <!-- id: chem-3-3-19 -->
 
 - A. M
@@ -8723,12 +8807,12 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. No units
 - D. M²
 
-**Q1223.** For A(g) + B(g) ⇌ C(g), Kc = 2.0 M⁻¹. Determine the value and units of Kc for 2C(g) ⇌ 2A(g) + 2B(g) at the same temperature.
+**Q1233.** For A(g) + B(g) ⇌ C(g), Kc = 2.0 M⁻¹. Determine the value and units of Kc for 2C(g) ⇌ 2A(g) + 2B(g) at the same temperature.
 <!-- id: chem-3-3-20 -->
 
 *Written answer*
 
-**Q1224.** Which statement is true for a chemical system at dynamic equilibrium?
+**Q1234.** Which statement is true for a chemical system at dynamic equilibrium?
 <!-- id: chem-3-3-21 -->
 
 - A. The concentrations of reactants and products are equal
@@ -8736,7 +8820,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. The value of Kc is always equal to 1
 - D. The rates of the forward and reverse reactions are equal and non-zero
 
-**Q1225.** At a certain temperature, Kc for N₂O₄(g) ⇌ 2NO₂(g) is 4.6 × 10⁻³ M. What is Kc for 2NO₂(g) ⇌ N₂O₄(g) at the same temperature?
+**Q1235.** At a certain temperature, Kc for N₂O₄(g) ⇌ 2NO₂(g) is 4.6 × 10⁻³ M. What is Kc for 2NO₂(g) ⇌ N₂O₄(g) at the same temperature?
 <!-- id: chem-3-3-22 -->
 
 - A. 4.6 × 10⁻³ M⁻¹
@@ -8744,7 +8828,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 0.068 M⁻¹
 - D. 2.1 × 10⁻⁵ M⁻¹
 
-**Q1226.** For which reaction would the units of Kc be M?
+**Q1236.** For which reaction would the units of Kc be M?
 <!-- id: chem-3-3-23 -->
 
 - A. H₂(g) + I₂(g) ⇌ 2HI(g)
@@ -8752,17 +8836,17 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. PCl₅(g) ⇌ PCl₃(g) + Cl₂(g)
 - D. N₂(g) + 3H₂(g) ⇌ 2NH₃(g)
 
-**Q1227.** Explain what is meant by the term 'dynamic equilibrium'.
+**Q1237.** Explain what is meant by the term 'dynamic equilibrium'.
 <!-- id: chem-3-3-24 -->
 
 *Written answer*
 
-**Q1228.** 0.800 mol of NO₂ is placed in a 2.00 L vessel. At equilibrium for 2NO₂(g) ⇌ N₂O₄(g), 0.200 mol of N₂O₄ is present. Calculate Kc.
+**Q1238.** 0.800 mol of NO₂ is placed in a 2.00 L vessel. At equilibrium for 2NO₂(g) ⇌ N₂O₄(g), 0.200 mol of N₂O₄ is present. Calculate Kc.
 <!-- id: chem-3-3-25 -->
 
 *Written answer*
 
-**Q1229.** Which expression is the equilibrium constant, K, for the reaction N₂(g) + 3H₂(g) ⇌ 2NH₃(g)?
+**Q1239.** Which expression is the equilibrium constant, K, for the reaction N₂(g) + 3H₂(g) ⇌ 2NH₃(g)?
 <!-- id: chem34a2-eq-1 -->
 
 - A. [NH₃]/([N₂][H₂])
@@ -8770,7 +8854,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. ([N₂][H₂]³)/[NH₃]²
 - D. 2[NH₃]/([N₂] + 3[H₂])
 
-**Q1230.** What are the units of K for the reaction 2SO₂(g) + O₂(g) ⇌ 2SO₃(g)?
+**Q1240.** What are the units of K for the reaction 2SO₂(g) + O₂(g) ⇌ 2SO₃(g)?
 <!-- id: chem34a2-eq-2 -->
 
 - A. mol L⁻¹
@@ -8778,7 +8862,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. No units
 - D. M⁻¹ (L mol⁻¹)
 
-**Q1231.** At a particular temperature, K for the reaction A(g) ⇌ B(g) is 4.0. What is the value of K for 2B(g) ⇌ 2A(g) at the same temperature?
+**Q1241.** At a particular temperature, K for the reaction A(g) ⇌ B(g) is 4.0. What is the value of K for 2B(g) ⇌ 2A(g) at the same temperature?
 <!-- id: chem34a2-eq-3 -->
 
 - A. 0.0625
@@ -8786,7 +8870,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. −8.0
 - D. 16
 
-**Q1232.** A reaction mixture in a closed vessel has a reaction quotient Q = 2.5 × 10⁻³, while K at that temperature is 1.8 × 10⁻². Which statement is correct?
+**Q1242.** A reaction mixture in a closed vessel has a reaction quotient Q = 2.5 × 10⁻³, while K at that temperature is 1.8 × 10⁻². Which statement is correct?
 <!-- id: chem34a2-eq-4 -->
 
 - A. The system is at equilibrium.
@@ -8794,7 +8878,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. The net reaction will proceed in the forward direction until Q increases to K.
 - D. K will decrease until it equals Q.
 
-**Q1233.** A reaction has K = 3 × 10¹⁵ at 25 °C. What can be concluded from this value alone?
+**Q1243.** A reaction has K = 3 × 10¹⁵ at 25 °C. What can be concluded from this value alone?
 <!-- id: chem34a2-eq-5 -->
 
 - A. The reaction is very fast at 25 °C.
@@ -8802,24 +8886,30 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. The reaction is strongly endothermic.
 - D. The reaction goes to completion almost instantly once a catalyst is added.
 
-**Q1234.** 0.500 mol of H₂(g) and 0.500 mol of I₂(g) were placed in a sealed 2.00 L vessel at 450 °C. At equilibrium, 0.780 mol of HI(g) was present. H₂(g) + I₂(g) ⇌ 2HI(g). Calculate K at 450 °C. (3 marks)
+**Q1244.** 0.500 mol of H₂(g) and 0.500 mol of I₂(g) were placed in a sealed 2.00 L vessel at 450 °C. At equilibrium, 0.780 mol of HI(g) was present. H₂(g) + I₂(g) ⇌ 2HI(g). Calculate K at 450 °C. (3 marks)
 <!-- id: chem34a2-eq-6 -->
 
 *Written answer*
 
-**Q1235.** For 2NO₂(g) ⇌ N₂O₄(g), K = 6.0 M⁻¹ at a certain temperature. A mixture at this temperature contains [NO₂] = 0.20 M and [N₂O₄] = 0.50 M. Determine whether the mixture is at equilibrium and, if not, predict how [NO₂] will change. (3 marks)
+**Q1245.** For 2NO₂(g) ⇌ N₂O₄(g), K = 6.0 M⁻¹ at a certain temperature. A mixture at this temperature contains [NO₂] = 0.20 M and [N₂O₄] = 0.50 M. Determine whether the mixture is at equilibrium and, if not, predict how [NO₂] will change. (3 marks)
 <!-- id: chem34a2-eq-7 -->
 
 *Written answer*
 
-**Q1236.** Explain what is meant by 'dynamic equilibrium' and state the only factor that changes the value of K for a given reaction. (2 marks)
+**Q1246.** Explain what is meant by 'dynamic equilibrium' and state the only factor that changes the value of K for a given reaction. (2 marks)
 <!-- id: chem34a2-eq-8 -->
+
+*Written answer*
+
+**Q1247.** 0.100 mol of N₂O₄ is placed in a sealed 1.00 L flask: N₂O₄(g) ⇌ 2NO₂(g). At equilibrium, [NO₂] = 0.060 M. Calculate K.
+<!-- id: chem-3-3-c1 -->
+*Challenge question*
 
 *Written answer*
 
 #### Le Chatelier's principle and yield optimisation
 
-**Q1237.** For N₂(g) + 3H₂(g) ⇌ 2NH₃(g), ΔH = −92 kJ mol⁻¹, the volume of the vessel is decreased at constant temperature. How does the system respond?
+**Q1248.** For N₂(g) + 3H₂(g) ⇌ 2NH₃(g), ΔH = −92 kJ mol⁻¹, the volume of the vessel is decreased at constant temperature. How does the system respond?
 <!-- id: chem-3-4-1 -->
 
 - A. The equilibrium shifts to the left, because there are more gas particles on the reactant side
@@ -8827,7 +8917,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. The equilibrium shifts to the right, because the reaction is exothermic
 - D. The equilibrium shifts to the right, because there are fewer gas particles on the product side
 
-**Q1238.** The temperature of an equilibrium mixture of N₂, H₂ and NH₃ (ΔH = −92 kJ mol⁻¹) is increased. Which statement is correct?
+**Q1249.** The temperature of an equilibrium mixture of N₂, H₂ and NH₃ (ΔH = −92 kJ mol⁻¹) is increased. Which statement is correct?
 <!-- id: chem-3-4-2 -->
 
 - A. The rate and the equilibrium yield of ammonia both increase
@@ -8835,7 +8925,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. The rate increases but the equilibrium yield of ammonia decreases
 - D. The rate increases and the yield of ammonia is unchanged
 
-**Q1239.** The Haber process is typically run at about 400–450 °C, even though lower temperatures give a higher equilibrium yield. This is because:
+**Q1250.** The Haber process is typically run at about 400–450 °C, even though lower temperatures give a higher equilibrium yield. This is because:
 <!-- id: chem-3-4-3 -->
 
 - A. the reaction is endothermic, so high temperatures increase yield
@@ -8843,12 +8933,12 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. ammonia decomposes completely below 400 °C
 - D. a moderate temperature gives an acceptable yield at a fast enough rate (a compromise)
 
-**Q1240.** Using Le Chatelier's principle, explain why increasing pressure increases the equilibrium yield of ammonia in N₂(g) + 3H₂(g) ⇌ 2NH₃(g).
+**Q1251.** Using Le Chatelier's principle, explain why increasing pressure increases the equilibrium yield of ammonia in N₂(g) + 3H₂(g) ⇌ 2NH₃(g).
 <!-- id: chem-3-4-4 -->
 
 *Written answer*
 
-**Q1241.** A catalyst is added to an equilibrium mixture of N₂, H₂ and NH₃. What happens to the amount of ammonia?
+**Q1252.** A catalyst is added to an equilibrium mixture of N₂, H₂ and NH₃. What happens to the amount of ammonia?
 <!-- id: chem-3-4-5 -->
 
 - A. It increases
@@ -8856,7 +8946,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. It does not change
 - D. It increases, then returns to its original amount
 
-**Q1242.** Argon is added to an equilibrium mixture of N₂, H₂ and NH₃ in a rigid sealed vessel at constant temperature. What happens to the equilibrium position?
+**Q1253.** Argon is added to an equilibrium mixture of N₂, H₂ and NH₃ in a rigid sealed vessel at constant temperature. What happens to the equilibrium position?
 <!-- id: chem-3-4-6 -->
 
 - A. It shifts to the right because the total pressure increases
@@ -8864,7 +8954,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. It shifts to the right because argon acts as a catalyst
 - D. It does not shift
 
-**Q1243.** In an industrial ammonia plant, ammonia is continuously removed by condensing it. The effect of this is to:
+**Q1254.** In an industrial ammonia plant, ammonia is continuously removed by condensing it. The effect of this is to:
 <!-- id: chem-3-4-7 -->
 
 - A. shift the equilibrium to the left, regenerating nitrogen and hydrogen
@@ -8872,12 +8962,12 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. lower the activation energy of the reaction
 - D. shift the equilibrium to the right, increasing the overall conversion of reactants
 
-**Q1244.** The Haber process (ΔH = −92 kJ mol⁻¹) is operated at about 450 °C. Explain this choice in terms of both rate and yield.
+**Q1255.** The Haber process (ΔH = −92 kJ mol⁻¹) is operated at about 450 °C. Explain this choice in terms of both rate and yield.
 <!-- id: chem-3-4-8 -->
 
 *Written answer*
 
-**Q1245.** Fe³⁺(aq) + SCN⁻(aq) ⇌ FeSCN²⁺(aq) is an equilibrium in which FeSCN²⁺ is deep red. A few crystals of KSCN are dissolved in the mixture. What is observed?
+**Q1256.** Fe³⁺(aq) + SCN⁻(aq) ⇌ FeSCN²⁺(aq) is an equilibrium in which FeSCN²⁺ is deep red. A few crystals of KSCN are dissolved in the mixture. What is observed?
 <!-- id: chem-3-4-9 -->
 
 - A. The solution becomes a deeper red
@@ -8885,7 +8975,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. The colour does not change
 - D. The solution becomes colourless
 
-**Q1246.** For Fe³⁺(aq) + SCN⁻(aq) ⇌ FeSCN²⁺(aq) (deep red), a few drops of AgNO₃ solution are added, precipitating AgSCN. What is observed?
+**Q1257.** For Fe³⁺(aq) + SCN⁻(aq) ⇌ FeSCN²⁺(aq) (deep red), a few drops of AgNO₃ solution are added, precipitating AgSCN. What is observed?
 <!-- id: chem-3-4-10 -->
 
 - A. The red colour becomes paler
@@ -8893,7 +8983,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. The colour does not change
 - D. The solution turns blue
 
-**Q1247.** 2NO₂(g) ⇌ N₂O₄(g), ΔH = −57 kJ mol⁻¹. NO₂ is brown and N₂O₄ is colourless. A sealed flask of the equilibrium mixture is placed in hot water. What is observed?
+**Q1258.** 2NO₂(g) ⇌ N₂O₄(g), ΔH = −57 kJ mol⁻¹. NO₂ is brown and N₂O₄ is colourless. A sealed flask of the equilibrium mixture is placed in hot water. What is observed?
 <!-- id: chem-3-4-11 -->
 
 - A. The mixture becomes paler
@@ -8901,12 +8991,12 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. The mixture becomes darker brown
 - D. The mixture becomes colourless
 
-**Q1248.** A syringe contains an equilibrium mixture of 2NO₂(g) (brown) ⇌ N₂O₄(g) (colourless). The plunger is pushed in and held. Describe and explain the colour changes observed.
+**Q1259.** A syringe contains an equilibrium mixture of 2NO₂(g) (brown) ⇌ N₂O₄(g) (colourless). The plunger is pushed in and held. Describe and explain the colour changes observed.
 <!-- id: chem-3-4-12 -->
 
 *Written answer*
 
-**Q1249.** A gas syringe containing an equilibrium mixture of brown NO₂ and colourless N₂O₄ (2NO₂ ⇌ N₂O₄) is quickly compressed to half its volume. What is observed?
+**Q1260.** A gas syringe containing an equilibrium mixture of brown NO₂ and colourless N₂O₄ (2NO₂ ⇌ N₂O₄) is quickly compressed to half its volume. What is observed?
 <!-- id: chem-3-4-13 -->
 
 - A. The colour lightens immediately and stays lighter than originally
@@ -8914,7 +9004,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. There is no colour change because the number of molecules is unchanged
 - D. The colour darkens immediately, then lightens somewhat but remains darker than originally
 
-**Q1250.** For H₂(g) + I₂(g) ⇌ 2HI(g), the pressure is increased by decreasing the volume. What is the effect on the equilibrium position?
+**Q1261.** For H₂(g) + I₂(g) ⇌ 2HI(g), the pressure is increased by decreasing the volume. What is the effect on the equilibrium position?
 <!-- id: chem-3-4-14 -->
 
 - A. It shifts right, because the products have fewer gas particles
@@ -8922,7 +9012,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. It shifts left, because the reactants have fewer gas particles
 - D. It shifts right, because the reaction is exothermic
 
-**Q1251.** In the contact process, 2SO₂(g) + O₂(g) ⇌ 2SO₃(g), ΔH = −197 kJ mol⁻¹. Which conditions would give the highest equilibrium yield of SO₃?
+**Q1262.** In the contact process, 2SO₂(g) + O₂(g) ⇌ 2SO₃(g), ΔH = −197 kJ mol⁻¹. Which conditions would give the highest equilibrium yield of SO₃?
 <!-- id: chem-3-4-15 -->
 
 - A. Low temperature and high pressure
@@ -8930,12 +9020,12 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. Low temperature and low pressure
 - D. High temperature and low pressure
 
-**Q1252.** For CH₄(g) + H₂O(g) ⇌ CO(g) + 3H₂(g), ΔH = +206 kJ mol⁻¹, predict the effect of increasing the temperature on the value of Kc and on the yield of hydrogen. Explain.
+**Q1263.** For CH₄(g) + H₂O(g) ⇌ CO(g) + 3H₂(g), ΔH = +206 kJ mol⁻¹, predict the effect of increasing the temperature on the value of Kc and on the yield of hydrogen. Explain.
 <!-- id: chem-3-4-16 -->
 
 *Written answer*
 
-**Q1253.** The contact process is usually operated at only slightly above atmospheric pressure, even though high pressure would increase yield. The main reason is that:
+**Q1264.** The contact process is usually operated at only slightly above atmospheric pressure, even though high pressure would increase yield. The main reason is that:
 <!-- id: chem-3-4-17 -->
 
 - A. high pressure would decrease the yield of SO₃
@@ -8943,7 +9033,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. the conversion to SO₃ is already very high at low pressure, so the extra cost of high pressure is not justified
 - D. the reaction cannot occur above atmospheric pressure
 
-**Q1254.** Water is added to dilute an equilibrium mixture of Fe³⁺(aq) + SCN⁻(aq) ⇌ FeSCN²⁺(aq). How does the equilibrium respond?
+**Q1265.** Water is added to dilute an equilibrium mixture of Fe³⁺(aq) + SCN⁻(aq) ⇌ FeSCN²⁺(aq). How does the equilibrium respond?
 <!-- id: chem-3-4-18 -->
 
 - A. It shifts to the left, the side with more dissolved particles
@@ -8951,7 +9041,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. It does not shift, because all species are diluted equally
 - D. It shifts to the right, because water is a product
 
-**Q1255.** Extra H₂ is added to the Haber equilibrium mixture at constant volume and temperature. Once equilibrium is re-established, how does [N₂] compare with its value before the H₂ was added?
+**Q1266.** Extra H₂ is added to the Haber equilibrium mixture at constant volume and temperature. Once equilibrium is re-established, how does [N₂] compare with its value before the H₂ was added?
 <!-- id: chem-3-4-19 -->
 
 - A. It is lower
@@ -8959,12 +9049,12 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. It is the same
 - D. It is zero
 
-**Q1256.** Explain why adding a catalyst does not increase the yield of an equilibrium reaction, yet catalysts are still essential in industrial processes such as the Haber process.
+**Q1267.** Explain why adding a catalyst does not increase the yield of an equilibrium reaction, yet catalysts are still essential in industrial processes such as the Haber process.
 <!-- id: chem-3-4-20 -->
 
 *Written answer*
 
-**Q1257.** Steam reforming of methane is CH₄(g) + H₂O(g) ⇌ CO(g) + 3H₂(g), ΔH = +206 kJ mol⁻¹. Which conditions favour the highest equilibrium yield of hydrogen?
+**Q1268.** Steam reforming of methane is CH₄(g) + H₂O(g) ⇌ CO(g) + 3H₂(g), ΔH = +206 kJ mol⁻¹. Which conditions favour the highest equilibrium yield of hydrogen?
 <!-- id: chem-3-4-21 -->
 
 - A. Low temperature and high pressure
@@ -8972,7 +9062,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. High temperature and high pressure
 - D. Low temperature and low pressure
 
-**Q1258.** Which statement best expresses Le Chatelier's principle?
+**Q1269.** Which statement best expresses Le Chatelier's principle?
 <!-- id: chem-3-4-22 -->
 
 - A. If an equilibrium system is subjected to a change, the system adjusts to completely reverse that change
@@ -8980,7 +9070,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. An equilibrium system always shifts towards the products when disturbed
 - D. The value of K changes to oppose any change made to an equilibrium system
 
-**Q1259.** The temperature of an equilibrium mixture for an endothermic reaction is increased. Which statement is correct once equilibrium is re-established?
+**Q1270.** The temperature of an equilibrium mixture for an endothermic reaction is increased. Which statement is correct once equilibrium is re-established?
 <!-- id: chem-3-4-23 -->
 
 - A. The value of K has decreased and the yield of products is smaller
@@ -8988,17 +9078,17 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. The value of K is unchanged but the yield of products is greater
 - D. The value of K has increased but the yield of products is smaller
 
-**Q1260.** For the esterification CH₃COOH + C₂H₅OH ⇌ CH₃COOC₂H₅ + H₂O, suggest two ways to increase the yield of ethyl ethanoate and explain each.
+**Q1271.** For the esterification CH₃COOH + C₂H₅OH ⇌ CH₃COOC₂H₅ + H₂O, suggest two ways to increase the yield of ethyl ethanoate and explain each.
 <!-- id: chem-3-4-24 -->
 
 *Written answer*
 
-**Q1261.** Extra O₂ is added at constant volume and temperature to an equilibrium mixture of 2SO₂(g) + O₂(g) ⇌ 2SO₃(g). Describe how [O₂], [SO₂], [SO₃] and Kc compare with their original values once equilibrium is re-established.
+**Q1272.** Extra O₂ is added at constant volume and temperature to an equilibrium mixture of 2SO₂(g) + O₂(g) ⇌ 2SO₃(g). Describe how [O₂], [SO₂], [SO₃] and Kc compare with their original values once equilibrium is re-established.
 <!-- id: chem-3-4-25 -->
 
 *Written answer*
 
-**Q1262.** N₂O₄(g) ⇌ 2NO₂(g), ΔH = +58 kJ mol⁻¹. N₂O₄ is colourless and NO₂ is brown. A sealed syringe of the equilibrium mixture is placed in hot water. Which observation and explanation are correct?
+**Q1273.** N₂O₄(g) ⇌ 2NO₂(g), ΔH = +58 kJ mol⁻¹. N₂O₄ is colourless and NO₂ is brown. A sealed syringe of the equilibrium mixture is placed in hot water. Which observation and explanation are correct?
 <!-- id: chem34a2-lc-1 -->
 
 - A. The mixture becomes paler because the reverse reaction is endothermic.
@@ -9006,7 +9096,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. The mixture becomes browner but the value of K is unchanged.
 - D. No colour change occurs because temperature only affects rate.
 
-**Q1263.** A catalyst is added to a system already at equilibrium. Which statement is correct?
+**Q1274.** A catalyst is added to a system already at equilibrium. Which statement is correct?
 <!-- id: chem34a2-lc-2 -->
 
 - A. The equilibrium position shifts to the right.
@@ -9014,7 +9104,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. The forward rate increases more than the reverse rate.
 - D. The forward and reverse rates increase equally, so the position does not change.
 
-**Q1264.** The volume of a vessel containing H₂(g) + I₂(g) ⇌ 2HI(g) at equilibrium is suddenly halved at constant temperature. I₂ is purple. What is observed?
+**Q1275.** The volume of a vessel containing H₂(g) + I₂(g) ⇌ 2HI(g) at equilibrium is suddenly halved at constant temperature. I₂ is purple. What is observed?
 <!-- id: chem34a2-lc-3 -->
 
 - A. The colour becomes darker and the equilibrium position does not shift.
@@ -9022,7 +9112,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. The colour becomes paler because the reaction shifts right.
 - D. There is no change in colour or concentrations.
 
-**Q1265.** Argon gas is added to an equilibrium mixture of 2SO₂(g) + O₂(g) ⇌ 2SO₃(g) in a rigid, sealed container at constant temperature. What happens?
+**Q1276.** Argon gas is added to an equilibrium mixture of 2SO₂(g) + O₂(g) ⇌ 2SO₃(g) in a rigid, sealed container at constant temperature. What happens?
 <!-- id: chem34a2-lc-4 -->
 
 - A. The equilibrium shifts right because total pressure increased.
@@ -9030,7 +9120,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. The equilibrium position does not change.
 - D. K increases because total pressure increased.
 
-**Q1266.** A concentration–time graph for 2SO₂(g) + O₂(g) ⇌ 2SO₃(g) shows that at time t, [SO₃] jumps up vertically and then gradually decreases, while [SO₂] and [O₂] gradually increase from t until new constant values. What change was made at time t?
+**Q1277.** A concentration–time graph for 2SO₂(g) + O₂(g) ⇌ 2SO₃(g) shows that at time t, [SO₃] jumps up vertically and then gradually decreases, while [SO₂] and [O₂] gradually increase from t until new constant values. What change was made at time t?
 <!-- id: chem34a2-lc-5 -->
 
 - A. The temperature was increased.
@@ -9038,22 +9128,22 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. The volume of the vessel was decreased.
 - D. A catalyst was added.
 
-**Q1267.** Methanol is made by CO(g) + 2H₂(g) ⇌ CH₃OH(g), ΔH = −91 kJ mol⁻¹. Explain the effect of increasing pressure, by decreasing the volume at constant temperature, on the equilibrium yield of methanol and on K. (3 marks)
+**Q1278.** Methanol is made by CO(g) + 2H₂(g) ⇌ CH₃OH(g), ΔH = −91 kJ mol⁻¹. Explain the effect of increasing pressure, by decreasing the volume at constant temperature, on the equilibrium yield of methanol and on K. (3 marks)
 <!-- id: chem34a2-lc-6 -->
 
 *Written answer*
 
-**Q1268.** Fe³⁺(aq) + SCN⁻(aq) ⇌ FeSCN²⁺(aq). FeSCN²⁺ is deep red. Water is added to double the volume of an equilibrium mixture. Using the reaction quotient, explain the direction of the shift and the colour change observed. (3 marks)
+**Q1279.** Fe³⁺(aq) + SCN⁻(aq) ⇌ FeSCN²⁺(aq). FeSCN²⁺ is deep red. Water is added to double the volume of an equilibrium mixture. Using the reaction quotient, explain the direction of the shift and the colour change observed. (3 marks)
 <!-- id: chem34a2-lc-7 -->
 
 *Written answer*
 
-**Q1269.** For the exothermic reaction N₂(g) + 3H₂(g) ⇌ 2NH₃(g), the temperature of an equilibrium mixture is increased at constant volume. Describe the changes you would see on a concentration–time graph for all three species, and state the effect on K. (3 marks)
+**Q1280.** For the exothermic reaction N₂(g) + 3H₂(g) ⇌ 2NH₃(g), the temperature of an equilibrium mixture is increased at constant volume. Describe the changes you would see on a concentration–time graph for all three species, and state the effect on K. (3 marks)
 <!-- id: chem34a2-lc-8 -->
 
 *Written answer*
 
-**Q1270.** The Haber process (N₂(g) + 3H₂(g) ⇌ 2NH₃(g), ΔH = −92 kJ mol⁻¹) operates at about 400–450 °C. Why is a lower temperature not used?
+**Q1281.** The Haber process (N₂(g) + 3H₂(g) ⇌ 2NH₃(g), ΔH = −92 kJ mol⁻¹) operates at about 400–450 °C. Why is a lower temperature not used?
 <!-- id: chem34a2-ind-1 -->
 
 - A. Lower temperatures would decrease the equilibrium yield of ammonia.
@@ -9061,7 +9151,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. Lower temperatures would give a higher yield, but the rate would be too slow to be economical.
 - D. Ammonia decomposes at temperatures below 400 °C.
 
-**Q1271.** Which statement best describes the role of the iron catalyst in the Haber process?
+**Q1282.** Which statement best describes the role of the iron catalyst in the Haber process?
 <!-- id: chem34a2-ind-2 -->
 
 - A. It increases the rate of reaction without changing the equilibrium yield.
@@ -9069,7 +9159,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. It increases the value of K.
 - D. It makes the reaction more exothermic.
 
-**Q1272.** In the Haber process, the gas mixture leaving the reactor is cooled so that ammonia condenses and is removed; the unreacted N₂ and H₂ are recycled. What is the main effect of this?
+**Q1283.** In the Haber process, the gas mixture leaving the reactor is cooled so that ammonia condenses and is removed; the unreacted N₂ and H₂ are recycled. What is the main effect of this?
 <!-- id: chem34a2-ind-3 -->
 
 - A. It increases K for the reaction.
@@ -9077,7 +9167,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. It increases the rate by raising the temperature of the reactor.
 - D. It reduces the need for high pressure to zero.
 
-**Q1273.** In the contact process, 2SO₂(g) + O₂(g) ⇌ 2SO₃(g) is exothermic and has fewer gas particles on the product side, yet it is run at only slightly above atmospheric pressure. What is the best reason?
+**Q1284.** In the contact process, 2SO₂(g) + O₂(g) ⇌ 2SO₃(g) is exothermic and has fewer gas particles on the product side, yet it is run at only slightly above atmospheric pressure. What is the best reason?
 <!-- id: chem34a2-ind-4 -->
 
 - A. High pressure would decrease the yield of SO₃.
@@ -9085,7 +9175,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. Pressure has no effect on this equilibrium.
 - D. Conversion is already very high (about 99%) at low pressure, so the extra cost of high-pressure equipment is not justified.
 
-**Q1274.** An engineer proposes raising the temperature of an exothermic equilibrium reaction in an industrial reactor. Which pair of effects is expected?
+**Q1285.** An engineer proposes raising the temperature of an exothermic equilibrium reaction in an industrial reactor. Which pair of effects is expected?
 <!-- id: chem34a2-ind-5 -->
 
 - A. Rate increases; equilibrium yield increases.
@@ -9093,26 +9183,35 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. Rate increases; equilibrium yield decreases.
 - D. Rate is unchanged; equilibrium yield decreases.
 
-**Q1275.** Methanol is manufactured by CO(g) + 2H₂(g) ⇌ CH₃OH(g), ΔH = −91 kJ mol⁻¹, at about 250 °C and 50–100 atm with a Cu/ZnO catalyst. Explain why these conditions are a compromise. (3 marks)
+**Q1286.** Methanol is manufactured by CO(g) + 2H₂(g) ⇌ CH₃OH(g), ΔH = −91 kJ mol⁻¹, at about 250 °C and 50–100 atm with a Cu/ZnO catalyst. Explain why these conditions are a compromise. (3 marks)
 <!-- id: chem34a2-ind-6 -->
 
 *Written answer*
 
-**Q1276.** A Haber process plant uses 10.0 tonnes of N₂ in excess H₂ and collects 2.50 tonnes of NH₃ in a single pass. Calculate the percentage yield. (3 marks)
+**Q1287.** A Haber process plant uses 10.0 tonnes of N₂ in excess H₂ and collects 2.50 tonnes of NH₃ in a single pass. Calculate the percentage yield. (3 marks)
 <!-- id: chem34a2-ind-7 -->
 
 *Written answer*
 
-**Q1277.** Explain how the use of a catalyst in an industrial process supports the green chemistry principle of energy efficiency. (2 marks)
+**Q1288.** Explain how the use of a catalyst in an industrial process supports the green chemistry principle of energy efficiency. (2 marks)
 <!-- id: chem34a2-ind-8 -->
 
 *Written answer*
+
+**Q1289.** Argon is added to an equilibrium mixture of N₂, H₂ and NH₃ in a rigid container at constant temperature. The equilibrium position:
+<!-- id: chem-3-4-c1 -->
+*Challenge question*
+
+- A. Shifts right, because total pressure increases
+- B. Does not change, because the concentrations of the reacting gases are unchanged
+- C. Shifts left, because argon dilutes the mixture
+- D. Shifts right, because K increases
 
 ### Electrolysis & rechargeable cells
 
 #### Electrolytic cell design and products
 
-**Q1278.** In an electrolytic cell, oxidation occurs at the
+**Q1290.** In an electrolytic cell, oxidation occurs at the
 <!-- id: chem-4-1-1 -->
 
 - A. anode, which is connected to the positive terminal of the power supply
@@ -9120,7 +9219,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. anode, which is connected to the negative terminal of the power supply
 - D. cathode, which is connected to the positive terminal of the power supply
 
-**Q1279.** Which energy transformation occurs in an electrolytic cell?
+**Q1291.** Which energy transformation occurs in an electrolytic cell?
 <!-- id: chem-4-1-2 -->
 
 - A. Chemical energy to electrical energy
@@ -9128,7 +9227,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. Chemical energy to thermal energy only
 - D. Light energy to chemical energy
 
-**Q1280.** Molten sodium chloride is electrolysed using inert electrodes. The product at the cathode is
+**Q1292.** Molten sodium chloride is electrolysed using inert electrodes. The product at the cathode is
 <!-- id: chem-4-1-3 -->
 
 - A. chlorine gas
@@ -9136,12 +9235,12 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. sodium liquid
 - D. oxygen gas
 
-**Q1281.** Write the anode and cathode half-equations for the electrolysis of molten potassium bromide.
+**Q1293.** Write the anode and cathode half-equations for the electrolysis of molten potassium bromide.
 <!-- id: chem-4-1-4 -->
 
 *Written answer*
 
-**Q1282.** Molten sodium chloride is electrolysed using inert electrodes. The product at the anode is
+**Q1294.** Molten sodium chloride is electrolysed using inert electrodes. The product at the anode is
 <!-- id: chem-4-1-5 -->
 
 - A. sodium liquid
@@ -9149,7 +9248,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. hydrogen gas
 - D. chlorine gas
 
-**Q1283.** A 1.0 M aqueous sodium chloride solution is electrolysed with inert graphite electrodes. What forms at the cathode?
+**Q1295.** A 1.0 M aqueous sodium chloride solution is electrolysed with inert graphite electrodes. What forms at the cathode?
 <!-- id: chem-4-1-6 -->
 
 - A. Hydrogen gas and hydroxide ions
@@ -9157,7 +9256,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. Chlorine gas
 - D. Oxygen gas and hydrogen ions
 
-**Q1284.** Dilute aqueous sodium sulfate is electrolysed with platinum electrodes. The ratio of the volume of gas at the cathode to that at the anode (same conditions) is
+**Q1296.** Dilute aqueous sodium sulfate is electrolysed with platinum electrodes. The ratio of the volume of gas at the cathode to that at the anode (same conditions) is
 <!-- id: chem-4-1-7 -->
 
 - A. 1 : 1
@@ -9165,12 +9264,12 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 1 : 2
 - D. 4 : 1
 
-**Q1285.** Explain why sodium metal is not produced when dilute aqueous sodium chloride is electrolysed.
+**Q1297.** Explain why sodium metal is not produced when dilute aqueous sodium chloride is electrolysed.
 <!-- id: chem-4-1-8 -->
 
 *Written answer*
 
-**Q1286.** During electrolysis of aqueous copper(II) sulfate with graphite electrodes, which observation is expected over time?
+**Q1298.** During electrolysis of aqueous copper(II) sulfate with graphite electrodes, which observation is expected over time?
 <!-- id: chem-4-1-9 -->
 
 - A. The blue colour deepens and the solution becomes basic
@@ -9178,7 +9277,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. The blue colour fades and the solution becomes more acidic
 - D. A green gas forms at the anode
 
-**Q1287.** Aqueous copper(II) sulfate is electrolysed using copper electrodes. Which statement is correct?
+**Q1299.** Aqueous copper(II) sulfate is electrolysed using copper electrodes. Which statement is correct?
 <!-- id: chem-4-1-10 -->
 
 - A. Oxygen gas forms at the anode and the solution becomes acidic
@@ -9186,7 +9285,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. The concentration of Cu²⁺ decreases steadily
 - D. The anode is oxidised to Cu²⁺ and the concentration of Cu²⁺ in solution stays approximately constant
 
-**Q1288.** In the industrial electrolysis of concentrated brine, chlorine rather than oxygen is the main anode product. This is mainly because
+**Q1300.** In the industrial electrolysis of concentrated brine, chlorine rather than oxygen is the main anode product. This is mainly because
 <!-- id: chem-4-1-11 -->
 
 - A. the high Cl⁻ concentration and the large overpotential for O₂ formation favour oxidation of Cl⁻
@@ -9194,12 +9293,12 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. oxygen cannot be formed in any aqueous electrolysis
 - D. sodium ions block water from reaching the anode
 
-**Q1289.** Write the overall equation for the electrolysis of dilute sulfuric acid using platinum electrodes.
+**Q1301.** Write the overall equation for the electrolysis of dilute sulfuric acid using platinum electrodes.
 <!-- id: chem-4-1-12 -->
 
 *Written answer*
 
-**Q1290.** Aqueous potassium iodide is electrolysed with inert electrodes. The products at the anode and cathode respectively are
+**Q1302.** Aqueous potassium iodide is electrolysed with inert electrodes. The products at the anode and cathode respectively are
 <!-- id: chem-4-1-13 -->
 
 - A. oxygen and potassium
@@ -9207,7 +9306,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. iodine and potassium
 - D. oxygen and hydrogen
 
-**Q1291.** Aluminium is produced by electrolysing alumina dissolved in molten cryolite rather than an aqueous solution because
+**Q1303.** Aluminium is produced by electrolysing alumina dissolved in molten cryolite rather than an aqueous solution because
 <!-- id: chem-4-1-14 -->
 
 - A. Al³⁺ is a stronger oxidant than water
@@ -9215,7 +9314,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. water would be reduced in preference to Al³⁺
 - D. molten electrolytes do not conduct electricity
 
-**Q1292.** Using standard electrode potentials (Cu²⁺/Cu = +0.34 V, O₂/H₂O = +1.23 V), the theoretical minimum voltage to electrolyse aqueous CuSO₄ with inert electrodes is
+**Q1304.** Using standard electrode potentials (Cu²⁺/Cu = +0.34 V, O₂/H₂O = +1.23 V), the theoretical minimum voltage to electrolyse aqueous CuSO₄ with inert electrodes is
 <!-- id: chem-4-1-15 -->
 
 - A. 1.57 V
@@ -9223,12 +9322,12 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 1.23 V
 - D. 0.89 V
 
-**Q1293.** Aqueous nickel(II) sulfate is electrolysed with inert electrodes. Write the overall equation.
+**Q1305.** Aqueous nickel(II) sulfate is electrolysed with inert electrodes. Write the overall equation.
 <!-- id: chem-4-1-16 -->
 
 *Written answer*
 
-**Q1294.** In an electrolytic cell, electrons in the external circuit flow
+**Q1306.** In an electrolytic cell, electrons in the external circuit flow
 <!-- id: chem-4-1-17 -->
 
 - A. from the anode to the positive terminal of the power supply, and from the negative terminal to the cathode
@@ -9236,7 +9335,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. from the cathode through the power supply to the anode
 - D. through the electrolyte from anode to cathode
 
-**Q1295.** In an electrolytic cell, cations in the electrolyte migrate towards the
+**Q1307.** In an electrolytic cell, cations in the electrolyte migrate towards the
 <!-- id: chem-4-1-18 -->
 
 - A. anode, which is negative
@@ -9244,7 +9343,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. cathode, which is positive
 - D. anode, which is positive
 
-**Q1296.** Aqueous silver nitrate is electrolysed using platinum electrodes. The products are
+**Q1308.** Aqueous silver nitrate is electrolysed using platinum electrodes. The products are
 <!-- id: chem-4-1-19 -->
 
 - A. hydrogen at the cathode and oxygen at the anode
@@ -9252,12 +9351,12 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. silver at the cathode and oxygen at the anode
 - D. silver at the anode and oxygen at the cathode
 
-**Q1297.** Using E°(I₂/I⁻) = +0.54 V and E°(H₂O/H₂) = −0.83 V, calculate the minimum theoretical voltage needed to electrolyse aqueous potassium iodide.
+**Q1309.** Using E°(I₂/I⁻) = +0.54 V and E°(H₂O/H₂) = −0.83 V, calculate the minimum theoretical voltage needed to electrolyse aqueous potassium iodide.
 <!-- id: chem-4-1-20 -->
 
 *Written answer*
 
-**Q1298.** During electrolysis of aqueous sodium chloride, the pH of the solution near the cathode
+**Q1310.** During electrolysis of aqueous sodium chloride, the pH of the solution near the cathode
 <!-- id: chem-4-1-21 -->
 
 - A. decreases
@@ -9265,7 +9364,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. first increases and then returns to 7 immediately
 - D. increases
 
-**Q1299.** In the Downs cell for producing sodium from molten NaCl, calcium chloride is added mainly to
+**Q1311.** In the Downs cell for producing sodium from molten NaCl, calcium chloride is added mainly to
 <!-- id: chem-4-1-22 -->
 
 - A. lower the melting point of the electrolyte and reduce energy costs
@@ -9273,7 +9372,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. increase the melting point so sodium does not boil
 - D. provide calcium ions to be reduced instead of sodium
 
-**Q1300.** In the Downs cell, the sodium and chlorine products must be kept separated mainly because
+**Q1312.** In the Downs cell, the sodium and chlorine products must be kept separated mainly because
 <!-- id: chem-4-1-23 -->
 
 - A. chlorine dissolves in liquid sodium without reacting
@@ -9281,17 +9380,17 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. sodium is a gas at the operating temperature
 - D. chlorine would be reduced back to Cl⁻ at the anode
 
-**Q1301.** Explain why an electrolytic cell requires an external power supply.
+**Q1313.** Explain why an electrolytic cell requires an external power supply.
 <!-- id: chem-4-1-24 -->
 
 *Written answer*
 
-**Q1302.** Explain why graphite or platinum is often chosen as the electrode material in electrolysis.
+**Q1314.** Explain why graphite or platinum is often chosen as the electrode material in electrolysis.
 <!-- id: chem-4-1-25 -->
 
 *Written answer*
 
-**Q1303.** Which statement about an electrolytic cell is correct?
+**Q1315.** Which statement about an electrolytic cell is correct?
 <!-- id: chem34a2-ely-1 -->
 
 - A. Oxidation occurs at the anode, which is the positive electrode.
@@ -9299,7 +9398,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. Reduction occurs at the anode, which is the positive electrode.
 - D. Reduction occurs at the cathode, which is the positive electrode.
 
-**Q1304.** Molten sodium chloride is electrolysed using inert electrodes. What are the products at the cathode and anode?
+**Q1316.** Molten sodium chloride is electrolysed using inert electrodes. What are the products at the cathode and anode?
 <!-- id: chem34a2-ely-2 -->
 
 - A. Cathode: H₂(g); anode: Cl₂(g)
@@ -9307,7 +9406,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. Cathode: Cl₂(g); anode: Na(l)
 - D. Cathode: Na(l); anode: O₂(g)
 
-**Q1305.** A 1.0 M Na₂SO₄(aq) solution is electrolysed using platinum electrodes. Which products form?
+**Q1317.** A 1.0 M Na₂SO₄(aq) solution is electrolysed using platinum electrodes. Which products form?
 <!-- id: chem34a2-ely-3 -->
 
 - A. Na(s) at the cathode and SO₂(g) at the anode
@@ -9315,7 +9414,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. H₂(g) at the anode and O₂(g) at the cathode
 - D. H₂(g) at the cathode and O₂(g) at the anode, in a 2 : 1 volume ratio
 
-**Q1306.** CuSO₄(aq) is electrolysed using copper electrodes. Which statement is correct?
+**Q1318.** CuSO₄(aq) is electrolysed using copper electrodes. Which statement is correct?
 <!-- id: chem34a2-ely-4 -->
 
 - A. Oxygen gas forms at the anode and [Cu²⁺] decreases.
@@ -9323,7 +9422,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. The anode loses mass, the cathode gains mass, and [Cu²⁺] stays approximately constant.
 - D. Hydrogen forms at the cathode and the solution becomes basic.
 
-**Q1307.** Which statement correctly compares an electrolytic cell with a galvanic cell?
+**Q1319.** Which statement correctly compares an electrolytic cell with a galvanic cell?
 <!-- id: chem34a2-ely-5 -->
 
 - A. An electrolytic cell converts chemical energy into electrical energy.
@@ -9331,24 +9430,33 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. Both cells require a salt bridge to function.
 - D. In both cells the cathode is the negative electrode.
 
-**Q1308.** 1.0 M KI(aq) is electrolysed with inert graphite electrodes. Using the electrochemical series, write the half-equations at each electrode, the overall equation, and one observation at each electrode. (4 marks)
+**Q1320.** 1.0 M KI(aq) is electrolysed with inert graphite electrodes. Using the electrochemical series, write the half-equations at each electrode, the overall equation, and one observation at each electrode. (4 marks)
 <!-- id: chem34a2-ely-6 -->
 
 *Written answer*
 
-**Q1309.** Explain why sodium metal is produced industrially by electrolysis of molten NaCl rather than aqueous NaCl. (2 marks)
+**Q1321.** Explain why sodium metal is produced industrially by electrolysis of molten NaCl rather than aqueous NaCl. (2 marks)
 <!-- id: chem34a2-ely-7 -->
 
 *Written answer*
 
-**Q1310.** A steel spoon is to be electroplated with silver. Describe the setup (electrode materials, polarity and electrolyte) and write the half-equations at each electrode. (3 marks)
+**Q1322.** A steel spoon is to be electroplated with silver. Describe the setup (electrode materials, polarity and electrolyte) and write the half-equations at each electrode. (3 marks)
 <!-- id: chem34a2-ely-8 -->
 
 *Written answer*
 
+**Q1323.** Dilute aqueous potassium iodide is electrolysed with inert electrodes. The main products at the cathode and the anode are:
+<!-- id: chem-4-1-c1 -->
+*Challenge question*
+
+- A. Potassium at the cathode; iodine at the anode
+- B. Hydrogen gas at the cathode; oxygen gas at the anode
+- C. Hydrogen gas at the cathode; iodine at the anode
+- D. Iodine at the cathode; hydrogen gas at the anode
+
 #### Faraday's laws and calculations
 
-**Q1311.** A current of 2.00 A flows for 10.0 minutes. The charge passed is
+**Q1324.** A current of 2.00 A flows for 10.0 minutes. The charge passed is
 <!-- id: chem-4-2-1 -->
 
 - A. 1.20 × 10³ C
@@ -9356,7 +9464,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 1.20 × 10² C
 - D. 1.20 × 10⁴ C
 
-**Q1312.** How many moles of electrons are delivered by 9650 C of charge? (F = 96 500 C mol⁻¹)
+**Q1325.** How many moles of electrons are delivered by 9650 C of charge? (F = 96 500 C mol⁻¹)
 <!-- id: chem-4-2-2 -->
 
 - A. 1.00 mol
@@ -9364,7 +9472,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 0.0100 mol
 - D. 10.0 mol
 
-**Q1313.** What mass of copper is deposited from Cu²⁺(aq) by 0.200 mol of electrons?
+**Q1326.** What mass of copper is deposited from Cu²⁺(aq) by 0.200 mol of electrons?
 <!-- id: chem-4-2-3 -->
 
 - A. 12.7 g
@@ -9372,12 +9480,12 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 6.35 g
 - D. 63.5 g
 
-**Q1314.** Calculate the mass of nickel deposited from Ni²⁺(aq) when a current of 1.50 A flows for 45.0 minutes.
+**Q1327.** Calculate the mass of nickel deposited from Ni²⁺(aq) when a current of 1.50 A flows for 45.0 minutes.
 <!-- id: chem-4-2-4 -->
 
 *Written answer*
 
-**Q1315.** A current of 5.00 A passes through aqueous silver nitrate for 1.00 hour. The mass of silver deposited is closest to
+**Q1328.** A current of 5.00 A passes through aqueous silver nitrate for 1.00 hour. The mass of silver deposited is closest to
 <!-- id: chem-4-2-5 -->
 
 - A. 10.1 g
@@ -9385,7 +9493,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 40.3 g
 - D. 20.1 g
 
-**Q1316.** Faraday's first law of electrolysis states that the amount of substance produced at an electrode is
+**Q1329.** Faraday's first law of electrolysis states that the amount of substance produced at an electrode is
 <!-- id: chem-4-2-6 -->
 
 - A. directly proportional to the quantity of charge passed
@@ -9393,7 +9501,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. directly proportional to the voltage applied
 - D. independent of the time of electrolysis
 
-**Q1317.** Two cells containing AgNO₃(aq) and CuSO₄(aq) are connected in series. If 0.20 mol of silver is deposited, the amount of copper deposited is
+**Q1330.** Two cells containing AgNO₃(aq) and CuSO₄(aq) are connected in series. If 0.20 mol of silver is deposited, the amount of copper deposited is
 <!-- id: chem-4-2-7 -->
 
 - A. 0.20 mol
@@ -9401,12 +9509,12 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 0.40 mol
 - D. 0.050 mol
 
-**Q1318.** How long, in minutes, is needed to plate 5.00 g of silver from Ag⁺(aq) using a current of 0.750 A?
+**Q1331.** How long, in minutes, is needed to plate 5.00 g of silver from Ag⁺(aq) using a current of 0.750 A?
 <!-- id: chem-4-2-8 -->
 
 *Written answer*
 
-**Q1319.** How long would it take a current of 3.00 A to deposit 2.00 g of zinc from Zn²⁺(aq)?
+**Q1332.** How long would it take a current of 3.00 A to deposit 2.00 g of zinc from Zn²⁺(aq)?
 <!-- id: chem-4-2-9 -->
 
 - A. 16.4 min
@@ -9414,7 +9522,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 32.8 min
 - D. 1.97 min
 
-**Q1320.** The charge required to produce 1.00 kg of aluminium from Al³⁺ is closest to
+**Q1333.** The charge required to produce 1.00 kg of aluminium from Al³⁺ is closest to
 <!-- id: chem-4-2-10 -->
 
 - A. 3.57 × 10⁶ C
@@ -9422,7 +9530,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 1.07 × 10⁴ C
 - D. 1.07 × 10⁷ C
 
-**Q1321.** A current of 2.00 A for 965 s is used to produce chlorine from molten NaCl. The volume of Cl₂ at SLC (24.8 L mol⁻¹) is
+**Q1334.** A current of 2.00 A for 965 s is used to produce chlorine from molten NaCl. The volume of Cl₂ at SLC (24.8 L mol⁻¹) is
 <!-- id: chem-4-2-11 -->
 
 - A. 0.248 L
@@ -9430,12 +9538,12 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 0.124 L
 - D. 24.8 L
 
-**Q1322.** Calculate the volume of oxygen at SLC (24.8 L mol⁻¹) produced at the anode when water is electrolysed with a current of 3.00 A for 20.0 minutes.
+**Q1335.** Calculate the volume of oxygen at SLC (24.8 L mol⁻¹) produced at the anode when water is electrolysed with a current of 3.00 A for 20.0 minutes.
 <!-- id: chem-4-2-12 -->
 
 *Written answer*
 
-**Q1323.** A charge of 1930 C deposits 0.347 g of a metal with molar mass 52.0 g mol⁻¹. The charge on the metal ion is
+**Q1336.** A charge of 1930 C deposits 0.347 g of a metal with molar mass 52.0 g mol⁻¹. The charge on the metal ion is
 <!-- id: chem-4-2-13 -->
 
 - A. +1
@@ -9443,7 +9551,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. +2
 - D. +4
 
-**Q1324.** The Faraday constant represents
+**Q1337.** The Faraday constant represents
 <!-- id: chem-4-2-14 -->
 
 - A. the charge on a single electron
@@ -9451,7 +9559,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. the charge carried by one mole of electrons
 - D. the number of electrons in one coulomb
 
-**Q1325.** If the current in an electroplating cell is doubled and the time is halved, the mass of metal deposited will
+**Q1338.** If the current in an electroplating cell is doubled and the time is halved, the mass of metal deposited will
 <!-- id: chem-4-2-15 -->
 
 - A. double
@@ -9459,12 +9567,12 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. increase four times
 - D. stay the same
 
-**Q1326.** An aluminium smelter cell in Portland, Victoria operates at 150 kA for 24.0 hours. Calculate the mass of aluminium produced, in tonnes.
+**Q1339.** An aluminium smelter cell in Portland, Victoria operates at 150 kA for 24.0 hours. Calculate the mass of aluminium produced, in tonnes.
 <!-- id: chem-4-2-16 -->
 
 *Written answer*
 
-**Q1327.** When several electrolytic cells are connected in series, which quantity is the same in every cell?
+**Q1340.** When several electrolytic cells are connected in series, which quantity is the same in every cell?
 <!-- id: chem-4-2-17 -->
 
 - A. The charge passed through each cell
@@ -9472,7 +9580,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. The number of moles of product at each cathode
 - D. The voltage across each cell
 
-**Q1328.** In the electrolysis of water, 0.400 mol of electrons passes through the cell. The amount of oxygen gas produced is
+**Q1341.** In the electrolysis of water, 0.400 mol of electrons passes through the cell. The amount of oxygen gas produced is
 <!-- id: chem-4-2-18 -->
 
 - A. 0.200 mol
@@ -9480,7 +9588,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 0.400 mol
 - D. 0.800 mol
 
-**Q1329.** What current is needed to deposit 0.635 g of copper from Cu²⁺(aq) in 30.0 minutes?
+**Q1342.** What current is needed to deposit 0.635 g of copper from Cu²⁺(aq) in 30.0 minutes?
 <!-- id: chem-4-2-19 -->
 
 - A. 0.536 A
@@ -9488,12 +9596,12 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 1.07 A
 - D. 64.3 A
 
-**Q1330.** State Faraday's second law and illustrate it with an example.
+**Q1343.** State Faraday's second law and illustrate it with an example.
 <!-- id: chem-4-2-20 -->
 
 *Written answer*
 
-**Q1331.** How many electrons pass a point in a circuit when 1.00 C of charge flows? (e = 1.60 × 10⁻¹⁹ C)
+**Q1344.** How many electrons pass a point in a circuit when 1.00 C of charge flows? (e = 1.60 × 10⁻¹⁹ C)
 <!-- id: chem-4-2-21 -->
 
 - A. 1.60 × 10⁻¹⁹
@@ -9501,7 +9609,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 1.04 × 10⁻⁵
 - D. 6.24 × 10¹⁸
 
-**Q1332.** A current of 2.00 A is passed through CuSO₄(aq) for 1.00 hour, and 2.13 g of copper is actually deposited. The efficiency of the process is closest to
+**Q1345.** A current of 2.00 A is passed through CuSO₄(aq) for 1.00 hour, and 2.13 g of copper is actually deposited. The efficiency of the process is closest to
 <!-- id: chem-4-2-22 -->
 
 - A. 90%
@@ -9509,7 +9617,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 100%
 - D. 111%
 
-**Q1333.** The charge required to produce 0.0500 mol of hydrogen gas by reduction of water is
+**Q1346.** The charge required to produce 0.0500 mol of hydrogen gas by reduction of water is
 <!-- id: chem-4-2-23 -->
 
 - A. 4.83 × 10³ C
@@ -9517,17 +9625,17 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 1.93 × 10⁴ C
 - D. 9.65 × 10⁴ C
 
-**Q1334.** A current of 1.00 A flowing for 1930 s deposits 1.187 g of tin. Determine the charge on the tin ion in the solution.
+**Q1347.** A current of 1.00 A flowing for 1930 s deposits 1.187 g of tin. Determine the charge on the tin ion in the solution.
 <!-- id: chem-4-2-24 -->
 
 *Written answer*
 
-**Q1335.** Cells containing AgNO₃(aq) and CuSO₄(aq) are connected in series. 1.079 g of silver is deposited. Calculate the mass of copper deposited.
+**Q1348.** Cells containing AgNO₃(aq) and CuSO₄(aq) are connected in series. 1.079 g of silver is deposited. Calculate the mass of copper deposited.
 <!-- id: chem-4-2-25 -->
 
 *Written answer*
 
-**Q1336.** A current of 2.00 A flows through an electrolytic cell for 10.0 minutes. How much charge passes through the cell?
+**Q1349.** A current of 2.00 A flows through an electrolytic cell for 10.0 minutes. How much charge passes through the cell?
 <!-- id: chem34a2-far-1 -->
 
 - A. 20.0 C
@@ -9535,7 +9643,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 1.20 × 10³ C
 - D. 1.93 × 10⁵ C
 
-**Q1337.** What mass of copper is deposited at a cathode when 0.200 mol of electrons passes through CuSO₄(aq)?
+**Q1350.** What mass of copper is deposited at a cathode when 0.200 mol of electrons passes through CuSO₄(aq)?
 <!-- id: chem34a2-far-2 -->
 
 - A. 12.7 g
@@ -9543,7 +9651,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 3.18 g
 - D. 0.200 g
 
-**Q1338.** Two cells, one containing AgNO₃(aq) and one containing Cu(NO₃)₂(aq), are connected in series. 1.08 g of silver is deposited in the first cell. What mass of copper is deposited in the second?
+**Q1351.** Two cells, one containing AgNO₃(aq) and one containing Cu(NO₃)₂(aq), are connected in series. 1.08 g of silver is deposited in the first cell. What mass of copper is deposited in the second?
 <!-- id: chem34a2-far-3 -->
 
 - A. 0.318 g
@@ -9551,7 +9659,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 1.08 g
 - D. 1.27 g
 
-**Q1339.** Which statement summarises Faraday's second law of electrolysis?
+**Q1352.** Which statement summarises Faraday's second law of electrolysis?
 <!-- id: chem34a2-far-4 -->
 
 - A. The mass of product is inversely proportional to the current.
@@ -9559,7 +9667,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. To deposit one mole of a metal, the number of moles of electrons required equals the charge on the metal ion.
 - D. Equal masses of different metals are deposited by the same quantity of electricity.
 
-**Q1340.** How long would it take a current of 10.0 A to deposit 0.500 mol of aluminium from molten Al₂O₃ (Al³⁺ + 3e⁻ → Al)?
+**Q1353.** How long would it take a current of 10.0 A to deposit 0.500 mol of aluminium from molten Al₂O₃ (Al³⁺ + 3e⁻ → Al)?
 <!-- id: chem34a2-far-5 -->
 
 - A. 4.83 × 10³ s
@@ -9567,24 +9675,30 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 1.45 × 10⁴ s
 - D. 4.34 × 10⁵ s
 
-**Q1341.** A car part is chromium plated from a solution containing Cr³⁺ ions using a current of 3.50 A for 45.0 minutes. Calculate the mass of chromium deposited. (3 marks)
+**Q1354.** A car part is chromium plated from a solution containing Cr³⁺ ions using a current of 3.50 A for 45.0 minutes. Calculate the mass of chromium deposited. (3 marks)
 <!-- id: chem34a2-far-6 -->
 
 *Written answer*
 
-**Q1342.** A current of 0.500 A was passed through a solution of a nickel salt for 1930 s, depositing 0.300 g of nickel. Use this data to determine the charge on the nickel ion. (3 marks)
+**Q1355.** A current of 0.500 A was passed through a solution of a nickel salt for 1930 s, depositing 0.300 g of nickel. Use this data to determine the charge on the nickel ion. (3 marks)
 <!-- id: chem34a2-far-7 -->
 
 *Written answer*
 
-**Q1343.** Molten NaCl is electrolysed with a current of 5.00 A for 2.00 hours. Calculate the volume of chlorine gas produced, measured at SLC. (3 marks)
+**Q1356.** Molten NaCl is electrolysed with a current of 5.00 A for 2.00 hours. Calculate the volume of chlorine gas produced, measured at SLC. (3 marks)
 <!-- id: chem34a2-far-8 -->
+
+*Written answer*
+
+**Q1357.** How long, in minutes, must a current of 1.50 A flow to deposit 2.00 g of silver from a solution of Ag⁺ ions?
+<!-- id: chem-4-2-c1 -->
+*Challenge question*
 
 *Written answer*
 
 #### Rechargeable (secondary) cells
 
-**Q1344.** While a secondary cell is being recharged, it operates as
+**Q1358.** While a secondary cell is being recharged, it operates as
 <!-- id: chem-4-3-1 -->
 
 - A. an electrolytic cell
@@ -9592,7 +9706,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. a fuel cell
 - D. a primary cell
 
-**Q1345.** Which property is essential for a cell to be rechargeable?
+**Q1359.** Which property is essential for a cell to be rechargeable?
 <!-- id: chem-4-3-2 -->
 
 - A. The electrolyte must be aqueous
@@ -9600,7 +9714,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. The products must be gases that escape
 - D. The anode must be made of an inert metal
 
-**Q1346.** During recharging, the electrode that acted as the anode during discharge
+**Q1360.** During recharging, the electrode that acted as the anode during discharge
 <!-- id: chem-4-3-3 -->
 
 - A. remains the anode and is connected to the positive terminal
@@ -9608,12 +9722,12 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. becomes the cathode and is connected to the negative terminal of the charger
 - D. remains the anode and is connected to the negative terminal
 
-**Q1347.** Write the overall equation for the discharge of a lead–acid battery.
+**Q1361.** Write the overall equation for the discharge of a lead–acid battery.
 <!-- id: chem-4-3-4 -->
 
 *Written answer*
 
-**Q1348.** The half-equation at the anode during discharge of a lead–acid battery is
+**Q1362.** The half-equation at the anode during discharge of a lead–acid battery is
 <!-- id: chem-4-3-5 -->
 
 - A. PbO₂(s) + SO₄²⁻(aq) + 4H⁺(aq) + 2e⁻ → PbSO₄(s) + 2H₂O(l)
@@ -9621,7 +9735,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. Pb²⁺(aq) + 2e⁻ → Pb(s)
 - D. Pb(s) + SO₄²⁻(aq) → PbSO₄(s) + 2e⁻
 
-**Q1349.** The half-equation at the cathode during discharge of a lead–acid battery is
+**Q1363.** The half-equation at the cathode during discharge of a lead–acid battery is
 <!-- id: chem-4-3-6 -->
 
 - A. PbO₂(s) + SO₄²⁻(aq) + 4H⁺(aq) + 2e⁻ → PbSO₄(s) + 2H₂O(l)
@@ -9629,7 +9743,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 2H⁺(aq) + 2e⁻ → H₂(g)
 - D. PbSO₄(s) + 2H₂O(l) → PbO₂(s) + SO₄²⁻(aq) + 4H⁺(aq) + 2e⁻
 
-**Q1350.** As a car's lead–acid battery discharges, the density of the electrolyte
+**Q1364.** As a car's lead–acid battery discharges, the density of the electrolyte
 <!-- id: chem-4-3-7 -->
 
 - A. increases because water is consumed
@@ -9637,12 +9751,12 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. stays constant because the reaction is reversible
 - D. increases because PbSO₄ dissolves
 
-**Q1351.** Explain why the PbSO₄ formed during discharge in a lead–acid battery allows the battery to be recharged.
+**Q1365.** Explain why the PbSO₄ formed during discharge in a lead–acid battery allows the battery to be recharged.
 <!-- id: chem-4-3-8 -->
 
 *Written answer*
 
-**Q1352.** When a lithium-ion battery in a mobile phone discharges, lithium ions move
+**Q1366.** When a lithium-ion battery in a mobile phone discharges, lithium ions move
 <!-- id: chem-4-3-9 -->
 
 - A. from the metal oxide electrode to the graphite electrode
@@ -9650,7 +9764,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. from the graphite electrode to the metal oxide electrode
 - D. only within the graphite electrode
 
-**Q1353.** Which half-equation occurs at the negative electrode during discharge of a lithium-ion cell?
+**Q1367.** Which half-equation occurs at the negative electrode during discharge of a lithium-ion cell?
 <!-- id: chem-4-3-10 -->
 
 - A. Li⁺ + C₆ + e⁻ → LiC₆
@@ -9658,7 +9772,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 2Li + 2H₂O → 2LiOH + H₂
 - D. LiC₆ → Li⁺ + C₆ + e⁻
 
-**Q1354.** Lithium is particularly suited to batteries for electric vehicles mainly because it
+**Q1368.** Lithium is particularly suited to batteries for electric vehicles mainly because it
 <!-- id: chem-4-3-11 -->
 
 - A. has a low molar mass and a very low reduction potential, giving a high voltage and energy density
@@ -9666,12 +9780,12 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. is unreactive with air and water
 - D. has a very high reduction potential, making it a strong oxidant
 
-**Q1355.** Write the half-equation at the graphite electrode while a lithium-ion battery is being recharged.
+**Q1369.** Write the half-equation at the graphite electrode while a lithium-ion battery is being recharged.
 <!-- id: chem-4-3-12 -->
 
 *Written answer*
 
-**Q1356.** The electrolyte in a lithium-ion battery is non-aqueous because
+**Q1370.** The electrolyte in a lithium-ion battery is non-aqueous because
 <!-- id: chem-4-3-13 -->
 
 - A. water would not conduct electricity
@@ -9679,7 +9793,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. lithium salts are insoluble in water
 - D. water would make the battery too heavy
 
-**Q1357.** To recharge a battery, the positive terminal of the charger must be connected to
+**Q1371.** To recharge a battery, the positive terminal of the charger must be connected to
 <!-- id: chem-4-3-14 -->
 
 - A. the negative electrode of the battery, which becomes the anode
@@ -9687,7 +9801,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. the positive electrode of the battery, which becomes the anode during recharging
 - D. either electrode, as polarity does not matter
 
-**Q1358.** A rechargeable battery gradually loses capacity after hundreds of cycles. A likely reason is
+**Q1372.** A rechargeable battery gradually loses capacity after hundreds of cycles. A likely reason is
 <!-- id: chem-4-3-15 -->
 
 - A. the Faraday constant changes with use
@@ -9695,12 +9809,12 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. the electrolyte becomes a stronger oxidant over time
 - D. side reactions and physical changes to the electrodes reduce the amount of reactant that can be regenerated
 
-**Q1359.** Explain why the charger voltage must be greater than the battery's voltage during recharging.
+**Q1373.** Explain why the charger voltage must be greater than the battery's voltage during recharging.
 <!-- id: chem-4-3-16 -->
 
 *Written answer*
 
-**Q1360.** Overcharging a lead–acid battery can produce gases. These gases are
+**Q1374.** Overcharging a lead–acid battery can produce gases. These gases are
 <!-- id: chem-4-3-17 -->
 
 - A. hydrogen and oxygen
@@ -9708,7 +9822,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. sulfur dioxide and oxygen
 - D. carbon dioxide and hydrogen
 
-**Q1361.** In a nickel–metal hydride (NiMH) cell, the half-equation at the anode during discharge is
+**Q1375.** In a nickel–metal hydride (NiMH) cell, the half-equation at the anode during discharge is
 <!-- id: chem-4-3-18 -->
 
 - A. M + H₂O + e⁻ → MH + OH⁻
@@ -9716,7 +9830,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. NiOOH + H₂O + e⁻ → Ni(OH)₂ + OH⁻
 - D. Ni²⁺ + 2e⁻ → Ni
 
-**Q1362.** Which equation represents the overall reaction when a lead–acid battery is recharged?
+**Q1376.** Which equation represents the overall reaction when a lead–acid battery is recharged?
 <!-- id: chem-4-3-19 -->
 
 - A. Pb + PbO₂ + 4H⁺ + 2SO₄²⁻ → 2PbSO₄ + 2H₂O
@@ -9724,12 +9838,12 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 2PbSO₄ + 2H₂O → Pb + PbO₂ + 4H⁺ + 2SO₄²⁻
 - D. Pb + SO₄²⁻ → PbSO₄ + 2e⁻
 
-**Q1363.** Explain how the labels anode/cathode and the polarity of each electrode change when a rechargeable battery switches from discharge to recharge.
+**Q1377.** Explain how the labels anode/cathode and the polarity of each electrode change when a rechargeable battery switches from discharge to recharge.
 <!-- id: chem-4-3-20 -->
 
 *Written answer*
 
-**Q1364.** In a lithium-ion cell with a LiCoO₂ cathode, what is reduced at the cathode during discharge?
+**Q1378.** In a lithium-ion cell with a LiCoO₂ cathode, what is reduced at the cathode during discharge?
 <!-- id: chem-4-3-21 -->
 
 - A. Lithium, from +1 to 0
@@ -9737,7 +9851,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. Carbon in the graphite
 - D. Cobalt, from the +4 to the +3 oxidation state
 
-**Q1365.** Which of the following is a primary (non-rechargeable) cell?
+**Q1379.** Which of the following is a primary (non-rechargeable) cell?
 <!-- id: chem-4-3-22 -->
 
 - A. Alkaline zinc–manganese dioxide cell
@@ -9745,7 +9859,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. Lithium-ion cell
 - D. Nickel–metal hydride cell
 
-**Q1366.** During discharge of a lead–acid battery, the oxidation number of lead at the positive electrode changes from
+**Q1380.** During discharge of a lead–acid battery, the oxidation number of lead at the positive electrode changes from
 <!-- id: chem-4-3-23 -->
 
 - A. 0 to +2
@@ -9753,17 +9867,17 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. +2 to +4
 - D. +2 to 0
 
-**Q1367.** A standard car battery is labelled 12 V. Each lead–acid cell produces about 2 V. Explain how the battery achieves 12 V.
+**Q1381.** A standard car battery is labelled 12 V. Each lead–acid cell produces about 2 V. Explain how the battery achieves 12 V.
 <!-- id: chem-4-3-24 -->
 
 *Written answer*
 
-**Q1368.** Give one advantage and one disadvantage of lithium-ion batteries for electric vehicles in Australia.
+**Q1382.** Give one advantage and one disadvantage of lithium-ion batteries for electric vehicles in Australia.
 <!-- id: chem-4-3-25 -->
 
 *Written answer*
 
-**Q1369.** When a rechargeable (secondary) cell is being recharged, which statement is correct?
+**Q1383.** When a rechargeable (secondary) cell is being recharged, which statement is correct?
 <!-- id: chem34a2-bat-1 -->
 
 - A. It operates as a galvanic cell, and the electrode polarities reverse.
@@ -9771,7 +9885,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. The negative terminal of the charger is connected to the positive electrode of the cell.
 - D. The spontaneous discharge reaction runs faster.
 
-**Q1370.** Why can a lead–acid car battery be recharged, while a standard alkaline cell is not designed to be?
+**Q1384.** Why can a lead–acid car battery be recharged, while a standard alkaline cell is not designed to be?
 <!-- id: chem34a2-bat-2 -->
 
 - A. The lead–acid battery has a higher voltage.
@@ -9779,7 +9893,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. The discharge product PbSO₄(s) stays in contact with the electrodes, so it can be converted back into reactants.
 - D. Lead is a stronger oxidant than zinc.
 
-**Q1371.** Overall discharge reaction of a lead–acid battery: Pb(s) + PbO₂(s) + 4H⁺(aq) + 2SO₄²⁻(aq) → 2PbSO₄(s) + 2H₂O(l). As the battery discharges, what happens to the electrolyte?
+**Q1385.** Overall discharge reaction of a lead–acid battery: Pb(s) + PbO₂(s) + 4H⁺(aq) + 2SO₄²⁻(aq) → 2PbSO₄(s) + 2H₂O(l). As the battery discharges, what happens to the electrolyte?
 <!-- id: chem34a2-bat-3 -->
 
 - A. Its pH decreases and its density increases.
@@ -9787,7 +9901,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. It turns blue as Pb²⁺ ions accumulate.
 - D. Its sulfuric acid concentration and density decrease.
 
-**Q1372.** During discharge of a lithium-ion battery, which describes the movement of lithium ions?
+**Q1386.** During discharge of a lithium-ion battery, which describes the movement of lithium ions?
 <!-- id: chem34a2-bat-4 -->
 
 - A. Li⁺ ions move from the graphite anode through the electrolyte to the metal oxide cathode.
@@ -9795,7 +9909,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. Li⁺ ions move through the external circuit with the electrons.
 - D. Li atoms move through the separator to the anode.
 
-**Q1373.** Which factor best explains why a rechargeable battery gradually loses its capacity after many charge–discharge cycles?
+**Q1387.** Which factor best explains why a rechargeable battery gradually loses its capacity after many charge–discharge cycles?
 <!-- id: chem34a2-bat-5 -->
 
 - A. The electrolyte is converted into electrons.
@@ -9803,24 +9917,33 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. The value of E° for each half-cell steadily increases.
 - D. The battery runs as a fuel cell after many cycles.
 
-**Q1374.** A lithium-ion cell discharges according to: anode LiC₆(s) → C₆(s) + Li⁺ + e⁻; cathode CoO₂(s) + Li⁺ + e⁻ → LiCoO₂(s). (a) Write the half-equation occurring at the graphite electrode during recharging. (b) State which terminal of the charger the graphite electrode is connected to, and explain. (3 marks)
+**Q1388.** A lithium-ion cell discharges according to: anode LiC₆(s) → C₆(s) + Li⁺ + e⁻; cathode CoO₂(s) + Li⁺ + e⁻ → LiCoO₂(s). (a) Write the half-equation occurring at the graphite electrode during recharging. (b) State which terminal of the charger the graphite electrode is connected to, and explain. (3 marks)
 <!-- id: chem34a2-bat-6 -->
 
 *Written answer*
 
-**Q1375.** Write the overall equation for recharging a lead–acid battery, and identify the species oxidised and the species reduced during recharging. (3 marks)
+**Q1389.** Write the overall equation for recharging a lead–acid battery, and identify the species oxidised and the species reduced during recharging. (3 marks)
 <!-- id: chem34a2-bat-7 -->
 
 *Written answer*
 
-**Q1376.** Explain why lithium-ion batteries use a non-aqueous electrolyte, and give one safety concern associated with them. (2 marks)
+**Q1390.** Explain why lithium-ion batteries use a non-aqueous electrolyte, and give one safety concern associated with them. (2 marks)
 <!-- id: chem34a2-bat-8 -->
 
 *Written answer*
 
+**Q1391.** The electrode that acts as the anode while a rechargeable cell discharges becomes, during recharging:
+<!-- id: chem-4-3-c1 -->
+*Challenge question*
+
+- A. The cathode, connected to the negative terminal of the charger
+- B. The anode, connected to the positive terminal of the charger
+- C. The cathode, connected to the positive terminal of the charger
+- D. Inactive, because only one electrode reacts during recharging
+
 #### Electroplating and comparing cell types
 
-**Q1377.** To electroplate a brass key with silver, the key should be
+**Q1392.** To electroplate a brass key with silver, the key should be
 <!-- id: chem-4-4-1 -->
 
 - A. the cathode, connected to the negative terminal
@@ -9828,7 +9951,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. the cathode, connected to the positive terminal
 - D. the anode, connected to the negative terminal
 
-**Q1378.** In silver plating, the anode is usually made of
+**Q1393.** In silver plating, the anode is usually made of
 <!-- id: chem-4-4-2 -->
 
 - A. graphite
@@ -9836,7 +9959,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. the object being plated
 - D. platinum
 
-**Q1379.** A suitable electrolyte for silver electroplating is a solution containing
+**Q1394.** A suitable electrolyte for silver electroplating is a solution containing
 <!-- id: chem-4-4-3 -->
 
 - A. sodium chloride
@@ -9844,12 +9967,12 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. silver ions, such as silver nitrate
 - D. dilute sulfuric acid only
 
-**Q1380.** Describe how a steel spoon could be electroplated with nickel. Include the electrodes, electrolyte and half-equations.
+**Q1395.** Describe how a steel spoon could be electroplated with nickel. Include the electrodes, electrolyte and half-equations.
 <!-- id: chem-4-4-4 -->
 
 *Written answer*
 
-**Q1381.** When an object is copper-plated using a copper anode and CuSO₄(aq) electrolyte, the concentration of Cu²⁺(aq)
+**Q1396.** When an object is copper-plated using a copper anode and CuSO₄(aq) electrolyte, the concentration of Cu²⁺(aq)
 <!-- id: chem-4-4-5 -->
 
 - A. decreases steadily
@@ -9857,7 +9980,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. falls to zero
 - D. remains approximately constant
 
-**Q1382.** In electrolytic refining of copper, silver and gold impurities in the impure anode
+**Q1397.** In electrolytic refining of copper, silver and gold impurities in the impure anode
 <!-- id: chem-4-4-6 -->
 
 - A. fall to the bottom of the cell as anode sludge
@@ -9865,7 +9988,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. are oxidised and remain dissolved in solution
 - D. form gases at the anode
 
-**Q1383.** In copper refining, zinc impurities in the anode
+**Q1398.** In copper refining, zinc impurities in the anode
 <!-- id: chem-4-4-7 -->
 
 - A. fall to the bottom as sludge
@@ -9873,12 +9996,12 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. are deposited at the cathode with copper
 - D. are reduced to zinc at the anode
 
-**Q1384.** A watch is gold-plated from a solution containing Au(I) ions using 0.200 A for 15.0 minutes. Calculate the mass of gold deposited.
+**Q1399.** A watch is gold-plated from a solution containing Au(I) ions using 0.200 A for 15.0 minutes. Calculate the mass of gold deposited.
 <!-- id: chem-4-4-8 -->
 
 *Written answer*
 
-**Q1385.** Which statement correctly compares the anode in galvanic and electrolytic cells?
+**Q1400.** Which statement correctly compares the anode in galvanic and electrolytic cells?
 <!-- id: chem-4-4-9 -->
 
 - A. The anode is positive in both cells
@@ -9886,7 +10009,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. The anode is negative in a galvanic cell and positive in an electrolytic cell
 - D. The anode is positive in a galvanic cell and negative in an electrolytic cell
 
-**Q1386.** Which statement about spontaneity is correct?
+**Q1401.** Which statement about spontaneity is correct?
 <!-- id: chem-4-4-10 -->
 
 - A. Both types of cell involve spontaneous reactions
@@ -9894,7 +10017,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. Neither type of cell involves redox reactions
 - D. Galvanic cell reactions are spontaneous; electrolytic cell reactions are non-spontaneous
 
-**Q1387.** A feature common to both galvanic and electrolytic cells is that
+**Q1402.** A feature common to both galvanic and electrolytic cells is that
 <!-- id: chem-4-4-11 -->
 
 - A. reduction occurs at the cathode
@@ -9902,12 +10025,12 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. an external power supply is required
 - D. a salt bridge is always required
 
-**Q1388.** Compare galvanic and electrolytic cells in terms of energy conversion and the polarity of the anode.
+**Q1403.** Compare galvanic and electrolytic cells in terms of energy conversion and the polarity of the anode.
 <!-- id: chem-4-4-12 -->
 
 *Written answer*
 
-**Q1389.** The energy transformation in a galvanic cell is
+**Q1404.** The energy transformation in a galvanic cell is
 <!-- id: chem-4-4-13 -->
 
 - A. electrical energy to chemical energy
@@ -9915,7 +10038,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. electrical energy to light energy
 - D. thermal energy to chemical energy
 
-**Q1390.** Why does a typical electrolytic cell not need a salt bridge, whereas a galvanic cell does?
+**Q1405.** Why does a typical electrolytic cell not need a salt bridge, whereas a galvanic cell does?
 <!-- id: chem-4-4-14 -->
 
 - A. Electrolytic cells do not need ions to move
@@ -9923,7 +10046,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. In a galvanic cell the half-cells are separated to stop direct reaction, so a salt bridge completes the circuit; electrolytic electrodes usually share one electrolyte
 - D. Galvanic cells have no electrolyte
 
-**Q1391.** An object is being chrome-plated from a Cr³⁺ solution. The half-equation at the object is
+**Q1406.** An object is being chrome-plated from a Cr³⁺ solution. The half-equation at the object is
 <!-- id: chem-4-4-15 -->
 
 - A. Cr(s) → Cr³⁺(aq) + 3e⁻
@@ -9931,12 +10054,12 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. Cr³⁺(aq) → Cr⁶⁺(aq) + 3e⁻
 - D. Cr³⁺(aq) + 3e⁻ → Cr(s)
 
-**Q1392.** Explain why the copper deposited at the cathode in electrolytic refining is purer than the anode.
+**Q1407.** Explain why the copper deposited at the cathode in electrolytic refining is purer than the anode.
 <!-- id: chem-4-4-16 -->
 
 *Written answer*
 
-**Q1393.** Before nickel plating, the steel object is thoroughly cleaned. The main reason is to
+**Q1408.** Before nickel plating, the steel object is thoroughly cleaned. The main reason is to
 <!-- id: chem-4-4-17 -->
 
 - A. ensure the plated metal adheres evenly to the surface
@@ -9944,7 +10067,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. make the object the anode
 - D. prevent nickel ions forming
 
-**Q1394.** In ideal silver plating using a silver anode, how does the mass lost by the anode compare with the mass gained by the cathode?
+**Q1409.** In ideal silver plating using a silver anode, how does the mass lost by the anode compare with the mass gained by the cathode?
 <!-- id: chem-4-4-18 -->
 
 - A. The anode loses twice the mass gained by the cathode
@@ -9952,7 +10075,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. The cathode gains twice the mass lost by the anode
 - D. The anode does not lose mass
 
-**Q1395.** For the electrolysis of a solution to occur, the applied voltage must be
+**Q1410.** For the electrolysis of a solution to occur, the applied voltage must be
 <!-- id: chem-4-4-19 -->
 
 - A. less than the cell's E° difference
@@ -9960,12 +10083,12 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. greater than the difference between the E° values of the couples involved
 - D. equal to the Faraday constant
 
-**Q1396.** Explain why an inert graphite anode is not used when copper-plating an object from CuSO₄(aq).
+**Q1411.** Explain why an inert graphite anode is not used when copper-plating an object from CuSO₄(aq).
 <!-- id: chem-4-4-20 -->
 
 *Written answer*
 
-**Q1397.** Steel sheet can be electroplated with zinc. Zinc continues to protect the steel even when the coating is scratched because
+**Q1412.** Steel sheet can be electroplated with zinc. Zinc continues to protect the steel even when the coating is scratched because
 <!-- id: chem-4-4-21 -->
 
 - A. zinc is a weaker reductant than iron
@@ -9973,7 +10096,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. iron is plated over the zinc
 - D. zinc is a stronger reductant than iron and is oxidised in preference
 
-**Q1398.** Which change would increase the rate at which metal is deposited in an electroplating cell (assuming no side reactions)?
+**Q1413.** Which change would increase the rate at which metal is deposited in an electroplating cell (assuming no side reactions)?
 <!-- id: chem-4-4-22 -->
 
 - A. Increasing the current
@@ -9981,7 +10104,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. Using a larger anode at the same current
 - D. Adding more water to dilute the electrolyte
 
-**Q1399.** In both galvanic and electrolytic cells, anions in the electrolyte migrate towards the
+**Q1414.** In both galvanic and electrolytic cells, anions in the electrolyte migrate towards the
 <!-- id: chem-4-4-23 -->
 
 - A. cathode
@@ -9989,21 +10112,30 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. power supply
 - D. salt bridge only in electrolytic cells
 
-**Q1400.** A plate with surface area 50.0 cm² is silver-plated using 2.00 A for 30.0 minutes. Given the density of silver is 10.5 g cm⁻³, calculate the thickness of the silver layer in micrometres.
+**Q1415.** A plate with surface area 50.0 cm² is silver-plated using 2.00 A for 30.0 minutes. Given the density of silver is 10.5 g cm⁻³, calculate the thickness of the silver layer in micrometres.
 <!-- id: chem-4-4-24 -->
 
 *Written answer*
 
-**Q1401.** State the polarity of the cathode in a galvanic cell and in an electrolytic cell, and explain the difference.
+**Q1416.** State the polarity of the cathode in a galvanic cell and in an electrolytic cell, and explain the difference.
 <!-- id: chem-4-4-25 -->
 
 *Written answer*
+
+**Q1417.** A spoon is silver-plated using a silver anode and an AgNO₃ electrolyte. Why does [Ag⁺] stay almost constant?
+<!-- id: chem-4-4-c1 -->
+*Challenge question*
+
+- A. Ag⁺ ions are not involved in the reactions
+- B. Silver atoms are oxidised at the anode at the same rate as Ag⁺ ions are reduced at the cathode
+- C. Nitrate ions are reduced to replace the silver
+- D. Water is oxidised at the anode, producing Ag⁺
 
 ### Organic structure & reactions
 
 #### IUPAC naming and functional groups
 
-**Q1402.** What is the IUPAC name of CH₃CH₂CH₂OH?
+**Q1418.** What is the IUPAC name of CH₃CH₂CH₂OH?
 <!-- id: chem-5-1-1 -->
 
 - A. propan-1-ol
@@ -10011,7 +10143,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. propanal
 - D. propanoic acid
 
-**Q1403.** What is the IUPAC name of CH₃CH(OH)CH₃?
+**Q1419.** What is the IUPAC name of CH₃CH(OH)CH₃?
 <!-- id: chem-5-1-2 -->
 
 - A. propan-1-ol
@@ -10019,7 +10151,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. propanone
 - D. 1-methylethanol
 
-**Q1404.** What is the IUPAC name of CH₃CH₂COOH?
+**Q1420.** What is the IUPAC name of CH₃CH₂COOH?
 <!-- id: chem-5-1-3 -->
 
 - A. ethanoic acid
@@ -10027,7 +10159,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. propanoic acid
 - D. propanal
 
-**Q1405.** What is the IUPAC name of CH₃CH₂CHO?
+**Q1421.** What is the IUPAC name of CH₃CH₂CHO?
 <!-- id: chem-5-1-4 -->
 
 - A. propanone
@@ -10035,7 +10167,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. propanoic acid
 - D. propanal
 
-**Q1406.** What is the IUPAC name of CH₃COCH₂CH₃?
+**Q1422.** What is the IUPAC name of CH₃COCH₂CH₃?
 <!-- id: chem-5-1-5 -->
 
 - A. butan-2-one
@@ -10043,7 +10175,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. butan-2-ol
 - D. propanone
 
-**Q1407.** What is the IUPAC name of CH₃CH=CHCH₃?
+**Q1423.** What is the IUPAC name of CH₃CH=CHCH₃?
 <!-- id: chem-5-1-6 -->
 
 - A. but-1-ene
@@ -10051,7 +10183,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. butane
 - D. but-3-ene
 
-**Q1408.** What is the IUPAC name of CH₃CH(CH₃)CH₂CH₃?
+**Q1424.** What is the IUPAC name of CH₃CH(CH₃)CH₂CH₃?
 <!-- id: chem-5-1-7 -->
 
 - A. 3-methylbutane
@@ -10059,7 +10191,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 2-methylbutane
 - D. 2-ethylpropane
 
-**Q1409.** What is the IUPAC name of CH₃CH₂CH₂CH₂Cl?
+**Q1425.** What is the IUPAC name of CH₃CH₂CH₂CH₂Cl?
 <!-- id: chem-5-1-8 -->
 
 - A. 4-chlorobutane
@@ -10067,7 +10199,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 2-chlorobutane
 - D. 1-chlorobutane
 
-**Q1410.** What is the IUPAC name of CH₃CH₂NH₂?
+**Q1426.** What is the IUPAC name of CH₃CH₂NH₂?
 <!-- id: chem-5-1-9 -->
 
 - A. ethanamine
@@ -10075,7 +10207,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. methanamine
 - D. ethylamide
 
-**Q1411.** What is the IUPAC name of CH₃CONH₂?
+**Q1427.** What is the IUPAC name of CH₃CONH₂?
 <!-- id: chem-5-1-10 -->
 
 - A. ethanamine
@@ -10083,7 +10215,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. methanamide
 - D. propanamide
 
-**Q1412.** What is the IUPAC name of CH₃COOCH₂CH₃?
+**Q1428.** What is the IUPAC name of CH₃COOCH₂CH₃?
 <!-- id: chem-5-1-11 -->
 
 - A. methyl propanoate
@@ -10091,7 +10223,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. ethyl ethanoate
 - D. propyl ethanoate
 
-**Q1413.** Which functional group is characteristic of all alcohols?
+**Q1429.** Which functional group is characteristic of all alcohols?
 <!-- id: chem-5-1-12 -->
 
 - A. carboxyl group (–COOH)
@@ -10099,7 +10231,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. amino group (–NH₂)
 - D. hydroxyl group (–OH)
 
-**Q1414.** Which of the following compounds contains a carbonyl (C=O) functional group?
+**Q1430.** Which of the following compounds contains a carbonyl (C=O) functional group?
 <!-- id: chem-5-1-13 -->
 
 - A. propanone
@@ -10107,7 +10239,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. ethene
 - D. chloroethane
 
-**Q1415.** Butan-2-ol, CH₃CH(OH)CH₂CH₃, is classified as which type of alcohol?
+**Q1431.** Butan-2-ol, CH₃CH(OH)CH₂CH₃, is classified as which type of alcohol?
 <!-- id: chem-5-1-14 -->
 
 - A. primary
@@ -10115,7 +10247,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. tertiary
 - D. quaternary
 
-**Q1416.** 2-Methylpropan-2-ol, (CH₃)₃COH, is classified as which type of alcohol?
+**Q1432.** 2-Methylpropan-2-ol, (CH₃)₃COH, is classified as which type of alcohol?
 <!-- id: chem-5-1-15 -->
 
 - A. primary
@@ -10123,7 +10255,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. tertiary
 - D. an aldehyde
 
-**Q1417.** What is the IUPAC name of CH₃CH₂CH(CH₃)CH₂OH?
+**Q1433.** What is the IUPAC name of CH₃CH₂CH(CH₃)CH₂OH?
 <!-- id: chem-5-1-16 -->
 
 - A. 3-methylbutan-1-ol
@@ -10131,7 +10263,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 2-ethylpropan-1-ol
 - D. 2-methylbutan-1-ol
 
-**Q1418.** Which general formula represents the alkane homologous series?
+**Q1434.** Which general formula represents the alkane homologous series?
 <!-- id: chem-5-1-17 -->
 
 - A. CₙH₂ₙ₊₂
@@ -10139,7 +10271,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. CₙH₂ₙ₋₂
 - D. CₙH₂ₙ₊₁OH
 
-**Q1419.** What is the IUPAC name of CH₃CHClCH₂CH₃?
+**Q1435.** What is the IUPAC name of CH₃CHClCH₂CH₃?
 <!-- id: chem-5-1-18 -->
 
 - A. 3-chlorobutane
@@ -10147,42 +10279,42 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 2-chloropropane
 - D. 1-chlorobutane
 
-**Q1420.** Give the IUPAC name of CH₃CH₂CH₂CH₂CH₂OH.
+**Q1436.** Give the IUPAC name of CH₃CH₂CH₂CH₂CH₂OH.
 <!-- id: chem-5-1-19 -->
 
 *Written answer*
 
-**Q1421.** Write the condensed structural formula of 3-methylpentane.
+**Q1437.** Write the condensed structural formula of 3-methylpentane.
 <!-- id: chem-5-1-20 -->
 
 *Written answer*
 
-**Q1422.** A student names a compound '3-methylbutane'. Explain why this name is incorrect and give the correct name.
+**Q1438.** A student names a compound '3-methylbutane'. Explain why this name is incorrect and give the correct name.
 <!-- id: chem-5-1-21 -->
 
 *Written answer*
 
-**Q1423.** Give the IUPAC name of HCOOCH₃.
+**Q1439.** Give the IUPAC name of HCOOCH₃.
 <!-- id: chem-5-1-22 -->
 
 *Written answer*
 
-**Q1424.** Lactic acid, found in sour milk and fatigued muscles, has the formula CH₃CH(OH)COOH. Identify its two functional groups and give its IUPAC name.
+**Q1440.** Lactic acid, found in sour milk and fatigued muscles, has the formula CH₃CH(OH)COOH. Identify its two functional groups and give its IUPAC name.
 <!-- id: chem-5-1-23 -->
 
 *Written answer*
 
-**Q1425.** Give the molecular formula of heptan-1-ol.
+**Q1441.** Give the molecular formula of heptan-1-ol.
 <!-- id: chem-5-1-24 -->
 
 *Written answer*
 
-**Q1426.** Ethanol (M = 46 g/mol) boils at 78 °C, whereas propane (M = 44 g/mol) boils at –42 °C. Explain the difference.
+**Q1442.** Ethanol (M = 46 g/mol) boils at 78 °C, whereas propane (M = 44 g/mol) boils at –42 °C. Explain the difference.
 <!-- id: chem-5-1-25 -->
 
 *Written answer*
 
-**Q1427.** What is the IUPAC name of CH₃CH(CH₃)CH₂CH₃?
+**Q1443.** What is the IUPAC name of CH₃CH(CH₃)CH₂CH₃?
 <!-- id: chem34a2-nom-1 -->
 
 - A. Pentane
@@ -10190,7 +10322,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 3-methylbutane
 - D. 2-ethylpropane
 
-**Q1428.** What is the IUPAC name of CH₃CH₂CH(OH)CH₃?
+**Q1444.** What is the IUPAC name of CH₃CH₂CH(OH)CH₃?
 <!-- id: chem34a2-nom-2 -->
 
 - A. Butan-1-ol
@@ -10198,7 +10330,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 2-hydroxybutane
 - D. Butan-2-ol
 
-**Q1429.** What is the IUPAC name of CH₃COOCH₂CH₃?
+**Q1445.** What is the IUPAC name of CH₃COOCH₂CH₃?
 <!-- id: chem34a2-nom-3 -->
 
 - A. Ethyl ethanoate
@@ -10206,7 +10338,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. Propyl methanoate
 - D. Ethyl methanoate
 
-**Q1430.** What is the IUPAC name of CH₃CH(NH₂)CH₃?
+**Q1446.** What is the IUPAC name of CH₃CH(NH₂)CH₃?
 <!-- id: chem34a2-nom-4 -->
 
 - A. Propan-1-amine
@@ -10214,7 +10346,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 2-methylethanamine
 - D. Aminopropane-1
 
-**Q1431.** What is the IUPAC name of CH₃CH=C(CH₃)CH₃?
+**Q1447.** What is the IUPAC name of CH₃CH=C(CH₃)CH₃?
 <!-- id: chem34a2-nom-5 -->
 
 - A. 3-methylbut-2-ene
@@ -10222,24 +10354,33 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 2-methylbut-2-ene
 - D. Pent-2-ene
 
-**Q1432.** Write the semi-structural (condensed) formula for (a) 3-methylpentanoic acid and (b) 1,2-dichloropropane. (2 marks)
+**Q1448.** Write the semi-structural (condensed) formula for (a) 3-methylpentanoic acid and (b) 1,2-dichloropropane. (2 marks)
 <!-- id: chem34a2-nom-6 -->
 
 *Written answer*
 
-**Q1433.** A student named a compound '2-ethylbutane'. Explain why this name is incorrect and give the correct IUPAC name. (2 marks)
+**Q1449.** A student named a compound '2-ethylbutane'. Explain why this name is incorrect and give the correct IUPAC name. (2 marks)
 <!-- id: chem34a2-nom-7 -->
 
 *Written answer*
 
-**Q1434.** Propan-1-ol reacts with butanoic acid. Name the ester produced and write its semi-structural formula. (2 marks)
+**Q1450.** Propan-1-ol reacts with butanoic acid. Name the ester produced and write its semi-structural formula. (2 marks)
 <!-- id: chem34a2-nom-8 -->
 
 *Written answer*
 
+**Q1451.** The IUPAC name of CH₃CH(CH₃)CH₂CH(OH)CH₃ is:
+<!-- id: chem-5-1-c1 -->
+*Challenge question*
+
+- A. 2-methylpentan-4-ol
+- B. 4-methylpentan-2-ol
+- C. 4-methylpentan-1-ol
+- D. 2-methylhexan-4-ol
+
 #### Structural and stereoisomers
 
-**Q1435.** How many structural isomers have the molecular formula C₄H₁₀?
+**Q1452.** How many structural isomers have the molecular formula C₄H₁₀?
 <!-- id: chem-5-2-1 -->
 
 - A. 1
@@ -10247,7 +10388,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 2
 - D. 4
 
-**Q1436.** How many structural isomers have the molecular formula C₅H₁₂?
+**Q1453.** How many structural isomers have the molecular formula C₅H₁₂?
 <!-- id: chem-5-2-2 -->
 
 - A. 2
@@ -10255,7 +10396,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 5
 - D. 3
 
-**Q1437.** How many structural isomers have the molecular formula C₆H₁₄?
+**Q1454.** How many structural isomers have the molecular formula C₆H₁₄?
 <!-- id: chem-5-2-3 -->
 
 - A. 5
@@ -10263,7 +10404,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 6
 - D. 3
 
-**Q1438.** Which pair of compounds are structural isomers?
+**Q1455.** Which pair of compounds are structural isomers?
 <!-- id: chem-5-2-4 -->
 
 - A. butan-1-ol and butanal
@@ -10271,7 +10412,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. methanol and ethanol
 - D. propane and propene
 
-**Q1439.** Which compound is a structural isomer of ethyl ethanoate (C₄H₈O₂)?
+**Q1456.** Which compound is a structural isomer of ethyl ethanoate (C₄H₈O₂)?
 <!-- id: chem-5-2-5 -->
 
 - A. butanal
@@ -10279,7 +10420,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. butanoic acid
 - D. propyl ethanoate
 
-**Q1440.** Which compound is a structural isomer of propanal?
+**Q1457.** Which compound is a structural isomer of propanal?
 <!-- id: chem-5-2-6 -->
 
 - A. propan-1-ol
@@ -10287,7 +10428,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. propene
 - D. propanone
 
-**Q1441.** How many structural isomers have the formula C₃H₇Cl?
+**Q1458.** How many structural isomers have the formula C₃H₇Cl?
 <!-- id: chem-5-2-7 -->
 
 - A. 2
@@ -10295,7 +10436,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 3
 - D. 4
 
-**Q1442.** How many structural isomers have the formula C₄H₉Br?
+**Q1459.** How many structural isomers have the formula C₄H₉Br?
 <!-- id: chem-5-2-8 -->
 
 - A. 2
@@ -10303,7 +10444,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 3
 - D. 5
 
-**Q1443.** Structural isomers are compounds that have
+**Q1460.** Structural isomers are compounds that have
 <!-- id: chem-5-2-9 -->
 
 - A. the same structural formula but different molecular formulas
@@ -10311,7 +10452,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. the same molecular formula but different structural formulas
 - D. different molecular formulas but the same molar mass
 
-**Q1444.** Pentane and 2,2-dimethylpropane are best described as
+**Q1461.** Pentane and 2,2-dimethylpropane are best described as
 <!-- id: chem-5-2-10 -->
 
 - A. positional isomers
@@ -10319,7 +10460,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. not isomers
 - D. chain isomers
 
-**Q1445.** Propan-1-ol and propan-2-ol are best described as
+**Q1462.** Propan-1-ol and propan-2-ol are best described as
 <!-- id: chem-5-2-11 -->
 
 - A. positional isomers
@@ -10327,7 +10468,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. functional group isomers
 - D. not isomers
 
-**Q1446.** Propanal and propanone are best described as
+**Q1463.** Propanal and propanone are best described as
 <!-- id: chem-5-2-12 -->
 
 - A. chain isomers
@@ -10335,7 +10476,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. positional isomers
 - D. not isomers
 
-**Q1447.** Which isomer of C₄H₁₀O is a tertiary alcohol?
+**Q1464.** Which isomer of C₄H₁₀O is a tertiary alcohol?
 <!-- id: chem-5-2-13 -->
 
 - A. butan-2-ol
@@ -10343,7 +10484,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 2-methylpropan-2-ol
 - D. 2-methylpropan-1-ol
 
-**Q1448.** How many alcohols have the molecular formula C₄H₁₀O?
+**Q1465.** How many alcohols have the molecular formula C₄H₁₀O?
 <!-- id: chem-5-2-14 -->
 
 - A. 2
@@ -10351,7 +10492,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 5
 - D. 4
 
-**Q1449.** Which isomer of C₅H₁₂ has the lowest boiling point?
+**Q1466.** Which isomer of C₅H₁₂ has the lowest boiling point?
 <!-- id: chem-5-2-15 -->
 
 - A. 2,2-dimethylpropane
@@ -10359,7 +10500,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 2-methylbutane
 - D. They all boil at the same temperature as they have the same molar mass
 
-**Q1450.** Ignoring stereoisomers, how many alkenes have the molecular formula C₄H₈?
+**Q1467.** Ignoring stereoisomers, how many alkenes have the molecular formula C₄H₈?
 <!-- id: chem-5-2-16 -->
 
 - A. 2
@@ -10367,7 +10508,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 4
 - D. 5
 
-**Q1451.** Which compound is NOT a structural isomer of hexane?
+**Q1468.** Which compound is NOT a structural isomer of hexane?
 <!-- id: chem-5-2-17 -->
 
 - A. 2-methylpentane
@@ -10375,7 +10516,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 2-methylhexane
 - D. 2,3-dimethylbutane
 
-**Q1452.** How many carboxylic acids have the molecular formula C₄H₈O₂?
+**Q1469.** How many carboxylic acids have the molecular formula C₄H₈O₂?
 <!-- id: chem-5-2-18 -->
 
 - A. 1
@@ -10383,42 +10524,42 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 4
 - D. 2
 
-**Q1453.** Name the three structural isomers of C₅H₁₂.
+**Q1470.** Name the three structural isomers of C₅H₁₂.
 <!-- id: chem-5-2-19 -->
 
 *Written answer*
 
-**Q1454.** Name the two esters with the molecular formula C₃H₆O₂.
+**Q1471.** Name the two esters with the molecular formula C₃H₆O₂.
 <!-- id: chem-5-2-20 -->
 
 *Written answer*
 
-**Q1455.** Explain why pentane (36 °C) has a higher boiling point than its isomer 2,2-dimethylpropane (10 °C).
+**Q1472.** Explain why pentane (36 °C) has a higher boiling point than its isomer 2,2-dimethylpropane (10 °C).
 <!-- id: chem-5-2-21 -->
 
 *Written answer*
 
-**Q1456.** Give the condensed structural formulas and names of the two alcohols with formula C₃H₈O.
+**Q1473.** Give the condensed structural formulas and names of the two alcohols with formula C₃H₈O.
 <!-- id: chem-5-2-22 -->
 
 *Written answer*
 
-**Q1457.** Explain why but-1-ene and butane are not isomers.
+**Q1474.** Explain why but-1-ene and butane are not isomers.
 <!-- id: chem-5-2-23 -->
 
 *Written answer*
 
-**Q1458.** Give the name of the positional isomer of 1-chloropentane in which the chlorine is on the middle carbon.
+**Q1475.** Give the name of the positional isomer of 1-chloropentane in which the chlorine is on the middle carbon.
 <!-- id: chem-5-2-24 -->
 
 *Written answer*
 
-**Q1459.** Butanal and 2-methylpropanal are two carbonyl compounds with the formula C₄H₈O. Name the ketone that is also an isomer of these.
+**Q1476.** Butanal and 2-methylpropanal are two carbonyl compounds with the formula C₄H₈O. Name the ketone that is also an isomer of these.
 <!-- id: chem-5-2-25 -->
 
 *Written answer*
 
-**Q1460.** How many structural isomers have the molecular formula C₄H₁₀?
+**Q1477.** How many structural isomers have the molecular formula C₄H₁₀?
 <!-- id: chem34a2-iso-1 -->
 
 - A. 1
@@ -10426,7 +10567,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 4
 - D. 2
 
-**Q1461.** Which compound can exist as cis and trans isomers?
+**Q1478.** Which compound can exist as cis and trans isomers?
 <!-- id: chem34a2-iso-2 -->
 
 - A. But-2-ene
@@ -10434,7 +10575,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 2-methylpropene
 - D. Ethene
 
-**Q1462.** Which molecule contains a chiral carbon atom?
+**Q1479.** Which molecule contains a chiral carbon atom?
 <!-- id: chem34a2-iso-3 -->
 
 - A. Propan-2-ol
@@ -10442,7 +10583,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. Butan-1-ol
 - D. 2-methylpropan-2-ol
 
-**Q1463.** Two enantiomers of a compound are compared. In which property would they differ?
+**Q1480.** Two enantiomers of a compound are compared. In which property would they differ?
 <!-- id: chem34a2-iso-4 -->
 
 - A. Boiling point
@@ -10450,7 +10591,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. Their interaction with plane-polarised light or with other chiral molecules, such as enzymes
 - D. Solubility in water
 
-**Q1464.** How many structural isomers have the formula C₃H₇Cl?
+**Q1481.** How many structural isomers have the formula C₃H₇Cl?
 <!-- id: chem34a2-iso-5 -->
 
 - A. 1
@@ -10458,24 +10599,33 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 3
 - D. 4
 
-**Q1465.** Explain why but-2-ene exists as cis and trans isomers, but propene (CH₂=CHCH₃) does not. (3 marks)
+**Q1482.** Explain why but-2-ene exists as cis and trans isomers, but propene (CH₂=CHCH₃) does not. (3 marks)
 <!-- id: chem34a2-iso-6 -->
 
 *Written answer*
 
-**Q1466.** Name the four structural isomers of C₄H₉OH that are alcohols, and identify which one is chiral. (3 marks)
+**Q1483.** Name the four structural isomers of C₄H₉OH that are alcohols, and identify which one is chiral. (3 marks)
 <!-- id: chem34a2-iso-7 -->
 
 *Written answer*
 
-**Q1467.** Many medicines contain a chiral carbon. Explain why pharmaceutical companies may need to produce a single enantiomer rather than a mixture of both. (2 marks)
+**Q1484.** Many medicines contain a chiral carbon. Explain why pharmaceutical companies may need to produce a single enantiomer rather than a mixture of both. (2 marks)
 <!-- id: chem34a2-iso-8 -->
 
 *Written answer*
 
+**Q1485.** How many structural isomers have the formula C₄H₉Cl, and how many of them have a chiral carbon?
+<!-- id: chem-5-2-c1 -->
+*Challenge question*
+
+- A. 4 isomers; 2 are chiral
+- B. 3 isomers; 1 is chiral
+- C. 2 isomers; none is chiral
+- D. 4 isomers; 1 is chiral
+
 #### Addition, substitution, oxidation, condensation, hydrolysis
 
-**Q1468.** Ethene reacts with steam in the presence of a phosphoric acid catalyst. What is the organic product?
+**Q1486.** Ethene reacts with steam in the presence of a phosphoric acid catalyst. What is the organic product?
 <!-- id: chem-5-3-1 -->
 
 - A. ethanol
@@ -10483,7 +10633,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. ethanoic acid
 - D. ethanal
 
-**Q1469.** What type of reaction occurs when ethene reacts with bromine?
+**Q1487.** What type of reaction occurs when ethene reacts with bromine?
 <!-- id: chem-5-3-2 -->
 
 - A. substitution
@@ -10491,7 +10641,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. condensation
 - D. hydrolysis
 
-**Q1470.** Propene reacts with hydrogen chloride. Which of the following is a possible organic product?
+**Q1488.** Propene reacts with hydrogen chloride. Which of the following is a possible organic product?
 <!-- id: chem-5-3-3 -->
 
 - A. 1,2-dichloropropane
@@ -10499,7 +10649,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 2-chloropropane
 - D. propan-2-ol
 
-**Q1471.** Which catalyst is commonly used for the addition of hydrogen to an alkene?
+**Q1489.** Which catalyst is commonly used for the addition of hydrogen to an alkene?
 <!-- id: chem-5-3-4 -->
 
 - A. phosphoric acid
@@ -10507,7 +10657,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. acidified permanganate
 - D. nickel
 
-**Q1472.** Chloroethane reacts with aqueous sodium hydroxide to form ethanol. This reaction is classified as
+**Q1490.** Chloroethane reacts with aqueous sodium hydroxide to form ethanol. This reaction is classified as
 <!-- id: chem-5-3-5 -->
 
 - A. substitution
@@ -10515,7 +10665,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. condensation
 - D. oxidation
 
-**Q1473.** Chloroethane reacts with ammonia. What is the organic product?
+**Q1491.** Chloroethane reacts with ammonia. What is the organic product?
 <!-- id: chem-5-3-6 -->
 
 - A. ethanamide
@@ -10523,7 +10673,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. ethanol
 - D. ethene
 
-**Q1474.** Propan-1-ol is heated under reflux with excess acidified potassium dichromate. What is the final organic product?
+**Q1492.** Propan-1-ol is heated under reflux with excess acidified potassium dichromate. What is the final organic product?
 <!-- id: chem-5-3-7 -->
 
 - A. propanone
@@ -10531,7 +10681,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. propanoic acid
 - D. propene
 
-**Q1475.** Propan-2-ol is heated with acidified potassium permanganate. What is the organic product?
+**Q1493.** Propan-2-ol is heated with acidified potassium permanganate. What is the organic product?
 <!-- id: chem-5-3-8 -->
 
 - A. propanal
@@ -10539,7 +10689,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. no reaction occurs
 - D. propanone
 
-**Q1476.** 2-Methylpropan-2-ol is warmed with acidified potassium dichromate. What is observed?
+**Q1494.** 2-Methylpropan-2-ol is warmed with acidified potassium dichromate. What is observed?
 <!-- id: chem-5-3-9 -->
 
 - A. no reaction occurs and the solution stays orange
@@ -10547,7 +10697,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 2-methylpropanoic acid forms and the solution turns green
 - D. butan-2-one forms and the solution turns green
 
-**Q1477.** When acidified potassium dichromate oxidises an alcohol, the colour change observed is
+**Q1495.** When acidified potassium dichromate oxidises an alcohol, the colour change observed is
 <!-- id: chem-5-3-10 -->
 
 - A. purple to colourless
@@ -10555,7 +10705,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. green to orange
 - D. colourless to purple
 
-**Q1478.** When acidified potassium permanganate oxidises an alcohol, the colour change observed is
+**Q1496.** When acidified potassium permanganate oxidises an alcohol, the colour change observed is
 <!-- id: chem-5-3-11 -->
 
 - A. orange to green
@@ -10563,7 +10713,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. purple to colourless
 - D. green to orange
 
-**Q1479.** Ethanoic acid reacts with ethanol in the presence of concentrated sulfuric acid. This reaction is classified as
+**Q1497.** Ethanoic acid reacts with ethanol in the presence of concentrated sulfuric acid. This reaction is classified as
 <!-- id: chem-5-3-12 -->
 
 - A. addition
@@ -10571,7 +10721,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. hydrolysis
 - D. condensation (esterification)
 
-**Q1480.** What is the main role of concentrated sulfuric acid in an esterification reaction?
+**Q1498.** What is the main role of concentrated sulfuric acid in an esterification reaction?
 <!-- id: chem-5-3-13 -->
 
 - A. catalyst
@@ -10579,7 +10729,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. source of the ester group
 - D. neutralises the carboxylic acid
 
-**Q1481.** N-methylethanamide, CH₃CONHCH₃, is hydrolysed in acidic solution. What are the products?
+**Q1499.** N-methylethanamide, CH₃CONHCH₃, is hydrolysed in acidic solution. What are the products?
 <!-- id: chem-5-3-14 -->
 
 - A. ethanamine and methanoic acid
@@ -10587,7 +10737,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. ethanol and methanamine
 - D. ethanoic acid and methanol
 
-**Q1482.** Which statement best describes a condensation reaction?
+**Q1500.** Which statement best describes a condensation reaction?
 <!-- id: chem-5-3-15 -->
 
 - A. a molecule is split by reaction with water
@@ -10595,7 +10745,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. two molecules join together with the loss of a small molecule such as water
 - D. one atom or group is replaced by another
 
-**Q1483.** What small molecule is eliminated when an ester forms from a carboxylic acid and an alcohol?
+**Q1501.** What small molecule is eliminated when an ester forms from a carboxylic acid and an alcohol?
 <!-- id: chem-5-3-16 -->
 
 - A. hydrogen chloride
@@ -10603,7 +10753,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. carbon dioxide
 - D. water
 
-**Q1484.** Ethyl ethanoate is heated with aqueous sodium hydroxide. What are the products?
+**Q1502.** Ethyl ethanoate is heated with aqueous sodium hydroxide. What are the products?
 <!-- id: chem-5-3-17 -->
 
 - A. sodium ethanoate and ethanol
@@ -10611,7 +10761,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. sodium ethanoate and water
 - D. ethanol and ethane
 
-**Q1485.** Methane reacts with chlorine in UV light to form chloromethane and hydrogen chloride. This reaction is classified as
+**Q1503.** Methane reacts with chlorine in UV light to form chloromethane and hydrogen chloride. This reaction is classified as
 <!-- id: chem-5-3-18 -->
 
 - A. addition
@@ -10619,42 +10769,42 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. condensation
 - D. oxidation
 
-**Q1486.** Write a balanced equation for the reaction of ethene with steam and state the catalyst and reaction type.
+**Q1504.** Write a balanced equation for the reaction of ethene with steam and state the catalyst and reaction type.
 <!-- id: chem-5-3-19 -->
 
 *Written answer*
 
-**Q1487.** Write a balanced equation for the reaction of 1-bromopropane with aqueous sodium hydroxide.
+**Q1505.** Write a balanced equation for the reaction of 1-bromopropane with aqueous sodium hydroxide.
 <!-- id: chem-5-3-20 -->
 
 *Written answer*
 
-**Q1488.** Explain why alkenes undergo addition reactions but alkanes do not.
+**Q1506.** Explain why alkenes undergo addition reactions but alkanes do not.
 <!-- id: chem-5-3-21 -->
 
 *Written answer*
 
-**Q1489.** Explain how the conditions of oxidising ethanol with acidified dichromate determine whether ethanal or ethanoic acid is the main product.
+**Q1507.** Explain how the conditions of oxidising ethanol with acidified dichromate determine whether ethanal or ethanoic acid is the main product.
 <!-- id: chem-5-3-22 -->
 
 *Written answer*
 
-**Q1490.** What is the atom economy for producing ethanol by the hydration of ethene? Explain.
+**Q1508.** What is the atom economy for producing ethanol by the hydration of ethene? Explain.
 <!-- id: chem-5-3-23 -->
 
 *Written answer*
 
-**Q1491.** Calculate the atom economy for producing ethanol from chloroethane and sodium hydroxide: C₂H₅Cl + NaOH → C₂H₅OH + NaCl. (M: C₂H₅Cl 64.5, NaOH 40.0, C₂H₅OH 46.0 g/mol)
+**Q1509.** Calculate the atom economy for producing ethanol from chloroethane and sodium hydroxide: C₂H₅Cl + NaOH → C₂H₅OH + NaCl. (M: C₂H₅Cl 64.5, NaOH 40.0, C₂H₅OH 46.0 g/mol)
 <!-- id: chem-5-3-24 -->
 
 *Written answer*
 
-**Q1492.** Describe a simple chemical test to distinguish hexene from hexane.
+**Q1510.** Describe a simple chemical test to distinguish hexene from hexane.
 <!-- id: chem-5-3-25 -->
 
 *Written answer*
 
-**Q1493.** Ethene reacts with steam at about 300 °C with a phosphoric acid catalyst. What is the product and type of reaction?
+**Q1511.** Ethene reacts with steam at about 300 °C with a phosphoric acid catalyst. What is the product and type of reaction?
 <!-- id: chem34a2-rxn-1 -->
 
 - A. Ethanoic acid; oxidation
@@ -10662,7 +10812,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. Ethanol; addition
 - D. Ethanol; substitution
 
-**Q1494.** Which reaction is a substitution reaction?
+**Q1512.** Which reaction is a substitution reaction?
 <!-- id: chem34a2-rxn-2 -->
 
 - A. CH₃CH₂Cl(l) + OH⁻(aq) → CH₃CH₂OH(aq) + Cl⁻(aq)
@@ -10670,7 +10820,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. CH₂=CH₂(g) + Br₂(aq) → CH₂BrCH₂Br(l)
 - D. CH₃CH₂OH(l) + 3O₂(g) → 2CO₂(g) + 3H₂O(g)
 
-**Q1495.** Propan-1-ol is heated with excess acidified potassium dichromate solution. Which observation and product are correct?
+**Q1513.** Propan-1-ol is heated with excess acidified potassium dichromate solution. Which observation and product are correct?
 <!-- id: chem34a2-rxn-3 -->
 
 - A. The solution changes from green to orange; propanoic acid forms.
@@ -10678,7 +10828,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. The solution changes from purple to colourless; propene forms.
 - D. No colour change; propyl propanoate forms.
 
-**Q1496.** Which statement about the formation of an ester from a carboxylic acid and an alcohol is correct?
+**Q1514.** Which statement about the formation of an ester from a carboxylic acid and an alcohol is correct?
 <!-- id: chem34a2-rxn-4 -->
 
 - A. It is an addition reaction that needs UV light.
@@ -10686,7 +10836,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. It requires a strong base such as NaOH as a catalyst.
 - D. It is a condensation reaction catalysed by concentrated H₂SO₄, and water is a by-product.
 
-**Q1497.** Ethane is mixed with chlorine gas and exposed to UV light. Which equation shows the first product formed?
+**Q1515.** Ethane is mixed with chlorine gas and exposed to UV light. Which equation shows the first product formed?
 <!-- id: chem34a2-rxn-5 -->
 
 - A. C₂H₆(g) + Cl₂(g) → C₂H₅Cl(g) + HCl(g)
@@ -10694,24 +10844,33 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. C₂H₆(g) + Cl₂(g) → C₂H₄(g) + 2HCl(g)
 - D. C₂H₆(g) + Cl₂(g) → 2CH₃Cl(g)
 
-**Q1498.** Write a balanced equation, using semi-structural formulas, for the reaction between ethanoic acid and methanol. Name the organic product and state the conditions required. (3 marks)
+**Q1516.** Write a balanced equation, using semi-structural formulas, for the reaction between ethanoic acid and methanol. Name the organic product and state the conditions required. (3 marks)
 <!-- id: chem34a2-rxn-6 -->
 
 *Written answer*
 
-**Q1499.** Chloroethane reacts with ammonia to form an amine. Write the balanced equation, name the organic product and identify the type of reaction. (3 marks)
+**Q1517.** Chloroethane reacts with ammonia to form an amine. Write the balanced equation, name the organic product and identify the type of reaction. (3 marks)
 <!-- id: chem34a2-rxn-7 -->
 
 *Written answer*
 
-**Q1500.** Bromine water is added to propene and to propane in separate test tubes. Describe and explain the observations, including an equation for any reaction. (3 marks)
+**Q1518.** Bromine water is added to propene and to propane in separate test tubes. Describe and explain the observations, including an equation for any reaction. (3 marks)
 <!-- id: chem34a2-rxn-8 -->
 
 *Written answer*
 
+**Q1519.** Which alkene gives only one product when it reacts with HCl?
+<!-- id: chem-5-3-c1 -->
+*Challenge question*
+
+- A. But-1-ene
+- B. Propene
+- C. But-2-ene
+- D. 2-methylpropene
+
 #### Reaction pathways, esters and yield
 
-**Q1501.** Which two-step pathway converts ethene into ethanoic acid?
+**Q1520.** Which two-step pathway converts ethene into ethanoic acid?
 <!-- id: chem-5-4-1 -->
 
 - A. react with HCl, then heat with NaOH(aq)
@@ -10719,7 +10878,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. react with steam (H₃PO₄ catalyst), then heat under reflux with acidified K₂Cr₂O₇
 - D. react with steam (H₃PO₄ catalyst), then heat with concentrated H₂SO₄ and methanol
 
-**Q1502.** Which pair of reactants produces ethyl propanoate?
+**Q1521.** Which pair of reactants produces ethyl propanoate?
 <!-- id: chem-5-4-2 -->
 
 - A. propan-1-ol and ethanoic acid
@@ -10727,7 +10886,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. propan-1-ol and propanoic acid
 - D. ethanol and propanoic acid
 
-**Q1503.** What is the name of the ester formed from methanol and butanoic acid?
+**Q1522.** What is the name of the ester formed from methanol and butanoic acid?
 <!-- id: chem-5-4-3 -->
 
 - A. methyl butanoate
@@ -10735,7 +10894,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. methyl propanoate
 - D. propyl methanoate
 
-**Q1504.** Propyl ethanoate, CH₃COOCH₂CH₂CH₃, is formed from which reactants?
+**Q1523.** Propyl ethanoate, CH₃COOCH₂CH₂CH₃, is formed from which reactants?
 <!-- id: chem-5-4-4 -->
 
 - A. ethanol and propanoic acid
@@ -10743,7 +10902,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. propan-2-ol and ethanoic acid
 - D. propanoic acid and propan-1-ol
 
-**Q1505.** What is the molecular formula of ethyl ethanoate?
+**Q1524.** What is the molecular formula of ethyl ethanoate?
 <!-- id: chem-5-4-5 -->
 
 - A. C₄H₁₀O₂
@@ -10751,7 +10910,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. C₄H₈O₂
 - D. C₄H₈O
 
-**Q1506.** Which pathway converts chloroethane into ethanoic acid?
+**Q1525.** Which pathway converts chloroethane into ethanoic acid?
 <!-- id: chem-5-4-6 -->
 
 - A. heat with NH₃, then heat with acidified KMnO₄
@@ -10759,7 +10918,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. heat with acidified KMnO₄, then heat with NaOH(aq)
 - D. heat with NaOH(aq), then heat under reflux with acidified KMnO₄
 
-**Q1507.** Which two-step pathway produces ethanamine from ethene?
+**Q1526.** Which two-step pathway produces ethanamine from ethene?
 <!-- id: chem-5-4-7 -->
 
 - A. add HCl, then react the chloroethane with NH₃
@@ -10767,7 +10926,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. add H₂, then react the ethane with NH₃
 - D. add HCl, then react the chloroethane with NaOH(aq)
 
-**Q1508.** Why does ethyl ethanoate (77 °C) have a lower boiling point than butanoic acid (164 °C), even though they are isomers?
+**Q1527.** Why does ethyl ethanoate (77 °C) have a lower boiling point than butanoic acid (164 °C), even though they are isomers?
 <!-- id: chem-5-4-8 -->
 
 - A. ethyl ethanoate has a smaller molar mass
@@ -10775,7 +10934,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. ethyl ethanoate has stronger dispersion forces
 - D. esters are ionic compounds
 
-**Q1509.** A student reacted 12.0 g of ethanoic acid (M = 60.0 g/mol) with excess ethanol and obtained 14.1 g of ethyl ethanoate (M = 88.0 g/mol). What is the percentage yield?
+**Q1528.** A student reacted 12.0 g of ethanoic acid (M = 60.0 g/mol) with excess ethanol and obtained 14.1 g of ethyl ethanoate (M = 88.0 g/mol). What is the percentage yield?
 <!-- id: chem-5-4-9 -->
 
 - A. 117.5%
@@ -10783,7 +10942,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 80.1%
 - D. 68.2%
 
-**Q1510.** A two-step synthesis has a yield of 80% for step 1 and 75% for step 2. What is the overall percentage yield?
+**Q1529.** A two-step synthesis has a yield of 80% for step 1 and 75% for step 2. What is the overall percentage yield?
 <!-- id: chem-5-4-10 -->
 
 - A. 155%
@@ -10791,7 +10950,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 5%
 - D. 60%
 
-**Q1511.** Biodiesel is made by reacting a triglyceride (vegetable oil) with methanol using a KOH catalyst. The products are
+**Q1530.** Biodiesel is made by reacting a triglyceride (vegetable oil) with methanol using a KOH catalyst. The products are
 <!-- id: chem-5-4-11 -->
 
 - A. fatty acid methyl esters and glycerol
@@ -10799,7 +10958,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. glycerol and water
 - D. methyl ethanoate and fatty acids
 
-**Q1512.** Which reagents convert ethanol directly into ethyl ethanoate in one step?
+**Q1531.** Which reagents convert ethanol directly into ethyl ethanoate in one step?
 <!-- id: chem-5-4-12 -->
 
 - A. acidified K₂Cr₂O₇ under reflux
@@ -10807,7 +10966,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. NaOH(aq)
 - D. steam with an H₃PO₄ catalyst
 
-**Q1513.** Methyl propanoate is hydrolysed in dilute acid. What are the products?
+**Q1532.** Methyl propanoate is hydrolysed in dilute acid. What are the products?
 <!-- id: chem-5-4-13 -->
 
 - A. propan-1-ol and methanoic acid
@@ -10815,7 +10974,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. methanol and propanoic acid
 - D. ethanol and ethanoic acid
 
-**Q1514.** Which group of atoms is characteristic of an ester?
+**Q1533.** Which group of atoms is characteristic of an ester?
 <!-- id: chem-5-4-14 -->
 
 - A. –COOH
@@ -10823,7 +10982,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. –OH
 - D. –COO– (ester linkage)
 
-**Q1515.** What is the IUPAC name of CH₃CH₂COOCH₂CH₂CH₃?
+**Q1534.** What is the IUPAC name of CH₃CH₂COOCH₂CH₂CH₃?
 <!-- id: chem-5-4-15 -->
 
 - A. propyl propanoate
@@ -10831,7 +10990,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. propyl ethanoate
 - D. propyl butanoate
 
-**Q1516.** 2-Chloropropane is heated with NaOH(aq), and the organic product is then heated with acidified K₂Cr₂O₇. What is the final organic product?
+**Q1535.** 2-Chloropropane is heated with NaOH(aq), and the organic product is then heated with acidified K₂Cr₂O₇. What is the final organic product?
 <!-- id: chem-5-4-16 -->
 
 - A. propanal
@@ -10839,7 +10998,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. propanoic acid
 - D. propan-1-ol
 
-**Q1517.** Calculate the atom economy for making ethyl ethanoate: CH₃COOH + C₂H₅OH → CH₃COOC₂H₅ + H₂O. (M: CH₃COOH 60.0, C₂H₅OH 46.0, CH₃COOC₂H₅ 88.0 g/mol)
+**Q1536.** Calculate the atom economy for making ethyl ethanoate: CH₃COOH + C₂H₅OH → CH₃COOC₂H₅ + H₂O. (M: CH₃COOH 60.0, C₂H₅OH 46.0, CH₃COOC₂H₅ 88.0 g/mol)
 <!-- id: chem-5-4-17 -->
 
 - A. 100%
@@ -10847,7 +11006,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 83.0%
 - D. 120.5%
 
-**Q1518.** Pentyl ethanoate has a banana-like odour. Which reactants form it?
+**Q1537.** Pentyl ethanoate has a banana-like odour. Which reactants form it?
 <!-- id: chem-5-4-18 -->
 
 - A. ethanol and pentanoic acid
@@ -10855,42 +11014,42 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. butan-1-ol and ethanoic acid
 - D. pentan-1-ol and ethanoic acid
 
-**Q1519.** Outline a reaction pathway to make ethyl ethanoate using ethene as the only organic starting material. Give reagents for each step.
+**Q1538.** Outline a reaction pathway to make ethyl ethanoate using ethene as the only organic starting material. Give reagents for each step.
 <!-- id: chem-5-4-19 -->
 
 *Written answer*
 
-**Q1520.** Write a balanced equation for the formation of methyl ethanoate.
+**Q1539.** Write a balanced equation for the formation of methyl ethanoate.
 <!-- id: chem-5-4-20 -->
 
 *Written answer*
 
-**Q1521.** 23.0 g of ethanol (M = 46.0 g/mol) reacts with excess ethanoic acid. If the yield is 65.0%, what mass of ethyl ethanoate (M = 88.0 g/mol) is obtained?
+**Q1540.** 23.0 g of ethanol (M = 46.0 g/mol) reacts with excess ethanoic acid. If the yield is 65.0%, what mass of ethyl ethanoate (M = 88.0 g/mol) is obtained?
 <!-- id: chem-5-4-21 -->
 
 *Written answer*
 
-**Q1522.** Name CH₃CH₂COOCH₂CH₃ and the products of its acid hydrolysis.
+**Q1541.** Name CH₃CH₂COOCH₂CH₃ and the products of its acid hydrolysis.
 <!-- id: chem-5-4-22 -->
 
 *Written answer*
 
-**Q1523.** Give a two-step pathway, with reagents, to convert chloroethane into ethanoic acid.
+**Q1542.** Give a two-step pathway, with reagents, to convert chloroethane into ethanoic acid.
 <!-- id: chem-5-4-23 -->
 
 *Written answer*
 
-**Q1524.** Name the ester formed from ethanol and methanoic acid and give its condensed formula.
+**Q1543.** Name the ester formed from ethanol and methanoic acid and give its condensed formula.
 <!-- id: chem-5-4-24 -->
 
 *Written answer*
 
-**Q1525.** A three-step synthesis has yields of 90%, 80% and 75%. Calculate the overall percentage yield.
+**Q1544.** A three-step synthesis has yields of 90%, 80% and 75%. Calculate the overall percentage yield.
 <!-- id: chem-5-4-25 -->
 
 *Written answer*
 
-**Q1526.** Which reagents would convert ethene into ethanoic acid in two steps?
+**Q1545.** Which reagents would convert ethene into ethanoic acid in two steps?
 <!-- id: chem34a2-syn-1 -->
 
 - A. Step 1: H₂/Ni; Step 2: Cl₂/UV light
@@ -10898,7 +11057,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. Step 1: HCl; Step 2: NaOH(aq)
 - D. Step 1: H⁺/Cr₂O₇²⁻; Step 2: H₂O(g)/H₃PO₄
 
-**Q1527.** What is the atom economy for the production of ethanol by the reaction CH₂=CH₂(g) + H₂O(g) → CH₃CH₂OH(g)?
+**Q1546.** What is the atom economy for the production of ethanol by the reaction CH₂=CH₂(g) + H₂O(g) → CH₃CH₂OH(g)?
 <!-- id: chem34a2-syn-2 -->
 
 - A. 50%
@@ -10906,7 +11065,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 100%
 - D. Cannot be determined without the percentage yield
 
-**Q1528.** Ethanol can also be made by CH₃CH₂Cl + NaOH → CH₃CH₂OH + NaCl. What is the atom economy for ethanol? (M: C₂H₅Cl = 64.5, NaOH = 40.0, C₂H₅OH = 46.0 g mol⁻¹)
+**Q1547.** Ethanol can also be made by CH₃CH₂Cl + NaOH → CH₃CH₂OH + NaCl. What is the atom economy for ethanol? (M: C₂H₅Cl = 64.5, NaOH = 40.0, C₂H₅OH = 46.0 g mol⁻¹)
 <!-- id: chem34a2-syn-3 -->
 
 - A. 44.0%
@@ -10914,7 +11073,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 56.0%
 - D. 100%
 
-**Q1529.** A three-step synthesis has step yields of 80%, 70% and 90%. What is the overall percentage yield?
+**Q1548.** A three-step synthesis has step yields of 80%, 70% and 90%. What is the overall percentage yield?
 <!-- id: chem34a2-syn-4 -->
 
 - A. 80%
@@ -10922,7 +11081,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 240%
 - D. 50%
 
-**Q1530.** A reaction has a percentage yield of 95% but an atom economy of 30%. Which statement is correct?
+**Q1549.** A reaction has a percentage yield of 95% but an atom economy of 30%. Which statement is correct?
 <!-- id: chem34a2-syn-5 -->
 
 - A. Most of the reactant atoms end up in the desired product.
@@ -10930,24 +11089,30 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. The yield must be wrong because it cannot be higher than the atom economy.
 - D. The reaction produces no waste.
 
-**Q1531.** 12.0 g of ethanoic acid was heated under reflux with excess ethanol and concentrated H₂SO₄. 11.0 g of ethyl ethanoate was obtained. Calculate the percentage yield. (3 marks)
+**Q1550.** 12.0 g of ethanoic acid was heated under reflux with excess ethanol and concentrated H₂SO₄. 11.0 g of ethyl ethanoate was obtained. Calculate the percentage yield. (3 marks)
 <!-- id: chem34a2-syn-6 -->
 
 *Written answer*
 
-**Q1532.** Outline a synthetic pathway to produce ethyl ethanoate using ethene as the only organic starting material. Include the reagents and conditions for each step. (3 marks)
+**Q1551.** Outline a synthetic pathway to produce ethyl ethanoate using ethene as the only organic starting material. Include the reagents and conditions for each step. (3 marks)
 <!-- id: chem34a2-syn-7 -->
 
 *Written answer*
 
-**Q1533.** Calculate the atom economy for producing ethyl ethanoate by CH₃COOH + CH₃CH₂OH ⇌ CH₃COOCH₂CH₃ + H₂O, and suggest one way the percentage yield of this equilibrium reaction could be increased. (3 marks)
+**Q1552.** Calculate the atom economy for producing ethyl ethanoate by CH₃COOH + CH₃CH₂OH ⇌ CH₃COOCH₂CH₃ + H₂O, and suggest one way the percentage yield of this equilibrium reaction could be increased. (3 marks)
 <!-- id: chem34a2-syn-8 -->
+
+*Written answer*
+
+**Q1553.** 10.0 g of ethanol reacts with excess propanoic acid. The yield of ethyl propanoate (M = 102.0 g/mol) is 65%. What mass of ester is obtained?
+<!-- id: chem-5-4-c1 -->
+*Challenge question*
 
 *Written answer*
 
 #### Physical properties of organic compounds
 
-**Q1534.** Which compound has the highest boiling point?
+**Q1554.** Which compound has the highest boiling point?
 <!-- id: chem34a2-phys-1 -->
 
 - A. Butane, C₄H₁₀
@@ -10955,7 +11120,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. Propan-1-ol, C₃H₇OH
 - D. Ethanoic acid, CH₃COOH
 
-**Q1535.** Why do boiling points increase from methane to octane in the alkane homologous series?
+**Q1555.** Why do boiling points increase from methane to octane in the alkane homologous series?
 <!-- id: chem34a2-phys-2 -->
 
 - A. Hydrogen bonding increases with chain length.
@@ -10963,7 +11128,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. The C–C covalent bonds become stronger.
 - D. Longer alkanes are more polar.
 
-**Q1536.** Pentane boils at 36 °C and its isomer 2,2-dimethylpropane boils at 10 °C. What is the best explanation?
+**Q1556.** Pentane boils at 36 °C and its isomer 2,2-dimethylpropane boils at 10 °C. What is the best explanation?
 <!-- id: chem34a2-phys-3 -->
 
 - A. 2,2-dimethylpropane has a lower molar mass.
@@ -10971,7 +11136,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. The compact, branched shape of 2,2-dimethylpropane gives less surface contact, so its dispersion forces are weaker.
 - D. Branching makes the C–H bonds weaker.
 
-**Q1537.** Which statement explains why the solubility of alcohols in water decreases from methanol to hexan-1-ol?
+**Q1557.** Which statement explains why the solubility of alcohols in water decreases from methanol to hexan-1-ol?
 <!-- id: chem34a2-phys-4 -->
 
 - A. The longer non-polar hydrocarbon chain disrupts hydrogen bonding with water and cannot itself interact strongly with water.
@@ -10979,7 +11144,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. Larger alcohols react with water.
 - D. Larger alcohols have fewer hydrogen atoms.
 
-**Q1538.** Moving from hexane to decane in the alkane series, how do viscosity and flash point change?
+**Q1558.** Moving from hexane to decane in the alkane series, how do viscosity and flash point change?
 <!-- id: chem34a2-phys-5 -->
 
 - A. Viscosity decreases; flash point decreases.
@@ -10987,26 +11152,35 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. Viscosity decreases; flash point increases.
 - D. Viscosity increases; flash point increases.
 
-**Q1539.** Ethanol (M = 46 g mol⁻¹) boils at 78 °C, while propane (M = 44 g mol⁻¹) boils at −42 °C. Explain this difference with reference to intermolecular forces. (3 marks)
+**Q1559.** Ethanol (M = 46 g mol⁻¹) boils at 78 °C, while propane (M = 44 g mol⁻¹) boils at −42 °C. Explain this difference with reference to intermolecular forces. (3 marks)
 <!-- id: chem34a2-phys-6 -->
 
 *Written answer*
 
-**Q1540.** Methyl ethanoate (CH₃COOCH₃) and propanoic acid (CH₃CH₂COOH) are isomers. Explain why methyl ethanoate has a much lower boiling point. (2 marks)
+**Q1560.** Methyl ethanoate (CH₃COOCH₃) and propanoic acid (CH₃CH₂COOH) are isomers. Explain why methyl ethanoate has a much lower boiling point. (2 marks)
 <!-- id: chem34a2-phys-7 -->
 
 *Written answer*
 
-**Q1541.** Propan-1-amine (CH₃CH₂CH₂NH₂) boils at 48 °C and propan-1-ol boils at 97 °C. Explain why both have higher boiling points than butane (−1 °C), but the amine boils at a lower temperature than the alcohol. (3 marks)
+**Q1561.** Propan-1-amine (CH₃CH₂CH₂NH₂) boils at 48 °C and propan-1-ol boils at 97 °C. Explain why both have higher boiling points than butane (−1 °C), but the amine boils at a lower temperature than the alcohol. (3 marks)
 <!-- id: chem34a2-phys-8 -->
 
 *Written answer*
+
+**Q1562.** Propan-1-ol (M = 60), propanal (M = 58) and butane (M = 58) have similar molar masses. Their boiling points in decreasing order are:
+<!-- id: chem-5-5-c1 -->
+*Challenge question*
+
+- A. Propan-1-ol > propanal > butane
+- B. Butane > propanal > propan-1-ol
+- C. Propanal > propan-1-ol > butane
+- D. All about the same, because their molar masses are similar
 
 ### Instrumental analysis
 
 #### Mass spectrometry
 
-**Q1542.** In a mass spectrum, the molecular ion peak (M⁺) corresponds to:
+**Q1563.** In a mass spectrum, the molecular ion peak (M⁺) corresponds to:
 <!-- id: chem-6-1-1 -->
 
 - A. the ion formed when a whole molecule loses one electron
@@ -11014,7 +11188,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. the smallest fragment ion produced
 - D. the ion formed when a molecule gains one electron
 
-**Q1543.** The base peak in a mass spectrum is best described as the peak:
+**Q1564.** The base peak in a mass spectrum is best described as the peak:
 <!-- id: chem-6-1-2 -->
 
 - A. with the highest m/z value
@@ -11022,7 +11196,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. due to the molecular ion
 - D. with the lowest m/z value
 
-**Q1544.** The mass spectrum of chloromethane shows peaks at m/z 50 and 52 with relative heights of about 3:1. This is because:
+**Q1565.** The mass spectrum of chloromethane shows peaks at m/z 50 and 52 with relative heights of about 3:1. This is because:
 <!-- id: chem-6-1-3 -->
 
 - A. carbon exists as ¹²C and ¹³C in about a 3:1 ratio
@@ -11030,7 +11204,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. chlorine exists naturally as ³⁵Cl and ³⁷Cl in about a 3:1 ratio
 - D. the m/z 52 peak is a fragment containing two hydrogen atoms more
 
-**Q1545.** The mass spectrum of bromoethane (CH₃CH₂Br) would be expected to show molecular ion peaks at:
+**Q1566.** The mass spectrum of bromoethane (CH₃CH₂Br) would be expected to show molecular ion peaks at:
 <!-- id: chem-6-1-4 -->
 
 - A. m/z 108 and 110 in a 3:1 ratio
@@ -11038,7 +11212,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. m/z 29 and 79 of equal height
 - D. m/z 108 and 110 of almost equal height
 
-**Q1546.** A peak at m/z 15 in the mass spectrum of an organic compound is most likely due to:
+**Q1567.** A peak at m/z 15 in the mass spectrum of an organic compound is most likely due to:
 <!-- id: chem-6-1-5 -->
 
 - A. CH₃⁺
@@ -11046,7 +11220,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. CH₂⁺
 - D. OH⁺
 
-**Q1547.** The difference between the molecular ion peak and a fragment peak is 15 m/z units. This suggests the molecule lost:
+**Q1568.** The difference between the molecular ion peak and a fragment peak is 15 m/z units. This suggests the molecule lost:
 <!-- id: chem-6-1-6 -->
 
 - A. an ethyl group (C₂H₅)
@@ -11054,7 +11228,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. a hydroxyl group (OH)
 - D. a water molecule (H₂O)
 
-**Q1548.** What is the m/z of the molecular ion of ethanol, CH₃CH₂OH?
+**Q1569.** What is the m/z of the molecular ion of ethanol, CH₃CH₂OH?
 <!-- id: chem-6-1-7 -->
 
 - A. 45
@@ -11062,7 +11236,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 46
 - D. 47
 
-**Q1549.** Primary alcohols such as propan-1-ol commonly show a fragment peak at m/z 31. This fragment is:
+**Q1570.** Primary alcohols such as propan-1-ol commonly show a fragment peak at m/z 31. This fragment is:
 <!-- id: chem-6-1-8 -->
 
 - A. CH₃O⁻
@@ -11070,7 +11244,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. CH₃CH₂⁺
 - D. CH₂OH⁺
 
-**Q1550.** In the mass spectrum of butane (M = 58), a large peak at m/z 43 is due to:
+**Q1571.** In the mass spectrum of butane (M = 58), a large peak at m/z 43 is due to:
 <!-- id: chem-6-1-9 -->
 
 - A. C₃H₇⁺ formed by loss of a CH₃ radical
@@ -11078,7 +11252,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. C₄H₁₀⁺ formed by ionisation
 - D. C₃H₇⁺ formed by loss of a CH₄ molecule
 
-**Q1551.** Only positively charged fragments appear in a mass spectrum because:
+**Q1572.** Only positively charged fragments appear in a mass spectrum because:
 <!-- id: chem-6-1-10 -->
 
 - A. neutral fragments are too heavy to be detected
@@ -11086,7 +11260,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. negative ions are destroyed by the magnetic field
 - D. radicals always recombine to reform the molecular ion
 
-**Q1552.** The base peak in the mass spectrum of propanone (CH₃COCH₃) is at m/z 43. The ion responsible is:
+**Q1573.** The base peak in the mass spectrum of propanone (CH₃COCH₃) is at m/z 43. The ion responsible is:
 <!-- id: chem-6-1-11 -->
 
 - A. C₃H₆O⁺
@@ -11094,7 +11268,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. CH₃CO⁺
 - D. C₂H₃⁺
 
-**Q1553.** A small peak at one m/z unit above the molecular ion (the M+1 peak) in organic compounds is mainly due to:
+**Q1574.** A small peak at one m/z unit above the molecular ion (the M+1 peak) in organic compounds is mainly due to:
 <!-- id: chem-6-1-12 -->
 
 - A. the presence of the ³⁷Cl isotope
@@ -11102,7 +11276,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. a doubly charged molecular ion
 - D. the presence of the ¹³C isotope
 
-**Q1554.** An organic compound containing C, H and O shows a molecular ion peak at m/z 60. Which compound could it be?
+**Q1575.** An organic compound containing C, H and O shows a molecular ion peak at m/z 60. Which compound could it be?
 <!-- id: chem-6-1-13 -->
 
 - A. propan-1-ol
@@ -11110,7 +11284,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. butane
 - D. ethyl ethanoate
 
-**Q1555.** A ketone with molecular ion at m/z 86 shows its base peak at m/z 57. Which ketone is most consistent with this?
+**Q1576.** A ketone with molecular ion at m/z 86 shows its base peak at m/z 57. Which ketone is most consistent with this?
 <!-- id: chem-6-1-14 -->
 
 - A. pentan-2-one
@@ -11118,7 +11292,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. propanone
 - D. butanone
 
-**Q1556.** Which equation correctly represents a fragmentation that occurs in a mass spectrometer?
+**Q1577.** Which equation correctly represents a fragmentation that occurs in a mass spectrometer?
 <!-- id: chem-6-1-15 -->
 
 - A. [CH₃CH₂OH]⁺ → CH₂OH⁺ + CH₃⁺
@@ -11126,7 +11300,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. [CH₃CH₂OH]⁺ → CH₂OH⁺ + CH₃•
 - D. [CH₃CH₂OH]⁺ → CH₂OH• + CH₃•
 
-**Q1557.** A peak at m/z 45 in the mass spectrum of an organic acid is most likely due to:
+**Q1578.** A peak at m/z 45 in the mass spectrum of an organic acid is most likely due to:
 <!-- id: chem-6-1-16 -->
 
 - A. C₂H₅⁺
@@ -11134,7 +11308,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. CH₃CO⁺
 - D. COOH⁺
 
-**Q1558.** A compound has a molecular ion at m/z 74 and fragment peaks at m/z 45 and 29. The compound is most likely:
+**Q1579.** A compound has a molecular ion at m/z 74 and fragment peaks at m/z 45 and 29. The compound is most likely:
 <!-- id: chem-6-1-17 -->
 
 - A. propanoic acid
@@ -11142,7 +11316,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. propan-1-ol
 - D. butanoic acid
 
-**Q1559.** Why is it often difficult to distinguish structural isomers such as propan-1-ol and propan-2-ol by their molecular ion peak alone?
+**Q1580.** Why is it often difficult to distinguish structural isomers such as propan-1-ol and propan-2-ol by their molecular ion peak alone?
 <!-- id: chem-6-1-18 -->
 
 - A. isomers never form molecular ions
@@ -11150,42 +11324,42 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. isomers always produce identical fragment patterns
 - D. isomers contain different isotopes
 
-**Q1560.** Explain why the molecular ion peak of some organic compounds, such as certain alcohols, is very small or missing from the mass spectrum.
+**Q1581.** Explain why the molecular ion peak of some organic compounds, such as certain alcohols, is very small or missing from the mass spectrum.
 <!-- id: chem-6-1-19 -->
 
 *Written answer*
 
-**Q1561.** Calculate the m/z value of the fragment ion CH₃CH₂CH₂⁺ and name a compound in whose mass spectrum it would be expected.
+**Q1582.** Calculate the m/z value of the fragment ion CH₃CH₂CH₂⁺ and name a compound in whose mass spectrum it would be expected.
 <!-- id: chem-6-1-20 -->
 
 *Written answer*
 
-**Q1562.** The mass spectrum of propane has a large peak at m/z 29. Identify the ion responsible and write an equation for its formation from the molecular ion.
+**Q1583.** The mass spectrum of propane has a large peak at m/z 29. Identify the ion responsible and write an equation for its formation from the molecular ion.
 <!-- id: chem-6-1-21 -->
 
 *Written answer*
 
-**Q1563.** Chloroethane, C₂H₅Cl, shows two molecular ion peaks. State their m/z values and the approximate ratio of their heights, and explain the pattern.
+**Q1584.** Chloroethane, C₂H₅Cl, shows two molecular ion peaks. State their m/z values and the approximate ratio of their heights, and explain the pattern.
 <!-- id: chem-6-1-22 -->
 
 *Written answer*
 
-**Q1564.** The mass spectrum of ethanal (CH₃CHO) shows a significant peak at m/z 29. Identify the ion and the neutral species lost.
+**Q1585.** The mass spectrum of ethanal (CH₃CHO) shows a significant peak at m/z 29. Identify the ion and the neutral species lost.
 <!-- id: chem-6-1-23 -->
 
 *Written answer*
 
-**Q1565.** The mass spectrum of butanone (CH₃COCH₂CH₃, M = 72) shows peaks at m/z 57 and 43. Identify the ion causing each peak.
+**Q1586.** The mass spectrum of butanone (CH₃COCH₂CH₃, M = 72) shows peaks at m/z 57 and 43. Identify the ion causing each peak.
 <!-- id: chem-6-1-24 -->
 
 *Written answer*
 
-**Q1566.** Outline the main steps that occur inside a mass spectrometer, from the sample entering to the spectrum being produced.
+**Q1587.** Outline the main steps that occur inside a mass spectrometer, from the sample entering to the spectrum being produced.
 <!-- id: chem-6-1-25 -->
 
 *Written answer*
 
-**Q1567.** In the mass spectrum of an organic compound, the molecular ion peak (M⁺) is best described as the peak that
+**Q1588.** In the mass spectrum of an organic compound, the molecular ion peak (M⁺) is best described as the peak that
 <!-- id: chem34a3-ms-1 -->
 
 - A. is always the tallest peak in the spectrum
@@ -11193,7 +11367,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. corresponds to the most stable fragment cation formed
 - D. appears at m/z = 1 more than the molar mass because of ¹³C
 
-**Q1568.** A mass spectrum of a haloalkane shows two molecular ion peaks at m/z = 64 and m/z = 66, with relative heights of about 3 : 1. The compound is most likely
+**Q1589.** A mass spectrum of a haloalkane shows two molecular ion peaks at m/z = 64 and m/z = 66, with relative heights of about 3 : 1. The compound is most likely
 <!-- id: chem34a3-ms-2 -->
 
 - A. bromomethane
@@ -11201,7 +11375,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. chloroethane
 - D. fluoroethane
 
-**Q1569.** The base peak in the mass spectrum of butanone, CH₃COCH₂CH₃, occurs at m/z = 43. Which species is responsible for this peak?
+**Q1590.** The base peak in the mass spectrum of butanone, CH₃COCH₂CH₃, occurs at m/z = 43. Which species is responsible for this peak?
 <!-- id: chem34a3-ms-3 -->
 
 - A. CH₃CO⁺
@@ -11209,7 +11383,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. C₂H₅⁺
 - D. CH₃CH₂CO⁺
 
-**Q1570.** A student notices a very small peak at m/z = 47 in the mass spectrum of ethanol (M = 46). The best explanation for this peak is
+**Q1591.** A student notices a very small peak at m/z = 47 in the mass spectrum of ethanol (M = 46). The best explanation for this peak is
 <!-- id: chem34a3-ms-4 -->
 
 - A. the presence of an impurity with a higher molar mass
@@ -11217,7 +11391,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. the presence of molecules containing one ¹³C atom
 - D. a doubly charged ion of a fragment with mass 94
 
-**Q1571.** An unknown compound has its molecular ion at m/z = 60 and prominent peaks at m/z = 45 and m/z = 15. Which compound is consistent with these data?
+**Q1592.** An unknown compound has its molecular ion at m/z = 60 and prominent peaks at m/z = 45 and m/z = 15. Which compound is consistent with these data?
 <!-- id: chem34a3-ms-5 -->
 
 - A. propan-1-ol
@@ -11225,24 +11399,33 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. methyl methanoate
 - D. propanal
 
-**Q1572.** Explain why the m/z value of the molecular ion peak can be used to find the relative molecular mass of a compound, and state one reason why a molecular ion peak may be very small or absent. (2 marks)
+**Q1593.** Explain why the m/z value of the molecular ion peak can be used to find the relative molecular mass of a compound, and state one reason why a molecular ion peak may be very small or absent. (2 marks)
 <!-- id: chem34a3-ms-6 -->
 
 *Written answer*
 
-**Q1573.** Bromoethane, CH₃CH₂Br, is analysed by mass spectrometry. Bromine exists as ⁷⁹Br and ⁸¹Br in roughly equal amounts. (a) Predict the m/z values and relative heights of the molecular ion peaks. (b) Identify the cation responsible for a peak at m/z = 29. (3 marks)
+**Q1594.** Bromoethane, CH₃CH₂Br, is analysed by mass spectrometry. Bromine exists as ⁷⁹Br and ⁸¹Br in roughly equal amounts. (a) Predict the m/z values and relative heights of the molecular ion peaks. (b) Identify the cation responsible for a peak at m/z = 29. (3 marks)
 <!-- id: chem34a3-ms-7 -->
 
 *Written answer*
 
-**Q1574.** A compound containing only C, H and O has a molecular ion at m/z = 58 and a base peak at m/z = 43. A peak at m/z = 15 is also present, but there is no peak at m/z = 29. Suggest the identity of the compound and justify using the fragments. (3 marks)
+**Q1595.** A compound containing only C, H and O has a molecular ion at m/z = 58 and a base peak at m/z = 43. A peak at m/z = 15 is also present, but there is no peak at m/z = 29. Suggest the identity of the compound and justify using the fragments. (3 marks)
 <!-- id: chem34a3-ms-8 -->
 
 *Written answer*
 
+**Q1596.** A mass spectrum shows peaks at m/z 78 and 80 in an intensity ratio of about 3 : 1. This suggests the molecule:
+<!-- id: chem-6-1-c1 -->
+*Challenge question*
+
+- A. Contains one bromine atom
+- B. Contains one chlorine atom
+- C. Contains two chlorine atoms
+- D. Has a molar mass of 79 g/mol
+
 #### Infrared spectroscopy
 
-**Q1575.** A broad absorption between 3200 and 3600 cm⁻¹ in an infrared spectrum indicates the presence of:
+**Q1597.** A broad absorption between 3200 and 3600 cm⁻¹ in an infrared spectrum indicates the presence of:
 <!-- id: chem-6-2-1 -->
 
 - A. a C=O bond in a ketone
@@ -11250,7 +11433,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. an O–H bond in an alcohol
 - D. a C=C bond in an alkene
 
-**Q1576.** A bond will absorb infrared radiation only if its vibration:
+**Q1598.** A bond will absorb infrared radiation only if its vibration:
 <!-- id: chem-6-2-2 -->
 
 - A. breaks the bond
@@ -11258,7 +11441,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. involves a carbon atom
 - D. causes a change in the dipole moment of the molecule
 
-**Q1577.** A strong, sharp absorption at about 1715 cm⁻¹ is most characteristic of:
+**Q1599.** A strong, sharp absorption at about 1715 cm⁻¹ is most characteristic of:
 <!-- id: chem-6-2-3 -->
 
 - A. a C=O bond
@@ -11266,7 +11449,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. an N–H bond
 - D. a C–O bond
 
-**Q1578.** How can IR spectroscopy distinguish ethanoic acid from ethanol?
+**Q1600.** How can IR spectroscopy distinguish ethanoic acid from ethanol?
 <!-- id: chem-6-2-4 -->
 
 - A. ethanol shows a C=O absorption near 1700 cm⁻¹ but ethanoic acid does not
@@ -11274,7 +11457,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. only ethanol shows C–H absorptions near 3000 cm⁻¹
 - D. ethanoic acid has no O–H absorption at all
 
-**Q1579.** The fingerprint region of an IR spectrum (below about 1500 cm⁻¹) is most useful for:
+**Q1601.** The fingerprint region of an IR spectrum (below about 1500 cm⁻¹) is most useful for:
 <!-- id: chem-6-2-5 -->
 
 - A. identifying O–H groups
@@ -11282,7 +11465,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. confirming the identity of a compound by matching against a reference spectrum
 - D. counting hydrogen environments
 
-**Q1580.** In IR spectroscopy, absorptions are reported as wavenumbers in cm⁻¹. A higher wavenumber corresponds to:
+**Q1602.** In IR spectroscopy, absorptions are reported as wavenumbers in cm⁻¹. A higher wavenumber corresponds to:
 <!-- id: chem-6-2-6 -->
 
 - A. longer wavelength radiation
@@ -11290,7 +11473,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. lower energy radiation
 - D. higher energy radiation
 
-**Q1581.** When an organic molecule absorbs infrared radiation, the energy is used to:
+**Q1603.** When an organic molecule absorbs infrared radiation, the energy is used to:
 <!-- id: chem-6-2-7 -->
 
 - A. increase the vibrational energy of its bonds
@@ -11298,7 +11481,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. change the spin state of its nuclei
 - D. promote electrons to higher energy levels
 
-**Q1582.** Propan-1-ol is oxidised with excess acidified dichromate. Which change in the IR spectrum confirms that propanoic acid has formed?
+**Q1604.** Propan-1-ol is oxidised with excess acidified dichromate. Which change in the IR spectrum confirms that propanoic acid has formed?
 <!-- id: chem-6-2-8 -->
 
 - A. all absorptions above 2500 cm⁻¹ disappear
@@ -11306,7 +11489,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. a new absorption appears around 3350–3500 cm⁻¹ due to N–H
 - D. the C–H absorption near 3000 cm⁻¹ disappears
 
-**Q1583.** Which of these molecules does NOT absorb infrared radiation?
+**Q1605.** Which of these molecules does NOT absorb infrared radiation?
 <!-- id: chem-6-2-9 -->
 
 - A. CO₂
@@ -11314,7 +11497,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. N₂
 - D. CO
 
-**Q1584.** An IR spectrum shows absorptions at about 1650 cm⁻¹ and in the 2850–3300 cm⁻¹ region, with no absorptions above 3300 cm⁻¹ or near 1700 cm⁻¹. The compound is most likely:
+**Q1606.** An IR spectrum shows absorptions at about 1650 cm⁻¹ and in the 2850–3300 cm⁻¹ region, with no absorptions above 3300 cm⁻¹ or near 1700 cm⁻¹. The compound is most likely:
 <!-- id: chem-6-2-10 -->
 
 - A. propan-1-ol
@@ -11322,7 +11505,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. propanoic acid
 - D. propene
 
-**Q1585.** How could IR spectroscopy distinguish ethyl ethanoate from butanoic acid?
+**Q1607.** How could IR spectroscopy distinguish ethyl ethanoate from butanoic acid?
 <!-- id: chem-6-2-11 -->
 
 - A. both show C=O near 1700 cm⁻¹, but only butanoic acid shows a broad O–H absorption at 2500–3000 cm⁻¹
@@ -11330,7 +11513,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. only butanoic acid shows C–H absorptions
 - D. the two compounds would give identical IR spectra
 
-**Q1586.** An absorption in the 3350–3500 cm⁻¹ region in the spectrum of a compound containing nitrogen most likely indicates:
+**Q1608.** An absorption in the 3350–3500 cm⁻¹ region in the spectrum of a compound containing nitrogen most likely indicates:
 <!-- id: chem-6-2-12 -->
 
 - A. a C≡N bond
@@ -11338,7 +11521,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. a C=O bond
 - D. a C–N bond
 
-**Q1587.** On a typical IR spectrum with percentage transmittance on the vertical axis, an absorption appears as:
+**Q1609.** On a typical IR spectrum with percentage transmittance on the vertical axis, an absorption appears as:
 <!-- id: chem-6-2-13 -->
 
 - A. an upward peak where more radiation is transmitted
@@ -11346,7 +11529,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. a downward dip where less radiation is transmitted
 - D. a shift of the whole baseline to the left
 
-**Q1588.** The C=O bond absorbs at a higher wavenumber (about 1700 cm⁻¹) than the C–O bond (about 1000–1300 cm⁻¹) mainly because:
+**Q1610.** The C=O bond absorbs at a higher wavenumber (about 1700 cm⁻¹) than the C–O bond (about 1000–1300 cm⁻¹) mainly because:
 <!-- id: chem-6-2-14 -->
 
 - A. the C=O bond contains heavier atoms
@@ -11354,7 +11537,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. single bonds do not absorb infrared radiation
 - D. the double bond is stronger, so it vibrates at a higher frequency
 
-**Q1589.** How would the IR spectrum of propanone differ from that of propan-2-ol?
+**Q1611.** How would the IR spectrum of propanone differ from that of propan-2-ol?
 <!-- id: chem-6-2-15 -->
 
 - A. propanone shows a strong absorption near 1700 cm⁻¹ and no broad band at 3200–3600 cm⁻¹
@@ -11362,7 +11545,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. propanone shows no C–H absorptions
 - D. the spectra would be identical because both contain three carbon atoms
 
-**Q1590.** Propan-1-ol and propan-2-ol have very similar IR spectra above 1500 cm⁻¹. The best way to tell them apart using IR is to:
+**Q1612.** Propan-1-ol and propan-2-ol have very similar IR spectra above 1500 cm⁻¹. The best way to tell them apart using IR is to:
 <!-- id: chem-6-2-16 -->
 
 - A. look for a C=O absorption
@@ -11370,7 +11553,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. measure the height of the O–H band
 - D. look for an absorption at 2500–3000 cm⁻¹
 
-**Q1591.** Absorptions in the 2850–3300 cm⁻¹ region appear in the IR spectra of almost all organic compounds. They are due to:
+**Q1613.** Absorptions in the 2850–3300 cm⁻¹ region appear in the IR spectra of almost all organic compounds. They are due to:
 <!-- id: chem-6-2-17 -->
 
 - A. C–C bonds
@@ -11378,7 +11561,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. C–H bonds
 - D. O–H bonds in water
 
-**Q1592.** A sample of ethyl ethanoate is hydrolysed completely in acidic solution. Compared with the spectrum of pure ethyl ethanoate, the IR spectrum of the product mixture would show:
+**Q1614.** A sample of ethyl ethanoate is hydrolysed completely in acidic solution. Compared with the spectrum of pure ethyl ethanoate, the IR spectrum of the product mixture would show:
 <!-- id: chem-6-2-18 -->
 
 - A. the loss of all C–H absorptions
@@ -11386,42 +11569,42 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. a new N–H absorption
 - D. new broad O–H absorptions from ethanol and ethanoic acid
 
-**Q1593.** Explain why the O–H absorption in the IR spectrum of a carboxylic acid is very broad.
+**Q1615.** Explain why the O–H absorption in the IR spectrum of a carboxylic acid is very broad.
 <!-- id: chem-6-2-19 -->
 
 *Written answer*
 
-**Q1594.** Describe how IR spectroscopy could be used to distinguish butan-1-ol from butanal.
+**Q1616.** Describe how IR spectroscopy could be used to distinguish butan-1-ol from butanal.
 <!-- id: chem-6-2-20 -->
 
 *Written answer*
 
-**Q1595.** Carbon dioxide is a non-polar molecule, yet it absorbs infrared radiation. Explain why.
+**Q1617.** Carbon dioxide is a non-polar molecule, yet it absorbs infrared radiation. Explain why.
 <!-- id: chem-6-2-21 -->
 
 *Written answer*
 
-**Q1596.** Explain how the fingerprint region of an IR spectrum is used in chemical analysis.
+**Q1618.** Explain how the fingerprint region of an IR spectrum is used in chemical analysis.
 <!-- id: chem-6-2-22 -->
 
 *Written answer*
 
-**Q1597.** Propan-2-ol is heated with acidified potassium dichromate. Name the organic product and describe two changes in the IR spectrum showing the reaction has occurred.
+**Q1619.** Propan-2-ol is heated with acidified potassium dichromate. Name the organic product and describe two changes in the IR spectrum showing the reaction has occurred.
 <!-- id: chem-6-2-23 -->
 
 *Written answer*
 
-**Q1598.** State one limitation of using IR spectroscopy alone to determine the structure of an unknown organic compound.
+**Q1620.** State one limitation of using IR spectroscopy alone to determine the structure of an unknown organic compound.
 <!-- id: chem-6-2-24 -->
 
 *Written answer*
 
-**Q1599.** Explain why a given bond absorbs infrared radiation only at particular wavenumbers rather than across the whole IR range.
+**Q1621.** Explain why a given bond absorbs infrared radiation only at particular wavenumbers rather than across the whole IR range.
 <!-- id: chem-6-2-25 -->
 
 *Written answer*
 
-**Q1600.** Absorption of infrared radiation by an organic molecule causes
+**Q1622.** Absorption of infrared radiation by an organic molecule causes
 <!-- id: chem34a3-ir-1 -->
 
 - A. electrons to move to higher energy levels
@@ -11429,7 +11612,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. nuclei to flip their spin in a magnetic field
 - D. the molecule to ionise and fragment
 
-**Q1601.** An IR spectrum shows a very broad absorption from about 2500 to 3300 cm⁻¹ and a strong, sharp absorption near 1710 cm⁻¹. The compound is most likely
+**Q1623.** An IR spectrum shows a very broad absorption from about 2500 to 3300 cm⁻¹ and a strong, sharp absorption near 1710 cm⁻¹. The compound is most likely
 <!-- id: chem34a3-ir-2 -->
 
 - A. butan-1-ol
@@ -11437,7 +11620,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. butanoic acid
 - D. butan-1-amine
 
-**Q1602.** Propan-1-ol is oxidised by acidified potassium dichromate and the product is analysed by IR. Which change in the spectrum would confirm that some propanal has formed while some propan-1-ol remains?
+**Q1624.** Propan-1-ol is oxidised by acidified potassium dichromate and the product is analysed by IR. Which change in the spectrum would confirm that some propanal has formed while some propan-1-ol remains?
 <!-- id: chem34a3-ir-3 -->
 
 - A. The O–H band disappears and a C=O band appears
@@ -11445,7 +11628,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. A C≡N band appears near 2250 cm⁻¹
 - D. Only the C–H band near 2900 cm⁻¹ is present
 
-**Q1603.** The region of an IR spectrum below about 1500 cm⁻¹ is called the fingerprint region because
+**Q1625.** The region of an IR spectrum below about 1500 cm⁻¹ is called the fingerprint region because
 <!-- id: chem34a3-ir-4 -->
 
 - A. it only contains absorptions from O–H bonds
@@ -11453,7 +11636,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. it is the only region where C=O bonds absorb
 - D. no absorptions occur there for organic compounds
 
-**Q1604.** Which pair of compounds would be most difficult to distinguish using only the absorptions above 1500 cm⁻¹ in their IR spectra?
+**Q1626.** Which pair of compounds would be most difficult to distinguish using only the absorptions above 1500 cm⁻¹ in their IR spectra?
 <!-- id: chem34a3-ir-5 -->
 
 - A. ethanol and ethanoic acid
@@ -11461,24 +11644,33 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. pentan-2-one and pentan-3-one
 - D. ethyl ethanoate and ethanol
 
-**Q1605.** A bottle is labelled either propanal, propan-1-ol or propanoic acid. Describe how IR spectroscopy could identify which compound it contains, referring to specific absorptions. (3 marks)
+**Q1627.** A bottle is labelled either propanal, propan-1-ol or propanoic acid. Describe how IR spectroscopy could identify which compound it contains, referring to specific absorptions. (3 marks)
 <!-- id: chem34a3-ir-6 -->
 
 *Written answer*
 
-**Q1606.** Explain why the O–H absorption in the IR spectrum of a liquid alcohol is broad rather than sharp. (2 marks)
+**Q1628.** Explain why the O–H absorption in the IR spectrum of a liquid alcohol is broad rather than sharp. (2 marks)
 <!-- id: chem34a3-ir-7 -->
 
 *Written answer*
 
-**Q1607.** An ester, ethyl ethanoate, is made from ethanol and ethanoic acid. A student says the IR spectrum of the purified product should contain no absorption between 3200 and 3600 cm⁻¹. Explain whether the student is correct and identify one absorption that should be present. (2 marks)
+**Q1629.** An ester, ethyl ethanoate, is made from ethanol and ethanoic acid. A student says the IR spectrum of the purified product should contain no absorption between 3200 and 3600 cm⁻¹. Explain whether the student is correct and identify one absorption that should be present. (2 marks)
 <!-- id: chem34a3-ir-8 -->
 
 *Written answer*
 
+**Q1630.** An IR spectrum shows a very broad absorption from 2500 to 3300 cm⁻¹ and a strong sharp absorption near 1710 cm⁻¹. The compound is most likely:
+<!-- id: chem-6-2-c1 -->
+*Challenge question*
+
+- A. An alcohol
+- B. A carboxylic acid
+- C. An ester
+- D. An alkene
+
 #### ¹H and ¹³C NMR spectroscopy
 
-**Q1608.** Tetramethylsilane (TMS) is used as the reference in NMR spectroscopy because it:
+**Q1631.** Tetramethylsilane (TMS) is used as the reference in NMR spectroscopy because it:
 <!-- id: chem-6-3-1 -->
 
 - A. gives a single strong signal from 12 equivalent hydrogens and is chemically inert
@@ -11486,7 +11678,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. has many different hydrogen environments to compare with
 - D. reacts with the sample to produce sharper peaks
 
-**Q1609.** How many different hydrogen environments are there in ethanol, CH₃CH₂OH?
+**Q1632.** How many different hydrogen environments are there in ethanol, CH₃CH₂OH?
 <!-- id: chem-6-3-2 -->
 
 - A. 2
@@ -11494,7 +11686,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 6
 - D. 1
 
-**Q1610.** In the high-resolution ¹H NMR spectrum of chloroethane (CH₃CH₂Cl), the CH₃ signal is split into a:
+**Q1633.** In the high-resolution ¹H NMR spectrum of chloroethane (CH₃CH₂Cl), the CH₃ signal is split into a:
 <!-- id: chem-6-3-3 -->
 
 - A. quartet
@@ -11502,7 +11694,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. triplet
 - D. singlet
 
-**Q1611.** How many peaks would appear in the ¹³C NMR spectrum of propan-2-ol, CH₃CH(OH)CH₃?
+**Q1634.** How many peaks would appear in the ¹³C NMR spectrum of propan-2-ol, CH₃CH(OH)CH₃?
 <!-- id: chem-6-3-4 -->
 
 - A. 3
@@ -11510,7 +11702,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 4
 - D. 2
 
-**Q1612.** How many peaks would appear in the ¹³C NMR spectrum of butanone, CH₃COCH₂CH₃?
+**Q1635.** How many peaks would appear in the ¹³C NMR spectrum of butanone, CH₃COCH₂CH₃?
 <!-- id: chem-6-3-5 -->
 
 - A. 4
@@ -11518,7 +11710,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 2
 - D. 5
 
-**Q1613.** What is the ratio of peak areas in the ¹H NMR spectrum of ethyl ethanoate, CH₃COOCH₂CH₃?
+**Q1636.** What is the ratio of peak areas in the ¹H NMR spectrum of ethyl ethanoate, CH₃COOCH₂CH₃?
 <!-- id: chem-6-3-6 -->
 
 - A. 3 : 5
@@ -11526,7 +11718,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 1 : 1 : 1
 - D. 4 : 4
 
-**Q1614.** Deuterated solvents such as CDCl₃ are used in ¹H NMR spectroscopy because:
+**Q1637.** Deuterated solvents such as CDCl₃ are used in ¹H NMR spectroscopy because:
 <!-- id: chem-6-3-7 -->
 
 - A. they react with the sample to make it more soluble
@@ -11534,7 +11726,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. they contain no ¹H atoms, so they produce no interfering signals
 - D. they act as the 0 ppm reference
 
-**Q1615.** Which compound shows only one signal in its ¹H NMR spectrum?
+**Q1638.** Which compound shows only one signal in its ¹H NMR spectrum?
 <!-- id: chem-6-3-8 -->
 
 - A. propanal, CH₃CH₂CHO
@@ -11542,7 +11734,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. ethanol, CH₃CH₂OH
 - D. propanone, CH₃COCH₃
 
-**Q1616.** In the ¹H NMR spectrum of 2-methylpropane, (CH₃)₃CH, the signal for the CH₃ hydrogens is a:
+**Q1639.** In the ¹H NMR spectrum of 2-methylpropane, (CH₃)₃CH, the signal for the CH₃ hydrogens is a:
 <!-- id: chem-6-3-9 -->
 
 - A. doublet with a relative area of 9
@@ -11550,7 +11742,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. doublet with a relative area of 3
 - D. decet with a relative area of 1
 
-**Q1617.** Hydrogen atoms near an electronegative atom such as oxygen or chlorine appear at higher chemical shifts because they are:
+**Q1640.** Hydrogen atoms near an electronegative atom such as oxygen or chlorine appear at higher chemical shifts because they are:
 <!-- id: chem-6-3-10 -->
 
 - A. shielded by extra electron density
@@ -11558,7 +11750,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. not affected by the magnetic field
 - D. coupled to more neighbouring hydrogens
 
-**Q1618.** A ¹H NMR signal at about 9.7 ppm is most likely due to a hydrogen in:
+**Q1641.** A ¹H NMR signal at about 9.7 ppm is most likely due to a hydrogen in:
 <!-- id: chem-6-3-11 -->
 
 - A. an alkane (R–CH₃)
@@ -11566,7 +11758,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. an aldehyde group (–CHO)
 - D. the TMS reference
 
-**Q1619.** How many peaks would appear in the ¹³C NMR spectrum of pentan-3-one, CH₃CH₂COCH₂CH₃?
+**Q1642.** How many peaks would appear in the ¹³C NMR spectrum of pentan-3-one, CH₃CH₂COCH₂CH₃?
 <!-- id: chem-6-3-12 -->
 
 - A. 5
@@ -11574,7 +11766,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 4
 - D. 3
 
-**Q1620.** In the high-resolution ¹H NMR spectrum of 1-chloropropane (CH₃CH₂CH₂Cl), the signal for the middle CH₂ group is a:
+**Q1643.** In the high-resolution ¹H NMR spectrum of 1-chloropropane (CH₃CH₂CH₂Cl), the signal for the middle CH₂ group is a:
 <!-- id: chem-6-3-13 -->
 
 - A. sextet
@@ -11582,7 +11774,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. quartet
 - D. quintet
 
-**Q1621.** In VCE-level ¹H NMR analysis, the signal from the hydrogen of an alcohol O–H group is usually treated as a:
+**Q1644.** In VCE-level ¹H NMR analysis, the signal from the hydrogen of an alcohol O–H group is usually treated as a:
 <!-- id: chem-6-3-14 -->
 
 - A. triplet
@@ -11590,7 +11782,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. quartet
 - D. doublet
 
-**Q1622.** NMR spectroscopy involves the absorption of which type of electromagnetic radiation?
+**Q1645.** NMR spectroscopy involves the absorption of which type of electromagnetic radiation?
 <!-- id: chem-6-3-15 -->
 
 - A. infrared radiation
@@ -11598,7 +11790,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. radio waves
 - D. X-rays
 
-**Q1623.** Which statement correctly describes how ¹³C NMR distinguishes propan-1-ol from propan-2-ol?
+**Q1646.** Which statement correctly describes how ¹³C NMR distinguishes propan-1-ol from propan-2-ol?
 <!-- id: chem-6-3-16 -->
 
 - A. propan-1-ol gives 2 peaks and propan-2-ol gives 3 peaks
@@ -11606,7 +11798,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. both give 1 peak
 - D. propan-1-ol gives 3 peaks and propan-2-ol gives 2 peaks
 
-**Q1624.** A compound with formula C₂H₄O₂ has a ¹H NMR spectrum with two singlets in a 3 : 1 ratio at 2.1 ppm and 11.5 ppm. The compound is:
+**Q1647.** A compound with formula C₂H₄O₂ has a ¹H NMR spectrum with two singlets in a 3 : 1 ratio at 2.1 ppm and 11.5 ppm. The compound is:
 <!-- id: chem-6-3-17 -->
 
 - A. ethanoic acid
@@ -11614,7 +11806,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. ethane-1,2-diol
 - D. ethanal
 
-**Q1625.** How many hydrogen environments are there in methyl propanoate, CH₃CH₂COOCH₃?
+**Q1648.** How many hydrogen environments are there in methyl propanoate, CH₃CH₂COOCH₃?
 <!-- id: chem-6-3-18 -->
 
 - A. 2
@@ -11622,42 +11814,42 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 4
 - D. 8
 
-**Q1626.** Predict the number of signals, their splitting patterns and their relative areas in the high-resolution ¹H NMR spectrum of chloroethane, CH₃CH₂Cl.
+**Q1649.** Predict the number of signals, their splitting patterns and their relative areas in the high-resolution ¹H NMR spectrum of chloroethane, CH₃CH₂Cl.
 <!-- id: chem-6-3-19 -->
 
 *Written answer*
 
-**Q1627.** State two reasons why tetramethylsilane (TMS) is a suitable reference substance for NMR spectroscopy.
+**Q1650.** State two reasons why tetramethylsilane (TMS) is a suitable reference substance for NMR spectroscopy.
 <!-- id: chem-6-3-20 -->
 
 *Written answer*
 
-**Q1628.** How many peaks would be observed in the ¹³C NMR spectrum of butan-2-ol, CH₃CH(OH)CH₂CH₃? Explain.
+**Q1651.** How many peaks would be observed in the ¹³C NMR spectrum of butan-2-ol, CH₃CH(OH)CH₂CH₃? Explain.
 <!-- id: chem-6-3-21 -->
 
 *Written answer*
 
-**Q1629.** A ¹H NMR spectrum shows a triplet with area 3 and a quartet with area 2. What structural feature does this pattern indicate? Explain.
+**Q1652.** A ¹H NMR spectrum shows a triplet with area 3 and a quartet with area 2. What structural feature does this pattern indicate? Explain.
 <!-- id: chem-6-3-22 -->
 
 *Written answer*
 
-**Q1630.** A compound with formula C₃H₆O shows only one signal (a singlet) in its ¹H NMR spectrum. Identify the compound and explain your reasoning.
+**Q1653.** A compound with formula C₃H₆O shows only one signal (a singlet) in its ¹H NMR spectrum. Identify the compound and explain your reasoning.
 <!-- id: chem-6-3-23 -->
 
 *Written answer*
 
-**Q1631.** A compound C₃H₈O shows 2 peaks in its ¹³C NMR spectrum. Identify it and describe its expected high-resolution ¹H NMR spectrum (ignore chemical shift values).
+**Q1654.** A compound C₃H₈O shows 2 peaks in its ¹³C NMR spectrum. Identify it and describe its expected high-resolution ¹H NMR spectrum (ignore chemical shift values).
 <!-- id: chem-6-3-24 -->
 
 *Written answer*
 
-**Q1632.** Explain how the ratio of peak areas in a ¹H NMR spectrum helps determine the structure of an organic compound.
+**Q1655.** Explain how the ratio of peak areas in a ¹H NMR spectrum helps determine the structure of an organic compound.
 <!-- id: chem-6-3-25 -->
 
 *Written answer*
 
-**Q1633.** Tetramethylsilane (TMS) is used as the reference in NMR spectroscopy. Which property is NOT a reason for choosing TMS?
+**Q1656.** Tetramethylsilane (TMS) is used as the reference in NMR spectroscopy. Which property is NOT a reason for choosing TMS?
 <!-- id: chem34a3-nmr-1 -->
 
 - A. All its hydrogen atoms are in the same environment, giving a single peak
@@ -11665,7 +11857,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. Its signal appears at a higher chemical shift than most organic compounds
 - D. It gives a strong signal from a small amount
 
-**Q1634.** How many peaks would appear in the ¹³C NMR spectrum of pentan-3-one, CH₃CH₂COCH₂CH₃?
+**Q1657.** How many peaks would appear in the ¹³C NMR spectrum of pentan-3-one, CH₃CH₂COCH₂CH₃?
 <!-- id: chem34a3-nmr-2 -->
 
 - A. 2
@@ -11673,7 +11865,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 4
 - D. 5
 
-**Q1635.** In the high-resolution ¹H NMR spectrum of 1-chloropropane, CH₃CH₂CH₂Cl, the signal for the middle CH₂ group would be split into a
+**Q1658.** In the high-resolution ¹H NMR spectrum of 1-chloropropane, CH₃CH₂CH₂Cl, the signal for the middle CH₂ group would be split into a
 <!-- id: chem34a3-nmr-3 -->
 
 - A. triplet
@@ -11681,7 +11873,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. quintet
 - D. sextet
 
-**Q1636.** A compound with molecular formula C₂H₄O₂ gives a ¹H NMR spectrum with two singlets, at about 2.1 ppm and about 11.5 ppm, in the area ratio 3 : 1. The compound is
+**Q1659.** A compound with molecular formula C₂H₄O₂ gives a ¹H NMR spectrum with two singlets, at about 2.1 ppm and about 11.5 ppm, in the area ratio 3 : 1. The compound is
 <!-- id: chem34a3-nmr-4 -->
 
 - A. methyl methanoate
@@ -11689,7 +11881,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 2-hydroxyethanal
 - D. ethane-1,2-diol
 
-**Q1637.** The relative areas under the peaks in a ¹H NMR spectrum indicate the
+**Q1660.** The relative areas under the peaks in a ¹H NMR spectrum indicate the
 <!-- id: chem34a3-nmr-5 -->
 
 - A. number of neighbouring hydrogen atoms for each environment
@@ -11697,24 +11889,33 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. number of carbon atoms bonded to each hydrogen
 - D. electronegativity of the atoms near each hydrogen
 
-**Q1638.** Predict the high-resolution ¹H NMR spectrum of ethanol, CH₃CH₂OH. For each signal give the splitting pattern and relative peak area. Assume the O–H hydrogen does not couple with other hydrogens. (3 marks)
+**Q1661.** Predict the high-resolution ¹H NMR spectrum of ethanol, CH₃CH₂OH. For each signal give the splitting pattern and relative peak area. Assume the O–H hydrogen does not couple with other hydrogens. (3 marks)
 <!-- id: chem34a3-nmr-6 -->
 
 *Written answer*
 
-**Q1639.** Ethyl ethanoate (CH₃COOCH₂CH₃) and methyl propanoate (CH₃CH₂COOCH₃) are isomers. Describe two differences in their ¹H NMR spectra that would allow them to be distinguished. (2 marks)
+**Q1662.** Ethyl ethanoate (CH₃COOCH₂CH₃) and methyl propanoate (CH₃CH₂COOCH₃) are isomers. Describe two differences in their ¹H NMR spectra that would allow them to be distinguished. (2 marks)
 <!-- id: chem34a3-nmr-7 -->
 
 *Written answer*
 
-**Q1640.** An alcohol with molecular formula C₃H₈O gives a ¹³C NMR spectrum with only two peaks. Its ¹H NMR spectrum contains a doublet with relative area 6. Identify the alcohol and explain the evidence. (3 marks)
+**Q1663.** An alcohol with molecular formula C₃H₈O gives a ¹³C NMR spectrum with only two peaks. Its ¹H NMR spectrum contains a doublet with relative area 6. Identify the alcohol and explain the evidence. (3 marks)
 <!-- id: chem34a3-nmr-8 -->
 
 *Written answer*
 
+**Q1664.** The ¹H NMR spectrum of propan-2-ol, (CH₃)₂CHOH, shows peak areas in the ratio:
+<!-- id: chem-6-3-c1 -->
+*Challenge question*
+
+- A. 3 : 3 : 1 : 1
+- B. 6 : 2
+- C. 6 : 1 : 1
+- D. 3 : 1
+
 #### HPLC and volumetric analysis
 
-**Q1641.** In HPLC, the components of a mixture are separated because they:
+**Q1665.** In HPLC, the components of a mixture are separated because they:
 <!-- id: chem-6-4-1 -->
 
 - A. have different molar masses only
@@ -11722,7 +11923,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. differ in how strongly they adsorb to the stationary phase relative to how well they dissolve in the mobile phase
 - D. absorb different wavelengths of light in the column
 
-**Q1642.** Retention time in HPLC is defined as the time taken for a component to:
+**Q1666.** Retention time in HPLC is defined as the time taken for a component to:
 <!-- id: chem-6-4-2 -->
 
 - A. dissolve in the mobile phase
@@ -11730,7 +11931,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. evaporate from the column
 - D. travel from the point of injection to the detector
 
-**Q1643.** In reversed-phase HPLC the stationary phase is non-polar and the mobile phase is polar. Which component of a mixture would generally have the shortest retention time?
+**Q1667.** In reversed-phase HPLC the stationary phase is non-polar and the mobile phase is polar. Which component of a mixture would generally have the shortest retention time?
 <!-- id: chem-6-4-3 -->
 
 - A. the most polar component
@@ -11738,7 +11939,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. the component with the largest molar mass
 - D. the component present in the highest concentration
 
-**Q1644.** In quantitative HPLC analysis, the concentration of a component is determined from:
+**Q1668.** In quantitative HPLC analysis, the concentration of a component is determined from:
 <!-- id: chem-6-4-4 -->
 
 - A. the retention time compared with standards
@@ -11746,7 +11947,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. the width of the solvent front
 - D. the number of peaks in the chromatogram
 
-**Q1645.** If the flow rate of the mobile phase in an HPLC column is increased with all other conditions unchanged, the retention times of the components will:
+**Q1669.** If the flow rate of the mobile phase in an HPLC column is increased with all other conditions unchanged, the retention times of the components will:
 <!-- id: chem-6-4-5 -->
 
 - A. increase
@@ -11754,7 +11955,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. decrease
 - D. become identical for all components
 
-**Q1646.** An analyst suspects a sports drink contains caffeine. The best way to confirm this using HPLC is to:
+**Q1670.** An analyst suspects a sports drink contains caffeine. The best way to confirm this using HPLC is to:
 <!-- id: chem-6-4-6 -->
 
 - A. measure the height of the largest peak
@@ -11762,7 +11963,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. compare the sample's peak area with the solvent peak
 - D. run a caffeine standard under identical conditions and compare retention times
 
-**Q1647.** A 25.00 mL aliquot of hydrochloric acid is titrated with 0.100 M sodium hydroxide. The average titre is 20.00 mL. What is the concentration of the hydrochloric acid?
+**Q1671.** A 25.00 mL aliquot of hydrochloric acid is titrated with 0.100 M sodium hydroxide. The average titre is 20.00 mL. What is the concentration of the hydrochloric acid?
 <!-- id: chem-6-4-7 -->
 
 - A. 0.0800 M
@@ -11770,7 +11971,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 0.100 M
 - D. 0.0400 M
 
-**Q1648.** When ethanoic acid is titrated with sodium hydroxide, the pH at the equivalence point is:
+**Q1672.** When ethanoic acid is titrated with sodium hydroxide, the pH at the equivalence point is:
 <!-- id: chem-6-4-8 -->
 
 - A. exactly 7, so any indicator is suitable
@@ -11778,7 +11979,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. less than 7, so methyl orange is a suitable indicator
 - D. less than 7, so phenolphthalein is a suitable indicator
 
-**Q1649.** Which substance is suitable for use as a primary standard?
+**Q1673.** Which substance is suitable for use as a primary standard?
 <!-- id: chem-6-4-9 -->
 
 - A. sodium hydroxide pellets
@@ -11786,7 +11987,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. anhydrous sodium carbonate
 - D. potassium permanganate solution left in the light
 
-**Q1650.** Before a titration, the burette should be rinsed with:
+**Q1674.** Before a titration, the burette should be rinsed with:
 <!-- id: chem-6-4-10 -->
 
 - A. deionised water only
@@ -11794,7 +11995,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. ethanol, then allowed to dry
 - D. the solution it will contain
 
-**Q1651.** A 20.00 mL aliquot of 0.0500 M Na₂CO₃ reacts completely with 18.50 mL of HCl: Na₂CO₃ + 2HCl → 2NaCl + H₂O + CO₂. What is the concentration of the HCl?
+**Q1675.** A 20.00 mL aliquot of 0.0500 M Na₂CO₃ reacts completely with 18.50 mL of HCl: Na₂CO₃ + 2HCl → 2NaCl + H₂O + CO₂. What is the concentration of the HCl?
 <!-- id: chem-6-4-11 -->
 
 - A. 0.108 M
@@ -11802,7 +12003,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 0.0925 M
 - D. 0.216 M
 
-**Q1652.** A 25.00 mL aliquot of an Fe²⁺ solution needs 15.00 mL of 0.0200 M KMnO₄ to reach the end point: MnO₄⁻ + 5Fe²⁺ + 8H⁺ → Mn²⁺ + 5Fe³⁺ + 4H₂O. What is the concentration of Fe²⁺?
+**Q1676.** A 25.00 mL aliquot of an Fe²⁺ solution needs 15.00 mL of 0.0200 M KMnO₄ to reach the end point: MnO₄⁻ + 5Fe²⁺ + 8H⁺ → Mn²⁺ + 5Fe³⁺ + 4H₂O. What is the concentration of Fe²⁺?
 <!-- id: chem-6-4-12 -->
 
 - A. 0.0120 M
@@ -11810,7 +12011,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 0.00240 M
 - D. 0.100 M
 
-**Q1653.** A student leaves a few drops of deionised water in the conical flask before adding the aliquot. The effect on the calculated concentration is:
+**Q1677.** A student leaves a few drops of deionised water in the conical flask before adding the aliquot. The effect on the calculated concentration is:
 <!-- id: chem-6-4-13 -->
 
 - A. it is too high, because the solution is diluted
@@ -11818,7 +12019,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. no effect, because the number of moles in the aliquot is unchanged
 - D. it is too high, because the titre is smaller
 
-**Q1654.** A burette is rinsed with deionised water but not with the NaOH solution before an acid is titrated. The calculated concentration of the acid will be:
+**Q1678.** A burette is rinsed with deionised water but not with the NaOH solution before an acid is titrated. The calculated concentration of the acid will be:
 <!-- id: chem-6-4-14 -->
 
 - A. too low, because the diluted NaOH gives a smaller titre
@@ -11826,7 +12027,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. too low, because the indicator changes colour early
 - D. too high, because the diluted NaOH gives a larger titre
 
-**Q1655.** In VCE titrations, titres are usually regarded as concordant if they agree within:
+**Q1679.** In VCE titrations, titres are usually regarded as concordant if they agree within:
 <!-- id: chem-6-4-15 -->
 
 - A. 0.10 mL
@@ -11834,7 +12035,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 0.50 mL
 - D. 5% of the mean
 
-**Q1656.** A 20.00 mL sample of vinegar is diluted to 250.0 mL in a volumetric flask. Titration shows the diluted solution is 0.0880 M ethanoic acid. What is the concentration of ethanoic acid in the original vinegar?
+**Q1680.** A 20.00 mL sample of vinegar is diluted to 250.0 mL in a volumetric flask. Titration shows the diluted solution is 0.0880 M ethanoic acid. What is the concentration of ethanoic acid in the original vinegar?
 <!-- id: chem-6-4-16 -->
 
 - A. 0.00704 M
@@ -11842,7 +12043,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 0.0880 M
 - D. 0.704 M
 
-**Q1657.** The end point of a titration is best described as the point at which:
+**Q1681.** The end point of a titration is best described as the point at which:
 <!-- id: chem-6-4-17 -->
 
 - A. the reactants have reacted in exact stoichiometric proportions
@@ -11850,7 +12051,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. the indicator changes colour
 - D. the burette is empty
 
-**Q1658.** Aqueous ammonia is titrated with hydrochloric acid. The most suitable indicator is:
+**Q1682.** Aqueous ammonia is titrated with hydrochloric acid. The most suitable indicator is:
 <!-- id: chem-6-4-18 -->
 
 - A. phenolphthalein, because the equivalence point is basic
@@ -11858,42 +12059,42 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. no indicator, because the reaction is self-indicating
 - D. methyl orange, because the equivalence point is acidic
 
-**Q1659.** Standard solutions of caffeine give HPLC peak areas directly proportional to concentration, with a 20.0 mg/L standard giving a peak area of 3000 units. A diluted energy-drink sample gives a caffeine peak area of 4200 units. Calculate the caffeine concentration in the diluted sample.
+**Q1683.** Standard solutions of caffeine give HPLC peak areas directly proportional to concentration, with a 20.0 mg/L standard giving a peak area of 3000 units. A diluted energy-drink sample gives a caffeine peak area of 4200 units. Calculate the caffeine concentration in the diluted sample.
 <!-- id: chem-6-4-19 -->
 
 *Written answer*
 
-**Q1660.** A 10.00 mL sample of vinegar was diluted to 100.0 mL. A 25.00 mL aliquot of the diluted solution needed 21.50 mL of 0.1000 M NaOH. Calculate the concentration of ethanoic acid in the original vinegar in % (w/v). M(CH₃COOH) = 60.05 g/mol.
+**Q1684.** A 10.00 mL sample of vinegar was diluted to 100.0 mL. A 25.00 mL aliquot of the diluted solution needed 21.50 mL of 0.1000 M NaOH. Calculate the concentration of ethanoic acid in the original vinegar in % (w/v). M(CH₃COOH) = 60.05 g/mol.
 <!-- id: chem-6-4-20 -->
 
 *Written answer*
 
-**Q1661.** Explain why sodium hydroxide is not suitable as a primary standard.
+**Q1685.** Explain why sodium hydroxide is not suitable as a primary standard.
 <!-- id: chem-6-4-21 -->
 
 *Written answer*
 
-**Q1662.** Explain why two different compounds in a mixture have different retention times in HPLC.
+**Q1686.** Explain why two different compounds in a mixture have different retention times in HPLC.
 <!-- id: chem-6-4-22 -->
 
 *Written answer*
 
-**Q1663.** A student rinses the pipette with deionised water instead of the solution being analysed. Explain the effect on the titre and on the calculated concentration of the analysed solution.
+**Q1687.** A student rinses the pipette with deionised water instead of the solution being analysed. Explain the effect on the titre and on the calculated concentration of the analysed solution.
 <!-- id: chem-6-4-23 -->
 
 *Written answer*
 
-**Q1664.** An iron tablet is dissolved in acid and all its iron is converted to Fe²⁺. The solution needs 12.40 mL of 0.0150 M KMnO₄ to reach the end point (MnO₄⁻ + 5Fe²⁺ + 8H⁺ → Mn²⁺ + 5Fe³⁺ + 4H₂O). Calculate the mass of iron in the tablet in mg. M(Fe) = 55.85 g/mol.
+**Q1688.** An iron tablet is dissolved in acid and all its iron is converted to Fe²⁺. The solution needs 12.40 mL of 0.0150 M KMnO₄ to reach the end point (MnO₄⁻ + 5Fe²⁺ + 8H⁺ → Mn²⁺ + 5Fe³⁺ + 4H₂O). Calculate the mass of iron in the tablet in mg. M(Fe) = 55.85 g/mol.
 <!-- id: chem-6-4-24 -->
 
 *Written answer*
 
-**Q1665.** Explain why HPLC columns are packed with very small particles and why this requires high pressure.
+**Q1689.** Explain why HPLC columns are packed with very small particles and why this requires high pressure.
 <!-- id: chem-6-4-25 -->
 
 *Written answer*
 
-**Q1666.** In a thin-layer chromatogram, a dye spot travels 3.6 cm while the solvent front travels 8.0 cm from the origin. The Rf value of the dye is
+**Q1690.** In a thin-layer chromatogram, a dye spot travels 3.6 cm while the solvent front travels 8.0 cm from the origin. The Rf value of the dye is
 <!-- id: chem34a3-chr-1 -->
 
 - A. 0.36
@@ -11901,7 +12102,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 2.2
 - D. 4.4
 
-**Q1667.** In reversed-phase HPLC, the stationary phase is non-polar and the mobile phase is a polar solvent mixture. Which compound would be expected to have the shortest retention time?
+**Q1691.** In reversed-phase HPLC, the stationary phase is non-polar and the mobile phase is a polar solvent mixture. Which compound would be expected to have the shortest retention time?
 <!-- id: chem34a3-chr-2 -->
 
 - A. hexane
@@ -11909,7 +12110,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. ethanoic acid
 - D. 1-chlorohexane
 
-**Q1668.** Which statement about the separation of components in chromatography is correct?
+**Q1692.** Which statement about the separation of components in chromatography is correct?
 <!-- id: chem34a3-chr-3 -->
 
 - A. Components separate because they have different molar masses only
@@ -11917,7 +12118,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. Components separate because of differences in their relative attraction to the stationary and mobile phases
 - D. The mobile phase must always be more polar than the stationary phase
 
-**Q1669.** Caffeine standards of 20, 40, 60 and 80 mg L⁻¹ give HPLC peak areas of 1500, 3000, 4500 and 6000 units. A cola sample, diluted by a factor of 10 before injection, gives a caffeine peak area of 3750. The caffeine concentration in the original cola is
+**Q1693.** Caffeine standards of 20, 40, 60 and 80 mg L⁻¹ give HPLC peak areas of 1500, 3000, 4500 and 6000 units. A cola sample, diluted by a factor of 10 before injection, gives a caffeine peak area of 3750. The caffeine concentration in the original cola is
 <!-- id: chem34a3-chr-4 -->
 
 - A. 50 mg L⁻¹
@@ -11925,7 +12126,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 500 mg L⁻¹
 - D. 375 mg L⁻¹
 
-**Q1670.** An analyst changes the mobile phase in a reversed-phase HPLC run from 80% water to 50% water (with the rest methanol, which is less polar). The most likely effect on the retention time of a moderately non-polar compound is that it
+**Q1694.** An analyst changes the mobile phase in a reversed-phase HPLC run from 80% water to 50% water (with the rest methanol, which is less polar). The most likely effect on the retention time of a moderately non-polar compound is that it
 <!-- id: chem34a3-chr-5 -->
 
 - A. decreases, because the compound is now more soluble in the mobile phase
@@ -11933,22 +12134,22 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. stays the same, because retention time depends only on the column
 - D. increases, because the stationary phase becomes more polar
 
-**Q1671.** State the information that can be obtained from (a) the retention time and (b) the peak area in an HPLC chromatogram, and explain how each is used. (3 marks)
+**Q1695.** State the information that can be obtained from (a) the retention time and (b) the peak area in an HPLC chromatogram, and explain how each is used. (3 marks)
 <!-- id: chem34a3-chr-6 -->
 
 *Written answer*
 
-**Q1672.** A student identifies a pesticide in a water sample because a peak has the same retention time as a pesticide standard. Explain why this alone is not conclusive and suggest how the identification could be confirmed. (2 marks)
+**Q1696.** A student identifies a pesticide in a water sample because a peak has the same retention time as a pesticide standard. Explain why this alone is not conclusive and suggest how the identification could be confirmed. (2 marks)
 <!-- id: chem34a3-chr-7 -->
 
 *Written answer*
 
-**Q1673.** A sports drink is analysed for its vitamin B₃ content using HPLC. 10.0 mL of drink is diluted to 50.0 mL. From the calibration curve, the diluted solution contains 12.4 mg L⁻¹ of vitamin B₃. Calculate the mass of vitamin B₃ in a 600 mL bottle of the drink, in mg. (2 marks)
+**Q1697.** A sports drink is analysed for its vitamin B₃ content using HPLC. 10.0 mL of drink is diluted to 50.0 mL. From the calibration curve, the diluted solution contains 12.4 mg L⁻¹ of vitamin B₃. Calculate the mass of vitamin B₃ in a 600 mL bottle of the drink, in mg. (2 marks)
 <!-- id: chem34a3-chr-8 -->
 
 *Written answer*
 
-**Q1674.** 25.00 mL of vinegar is diluted to 250.0 mL. A 20.00 mL aliquot of the diluted solution requires 17.50 mL of 0.100 mol L⁻¹ NaOH(aq) to reach the endpoint. The concentration of ethanoic acid in the original vinegar is
+**Q1698.** 25.00 mL of vinegar is diluted to 250.0 mL. A 20.00 mL aliquot of the diluted solution requires 17.50 mL of 0.100 mol L⁻¹ NaOH(aq) to reach the endpoint. The concentration of ethanoic acid in the original vinegar is
 <!-- id: chem34a3-vol-1 -->
 
 - A. 0.0875 mol L⁻¹
@@ -11956,7 +12157,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 0.875 mol L⁻¹
 - D. 1.09 mol L⁻¹
 
-**Q1675.** Which indicator is most suitable for titrating ethanoic acid (a weak acid) with sodium hydroxide (a strong base)?
+**Q1699.** Which indicator is most suitable for titrating ethanoic acid (a weak acid) with sodium hydroxide (a strong base)?
 <!-- id: chem34a3-vol-2 -->
 
 - A. methyl orange (colour change pH 3.1–4.4)
@@ -11964,7 +12165,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. phenolphthalein (colour change pH 8.3–10.0)
 - D. methyl red (colour change pH 4.4–6.2)
 
-**Q1676.** Ethanol is oxidised by acidified dichromate according to: 3CH₃CH₂OH(aq) + 2Cr₂O₇²⁻(aq) + 16H⁺(aq) → 3CH₃COOH(aq) + 4Cr³⁺(aq) + 11H₂O(l). A 10.00 mL sample of wine is diluted to 100.0 mL, and a 10.00 mL aliquot reacts with 15.20 mL of 0.0500 mol L⁻¹ K₂Cr₂O₇. The ethanol concentration in the wine is
+**Q1700.** Ethanol is oxidised by acidified dichromate according to: 3CH₃CH₂OH(aq) + 2Cr₂O₇²⁻(aq) + 16H⁺(aq) → 3CH₃COOH(aq) + 4Cr³⁺(aq) + 11H₂O(l). A 10.00 mL sample of wine is diluted to 100.0 mL, and a 10.00 mL aliquot reacts with 15.20 mL of 0.0500 mol L⁻¹ K₂Cr₂O₇. The ethanol concentration in the wine is
 <!-- id: chem34a3-vol-3 -->
 
 - A. 0.507 mol L⁻¹
@@ -11972,7 +12173,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 0.114 mol L⁻¹
 - D. 1.14 mol L⁻¹
 
-**Q1677.** In a titration, the burette is rinsed with deionised water but not with the titrant solution before being filled. The effect on the calculated concentration of the analyte is that it will be
+**Q1701.** In a titration, the burette is rinsed with deionised water but not with the titrant solution before being filled. The effect on the calculated concentration of the analyte is that it will be
 <!-- id: chem34a3-vol-4 -->
 
 - A. too high, because the titrant is diluted and a larger titre is needed
@@ -11980,7 +12181,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. unaffected, because water does not react
 - D. too high, because the aliquot is diluted
 
-**Q1678.** Vitamin C (ascorbic acid, C₆H₈O₆) reacts with iodine in a 1 : 1 mole ratio. Which indicator is commonly used to detect the endpoint, and what is observed?
+**Q1702.** Vitamin C (ascorbic acid, C₆H₈O₆) reacts with iodine in a 1 : 1 mole ratio. Which indicator is commonly used to detect the endpoint, and what is observed?
 <!-- id: chem34a3-vol-5 -->
 
 - A. phenolphthalein; colourless to pink
@@ -11988,18 +12189,24 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. methyl orange; red to yellow
 - D. starch; the blue-black colour disappears as iodine is added
 
-**Q1679.** A vitamin C tablet is dissolved and made up to 100.0 mL in a volumetric flask. 20.00 mL aliquots are titrated with 0.0250 mol L⁻¹ I₂(aq); the average concordant titre is 22.70 mL. Vitamin C (M = 176.0 g mol⁻¹) reacts with I₂ in a 1 : 1 ratio. Calculate the mass of vitamin C in the tablet, in grams, to an appropriate number of significant figures. (3 marks)
+**Q1703.** A vitamin C tablet is dissolved and made up to 100.0 mL in a volumetric flask. 20.00 mL aliquots are titrated with 0.0250 mol L⁻¹ I₂(aq); the average concordant titre is 22.70 mL. Vitamin C (M = 176.0 g mol⁻¹) reacts with I₂ in a 1 : 1 ratio. Calculate the mass of vitamin C in the tablet, in grams, to an appropriate number of significant figures. (3 marks)
 <!-- id: chem34a3-vol-6 -->
 
 *Written answer*
 
-**Q1680.** Explain the meaning of 'concordant titres' and why the average of concordant titres, rather than all titres, is used in the calculation. (2 marks)
+**Q1704.** Explain the meaning of 'concordant titres' and why the average of concordant titres, rather than all titres, is used in the calculation. (2 marks)
 <!-- id: chem34a3-vol-7 -->
 
 *Written answer*
 
-**Q1681.** A 0.250 g sample of an unknown monoprotic carboxylic acid is dissolved in water and titrated with 0.115 mol L⁻¹ NaOH(aq). The titre is 24.65 mL. Calculate the molar mass of the acid and suggest its identity from the following: propanoic acid (74.0 g mol⁻¹), butanoic acid (88.0 g mol⁻¹), benzoic acid (122.0 g mol⁻¹). (3 marks)
+**Q1705.** A 0.250 g sample of an unknown monoprotic carboxylic acid is dissolved in water and titrated with 0.115 mol L⁻¹ NaOH(aq). The titre is 24.65 mL. Calculate the molar mass of the acid and suggest its identity from the following: propanoic acid (74.0 g mol⁻¹), butanoic acid (88.0 g mol⁻¹), benzoic acid (122.0 g mol⁻¹). (3 marks)
 <!-- id: chem34a3-vol-8 -->
+
+*Written answer*
+
+**Q1706.** 10.00 mL of vinegar is diluted to 100.0 mL. A 25.00 mL aliquot needs 21.50 mL of 0.100 M NaOH. Find the concentration of ethanoic acid in the original vinegar.
+<!-- id: chem-6-4-c1 -->
+*Challenge question*
 
 *Written answer*
 
@@ -12007,7 +12214,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 
 #### Proteins and amino acids
 
-**Q1682.** Which two functional groups are present in every 2-amino acid found in proteins?
+**Q1707.** Which two functional groups are present in every 2-amino acid found in proteins?
 <!-- id: chem-7-1-1 -->
 
 - A. Amino and carboxyl
@@ -12015,7 +12222,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. Amino and ester
 - D. Amide and hydroxyl
 
-**Q1683.** The bond formed between two amino acids in a condensation reaction is called a:
+**Q1708.** The bond formed between two amino acids in a condensation reaction is called a:
 <!-- id: chem-7-1-2 -->
 
 - A. ester bond
@@ -12023,7 +12230,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. glycosidic bond
 - D. hydrogen bond
 
-**Q1684.** How many water molecules are released when a single polypeptide chain of 150 amino acid residues is formed?
+**Q1709.** How many water molecules are released when a single polypeptide chain of 150 amino acid residues is formed?
 <!-- id: chem-7-1-3 -->
 
 - A. 150
@@ -12031,7 +12238,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 149
 - D. 75
 
-**Q1685.** Glycine (C₂H₅NO₂, M = 75.0 g mol⁻¹) forms the dipeptide Gly-Gly. What is the molar mass of Gly-Gly?
+**Q1710.** Glycine (C₂H₅NO₂, M = 75.0 g mol⁻¹) forms the dipeptide Gly-Gly. What is the molar mass of Gly-Gly?
 <!-- id: chem-7-1-4 -->
 
 - A. 150.0 g mol⁻¹
@@ -12039,7 +12246,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 114.0 g mol⁻¹
 - D. 132.0 g mol⁻¹
 
-**Q1686.** Which level of protein structure is defined by the sequence of amino acids in a polypeptide chain?
+**Q1711.** Which level of protein structure is defined by the sequence of amino acids in a polypeptide chain?
 <!-- id: chem-7-1-5 -->
 
 - A. Primary
@@ -12047,7 +12254,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. Tertiary
 - D. Quaternary
 
-**Q1687.** α-helices and β-pleated sheets in proteins are stabilised mainly by:
+**Q1712.** α-helices and β-pleated sheets in proteins are stabilised mainly by:
 <!-- id: chem-7-1-6 -->
 
 - A. disulfide bridges between cysteine side chains
@@ -12055,7 +12262,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. ionic interactions between charged side chains
 - D. peptide bonds between side chains
 
-**Q1688.** A disulfide bridge in a protein forms between the side chains of which amino acid?
+**Q1713.** A disulfide bridge in a protein forms between the side chains of which amino acid?
 <!-- id: chem-7-1-7 -->
 
 - A. Serine
@@ -12063,7 +12270,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. Cysteine
 - D. Lysine
 
-**Q1689.** Which statement best describes the quaternary structure of a protein?
+**Q1714.** Which statement best describes the quaternary structure of a protein?
 <!-- id: chem-7-1-8 -->
 
 - A. The folding of a single polypeptide chain into its overall 3D shape
@@ -12071,7 +12278,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. The sequence of amino acids in the chain
 - D. The association of two or more polypeptide chains into one functional protein
 
-**Q1690.** When egg white is fried, the protein albumin is denatured. Which bonds remain intact?
+**Q1715.** When egg white is fried, the protein albumin is denatured. Which bonds remain intact?
 <!-- id: chem-7-1-9 -->
 
 - A. Peptide bonds
@@ -12079,7 +12286,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. Ionic interactions between side chains
 - D. Dispersion forces between non-polar side chains
 
-**Q1691.** Which of the following amino acids is not chiral?
+**Q1716.** Which of the following amino acids is not chiral?
 <!-- id: chem-7-1-10 -->
 
 - A. Alanine
@@ -12087,7 +12294,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. Serine
 - D. Cysteine
 
-**Q1692.** An essential amino acid is one that:
+**Q1717.** An essential amino acid is one that:
 <!-- id: chem-7-1-11 -->
 
 - A. is found in every protein in the body
@@ -12095,7 +12302,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. cannot be made by the body in sufficient amounts and must be obtained from the diet
 - D. is made in the liver from glucose
 
-**Q1693.** Lysine has the side chain –(CH₂)₄NH₂ and aspartic acid has –CH₂COOH. At physiological pH (about 7.4) these side chains are most likely to interact through:
+**Q1718.** Lysine has the side chain –(CH₂)₄NH₂ and aspartic acid has –CH₂COOH. At physiological pH (about 7.4) these side chains are most likely to interact through:
 <!-- id: chem-7-1-12 -->
 
 - A. a disulfide bridge
@@ -12103,7 +12310,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. dispersion forces only
 - D. an ionic interaction between –NH₃⁺ and –COO⁻
 
-**Q1694.** In a strongly acidic solution such as pH 1, the amino group of an amino acid is present mainly as:
+**Q1719.** In a strongly acidic solution such as pH 1, the amino group of an amino acid is present mainly as:
 <!-- id: chem-7-1-13 -->
 
 - A. –NH₃⁺
@@ -12111,7 +12318,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. –NO₂
 - D. –NH₂
 
-**Q1695.** How many different dipeptides can be formed from one glycine molecule and one alanine molecule, each used once?
+**Q1720.** How many different dipeptides can be formed from one glycine molecule and one alanine molecule, each used once?
 <!-- id: chem-7-1-14 -->
 
 - A. 1
@@ -12119,7 +12326,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 3
 - D. 4
 
-**Q1696.** How many different tripeptides can be formed using one molecule each of three different amino acids?
+**Q1721.** How many different tripeptides can be formed using one molecule each of three different amino acids?
 <!-- id: chem-7-1-15 -->
 
 - A. 3
@@ -12127,7 +12334,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 6
 - D. 27
 
-**Q1697.** Complete acid hydrolysis of a protein produces:
+**Q1722.** Complete acid hydrolysis of a protein produces:
 <!-- id: chem-7-1-16 -->
 
 - A. glucose and fructose
@@ -12135,7 +12342,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. peptides only, because peptide bonds cannot be hydrolysed
 - D. amino acids
 
-**Q1698.** Valine has the non-polar side chain –CH(CH₃)₂. In a water-soluble globular protein, valine residues are most likely to be found:
+**Q1723.** Valine has the non-polar side chain –CH(CH₃)₂. In a water-soluble globular protein, valine residues are most likely to be found:
 <!-- id: chem-7-1-17 -->
 
 - A. in the interior of the protein, interacting with other non-polar side chains via dispersion forces
@@ -12143,7 +12350,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. forming disulfide bridges with cysteine
 - D. forming ionic bonds with water molecules
 
-**Q1699.** Which statement about a linear polypeptide chain is correct?
+**Q1724.** Which statement about a linear polypeptide chain is correct?
 <!-- id: chem-7-1-18 -->
 
 - A. It has free carboxyl groups at both ends
@@ -12151,42 +12358,42 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. It has no free functional groups at either end
 - D. It has free amino groups at both ends
 
-**Q1700.** Write the semi-structural formula of the dipeptide formed when the carboxyl group of glycine (H₂NCH₂COOH) reacts with the amino group of alanine (H₂NCH(CH₃)COOH).
+**Q1725.** Write the semi-structural formula of the dipeptide formed when the carboxyl group of glycine (H₂NCH₂COOH) reacts with the amino group of alanine (H₂NCH(CH₃)COOH).
 <!-- id: chem-7-1-19 -->
 
 *Written answer*
 
-**Q1701.** Explain why heating an enzyme-containing protein solution to 80 °C causes the protein to lose its biological function.
+**Q1726.** Explain why heating an enzyme-containing protein solution to 80 °C causes the protein to lose its biological function.
 <!-- id: chem-7-1-20 -->
 
 *Written answer*
 
-**Q1702.** Distinguish between the secondary and tertiary structure of a protein, referring to the bonding involved in each.
+**Q1727.** Distinguish between the secondary and tertiary structure of a protein, referring to the bonding involved in each.
 <!-- id: chem-7-1-21 -->
 
 *Written answer*
 
-**Q1703.** A dipeptide with molecular formula C₅H₁₀N₂O₃ is hydrolysed. One product is glycine (C₂H₅NO₂). Determine the molecular formula of the other amino acid.
+**Q1728.** A dipeptide with molecular formula C₅H₁₀N₂O₃ is hydrolysed. One product is glycine (C₂H₅NO₂). Determine the molecular formula of the other amino acid.
 <!-- id: chem-7-1-22 -->
 
 *Written answer*
 
-**Q1704.** Explain why people following a vegan diet are advised to eat a variety of plant protein sources, such as legumes together with grains.
+**Q1729.** Explain why people following a vegan diet are advised to eat a variety of plant protein sources, such as legumes together with grains.
 <!-- id: chem-7-1-23 -->
 
 *Written answer*
 
-**Q1705.** Explain how adding lemon juice (lowering the pH) to milk can cause milk proteins to denature and curdle.
+**Q1730.** Explain how adding lemon juice (lowering the pH) to milk can cause milk proteins to denature and curdle.
 <!-- id: chem-7-1-24 -->
 
 *Written answer*
 
-**Q1706.** Calculate the mass of water needed to completely hydrolyse 1.00 mol of a single-chain polypeptide containing 51 amino acid residues.
+**Q1731.** Calculate the mass of water needed to completely hydrolyse 1.00 mol of a single-chain polypeptide containing 51 amino acid residues.
 <!-- id: chem-7-1-25 -->
 
 *Written answer*
 
-**Q1707.** In a solution of very low pH, the amino acid glycine (H₂NCH₂COOH) exists mainly as
+**Q1732.** In a solution of very low pH, the amino acid glycine (H₂NCH₂COOH) exists mainly as
 <!-- id: chem34a3-prot-1 -->
 
 - A. H₂NCH₂COO⁻
@@ -12194,7 +12401,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. H₃N⁺CH₂COOH
 - D. H₂NCH₂COOH
 
-**Q1708.** The secondary structure of a protein, such as an α-helix or β-pleated sheet, is held together mainly by
+**Q1733.** The secondary structure of a protein, such as an α-helix or β-pleated sheet, is held together mainly by
 <!-- id: chem34a3-prot-2 -->
 
 - A. peptide bonds between adjacent amino acids
@@ -12202,7 +12409,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. disulfide bridges between cysteine side chains
 - D. ionic interactions between charged R groups
 
-**Q1709.** A protein is heated to 80 °C and loses its biological activity. Which level of protein structure is NOT disrupted by this denaturation?
+**Q1734.** A protein is heated to 80 °C and loses its biological activity. Which level of protein structure is NOT disrupted by this denaturation?
 <!-- id: chem34a3-prot-3 -->
 
 - A. primary
@@ -12210,7 +12417,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. tertiary
 - D. quaternary
 
-**Q1710.** An enzyme increases the rate of a reaction in the body by
+**Q1735.** An enzyme increases the rate of a reaction in the body by
 <!-- id: chem34a3-prot-4 -->
 
 - A. increasing the temperature of the reactants
@@ -12218,7 +12425,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. making the reaction more exothermic
 - D. shifting the equilibrium position towards products
 
-**Q1711.** Three different amino acids, X, Y and Z, are each used once to form a tripeptide. How many different tripeptides are possible?
+**Q1736.** Three different amino acids, X, Y and Z, are each used once to form a tripeptide. How many different tripeptides are possible?
 <!-- id: chem34a3-prot-5 -->
 
 - A. 3
@@ -12226,24 +12433,33 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 9
 - D. 27
 
-**Q1712.** Explain, with reference to the active site, why a change in pH can reduce the activity of an enzyme. (3 marks)
+**Q1737.** Explain, with reference to the active site, why a change in pH can reduce the activity of an enzyme. (3 marks)
 <!-- id: chem34a3-prot-6 -->
 
 *Written answer*
 
-**Q1713.** Many water-soluble vitamins act as coenzymes. Explain what a coenzyme is and why a deficiency of such a vitamin could slow certain metabolic reactions. (2 marks)
+**Q1738.** Many water-soluble vitamins act as coenzymes. Explain what a coenzyme is and why a deficiency of such a vitamin could slow certain metabolic reactions. (2 marks)
 <!-- id: chem34a3-prot-7 -->
 
 *Written answer*
 
-**Q1714.** Draw or describe the structure of the dipeptide formed when the amino group of alanine (H₂NCH(CH₃)COOH) reacts with the carboxyl group of glycine (H₂NCH₂COOH). Name the type of reaction and the bond formed. (3 marks)
+**Q1739.** Draw or describe the structure of the dipeptide formed when the amino group of alanine (H₂NCH(CH₃)COOH) reacts with the carboxyl group of glycine (H₂NCH₂COOH). Name the type of reaction and the bond formed. (3 marks)
 <!-- id: chem34a3-prot-8 -->
 
 *Written answer*
 
+**Q1740.** Which interaction is NOT part of a protein's tertiary structure?
+<!-- id: chem-7-1-c1 -->
+*Challenge question*
+
+- A. Disulfide bridges between cysteine side chains
+- B. Ionic interactions between charged side chains
+- C. Hydrogen bonds between backbone C=O and N–H groups in an α-helix
+- D. Dispersion forces between non-polar side chains
+
 #### Carbohydrates, fats and oils
 
-**Q1715.** Glucose and fructose both have the molecular formula C₆H₁₂O₆. They are best described as:
+**Q1741.** Glucose and fructose both have the molecular formula C₆H₁₂O₆. They are best described as:
 <!-- id: chem-7-2-1 -->
 
 - A. the same compound
@@ -12251,7 +12467,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. structural isomers
 - D. disaccharides
 
-**Q1716.** Complete hydrolysis of sucrose produces:
+**Q1742.** Complete hydrolysis of sucrose produces:
 <!-- id: chem-7-2-2 -->
 
 - A. two glucose molecules
@@ -12259,7 +12475,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. fructose and galactose
 - D. glucose and fructose
 
-**Q1717.** Lactose, the sugar found in milk, is a disaccharide made from:
+**Q1743.** Lactose, the sugar found in milk, is a disaccharide made from:
 <!-- id: chem-7-2-3 -->
 
 - A. glucose and galactose
@@ -12267,7 +12483,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. glucose and fructose
 - D. two galactose units
 
-**Q1718.** Two monosaccharide molecules of formula C₆H₁₂O₆ (M = 180.0 g mol⁻¹) join to form a disaccharide. What is the molar mass of the disaccharide?
+**Q1744.** Two monosaccharide molecules of formula C₆H₁₂O₆ (M = 180.0 g mol⁻¹) join to form a disaccharide. What is the molar mass of the disaccharide?
 <!-- id: chem-7-2-4 -->
 
 - A. 360.0 g mol⁻¹
@@ -12275,7 +12491,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 378.0 g mol⁻¹
 - D. 324.0 g mol⁻¹
 
-**Q1719.** The linkage between monosaccharide units in a disaccharide is a:
+**Q1745.** The linkage between monosaccharide units in a disaccharide is a:
 <!-- id: chem-7-2-5 -->
 
 - A. peptide linkage
@@ -12283,7 +12499,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. glycosidic (ether) linkage
 - D. hydrogen bond
 
-**Q1720.** Which polysaccharide is used by animals to store glucose, mainly in the liver and muscles?
+**Q1746.** Which polysaccharide is used by animals to store glucose, mainly in the liver and muscles?
 <!-- id: chem-7-2-6 -->
 
 - A. Amylose
@@ -12291,7 +12507,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. Amylopectin
 - D. Glycogen
 
-**Q1721.** Humans cannot use cellulose as an energy source because:
+**Q1747.** Humans cannot use cellulose as an energy source because:
 <!-- id: chem-7-2-7 -->
 
 - A. they lack an enzyme that can hydrolyse the β-glycosidic links between its glucose units
@@ -12299,7 +12515,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. no organism can break down cellulose
 - D. cellulose contains peptide bonds
 
-**Q1722.** Compared with amylose, amylopectin:
+**Q1748.** Compared with amylose, amylopectin:
 <!-- id: chem-7-2-8 -->
 
 - A. is unbranched and digested more slowly
@@ -12307,7 +12523,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. contains β-glycosidic links
 - D. is a polymer of galactose
 
-**Q1723.** A food with a high glycaemic index (GI):
+**Q1749.** A food with a high glycaemic index (GI):
 <!-- id: chem-7-2-9 -->
 
 - A. releases glucose slowly over several hours
@@ -12315,7 +12531,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. causes a rapid rise in blood glucose level after it is eaten
 - D. is always high in dietary fibre
 
-**Q1724.** A triglyceride is formed by the condensation of:
+**Q1750.** A triglyceride is formed by the condensation of:
 <!-- id: chem-7-2-10 -->
 
 - A. glycerol and three amino acids
@@ -12323,7 +12539,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. three glycerol molecules
 - D. glycerol and three fatty acids
 
-**Q1725.** Which functional group links each fatty acid to glycerol in a triglyceride?
+**Q1751.** Which functional group links each fatty acid to glycerol in a triglyceride?
 <!-- id: chem-7-2-11 -->
 
 - A. Ester
@@ -12331,7 +12547,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. Amide
 - D. Hydroxyl
 
-**Q1726.** A fatty acid has the molecular formula C₁₈H₃₂O₂. How many C=C double bonds does it contain?
+**Q1752.** A fatty acid has the molecular formula C₁₈H₃₂O₂. How many C=C double bonds does it contain?
 <!-- id: chem-7-2-12 -->
 
 - A. 1
@@ -12339,7 +12555,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 3
 - D. 0
 
-**Q1727.** Tristearin (made from saturated stearic acid) is solid at room temperature, but olive oil (rich in oleic acid) is liquid. The best explanation is that:
+**Q1753.** Tristearin (made from saturated stearic acid) is solid at room temperature, but olive oil (rich in oleic acid) is liquid. The best explanation is that:
 <!-- id: chem-7-2-13 -->
 
 - A. saturated fats form hydrogen bonds between their hydrocarbon chains
@@ -12347,7 +12563,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. straight saturated chains pack closely together, giving stronger dispersion forces between molecules
 - D. oils contain ionic bonds that break easily
 
-**Q1728.** An omega-3 fatty acid is one in which:
+**Q1754.** An omega-3 fatty acid is one in which:
 <!-- id: chem-7-2-14 -->
 
 - A. there are exactly three C=C double bonds
@@ -12355,7 +12571,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. the carboxyl group is on carbon 3
 - D. the first C=C double bond is on the third carbon from the methyl (–CH₃) end of the chain
 
-**Q1729.** Oxidative rancidity of an oil occurs mainly because of:
+**Q1755.** Oxidative rancidity of an oil occurs mainly because of:
 <!-- id: chem-7-2-15 -->
 
 - A. reaction of oxygen at C=C double bonds in unsaturated fatty acid chains
@@ -12363,7 +12579,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. reaction of nitrogen with ester groups
 - D. dehydration of glycerol
 
-**Q1730.** What is the molecular formula of the triglyceride formed from glycerol (C₃H₈O₃) and three molecules of stearic acid (C₁₈H₃₆O₂)?
+**Q1756.** What is the molecular formula of the triglyceride formed from glycerol (C₃H₈O₃) and three molecules of stearic acid (C₁₈H₃₆O₂)?
 <!-- id: chem-7-2-16 -->
 
 - A. C₅₇H₁₁₆O₉
@@ -12371,7 +12587,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. C₅₇H₁₀₄O₆
 - D. C₅₄H₁₁₀O₆
 
-**Q1731.** How many moles of I₂ react by addition with one mole of a triglyceride made from glycerol and three linoleic acid (C₁₈H₃₂O₂) chains?
+**Q1757.** How many moles of I₂ react by addition with one mole of a triglyceride made from glycerol and three linoleic acid (C₁₈H₃₂O₂) chains?
 <!-- id: chem-7-2-17 -->
 
 - A. 3
@@ -12379,7 +12595,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 6
 - D. 9
 
-**Q1732.** How many moles of water are needed to completely hydrolyse one mole of a triglyceride?
+**Q1758.** How many moles of water are needed to completely hydrolyse one mole of a triglyceride?
 <!-- id: chem-7-2-18 -->
 
 - A. 1
@@ -12387,42 +12603,42 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 6
 - D. 3
 
-**Q1733.** Explain why glucose is highly soluble in water, whereas a triglyceride is insoluble.
+**Q1759.** Explain why glucose is highly soluble in water, whereas a triglyceride is insoluble.
 <!-- id: chem-7-2-19 -->
 
 *Written answer*
 
-**Q1734.** Name the products of complete hydrolysis of (a) starch and (b) a triglyceride.
+**Q1760.** Name the products of complete hydrolysis of (a) starch and (b) a triglyceride.
 <!-- id: chem-7-2-20 -->
 
 *Written answer*
 
-**Q1735.** Explain why unsaturated vegetable oils generally have lower melting points than saturated animal fats of similar molar mass.
+**Q1761.** Explain why unsaturated vegetable oils generally have lower melting points than saturated animal fats of similar molar mass.
 <!-- id: chem-7-2-21 -->
 
 *Written answer*
 
-**Q1736.** Maltose (C₁₂H₂₂O₁₁) is a disaccharide of two glucose units. Calculate the mass of glucose (M = 180.0 g mol⁻¹) produced when 34.2 g of maltose is completely hydrolysed.
+**Q1762.** Maltose (C₁₂H₂₂O₁₁) is a disaccharide of two glucose units. Calculate the mass of glucose (M = 180.0 g mol⁻¹) produced when 34.2 g of maltose is completely hydrolysed.
 <!-- id: chem-7-2-22 -->
 
 *Written answer*
 
-**Q1737.** Explain how adding an antioxidant such as vitamin E to packaged nuts slows the development of oxidative rancidity.
+**Q1763.** Explain how adding an antioxidant such as vitamin E to packaged nuts slows the development of oxidative rancidity.
 <!-- id: chem-7-2-23 -->
 
 *Written answer*
 
-**Q1738.** Distinguish between amylose and amylopectin, and state which is likely to give a food a lower glycaemic index.
+**Q1764.** Distinguish between amylose and amylopectin, and state which is likely to give a food a lower glycaemic index.
 <!-- id: chem-7-2-24 -->
 
 *Written answer*
 
-**Q1739.** Linolenic acid has the formula C₁₈H₃₀O₂. Determine the number of C=C double bonds and classify it as saturated, monounsaturated or polyunsaturated.
+**Q1765.** Linolenic acid has the formula C₁₈H₃₀O₂. Determine the number of C=C double bonds and classify it as saturated, monounsaturated or polyunsaturated.
 <!-- id: chem-7-2-25 -->
 
 *Written answer*
 
-**Q1740.** Sucrose is a disaccharide formed from which two monosaccharides?
+**Q1766.** Sucrose is a disaccharide formed from which two monosaccharides?
 <!-- id: chem34a3-carb-1 -->
 
 - A. glucose and glucose
@@ -12430,7 +12646,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. glucose and fructose
 - D. fructose and galactose
 
-**Q1741.** Which equation correctly represents the formation of maltose from glucose?
+**Q1767.** Which equation correctly represents the formation of maltose from glucose?
 <!-- id: chem34a3-carb-2 -->
 
 - A. 2C₆H₁₂O₆ → C₁₂H₂₄O₁₂
@@ -12438,7 +12654,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. C₆H₁₂O₆ + H₂O → C₁₂H₂₂O₁₁
 - D. 2C₆H₁₂O₆ + H₂O → C₁₂H₂₄O₁₃
 
-**Q1742.** Humans can digest starch but not cellulose, even though both are polymers of glucose. The main reason is that
+**Q1768.** Humans can digest starch but not cellulose, even though both are polymers of glucose. The main reason is that
 <!-- id: chem34a3-carb-3 -->
 
 - A. cellulose contains fructose units that cannot be absorbed
@@ -12446,7 +12662,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. starch is a monosaccharide and needs no digestion
 - D. cellulose is too soluble to be acted on by enzymes
 
-**Q1743.** Amylose and amylopectin are both components of starch. Compared with amylose, amylopectin
+**Q1769.** Amylose and amylopectin are both components of starch. Compared with amylose, amylopectin
 <!-- id: chem34a3-carb-4 -->
 
 - A. is a polymer of fructose
@@ -12454,7 +12670,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. is branched, with α(1→6) links at branch points as well as α(1→4) links
 - D. contains β-glycosidic links
 
-**Q1744.** A polysaccharide molecule is made from 500 glucose units joined in a single unbranched chain. How many water molecules are needed to completely hydrolyse it to glucose?
+**Q1770.** A polysaccharide molecule is made from 500 glucose units joined in a single unbranched chain. How many water molecules are needed to completely hydrolyse it to glucose?
 <!-- id: chem34a3-carb-5 -->
 
 - A. 250
@@ -12462,22 +12678,22 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 500
 - D. 501
 
-**Q1745.** Glycogen and starch are both energy-storage polysaccharides. Describe one structural difference between them and explain why glycogen is well suited to rapid release of glucose in animals. (2 marks)
+**Q1771.** Glycogen and starch are both energy-storage polysaccharides. Describe one structural difference between them and explain why glycogen is well suited to rapid release of glucose in animals. (2 marks)
 <!-- id: chem34a3-carb-6 -->
 
 *Written answer*
 
-**Q1746.** Aspartame is an artificial sweetener about 200 times sweeter than sucrose. Explain why a soft drink sweetened with aspartame has a much lower energy content than one sweetened with sucrose to the same sweetness, even though aspartame is metabolised and releases energy. (2 marks)
+**Q1772.** Aspartame is an artificial sweetener about 200 times sweeter than sucrose. Explain why a soft drink sweetened with aspartame has a much lower energy content than one sweetened with sucrose to the same sweetness, even though aspartame is metabolised and releases energy. (2 marks)
 <!-- id: chem34a3-carb-7 -->
 
 *Written answer*
 
-**Q1747.** Foods rich in amylose tend to have a lower glycaemic index (GI) than foods rich in amylopectin. Explain this observation and give one health benefit of low-GI foods. (3 marks)
+**Q1773.** Foods rich in amylose tend to have a lower glycaemic index (GI) than foods rich in amylopectin. Explain this observation and give one health benefit of low-GI foods. (3 marks)
 <!-- id: chem34a3-carb-8 -->
 
 *Written answer*
 
-**Q1748.** A triglyceride is formed when glycerol reacts with three fatty acid molecules. The products of this reaction are the triglyceride and
+**Q1774.** A triglyceride is formed when glycerol reacts with three fatty acid molecules. The products of this reaction are the triglyceride and
 <!-- id: chem34a3-fat-1 -->
 
 - A. one water molecule
@@ -12485,7 +12701,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. three hydrogen molecules
 - D. one ethanol molecule
 
-**Q1749.** Linoleic acid has the formula C₁₇H₃₁COOH. How many carbon–carbon double bonds does one molecule contain?
+**Q1775.** Linoleic acid has the formula C₁₇H₃₁COOH. How many carbon–carbon double bonds does one molecule contain?
 <!-- id: chem34a3-fat-2 -->
 
 - A. 1
@@ -12493,7 +12709,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 3
 - D. 4
 
-**Q1750.** Olive oil is a liquid at room temperature, while butter is a soft solid. The best explanation is that olive oil contains a higher proportion of
+**Q1776.** Olive oil is a liquid at room temperature, while butter is a soft solid. The best explanation is that olive oil contains a higher proportion of
 <!-- id: chem34a3-fat-3 -->
 
 - A. saturated fatty acid chains, which have stronger dispersion forces
@@ -12501,7 +12717,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. glycerol, which forms hydrogen bonds with water
 - D. fatty acids with longer carbon chains
 
-**Q1751.** Which vitamin is fat-soluble and therefore can be stored in body fat?
+**Q1777.** Which vitamin is fat-soluble and therefore can be stored in body fat?
 <!-- id: chem34a3-fat-4 -->
 
 - A. vitamin C
@@ -12509,7 +12725,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. vitamin D
 - D. vitamin B₃
 
-**Q1752.** How many moles of hydrogen gas are needed to completely hydrogenate 1 mol of a triglyceride made from glycerol and three linolenic acid (C₁₇H₂₉COOH) chains?
+**Q1778.** How many moles of hydrogen gas are needed to completely hydrogenate 1 mol of a triglyceride made from glycerol and three linolenic acid (C₁₇H₂₉COOH) chains?
 <!-- id: chem34a3-fat-5 -->
 
 - A. 3 mol
@@ -12517,24 +12733,33 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 9 mol
 - D. 12 mol
 
-**Q1753.** Explain what is meant by an omega-3 fatty acid and give one reason why omega-3 fatty acids are described as 'essential' in the diet. (2 marks)
+**Q1779.** Explain what is meant by an omega-3 fatty acid and give one reason why omega-3 fatty acids are described as 'essential' in the diet. (2 marks)
 <!-- id: chem34a3-fat-6 -->
 
 *Written answer*
 
-**Q1754.** Polyunsaturated oils become rancid more quickly than saturated fats when exposed to air. Explain why, and describe one way food manufacturers slow this process. (3 marks)
+**Q1780.** Polyunsaturated oils become rancid more quickly than saturated fats when exposed to air. Explain why, and describe one way food manufacturers slow this process. (3 marks)
 <!-- id: chem34a3-fat-7 -->
 
 *Written answer*
 
-**Q1755.** Vitamin C contains several –OH groups, whereas vitamin A consists mainly of a long hydrocarbon chain with a single –OH group. Use these structural features to explain the different solubilities of the two vitamins and one dietary consequence. (3 marks)
+**Q1781.** Vitamin C contains several –OH groups, whereas vitamin A consists mainly of a long hydrocarbon chain with a single –OH group. Use these structural features to explain the different solubilities of the two vitamins and one dietary consequence. (3 marks)
 <!-- id: chem34a3-fat-8 -->
 
 *Written answer*
 
+**Q1782.** Linoleic acid has 18 carbons and two C=C bonds. How many moles of H₂ are needed to fully saturate 1 mol of a triglyceride made from three linoleic acid units?
+<!-- id: chem-7-2-c1 -->
+*Challenge question*
+
+- A. 2
+- B. 6
+- C. 3
+- D. 18
+
 #### Enzymes and vitamins
 
-**Q1756.** Enzymes increase the rate of reactions in the body by:
+**Q1783.** Enzymes increase the rate of reactions in the body by:
 <!-- id: chem-7-3-1 -->
 
 - A. providing an alternative reaction pathway with a lower activation energy
@@ -12542,7 +12767,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. making the reaction more exothermic
 - D. being used up as a reactant
 
-**Q1757.** The active site of an enzyme is:
+**Q1784.** The active site of an enzyme is:
 <!-- id: chem-7-3-2 -->
 
 - A. the place in the cell where the enzyme is made
@@ -12550,7 +12775,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. the C-terminal end of the polypeptide
 - D. a region that forms only at high temperatures
 
-**Q1758.** The induced-fit model of enzyme action proposes that:
+**Q1785.** The induced-fit model of enzyme action proposes that:
 <!-- id: chem-7-3-3 -->
 
 - A. the active site is rigid and an exact match to the substrate
@@ -12558,7 +12783,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. the active site changes shape slightly when the substrate binds, improving the fit
 - D. the substrate changes the enzyme's primary structure
 
-**Q1759.** A typical human enzyme is heated from 37 °C to 70 °C. The rate of the reaction it catalyses will most likely:
+**Q1786.** A typical human enzyme is heated from 37 °C to 70 °C. The rate of the reaction it catalyses will most likely:
 <!-- id: chem-7-3-4 -->
 
 - A. keep increasing, because particles move faster
@@ -12566,7 +12791,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. increase, because the enzyme is converted into more substrate
 - D. decrease, because the enzyme denatures and its active site loses its shape
 
-**Q1760.** Pepsin works best at about pH 2. If pepsin is placed in a solution at pH 8, its activity will:
+**Q1787.** Pepsin works best at about pH 2. If pepsin is placed in a solution at pH 8, its activity will:
 <!-- id: chem-7-3-5 -->
 
 - A. decrease, because the change in pH alters the charges on side chains and the shape of the active site
@@ -12574,7 +12799,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. remain unchanged, because pH does not affect proteins
 - D. increase, because peptide bonds in pepsin break more easily
 
-**Q1761.** The specificity of an enzyme for its substrate mainly arises from:
+**Q1788.** The specificity of an enzyme for its substrate mainly arises from:
 <!-- id: chem-7-3-6 -->
 
 - A. the very large molar mass of the enzyme
@@ -12582,7 +12807,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. carbohydrate groups attached to the enzyme
 - D. the number of peptide bonds in the enzyme
 
-**Q1762.** A coenzyme is best described as:
+**Q1789.** A coenzyme is best described as:
 <!-- id: chem-7-3-7 -->
 
 - A. an inorganic metal ion bound to an enzyme
@@ -12590,7 +12815,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. a non-protein organic molecule, often derived from a vitamin, that an enzyme needs to function
 - D. the substrate of the enzyme
 
-**Q1763.** The Zn²⁺ ion required by the enzyme carbonic anhydrase is an example of:
+**Q1790.** The Zn²⁺ ion required by the enzyme carbonic anhydrase is an example of:
 <!-- id: chem-7-3-8 -->
 
 - A. a coenzyme
@@ -12598,7 +12823,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. a product
 - D. an inorganic cofactor
 
-**Q1764.** A competitive inhibitor reduces the rate of an enzyme-catalysed reaction because it:
+**Q1791.** A competitive inhibitor reduces the rate of an enzyme-catalysed reaction because it:
 <!-- id: chem-7-3-9 -->
 
 - A. binds to the active site and prevents the substrate from binding
@@ -12606,7 +12831,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. raises the activation energy of every reaction in the cell
 - D. is converted into extra substrate
 
-**Q1765.** Food is stored in a refrigerator at 4 °C. The effect of this on the enzymes in the food is that they:
+**Q1792.** Food is stored in a refrigerator at 4 °C. The effect of this on the enzymes in the food is that they:
 <!-- id: chem-7-3-10 -->
 
 - A. are permanently denatured
@@ -12614,7 +12839,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. work faster because cold stabilises their shape
 - D. have their peptide bonds hydrolysed
 
-**Q1766.** Which group of vitamins is fat-soluble?
+**Q1793.** Which group of vitamins is fat-soluble?
 <!-- id: chem-7-3-11 -->
 
 - A. B group and C
@@ -12622,7 +12847,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. A, D, E and K
 - D. B, C and K
 
-**Q1767.** Vitamin C (ascorbic acid) is water-soluble mainly because:
+**Q1794.** Vitamin C (ascorbic acid) is water-soluble mainly because:
 <!-- id: chem-7-3-12 -->
 
 - A. it is a large non-polar ring system
@@ -12630,7 +12855,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. it has a long hydrocarbon chain
 - D. it has several hydroxyl groups that form hydrogen bonds with water
 
-**Q1768.** Vitamin D is fat-soluble because:
+**Q1795.** Vitamin D is fat-soluble because:
 <!-- id: chem-7-3-13 -->
 
 - A. its molecule is mostly non-polar hydrocarbon with only one hydroxyl group
@@ -12638,7 +12863,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. it is an ionic compound
 - D. it is a protein
 
-**Q1769.** Why is it more important to consume vitamin C regularly than vitamin A?
+**Q1796.** Why is it more important to consume vitamin C regularly than vitamin A?
 <!-- id: chem-7-3-14 -->
 
 - A. Vitamin C is fat-soluble and is stored in the liver
@@ -12646,7 +12871,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. Vitamin A is water-soluble and is rapidly excreted
 - D. Vitamin C is made in the body from vitamin A
 
-**Q1770.** Vitamins are described as essential in the human diet because:
+**Q1797.** Vitamins are described as essential in the human diet because:
 <!-- id: chem-7-3-15 -->
 
 - A. they provide a large proportion of the body's energy
@@ -12654,7 +12879,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. the body cannot synthesise them, or cannot synthesise enough, yet they are needed for normal function
 - D. they are themselves enzymes
 
-**Q1771.** Humans can synthesise vitamin D when:
+**Q1798.** Humans can synthesise vitamin D when:
 <!-- id: chem-7-3-16 -->
 
 - A. vitamin C is eaten in large amounts
@@ -12662,7 +12887,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. the body is exposed to cold temperatures
 - D. the skin is exposed to ultraviolet light from the sun
 
-**Q1772.** Boiling broccoli in a large volume of water reduces its vitamin C content mainly because vitamin C:
+**Q1799.** Boiling broccoli in a large volume of water reduces its vitamin C content mainly because vitamin C:
 <!-- id: chem-7-3-17 -->
 
 - A. is water-soluble, so it leaches into the cooking water, and it is also broken down by heat
@@ -12670,7 +12895,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. is converted into vitamin D on heating
 - D. evaporates as a gas at 100 °C
 
-**Q1773.** Lactose intolerance is caused by:
+**Q1800.** Lactose intolerance is caused by:
 <!-- id: chem-7-3-18 -->
 
 - A. an excess of salivary amylase
@@ -12678,44 +12903,53 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. an inability to absorb glucose
 - D. an allergy to milk fats
 
-**Q1774.** Use the idea of enzyme specificity to explain why amylase can hydrolyse starch but not cellulose, even though both are polymers of glucose.
+**Q1801.** Use the idea of enzyme specificity to explain why amylase can hydrolyse starch but not cellulose, even though both are polymers of glucose.
 <!-- id: chem-7-3-19 -->
 
 *Written answer*
 
-**Q1775.** Explain why the activity of a human enzyme increases from 20 °C to 37 °C but drops sharply above about 45 °C.
+**Q1802.** Explain why the activity of a human enzyme increases from 20 °C to 37 °C but drops sharply above about 45 °C.
 <!-- id: chem-7-3-20 -->
 
 *Written answer*
 
-**Q1776.** Distinguish between a cofactor and a coenzyme, giving an example of each.
+**Q1803.** Distinguish between a cofactor and a coenzyme, giving an example of each.
 <!-- id: chem-7-3-21 -->
 
 *Written answer*
 
-**Q1777.** Explain why vitamin C toxicity is rare, whereas excessive intake of vitamin A or D can be harmful.
+**Q1804.** Explain why vitamin C toxicity is rare, whereas excessive intake of vitamin A or D can be harmful.
 <!-- id: chem-7-3-22 -->
 
 *Written answer*
 
-**Q1778.** A student states: 'An enzyme denatured by high temperature has been broken down into amino acids.' Evaluate this statement.
+**Q1805.** A student states: 'An enzyme denatured by high temperature has been broken down into amino acids.' Evaluate this statement.
 <!-- id: chem-7-3-23 -->
 
 *Written answer*
 
-**Q1779.** Explain, in terms of intermolecular forces, why vitamin D is stored in the body's adipose (fat) tissue.
+**Q1806.** Explain, in terms of intermolecular forces, why vitamin D is stored in the body's adipose (fat) tissue.
 <!-- id: chem-7-3-24 -->
 
 *Written answer*
 
-**Q1780.** Fresh pineapple contains bromelain, a protease. Explain why fresh pineapple stops gelatine (a protein) from setting, but canned pineapple, which has been heated, does not.
+**Q1807.** Fresh pineapple contains bromelain, a protease. Explain why fresh pineapple stops gelatine (a protein) from setting, but canned pineapple, which has been heated, does not.
 <!-- id: chem-7-3-25 -->
 
 *Written answer*
 
+**Q1808.** Vitamin C is water-soluble but vitamin D is fat-soluble because:
+<!-- id: chem-7-3-c1 -->
+*Challenge question*
+
+- A. Vitamin D is ionic
+- B. Vitamin C has a higher molar mass
+- C. Vitamin D forms hydrogen bonds with fats
+- D. Vitamin D is mostly non-polar hydrocarbon with one OH group, while vitamin C has several OH groups that hydrogen bond with water
+
 #### Food energy and digestion
 
-**Q1781.** Using standard food energy values, approximately how much energy is released per gram of fat in the body?
+**Q1809.** Using standard food energy values, approximately how much energy is released per gram of fat in the body?
 <!-- id: chem-7-4-1 -->
 
 - A. 16 kJ
@@ -12723,7 +12957,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 37 kJ
 - D. 4 kJ
 
-**Q1782.** A muesli bar contains 20.0 g carbohydrate, 5.0 g fat and 3.0 g protein. Using 16 kJ g⁻¹, 37 kJ g⁻¹ and 17 kJ g⁻¹ respectively, what is its total energy content?
+**Q1810.** A muesli bar contains 20.0 g carbohydrate, 5.0 g fat and 3.0 g protein. Using 16 kJ g⁻¹, 37 kJ g⁻¹ and 17 kJ g⁻¹ respectively, what is its total energy content?
 <!-- id: chem-7-4-2 -->
 
 - A. 504 kJ
@@ -12731,7 +12965,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 1112 kJ
 - D. 556 kJ
 
-**Q1783.** A 150 g sample of water is heated by burning a food and its temperature rises by 12.0 °C. How much energy did the water absorb? (c = 4.18 J g⁻¹ °C⁻¹)
+**Q1811.** A 150 g sample of water is heated by burning a food and its temperature rises by 12.0 °C. How much energy did the water absorb? (c = 4.18 J g⁻¹ °C⁻¹)
 <!-- id: chem-7-4-3 -->
 
 - A. 7.52 kJ
@@ -12739,7 +12973,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 1.80 kJ
 - D. 75.2 kJ
 
-**Q1784.** A calorimeter is calibrated by passing a current of 2.50 A at 6.00 V for 90.0 s, which raises the temperature by 1.35 °C. What is the calibration factor?
+**Q1812.** A calorimeter is calibrated by passing a current of 2.50 A at 6.00 V for 90.0 s, which raises the temperature by 1.35 °C. What is the calibration factor?
 <!-- id: chem-7-4-4 -->
 
 - A. 1.35 kJ °C⁻¹
@@ -12747,7 +12981,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 1.82 kJ °C⁻¹
 - D. 0.741 kJ °C⁻¹
 
-**Q1785.** A bomb calorimeter has a calibration factor of 850 J °C⁻¹. Burning 0.400 g of peanut raises its temperature by 4.80 °C. What is the energy content of the peanut?
+**Q1813.** A bomb calorimeter has a calibration factor of 850 J °C⁻¹. Burning 0.400 g of peanut raises its temperature by 4.80 °C. What is the energy content of the peanut?
 <!-- id: chem-7-4-5 -->
 
 - A. 4.08 kJ g⁻¹
@@ -12755,7 +12989,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 10.2 kJ g⁻¹
 - D. 177 kJ g⁻¹
 
-**Q1786.** Fats release more energy per gram than carbohydrates when metabolised because fat molecules:
+**Q1814.** Fats release more energy per gram than carbohydrates when metabolised because fat molecules:
 <!-- id: chem-7-4-6 -->
 
 - A. have a higher molar mass
@@ -12763,7 +12997,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. are digested more quickly
 - D. are less oxidised, containing proportionally more C–H bonds and fewer oxygen atoms
 
-**Q1787.** The heat of combustion of glucose (M = 180.0 g mol⁻¹) is 2805 kJ mol⁻¹. How much energy is released per gram of glucose?
+**Q1815.** The heat of combustion of glucose (M = 180.0 g mol⁻¹) is 2805 kJ mol⁻¹. How much energy is released per gram of glucose?
 <!-- id: chem-7-4-7 -->
 
 - A. 15.6 kJ g⁻¹
@@ -12771,7 +13005,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 5.05 × 10⁵ kJ g⁻¹
 - D. 0.0642 kJ g⁻¹
 
-**Q1788.** In a simple 'can' calorimeter experiment, the measured energy content of a food is usually lower than the accepted value. The main reason is:
+**Q1816.** In a simple 'can' calorimeter experiment, the measured energy content of a food is usually lower than the accepted value. The main reason is:
 <!-- id: chem-7-4-8 -->
 
 - A. the water absorbs more energy than the food releases
@@ -12779,7 +13013,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. the food is weighed before burning
 - D. the thermometer reads to 0.1 °C
 
-**Q1789.** The purpose of electrically calibrating a calorimeter before a food is burned in it is to:
+**Q1817.** The purpose of electrically calibrating a calorimeter before a food is burned in it is to:
 <!-- id: chem-7-4-9 -->
 
 - A. measure the mass of the food sample
@@ -12787,7 +13021,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. determine the energy needed to raise the temperature of the whole calorimeter by 1 °C
 - D. cool the water to a known starting temperature
 
-**Q1790.** Chemical digestion of starch begins in the:
+**Q1818.** Chemical digestion of starch begins in the:
 <!-- id: chem-7-4-10 -->
 
 - A. stomach, catalysed by pepsin
@@ -12795,7 +13029,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. large intestine, catalysed by bacteria
 - D. mouth, catalysed by salivary amylase
 
-**Q1791.** Chemical digestion of protein begins in the:
+**Q1819.** Chemical digestion of protein begins in the:
 <!-- id: chem-7-4-11 -->
 
 - A. stomach, catalysed by pepsin
@@ -12803,7 +13037,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. large intestine
 - D. oesophagus
 
-**Q1792.** The role of bile in the digestion of fats is to:
+**Q1820.** The role of bile in the digestion of fats is to:
 <!-- id: chem-7-4-12 -->
 
 - A. hydrolyse the ester bonds in triglycerides
@@ -12811,7 +13045,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. convert fats into glucose
 - D. act as an enzyme that breaks peptide bonds
 
-**Q1793.** The products of fat digestion that are absorbed from the small intestine are mainly:
+**Q1821.** The products of fat digestion that are absorbed from the small intestine are mainly:
 <!-- id: chem-7-4-13 -->
 
 - A. amino acids
@@ -12819,7 +13053,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. fatty acids and glycerol (including monoglycerides)
 - D. disaccharides
 
-**Q1794.** Chemical digestion of carbohydrates, proteins and fats in the body involves which type of reaction?
+**Q1822.** Chemical digestion of carbohydrates, proteins and fats in the body involves which type of reaction?
 <!-- id: chem-7-4-14 -->
 
 - A. Condensation
@@ -12827,7 +13061,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. Addition polymerisation
 - D. Hydrolysis
 
-**Q1795.** In aerobic cellular respiration, glucose reacts with oxygen. The products are:
+**Q1823.** In aerobic cellular respiration, glucose reacts with oxygen. The products are:
 <!-- id: chem-7-4-15 -->
 
 - A. carbon dioxide and water
@@ -12835,7 +13069,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. ethanol and carbon dioxide only
 - D. urea and water
 
-**Q1796.** A serve of a breakfast cereal provides 1500 kJ. An adult's average daily energy requirement is 8700 kJ. What percentage of daily energy needs does one serve provide?
+**Q1824.** A serve of a breakfast cereal provides 1500 kJ. An adult's average daily energy requirement is 8700 kJ. What percentage of daily energy needs does one serve provide?
 <!-- id: chem-7-4-16 -->
 
 - A. 5.80%
@@ -12843,7 +13077,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 58.0%
 - D. 1.72%
 
-**Q1797.** A serve of peanut butter provides 370 kJ of energy from fat. What mass of fat is in the serve? (fat: 37 kJ g⁻¹)
+**Q1825.** A serve of peanut butter provides 370 kJ of energy from fat. What mass of fat is in the serve? (fat: 37 kJ g⁻¹)
 <!-- id: chem-7-4-17 -->
 
 - A. 23.1 g
@@ -12851,7 +13085,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 10.0 g
 - D. 0.100 g
 
-**Q1798.** A spirit burner burns 0.50 g of ethanol (M = 46.0 g mol⁻¹, heat of combustion 1360 kJ mol⁻¹), heating 100 g of water by 25.0 °C. What is the approximate efficiency of the energy transfer to the water? (c = 4.18 J g⁻¹ °C⁻¹)
+**Q1826.** A spirit burner burns 0.50 g of ethanol (M = 46.0 g mol⁻¹, heat of combustion 1360 kJ mol⁻¹), heating 100 g of water by 25.0 °C. What is the approximate efficiency of the energy transfer to the water? (c = 4.18 J g⁻¹ °C⁻¹)
 <!-- id: chem-7-4-18 -->
 
 - A. 29%
@@ -12859,42 +13093,42 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 59%
 - D. 71%
 
-**Q1799.** A 2.00 g cracker is burned under a can containing 250 g of water, and the water temperature rises by 18.0 °C. Assuming all the heat is absorbed by the water, calculate the energy content of the cracker in kJ g⁻¹. (c = 4.18 J g⁻¹ °C⁻¹)
+**Q1827.** A 2.00 g cracker is burned under a can containing 250 g of water, and the water temperature rises by 18.0 °C. Assuming all the heat is absorbed by the water, calculate the energy content of the cracker in kJ g⁻¹. (c = 4.18 J g⁻¹ °C⁻¹)
 <!-- id: chem-7-4-19 -->
 
 *Written answer*
 
-**Q1800.** A calorimeter is calibrated using 5.00 V and 3.00 A for 180 s, giving a temperature rise of 2.25 °C. A 1.20 g food sample is then burned and the temperature rises by 3.60 °C. Calculate the energy content of the food in kJ g⁻¹.
+**Q1828.** A calorimeter is calibrated using 5.00 V and 3.00 A for 180 s, giving a temperature rise of 2.25 °C. A 1.20 g food sample is then burned and the temperature rises by 3.60 °C. Calculate the energy content of the food in kJ g⁻¹.
 <!-- id: chem-7-4-20 -->
 
 *Written answer*
 
-**Q1801.** Explain why the energy content of a food measured using a simple can-and-burner apparatus is usually lower than the value on the food label, and suggest one improvement.
+**Q1829.** Explain why the energy content of a food measured using a simple can-and-burner apparatus is usually lower than the value on the food label, and suggest one improvement.
 <!-- id: chem-7-4-21 -->
 
 *Written answer*
 
-**Q1802.** Describe the chemical digestion of a triglyceride, naming the main enzyme, where it occurs and the products formed.
+**Q1830.** Describe the chemical digestion of a triglyceride, naming the main enzyme, where it occurs and the products formed.
 <!-- id: chem-7-4-22 -->
 
 *Written answer*
 
-**Q1803.** Explain why the body stores excess energy mainly as fat rather than as glycogen.
+**Q1831.** Explain why the body stores excess energy mainly as fat rather than as glycogen.
 <!-- id: chem-7-4-23 -->
 
 *Written answer*
 
-**Q1804.** A 30 g slice of toast contains 14.4 g carbohydrate, 1.2 g fat and 3.0 g protein. Using 16, 37 and 17 kJ g⁻¹ respectively, calculate the energy content of the slice.
+**Q1832.** A 30 g slice of toast contains 14.4 g carbohydrate, 1.2 g fat and 3.0 g protein. Using 16, 37 and 17 kJ g⁻¹ respectively, calculate the energy content of the slice.
 <!-- id: chem-7-4-24 -->
 
 *Written answer*
 
-**Q1805.** Explain why dietary fibre such as cellulose provides humans with very little energy even though it is a polymer of glucose.
+**Q1833.** Explain why dietary fibre such as cellulose provides humans with very little energy even though it is a polymer of glucose.
 <!-- id: chem-7-4-25 -->
 
 *Written answer*
 
-**Q1806.** A serving of breakfast cereal contains 6.0 g of protein, 15.0 g of carbohydrate and 5.0 g of fat. Using energy values of 17 kJ g⁻¹ (protein), 16 kJ g⁻¹ (carbohydrate) and 37 kJ g⁻¹ (fat), the energy content of the serving is approximately
+**Q1834.** A serving of breakfast cereal contains 6.0 g of protein, 15.0 g of carbohydrate and 5.0 g of fat. Using energy values of 17 kJ g⁻¹ (protein), 16 kJ g⁻¹ (carbohydrate) and 37 kJ g⁻¹ (fat), the energy content of the serving is approximately
 <!-- id: chem34a3-en-1 -->
 
 - A. 340 kJ
@@ -12902,7 +13136,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 623 kJ
 - D. 1.6 × 10³ kJ
 
-**Q1807.** A bomb calorimeter is calibrated by passing a current of 2.00 A at 5.00 V for 120 s, causing a temperature rise of 0.480 °C. The calibration factor is
+**Q1835.** A bomb calorimeter is calibrated by passing a current of 2.00 A at 5.00 V for 120 s, causing a temperature rise of 0.480 °C. The calibration factor is
 <!-- id: chem34a3-en-2 -->
 
 - A. 0.480 kJ °C⁻¹
@@ -12910,7 +13144,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 2.50 kJ °C⁻¹
 - D. 576 J °C⁻¹
 
-**Q1808.** In a spirit burner experiment, 200 g of water is heated from 20.0 °C to 35.0 °C by burning ethanol. Assuming all the heat is absorbed by the water (c = 4.18 J g⁻¹ °C⁻¹), the energy absorbed is
+**Q1836.** In a spirit burner experiment, 200 g of water is heated from 20.0 °C to 35.0 °C by burning ethanol. Assuming all the heat is absorbed by the water (c = 4.18 J g⁻¹ °C⁻¹), the energy absorbed is
 <!-- id: chem34a3-en-3 -->
 
 - A. 12.5 kJ
@@ -12918,7 +13152,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 836 J
 - D. 29.3 kJ
 
-**Q1809.** The experimentally determined enthalpy of combustion of ethanol from a spirit burner is usually much less negative than the data book value. Which of the following is the most significant reason?
+**Q1837.** The experimentally determined enthalpy of combustion of ethanol from a spirit burner is usually much less negative than the data book value. Which of the following is the most significant reason?
 <!-- id: chem34a3-en-4 -->
 
 - A. The thermometer reads too high
@@ -12926,7 +13160,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. The water absorbs more heat than calculated
 - D. Ethanol has a higher molar mass than assumed
 
-**Q1810.** Glucose has a molar enthalpy of combustion of −2803 kJ mol⁻¹ (M = 180.0 g mol⁻¹). The energy released per gram of glucose is closest to
+**Q1838.** Glucose has a molar enthalpy of combustion of −2803 kJ mol⁻¹ (M = 180.0 g mol⁻¹). The energy released per gram of glucose is closest to
 <!-- id: chem34a3-en-5 -->
 
 - A. 2.80 kJ g⁻¹
@@ -12934,18 +13168,24 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 37.0 kJ g⁻¹
 - D. 504 kJ g⁻¹
 
-**Q1811.** A bomb calorimeter has a calibration factor of 2.50 kJ °C⁻¹. When 1.20 g of a dried food sample is combusted completely, the temperature rises by 6.40 °C. Calculate the energy content of the food in kJ g⁻¹. (2 marks)
+**Q1839.** A bomb calorimeter has a calibration factor of 2.50 kJ °C⁻¹. When 1.20 g of a dried food sample is combusted completely, the temperature rises by 6.40 °C. Calculate the energy content of the food in kJ g⁻¹. (2 marks)
 <!-- id: chem34a3-en-6 -->
 
 *Written answer*
 
-**Q1812.** 0.850 g of ethanol (M = 46.0 g mol⁻¹) is burnt in a spirit burner, raising the temperature of 200 g of water by 15.0 °C (c = 4.18 J g⁻¹ °C⁻¹). Calculate the experimental molar enthalpy of combustion of ethanol and state why it differs from the accepted value of −1364 kJ mol⁻¹. (3 marks)
+**Q1840.** 0.850 g of ethanol (M = 46.0 g mol⁻¹) is burnt in a spirit burner, raising the temperature of 200 g of water by 15.0 °C (c = 4.18 J g⁻¹ °C⁻¹). Calculate the experimental molar enthalpy of combustion of ethanol and state why it differs from the accepted value of −1364 kJ mol⁻¹. (3 marks)
 <!-- id: chem34a3-en-7 -->
 
 *Written answer*
 
-**Q1813.** Explain, in terms of the composition of the molecules, why fats release more than twice as much energy per gram as carbohydrates when fully oxidised. (2 marks)
+**Q1841.** Explain, in terms of the composition of the molecules, why fats release more than twice as much energy per gram as carbohydrates when fully oxidised. (2 marks)
 <!-- id: chem34a3-en-8 -->
+
+*Written answer*
+
+**Q1842.** A snack contains 10.0 g of carbohydrate, 5.0 g of fat and 3.0 g of protein. Using 16, 37 and 17 kJ/g respectively, find its energy content.
+<!-- id: chem-7-4-c1 -->
+*Challenge question*
 
 *Written answer*
 
@@ -12953,7 +13193,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 
 #### Green chemistry principles
 
-**Q1814.** Which statement best describes the green chemistry principle of 'prevention'?
+**Q1843.** Which statement best describes the green chemistry principle of 'prevention'?
 <!-- id: chem-8-1-1 -->
 
 - A. It is better to prevent waste from forming than to treat or clean it up after it has formed.
@@ -12961,7 +13201,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. All waste products should be diluted before release to the environment.
 - D. Pollution controls should be added at the end of a production line.
 
-**Q1815.** A manufacturer replaces dichloromethane with supercritical carbon dioxide as the extraction solvent for decaffeinating coffee. Which green chemistry principle is mainly being applied?
+**Q1844.** A manufacturer replaces dichloromethane with supercritical carbon dioxide as the extraction solvent for decaffeinating coffee. Which green chemistry principle is mainly being applied?
 <!-- id: chem-8-1-2 -->
 
 - A. Design for degradation
@@ -12969,7 +13209,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. Use of renewable feedstocks
 - D. Real-time analysis for pollution prevention
 
-**Q1816.** Why are catalysts considered consistent with green chemistry?
+**Q1845.** Why are catalysts considered consistent with green chemistry?
 <!-- id: chem-8-1-3 -->
 
 - A. They shift the equilibrium position towards products, increasing the equilibrium yield.
@@ -12977,12 +13217,12 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. They lower activation energy, allowing reactions at lower temperatures and are not consumed, reducing energy use and waste.
 - D. They increase the enthalpy change of the reaction, releasing more useful heat.
 
-**Q1817.** Explain why green chemistry focuses on preventing waste rather than treating waste.
+**Q1846.** Explain why green chemistry focuses on preventing waste rather than treating waste.
 <!-- id: chem-8-1-4 -->
 
 *Written answer*
 
-**Q1818.** Producing ethanol by fermenting sugar cane rather than by hydrating ethene from crude oil best illustrates which principle?
+**Q1847.** Producing ethanol by fermenting sugar cane rather than by hydrating ethene from crude oil best illustrates which principle?
 <!-- id: chem-8-1-5 -->
 
 - A. Design for energy efficiency
@@ -12990,7 +13230,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. Safer chemical design
 - D. Use of renewable feedstocks
 
-**Q1819.** Which practice best illustrates the principle of 'design for energy efficiency'?
+**Q1848.** Which practice best illustrates the principle of 'design for energy efficiency'?
 <!-- id: chem-8-1-6 -->
 
 - A. Choosing a catalyst that allows a process to run at ambient temperature and pressure
@@ -12998,7 +13238,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. Distilling products several times to improve purity
 - D. Using a fossil-fuel feedstock that is cheaper to purchase
 
-**Q1820.** A detergent company redesigns a surfactant so that it is broken down by microorganisms in waterways within days. Which principle does this demonstrate?
+**Q1849.** A detergent company redesigns a surfactant so that it is broken down by microorganisms in waterways within days. Which principle does this demonstrate?
 <!-- id: chem-8-1-7 -->
 
 - A. Prevention of waste
@@ -13006,12 +13246,12 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. Atom economy
 - D. Less hazardous chemical syntheses
 
-**Q1821.** State two green chemistry principles that are applied when an enzyme is used as a catalyst in a fermentation process at 35 °C, and explain each briefly.
+**Q1850.** State two green chemistry principles that are applied when an enzyme is used as a catalyst in a fermentation process at 35 °C, and explain each briefly.
 <!-- id: chem-8-1-8 -->
 
 *Written answer*
 
-**Q1822.** Real-time analysis for pollution prevention refers to:
+**Q1851.** Real-time analysis for pollution prevention refers to:
 <!-- id: chem-8-1-9 -->
 
 - A. testing waste water once a year to meet EPA Victoria requirements.
@@ -13019,7 +13259,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. monitoring a process continuously during production so that formation of hazardous substances can be detected and controlled immediately.
 - D. calculating atom economy before a process is built.
 
-**Q1823.** Which of the following is the best example of 'inherently safer chemistry for accident prevention'?
+**Q1852.** Which of the following is the best example of 'inherently safer chemistry for accident prevention'?
 <!-- id: chem-8-1-10 -->
 
 - A. Storing large stockpiles of chlorine gas to avoid supply interruptions
@@ -13027,7 +13267,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. Using a volatile, flammable solvent because it evaporates easily
 - D. Generating a toxic reactant in small amounts as needed rather than storing large quantities of it
 
-**Q1824.** Reducing derivatives in a synthesis means:
+**Q1853.** Reducing derivatives in a synthesis means:
 <!-- id: chem-8-1-11 -->
 
 - A. avoiding unnecessary protecting groups or temporary modifications, as these steps require extra reagents and generate waste.
@@ -13035,12 +13275,12 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. making as many different products as possible from one reactant.
 - D. converting all products into salts for easier storage.
 
-**Q1825.** Supercritical CO₂ is used as a solvent in some industrial processes. Give one advantage and one disadvantage of its use in terms of green chemistry.
+**Q1854.** Supercritical CO₂ is used as a solvent in some industrial processes. Give one advantage and one disadvantage of its use in terms of green chemistry.
 <!-- id: chem-8-1-12 -->
 
 *Written answer*
 
-**Q1826.** Which change to an industrial process is LEAST consistent with green chemistry principles?
+**Q1855.** Which change to an industrial process is LEAST consistent with green chemistry principles?
 <!-- id: chem-8-1-13 -->
 
 - A. Switching from a stoichiometric oxidising agent to a catalytic process
@@ -13048,7 +13288,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. Recycling unreacted gases back into the reactor
 - D. Replacing an organic solvent with water
 
-**Q1827.** A Victorian company converts waste cooking oil from restaurants into biodiesel. Which green chemistry principle is most directly applied?
+**Q1856.** A Victorian company converts waste cooking oil from restaurants into biodiesel. Which green chemistry principle is most directly applied?
 <!-- id: chem-8-1-14 -->
 
 - A. Real-time analysis for pollution prevention
@@ -13056,7 +13296,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. Use of renewable feedstocks
 - D. Reduce derivatives
 
-**Q1828.** Why is water often considered a 'green' solvent?
+**Q1857.** Why is water often considered a 'green' solvent?
 <!-- id: chem-8-1-15 -->
 
 - A. It dissolves all organic compounds well.
@@ -13064,12 +13304,12 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. It evaporates readily, so it needs no energy to remove.
 - D. It is non-toxic, non-flammable, cheap and abundant.
 
-**Q1829.** Explain the difference between a renewable and a non-renewable feedstock, giving a chemical example of each.
+**Q1858.** Explain the difference between a renewable and a non-renewable feedstock, giving a chemical example of each.
 <!-- id: chem-8-1-16 -->
 
 *Written answer*
 
-**Q1830.** Which statement about green chemistry principles is correct?
+**Q1859.** Which statement about green chemistry principles is correct?
 <!-- id: chem-8-1-17 -->
 
 - A. Green chemistry aims to reduce or eliminate the use and generation of hazardous substances across the whole life cycle of a product.
@@ -13077,7 +13317,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. Green chemistry requires that all reactions have 100% percentage yield.
 - D. Green chemistry means only using naturally occurring chemicals.
 
-**Q1831.** The principle 'designing safer chemicals' is best demonstrated by:
+**Q1860.** The principle 'designing safer chemicals' is best demonstrated by:
 <!-- id: chem-8-1-18 -->
 
 - A. increasing the concentration of a pesticide so less volume is transported.
@@ -13085,7 +13325,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. storing pesticides in sealed containers.
 - D. manufacturing a pesticide at a lower temperature.
 
-**Q1832.** Hydrogen produced by electrolysis of water using electricity from a Victorian wind farm is described as 'green hydrogen' mainly because:
+**Q1861.** Hydrogen produced by electrolysis of water using electricity from a Victorian wind farm is described as 'green hydrogen' mainly because:
 <!-- id: chem-8-1-19 -->
 
 - A. it has a higher energy content per gram than hydrogen from natural gas.
@@ -13093,12 +13333,12 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. the energy input comes from a renewable source and no carbon dioxide is produced in the process.
 - D. the hydrogen produced is purer than any other source.
 
-**Q1833.** Explain how real-time analysis can reduce pollution in a chemical plant.
+**Q1862.** Explain how real-time analysis can reduce pollution in a chemical plant.
 <!-- id: chem-8-1-20 -->
 
 *Written answer*
 
-**Q1834.** Catalytic reagents are preferred over stoichiometric reagents because:
+**Q1863.** Catalytic reagents are preferred over stoichiometric reagents because:
 <!-- id: chem-8-1-21 -->
 
 - A. stoichiometric reagents always give lower equilibrium yields.
@@ -13106,7 +13346,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. catalysts are always cheaper than stoichiometric reagents.
 - D. catalysts are used in small amounts and regenerated, whereas stoichiometric reagents are consumed and become waste.
 
-**Q1835.** Which feature of the Haber process is most consistent with green chemistry principles?
+**Q1864.** Which feature of the Haber process is most consistent with green chemistry principles?
 <!-- id: chem-8-1-22 -->
 
 - A. The reaction N₂ + 3H₂ → 2NH₃ has 100% atom economy and unreacted gases are recycled.
@@ -13114,7 +13354,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. The process operates at high pressure, around 200 atm.
 - D. The iron catalyst is replaced after each batch.
 
-**Q1836.** Which of the following best describes 'design for degradation' as applied to plastics?
+**Q1865.** Which of the following best describes 'design for degradation' as applied to plastics?
 <!-- id: chem-8-1-23 -->
 
 - A. Producing polymers with very strong cross-links so they last longer
@@ -13122,19 +13362,28 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. Adding stabilisers to stop plastics breaking down in sunlight
 - D. Burning plastic waste to generate electricity
 
-**Q1837.** A chemical plant stores large quantities of a toxic, flammable solvent. Suggest two changes, based on green chemistry principles, that would reduce the risk of a serious accident.
+**Q1866.** A chemical plant stores large quantities of a toxic, flammable solvent. Suggest two changes, based on green chemistry principles, that would reduce the risk of a serious accident.
 <!-- id: chem-8-1-24 -->
 
 *Written answer*
 
-**Q1838.** Explain why producing hydrogen from natural gas by steam reforming (CH₄ + H₂O → CO + 3H₂) is less consistent with green chemistry than producing hydrogen by electrolysis of water powered by solar energy.
+**Q1867.** Explain why producing hydrogen from natural gas by steam reforming (CH₄ + H₂O → CO + 3H₂) is less consistent with green chemistry than producing hydrogen by electrolysis of water powered by solar energy.
 <!-- id: chem-8-1-25 -->
 
 *Written answer*
 
+**Q1868.** Which change to an industrial process best follows the green chemistry principle of designing for energy efficiency?
+<!-- id: chem-8-1-c1 -->
+*Challenge question*
+
+- A. Increasing the temperature to speed up the reaction
+- B. Adding an excess of one reactant
+- C. Using a catalyst that lets the reaction run at room temperature and pressure
+- D. Using a solvent that must be distilled off afterwards
+
 #### Atom economy calculations
 
-**Q1839.** Atom economy is calculated as:
+**Q1869.** Atom economy is calculated as:
 <!-- id: chem-8-2-1 -->
 
 - A. (actual mass of product ÷ theoretical mass of product) × 100
@@ -13142,7 +13391,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. (molar mass of desired product ÷ total molar mass of all reactants) × 100, using coefficients from the balanced equation
 - D. (moles of product ÷ moles of limiting reactant) × 100
 
-**Q1840.** Ethanol can be made by fermentation: C₆H₁₂O₆ → 2C₂H₅OH + 2CO₂. Given M(C₆H₁₂O₆) = 180.0 g/mol and M(C₂H₅OH) = 46.0 g/mol, the atom economy for ethanol is:
+**Q1870.** Ethanol can be made by fermentation: C₆H₁₂O₆ → 2C₂H₅OH + 2CO₂. Given M(C₆H₁₂O₆) = 180.0 g/mol and M(C₂H₅OH) = 46.0 g/mol, the atom economy for ethanol is:
 <!-- id: chem-8-2-2 -->
 
 - A. 25.6%
@@ -13150,7 +13399,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 100%
 - D. 51.1%
 
-**Q1841.** The atom economy for ethanol made by hydration of ethene, C₂H₄ + H₂O → C₂H₅OH, is:
+**Q1871.** The atom economy for ethanol made by hydration of ethene, C₂H₄ + H₂O → C₂H₅OH, is:
 <!-- id: chem-8-2-3 -->
 
 - A. 100%
@@ -13158,12 +13407,12 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 39.1%
 - D. 50.0%
 
-**Q1842.** Chloromethane is made by CH₄ + Cl₂ → CH₃Cl + HCl. Calculate the atom economy for chloromethane. M(CH₄) = 16.0, M(Cl₂) = 71.0, M(CH₃Cl) = 50.5 g/mol.
+**Q1872.** Chloromethane is made by CH₄ + Cl₂ → CH₃Cl + HCl. Calculate the atom economy for chloromethane. M(CH₄) = 16.0, M(Cl₂) = 71.0, M(CH₃Cl) = 50.5 g/mol.
 <!-- id: chem-8-2-4 -->
 
 *Written answer*
 
-**Q1843.** Which type of reaction always has an atom economy of 100% for the single product formed?
+**Q1873.** Which type of reaction always has an atom economy of 100% for the single product formed?
 <!-- id: chem-8-2-5 -->
 
 - A. Substitution reaction
@@ -13171,7 +13420,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. Condensation reaction
 - D. Elimination reaction
 
-**Q1844.** Hydrogen can be produced by steam reforming: CH₄ + H₂O → CO + 3H₂. Using M(CH₄) = 16.0, M(H₂O) = 18.0 and M(H₂) = 2.0 g/mol, the atom economy for hydrogen is:
+**Q1874.** Hydrogen can be produced by steam reforming: CH₄ + H₂O → CO + 3H₂. Using M(CH₄) = 16.0, M(H₂O) = 18.0 and M(H₂) = 2.0 g/mol, the atom economy for hydrogen is:
 <!-- id: chem-8-2-6 -->
 
 - A. 5.9%
@@ -13179,7 +13428,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 17.6%
 - D. 37.5%
 
-**Q1845.** Lime is made by heating limestone: CaCO₃ → CaO + CO₂. Given M(CaCO₃) = 100.1 g/mol and M(CaO) = 56.1 g/mol, the atom economy for CaO is:
+**Q1875.** Lime is made by heating limestone: CaCO₃ → CaO + CO₂. Given M(CaCO₃) = 100.1 g/mol and M(CaO) = 56.1 g/mol, the atom economy for CaO is:
 <!-- id: chem-8-2-7 -->
 
 - A. 44.0%
@@ -13187,12 +13436,12 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 100%
 - D. 56.0%
 
-**Q1846.** Aspirin can be made from salicylic acid (M = 138.0 g/mol) using either ethanoic anhydride (M = 102.0 g/mol, by-product ethanoic acid) or ethanoic acid (M = 60.0 g/mol, by-product water). M(aspirin) = 180.0 g/mol. Calculate the atom economy for each route and state which is greener on this basis.
+**Q1876.** Aspirin can be made from salicylic acid (M = 138.0 g/mol) using either ethanoic anhydride (M = 102.0 g/mol, by-product ethanoic acid) or ethanoic acid (M = 60.0 g/mol, by-product water). M(aspirin) = 180.0 g/mol. Calculate the atom economy for each route and state which is greener on this basis.
 <!-- id: chem-8-2-8 -->
 
 *Written answer*
 
-**Q1847.** Iron is extracted in a blast furnace: Fe₂O₃ + 3CO → 2Fe + 3CO₂. Given M(Fe₂O₃) = 159.6, M(CO) = 28.0 and M(Fe) = 55.8 g/mol, the atom economy for iron is:
+**Q1877.** Iron is extracted in a blast furnace: Fe₂O₃ + 3CO → 2Fe + 3CO₂. Given M(Fe₂O₃) = 159.6, M(CO) = 28.0 and M(Fe) = 55.8 g/mol, the atom economy for iron is:
 <!-- id: chem-8-2-9 -->
 
 - A. 45.8%
@@ -13200,7 +13449,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 69.9%
 - D. 59.5%
 
-**Q1848.** Ethyl ethanoate is made by esterification: CH₃COOH + C₂H₅OH → CH₃COOC₂H₅ + H₂O. Given M(CH₃COOH) = 60.0, M(C₂H₅OH) = 46.0 and M(CH₃COOC₂H₅) = 88.0 g/mol, the atom economy for the ester is:
+**Q1878.** Ethyl ethanoate is made by esterification: CH₃COOH + C₂H₅OH → CH₃COOC₂H₅ + H₂O. Given M(CH₃COOH) = 60.0, M(C₂H₅OH) = 46.0 and M(CH₃COOC₂H₅) = 88.0 g/mol, the atom economy for the ester is:
 <!-- id: chem-8-2-10 -->
 
 - A. 17.0%
@@ -13208,7 +13457,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 100%
 - D. 91.7%
 
-**Q1849.** Chloroethane can be made by two routes. Route 1: C₂H₄ + HCl → C₂H₅Cl. Route 2: C₂H₆ + Cl₂ → C₂H₅Cl + HCl. Given M(C₂H₅Cl) = 64.5, M(C₂H₆) = 30.0 and M(Cl₂) = 71.0 g/mol, the atom economies of Routes 1 and 2 respectively are:
+**Q1879.** Chloroethane can be made by two routes. Route 1: C₂H₄ + HCl → C₂H₅Cl. Route 2: C₂H₆ + Cl₂ → C₂H₅Cl + HCl. Given M(C₂H₅Cl) = 64.5, M(C₂H₆) = 30.0 and M(Cl₂) = 71.0 g/mol, the atom economies of Routes 1 and 2 respectively are:
 <!-- id: chem-8-2-11 -->
 
 - A. 63.9% and 100%
@@ -13216,12 +13465,12 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 100% and 63.9%
 - D. 50.0% and 50.0%
 
-**Q1850.** Explain why atom economy is described as a 'theoretical' measure while percentage yield is an 'experimental' measure.
+**Q1880.** Explain why atom economy is described as a 'theoretical' measure while percentage yield is an 'experimental' measure.
 <!-- id: chem-8-2-12 -->
 
 *Written answer*
 
-**Q1851.** Electrolysis of brine: 2NaCl + 2H₂O → 2NaOH + H₂ + Cl₂. Given M(NaCl) = 58.5, M(H₂O) = 18.0, M(NaOH) = 40.0 and M(Cl₂) = 71.0 g/mol, the atom economy if both NaOH and Cl₂ are considered useful products is:
+**Q1881.** Electrolysis of brine: 2NaCl + 2H₂O → 2NaOH + H₂ + Cl₂. Given M(NaCl) = 58.5, M(H₂O) = 18.0, M(NaOH) = 40.0 and M(Cl₂) = 71.0 g/mol, the atom economy if both NaOH and Cl₂ are considered useful products is:
 <!-- id: chem-8-2-13 -->
 
 - A. 52.3%
@@ -13229,7 +13478,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 100%
 - D. 98.7%
 
-**Q1852.** The atom economy for hydrogen produced by electrolysis of water, 2H₂O → 2H₂ + O₂, is:
+**Q1882.** The atom economy for hydrogen produced by electrolysis of water, 2H₂O → 2H₂ + O₂, is:
 <!-- id: chem-8-2-14 -->
 
 - A. 11.1%
@@ -13237,7 +13486,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 5.6%
 - D. 66.7%
 
-**Q1853.** Which change would increase the effective atom economy of a process?
+**Q1883.** Which change would increase the effective atom economy of a process?
 <!-- id: chem-8-2-15 -->
 
 - A. Increasing the reaction temperature
@@ -13245,12 +13494,12 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. Adding a catalyst
 - D. Increasing the pressure of gaseous reactants
 
-**Q1854.** Explain how selling the CO₂ produced in the fermentation of glucose (C₆H₁₂O₆ → 2C₂H₅OH + 2CO₂) to the beverage industry affects the atom economy of the process.
+**Q1884.** Explain how selling the CO₂ produced in the fermentation of glucose (C₆H₁₂O₆ → 2C₂H₅OH + 2CO₂) to the beverage industry affects the atom economy of the process.
 <!-- id: chem-8-2-16 -->
 
 *Written answer*
 
-**Q1855.** Aspirin (M = 180.0 g/mol) is made from salicylic acid (M = 138.0 g/mol) and ethanoic anhydride (M = 102.0 g/mol), with ethanoic acid (M = 60.0 g/mol) as by-product. The atom economy for aspirin is:
+**Q1885.** Aspirin (M = 180.0 g/mol) is made from salicylic acid (M = 138.0 g/mol) and ethanoic anhydride (M = 102.0 g/mol), with ethanoic acid (M = 60.0 g/mol) as by-product. The atom economy for aspirin is:
 <!-- id: chem-8-2-17 -->
 
 - A. 130.4%
@@ -13258,7 +13507,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 75.0%
 - D. 56.6%
 
-**Q1856.** Copper can be obtained by reducing copper(II) oxide with hydrogen: CuO + H₂ → Cu + H₂O. Given M(CuO) = 79.5, M(H₂) = 2.0 and M(Cu) = 63.5 g/mol, the atom economy for copper is:
+**Q1886.** Copper can be obtained by reducing copper(II) oxide with hydrogen: CuO + H₂ → Cu + H₂O. Given M(CuO) = 79.5, M(H₂) = 2.0 and M(Cu) = 63.5 g/mol, the atom economy for copper is:
 <!-- id: chem-8-2-18 -->
 
 - A. 79.9%
@@ -13266,7 +13515,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 63.5%
 - D. 77.9%
 
-**Q1857.** Ethene can be made by dehydrating ethanol: C₂H₅OH → C₂H₄ + H₂O. Given M(C₂H₅OH) = 46.0 g/mol and M(C₂H₄) = 28.0 g/mol, the atom economy for ethene is:
+**Q1887.** Ethene can be made by dehydrating ethanol: C₂H₅OH → C₂H₄ + H₂O. Given M(C₂H₅OH) = 46.0 g/mol and M(C₂H₄) = 28.0 g/mol, the atom economy for ethene is:
 <!-- id: chem-8-2-19 -->
 
 - A. 60.9%
@@ -13274,12 +13523,12 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 164%
 - D. 100%
 
-**Q1858.** Ethene can be made by dehydrating ethanol or by cracking ethane (C₂H₆ → C₂H₄ + H₂). Calculate the atom economy for ethene in the cracking reaction. M(C₂H₆) = 30.0, M(C₂H₄) = 28.0 g/mol.
+**Q1888.** Ethene can be made by dehydrating ethanol or by cracking ethane (C₂H₆ → C₂H₄ + H₂). Calculate the atom economy for ethene in the cracking reaction. M(C₂H₆) = 30.0, M(C₂H₄) = 28.0 g/mol.
 <!-- id: chem-8-2-20 -->
 
 *Written answer*
 
-**Q1859.** Which statement about atom economy is correct?
+**Q1889.** Which statement about atom economy is correct?
 <!-- id: chem-8-2-21 -->
 
 - A. Atom economy can be measured experimentally by weighing the product.
@@ -13287,7 +13536,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. Atom economy depends on how much reactant is used.
 - D. Atom economy is always equal to percentage yield for a single-step reaction.
 
-**Q1860.** Methanol is produced industrially by CO + 2H₂ → CH₃OH. A student claims this reaction is 'perfectly green'. Which is the best response?
+**Q1890.** Methanol is produced industrially by CO + 2H₂ → CH₃OH. A student claims this reaction is 'perfectly green'. Which is the best response?
 <!-- id: chem-8-2-22 -->
 
 - A. The student is correct because 100% atom economy means no environmental impact.
@@ -13295,7 +13544,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. Its atom economy is 100%, but its greenness also depends on the source of feedstocks and energy, e.g. syngas from natural gas.
 - D. The student is correct because methanol is a renewable fuel no matter how it is made.
 
-**Q1861.** Thermite reaction: Fe₂O₃ + 2Al → 2Fe + Al₂O₃. Given M(Fe₂O₃) = 159.6, M(Al) = 27.0 and M(Fe) = 55.8 g/mol, the atom economy for iron is:
+**Q1891.** Thermite reaction: Fe₂O₃ + 2Al → 2Fe + Al₂O₃. Given M(Fe₂O₃) = 159.6, M(Al) = 27.0 and M(Fe) = 55.8 g/mol, the atom economy for iron is:
 <!-- id: chem-8-2-23 -->
 
 - A. 47.8%
@@ -13303,19 +13552,25 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 69.9%
 - D. 52.2%
 
-**Q1862.** Explain why addition polymerisation (e.g. making polyethene from ethene) has a higher atom economy than condensation polymerisation (e.g. making a polyester).
+**Q1892.** Explain why addition polymerisation (e.g. making polyethene from ethene) has a higher atom economy than condensation polymerisation (e.g. making a polyester).
 <!-- id: chem-8-2-24 -->
 
 *Written answer*
 
-**Q1863.** Calculate the atom economy for sodium hydroxide alone in the electrolysis of brine: 2NaCl + 2H₂O → 2NaOH + H₂ + Cl₂. M(NaCl) = 58.5, M(H₂O) = 18.0, M(NaOH) = 40.0 g/mol.
+**Q1893.** Calculate the atom economy for sodium hydroxide alone in the electrolysis of brine: 2NaCl + 2H₂O → 2NaOH + H₂ + Cl₂. M(NaCl) = 58.5, M(H₂O) = 18.0, M(NaOH) = 40.0 g/mol.
 <!-- id: chem-8-2-25 -->
+
+*Written answer*
+
+**Q1894.** Calculate the atom economy for making ethanol by fermentation, C₆H₁₂O₆ → 2C₂H₅OH + 2CO₂, and compare it with making ethanol by hydration of ethene.
+<!-- id: chem-8-2-c1 -->
+*Challenge question*
 
 *Written answer*
 
 #### Percentage yield calculations
 
-**Q1864.** Percentage yield is calculated as:
+**Q1895.** Percentage yield is calculated as:
 <!-- id: chem-8-3-1 -->
 
 - A. (actual mass of product ÷ theoretical mass of product) × 100
@@ -13323,7 +13578,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. (theoretical mass of product ÷ actual mass of product) × 100
 - D. (mass of product ÷ total mass of reactants added) × 100
 
-**Q1865.** 10.0 g of glucose is fermented: C₆H₁₂O₆ → 2C₂H₅OH + 2CO₂, producing 4.20 g of ethanol. M(glucose) = 180.0, M(ethanol) = 46.0 g/mol. The percentage yield is:
+**Q1896.** 10.0 g of glucose is fermented: C₆H₁₂O₆ → 2C₂H₅OH + 2CO₂, producing 4.20 g of ethanol. M(glucose) = 180.0, M(ethanol) = 46.0 g/mol. The percentage yield is:
 <!-- id: chem-8-3-2 -->
 
 - A. 42.0%
@@ -13331,7 +13586,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 91.3%
 - D. 164%
 
-**Q1866.** In the Haber process, 28.0 kg of N₂ reacts with excess H₂ (N₂ + 3H₂ → 2NH₃) and 5.10 kg of NH₃ is collected. M(N₂) = 28.0, M(NH₃) = 17.0 g/mol. The percentage yield is:
+**Q1897.** In the Haber process, 28.0 kg of N₂ reacts with excess H₂ (N₂ + 3H₂ → 2NH₃) and 5.10 kg of NH₃ is collected. M(N₂) = 28.0, M(NH₃) = 17.0 g/mol. The percentage yield is:
 <!-- id: chem-8-3-3 -->
 
 - A. 30.0%
@@ -13339,12 +13594,12 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 15.0%
 - D. 7.5%
 
-**Q1867.** A two-step synthesis has step yields of 85% and 60%. Calculate the overall yield and explain why reducing the number of steps in a synthesis is consistent with green chemistry.
+**Q1898.** A two-step synthesis has step yields of 85% and 60%. Calculate the overall yield and explain why reducing the number of steps in a synthesis is consistent with green chemistry.
 <!-- id: chem-8-3-4 -->
 
 *Written answer*
 
-**Q1868.** 6.00 g of ethanoic acid (M = 60.0 g/mol) reacts with excess ethanol, giving 5.72 g of ethyl ethanoate (M = 88.0 g/mol). The percentage yield is:
+**Q1899.** 6.00 g of ethanoic acid (M = 60.0 g/mol) reacts with excess ethanol, giving 5.72 g of ethyl ethanoate (M = 88.0 g/mol). The percentage yield is:
 <!-- id: chem-8-3-5 -->
 
 - A. 95.3%
@@ -13352,7 +13607,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 83.0%
 - D. 65.0%
 
-**Q1869.** 12.0 g of ethanoic acid (M = 60.0 g/mol) is mixed with 6.90 g of ethanol (M = 46.0 g/mol), and 9.90 g of ethyl ethanoate (M = 88.0 g/mol) is obtained. The percentage yield is:
+**Q1900.** 12.0 g of ethanoic acid (M = 60.0 g/mol) is mixed with 6.90 g of ethanol (M = 46.0 g/mol), and 9.90 g of ethyl ethanoate (M = 88.0 g/mol) is obtained. The percentage yield is:
 <!-- id: chem-8-3-6 -->
 
 - A. 75.0%
@@ -13360,7 +13615,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 52.3%
 - D. 100%
 
-**Q1870.** A synthesis has three steps with yields of 90%, 80% and 70%. The overall percentage yield is:
+**Q1901.** A synthesis has three steps with yields of 90%, 80% and 70%. The overall percentage yield is:
 <!-- id: chem-8-3-7 -->
 
 - A. 80%
@@ -13368,12 +13623,12 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 240%
 - D. 70%
 
-**Q1871.** Give two reasons why the actual yield of an industrial reaction is usually less than the theoretical yield.
+**Q1902.** Give two reasons why the actual yield of an industrial reaction is usually less than the theoretical yield.
 <!-- id: chem-8-3-8 -->
 
 *Written answer*
 
-**Q1872.** A student calculates a percentage yield of 108% for a crystallised product. The most likely reason is:
+**Q1903.** A student calculates a percentage yield of 108% for a crystallised product. The most likely reason is:
 <!-- id: chem-8-3-9 -->
 
 - A. some product was lost during filtration.
@@ -13381,7 +13636,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. the product was not fully dried and still contained solvent.
 - D. a side reaction produced a by-product.
 
-**Q1873.** Which factor would NOT cause a percentage yield below 100%?
+**Q1904.** Which factor would NOT cause a percentage yield below 100%?
 <!-- id: chem-8-3-10 -->
 
 - A. Loss of product during transfer between containers
@@ -13389,7 +13644,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. Competing side reactions forming other products
 - D. Recording the mass of a product that is still damp
 
-**Q1874.** 50.0 g of CaCO₃ (M = 100.1 g/mol) is heated and 25.2 g of CaO (M = 56.1 g/mol) is collected. The percentage yield is:
+**Q1905.** 50.0 g of CaCO₃ (M = 100.1 g/mol) is heated and 25.2 g of CaO (M = 56.1 g/mol) is collected. The percentage yield is:
 <!-- id: chem-8-3-11 -->
 
 - A. 89.9%
@@ -13397,12 +13652,12 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 56.0%
 - D. 98.4%
 
-**Q1875.** Explain why a chemical engineer would aim to improve both the atom economy and the percentage yield of a process.
+**Q1906.** Explain why a chemical engineer would aim to improve both the atom economy and the percentage yield of a process.
 <!-- id: chem-8-3-12 -->
 
 *Written answer*
 
-**Q1876.** 2.76 g of salicylic acid (M = 138.0 g/mol) gives 2.70 g of aspirin (M = 180.0 g/mol). The 1:1 reaction ratio applies. The percentage yield is:
+**Q1907.** 2.76 g of salicylic acid (M = 138.0 g/mol) gives 2.70 g of aspirin (M = 180.0 g/mol). The 1:1 reaction ratio applies. The percentage yield is:
 <!-- id: chem-8-3-13 -->
 
 - A. 97.8%
@@ -13410,7 +13665,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 102%
 - D. 57.5%
 
-**Q1877.** Methanol is produced by CO + 2H₂ → CH₃OH. 56.0 kg of CO (M = 28.0 g/mol) reacts with excess H₂, and 48.0 kg of CH₃OH (M = 32.0 g/mol) is produced. The percentage yield is:
+**Q1908.** Methanol is produced by CO + 2H₂ → CH₃OH. 56.0 kg of CO (M = 28.0 g/mol) reacts with excess H₂, and 48.0 kg of CH₃OH (M = 32.0 g/mol) is produced. The percentage yield is:
 <!-- id: chem-8-3-14 -->
 
 - A. 85.7%
@@ -13418,7 +13673,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 75.0%
 - D. 150%
 
-**Q1878.** A company needs 23.0 g of ethanol (M = 46.0 g/mol) from C₂H₄ + H₂O → C₂H₅OH, which has an 80.0% yield. The minimum mass of ethene (M = 28.0 g/mol) required is:
+**Q1909.** A company needs 23.0 g of ethanol (M = 46.0 g/mol) from C₂H₄ + H₂O → C₂H₅OH, which has an 80.0% yield. The minimum mass of ethene (M = 28.0 g/mol) required is:
 <!-- id: chem-8-3-15 -->
 
 - A. 14.0 g
@@ -13426,12 +13681,12 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 28.8 g
 - D. 17.5 g
 
-**Q1879.** In an esterification, 0.250 mol of propanoic acid (M = 74.0 g/mol) reacts with excess methanol to form methyl propanoate (M = 88.0 g/mol). If 15.4 g of ester is collected, calculate the percentage yield.
+**Q1910.** In an esterification, 0.250 mol of propanoic acid (M = 74.0 g/mol) reacts with excess methanol to form methyl propanoate (M = 88.0 g/mol). If 15.4 g of ester is collected, calculate the percentage yield.
 <!-- id: chem-8-3-16 -->
 
 *Written answer*
 
-**Q1880.** In the Contact process, 2SO₂ + O₂ → 2SO₃. 128.2 g of SO₂ (M = 64.1 g/mol) gives 155.4 g of SO₃ (M = 80.1 g/mol). The percentage yield is:
+**Q1911.** In the Contact process, 2SO₂ + O₂ → 2SO₃. 128.2 g of SO₂ (M = 64.1 g/mol) gives 155.4 g of SO₃ (M = 80.1 g/mol). The percentage yield is:
 <!-- id: chem-8-3-17 -->
 
 - A. 97.0%
@@ -13439,7 +13694,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 48.5%
 - D. 121%
 
-**Q1881.** 200 g of CaCO₃ (M = 100.1 g/mol) is decomposed with a 95.0% yield. The mass of CaO (M = 56.1 g/mol) obtained is closest to:
+**Q1912.** 200 g of CaCO₃ (M = 100.1 g/mol) is decomposed with a 95.0% yield. The mass of CaO (M = 56.1 g/mol) obtained is closest to:
 <!-- id: chem-8-3-18 -->
 
 - A. 112 g
@@ -13447,7 +13702,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 190 g
 - D. 118 g
 
-**Q1882.** How does a catalyst affect the percentage yield of an equilibrium reaction once equilibrium is reached?
+**Q1913.** How does a catalyst affect the percentage yield of an equilibrium reaction once equilibrium is reached?
 <!-- id: chem-8-3-19 -->
 
 - A. It increases the equilibrium yield by shifting the equilibrium to the right.
@@ -13455,12 +13710,12 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. It does not change the equilibrium yield, but the maximum yield is reached in less time.
 - D. It increases the yield only for exothermic reactions.
 
-**Q1883.** Explain why unreacted N₂ and H₂ are recycled in the Haber process, referring to percentage yield.
+**Q1914.** Explain why unreacted N₂ and H₂ are recycled in the Haber process, referring to percentage yield.
 <!-- id: chem-8-3-20 -->
 
 *Written answer*
 
-**Q1884.** For the exothermic reaction N₂ + 3H₂ ⇌ 2NH₃, which change increases the equilibrium yield of ammonia?
+**Q1915.** For the exothermic reaction N₂ + 3H₂ ⇌ 2NH₃, which change increases the equilibrium yield of ammonia?
 <!-- id: chem-8-3-21 -->
 
 - A. Adding an iron catalyst
@@ -13468,7 +13723,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. Adding argon at constant volume
 - D. Lowering the temperature
 
-**Q1885.** 16.0 g of Fe₂O₃ (M = 159.6 g/mol) reacts with excess aluminium (Fe₂O₃ + 2Al → 2Fe + Al₂O₃), forming 9.50 g of iron (M = 55.8 g/mol). The percentage yield is closest to:
+**Q1916.** 16.0 g of Fe₂O₃ (M = 159.6 g/mol) reacts with excess aluminium (Fe₂O₃ + 2Al → 2Fe + Al₂O₃), forming 9.50 g of iron (M = 55.8 g/mol). The percentage yield is closest to:
 <!-- id: chem-8-3-22 -->
 
 - A. 84.9%
@@ -13476,7 +13731,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. 42.4%
 - D. 170%
 
-**Q1886.** A reaction has a 100% atom economy but only a 40% percentage yield. Which statement is correct?
+**Q1917.** A reaction has a 100% atom economy but only a 40% percentage yield. Which statement is correct?
 <!-- id: chem-8-3-23 -->
 
 - A. 60% of the reactant atoms formed by-products according to the balanced equation.
@@ -13484,19 +13739,25 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. The reaction must be an elimination reaction.
 - D. The reaction is fully green because atom economy is 100%.
 
-**Q1887.** A student needs 5.00 g of aspirin (M = 180.0 g/mol). The reaction of salicylic acid (M = 138.0 g/mol) to aspirin is 1:1 and has a 70.0% yield. Calculate the mass of salicylic acid needed.
+**Q1918.** A student needs 5.00 g of aspirin (M = 180.0 g/mol). The reaction of salicylic acid (M = 138.0 g/mol) to aspirin is 1:1 and has a 70.0% yield. Calculate the mass of salicylic acid needed.
 <!-- id: chem-8-3-24 -->
 
 *Written answer*
 
-**Q1888.** Explain why a percentage yield greater than 100% indicates an experimental error, and give one possible cause.
+**Q1919.** Explain why a percentage yield greater than 100% indicates an experimental error, and give one possible cause.
 <!-- id: chem-8-3-25 -->
+
+*Written answer*
+
+**Q1920.** 5.00 g of magnesium is added to 0.150 mol of HCl: Mg + 2HCl → MgCl₂ + H₂. 0.0600 mol of H₂ is collected. Find the percentage yield.
+<!-- id: chem-8-3-c1 -->
+*Challenge question*
 
 *Written answer*
 
 #### Circular economy and sustainability
 
-**Q1889.** Which statement best describes a circular economy?
+**Q1921.** Which statement best describes a circular economy?
 <!-- id: chem-8-4-1 -->
 
 - A. An economy in which raw materials are extracted, made into products and disposed of after use
@@ -13504,7 +13765,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. An economy in which materials are kept in use for as long as possible through reuse, repair, remanufacture and recycling, with waste designed out
 - D. An economy in which all waste is burned to generate electricity
 
-**Q1890.** A linear economy is best described as:
+**Q1922.** A linear economy is best described as:
 <!-- id: chem-8-4-2 -->
 
 - A. reduce, reuse, recycle
@@ -13512,7 +13773,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. design, use, repair, reuse
 - D. take, make, use, dispose
 
-**Q1891.** Which of the following is the best example of a circular economy approach to PET drink bottles?
+**Q1923.** Which of the following is the best example of a circular economy approach to PET drink bottles?
 <!-- id: chem-8-4-3 -->
 
 - A. Collecting bottles through the Victorian container deposit scheme and reprocessing them into new food-grade bottles
@@ -13520,12 +13781,12 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. Making bottles thinner so they weigh less
 - D. Exporting used bottles to other countries
 
-**Q1892.** Explain the difference between a linear economy and a circular economy.
+**Q1924.** Explain the difference between a linear economy and a circular economy.
 <!-- id: chem-8-4-4 -->
 
 *Written answer*
 
-**Q1893.** Why is burning a plastic waste to generate electricity considered less circular than recycling it?
+**Q1925.** Why is burning a plastic waste to generate electricity considered less circular than recycling it?
 <!-- id: chem-8-4-5 -->
 
 - A. Burning produces no useful energy.
@@ -13533,7 +13794,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. Recycling releases more CO₂ than burning.
 - D. Burning plastic is not allowed anywhere in Australia.
 
-**Q1894.** Which property makes thermoplastics such as PET easier to recycle than thermosetting polymers?
+**Q1926.** Which property makes thermoplastics such as PET easier to recycle than thermosetting polymers?
 <!-- id: chem-8-4-6 -->
 
 - A. They have strong covalent cross-links between chains.
@@ -13541,7 +13802,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. They soften on heating and can be remoulded, because there are only weak forces between chains and no cross-links.
 - D. They do not melt at any temperature.
 
-**Q1895.** In chemical (feedstock) recycling of plastics, polymers are:
+**Q1927.** In chemical (feedstock) recycling of plastics, polymers are:
 <!-- id: chem-8-4-7 -->
 
 - A. melted and remoulded into a new shape.
@@ -13549,12 +13810,12 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. burned to generate electricity.
 - D. broken down into monomers or small molecules that can be used to make new polymers or chemicals.
 
-**Q1896.** Give one advantage and one disadvantage of using bioethanol produced from sugar cane as a fuel in terms of sustainability.
+**Q1928.** Give one advantage and one disadvantage of using bioethanol produced from sugar cane as a fuel in terms of sustainability.
 <!-- id: chem-8-4-8 -->
 
 *Written answer*
 
-**Q1897.** Which of the following is a sustainability benefit of producing biodiesel from canola oil compared with diesel from crude oil?
+**Q1929.** Which of the following is a sustainability benefit of producing biodiesel from canola oil compared with diesel from crude oil?
 <!-- id: chem-8-4-9 -->
 
 - A. The carbon released on combustion was recently absorbed from the atmosphere by the canola plants, so net CO₂ emissions are lower.
@@ -13562,7 +13823,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. Biodiesel has a higher energy content per kilogram than petrodiesel.
 - D. Growing canola requires no land or water.
 
-**Q1898.** A concern about producing biofuels from food crops such as wheat or sugar cane is that:
+**Q1930.** A concern about producing biofuels from food crops such as wheat or sugar cane is that:
 <!-- id: chem-8-4-10 -->
 
 - A. biofuels cannot be used in vehicles.
@@ -13570,7 +13831,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. they are made from non-renewable feedstocks.
 - D. their combustion releases sulfur dioxide in large amounts.
 
-**Q1899.** Which practice best represents 'industrial symbiosis' in a circular economy?
+**Q1931.** Which practice best represents 'industrial symbiosis' in a circular economy?
 <!-- id: chem-8-4-11 -->
 
 - A. Each factory treating all its own waste on site
@@ -13578,12 +13839,12 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. Using waste heat and by-product CO₂ from one factory to warm greenhouses at a neighbouring business
 - D. Importing raw materials from overseas
 
-**Q1900.** Explain why thermosetting polymers are more difficult to recycle than thermoplastic polymers.
+**Q1932.** Explain why thermosetting polymers are more difficult to recycle than thermoplastic polymers.
 <!-- id: chem-8-4-12 -->
 
 *Written answer*
 
-**Q1901.** Which of the following ranks the waste hierarchy correctly from most preferred to least preferred?
+**Q1933.** Which of the following ranks the waste hierarchy correctly from most preferred to least preferred?
 <!-- id: chem-8-4-13 -->
 
 - A. Recycle, reuse, reduce, dispose, recover energy
@@ -13591,7 +13852,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. Reuse, dispose, reduce, recycle, recover energy
 - D. Avoid/reduce, reuse, recycle, recover energy, dispose
 
-**Q1902.** Which term describes the assessment of the environmental impacts of a product from raw material extraction to final disposal?
+**Q1934.** Which term describes the assessment of the environmental impacts of a product from raw material extraction to final disposal?
 <!-- id: chem-8-4-14 -->
 
 - A. Life cycle assessment
@@ -13599,7 +13860,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. Percentage yield
 - D. Chromatography
 
-**Q1903.** Green hydrogen can be used to make 'green ammonia' for fertilisers. This improves the sustainability of ammonia production mainly because:
+**Q1935.** Green hydrogen can be used to make 'green ammonia' for fertilisers. This improves the sustainability of ammonia production mainly because:
 <!-- id: chem-8-4-15 -->
 
 - A. it increases the atom economy of the Haber reaction above 100%.
@@ -13607,12 +13868,12 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. it removes the need for nitrogen.
 - D. it allows ammonia to be produced without a catalyst.
 
-**Q1904.** A Victorian brewery sells the CO₂ released during fermentation to a soft drink manufacturer and sends spent grain to local farmers as cattle feed. Explain how these practices reflect circular economy principles.
+**Q1936.** A Victorian brewery sells the CO₂ released during fermentation to a soft drink manufacturer and sends spent grain to local farmers as cattle feed. Explain how these practices reflect circular economy principles.
 <!-- id: chem-8-4-16 -->
 
 *Written answer*
 
-**Q1905.** Which example best demonstrates 'design for disassembly' in a circular economy?
+**Q1937.** Which example best demonstrates 'design for disassembly' in a circular economy?
 <!-- id: chem-8-4-17 -->
 
 - A. A phone sealed completely in a single plastic case
@@ -13620,7 +13881,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. A mobile phone designed with screws instead of glue, so its battery and metals can be easily separated for recycling
 - D. A phone made with the smallest possible number of recyclable components
 
-**Q1906.** Polylactic acid (PLA) is made from corn starch. Which statement about PLA is correct?
+**Q1938.** Polylactic acid (PLA) is made from corn starch. Which statement about PLA is correct?
 <!-- id: chem-8-4-18 -->
 
 - A. It is made from crude oil and does not biodegrade.
@@ -13628,7 +13889,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. It is a thermosetting polymer with many cross-links.
 - D. It is made from a renewable feedstock and can biodegrade under industrial composting conditions.
 
-**Q1907.** Which is a disadvantage of mechanical recycling of plastics?
+**Q1939.** Which is a disadvantage of mechanical recycling of plastics?
 <!-- id: chem-8-4-19 -->
 
 - A. Polymer chains are shortened and contaminants build up each cycle, so quality decreases (downcycling).
@@ -13636,12 +13897,12 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. It changes the plastic into a thermosetting polymer.
 - D. It cannot be used for any type of plastic.
 
-**Q1908.** Describe what a life cycle assessment (LCA) of a product involves and why it is useful.
+**Q1940.** Describe what a life cycle assessment (LCA) of a product involves and why it is useful.
 <!-- id: chem-8-4-20 -->
 
 *Written answer*
 
-**Q1909.** Recovering copper from discarded electronic waste rather than mining new ore is consistent with a circular economy because it:
+**Q1941.** Recovering copper from discarded electronic waste rather than mining new ore is consistent with a circular economy because it:
 <!-- id: chem-8-4-21 -->
 
 - A. increases the amount of copper ore in the Earth's crust.
@@ -13649,7 +13910,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. produces copper with a different chemical composition.
 - D. requires no energy at all.
 
-**Q1910.** Which statement best describes 'sustainable development'?
+**Q1942.** Which statement best describes 'sustainable development'?
 <!-- id: chem-8-4-22 -->
 
 - A. Development that maximises current profits regardless of future impacts
@@ -13657,7 +13918,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. Development that meets the needs of the present without compromising the ability of future generations to meet their own needs
 - D. Development that only uses renewable energy
 
-**Q1911.** Which of the following is the most sustainable source of energy for running an electrolytic cell to produce aluminium in Australia?
+**Q1943.** Which of the following is the most sustainable source of energy for running an electrolytic cell to produce aluminium in Australia?
 <!-- id: chem-8-4-23 -->
 
 - A. Electricity from brown coal power stations
@@ -13665,19 +13926,110 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 - C. Electricity from natural gas power stations
 - D. Electricity from solar and wind farms
 
-**Q1912.** Explain how producing ammonia using hydrogen from renewable-powered electrolysis would improve the sustainability of fertiliser production.
+**Q1944.** Explain how producing ammonia using hydrogen from renewable-powered electrolysis would improve the sustainability of fertiliser production.
 <!-- id: chem-8-4-24 -->
 
 *Written answer*
 
-**Q1913.** Explain why 'reduce' and 'reuse' are placed above 'recycle' in the waste hierarchy.
+**Q1945.** Explain why 'reduce' and 'reuse' are placed above 'recycle' in the waste hierarchy.
 <!-- id: chem-8-4-25 -->
+
+*Written answer*
+
+**Q1946.** Which is the best example of a circular economy for PET drink bottles?
+<!-- id: chem-8-4-c1 -->
+*Challenge question*
+
+- A. Burning used bottles to generate electricity
+- B. Chemically breaking used PET into monomers that are made into new bottles
+- C. Burying bottles in a landfill lined to prevent leaks
+- D. Making single-use bottles thinner
+
+### Challenge questions
+
+#### Challenge set
+
+**Q1947.** A calorimeter is calibrated: 5.00 V and 2.00 A for 120 s raises its temperature by 1.50 °C. A reaction in the calorimeter then raises the temperature by 2.80 °C. Find the calibration factor and the energy released.
+<!-- id: chem-challenge-1 -->
+*Challenge question*
+
+*Written answer*
+
+**Q1948.** For H₂(g) + I₂(g) ⇌ 2HI(g), K = 4.0 at some temperature. A mixture has [H₂] = [I₂] = 0.10 M and [HI] = 0.40 M. The mixture will:
+<!-- id: chem-challenge-2 -->
+*Challenge question*
+
+- A. React in the forward direction, because Q < K
+- B. Stay the same, because it is at equilibrium
+- C. React in the reverse direction, because Q = 16 is greater than K
+- D. React forward, because [HI] is the largest
+
+**Q1949.** For Fe³⁺(aq) + SCN⁻(aq) ⇌ FeSCN²⁺(aq), water is added to the equilibrium mixture. The equilibrium:
+<!-- id: chem-challenge-3 -->
+*Challenge question*
+
+- A. Shifts right, towards fewer particles
+- B. Shifts left, towards more dissolved particles
+- C. Does not shift, because water is not in the expression
+- D. Shifts right, because K increases
+
+**Q1950.** Two electrolytic cells containing Ag⁺(aq) and Cu²⁺(aq) are connected in series. 1.08 g of silver is deposited. What mass of copper is deposited?
+<!-- id: chem-challenge-4 -->
+*Challenge question*
+
+*Written answer*
+
+**Q1951.** Which set of reagents converts chloroethane into ethyl ethanoate in three steps (chloroethane → ethanol → ethanoic acid → ester)?
+<!-- id: chem-challenge-5 -->
+*Challenge question*
+
+- A. H₂O with H₃PO₄; NaOH(aq); methanol with H₂SO₄
+- B. NaOH(aq); acidified K₂Cr₂O₇; ethanol with a concentrated H₂SO₄ catalyst
+- C. Cl₂ with UV light; acidified KMnO₄; ethanol
+- D. NaOH(aq); H₂ with Ni catalyst; ethanoic acid
+
+**Q1952.** A compound C₃H₆O shows a strong IR absorption at 1715 cm⁻¹ and no broad band above 3000 cm⁻¹. Its ¹H NMR spectrum shows a single peak. It is:
+<!-- id: chem-challenge-6 -->
+*Challenge question*
+
+- A. Propanone
+- B. Propanal
+- C. Prop-2-en-1-ol
+- D. Propanoic acid
+
+**Q1953.** Methane (ΔH = −890 kJ/mol, M = 16.0) and octane (ΔH = −5460 kJ/mol, M = 114) are compared. Per gram of fuel:
+<!-- id: chem-challenge-7 -->
+*Challenge question*
+
+- A. Octane releases more energy, because its ΔH is larger
+- B. They release the same energy
+- C. Octane releases about 6 times more energy
+- D. Methane releases more energy (about 55.6 kJ/g versus 47.9 kJ/g)
+
+**Q1954.** A process has 100% atom economy but a percentage yield of only 40%. Explain what each value tells you, and why the process may still be wasteful.
+<!-- id: chem-challenge-8 -->
+*Challenge question*
+
+*Written answer*
+
+**Q1955.** Molten NaCl and concentrated NaCl(aq) are each electrolysed with inert electrodes. The cathode products are:
+<!-- id: chem-challenge-9 -->
+*Challenge question*
+
+- A. Sodium metal from both
+- B. Hydrogen gas from both
+- C. Chlorine gas from both
+- D. Sodium metal from the molten salt; hydrogen gas from the solution
+
+**Q1956.** An enzyme's activity falls sharply above 45 °C and does not recover when it is cooled. Explain this at the molecular level.
+<!-- id: chem-challenge-10 -->
+*Challenge question*
 
 *Written answer*
 
 ### Exam-style questions (mixed topics)
 
-**Q1914.** Ethanol as a fuel
+**Q1957.** Ethanol as a fuel
 <!-- id: chem-x1 -->
 *Multi-part question · 13 marks · Original question in the style of the VCE Chemistry exam, Section B*
 
@@ -13701,7 +14053,7 @@ Ethanol can be oxidised to ethanoic acid, CH₃COOH. Ethanoic acid then reacts w
 
 **f.** Fermentation is represented by C₆H₁₂O₆(aq) → 2C₂H₅OH(aq) + 2CO₂(g). Calculate the percentage atom economy for making ethanol by fermentation. Use M(C₆H₁₂O₆) = 180.0 g mol⁻¹. *(2 marks)*
 
-**Q1915.** Green hydrogen: making it and using it
+**Q1958.** Green hydrogen: making it and using it
 <!-- id: chem-x2 -->
 *Multi-part question · 12 marks · Original question in the style of the VCE Chemistry exam, Section B*
 
@@ -13725,7 +14077,7 @@ Hydrogen is also used to make ammonia: N₂(g) + 3H₂(g) ⇌ 2NH₃(g), ΔH = �
 
 **f.** The temperature of the vessel is increased. Explain the effect on the equilibrium yield of ammonia. *(2 marks)*
 
-**Q1916.** Identifying an acid and making an ester
+**Q1959.** Identifying an acid and making an ester
 <!-- id: chem-x3 -->
 *Multi-part question · 10 marks · Original question in the style of the VCE Chemistry exam, Section B*
 
@@ -13745,7 +14097,7 @@ X reacts with methanol, using concentrated sulfuric acid as a catalyst, to form 
 
 **f.** 7.40 g of X produced 6.16 g of the ester. Calculate the percentage yield. Use M(ester) = 88.0 g mol⁻¹. *(2 marks)*
 
-**Q1917.** A lead–acid battery and a catalyst
+**Q1960.** A lead–acid battery and a catalyst
 <!-- id: chem-x4 -->
 *Multi-part question · 10 marks · Original question in the style of the VCE Chemistry exam, Section B*
 
@@ -13766,3 +14118,45 @@ The battery delivers a steady current of 5.00 A for 30.0 minutes. Use F = 96 500
 Hydrogen peroxide decomposes slowly into water and oxygen. Adding a little manganese dioxide, MnO₂, makes the reaction much faster without the MnO₂ being used up.
 
 **f.** Use collision theory to explain how the catalyst increases the rate of reaction. *(2 marks)*
+
+**Q1961.** Challenge: methanol as a fuel
+<!-- id: chem-cx1 -->
+*Challenge question*
+*Multi-part question · 12 marks · Original challenge question in the style of the VCE Chemistry exam, Section B*
+
+Methanol, CH₃OH (M = 32.0 g/mol), can be burnt or used in a fuel cell. Its molar enthalpy of combustion is −726 kJ/mol.
+
+**a.** Write a balanced thermochemical equation for the complete combustion of methanol, with states. *(2 marks)*
+
+In a school experiment, burning 1.20 g of methanol heated 200.0 g of water from 18.5 °C to 32.0 °C.
+
+**b.** Calculate the experimental molar enthalpy of combustion. *(3 marks)*
+
+**c.** Calculate the percentage of the energy released that was absorbed by the water, and give one reason it is low. *(2 marks)*
+
+**d.** In a methanol fuel cell with an acidic electrolyte, write the half-equations at the anode and the cathode. *(2 marks)*
+
+**e.** The fuel cell converts 50% of the chemical energy to electrical energy. How much electrical energy can 1.00 kg of methanol supply? *(2 marks)*
+
+**f.** Give one advantage of using methanol in a fuel cell rather than burning it. *(1 mark)*
+
+**Q1962.** Challenge: making and analysing an ester
+<!-- id: chem-cx2 -->
+*Challenge question*
+*Multi-part question · 13 marks · Original challenge question in the style of the VCE Chemistry exam, Section B*
+
+Ethanoic acid reacts with ethanol, with a sulfuric acid catalyst, to form an ester and water. At the temperature used, K = 4.0 for this equilibrium.
+
+**a.** Name the ester and write the equation, using condensed structural formulas. *(2 marks)*
+
+**b.** Write the expression for K, and explain why the volume of the mixture does not affect its value here. *(2 marks)*
+
+**c.** 1.00 mol of acid and 1.00 mol of ethanol are mixed. Calculate the amount of ester at equilibrium. *(2 marks)*
+
+**d.** Repeat with 1.00 mol of acid and 2.00 mol of ethanol. Explain the change with Le Chatelier's principle. *(3 marks)*
+
+**e.** Calculate the atom economy of the esterification (M: ethanoic acid 60.0, ethanol 46.0, ethyl ethanoate 88.0). *(1 mark)*
+
+**f.** Describe the ¹H NMR spectrum of ethyl ethanoate: the number of environments, their peak areas and their splitting. *(2 marks)*
+
+**g.** How could IR spectroscopy show that the purified product contains no ethanoic acid? *(1 mark)*
