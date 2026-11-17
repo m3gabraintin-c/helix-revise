@@ -101,9 +101,18 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 
 *Written answer*
 
+**Q14.** A cell has a cell wall, ribosomes and a large permanent vacuole, but no chloroplasts. It is most likely:
+<!-- id: gcse-bio-animal-and-plant-cells-c1 -->
+*Challenge question*
+
+- A. A palisade cell
+- B. A bacterial cell
+- C. A sperm cell
+- D. A root hair cell
+
 #### Bacterial cells
 
-**Q14.** Where is the genetic material found in a bacterial cell?
+**Q15.** Where is the genetic material found in a bacterial cell?
 <!-- id: bac-1 -->
 
 - A. In a nucleus
@@ -111,7 +120,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. In the mitochondria
 - D. In the cell wall
 
-**Q15.** What is a plasmid?
+**Q16.** What is a plasmid?
 <!-- id: bac-2 -->
 
 - A. A small ring of DNA
@@ -119,7 +128,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. A type of ribosome
 - D. A protective slime layer
 
-**Q16.** What is the function of a flagellum?
+**Q17.** What is the function of a flagellum?
 <!-- id: bac-3 -->
 
 - A. Respiration
@@ -127,12 +136,12 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Reproduction
 - D. Making proteins
 
-**Q17.** State two differences between a bacterial cell and an animal cell.
+**Q18.** State two differences between a bacterial cell and an animal cell.
 <!-- id: bac-4 -->
 
 *Written answer*
 
-**Q18.** Bacteria are described as prokaryotes. What does this mean?
+**Q19.** Bacteria are described as prokaryotes. What does this mean?
 <!-- id: g01-bac-1 -->
 
 - A. They have a nucleus
@@ -140,7 +149,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. They have no cell wall
 - D. They have chloroplasts
 
-**Q19.** Which feature do bacterial cells and plant cells both have?
+**Q20.** Which feature do bacterial cells and plant cells both have?
 <!-- id: g01-bac-2 -->
 
 - A. Mitochondria
@@ -148,7 +157,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. A permanent vacuole
 - D. Chloroplasts
 
-**Q20.** Roughly how large is a typical bacterial cell compared with a typical animal cell?
+**Q21.** Roughly how large is a typical bacterial cell compared with a typical animal cell?
 <!-- id: g01-bac-3 -->
 
 - A. Much smaller
@@ -156,7 +165,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. About 10 times larger
 - D. About the same size
 
-**Q21.** Which structure in a bacterium contains genes that may give resistance to antibiotics?
+**Q22.** Which structure in a bacterium contains genes that may give resistance to antibiotics?
 <!-- id: g01-bac-4 -->
 
 - A. Ribosome
@@ -164,7 +173,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Flagellum
 - D. Cell membrane
 
-**Q22.** How do many bacteria reproduce?
+**Q23.** How do many bacteria reproduce?
 <!-- id: g01-bac-5 -->
 
 - A. Meiosis
@@ -172,25 +181,34 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Binary fission
 - D. Mitosis in a nucleus
 
-**Q23.** Describe how a bacterial cell differs from a plant cell in the way its genetic material is arranged. (2 marks)
+**Q24.** Describe how a bacterial cell differs from a plant cell in the way its genetic material is arranged. (2 marks)
 <!-- id: g01-bac-6 -->
 
 *Written answer*
 
-**Q24.** Name the part of a bacterial cell where proteins are made. (1 mark)
+**Q25.** Name the part of a bacterial cell where proteins are made. (1 mark)
 <!-- id: g01-bac-7 -->
 
 *Written answer*
 
-**Q25.** A bacterial cell divides every 30 minutes. Assuming no cells die, how many bacteria will there be after 3 hours from one cell? Show your working. (2 marks)
+**Q26.** A bacterial cell divides every 30 minutes. Assuming no cells die, how many bacteria will there be after 3 hours from one cell? Show your working. (2 marks)
 <!-- id: g01-bac-8 -->
 *Higher tier only*
 
 *Written answer*
 
+**Q27.** Which pair of structures may be found in bacterial cells but never in animal cells?
+<!-- id: gcse-bio-bacterial-cells-c1 -->
+*Challenge question*
+
+- A. Plasmids and a cell wall
+- B. Ribosomes and cytoplasm
+- C. A nucleus and mitochondria
+- D. A cell membrane and ribosomes
+
 #### Microscopes and magnification
 
-**Q26.** A microscope has a ×10 eyepiece lens and a ×40 objective lens. What is the total magnification?
+**Q28.** A microscope has a ×10 eyepiece lens and a ×40 objective lens. What is the total magnification?
 <!-- id: mic-1 -->
 
 - A. ×50
@@ -198,7 +216,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. ×4
 - D. ×4000
 
-**Q27.** An image of a cell is 5 mm wide. The real cell is 0.05 mm wide. What is the magnification?
+**Q29.** An image of a cell is 5 mm wide. The real cell is 0.05 mm wide. What is the magnification?
 <!-- id: mic-2 -->
 
 - A. ×10
@@ -206,7 +224,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. ×1000
 - D. ×0.01
 
-**Q28.** How many micrometres (µm) are in 1 millimetre?
+**Q30.** How many micrometres (µm) are in 1 millimetre?
 <!-- id: mic-3 -->
 
 - A. 10
@@ -214,7 +232,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. 1000
 - D. 1 000 000
 
-**Q29.** Why can electron microscopes show more detail than light microscopes?
+**Q31.** Why can electron microscopes show more detail than light microscopes?
 <!-- id: mic-4 -->
 
 - A. They use coloured stains
@@ -222,13 +240,13 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. They can view living cells
 - D. They are cheaper
 
-**Q30.** Write 0.000 004 m in standard form.
+**Q32.** Write 0.000 004 m in standard form.
 <!-- id: mic-5 -->
 *Higher tier only*
 
 *Written answer*
 
-**Q31.** A cell measures 0.02 mm. What is this in micrometres?
+**Q33.** A cell measures 0.02 mm. What is this in micrometres?
 <!-- id: g01-mic-1 -->
 
 - A. 0.02 µm
@@ -236,7 +254,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. 20 µm
 - D. 200 µm
 
-**Q32.** The image of a cell is 60 mm long and the magnification is ×300. What is the real length of the cell?
+**Q34.** The image of a cell is 60 mm long and the magnification is ×300. What is the real length of the cell?
 <!-- id: g01-mic-2 -->
 
 - A. 0.2 mm
@@ -244,7 +262,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. 18 000 mm
 - D. 0.5 mm
 
-**Q33.** What does resolution mean?
+**Q35.** What does resolution mean?
 <!-- id: g01-mic-3 -->
 
 - A. The ability to distinguish two points that are close together as separate
@@ -252,7 +270,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. The thickness of the specimen
 - D. How many times bigger an image is than the object
 
-**Q34.** Which is an advantage of a light microscope over an electron microscope?
+**Q36.** Which is an advantage of a light microscope over an electron microscope?
 <!-- id: g01-mic-4 -->
 
 - A. It can view living specimens
@@ -260,7 +278,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Higher magnification
 - D. Higher resolution
 
-**Q35.** What is 1 nanometre (nm) in micrometres (µm)?
+**Q37.** What is 1 nanometre (nm) in micrometres (µm)?
 <!-- id: g01-mic-5 -->
 
 - A. 0.000 001 µm
@@ -268,24 +286,30 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. 0.01 µm
 - D. 1000 µm
 
-**Q36.** A student draws a cell 45 mm long. The real cell is 150 µm long. Calculate the magnification. (3 marks)
+**Q38.** A student draws a cell 45 mm long. The real cell is 150 µm long. Calculate the magnification. (3 marks)
 <!-- id: g01-mic-6 -->
 
 *Written answer*
 
-**Q37.** Describe how a student should prepare a slide of onion epidermis for a light microscope. (4 marks)
+**Q39.** Describe how a student should prepare a slide of onion epidermis for a light microscope. (4 marks)
 <!-- id: g01-mic-7 -->
 
 *Written answer*
 
-**Q38.** Give two reasons why electron microscopes have helped scientists understand sub-cellular structures better than light microscopes. (2 marks)
+**Q40.** Give two reasons why electron microscopes have helped scientists understand sub-cellular structures better than light microscopes. (2 marks)
 <!-- id: g01-mic-8 -->
+
+*Written answer*
+
+**Q41.** A bacterium is 2 µm long. In a micrograph its image is 10 mm long. Calculate the magnification.
+<!-- id: gcse-bio-microscopes-and-magnification-c1 -->
+*Challenge question*
 
 *Written answer*
 
 #### Enzymes and the active site
 
-**Q39.** What type of molecule is an enzyme?
+**Q42.** What type of molecule is an enzyme?
 <!-- id: enz-1 -->
 
 - A. Carbohydrate
@@ -293,7 +317,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Protein
 - D. Nucleic acid
 
-**Q40.** Why does an enzyme only work on one type of substrate?
+**Q43.** Why does an enzyme only work on one type of substrate?
 <!-- id: enz-2 -->
 
 - A. The substrate must fit the shape of the active site
@@ -301,12 +325,12 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Enzymes only work at 37 °C
 - D. Each cell only contains one enzyme
 
-**Q41.** Describe the lock and key model of enzyme action.
+**Q44.** Describe the lock and key model of enzyme action.
 <!-- id: enz-3 -->
 
 *Written answer*
 
-**Q42.** What is the name of the molecule that an enzyme acts on?
+**Q45.** What is the name of the molecule that an enzyme acts on?
 <!-- id: g01-enz-1 -->
 
 - A. Substrate
@@ -314,7 +338,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Active site
 - D. Product
 
-**Q43.** Why are enzymes described as biological catalysts?
+**Q46.** Why are enzymes described as biological catalysts?
 <!-- id: g01-enz-2 -->
 
 - A. They provide energy for reactions
@@ -322,7 +346,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. They are living cells
 - D. They speed up reactions and are not used up
 
-**Q44.** What is the active site of an enzyme?
+**Q47.** What is the active site of an enzyme?
 <!-- id: g01-enz-3 -->
 
 - A. The product of the reaction
@@ -330,7 +354,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. The place where enzymes are made
 - D. The outer membrane of an enzyme
 
-**Q45.** Which statement about the enzyme-substrate complex is correct?
+**Q48.** Which statement about the enzyme-substrate complex is correct?
 <!-- id: g01-enz-4 -->
 
 - A. It forms after the products are released
@@ -338,7 +362,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. It forms when the enzyme is denatured
 - D. It contains no substrate
 
-**Q46.** Catalase breaks down hydrogen peroxide but not starch. This is because enzymes are
+**Q49.** Catalase breaks down hydrogen peroxide but not starch. This is because enzymes are
 <!-- id: g01-enz-5 -->
 
 - A. specific
@@ -346,24 +370,33 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. living
 - D. fast
 
-**Q47.** Explain why an enzyme is unable to catalyse a reaction once its active site has changed shape. (2 marks)
+**Q50.** Explain why an enzyme is unable to catalyse a reaction once its active site has changed shape. (2 marks)
 <!-- id: g01-enz-6 -->
 
 *Written answer*
 
-**Q48.** State two ways in which enzymes are important in living organisms. (2 marks)
+**Q51.** State two ways in which enzymes are important in living organisms. (2 marks)
 <!-- id: g01-enz-7 -->
 
 *Written answer*
 
-**Q49.** Explain why a protease enzyme cannot digest starch. (2 marks)
+**Q52.** Explain why a protease enzyme cannot digest starch. (2 marks)
 <!-- id: g01-enz-8 -->
 
 *Written answer*
 
+**Q53.** Amylase cannot break down proteins because:
+<!-- id: gcse-bio-enzymes-and-the-active-site-c1 -->
+*Challenge question*
+
+- A. Proteins are too large to be digested
+- B. Amylase only works at low pH
+- C. Amylase is denatured by proteins
+- D. Its active site is not complementary in shape to protein molecules
+
 #### Factors affecting enzyme activity
 
-**Q50.** What happens to an enzyme when it is heated well above its optimum temperature?
+**Q54.** What happens to an enzyme when it is heated well above its optimum temperature?
 <!-- id: fea-1 -->
 
 - A. It works faster indefinitely
@@ -371,7 +404,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. It turns into a substrate
 - D. Nothing happens
 
-**Q51.** Why does increasing temperature (below the optimum) increase the rate of an enzyme reaction?
+**Q55.** Why does increasing temperature (below the optimum) increase the rate of an enzyme reaction?
 <!-- id: fea-2 -->
 
 - A. Molecules have more kinetic energy so collide more often
@@ -379,7 +412,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. More enzyme is produced
 - D. The pH rises
 
-**Q52.** A reaction takes 20 s to complete. What is the rate in s⁻¹?
+**Q56.** A reaction takes 20 s to complete. What is the rate in s⁻¹?
 <!-- id: fea-3 -->
 *Higher tier only*
 
@@ -388,12 +421,12 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. 0.5
 - D. 2
 
-**Q53.** Explain why increasing substrate concentration eventually stops increasing the rate of reaction.
+**Q57.** Explain why increasing substrate concentration eventually stops increasing the rate of reaction.
 <!-- id: fea-4 -->
 
 *Written answer*
 
-**Q54.** Pepsin works best at pH 2 and amylase works best at pH 7. This shows that
+**Q58.** Pepsin works best at pH 2 and amylase works best at pH 7. This shows that
 <!-- id: g01-fea-1 -->
 
 - A. enzymes work better in acid
@@ -401,7 +434,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. all enzymes have the same optimum pH
 - D. different enzymes have different optimum pH values
 
-**Q55.** What happens to the rate of an enzyme-catalysed reaction if the pH moves far from the optimum?
+**Q59.** What happens to the rate of an enzyme-catalysed reaction if the pH moves far from the optimum?
 <!-- id: g01-fea-2 -->
 
 - A. It doubles
@@ -409,7 +442,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. It stays the same
 - D. It decreases as the enzyme denatures
 
-**Q56.** On a graph of rate against enzyme concentration (with excess substrate), what does the line show?
+**Q60.** On a graph of rate against enzyme concentration (with excess substrate), what does the line show?
 <!-- id: g01-fea-3 -->
 
 - A. Rate stays constant
@@ -417,7 +450,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Rate falls to zero
 - D. Rate rises and then falls sharply
 
-**Q57.** The rate of an enzyme reaction doubles when the temperature is raised from 20 °C to 30 °C. What is the most likely reason?
+**Q61.** The rate of an enzyme reaction doubles when the temperature is raised from 20 °C to 30 °C. What is the most likely reason?
 <!-- id: g01-fea-4 -->
 
 - A. More frequent collisions with more energy
@@ -425,7 +458,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. The substrate is used up
 - D. The enzyme denatures
 
-**Q58.** In an experiment 3 cm³ of oxygen is made in 12 s. What is the mean rate of oxygen production?
+**Q62.** In an experiment 3 cm³ of oxygen is made in 12 s. What is the mean rate of oxygen production?
 <!-- id: g01-fea-5 -->
 
 - A. 36 cm³/s
@@ -433,24 +466,30 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. 0.25 cm³/s
 - D. 4 cm³/s
 
-**Q59.** Describe how you would investigate the effect of pH on the rate at which amylase breaks down starch. (4 marks)
+**Q63.** Describe how you would investigate the effect of pH on the rate at which amylase breaks down starch. (4 marks)
 <!-- id: g01-fea-6 -->
 
 *Written answer*
 
-**Q60.** A graph shows enzyme activity rising to 40 °C then dropping rapidly to zero by 60 °C. Explain the shape of the graph. (4 marks)
+**Q64.** A graph shows enzyme activity rising to 40 °C then dropping rapidly to zero by 60 °C. Explain the shape of the graph. (4 marks)
 <!-- id: g01-fea-7 -->
 
 *Written answer*
 
-**Q61.** Explain why the rate of reaction levels off when the enzyme concentration is increased but the substrate concentration is low. (2 marks)
+**Q65.** Explain why the rate of reaction levels off when the enzyme concentration is increased but the substrate concentration is low. (2 marks)
 <!-- id: g01-fea-8 -->
+
+*Written answer*
+
+**Q66.** Starch was fully broken down by amylase in 120 s at pH 7 and in 300 s at pH 4. Calculate the rate (1/time) at each pH and explain the difference.
+<!-- id: gcse-bio-factors-affecting-enzyme-activity-c1 -->
+*Challenge question*
 
 *Written answer*
 
 #### Enzymes in synthesis and breakdown
 
-**Q62.** Which enzyme breaks down starch?
+**Q67.** Which enzyme breaks down starch?
 <!-- id: esb-1 -->
 
 - A. Protease
@@ -458,7 +497,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Amylase
 - D. Catalase
 
-**Q63.** What are proteins broken down into?
+**Q68.** What are proteins broken down into?
 <!-- id: esb-2 -->
 
 - A. Fatty acids
@@ -466,7 +505,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Glucose
 - D. Glycerol
 
-**Q64.** Lipids are broken down by lipase into:
+**Q69.** Lipids are broken down by lipase into:
 <!-- id: esb-3 -->
 
 - A. Fatty acids and glycerol
@@ -474,12 +513,12 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Simple sugars
 - D. Starch
 
-**Q65.** Give one example of an enzyme involved in synthesis and say what it makes.
+**Q70.** Give one example of an enzyme involved in synthesis and say what it makes.
 <!-- id: esb-4 -->
 
 *Written answer*
 
-**Q66.** Which enzyme is found in saliva and begins the digestion of starch in the mouth?
+**Q71.** Which enzyme is found in saliva and begins the digestion of starch in the mouth?
 <!-- id: g02-esb-1 -->
 
 - A. Amylase
@@ -487,7 +526,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Maltase
 - D. Protease
 
-**Q67.** Where in the body is bile produced, and what is its role in lipid digestion?
+**Q72.** Where in the body is bile produced, and what is its role in lipid digestion?
 <!-- id: g02-esb-2 -->
 
 - A. Made in the pancreas; it neutralises stomach acid
@@ -495,7 +534,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Made in the gall bladder; it is an enzyme that digests lipids
 - D. Made in the liver; it emulsifies fats to give a larger surface area for lipase
 
-**Q68.** Which row correctly matches an enzyme with its product(s)?
+**Q73.** Which row correctly matches an enzyme with its product(s)?
 <!-- id: g02-esb-3 -->
 
 - A. Amylase: glycerol
@@ -503,7 +542,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Protease: fatty acids and glycerol
 - D. Carbohydrase: simple sugars
 
-**Q69.** Why are large food molecules such as starch broken down during digestion?
+**Q74.** Why are large food molecules such as starch broken down during digestion?
 <!-- id: g02-esb-4 -->
 
 - A. They are too large to be absorbed into the blood
@@ -511,7 +550,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. They cannot be stored
 - D. They have too little energy
 
-**Q70.** Which of these is an example of an enzyme being used in synthesis?
+**Q75.** Which of these is an example of an enzyme being used in synthesis?
 <!-- id: g02-esb-5 -->
 
 - A. Lipase digesting fat in the small intestine
@@ -519,24 +558,33 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Amylase producing maltose in the mouth
 - D. Protease breaking down a protein in the stomach
 
-**Q71.** Explain why the stomach and the small intestine need different conditions for their digestive enzymes to work. (3 marks)
+**Q76.** Explain why the stomach and the small intestine need different conditions for their digestive enzymes to work. (3 marks)
 <!-- id: g02-esb-6 -->
 
 *Written answer*
 
-**Q72.** Describe the roles of the pancreas and the small intestine in the digestion of proteins. (3 marks)
+**Q77.** Describe the roles of the pancreas and the small intestine in the digestion of proteins. (3 marks)
 <!-- id: g02-esb-7 -->
 
 *Written answer*
 
-**Q73.** Explain why bile increases the rate of lipid digestion even though it is not an enzyme. (3 marks)
+**Q78.** Explain why bile increases the rate of lipid digestion even though it is not an enzyme. (3 marks)
 <!-- id: g02-esb-8 -->
 
 *Written answer*
 
+**Q79.** Which pairing of enzyme and reaction is correct?
+<!-- id: gcse-bio-enzymes-in-synthesis-and-breakdown-c1 -->
+*Challenge question*
+
+- A. Lipase: lipids → fatty acids and glycerol
+- B. Protease: starch → simple sugars
+- C. Carbohydrase: proteins → amino acids
+- D. Lipase: amino acids → proteins
+
 #### Testing for biological molecules *(Triple only)*
 
-**Q74.** Which reagent turns blue-black in the presence of starch?
+**Q80.** Which reagent turns blue-black in the presence of starch?
 <!-- id: tbm-1 -->
 
 - A. Biuret
@@ -544,7 +592,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Iodine solution
 - D. Ethanol
 
-**Q75.** A positive Biuret test for protein gives which colour?
+**Q81.** A positive Biuret test for protein gives which colour?
 <!-- id: tbm-2 -->
 
 - A. Brick red
@@ -552,12 +600,12 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Blue-black
 - D. Cloudy white
 
-**Q76.** Describe how to test a food sample for reducing sugars.
+**Q82.** Describe how to test a food sample for reducing sugars.
 <!-- id: tbm-3 -->
 
 *Written answer*
 
-**Q77.** A food sample is tested with Benedict's reagent and heated. It stays blue. What can be concluded?
+**Q83.** A food sample is tested with Benedict's reagent and heated. It stays blue. What can be concluded?
 <!-- id: g02-tbm-1 -->
 
 - A. Reducing sugar is present in high concentration
@@ -565,7 +613,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. No reducing sugar is present
 - D. Protein is absent
 
-**Q78.** Which reagent is used to test for lipids, and what is a positive result?
+**Q84.** Which reagent is used to test for lipids, and what is a positive result?
 <!-- id: g02-tbm-2 -->
 
 - A. Iodine; blue-black colour
@@ -573,7 +621,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Benedict's; brick-red precipitate
 - D. Ethanol; a cloudy white emulsion forms
 
-**Q79.** Why must the Benedict's test mixture be heated in a water bath rather than held over a Bunsen flame?
+**Q85.** Why must the Benedict's test mixture be heated in a water bath rather than held over a Bunsen flame?
 <!-- id: g02-tbm-3 -->
 
 - A. A Bunsen flame would change the colour of the reagent
@@ -581,7 +629,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. The reagent only works when boiling violently
 - D. A water bath gives a controlled, safe temperature and avoids spitting
 
-**Q80.** A student adds iodine solution to a food sample and then Biuret reagent to a second portion. The first stays orange-brown and the second turns purple. What does the food contain?
+**Q86.** A student adds iodine solution to a food sample and then Biuret reagent to a second portion. The first stays orange-brown and the second turns purple. What does the food contain?
 <!-- id: g02-tbm-4 -->
 
 - A. Lipid and protein
@@ -589,7 +637,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Protein but no starch
 - D. Both starch and protein
 
-**Q81.** Which colour sequence shows increasing concentration of reducing sugar in the Benedict's test?
+**Q87.** Which colour sequence shows increasing concentration of reducing sugar in the Benedict's test?
 <!-- id: g02-tbm-5 -->
 
 - A. Brick red, orange, yellow, green, blue
@@ -597,24 +645,33 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Green, blue, yellow, red, orange
 - D. Blue, yellow, green, red, orange
 
-**Q82.** Describe how you would test a sample of food to find out whether it contains protein. (3 marks)
+**Q88.** Describe how you would test a sample of food to find out whether it contains protein. (3 marks)
 <!-- id: g02-tbm-6 -->
 
 *Written answer*
 
-**Q83.** A student tests a sample for starch by adding iodine solution to it. Describe the positive result and explain how the student could make the test more reliable. (3 marks)
+**Q89.** A student tests a sample for starch by adding iodine solution to it. Describe the positive result and explain how the student could make the test more reliable. (3 marks)
 <!-- id: g02-tbm-7 -->
 
 *Written answer*
 
-**Q84.** Describe how you would test for lipids in a solid food sample, and state the result that shows lipid is present. (3 marks)
+**Q90.** Describe how you would test for lipids in a solid food sample, and state the result that shows lipid is present. (3 marks)
 <!-- id: g02-tbm-8 -->
 
 *Written answer*
 
+**Q91.** A food sample turns lilac with biuret reagent and stays blue when heated with Benedict's reagent. It contains:
+<!-- id: gcse-bio-testing-for-biological-molecules-c1 -->
+*Challenge question*
+
+- A. Reducing sugar but no protein
+- B. Protein but no reducing sugar
+- C. Starch and protein
+- D. Lipid only
+
 #### Calorimetry *(Triple only)*
 
-**Q85.** A burning food sample raises the temperature of 20 g of water by 10 °C. Using 4.2 J/g/°C, how much energy was transferred?
+**Q92.** A burning food sample raises the temperature of 20 g of water by 10 °C. Using 4.2 J/g/°C, how much energy was transferred?
 <!-- id: cal-1 -->
 
 - A. 84 J
@@ -622,12 +679,12 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. 420 J
 - D. 8400 J
 
-**Q86.** Suggest one reason why calorimetry with a boiling tube underestimates the energy in food.
+**Q93.** Suggest one reason why calorimetry with a boiling tube underestimates the energy in food.
 <!-- id: cal-2 -->
 
 *Written answer*
 
-**Q87.** A nut heats 25 g of water from 20 °C to 48 °C. Using 4.2 J/g/°C, how much energy was transferred to the water?
+**Q94.** A nut heats 25 g of water from 20 °C to 48 °C. Using 4.2 J/g/°C, how much energy was transferred to the water?
 <!-- id: g02-cal-1 -->
 
 - A. 2100 J
@@ -635,7 +692,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. 1200 J
 - D. 525 J
 
-**Q88.** In calorimetry, which quantity is measured to calculate the energy released by a burning food sample?
+**Q95.** In calorimetry, which quantity is measured to calculate the energy released by a burning food sample?
 <!-- id: g02-cal-2 -->
 
 - A. The change in mass of the water
@@ -643,7 +700,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. The colour of the flame
 - D. The time taken to burn
 
-**Q89.** A 2.0 g sample of food transfers 8400 J to water. What is the energy content per gram?
+**Q96.** A 2.0 g sample of food transfers 8400 J to water. What is the energy content per gram?
 <!-- id: g02-cal-3 -->
 
 - A. 420 J/g
@@ -651,7 +708,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. 8400 J/g
 - D. 16800 J/g
 
-**Q90.** Which change would make a calorimetry experiment more accurate?
+**Q97.** Which change would make a calorimetry experiment more accurate?
 <!-- id: g02-cal-4 -->
 
 - A. Starting with hot water
@@ -659,7 +716,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Using a larger volume of water
 - D. Placing a draught shield around the apparatus and the boiling tube
 
-**Q91.** Why is the same mass of water used when comparing different foods in a calorimetry experiment?
+**Q98.** Why is the same mass of water used when comparing different foods in a calorimetry experiment?
 <!-- id: g02-cal-5 -->
 
 - A. It stops the water boiling
@@ -667,24 +724,30 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. It makes the food burn faster
 - D. It increases the energy in the food
 
-**Q92.** A 1.5 g piece of food heats 30 g of water by 25 °C. Calculate the energy released per gram of food. Use 4.2 J/g/°C. Show your working. (3 marks)
+**Q99.** A 1.5 g piece of food heats 30 g of water by 25 °C. Calculate the energy released per gram of food. Use 4.2 J/g/°C. Show your working. (3 marks)
 <!-- id: g02-cal-6 -->
 
 *Written answer*
 
-**Q93.** Explain why the value for energy in a food sample found using a simple calorimeter is lower than the value on the food label. (2 marks)
+**Q100.** Explain why the value for energy in a food sample found using a simple calorimeter is lower than the value on the food label. (2 marks)
 <!-- id: g02-cal-7 -->
 
 *Written answer*
 
-**Q94.** Describe how you would investigate which of two foods releases more energy when burned. (4 marks)
+**Q101.** Describe how you would investigate which of two foods releases more energy when burned. (4 marks)
 <!-- id: g02-cal-8 -->
+
+*Written answer*
+
+**Q102.** Burning 1.0 g of a crisp raises the temperature of 25 g of water by 12 °C. Calculate the energy released per gram (c = 4.2 J/g/°C), and give one reason it is lower than the true value.
+<!-- id: gcse-bio-calorimetry-c1 -->
+*Challenge question*
 
 *Written answer*
 
 #### Diffusion
 
-**Q95.** What is diffusion?
+**Q103.** What is diffusion?
 <!-- id: dif-1 -->
 
 - A. Net movement of particles from low to high concentration using energy
@@ -692,7 +755,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Movement of water across a membrane only
 - D. Movement of particles against a gradient
 
-**Q96.** Which change would increase the rate of diffusion?
+**Q104.** Which change would increase the rate of diffusion?
 <!-- id: dif-2 -->
 
 - A. Lower temperature
@@ -700,7 +763,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Steeper concentration gradient
 - D. Thicker membrane
 
-**Q97.** A cube has sides of 2 cm. What is its surface area to volume ratio?
+**Q105.** A cube has sides of 2 cm. What is its surface area to volume ratio?
 <!-- id: dif-3 -->
 
 - A. 1:1
@@ -708,7 +771,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. 6:1
 - D. 2:1
 
-**Q98.** Which substance moves by diffusion from the air into the blood in the lungs?
+**Q106.** Which substance moves by diffusion from the air into the blood in the lungs?
 <!-- id: g02-dif-1 -->
 
 - A. Oxygen
@@ -716,7 +779,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Carbon dioxide
 - D. Urea
 
-**Q99.** How are alveoli adapted for efficient gas exchange?
+**Q107.** How are alveoli adapted for efficient gas exchange?
 <!-- id: g02-dif-2 -->
 
 - A. A dry lining and few capillaries
@@ -724,7 +787,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Thin walls, a large surface area and a good blood supply
 - D. Thick walls and no blood supply
 
-**Q100.** A cube has sides of 4 cm. What is its surface area to volume ratio?
+**Q108.** A cube has sides of 4 cm. What is its surface area to volume ratio?
 <!-- id: g02-dif-3 -->
 *Higher tier only*
 
@@ -733,7 +796,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. 4 : 1
 - D. 3 : 1
 
-**Q101.** Why do large multicellular organisms need specialised exchange surfaces and transport systems?
+**Q109.** Why do large multicellular organisms need specialised exchange surfaces and transport systems?
 <!-- id: g02-dif-4 -->
 
 - A. They have a lower rate of respiration
@@ -741,7 +804,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Diffusion does not occur in large organisms
 - D. Their surface area to volume ratio is small, so diffusion alone is too slow
 
-**Q102.** A drop of purple dye is placed in a beaker of water. Which description of its movement is correct?
+**Q110.** A drop of purple dye is placed in a beaker of water. Which description of its movement is correct?
 <!-- id: g02-dif-5 -->
 
 - A. The dye moves only downwards due to gravity
@@ -749,25 +812,34 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. The dye moves from low to high concentration using energy
 - D. The dye particles move from where they are more concentrated to where they are less concentrated
 
-**Q103.** Explain how the structure of the small intestine villi makes diffusion of digested food into the blood efficient. (3 marks)
+**Q111.** Explain how the structure of the small intestine villi makes diffusion of digested food into the blood efficient. (3 marks)
 <!-- id: g02-dif-6 -->
 
 *Written answer*
 
-**Q104.** Explain why a single-celled organism does not need a transport system, but a large animal does. (3 marks)
+**Q112.** Explain why a single-celled organism does not need a transport system, but a large animal does. (3 marks)
 <!-- id: g02-dif-7 -->
 
 *Written answer*
 
-**Q105.** Cube A has sides of 1 cm and cube B has sides of 3 cm. Calculate the surface area to volume ratio of each cube and state which would allow faster diffusion into its centre. (4 marks)
+**Q113.** Cube A has sides of 1 cm and cube B has sides of 3 cm. Calculate the surface area to volume ratio of each cube and state which would allow faster diffusion into its centre. (4 marks)
 <!-- id: g02-dif-8 -->
 *Higher tier only*
 
 *Written answer*
 
+**Q114.** Which change would double the rate of diffusion across an exchange surface?
+<!-- id: gcse-bio-diffusion-c1 -->
+*Challenge question*
+
+- A. Doubling the thickness of the membrane
+- B. Halving the surface area
+- C. Halving the thickness of the membrane
+- D. Halving the concentration difference
+
 #### Osmosis
 
-**Q106.** Osmosis is the movement of water across a partially permeable membrane from:
+**Q115.** Osmosis is the movement of water across a partially permeable membrane from:
 <!-- id: osm-1 -->
 
 - A. a concentrated solution to a dilute solution
@@ -775,7 +847,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. any solution using energy
 - D. a cell to its cell wall
 
-**Q107.** A potato cylinder goes from 2.0 g to 2.5 g after soaking. What is the percentage change in mass?
+**Q116.** A potato cylinder goes from 2.0 g to 2.5 g after soaking. What is the percentage change in mass?
 <!-- id: osm-2 -->
 
 - A. +20%
@@ -783,12 +855,12 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. +50%
 - D. −25%
 
-**Q108.** Explain what happens to a plant cell placed in pure water.
+**Q117.** Explain what happens to a plant cell placed in pure water.
 <!-- id: osm-3 -->
 
 *Written answer*
 
-**Q109.** A plant cell is placed in a concentrated sugar solution. What happens?
+**Q118.** A plant cell is placed in a concentrated sugar solution. What happens?
 <!-- id: g02-osm-1 -->
 
 - A. Water leaves by osmosis and the cell becomes flaccid or plasmolysed
@@ -796,7 +868,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. It becomes turgid
 - D. It bursts
 
-**Q110.** Why does an animal cell burst when placed in pure water, while a plant cell does not?
+**Q119.** Why does an animal cell burst when placed in pure water, while a plant cell does not?
 <!-- id: g02-osm-2 -->
 
 - A. Plant cells are not permeable to water
@@ -804,7 +876,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Plant cells have a cell wall that resists expansion
 - D. Plant cells do not have a membrane
 
-**Q111.** A potato cylinder has an initial mass of 4.0 g and a final mass of 3.4 g after soaking in a solution. What is the percentage change in mass?
+**Q120.** A potato cylinder has an initial mass of 4.0 g and a final mass of 3.4 g after soaking in a solution. What is the percentage change in mass?
 <!-- id: g02-osm-3 -->
 
 - A. −15%
@@ -812,7 +884,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. −17.6%
 - D. −0.6%
 
-**Q112.** Potato cylinders are placed in sucrose solutions of different concentrations. The cylinder in 0.4 mol/dm³ shows no change in mass. What does this show?
+**Q121.** Potato cylinders are placed in sucrose solutions of different concentrations. The cylinder in 0.4 mol/dm³ shows no change in mass. What does this show?
 <!-- id: g02-osm-4 -->
 
 - A. The solution has the same water concentration as the potato cells
@@ -820,7 +892,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. The cylinders are dead
 - D. The potato cells have no water
 
-**Q113.** Which of these is NOT a control variable in an investigation of osmosis using potato cylinders in sugar solutions?
+**Q122.** Which of these is NOT a control variable in an investigation of osmosis using potato cylinders in sugar solutions?
 <!-- id: g02-osm-5 -->
 
 - A. Size and surface area of the cylinders
@@ -828,24 +900,30 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Volume of solution
 - D. Concentration of the solution
 
-**Q114.** Describe how you would find the concentration of the potato cell contents using a set of sucrose solutions. (4 marks)
+**Q123.** Describe how you would find the concentration of the potato cell contents using a set of sucrose solutions. (4 marks)
 <!-- id: g02-osm-6 -->
 
 *Written answer*
 
-**Q115.** A potato cylinder gains mass in a dilute solution. Explain why. (3 marks)
+**Q124.** A potato cylinder gains mass in a dilute solution. Explain why. (3 marks)
 <!-- id: g02-osm-7 -->
 
 *Written answer*
 
-**Q116.** Explain why a plant that is not watered wilts, using the term turgor. (3 marks)
+**Q125.** Explain why a plant that is not watered wilts, using the term turgor. (3 marks)
 <!-- id: g02-osm-8 -->
+
+*Written answer*
+
+**Q126.** A potato cylinder's mass falls from 2.50 g to 2.20 g in a sugar solution. Calculate the percentage change in mass and explain it.
+<!-- id: gcse-bio-osmosis-c1 -->
+*Challenge question*
 
 *Written answer*
 
 #### Active transport
 
-**Q117.** How is active transport different from diffusion?
+**Q127.** How is active transport different from diffusion?
 <!-- id: act-1 -->
 
 - A. It moves substances down a concentration gradient
@@ -853,12 +931,12 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. It only moves water
 - D. It only happens in animal cells
 
-**Q118.** Explain why root hair cells need many mitochondria.
+**Q128.** Explain why root hair cells need many mitochondria.
 <!-- id: act-2 -->
 
 *Written answer*
 
-**Q119.** Root hair cells absorb mineral ions from soil water by active transport. Why can they not rely on diffusion alone?
+**Q129.** Root hair cells absorb mineral ions from soil water by active transport. Why can they not rely on diffusion alone?
 <!-- id: g03-act-1 -->
 
 - A. The soil has a higher ion concentration than the cell
@@ -866,7 +944,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Ions are too large to pass through the cell wall
 - D. Diffusion only works for gases
 
-**Q120.** Which organelle supplies the energy for active transport?
+**Q130.** Which organelle supplies the energy for active transport?
 <!-- id: g03-act-2 -->
 
 - A. Mitochondrion
@@ -874,7 +952,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Nucleus
 - D. Ribosome
 
-**Q121.** Root hair cells contain many mitochondria. What is the advantage of this?
+**Q131.** Root hair cells contain many mitochondria. What is the advantage of this?
 <!-- id: g03-act-3 -->
 
 - A. They give the cell a larger surface area
@@ -882,7 +960,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. They absorb more water by osmosis
 - D. They release more energy for active uptake of ions
 
-**Q122.** A plant is placed in water with no oxygen. What would happen to its uptake of mineral ions, and why?
+**Q132.** A plant is placed in water with no oxygen. What would happen to its uptake of mineral ions, and why?
 <!-- id: g03-act-4 -->
 
 - A. It would increase because the cells make more carrier proteins
@@ -890,7 +968,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. It would stay the same because ions move by osmosis
 - D. It would decrease because aerobic respiration stops, so less energy is released
 
-**Q123.** Glucose is absorbed from the small intestine into the blood by active transport in some situations. When is this most needed?
+**Q133.** Glucose is absorbed from the small intestine into the blood by active transport in some situations. When is this most needed?
 <!-- id: g03-act-5 -->
 
 - A. When glucose concentration in the gut is higher than in the blood
@@ -898,26 +976,35 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. When there is no glucose in the blood
 - D. When the gut has too much water
 
-**Q124.** Explain two differences between active transport and diffusion. (2 marks)
+**Q134.** Explain two differences between active transport and diffusion. (2 marks)
 <!-- id: g03-act-6 -->
 
 *Written answer*
 
-**Q125.** A student measures mineral ion uptake by roots at 5 °C and at 25 °C. Uptake is much greater at 25 °C. Explain why. (3 marks)
+**Q135.** A student measures mineral ion uptake by roots at 5 °C and at 25 °C. Uptake is much greater at 25 °C. Explain why. (3 marks)
 <!-- id: g03-act-7 -->
 
 *Written answer*
 
-**Q126.** Explain why active transport is important in the small intestine and in plant roots. (4 marks)
+**Q136.** Explain why active transport is important in the small intestine and in plant roots. (4 marks)
 <!-- id: g03-act-8 -->
 
 *Written answer*
+
+**Q137.** Root hair cells in waterlogged soil absorb fewer mineral ions. The best explanation is that:
+<!-- id: gcse-bio-active-transport-c1 -->
+*Challenge question*
+
+- A. The ions diffuse away in the water
+- B. Waterlogged soil has no minerals
+- C. Less oxygen reaches the roots, so less respiration provides less energy for active transport
+- D. Osmosis stops completely
 
 ### Cells and Control
 
 #### Mitosis and the cell cycle
 
-**Q127.** How many daughter cells are produced by one round of mitosis?
+**Q138.** How many daughter cells are produced by one round of mitosis?
 <!-- id: mit-1 -->
 
 - A. 1
@@ -925,7 +1012,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. 4
 - D. 8
 
-**Q128.** In which stage of mitosis do chromosomes line up across the middle of the cell?
+**Q139.** In which stage of mitosis do chromosomes line up across the middle of the cell?
 <!-- id: mit-2 -->
 
 - A. Prophase
@@ -933,7 +1020,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Anaphase
 - D. Telophase
 
-**Q129.** What happens during interphase?
+**Q140.** What happens during interphase?
 <!-- id: mit-3 -->
 
 - A. The cytoplasm divides
@@ -941,7 +1028,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Chromatids are pulled apart
 - D. Nuclear membranes reform
 
-**Q130.** Cancer is the result of:
+**Q141.** Cancer is the result of:
 <!-- id: mit-4 -->
 
 - A. Cells dividing too slowly
@@ -949,12 +1036,12 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Meiosis in body cells
 - D. Too many stem cells
 
-**Q131.** Give two reasons why organisms use mitosis.
+**Q142.** Give two reasons why organisms use mitosis.
 <!-- id: mit-5 -->
 
 *Written answer*
 
-**Q132.** What is the correct order of the stages of mitosis?
+**Q143.** What is the correct order of the stages of mitosis?
 <!-- id: g03-mit-1 -->
 
 - A. Prophase, metaphase, anaphase, telophase
@@ -962,7 +1049,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Prophase, anaphase, metaphase, telophase
 - D. Metaphase, prophase, anaphase, telophase
 
-**Q133.** What happens during anaphase?
+**Q144.** What happens during anaphase?
 <!-- id: g03-mit-2 -->
 
 - A. DNA is copied
@@ -970,7 +1057,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Spindle fibres pull chromatids to opposite poles
 - D. Nuclear membranes reform
 
-**Q134.** A human skin cell has 46 chromosomes. How many chromosomes are in each daughter cell after mitosis?
+**Q145.** A human skin cell has 46 chromosomes. How many chromosomes are in each daughter cell after mitosis?
 <!-- id: g03-mit-3 -->
 
 - A. 23
@@ -978,7 +1065,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. 92
 - D. 12
 
-**Q135.** Why must DNA be replicated before mitosis begins?
+**Q146.** Why must DNA be replicated before mitosis begins?
 <!-- id: g03-mit-4 -->
 
 - A. So the cell can become specialised
@@ -986,7 +1073,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. So the number of chromosomes doubles in each daughter cell
 - D. So each daughter cell receives a full set of genetic information
 
-**Q136.** A cell spends 18 hours in interphase and 2 hours in mitosis. What percentage of the cell cycle is spent in mitosis?
+**Q147.** A cell spends 18 hours in interphase and 2 hours in mitosis. What percentage of the cell cycle is spent in mitosis?
 <!-- id: g03-mit-5 -->
 
 - A. 11%
@@ -994,25 +1081,34 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. 2%
 - D. 10%
 
-**Q137.** Describe what happens to the chromosomes during prophase and metaphase. (3 marks)
+**Q148.** Describe what happens to the chromosomes during prophase and metaphase. (3 marks)
 <!-- id: g03-mit-6 -->
 
 *Written answer*
 
-**Q138.** A tissue sample contains 200 cells. 30 are seen in mitosis. A full cell cycle takes 24 hours. Estimate how long mitosis lasts. (2 marks)
+**Q149.** A tissue sample contains 200 cells. 30 are seen in mitosis. A full cell cycle takes 24 hours. Estimate how long mitosis lasts. (2 marks)
 <!-- id: g03-mit-7 -->
 *Higher tier only*
 
 *Written answer*
 
-**Q139.** Explain how mutations in genes that control cell division can lead to cancer. (3 marks)
+**Q150.** Explain how mutations in genes that control cell division can lead to cancer. (3 marks)
 <!-- id: g03-mit-8 -->
 
 *Written answer*
 
+**Q151.** A cell cycle lasts 20 hours. In a sample, 5% of cells are in mitosis. About how long does mitosis take?
+<!-- id: gcse-bio-mitosis-and-the-cell-cycle-c1 -->
+*Challenge question*
+
+- A. 5 hours
+- B. 4 hours
+- C. 19 hours
+- D. 1 hour
+
 #### Growth and percentile charts
 
-**Q140.** In animals, cell differentiation mostly happens:
+**Q152.** In animals, cell differentiation mostly happens:
 <!-- id: gpc-1 -->
 
 - A. Throughout life equally
@@ -1020,7 +1116,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Only in old age
 - D. Only in the brain
 
-**Q141.** Plants grow mainly by cell division at:
+**Q153.** Plants grow mainly by cell division at:
 <!-- id: gpc-2 -->
 
 - A. Meristems at shoot and root tips
@@ -1028,7 +1124,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. The xylem
 - D. The flowers
 
-**Q142.** A baby's mass is on the 75th percentile. This means:
+**Q154.** A baby's mass is on the 75th percentile. This means:
 <!-- id: gpc-3 -->
 
 - A. 75% of babies are heavier
@@ -1036,12 +1132,12 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. The baby is 75% of normal mass
 - D. The baby is underweight
 
-**Q143.** Why do doctors track a baby's growth on percentile charts?
+**Q155.** Why do doctors track a baby's growth on percentile charts?
 <!-- id: gpc-4 -->
 
 *Written answer*
 
-**Q144.** A baby girl's length is on the 25th percentile at 6 months and the 50th percentile at 12 months. What does this show?
+**Q156.** A baby girl's length is on the 25th percentile at 6 months and the 50th percentile at 12 months. What does this show?
 <!-- id: g03-gpc-1 -->
 
 - A. She is shrinking
@@ -1049,7 +1145,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. She is unhealthy
 - D. Her measurements were wrong
 
-**Q145.** Which measurement is NOT usually plotted on a baby's percentile chart?
+**Q157.** Which measurement is NOT usually plotted on a baby's percentile chart?
 <!-- id: g03-gpc-2 -->
 
 - A. Length or height
@@ -1057,7 +1153,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Blood pressure
 - D. Mass
 
-**Q146.** A baby's mass falls from the 75th percentile to the 10th percentile in a few months. What is the best action?
+**Q158.** A baby's mass falls from the 75th percentile to the 10th percentile in a few months. What is the best action?
 <!-- id: g03-gpc-3 -->
 
 - A. Stop feeding the baby
@@ -1065,7 +1161,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Nothing, percentiles do not matter
 - D. Investigate for a possible health or feeding problem
 
-**Q147.** Why is a percentile chart more useful than comparing a baby with the mean mass for its age?
+**Q159.** Why is a percentile chart more useful than comparing a baby with the mean mass for its age?
 <!-- id: g03-gpc-4 -->
 
 - A. It only includes healthy babies
@@ -1073,7 +1169,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. It gives the exact mass the baby should be
 - D. It removes the need to weigh the baby
 
-**Q148.** A baby is on the 50th percentile for length. In a group of 200 babies of the same age, about how many are expected to be shorter?
+**Q160.** A baby is on the 50th percentile for length. In a group of 200 babies of the same age, about how many are expected to be shorter?
 <!-- id: g03-gpc-5 -->
 
 - A. 50
@@ -1081,24 +1177,33 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. 150
 - D. 25
 
-**Q149.** A baby's head circumference is on the 97th percentile. What does this mean? (1 mark)
+**Q161.** A baby's head circumference is on the 97th percentile. What does this mean? (1 mark)
 <!-- id: g03-gpc-6 -->
 
 *Written answer*
 
-**Q150.** Explain why a baby on the 5th percentile for mass is not necessarily unhealthy. (2 marks)
+**Q162.** Explain why a baby on the 5th percentile for mass is not necessarily unhealthy. (2 marks)
 <!-- id: g03-gpc-7 -->
 
 *Written answer*
 
-**Q151.** Describe two factors other than genes that can affect a child's growth. (2 marks)
+**Q163.** Describe two factors other than genes that can affect a child's growth. (2 marks)
 <!-- id: g03-gpc-8 -->
 
 *Written answer*
 
+**Q164.** A baby's mass is on the 25th percentile. This means:
+<!-- id: gcse-bio-growth-and-percentile-charts-c1 -->
+*Challenge question*
+
+- A. The baby is 25% underweight
+- B. The baby is heavier than 75% of babies
+- C. The baby has grown 25% since birth
+- D. 25% of babies of the same age are lighter and 75% are heavier
+
 #### Stem cells
 
-**Q152.** What is a stem cell?
+**Q165.** What is a stem cell?
 <!-- id: stc-1 -->
 
 - A. A fully specialised cell
@@ -1106,7 +1211,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. A cell found only in plant stems
 - D. A cell with no nucleus
 
-**Q153.** Where are plant stem cells found?
+**Q166.** Where are plant stem cells found?
 <!-- id: stc-2 -->
 
 - A. Xylem
@@ -1114,7 +1219,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Guard cells
 - D. Phloem
 
-**Q154.** Why are embryonic stem cells more useful than adult stem cells for treatments?
+**Q167.** Why are embryonic stem cells more useful than adult stem cells for treatments?
 <!-- id: stc-3 -->
 
 - A. They are cheaper
@@ -1122,12 +1227,12 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. They never cause rejection
 - D. They divide slower
 
-**Q155.** Give one advantage and one risk of using stem cells in medicine.
+**Q168.** Give one advantage and one risk of using stem cells in medicine.
 <!-- id: stc-4 -->
 
 *Written answer*
 
-**Q156.** What is meant by differentiation?
+**Q169.** What is meant by differentiation?
 <!-- id: g03-stc-1 -->
 
 - A. Cell division by mitosis
@@ -1135,7 +1240,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. A cell dying
 - D. Copying of DNA
 
-**Q157.** Bone marrow transplants can treat some blood diseases because bone marrow contains:
+**Q170.** Bone marrow transplants can treat some blood diseases because bone marrow contains:
 <!-- id: g03-stc-2 -->
 
 - A. Adult stem cells that can become blood cells
@@ -1143,7 +1248,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Nerve cells
 - D. Embryonic stem cells
 
-**Q158.** Which is a source of embryonic stem cells?
+**Q171.** Which is a source of embryonic stem cells?
 <!-- id: g03-stc-3 -->
 
 - A. Plant roots
@@ -1151,7 +1256,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Skin from an adult
 - D. Embryos in the early stage of development
 
-**Q159.** Therapeutic cloning is used to produce stem cells that are genetically identical to the patient. What is the main advantage?
+**Q172.** Therapeutic cloning is used to produce stem cells that are genetically identical to the patient. What is the main advantage?
 <!-- id: g03-stc-4 -->
 
 - A. The cells never differentiate
@@ -1159,7 +1264,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. The cells are less likely to be rejected by the patient's immune system
 - D. The cells are cheaper to produce
 
-**Q160.** Why can cloned plants be produced from meristem tissue?
+**Q173.** Why can cloned plants be produced from meristem tissue?
 <!-- id: g03-stc-5 -->
 
 - A. Meristem cells are specialised for photosynthesis
@@ -1167,24 +1272,33 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Meristems contain xylem
 - D. Meristem cells have no cell walls
 
-**Q161.** Give two reasons why stem cells from meristems are used to clone rare plants. (2 marks)
+**Q174.** Give two reasons why stem cells from meristems are used to clone rare plants. (2 marks)
 <!-- id: g03-stc-6 -->
 
 *Written answer*
 
-**Q162.** Some people object to using embryonic stem cells for research. Give two arguments for and against. (4 marks)
+**Q175.** Some people object to using embryonic stem cells for research. Give two arguments for and against. (4 marks)
 <!-- id: g03-stc-7 -->
 
 *Written answer*
 
-**Q163.** Explain why stem cells could be used to treat a person with type 1 diabetes. (2 marks)
+**Q176.** Explain why stem cells could be used to treat a person with type 1 diabetes. (2 marks)
 <!-- id: g03-stc-8 -->
 
 *Written answer*
 
+**Q177.** Why might adult stem cells from a patient's own bone marrow be used instead of embryonic stem cells?
+<!-- id: gcse-bio-stem-cells-c1 -->
+*Challenge question*
+
+- A. They will not be rejected, although they can form fewer cell types
+- B. They can form any type of cell
+- C. They divide faster than embryonic stem cells
+- D. They carry no risk of any kind
+
 #### Neurones and the nervous system
 
-**Q164.** Which part of a neurone is insulating and speeds up impulses?
+**Q178.** Which part of a neurone is insulating and speeds up impulses?
 <!-- id: neu-1 -->
 
 - A. Dendrite
@@ -1192,7 +1306,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Axon terminal
 - D. Cell body
 
-**Q165.** Which neurone carries impulses from receptors to the central nervous system?
+**Q179.** Which neurone carries impulses from receptors to the central nervous system?
 <!-- id: neu-2 -->
 
 - A. Motor neurone
@@ -1200,7 +1314,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Sensory neurone
 - D. Effector neurone
 
-**Q166.** The central nervous system is made up of:
+**Q180.** The central nervous system is made up of:
 <!-- id: neu-3 -->
 
 - A. The brain and spinal cord
@@ -1208,12 +1322,12 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Receptors and effectors
 - D. Muscles and glands
 
-**Q167.** Describe the function of dendrites and of the axon.
+**Q181.** Describe the function of dendrites and of the axon.
 <!-- id: neu-4 -->
 
 *Written answer*
 
-**Q168.** Which of these is an effector?
+**Q182.** Which of these is an effector?
 <!-- id: g03-neu-1 -->
 
 - A. Eye
@@ -1221,7 +1335,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Muscle
 - D. Sensory neurone
 
-**Q169.** What is the function of a relay neurone?
+**Q183.** What is the function of a relay neurone?
 <!-- id: g03-neu-2 -->
 
 - A. Connect sensory and motor neurones within the CNS
@@ -1229,7 +1343,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Detect stimuli
 - D. Carry impulses from receptor to CNS
 
-**Q170.** Why is a motor neurone's axon often very long?
+**Q184.** Why is a motor neurone's axon often very long?
 <!-- id: g03-neu-3 -->
 
 - A. To detect stimuli
@@ -1237,7 +1351,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. To carry impulses over long distances from the CNS to an effector
 - D. To store energy
 
-**Q171.** Which sequence shows the path of an impulse in a nervous response?
+**Q185.** Which sequence shows the path of an impulse in a nervous response?
 <!-- id: g03-neu-4 -->
 
 - A. Stimulus, coordinator, receptor, effector, response
@@ -1245,7 +1359,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Stimulus, effector, coordinator, receptor, response
 - D. Receptor, stimulus, effector, response
 
-**Q172.** Which feature of a neurone allows it to carry impulses rapidly along the axon?
+**Q186.** Which feature of a neurone allows it to carry impulses rapidly along the axon?
 <!-- id: g03-neu-5 -->
 
 - A. Many mitochondria in the dendrites
@@ -1253,24 +1367,33 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. A large nucleus
 - D. A cell wall
 
-**Q173.** Give two differences in the structure or function of sensory and motor neurones. (2 marks)
+**Q187.** Give two differences in the structure or function of sensory and motor neurones. (2 marks)
 <!-- id: g03-neu-6 -->
 
 *Written answer*
 
-**Q174.** Explain how the structure of a neurone is adapted to its function. (3 marks)
+**Q188.** Explain how the structure of a neurone is adapted to its function. (3 marks)
 <!-- id: g03-neu-7 -->
 
 *Written answer*
 
-**Q175.** Describe the pathway taken by a nervous impulse when you touch a hot object and pull your hand away. (4 marks)
+**Q189.** Describe the pathway taken by a nervous impulse when you touch a hot object and pull your hand away. (4 marks)
 <!-- id: g03-neu-8 -->
 
 *Written answer*
 
+**Q190.** In multiple sclerosis, the myelin sheath around some neurones is damaged. The main effect is that:
+<!-- id: gcse-bio-neurones-and-the-nervous-system-c1 -->
+*Challenge question*
+
+- A. Nerve impulses travel more slowly or are disrupted
+- B. Impulses travel faster
+- C. Neurones stop releasing neurotransmitters
+- D. Neurones become longer
+
 #### Synapses and reflex arcs
 
-**Q176.** How is an impulse passed across a synapse?
+**Q191.** How is an impulse passed across a synapse?
 <!-- id: syn-1 -->
 
 - A. Electrical current jumps the gap
@@ -1278,7 +1401,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. The axons touch
 - D. Hormones in the blood
 
-**Q177.** What is the correct order of a reflex arc?
+**Q192.** What is the correct order of a reflex arc?
 <!-- id: syn-2 -->
 
 - A. Stimulus → receptor → sensory neurone → relay neurone → motor neurone → effector → response
@@ -1286,7 +1409,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Receptor → brain → effector → stimulus
 - D. Stimulus → effector → motor neurone → receptor
 
-**Q178.** Why are reflexes fast?
+**Q193.** Why are reflexes fast?
 <!-- id: syn-3 -->
 
 - A. They involve the conscious brain
@@ -1294,12 +1417,12 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. They use hormones
 - D. They involve many synapses
 
-**Q179.** Explain why reflex actions are important.
+**Q194.** Explain why reflex actions are important.
 <!-- id: syn-4 -->
 
 *Written answer*
 
-**Q180.** What is a synapse?
+**Q195.** What is a synapse?
 <!-- id: g04-syn-1 -->
 
 - A. A receptor that detects stimuli
@@ -1307,7 +1430,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. A junction between two neurones where there is a small gap
 - D. The fatty sheath around an axon
 
-**Q181.** In a reflex arc, which structure carries impulses from the spinal cord to an effector?
+**Q196.** In a reflex arc, which structure carries impulses from the spinal cord to an effector?
 <!-- id: g04-syn-2 -->
 
 - A. Sensory neurone
@@ -1315,7 +1438,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Motor neurone
 - D. Receptor
 
-**Q182.** Why do nerve impulses travel in only one direction across a synapse?
+**Q197.** Why do nerve impulses travel in only one direction across a synapse?
 <!-- id: g04-syn-3 -->
 
 - A. The gap is too wide for impulses to go backwards
@@ -1323,7 +1446,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. The impulse changes into an electrical signal
 - D. Neurotransmitter is released from only one side and receptors are only on the other side
 
-**Q183.** A person touches a hot pan and pulls their hand away before feeling pain. Which is the effector?
+**Q198.** A person touches a hot pan and pulls their hand away before feeling pain. Which is the effector?
 <!-- id: g04-syn-4 -->
 
 - A. The relay neurone in the spinal cord
@@ -1331,7 +1454,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Temperature receptors in the skin
 - D. The sensory neurone
 
-**Q184.** Which statement about reflex actions is correct?
+**Q199.** Which statement about reflex actions is correct?
 <!-- id: g04-syn-5 -->
 
 - A. They only involve the brain
@@ -1339,24 +1462,33 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. They are automatic and rapid
 - D. They are learned through practice
 
-**Q185.** Describe how an impulse is transmitted across a synapse. (3 marks)
+**Q200.** Describe how an impulse is transmitted across a synapse. (3 marks)
 <!-- id: g04-syn-6 -->
 
 *Written answer*
 
-**Q186.** A knee-jerk reflex test is used by doctors. Explain why a reflex response is faster than a voluntary response. (2 marks)
+**Q201.** A knee-jerk reflex test is used by doctors. Explain why a reflex response is faster than a voluntary response. (2 marks)
 <!-- id: g04-syn-7 -->
 
 *Written answer*
 
-**Q187.** Give the sequence of structures an impulse passes through in a reflex arc, starting with the stimulus. (3 marks)
+**Q202.** Give the sequence of structures an impulse passes through in a reflex arc, starting with the stimulus. (3 marks)
 <!-- id: g04-syn-8 -->
 
 *Written answer*
 
+**Q203.** Nerve impulses can cross a synapse in only one direction because:
+<!-- id: gcse-bio-synapses-and-reflex-arcs-c1 -->
+*Challenge question*
+
+- A. The gap is too wide
+- B. Neurotransmitter is released only from the first neurone and receptors are only on the next one
+- C. Electrical impulses jump the gap
+- D. The synapse is insulated by myelin
+
 #### Structure of the brain *(Triple only)*
 
-**Q188.** Which part of the brain controls balance and coordinates movement?
+**Q204.** Which part of the brain controls balance and coordinates movement?
 <!-- id: brn-1 -->
 
 - A. Cerebrum
@@ -1364,7 +1496,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Medulla oblongata
 - D. Hypothalamus
 
-**Q189.** Which part of the brain controls breathing and heart rate?
+**Q205.** Which part of the brain controls breathing and heart rate?
 <!-- id: brn-2 -->
 
 - A. Cerebrum
@@ -1372,7 +1504,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Medulla oblongata
 - D. Pituitary
 
-**Q190.** Which technique uses a strong magnetic field to produce detailed images of the brain?
+**Q206.** Which technique uses a strong magnetic field to produce detailed images of the brain?
 <!-- id: brn-3 -->
 
 - A. CT scan
@@ -1380,12 +1512,12 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. X-ray
 - D. PET scan
 
-**Q191.** Give two reasons why treating brain damage is difficult.
+**Q207.** Give two reasons why treating brain damage is difficult.
 <!-- id: brn-4 -->
 
 *Written answer*
 
-**Q192.** Which part of the brain is responsible for memory, language and consciousness?
+**Q208.** Which part of the brain is responsible for memory, language and consciousness?
 <!-- id: g04-brn-1 -->
 
 - A. Cerebellum
@@ -1393,7 +1525,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Spinal cord
 - D. Cerebral cortex
 
-**Q193.** Why is the surface of the cerebral cortex highly folded?
+**Q209.** Why is the surface of the cerebral cortex highly folded?
 <!-- id: g04-brn-2 -->
 
 - A. To allow faster blood flow
@@ -1401,7 +1533,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. To protect it from the skull
 - D. To increase the surface area so there is more room for neurones
 
-**Q194.** A patient has a stroke that damages the cerebellum. Which symptom is most likely?
+**Q210.** A patient has a stroke that damages the cerebellum. Which symptom is most likely?
 <!-- id: g04-brn-3 -->
 
 - A. Loss of the ability to see colour
@@ -1409,7 +1541,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Stopped breathing
 - D. Poor balance and uncoordinated movement
 
-**Q195.** Which method of studying the brain shows which areas are active during a task?
+**Q211.** Which method of studying the brain shows which areas are active during a task?
 <!-- id: g04-brn-4 -->
 
 - A. Studying patients with brain damage only
@@ -1417,7 +1549,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Stimulating the brain with electricity only
 - D. Taking a blood sample
 
-**Q196.** Which part of the brain is damaged if a person can no longer control their heart rate or breathing?
+**Q212.** Which part of the brain is damaged if a person can no longer control their heart rate or breathing?
 <!-- id: g04-brn-5 -->
 
 - A. Cerebellum
@@ -1425,24 +1557,33 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Medulla oblongata
 - D. Cerebrum
 
-**Q197.** Describe how scientists have used evidence from patients with brain damage to find out about brain function. (3 marks)
+**Q213.** Describe how scientists have used evidence from patients with brain damage to find out about brain function. (3 marks)
 <!-- id: g04-brn-6 -->
 
 *Written answer*
 
-**Q198.** Give two advantages of using an MRI scan to study the brain compared with exploring it with electrical stimulation during surgery. (2 marks)
+**Q214.** Give two advantages of using an MRI scan to study the brain compared with exploring it with electrical stimulation during surgery. (2 marks)
 <!-- id: g04-brn-7 -->
 
 *Written answer*
 
-**Q199.** Explain why it is difficult to treat brain tumours with surgery. (2 marks)
+**Q215.** Explain why it is difficult to treat brain tumours with surgery. (2 marks)
 <!-- id: g04-brn-8 -->
 
 *Written answer*
 
+**Q216.** After a head injury, a patient's heart rate and breathing are irregular. The region most likely damaged is the:
+<!-- id: gcse-bio-structure-of-the-brain-c1 -->
+*Challenge question*
+
+- A. Cerebellum
+- B. Cerebral cortex
+- C. Pituitary gland
+- D. Medulla oblongata
+
 #### The eye and its defects *(Triple only)*
 
-**Q200.** Which part of the eye controls how much light enters?
+**Q217.** Which part of the eye controls how much light enters?
 <!-- id: eye-1 -->
 
 - A. Cornea
@@ -1450,7 +1591,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Lens
 - D. Retina
 
-**Q201.** Which receptor cells in the retina detect colour?
+**Q218.** Which receptor cells in the retina detect colour?
 <!-- id: eye-2 -->
 
 - A. Rods
@@ -1458,7 +1599,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Ciliary cells
 - D. Neurones
 
-**Q202.** Short-sightedness can be corrected with:
+**Q219.** Short-sightedness can be corrected with:
 <!-- id: eye-3 -->
 
 - A. A converging (convex) lens
@@ -1466,7 +1607,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. A plane mirror
 - D. No lens
 
-**Q203.** A cataract is:
+**Q220.** A cataract is:
 <!-- id: eye-4 -->
 
 - A. A cloudy lens
@@ -1474,12 +1615,12 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. An irregular cornea
 - D. Colour blindness
 
-**Q204.** Explain what happens to the lens when you look at a near object.
+**Q221.** Explain what happens to the lens when you look at a near object.
 <!-- id: eye-5 -->
 
 *Written answer*
 
-**Q205.** Which part of the eye does most of the refraction (bending) of light?
+**Q222.** Which part of the eye does most of the refraction (bending) of light?
 <!-- id: g04-eye-1 -->
 
 - A. Retina
@@ -1487,7 +1628,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Optic nerve
 - D. Iris
 
-**Q206.** What happens to the pupil in bright light?
+**Q223.** What happens to the pupil in bright light?
 <!-- id: g04-eye-2 -->
 
 - A. It gets smaller because circular muscles contract
@@ -1495,7 +1636,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. It stays the same size
 - D. It gets larger because radial muscles contract
 
-**Q207.** In long-sightedness (hyperopia), light from near objects is focused:
+**Q224.** In long-sightedness (hyperopia), light from near objects is focused:
 <!-- id: g04-eye-3 -->
 
 - A. Behind the retina
@@ -1503,7 +1644,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. In front of the retina
 - D. On the retina
 
-**Q208.** Which row correctly describes the lens when focusing on a distant object?
+**Q225.** Which row correctly describes the lens when focusing on a distant object?
 <!-- id: g04-eye-4 -->
 
 - A. Ciliary muscles contracted, suspensory ligaments tight, lens thin
@@ -1511,7 +1652,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Ciliary muscles contracted, suspensory ligaments slack, lens thick
 - D. Ciliary muscles relaxed, suspensory ligaments slack, lens thick
 
-**Q209.** Which is NOT a treatment for short-sightedness?
+**Q226.** Which is NOT a treatment for short-sightedness?
 <!-- id: g04-eye-5 -->
 
 - A. Contact lenses
@@ -1519,26 +1660,35 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Replacement lens surgery
 - D. Wearing a converging lens in glasses
 
-**Q210.** Explain how the eye adjusts to focus on a near object. (4 marks)
+**Q227.** Explain how the eye adjusts to focus on a near object. (4 marks)
 <!-- id: g04-eye-6 -->
 
 *Written answer*
 
-**Q211.** Explain what causes short-sightedness and how glasses correct it. (3 marks)
+**Q228.** Explain what causes short-sightedness and how glasses correct it. (3 marks)
 <!-- id: g04-eye-7 -->
 
 *Written answer*
 
-**Q212.** Describe the pupil reflex in dim light and explain why it is useful. (3 marks)
+**Q229.** Describe the pupil reflex in dim light and explain why it is useful. (3 marks)
 <!-- id: g04-eye-8 -->
 
 *Written answer*
+
+**Q230.** In short-sightedness (myopia), light from distant objects focuses:
+<!-- id: gcse-bio-the-eye-and-its-defects-c1 -->
+*Challenge question*
+
+- A. Behind the retina, so a convex lens is used
+- B. On the retina, so no lens is needed
+- C. In front of the retina, so a concave (diverging) lens is used to correct it
+- D. In front of the retina, so a convex lens is used
 
 ### Genetics
 
 #### Sexual and asexual reproduction
 
-**Q213.** Which is a feature of asexual reproduction?
+**Q231.** Which is a feature of asexual reproduction?
 <!-- id: sar-1 -->
 
 - A. Two parents
@@ -1546,7 +1696,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Offspring are genetically identical
 - D. Produces lots of variation
 
-**Q214.** An advantage of sexual reproduction is:
+**Q232.** An advantage of sexual reproduction is:
 <!-- id: sar-2 -->
 
 - A. It is faster
@@ -1554,7 +1704,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Variation helps a species survive environmental change
 - D. No energy is needed to find a mate
 
-**Q215.** Which organism can reproduce asexually?
+**Q233.** Which organism can reproduce asexually?
 <!-- id: sar-3 -->
 
 - A. Strawberry plant using runners
@@ -1562,12 +1712,12 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Birds
 - D. Dogs
 
-**Q216.** Give two advantages of asexual reproduction.
+**Q234.** Give two advantages of asexual reproduction.
 <!-- id: sar-4 -->
 
 *Written answer*
 
-**Q217.** What are gametes?
+**Q235.** What are gametes?
 <!-- id: g04-sar-1 -->
 
 - A. Cells that contain two copies of every gene
@@ -1575,7 +1725,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Sex cells with half the normal number of chromosomes
 - D. Fertilised egg cells
 
-**Q218.** Which type of cell division is involved in asexual reproduction?
+**Q236.** Which type of cell division is involved in asexual reproduction?
 <!-- id: g04-sar-2 -->
 
 - A. Mitosis
@@ -1583,7 +1733,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Fertilisation
 - D. Binary fission only
 
-**Q219.** Why does sexual reproduction produce variation in offspring?
+**Q237.** Why does sexual reproduction produce variation in offspring?
 <!-- id: g04-sar-3 -->
 
 - A. Mitosis copies DNA with mistakes
@@ -1591,7 +1741,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. The parents are always different species
 - D. The offspring are produced from a single parent
 
-**Q220.** Which organism can reproduce both sexually and asexually?
+**Q238.** Which organism can reproduce both sexually and asexually?
 <!-- id: g04-sar-4 -->
 
 - A. Dogs
@@ -1599,7 +1749,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Humans
 - D. Malarial parasite
 
-**Q221.** A farmer has one wheat variety that is well suited to local conditions. A new fungal disease appears. Why might a field of identical clones be at risk?
+**Q239.** A farmer has one wheat variety that is well suited to local conditions. A new fungal disease appears. Why might a field of identical clones be at risk?
 <!-- id: g04-sar-5 -->
 
 - A. Clones always mutate quickly
@@ -1607,24 +1757,33 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Clones cannot photosynthesise
 - D. Clones grow too slowly to produce a crop
 
-**Q222.** Compare sexual and asexual reproduction. Give two differences. (2 marks)
+**Q240.** Compare sexual and asexual reproduction. Give two differences. (2 marks)
 <!-- id: g04-sar-6 -->
 
 *Written answer*
 
-**Q223.** Explain why variation is an advantage to a species when the environment changes. (3 marks)
+**Q241.** Explain why variation is an advantage to a species when the environment changes. (3 marks)
 <!-- id: g04-sar-7 -->
 
 *Written answer*
 
-**Q224.** Give two disadvantages of sexual reproduction compared with asexual reproduction. (2 marks)
+**Q242.** Give two disadvantages of sexual reproduction compared with asexual reproduction. (2 marks)
 <!-- id: g04-sar-8 -->
 
 *Written answer*
 
+**Q243.** Aphids reproduce asexually in summer and sexually in autumn. The best explanation is:
+<!-- id: gcse-bio-sexual-and-asexual-reproduction-c1 -->
+*Challenge question*
+
+- A. Sexual reproduction is faster in autumn
+- B. Asexual reproduction needs two parents
+- C. Variation is only useful in summer
+- D. Asexual reproduction increases numbers rapidly in good conditions; sexual reproduction produces variation for surviving changing conditions
+
 #### Meiosis
 
-**Q225.** Meiosis produces:
+**Q244.** Meiosis produces:
 <!-- id: mei-1 -->
 
 - A. 2 identical diploid cells
@@ -1632,7 +1791,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. 4 identical diploid cells
 - D. 2 different haploid cells
 
-**Q226.** How many chromosomes are in a human gamete?
+**Q245.** How many chromosomes are in a human gamete?
 <!-- id: mei-2 -->
 
 - A. 46
@@ -1640,7 +1799,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. 92
 - D. 12
 
-**Q227.** Where does meiosis happen in humans?
+**Q246.** Where does meiosis happen in humans?
 <!-- id: mei-3 -->
 
 - A. Skin
@@ -1648,12 +1807,12 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Liver
 - D. Bone marrow
 
-**Q228.** Explain why gametes need to be haploid.
+**Q247.** Explain why gametes need to be haploid.
 <!-- id: mei-4 -->
 
 *Written answer*
 
-**Q229.** How many times does the cell divide in meiosis?
+**Q248.** How many times does the cell divide in meiosis?
 <!-- id: g04-mei-1 -->
 
 - A. Once
@@ -1661,7 +1820,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Three times
 - D. Four times
 
-**Q230.** What happens to the genetic material before meiosis begins?
+**Q249.** What happens to the genetic material before meiosis begins?
 <!-- id: g04-mei-2 -->
 
 - A. It is destroyed
@@ -1669,7 +1828,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. It is moved out of the nucleus
 - D. It is halved
 
-**Q231.** A human cell in the testis has 46 chromosomes. How many chromosomes will each sperm cell have?
+**Q250.** A human cell in the testis has 46 chromosomes. How many chromosomes will each sperm cell have?
 <!-- id: g04-mei-3 -->
 
 - A. 92
@@ -1677,7 +1836,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. 23
 - D. 46
 
-**Q232.** Why are the gametes produced by meiosis genetically different from each other?
+**Q251.** Why are the gametes produced by meiosis genetically different from each other?
 <!-- id: g04-mei-4 -->
 
 - A. Gametes absorb DNA from nearby cells
@@ -1685,7 +1844,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Chromosomes are shuffled and distributed randomly between the cells
 - D. Mitosis occurs afterwards
 
-**Q233.** Which statement correctly compares mitosis and meiosis?
+**Q252.** Which statement correctly compares mitosis and meiosis?
 <!-- id: g04-mei-5 -->
 
 - A. Both produce haploid cells
@@ -1693,24 +1852,33 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Mitosis happens only in the ovaries
 - D. Meiosis is used for growth and repair
 
-**Q234.** Describe what happens during meiosis. (4 marks)
+**Q253.** Describe what happens during meiosis. (4 marks)
 <!-- id: g04-mei-6 -->
 
 *Written answer*
 
-**Q235.** A zebrafish body cell has 50 chromosomes. State the number of chromosomes in a gamete and in the zygote, and explain why. (3 marks)
+**Q254.** A zebrafish body cell has 50 chromosomes. State the number of chromosomes in a gamete and in the zygote, and explain why. (3 marks)
 <!-- id: g04-mei-7 -->
 
 *Written answer*
 
-**Q236.** Explain how meiosis and fertilisation together lead to genetic variation in a population. (3 marks)
+**Q255.** Explain how meiosis and fertilisation together lead to genetic variation in a population. (3 marks)
 <!-- id: g04-mei-8 -->
 
 *Written answer*
 
+**Q256.** A species has 16 chromosomes in its body cells. One cell divides by meiosis. The result is:
+<!-- id: gcse-bio-meiosis-c1 -->
+*Challenge question*
+
+- A. Four genetically different cells, each with 8 chromosomes
+- B. Two identical cells with 16 chromosomes
+- C. Four identical cells with 16 chromosomes
+- D. Two different cells with 8 chromosomes
+
 #### Structure of DNA
 
-**Q237.** DNA is described as a:
+**Q257.** DNA is described as a:
 <!-- id: dna-1 -->
 
 - A. Single helix
@@ -1718,7 +1886,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Triple helix
 - D. Straight chain
 
-**Q238.** Which base pairs with adenine?
+**Q258.** Which base pairs with adenine?
 <!-- id: dna-2 -->
 
 - A. Cytosine
@@ -1726,7 +1894,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Thymine
 - D. Uracil
 
-**Q239.** A gene is:
+**Q259.** A gene is:
 <!-- id: dna-3 -->
 
 - A. A whole chromosome
@@ -1734,7 +1902,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. A single base
 - D. A type of cell
 
-**Q240.** The strands of DNA are held together by:
+**Q260.** The strands of DNA are held together by:
 <!-- id: dna-4 -->
 
 - A. Hydrogen bonds between bases
@@ -1742,12 +1910,12 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Enzymes
 - D. Ionic bonds
 
-**Q241.** Outline how DNA can be extracted from fruit.
+**Q261.** Outline how DNA can be extracted from fruit.
 <!-- id: dna-5 -->
 
 *Written answer*
 
-**Q242.** A DNA strand has the base sequence ATGCCA. What is the sequence of the complementary strand?
+**Q262.** A DNA strand has the base sequence ATGCCA. What is the sequence of the complementary strand?
 <!-- id: g05-dna-1 -->
 
 - A. CGTAAC
@@ -1755,7 +1923,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. UACGGU
 - D. ATGCCA
 
-**Q243.** In a sample of DNA, 30% of the bases are adenine. What percentage are guanine?
+**Q263.** In a sample of DNA, 30% of the bases are adenine. What percentage are guanine?
 <!-- id: g05-dna-2 -->
 *Higher tier only*
 
@@ -1764,7 +1932,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. 40%
 - D. 70%
 
-**Q244.** What is a nucleotide made of?
+**Q264.** What is a nucleotide made of?
 <!-- id: g05-dna-3 -->
 
 - A. An amino acid, a phosphate group and a base
@@ -1772,7 +1940,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. A sugar and two phosphate groups
 - D. A sugar, a phosphate group and a base
 
-**Q245.** Which part of DNA forms the sugar-phosphate backbone and which part carries the genetic code?
+**Q265.** Which part of DNA forms the sugar-phosphate backbone and which part carries the genetic code?
 <!-- id: g05-dna-4 -->
 
 - A. Backbone: phosphates only; code: sugars
@@ -1780,7 +1948,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Backbone: bases; code: sugars
 - D. Backbone: sugar and phosphate; code: bases
 
-**Q246.** Why is ice-cold ethanol added in the DNA extraction method?
+**Q266.** Why is ice-cold ethanol added in the DNA extraction method?
 <!-- id: g05-dna-5 -->
 
 - A. To separate the two DNA strands
@@ -1788,24 +1956,33 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. To make DNA insoluble so it comes out of solution
 - D. To digest proteins
 
-**Q247.** State the roles of detergent and salt in extracting DNA from fruit. (2 marks)
+**Q267.** State the roles of detergent and salt in extracting DNA from fruit. (2 marks)
 <!-- id: g05-dna-6 -->
 
 *Written answer*
 
-**Q248.** Explain why DNA from different species has the same structure but different genetic codes. (3 marks)
+**Q268.** Explain why DNA from different species has the same structure but different genetic codes. (3 marks)
 <!-- id: g05-dna-7 -->
 
 *Written answer*
 
-**Q249.** Describe how complementary base pairing allows a DNA molecule to be copied accurately. (2 marks)
+**Q269.** Describe how complementary base pairing allows a DNA molecule to be copied accurately. (2 marks)
 <!-- id: g05-dna-8 -->
 
 *Written answer*
 
+**Q270.** In a DNA molecule, 20% of the bases are adenine. What percentage are cytosine?
+<!-- id: gcse-bio-structure-of-dna-c1 -->
+*Challenge question*
+
+- A. 20%
+- B. 30%
+- C. 40%
+- D. 60%
+
 #### Protein synthesis *(Triple only)*
 
-**Q250.** Where does transcription take place?
+**Q271.** Where does transcription take place?
 <!-- id: pro-1 -->
 
 - A. Ribosome
@@ -1813,7 +1990,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Mitochondria
 - D. Cell membrane
 
-**Q251.** How many bases code for one amino acid?
+**Q272.** How many bases code for one amino acid?
 <!-- id: pro-2 -->
 
 - A. 1
@@ -1821,7 +1998,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. 3
 - D. 4
 
-**Q252.** What brings amino acids to the ribosome?
+**Q273.** What brings amino acids to the ribosome?
 <!-- id: pro-3 -->
 *Higher tier only*
 
@@ -1830,7 +2007,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. DNA
 - D. RNA polymerase
 
-**Q253.** Which enzyme binds to the non-coding region in front of a gene to start transcription?
+**Q274.** Which enzyme binds to the non-coding region in front of a gene to start transcription?
 <!-- id: pro-4 -->
 *Higher tier only*
 
@@ -1839,13 +2016,13 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Amylase
 - D. Protease
 
-**Q254.** Describe translation.
+**Q275.** Describe translation.
 <!-- id: pro-5 -->
 *Higher tier only*
 
 *Written answer*
 
-**Q255.** The DNA template strand reads TAC GGA. What is the sequence of the mRNA made from it?
+**Q276.** The DNA template strand reads TAC GGA. What is the sequence of the mRNA made from it?
 <!-- id: g05-pro-1 -->
 *Higher tier only*
 
@@ -1854,7 +2031,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. ATG CCU
 - D. ATG CCT
 
-**Q256.** Which of these is a difference between mRNA and DNA?
+**Q277.** Which of these is a difference between mRNA and DNA?
 <!-- id: g05-pro-2 -->
 
 - A. mRNA is found only in the ribosome
@@ -1862,7 +2039,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. mRNA is double stranded
 - D. mRNA contains uracil instead of thymine
 
-**Q257.** Why must mRNA be made rather than the ribosome reading DNA directly?
+**Q278.** Why must mRNA be made rather than the ribosome reading DNA directly?
 <!-- id: g05-pro-3 -->
 
 - A. mRNA is made of amino acids
@@ -1870,7 +2047,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. DNA cannot leave the nucleus but ribosomes are in the cytoplasm
 - D. Ribosomes can only read RNA bases A and T
 
-**Q258.** An mRNA strand has 90 bases in its coding region. How many amino acids are in the polypeptide (ignoring any stop codon)?
+**Q279.** An mRNA strand has 90 bases in its coding region. How many amino acids are in the polypeptide (ignoring any stop codon)?
 <!-- id: g05-pro-4 -->
 *Higher tier only*
 
@@ -1879,7 +2056,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. 30
 - D. 270
 
-**Q259.** What determines the final shape and function of a protein?
+**Q280.** What determines the final shape and function of a protein?
 <!-- id: g05-pro-5 -->
 
 - A. The number of ribosomes in the cell
@@ -1887,26 +2064,35 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. The type of cell it is made in
 - D. The order of amino acids in the polypeptide, which folds up
 
-**Q260.** Describe what happens during transcription. (3 marks)
+**Q281.** Describe what happens during transcription. (3 marks)
 <!-- id: g05-pro-6 -->
 *Higher tier only*
 
 *Written answer*
 
-**Q261.** Explain how the order of bases in a gene determines the order of amino acids in a protein. (3 marks)
+**Q282.** Explain how the order of bases in a gene determines the order of amino acids in a protein. (3 marks)
 <!-- id: g05-pro-7 -->
 *Higher tier only*
 
 *Written answer*
 
-**Q262.** Explain why a protein made of the same amino acids in a different order would have a different function. (2 marks)
+**Q283.** Explain why a protein made of the same amino acids in a different order would have a different function. (2 marks)
 <!-- id: g05-pro-8 -->
 
 *Written answer*
 
+**Q284.** A DNA template strand triplet is TAC. The mRNA codon and the tRNA anticodon are:
+<!-- id: gcse-bio-protein-synthesis-c1 -->
+*Challenge question*
+
+- A. mRNA UAC; tRNA anticodon AUG
+- B. mRNA ATG; tRNA anticodon TAC
+- C. mRNA AUG; tRNA anticodon UAC
+- D. mRNA AUG; tRNA anticodon ATG
+
 #### Mutations and protein function *(Triple only)*
 
-**Q263.** A mutation is:
+**Q285.** A mutation is:
 <!-- id: mut-1 -->
 
 - A. A change in the DNA base sequence
@@ -1914,7 +2100,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. A disease caused by bacteria
 - D. A gamete
 
-**Q264.** Most mutations:
+**Q286.** Most mutations:
 <!-- id: mut-2 -->
 
 - A. Are harmful
@@ -1922,7 +2108,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Always cause cancer
 - D. Improve proteins
 
-**Q265.** A mutation in the non-coding region before a gene might:
+**Q287.** A mutation in the non-coding region before a gene might:
 <!-- id: mut-3 -->
 *Higher tier only*
 
@@ -1931,13 +2117,13 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Delete the chromosome
 - D. Change the cell membrane
 
-**Q266.** Explain how a mutation could stop an enzyme working.
+**Q288.** Explain how a mutation could stop an enzyme working.
 <!-- id: mut-4 -->
 *Higher tier only*
 
 *Written answer*
 
-**Q267.** Which of these is a cause of mutations?
+**Q289.** Which of these is a cause of mutations?
 <!-- id: g05-mut-1 -->
 
 - A. Ionising radiation
@@ -1945,7 +2131,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. A high-protein diet
 - D. Photosynthesis
 
-**Q268.** A mutation changes the DNA triplet CAA to CAG. Both code for the same amino acid. This is likely to have:
+**Q290.** A mutation changes the DNA triplet CAA to CAG. Both code for the same amino acid. This is likely to have:
 <!-- id: g05-mut-2 -->
 *Higher tier only*
 
@@ -1954,7 +2140,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. A change in chromosome number
 - D. No effect on the protein
 
-**Q269.** A single base is deleted near the start of a gene. Why is this often more damaging than a substitution?
+**Q291.** A single base is deleted near the start of a gene. Why is this often more damaging than a substitution?
 <!-- id: g05-mut-3 -->
 *Higher tier only*
 
@@ -1963,7 +2149,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. It changes every triplet after the deletion
 - D. It adds extra chromosomes
 
-**Q270.** A mutation changes one amino acid in a structural protein but its shape is hardly altered. The most likely result is:
+**Q292.** A mutation changes one amino acid in a structural protein but its shape is hardly altered. The most likely result is:
 <!-- id: g05-mut-4 -->
 
 - A. The protein becomes an enzyme
@@ -1971,7 +2157,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. No change to the phenotype
 - D. A new species forms
 
-**Q271.** A gene mutation occurs in a body cell. Why is it not passed on to offspring?
+**Q293.** A gene mutation occurs in a body cell. Why is it not passed on to offspring?
 <!-- id: g05-mut-5 -->
 
 - A. Body cells do not contain DNA
@@ -1979,26 +2165,35 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Mutations only affect RNA
 - D. Body cell mutations are always repaired
 
-**Q272.** A mutation changes one amino acid in an enzyme. Explain how this could change the rate of the reaction it catalyses. (3 marks)
+**Q294.** A mutation changes one amino acid in an enzyme. Explain how this could change the rate of the reaction it catalyses. (3 marks)
 <!-- id: g05-mut-6 -->
 *Higher tier only*
 
 *Written answer*
 
-**Q273.** Explain how a mutation in a non-coding region next to a gene could change the amount of protein made. (2 marks)
+**Q295.** Explain how a mutation in a non-coding region next to a gene could change the amount of protein made. (2 marks)
 <!-- id: g05-mut-7 -->
 *Higher tier only*
 
 *Written answer*
 
-**Q274.** Describe how a mutation can lead to a change in phenotype. (3 marks)
+**Q296.** Describe how a mutation can lead to a change in phenotype. (3 marks)
 <!-- id: g05-mut-8 -->
 
 *Written answer*
 
+**Q297.** A mutation occurs in a non-coding region of DNA just before a gene. It could still change the phenotype because it may:
+<!-- id: gcse-bio-mutations-and-protein-function-c1 -->
+*Challenge question*
+
+- A. Change the amino acid sequence of the protein
+- B. Change how well RNA polymerase binds, altering how much of the protein is made
+- C. Remove the gene from the chromosome
+- D. Have no possible effect, because the region is non-coding
+
 #### Mendel's work *(Triple only)*
 
-**Q275.** Mendel carried out his experiments using:
+**Q298.** Mendel carried out his experiments using:
 <!-- id: men-1 -->
 
 - A. Fruit flies
@@ -2006,7 +2201,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Mice
 - D. Bacteria
 
-**Q276.** Why was Mendel's work not recognised in his lifetime?
+**Q299.** Why was Mendel's work not recognised in his lifetime?
 <!-- id: men-2 -->
 
 - A. He made errors
@@ -2014,12 +2209,12 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. He used computers
 - D. He published in English
 
-**Q277.** State one conclusion Mendel drew from his pea plant experiments.
+**Q300.** State one conclusion Mendel drew from his pea plant experiments.
 <!-- id: men-3 -->
 
 *Written answer*
 
-**Q278.** Why did Mendel's pea plants make good subjects for his experiments?
+**Q301.** Why did Mendel's pea plants make good subjects for his experiments?
 <!-- id: g05-men-1 -->
 
 - A. They contain no genes
@@ -2027,7 +2222,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. They have short life cycles and obvious contrasting characteristics
 - D. They reproduce asexually only
 
-**Q279.** Mendel crossed pure-breeding tall and pure-breeding dwarf plants. All the offspring were tall. What did this show?
+**Q302.** Mendel crossed pure-breeding tall and pure-breeding dwarf plants. All the offspring were tall. What did this show?
 <!-- id: g05-men-2 -->
 
 - A. The offspring were mutants
@@ -2035,7 +2230,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Dwarf is the dominant characteristic
 - D. Height is not inherited
 
-**Q280.** When Mendel crossed the tall offspring with each other, about 3 in 4 were tall and 1 in 4 dwarf. What did this suggest?
+**Q303.** When Mendel crossed the tall offspring with each other, about 3 in 4 were tall and 1 in 4 dwarf. What did this suggest?
 <!-- id: g05-men-3 -->
 
 - A. The dwarf factor had been lost then reappeared by mutation
@@ -2043,7 +2238,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Dwarf plants have no factors
 - D. Tall plants had no factors
 
-**Q281.** Which discovery, after Mendel's death, helped scientists to explain his 'inherited factors'?
+**Q304.** Which discovery, after Mendel's death, helped scientists to explain his 'inherited factors'?
 <!-- id: g05-men-4 -->
 
 - A. The microscope being invented
@@ -2051,7 +2246,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Antibiotics being discovered
 - D. Chromosomes behaving in a way that matched his factors during meiosis
 
-**Q282.** Which statement about Mendel's 'factors' matches the modern idea of genes?
+**Q305.** Which statement about Mendel's 'factors' matches the modern idea of genes?
 <!-- id: g05-men-5 -->
 
 - A. Factors blend together permanently
@@ -2059,24 +2254,33 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Each characteristic is controlled by a pair of factors, one from each parent
 - D. Factors are passed on only by the mother
 
-**Q283.** Explain why Mendel's work was only accepted after his death. (2 marks)
+**Q306.** Explain why Mendel's work was only accepted after his death. (2 marks)
 <!-- id: g05-men-6 -->
 
 *Written answer*
 
-**Q284.** Describe how Mendel's results supported the idea that inheritance is not a blending process. (2 marks)
+**Q307.** Describe how Mendel's results supported the idea that inheritance is not a blending process. (2 marks)
 <!-- id: g05-men-7 -->
 
 *Written answer*
 
-**Q285.** Suggest why Mendel's conclusions were reliable. (2 marks)
+**Q308.** Suggest why Mendel's conclusions were reliable. (2 marks)
 <!-- id: g05-men-8 -->
 
 *Written answer*
 
+**Q309.** Why was Mendel's work not widely accepted during his lifetime?
+<!-- id: gcse-bio-mendel-s-work-c1 -->
+*Challenge question*
+
+- A. His experiments used humans
+- B. He never published his results
+- C. His results disagreed with Darwin's exactly
+- D. Chromosomes and genes had not been discovered, so there was no mechanism to explain his results
+
 #### Genetic terms
 
-**Q286.** An allele is:
+**Q310.** An allele is:
 <!-- id: gen-1 -->
 
 - A. A different version of a gene
@@ -2084,7 +2288,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. A type of gamete
 - D. A section of a cell membrane
 
-**Q287.** An organism with alleles Bb is:
+**Q311.** An organism with alleles Bb is:
 <!-- id: gen-2 -->
 
 - A. Homozygous dominant
@@ -2092,7 +2296,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Heterozygous
 - D. Haploid
 
-**Q288.** Phenotype means:
+**Q312.** Phenotype means:
 <!-- id: gen-3 -->
 
 - A. The alleles an organism has
@@ -2100,7 +2304,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. The number of chromosomes
 - D. The DNA sequence
 
-**Q289.** A recessive allele is only expressed when:
+**Q313.** A recessive allele is only expressed when:
 <!-- id: gen-4 -->
 
 - A. One copy is present
@@ -2108,12 +2312,12 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. It is on the Y chromosome
 - D. The organism is diploid
 
-**Q290.** Define 'genome'.
+**Q314.** Define 'genome'.
 <!-- id: gen-5 -->
 
 *Written answer*
 
-**Q291.** A plant has the genotype tt, where T is tall and t is dwarf. Which describes it?
+**Q315.** A plant has the genotype tt, where T is tall and t is dwarf. Which describes it?
 <!-- id: g05-gen-1 -->
 
 - A. Homozygous recessive and dwarf
@@ -2121,7 +2325,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Homozygous dominant and tall
 - D. Heterozygous and dwarf
 
-**Q292.** Which is an example of a genotype?
+**Q316.** Which is an example of a genotype?
 <!-- id: g05-gen-2 -->
 
 - A. Blood group A
@@ -2129,7 +2333,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Tall plant
 - D. Brown eyes
 
-**Q293.** A gamete from an individual with the genotype Aa could carry:
+**Q317.** A gamete from an individual with the genotype Aa could carry:
 <!-- id: g05-gen-3 -->
 
 - A. Either A or a
@@ -2137,7 +2341,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Only A
 - D. Only a
 
-**Q294.** Which statement about the genome is correct?
+**Q318.** Which statement about the genome is correct?
 <!-- id: g05-gen-4 -->
 
 - A. It is one pair of alleles
@@ -2145,7 +2349,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. It is one gene
 - D. It is only the genes that are expressed
 
-**Q295.** A person with the genotype Dd shows the dominant phenotype. What does this show?
+**Q319.** A person with the genotype Dd shows the dominant phenotype. What does this show?
 <!-- id: g05-gen-5 -->
 
 - A. The dominant allele is expressed when present with a recessive allele
@@ -2153,24 +2357,33 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. The person must be homozygous
 - D. The alleles blend together
 
-**Q296.** Explain the difference between a gene and an allele. (2 marks)
+**Q320.** Explain the difference between a gene and an allele. (2 marks)
 <!-- id: g05-gen-6 -->
 
 *Written answer*
 
-**Q297.** Two parents with the dominant phenotype have a child with the recessive phenotype. Explain how this is possible. (3 marks)
+**Q321.** Two parents with the dominant phenotype have a child with the recessive phenotype. Explain how this is possible. (3 marks)
 <!-- id: g05-gen-7 -->
 
 *Written answer*
 
-**Q298.** State why two organisms with the same genotype may not have identical phenotypes. (1 mark)
+**Q322.** State why two organisms with the same genotype may not have identical phenotypes. (1 mark)
 <!-- id: g05-gen-8 -->
 
 *Written answer*
 
+**Q323.** A plant has the genotype Rr, where R (red) is dominant to r (white). Which description is correct?
+<!-- id: gcse-bio-genetic-terms-c1 -->
+*Challenge question*
+
+- A. Homozygous dominant, with a red phenotype
+- B. Heterozygous, with a pink phenotype
+- C. Homozygous recessive, with a white phenotype
+- D. Heterozygous, with a red phenotype
+
 #### Monohybrid crosses
 
-**Q299.** Two heterozygous parents (Tt × Tt) are crossed. What ratio of tall:short offspring is expected? (T = tall, dominant)
+**Q324.** Two heterozygous parents (Tt × Tt) are crossed. What ratio of tall:short offspring is expected? (T = tall, dominant)
 <!-- id: mon-1 -->
 
 - A. 1:1
@@ -2178,7 +2391,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. 1:3
 - D. All tall
 
-**Q300.** A cross Tt × tt gives what probability of short offspring?
+**Q325.** A cross Tt × tt gives what probability of short offspring?
 <!-- id: mon-2 -->
 
 - A. 0%
@@ -2186,7 +2399,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. 50%
 - D. 100%
 
-**Q301.** Cystic fibrosis is caused by a recessive allele. Two carrier parents have a child. What is the probability the child has cystic fibrosis?
+**Q326.** Cystic fibrosis is caused by a recessive allele. Two carrier parents have a child. What is the probability the child has cystic fibrosis?
 <!-- id: mon-3 -->
 
 - A. 0
@@ -2194,12 +2407,12 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. 0.5
 - D. 0.75
 
-**Q302.** A brown-eyed (dominant) parent has a blue-eyed child with a blue-eyed partner. What is the brown-eyed parent's genotype? Explain.
+**Q327.** A brown-eyed (dominant) parent has a blue-eyed child with a blue-eyed partner. What is the brown-eyed parent's genotype? Explain.
 <!-- id: mon-4 -->
 
 *Written answer*
 
-**Q303.** Pea plants Tt × Tt produce 200 offspring. How many are expected to be short (tt)?
+**Q328.** Pea plants Tt × Tt produce 200 offspring. How many are expected to be short (tt)?
 <!-- id: g06-mono-1 -->
 
 - A. 100
@@ -2207,7 +2420,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. 25
 - D. 50
 
-**Q304.** Which statement correctly describes an organism's phenotype?
+**Q329.** Which statement correctly describes an organism's phenotype?
 <!-- id: g06-mono-2 -->
 
 - A. The combination of its gametes
@@ -2215,7 +2428,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. The observable characteristic produced by its genotype and environment
 - D. The number of chromosomes in its cells
 
-**Q305.** A homozygous dominant parent (RR) is crossed with a homozygous recessive parent (rr). What are the offspring?
+**Q330.** A homozygous dominant parent (RR) is crossed with a homozygous recessive parent (rr). What are the offspring?
 <!-- id: g06-mono-3 -->
 
 - A. All Rr, showing the dominant trait
@@ -2223,7 +2436,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. All rr
 - D. 3 RR : 1 rr
 
-**Q306.** A cross gives offspring in a 1:1 ratio of dominant to recessive phenotype. What are the parents' genotypes?
+**Q331.** A cross gives offspring in a 1:1 ratio of dominant to recessive phenotype. What are the parents' genotypes?
 <!-- id: g06-mono-4 -->
 
 - A. AA × aa
@@ -2231,7 +2444,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. AA × Aa
 - D. Aa × Aa
 
-**Q307.** Two parents are both Aa for a recessive condition. What is the probability that their first two children both have the condition (aa)?
+**Q332.** Two parents are both Aa for a recessive condition. What is the probability that their first two children both have the condition (aa)?
 <!-- id: g06-mono-5 -->
 *Higher tier only*
 
@@ -2240,24 +2453,33 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. 1/16
 - D. 1/8
 
-**Q308.** Black fur (B) is dominant to brown fur (b) in guinea pigs. Show the cross between two heterozygous guinea pigs and state the expected ratio of black to brown offspring. (4 marks)
+**Q333.** Black fur (B) is dominant to brown fur (b) in guinea pigs. Show the cross between two heterozygous guinea pigs and state the expected ratio of black to brown offspring. (4 marks)
 <!-- id: g06-mono-6 -->
 
 *Written answer*
 
-**Q309.** A couple have four children and all four show the recessive trait. The parents are both carriers. Explain why this does not disprove the expected 3:1 ratio. (2 marks)
+**Q334.** A couple have four children and all four show the recessive trait. The parents are both carriers. Explain why this does not disprove the expected 3:1 ratio. (2 marks)
 <!-- id: g06-mono-7 -->
 
 *Written answer*
 
-**Q310.** Explain what is meant by a heterozygous genotype and why a heterozygous individual may show the dominant phenotype. (2 marks)
+**Q335.** Explain what is meant by a heterozygous genotype and why a heterozygous individual may show the dominant phenotype. (2 marks)
 <!-- id: g06-mono-8 -->
 
 *Written answer*
 
+**Q336.** Two parents are both heterozygous for a recessive condition. What is the probability that their first two children both have the condition?
+<!-- id: gcse-bio-monohybrid-crosses-c1 -->
+*Challenge question*
+
+- A. 1/16
+- B. 1/4
+- C. 1/2
+- D. 1/8
+
 #### Sex determination
 
-**Q311.** Which pair of sex chromosomes does a human male have?
+**Q337.** Which pair of sex chromosomes does a human male have?
 <!-- id: sex-1 -->
 
 - A. XX
@@ -2265,7 +2487,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. YY
 - D. X only
 
-**Q312.** What is the probability that a baby will be female?
+**Q338.** What is the probability that a baby will be female?
 <!-- id: sex-2 -->
 
 - A. 25%
@@ -2273,7 +2495,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. 75%
 - D. 100%
 
-**Q313.** Which parent's gamete determines the sex of the child?
+**Q339.** Which parent's gamete determines the sex of the child?
 <!-- id: sex-3 -->
 
 - A. Mother's egg
@@ -2281,12 +2503,12 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Both equally
 - D. Neither
 
-**Q314.** How many chromosomes are in a human body cell and how many of these are sex chromosomes?
+**Q340.** How many chromosomes are in a human body cell and how many of these are sex chromosomes?
 <!-- id: sex-4 -->
 
 *Written answer*
 
-**Q315.** Which gametes can a human mother produce with respect to sex chromosomes?
+**Q341.** Which gametes can a human mother produce with respect to sex chromosomes?
 <!-- id: g06-sexd-1 -->
 
 - A. Y only
@@ -2294,7 +2516,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. XX
 - D. X only
 
-**Q316.** A couple have three girls. What is the probability that their fourth child is a boy?
+**Q342.** A couple have three girls. What is the probability that their fourth child is a boy?
 <!-- id: g06-sexd-2 -->
 
 - A. 50%
@@ -2302,7 +2524,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. 0
 - D. 25%
 
-**Q317.** Which sex chromosome in a sperm cell results in a male child?
+**Q343.** Which sex chromosome in a sperm cell results in a male child?
 <!-- id: g06-sexd-3 -->
 
 - A. Neither
@@ -2310,7 +2532,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Y
 - D. Both X and Y
 
-**Q318.** How many chromosomes are in a normal human sperm cell, and how many of these are sex chromosomes?
+**Q344.** How many chromosomes are in a normal human sperm cell, and how many of these are sex chromosomes?
 <!-- id: g06-sexd-4 -->
 
 - A. 46, with 2
@@ -2318,7 +2540,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. 23, with 2
 - D. 46, with 1
 
-**Q319.** In a Punnett square for XX × XY, what is the ratio of female to male offspring?
+**Q345.** In a Punnett square for XX × XY, what is the ratio of female to male offspring?
 <!-- id: g06-sexd-5 -->
 
 - A. 3:1
@@ -2326,24 +2548,33 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. 2:1
 - D. 1:1
 
-**Q320.** Use a genetic diagram to show how the sex of a child is determined. (3 marks)
+**Q346.** Use a genetic diagram to show how the sex of a child is determined. (3 marks)
 <!-- id: g06-sexd-6 -->
 
 *Written answer*
 
-**Q321.** Explain why the numbers of boys and girls born are approximately equal. (2 marks)
+**Q347.** Explain why the numbers of boys and girls born are approximately equal. (2 marks)
 <!-- id: g06-sexd-7 -->
 
 *Written answer*
 
-**Q322.** A man says his wife is responsible for them having no sons. Explain why he is wrong. (2 marks)
+**Q348.** A man says his wife is responsible for them having no sons. Explain why he is wrong. (2 marks)
 <!-- id: g06-sexd-8 -->
 
 *Written answer*
 
+**Q349.** A couple has three daughters. What is the probability that their next child is a son?
+<!-- id: gcse-bio-sex-determination-c1 -->
+*Challenge question*
+
+- A. 0.75
+- B. 0.25
+- C. 1
+- D. 0.5
+
 #### Codominance and blood groups *(Triple only)*
 
-**Q323.** How many alleles control the ABO blood group?
+**Q350.** How many alleles control the ABO blood group?
 <!-- id: cod-1 -->
 
 - A. 1
@@ -2351,7 +2582,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. 3
 - D. 4
 
-**Q324.** A person with genotype IᴬIᴮ has blood group:
+**Q351.** A person with genotype IᴬIᴮ has blood group:
 <!-- id: cod-2 -->
 
 - A. A
@@ -2359,7 +2590,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. AB
 - D. O
 
-**Q325.** Blood group O has genotype:
+**Q352.** Blood group O has genotype:
 <!-- id: cod-3 -->
 
 - A. IᴬIᴼ
@@ -2367,12 +2598,12 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. IᴮIᴼ
 - D. IᴬIᴮ
 
-**Q326.** Can parents with blood groups A (IᴬIᴼ) and B (IᴮIᴼ) have a child with group O? Explain.
+**Q353.** Can parents with blood groups A (IᴬIᴼ) and B (IᴮIᴼ) have a child with group O? Explain.
 <!-- id: cod-4 -->
 
 *Written answer*
 
-**Q327.** What does codominance mean?
+**Q354.** What does codominance mean?
 <!-- id: g06-cod-1 -->
 
 - A. Both alleles are expressed in the phenotype of a heterozygote
@@ -2380,7 +2611,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. The alleles blend to form an intermediate
 - D. One allele completely hides the other
 
-**Q328.** A man with blood group AB and a woman with blood group O have a child. Which blood groups are possible for the child?
+**Q355.** A man with blood group AB and a woman with blood group O have a child. Which blood groups are possible for the child?
 <!-- id: g06-cod-2 -->
 
 - A. A, B, AB or O
@@ -2388,7 +2619,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. A or B only
 - D. AB or O
 
-**Q329.** A child has blood group O. Their mother is group A and their father is group B. What are the parents' genotypes?
+**Q356.** A child has blood group O. Their mother is group A and their father is group B. What are the parents' genotypes?
 <!-- id: g06-cod-3 -->
 
 - A. IᴬIᴼ and IᴮIᴮ
@@ -2396,7 +2627,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. IᴬIᴼ and IᴮIᴼ
 - D. IᴬIᴮ and IᴼIᴼ
 
-**Q330.** Parents with genotypes IᴬIᴼ and IᴮIᴼ have a child. What is the probability the child has blood group AB?
+**Q357.** Parents with genotypes IᴬIᴼ and IᴮIᴼ have a child. What is the probability the child has blood group AB?
 <!-- id: g06-cod-4 -->
 
 - A. 0
@@ -2404,7 +2635,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. 0.5
 - D. 1
 
-**Q331.** Which genotypes can produce blood group A?
+**Q358.** Which genotypes can produce blood group A?
 <!-- id: g06-cod-5 -->
 
 - A. IᴬIᴼ only
@@ -2412,24 +2643,33 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. IᴬIᴮ or IᴬIᴼ
 - D. IᴬIᴬ only
 
-**Q332.** Explain why a person with blood group A could have genotype IᴬIᴬ or IᴬIᴼ. (2 marks)
+**Q359.** Explain why a person with blood group A could have genotype IᴬIᴬ or IᴬIᴼ. (2 marks)
 <!-- id: g06-cod-6 -->
 
 *Written answer*
 
-**Q333.** A woman with blood group AB has a child with a man of blood group AB. State the possible blood groups of the child and explain why none can be group O. (3 marks)
+**Q360.** A woman with blood group AB has a child with a man of blood group AB. State the possible blood groups of the child and explain why none can be group O. (3 marks)
 <!-- id: g06-cod-7 -->
 
 *Written answer*
 
-**Q334.** Describe how codominance is shown by the inheritance of blood group AB. (2 marks)
+**Q361.** Describe how codominance is shown by the inheritance of blood group AB. (2 marks)
 <!-- id: g06-cod-8 -->
 
 *Written answer*
 
+**Q362.** Which pair of parents could have children with blood group O and with blood group AB?
+<!-- id: gcse-bio-codominance-and-blood-groups-c1 -->
+*Challenge question*
+
+- A. IᴬIᴼ × IᴮIᴼ
+- B. IᴬIᴬ × IᴮIᴮ
+- C. IᴬIᴮ × IᴼIᴼ
+- D. IᴬIᴼ × IᴬIᴼ
+
 #### Sex-linked inheritance *(Triple only)*
 
-**Q335.** Why are sex-linked disorders like haemophilia more common in males?
+**Q363.** Why are sex-linked disorders like haemophilia more common in males?
 <!-- id: slk-1 -->
 
 - A. Males have two X chromosomes
@@ -2437,7 +2677,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. The Y chromosome carries the allele
 - D. Females cannot inherit it
 
-**Q336.** A carrier female for colour blindness has genotype:
+**Q364.** A carrier female for colour blindness has genotype:
 <!-- id: slk-2 -->
 
 - A. XᴮXᴮ
@@ -2445,7 +2685,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. XᵇXᵇ
 - D. XᵇY
 
-**Q337.** A carrier mother (XᴴXʰ) and unaffected father (XᴴY) have a son. Probability the son has haemophilia?
+**Q365.** A carrier mother (XᴴXʰ) and unaffected father (XᴴY) have a son. Probability the son has haemophilia?
 <!-- id: slk-3 -->
 
 - A. 0
@@ -2453,12 +2693,12 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. 0.5
 - D. 1
 
-**Q338.** Explain why a father cannot pass an X-linked disorder to his son.
+**Q366.** Explain why a father cannot pass an X-linked disorder to his son.
 <!-- id: slk-4 -->
 
 *Written answer*
 
-**Q339.** A colour-blind man (XᵇY) and a woman with normal vision who is not a carrier (XᴮXᴮ) have children. What are the daughters' genotypes?
+**Q367.** A colour-blind man (XᵇY) and a woman with normal vision who is not a carrier (XᴮXᴮ) have children. What are the daughters' genotypes?
 <!-- id: g06-slk-1 -->
 
 - A. All XᵇXᵇ
@@ -2466,7 +2706,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. All XᴮXᵇ (carriers)
 - D. Half XᴮXᵇ and half XᵇXᵇ
 
-**Q340.** A colour-blind woman (XᵇXᵇ) has children with a man with normal vision (XᴮY). What is expected for their sons?
+**Q368.** A colour-blind woman (XᵇXᵇ) has children with a man with normal vision (XᴮY). What is expected for their sons?
 <!-- id: g06-slk-2 -->
 
 - A. All have normal vision
@@ -2474,7 +2714,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. All are colour-blind
 - D. All are carriers
 
-**Q341.** Why are females far less likely than males to have an X-linked recessive disorder?
+**Q369.** Why are females far less likely than males to have an X-linked recessive disorder?
 <!-- id: g06-slk-3 -->
 
 - A. A female needs two copies of the recessive allele, whereas a male needs only one
@@ -2482,7 +2722,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. The allele only occurs on the Y chromosome
 - D. Females have no X chromosomes
 
-**Q342.** A boy has haemophilia, but both his parents are unaffected. What must be true of his mother?
+**Q370.** A boy has haemophilia, but both his parents are unaffected. What must be true of his mother?
 <!-- id: g06-slk-4 -->
 
 - A. She has genotype XᴴXᴴ
@@ -2490,7 +2730,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. She is a carrier
 - D. She has haemophilia
 
-**Q343.** A carrier woman (XᴴXʰ) and an unaffected man (XᴴY) have a child. What is the probability the child is a carrier daughter?
+**Q371.** A carrier woman (XᴴXʰ) and an unaffected man (XᴴY) have a child. What is the probability the child is a carrier daughter?
 <!-- id: g06-slk-5 -->
 *Higher tier only*
 
@@ -2499,24 +2739,33 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. 0.25
 - D. 0.5
 
-**Q344.** Complete a genetic diagram for a carrier mother (XᴴXʰ) and an unaffected father (XᴴY) and state the proportion of sons with haemophilia. (4 marks)
+**Q372.** Complete a genetic diagram for a carrier mother (XᴴXʰ) and an unaffected father (XᴴY) and state the proportion of sons with haemophilia. (4 marks)
 <!-- id: g06-slk-6 -->
 
 *Written answer*
 
-**Q345.** Explain why a woman with an X-linked recessive disorder must have inherited the allele from both parents. (2 marks)
+**Q373.** Explain why a woman with an X-linked recessive disorder must have inherited the allele from both parents. (2 marks)
 <!-- id: g06-slk-7 -->
 
 *Written answer*
 
-**Q346.** A colour-blind man and a carrier woman have a daughter. Calculate the probability that she is colour-blind and explain your answer. (3 marks)
+**Q374.** A colour-blind man and a carrier woman have a daughter. Calculate the probability that she is colour-blind and explain your answer. (3 marks)
 <!-- id: g06-slk-8 -->
 
 *Written answer*
 
+**Q375.** A woman who carries haemophilia (XᴴXʰ) and an unaffected man have a son. The probability that he has haemophilia is:
+<!-- id: gcse-bio-sex-linked-inheritance-c1 -->
+*Challenge question*
+
+- A. 1/4
+- B. 0
+- C. 1/2
+- D. 1
+
 #### Variation
 
-**Q347.** Which is an example of continuous variation?
+**Q376.** Which is an example of continuous variation?
 <!-- id: var-1 -->
 
 - A. Blood group
@@ -2524,7 +2773,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Eye colour
 - D. Tongue rolling
 
-**Q348.** Variation caused by the environment is:
+**Q377.** Variation caused by the environment is:
 <!-- id: var-2 -->
 
 - A. Genetic variation
@@ -2532,7 +2781,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. A mutation
 - D. Inherited
 
-**Q349.** Most characteristics, such as body mass, are caused by:
+**Q378.** Most characteristics, such as body mass, are caused by:
 <!-- id: var-3 -->
 
 - A. Genes only
@@ -2540,12 +2789,12 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. A combination of genes and environment
 - D. Mutations only
 
-**Q350.** Identical twins grow up in different countries and have different masses. What does this show?
+**Q379.** Identical twins grow up in different countries and have different masses. What does this show?
 <!-- id: var-4 -->
 
 *Written answer*
 
-**Q351.** Which characteristic shows discontinuous variation?
+**Q380.** Which characteristic shows discontinuous variation?
 <!-- id: g06-var-1 -->
 
 - A. Body mass
@@ -2553,7 +2802,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Ability to roll the tongue
 - D. Heart rate
 
-**Q352.** What is the original source of new alleles?
+**Q381.** What is the original source of new alleles?
 <!-- id: g06-var-2 -->
 
 - A. Random fertilisation
@@ -2561,7 +2810,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Mitosis
 - D. Meiosis
 
-**Q353.** A person has a scar on their knee. This is an example of:
+**Q382.** A person has a scar on their knee. This is an example of:
 <!-- id: g06-var-3 -->
 
 - A. A mutation
@@ -2569,7 +2818,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Genetic variation
 - D. Environmental variation
 
-**Q354.** Which process in sexual reproduction increases genetic variation?
+**Q383.** Which process in sexual reproduction increases genetic variation?
 <!-- id: g06-var-4 -->
 
 - A. Gametes being diploid
@@ -2577,7 +2826,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Cells dividing by mitosis
 - D. Replication of DNA
 
-**Q355.** A graph of the heights of 500 students gives a bell-shaped curve. This suggests that height is:
+**Q384.** A graph of the heights of 500 students gives a bell-shaped curve. This suggests that height is:
 <!-- id: g06-var-5 -->
 
 - A. Controlled by a single gene
@@ -2585,24 +2834,33 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. A continuous characteristic influenced by many genes and the environment
 - D. Not affected by genes
 
-**Q356.** Explain how sexual reproduction leads to genetic variation between offspring of the same parents. (3 marks)
+**Q385.** Explain how sexual reproduction leads to genetic variation between offspring of the same parents. (3 marks)
 <!-- id: g06-var-6 -->
 
 *Written answer*
 
-**Q357.** Plants of the same species with identical genes are grown in different soils and differ in height. Explain what this shows. (2 marks)
+**Q386.** Plants of the same species with identical genes are grown in different soils and differ in height. Explain what this shows. (2 marks)
 <!-- id: g06-var-7 -->
 
 *Written answer*
 
-**Q358.** Describe the difference between continuous and discontinuous variation, giving one example of each. (4 marks)
+**Q387.** Describe the difference between continuous and discontinuous variation, giving one example of each. (4 marks)
 <!-- id: g06-var-8 -->
 
 *Written answer*
 
+**Q388.** Human height shows continuous variation mainly because it is:
+<!-- id: gcse-bio-variation-c1 -->
+*Challenge question*
+
+- A. Controlled by one gene with two alleles
+- B. Controlled by many genes and also affected by the environment
+- C. Determined only by diet
+- D. Inherited only from the mother
+
 #### The Human Genome Project
 
-**Q359.** The Human Genome Project aimed to:
+**Q389.** The Human Genome Project aimed to:
 <!-- id: hgp-1 -->
 
 - A. Clone humans
@@ -2610,7 +2868,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Cure all diseases
 - D. Count human cells
 
-**Q360.** A benefit of the HGP is:
+**Q390.** A benefit of the HGP is:
 <!-- id: hgp-2 -->
 
 - A. Identifying genes linked to diseases
@@ -2618,12 +2876,12 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Removing all mutations
 - D. Eliminating bacteria
 
-**Q361.** Give one concern about using genome information.
+**Q391.** Give one concern about using genome information.
 <!-- id: hgp-3 -->
 
 *Written answer*
 
-**Q362.** What is meant by the human genome?
+**Q392.** What is meant by the human genome?
 <!-- id: g07-hgp-1 -->
 
 - A. The number of chromosomes in a gamete
@@ -2631,7 +2889,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. The entire set of genetic material (DNA) in a human cell
 - D. Only the genes that cause disease
 
-**Q363.** How has the Human Genome Project helped scientists trace human migration?
+**Q393.** How has the Human Genome Project helped scientists trace human migration?
 <!-- id: g07-hgp-2 -->
 
 - A. By showing all humans have identical DNA
@@ -2639,7 +2897,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. By finding the gene for travelling
 - D. By dating fossils
 
-**Q364.** A person has their genome tested and is found to carry an allele that increases risk of a heart condition. How could this help them?
+**Q394.** A person has their genome tested and is found to carry an allele that increases risk of a heart condition. How could this help them?
 <!-- id: g07-hgp-3 -->
 
 - A. They can change lifestyle and be monitored to reduce the risk
@@ -2647,7 +2905,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. It changes their alleles
 - D. It guarantees they will get the disease
 
-**Q365.** Which is an advantage of knowing a patient's genome when choosing a drug?
+**Q395.** Which is an advantage of knowing a patient's genome when choosing a drug?
 <!-- id: g07-hgp-4 -->
 
 - A. Side effects are impossible
@@ -2655,7 +2913,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. The drug can be chosen to suit their genes, giving personalised medicine
 - D. All drugs become free
 
-**Q366.** The Human Genome Project was completed in 2003. Which statement about the sequence it produced is correct?
+**Q396.** The Human Genome Project was completed in 2003. Which statement about the sequence it produced is correct?
 <!-- id: g07-hgp-5 -->
 
 - A. It sequenced only the Y chromosome
@@ -2663,26 +2921,35 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. It determined the order of the roughly 3 billion base pairs and located many genes
 - D. It created a new human chromosome
 
-**Q367.** Explain how the Human Genome Project has helped in the diagnosis and treatment of inherited disorders. (3 marks)
+**Q397.** Explain how the Human Genome Project has helped in the diagnosis and treatment of inherited disorders. (3 marks)
 <!-- id: g07-hgp-6 -->
 
 *Written answer*
 
-**Q368.** Give two possible disadvantages of a person's genome being sequenced and stored. (2 marks)
+**Q398.** Give two possible disadvantages of a person's genome being sequenced and stored. (2 marks)
 <!-- id: g07-hgp-7 -->
 
 *Written answer*
 
-**Q369.** Explain why the Human Genome Project involved many scientists in different countries sharing data. (2 marks)
+**Q399.** Explain why the Human Genome Project involved many scientists in different countries sharing data. (2 marks)
 <!-- id: g07-hgp-8 -->
 
 *Written answer*
+
+**Q400.** Which is a possible drawback of genome sequencing for individuals?
+<!-- id: gcse-bio-the-human-genome-project-c1 -->
+*Challenge question*
+
+- A. It makes all diseases curable
+- B. It changes a person's genes
+- C. People could be discriminated against by insurers or employers because of genetic risks
+- D. It is impossible to identify any disease-related genes
 
 ### Natural Selection and Genetic Modification
 
 #### Darwin and natural selection
 
-**Q370.** In natural selection, which individuals are most likely to survive and reproduce?
+**Q401.** In natural selection, which individuals are most likely to survive and reproduce?
 <!-- id: nat-1 -->
 
 - A. The largest
@@ -2690,7 +2957,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. The oldest
 - D. Those with the most mutations
 
-**Q371.** What is the original source of new variation in a population?
+**Q402.** What is the original source of new variation in a population?
 <!-- id: nat-2 -->
 
 - A. Mutation
@@ -2698,7 +2965,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Competition
 - D. Extinction
 
-**Q372.** Antibiotic resistance in bacteria is evidence for:
+**Q403.** Antibiotic resistance in bacteria is evidence for:
 <!-- id: nat-3 -->
 
 - A. Selective breeding
@@ -2706,12 +2973,12 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Genetic engineering
 - D. Asexual reproduction only
 
-**Q373.** Explain how a population of bacteria becomes resistant to an antibiotic.
+**Q404.** Explain how a population of bacteria becomes resistant to an antibiotic.
 <!-- id: nat-4 -->
 
 *Written answer*
 
-**Q374.** Which of these is a key idea in Darwin's theory of natural selection?
+**Q405.** Which of these is a key idea in Darwin's theory of natural selection?
 <!-- id: g07-nat-1 -->
 
 - A. Only large organisms survive
@@ -2719,7 +2986,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Individuals in a population show variation, and those best suited survive and reproduce
 - D. All offspring are identical to the parent
 
-**Q375.** Why was Darwin's theory not immediately accepted by all scientists?
+**Q406.** Why was Darwin's theory not immediately accepted by all scientists?
 <!-- id: g07-nat-2 -->
 
 - A. He had no evidence at all
@@ -2727,7 +2994,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Fossils had not been discovered
 - D. He published it as a joke
 
-**Q376.** Lamarck suggested that giraffes grew longer necks because they stretched to reach leaves and passed this on. What is wrong with this idea?
+**Q407.** Lamarck suggested that giraffes grew longer necks because they stretched to reach leaves and passed this on. What is wrong with this idea?
 <!-- id: g07-nat-3 -->
 
 - A. Characteristics acquired during life are not inherited; only alleles are passed on
@@ -2735,7 +3002,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Giraffes do not reproduce
 - D. Giraffes do not eat leaves
 
-**Q377.** Alfred Russel Wallace is important in the history of evolution because he:
+**Q408.** Alfred Russel Wallace is important in the history of evolution because he:
 <!-- id: g07-nat-4 -->
 
 - A. Invented the microscope
@@ -2743,7 +3010,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Discovered DNA
 - D. Independently proposed natural selection and gathered evidence on species distribution
 
-**Q378.** A species of moth has pale and dark forms. After industrial pollution darkens tree bark, dark moths become more common. What is the best explanation?
+**Q409.** A species of moth has pale and dark forms. After industrial pollution darkens tree bark, dark moths become more common. What is the best explanation?
 <!-- id: g07-nat-5 -->
 
 - A. Dark moths ate more
@@ -2751,24 +3018,33 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Dark moths were better camouflaged, survived predation and reproduced more
 - D. Pollution caused the dark allele to form in every moth
 
-**Q379.** Explain how natural selection could lead to a population of rabbits having thicker fur after a series of very cold winters. (4 marks)
+**Q410.** Explain how natural selection could lead to a population of rabbits having thicker fur after a series of very cold winters. (4 marks)
 <!-- id: g07-nat-6 -->
 
 *Written answer*
 
-**Q380.** Describe how a new species may form according to the theory of evolution. (3 marks)
+**Q411.** Describe how a new species may form according to the theory of evolution. (3 marks)
 <!-- id: g07-nat-7 -->
 
 *Written answer*
 
-**Q381.** Give two reasons why scientists need evidence before a new theory such as natural selection is accepted. (2 marks)
+**Q412.** Give two reasons why scientists need evidence before a new theory such as natural selection is accepted. (2 marks)
 <!-- id: g07-nat-8 -->
 
 *Written answer*
 
+**Q413.** Which sequence correctly describes how antibiotic resistance becomes common in bacteria?
+<!-- id: gcse-bio-darwin-and-natural-selection-c1 -->
+*Challenge question*
+
+- A. Mutation gives variation → antibiotic kills non-resistant bacteria → resistant bacteria survive and reproduce → the resistance allele becomes more common
+- B. Antibiotic causes resistance mutations → bacteria learn to survive
+- C. Bacteria choose to become resistant
+- D. All bacteria become resistant at the same time
+
 #### Evidence for human evolution
 
-**Q382.** Which hominid fossil, about 3.2 million years old, is known as 'Lucy'?
+**Q414.** Which hominid fossil, about 3.2 million years old, is known as 'Lucy'?
 <!-- id: hev-1 -->
 
 - A. Homo habilis
@@ -2776,7 +3052,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Australopithecus afarensis
 - D. Homo sapiens
 
-**Q383.** Over time, hominid brain size has generally:
+**Q415.** Over time, hominid brain size has generally:
 <!-- id: hev-2 -->
 
 - A. Decreased
@@ -2784,7 +3060,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Stayed the same
 - D. Disappeared
 
-**Q384.** Stone tools can be dated by:
+**Q416.** Stone tools can be dated by:
 <!-- id: hev-3 -->
 
 - A. Their colour
@@ -2792,12 +3068,12 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Their weight
 - D. Carbon dioxide levels
 
-**Q385.** Describe how stone tools changed over time.
+**Q417.** Describe how stone tools changed over time.
 <!-- id: hev-4 -->
 
 *Written answer*
 
-**Q386.** Why is the fossil record for early hominids incomplete?
+**Q418.** Why is the fossil record for early hominids incomplete?
 <!-- id: g07-hev-1 -->
 
 - A. Scientists only look in one country
@@ -2805,7 +3081,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Soft body parts decay and fossils are rarely formed and found
 - D. Fossils are always destroyed by volcanoes
 
-**Q387.** Ardipithecus ramidus ('Ardi') lived about 4.4 million years ago. What does the evidence suggest about it?
+**Q419.** Ardipithecus ramidus ('Ardi') lived about 4.4 million years ago. What does the evidence suggest about it?
 <!-- id: g07-hev-2 -->
 
 - A. It had a brain larger than modern humans
@@ -2813,7 +3089,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. It made metal tools
 - D. It was identical to Homo sapiens
 
-**Q388.** Which method is used to estimate the age of very old rocks and fossils?
+**Q420.** Which method is used to estimate the age of very old rocks and fossils?
 <!-- id: g07-hev-3 -->
 
 - A. Radioactive dating using decay of isotopes
@@ -2821,7 +3097,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Weighing the sample
 - D. Measuring the fossil's length
 
-**Q389.** Which feature is a sign that a hominid fossil walked upright (bipedalism)?
+**Q421.** Which feature is a sign that a hominid fossil walked upright (bipedalism)?
 <!-- id: g07-hev-4 -->
 
 - A. Large canine teeth
@@ -2829,7 +3105,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Long fingers only
 - D. The foramen magnum positioned beneath the skull
 
-**Q390.** Which pairing correctly links the evidence with its use?
+**Q422.** Which pairing correctly links the evidence with its use?
 <!-- id: g07-hev-5 -->
 
 - A. Teeth: show skin colour
@@ -2837,24 +3113,33 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Brain size: shows height
 - D. Pelvis shape: shows eye colour
 
-**Q391.** Describe two ways in which hominid fossils show evolutionary change towards modern humans. (2 marks)
+**Q423.** Describe two ways in which hominid fossils show evolutionary change towards modern humans. (2 marks)
 <!-- id: g07-hev-6 -->
 
 *Written answer*
 
-**Q392.** Explain why scientists sometimes disagree about how fossil hominids are related to each other. (3 marks)
+**Q424.** Explain why scientists sometimes disagree about how fossil hominids are related to each other. (3 marks)
 <!-- id: g07-hev-7 -->
 
 *Written answer*
 
-**Q393.** A fossil is found in a rock layer. Explain how the age of the fossil can be estimated. (2 marks)
+**Q425.** A fossil is found in a rock layer. Explain how the age of the fossil can be estimated. (2 marks)
 <!-- id: g07-hev-8 -->
 
 *Written answer*
 
+**Q426.** Which order places these hominid fossils from oldest to youngest?
+<!-- id: gcse-bio-evidence-for-human-evolution-c1 -->
+*Challenge question*
+
+- A. Ardi (4.4 million years), Lucy (3.2 million years), Turkana Boy (1.6 million years)
+- B. Lucy, Ardi, Turkana Boy
+- C. Turkana Boy, Lucy, Ardi
+- D. Ardi, Turkana Boy, Lucy
+
 #### Classification
 
-**Q394.** In the five kingdom system, which kingdom contains bacteria?
+**Q427.** In the five kingdom system, which kingdom contains bacteria?
 <!-- id: cla-1 -->
 
 - A. Protoctista
@@ -2862,7 +3147,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Prokaryotes
 - D. Plants
 
-**Q395.** The three-domain system was proposed after studying:
+**Q428.** The three-domain system was proposed after studying:
 <!-- id: cla-2 -->
 
 - A. Fossil shapes
@@ -2870,7 +3155,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Bird songs
 - D. Skin colour
 
-**Q396.** Which group is the most specific level of classification?
+**Q429.** Which group is the most specific level of classification?
 <!-- id: cla-3 -->
 
 - A. Kingdom
@@ -2878,12 +3163,12 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Genus
 - D. Species
 
-**Q397.** Why has classification changed over time?
+**Q430.** Why has classification changed over time?
 <!-- id: cla-4 -->
 
 *Written answer*
 
-**Q398.** What is the binomial name of an organism made up of?
+**Q431.** What is the binomial name of an organism made up of?
 <!-- id: g07-cla-1 -->
 
 - A. Its kingdom and phylum
@@ -2891,7 +3176,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Its family and class
 - D. Its genus followed by its species
 
-**Q399.** Which is the correct way to write the binomial name of the domestic dog?
+**Q432.** Which is the correct way to write the binomial name of the domestic dog?
 <!-- id: g07-cla-2 -->
 
 - A. Canis, Familiaris
@@ -2899,7 +3184,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Canis familiaris
 - D. CANIS FAMILIARIS
 
-**Q400.** Which is the correct order of taxonomic groups from largest to smallest?
+**Q433.** Which is the correct order of taxonomic groups from largest to smallest?
 <!-- id: g07-cla-3 -->
 
 - A. Kingdom, phylum, class, order, family, genus, species
@@ -2907,7 +3192,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Species, genus, family, order, class, phylum, kingdom
 - D. Phylum, kingdom, class, family, order, species, genus
 
-**Q401.** Which domain contains extremophile organisms that were once classed as bacteria?
+**Q434.** Which domain contains extremophile organisms that were once classed as bacteria?
 <!-- id: g07-cla-4 -->
 
 - A. Archaea
@@ -2915,7 +3200,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Protoctista
 - D. Eukaryota
 
-**Q402.** Two organisms have very similar DNA sequences. What does this suggest?
+**Q435.** Two organisms have very similar DNA sequences. What does this suggest?
 <!-- id: g07-cla-5 -->
 
 - A. They live in the same habitat
@@ -2923,24 +3208,33 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. They are unrelated
 - D. They share a recent common ancestor
 
-**Q403.** Explain why scientists use a binomial system to name organisms rather than common names. (2 marks)
+**Q436.** Explain why scientists use a binomial system to name organisms rather than common names. (2 marks)
 <!-- id: g07-cla-6 -->
 
 *Written answer*
 
-**Q404.** Describe how an evolutionary tree is used to show how species are related. (3 marks)
+**Q437.** Describe how an evolutionary tree is used to show how species are related. (3 marks)
 <!-- id: g07-cla-7 -->
 
 *Written answer*
 
-**Q405.** Name the three domains in the three-domain system and give one way in which one of them differs from the other two. (3 marks)
+**Q438.** Name the three domains in the three-domain system and give one way in which one of them differs from the other two. (3 marks)
 <!-- id: g07-cla-8 -->
 
 *Written answer*
 
+**Q439.** The three-domain system was proposed because:
+<!-- id: gcse-bio-classification-c1 -->
+*Challenge question*
+
+- A. Genetic analysis (RNA sequencing) showed that archaea are very different from bacteria
+- B. Microscopes showed all cells look the same
+- C. Plants and animals were found to be closely related
+- D. Fungi were discovered to be bacteria
+
 #### Selective breeding
 
-**Q406.** Selective breeding is:
+**Q440.** Selective breeding is:
 <!-- id: sbr-1 -->
 
 - A. Humans choosing parents with desired characteristics to breed
@@ -2948,7 +3242,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Inserting genes from another species
 - D. Cloning only
 
-**Q407.** A disadvantage of selective breeding is:
+**Q441.** A disadvantage of selective breeding is:
 <!-- id: sbr-2 -->
 
 - A. It increases variation
@@ -2956,7 +3250,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. It is very fast
 - D. It always creates new species
 
-**Q408.** Which is an example of selective breeding?
+**Q442.** Which is an example of selective breeding?
 <!-- id: sbr-3 -->
 
 - A. Disease-resistant wheat varieties
@@ -2964,12 +3258,12 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Antibiotic resistance
 - D. Plant tissue culture
 
-**Q409.** Describe the steps a farmer would take to breed cows with high milk yield.
+**Q443.** Describe the steps a farmer would take to breed cows with high milk yield.
 <!-- id: sbr-4 -->
 
 *Written answer*
 
-**Q410.** Which is an example of selective breeding in animals?
+**Q444.** Which is an example of selective breeding in animals?
 <!-- id: g07-sbr-1 -->
 
 - A. Injecting growth hormone into a calf
@@ -2977,7 +3271,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Adding a jellyfish gene to a pig
 - D. Breeding sheep that produce more wool
 
-**Q411.** Why does selective breeding take many generations to produce a desired result?
+**Q445.** Why does selective breeding take many generations to produce a desired result?
 <!-- id: g07-sbr-2 -->
 
 - A. Each animal must be cloned
@@ -2985,7 +3279,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Alleles must be gradually increased in frequency by repeated selection
 - D. It requires special equipment
 
-**Q412.** A dog breed has a high rate of a genetic disease. What is the most likely cause?
+**Q446.** A dog breed has a high rate of a genetic disease. What is the most likely cause?
 <!-- id: g07-sbr-3 -->
 
 - A. The dogs are too well fed
@@ -2993,7 +3287,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Inbreeding has increased the frequency of harmful recessive alleles
 - D. Natural selection
 
-**Q413.** Wheat farmers want a crop that is both high-yielding and resistant to a fungal disease. What should they do?
+**Q447.** Wheat farmers want a crop that is both high-yielding and resistant to a fungal disease. What should they do?
 <!-- id: g07-sbr-4 -->
 
 - A. Cross plants with each trait and select offspring showing both
@@ -3001,7 +3295,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Spray fungicide every day
 - D. Plant seeds of one plant only
 
-**Q414.** Which of these is a likely benefit of selective breeding in crops?
+**Q448.** Which of these is a likely benefit of selective breeding in crops?
 <!-- id: g07-sbr-5 -->
 
 - A. Higher yield or improved disease resistance
@@ -3009,24 +3303,33 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. It creates entirely new genes
 - D. Greater genetic variation
 
-**Q415.** Explain why a population produced by selective breeding may be at risk from a new disease. (3 marks)
+**Q449.** Explain why a population produced by selective breeding may be at risk from a new disease. (3 marks)
 <!-- id: g07-sbr-6 -->
 
 *Written answer*
 
-**Q416.** Describe how selective breeding differs from natural selection. (2 marks)
+**Q450.** Describe how selective breeding differs from natural selection. (2 marks)
 <!-- id: g07-sbr-7 -->
 
 *Written answer*
 
-**Q417.** Give two characteristics that might be selected for in a domestic animal or crop, and one reason each is useful. (3 marks)
+**Q451.** Give two characteristics that might be selected for in a domestic animal or crop, and one reason each is useful. (3 marks)
 <!-- id: g07-sbr-8 -->
 
 *Written answer*
 
+**Q452.** A risk of intensive selective breeding in dogs is that:
+<!-- id: gcse-bio-selective-breeding-c1 -->
+*Challenge question*
+
+- A. New genes from other species are added
+- B. Offspring are always sterile
+- C. It increases genetic variation
+- D. Inbreeding reduces the gene pool, so harmful recessive alleles are more likely to be expressed
+
 #### Genetic engineering
 
-**Q418.** Genetic engineering involves:
+**Q453.** Genetic engineering involves:
 <!-- id: gee-1 -->
 
 - A. Changing an organism's genome, often by adding a gene from another organism
@@ -3034,7 +3337,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Cloning by cuttings
 - D. Natural selection
 
-**Q419.** Which enzymes cut DNA at specific sequences?
+**Q454.** Which enzymes cut DNA at specific sequences?
 <!-- id: gee-2 -->
 *Higher tier only*
 
@@ -3043,7 +3346,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Amylase
 - D. Polymerase
 
-**Q420.** Which enzyme joins a gene into a plasmid?
+**Q455.** Which enzyme joins a gene into a plasmid?
 <!-- id: gee-3 -->
 *Higher tier only*
 
@@ -3052,7 +3355,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Lipase
 - D. Protease
 
-**Q421.** What is a vector in genetic engineering?
+**Q456.** What is a vector in genetic engineering?
 <!-- id: gee-4 -->
 *Higher tier only*
 
@@ -3061,13 +3364,13 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. A type of restriction enzyme
 - D. A cloned animal
 
-**Q422.** Describe how bacteria can be engineered to produce human insulin.
+**Q457.** Describe how bacteria can be engineered to produce human insulin.
 <!-- id: gee-5 -->
 *Higher tier only*
 
 *Written answer*
 
-**Q423.** Golden rice has been genetically engineered to help prevent which problem?
+**Q458.** Golden rice has been genetically engineered to help prevent which problem?
 <!-- id: g08-ge-1 -->
 
 - A. Scurvy
@@ -3075,7 +3378,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Iron-deficiency anaemia
 - D. Protein deficiency
 
-**Q424.** An organism that contains a gene transferred from a different species is described as:
+**Q459.** An organism that contains a gene transferred from a different species is described as:
 <!-- id: g08-ge-2 -->
 
 - A. Selectively bred
@@ -3083,7 +3386,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Transgenic
 - D. Mutated naturally
 
-**Q425.** What are 'sticky ends' in genetic engineering?
+**Q460.** What are 'sticky ends' in genetic engineering?
 <!-- id: g08-ge-3 -->
 *Higher tier only*
 
@@ -3092,7 +3395,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Proteins that hold DNA together
 - D. Short single-stranded overhangs left when a restriction enzyme cuts DNA
 
-**Q426.** Why is the same restriction enzyme used to cut both the human gene and the plasmid?
+**Q461.** Why is the same restriction enzyme used to cut both the human gene and the plasmid?
 <!-- id: g08-ge-4 -->
 *Higher tier only*
 
@@ -3101,7 +3404,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. It makes the plasmid replicate faster
 - D. It produces complementary sticky ends that can join together
 
-**Q427.** Which is a benefit of using bacteria to make human insulin rather than extracting it from pigs?
+**Q462.** Which is a benefit of using bacteria to make human insulin rather than extracting it from pigs?
 <!-- id: g08-ge-5 -->
 
 - A. It cures diabetes permanently
@@ -3109,24 +3412,33 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Large quantities can be made cheaply and it is identical to human insulin
 - D. Bacteria do not need nutrients
 
-**Q428.** Describe what is meant by genetic engineering. (2 marks)
+**Q463.** Describe what is meant by genetic engineering. (2 marks)
 <!-- id: g08-ge-6 -->
 
 *Written answer*
 
-**Q429.** Give two reasons some people are concerned about genetically engineering crops or animals. (2 marks)
+**Q464.** Give two reasons some people are concerned about genetically engineering crops or animals. (2 marks)
 <!-- id: g08-ge-7 -->
 
 *Written answer*
 
-**Q430.** A gene for herbicide resistance is inserted into a crop plant. Explain how this could benefit a farmer. (3 marks)
+**Q465.** A gene for herbicide resistance is inserted into a crop plant. Explain how this could benefit a farmer. (3 marks)
 <!-- id: g08-ge-8 -->
 
 *Written answer*
 
+**Q466.** In making bacteria that produce human insulin, which enzymes are used?
+<!-- id: gcse-bio-genetic-engineering-c1 -->
+*Challenge question*
+
+- A. Amylase and lipase
+- B. Ligase to cut and restriction enzymes to join
+- C. Proteases to make the insulin gene
+- D. Restriction enzymes to cut DNA leaving sticky ends, and ligase to join the gene into the plasmid
+
 #### Plant tissue culture *(Triple only)*
 
-**Q431.** Tissue culture produces plants that are:
+**Q467.** Tissue culture produces plants that are:
 <!-- id: ptc-1 -->
 
 - A. Genetically different
@@ -3134,7 +3446,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Always sterile
 - D. Hybrids
 
-**Q432.** Why must tissue culture be done in aseptic conditions?
+**Q468.** Why must tissue culture be done in aseptic conditions?
 <!-- id: ptc-2 -->
 
 - A. To speed up photosynthesis
@@ -3142,12 +3454,12 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. To increase variation
 - D. To make the plants smaller
 
-**Q433.** Give two advantages of plant tissue culture.
+**Q469.** Give two advantages of plant tissue culture.
 <!-- id: ptc-3 -->
 
 *Written answer*
 
-**Q434.** In tissue culture, the small piece of plant tissue used to start the culture is called the:
+**Q470.** In tissue culture, the small piece of plant tissue used to start the culture is called the:
 <!-- id: g08-ptc-1 -->
 
 - A. Vector
@@ -3155,7 +3467,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Explant
 - D. Plasmid
 
-**Q435.** Which hormones are added to the growth medium to encourage cells to divide and form roots and shoots?
+**Q471.** Which hormones are added to the growth medium to encourage cells to divide and form roots and shoots?
 <!-- id: g08-ptc-2 -->
 
 - A. Gibberellin only
@@ -3163,7 +3475,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Auxins and cytokinins
 - D. Adrenaline
 
-**Q436.** Why do growers often use tissue culture to propagate a rare orchid?
+**Q472.** Why do growers often use tissue culture to propagate a rare orchid?
 <!-- id: g08-ptc-3 -->
 
 - A. It creates new varieties
@@ -3171,7 +3483,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. It produces many identical plants quickly from very little tissue
 - D. It increases genetic variation
 
-**Q437.** A disadvantage of producing crops by tissue culture is that:
+**Q473.** A disadvantage of producing crops by tissue culture is that:
 <!-- id: g08-ptc-4 -->
 
 - A. A single new disease could wipe out all the genetically identical plants
@@ -3179,7 +3491,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. The plants are always infertile
 - D. The plants cannot photosynthesise
 
-**Q438.** Which step is needed to make sure the explant and medium stay sterile?
+**Q474.** Which step is needed to make sure the explant and medium stay sterile?
 <!-- id: g08-ptc-5 -->
 
 - A. Exposing it to UV light for days
@@ -3187,24 +3499,33 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Adding extra fertiliser
 - D. Sterilising equipment and working with aseptic technique
 
-**Q439.** Describe the main steps in producing new plants by tissue culture. (4 marks)
+**Q475.** Describe the main steps in producing new plants by tissue culture. (4 marks)
 <!-- id: g08-ptc-6 -->
 
 *Written answer*
 
-**Q440.** Explain why tissue culture plants are genetically identical to the parent plant. (2 marks)
+**Q476.** Explain why tissue culture plants are genetically identical to the parent plant. (2 marks)
 <!-- id: g08-ptc-7 -->
 
 *Written answer*
 
-**Q441.** Suggest two advantages of tissue culture over growing plants from seed for a commercial grower. (2 marks)
+**Q477.** Suggest two advantages of tissue culture over growing plants from seed for a commercial grower. (2 marks)
 <!-- id: g08-ptc-8 -->
 
 *Written answer*
 
+**Q478.** Why must aseptic technique be used in plant tissue culture?
+<!-- id: gcse-bio-plant-tissue-culture-c1 -->
+*Challenge question*
+
+- A. Microorganisms would grow rapidly on the nutrient medium and kill or outcompete the plant tissue
+- B. Plants need sterile soil to grow
+- C. It makes the clones genetically different
+- D. It stops photosynthesis
+
 #### Biological control and GM crops *(Triple only)*
 
-**Q442.** Biological control means:
+**Q479.** Biological control means:
 <!-- id: bio-1 -->
 
 - A. Using chemical pesticides
@@ -3212,7 +3533,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Genetically modifying crops
 - D. Burning crops
 
-**Q443.** Bt crops have been modified to:
+**Q480.** Bt crops have been modified to:
 <!-- id: bio-2 -->
 
 - A. Grow faster
@@ -3220,7 +3541,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Resist drought
 - D. Make vitamin A
 
-**Q444.** A risk of biological control is:
+**Q481.** A risk of biological control is:
 <!-- id: bio-3 -->
 
 - A. The control organism may become a pest itself
@@ -3228,12 +3549,12 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. It builds up in food chains
 - D. It is a chemical
 
-**Q445.** Give one advantage and one concern about GM crops.
+**Q482.** Give one advantage and one concern about GM crops.
 <!-- id: bio-4 -->
 
 *Written answer*
 
-**Q446.** Which is an example of biological control?
+**Q483.** Which is an example of biological control?
 <!-- id: g08-bgm-1 -->
 
 - A. Adding nitrate fertiliser
@@ -3241,7 +3562,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Releasing parasitic wasps to kill whitefly in a greenhouse
 - D. Ploughing weeds into the soil
 
-**Q447.** A benefit of biological control compared with chemical pesticides is that it:
+**Q484.** A benefit of biological control compared with chemical pesticides is that it:
 <!-- id: g08-bgm-2 -->
 
 - A. Works instantly
@@ -3249,7 +3570,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Completely removes the pest
 - D. Is always cheaper
 
-**Q448.** Herbicide-resistant GM crops allow farmers to:
+**Q485.** Herbicide-resistant GM crops allow farmers to:
 <!-- id: g08-bgm-3 -->
 
 - A. Avoid planting seeds
@@ -3257,7 +3578,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Prevent insect attack
 - D. Spray weeds without killing the crop
 
-**Q449.** Why might biological control be less effective than pesticides at first?
+**Q486.** Why might biological control be less effective than pesticides at first?
 <!-- id: g08-bgm-4 -->
 
 - A. Pests become immune to predators in one day
@@ -3265,7 +3586,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Predators need time to build up their numbers
 - D. Predators are poisonous to crops
 
-**Q450.** A concern with GM crops is that:
+**Q487.** A concern with GM crops is that:
 <!-- id: g08-bgm-5 -->
 
 - A. They need more fertiliser than ever
@@ -3273,26 +3594,35 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Inserted genes could spread to wild relatives by cross-pollination
 - D. They never produce seeds
 
-**Q451.** Explain how Bt maize can increase crop yield. (3 marks)
+**Q488.** Explain how Bt maize can increase crop yield. (3 marks)
 <!-- id: g08-bgm-6 -->
 
 *Written answer*
 
-**Q452.** Give two disadvantages of using biological control. (2 marks)
+**Q489.** Give two disadvantages of using biological control. (2 marks)
 <!-- id: g08-bgm-7 -->
 
 *Written answer*
 
-**Q453.** Evaluate the use of GM crops to feed a growing population. (4 marks)
+**Q490.** Evaluate the use of GM crops to feed a growing population. (4 marks)
 <!-- id: g08-bgm-8 -->
 
 *Written answer*
+
+**Q491.** A risk of growing Bt maize (which produces an insect toxin) over large areas is that:
+<!-- id: gcse-bio-biological-control-and-gm-crops-c1 -->
+*Challenge question*
+
+- A. The maize will stop photosynthesising
+- B. Humans will become resistant to insects
+- C. Insect pests may evolve resistance to the Bt toxin
+- D. The toxin will make the maize grow too fast
 
 ### Health, Disease and the Development of Medicines
 
 #### Health and types of disease
 
-**Q454.** The WHO defines health as:
+**Q492.** The WHO defines health as:
 <!-- id: hea-1 -->
 
 - A. Absence of disease
@@ -3300,7 +3630,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Being physically fit
 - D. Having a strong immune system
 
-**Q455.** A communicable disease is one that:
+**Q493.** A communicable disease is one that:
 <!-- id: hea-2 -->
 
 - A. Is caused by lifestyle
@@ -3308,7 +3638,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Is inherited
 - D. Affects only the heart
 
-**Q456.** Which is a non-communicable disease?
+**Q494.** Which is a non-communicable disease?
 <!-- id: hea-3 -->
 
 - A. Tuberculosis
@@ -3316,12 +3646,12 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Coronary heart disease
 - D. Malaria
 
-**Q457.** Explain why HIV can make a person more likely to catch other diseases.
+**Q495.** Explain why HIV can make a person more likely to catch other diseases.
 <!-- id: hea-4 -->
 
 *Written answer*
 
-**Q458.** Which of the following is a non-communicable disease?
+**Q496.** Which of the following is a non-communicable disease?
 <!-- id: g08-hd-1 -->
 
 - A. Type 2 diabetes
@@ -3329,7 +3659,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Gonorrhoea
 - D. Measles
 
-**Q459.** How can poor mental health affect physical health?
+**Q497.** How can poor mental health affect physical health?
 <!-- id: g08-hd-2 -->
 
 - A. It permanently changes DNA
@@ -3337,7 +3667,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. It cannot, they are unrelated
 - D. Stress can weaken the immune system and make infections more likely
 
-**Q460.** Which factor does NOT directly increase the risk of a non-communicable disease?
+**Q498.** Which factor does NOT directly increase the risk of a non-communicable disease?
 <!-- id: g08-hd-3 -->
 
 - A. Excess alcohol
@@ -3345,7 +3675,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Poor diet
 - D. Being vaccinated against measles
 
-**Q461.** A person with a poor diet becomes malnourished and then catches infections more often. This is an example of:
+**Q499.** A person with a poor diet becomes malnourished and then catches infections more often. This is an example of:
 <!-- id: g08-hd-4 -->
 
 - A. A communicable disease causing a non-communicable one
@@ -3353,7 +3683,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. An inherited disease
 - D. An allergic reaction
 
-**Q462.** Which statement about the causes of disease is correct?
+**Q500.** Which statement about the causes of disease is correct?
 <!-- id: g08-hd-5 -->
 
 - A. Many diseases have multiple causes, including genes, lifestyle and environment
@@ -3361,24 +3691,33 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Inherited diseases are communicable
 - D. All diseases are caused by pathogens
 
-**Q463.** Explain why people living in poorer countries may be more at risk of both communicable and non-communicable diseases. (3 marks)
+**Q501.** Explain why people living in poorer countries may be more at risk of both communicable and non-communicable diseases. (3 marks)
 <!-- id: g08-hd-6 -->
 
 *Written answer*
 
-**Q464.** Describe what is meant by a communicable disease and give one example. (2 marks)
+**Q502.** Describe what is meant by a communicable disease and give one example. (2 marks)
 <!-- id: g08-hd-7 -->
 
 *Written answer*
 
-**Q465.** Explain how smoking can lead to a person developing a communicable disease more easily. (2 marks)
+**Q503.** Explain how smoking can lead to a person developing a communicable disease more easily. (2 marks)
 <!-- id: g08-hd-8 -->
 
 *Written answer*
 
+**Q504.** People with HIV are more likely to develop tuberculosis because:
+<!-- id: gcse-bio-health-and-types-of-disease-c1 -->
+*Challenge question*
+
+- A. HIV destroys white blood cells, weakening the immune system
+- B. HIV and TB are the same pathogen
+- C. TB is a non-communicable disease
+- D. HIV causes lung damage directly
+
 #### Pathogens and communicable diseases
 
-**Q466.** Which disease is caused by a protist?
+**Q505.** Which disease is caused by a protist?
 <!-- id: pat-1 -->
 
 - A. Cholera
@@ -3386,7 +3725,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Chalara ash dieback
 - D. Ebola
 
-**Q467.** Tuberculosis is caused by a:
+**Q506.** Tuberculosis is caused by a:
 <!-- id: pat-2 -->
 
 - A. Virus
@@ -3394,7 +3733,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Fungus
 - D. Protist
 
-**Q468.** Chalara ash dieback is caused by a:
+**Q507.** Chalara ash dieback is caused by a:
 <!-- id: pat-3 -->
 
 - A. Fungus
@@ -3402,7 +3741,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Bacterium
 - D. Protist
 
-**Q469.** Ebola causes:
+**Q508.** Ebola causes:
 <!-- id: pat-4 -->
 
 - A. Watery diarrhoea
@@ -3410,12 +3749,12 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Lung damage
 - D. Stomach ulcers
 
-**Q470.** Name the pathogen that causes stomach ulcers and how it spreads.
+**Q509.** Name the pathogen that causes stomach ulcers and how it spreads.
 <!-- id: pat-5 -->
 
 *Written answer*
 
-**Q471.** Which disease is caused by a virus and produces a red skin rash and fever?
+**Q510.** Which disease is caused by a virus and produces a red skin rash and fever?
 <!-- id: g08-pcd-1 -->
 
 - A. Measles
@@ -3423,7 +3762,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Rose black spot
 - D. Gonorrhoea
 
-**Q472.** Tobacco mosaic virus (TMV) affects plants by:
+**Q511.** Tobacco mosaic virus (TMV) affects plants by:
 <!-- id: g08-pcd-2 -->
 
 - A. Forming a mosaic pattern of discolouration that reduces photosynthesis
@@ -3431,7 +3770,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Making fruits larger
 - D. Causing black spots on leaves
 
-**Q473.** Which of these is a bacterial disease passed on by sexual contact?
+**Q512.** Which of these is a bacterial disease passed on by sexual contact?
 <!-- id: g08-pcd-3 -->
 
 - A. Gonorrhoea
@@ -3439,7 +3778,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. HIV
 - D. Malaria
 
-**Q474.** Rose black spot is caused by a:
+**Q513.** Rose black spot is caused by a:
 <!-- id: g08-pcd-4 -->
 
 - A. Protist
@@ -3447,7 +3786,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Fungus
 - D. Bacterium
 
-**Q475.** Which is the correct pairing of a disease and its type of pathogen?
+**Q514.** Which is the correct pairing of a disease and its type of pathogen?
 <!-- id: g08-pcd-5 -->
 
 - A. Salmonella: virus
@@ -3455,24 +3794,33 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Malaria: protist
 - D. Cholera: fungus
 
-**Q476.** Describe how the malaria protist is spread and how the spread can be reduced. (4 marks)
+**Q515.** Describe how the malaria protist is spread and how the spread can be reduced. (4 marks)
 <!-- id: g08-pcd-6 -->
 
 *Written answer*
 
-**Q477.** Explain how HIV leads to AIDS. (3 marks)
+**Q516.** Explain how HIV leads to AIDS. (3 marks)
 <!-- id: g08-pcd-7 -->
 
 *Written answer*
 
-**Q478.** Salmonella food poisoning is a bacterial disease. State two symptoms and two ways of reducing its spread. (4 marks)
+**Q517.** Salmonella food poisoning is a bacterial disease. State two symptoms and two ways of reducing its spread. (4 marks)
 <!-- id: g08-pcd-8 -->
 
 *Written answer*
 
+**Q518.** Which correctly matches the disease with its pathogen type and how it spreads?
+<!-- id: gcse-bio-pathogens-and-communicable-diseases-c1 -->
+*Challenge question*
+
+- A. Cholera: virus, spread by droplets
+- B. Chalara ash dieback: bacterium, spread by water
+- C. Tuberculosis: fungus, spread by insects
+- D. Malaria: protist, spread by mosquitoes
+
 #### How pathogens spread
 
-**Q479.** How is cholera spread?
+**Q519.** How is cholera spread?
 <!-- id: spr-1 -->
 
 - A. Airborne droplets
@@ -3480,7 +3828,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Mosquito bites
 - D. Sexual contact
 
-**Q480.** Which is the best way to reduce the spread of TB?
+**Q520.** Which is the best way to reduce the spread of TB?
 <!-- id: spr-2 -->
 
 - A. Drink clean water
@@ -3488,7 +3836,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Use mosquito nets
 - D. Wash fruit
 
-**Q481.** Chlamydia can be prevented by:
+**Q521.** Chlamydia can be prevented by:
 <!-- id: spr-3 -->
 
 - A. Using condoms
@@ -3496,12 +3844,12 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Mosquito nets
 - D. Antibiotics before contact
 
-**Q482.** Explain why washing hands reduces the spread of disease.
+**Q522.** Explain why washing hands reduces the spread of disease.
 <!-- id: spr-4 -->
 
 *Written answer*
 
-**Q483.** Malaria is spread from person to person by:
+**Q523.** Malaria is spread from person to person by:
 <!-- id: g09-spread-1 -->
 
 - A. Direct contact with skin
@@ -3509,7 +3857,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Droplets from coughs and sneezes
 - D. A vector, the female Anopheles mosquito
 
-**Q484.** Which pair correctly matches a disease with how it is spread?
+**Q524.** Which pair correctly matches a disease with how it is spread?
 <!-- id: g09-spread-2 -->
 
 - A. Measles, contaminated food
@@ -3517,7 +3865,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. HIV, airborne droplets
 - D. Cholera, mosquito bites
 
-**Q485.** Which action is most effective at reducing the spread of an airborne virus in a school?
+**Q525.** Which action is most effective at reducing the spread of an airborne virus in a school?
 <!-- id: g09-spread-3 -->
 
 - A. Covering the mouth and nose when coughing or sneezing
@@ -3525,7 +3873,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Washing fruit before eating it
 - D. Boiling all drinking water
 
-**Q486.** HIV is mainly spread through:
+**Q526.** HIV is mainly spread through:
 <!-- id: g09-spread-4 -->
 
 - A. Eating contaminated food
@@ -3533,7 +3881,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Exchange of body fluids such as blood during unprotected sex or by sharing needles
 - D. Breathing in droplets
 
-**Q487.** A sudden outbreak of cholera follows a flood that damages sewage pipes. Why does the disease spread quickly?
+**Q527.** A sudden outbreak of cholera follows a flood that damages sewage pipes. Why does the disease spread quickly?
 <!-- id: g09-spread-5 -->
 
 - A. Floodwater weakens people's skin
@@ -3541,24 +3889,33 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Faeces containing cholera bacteria contaminate drinking water
 - D. The bacteria become airborne in wet weather
 
-**Q488.** Explain how the rate of spread of a communicable disease could be reduced in a crowded city. (3 marks)
+**Q528.** Explain how the rate of spread of a communicable disease could be reduced in a crowded city. (3 marks)
 <!-- id: g09-spread-6 -->
 
 *Written answer*
 
-**Q489.** What is meant by a vector? Give one example of a disease it spreads. (2 marks)
+**Q529.** What is meant by a vector? Give one example of a disease it spreads. (2 marks)
 <!-- id: g09-spread-7 -->
 
 *Written answer*
 
-**Q490.** Describe how the number of cases of a disease spread by mosquitoes could be reduced. (3 marks)
+**Q530.** Describe how the number of cases of a disease spread by mosquitoes could be reduced. (3 marks)
 <!-- id: g09-spread-8 -->
 
 *Written answer*
 
+**Q531.** Which measure best reduces the spread of malaria?
+<!-- id: gcse-bio-how-pathogens-spread-c1 -->
+*Challenge question*
+
+- A. Washing hands before meals
+- B. Boiling drinking water
+- C. Using insecticide-treated nets and draining standing water where mosquitoes breed
+- D. Using condoms
+
 #### Plant diseases and defences *(Triple only)*
 
-**Q491.** Which is a physical plant defence?
+**Q532.** Which is a physical plant defence?
 <!-- id: pdd-1 -->
 
 - A. Antibacterial chemicals
@@ -3566,7 +3923,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Poisons
 - D. Hormones
 
-**Q492.** Plants can be identified as diseased by:
+**Q533.** Plants can be identified as diseased by:
 <!-- id: pdd-2 -->
 
 - A. Stunted growth, spots or discoloured leaves
@@ -3574,7 +3931,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. More flowers
 - D. Larger roots
 
-**Q493.** A plant lacking magnesium ions would show:
+**Q534.** A plant lacking magnesium ions would show:
 <!-- id: pdd-3 -->
 
 - A. Chlorosis (yellow leaves)
@@ -3582,12 +3939,12 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Extra flowers
 - D. Thick roots
 
-**Q494.** Describe two ways scientists can identify a plant disease.
+**Q535.** Describe two ways scientists can identify a plant disease.
 <!-- id: pdd-4 -->
 
 *Written answer*
 
-**Q495.** Tobacco mosaic virus (TMV) affects plants by:
+**Q536.** Tobacco mosaic virus (TMV) affects plants by:
 <!-- id: g09-plant-1 -->
 
 - A. Making leaves curl due to insects
@@ -3595,7 +3952,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Producing a mosaic pattern of discolouration so photosynthesis is reduced
 - D. Causing roots to rot
 
-**Q496.** Rose black spot is caused by a:
+**Q537.** Rose black spot is caused by a:
 <!-- id: g09-plant-2 -->
 
 - A. Virus
@@ -3603,7 +3960,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Fungus
 - D. Protist
 
-**Q497.** A gardener finds yellow leaves and stunted growth on a plant. A lab test shows low nitrate ions in the soil. Why does nitrate deficiency stunt growth?
+**Q538.** A gardener finds yellow leaves and stunted growth on a plant. A lab test shows low nitrate ions in the soil. Why does nitrate deficiency stunt growth?
 <!-- id: g09-plant-3 -->
 
 - A. Nitrates are needed to make amino acids and proteins
@@ -3611,7 +3968,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Nitrates make cell walls from cellulose
 - D. Nitrates are needed to make starch for storage
 
-**Q498.** Which of these is a chemical plant defence?
+**Q539.** Which of these is a chemical plant defence?
 <!-- id: g09-plant-4 -->
 
 - A. Antibacterial compounds in the leaves
@@ -3619,7 +3976,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Thorns
 - D. Leaves that fold when touched
 
-**Q499.** Some plants have leaves that look like the leaves of a distasteful species or have patterns that mimic insect eggs. This is an example of:
+**Q540.** Some plants have leaves that look like the leaves of a distasteful species or have patterns that mimic insect eggs. This is an example of:
 <!-- id: g09-plant-5 -->
 
 - A. A deficiency symptom
@@ -3627,24 +3984,33 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Mimicry to deter herbivores or egg-laying insects
 - D. A cuticle
 
-**Q500.** Describe how a gardener could show that a plant disease is caused by a virus and not a mineral deficiency. (3 marks)
+**Q541.** Describe how a gardener could show that a plant disease is caused by a virus and not a mineral deficiency. (3 marks)
 <!-- id: g09-plant-6 -->
 
 *Written answer*
 
-**Q501.** Explain how the waxy cuticle and cell walls protect a plant from disease. (2 marks)
+**Q542.** Explain how the waxy cuticle and cell walls protect a plant from disease. (2 marks)
 <!-- id: g09-plant-7 -->
 
 *Written answer*
 
-**Q502.** Explain why aphids can cause serious damage to crop plants. (3 marks)
+**Q543.** Explain why aphids can cause serious damage to crop plants. (3 marks)
 <!-- id: g09-plant-8 -->
 
 *Written answer*
 
+**Q544.** Which is a chemical defence of plants against pathogens?
+<!-- id: gcse-bio-plant-diseases-and-defences-c1 -->
+*Challenge question*
+
+- A. A waxy cuticle
+- B. Cellulose cell walls
+- C. Producing antiseptic or antibacterial substances
+- D. Layers of dead cells in bark
+
 #### Physical and chemical barriers
 
-**Q503.** How does mucus in the airways help defend the body?
+**Q545.** How does mucus in the airways help defend the body?
 <!-- id: bar-1 -->
 
 - A. It kills all viruses
@@ -3652,7 +4018,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. It makes antibodies
 - D. It forms clots
 
-**Q504.** Which enzyme in tears kills bacteria?
+**Q546.** Which enzyme in tears kills bacteria?
 <!-- id: bar-2 -->
 
 - A. Amylase
@@ -3660,7 +4026,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Lipase
 - D. Protease
 
-**Q505.** Stomach acid helps defence by:
+**Q547.** Stomach acid helps defence by:
 <!-- id: bar-3 -->
 
 - A. Killing pathogens in food
@@ -3668,12 +4034,12 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Producing antibodies
 - D. Clotting blood
 
-**Q506.** Explain how the skin protects against infection.
+**Q548.** Explain how the skin protects against infection.
 <!-- id: bar-4 -->
 
 *Written answer*
 
-**Q507.** Cilia in the trachea help to defend against infection by:
+**Q549.** Cilia in the trachea help to defend against infection by:
 <!-- id: g09-barr-1 -->
 
 - A. Engulfing pathogens
@@ -3681,7 +4047,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Wafting mucus containing trapped pathogens upwards
 - D. Killing bacteria with acid
 
-**Q508.** Which is a physical barrier to pathogens?
+**Q550.** Which is a physical barrier to pathogens?
 <!-- id: g09-barr-2 -->
 
 - A. Hydrochloric acid in the stomach
@@ -3689,7 +4055,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Hairs in the nose
 - D. Antibodies in blood
 
-**Q509.** Platelets help prevent entry of pathogens through a cut by:
+**Q551.** Platelets help prevent entry of pathogens through a cut by:
 <!-- id: g09-barr-3 -->
 
 - A. Producing antitoxins
@@ -3697,7 +4063,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Making lysozyme
 - D. Engulfing bacteria
 
-**Q510.** Smoking damages the lining of the airways. Why does this increase the risk of chest infections?
+**Q552.** Smoking damages the lining of the airways. Why does this increase the risk of chest infections?
 <!-- id: g09-barr-4 -->
 
 - A. It makes mucus more acidic
@@ -3705,7 +4071,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. It increases the amount of stomach acid
 - D. It destroys cilia so mucus and trapped pathogens are not removed
 
-**Q511.** Why does the low pH of stomach acid protect against pathogens that are swallowed?
+**Q553.** Why does the low pH of stomach acid protect against pathogens that are swallowed?
 <!-- id: g09-barr-5 -->
 
 - A. The acid clots blood
@@ -3713,24 +4079,33 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. The acid kills many pathogens
 - D. The acid forms mucus
 
-**Q512.** Explain two ways the nose helps prevent pathogens reaching the lungs. (2 marks)
+**Q554.** Explain two ways the nose helps prevent pathogens reaching the lungs. (2 marks)
 <!-- id: g09-barr-6 -->
 
 *Written answer*
 
-**Q513.** Tears and saliva contain lysozyme. Explain how this helps protect the body. (2 marks)
+**Q555.** Tears and saliva contain lysozyme. Explain how this helps protect the body. (2 marks)
 <!-- id: g09-barr-7 -->
 
 *Written answer*
 
-**Q514.** Describe what happens when skin is cut and explain why this is important. (3 marks)
+**Q556.** Describe what happens when skin is cut and explain why this is important. (3 marks)
 <!-- id: g09-barr-8 -->
 
 *Written answer*
 
+**Q557.** Lysozyme in tears protects against infection by:
+<!-- id: gcse-bio-physical-and-chemical-barriers-c1 -->
+*Challenge question*
+
+- A. Trapping dust
+- B. Producing antibodies
+- C. Breaking down bacterial cell walls
+- D. Killing viruses inside cells
+
 #### The immune response
 
-**Q515.** Which cells produce antibodies?
+**Q558.** Which cells produce antibodies?
 <!-- id: imm-1 -->
 
 - A. Red blood cells
@@ -3738,7 +4113,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Platelets
 - D. Phagocytes
 
-**Q516.** An antigen is:
+**Q559.** An antigen is:
 <!-- id: imm-2 -->
 
 - A. A protein on the surface of a pathogen that the immune system recognises
@@ -3746,7 +4121,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. A medicine
 - D. A hormone
 
-**Q517.** Why is the secondary response faster than the primary response?
+**Q560.** Why is the secondary response faster than the primary response?
 <!-- id: imm-3 -->
 
 - A. The pathogen is weaker
@@ -3754,13 +4129,13 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Antibiotics are present
 - D. Red blood cells help
 
-**Q518.** Describe how lymphocytes respond to a new pathogen.
+**Q561.** Describe how lymphocytes respond to a new pathogen.
 <!-- id: imm-4 -->
 *Higher tier only*
 
 *Written answer*
 
-**Q519.** A phagocyte destroys a pathogen by:
+**Q562.** A phagocyte destroys a pathogen by:
 <!-- id: g09-imm-1 -->
 
 - A. Engulfing and digesting it
@@ -3768,7 +4143,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Releasing antitoxins
 - D. Producing antibodies
 
-**Q520.** What do antitoxins do?
+**Q563.** What do antitoxins do?
 <!-- id: g09-imm-2 -->
 
 - A. Form memory cells
@@ -3776,7 +4151,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Engulf bacteria
 - D. Neutralise toxins released by pathogens
 
-**Q521.** Why can an antibody for one pathogen not be used against another?
+**Q564.** Why can an antibody for one pathogen not be used against another?
 <!-- id: g09-imm-3 -->
 
 - A. Antibodies are only made after vaccination
@@ -3784,7 +4159,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. The antibody shape is complementary to one specific antigen
 - D. Other pathogens do not have antigens
 
-**Q522.** Which statement correctly describes memory lymphocytes?
+**Q565.** Which statement correctly describes memory lymphocytes?
 <!-- id: g09-imm-4 -->
 
 - A. They engulf pathogens
@@ -3792,7 +4167,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. They die after infection ends
 - D. They carry antitoxins
 
-**Q523.** A person is infected by a pathogen for the first time. What happens to the antibody concentration in their blood compared to a second infection with the same pathogen?
+**Q566.** A person is infected by a pathogen for the first time. What happens to the antibody concentration in their blood compared to a second infection with the same pathogen?
 <!-- id: g09-imm-5 -->
 
 - A. It rises slowly and to a lower level the first time
@@ -3800,24 +4175,33 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. It does not rise the first time
 - D. It rises faster and higher the first time
 
-**Q524.** Explain how white blood cells defend the body against a pathogen. (4 marks)
+**Q567.** Explain how white blood cells defend the body against a pathogen. (4 marks)
 <!-- id: g09-imm-6 -->
 
 *Written answer*
 
-**Q525.** Explain why a person who has recovered from chickenpox is unlikely to get it again. (3 marks)
+**Q568.** Explain why a person who has recovered from chickenpox is unlikely to get it again. (3 marks)
 <!-- id: g09-imm-7 -->
 
 *Written answer*
 
-**Q526.** A person catches a new strain of flu even though they had flu last year. Explain why. (2 marks)
+**Q569.** A person catches a new strain of flu even though they had flu last year. Explain why. (2 marks)
 <!-- id: g09-imm-8 -->
 
 *Written answer*
 
+**Q570.** People rarely get chickenpox twice but can catch flu many times. The main reason is that:
+<!-- id: gcse-bio-the-immune-response-c1 -->
+*Challenge question*
+
+- A. Flu viruses change their antigens often, so memory lymphocytes no longer recognise them
+- B. Chickenpox is caused by bacteria
+- C. Flu viruses have no antigens
+- D. Memory cells only form after flu
+
 #### Vaccination
 
-**Q527.** A vaccine usually contains:
+**Q571.** A vaccine usually contains:
 <!-- id: vac-1 -->
 
 - A. Live, harmful pathogens
@@ -3825,7 +4209,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Antibiotics
 - D. Antibodies only
 
-**Q528.** Herd immunity means:
+**Q572.** Herd immunity means:
 <!-- id: vac-2 -->
 
 - A. Only animals are immune
@@ -3833,7 +4217,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Everyone gets ill together
 - D. Vaccines work instantly
 
-**Q529.** Vaccination works by:
+**Q573.** Vaccination works by:
 <!-- id: vac-3 -->
 
 - A. Killing pathogens directly
@@ -3841,12 +4225,12 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Replacing red blood cells
 - D. Blocking all antigens
 
-**Q530.** Give one advantage and one disadvantage of vaccination.
+**Q574.** Give one advantage and one disadvantage of vaccination.
 <!-- id: vac-4 -->
 
 *Written answer*
 
-**Q531.** Why are booster vaccinations sometimes given?
+**Q575.** Why are booster vaccinations sometimes given?
 <!-- id: g09-vacc-1 -->
 
 - A. To replace white blood cells
@@ -3854,7 +4238,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. To increase memory cell numbers and antibody levels for longer protection
 - D. To provide antibiotics
 
-**Q532.** The flu vaccine has to be updated every year because:
+**Q576.** The flu vaccine has to be updated every year because:
 <!-- id: g09-vacc-2 -->
 
 - A. The vaccine loses its effect in storage
@@ -3862,7 +4246,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Flu is caused by bacteria
 - D. Antibodies last only a week
 
-**Q533.** Which is a reason some people cannot be vaccinated and rely on herd immunity?
+**Q577.** Which is a reason some people cannot be vaccinated and rely on herd immunity?
 <!-- id: g09-vacc-3 -->
 
 - A. Vaccines only work on children
@@ -3870,7 +4254,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Herd immunity makes vaccines unnecessary for everyone
 - D. They have a weakened immune system or an allergy to a vaccine ingredient
 
-**Q534.** Why do vaccines contain dead or weakened pathogens rather than live, harmful ones?
+**Q578.** Why do vaccines contain dead or weakened pathogens rather than live, harmful ones?
 <!-- id: g09-vacc-4 -->
 
 - A. They work as antibiotics
@@ -3878,7 +4262,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. They are cheaper to make
 - D. They still carry antigens but cannot cause the disease
 
-**Q535.** A disease needs 95% of a population to be vaccinated to prevent outbreaks. In a town of 20 000 people, 17 800 are vaccinated. What happens?
+**Q579.** A disease needs 95% of a population to be vaccinated to prevent outbreaks. In a town of 20 000 people, 17 800 are vaccinated. What happens?
 <!-- id: g09-vacc-5 -->
 *Higher tier only*
 
@@ -3887,24 +4271,33 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Herd immunity is not reached because only 89% are vaccinated
 - D. Herd immunity is reached because the number is over 80%
 
-**Q536.** Explain how a vaccine gives protection against a disease. (4 marks)
+**Q580.** Explain how a vaccine gives protection against a disease. (4 marks)
 <!-- id: g09-vacc-6 -->
 
 *Written answer*
 
-**Q537.** Explain why a high vaccination rate protects people who are not vaccinated. (3 marks)
+**Q581.** Explain why a high vaccination rate protects people who are not vaccinated. (3 marks)
 <!-- id: g09-vacc-7 -->
 
 *Written answer*
 
-**Q538.** Suggest why some parents choose not to vaccinate their children, and explain a possible consequence for the population. (3 marks)
+**Q582.** Suggest why some parents choose not to vaccinate their children, and explain a possible consequence for the population. (3 marks)
 <!-- id: g09-vacc-8 -->
 
 *Written answer*
 
+**Q583.** Herd immunity protects unvaccinated people because:
+<!-- id: gcse-bio-vaccination-c1 -->
+*Challenge question*
+
+- A. They receive antibodies from vaccinated people
+- B. The pathogen dies out immediately
+- C. When most people are immune, the pathogen has few hosts to spread through
+- D. Vaccines can be passed on by touch
+
 #### Antibiotics
 
-**Q539.** Antibiotics work against:
+**Q584.** Antibiotics work against:
 <!-- id: abx-1 -->
 
 - A. Viruses
@@ -3912,7 +4305,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Fungi and viruses
 - D. All pathogens
 
-**Q540.** Why can't antibiotics treat viral infections?
+**Q585.** Why can't antibiotics treat viral infections?
 <!-- id: abx-2 -->
 
 - A. Viruses are too big
@@ -3920,7 +4313,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Viruses are dead
 - D. Antibiotics are made by viruses
 
-**Q541.** Which reduces the development of antibiotic-resistant bacteria?
+**Q586.** Which reduces the development of antibiotic-resistant bacteria?
 <!-- id: abx-3 -->
 
 - A. Stopping the course early
@@ -3928,12 +4321,12 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Using antibiotics for colds
 - D. Adding antibiotics to all animal feed
 
-**Q542.** Explain why it is important to finish a course of antibiotics.
+**Q587.** Explain why it is important to finish a course of antibiotics.
 <!-- id: abx-4 -->
 
 *Written answer*
 
-**Q543.** Who first noticed that a mould (Penicillium) killed bacteria growing on an agar plate?
+**Q588.** Who first noticed that a mould (Penicillium) killed bacteria growing on an agar plate?
 <!-- id: g10-abx-1 -->
 
 - A. Alexander Fleming
@@ -3941,7 +4334,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Joseph Lister
 - D. Louis Pasteur
 
-**Q544.** How do antibiotic-resistant strains of bacteria arise?
+**Q589.** How do antibiotic-resistant strains of bacteria arise?
 <!-- id: g10-abx-2 -->
 
 - A. Antibiotics cause the bacteria to digest themselves
@@ -3949,7 +4342,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. The bacteria choose to become resistant
 - D. A random mutation gives resistance and the resistant bacteria survive and reproduce when antibiotics are used
 
-**Q545.** Why is MRSA difficult to treat?
+**Q590.** Why is MRSA difficult to treat?
 <!-- id: g10-abx-3 -->
 
 - A. It reproduces by meiosis
@@ -3957,7 +4350,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. It is resistant to many antibiotics
 - D. It only infects plants
 
-**Q546.** Which of these is the best treatment for a person with a headache caused by a cold virus?
+**Q591.** Which of these is the best treatment for a person with a headache caused by a cold virus?
 <!-- id: g10-abx-4 -->
 
 - A. An antibiotic
@@ -3965,7 +4358,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. A double dose of penicillin
 - D. A vaccine against bacteria
 
-**Q547.** A culture of bacteria doubles in number every 20 minutes. Starting with 200 bacteria, how many are there after 2 hours (assuming no resistance and no deaths)?
+**Q592.** A culture of bacteria doubles in number every 20 minutes. Starting with 200 bacteria, how many are there after 2 hours (assuming no resistance and no deaths)?
 <!-- id: g10-abx-5 -->
 *Higher tier only*
 
@@ -3974,24 +4367,33 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. 25 600
 - D. 1200
 
-**Q548.** Explain how the overuse of antibiotics has led to an increase in antibiotic-resistant bacteria. (4 marks)
+**Q593.** Explain how the overuse of antibiotics has led to an increase in antibiotic-resistant bacteria. (4 marks)
 <!-- id: g10-abx-6 -->
 
 *Written answer*
 
-**Q549.** Describe an experiment using agar plates to test which of two antibiotics is more effective against a bacterium. (4 marks)
+**Q594.** Describe an experiment using agar plates to test which of two antibiotics is more effective against a bacterium. (4 marks)
 <!-- id: g10-abx-7 -->
 
 *Written answer*
 
-**Q550.** Suggest two ways that doctors and the public can help slow the spread of antibiotic resistance. (2 marks)
+**Q595.** Suggest two ways that doctors and the public can help slow the spread of antibiotic resistance. (2 marks)
 <!-- id: g10-abx-8 -->
 
 *Written answer*
 
+**Q596.** Why are antibiotics not prescribed for colds?
+<!-- id: gcse-bio-antibiotics-c1 -->
+*Challenge question*
+
+- A. Colds are caused by bacteria that are too small
+- B. Colds are caused by viruses, and antibiotics only act on bacteria
+- C. Antibiotics make viruses stronger
+- D. Colds are non-communicable
+
 #### Developing new medicines
 
-**Q551.** What is the first stage of testing a new drug?
+**Q597.** What is the first stage of testing a new drug?
 <!-- id: dnm-1 -->
 
 - A. Testing on patients
@@ -3999,7 +4401,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Selling it
 - D. Testing on volunteers with high doses
 
-**Q552.** In a double-blind trial:
+**Q598.** In a double-blind trial:
 <!-- id: dnm-2 -->
 
 - A. Only patients don't know who gets the drug
@@ -4007,7 +4409,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Everyone knows
 - D. Only animals are used
 
-**Q553.** A placebo is:
+**Q599.** A placebo is:
 <!-- id: dnm-3 -->
 
 - A. A stronger dose
@@ -4015,12 +4417,12 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. A vaccine
 - D. An antibiotic
 
-**Q554.** Why is a new drug tested on healthy volunteers first, at low doses?
+**Q600.** Why is a new drug tested on healthy volunteers first, at low doses?
 <!-- id: dnm-4 -->
 
 *Written answer*
 
-**Q555.** Which medicine was originally discovered in the bark of the willow tree?
+**Q601.** Which medicine was originally discovered in the bark of the willow tree?
 <!-- id: g10-dnm-1 -->
 
 - A. Digitalis
@@ -4028,7 +4430,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Insulin
 - D. Penicillin
 
-**Q556.** Which drug, used to treat heart conditions, comes from the foxglove plant?
+**Q602.** Which drug, used to treat heart conditions, comes from the foxglove plant?
 <!-- id: g10-dnm-2 -->
 
 - A. Penicillin
@@ -4036,7 +4438,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Digitalis
 - D. Aspirin
 
-**Q557.** Why do scientists publish their drug trial results in peer-reviewed journals?
+**Q603.** Why do scientists publish their drug trial results in peer-reviewed journals?
 <!-- id: g10-dnm-3 -->
 
 - A. So that patients choose which drug to take
@@ -4044,7 +4446,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. So other experts can check the methods and conclusions before they are accepted
 - D. So the drug can be sold immediately
 
-**Q558.** Why must a clinical trial use a large number of patients?
+**Q604.** Why must a clinical trial use a large number of patients?
 <!-- id: g10-dnm-4 -->
 
 - A. So the drug is cheaper to make
@@ -4052,7 +4454,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. To make sure everyone gets the drug
 - D. To avoid using a placebo
 
-**Q559.** In the 1950s thalidomide was given to pregnant women to treat morning sickness and caused birth defects. What was the main lesson for drug testing?
+**Q605.** In the 1950s thalidomide was given to pregnant women to treat morning sickness and caused birth defects. What was the main lesson for drug testing?
 <!-- id: g10-dnm-5 -->
 
 - A. Drugs must be thoroughly tested, including effects on pregnancy, before being licensed
@@ -4060,24 +4462,33 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Only healthy volunteers should be used
 - D. Drugs should never be tested on animals
 
-**Q560.** In a drug trial, 240 patients received the drug and 60 patients received a placebo. 192 of the drug group and 18 of the placebo group improved. Calculate the percentage of each group that improved and state what this suggests. (3 marks)
+**Q606.** In a drug trial, 240 patients received the drug and 60 patients received a placebo. 192 of the drug group and 18 of the placebo group improved. Calculate the percentage of each group that improved and state what this suggests. (3 marks)
 <!-- id: g10-dnm-6 -->
 
 *Written answer*
 
-**Q561.** Describe the stages in testing a new drug before it can be prescribed. (4 marks)
+**Q607.** Describe the stages in testing a new drug before it can be prescribed. (4 marks)
 <!-- id: g10-dnm-7 -->
 
 *Written answer*
 
-**Q562.** Give one ethical argument for and one against testing new drugs on animals. (2 marks)
+**Q608.** Give one ethical argument for and one against testing new drugs on animals. (2 marks)
 <!-- id: g10-dnm-8 -->
 
 *Written answer*
 
+**Q609.** Why are clinical trials often double-blind?
+<!-- id: gcse-bio-developing-new-medicines-c1 -->
+*Challenge question*
+
+- A. To test the drug on animals first
+- B. So that the drug is given to healthy volunteers
+- C. So neither patients nor doctors know who receives the drug, removing bias in reporting and assessment
+- D. To make the trial cheaper
+
 #### Monoclonal antibodies *(Triple only)*
 
-**Q563.** Monoclonal antibodies are made by:
+**Q610.** Monoclonal antibodies are made by:
 <!-- id: mab-1 -->
 
 - A. Plasma cells only
@@ -4085,7 +4496,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Bacteria
 - D. Red blood cells
 
-**Q564.** Why are monoclonal antibodies useful?
+**Q611.** Why are monoclonal antibodies useful?
 <!-- id: mab-2 -->
 
 - A. They bind to only one specific antigen
@@ -4093,7 +4504,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. They are antibiotics
 - D. They cure viruses directly
 
-**Q565.** Which is a use of monoclonal antibodies?
+**Q612.** Which is a use of monoclonal antibodies?
 <!-- id: mab-3 -->
 
 - A. Pregnancy tests
@@ -4101,13 +4512,13 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Selective breeding
 - D. Photosynthesis
 
-**Q566.** Explain how monoclonal antibodies can be used to treat cancer.
+**Q613.** Explain how monoclonal antibodies can be used to treat cancer.
 <!-- id: mab-4 -->
 *Higher tier only*
 
 *Written answer*
 
-**Q567.** In the production of monoclonal antibodies, which cells are fused with the lymphocytes?
+**Q614.** In the production of monoclonal antibodies, which cells are fused with the lymphocytes?
 <!-- id: g10-mab-1 -->
 
 - A. Red blood cells
@@ -4115,7 +4526,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Bacteria
 - D. Platelets
 
-**Q568.** What is the first step in producing monoclonal antibodies for a particular antigen?
+**Q615.** What is the first step in producing monoclonal antibodies for a particular antigen?
 <!-- id: g10-mab-2 -->
 
 - A. Injecting a mouse with the antigen so it makes specific lymphocytes
@@ -4123,7 +4534,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Growing hybridoma cells in a field
 - D. Fusing tumour cells with bacteria
 
-**Q569.** How does a pregnancy test detect pregnancy?
+**Q616.** How does a pregnancy test detect pregnancy?
 <!-- id: g10-mab-3 -->
 
 - A. It measures glucose in the blood
@@ -4131,7 +4542,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Antibodies on the test stick bind to hCG in the urine, causing a colour change
 - D. It detects insulin in the urine
 
-**Q570.** Why are monoclonal antibodies more effective than traditional cancer drugs at targeting tumours?
+**Q617.** Why are monoclonal antibodies more effective than traditional cancer drugs at targeting tumours?
 <!-- id: g10-mab-4 -->
 
 - A. They are made from bacteria
@@ -4139,7 +4550,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. They kill every cell in the body
 - D. They are cheaper to make
 
-**Q571.** Which is a limitation of monoclonal antibody treatments, which has meant they have not been as widely used as first hoped?
+**Q618.** Which is a limitation of monoclonal antibody treatments, which has meant they have not been as widely used as first hoped?
 <!-- id: g10-mab-5 -->
 
 - A. They cause side effects and are more complicated and costly to make than expected
@@ -4147,24 +4558,33 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. They cannot be made specific
 - D. They destroy red blood cells only
 
-**Q572.** Describe how monoclonal antibodies are made. (4 marks)
+**Q619.** Describe how monoclonal antibodies are made. (4 marks)
 <!-- id: g10-mab-6 -->
 
 *Written answer*
 
-**Q573.** Explain why a monoclonal antibody can be used to deliver a drug to cancer cells but not to healthy cells. (3 marks)
+**Q620.** Explain why a monoclonal antibody can be used to deliver a drug to cancer cells but not to healthy cells. (3 marks)
 <!-- id: g10-mab-7 -->
 
 *Written answer*
 
-**Q574.** Give two uses of monoclonal antibodies other than treating cancer. (2 marks)
+**Q621.** Give two uses of monoclonal antibodies other than treating cancer. (2 marks)
 <!-- id: g10-mab-8 -->
 
 *Written answer*
 
+**Q622.** To make monoclonal antibodies, mouse lymphocytes are fused with tumour (myeloma) cells. This is done because:
+<!-- id: gcse-bio-monoclonal-antibodies-c1 -->
+*Challenge question*
+
+- A. Tumour cells make antibodies themselves
+- B. Lymphocytes divide too quickly
+- C. It produces many different antibodies
+- D. The resulting hybridoma cells divide rapidly and make one specific antibody
+
 #### Non-communicable diseases
 
-**Q575.** Which is a risk factor for cardiovascular disease?
+**Q623.** Which is a risk factor for cardiovascular disease?
 <!-- id: ncd-1 -->
 
 - A. Regular exercise
@@ -4172,7 +4592,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Eating fruit
 - D. Drinking water
 
-**Q576.** Long-term heavy alcohol use can cause:
+**Q624.** Long-term heavy alcohol use can cause:
 <!-- id: ncd-2 -->
 
 - A. Liver cirrhosis
@@ -4180,7 +4600,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Malaria
 - D. Measles
 
-**Q577.** BMI is calculated as:
+**Q625.** BMI is calculated as:
 <!-- id: ncd-3 -->
 
 - A. mass (kg) ÷ height² (m²)
@@ -4188,12 +4608,12 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. mass × height
 - D. waist ÷ hip
 
-**Q578.** Calculate the BMI of a person with mass 72 kg and height 1.80 m.
+**Q626.** Calculate the BMI of a person with mass 72 kg and height 1.80 m.
 <!-- id: ncd-4 -->
 
 *Written answer*
 
-**Q579.** What is a benign tumour?
+**Q627.** What is a benign tumour?
 <!-- id: g10-ncd-1 -->
 
 - A. A cancer that has spread to other organs
@@ -4201,7 +4621,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. A tumour that always causes death
 - D. A growth of abnormal cells that stays in one place and does not invade other tissues
 
-**Q580.** Which of these is a known carcinogen?
+**Q628.** Which of these is a known carcinogen?
 <!-- id: g10-ncd-2 -->
 
 - A. Vitamin C
@@ -4209,7 +4629,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Oxygen
 - D. Ionising radiation such as X-rays
 
-**Q581.** Which statement about type 2 diabetes is correct?
+**Q629.** Which statement about type 2 diabetes is correct?
 <!-- id: g10-ncd-3 -->
 
 - A. It only affects children
@@ -4217,7 +4637,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. It is linked to obesity and body cells no longer responding properly to insulin
 - D. It can be cured by antibiotics
 
-**Q582.** A study finds that people who drink more coffee have a higher rate of heart disease, but many of these people also smoke. What does this show?
+**Q630.** A study finds that people who drink more coffee have a higher rate of heart disease, but many of these people also smoke. What does this show?
 <!-- id: g10-ncd-4 -->
 
 - A. Coffee definitely causes heart disease
@@ -4225,7 +4645,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Smoking has no effect
 - D. Coffee prevents heart disease
 
-**Q583.** A person has waist 102 cm and hip 96 cm measurements. What is their waist-to-hip ratio?
+**Q631.** A person has waist 102 cm and hip 96 cm measurements. What is their waist-to-hip ratio?
 <!-- id: g10-ncd-5 -->
 *Higher tier only*
 
@@ -4234,24 +4654,30 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. 0.50
 - D. 0.94
 
-**Q584.** Explain how smoking increases the risk of lung cancer and cardiovascular disease. (4 marks)
+**Q632.** Explain how smoking increases the risk of lung cancer and cardiovascular disease. (4 marks)
 <!-- id: g10-ncd-6 -->
 
 *Written answer*
 
-**Q585.** Describe the effects of non-communicable diseases on a country's economy and on families. (3 marks)
+**Q633.** Describe the effects of non-communicable diseases on a country's economy and on families. (3 marks)
 <!-- id: g10-ncd-7 -->
 
 *Written answer*
 
-**Q586.** Give two risk factors for cancer that are caused by lifestyle and one that is genetic. (3 marks)
+**Q634.** Give two risk factors for cancer that are caused by lifestyle and one that is genetic. (3 marks)
 <!-- id: g10-ncd-8 -->
+
+*Written answer*
+
+**Q635.** A man is 1.75 m tall and has a mass of 80 kg. Calculate his BMI and state what it suggests (18.5–24.9 healthy, 25–29.9 overweight).
+<!-- id: gcse-bio-non-communicable-diseases-c1 -->
+*Challenge question*
 
 *Written answer*
 
 #### Treating cardiovascular disease
 
-**Q587.** Statins are used to:
+**Q636.** Statins are used to:
 <!-- id: tcv-1 -->
 
 - A. Lower blood cholesterol
@@ -4259,7 +4685,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Kill bacteria
 - D. Dissolve stents
 
-**Q588.** A stent is:
+**Q637.** A stent is:
 <!-- id: tcv-2 -->
 
 - A. A drug
@@ -4267,7 +4693,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. A heart valve
 - D. A type of blood cell
 
-**Q589.** A disadvantage of heart bypass surgery is:
+**Q638.** A disadvantage of heart bypass surgery is:
 <!-- id: tcv-3 -->
 
 - A. It's non-invasive
@@ -4275,12 +4701,12 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. It's very cheap
 - D. It requires no anaesthetic
 
-**Q590.** Compare lifestyle changes with surgery as treatments for CVD.
+**Q639.** Compare lifestyle changes with surgery as treatments for CVD.
 <!-- id: tcv-4 -->
 
 *Written answer*
 
-**Q591.** Which drug is given to reduce the risk of blood clots forming in people with cardiovascular disease?
+**Q640.** Which drug is given to reduce the risk of blood clots forming in people with cardiovascular disease?
 <!-- id: g11-tcv-1 -->
 
 - A. Antibiotics
@@ -4288,7 +4714,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Statins
 - D. Anticoagulants such as warfarin
 
-**Q592.** Which is a disadvantage of taking statins long term?
+**Q641.** Which is a disadvantage of taking statins long term?
 <!-- id: g11-tcv-2 -->
 
 - A. They cannot be taken with a healthy diet
@@ -4296,7 +4722,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. They can cause side effects such as muscle pain or liver problems
 - D. They cure heart disease permanently
 
-**Q593.** A biological heart valve replacement is taken from:
+**Q642.** A biological heart valve replacement is taken from:
 <!-- id: g11-tcv-3 -->
 
 - A. A plastic mould
@@ -4304,7 +4730,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. The patient's leg muscle
 - D. A synthetic fibre
 
-**Q594.** Why must a patient with a mechanical heart valve take anticoagulants?
+**Q643.** Why must a patient with a mechanical heart valve take anticoagulants?
 <!-- id: g11-tcv-4 -->
 
 - A. Blood can clot on the artificial surface
@@ -4312,7 +4738,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. To stop the immune system attacking the valve
 - D. The valve releases cholesterol
 
-**Q595.** Which treatment is used for a patient whose heart is failing and who has no other option?
+**Q644.** Which treatment is used for a patient whose heart is failing and who has no other option?
 <!-- id: g11-tcv-5 -->
 
 - A. Taking statins
@@ -4320,26 +4746,35 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. A stent
 - D. A heart transplant
 
-**Q596.** Explain how a stent helps a patient with coronary heart disease. (3 marks)
+**Q645.** Explain how a stent helps a patient with coronary heart disease. (3 marks)
 <!-- id: g11-tcv-6 -->
 
 *Written answer*
 
-**Q597.** Give two advantages and two disadvantages of using a mechanical valve rather than a biological valve. (4 marks)
+**Q646.** Give two advantages and two disadvantages of using a mechanical valve rather than a biological valve. (4 marks)
 <!-- id: g11-tcv-7 -->
 
 *Written answer*
 
-**Q598.** Suggest why a heart transplant is not the first treatment offered to most people with heart disease. (2 marks)
+**Q647.** Suggest why a heart transplant is not the first treatment offered to most people with heart disease. (2 marks)
 <!-- id: g11-tcv-8 -->
 
 *Written answer*
+
+**Q648.** Which is a disadvantage of statins compared with stents?
+<!-- id: gcse-bio-treating-cardiovascular-disease-c1 -->
+*Challenge question*
+
+- A. They must be taken long-term and can have side effects such as muscle pain
+- B. They require major surgery
+- C. They cause immediate rejection
+- D. They only work in children
 
 ### Plant Structures and Their Functions
 
 #### Photosynthesis
 
-**Q599.** What is the word equation for photosynthesis?
+**Q649.** What is the word equation for photosynthesis?
 <!-- id: pho-1 -->
 
 - A. glucose + oxygen → carbon dioxide + water
@@ -4347,7 +4782,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. glucose → lactic acid
 - D. oxygen + water → glucose + carbon dioxide
 
-**Q600.** Photosynthesis is an endothermic reaction because:
+**Q650.** Photosynthesis is an endothermic reaction because:
 <!-- id: pho-2 -->
 
 - A. It releases heat
@@ -4355,7 +4790,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. It uses oxygen
 - D. It happens at night
 
-**Q601.** Where in the cell does photosynthesis happen?
+**Q651.** Where in the cell does photosynthesis happen?
 <!-- id: pho-3 -->
 
 - A. Mitochondria
@@ -4363,7 +4798,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Nucleus
 - D. Vacuole
 
-**Q602.** Plants as producers are important because they:
+**Q652.** Plants as producers are important because they:
 <!-- id: pho-4 -->
 
 - A. Make biomass that supplies energy to food chains
@@ -4371,12 +4806,12 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Eat consumers
 - D. Make carbon dioxide
 
-**Q603.** Give three uses of the glucose made in photosynthesis.
+**Q653.** Give three uses of the glucose made in photosynthesis.
 <!-- id: pho-5 -->
 
 *Written answer*
 
-**Q604.** What is the word equation for photosynthesis?
+**Q654.** What is the word equation for photosynthesis?
 <!-- id: g11-pho-1 -->
 
 - A. Carbon dioxide + oxygen → glucose + water
@@ -4384,7 +4819,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Glucose + oxygen → carbon dioxide + water
 - D. Carbon dioxide + water → glucose + oxygen
 
-**Q605.** Photosynthesis is described as an endothermic reaction because it:
+**Q655.** Photosynthesis is described as an endothermic reaction because it:
 <!-- id: g11-pho-2 -->
 
 - A. Uses oxygen
@@ -4392,7 +4827,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Transfers energy from the environment (light) to the plant
 - D. Only happens at night
 
-**Q606.** Where in a plant cell does photosynthesis take place?
+**Q656.** Where in a plant cell does photosynthesis take place?
 <!-- id: g11-pho-3 -->
 
 - A. Mitochondria
@@ -4400,7 +4835,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Chloroplasts
 - D. Vacuole
 
-**Q607.** Which substance is used to test a leaf for starch?
+**Q657.** Which substance is used to test a leaf for starch?
 <!-- id: g11-pho-4 -->
 
 - A. Iodine solution
@@ -4408,7 +4843,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Limewater
 - D. Benedict's solution
 
-**Q608.** Which is NOT a use of the glucose made in photosynthesis?
+**Q658.** Which is NOT a use of the glucose made in photosynthesis?
 <!-- id: g11-pho-5 -->
 
 - A. Making amino acids with nitrate ions
@@ -4416,24 +4851,33 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Respiration
 - D. Making cellulose for cell walls
 
-**Q609.** Describe how glucose produced in photosynthesis is used or stored by a plant. (4 marks)
+**Q659.** Describe how glucose produced in photosynthesis is used or stored by a plant. (4 marks)
 <!-- id: g11-pho-6 -->
 
 *Written answer*
 
-**Q610.** A leaf is dipped in boiling water, then heated in ethanol, then rinsed and iodine added. Explain why the leaf is heated in ethanol. (2 marks)
+**Q660.** A leaf is dipped in boiling water, then heated in ethanol, then rinsed and iodine added. Explain why the leaf is heated in ethanol. (2 marks)
 <!-- id: g11-pho-7 -->
 
 *Written answer*
 
-**Q611.** Explain why a variegated leaf, which has green and white areas, only turns blue-black with iodine in the green areas. (3 marks)
+**Q661.** Explain why a variegated leaf, which has green and white areas, only turns blue-black with iodine in the green areas. (3 marks)
 <!-- id: g11-pho-8 -->
 
 *Written answer*
 
+**Q662.** Photosynthesis is described as endothermic because:
+<!-- id: gcse-bio-photosynthesis-c1 -->
+*Challenge question*
+
+- A. Energy is transferred from the environment (light) to the chloroplasts
+- B. It releases heat
+- C. It only happens in hot conditions
+- D. It produces oxygen
+
 #### Limiting factors
 
-**Q612.** Which is NOT a limiting factor of photosynthesis?
+**Q663.** Which is NOT a limiting factor of photosynthesis?
 <!-- id: lim-1 -->
 
 - A. Light intensity
@@ -4441,7 +4885,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Temperature
 - D. Oxygen concentration
 
-**Q613.** Light intensity is inversely proportional to:
+**Q664.** Light intensity is inversely proportional to:
 <!-- id: lim-2 -->
 *Higher tier only*
 
@@ -4450,7 +4894,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Temperature
 - D. CO₂
 
-**Q614.** A lamp is moved from 10 cm to 20 cm from a plant. The light intensity becomes:
+**Q665.** A lamp is moved from 10 cm to 20 cm from a plant. The light intensity becomes:
 <!-- id: lim-3 -->
 *Higher tier only*
 
@@ -4459,7 +4903,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Double
 - D. The same
 
-**Q615.** On a graph of rate vs light intensity, the line levels off because:
+**Q666.** On a graph of rate vs light intensity, the line levels off because:
 <!-- id: lim-4 -->
 
 - A. The plant dies
@@ -4467,12 +4911,12 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Light is no longer needed
 - D. Enzymes are denatured
 
-**Q616.** Explain why rate of photosynthesis falls at very high temperatures.
+**Q667.** Explain why rate of photosynthesis falls at very high temperatures.
 <!-- id: lim-5 -->
 
 *Written answer*
 
-**Q617.** A plant is in bright light and warm conditions but the rate of photosynthesis is low. The most likely limiting factor is:
+**Q668.** A plant is in bright light and warm conditions but the rate of photosynthesis is low. The most likely limiting factor is:
 <!-- id: g11-lim-1 -->
 
 - A. Soil pH
@@ -4480,7 +4924,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Carbon dioxide concentration
 - D. Nitrogen
 
-**Q618.** Why do commercial growers sometimes burn paraffin in greenhouses?
+**Q669.** Why do commercial growers sometimes burn paraffin in greenhouses?
 <!-- id: g11-lim-2 -->
 
 - A. To kill pests
@@ -4488,7 +4932,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. To reduce humidity
 - D. To block excess light
 
-**Q619.** A lamp 20 cm from a plant gives a light intensity of 16 units. What is the intensity at 40 cm?
+**Q670.** A lamp 20 cm from a plant gives a light intensity of 16 units. What is the intensity at 40 cm?
 <!-- id: g11-lim-3 -->
 *Higher tier only*
 
@@ -4497,7 +4941,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. 2 units
 - D. 8 units
 
-**Q620.** Which factor does a pondweed bubble-counting experiment usually vary?
+**Q671.** Which factor does a pondweed bubble-counting experiment usually vary?
 <!-- id: g11-lim-4 -->
 
 - A. Colour of the beaker
@@ -4505,7 +4949,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Distance of the lamp from the pondweed
 - D. Mass of the pondweed
 
-**Q621.** The rate of photosynthesis increases with temperature up to about 45°C, then falls sharply. The fall is because:
+**Q672.** The rate of photosynthesis increases with temperature up to about 45°C, then falls sharply. The fall is because:
 <!-- id: g11-lim-5 -->
 
 - A. Water freezes
@@ -4513,24 +4957,33 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Enzymes denature
 - D. Chlorophyll turns white
 
-**Q622.** Describe how you could use a pondweed to investigate the effect of light intensity on the rate of photosynthesis. (4 marks)
+**Q673.** Describe how you could use a pondweed to investigate the effect of light intensity on the rate of photosynthesis. (4 marks)
 <!-- id: g11-lim-6 -->
 
 *Written answer*
 
-**Q623.** Explain why a graph of photosynthesis rate against CO₂ concentration levels off. (2 marks)
+**Q674.** Explain why a graph of photosynthesis rate against CO₂ concentration levels off. (2 marks)
 <!-- id: g11-lim-7 -->
 
 *Written answer*
 
-**Q624.** A farmer grows tomatoes in a greenhouse. Suggest and explain three ways to increase yield by controlling limiting factors. (3 marks)
+**Q675.** A farmer grows tomatoes in a greenhouse. Suggest and explain three ways to increase yield by controlling limiting factors. (3 marks)
 <!-- id: g11-lim-8 -->
 
 *Written answer*
 
+**Q676.** A lamp is moved from 10 cm to 20 cm away from a plant. The light intensity at the plant becomes:
+<!-- id: gcse-bio-limiting-factors-c1 -->
+*Challenge question*
+
+- A. Half of the original
+- B. One quarter of the original
+- C. Twice the original
+- D. Unchanged
+
 #### Xylem, phloem and root hair cells
 
-**Q625.** Xylem vessels transport:
+**Q677.** Xylem vessels transport:
 <!-- id: xyl-1 -->
 
 - A. Sugars
@@ -4538,7 +4991,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Oxygen only
 - D. Hormones only
 
-**Q626.** Which feature describes xylem?
+**Q678.** Which feature describes xylem?
 <!-- id: xyl-2 -->
 
 - A. Living cells with sieve plates
@@ -4546,7 +4999,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Cells with many chloroplasts
 - D. Cells with root hairs
 
-**Q627.** How do root hair cells take up mineral ions?
+**Q679.** How do root hair cells take up mineral ions?
 <!-- id: xyl-3 -->
 
 - A. Osmosis
@@ -4554,12 +5007,12 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Active transport
 - D. Translocation
 
-**Q628.** Explain how root hair cells are adapted for absorbing water.
+**Q680.** Explain how root hair cells are adapted for absorbing water.
 <!-- id: xyl-4 -->
 
 *Written answer*
 
-**Q629.** Which tissue forms the transport system carrying water up from the roots?
+**Q681.** Which tissue forms the transport system carrying water up from the roots?
 <!-- id: g11-xyl-1 -->
 
 - A. Epidermis
@@ -4567,7 +5020,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Phloem
 - D. Xylem
 
-**Q630.** What substance strengthens the walls of xylem vessels?
+**Q682.** What substance strengthens the walls of xylem vessels?
 <!-- id: g11-xyl-2 -->
 
 - A. Chitin
@@ -4575,7 +5028,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Lignin
 - D. Starch
 
-**Q631.** Which is a function of companion cells in the phloem?
+**Q683.** Which is a function of companion cells in the phloem?
 <!-- id: g11-xyl-3 -->
 
 - A. Provide energy for loading sucrose
@@ -4583,7 +5036,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Absorb light
 - D. Store starch only
 
-**Q632.** Water enters a root hair cell by osmosis because the cell sap has:
+**Q684.** Water enters a root hair cell by osmosis because the cell sap has:
 <!-- id: g11-xyl-4 -->
 
 - A. A lower water potential than the soil
@@ -4591,7 +5044,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. No water
 - D. A higher water potential than the soil
 
-**Q633.** Phloem sieve tube cells have few organelles and holes in their end walls. What is the benefit of this?
+**Q685.** Phloem sieve tube cells have few organelles and holes in their end walls. What is the benefit of this?
 <!-- id: g11-xyl-5 -->
 
 - A. Allows light in
@@ -4599,24 +5052,33 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Lets sucrose solution flow easily between cells
 - D. Stops water leaving
 
-**Q634.** Describe the path taken by water from the soil to the air through a plant. (4 marks)
+**Q686.** Describe the path taken by water from the soil to the air through a plant. (4 marks)
 <!-- id: g11-xyl-6 -->
 
 *Written answer*
 
-**Q635.** Explain why root hair cells have many mitochondria. (2 marks)
+**Q687.** Explain why root hair cells have many mitochondria. (2 marks)
 <!-- id: g11-xyl-7 -->
 
 *Written answer*
 
-**Q636.** Explain two ways in which xylem vessels are adapted for their function. (4 marks)
+**Q688.** Explain two ways in which xylem vessels are adapted for their function. (4 marks)
 <!-- id: g11-xyl-8 -->
 
 *Written answer*
 
+**Q689.** Which statement correctly compares xylem and phloem?
+<!-- id: gcse-bio-xylem-phloem-and-root-hair-cells-c1 -->
+*Challenge question*
+
+- A. Both are made of living cells
+- B. Xylem carries sugars; phloem carries water
+- C. Phloem is strengthened with lignin
+- D. Xylem vessels are dead and strengthened with lignin; phloem sieve tubes are living, with companion cells
+
 #### Transpiration
 
-**Q637.** Transpiration is:
+**Q690.** Transpiration is:
 <!-- id: trn-1 -->
 
 - A. The loss of water vapour from leaves
@@ -4624,7 +5086,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Absorption of light
 - D. Root growth
 
-**Q638.** Which conditions increase the rate of transpiration?
+**Q691.** Which conditions increase the rate of transpiration?
 <!-- id: trn-2 -->
 
 - A. Cold and humid
@@ -4632,7 +5094,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Dark and still
 - D. Cold and still
 
-**Q639.** What controls the opening and closing of stomata?
+**Q692.** What controls the opening and closing of stomata?
 <!-- id: trn-3 -->
 
 - A. Root hair cells
@@ -4640,7 +5102,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Phloem
 - D. Xylem
 
-**Q640.** Which apparatus measures water uptake by a shoot?
+**Q693.** Which apparatus measures water uptake by a shoot?
 <!-- id: trn-4 -->
 
 - A. Calorimeter
@@ -4648,12 +5110,12 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Quadrat
 - D. Respirometer
 
-**Q641.** An air bubble in a potometer moves 30 mm in 5 minutes. Calculate the rate of water uptake in mm/min.
+**Q694.** An air bubble in a potometer moves 30 mm in 5 minutes. Calculate the rate of water uptake in mm/min.
 <!-- id: trn-5 -->
 
 *Written answer*
 
-**Q642.** Which statement best describes the transpiration stream?
+**Q695.** Which statement best describes the transpiration stream?
 <!-- id: g12-trn-1 -->
 
 - A. Sugars moving from leaves to roots in phloem
@@ -4661,7 +5123,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Oxygen diffusing into the leaf through stomata
 - D. Mineral ions being actively transported into root hairs
 
-**Q643.** Which adaptation of a leaf reduces water loss while still allowing gas exchange?
+**Q696.** Which adaptation of a leaf reduces water loss while still allowing gas exchange?
 <!-- id: g12-trn-2 -->
 
 - A. Stomata that can close when water is scarce
@@ -4669,7 +5131,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. A very large number of stomata open at all times
 - D. A thin cuticle on the upper surface
 
-**Q644.** Why do most stomata in a typical leaf lie on the lower surface?
+**Q697.** Why do most stomata in a typical leaf lie on the lower surface?
 <!-- id: g12-trn-3 -->
 
 - A. Water enters the leaf there
@@ -4677,7 +5139,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. To absorb more light
 - D. It is cooler and less exposed to sun and wind, so less water is lost
 
-**Q645.** On a hot, dry, windy day the rate of transpiration is high. Which explains the effect of wind?
+**Q698.** On a hot, dry, windy day the rate of transpiration is high. Which explains the effect of wind?
 <!-- id: g12-trn-4 -->
 
 - A. Wind lowers the temperature so evaporation stops
@@ -4685,7 +5147,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Wind blows away water vapour near the leaf, keeping the concentration gradient steep
 - D. Wind increases humidity around the leaf
 
-**Q646.** A potometer is used to compare transpiration in still air and with a fan. Which variable must be kept the same?
+**Q699.** A potometer is used to compare transpiration in still air and with a fan. Which variable must be kept the same?
 <!-- id: g12-trn-5 -->
 
 - A. The speed of the fan
@@ -4693,24 +5155,30 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. The distance the bubble moves
 - D. The time taken for the bubble to move
 
-**Q647.** Explain how guard cells open and close a stoma. (3 marks)
+**Q700.** Explain how guard cells open and close a stoma. (3 marks)
 <!-- id: g12-trn-6 -->
 
 *Written answer*
 
-**Q648.** In a potometer experiment the bubble moved 42 mm in 6 minutes in the light, and 18 mm in 6 minutes in the dark. Calculate the rate of water uptake in each condition and suggest why they differ. (3 marks)
+**Q701.** In a potometer experiment the bubble moved 42 mm in 6 minutes in the light, and 18 mm in 6 minutes in the dark. Calculate the rate of water uptake in each condition and suggest why they differ. (3 marks)
 <!-- id: g12-trn-7 -->
 
 *Written answer*
 
-**Q649.** Give two reasons why transpiration is useful to a plant despite the water lost.
+**Q702.** Give two reasons why transpiration is useful to a plant despite the water lost.
 <!-- id: g12-trn-8 -->
+
+*Written answer*
+
+**Q703.** In a potometer, a bubble moves 15 mm in 5 minutes along a capillary tube of radius 0.5 mm. Calculate the rate of water uptake in mm³ per minute.
+<!-- id: gcse-bio-transpiration-c1 -->
+*Challenge question*
 
 *Written answer*
 
 #### Translocation *(Triple only)*
 
-**Q650.** Translocation is the movement of:
+**Q704.** Translocation is the movement of:
 <!-- id: tra-1 -->
 
 - A. Water in xylem
@@ -4718,7 +5186,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Oxygen through stomata
 - D. Minerals into roots
 
-**Q651.** Phloem cells have:
+**Q705.** Phloem cells have:
 <!-- id: tra-2 -->
 
 - A. Lignin walls
@@ -4726,7 +5194,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. No cytoplasm
 - D. Root hairs
 
-**Q652.** Translocation requires energy because:
+**Q706.** Translocation requires energy because:
 <!-- id: tra-3 -->
 
 - A. Sucrose is actively loaded into the phloem
@@ -4734,12 +5202,12 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Light is absorbed
 - D. It is passive
 
-**Q653.** State two differences between xylem and phloem.
+**Q707.** State two differences between xylem and phloem.
 <!-- id: tra-4 -->
 
 *Written answer*
 
-**Q654.** Where are sugars made and where are they delivered during translocation?
+**Q708.** Where are sugars made and where are they delivered during translocation?
 <!-- id: g12-tra-1 -->
 
 - A. Made in stomata, delivered to the air
@@ -4747,7 +5215,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Made in leaves (sources), delivered to growing and storage regions (sinks)
 - D. Made in xylem, delivered to phloem
 
-**Q655.** A metabolic poison that stops respiration reduces translocation. This is because:
+**Q709.** A metabolic poison that stops respiration reduces translocation. This is because:
 <!-- id: g12-tra-2 -->
 
 - A. Water cannot enter the xylem
@@ -4755,7 +5223,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Stomata will not open
 - D. Sieve plates dissolve
 
-**Q656.** Which statement about phloem tissue is correct?
+**Q710.** Which statement about phloem tissue is correct?
 <!-- id: g12-tra-3 -->
 
 - A. It is made of living sieve tube cells with companion cells alongside
@@ -4763,7 +5231,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. It has no cytoplasm in any of its cells
 - D. It is made of dead cells strengthened with lignin
 
-**Q657.** A plant stores energy in a potato tuber as starch rather than sucrose. Why is starch better for storage?
+**Q711.** A plant stores energy in a potato tuber as starch rather than sucrose. Why is starch better for storage?
 <!-- id: g12-tra-4 -->
 
 - A. It is easier to transport
@@ -4771,7 +5239,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. It is soluble and affects osmosis in cells
 - D. It is insoluble and does not change the water potential of the cells
 
-**Q658.** Which is a correct difference between translocation and transpiration?
+**Q712.** Which is a correct difference between translocation and transpiration?
 <!-- id: g12-tra-5 -->
 
 - A. Transpiration needs energy from respiration in companion cells
@@ -4779,24 +5247,33 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Translocation can move substances in both directions; transpiration moves water upwards only
 - D. Translocation needs no living cells
 
-**Q659.** Describe how phloem is adapted for transporting sugars. (3 marks)
+**Q713.** Describe how phloem is adapted for transporting sugars. (3 marks)
 <!-- id: g12-tra-6 -->
 
 *Written answer*
 
-**Q660.** Explain why sugars made in the leaves of a plant in summer are moved to the roots by autumn.
+**Q714.** Explain why sugars made in the leaves of a plant in summer are moved to the roots by autumn.
 <!-- id: g12-tra-7 -->
 
 *Written answer*
 
-**Q661.** A scientist ring-barks a tree by removing a ring of bark including the phloem. Explain why sugars build up above the ring, but the tree does not immediately lose water uptake. (3 marks)
+**Q715.** A scientist ring-barks a tree by removing a ring of bark including the phloem. Explain why sugars build up above the ring, but the tree does not immediately lose water uptake. (3 marks)
 <!-- id: g12-tra-8 -->
 
 *Written answer*
 
+**Q716.** Which statement about translocation is correct?
+<!-- id: gcse-bio-translocation-c1 -->
+*Challenge question*
+
+- A. Water is moved in the phloem by transpiration
+- B. Sucrose moves only upwards in the xylem
+- C. Translocation needs no energy
+- D. Sucrose is moved in the phloem, both up and down the plant, and the process needs energy
+
 #### Plant hormones *(Triple only)*
 
-**Q662.** Auxins cause shoots to bend towards light because:
+**Q717.** Auxins cause shoots to bend towards light because:
 <!-- id: phr-1 -->
 
 - A. Auxin collects on the shaded side and causes cells there to elongate
@@ -4804,7 +5281,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Auxin speeds photosynthesis
 - D. Gravity pulls them
 
-**Q663.** In roots, auxin:
+**Q718.** In roots, auxin:
 <!-- id: phr-2 -->
 
 - A. Increases elongation
@@ -4812,7 +5289,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Has no effect
 - D. Kills cells
 
-**Q664.** Which hormone causes fruit to ripen?
+**Q719.** Which hormone causes fruit to ripen?
 <!-- id: phr-3 -->
 
 - A. Auxin
@@ -4820,12 +5297,12 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Ethene
 - D. Insulin
 
-**Q665.** Explain positive gravitropism in roots.
+**Q720.** Explain positive gravitropism in roots.
 <!-- id: phr-4 -->
 
 *Written answer*
 
-**Q666.** Which hormone stimulates seed germination?
+**Q721.** Which hormone stimulates seed germination?
 <!-- id: g12-phr-1 -->
 
 - A. Gibberellin
@@ -4833,7 +5310,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Ethene
 - D. Auxin
 
-**Q667.** A shoot tip is covered with an opaque cap. The shoot is lit from one side. What happens?
+**Q722.** A shoot tip is covered with an opaque cap. The shoot is lit from one side. What happens?
 <!-- id: g12-phr-2 -->
 
 - A. It stops living immediately
@@ -4841,7 +5318,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. It grows straight with no bending
 - D. It bends away from the light
 
-**Q668.** Why is a rooting powder containing auxin used on plant cuttings?
+**Q723.** Why is a rooting powder containing auxin used on plant cuttings?
 <!-- id: g12-phr-3 -->
 
 - A. It kills bacteria
@@ -4849,7 +5326,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. It makes the stem thinner
 - D. It causes leaves to fall off
 
-**Q669.** Selective weedkillers contain synthetic auxins. How do they kill broad-leaved weeds in lawns?
+**Q724.** Selective weedkillers contain synthetic auxins. How do they kill broad-leaved weeds in lawns?
 <!-- id: g12-phr-4 -->
 
 - A. They cause abnormally fast, uncontrolled growth in broad-leaved weeds so they die
@@ -4857,7 +5334,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. They make weeds ripen early
 - D. They stop photosynthesis in grass
 
-**Q670.** Fruit growers store bananas in a sealed room with a controlled gas. Which hormone could be removed to delay ripening, or added to speed it up?
+**Q725.** Fruit growers store bananas in a sealed room with a controlled gas. Which hormone could be removed to delay ripening, or added to speed it up?
 <!-- id: g12-phr-5 -->
 
 - A. Ethene
@@ -4865,24 +5342,33 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Gibberellin
 - D. Auxin
 
-**Q671.** Explain how unequal distribution of auxin causes a shoot to grow towards light. (3 marks)
+**Q726.** Explain how unequal distribution of auxin causes a shoot to grow towards light. (3 marks)
 <!-- id: g12-phr-6 -->
 
 *Written answer*
 
-**Q672.** Give three uses of plant hormones in agriculture or horticulture.
+**Q727.** Give three uses of plant hormones in agriculture or horticulture.
 <!-- id: g12-phr-7 -->
 
 *Written answer*
 
-**Q673.** A seedling is placed on its side in the dark. Describe and explain the response of the shoot. (3 marks)
+**Q728.** A seedling is placed on its side in the dark. Describe and explain the response of the shoot. (3 marks)
 <!-- id: g12-phr-8 -->
 
 *Written answer*
 
+**Q729.** A shoot is lit from one side. Auxin:
+<!-- id: gcse-bio-plant-hormones-c1 -->
+*Challenge question*
+
+- A. Accumulates on the lit side, so the shoot bends away
+- B. Accumulates on the shaded side, causing more cell elongation there, so the shoot bends towards the light
+- C. Is destroyed by light everywhere
+- D. Stops all cell growth
+
 #### Plant adaptations *(Triple only)*
 
-**Q674.** Which adaptation helps cacti reduce water loss?
+**Q730.** Which adaptation helps cacti reduce water loss?
 <!-- id: pad-1 -->
 
 - A. Large thin leaves
@@ -4890,7 +5376,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Many stomata
 - D. Shallow narrow roots only
 
-**Q675.** Why do leaves have a large surface area?
+**Q731.** Why do leaves have a large surface area?
 <!-- id: pad-2 -->
 
 - A. To absorb more light
@@ -4898,7 +5384,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. To reduce gas exchange
 - D. To trap insects
 
-**Q676.** Plants in dry climates often have:
+**Q732.** Plants in dry climates often have:
 <!-- id: pad-3 -->
 
 - A. Thin cuticles
@@ -4906,12 +5392,12 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. No roots
 - D. Huge stomata
 
-**Q677.** Give two adaptations of plants living in extreme cold.
+**Q733.** Give two adaptations of plants living in extreme cold.
 <!-- id: pad-4 -->
 
 *Written answer*
 
-**Q678.** Which feature helps a plant in a very dry desert to survive?
+**Q734.** Which feature helps a plant in a very dry desert to survive?
 <!-- id: g12-pad-1 -->
 
 - A. Large broad leaves
@@ -4919,7 +5405,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Fleshy stems that store water
 - D. Thin cuticle and many open stomata
 
-**Q679.** Marram grass, which grows on windy sand dunes, rolls its leaves with stomata inside. This reduces water loss because:
+**Q735.** Marram grass, which grows on windy sand dunes, rolls its leaves with stomata inside. This reduces water loss because:
 <!-- id: g12-pad-2 -->
 
 - A. It increases light absorption
@@ -4927,7 +5413,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. It increases the wind speed
 - D. It closes the xylem
 
-**Q680.** Why do cacti have extensive shallow root systems?
+**Q736.** Why do cacti have extensive shallow root systems?
 <!-- id: g12-pad-3 -->
 
 - A. To anchor in deep soil
@@ -4935,7 +5421,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. To store sugars
 - D. To absorb water quickly from brief rainfall near the surface
 
-**Q681.** A water lily has stomata mainly on the upper surface of floating leaves. Why?
+**Q737.** A water lily has stomata mainly on the upper surface of floating leaves. Why?
 <!-- id: g12-pad-4 -->
 
 - A. To increase transpiration through xylem
@@ -4943,7 +5429,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. The lower surface is in water so gas exchange with air is only possible on the upper surface
 - D. To reduce light absorption
 
-**Q682.** Which adaptation would NOT help a plant to reduce water loss?
+**Q738.** Which adaptation would NOT help a plant to reduce water loss?
 <!-- id: g12-pad-5 -->
 
 - A. A large number of stomata on both surfaces
@@ -4951,26 +5437,35 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Thick waxy cuticle
 - D. Hairs on the leaf surface
 
-**Q683.** Explain how a thick waxy cuticle and a reduced leaf surface area help a plant live in a hot, dry habitat. (3 marks)
+**Q739.** Explain how a thick waxy cuticle and a reduced leaf surface area help a plant live in a hot, dry habitat. (3 marks)
 <!-- id: g12-pad-6 -->
 
 *Written answer*
 
-**Q684.** Describe two adaptations of a plant living in a water-logged habitat such as a pond.
+**Q740.** Describe two adaptations of a plant living in a water-logged habitat such as a pond.
 <!-- id: g12-pad-7 -->
 
 *Written answer*
 
-**Q685.** Some plants have thorns or poisons. Explain how these adaptations help the plant survive.
+**Q741.** Some plants have thorns or poisons. Explain how these adaptations help the plant survive.
 <!-- id: g12-pad-8 -->
 
 *Written answer*
+
+**Q742.** Marram grass has rolled leaves, sunken stomata and hairs. These reduce water loss because they:
+<!-- id: gcse-bio-plant-adaptations-c1 -->
+*Challenge question*
+
+- A. Increase the surface area for transpiration
+- B. Help the leaves absorb water from the air
+- C. Trap humid air near the stomata, reducing the concentration gradient for water vapour
+- D. Make photosynthesis faster
 
 ### Animal Coordination, Control and Homeostasis
 
 #### Hormones and endocrine glands
 
-**Q686.** Hormones are carried around the body in:
+**Q743.** Hormones are carried around the body in:
 <!-- id: hor-1 -->
 
 - A. Nerves
@@ -4978,7 +5473,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Lymph only
 - D. Air
 
-**Q687.** Which gland is called the 'master gland'?
+**Q744.** Which gland is called the 'master gland'?
 <!-- id: hor-2 -->
 
 - A. Thyroid
@@ -4986,7 +5481,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Adrenal
 - D. Pancreas
 
-**Q688.** Compared to nerves, hormones:
+**Q745.** Compared to nerves, hormones:
 <!-- id: hor-3 -->
 
 - A. Act faster and briefly
@@ -4994,12 +5489,12 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Use electrical impulses
 - D. Only affect muscles
 
-**Q689.** Name the gland that produces insulin and the target organ.
+**Q746.** Name the gland that produces insulin and the target organ.
 <!-- id: hor-4 -->
 
 *Written answer*
 
-**Q690.** Which pair correctly matches an endocrine gland with a hormone it secretes?
+**Q747.** Which pair correctly matches an endocrine gland with a hormone it secretes?
 <!-- id: g13-hor-1 -->
 
 - A. Thyroid: insulin
@@ -5007,7 +5502,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Pancreas: thyroxine
 - D. Testes: adrenaline
 
-**Q691.** Hormones only affect certain cells in the body. This is because:
+**Q748.** Hormones only affect certain cells in the body. This is because:
 <!-- id: g13-hor-2 -->
 
 - A. Only those cells have receptors for that hormone
@@ -5015,7 +5510,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Only those cells are near the gland
 - D. Only those cells are supplied by blood
 
-**Q692.** Which gland is the main source of testosterone?
+**Q749.** Which gland is the main source of testosterone?
 <!-- id: g13-hor-3 -->
 
 - A. Testes
@@ -5023,7 +5518,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Adrenal gland
 - D. Pituitary gland
 
-**Q693.** Which of these is a feature of hormonal control but NOT of nervous control?
+**Q750.** Which of these is a feature of hormonal control but NOT of nervous control?
 <!-- id: g13-hor-4 -->
 
 - A. Acts on a precise area only
@@ -5031,7 +5526,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Chemical messenger travels in the blood
 - D. Response is very fast
 
-**Q694.** Which gland releases hormones that act on other endocrine glands?
+**Q751.** Which gland releases hormones that act on other endocrine glands?
 <!-- id: g13-hor-5 -->
 
 - A. Pituitary gland
@@ -5039,24 +5534,33 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Ovary
 - D. Adrenal gland
 
-**Q695.** Explain why the response to a hormone is usually slower than the response to a nerve impulse. (2 marks)
+**Q752.** Explain why the response to a hormone is usually slower than the response to a nerve impulse. (2 marks)
 <!-- id: g13-hor-6 -->
 
 *Written answer*
 
-**Q696.** State two differences between the endocrine system and the nervous system. (2 marks)
+**Q753.** State two differences between the endocrine system and the nervous system. (2 marks)
 <!-- id: g13-hor-7 -->
 
 *Written answer*
 
-**Q697.** Name the gland that secretes each of: (a) ADH, FSH, LH (b) testosterone (c) adrenaline. (3 marks)
+**Q754.** Name the gland that secretes each of: (a) ADH, FSH, LH (b) testosterone (c) adrenaline. (3 marks)
 <!-- id: g13-hor-8 -->
 
 *Written answer*
 
+**Q755.** The pituitary gland is often called the 'master gland' because it:
+<!-- id: gcse-bio-hormones-and-endocrine-glands-c1 -->
+*Challenge question*
+
+- A. Releases hormones that control other endocrine glands, such as TSH and FSH
+- B. Produces insulin
+- C. Controls all reflexes
+- D. Makes adrenaline
+
 #### Adrenaline and thyroxine
 
-**Q698.** Adrenaline is released by:
+**Q756.** Adrenaline is released by:
 <!-- id: adr-1 -->
 
 - A. The thyroid
@@ -5064,7 +5568,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. The pituitary
 - D. The testes
 
-**Q699.** Which is an effect of adrenaline?
+**Q757.** Which is an effect of adrenaline?
 <!-- id: adr-2 -->
 
 - A. Lower heart rate
@@ -5072,7 +5576,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Decreased breathing
 - D. Increased digestion
 
-**Q700.** Thyroxine controls:
+**Q758.** Thyroxine controls:
 <!-- id: adr-3 -->
 
 - A. Metabolic rate
@@ -5080,13 +5584,13 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Water balance
 - D. Menstruation
 
-**Q701.** Describe the negative feedback control of thyroxine.
+**Q759.** Describe the negative feedback control of thyroxine.
 <!-- id: adr-4 -->
 *Higher tier only*
 
 *Written answer*
 
-**Q702.** During a fright, adrenaline causes blood vessels to the muscles to:
+**Q760.** During a fright, adrenaline causes blood vessels to the muscles to:
 <!-- id: g13-adr-1 -->
 
 - A. Constrict, reducing blood flow
@@ -5094,7 +5598,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Stay unchanged
 - D. Close completely
 
-**Q703.** Why does adrenaline increase blood glucose concentration?
+**Q761.** Why does adrenaline increase blood glucose concentration?
 <!-- id: g13-adr-2 -->
 
 - A. To supply more glucose for respiration in muscles
@@ -5102,7 +5606,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. To stop digestion
 - D. To make the pancreas release more insulin
 
-**Q704.** An underactive thyroid gland would most likely cause:
+**Q762.** An underactive thyroid gland would most likely cause:
 <!-- id: g13-adr-3 -->
 
 - A. A faster heart rate
@@ -5110,7 +5614,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Weight loss and overheating
 - D. Weight gain and tiredness
 
-**Q705.** Thyroxine contains which element, essential in the diet for its production?
+**Q763.** Thyroxine contains which element, essential in the diet for its production?
 <!-- id: g13-adr-4 -->
 
 - A. Sodium
@@ -5118,7 +5622,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Calcium
 - D. Iodine
 
-**Q706.** When blood thyroxine level rises above normal, what happens?
+**Q764.** When blood thyroxine level rises above normal, what happens?
 <!-- id: g13-adr-5 -->
 *Higher tier only*
 
@@ -5127,25 +5631,34 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Adrenaline is released
 - D. The thyroid grows larger
 
-**Q707.** Describe the effects of adrenaline on the body during a stressful situation. (3 marks)
+**Q765.** Describe the effects of adrenaline on the body during a stressful situation. (3 marks)
 <!-- id: g13-adr-6 -->
 
 *Written answer*
 
-**Q708.** Explain why a person with too little thyroxine may gain weight. (2 marks)
+**Q766.** Explain why a person with too little thyroxine may gain weight. (2 marks)
 <!-- id: g13-adr-7 -->
 
 *Written answer*
 
-**Q709.** Explain how negative feedback keeps thyroxine level constant. (3 marks)
+**Q767.** Explain how negative feedback keeps thyroxine level constant. (3 marks)
 <!-- id: g13-adr-8 -->
 *Higher tier only*
 
 *Written answer*
 
+**Q768.** When the level of thyroxine in the blood is high:
+<!-- id: gcse-bio-adrenaline-and-thyroxine-c1 -->
+*Challenge question*
+
+- A. More TSH is released
+- B. Adrenaline levels fall
+- C. TSH release from the pituitary is inhibited, so thyroxine levels fall (negative feedback)
+- D. The thyroid makes more thyroxine
+
 #### The menstrual cycle
 
-**Q710.** Which hormone causes ovulation?
+**Q769.** Which hormone causes ovulation?
 <!-- id: mns-1 -->
 
 - A. FSH
@@ -5153,7 +5666,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Progesterone
 - D. Testosterone
 
-**Q711.** Which hormone causes an egg to mature in the ovary?
+**Q770.** Which hormone causes an egg to mature in the ovary?
 <!-- id: mns-2 -->
 
 - A. FSH
@@ -5161,7 +5674,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Oestrogen
 - D. Insulin
 
-**Q712.** Progesterone's main role is to:
+**Q771.** Progesterone's main role is to:
 <!-- id: mns-3 -->
 
 - A. Trigger ovulation
@@ -5169,13 +5682,13 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Stimulate FSH
 - D. Produce sperm
 
-**Q713.** Explain how oestrogen and progesterone affect FSH and LH.
+**Q772.** Explain how oestrogen and progesterone affect FSH and LH.
 <!-- id: mns-4 -->
 *Higher tier only*
 
 *Written answer*
 
-**Q714.** On which day of a typical 28-day cycle does ovulation usually occur?
+**Q773.** On which day of a typical 28-day cycle does ovulation usually occur?
 <!-- id: g13-mns-1 -->
 
 - A. Day 24
@@ -5183,7 +5696,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Day 7
 - D. Day 14
 
-**Q715.** Which structure releases progesterone after ovulation?
+**Q774.** Which structure releases progesterone after ovulation?
 <!-- id: g13-mns-2 -->
 
 - A. The pituitary gland
@@ -5191,7 +5704,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. The testes
 - D. The thyroid gland
 
-**Q716.** Menstruation (a period) happens when:
+**Q775.** Menstruation (a period) happens when:
 <!-- id: g13-mns-3 -->
 
 - A. The uterus lining breaks down
@@ -5199,7 +5712,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. FSH level peaks
 - D. Progesterone level is high
 
-**Q717.** Which hormone is secreted by the ovaries and repairs and thickens the uterus lining?
+**Q776.** Which hormone is secreted by the ovaries and repairs and thickens the uterus lining?
 <!-- id: g13-mns-4 -->
 
 - A. Oestrogen
@@ -5207,7 +5720,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. FSH
 - D. LH
 
-**Q718.** A surge in which hormone causes ovulation?
+**Q777.** A surge in which hormone causes ovulation?
 <!-- id: g13-mns-5 -->
 *Higher tier only*
 
@@ -5216,25 +5729,34 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. LH
 - D. Oestrogen
 
-**Q719.** Describe the roles of FSH in the menstrual cycle. (2 marks)
+**Q778.** Describe the roles of FSH in the menstrual cycle. (2 marks)
 <!-- id: g13-mns-6 -->
 
 *Written answer*
 
-**Q720.** Explain why progesterone level falls if the woman does not become pregnant. (2 marks)
+**Q779.** Explain why progesterone level falls if the woman does not become pregnant. (2 marks)
 <!-- id: g13-mns-7 -->
 
 *Written answer*
 
-**Q721.** Explain how oestrogen and progesterone affect FSH and LH. (4 marks)
+**Q780.** Explain how oestrogen and progesterone affect FSH and LH. (4 marks)
 <!-- id: g13-mns-8 -->
 *Higher tier only*
 
 *Written answer*
 
+**Q781.** Which event directly triggers ovulation?
+<!-- id: gcse-bio-the-menstrual-cycle-c1 -->
+*Challenge question*
+
+- A. A fall in oestrogen
+- B. A rise in progesterone
+- C. A fall in FSH
+- D. A surge in LH from the pituitary
+
 #### Contraception
 
-**Q722.** Which contraceptive also protects against STIs?
+**Q782.** Which contraceptive also protects against STIs?
 <!-- id: con-1 -->
 
 - A. Pill
@@ -5242,7 +5764,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Implant
 - D. IUD
 
-**Q723.** The combined pill contains:
+**Q783.** The combined pill contains:
 <!-- id: con-2 -->
 
 - A. Oestrogen and progesterone
@@ -5250,12 +5772,12 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Insulin
 - D. Testosterone
 
-**Q724.** Give one advantage and one disadvantage of hormonal contraception compared with barrier methods.
+**Q784.** Give one advantage and one disadvantage of hormonal contraception compared with barrier methods.
 <!-- id: con-3 -->
 
 *Written answer*
 
-**Q725.** How does the combined contraceptive pill prevent pregnancy?
+**Q785.** How does the combined contraceptive pill prevent pregnancy?
 <!-- id: g13-con-1 -->
 
 - A. It stops the uterus forming
@@ -5263,7 +5785,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. It stops FSH release so no eggs mature
 - D. It blocks the sperm duct
 
-**Q726.** Which method is a barrier method of contraception?
+**Q786.** Which method is a barrier method of contraception?
 <!-- id: g13-con-2 -->
 
 - A. Contraceptive implant
@@ -5271,7 +5793,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Injection of progesterone
 - D. Spermicide pill
 
-**Q727.** A contraceptive implant releases progesterone for several years. A disadvantage compared with condoms is that it:
+**Q787.** A contraceptive implant releases progesterone for several years. A disadvantage compared with condoms is that it:
 <!-- id: g13-con-3 -->
 
 - A. Does not protect against STIs
@@ -5279,7 +5801,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Needs repeated use
 - D. Is less effective
 
-**Q728.** Surgical sterilisation in a man involves:
+**Q788.** Surgical sterilisation in a man involves:
 <!-- id: g13-con-4 -->
 
 - A. Removing the prostate
@@ -5287,7 +5809,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Removing the testes
 - D. Cutting and tying the sperm ducts
 
-**Q729.** A copper IUD prevents pregnancy mainly by:
+**Q789.** A copper IUD prevents pregnancy mainly by:
 <!-- id: g13-con-5 -->
 
 - A. Releasing FSH
@@ -5295,24 +5817,33 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Preventing sperm surviving and egg implanting
 - D. Blocking the oviduct
 
-**Q730.** Give two advantages of using a condom rather than the contraceptive pill. (2 marks)
+**Q790.** Give two advantages of using a condom rather than the contraceptive pill. (2 marks)
 <!-- id: g13-con-6 -->
 
 *Written answer*
 
-**Q731.** Explain why the progesterone-only pill can prevent pregnancy even if it does not stop ovulation. (2 marks)
+**Q791.** Explain why the progesterone-only pill can prevent pregnancy even if it does not stop ovulation. (2 marks)
 <!-- id: g13-con-7 -->
 
 *Written answer*
 
-**Q732.** Evaluate the use of hormonal contraceptives for family planning. (3 marks)
+**Q792.** Evaluate the use of hormonal contraceptives for family planning. (3 marks)
 <!-- id: g13-con-8 -->
 
 *Written answer*
 
+**Q793.** Which contraceptive method also reduces the risk of sexually transmitted infections?
+<!-- id: gcse-bio-contraception-c1 -->
+*Challenge question*
+
+- A. The contraceptive pill
+- B. Condoms
+- C. A contraceptive implant
+- D. The intrauterine device
+
 #### Assisted reproductive technology
 
-**Q733.** In IVF, fertilisation takes place:
+**Q794.** In IVF, fertilisation takes place:
 <!-- id: art-1 -->
 
 - A. In the uterus
@@ -5320,7 +5851,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. In the oviduct
 - D. In the ovary
 
-**Q734.** Clomifene therapy treats infertility by:
+**Q795.** Clomifene therapy treats infertility by:
 <!-- id: art-2 -->
 *Higher tier only*
 
@@ -5329,12 +5860,12 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Lowering oestrogen
 - D. Destroying eggs
 
-**Q735.** Give two disadvantages of IVF.
+**Q796.** Give two disadvantages of IVF.
 <!-- id: art-3 -->
 
 *Written answer*
 
-**Q736.** In IVF, what is done to the woman before her eggs are collected?
+**Q797.** In IVF, what is done to the woman before her eggs are collected?
 <!-- id: g14-art-1 -->
 
 - A. She is given testosterone to stop ovulation permanently
@@ -5342,7 +5873,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. She is given insulin to prepare the ovaries
 - D. She is given FSH and LH to stimulate several eggs to mature
 
-**Q737.** Which statement about clomifene therapy is correct?
+**Q798.** Which statement about clomifene therapy is correct?
 <!-- id: g14-art-2 -->
 
 - A. It stops the embryo being rejected
@@ -5350,7 +5881,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. It is given to men to increase sperm count
 - D. It is a hormone treatment that helps women who do not ovulate
 
-**Q738.** After fertilisation in an IVF dish, embryos are allowed to develop until they are:
+**Q799.** After fertilisation in an IVF dish, embryos are allowed to develop until they are:
 <!-- id: g14-art-3 -->
 
 - A. Mixed with a second woman's eggs
@@ -5358,7 +5889,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Fully formed foetuses
 - D. Frozen permanently
 
-**Q739.** Why are only one or two embryos usually transferred to the uterus in IVF?
+**Q800.** Why are only one or two embryos usually transferred to the uterus in IVF?
 <!-- id: g14-art-4 -->
 
 - A. Embryos are too large for more
@@ -5366,7 +5897,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. More embryos make fertilisation less likely
 - D. The uterus cannot hold any more cells
 
-**Q740.** Which is a reason some people object to IVF?
+**Q801.** Which is a reason some people object to IVF?
 <!-- id: g14-art-5 -->
 
 - A. It never works
@@ -5374,24 +5905,33 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. It uses no hormones
 - D. It uses antibiotics
 
-**Q741.** Describe the main stages of IVF. (4 marks)
+**Q802.** Describe the main stages of IVF. (4 marks)
 <!-- id: g14-art-6 -->
 
 *Written answer*
 
-**Q742.** Explain how clomifene therapy can help a woman become pregnant. (3 marks)
+**Q803.** Explain how clomifene therapy can help a woman become pregnant. (3 marks)
 <!-- id: g14-art-7 -->
 
 *Written answer*
 
-**Q743.** Evaluate the use of IVF for a couple who cannot conceive naturally. (3 marks)
+**Q804.** Evaluate the use of IVF for a couple who cannot conceive naturally. (3 marks)
 <!-- id: g14-art-8 -->
 
 *Written answer*
 
+**Q805.** Clomifene therapy helps some women become pregnant by:
+<!-- id: gcse-bio-assisted-reproductive-technology-c1 -->
+*Challenge question*
+
+- A. Causing more FSH and LH to be released, so eggs mature and are released
+- B. Fertilising eggs outside the body
+- C. Blocking oestrogen permanently
+- D. Preventing the uterus lining from thickening
+
 #### Homeostasis
 
-**Q744.** Homeostasis is:
+**Q806.** Homeostasis is:
 <!-- id: hom-1 -->
 
 - A. Maintaining a constant internal environment
@@ -5399,7 +5939,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Changing body temperature constantly
 - D. Digestion
 
-**Q745.** Negative feedback means:
+**Q807.** Negative feedback means:
 <!-- id: hom-2 -->
 
 - A. A change triggers a response that reverses the change
@@ -5407,7 +5947,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Nothing happens
 - D. Hormones stop
 
-**Q746.** Why must body temperature be kept around 37 °C?
+**Q808.** Why must body temperature be kept around 37 °C?
 <!-- id: hom-3 -->
 
 - A. So enzymes work at their optimum
@@ -5415,12 +5955,12 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. To grow hair
 - D. To prevent osmosis
 
-**Q747.** Name three conditions controlled by homeostasis in humans.
+**Q809.** Name three conditions controlled by homeostasis in humans.
 <!-- id: hom-4 -->
 
 *Written answer*
 
-**Q748.** A thermometer in a fridge switches the cooling on when the temperature rises. This is similar to a body's:
+**Q810.** A thermometer in a fridge switches the cooling on when the temperature rises. This is similar to a body's:
 <!-- id: g14-hom-1 -->
 
 - A. Receptor and effector
@@ -5428,7 +5968,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Only a hormone
 - D. Only an enzyme
 
-**Q749.** In a homeostatic control system, what is the job of the coordination centre?
+**Q811.** In a homeostatic control system, what is the job of the coordination centre?
 <!-- id: g14-hom-2 -->
 
 - A. To process information and send instructions to effectors
@@ -5436,7 +5976,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. To store glucose
 - D. To detect stimuli
 
-**Q750.** Which of these is an effector?
+**Q812.** Which of these is an effector?
 <!-- id: g14-hom-3 -->
 
 - A. A sweat gland
@@ -5444,7 +5984,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. A temperature receptor in the skin
 - D. The hypothalamus
 
-**Q751.** Both nervous and hormonal systems are used in homeostasis. Which is a difference?
+**Q813.** Both nervous and hormonal systems are used in homeostasis. Which is a difference?
 <!-- id: g14-hom-4 -->
 
 - A. Hormones travel along neurones
@@ -5452,7 +5992,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Nervous responses are usually shorter lasting
 - D. Nerves use chemicals carried in blood
 
-**Q752.** If the control of internal conditions fails and blood glucose stays too high, this is most likely to:
+**Q814.** If the control of internal conditions fails and blood glucose stays too high, this is most likely to:
 <!-- id: g14-hom-5 -->
 
 - A. Make enzymes work better
@@ -5460,24 +6000,33 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Lower body temperature
 - D. Increase urea production
 
-**Q753.** Explain why it is important that the water content of the body is kept constant. (3 marks)
+**Q815.** Explain why it is important that the water content of the body is kept constant. (3 marks)
 <!-- id: g14-hom-6 -->
 
 *Written answer*
 
-**Q754.** Describe the roles of a receptor, a coordination centre and an effector in a control system. (3 marks)
+**Q816.** Describe the roles of a receptor, a coordination centre and an effector in a control system. (3 marks)
 <!-- id: g14-hom-7 -->
 
 *Written answer*
 
-**Q755.** Explain why a drop in body temperature below the optimum slows down metabolism. (2 marks)
+**Q817.** Explain why a drop in body temperature below the optimum slows down metabolism. (2 marks)
 <!-- id: g14-hom-8 -->
 
 *Written answer*
 
+**Q818.** Which statement best describes homeostasis?
+<!-- id: gcse-bio-homeostasis-c1 -->
+*Challenge question*
+
+- A. Maintaining a constant internal environment despite changes, mostly by negative feedback
+- B. Keeping all body processes as fast as possible
+- C. Changing body temperature to match the surroundings
+- D. Producing as many hormones as possible
+
 #### Thermoregulation *(Triple only)*
 
-**Q756.** Which part of the brain monitors body temperature?
+**Q819.** Which part of the brain monitors body temperature?
 <!-- id: thr-1 -->
 
 - A. Cerebellum
@@ -5485,7 +6034,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Medulla
 - D. Cerebrum
 
-**Q757.** When too hot, blood vessels near the skin:
+**Q820.** When too hot, blood vessels near the skin:
 <!-- id: thr-2 -->
 
 - A. Vasoconstrict
@@ -5493,7 +6042,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Close permanently
 - D. Stop carrying blood
 
-**Q758.** Shivering helps warm the body because:
+**Q821.** Shivering helps warm the body because:
 <!-- id: thr-3 -->
 
 - A. Muscles contract and respiration releases heat
@@ -5501,12 +6050,12 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. It dilates vessels
 - D. It lowers metabolism
 
-**Q759.** Explain how sweating cools the body.
+**Q822.** Explain how sweating cools the body.
 <!-- id: thr-4 -->
 
 *Written answer*
 
-**Q760.** In hot conditions, the thermoregulatory centre sends signals that cause:
+**Q823.** In hot conditions, the thermoregulatory centre sends signals that cause:
 <!-- id: g14-thr-1 -->
 
 - A. Hair erector muscles to contract
@@ -5514,7 +6063,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Shivering
 - D. Vasoconstriction
 
-**Q761.** In cold conditions, what happens to skin hairs?
+**Q824.** In cold conditions, what happens to skin hairs?
 <!-- id: g14-thr-2 -->
 
 - A. They are pulled upright to trap an insulating layer of air
@@ -5522,7 +6071,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. They release sweat
 - D. They lie flat
 
-**Q762.** Vasoconstriction in the cold means that:
+**Q825.** Vasoconstriction in the cold means that:
 <!-- id: g14-thr-3 -->
 
 - A. Blood vessels move deeper into the body
@@ -5530,7 +6079,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Blood vessels near the skin surface narrow, reducing heat loss
 - D. Blood vessels widen to bring more blood to the skin
 
-**Q763.** Which receptors detect the temperature of the blood passing through the brain?
+**Q826.** Which receptors detect the temperature of the blood passing through the brain?
 <!-- id: g14-thr-4 -->
 
 - A. Pancreas
@@ -5538,7 +6087,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Cerebellum
 - D. Retina
 
-**Q764.** On a very hot day a person sweats heavily. Why does the person's temperature fall as the sweat evaporates?
+**Q827.** On a very hot day a person sweats heavily. Why does the person's temperature fall as the sweat evaporates?
 <!-- id: g14-thr-5 -->
 
 - A. Sweat contains cold water
@@ -5546,24 +6095,33 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Sweat reduces respiration
 - D. Sweat blocks the pores
 
-**Q765.** Describe how the body responds when the core temperature rises above 37 °C. (3 marks)
+**Q828.** Describe how the body responds when the core temperature rises above 37 °C. (3 marks)
 <!-- id: g14-thr-6 -->
 
 *Written answer*
 
-**Q766.** Explain how shivering helps to raise body temperature. (3 marks)
+**Q829.** Explain how shivering helps to raise body temperature. (3 marks)
 <!-- id: g14-thr-7 -->
 
 *Written answer*
 
-**Q767.** Explain why a person who is too cold may feel less coordinated and have slower reactions. (2 marks)
+**Q830.** Explain why a person who is too cold may feel less coordinated and have slower reactions. (2 marks)
 <!-- id: g14-thr-8 -->
 
 *Written answer*
 
+**Q831.** Vasoconstriction reduces heat loss because:
+<!-- id: gcse-bio-thermoregulation-c1 -->
+*Challenge question*
+
+- A. Blood vessels move deeper into the skin
+- B. Sweat production increases
+- C. The heart stops pumping to the skin
+- D. Less blood flows through capillaries near the skin surface
+
 #### Controlling blood glucose
 
-**Q768.** When blood glucose is too high, the pancreas releases:
+**Q832.** When blood glucose is too high, the pancreas releases:
 <!-- id: glu-1 -->
 
 - A. Glucagon
@@ -5571,7 +6129,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Adrenaline
 - D. ADH
 
-**Q769.** Glucagon causes:
+**Q833.** Glucagon causes:
 <!-- id: glu-2 -->
 *Higher tier only*
 
@@ -5580,7 +6138,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. More insulin
 - D. Fat storage
 
-**Q770.** Glycogen is stored in:
+**Q834.** Glycogen is stored in:
 <!-- id: glu-3 -->
 
 - A. The liver and muscles
@@ -5588,13 +6146,13 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. The blood
 - D. The kidneys
 
-**Q771.** Describe what happens when blood glucose falls after exercise.
+**Q835.** Describe what happens when blood glucose falls after exercise.
 <!-- id: glu-4 -->
 *Higher tier only*
 
 *Written answer*
 
-**Q772.** Which organ detects changes in blood glucose and releases insulin and glucagon?
+**Q836.** Which organ detects changes in blood glucose and releases insulin and glucagon?
 <!-- id: g14-glu-1 -->
 
 - A. Kidney
@@ -5602,7 +6160,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Liver
 - D. Pancreas
 
-**Q773.** After a meal rich in carbohydrate, what happens to blood glucose concentration and the insulin level?
+**Q837.** After a meal rich in carbohydrate, what happens to blood glucose concentration and the insulin level?
 <!-- id: g14-glu-2 -->
 
 - A. Both fall
@@ -5610,7 +6168,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Glucose rises, insulin falls
 - D. Glucose falls, insulin rises
 
-**Q774.** Insulin lowers blood glucose by:
+**Q838.** Insulin lowers blood glucose by:
 <!-- id: g14-glu-3 -->
 
 - A. Making cells take in glucose and the liver convert it to glycogen
@@ -5618,7 +6176,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Making the kidneys excrete glucose
 - D. Stopping respiration
 
-**Q775.** Why do glucagon and insulin form a negative feedback system?
+**Q839.** Why do glucagon and insulin form a negative feedback system?
 <!-- id: g14-glu-4 -->
 *Higher tier only*
 
@@ -5627,7 +6185,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. They work only when glucose is normal
 - D. They have opposite effects that return glucose to the normal level
 
-**Q776.** A person's blood glucose falls during a long fast. Which response is correct?
+**Q840.** A person's blood glucose falls during a long fast. Which response is correct?
 <!-- id: g14-glu-5 -->
 *Higher tier only*
 
@@ -5636,25 +6194,34 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Insulin is released and glucose is stored
 - D. Glucagon is released and the liver converts glycogen to glucose
 
-**Q777.** Explain how blood glucose concentration is lowered after a meal. (4 marks)
+**Q841.** Explain how blood glucose concentration is lowered after a meal. (4 marks)
 <!-- id: g14-glu-6 -->
 
 *Written answer*
 
-**Q778.** Describe the roles of glucagon in controlling blood glucose. (3 marks)
+**Q842.** Describe the roles of glucagon in controlling blood glucose. (3 marks)
 <!-- id: g14-glu-7 -->
 *Higher tier only*
 
 *Written answer*
 
-**Q779.** A person's blood glucose is measured at 5 mmol/dm³ before a meal and 9 mmol/dm³ after. Suggest what happens next and why. (2 marks)
+**Q843.** A person's blood glucose is measured at 5 mmol/dm³ before a meal and 9 mmol/dm³ after. Suggest what happens next and why. (2 marks)
 <!-- id: g14-glu-8 -->
 
 *Written answer*
 
+**Q844.** After a meal, insulin lowers blood glucose mainly by:
+<!-- id: gcse-bio-controlling-blood-glucose-c1 -->
+*Challenge question*
+
+- A. Converting glycogen to glucose
+- B. Causing cells to take up glucose and the liver and muscles to convert it to glycogen
+- C. Increasing glucagon release
+- D. Making the kidneys excrete glucose
+
 #### Diabetes
 
-**Q780.** Type 1 diabetes is caused by:
+**Q845.** Type 1 diabetes is caused by:
 <!-- id: dia-1 -->
 
 - A. Cells not responding to insulin
@@ -5662,7 +6229,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Eating too much sugar
 - D. A virus
 
-**Q781.** Type 2 diabetes is linked to:
+**Q846.** Type 2 diabetes is linked to:
 <!-- id: dia-2 -->
 
 - A. Obesity and lack of exercise
@@ -5670,7 +6237,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Bacteria
 - D. Smoking only
 
-**Q782.** Type 1 diabetes is treated with:
+**Q847.** Type 1 diabetes is treated with:
 <!-- id: dia-3 -->
 
 - A. Antibiotics
@@ -5678,12 +6245,12 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Statins
 - D. Vaccines
 
-**Q783.** Give two ways type 2 diabetes can be controlled.
+**Q848.** Give two ways type 2 diabetes can be controlled.
 <!-- id: dia-4 -->
 
 *Written answer*
 
-**Q784.** Which organ detects a rise in blood glucose concentration and releases insulin?
+**Q849.** Which organ detects a rise in blood glucose concentration and releases insulin?
 <!-- id: g15-dia-1 -->
 
 - A. Pituitary gland
@@ -5691,7 +6258,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Pancreas
 - D. Kidney
 
-**Q785.** After a meal, insulin causes the liver to:
+**Q850.** After a meal, insulin causes the liver to:
 <!-- id: g15-dia-2 -->
 
 - A. Break glycogen down into glucose
@@ -5699,7 +6266,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Convert glucose into protein
 - D. Release more glucagon
 
-**Q786.** Glucagon is released when blood glucose concentration is too low. What is its effect?
+**Q851.** Glucagon is released when blood glucose concentration is too low. What is its effect?
 <!-- id: g15-dia-3 -->
 
 - A. Glycogen is converted to glucose and released into the blood
@@ -5707,7 +6274,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Glucose is excreted in urine
 - D. Glucose is converted to glycogen
 
-**Q787.** A person with type 2 diabetes has a high blood glucose concentration even though their pancreas produces insulin. The most likely reason is:
+**Q852.** A person with type 2 diabetes has a high blood glucose concentration even though their pancreas produces insulin. The most likely reason is:
 <!-- id: g15-dia-4 -->
 
 - A. Their kidneys reabsorb too much water
@@ -5715,7 +6282,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Their body cells no longer respond properly to insulin
 - D. Their liver makes too much glucagon
 
-**Q788.** Which of these is a negative feedback loop involving blood glucose?
+**Q853.** Which of these is a negative feedback loop involving blood glucose?
 <!-- id: g15-dia-5 -->
 
 - A. Low glucose, less glucagon, glucose stays low
@@ -5723,24 +6290,33 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. High glucose, less insulin, glucose rises further
 - D. Low glucose, more insulin, glucose falls further
 
-**Q789.** Explain how blood glucose concentration is brought back to normal after a meal rich in carbohydrate in a healthy person. (3 marks)
+**Q854.** Explain how blood glucose concentration is brought back to normal after a meal rich in carbohydrate in a healthy person. (3 marks)
 <!-- id: g15-dia-6 -->
 
 *Written answer*
 
-**Q790.** A person with type 1 diabetes eats a large meal but does not inject insulin. Describe and explain what happens to their blood glucose concentration. (2 marks)
+**Q855.** A person with type 1 diabetes eats a large meal but does not inject insulin. Describe and explain what happens to their blood glucose concentration. (2 marks)
 <!-- id: g15-dia-7 -->
 
 *Written answer*
 
-**Q791.** Suggest why a person with type 1 diabetes may inject insulin before a meal but should not take too large a dose. (3 marks)
+**Q856.** Suggest why a person with type 1 diabetes may inject insulin before a meal but should not take too large a dose. (3 marks)
 <!-- id: g15-dia-8 -->
 
 *Written answer*
 
+**Q857.** Why is type 2 diabetes often managed first with diet and exercise, whereas type 1 is not?
+<!-- id: gcse-bio-diabetes-c1 -->
+*Challenge question*
+
+- A. Type 1 is caused by diet
+- B. Type 2 can never be controlled by medicine
+- C. In type 2 the body still makes insulin but responds poorly, and lifestyle changes can improve this; in type 1 no insulin is made
+- D. Exercise produces insulin
+
 #### The kidneys and osmoregulation *(Triple only)*
 
-**Q792.** Which hormone controls the amount of water reabsorbed by the kidneys?
+**Q858.** Which hormone controls the amount of water reabsorbed by the kidneys?
 <!-- id: kid-1 -->
 
 - A. Insulin
@@ -5748,7 +6324,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. FSH
 - D. Adrenaline
 
-**Q793.** Urea is produced in the liver from:
+**Q859.** Urea is produced in the liver from:
 <!-- id: kid-2 -->
 
 - A. Glucose
@@ -5756,7 +6332,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Fats
 - D. Water
 
-**Q794.** Where does filtration (ultrafiltration) take place in a nephron?
+**Q860.** Where does filtration (ultrafiltration) take place in a nephron?
 <!-- id: kid-3 -->
 
 - A. Loop of Henle
@@ -5764,7 +6340,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Collecting duct
 - D. Ureter
 
-**Q795.** Which substance is completely reabsorbed in a healthy kidney?
+**Q861.** Which substance is completely reabsorbed in a healthy kidney?
 <!-- id: kid-4 -->
 
 - A. Urea
@@ -5772,13 +6348,13 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Excess water
 - D. Salt
 
-**Q796.** Explain what happens when blood water content is too low.
+**Q862.** Explain what happens when blood water content is too low.
 <!-- id: kid-5 -->
 *Higher tier only*
 
 *Written answer*
 
-**Q797.** Which of these is the correct order of the path of urine out of the body?
+**Q863.** Which of these is the correct order of the path of urine out of the body?
 <!-- id: g15-kid-1 -->
 
 - A. Kidney, ureter, bladder, urethra
@@ -5786,7 +6362,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Bladder, kidney, ureter, urethra
 - D. Kidney, bladder, ureter, urethra
 
-**Q798.** Which substance would you NOT expect to find in the filtrate in the Bowman's capsule of a healthy person?
+**Q864.** Which substance would you NOT expect to find in the filtrate in the Bowman's capsule of a healthy person?
 <!-- id: g15-kid-2 -->
 
 - A. Large protein molecules
@@ -5794,7 +6370,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Glucose
 - D. Urea
 
-**Q799.** A person runs a marathon on a hot day and sweats heavily. What happens to their urine?
+**Q865.** A person runs a marathon on a hot day and sweats heavily. What happens to their urine?
 <!-- id: g15-kid-3 -->
 
 - A. No change
@@ -5802,7 +6378,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Smaller volume, more concentrated
 - D. Larger volume, more concentrated
 
-**Q800.** Which hormone is released by the pituitary gland and acts on the kidney tubules?
+**Q866.** Which hormone is released by the pituitary gland and acts on the kidney tubules?
 <!-- id: g15-kid-4 -->
 
 - A. Insulin
@@ -5810,7 +6386,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. ADH
 - D. Oestrogen
 
-**Q801.** Glucose is found in the filtrate but not in the urine of a healthy person. This is because glucose is:
+**Q867.** Glucose is found in the filtrate but not in the urine of a healthy person. This is because glucose is:
 <!-- id: g15-kid-5 -->
 
 - A. Selectively reabsorbed into the blood
@@ -5818,24 +6394,33 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Filtered out by the liver
 - D. Broken down in the nephron
 
-**Q802.** Describe how the kidney produces urine from blood. (4 marks)
+**Q868.** Describe how the kidney produces urine from blood. (4 marks)
 <!-- id: g15-kid-6 -->
 
 *Written answer*
 
-**Q803.** A person drinks a large volume of water. Explain how negative feedback returns the water content of their blood to normal. (4 marks)
+**Q869.** A person drinks a large volume of water. Explain how negative feedback returns the water content of their blood to normal. (4 marks)
 <!-- id: g15-kid-7 -->
 
 *Written answer*
 
-**Q804.** Explain why urea must be removed from the body. Where is it made? (2 marks)
+**Q870.** Explain why urea must be removed from the body. Where is it made? (2 marks)
 <!-- id: g15-kid-8 -->
 
 *Written answer*
 
+**Q871.** Glucose is normally absent from urine because:
+<!-- id: gcse-bio-the-kidneys-and-osmoregulation-c1 -->
+*Challenge question*
+
+- A. Glucose is too large to be filtered
+- B. The liver removes it all
+- C. All the filtered glucose is selectively reabsorbed back into the blood in the nephron
+- D. ADH destroys glucose
+
 #### Treating kidney failure *(Triple only)*
 
-**Q805.** In dialysis, the dialysis fluid contains:
+**Q872.** In dialysis, the dialysis fluid contains:
 <!-- id: kft-1 -->
 
 - A. No glucose
@@ -5843,7 +6428,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Lots of urea
 - D. Pure water
 
-**Q806.** A disadvantage of a kidney transplant is:
+**Q873.** A disadvantage of a kidney transplant is:
 <!-- id: kft-2 -->
 
 - A. Must be repeated weekly
@@ -5851,12 +6436,12 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Can't be done
 - D. It's temporary
 
-**Q807.** Compare dialysis and transplants as treatments for kidney failure.
+**Q874.** Compare dialysis and transplants as treatments for kidney failure.
 <!-- id: kft-3 -->
 
 *Written answer*
 
-**Q808.** During dialysis, urea moves from the patient's blood into the dialysis fluid by:
+**Q875.** During dialysis, urea moves from the patient's blood into the dialysis fluid by:
 <!-- id: g15-tkf-1 -->
 
 - A. Osmosis
@@ -5864,7 +6449,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Active transport
 - D. Diffusion
 
-**Q809.** Why is the dialysis fluid kept flowing past the membrane rather than left still?
+**Q876.** Why is the dialysis fluid kept flowing past the membrane rather than left still?
 <!-- id: g15-tkf-2 -->
 
 - A. To increase the pressure in the blood
@@ -5872,7 +6457,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. To maintain a concentration gradient for urea
 - D. To stop blood clotting
 
-**Q810.** Why might the dialysis fluid contain glucose at the same concentration as normal blood plasma?
+**Q877.** Why might the dialysis fluid contain glucose at the same concentration as normal blood plasma?
 <!-- id: g15-tkf-3 -->
 
 - A. To feed the patient
@@ -5880,7 +6465,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. To make urea diffuse faster
 - D. To destroy bacteria
 
-**Q811.** Which of these makes a kidney transplant less likely to be rejected?
+**Q878.** Which of these makes a kidney transplant less likely to be rejected?
 <!-- id: g15-tkf-4 -->
 
 - A. A donor of a different species
@@ -5888,7 +6473,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Using a kidney from a much older donor only
 - D. A donor with a similar tissue type
 
-**Q812.** Patients with a transplanted kidney must take immunosuppressant drugs. A risk of this is that they:
+**Q879.** Patients with a transplanted kidney must take immunosuppressant drugs. A risk of this is that they:
 <!-- id: g15-tkf-5 -->
 
 - A. Lose the ability to make ADH
@@ -5896,26 +6481,35 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Become allergic to urea
 - D. Are more likely to catch infections
 
-**Q813.** Explain why a patient with kidney failure needs dialysis. (3 marks)
+**Q880.** Explain why a patient with kidney failure needs dialysis. (3 marks)
 <!-- id: g15-tkf-6 -->
 
 *Written answer*
 
-**Q814.** Give two advantages of a kidney transplant compared with long-term dialysis. (2 marks)
+**Q881.** Give two advantages of a kidney transplant compared with long-term dialysis. (2 marks)
 <!-- id: g15-tkf-7 -->
 
 *Written answer*
 
-**Q815.** Explain why a patient who receives a donor kidney is given immunosuppressant drugs. (3 marks)
+**Q882.** Explain why a patient who receives a donor kidney is given immunosuppressant drugs. (3 marks)
 <!-- id: g15-tkf-8 -->
 
 *Written answer*
+
+**Q883.** During dialysis, urea leaves the blood but glucose does not, because the dialysis fluid:
+<!-- id: gcse-bio-treating-kidney-failure-c1 -->
+*Challenge question*
+
+- A. Has the same glucose concentration as normal blood but contains no urea
+- B. Contains more urea than blood
+- C. Contains no glucose
+- D. Is pure water
 
 ### Exchange and Transport in Animals
 
 #### Exchange surfaces and the alveoli
 
-**Q816.** Which feature of alveoli does NOT help gas exchange?
+**Q884.** Which feature of alveoli does NOT help gas exchange?
 <!-- id: alv-1 -->
 
 - A. Large surface area
@@ -5923,7 +6517,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Good blood supply
 - D. Thick mucus lining
 
-**Q817.** Which gas diffuses from the blood into the alveoli?
+**Q885.** Which gas diffuses from the blood into the alveoli?
 <!-- id: alv-2 -->
 
 - A. Oxygen
@@ -5931,12 +6525,12 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Nitrogen
 - D. Glucose
 
-**Q818.** Explain why large organisms need specialised exchange surfaces.
+**Q886.** Explain why large organisms need specialised exchange surfaces.
 <!-- id: alv-3 -->
 
 *Written answer*
 
-**Q819.** Which feature of the alveoli allows oxygen to diffuse into the blood quickly?
+**Q887.** Which feature of the alveoli allows oxygen to diffuse into the blood quickly?
 <!-- id: g15-alv-1 -->
 
 - A. Very low blood flow
@@ -5944,7 +6538,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Walls that are many cells thick
 - D. A wall that is one cell thick
 
-**Q820.** Why is a good blood supply to the alveoli important for gas exchange?
+**Q888.** Why is a good blood supply to the alveoli important for gas exchange?
 <!-- id: g15-alv-2 -->
 
 - A. It makes the air moist
@@ -5952,7 +6546,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. It maintains a steep concentration gradient by removing oxygen and bringing carbon dioxide
 - D. It increases the surface area
 
-**Q821.** Ventilation of the lungs helps gas exchange because it:
+**Q889.** Ventilation of the lungs helps gas exchange because it:
 <!-- id: g15-alv-3 -->
 
 - A. Makes the alveoli bigger
@@ -5960,7 +6554,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Pumps blood to the lungs
 - D. Pushes gases across by active transport
 
-**Q822.** In which direction does carbon dioxide diffuse at the alveoli?
+**Q890.** In which direction does carbon dioxide diffuse at the alveoli?
 <!-- id: g15-alv-4 -->
 
 - A. From the blood into the air in the alveoli
@@ -5968,7 +6562,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. It does not move
 - D. From the air into the blood
 
-**Q823.** Compared with a single large sphere of the same total volume, many small alveoli give the lungs:
+**Q891.** Compared with a single large sphere of the same total volume, many small alveoli give the lungs:
 <!-- id: g15-alv-5 -->
 
 - A. A thicker exchange surface
@@ -5976,24 +6570,33 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Smaller surface area
 - D. A larger surface area to volume ratio
 
-**Q824.** Describe four ways the alveoli are adapted for efficient gas exchange. (4 marks)
+**Q892.** Describe four ways the alveoli are adapted for efficient gas exchange. (4 marks)
 <!-- id: g15-alv-6 -->
 
 *Written answer*
 
-**Q825.** Explain how the diffusion of oxygen across the alveolar wall is affected by emphysema, where alveolar walls break down. (3 marks)
+**Q893.** Explain how the diffusion of oxygen across the alveolar wall is affected by emphysema, where alveolar walls break down. (3 marks)
 <!-- id: g15-alv-7 -->
 
 *Written answer*
 
-**Q826.** Explain why a person exercising breathes faster and more deeply, in terms of the concentration gradients at the alveoli. (3 marks)
+**Q894.** Explain why a person exercising breathes faster and more deeply, in terms of the concentration gradients at the alveoli. (3 marks)
 <!-- id: g15-alv-8 -->
 
 *Written answer*
 
+**Q895.** Emphysema destroys alveolar walls. The main effect is that:
+<!-- id: gcse-bio-exchange-surfaces-and-the-alveoli-c1 -->
+*Challenge question*
+
+- A. The alveoli become more efficient
+- B. Surface area for gas exchange falls, so less oxygen diffuses into the blood
+- C. More carbon dioxide is absorbed
+- D. The diffusion distance decreases
+
 #### Blood and its components
 
-**Q827.** Which part of the blood carries oxygen?
+**Q896.** Which part of the blood carries oxygen?
 <!-- id: bld-1 -->
 
 - A. Plasma
@@ -6001,7 +6604,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Red blood cells
 - D. White blood cells
 
-**Q828.** Why do red blood cells have no nucleus?
+**Q897.** Why do red blood cells have no nucleus?
 <!-- id: bld-2 -->
 
 - A. To make more room for haemoglobin
@@ -6009,7 +6612,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. To produce antibodies
 - D. To divide faster
 
-**Q829.** What is the role of platelets?
+**Q898.** What is the role of platelets?
 <!-- id: bld-3 -->
 
 - A. Carry carbon dioxide
@@ -6017,12 +6620,12 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Engulf pathogens
 - D. Transport hormones
 
-**Q830.** Name three substances transported in blood plasma.
+**Q899.** Name three substances transported in blood plasma.
 <!-- id: bld-4 -->
 
 *Written answer*
 
-**Q831.** Which component of blood is a fragment of a cell rather than a whole cell?
+**Q900.** Which component of blood is a fragment of a cell rather than a whole cell?
 <!-- id: g16-bld-1 -->
 
 - A. Phagocyte
@@ -6030,7 +6633,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Red blood cell
 - D. Platelet
 
-**Q832.** Which statement correctly describes the shape of a red blood cell and why it is useful?
+**Q901.** Which statement correctly describes the shape of a red blood cell and why it is useful?
 <!-- id: g16-bld-2 -->
 
 - A. Long and thin, to carry nerve impulses
@@ -6038,7 +6641,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Biconcave disc, to give a large surface area for absorbing oxygen
 - D. Irregular, to engulf pathogens
 
-**Q833.** What is the main function of white blood cells?
+**Q902.** What is the main function of white blood cells?
 <!-- id: g16-bld-3 -->
 
 - A. Transport oxygen
@@ -6046,7 +6649,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Carry dissolved glucose
 - D. Form clots
 
-**Q834.** Which pair correctly matches a blood component with a substance it transports?
+**Q903.** Which pair correctly matches a blood component with a substance it transports?
 <!-- id: g16-bld-4 -->
 
 - A. Red blood cells and hormones
@@ -6054,7 +6657,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. White blood cells and glucose
 - D. Plasma and urea
 
-**Q835.** Oxygen binds to haemoglobin in the lungs to form which substance?
+**Q904.** Oxygen binds to haemoglobin in the lungs to form which substance?
 <!-- id: g16-bld-5 -->
 
 - A. Fibrin
@@ -6062,24 +6665,33 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Deoxyhaemoglobin
 - D. Oxyhaemoglobin
 
-**Q836.** Describe how platelets help prevent pathogens entering the body after a cut. (3 marks)
+**Q905.** Describe how platelets help prevent pathogens entering the body after a cut. (3 marks)
 <!-- id: g16-bld-6 -->
 
 *Written answer*
 
-**Q837.** Describe two ways in which red blood cells are adapted for transporting oxygen. (2 marks)
+**Q906.** Describe two ways in which red blood cells are adapted for transporting oxygen. (2 marks)
 <!-- id: g16-bld-7 -->
 
 *Written answer*
 
-**Q838.** Explain the difference between the role of phagocytes and the role of lymphocytes. (3 marks)
+**Q907.** Explain the difference between the role of phagocytes and the role of lymphocytes. (3 marks)
 <!-- id: g16-bld-8 -->
 
 *Written answer*
 
+**Q908.** Red blood cells have no nucleus. The advantage is:
+<!-- id: gcse-bio-blood-and-its-components-c1 -->
+*Challenge question*
+
+- A. They can divide faster
+- B. More space for haemoglobin, so more oxygen can be carried
+- C. They can make antibodies
+- D. They live longer
+
 #### Blood vessels
 
-**Q839.** Which blood vessel has valves to stop backflow?
+**Q909.** Which blood vessel has valves to stop backflow?
 <!-- id: bv-1 -->
 
 - A. Artery
@@ -6087,7 +6699,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Capillary
 - D. Aorta
 
-**Q840.** Why do arteries have thick, muscular, elastic walls?
+**Q910.** Why do arteries have thick, muscular, elastic walls?
 <!-- id: bv-2 -->
 
 - A. To withstand high pressure from the heart
@@ -6095,12 +6707,12 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. To store blood
 - D. To carry blood to the heart
 
-**Q841.** Explain how capillaries are adapted for exchange.
+**Q911.** Explain how capillaries are adapted for exchange.
 <!-- id: bv-3 -->
 
 *Written answer*
 
-**Q842.** Which blood vessel carries blood at the highest pressure?
+**Q912.** Which blood vessel carries blood at the highest pressure?
 <!-- id: g16-bv-1 -->
 
 - A. Vena cava
@@ -6108,7 +6720,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Artery
 - D. Pulmonary vein
 
-**Q843.** Why do veins have a wider lumen than arteries?
+**Q913.** Why do veins have a wider lumen than arteries?
 <!-- id: g16-bv-2 -->
 
 - A. To reduce resistance to the low-pressure blood flow
@@ -6116,7 +6728,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. To make the walls thicker
 - D. To withstand high pressure
 
-**Q844.** A capillary wall is only one cell thick. What is the main benefit of this?
+**Q914.** A capillary wall is only one cell thick. What is the main benefit of this?
 <!-- id: g16-bv-3 -->
 
 - A. It prevents backflow of blood
@@ -6124,7 +6736,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. It withstands high pressure
 - D. It gives a short diffusion distance
 
-**Q845.** Which blood vessel carries oxygenated blood from the lungs to the heart?
+**Q915.** Which blood vessel carries oxygenated blood from the lungs to the heart?
 <!-- id: g16-bv-4 -->
 
 - A. Aorta
@@ -6132,7 +6744,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Vena cava
 - D. Pulmonary vein
 
-**Q846.** Which vessel supplies the heart muscle itself with oxygenated blood?
+**Q916.** Which vessel supplies the heart muscle itself with oxygenated blood?
 <!-- id: g16-bv-5 -->
 
 - A. Coronary artery
@@ -6140,24 +6752,33 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Hepatic vein
 - D. Renal artery
 
-**Q847.** Explain why arteries have a thick layer of elastic fibres in their walls. (2 marks)
+**Q917.** Explain why arteries have a thick layer of elastic fibres in their walls. (2 marks)
 <!-- id: g16-bv-6 -->
 
 *Written answer*
 
-**Q848.** Explain why veins have valves but arteries do not. (3 marks)
+**Q918.** Explain why veins have valves but arteries do not. (3 marks)
 <!-- id: g16-bv-7 -->
 
 *Written answer*
 
-**Q849.** A blocked coronary artery can cause a heart attack. Explain why. (3 marks)
+**Q919.** A blocked coronary artery can cause a heart attack. Explain why. (3 marks)
 <!-- id: g16-bv-8 -->
 
 *Written answer*
 
+**Q920.** Veins have valves but arteries do not because:
+<!-- id: gcse-bio-blood-vessels-c1 -->
+*Challenge question*
+
+- A. Arteries carry less blood
+- B. Veins carry oxygenated blood
+- C. Blood in veins is at low pressure, so valves prevent backflow
+- D. Valves increase blood pressure
+
 #### The heart
 
-**Q850.** Which chamber of the heart pumps blood to the body?
+**Q921.** Which chamber of the heart pumps blood to the body?
 <!-- id: hrt-1 -->
 
 - A. Right atrium
@@ -6165,7 +6786,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Left atrium
 - D. Left ventricle
 
-**Q851.** Which blood vessel carries deoxygenated blood from the heart to the lungs?
+**Q922.** Which blood vessel carries deoxygenated blood from the heart to the lungs?
 <!-- id: hrt-2 -->
 
 - A. Pulmonary vein
@@ -6173,12 +6794,12 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Vena cava
 - D. Aorta
 
-**Q852.** Explain why the left ventricle wall is thicker than the right ventricle wall.
+**Q923.** Explain why the left ventricle wall is thicker than the right ventricle wall.
 <!-- id: hrt-3 -->
 
 *Written answer*
 
-**Q853.** Which chamber of the heart receives deoxygenated blood from the body?
+**Q924.** Which chamber of the heart receives deoxygenated blood from the body?
 <!-- id: g16-hrt-1 -->
 
 - A. Left ventricle
@@ -6186,7 +6807,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Left atrium
 - D. Right atrium
 
-**Q854.** What is the function of the valves in the heart?
+**Q925.** What is the function of the valves in the heart?
 <!-- id: g16-hrt-2 -->
 
 - A. To make the walls thicker
@@ -6194,7 +6815,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. To stop blood flowing backwards
 - D. To supply the heart with oxygen
 
-**Q855.** Which sequence shows the correct path of blood through the heart, starting at the vena cava?
+**Q926.** Which sequence shows the correct path of blood through the heart, starting at the vena cava?
 <!-- id: g16-hrt-3 -->
 
 - A. Right atrium, right ventricle, left atrium, left ventricle
@@ -6202,7 +6823,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Left atrium, left ventricle, lungs, right atrium, right ventricle
 - D. Right ventricle, right atrium, lungs, left ventricle, left atrium
 
-**Q856.** Which structure in the right atrium acts as the natural pacemaker?
+**Q927.** Which structure in the right atrium acts as the natural pacemaker?
 <!-- id: g16-hrt-4 -->
 
 - A. Aorta
@@ -6210,7 +6831,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Septum
 - D. Sinoatrial node
 
-**Q857.** What is the role of the septum in the heart?
+**Q928.** What is the role of the septum in the heart?
 <!-- id: g16-hrt-5 -->
 
 - A. It stores blood
@@ -6218,24 +6839,33 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. It separates oxygenated and deoxygenated blood
 - D. It pumps blood to the lungs
 
-**Q858.** Explain why humans are described as having a double circulatory system. (3 marks)
+**Q929.** Explain why humans are described as having a double circulatory system. (3 marks)
 <!-- id: g16-hrt-6 -->
 
 *Written answer*
 
-**Q859.** Describe how the heart muscle contracts to pump blood from the atria to the ventricles to the arteries. (3 marks)
+**Q930.** Describe how the heart muscle contracts to pump blood from the atria to the ventricles to the arteries. (3 marks)
 <!-- id: g16-hrt-7 -->
 
 *Written answer*
 
-**Q860.** Explain why the pulmonary artery has a lower pressure than the aorta. (2 marks)
+**Q931.** Explain why the pulmonary artery has a lower pressure than the aorta. (2 marks)
 <!-- id: g16-hrt-8 -->
 
 *Written answer*
 
+**Q932.** Which is the correct order of blood flow from the body back to the body?
+<!-- id: gcse-bio-the-heart-c1 -->
+*Challenge question*
+
+- A. Aorta → left atrium → right ventricle → lungs → vena cava
+- B. Pulmonary vein → right atrium → left ventricle → vena cava
+- C. Vena cava → left atrium → left ventricle → pulmonary artery
+- D. Vena cava → right atrium → right ventricle → pulmonary artery → lungs → pulmonary vein → left atrium → left ventricle → aorta
+
 #### Aerobic and anaerobic respiration
 
-**Q861.** What are the products of aerobic respiration?
+**Q933.** What are the products of aerobic respiration?
 <!-- id: res-1 -->
 
 - A. Lactic acid
@@ -6243,7 +6873,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Glucose and oxygen
 - D. Ethanol and carbon dioxide
 
-**Q862.** What is produced by anaerobic respiration in human muscle?
+**Q934.** What is produced by anaerobic respiration in human muscle?
 <!-- id: res-2 -->
 
 - A. Ethanol
@@ -6251,7 +6881,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Carbon dioxide
 - D. Water
 
-**Q863.** Why is respiration described as exothermic?
+**Q935.** Why is respiration described as exothermic?
 <!-- id: res-3 -->
 
 - A. It takes in energy
@@ -6259,12 +6889,12 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. It needs light
 - D. It uses enzymes
 
-**Q864.** Explain why breathing rate stays high for a while after exercise.
+**Q936.** Explain why breathing rate stays high for a while after exercise.
 <!-- id: res-4 -->
 
 *Written answer*
 
-**Q865.** Which is the correct word equation for aerobic respiration?
+**Q937.** Which is the correct word equation for aerobic respiration?
 <!-- id: g16-res-1 -->
 
 - A. Glucose + oxygen → carbon dioxide + water
@@ -6272,7 +6902,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Carbon dioxide + water → glucose + oxygen
 - D. Glucose → ethanol + carbon dioxide
 
-**Q866.** Which organisms produce ethanol and carbon dioxide during anaerobic respiration?
+**Q938.** Which organisms produce ethanol and carbon dioxide during anaerobic respiration?
 <!-- id: g16-res-2 -->
 
 - A. Yeast
@@ -6280,7 +6910,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Bacteria in the gut only
 - D. Human muscle cells
 
-**Q867.** Why does anaerobic respiration release less energy than aerobic respiration?
+**Q939.** Why does anaerobic respiration release less energy than aerobic respiration?
 <!-- id: g16-res-3 -->
 
 - A. Oxygen is released
@@ -6288,7 +6918,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Glucose is not fully broken down
 - D. Glucose is not used
 
-**Q868.** Where in a cell do most of the reactions of aerobic respiration take place?
+**Q940.** Where in a cell do most of the reactions of aerobic respiration take place?
 <!-- id: g16-res-4 -->
 
 - A. Cell membrane
@@ -6296,7 +6926,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Mitochondria
 - D. Ribosomes
 
-**Q869.** During vigorous exercise, why does the heart rate increase?
+**Q941.** During vigorous exercise, why does the heart rate increase?
 <!-- id: g16-res-5 -->
 
 - A. To deliver more oxygen and glucose to muscles and remove carbon dioxide
@@ -6304,24 +6934,33 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. To reduce blood pressure
 - D. To lower the body temperature to zero
 
-**Q870.** Give two uses of the energy released by respiration in the human body. (2 marks)
+**Q942.** Give two uses of the energy released by respiration in the human body. (2 marks)
 <!-- id: g16-res-6 -->
 
 *Written answer*
 
-**Q871.** Write the word equation for anaerobic respiration in human muscle cells and explain why it can cause muscle fatigue. (3 marks)
+**Q943.** Write the word equation for anaerobic respiration in human muscle cells and explain why it can cause muscle fatigue. (3 marks)
 <!-- id: g16-res-7 -->
 
 *Written answer*
 
-**Q872.** Explain how the oxygen debt is repaid after exercise. (3 marks)
+**Q944.** Explain how the oxygen debt is repaid after exercise. (3 marks)
 <!-- id: g16-res-8 -->
 
 *Written answer*
 
+**Q945.** Why does a person keep breathing fast after hard exercise has stopped?
+<!-- id: gcse-bio-aerobic-and-anaerobic-respiration-c1 -->
+*Challenge question*
+
+- A. Muscles are still contracting
+- B. Carbon dioxide is no longer produced
+- C. Extra oxygen is needed to break down the lactic acid that built up (the oxygen debt)
+- D. Anaerobic respiration is producing oxygen
+
 #### Cardiac output
 
-**Q873.** Which equation is correct?
+**Q946.** Which equation is correct?
 <!-- id: co-1 -->
 
 - A. Cardiac output = stroke volume × heart rate
@@ -6329,7 +6968,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Stroke volume = cardiac output × heart rate
 - D. Heart rate = stroke volume × cardiac output
 
-**Q874.** Stroke volume is 70 cm³ and heart rate is 80 bpm. What is the cardiac output?
+**Q947.** Stroke volume is 70 cm³ and heart rate is 80 bpm. What is the cardiac output?
 <!-- id: co-2 -->
 
 - A. 150 cm³/min
@@ -6337,12 +6976,12 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. 875 cm³/min
 - D. 560 cm³/min
 
-**Q875.** Cardiac output is 6000 cm³/min and heart rate is 75 bpm. Calculate stroke volume.
+**Q948.** Cardiac output is 6000 cm³/min and heart rate is 75 bpm. Calculate stroke volume.
 <!-- id: co-3 -->
 
 *Written answer*
 
-**Q876.** What are the units of cardiac output?
+**Q949.** What are the units of cardiac output?
 <!-- id: g17-co-1 -->
 
 - A. cm³ × beats
@@ -6350,7 +6989,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. beats/min
 - D. cm³/min
 
-**Q877.** A person has a heart rate of 72 beats/min and a stroke volume of 75 cm³. What is their cardiac output?
+**Q950.** A person has a heart rate of 72 beats/min and a stroke volume of 75 cm³. What is their cardiac output?
 <!-- id: g17-co-2 -->
 *Higher tier only*
 
@@ -6359,7 +6998,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. 960 cm³/min
 - D. 54 000 cm³/min
 
-**Q878.** Stroke volume is the:
+**Q951.** Stroke volume is the:
 <!-- id: g17-co-3 -->
 
 - A. Volume of blood pumped out of the ventricle in one beat
@@ -6367,7 +7006,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Volume of blood in the whole body
 - D. Number of heartbeats per minute
 
-**Q879.** During vigorous exercise, which change helps cardiac output increase?
+**Q952.** During vigorous exercise, which change helps cardiac output increase?
 <!-- id: g17-co-4 -->
 
 - A. Heart rate and stroke volume both increase
@@ -6375,7 +7014,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Heart rate decreases
 - D. Stroke volume decreases to zero
 
-**Q880.** Regular endurance training often lowers a person's resting heart rate. What is the most likely reason?
+**Q953.** Regular endurance training often lowers a person's resting heart rate. What is the most likely reason?
 <!-- id: g17-co-5 -->
 *Higher tier only*
 
@@ -6384,20 +7023,26 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Stroke volume increases, so the same cardiac output needs fewer beats
 - D. Cardiac output rises at rest
 
-**Q881.** A person's resting cardiac output is 5100 cm³/min and their heart rate is 68 beats/min. Calculate their stroke volume. (2 marks)
+**Q954.** A person's resting cardiac output is 5100 cm³/min and their heart rate is 68 beats/min. Calculate their stroke volume. (2 marks)
 <!-- id: g17-co-6 -->
 *Higher tier only*
 
 *Written answer*
 
-**Q882.** Explain why cardiac output increases during exercise. (3 marks)
+**Q955.** Explain why cardiac output increases during exercise. (3 marks)
 <!-- id: g17-co-7 -->
 
 *Written answer*
 
-**Q883.** Athlete A and person B both have a cardiac output of 5000 cm³/min at rest. A has a heart rate of 50 beats/min and B has 80 beats/min. Calculate the stroke volume of each and suggest why they differ. (4 marks)
+**Q956.** Athlete A and person B both have a cardiac output of 5000 cm³/min at rest. A has a heart rate of 50 beats/min and B has 80 beats/min. Calculate the stroke volume of each and suggest why they differ. (4 marks)
 <!-- id: g17-co-8 -->
 *Higher tier only*
+
+*Written answer*
+
+**Q957.** An athlete's cardiac output at rest is 5.0 L/min and their heart rate is 50 beats/min. Calculate their stroke volume, and explain why it is larger than an untrained person's.
+<!-- id: gcse-bio-cardiac-output-c1 -->
+*Challenge question*
 
 *Written answer*
 
@@ -6405,7 +7050,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 
 #### Ecosystems and levels of organisation
 
-**Q884.** A community is:
+**Q958.** A community is:
 <!-- id: eco-1 -->
 
 - A. All the populations of different species in a habitat
@@ -6413,7 +7058,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. The physical environment only
 - D. A single organism
 
-**Q885.** An ecosystem includes:
+**Q959.** An ecosystem includes:
 <!-- id: eco-2 -->
 
 - A. Only living organisms
@@ -6421,7 +7066,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Only plants
 - D. Only predators
 
-**Q886.** A population is:
+**Q960.** A population is:
 <!-- id: eco-3 -->
 
 - A. All organisms of one species in a habitat
@@ -6429,12 +7074,12 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. The total biomass
 - D. A food chain
 
-**Q887.** Put these in order from smallest to largest: ecosystem, individual, community, population.
+**Q961.** Put these in order from smallest to largest: ecosystem, individual, community, population.
 <!-- id: eco-4 -->
 
 *Written answer*
 
-**Q888.** A pond contains frogs, fish, algae, water, sunlight and dissolved oxygen. This whole system is a(n):
+**Q962.** A pond contains frogs, fish, algae, water, sunlight and dissolved oxygen. This whole system is a(n):
 <!-- id: g17-eco-1 -->
 
 - A. Ecosystem
@@ -6442,7 +7087,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Population
 - D. Community
 
-**Q889.** All the frogs living in the pond make up a:
+**Q963.** All the frogs living in the pond make up a:
 <!-- id: g17-eco-2 -->
 
 - A. Biome
@@ -6450,7 +7095,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Community
 - D. Ecosystem
 
-**Q890.** What is a habitat?
+**Q964.** What is a habitat?
 <!-- id: g17-eco-3 -->
 
 - A. The place where an organism lives
@@ -6458,7 +7103,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. The food an organism eats
 - D. The role of an organism
 
-**Q891.** Which list shows the levels of organisation in an ecosystem from smallest to largest?
+**Q965.** Which list shows the levels of organisation in an ecosystem from smallest to largest?
 <!-- id: g17-eco-4 -->
 
 - A. Organism, community, population, ecosystem
@@ -6466,7 +7111,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Ecosystem, community, population, organism
 - D. Population, organism, community, ecosystem
 
-**Q892.** Why can an ecosystem be described as self-sustaining?
+**Q966.** Why can an ecosystem be described as self-sustaining?
 <!-- id: g17-eco-5 -->
 
 - A. It has only producers
@@ -6474,24 +7119,33 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. It needs no energy input
 - D. It recycles materials such as carbon and nitrogen, with energy from the Sun
 
-**Q893.** Distinguish between a population and a community. (2 marks)
+**Q967.** Distinguish between a population and a community. (2 marks)
 <!-- id: g17-eco-6 -->
 
 *Written answer*
 
-**Q894.** A student studies a woodland. Give one example each of an organism, a population and a community in the woodland. (3 marks)
+**Q968.** A student studies a woodland. Give one example each of an organism, a population and a community in the woodland. (3 marks)
 <!-- id: g17-eco-7 -->
 
 *Written answer*
 
-**Q895.** Explain why the producers are essential to an ecosystem. (3 marks)
+**Q969.** Explain why the producers are essential to an ecosystem. (3 marks)
 <!-- id: g17-eco-8 -->
 
 *Written answer*
 
+**Q970.** All the populations of different species living in one habitat make up:
+<!-- id: gcse-bio-ecosystems-and-levels-of-organisation-c1 -->
+*Challenge question*
+
+- A. A population
+- B. An ecosystem
+- C. A community
+- D. An organism
+
 #### Abiotic and biotic factors
 
-**Q896.** Which is an abiotic factor?
+**Q971.** Which is an abiotic factor?
 <!-- id: abf-1 -->
 
 - A. Predation
@@ -6499,7 +7153,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Competition
 - D. Disease
 
-**Q897.** Which is a biotic factor?
+**Q972.** Which is a biotic factor?
 <!-- id: abf-2 -->
 
 - A. Light intensity
@@ -6507,7 +7161,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Availability of food
 - D. Water
 
-**Q898.** If a new predator arrives, the prey population will most likely:
+**Q973.** If a new predator arrives, the prey population will most likely:
 <!-- id: abf-3 -->
 
 - A. Increase
@@ -6515,12 +7169,12 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Stay the same
 - D. Become plants
 
-**Q899.** Explain how a drop in temperature could affect a population of lizards.
+**Q974.** Explain how a drop in temperature could affect a population of lizards.
 <!-- id: abf-4 -->
 
 *Written answer*
 
-**Q900.** Which of these is an abiotic factor affecting a woodland community?
+**Q975.** Which of these is an abiotic factor affecting a woodland community?
 <!-- id: g17-abf-1 -->
 
 - A. Presence of a new pathogen
@@ -6528,7 +7182,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Number of grazing deer
 - D. Light intensity
 
-**Q901.** Which is a biotic factor?
+**Q976.** Which is a biotic factor?
 <!-- id: g17-abf-2 -->
 
 - A. Carbon dioxide concentration
@@ -6536,7 +7190,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Wind speed
 - D. Number of predators
 
-**Q902.** A new species of pathogen kills many individuals in a population of rabbits. This is an example of a change in a:
+**Q977.** A new species of pathogen kills many individuals in a population of rabbits. This is an example of a change in a:
 <!-- id: g17-abf-3 -->
 
 - A. Abiotic factor
@@ -6544,7 +7198,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Physical factor
 - D. Chemical factor
 
-**Q903.** Why might a decrease in the mean temperature reduce the number of insects in a habitat?
+**Q978.** Why might a decrease in the mean temperature reduce the number of insects in a habitat?
 <!-- id: g17-abf-4 -->
 
 - A. Enzyme activity and metabolism slow, reducing activity, feeding and reproduction
@@ -6552,7 +7206,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Insects maintain a constant body temperature
 - D. Insects photosynthesise more slowly
 
-**Q904.** Which pair of factors would most directly limit the rate of photosynthesis of plants growing under a dense tree canopy?
+**Q979.** Which pair of factors would most directly limit the rate of photosynthesis of plants growing under a dense tree canopy?
 <!-- id: g17-abf-5 -->
 
 - A. Wind and hunting
@@ -6560,24 +7214,33 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Light intensity and carbon dioxide
 - D. Predation and disease
 
-**Q905.** Name three abiotic factors that can affect the distribution of organisms. (3 marks)
+**Q980.** Name three abiotic factors that can affect the distribution of organisms. (3 marks)
 <!-- id: g17-abf-6 -->
 
 *Written answer*
 
-**Q906.** Explain how a new, more aggressive competitor could affect a population of a native species. (3 marks)
+**Q981.** Explain how a new, more aggressive competitor could affect a population of a native species. (3 marks)
 <!-- id: g17-abf-7 -->
 
 *Written answer*
 
-**Q907.** A farmer notices fewer earthworms in compacted, dry soil. Suggest two abiotic reasons. (2 marks)
+**Q982.** A farmer notices fewer earthworms in compacted, dry soil. Suggest two abiotic reasons. (2 marks)
 <!-- id: g17-abf-8 -->
 
 *Written answer*
 
+**Q983.** Which is a biotic factor affecting a population of rabbits?
+<!-- id: gcse-bio-abiotic-and-biotic-factors-c1 -->
+*Challenge question*
+
+- A. Soil pH
+- B. Temperature
+- C. Light intensity
+- D. A new disease spreading through the population
+
 #### Interdependence
 
-**Q908.** Mutualism is a relationship where:
+**Q984.** Mutualism is a relationship where:
 <!-- id: int-1 -->
 
 - A. Both organisms benefit
@@ -6585,7 +7248,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Neither benefits
 - D. One organism eats the other
 
-**Q909.** A parasite:
+**Q985.** A parasite:
 <!-- id: int-2 -->
 
 - A. Benefits its host
@@ -6593,7 +7256,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Produces its own food
 - D. Is a decomposer
 
-**Q910.** In a predator–prey cycle, the predator population peak usually:
+**Q986.** In a predator–prey cycle, the predator population peak usually:
 <!-- id: int-3 -->
 
 - A. Comes before the prey peak
@@ -6601,12 +7264,12 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Happens at the same time
 - D. Never changes
 
-**Q911.** Explain what is meant by interdependence.
+**Q987.** Explain what is meant by interdependence.
 <!-- id: int-4 -->
 
 *Written answer*
 
-**Q912.** A tick feeds on the blood of a dog and the dog is harmed. This relationship is:
+**Q988.** A tick feeds on the blood of a dog and the dog is harmed. This relationship is:
 <!-- id: g17-int-1 -->
 
 - A. Mutualism
@@ -6614,7 +7277,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Predation
 - D. Competition
 
-**Q913.** Which is an example of mutualism?
+**Q989.** Which is an example of mutualism?
 <!-- id: g17-int-2 -->
 
 - A. Nitrogen-fixing bacteria in root nodules of legumes
@@ -6622,7 +7285,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Two plants competing for light
 - D. A tapeworm in a human gut
 
-**Q914.** In a stable community, a sudden rise in the number of aphids is most likely to cause the number of ladybirds (which eat aphids) to:
+**Q990.** In a stable community, a sudden rise in the number of aphids is most likely to cause the number of ladybirds (which eat aphids) to:
 <!-- id: g17-int-3 -->
 
 - A. Stay exactly the same
@@ -6630,7 +7293,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Fall immediately
 - D. Rise after a delay
 
-**Q915.** A food web shows that owls and foxes both eat voles. If all foxes are removed, what is the most likely short-term effect on voles?
+**Q991.** A food web shows that owls and foxes both eat voles. If all foxes are removed, what is the most likely short-term effect on voles?
 <!-- id: g17-int-4 -->
 
 - A. Voles become extinct
@@ -6638,7 +7301,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Voles increase because there is less predation
 - D. No change at all
 
-**Q916.** Which statement best describes a stable community?
+**Q992.** Which statement best describes a stable community?
 <!-- id: g17-int-5 -->
 
 - A. Population sizes never change
@@ -6646,24 +7309,33 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Only producers are present
 - D. No competition occurs
 
-**Q917.** Explain what is meant by interdependence in a community, using an example. (3 marks)
+**Q993.** Explain what is meant by interdependence in a community, using an example. (3 marks)
 <!-- id: g17-int-6 -->
 
 *Written answer*
 
-**Q918.** Describe the shape of a typical predator–prey graph and explain why the predator peak follows the prey peak. (3 marks)
+**Q994.** Describe the shape of a typical predator–prey graph and explain why the predator peak follows the prey peak. (3 marks)
 <!-- id: g17-int-7 -->
 
 *Written answer*
 
-**Q919.** Disease kills most of the trees in a woodland. Explain how this could affect the populations of insects that feed on the trees and the birds that feed on those insects. (4 marks)
+**Q995.** Disease kills most of the trees in a woodland. Explain how this could affect the populations of insects that feed on the trees and the birds that feed on those insects. (4 marks)
 <!-- id: g17-int-8 -->
 
 *Written answer*
 
+**Q996.** Clover and the nitrogen-fixing bacteria in its root nodules are an example of:
+<!-- id: gcse-bio-interdependence-c1 -->
+*Challenge question*
+
+- A. Parasitism
+- B. Mutualism
+- C. Predation
+- D. Competition
+
 #### Sampling with quadrats
 
-**Q920.** Why should quadrats be placed randomly?
+**Q997.** Why should quadrats be placed randomly?
 <!-- id: qua-1 -->
 
 - A. To save time
@@ -6671,7 +7343,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. To find rare species
 - D. To kill organisms
 
-**Q921.** A belt transect is used to:
+**Q998.** A belt transect is used to:
 <!-- id: qua-2 -->
 
 - A. Estimate population of a whole field
@@ -6679,7 +7351,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Count animals
 - D. Measure pH
 
-**Q922.** Mean of 4 daisies per 0.25 m² quadrat. Field is 100 m². Estimated population?
+**Q999.** Mean of 4 daisies per 0.25 m² quadrat. Field is 100 m². Estimated population?
 <!-- id: qua-3 -->
 
 - A. 400
@@ -6687,12 +7359,12 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. 100
 - D. 25
 
-**Q923.** Give two ways to make quadrat sampling more reliable.
+**Q1000.** Give two ways to make quadrat sampling more reliable.
 <!-- id: qua-4 -->
 
 *Written answer*
 
-**Q924.** A student counts 12 plants in a 0.5 m × 0.5 m quadrat. What is the density per m²?
+**Q1001.** A student counts 12 plants in a 0.5 m × 0.5 m quadrat. What is the density per m²?
 <!-- id: g18-quad-1 -->
 
 - A. 24
@@ -6700,7 +7372,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. 3
 - D. 6
 
-**Q925.** Which is the best way to choose quadrat positions in a field?
+**Q1002.** Which is the best way to choose quadrat positions in a field?
 <!-- id: g18-quad-2 -->
 
 - A. Only near the fence
@@ -6708,7 +7380,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Where plants look most numerous
 - D. Using random coordinates from a random number generator
 
-**Q926.** A quadrat is used to measure percentage cover rather than counting individuals. This is most useful when:
+**Q1003.** A quadrat is used to measure percentage cover rather than counting individuals. This is most useful when:
 <!-- id: g18-quad-3 -->
 
 - A. Measuring soil pH
@@ -6716,7 +7388,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Organisms are small, numerous or hard to count, such as grass
 - D. Organisms move quickly
 
-**Q927.** Which piece of equipment is needed to carry out a belt transect from a hedge into an open field?
+**Q1004.** Which piece of equipment is needed to carry out a belt transect from a hedge into an open field?
 <!-- id: g18-quad-4 -->
 
 - A. Measuring tape to lay a line and quadrat placed at regular intervals
@@ -6724,7 +7396,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. A pH probe only
 - D. A sweep net
 
-**Q928.** Quadrat counts of dandelions in five places were 3, 5, 4, 8 and 0. What is the mean number per quadrat?
+**Q1005.** Quadrat counts of dandelions in five places were 3, 5, 4, 8 and 0. What is the mean number per quadrat?
 <!-- id: g18-quad-5 -->
 
 - A. 5
@@ -6732,24 +7404,30 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. 20
 - D. 4
 
-**Q929.** A field has an area of 600 m². A student places ten 1 m² quadrats at random and finds a total of 45 buttercups. Estimate the population in the field. (3 marks)
+**Q1006.** A field has an area of 600 m². A student places ten 1 m² quadrats at random and finds a total of 45 buttercups. Estimate the population in the field. (3 marks)
 <!-- id: g18-quad-6 -->
 
 *Written answer*
 
-**Q930.** Describe how you would investigate whether the number of daisies changes with distance from a tree. (4 marks)
+**Q1007.** Describe how you would investigate whether the number of daisies changes with distance from a tree. (4 marks)
 <!-- id: g18-quad-7 -->
 
 *Written answer*
 
-**Q931.** Explain why a larger number of quadrats gives a more reliable estimate of population size. (2 marks)
+**Q1008.** Explain why a larger number of quadrats gives a more reliable estimate of population size. (2 marks)
 <!-- id: g18-quad-8 -->
+
+*Written answer*
+
+**Q1009.** The mean number of daisies in a 0.25 m² quadrat is 3.5. The field is 200 m². Estimate the daisy population.
+<!-- id: gcse-bio-sampling-with-quadrats-c1 -->
+*Challenge question*
 
 *Written answer*
 
 #### Energy transfer and biomass pyramids *(Triple only)*
 
-**Q932.** Approximately what percentage of energy is passed to the next trophic level?
+**Q1010.** Approximately what percentage of energy is passed to the next trophic level?
 <!-- id: ene-1 -->
 
 - A. 90%
@@ -6757,7 +7435,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. 10%
 - D. 1%
 
-**Q933.** A pyramid of biomass shows:
+**Q1011.** A pyramid of biomass shows:
 <!-- id: ene-2 -->
 
 - A. Number of organisms at each level
@@ -6765,7 +7443,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Speed of energy transfer
 - D. Number of species
 
-**Q934.** A producer stores 20 000 kJ and the primary consumer stores 2 000 kJ. Efficiency?
+**Q1012.** A producer stores 20 000 kJ and the primary consumer stores 2 000 kJ. Efficiency?
 <!-- id: ene-3 -->
 
 - A. 1%
@@ -6773,12 +7451,12 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. 20%
 - D. 90%
 
-**Q935.** Give two reasons why energy is lost between trophic levels.
+**Q1013.** Give two reasons why energy is lost between trophic levels.
 <!-- id: ene-4 -->
 
 *Written answer*
 
-**Q936.** Which is NOT a reason why energy is lost between trophic levels?
+**Q1014.** Which is NOT a reason why energy is lost between trophic levels?
 <!-- id: g18-ene-1 -->
 
 - A. Energy being created by photosynthesis in consumers
@@ -6786,7 +7464,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Heat released during respiration
 - D. Faeces that are not digested
 
-**Q937.** Why are food chains rarely longer than four or five trophic levels?
+**Q1015.** Why are food chains rarely longer than four or five trophic levels?
 <!-- id: g18-ene-2 -->
 
 - A. Decomposers use all the energy first
@@ -6794,7 +7472,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. So little energy remains at the higher levels
 - D. Plants cannot support herbivores
 
-**Q938.** Grass stores 8000 kJ per m². A cow eats it and stores 800 kJ. The percentage efficiency of transfer is:
+**Q1016.** Grass stores 8000 kJ per m². A cow eats it and stores 800 kJ. The percentage efficiency of transfer is:
 <!-- id: g18-ene-3 -->
 
 - A. 1%
@@ -6802,7 +7480,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. 80%
 - D. 0.1%
 
-**Q939.** A pyramid of biomass is measured using dry mass because:
+**Q1017.** A pyramid of biomass is measured using dry mass because:
 <!-- id: g18-ene-4 -->
 
 - A. Dry mass is easier to see
@@ -6810,7 +7488,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. It shows energy lost as heat
 - D. Water content varies and is not part of the organism's stored biomass
 
-**Q940.** Why is eating plants more efficient than eating meat for supplying energy to people?
+**Q1018.** Why is eating plants more efficient than eating meat for supplying energy to people?
 <!-- id: g18-ene-5 -->
 
 - A. Animals contain no energy
@@ -6818,24 +7496,30 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Plants contain more protein
 - D. Fewer energy-transfer steps so less energy is lost
 
-**Q941.** Calculate the percentage efficiency of energy transfer from a primary consumer storing 1500 kJ to a secondary consumer storing 120 kJ. (2 marks)
+**Q1019.** Calculate the percentage efficiency of energy transfer from a primary consumer storing 1500 kJ to a secondary consumer storing 120 kJ. (2 marks)
 <!-- id: g18-ene-6 -->
 
 *Written answer*
 
-**Q942.** Explain why a pyramid of biomass is usually pyramid-shaped. (3 marks)
+**Q1020.** Explain why a pyramid of biomass is usually pyramid-shaped. (3 marks)
 <!-- id: g18-ene-7 -->
 
 *Written answer*
 
-**Q943.** Suggest two ways farmers can increase the efficiency of energy transfer to livestock. (2 marks)
+**Q1021.** Suggest two ways farmers can increase the efficiency of energy transfer to livestock. (2 marks)
 <!-- id: g18-ene-8 -->
+
+*Written answer*
+
+**Q1022.** Producers in a food chain contain 2000 kJ of energy and the primary consumers contain 120 kJ. Calculate the efficiency of energy transfer, and give two reasons why energy is lost.
+<!-- id: gcse-bio-energy-transfer-and-biomass-pyramids-c1 -->
+*Challenge question*
 
 *Written answer*
 
 #### Human impacts on biodiversity
 
-**Q944.** Eutrophication is caused by:
+**Q1023.** Eutrophication is caused by:
 <!-- id: hib-1 -->
 
 - A. Too much oxygen in water
@@ -6843,7 +7527,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Acid rain
 - D. Overfishing
 
-**Q945.** Introducing a non-indigenous species can:
+**Q1024.** Introducing a non-indigenous species can:
 <!-- id: hib-2 -->
 
 - A. Always increase biodiversity
@@ -6851,7 +7535,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Have no effect
 - D. Remove pollution
 
-**Q946.** Fish farms can harm the environment by:
+**Q1025.** Fish farms can harm the environment by:
 <!-- id: hib-3 -->
 
 - A. Spreading disease and waste into wild populations
@@ -6859,12 +7543,12 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Removing nutrients
 - D. Cooling water
 
-**Q947.** Explain how eutrophication leads to fish dying.
+**Q1026.** Explain how eutrophication leads to fish dying.
 <!-- id: hib-4 -->
 
 *Written answer*
 
-**Q948.** Which gas released by burning fossil fuels contributes most to global warming?
+**Q1027.** Which gas released by burning fossil fuels contributes most to global warming?
 <!-- id: g18-hib-1 -->
 
 - A. Argon
@@ -6872,7 +7556,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Nitrogen
 - D. Carbon dioxide
 
-**Q949.** Peat bogs are drained for compost. One effect on the environment is:
+**Q1028.** Peat bogs are drained for compost. One effect on the environment is:
 <!-- id: g18-hib-2 -->
 
 - A. Carbon dioxide is released as peat decomposes
@@ -6880,7 +7564,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Less carbon dioxide enters the air
 - D. Water becomes cleaner
 
-**Q950.** A rising global temperature may harm biodiversity because:
+**Q1029.** A rising global temperature may harm biodiversity because:
 <!-- id: g18-hib-3 -->
 
 - A. Species may have to migrate or die as their habitats change
@@ -6888,7 +7572,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. It lowers sea level
 - D. All species benefit from warmth
 
-**Q951.** Deforestation reduces biodiversity mainly because it:
+**Q1030.** Deforestation reduces biodiversity mainly because it:
 <!-- id: g18-hib-4 -->
 
 - A. Increases competition among plants
@@ -6896,7 +7580,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Destroys habitats and food sources
 - D. Adds oxygen to the air
 
-**Q952.** Which is a reason people clear tropical rainforest?
+**Q1031.** Which is a reason people clear tropical rainforest?
 <!-- id: g18-hib-5 -->
 
 - A. To cool the climate
@@ -6904,24 +7588,33 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. To increase carbon dioxide absorption
 - D. To protect rare species
 
-**Q953.** Explain how deforestation can increase the carbon dioxide concentration in the atmosphere. (3 marks)
+**Q1032.** Explain how deforestation can increase the carbon dioxide concentration in the atmosphere. (3 marks)
 <!-- id: g18-hib-6 -->
 
 *Written answer*
 
-**Q954.** Describe two ways humans pollute the environment and one effect of each. (4 marks)
+**Q1033.** Describe two ways humans pollute the environment and one effect of each. (4 marks)
 <!-- id: g18-hib-7 -->
 
 *Written answer*
 
-**Q955.** Suggest why human population growth has led to a reduction in biodiversity. (3 marks)
+**Q1034.** Suggest why human population growth has led to a reduction in biodiversity. (3 marks)
 <!-- id: g18-hib-8 -->
 
 *Written answer*
 
+**Q1035.** Which is the correct order of events in eutrophication?
+<!-- id: gcse-bio-human-impacts-on-biodiversity-c1 -->
+*Challenge question*
+
+- A. Fish die → fertiliser runoff → algal bloom
+- B. Fertiliser runoff → algal bloom → light blocked, plants die → decomposers use up oxygen → fish die
+- C. Algal bloom → fertiliser runoff → oxygen rises
+- D. Decomposers die → algae grow → fish thrive
+
 #### Conservation and biodiversity
 
-**Q956.** Which helps conserve biodiversity?
+**Q1036.** Which helps conserve biodiversity?
 <!-- id: cbd-1 -->
 
 - A. Clearing hedgerows
@@ -6929,7 +7622,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Overfishing
 - D. Draining wetlands
 
-**Q957.** Captive breeding programmes:
+**Q1037.** Captive breeding programmes:
 <!-- id: cbd-2 -->
 
 - A. Breed endangered species in zoos and may release them
@@ -6937,12 +7630,12 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Grow GM crops
 - D. Increase pollution
 
-**Q958.** Give two benefits of maintaining biodiversity.
+**Q1038.** Give two benefits of maintaining biodiversity.
 <!-- id: cbd-3 -->
 
 *Written answer*
 
-**Q959.** A seed bank helps conserve biodiversity by:
+**Q1039.** A seed bank helps conserve biodiversity by:
 <!-- id: g18-con-1 -->
 
 - A. Storing seeds of rare plants so they can be grown later
@@ -6950,7 +7643,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Killing weeds
 - D. Producing GM crops only
 
-**Q960.** Why is replanting hedgerows useful for conservation?
+**Q1040.** Why is replanting hedgerows useful for conservation?
 <!-- id: g18-con-2 -->
 
 - A. They provide habitats and food for wildlife
@@ -6958,7 +7651,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. They produce fertiliser
 - D. They remove all insects
 
-**Q961.** Protecting a natural habitat from development is an example of:
+**Q1041.** Protecting a natural habitat from development is an example of:
 <!-- id: g18-con-3 -->
 
 - A. Genetic engineering
@@ -6966,7 +7659,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Selective breeding
 - D. Habitat conservation
 
-**Q962.** Reducing deforestation and carbon dioxide emissions helps biodiversity because it:
+**Q1042.** Reducing deforestation and carbon dioxide emissions helps biodiversity because it:
 <!-- id: g18-con-4 -->
 
 - A. Makes soil acidic
@@ -6974,7 +7667,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Increases pollution
 - D. Removes all predators
 
-**Q963.** A challenge for conservation programmes is that:
+**Q1043.** A challenge for conservation programmes is that:
 <!-- id: g18-con-5 -->
 
 - A. Conservation is never expensive
@@ -6982,24 +7675,33 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Species do not need protection
 - D. Habitats cannot be damaged
 
-**Q964.** Explain why it is important to maintain biodiversity. (3 marks)
+**Q1044.** Explain why it is important to maintain biodiversity. (3 marks)
 <!-- id: g18-con-6 -->
 
 *Written answer*
 
-**Q965.** Describe two ways scientists or governments can help to conserve endangered species. (2 marks)
+**Q1045.** Describe two ways scientists or governments can help to conserve endangered species. (2 marks)
 <!-- id: g18-con-7 -->
 
 *Written answer*
 
-**Q966.** Suggest why some farmers may not agree with creating areas of wildlife conservation. (2 marks)
+**Q1046.** Suggest why some farmers may not agree with creating areas of wildlife conservation. (2 marks)
 <!-- id: g18-con-8 -->
 
 *Written answer*
 
+**Q1047.** Why are seed banks useful for conservation?
+<!-- id: gcse-bio-conservation-and-biodiversity-c1 -->
+*Challenge question*
+
+- A. They store genetic diversity of plant species that could be lost from the wild
+- B. They make plants grow faster
+- C. They remove invasive species
+- D. They increase pollution tolerance
+
 #### Food security *(Triple only)*
 
-**Q967.** Food security means:
+**Q1048.** Food security means:
 <!-- id: fsc-1 -->
 
 - A. Locking food away
@@ -7007,7 +7709,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Growing GM crops only
 - D. Eating less
 
-**Q968.** Which threatens food security?
+**Q1049.** Which threatens food security?
 <!-- id: fsc-2 -->
 
 - A. Increasing population
@@ -7015,12 +7717,12 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Better pest control
 - D. New crop varieties
 
-**Q969.** Give two ways biotechnology could improve food security.
+**Q1050.** Give two ways biotechnology could improve food security.
 <!-- id: fsc-3 -->
 
 *Written answer*
 
-**Q970.** Which of the following is a biological factor that can reduce food security?
+**Q1051.** Which of the following is a biological factor that can reduce food security?
 <!-- id: g19-food-1 -->
 
 - A. Selective breeding for higher yield
@@ -7028,7 +7730,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Improved crop storage
 - D. Use of fertilisers
 
-**Q971.** Rearing animals in small pens with restricted movement and a controlled temperature increases food production because:
+**Q1052.** Rearing animals in small pens with restricted movement and a controlled temperature increases food production because:
 <!-- id: g19-food-2 -->
 
 - A. Animals gain more energy from the sun
@@ -7036,7 +7738,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Animals eat less food overall
 - D. Animals respire faster
 
-**Q972.** Why are fish stocks in some areas at risk of collapse?
+**Q1053.** Why are fish stocks in some areas at risk of collapse?
 <!-- id: g19-food-3 -->
 
 - A. Overfishing removes too many fish for the population to replace
@@ -7044,7 +7746,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Fish eat too much plankton
 - D. Fish cannot reproduce in cold water
 
-**Q973.** Mycoprotein is produced by growing:
+**Q1054.** Mycoprotein is produced by growing:
 <!-- id: g19-food-4 -->
 
 - A. Algae in the sea
@@ -7052,7 +7754,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Bacteria in soil
 - D. A fungus in a fermenter using glucose syrup
 
-**Q974.** Why is eating plant crops directly usually more efficient for food security than feeding the crops to animals first?
+**Q1055.** Why is eating plant crops directly usually more efficient for food security than feeding the crops to animals first?
 <!-- id: g19-food-5 -->
 
 - A. Meat is always more expensive to store
@@ -7060,24 +7762,33 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Energy is lost at each trophic level, so less food energy is produced per hectare from animals
 - D. Animals cannot digest plants
 
-**Q975.** Give three biological factors that have made it difficult to feed the human population sustainably. (3 marks)
+**Q1056.** Give three biological factors that have made it difficult to feed the human population sustainably. (3 marks)
 <!-- id: g19-food-6 -->
 
 *Written answer*
 
-**Q976.** Explain how fish stocks in the oceans can be maintained at a sustainable level. (3 marks)
+**Q1057.** Explain how fish stocks in the oceans can be maintained at a sustainable level. (3 marks)
 <!-- id: g19-food-7 -->
 
 *Written answer*
 
-**Q977.** Describe how a GM crop could help to increase food security. (3 marks)
+**Q1058.** Describe how a GM crop could help to increase food security. (3 marks)
 <!-- id: g19-food-8 -->
 
 *Written answer*
 
+**Q1059.** Increasing meat consumption reduces global food security mainly because:
+<!-- id: gcse-bio-food-security-c1 -->
+*Challenge question*
+
+- A. Meat contains no protein
+- B. Animals produce oxygen
+- C. Livestock do not need food
+- D. Energy is lost at each trophic level, so far more crops are needed to feed livestock than to feed people directly
+
 #### The carbon cycle
 
-**Q978.** Which process removes CO₂ from the atmosphere?
+**Q1060.** Which process removes CO₂ from the atmosphere?
 <!-- id: crb-1 -->
 
 - A. Respiration
@@ -7085,7 +7796,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Photosynthesis
 - D. Decomposition
 
-**Q979.** Decomposers return carbon to the air by:
+**Q1061.** Decomposers return carbon to the air by:
 <!-- id: crb-2 -->
 
 - A. Photosynthesis
@@ -7093,7 +7804,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Condensation
 - D. Filtration
 
-**Q980.** Burning fossil fuels:
+**Q1062.** Burning fossil fuels:
 <!-- id: crb-3 -->
 
 - A. Removes CO₂
@@ -7101,12 +7812,12 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Has no effect
 - D. Produces glucose
 
-**Q981.** Describe how carbon in a plant can end up in an animal and back in the atmosphere.
+**Q1063.** Describe how carbon in a plant can end up in an animal and back in the atmosphere.
 <!-- id: crb-4 -->
 
 *Written answer*
 
-**Q982.** Which process transfers carbon from the atmosphere into the biomass of living organisms?
+**Q1064.** Which process transfers carbon from the atmosphere into the biomass of living organisms?
 <!-- id: g19-carb-1 -->
 
 - A. Decay
@@ -7114,7 +7825,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Respiration
 - D. Photosynthesis
 
-**Q983.** Which of these returns carbon to the atmosphere as carbon dioxide?
+**Q1065.** Which of these returns carbon to the atmosphere as carbon dioxide?
 <!-- id: g19-carb-2 -->
 
 - A. Respiration by plants, animals and microorganisms
@@ -7122,7 +7833,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Absorption of CO₂ by leaves
 - D. Formation of fossil fuels
 
-**Q984.** Coal and oil formed from dead organisms because:
+**Q1066.** Coal and oil formed from dead organisms because:
 <!-- id: g19-carb-3 -->
 
 - A. Conditions prevented decay, so carbon was locked up and compressed over millions of years
@@ -7130,7 +7841,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. They were dissolved in the sea
 - D. Decomposers broke them down quickly
 
-**Q985.** Compared with the burning of fossil fuels, what is the effect of respiration by decomposers on the carbon cycle?
+**Q1067.** Compared with the burning of fossil fuels, what is the effect of respiration by decomposers on the carbon cycle?
 <!-- id: g19-carb-4 -->
 
 - A. It adds carbon that was locked up for millions of years
@@ -7138,7 +7849,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. It releases carbon that was in recently living material
 - D. It removes carbon permanently from the cycle
 
-**Q986.** Deforestation increases the concentration of atmospheric CO₂ because:
+**Q1068.** Deforestation increases the concentration of atmospheric CO₂ because:
 <!-- id: g19-carb-5 -->
 
 - A. Trees stop respiring
@@ -7146,24 +7857,33 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Fewer trees remove CO₂ by photosynthesis, and burning or rotting wood releases CO₂
 - D. Soil absorbs less water
 
-**Q987.** Describe how carbon in a dead leaf can return to the atmosphere. (3 marks)
+**Q1069.** Describe how carbon in a dead leaf can return to the atmosphere. (3 marks)
 <!-- id: g19-carb-6 -->
 
 *Written answer*
 
-**Q988.** Explain why the carbon cycle is described as a cycle with a balance between processes. (2 marks)
+**Q1070.** Explain why the carbon cycle is described as a cycle with a balance between processes. (2 marks)
 <!-- id: g19-carb-7 -->
 
 *Written answer*
 
-**Q989.** Explain how human activities have disturbed the balance of the carbon cycle. (3 marks)
+**Q1071.** Explain how human activities have disturbed the balance of the carbon cycle. (3 marks)
 <!-- id: g19-carb-8 -->
 
 *Written answer*
 
+**Q1072.** Which process removes carbon dioxide from the atmosphere?
+<!-- id: gcse-bio-the-carbon-cycle-c1 -->
+*Challenge question*
+
+- A. Respiration
+- B. Photosynthesis
+- C. Combustion
+- D. Decomposition
+
 #### The water cycle
 
-**Q990.** Which process changes water vapour into liquid water in clouds?
+**Q1073.** Which process changes water vapour into liquid water in clouds?
 <!-- id: wat-1 -->
 
 - A. Evaporation
@@ -7171,7 +7891,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Precipitation
 - D. Transpiration
 
-**Q991.** Potable water is:
+**Q1074.** Potable water is:
 <!-- id: wat-2 -->
 
 - A. Pure water
@@ -7179,7 +7899,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Sea water
 - D. Rain water only
 
-**Q992.** Desalination produces fresh water by:
+**Q1075.** Desalination produces fresh water by:
 <!-- id: wat-3 -->
 
 - A. Adding chlorine
@@ -7187,12 +7907,12 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Filtering sand
 - D. Freezing it
 
-**Q993.** Explain why desalination is not used widely.
+**Q1076.** Explain why desalination is not used widely.
 <!-- id: wat-4 -->
 
 *Written answer*
 
-**Q994.** Which process moves water from the leaves of plants into the atmosphere?
+**Q1077.** Which process moves water from the leaves of plants into the atmosphere?
 <!-- id: g19-wat-1 -->
 
 - A. Transpiration
@@ -7200,7 +7920,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Filtration
 - D. Condensation
 
-**Q995.** What causes water to evaporate from the sea surface?
+**Q1078.** What causes water to evaporate from the sea surface?
 <!-- id: g19-wat-2 -->
 
 - A. Wind speed only
@@ -7208,7 +7928,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Energy from the Sun
 - D. Cooling of the air
 
-**Q996.** Which stage of water treatment kills microorganisms?
+**Q1079.** Which stage of water treatment kills microorganisms?
 <!-- id: g19-wat-3 -->
 
 - A. Screening
@@ -7216,7 +7936,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Filtration through gravel
 - D. Chlorination
 
-**Q997.** Water vapour in rising warm air forms clouds because:
+**Q1080.** Water vapour in rising warm air forms clouds because:
 <!-- id: g19-wat-4 -->
 
 - A. The air gets hotter
@@ -7224,7 +7944,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Water vapour freezes into salt
 - D. Plants absorb the vapour
 
-**Q998.** Which source of water needs the least treatment to make it potable?
+**Q1081.** Which source of water needs the least treatment to make it potable?
 <!-- id: g19-wat-5 -->
 
 - A. Sewage
@@ -7232,24 +7952,33 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Water from a polluted river
 - D. Sea water
 
-**Q999.** Describe the main steps used to produce potable water from fresh water. (3 marks)
+**Q1082.** Describe the main steps used to produce potable water from fresh water. (3 marks)
 <!-- id: g19-wat-6 -->
 
 *Written answer*
 
-**Q1000.** Explain why rain is not considered potable water as soon as it falls, even though it is largely free of dissolved salts. (2 marks)
+**Q1083.** Explain why rain is not considered potable water as soon as it falls, even though it is largely free of dissolved salts. (2 marks)
 <!-- id: g19-wat-7 -->
 
 *Written answer*
 
-**Q1001.** Explain how cutting down large areas of forest could change the water cycle locally. (3 marks)
+**Q1084.** Explain how cutting down large areas of forest could change the water cycle locally. (3 marks)
 <!-- id: g19-wat-8 -->
 
 *Written answer*
 
+**Q1085.** In areas of drought, potable water can be produced from seawater by:
+<!-- id: gcse-bio-the-water-cycle-c1 -->
+*Challenge question*
+
+- A. Desalination (for example by distillation or reverse osmosis)
+- B. Fermentation
+- C. Adding fertiliser
+- D. Freezing it
+
 #### The nitrogen cycle
 
-**Q1002.** Which bacteria convert nitrogen gas into nitrogen compounds?
+**Q1086.** Which bacteria convert nitrogen gas into nitrogen compounds?
 <!-- id: nit-1 -->
 
 - A. Denitrifying
@@ -7257,7 +7986,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Decomposers
 - D. Nitrifying
 
-**Q1003.** Nitrifying bacteria convert:
+**Q1087.** Nitrifying bacteria convert:
 <!-- id: nit-2 -->
 
 - A. Ammonia into nitrates
@@ -7265,7 +7994,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Nitrogen gas into ammonia
 - D. Proteins into glucose
 
-**Q1004.** Denitrifying bacteria are most active in:
+**Q1088.** Denitrifying bacteria are most active in:
 <!-- id: nit-3 -->
 
 - A. Well-aerated soil
@@ -7273,12 +8002,12 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Root nodules
 - D. Leaves
 
-**Q1005.** Why do farmers rotate crops including legumes?
+**Q1089.** Why do farmers rotate crops including legumes?
 <!-- id: nit-4 -->
 
 *Written answer*
 
-**Q1006.** Why do plants need nitrates from the soil?
+**Q1090.** Why do plants need nitrates from the soil?
 <!-- id: g19-nit-1 -->
 
 - A. To make glucose in photosynthesis
@@ -7286,7 +8015,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. To make cellulose
 - D. To store starch
 
-**Q1007.** Which statement about nitrogen gas in the air is correct?
+**Q1091.** Which statement about nitrogen gas in the air is correct?
 <!-- id: g19-nit-2 -->
 
 - A. It must be converted into nitrogen compounds before most organisms can use it
@@ -7294,7 +8023,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. It is produced only by lightning
 - D. Plants and animals can use it directly
 
-**Q1008.** What do decomposers release when they break down proteins and urea in dead matter?
+**Q1092.** What do decomposers release when they break down proteins and urea in dead matter?
 <!-- id: g19-nit-3 -->
 
 - A. Glucose
@@ -7302,7 +8031,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Nitrogen gas
 - D. Ammonia
 
-**Q1009.** Where do nitrogen-fixing bacteria such as Rhizobium live?
+**Q1093.** Where do nitrogen-fixing bacteria such as Rhizobium live?
 <!-- id: g19-nit-4 -->
 
 - A. In the atmosphere
@@ -7310,7 +8039,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. In leaves of cereals
 - D. In the bloodstream of animals
 
-**Q1010.** A farmer's field is waterlogged after heavy rain and the crop turns yellow with poor growth. Which explanation is most likely?
+**Q1094.** A farmer's field is waterlogged after heavy rain and the crop turns yellow with poor growth. Which explanation is most likely?
 <!-- id: g19-nit-5 -->
 *Higher tier only*
 
@@ -7319,24 +8048,33 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Decomposers have stopped respiring
 - D. Plants have too much oxygen
 
-**Q1011.** Describe how nitrogen in a protein from a dead animal could become nitrogen in a plant protein. (4 marks)
+**Q1095.** Describe how nitrogen in a protein from a dead animal could become nitrogen in a plant protein. (4 marks)
 <!-- id: g19-nit-6 -->
 
 *Written answer*
 
-**Q1012.** Give two ways in which nitrogen gas can be converted into nitrogen compounds that plants can absorb. (2 marks)
+**Q1096.** Give two ways in which nitrogen gas can be converted into nitrogen compounds that plants can absorb. (2 marks)
 <!-- id: g19-nit-7 -->
 
 *Written answer*
 
-**Q1013.** Explain why adding too much nitrate fertiliser to a field is harmful to a nearby lake. (3 marks)
+**Q1097.** Explain why adding too much nitrate fertiliser to a field is harmful to a nearby lake. (3 marks)
 <!-- id: g19-nit-8 -->
 
 *Written answer*
 
+**Q1098.** Waterlogged soils often become less fertile because:
+<!-- id: gcse-bio-the-nitrogen-cycle-c1 -->
+*Challenge question*
+
+- A. Anaerobic conditions favour denitrifying bacteria, which convert nitrates to nitrogen gas
+- B. Nitrifying bacteria work faster
+- C. Plants absorb too many nitrates
+- D. Lightning adds nitrogen
+
 #### Decomposition *(Triple only)*
 
-**Q1014.** Which conditions speed up decomposition?
+**Q1099.** Which conditions speed up decomposition?
 <!-- id: dec-1 -->
 
 - A. Cold and dry
@@ -7344,7 +8082,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Freezing
 - D. No oxygen and dry
 
-**Q1015.** Why does food last longer in a fridge?
+**Q1100.** Why does food last longer in a fridge?
 <!-- id: dec-2 -->
 
 - A. Low temperature slows microbial growth and enzymes
@@ -7352,7 +8090,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. It removes oxygen
 - D. It adds salt
 
-**Q1016.** Rate of decay: 20 g of mass lost over 10 days. Rate?
+**Q1101.** Rate of decay: 20 g of mass lost over 10 days. Rate?
 <!-- id: dec-3 -->
 
 - A. 0.5 g/day
@@ -7360,12 +8098,12 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. 200 g/day
 - D. 10 g/day
 
-**Q1017.** Explain why gardeners turn compost heaps.
+**Q1102.** Explain why gardeners turn compost heaps.
 <!-- id: dec-4 -->
 
 *Written answer*
 
-**Q1018.** Which organisms are mainly responsible for decomposition?
+**Q1103.** Which organisms are mainly responsible for decomposition?
 <!-- id: g20-dec-1 -->
 
 - A. Carnivores and omnivores
@@ -7373,7 +8111,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Bacteria and fungi
 - D. Viruses and algae
 
-**Q1019.** Decomposers release enzymes onto dead material. What is the main benefit of this to the ecosystem?
+**Q1104.** Decomposers release enzymes onto dead material. What is the main benefit of this to the ecosystem?
 <!-- id: g20-dec-2 -->
 
 - A. It increases the temperature of the soil
@@ -7381,7 +8119,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. It produces glucose for animals
 - D. It stops other organisms feeding
 
-**Q1020.** Which change would speed up the rate of decay of leaf litter?
+**Q1105.** Which change would speed up the rate of decay of leaf litter?
 <!-- id: g20-dec-3 -->
 
 - A. Removing all oxygen
@@ -7389,7 +8127,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Drying the litter
 - D. Lowering the temperature to 5 °C
 
-**Q1021.** Why does decay happen more slowly in a waterlogged bog than in a garden compost heap?
+**Q1106.** Why does decay happen more slowly in a waterlogged bog than in a garden compost heap?
 <!-- id: g20-dec-4 -->
 
 - A. There are too many fungi
@@ -7397,7 +8135,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Bog water is too warm
 - D. There is little oxygen, so fewer aerobic decomposers can respire
 
-**Q1022.** A gardener makes compost. Which carbon compound is released into the air by the respiration of decomposers?
+**Q1107.** A gardener makes compost. Which carbon compound is released into the air by the respiration of decomposers?
 <!-- id: g20-dec-5 -->
 
 - A. Glucose
@@ -7405,24 +8143,30 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Methane
 - D. Carbon dioxide
 
-**Q1023.** Explain why a compost heap decays faster in summer than in winter. (3 marks)
+**Q1108.** Explain why a compost heap decays faster in summer than in winter. (3 marks)
 <!-- id: g20-dec-6 -->
 
 *Written answer*
 
-**Q1024.** Describe how decomposers help to maintain the carbon cycle and the mineral supply in a woodland. (3 marks)
+**Q1109.** Describe how decomposers help to maintain the carbon cycle and the mineral supply in a woodland. (3 marks)
 <!-- id: g20-dec-7 -->
 
 *Written answer*
 
-**Q1025.** A student sets up bottles of milk at 5 °C, 25 °C and 60 °C and records how long each takes to go sour. Predict the order of the fastest to slowest and explain. (3 marks)
+**Q1110.** A student sets up bottles of milk at 5 °C, 25 °C and 60 °C and records how long each takes to go sour. Predict the order of the fastest to slowest and explain. (3 marks)
 <!-- id: g20-dec-8 -->
+
+*Written answer*
+
+**Q1111.** A 50 g sample of leaf litter decomposes to 35 g in 30 days. Calculate the mean rate of decay, and give two conditions that would increase it.
+<!-- id: gcse-bio-decomposition-c1 -->
+*Challenge question*
 
 *Written answer*
 
 #### Indicator species *(Triple only)*
 
-**Q1026.** Lichens are used to indicate levels of:
+**Q1112.** Lichens are used to indicate levels of:
 <!-- id: ind-1 -->
 
 - A. Water pollution
@@ -7430,7 +8174,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Soil pH
 - D. Light
 
-**Q1027.** Stonefly larvae in a river indicate:
+**Q1113.** Stonefly larvae in a river indicate:
 <!-- id: ind-2 -->
 
 - A. Clean, well-oxygenated water
@@ -7438,7 +8182,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Salty water
 - D. Warm water
 
-**Q1028.** Bloodworms and sludgeworms indicate:
+**Q1114.** Bloodworms and sludgeworms indicate:
 <!-- id: ind-3 -->
 
 - A. Clean water
@@ -7446,12 +8190,12 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. High light levels
 - D. Acid rain
 
-**Q1029.** Give one advantage and one disadvantage of using indicator species instead of chemical tests.
+**Q1115.** Give one advantage and one disadvantage of using indicator species instead of chemical tests.
 <!-- id: ind-4 -->
 
 *Written answer*
 
-**Q1030.** What is an indicator species?
+**Q1116.** What is an indicator species?
 <!-- id: g20-ind-1 -->
 
 - A. A species that is always the largest in a habitat
@@ -7459,7 +8203,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. A species that feeds only on algae
 - D. A species that can survive anywhere
 
-**Q1031.** A stream contains only rat-tailed maggots and sludgeworms. What does this suggest?
+**Q1117.** A stream contains only rat-tailed maggots and sludgeworms. What does this suggest?
 <!-- id: g20-ind-2 -->
 
 - A. The water is polluted with low oxygen
@@ -7467,7 +8211,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. The water is very salty
 - D. The water is clean and oxygen-rich
 
-**Q1032.** Why do sewage and fertiliser run-off reduce oxygen levels in a river?
+**Q1118.** Why do sewage and fertiliser run-off reduce oxygen levels in a river?
 <!-- id: g20-ind-3 -->
 
 - A. They dissolve oxygen gas
@@ -7475,7 +8219,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. They make plants release more oxygen
 - D. Bacteria multiply and use up oxygen decomposing the material
 
-**Q1033.** Which is a disadvantage of using indicator species rather than measuring dissolved oxygen directly?
+**Q1119.** Which is a disadvantage of using indicator species rather than measuring dissolved oxygen directly?
 <!-- id: g20-ind-4 -->
 
 - A. It needs no equipment
@@ -7483,7 +8227,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. It is cheaper
 - D. It does not give an exact numerical value
 
-**Q1034.** Which would be found on trees in an area with very clean air?
+**Q1120.** Which would be found on trees in an area with very clean air?
 <!-- id: g20-ind-5 -->
 
 - A. Only crusty lichens
@@ -7491,26 +8235,35 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. No lichens at all
 - D. Only algae in water
 
-**Q1035.** A river is sampled upstream and downstream of a sewage outlet. Stonefly larvae are found upstream only. Explain this result. (3 marks)
+**Q1121.** A river is sampled upstream and downstream of a sewage outlet. Stonefly larvae are found upstream only. Explain this result. (3 marks)
 <!-- id: g20-ind-6 -->
 
 *Written answer*
 
-**Q1036.** Explain why indicator species can give a better picture of pollution than a single chemical test. (2 marks)
+**Q1122.** Explain why indicator species can give a better picture of pollution than a single chemical test. (2 marks)
 <!-- id: g20-ind-7 -->
 
 *Written answer*
 
-**Q1037.** Describe how you could use lichens to compare air pollution at two sites. (3 marks)
+**Q1123.** Describe how you could use lichens to compare air pollution at two sites. (3 marks)
 <!-- id: g20-ind-8 -->
 
 *Written answer*
+
+**Q1124.** A stream has many bloodworms and sludgeworms but no stonefly nymphs. This indicates that the water:
+<!-- id: gcse-bio-indicator-species-c1 -->
+*Challenge question*
+
+- A. Is clean and well oxygenated
+- B. Is polluted, with low oxygen levels
+- C. Has high sulfur dioxide levels
+- D. Is too cold for any life
 
 ### Core Practicals
 
 #### CP: Using a light microscope
 
-**Q1038.** Which objective lens should you start with when focusing?
+**Q1125.** Which objective lens should you start with when focusing?
 <!-- id: cpm-1 -->
 
 - A. The highest power
@@ -7518,7 +8271,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Any
 - D. The ×40 lens
 
-**Q1039.** Why are stains such as iodine added to slides?
+**Q1126.** Why are stains such as iodine added to slides?
 <!-- id: cpm-2 -->
 
 - A. To kill cells
@@ -7526,7 +8279,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. To magnify
 - D. To dry the sample
 
-**Q1040.** When using a high-power lens you should only use the:
+**Q1127.** When using a high-power lens you should only use the:
 <!-- id: cpm-3 -->
 
 - A. Coarse focus
@@ -7534,12 +8287,12 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Stage clips
 - D. Mirror
 
-**Q1041.** Describe how to prepare a slide of onion epidermis.
+**Q1128.** Describe how to prepare a slide of onion epidermis.
 <!-- id: cpm-4 -->
 
 *Written answer*
 
-**Q1042.** A student uses a ×10 eyepiece and a ×40 objective lens. What is the total magnification?
+**Q1129.** A student uses a ×10 eyepiece and a ×40 objective lens. What is the total magnification?
 <!-- id: g20-cpm-1 -->
 
 - A. ×30
@@ -7547,7 +8300,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. ×4
 - D. ×50
 
-**Q1043.** Why is a coverslip placed over the specimen?
+**Q1130.** Why is a coverslip placed over the specimen?
 <!-- id: g20-cpm-2 -->
 
 - A. To stain the cells
@@ -7555,7 +8308,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. To magnify the image
 - D. To hold the specimen flat and protect the objective lens
 
-**Q1044.** Why should the coverslip be lowered at an angle using a mounted needle?
+**Q1131.** Why should the coverslip be lowered at an angle using a mounted needle?
 <!-- id: g20-cpm-3 -->
 
 - A. To increase magnification
@@ -7563,7 +8316,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. To warm the slide
 - D. To kill the cells
 
-**Q1045.** In a scientific drawing of cells, which is correct?
+**Q1132.** In a scientific drawing of cells, which is correct?
 <!-- id: g20-cpm-4 -->
 
 - A. Use shading to show depth
@@ -7571,7 +8324,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Colour the nucleus in
 - D. Draw overlapping outlines
 
-**Q1046.** A cell image is 6 mm wide and the real cell is 30 µm wide. What is the magnification?
+**Q1133.** A cell image is 6 mm wide and the real cell is 30 µm wide. What is the magnification?
 <!-- id: g20-cpm-5 -->
 *Higher tier only*
 
@@ -7580,25 +8333,34 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. ×180
 - D. ×5
 
-**Q1047.** Describe how to focus a microscope on a specimen, starting from a prepared slide. (4 marks)
+**Q1134.** Describe how to focus a microscope on a specimen, starting from a prepared slide. (4 marks)
 <!-- id: g20-cpm-6 -->
 
 *Written answer*
 
-**Q1048.** A cell appears 45 mm long in a drawing. The magnification is ×300. Calculate the real length in µm. (2 marks)
+**Q1135.** A cell appears 45 mm long in a drawing. The magnification is ×300. Calculate the real length in µm. (2 marks)
 <!-- id: g20-cpm-7 -->
 *Higher tier only*
 
 *Written answer*
 
-**Q1049.** Explain why a thin specimen is needed to view cells with a light microscope. (2 marks)
+**Q1136.** Explain why a thin specimen is needed to view cells with a light microscope. (2 marks)
 <!-- id: g20-cpm-8 -->
 
 *Written answer*
 
+**Q1137.** Why should you start with the lowest-power objective lens?
+<!-- id: gcse-bio-cp-using-a-light-microscope-c1 -->
+*Challenge question*
+
+- A. It gives the highest magnification
+- B. It gives a wider field of view to find the specimen and reduces the risk of damaging the slide
+- C. It improves resolution
+- D. It stains the cells
+
 #### CP: pH and amylase activity
 
-**Q1050.** Which reagent shows that starch is still present?
+**Q1138.** Which reagent shows that starch is still present?
 <!-- id: cpa-1 -->
 
 - A. Benedict's
@@ -7606,7 +8368,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Biuret
 - D. Limewater
 
-**Q1051.** What is the independent variable?
+**Q1139.** What is the independent variable?
 <!-- id: cpa-2 -->
 
 - A. Temperature
@@ -7614,7 +8376,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Time taken
 - D. Volume of amylase
 
-**Q1052.** Why use a water bath at a fixed temperature?
+**Q1140.** Why use a water bath at a fixed temperature?
 <!-- id: cpa-3 -->
 
 - A. To control temperature as a variable
@@ -7622,12 +8384,12 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. To change pH
 - D. To kill amylase
 
-**Q1053.** Describe how to time when starch is fully digested.
+**Q1141.** Describe how to time when starch is fully digested.
 <!-- id: cpa-4 -->
 
 *Written answer*
 
-**Q1054.** Why is a buffer solution added to the amylase and starch mixture?
+**Q1142.** Why is a buffer solution added to the amylase and starch mixture?
 <!-- id: g20-cpa-1 -->
 
 - A. To keep the pH at a set value
@@ -7635,7 +8397,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. To change the colour of iodine
 - D. To provide energy
 
-**Q1055.** Amylase is added to starch at pH 2. After 10 minutes iodine still turns blue-black. What is the best conclusion?
+**Q1143.** Amylase is added to starch at pH 2. After 10 minutes iodine still turns blue-black. What is the best conclusion?
 <!-- id: g20-cpa-2 -->
 
 - A. Amylase works best at pH 2
@@ -7643,7 +8405,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Starch has been fully digested
 - D. Amylase is denatured or inactive at pH 2
 
-**Q1056.** Which is the dependent variable in this investigation?
+**Q1144.** Which is the dependent variable in this investigation?
 <!-- id: g20-cpa-3 -->
 
 - A. Temperature of the water bath
@@ -7651,7 +8413,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Concentration of starch
 - D. Time taken for starch to disappear
 
-**Q1057.** Amylase was fastest at pH 7 (30 s) and slower at pH 5 (120 s). Which calculation gives the rate at pH 7?
+**Q1145.** Amylase was fastest at pH 7 (30 s) and slower at pH 5 (120 s). Which calculation gives the rate at pH 7?
 <!-- id: g20-cpa-4 -->
 
 - A. 30 × 1000
@@ -7659,7 +8421,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. 30 ÷ 1000
 - D. 1000 − 30
 
-**Q1058.** Why is it important to mix the enzyme and substrate only after both have reached the water bath temperature?
+**Q1146.** Why is it important to mix the enzyme and substrate only after both have reached the water bath temperature?
 <!-- id: g20-cpa-5 -->
 
 - A. To make the solution colourless
@@ -7667,24 +8429,33 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. To lower the pH
 - D. So the reaction starts at the correct temperature
 
-**Q1059.** Describe how the effect of pH on the rate of amylase can be investigated. (4 marks)
+**Q1147.** Describe how the effect of pH on the rate of amylase can be investigated. (4 marks)
 <!-- id: g20-cpa-6 -->
 
 *Written answer*
 
-**Q1060.** Name two variables that must be controlled and explain why. (2 marks)
+**Q1148.** Name two variables that must be controlled and explain why. (2 marks)
 <!-- id: g20-cpa-7 -->
 
 *Written answer*
 
-**Q1061.** Explain, using the shape of an enzyme, why amylase activity falls at very low or very high pH. (3 marks)
+**Q1149.** Explain, using the shape of an enzyme, why amylase activity falls at very low or very high pH. (3 marks)
 <!-- id: g20-cpa-8 -->
 
 *Written answer*
 
+**Q1150.** Why are the amylase and starch solutions placed separately in the water bath before mixing?
+<!-- id: gcse-bio-cp-ph-and-amylase-activity-c1 -->
+*Challenge question*
+
+- A. To stop the iodine reacting
+- B. To change their pH
+- C. So they reach the set temperature before the reaction begins
+- D. To denature the enzyme
+
 #### CP: Osmosis in potato
 
-**Q1062.** Why are potato pieces blotted dry before weighing?
+**Q1151.** Why are potato pieces blotted dry before weighing?
 <!-- id: cpo-1 -->
 
 - A. To remove excess surface water that would affect mass
@@ -7692,7 +8463,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. To add sugar
 - D. To speed osmosis
 
-**Q1063.** Why calculate percentage change in mass rather than change in mass?
+**Q1152.** Why calculate percentage change in mass rather than change in mass?
 <!-- id: cpo-2 -->
 
 - A. It's faster
@@ -7700,7 +8471,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. It's always positive
 - D. It shows volume
 
-**Q1064.** At which point on the graph is the sucrose concentration equal to the potato cell sap concentration?
+**Q1153.** At which point on the graph is the sucrose concentration equal to the potato cell sap concentration?
 <!-- id: cpo-3 -->
 
 - A. Where the line crosses 0% change in mass
@@ -7708,12 +8479,12 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. At 0 M sucrose
 - D. Where the line is steepest
 
-**Q1065.** A potato piece loses mass in 1.0 M sucrose solution. Explain why.
+**Q1154.** A potato piece loses mass in 1.0 M sucrose solution. Explain why.
 <!-- id: cpo-4 -->
 
 *Written answer*
 
-**Q1066.** Potato cylinders are cut with a cork borer rather than with a knife freehand. Why?
+**Q1155.** Potato cylinders are cut with a cork borer rather than with a knife freehand. Why?
 <!-- id: g21-pot-1 -->
 
 - A. It removes the potato skin cells
@@ -7721,7 +8492,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. It gives cylinders of the same diameter, so surface area is controlled
 - D. It stops osmosis happening during cutting
 
-**Q1067.** A potato cylinder increases in mass in a solution. What does this show?
+**Q1156.** A potato cylinder increases in mass in a solution. What does this show?
 <!-- id: g21-pot-2 -->
 
 - A. The solution is more concentrated than the cell sap
@@ -7729,7 +8500,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. The solution has the same concentration as the cell sap
 - D. Water left the cells by active transport
 
-**Q1068.** In this investigation, which is the dependent variable?
+**Q1157.** In this investigation, which is the dependent variable?
 <!-- id: g21-pot-3 -->
 
 - A. Time in the solution
@@ -7737,7 +8508,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Temperature of the room
 - D. Concentration of sucrose solution
 
-**Q1069.** Potato cylinder A starts at 2.50 g and ends at 2.20 g. What is the percentage change in mass?
+**Q1158.** Potato cylinder A starts at 2.50 g and ends at 2.20 g. What is the percentage change in mass?
 <!-- id: g21-pot-4 -->
 
 - A. −0.3%
@@ -7745,7 +8516,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. +12%
 - D. −12%
 
-**Q1070.** Why should the experiment include a potato piece in distilled water?
+**Q1159.** Why should the experiment include a potato piece in distilled water?
 <!-- id: g21-pot-5 -->
 
 - A. To prevent the cylinders from drying out
@@ -7753,24 +8524,33 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. To make the sucrose less concentrated
 - D. To kill bacteria on the potato
 
-**Q1071.** Describe how you would use a graph of percentage change in mass against sucrose concentration to estimate the concentration of the potato cell sap. (2 marks)
+**Q1160.** Describe how you would use a graph of percentage change in mass against sucrose concentration to estimate the concentration of the potato cell sap. (2 marks)
 <!-- id: g21-pot-6 -->
 
 *Written answer*
 
-**Q1072.** Give three variables that should be controlled in the potato osmosis investigation. (3 marks)
+**Q1161.** Give three variables that should be controlled in the potato osmosis investigation. (3 marks)
 <!-- id: g21-pot-7 -->
 
 *Written answer*
 
-**Q1073.** A student says the results are more reliable if repeated. Explain how the student could improve reliability and how they should process the repeats. (2 marks)
+**Q1162.** A student says the results are more reliable if repeated. Explain how the student could improve reliability and how they should process the repeats. (2 marks)
 <!-- id: g21-pot-8 -->
 
 *Written answer*
 
+**Q1163.** Why are potato cylinders blotted dry before they are weighed?
+<!-- id: gcse-bio-cp-osmosis-in-potato-c1 -->
+*Challenge question*
+
+- A. To stop osmosis
+- B. To kill the cells
+- C. To remove surface solution that would add to the mass
+- D. To increase the mass
+
 #### CP: Food tests *(Triple only)*
 
-**Q1074.** Which test needs heating in a water bath?
+**Q1164.** Which test needs heating in a water bath?
 <!-- id: cpf-1 -->
 
 - A. Iodine test
@@ -7778,7 +8558,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Biuret test
 - D. Emulsion test
 
-**Q1075.** The ethanol emulsion test for lipids gives:
+**Q1165.** The ethanol emulsion test for lipids gives:
 <!-- id: cpf-2 -->
 
 - A. A purple colour
@@ -7786,12 +8566,12 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Brick red precipitate
 - D. Blue-black colour
 
-**Q1076.** Give one safety precaution for food tests.
+**Q1166.** Give one safety precaution for food tests.
 <!-- id: cpf-3 -->
 
 *Written answer*
 
-**Q1077.** Which result shows that starch is present in a food sample?
+**Q1167.** Which result shows that starch is present in a food sample?
 <!-- id: g21-food-1 -->
 
 - A. Brick-red precipitate with Benedict's reagent
@@ -7799,7 +8579,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Purple colour with biuret reagent
 - D. Cloudy emulsion with ethanol then water
 
-**Q1078.** A food sample is tested with Benedict's reagent and heated. The mixture stays blue. What can you conclude?
+**Q1168.** A food sample is tested with Benedict's reagent and heated. The mixture stays blue. What can you conclude?
 <!-- id: g21-food-2 -->
 
 - A. No sugar of any kind is present
@@ -7807,7 +8587,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Starch is present
 - D. No reducing sugar is present
 
-**Q1079.** What is the positive result for the biuret test for protein?
+**Q1169.** What is the positive result for the biuret test for protein?
 <!-- id: g21-food-3 -->
 
 - A. Orange-brown to blue-black
@@ -7815,7 +8595,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Blue to purple / lilac
 - D. Blue to brick red
 
-**Q1080.** In the emulsion test for lipids, why is the food first ground up and shaken with ethanol?
+**Q1170.** In the emulsion test for lipids, why is the food first ground up and shaken with ethanol?
 <!-- id: g21-food-4 -->
 
 - A. To neutralise the acid
@@ -7823,7 +8603,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. To turn the lipid into starch
 - D. To kill microorganisms
 
-**Q1081.** Which colour sequence is seen as the amount of reducing sugar increases in a Benedict's test?
+**Q1171.** Which colour sequence is seen as the amount of reducing sugar increases in a Benedict's test?
 <!-- id: g21-food-5 -->
 
 - A. Blue → green → yellow → orange → brick red
@@ -7831,24 +8611,33 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Blue → purple → lilac
 - D. Orange → brown → blue-black
 
-**Q1082.** Describe how to test a liquid food sample for reducing sugars. (4 marks)
+**Q1172.** Describe how to test a liquid food sample for reducing sugars. (4 marks)
 <!-- id: g21-food-6 -->
 
 *Written answer*
 
-**Q1083.** A sample gives a blue-black colour with iodine and a purple colour with biuret reagent. What does it contain? (2 marks)
+**Q1173.** A sample gives a blue-black colour with iodine and a purple colour with biuret reagent. What does it contain? (2 marks)
 <!-- id: g21-food-7 -->
 
 *Written answer*
 
-**Q1084.** Explain why a water bath is used rather than a Bunsen flame to heat the Benedict's test, and why ethanol is a hazard in the lipid test. (2 marks)
+**Q1174.** Explain why a water bath is used rather than a Bunsen flame to heat the Benedict's test, and why ethanol is a hazard in the lipid test. (2 marks)
 <!-- id: g21-food-8 -->
 
 *Written answer*
 
+**Q1175.** Benedict's test results ranked from the least to the most reducing sugar are:
+<!-- id: gcse-bio-cp-food-tests-c1 -->
+*Challenge question*
+
+- A. Brick red, orange, yellow, green, blue
+- B. Purple, blue, green, red
+- C. Blue, green, yellow, orange, brick red
+- D. Blue-black, orange, red
+
 #### CP: Calorimetry *(Triple only)*
 
-**Q1085.** Energy per gram of food is calculated by:
+**Q1176.** Energy per gram of food is calculated by:
 <!-- id: cpc-1 -->
 
 - A. Energy transferred ÷ mass of food burned
@@ -7856,7 +8645,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Temperature ÷ mass
 - D. Mass of water ÷ energy
 
-**Q1086.** To make the result more accurate you could:
+**Q1177.** To make the result more accurate you could:
 <!-- id: cpc-2 -->
 
 - A. Insulate the tube to reduce heat loss
@@ -7864,12 +8653,12 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Use bigger flames
 - D. Stop reading the thermometer
 
-**Q1087.** A 0.5 g crisp heats 25 g of water by 12 °C. Calculate energy per gram (4.2 J/g/°C).
+**Q1178.** A 0.5 g crisp heats 25 g of water by 12 °C. Calculate energy per gram (4.2 J/g/°C).
 <!-- id: cpc-3 -->
 
 *Written answer*
 
-**Q1088.** In a food calorimetry experiment, what is the energy transferred to the water calculated from?
+**Q1179.** In a food calorimetry experiment, what is the energy transferred to the water calculated from?
 <!-- id: g21-cal-1 -->
 
 - A. Mass of water × specific heat capacity × temperature change
@@ -7877,7 +8666,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Volume of water ÷ time
 - D. Initial temperature × mass of food
 
-**Q1089.** A food heats 20 g of water from 20 °C to 45 °C. What energy is transferred to the water? (4.2 J/g/°C)
+**Q1180.** A food heats 20 g of water from 20 °C to 45 °C. What energy is transferred to the water? (4.2 J/g/°C)
 <!-- id: g21-cal-2 -->
 
 - A. 420 J
@@ -7885,7 +8674,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. 3780 J
 - D. 2100 J
 
-**Q1090.** Why is the energy value found in a school calorimetry experiment usually lower than the value on the food packet?
+**Q1181.** Why is the energy value found in a school calorimetry experiment usually lower than the value on the food packet?
 <!-- id: g21-cal-3 -->
 
 - A. Water absorbs all the energy
@@ -7893,7 +8682,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Some energy is lost to the surroundings and the food burns incompletely
 - D. The food gains energy from the air
 
-**Q1091.** Which change would improve the accuracy of the investigation?
+**Q1182.** Which change would improve the accuracy of the investigation?
 <!-- id: g21-cal-4 -->
 
 - A. Using a thermometer reading to the nearest 10 °C
@@ -7901,7 +8690,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Heating a larger volume of water without measuring it
 - D. Holding the food 20 cm below the tube
 
-**Q1092.** Which unit is commonly used to give the energy per gram of food on a packet?
+**Q1183.** Which unit is commonly used to give the energy per gram of food on a packet?
 <!-- id: g21-cal-5 -->
 
 - A. kJ per 100 g
@@ -7909,24 +8698,30 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. g per J
 - D. cm³ per g
 
-**Q1093.** A 0.8 g peanut heats 30 g of water by 40 °C. Calculate the energy released per gram of peanut. (4.2 J/g/°C) (3 marks)
+**Q1184.** A 0.8 g peanut heats 30 g of water by 40 °C. Calculate the energy released per gram of peanut. (4.2 J/g/°C) (3 marks)
 <!-- id: g21-cal-6 -->
 
 *Written answer*
 
-**Q1094.** Give two variables that must be controlled when comparing the energy in different foods. (2 marks)
+**Q1185.** Give two variables that must be controlled when comparing the energy in different foods. (2 marks)
 <!-- id: g21-cal-7 -->
 
 *Written answer*
 
-**Q1095.** Explain how the student could improve the reliability of the results when comparing two foods. (2 marks)
+**Q1186.** Explain how the student could improve the reliability of the results when comparing two foods. (2 marks)
 <!-- id: g21-cal-8 -->
+
+*Written answer*
+
+**Q1187.** Suggest two improvements to the boiling-tube calorimetry method that would make the energy values closer to the true values.
+<!-- id: gcse-bio-cp-calorimetry-c1 -->
+*Challenge question*
 
 *Written answer*
 
 #### CP: Antibiotics and bacterial growth *(Triple only)*
 
-**Q1096.** Why are agar plates incubated at 25 °C in schools?
+**Q1188.** Why are agar plates incubated at 25 °C in schools?
 <!-- id: cpb-1 -->
 
 - A. To kill bacteria
@@ -7934,7 +8729,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Bacteria only grow at 25 °C
 - D. To speed up growth
 
-**Q1097.** A larger clear zone around an antibiotic disc means:
+**Q1189.** A larger clear zone around an antibiotic disc means:
 <!-- id: cpb-2 -->
 
 - A. The antibiotic is less effective
@@ -7942,7 +8737,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. The bacteria are resistant
 - D. No effect
 
-**Q1098.** Area of a circular clear zone with radius 5 mm (π = 3.14)?
+**Q1190.** Area of a circular clear zone with radius 5 mm (π = 3.14)?
 <!-- id: cpb-3 -->
 
 - A. 15.7 mm²
@@ -7950,12 +8745,12 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. 31.4 mm²
 - D. 25 mm²
 
-**Q1099.** Give two aseptic techniques used when culturing bacteria.
+**Q1191.** Give two aseptic techniques used when culturing bacteria.
 <!-- id: cpb-4 -->
 
 *Written answer*
 
-**Q1100.** Why should the lid of a Petri dish be taped with only two or four short pieces and not sealed all around?
+**Q1192.** Why should the lid of a Petri dish be taped with only two or four short pieces and not sealed all around?
 <!-- id: g21-abx-1 -->
 
 - A. To let bacteria escape
@@ -7963,7 +8758,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. To kill bacteria with air
 - D. To allow oxygen in so harmful anaerobic bacteria do not grow
 
-**Q1101.** A clear zone appears around an antibiotic disc on a bacterial lawn. What does this show?
+**Q1193.** A clear zone appears around an antibiotic disc on a bacterial lawn. What does this show?
 <!-- id: g21-abx-2 -->
 
 - A. The agar has dried out
@@ -7971,7 +8766,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. The antibiotic prevented bacteria growing nearby
 - D. The bacteria are resistant to the antibiotic
 
-**Q1102.** Why is a control disc soaked in sterile water often included on the plate?
+**Q1194.** Why is a control disc soaked in sterile water often included on the plate?
 <!-- id: g21-abx-3 -->
 
 - A. To measure the temperature
@@ -7979,7 +8774,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. To increase the rate of diffusion
 - D. To feed the bacteria
 
-**Q1103.** The diameter of a clear zone is 12 mm. What is its area? (π = 3.14)
+**Q1195.** The diameter of a clear zone is 12 mm. What is its area? (π = 3.14)
 <!-- id: g21-abx-4 -->
 
 - A. 113 mm²
@@ -7987,7 +8782,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. 37.7 mm²
 - D. 144 mm²
 
-**Q1104.** Why are agar plates and culture media sterilised before use?
+**Q1196.** Why are agar plates and culture media sterilised before use?
 <!-- id: g21-abx-5 -->
 
 - A. To provide nutrients for bacteria
@@ -7995,24 +8790,30 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. To make bacteria resistant
 - D. To kill unwanted microorganisms that would contaminate the culture
 
-**Q1105.** Describe how you would use a sterile loop to transfer bacteria to a Petri dish safely. (3 marks)
+**Q1197.** Describe how you would use a sterile loop to transfer bacteria to a Petri dish safely. (3 marks)
 <!-- id: g21-abx-6 -->
 
 *Written answer*
 
-**Q1106.** Antibiotic A gives a clear zone of diameter 14 mm and antibiotic B a zone of diameter 8 mm. Which is more effective, and why? Calculate the area of A's zone (π = 3.14). (3 marks)
+**Q1198.** Antibiotic A gives a clear zone of diameter 14 mm and antibiotic B a zone of diameter 8 mm. Which is more effective, and why? Calculate the area of A's zone (π = 3.14). (3 marks)
 <!-- id: g21-abx-7 -->
 
 *Written answer*
 
-**Q1107.** Explain why cultures in schools are incubated at 25 °C or below, not at 37 °C. (2 marks)
+**Q1199.** Explain why cultures in schools are incubated at 25 °C or below, not at 37 °C. (2 marks)
 <!-- id: g21-abx-8 -->
+
+*Written answer*
+
+**Q1200.** A clear zone around an antibiotic disc has a diameter of 14 mm. Calculate its area.
+<!-- id: gcse-bio-cp-antibiotics-and-bacterial-growth-c1 -->
+*Challenge question*
 
 *Written answer*
 
 #### CP: Light intensity and photosynthesis
 
-**Q1108.** In the pondweed experiment, rate is measured by:
+**Q1201.** In the pondweed experiment, rate is measured by:
 <!-- id: cpl-1 -->
 
 - A. Counting oxygen bubbles or volume of gas
@@ -8020,7 +8821,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Weighing the plant
 - D. Measuring temperature
 
-**Q1109.** Why is a beaker of water or LED lamp used?
+**Q1202.** Why is a beaker of water or LED lamp used?
 <!-- id: cpl-2 -->
 
 - A. To control temperature changes from the lamp
@@ -8028,7 +8829,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. To change pH
 - D. To increase light
 
-**Q1110.** Which change will decrease the number of bubbles per minute?
+**Q1203.** Which change will decrease the number of bubbles per minute?
 <!-- id: cpl-3 -->
 
 - A. Moving the lamp further away
@@ -8036,12 +8837,12 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Adding sodium hydrogencarbonate
 - D. Raising temperature slightly
 
-**Q1111.** Suggest why counting bubbles is not very accurate.
+**Q1204.** Suggest why counting bubbles is not very accurate.
 <!-- id: cpl-4 -->
 
 *Written answer*
 
-**Q1112.** In the pondweed experiment, the independent variable is usually:
+**Q1205.** In the pondweed experiment, the independent variable is usually:
 <!-- id: g22-lip-1 -->
 
 - A. The temperature of the water
@@ -8049,7 +8850,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. The distance between the lamp and the pondweed
 - D. The number of bubbles produced per minute
 
-**Q1113.** Which gas makes up the bubbles given off by pondweed in bright light?
+**Q1206.** Which gas makes up the bubbles given off by pondweed in bright light?
 <!-- id: g22-lip-2 -->
 
 - A. Hydrogen
@@ -8057,7 +8858,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Oxygen
 - D. Nitrogen
 
-**Q1114.** Sodium hydrogencarbonate is added to the water in the pondweed experiment to:
+**Q1207.** Sodium hydrogencarbonate is added to the water in the pondweed experiment to:
 <!-- id: g22-lip-3 -->
 
 - A. Supply oxygen for respiration
@@ -8065,7 +8866,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Supply carbon dioxide so it is not limiting
 - D. Absorb extra light
 
-**Q1115.** A lamp is moved from 10 cm to 20 cm from the pondweed. Light intensity is proportional to 1/d². How does light intensity change?
+**Q1208.** A lamp is moved from 10 cm to 20 cm from the pondweed. Light intensity is proportional to 1/d². How does light intensity change?
 <!-- id: g22-lip-4 -->
 *Higher tier only*
 
@@ -8074,7 +8875,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. It falls to one quarter
 - D. It falls to one half
 
-**Q1116.** At high light intensity the rate of photosynthesis stops increasing. This is because:
+**Q1209.** At high light intensity the rate of photosynthesis stops increasing. This is because:
 <!-- id: g22-lip-5 -->
 
 - A. Light is no longer absorbed by leaves
@@ -8082,24 +8883,33 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Another factor, such as CO₂ concentration or temperature, is now limiting
 - D. The chlorophyll has been used up completely
 
-**Q1117.** Describe how you would use a gas syringe to find the effect of light intensity on the rate of photosynthesis in pondweed. (4 marks)
+**Q1210.** Describe how you would use a gas syringe to find the effect of light intensity on the rate of photosynthesis in pondweed. (4 marks)
 <!-- id: g22-lip-6 -->
 
 *Written answer*
 
-**Q1118.** Pondweed produces 12 cm³ of oxygen in 4 minutes. Calculate the rate in cm³ per minute. (2 marks)
+**Q1211.** Pondweed produces 12 cm³ of oxygen in 4 minutes. Calculate the rate in cm³ per minute. (2 marks)
 <!-- id: g22-lip-7 -->
 
 *Written answer*
 
-**Q1119.** Explain why the pondweed should be left for a few minutes after moving the lamp before counting bubbles. (2 marks)
+**Q1212.** Explain why the pondweed should be left for a few minutes after moving the lamp before counting bubbles. (2 marks)
 <!-- id: g22-lip-8 -->
 
 *Written answer*
 
+**Q1213.** In the pondweed experiment, a beaker of water is placed between the lamp and the pondweed. Its purpose is to:
+<!-- id: gcse-bio-cp-light-intensity-and-photosynthesis-c1 -->
+*Challenge question*
+
+- A. Supply carbon dioxide
+- B. Absorb heat from the lamp so that temperature does not change
+- C. Increase light intensity
+- D. Measure the oxygen produced
+
 #### CP: Respiration rate in small organisms
 
-**Q1120.** What does soda lime do in a respirometer?
+**Q1214.** What does soda lime do in a respirometer?
 <!-- id: cpr-1 -->
 
 - A. Absorbs carbon dioxide
@@ -8107,7 +8917,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Heats the tube
 - D. Feeds the organisms
 
-**Q1121.** As organisms respire, the coloured liquid moves:
+**Q1215.** As organisms respire, the coloured liquid moves:
 <!-- id: cpr-2 -->
 
 - A. Away from the organisms
@@ -8115,7 +8925,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Doesn't move
 - D. Up and down
 
-**Q1122.** What is the control in this experiment?
+**Q1216.** What is the control in this experiment?
 <!-- id: cpr-3 -->
 
 - A. A tube with glass beads of the same mass instead of organisms
@@ -8123,12 +8933,12 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. A tube at a higher temperature
 - D. No tube
 
-**Q1123.** Give one ethical consideration when using live organisms.
+**Q1217.** Give one ethical consideration when using live organisms.
 <!-- id: cpr-4 -->
 
 *Written answer*
 
-**Q1124.** Which organisms are suitable to use in a respirometer?
+**Q1218.** Which organisms are suitable to use in a respirometer?
 <!-- id: g22-rrs-1 -->
 
 - A. Dry seeds
@@ -8136,7 +8946,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Large mammals
 - D. Germinating peas or woodlice
 
-**Q1125.** Why does the coloured liquid move towards the organisms in a respirometer?
+**Q1219.** Why does the coloured liquid move towards the organisms in a respirometer?
 <!-- id: g22-rrs-2 -->
 
 - A. CO₂ is released into the tube
@@ -8144,7 +8954,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. The tube heats up and gas expands
 - D. Oxygen is used up and the CO₂ produced is absorbed, so the gas volume falls
 
-**Q1126.** The liquid moves 24 mm in 8 minutes. What is the rate of movement?
+**Q1220.** The liquid moves 24 mm in 8 minutes. What is the rate of movement?
 <!-- id: g22-rrs-3 -->
 
 - A. 0.33 mm per minute
@@ -8152,7 +8962,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. 16 mm per minute
 - D. 3 mm per minute
 
-**Q1127.** To investigate the effect of temperature on respiration rate, the respirometer tubes should be placed in:
+**Q1221.** To investigate the effect of temperature on respiration rate, the respirometer tubes should be placed in:
 <!-- id: g22-rrs-4 -->
 
 - A. Different light levels
@@ -8160,7 +8970,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. A freezer only
 - D. Water baths at different temperatures
 
-**Q1128.** A student uses 5 g of woodlice in one tube and 10 g in another. What is the best way to compare their respiration rates?
+**Q1222.** A student uses 5 g of woodlice in one tube and 10 g in another. What is the best way to compare their respiration rates?
 <!-- id: g22-rrs-5 -->
 *Higher tier only*
 
@@ -8169,24 +8979,33 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Compare only the total distance moved
 - D. Calculate the movement per minute per gram of woodlice
 
-**Q1129.** Explain why a control tube containing glass beads is set up. (2 marks)
+**Q1223.** Explain why a control tube containing glass beads is set up. (2 marks)
 <!-- id: g22-rrs-6 -->
 
 *Written answer*
 
-**Q1130.** Suggest why the organisms are kept on a mesh platform above the soda lime. (2 marks)
+**Q1224.** Suggest why the organisms are kept on a mesh platform above the soda lime. (2 marks)
 <!-- id: g22-rrs-7 -->
 
 *Written answer*
 
-**Q1131.** Describe how the results from a respirometer would change if the temperature was increased from 10 °C to 25 °C, and explain why. (3 marks)
+**Q1225.** Describe how the results from a respirometer would change if the temperature was increased from 10 °C to 25 °C, and explain why. (3 marks)
 <!-- id: g22-rrs-8 -->
 
 *Written answer*
 
+**Q1226.** In a respirometer, soda lime absorbs carbon dioxide. As the organisms respire, the coloured liquid moves towards them because:
+<!-- id: gcse-bio-cp-respiration-rate-in-small-organisms-c1 -->
+*Challenge question*
+
+- A. They release extra oxygen
+- B. They use up oxygen, and the CO₂ they release is absorbed, so the gas volume falls
+- C. Soda lime produces gas
+- D. The temperature rises
+
 #### CP: Sampling with quadrats
 
-**Q1132.** How can you place quadrats randomly in a field?
+**Q1227.** How can you place quadrats randomly in a field?
 <!-- id: cpq-1 -->
 
 - A. Throw over your shoulder
@@ -8194,7 +9013,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Place where there are most plants
 - D. Place in a line
 
-**Q1133.** Percentage cover estimates:
+**Q1228.** Percentage cover estimates:
 <!-- id: cpq-2 -->
 
 - A. The number of plants
@@ -8202,12 +9021,12 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. The height of plants
 - D. Plant mass
 
-**Q1134.** Describe how to investigate how plant distribution changes from a hedge into an open field.
+**Q1229.** Describe how to investigate how plant distribution changes from a hedge into an open field.
 <!-- id: cpq-3 -->
 
 *Written answer*
 
-**Q1135.** Why should many quadrats be used in a sampling investigation?
+**Q1230.** Why should many quadrats be used in a sampling investigation?
 <!-- id: g22-sq-1 -->
 
 - A. To make a random sample unnecessary
@@ -8215,7 +9034,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. To save time
 - D. To make the results more representative of the whole area
 
-**Q1136.** A transect is used to study:
+**Q1231.** A transect is used to study:
 <!-- id: g22-sq-2 -->
 
 - A. The total number of species in a pond
@@ -8223,7 +9042,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Soil pH only
 - D. How distribution changes along a line, such as from a path into woodland
 
-**Q1137.** Five 1 m² quadrats contain 4, 6, 3, 7 and 5 daisies. A field has an area of 800 m². What is the estimated population?
+**Q1232.** Five 1 m² quadrats contain 4, 6, 3, 7 and 5 daisies. A field has an area of 800 m². What is the estimated population?
 <!-- id: g22-sq-3 -->
 *Higher tier only*
 
@@ -8232,7 +9051,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. 800
 - D. 4000
 
-**Q1138.** Which is the best way to avoid bias when placing quadrats?
+**Q1233.** Which is the best way to avoid bias when placing quadrats?
 <!-- id: g22-sq-4 -->
 
 - A. Place them only near the edge
@@ -8240,7 +9059,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Place them where there are most plants
 - D. Use random numbers as coordinates on a grid
 
-**Q1139.** A quadrat has 100 squares. A species covers about 35 of them. What is its percentage cover?
+**Q1234.** A quadrat has 100 squares. A species covers about 35 of them. What is its percentage cover?
 <!-- id: g22-sq-5 -->
 
 - A. 350%
@@ -8248,24 +9067,33 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. 65%
 - D. 35%
 
-**Q1140.** Describe how to find the mean number of dandelions per m² in a field using 0.25 m² quadrats. (3 marks)
+**Q1235.** Describe how to find the mean number of dandelions per m² in a field using 0.25 m² quadrats. (3 marks)
 <!-- id: g22-sq-6 -->
 
 *Written answer*
 
-**Q1141.** Explain why a transect is better than random sampling to investigate the effect of shade on plants. (2 marks)
+**Q1236.** Explain why a transect is better than random sampling to investigate the effect of shade on plants. (2 marks)
 <!-- id: g22-sq-7 -->
 
 *Written answer*
 
-**Q1142.** Give two abiotic factors that could be measured alongside quadrat counts and name a piece of equipment for one. (3 marks)
+**Q1237.** Give two abiotic factors that could be measured alongside quadrat counts and name a piece of equipment for one. (3 marks)
 <!-- id: g22-sq-8 -->
 
 *Written answer*
 
+**Q1238.** To study how plant distribution changes from a path into a field, the best method is to:
+<!-- id: gcse-bio-cp-sampling-with-quadrats-c1 -->
+*Challenge question*
+
+- A. Place quadrats randomly across the field
+- B. Count plants only next to the path
+- C. Use one large quadrat
+- D. Place quadrats at regular intervals along a transect
+
 #### CP: Temperature and decay *(Triple only)*
 
-**Q1143.** Bags of fresh grass clippings are kept at different temperatures. How can rate of decay be measured?
+**Q1239.** Bags of fresh grass clippings are kept at different temperatures. How can rate of decay be measured?
 <!-- id: cpt-1 -->
 
 - A. Measure the loss in mass over time
@@ -8273,7 +9101,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Measure the colour of the bag
 - D. Measure the light intensity
 
-**Q1144.** Why does decay slow at very high temperatures?
+**Q1240.** Why does decay slow at very high temperatures?
 <!-- id: cpt-2 -->
 
 - A. Decomposers' enzymes denature
@@ -8281,12 +9109,12 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Water is added
 - D. The grass grows
 
-**Q1145.** State two variables that must be controlled.
+**Q1241.** State two variables that must be controlled.
 <!-- id: cpt-3 -->
 
 *Written answer*
 
-**Q1146.** Slightly alkaline milk containing universal indicator is purple. Which colour change shows that microorganisms are making acid as they decay the milk?
+**Q1242.** Slightly alkaline milk containing universal indicator is purple. Which colour change shows that microorganisms are making acid as they decay the milk?
 <!-- id: g22-td-1 -->
 
 - A. No change
@@ -8294,7 +9122,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Purple to yellow
 - D. Yellow to purple
 
-**Q1147.** At 0 °C decay is very slow because:
+**Q1243.** At 0 °C decay is very slow because:
 <!-- id: g22-td-2 -->
 
 - A. There is too much oxygen
@@ -8302,7 +9130,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Decomposers' enzymes work very slowly at low temperature
 - D. Decomposers are denatured
 
-**Q1148.** What is the optimum temperature for decay likely to be?
+**Q1244.** What is the optimum temperature for decay likely to be?
 <!-- id: g22-td-3 -->
 
 - A. Below −10 °C
@@ -8310,7 +9138,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Around 30–40 °C
 - D. 100 °C
 
-**Q1149.** Which variable must be kept the same when comparing decay at different temperatures?
+**Q1245.** Which variable must be kept the same when comparing decay at different temperatures?
 <!-- id: g22-td-4 -->
 
 - A. The temperature
@@ -8318,7 +9146,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. The volume and type of milk
 - D. The colour of the tubes only
 
-**Q1150.** A student's results show decay is fastest at 35 °C and nearly zero at 70 °C. The best explanation for 70 °C is:
+**Q1246.** A student's results show decay is fastest at 35 °C and nearly zero at 70 °C. The best explanation for 70 °C is:
 <!-- id: g22-td-5 -->
 
 - A. Oxygen runs out
@@ -8326,17 +9154,108 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. Enzymes in decomposers are denatured and the microorganisms die
 - D. Enzymes are too cold to work
 
-**Q1151.** Describe a method to investigate the effect of temperature on the decay of milk. (4 marks)
+**Q1247.** Describe a method to investigate the effect of temperature on the decay of milk. (4 marks)
 <!-- id: g22-td-6 -->
 
 *Written answer*
 
-**Q1152.** Explain why rate of decay can be calculated as 1000 ÷ time taken for colour change. (2 marks)
+**Q1248.** Explain why rate of decay can be calculated as 1000 ÷ time taken for colour change. (2 marks)
 <!-- id: g22-td-7 -->
 
 *Written answer*
 
-**Q1153.** Explain why gardeners use compost heaps in summer rather than leaving rubbish in a freezer to rot. (3 marks)
+**Q1249.** Explain why gardeners use compost heaps in summer rather than leaving rubbish in a freezer to rot. (3 marks)
 <!-- id: g22-td-8 -->
+
+*Written answer*
+
+**Q1250.** The rate of decay is fastest at 35 °C and slow at both 5 °C and 70 °C. The best explanation is that:
+<!-- id: gcse-bio-cp-temperature-and-decay-c1 -->
+*Challenge question*
+
+- A. Decomposers are killed by cold
+- B. Heat always speeds up decay
+- C. Temperature has no effect on decay
+- D. Decomposer enzymes work slowly in the cold and are denatured at high temperatures
+
+### Challenge questions
+
+#### Challenge set
+
+**Q1251.** A cell's image is 45 mm long at a magnification of × 1500. Calculate its actual length in micrometres.
+<!-- id: gcse-bio-challenge-1 -->
+*Challenge question*
+
+*Written answer*
+
+**Q1252.** A lamp is moved from 10 cm to 5 cm from a plant. The light intensity:
+<!-- id: gcse-bio-challenge-2 -->
+*Challenge question*
+
+- A. Doubles
+- B. Halves
+- C. Stays the same
+- D. Increases four times
+
+**Q1253.** Both parents are carriers of cystic fibrosis. What is the probability that a child is a carrier?
+<!-- id: gcse-bio-challenge-3 -->
+*Challenge question*
+
+- A. 1/4
+- B. 3/4
+- C. 1/2
+- D. 0
+
+**Q1254.** During exercise, heart rate rises from 70 to 140 beats/min and stroke volume from 70 to 100 mL. Cardiac output rises from:
+<!-- id: gcse-bio-challenge-4 -->
+*Challenge question*
+
+- A. 4.9 L/min to 9.8 L/min
+- B. 140 L/min to 240 L/min
+- C. 4.9 L/min to 14 L/min
+- D. 7.0 L/min to 14 L/min
+
+**Q1255.** Producers contain 10 000 kJ. If 10% of the energy passes to each level, how much reaches tertiary consumers?
+<!-- id: gcse-bio-challenge-5 -->
+*Challenge question*
+
+- A. 100 kJ
+- B. 10 kJ
+- C. 1000 kJ
+- D. 1 kJ
+
+**Q1256.** Explain why a plant cell placed in pure water does not burst, but an animal cell does.
+<!-- id: gcse-bio-challenge-6 -->
+*Challenge question*
+
+*Written answer*
+
+**Q1257.** If fertilisation does not happen, the uterus lining breaks down because:
+<!-- id: gcse-bio-challenge-7 -->
+*Challenge question*
+
+- A. Oestrogen levels rise
+- B. LH surges
+- C. Progesterone levels fall
+- D. FSH levels rise
+
+**Q1258.** A woman is 1.80 m tall and has a mass of 95 kg. Her BMI and category (25–29.9 overweight, 30+ obese) are:
+<!-- id: gcse-bio-challenge-8 -->
+*Challenge question*
+
+- A. 52.8; obese
+- B. 26.1; overweight
+- C. 31.5; obese
+- D. 29.3; overweight
+
+**Q1259.** Explain why the rate of photosynthesis stops increasing when light intensity rises above a certain level.
+<!-- id: gcse-bio-challenge-9 -->
+*Challenge question*
+
+*Written answer*
+
+**Q1260.** Explain how the over-use of antibiotics has led to the spread of MRSA.
+<!-- id: gcse-bio-challenge-10 -->
+*Challenge question*
 
 *Written answer*

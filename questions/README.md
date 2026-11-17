@@ -11,4 +11,4 @@ These files are generated from index.html's DATA; question and answer text is ve
 - [Physics](Physics/questions.md) — 1357 questions (12 multi-part) ([answers](Physics/answers.md))
 - [Psychology](Psychology/questions.md) — 1274 questions (12 multi-part) ([answers](Psychology/answers.md))
 - [Specialist-Mathematics](Specialist-Mathematics/questions.md) — 848 questions (6 multi-part) ([answers](Specialist-Mathematics/answers.md))
-- [_unsorted](_unsorted/questions.md) — 1153 questions ([answers](_unsorted/answers.md))
+- [_unsorted](_unsorted/questions.md) — 1260 questions ([answers](_unsorted/answers.md))
