@@ -9215,7 +9215,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 - C. 4.9 L/min to 14 L/min
 - D. 7.0 L/min to 14 L/min
 
-**Q1255.** Producers contain 10 000 kJ. If 10% of the energy passes to each level, how much reaches tertiary consumers?
+**Q1255.** Producers contain 10 000 kJ. If 10% of the energy passes to each level, how much reaches tertiary consumers?
 <!-- id: gcse-bio-challenge-5 -->
 *Challenge question*
 

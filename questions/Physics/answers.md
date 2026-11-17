@@ -490,7 +490,7 @@ Explanation:
 **A96.** About 2.2 × 10⁵ J
 <!-- id: vce-physics12-lh-c1 -->
 
-Explanation: Warm the ice: 0.50 × 2100 × 10 = 10 500 J. Melt it: 0.50 × 3.34 × 10⁵ = 167 000 J. Warm the water: 0.50 × 4200 × 20 = 42 000 J. Total ≈ 219 500 J. Melting needs by far the most energy.
+Explanation: Warm the ice: 0.50 × 2100 × 10 = 10 500 J. Melt it: 0.50 × 3.34 × 10⁵ = 167 000 J. Warm the water: 0.50 × 4200 × 20 = 42 000 J. Total ≈ 219 500 J. Melting needs by far the most energy.
 
 #### Conduction, convection and radiation
 
@@ -2842,9 +2842,9 @@ Topic: Resistance and Ohm's law (vce-physics12-resistance-and-ohms-law)
 
 **b.** About 233 s (3.9 minutes) *(3 marks)*
 
-1. Q = mcΔT = 1.5 × 4200 × 80 = 504 000 J. *(1 mark)*
+1. Q = mcΔT = 1.5 × 4200 × 80 = 504 000 J. *(1 mark)*
 2. Useful power = 0.90 × 2400 = 2160 W. *(1 mark)*
-3. t = 504 000 ÷ 2160 ≈ 233 s. *(1 mark)*
+3. t = 504 000 ÷ 2160 ≈ 233 s. *(1 mark)*
 
 Common mistake: Forgetting the 90% efficiency.
 
@@ -2852,8 +2852,8 @@ Topic: Specific heat capacity (vce-physics12-specific-heat-capacity)
 
 **c.** About 105 s *(2 marks)*
 
-1. Q = mL = 0.10 × 2.26 × 10⁶ = 226 000 J. *(1 mark)*
-2. t = 226 000 ÷ 2160 ≈ 105 s. *(1 mark)*
+1. Q = mL = 0.10 × 2.26 × 10⁶ = 226 000 J. *(1 mark)*
+2. t = 226 000 ÷ 2160 ≈ 105 s. *(1 mark)*
 
 Common mistake: Using mcΔT for boiling, where the temperature does not change.
 
@@ -2910,8 +2910,8 @@ Topic: Work, energy and power (vce-physics12-work-energy-and-power)
 
 **d.** 6.0 m/s *(2 marks)*
 
-1. Momentum before: 1200 × 10 = 12 000 kg m/s. *(1 mark)*
-2. v = 12 000 ÷ 2000 = 6.0 m/s. *(1 mark)*
+1. Momentum before: 1200 × 10 = 12 000 kg m/s. *(1 mark)*
+2. v = 12 000 ÷ 2000 = 6.0 m/s. *(1 mark)*
 
 Common mistake: Dividing by 1200 kg instead of the combined mass.
 
@@ -7554,7 +7554,7 @@ Topic: Generators, alternators and AC/RMS (physics-5-3)
 
 **c.** About 1 : 96 *(1 mark)*
 
-1. N(p) : N(s) = 690 : 66 000 ≈ 1 : 96. *(1 mark)*
+1. N(p) : N(s) = 690 : 66 000 ≈ 1 : 96. *(1 mark)*
 
 Common mistake: Inverting the ratio for a step-up transformer.
 
@@ -7562,7 +7562,7 @@ Topic: Transformers and transmission losses (physics-5-4)
 
 **d.** 30 A; 7.3 kW; 242 V *(3 marks)*
 
-1. I = P/V = 2.0 × 10⁶ ÷ 66 000 ≈ 30.3 A. *(1 mark)*
+1. I = P/V = 2.0 × 10⁶ ÷ 66 000 ≈ 30.3 A. *(1 mark)*
 2. P(loss) = I²R = 30.3² × 8.0 ≈ 7.3 × 10³ W. *(1 mark)*
 3. V(drop) = IR = 30.3 × 8.0 ≈ 242 V. *(1 mark)*
 

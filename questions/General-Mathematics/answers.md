@@ -1987,10 +1987,10 @@ Explanation: Total depreciation is $8100 over 3 years.
 
 Explanation: Flat-rate depreciation is $3000/year; unit-cost is 1500 × 2.20 = $3300/year.
 
-**A390.** A. $38 200
+**A390.** A. $38 200
 <!-- id: general-4-3-c1 -->
 
-Explanation: Unit-cost depreciation: 3 × 2400 = 7200 hours × $0.25 = $1800, so the value is $38 200.
+Explanation: Unit-cost depreciation: 3 × 2400 = 7200 hours × $0.25 = $1800, so the value is $38 200.
 
 #### Reducing-balance depreciation
 
@@ -2122,7 +2122,7 @@ Explanation: 0.75⁶ ≈ 0.177979, so V₆ = 5000 × 0.177979 ≈ $889.89.
 **A416.** 5 years
 <!-- id: general-4-4-c1 -->
 
-Explanation: 30 000 × 0.85ⁿ < 15 000 needs 0.85ⁿ < 0.5. After 4 years 0.85⁴ ≈ 0.522 (worth $15 660); after 5 years 0.85⁵ ≈ 0.444 (worth $13 311).
+Explanation: 30 000 × 0.85ⁿ < 15 000 needs 0.85ⁿ < 0.5. After 4 years 0.85⁴ ≈ 0.522 (worth $15 660); after 5 years 0.85⁵ ≈ 0.444 (worth $13 311).
 
 ### Financial modelling
 
@@ -2385,10 +2385,10 @@ Explanation: Apply the rule twice, and multiply the monthly rate by 12.
 
 Explanation: Interest-only repayments equal the monthly interest, so the balance stays at $500 000.
 
-**A468.** Repayment $1932.90; total interest about $279 871
+**A468.** Repayment $1932.90; total interest about $279 871
 <!-- id: general-5-2-c1 -->
 
-Explanation: Finance solver: N = 300, I% = 6, PV = 300 000, FV = 0 gives PMT ≈ −1932.90. Total paid ≈ 300 × 1932.90 = $579 871, so interest ≈ $279 871.
+Explanation: Finance solver: N = 300, I% = 6, PV = 300 000, FV = 0 gives PMT ≈ −1932.90. Total paid ≈ 300 × 1932.90 = $579 871, so interest ≈ $279 871.
 
 #### Annuities and perpetuities
 
@@ -2517,10 +2517,10 @@ Explanation: Principal = payment ÷ periodic interest rate.
 
 Explanation: Use PV = −600 000, PMT = 4000, FV = 0 and round up.
 
-**A494.** B. $250 000
+**A494.** B. $250 000
 <!-- id: general-5-3-c1 -->
 
-Explanation: A perpetuity pays only the interest: 1000 = P × 0.048/12 = 0.004P, so P = $250 000.
+Explanation: A perpetuity pays only the interest: 1000 = P × 0.048/12 = 0.004P, so P = $250 000.
 
 #### Investments with regular additions
 
@@ -2652,7 +2652,7 @@ Explanation: Mention both the extra deposit and the compounding on a larger bala
 **A520.** 69 months
 <!-- id: general-5-4-c1 -->
 
-Explanation: Finance solver: PV = −10 000, PMT = −500, FV = 50 000, I% = 3.6 gives N ≈ 68.1, so it first exceeds $50 000 after 69 deposits.
+Explanation: Finance solver: PV = −10 000, PMT = −500, FV = 50 000, I% = 3.6 gives N ≈ 68.1, so it first exceeds $50 000 after 69 deposits.
 
 ### Matrices
 
@@ -4266,12 +4266,12 @@ Explanation: v − e + f = 2 gives f = 2 − 8 + 12 = 6.
 **A836.** About 20.9 years (251 withdrawals, the last smaller)
 <!-- id: general-challenge-4 -->
 
-Explanation: Finance solver: PV = −500 000, PMT = 3000, FV = 0, I% = 4.2 gives N ≈ 250.6 months, about 20.9 years.
+Explanation: Finance solver: PV = −500 000, PMT = 3000, FV = 0, I% = 4.2 gives N ≈ 250.6 months, about 20.9 years.
 
-**A837.** $1125.89 (flat rate $10 000; reducing balance $8874.11)
+**A837.** $1125.89 (flat rate $10 000; reducing balance $8874.11)
 <!-- id: general-challenge-5 -->
 
-Explanation: Flat rate: 20 000 − 5 × 2000 = 10 000. Reducing balance: 20 000 × 0.85⁵ ≈ 8874.11.
+Explanation: Flat rate: 20 000 − 5 × 2000 = 10 000. Reducing balance: 20 000 × 0.85⁵ ≈ 8874.11.
 
 **A838.** B. [c, a, b]ᵀ
 <!-- id: general-challenge-6 -->
@@ -4576,7 +4576,7 @@ Topic: Steady state and long-term behaviour (general-7-2)
 <!-- id: general-cx1 -->
 *Multi-part question · 9 marks*
 
-**a.** B₀ = 25 000, Bₙ₊₁ = 1.006Bₙ − 500 *(1 mark)*
+**a.** B₀ = 25 000, Bₙ₊₁ = 1.006Bₙ − 500 *(1 mark)*
 
 1. Monthly rate 7.2/12 = 0.6%, so multiply by 1.006 and subtract 500. *(1 mark)*
 
@@ -4584,10 +4584,10 @@ Common mistake: Using 1.072 as the monthly multiplier.
 
 Topic: First-order linear recurrence relations (general-4-1)
 
-**b.** $15 994.07 *(2 marks)*
+**b.** $15 994.07 *(2 marks)*
 
-1. Finance solver: N = 24, I% = 7.2, PV = 25 000, PMT = −500. *(1 mark)*
-2. FV ≈ −15 994.07, so she owes $15 994.07. *(1 mark)*
+1. Finance solver: N = 24, I% = 7.2, PV = 25 000, PMT = −500. *(1 mark)*
+2. FV ≈ −15 994.07, so she owes $15 994.07. *(1 mark)*
 
 Common mistake: Entering PMT as positive, which makes the balance grow.
 
@@ -4604,23 +4604,23 @@ Topic: Reducible loans and amortisation (general-5-2)
 
 **d.** About $4812.34 *(1 mark)*
 
-1. Total paid ≈ 59 × 500 + 312.34 = 29 812.34, so interest ≈ 29 812.34 − 25 000 = $4812.34. *(1 mark)*
+1. Total paid ≈ 59 × 500 + 312.34 = 29 812.34, so interest ≈ 29 812.34 − 25 000 = $4812.34. *(1 mark)*
 
 Common mistake: Using 60 × 500 as the total, which overstates it.
 
 Topic: Reducible loans and amortisation (general-5-2)
 
-**e.** $15 438 *(1 mark)*
+**e.** $15 438 *(1 mark)*
 
-1. 28 000 × 0.82³ ≈ $15 438. *(1 mark)*
+1. 28 000 × 0.82³ ≈ $15 438. *(1 mark)*
 
 Common mistake: Subtracting 18% of the original price each year (flat rate).
 
 Topic: Reducing-balance depreciation (general-4-4)
 
-**f.** Vₙ = 28 000 × 0.82ⁿ; each year the value is multiplied by 0.82, which is positive, so it approaches but never reaches 0. *(2 marks)*
+**f.** Vₙ = 28 000 × 0.82ⁿ; each year the value is multiplied by 0.82, which is positive, so it approaches but never reaches 0. *(2 marks)*
 
-1. Vₙ = 28 000 × 0.82ⁿ. *(1 mark)*
+1. Vₙ = 28 000 × 0.82ⁿ. *(1 mark)*
 2. Multiplying by 0.82 each year shrinks the value geometrically, but a positive number times 0.82 is always positive. *(1 mark)*
 
 Common mistake: Saying it reaches zero after about 5.6 years (100 ÷ 18). That is flat-rate thinking.

@@ -6641,10 +6641,10 @@ Explanation:
 
 Explanation:
 
-**A1240.** B. 17 190 years
+**A1240.** B. 17 190 years
 <!-- id: vce-bio34-fd-c1 -->
 
-Explanation: 12.5% = (1/2)³, so three half-lives: 3 × 5730 = 17 190 years. Dinosaur fossils are far too old for ¹⁴C dating.
+Explanation: 12.5% = (1/2)³, so three half-lives: 3 × 5730 = 17 190 years. Dinosaur fossils are far too old for ¹⁴C dating.
 
 #### Evidence of relatedness and phylogenetic trees
 

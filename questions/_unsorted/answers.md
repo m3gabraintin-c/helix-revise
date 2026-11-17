@@ -219,7 +219,7 @@ Explanation:
 **A41.** × 5000
 <!-- id: gcse-bio-microscopes-and-magnification-c1 -->
 
-Explanation: Convert to the same units: 10 mm = 10 000 µm. Magnification = image ÷ actual = 10 000 ÷ 2 = 5000.
+Explanation: Convert to the same units: 10 mm = 10 000 µm. Magnification = image ÷ actual = 10 000 ÷ 2 = 5000.
 
 #### Enzymes and the active site
 
@@ -6494,12 +6494,12 @@ Explanation: Ff × Ff gives FF : Ff : ff = 1 : 2 : 1, so Ff = 2/4 = 1/2.
 **A1254.** C. 4.9 L/min to 14 L/min
 <!-- id: gcse-bio-challenge-4 -->
 
-Explanation: 70 × 70 = 4900 mL; 140 × 100 = 14 000 mL.
+Explanation: 70 × 70 = 4900 mL; 140 × 100 = 14 000 mL.
 
 **A1255.** B. 10 kJ
 <!-- id: gcse-bio-challenge-5 -->
 
-Explanation: Three transfers: 10 000 × 0.1³ = 10 kJ.
+Explanation: Three transfers: 10 000 × 0.1³ = 10 kJ.
 
 **A1256.** Water enters both cells by osmosis. The plant cell swells until its membrane presses against the strong cellulose cell wall, which stops it bursting (it becomes turgid). The animal cell has no cell wall, so it swells and bursts.
 <!-- id: gcse-bio-challenge-6 -->

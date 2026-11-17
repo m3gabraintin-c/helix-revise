@@ -7227,7 +7227,7 @@ Anna and Ben are both unaffected, but their daughter Chloe has a rare inherited 
 
 *Written answer*
 
-**Q1015.** Humans have about 20 000 protein-coding genes but well over 100 000 different proteins. The best explanation is:
+**Q1015.** Humans have about 20 000 protein-coding genes but well over 100 000 different proteins. The best explanation is:
 <!-- id: vce-bio34-ps-c1 -->
 *Challenge question*
 
@@ -7500,7 +7500,7 @@ Anna and Ben are both unaffected, but their daughter Chloe has a rare inherited 
 - A. 3072
 - B. 30
 - C. 1024
-- D. 59 049
+- D. 59 049
 
 #### Recombinant plasmids and transformation
 
@@ -8881,9 +8881,9 @@ Anna and Ben are both unaffected, but their daughter Chloe has a rare inherited 
 *Challenge question*
 
 - A. 5730 years
-- B. 17 190 years
-- C. 11 460 years
-- D. 45 840 years
+- B. 17 190 years
+- C. 11 460 years
+- D. 45 840 years
 
 #### Evidence of relatedness and phylogenetic trees
 

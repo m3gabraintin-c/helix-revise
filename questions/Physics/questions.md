@@ -1222,7 +1222,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - A. 5800 K
 - B. 580 K
 - C. 1.5 × 10⁻⁹ K
-- D. 58 000 K
+- D. 58 000 K
 
 #### Climate and the enhanced greenhouse effect
 

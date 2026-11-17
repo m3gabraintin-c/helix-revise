@@ -6151,7 +6151,7 @@ Explanation:
 **A1152.** −961 kJ/mol; heat is lost to the surroundings and the container, and combustion may be incomplete.
 <!-- id: chem-1-4-c1 -->
 
-Explanation: q = 4.18 × 100.0 × 25.0 = 10 450 J = 10.45 kJ. n = 0.500 ÷ 46.0 = 0.01087 mol. ΔH = −10.45 ÷ 0.01087 = −961 kJ/mol.
+Explanation: q = 4.18 × 100.0 × 25.0 = 10 450 J = 10.45 kJ. n = 0.500 ÷ 46.0 = 0.01087 mol. ΔH = −10.45 ÷ 0.01087 = −961 kJ/mol.
 
 ### Galvanic & fuel cells
 
@@ -7417,7 +7417,7 @@ Explanation:
 **A1400.** About 19.9 minutes (1.19 × 10³ s)
 <!-- id: chem-4-2-c1 -->
 
-Explanation: n(Ag) = 2.00 ÷ 107.9 = 0.01854 mol = n(e⁻). Q = 0.01854 × 96 500 = 1789 C. t = Q ÷ I = 1789 ÷ 1.50 = 1192 s ≈ 19.9 min.
+Explanation: n(Ag) = 2.00 ÷ 107.9 = 0.01854 mol = n(e⁻). Q = 0.01854 × 96 500 = 1789 C. t = Q ÷ I = 1789 ÷ 1.50 = 1192 s ≈ 19.9 min.
 
 #### Rechargeable (secondary) cells
 
@@ -10724,7 +10724,7 @@ Topic: Combustion and thermochemical equations (chem-1-2)
 
 **b.** −301 kJ/mol *(3 marks)*
 
-1. q = 4.18 × 200.0 × 13.5 = 11 286 J = 11.3 kJ. *(1 mark)*
+1. q = 4.18 × 200.0 × 13.5 = 11 286 J = 11.3 kJ. *(1 mark)*
 2. n(CH₃OH) = 1.20 ÷ 32.0 = 0.0375 mol. *(1 mark)*
 3. ΔH = −11.3 ÷ 0.0375 = −301 kJ/mol. *(1 mark)*
 
@@ -10752,7 +10752,7 @@ Topic: Fuel cells (chem-2-3)
 
 **e.** About 1.13 × 10⁴ kJ *(2 marks)*
 
-1. n = 1000 ÷ 32.0 = 31.25 mol; energy = 31.25 × 726 = 22 700 kJ. *(1 mark)*
+1. n = 1000 ÷ 32.0 = 31.25 mol; energy = 31.25 × 726 = 22 700 kJ. *(1 mark)*
 2. 50% of that is 1.13 × 10⁴ kJ. *(1 mark)*
 
 Common mistake: Forgetting the 50% efficiency.

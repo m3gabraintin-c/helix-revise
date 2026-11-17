@@ -2841,14 +2841,14 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 *Written answer*
 
-**Q390.** A $40 000 machine depreciates by $0.25 for every hour it is used. It is used 2400 hours a year. Its value after 3 years is:
+**Q390.** A $40 000 machine depreciates by $0.25 for every hour it is used. It is used 2400 hours a year. Its value after 3 years is:
 <!-- id: general-4-3-c1 -->
 *Challenge question*
 
-- A. $38 200
-- B. $37 600
-- C. $39 400
-- D. $30 000
+- A. $38 200
+- B. $37 600
+- C. $39 400
+- D. $30 000
 
 #### Reducing-balance depreciation
 
@@ -3031,7 +3031,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 *Written answer*
 
-**Q416.** A $30 000 car depreciates by 15% of its value each year. After how many whole years is it first worth less than $15 000?
+**Q416.** A $30 000 car depreciates by 15% of its value each year. After how many whole years is it first worth less than $15 000?
 <!-- id: general-4-4-c1 -->
 *Challenge question*
 
@@ -3410,7 +3410,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 *Written answer*
 
-**Q468.** A $300 000 home loan at 6% p.a. compounding monthly is repaid with equal monthly repayments over 25 years. Find the monthly repayment and the total interest paid.
+**Q468.** A $300 000 home loan at 6% p.a. compounding monthly is repaid with equal monthly repayments over 25 years. Find the monthly repayment and the total interest paid.
 <!-- id: general-5-2-c1 -->
 *Challenge question*
 
@@ -3601,10 +3601,10 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 <!-- id: general-5-3-c1 -->
 *Challenge question*
 
-- A. $208 333
-- B. $250 000
-- C. $20 833
-- D. $48 000
+- A. $208 333
+- B. $250 000
+- C. $20 833
+- D. $48 000
 
 #### Investments with regular additions
 
@@ -3787,7 +3787,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 *Written answer*
 
-**Q520.** $10 000 is invested at 3.6% p.a. compounding monthly, with $500 added at the end of each month. After how many months does it first exceed $50 000?
+**Q520.** $10 000 is invested at 3.6% p.a. compounding monthly, with $500 added at the end of each month. After how many months does it first exceed $50 000?
 <!-- id: general-5-4-c1 -->
 *Challenge question*
 
@@ -6098,13 +6098,13 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 20
 - D. 2
 
-**Q836.** A retiree invests $500 000 at 4.2% p.a. compounding monthly and withdraws $3000 at the end of each month. About how many years will the money last?
+**Q836.** A retiree invests $500 000 at 4.2% p.a. compounding monthly and withdraws $3000 at the end of each month. About how many years will the money last?
 <!-- id: general-challenge-4 -->
 *Challenge question*
 
 *Written answer*
 
-**Q837.** A $20 000 machine is depreciated either at a flat rate of 10% of its purchase price per year or by 15% reducing balance. Find the difference between the two values after 5 years.
+**Q837.** A $20 000 machine is depreciated either at a flat rate of 10% of its purchase price per year or by 15% reducing balance. Find the difference between the two values after 5 years.
 <!-- id: general-challenge-5 -->
 *Challenge question*
 
@@ -6143,7 +6143,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 *Written answer*
 
-**Q842.** A quantity follows Vₙ₊₁ = 1.02Vₙ − 300 with V₀ = 10 000. This could model:
+**Q842.** A quantity follows Vₙ₊₁ = 1.02Vₙ − 300 with V₀ = 10 000. This could model:
 <!-- id: general-challenge-10 -->
 *Challenge question*
 
@@ -6272,7 +6272,7 @@ Customers choose between two delivery companies, Fast (F) and Swift (S). Each mo
 *Challenge question*
 *Multi-part question · 9 marks · Technology-active (CAS) · Original challenge question in the style of VCAA General Mathematics Exam 2*
 
-Mia borrows $25 000 to buy a car. Interest is 7.2% p.a. compounding monthly, and she repays $500 at the end of each month. Let Bₙ be the balance after n months.
+Mia borrows $25 000 to buy a car. Interest is 7.2% p.a. compounding monthly, and she repays $500 at the end of each month. Let Bₙ be the balance after n months.
 
 **a.** Write a recurrence relation for Bₙ. *(1 mark)*
 
@@ -6282,7 +6282,7 @@ Mia borrows $25 000 to buy a car. Interest is 7.2% p.a. compounding monthly, and
 
 **d.** Find the total interest paid. *(1 mark)*
 
-The car cost $28 000 and loses 18% of its value each year (reducing balance).
+The car cost $28 000 and loses 18% of its value each year (reducing balance).
 
 **e.** Find the value of the car after 3 years, correct to the nearest dollar. *(1 mark)*
 
