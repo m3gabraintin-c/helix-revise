@@ -6557,9 +6557,18 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 
 *Written answer*
 
+**Q935.** A virus's genome is analysed: 24% A, 31% U, 25% G and 20% C. The genome is most likely:
+<!-- id: vce-bio34-nas-c1 -->
+*Challenge question*
+
+- A. Double-stranded RNA
+- B. Double-stranded DNA
+- C. Single-stranded RNA
+- D. Single-stranded DNA
+
 #### Transcription and RNA processing
 
-**Q935.** During transcription in a eukaryotic cell, RNA polymerase
+**Q936.** During transcription in a eukaryotic cell, RNA polymerase
 <!-- id: bio34a1-trp-1 -->
 
 - A. binds to the start codon and reads the coding strand 5′ to 3′.
@@ -6567,7 +6576,7 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. joins Okazaki fragments to form a continuous pre-mRNA strand.
 - D. requires a primer before it can add the first ribonucleotide.
 
-**Q936.** The template strand of a DNA segment reads 3′-TACGGATTC-5′. What is the sequence of the mRNA transcribed from it?
+**Q937.** The template strand of a DNA segment reads 3′-TACGGATTC-5′. What is the sequence of the mRNA transcribed from it?
 <!-- id: bio34a1-trp-2 -->
 
 - A. 5′-ATGCCTAAG-3′
@@ -6575,7 +6584,7 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. 5′-AUGCCUAAG-3′
 - D. 5′-UACGGAUUC-3′
 
-**Q937.** Which modification of pre-mRNA protects the mRNA from degradation at its 3′ end and helps its export from the nucleus?
+**Q938.** Which modification of pre-mRNA protects the mRNA from degradation at its 3′ end and helps its export from the nucleus?
 <!-- id: bio34a1-trp-3 -->
 
 - A. Addition of a poly-A tail
@@ -6583,7 +6592,7 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. Removal of exons by the spliceosome
 - D. Addition of a signal peptide
 
-**Q938.** A gene contains 4 exons and 3 introns. Which statement about the mature mRNA produced from this gene is correct?
+**Q939.** A gene contains 4 exons and 3 introns. Which statement about the mature mRNA produced from this gene is correct?
 <!-- id: bio34a1-trp-4 -->
 
 - A. It contains the 3 introns only, because exons are removed during splicing.
@@ -6591,7 +6600,7 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. It can only ever contain all 4 exons in the same order.
 - D. It may contain different combinations of exons in different cells due to alternative splicing.
 
-**Q939.** Researchers compare the length of a human gene in the genome with the length of its mature mRNA in the cytoplasm. The gene is 18 000 nucleotides long but the mature mRNA is 2400 nucleotides long. The best explanation is that
+**Q940.** Researchers compare the length of a human gene in the genome with the length of its mature mRNA in the cytoplasm. The gene is 18 000 nucleotides long but the mature mRNA is 2400 nucleotides long. The best explanation is that
 <!-- id: bio34a1-trp-5 -->
 
 - A. transcription stopped early because of a mutation in the promoter.
@@ -6599,24 +6608,33 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. the mRNA was partially translated before it left the nucleus.
 - D. only the coding strand was transcribed.
 
-**Q940.** Outline the three main processing steps that convert pre-mRNA into mature mRNA in a eukaryotic cell. (3 marks)
+**Q941.** Outline the three main processing steps that convert pre-mRNA into mature mRNA in a eukaryotic cell. (3 marks)
 <!-- id: bio34a1-trp-6 -->
 
 *Written answer*
 
-**Q941.** Explain how alternative splicing allows the human genome of about 20 000 protein-coding genes to produce a much larger number of different proteins. (2 marks)
+**Q942.** Explain how alternative splicing allows the human genome of about 20 000 protein-coding genes to produce a much larger number of different proteins. (2 marks)
 <!-- id: bio34a1-trp-7 -->
 
 *Written answer*
 
-**Q942.** Transcription occurs in the nucleus of a eukaryotic cell, whereas in a prokaryote transcription and translation occur together in the cytoplasm. Give one structural reason for this difference and one consequence for RNA processing. (2 marks)
+**Q943.** Transcription occurs in the nucleus of a eukaryotic cell, whereas in a prokaryote transcription and translation occur together in the cytoplasm. Give one structural reason for this difference and one consequence for RNA processing. (2 marks)
 <!-- id: bio34a1-trp-8 -->
 
 *Written answer*
 
+**Q944.** The template strand of a gene reads 3′-TAC GGA TTC-5′. The mRNA transcribed from it is:
+<!-- id: vce-bio34-trp-c1 -->
+*Challenge question*
+
+- A. 5′-UAC GGA UUC-3′
+- B. 3′-AUG CCU AAG-5′
+- C. 5′-ATG CCT AAG-3′
+- D. 5′-AUG CCU AAG-3′
+
 #### Translation and the genetic code
 
-**Q943.** The genetic code is described as 'degenerate'. This means that
+**Q945.** The genetic code is described as 'degenerate'. This means that
 <!-- id: bio34a1-tgc-1 -->
 
 - A. a single codon can code for more than one amino acid.
@@ -6624,7 +6642,7 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. most amino acids are coded for by more than one codon.
 - D. codons overlap so that one base can belong to two codons.
 
-**Q944.** A tRNA molecule carries the anticodon 3′-UAC-5′. Which mRNA codon does it pair with?
+**Q946.** A tRNA molecule carries the anticodon 3′-UAC-5′. Which mRNA codon does it pair with?
 <!-- id: bio34a1-tgc-2 -->
 
 - A. 5′-AUG-3′
@@ -6632,7 +6650,7 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. 5′-CAU-3′
 - D. 5′-ATG-3′
 
-**Q945.** A mature mRNA has 900 nucleotides between and including the start codon and the stop codon. What is the maximum number of amino acids in the polypeptide produced?
+**Q947.** A mature mRNA has 900 nucleotides between and including the start codon and the stop codon. What is the maximum number of amino acids in the polypeptide produced?
 <!-- id: bio34a1-tgc-3 -->
 
 - A. 900
@@ -6640,7 +6658,7 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. 301
 - D. 299
 
-**Q946.** During translation, which event occurs at the ribosome?
+**Q948.** During translation, which event occurs at the ribosome?
 <!-- id: bio34a1-tgc-4 -->
 
 - A. RNA polymerase adds amino acids to the growing chain.
@@ -6648,7 +6666,7 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. Introns are removed from mRNA as it passes through the ribosome.
 - D. The mRNA is read 3′ to 5′ until a start codon is reached.
 
-**Q947.** A point mutation changes an mRNA codon from UAU (tyrosine) to UAA. What is the most likely effect on the polypeptide?
+**Q949.** A point mutation changes an mRNA codon from UAU (tyrosine) to UAA. What is the most likely effect on the polypeptide?
 <!-- id: bio34a1-tgc-5 -->
 
 - A. No effect, because the genetic code is degenerate.
@@ -6656,24 +6674,33 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. All amino acids after the mutation are changed because the reading frame shifts.
 - D. Translation stops early, producing a shortened, likely non-functional polypeptide.
 
-**Q948.** Describe the role of tRNA in translation. (3 marks)
+**Q950.** Describe the role of tRNA in translation. (3 marks)
 <!-- id: bio34a1-tgc-6 -->
 
 *Written answer*
 
-**Q949.** A section of mRNA reads 5′-AUG GCU UGG AAA UGA-3′. Using the codons AUG = Met, GCU = Ala, UGG = Trp, AAA = Lys and UGA = stop, state the polypeptide produced and explain why UGA does not add an amino acid. (2 marks)
+**Q951.** A section of mRNA reads 5′-AUG GCU UGG AAA UGA-3′. Using the codons AUG = Met, GCU = Ala, UGG = Trp, AAA = Lys and UGA = stop, state the polypeptide produced and explain why UGA does not add an amino acid. (2 marks)
 <!-- id: bio34a1-tgc-7 -->
 
 *Written answer*
 
-**Q950.** Scientists insert a jellyfish gene into a bacterium and the bacterium produces the same jellyfish protein. Identify the property of the genetic code that makes this possible and explain your answer. (2 marks)
+**Q952.** Scientists insert a jellyfish gene into a bacterium and the bacterium produces the same jellyfish protein. Identify the property of the genetic code that makes this possible and explain your answer. (2 marks)
 <!-- id: bio34a1-tgc-8 -->
 
 *Written answer*
 
+**Q953.** Methionine has one codon (AUG) and tryptophan has one codon (UGG). How many different mRNA sequences could code for the tripeptide Met–Trp–Met?
+<!-- id: vce-bio34-tgc-c1 -->
+*Challenge question*
+
+- A. 1
+- B. 3
+- C. 9
+- D. 64
+
 #### Gene regulation and the trp operon
 
-**Q951.** In the trp operon of Escherichia coli, the role of tryptophan when it is abundant is to act as a
+**Q954.** In the trp operon of Escherichia coli, the role of tryptophan when it is abundant is to act as a
 <!-- id: bio34a1-gro-1 -->
 
 - A. corepressor that binds to the repressor protein, allowing it to bind the operator.
@@ -6681,7 +6708,7 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. transcription factor that recruits RNA polymerase to the promoter.
 - D. structural gene product that is part of the enzyme pathway.
 
-**Q952.** Which statement correctly distinguishes regulatory genes from structural genes?
+**Q955.** Which statement correctly distinguishes regulatory genes from structural genes?
 <!-- id: bio34a1-gro-2 -->
 
 - A. Structural genes code for proteins that control the expression of regulatory genes.
@@ -6689,7 +6716,7 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. Regulatory genes are never transcribed, whereas structural genes are always transcribed.
 - D. Structural genes are found only in eukaryotes.
 
-**Q953.** A mutation in E. coli alters the trp repressor so that it can no longer bind tryptophan. In a medium high in tryptophan, the most likely result is that
+**Q956.** A mutation in E. coli alters the trp repressor so that it can no longer bind tryptophan. In a medium high in tryptophan, the most likely result is that
 <!-- id: bio34a1-gro-3 -->
 
 - A. the structural genes are never transcribed.
@@ -6697,7 +6724,7 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. the structural genes continue to be transcribed even though tryptophan is abundant.
 - D. attenuation stops working, so transcription of the leader region cannot begin.
 
-**Q954.** In attenuation of the trp operon, when tryptophan levels are high,
+**Q957.** In attenuation of the trp operon, when tryptophan levels are high,
 <!-- id: bio34a1-gro-4 -->
 
 - A. the ribosome stalls at the trp codons of the leader sequence and an antiterminator loop forms.
@@ -6705,7 +6732,7 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. RNA polymerase cannot bind to the promoter.
 - D. the ribosome moves quickly through the leader sequence, allowing a terminator hairpin (regions 3–4) to form so transcription stops.
 
-**Q955.** Researchers measured the rate of trpE mRNA production in E. coli. Cells were grown without tryptophan for 30 minutes, then tryptophan was added. The rate was high for the first 30 minutes and then dropped to near zero within a few minutes. The best explanation is that
+**Q958.** Researchers measured the rate of trpE mRNA production in E. coli. Cells were grown without tryptophan for 30 minutes, then tryptophan was added. The rate was high for the first 30 minutes and then dropped to near zero within a few minutes. The best explanation is that
 <!-- id: bio34a1-gro-5 -->
 
 - A. the added tryptophan acted as a corepressor and also enabled attenuation, both reducing transcription of the structural genes.
@@ -6713,24 +6740,33 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. the structural genes were deleted from the chromosome.
 - D. the cells used up all of their RNA polymerase in the first 30 minutes.
 
-**Q956.** Describe how the trp repressor controls transcription of the trp operon when tryptophan levels in the cell are low. (2 marks)
+**Q959.** Describe how the trp repressor controls transcription of the trp operon when tryptophan levels in the cell are low. (2 marks)
 <!-- id: bio34a1-gro-6 -->
 
 *Written answer*
 
-**Q957.** Explain the advantage to E. coli of regulating the trp operon rather than expressing the structural genes continuously. (2 marks)
+**Q960.** Explain the advantage to E. coli of regulating the trp operon rather than expressing the structural genes continuously. (2 marks)
 <!-- id: bio34a1-gro-7 -->
 
 *Written answer*
 
-**Q958.** Explain how attenuation reduces transcription of the trp operon when tryptophan is abundant, even if some RNA polymerase molecules have already begun transcribing. (3 marks)
+**Q961.** Explain how attenuation reduces transcription of the trp operon when tryptophan is abundant, even if some RNA polymerase molecules have already begun transcribing. (3 marks)
 <!-- id: bio34a1-gro-8 -->
 
 *Written answer*
 
+**Q962.** A mutation in the trp operator stops the repressor from binding. When tryptophan levels in the cell are high:
+<!-- id: vce-bio34-gr-c1 -->
+*Challenge question*
+
+- A. Transcription stops, as normal
+- B. The structural genes are still transcribed, wasting energy
+- C. The repressor binds to the promoter instead
+- D. Tryptophan binds directly to the operator
+
 #### Protein structure and the proteome
 
-**Q959.** The primary structure of a protein is
+**Q963.** The primary structure of a protein is
 <!-- id: bio34a1-psp-1 -->
 
 - A. the folding of the chain into α-helices and β-pleated sheets.
@@ -6738,7 +6774,7 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. the sequence of amino acids in the polypeptide chain.
 - D. the arrangement of two or more polypeptides together.
 
-**Q960.** Which bonds or interactions are mainly responsible for maintaining the secondary structure of a protein?
+**Q964.** Which bonds or interactions are mainly responsible for maintaining the secondary structure of a protein?
 <!-- id: bio34a1-psp-2 -->
 
 - A. Peptide bonds between R groups
@@ -6746,7 +6782,7 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. Disulfide bridges between cysteine R groups only
 - D. Phosphodiester bonds between amino acids
 
-**Q961.** Haemoglobin is made of four polypeptide chains, each containing a haem group. Which level of protein structure does haemoglobin possess that a single-chain protein like myoglobin does not?
+**Q965.** Haemoglobin is made of four polypeptide chains, each containing a haem group. Which level of protein structure does haemoglobin possess that a single-chain protein like myoglobin does not?
 <!-- id: bio34a1-psp-3 -->
 
 - A. Primary
@@ -6754,7 +6790,7 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. Tertiary
 - D. Quaternary
 
-**Q962.** The term 'proteome' refers to
+**Q966.** The term 'proteome' refers to
 <!-- id: bio34a1-psp-4 -->
 
 - A. the complete set of proteins expressed by a cell, tissue or organism at a particular time.
@@ -6762,7 +6798,7 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. all the amino acids available in a cell.
 - D. the region of the ribosome where proteins are made.
 
-**Q963.** An enzyme from a hot-spring bacterium retains its activity at 85 °C, but a similar enzyme from a human loses its activity at that temperature. Which is the most likely explanation?
+**Q967.** An enzyme from a hot-spring bacterium retains its activity at 85 °C, but a similar enzyme from a human loses its activity at that temperature. Which is the most likely explanation?
 <!-- id: bio34a1-psp-5 -->
 
 - A. The bacterial enzyme has no tertiary structure.
@@ -6770,24 +6806,33 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. The bacterial enzyme has more stabilising bonds (such as disulfide bridges and ionic bonds) maintaining its tertiary structure.
 - D. The human enzyme lacks peptide bonds at high temperature.
 
-**Q964.** Describe how a peptide bond is formed between two amino acids. (2 marks)
+**Q968.** Describe how a peptide bond is formed between two amino acids. (2 marks)
 <!-- id: bio34a1-psp-6 -->
 
 *Written answer*
 
-**Q965.** A single-base substitution in a gene changes one amino acid in an enzyme from a hydrophobic amino acid to a charged amino acid. Explain how this could affect the function of the enzyme. (3 marks)
+**Q969.** A single-base substitution in a gene changes one amino acid in an enzyme from a hydrophobic amino acid to a charged amino acid. Explain how this could affect the function of the enzyme. (3 marks)
 <!-- id: bio34a1-psp-7 -->
 
 *Written answer*
 
-**Q966.** Liver cells and skin cells in the same person contain the same genome but have different proteomes. Explain why. (2 marks)
+**Q970.** Liver cells and skin cells in the same person contain the same genome but have different proteomes. Explain why. (2 marks)
 <!-- id: bio34a1-psp-8 -->
 
 *Written answer*
 
+**Q971.** Humans have about 20 000 protein-coding genes but well over 100 000 different proteins. The best explanation is:
+<!-- id: vce-bio34-ps-c1 -->
+*Challenge question*
+
+- A. Each gene is translated by several different ribosomes
+- B. Introns are translated into extra proteins
+- C. The genetic code differs between cell types
+- D. Alternative splicing of pre-mRNA and post-translational modification
+
 #### Protein secretory pathway
 
-**Q967.** Which sequence correctly shows the path taken by a protein that is secreted from a pancreatic cell?
+**Q972.** Which sequence correctly shows the path taken by a protein that is secreted from a pancreatic cell?
 <!-- id: bio34a1-sec-1 -->
 
 - A. Free ribosome → Golgi apparatus → rough endoplasmic reticulum → lysosome → plasma membrane
@@ -6795,7 +6840,7 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. Nucleus → smooth endoplasmic reticulum → mitochondrion → plasma membrane
 - D. Golgi apparatus → rough endoplasmic reticulum → secretory vesicle → plasma membrane
 
-**Q968.** The main role of the Golgi apparatus in the secretory pathway is to
+**Q973.** The main role of the Golgi apparatus in the secretory pathway is to
 <!-- id: bio34a1-sec-2 -->
 
 - A. synthesise polypeptides from mRNA.
@@ -6803,7 +6848,7 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. modify, sort and package proteins into vesicles.
 - D. transcribe genes coding for secreted proteins.
 
-**Q969.** The process by which a secretory vesicle fuses with the plasma membrane and releases its contents outside the cell is called
+**Q974.** The process by which a secretory vesicle fuses with the plasma membrane and releases its contents outside the cell is called
 <!-- id: bio34a1-sec-3 -->
 
 - A. exocytosis.
@@ -6811,7 +6856,7 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. phagocytosis.
 - D. facilitated diffusion.
 
-**Q970.** Researchers add a radioactively labelled amino acid to cultured antibody-secreting plasma cells for 5 minutes, then track the radioactivity. Which order of appearance of the label is expected over the next hour?
+**Q975.** Researchers add a radioactively labelled amino acid to cultured antibody-secreting plasma cells for 5 minutes, then track the radioactivity. Which order of appearance of the label is expected over the next hour?
 <!-- id: bio34a1-sec-4 -->
 
 - A. Golgi apparatus, then rough ER, then outside the cell
@@ -6819,7 +6864,7 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. Mitochondria, then Golgi apparatus, then secretory vesicles
 - D. Rough ER, then Golgi apparatus, then secretory vesicles, then outside the cell
 
-**Q971.** A cell has a mutation that prevents transport vesicles from budding off the rough endoplasmic reticulum. The most likely consequence is that
+**Q976.** A cell has a mutation that prevents transport vesicles from budding off the rough endoplasmic reticulum. The most likely consequence is that
 <!-- id: bio34a1-sec-5 -->
 
 - A. the secreted protein accumulates in the rough ER and is not secreted.
@@ -6827,26 +6872,35 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. the protein is translated by free ribosomes instead.
 - D. the cell cannot transcribe the gene for the protein.
 
-**Q972.** Describe the role of the rough endoplasmic reticulum in the production of a protein hormone such as insulin. (2 marks)
+**Q977.** Describe the role of the rough endoplasmic reticulum in the production of a protein hormone such as insulin. (2 marks)
 <!-- id: bio34a1-sec-6 -->
 
 *Written answer*
 
-**Q973.** Cells that secrete large amounts of digestive enzymes, such as those in the pancreas, have large amounts of rough ER and many mitochondria. Explain why each feature is useful to these cells. (2 marks)
+**Q978.** Cells that secrete large amounts of digestive enzymes, such as those in the pancreas, have large amounts of rough ER and many mitochondria. Explain why each feature is useful to these cells. (2 marks)
 <!-- id: bio34a1-sec-7 -->
 
 *Written answer*
 
-**Q974.** Outline the steps involved in the export of a protein from a cell, beginning with transcription of the gene. (3 marks)
+**Q979.** Outline the steps involved in the export of a protein from a cell, beginning with transcription of the gene. (3 marks)
 <!-- id: bio34a1-sec-8 -->
 
 *Written answer*
+
+**Q980.** Pancreatic cells are given a radioactive amino acid. In which order would radioactivity appear as an enzyme is made and exported?
+<!-- id: vce-bio34-psp-c1 -->
+*Challenge question*
+
+- A. Rough ER → transport vesicle → Golgi apparatus → secretory vesicle → plasma membrane
+- B. Golgi apparatus → rough ER → secretory vesicle → plasma membrane
+- C. Nucleus → rough ER → Golgi apparatus → plasma membrane
+- D. Free ribosome → mitochondrion → Golgi apparatus → plasma membrane
 
 ### Unit 3 AOS 1: DNA manipulation
 
 #### Enzymes for DNA manipulation
 
-**Q975.** The restriction enzyme EcoRI recognises the sequence 5′-GAATTC-3′ and cuts between G and A on each strand. The type of ends produced are
+**Q981.** The restriction enzyme EcoRI recognises the sequence 5′-GAATTC-3′ and cuts between G and A on each strand. The type of ends produced are
 <!-- id: bio34a1-edm-1 -->
 
 - A. blunt ends with no overhanging nucleotides.
@@ -6854,7 +6908,7 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. sticky ends with single-stranded 3′-GC overhangs.
 - D. ends that cannot be joined by DNA ligase.
 
-**Q976.** Which enzyme would a scientist use to produce DNA without introns from the mature mRNA of a human gene?
+**Q982.** Which enzyme would a scientist use to produce DNA without introns from the mature mRNA of a human gene?
 <!-- id: bio34a1-edm-2 -->
 
 - A. DNA ligase
@@ -6862,7 +6916,7 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. Reverse transcriptase
 - D. RNA polymerase
 
-**Q977.** The role of DNA ligase in gene cloning is to
+**Q983.** The role of DNA ligase in gene cloning is to
 <!-- id: bio34a1-edm-3 -->
 
 - A. cut DNA at specific recognition sites.
@@ -6870,7 +6924,7 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. copy DNA by adding nucleotides to a primer.
 - D. join DNA fragments by forming phosphodiester bonds in the sugar-phosphate backbone.
 
-**Q978.** A linear DNA molecule is cut with a restriction enzyme that has 3 recognition sites in the molecule. A circular plasmid is cut with an enzyme that also has 3 recognition sites. How many fragments are produced from each?
+**Q984.** A linear DNA molecule is cut with a restriction enzyme that has 3 recognition sites in the molecule. A circular plasmid is cut with an enzyme that also has 3 recognition sites. How many fragments are produced from each?
 <!-- id: bio34a1-edm-4 -->
 
 - A. Linear: 4 fragments; circular: 3 fragments
@@ -6878,7 +6932,7 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. Linear: 3 fragments; circular: 3 fragments
 - D. Linear: 4 fragments; circular: 4 fragments
 
-**Q979.** A scientist wants to insert a gene into a plasmid. The gene is flanked by BamHI sites, and the plasmid has one BamHI site. Why should both be cut with BamHI?
+**Q985.** A scientist wants to insert a gene into a plasmid. The gene is flanked by BamHI sites, and the plasmid has one BamHI site. Why should both be cut with BamHI?
 <!-- id: bio34a1-edm-5 -->
 
 - A. BamHI also acts as a ligase to join the fragments.
@@ -6886,24 +6940,33 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. BamHI cuts only plasmid DNA, so the gene is not damaged.
 - D. BamHI produces blunt ends that are joined more efficiently than sticky ends.
 
-**Q980.** Distinguish between DNA polymerase and DNA ligase in terms of their function. (2 marks)
+**Q986.** Distinguish between DNA polymerase and DNA ligase in terms of their function. (2 marks)
 <!-- id: bio34a1-edm-6 -->
 
 *Written answer*
 
-**Q981.** Explain why restriction enzymes evolved in bacteria and why the bacteria's own DNA is not cut by them. (2 marks)
+**Q987.** Explain why restriction enzymes evolved in bacteria and why the bacteria's own DNA is not cut by them. (2 marks)
 <!-- id: bio34a1-edm-7 -->
 
 *Written answer*
 
-**Q982.** A restriction enzyme recognises a specific six-base-pair sequence. Assuming bases occur randomly and equally, calculate how often, on average, this sequence would be expected to occur in DNA, and explain why an enzyme with a four-base-pair recognition site cuts DNA into smaller fragments. (3 marks)
+**Q988.** A restriction enzyme recognises a specific six-base-pair sequence. Assuming bases occur randomly and equally, calculate how often, on average, this sequence would be expected to occur in DNA, and explain why an enzyme with a four-base-pair recognition site cuts DNA into smaller fragments. (3 marks)
 <!-- id: bio34a1-edm-8 -->
 
 *Written answer*
 
+**Q989.** A gene and a plasmid are both cut with two different restriction enzymes (EcoRI at one end, BamHI at the other). The main advantage is that:
+<!-- id: vce-bio34-edm-c1 -->
+*Challenge question*
+
+- A. Only one enzyme would leave blunt ends
+- B. The gene can only insert in one orientation and the plasmid cannot rejoin itself
+- C. Two enzymes make the gene shorter
+- D. DNA ligase is not needed
+
 #### CRISPR-Cas9
 
-**Q983.** In bacteria, the natural role of the CRISPR-Cas system is to
+**Q990.** In bacteria, the natural role of the CRISPR-Cas system is to
 <!-- id: bio34a1-cas-1 -->
 
 - A. repair DNA damaged by ultraviolet radiation.
@@ -6911,7 +6974,7 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. provide an adaptive defence against bacteriophages by recognising and cutting viral DNA.
 - D. transfer plasmids between bacterial cells.
 
-**Q984.** In CRISPR-Cas9 gene editing, the function of the synthetic guide RNA (sgRNA) is to
+**Q991.** In CRISPR-Cas9 gene editing, the function of the synthetic guide RNA (sgRNA) is to
 <!-- id: bio34a1-cas-2 -->
 
 - A. cut both strands of the target DNA.
@@ -6919,7 +6982,7 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. act as a template for homology-directed repair.
 - D. base pair with a complementary target DNA sequence and direct Cas9 to that site.
 
-**Q985.** Cas9 from Streptococcus pyogenes will only cut a target sequence if it is located immediately next to a short sequence such as 5′-NGG-3′. This short sequence is called the
+**Q992.** Cas9 from Streptococcus pyogenes will only cut a target sequence if it is located immediately next to a short sequence such as 5′-NGG-3′. This short sequence is called the
 <!-- id: bio34a1-cas-3 -->
 
 - A. protospacer adjacent motif (PAM).
@@ -6927,7 +6990,7 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. operator.
 - D. recognition site of EcoRI.
 
-**Q986.** After Cas9 creates a double-stranded break in a gene, the cell repairs it by non-homologous end joining (NHEJ). This most often results in
+**Q993.** After Cas9 creates a double-stranded break in a gene, the cell repairs it by non-homologous end joining (NHEJ). This most often results in
 <!-- id: bio34a1-cas-4 -->
 
 - A. the precise insertion of a new gene supplied by the scientist.
@@ -6935,7 +6998,7 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. removal of all introns from the gene.
 - D. duplication of the entire chromosome.
 
-**Q987.** Researchers want to use CRISPR-Cas9 to disable a gene in a pest species of invasive cane toad. They design an sgRNA, but sequencing shows the target region has no 5′-NGG-3′ sequence nearby. What is the most likely result if they proceed with S. pyogenes Cas9?
+**Q994.** Researchers want to use CRISPR-Cas9 to disable a gene in a pest species of invasive cane toad. They design an sgRNA, but sequencing shows the target region has no 5′-NGG-3′ sequence nearby. What is the most likely result if they proceed with S. pyogenes Cas9?
 <!-- id: bio34a1-cas-5 -->
 
 - A. Cas9 will cut the DNA at a random location instead.
@@ -6943,24 +7006,33 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. The sgRNA will be converted into DNA and inserted into the genome.
 - D. Cas9 will not cut the target, even though the sgRNA is complementary, because no PAM is present.
 
-**Q988.** Describe how a bacterium acquires a 'memory' of a bacteriophage infection using the CRISPR system. (3 marks)
+**Q995.** Describe how a bacterium acquires a 'memory' of a bacteriophage infection using the CRISPR system. (3 marks)
 <!-- id: bio34a1-cas-6 -->
 
 *Written answer*
 
-**Q989.** Explain how CRISPR-Cas9 can be used to insert a corrected sequence into a gene rather than simply knocking it out. (2 marks)
+**Q996.** Explain how CRISPR-Cas9 can be used to insert a corrected sequence into a gene rather than simply knocking it out. (2 marks)
 <!-- id: bio34a1-cas-7 -->
 
 *Written answer*
 
-**Q990.** Give one advantage of CRISPR-Cas9 over earlier gene editing methods and one ethical or practical concern about using it to edit human embryos. (2 marks)
+**Q997.** Give one advantage of CRISPR-Cas9 over earlier gene editing methods and one ethical or practical concern about using it to edit human embryos. (2 marks)
 <!-- id: bio34a1-cas-8 -->
 
 *Written answer*
 
+**Q998.** A gRNA is designed to be perfectly complementary to a 20-nucleotide target, but Cas9 does not cut. The most likely reason is that:
+<!-- id: vce-bio34-cr-c1 -->
+*Challenge question*
+
+- A. The gRNA is too similar to the target
+- B. Cas9 only cuts RNA
+- C. There is no PAM sequence next to the target
+- D. The target is in an exon
+
 #### PCR and gel electrophoresis
 
-**Q991.** Which option correctly matches each step of PCR with its approximate temperature?
+**Q999.** Which option correctly matches each step of PCR with its approximate temperature?
 <!-- id: bio34a1-pcr-1 -->
 
 - A. Denaturation 72 °C; annealing 95 °C; extension 55 °C
@@ -6968,7 +7040,7 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. Denaturation 95 °C; annealing 55 °C; extension 72 °C
 - D. Denaturation 37 °C; annealing 55 °C; extension 95 °C
 
-**Q992.** Taq polymerase is used in PCR rather than human DNA polymerase because Taq polymerase
+**Q1000.** Taq polymerase is used in PCR rather than human DNA polymerase because Taq polymerase
 <!-- id: bio34a1-pcr-2 -->
 
 - A. is stable at the high temperatures used to denature DNA.
@@ -6976,7 +7048,7 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. can copy RNA as well as DNA.
 - D. joins Okazaki fragments together.
 
-**Q993.** A forensic scientist starts PCR with 5 copies of a target DNA sequence. Assuming the amount doubles every cycle, how many copies are present after 10 cycles?
+**Q1001.** A forensic scientist starts PCR with 5 copies of a target DNA sequence. Assuming the amount doubles every cycle, how many copies are present after 10 cycles?
 <!-- id: bio34a1-pcr-3 -->
 
 - A. 50
@@ -6984,7 +7056,7 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. 2560
 - D. 5120
 
-**Q994.** In gel electrophoresis, DNA fragments move towards the positive electrode because
+**Q1002.** In gel electrophoresis, DNA fragments move towards the positive electrode because
 <!-- id: bio34a1-pcr-4 -->
 
 - A. the agarose gel is positively charged.
@@ -6992,7 +7064,7 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. the nitrogenous bases are positively charged.
 - D. smaller fragments are attracted more strongly by the anode.
 
-**Q995.** A DNA ladder with bands of 100, 300, 500 and 1000 bp is run beside a sample. The sample band travels further than the 300 bp band but not as far as the 100 bp band. The size of the sample fragment is approximately
+**Q1003.** A DNA ladder with bands of 100, 300, 500 and 1000 bp is run beside a sample. The sample band travels further than the 300 bp band but not as far as the 100 bp band. The size of the sample fragment is approximately
 <!-- id: bio34a1-pcr-5 -->
 
 - A. 50 bp
@@ -7000,24 +7072,33 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. 200 bp
 - D. 700 bp
 
-**Q996.** Explain the role of primers in PCR and why two different primers are needed. (2 marks)
+**Q1004.** Explain the role of primers in PCR and why two different primers are needed. (2 marks)
 <!-- id: bio34a1-pcr-6 -->
 
 *Written answer*
 
-**Q997.** DNA profiling can be used to identify a suspect from a blood sample at a crime scene. Explain how PCR and gel electrophoresis are used together to compare short tandem repeats (STRs) from the crime scene and a suspect. (3 marks)
+**Q1005.** DNA profiling can be used to identify a suspect from a blood sample at a crime scene. Explain how PCR and gel electrophoresis are used together to compare short tandem repeats (STRs) from the crime scene and a suspect. (3 marks)
 <!-- id: bio34a1-pcr-7 -->
 
 *Written answer*
 
-**Q998.** A student runs a gel but forgets to add a DNA ladder. State why this is a problem and identify one other control that should be included when running PCR products on a gel. (2 marks)
+**Q1006.** A student runs a gel but forgets to add a DNA ladder. State why this is a problem and identify one other control that should be included when running PCR products on a gel. (2 marks)
 <!-- id: bio34a1-pcr-8 -->
 
 *Written answer*
 
+**Q1007.** PCR starts with 3 copies of a target sequence. Assuming perfect doubling, how many copies are there after 10 cycles?
+<!-- id: vce-bio34-pcr-c1 -->
+*Challenge question*
+
+- A. 3072
+- B. 30
+- C. 1024
+- D. 59 049
+
 #### Recombinant plasmids and transformation
 
-**Q999.** Bacterial plasmids are useful as vectors in gene cloning because they
+**Q1008.** Bacterial plasmids are useful as vectors in gene cloning because they
 <!-- id: bio34a1-rpt-1 -->
 
 - A. are linear molecules that integrate into the bacterial chromosome.
@@ -7025,7 +7106,7 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. are found only in eukaryotic cells.
 - D. are small circular DNA molecules that replicate independently and can carry inserted genes.
 
-**Q1000.** Which method is commonly used to make bacterial cells take up recombinant plasmids?
+**Q1009.** Which method is commonly used to make bacterial cells take up recombinant plasmids?
 <!-- id: bio34a1-rpt-2 -->
 
 - A. Treating cells with calcium chloride and applying a heat shock
@@ -7033,7 +7114,7 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. Exposing cells to ultraviolet light
 - D. Adding reverse transcriptase to the culture
 
-**Q1001.** After transformation, bacteria are spread onto agar containing ampicillin. The plasmid used carries an ampicillin-resistance gene. Bacterial colonies that grow are those that
+**Q1010.** After transformation, bacteria are spread onto agar containing ampicillin. The plasmid used carries an ampicillin-resistance gene. Bacterial colonies that grow are those that
 <!-- id: bio34a1-rpt-3 -->
 
 - A. contain the human gene of interest, regardless of whether they took up a plasmid.
@@ -7041,7 +7122,7 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. have not taken up any plasmid.
 - D. have produced the human protein.
 
-**Q1002.** A plasmid contains the lacZ gene, which contains the restriction site where the gene of interest is inserted. On agar containing X-gal and ampicillin, white colonies indicate bacteria that
+**Q1011.** A plasmid contains the lacZ gene, which contains the restriction site where the gene of interest is inserted. On agar containing X-gal and ampicillin, white colonies indicate bacteria that
 <!-- id: bio34a1-rpt-4 -->
 
 - A. did not take up any plasmid.
@@ -7049,7 +7130,7 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. took up a recombinant plasmid in which the insert disrupted lacZ.
 - D. are resistant to X-gal.
 
-**Q1003.** Human insulin was first produced in E. coli by inserting the genes for the A and B chains separately, using cDNA or synthetic DNA rather than the human genomic gene. Why was the genomic gene unsuitable?
+**Q1012.** Human insulin was first produced in E. coli by inserting the genes for the A and B chains separately, using cDNA or synthetic DNA rather than the human genomic gene. Why was the genomic gene unsuitable?
 <!-- id: bio34a1-rpt-5 -->
 
 - A. Bacteria cannot read the human genetic code.
@@ -7057,24 +7138,33 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. Bacteria do not have ribosomes.
 - D. The human gene contains introns, and bacteria cannot remove introns from mRNA.
 
-**Q1004.** Outline the steps used to make a recombinant plasmid containing a human gene. (3 marks)
+**Q1013.** Outline the steps used to make a recombinant plasmid containing a human gene. (3 marks)
 <!-- id: bio34a1-rpt-6 -->
 
 *Written answer*
 
-**Q1005.** Explain why only a small proportion of bacteria take up a plasmid during transformation, and how scientists identify those that have. (2 marks)
+**Q1014.** Explain why only a small proportion of bacteria take up a plasmid during transformation, and how scientists identify those that have. (2 marks)
 <!-- id: bio34a1-rpt-7 -->
 
 *Written answer*
 
-**Q1006.** A recombinant plasmid has a gene inserted in the correct position, but no protein is produced by the transformed bacteria. Suggest two possible reasons. (2 marks)
+**Q1015.** A recombinant plasmid has a gene inserted in the correct position, but no protein is produced by the transformed bacteria. Suggest two possible reasons. (2 marks)
 <!-- id: bio34a1-rpt-8 -->
 
 *Written answer*
 
+**Q1016.** A plasmid carries an ampicillin-resistance gene, and its insertion site lies within the lacZ gene. Bacteria are grown on agar with ampicillin and X-gal. Colonies with the recombinant plasmid are:
+<!-- id: vce-bio34-rp-c1 -->
+*Challenge question*
+
+- A. Blue, because lacZ is working
+- B. Absent, because ampicillin kills them
+- C. White, because the inserted gene disrupts lacZ
+- D. Blue, because the plasmid has ampicillin resistance
+
 #### GMOs and transgenic organisms in agriculture
 
-**Q1007.** Which statement best distinguishes a transgenic organism from other genetically modified organisms?
+**Q1017.** Which statement best distinguishes a transgenic organism from other genetically modified organisms?
 <!-- id: bio34a1-gmo-1 -->
 
 - A. A transgenic organism contains a gene that has been transferred from a different species.
@@ -7082,7 +7172,7 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. A transgenic organism has been produced by selective breeding.
 - D. A transgenic organism is any organism grown in a laboratory.
 
-**Q1008.** Bt cotton, widely grown in Australia, has been modified to contain a gene from the bacterium Bacillus thuringiensis. The benefit of this gene is that the plant
+**Q1018.** Bt cotton, widely grown in Australia, has been modified to contain a gene from the bacterium Bacillus thuringiensis. The benefit of this gene is that the plant
 <!-- id: bio34a1-gmo-2 -->
 
 - A. is tolerant to the herbicide glyphosate.
@@ -7090,7 +7180,7 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. fixes its own atmospheric nitrogen.
 - D. produces β-carotene in its fibres.
 
-**Q1009.** Golden Rice was engineered to address vitamin A deficiency. The rice contains genes that allow the endosperm to
+**Q1019.** Golden Rice was engineered to address vitamin A deficiency. The rice contains genes that allow the endosperm to
 <!-- id: bio34a1-gmo-3 -->
 
 - A. produce insulin.
@@ -7098,7 +7188,7 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. synthesise β-carotene, a precursor of vitamin A.
 - D. grow in saline soil.
 
-**Q1010.** Agrobacterium tumefaciens is used to produce transgenic plants because it
+**Q1020.** Agrobacterium tumefaciens is used to produce transgenic plants because it
 <!-- id: bio34a1-gmo-4 -->
 
 - A. naturally destroys plant viruses.
@@ -7106,7 +7196,7 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. reproduces only inside plant seeds.
 - D. naturally transfers a section of DNA from its Ti plasmid into the plant cell's genome.
 
-**Q1011.** A farmer has grown glyphosate-tolerant canola and sprayed glyphosate on the same paddock every year for ten years. Glyphosate is now much less effective at controlling ryegrass weeds in that paddock. The best explanation is that
+**Q1021.** A farmer has grown glyphosate-tolerant canola and sprayed glyphosate on the same paddock every year for ten years. Glyphosate is now much less effective at controlling ryegrass weeds in that paddock. The best explanation is that
 <!-- id: bio34a1-gmo-5 -->
 
 - A. repeated spraying selected for ryegrass plants that carried variations giving glyphosate resistance, which survived and reproduced.
@@ -7114,26 +7204,35 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. the ryegrass deliberately changed its genes in response to the herbicide.
 - D. glyphosate breaks down faster in older soil.
 
-**Q1012.** Describe how a transgenic plant could be produced using Agrobacterium tumefaciens. (3 marks)
+**Q1022.** Describe how a transgenic plant could be produced using Agrobacterium tumefaciens. (3 marks)
 <!-- id: bio34a1-gmo-6 -->
 
 *Written answer*
 
-**Q1013.** Discuss one biological benefit and one biological risk of growing Bt crops in Australia. (2 marks)
+**Q1023.** Discuss one biological benefit and one biological risk of growing Bt crops in Australia. (2 marks)
 <!-- id: bio34a1-gmo-7 -->
 
 *Written answer*
 
-**Q1014.** Some people argue that genetically modified crops are essential for food security, while others oppose them. Give one social or economic argument for and one against the use of GM crops. (2 marks)
+**Q1024.** Some people argue that genetically modified crops are essential for food security, while others oppose them. Give one social or economic argument for and one against the use of GM crops. (2 marks)
 <!-- id: bio34a1-gmo-8 -->
 
 *Written answer*
+
+**Q1025.** Which statement about genetically modified and transgenic organisms is correct?
+<!-- id: vce-bio34-gmo-c1 -->
+*Challenge question*
+
+- A. Every transgenic organism is a GMO, but not every GMO is transgenic
+- B. Every GMO contains DNA from another species
+- C. Transgenic organisms have had a gene deleted using CRISPR
+- D. GMOs and transgenic organisms are identical terms
 
 ### Unit 3 AOS 2: Biochemical pathways
 
 #### Enzymes and coenzymes
 
-**Q1015.** Which statement best describes the induced fit model of enzyme action?
+**Q1026.** Which statement best describes the induced fit model of enzyme action?
 <!-- id: bio34a2-enz-1 -->
 
 - A. The active site is a rigid shape that exactly matches the substrate before binding
@@ -7141,7 +7240,7 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. The substrate changes the primary structure of the enzyme so that it can bind
 - D. The active site changes shape slightly as the substrate binds, forming a tighter enzyme–substrate complex
 
-**Q1016.** Enzymes increase the rate of a biochemical reaction by
+**Q1027.** Enzymes increase the rate of a biochemical reaction by
 <!-- id: bio34a2-enz-2 -->
 
 - A. lowering the activation energy of the reaction
@@ -7149,7 +7248,7 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. increasing the activation energy of the reaction
 - D. shifting the equilibrium so that more product forms
 
-**Q1017.** Which coenzyme is correctly matched to its loaded form and the pathway in which the loaded form is produced?
+**Q1028.** Which coenzyme is correctly matched to its loaded form and the pathway in which the loaded form is produced?
 <!-- id: bio34a2-enz-3 -->
 
 - A. ADP → ATP, produced only in the Calvin cycle
@@ -7157,7 +7256,7 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. NADP⁺ → NADPH, produced in the light-dependent stage of photosynthesis
 - D. NADPH → NADP⁺, produced in glycolysis
 
-**Q1018.** A student describes a coenzyme as 'a protein that binds permanently to an enzyme's active site'. The best correction is that a coenzyme is
+**Q1029.** A student describes a coenzyme as 'a protein that binds permanently to an enzyme's active site'. The best correction is that a coenzyme is
 <!-- id: bio34a2-enz-4 -->
 
 - A. an inorganic ion that changes the shape of the substrate
@@ -7165,7 +7264,7 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. the product of an enzyme-catalysed reaction that inhibits further activity
 - D. a second enzyme that works on the same substrate
 
-**Q1019.** In a metabolic pathway A → B → C → D, each step is catalysed by a different enzyme (E1, E2, E3). A mutation results in a non-functional E2. Which molecule would be expected to accumulate in the cell?
+**Q1030.** In a metabolic pathway A → B → C → D, each step is catalysed by a different enzyme (E1, E2, E3). A mutation results in a non-functional E2. Which molecule would be expected to accumulate in the cell?
 <!-- id: bio34a2-enz-5 -->
 
 - A. A
@@ -7173,24 +7272,33 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. D
 - D. B
 
-**Q1020.** Explain why each enzyme usually catalyses only one specific reaction. Refer to protein structure in your answer. (3 marks)
+**Q1031.** Explain why each enzyme usually catalyses only one specific reaction. Refer to protein structure in your answer. (3 marks)
 <!-- id: bio34a2-enz-6 -->
 
 *Written answer*
 
-**Q1021.** ATP is often described as the 'energy currency' of the cell. Describe how the ATP/ADP cycle couples energy-releasing and energy-requiring reactions in a cell. (3 marks)
+**Q1032.** ATP is often described as the 'energy currency' of the cell. Describe how the ATP/ADP cycle couples energy-releasing and energy-requiring reactions in a cell. (3 marks)
 <!-- id: bio34a2-enz-7 -->
 
 *Written answer*
 
-**Q1022.** Distinguish between the roles of loaded and unloaded coenzymes, using NADH and NAD⁺ in cellular respiration as an example. (2 marks)
+**Q1033.** Distinguish between the roles of loaded and unloaded coenzymes, using NADH and NAD⁺ in cellular respiration as an example. (2 marks)
 <!-- id: bio34a2-enz-8 -->
 
 *Written answer*
 
+**Q1034.** Which statement about NADP in photosynthesis is correct?
+<!-- id: vce-bio34-ec-c1 -->
+*Challenge question*
+
+- A. NADPH is produced in the stroma and used in the thylakoid
+- B. NADP⁺ accepts electrons and H⁺ in the light-dependent stage, and NADPH donates them in the Calvin cycle
+- C. NADP⁺ is an enzyme that fixes carbon dioxide
+- D. NADPH is unloaded in the light-dependent stage
+
 #### Factors affecting enzymes and inhibition
 
-**Q1023.** A drug binds to a site on an enzyme other than the active site, changing the shape of the active site so the substrate can no longer bind. This drug is acting as a
+**Q1035.** A drug binds to a site on an enzyme other than the active site, changing the shape of the active site so the substrate can no longer bind. This drug is acting as a
 <!-- id: bio34a2-inh-1 -->
 
 - A. competitive inhibitor
@@ -7198,7 +7306,7 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. non-competitive inhibitor
 - D. substrate analogue
 
-**Q1024.** An enzyme from a hot-spring bacterium has an optimum temperature of 75 °C. When the enzyme is incubated at 95 °C for 30 minutes and then cooled to 75 °C, it shows almost no activity. The most likely explanation is that at 95 °C
+**Q1036.** An enzyme from a hot-spring bacterium has an optimum temperature of 75 °C. When the enzyme is incubated at 95 °C for 30 minutes and then cooled to 75 °C, it shows almost no activity. The most likely explanation is that at 95 °C
 <!-- id: bio34a2-inh-2 -->
 
 - A. the enzyme was denatured, permanently changing the shape of its active site
@@ -7206,7 +7314,7 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. the enzyme's primary structure was broken into individual amino acids
 - D. the enzyme became inactive temporarily and needs more time to recover
 
-**Q1025.** In an experiment, the rate of an enzyme-catalysed reaction increases as substrate concentration increases, then plateaus. Adding more enzyme raises the plateau. What limited the reaction rate at the plateau before extra enzyme was added?
+**Q1037.** In an experiment, the rate of an enzyme-catalysed reaction increases as substrate concentration increases, then plateaus. Adding more enzyme raises the plateau. What limited the reaction rate at the plateau before extra enzyme was added?
 <!-- id: bio34a2-inh-3 -->
 
 - A. Substrate concentration
@@ -7214,7 +7322,7 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. pH of the solution
 - D. Enzyme concentration (all active sites were occupied)
 
-**Q1026.** The effect of a competitive inhibitor on an enzyme can be reduced by
+**Q1038.** The effect of a competitive inhibitor on an enzyme can be reduced by
 <!-- id: bio34a2-inh-4 -->
 
 - A. decreasing the concentration of substrate
@@ -7222,7 +7330,7 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. lowering the temperature to 4 °C
 - D. adding a non-competitive inhibitor
 
-**Q1027.** Pepsin works in the stomach at about pH 2, while trypsin works in the small intestine at about pH 8. If pepsin is moved into a solution at pH 8, its activity drops sharply because
+**Q1039.** Pepsin works in the stomach at about pH 2, while trypsin works in the small intestine at about pH 8. If pepsin is moved into a solution at pH 8, its activity drops sharply because
 <!-- id: bio34a2-inh-5 -->
 
 - A. pepsin is digested by the alkaline solution
@@ -7230,24 +7338,33 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. the change in pH alters the charges on amino acid R groups, disrupting the bonds that maintain the active site shape
 - D. the substrate denatures at pH 8 but the enzyme is unaffected
 
-**Q1028.** Some pesticides act as irreversible inhibitors of acetylcholinesterase, an enzyme needed for normal nerve function in insects. Explain how an irreversible inhibitor differs from a reversible inhibitor and why irreversible inhibition is effective as a pesticide. (3 marks)
+**Q1040.** Some pesticides act as irreversible inhibitors of acetylcholinesterase, an enzyme needed for normal nerve function in insects. Explain how an irreversible inhibitor differs from a reversible inhibitor and why irreversible inhibition is effective as a pesticide. (3 marks)
 <!-- id: bio34a2-inh-6 -->
 
 *Written answer*
 
-**Q1029.** A student measured the activity of catalase (which breaks down hydrogen peroxide into water and oxygen) from potato at 10 °C, 25 °C, 37 °C and 60 °C by measuring the volume of oxygen produced in 2 minutes. Activity was highest at 37 °C and almost zero at 60 °C. Explain the results at 10 °C and at 60 °C. (3 marks)
+**Q1041.** A student measured the activity of catalase (which breaks down hydrogen peroxide into water and oxygen) from potato at 10 °C, 25 °C, 37 °C and 60 °C by measuring the volume of oxygen produced in 2 minutes. Activity was highest at 37 °C and almost zero at 60 °C. Explain the results at 10 °C and at 60 °C. (3 marks)
 <!-- id: bio34a2-inh-7 -->
 
 *Written answer*
 
-**Q1030.** Many metabolic pathways are regulated by end-product inhibition. Describe how this works and explain one benefit to the cell. (2 marks)
+**Q1042.** Many metabolic pathways are regulated by end-product inhibition. Describe how this works and explain one benefit to the cell. (2 marks)
 <!-- id: bio34a2-inh-8 -->
 
 *Written answer*
 
+**Q1043.** Adding much more substrate restores the maximum reaction rate when an inhibitor is present. The inhibitor is most likely:
+<!-- id: vce-bio34-fe-c1 -->
+*Challenge question*
+
+- A. Non-competitive, binding to an allosteric site
+- B. Irreversible, binding permanently to the active site
+- C. A coenzyme
+- D. Competitive, binding to the active site
+
 #### Photosynthesis
 
-**Q1031.** The light-dependent stage of photosynthesis occurs in the
+**Q1044.** The light-dependent stage of photosynthesis occurs in the
 <!-- id: bio34a2-ps-1 -->
 
 - A. thylakoid membranes of the chloroplast
@@ -7255,7 +7372,7 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. inner membrane of the mitochondrion
 - D. cytosol of the mesophyll cell
 
-**Q1032.** Which row correctly shows the inputs and outputs of the light-independent stage (Calvin cycle)?
+**Q1045.** Which row correctly shows the inputs and outputs of the light-independent stage (Calvin cycle)?
 <!-- id: bio34a2-ps-2 -->
 
 - A. Inputs: H₂O, NADP⁺, ADP + Pi. Outputs: O₂, NADPH, ATP
@@ -7263,7 +7380,7 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. Inputs: glucose, O₂. Outputs: CO₂, H₂O, ATP
 - D. Inputs: CO₂, NADPH, ATP. Outputs: glucose, NADP⁺, ADP + Pi
 
-**Q1033.** A scientist supplies a plant with water containing the oxygen isotope ¹⁸O. In which product of photosynthesis would the ¹⁸O first be detected?
+**Q1046.** A scientist supplies a plant with water containing the oxygen isotope ¹⁸O. In which product of photosynthesis would the ¹⁸O first be detected?
 <!-- id: bio34a2-ps-3 -->
 
 - A. Glucose
@@ -7271,7 +7388,7 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. Carbon dioxide
 - D. Oxygen gas released from the leaf
 
-**Q1034.** A plant is moved from bright light into darkness. In the first few minutes, the rate of the Calvin cycle falls mainly because
+**Q1047.** A plant is moved from bright light into darkness. In the first few minutes, the rate of the Calvin cycle falls mainly because
 <!-- id: bio34a2-ps-4 -->
 
 - A. the supply of ATP and NADPH from the light-dependent stage stops
@@ -7279,7 +7396,7 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. rubisco is denatured in the dark
 - D. glucose accumulates and inhibits rubisco
 
-**Q1035.** A graph shows the rate of photosynthesis of a wheat plant increasing with light intensity until it plateaus at a high light intensity. Raising CO₂ concentration at this high light intensity causes the rate to increase further. What was the limiting factor at the plateau?
+**Q1048.** A graph shows the rate of photosynthesis of a wheat plant increasing with light intensity until it plateaus at a high light intensity. Raising CO₂ concentration at this high light intensity causes the rate to increase further. What was the limiting factor at the plateau?
 <!-- id: bio34a2-ps-5 -->
 
 - A. Light intensity
@@ -7287,24 +7404,33 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. CO₂ concentration
 - D. Chlorophyll concentration
 
-**Q1036.** Describe the role of rubisco in photosynthesis and explain why its activity is affected by temperature. (3 marks)
+**Q1049.** Describe the role of rubisco in photosynthesis and explain why its activity is affected by temperature. (3 marks)
 <!-- id: bio34a2-ps-6 -->
 
 *Written answer*
 
-**Q1037.** Write a balanced overall equation for photosynthesis in plants, and name where in the chloroplast each of the reactants is used. (3 marks)
+**Q1050.** Write a balanced overall equation for photosynthesis in plants, and name where in the chloroplast each of the reactants is used. (3 marks)
 <!-- id: bio34a2-ps-7 -->
 
 *Written answer*
 
-**Q1038.** Explain why the light-dependent and light-independent stages of photosynthesis are described as interdependent. (2 marks)
+**Q1051.** Explain why the light-dependent and light-independent stages of photosynthesis are described as interdependent. (2 marks)
 <!-- id: bio34a2-ps-8 -->
 
 *Written answer*
 
+**Q1052.** A plant is given water labelled with the oxygen isotope ¹⁸O. The label first appears in:
+<!-- id: vce-bio34-ph-c1 -->
+*Challenge question*
+
+- A. Glucose
+- B. Carbon dioxide
+- C. ATP
+- D. Oxygen gas released by the plant
+
 #### C3, C4 and CAM plants
 
-**Q1039.** Photorespiration in C3 plants occurs when
+**Q1053.** Photorespiration in C3 plants occurs when
 <!-- id: bio34a2-c4-1 -->
 
 - A. chlorophyll absorbs too much light and is damaged
@@ -7312,7 +7438,7 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. the plant respires faster than it photosynthesises at night
 - D. PEP carboxylase binds oxygen in the bundle sheath cells
 
-**Q1040.** C4 plants such as maize and kangaroo grass reduce photorespiration by
+**Q1054.** C4 plants such as maize and kangaroo grass reduce photorespiration by
 <!-- id: bio34a2-c4-2 -->
 
 - A. opening their stomata only at night
@@ -7320,7 +7446,7 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. producing a form of rubisco that cannot bind oxygen
 - D. spatially separating initial CO₂ fixation in mesophyll cells from the Calvin cycle in bundle sheath cells
 
-**Q1041.** A pineapple plant has its stomata open at night and closed during the day. Which statement correctly describes carbon fixation in this plant?
+**Q1055.** A pineapple plant has its stomata open at night and closed during the day. Which statement correctly describes carbon fixation in this plant?
 <!-- id: bio34a2-c4-3 -->
 
 - A. CO₂ is fixed by rubisco at night and stored as glucose
@@ -7328,7 +7454,7 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. CO₂ is fixed into a 4-carbon acid at night and released to rubisco for the Calvin cycle during the day
 - D. The Calvin cycle runs only at night when the stomata are open
 
-**Q1042.** In which environment would a CAM plant be expected to have the greatest advantage over a C3 plant?
+**Q1056.** In which environment would a CAM plant be expected to have the greatest advantage over a C3 plant?
 <!-- id: bio34a2-c4-4 -->
 
 - A. A hot, arid desert with very low water availability
@@ -7336,7 +7462,7 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. A temperate pasture with regular rainfall
 - D. A freshwater pond
 
-**Q1043.** Researchers grew a C3 plant and a C4 plant at 35 °C under bright light. The C4 plant had a much higher rate of photosynthesis. Under cool conditions (15 °C) the C3 plant performed slightly better. The best explanation for the result at 15 °C is that
+**Q1057.** Researchers grew a C3 plant and a C4 plant at 35 °C under bright light. The C4 plant had a much higher rate of photosynthesis. Under cool conditions (15 °C) the C3 plant performed slightly better. The best explanation for the result at 15 °C is that
 <!-- id: bio34a2-c4-5 -->
 
 - A. C4 plants cannot photosynthesise below 20 °C
@@ -7344,24 +7470,33 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. C3 plants have more chloroplasts at low temperatures
 - D. at lower temperatures photorespiration in C3 plants is low, so the extra ATP cost of the C4 pathway is not offset
 
-**Q1044.** Explain why hot, dry conditions increase the rate of photorespiration in C3 plants. (3 marks)
+**Q1058.** Explain why hot, dry conditions increase the rate of photorespiration in C3 plants. (3 marks)
 <!-- id: bio34a2-c4-6 -->
 
 *Written answer*
 
-**Q1045.** Compare C4 and CAM plants by describing one similarity and one difference in how they minimise photorespiration. (2 marks)
+**Q1059.** Compare C4 and CAM plants by describing one similarity and one difference in how they minimise photorespiration. (2 marks)
 <!-- id: bio34a2-c4-7 -->
 
 *Written answer*
 
-**Q1046.** A farmer in northern Australia is choosing between a C3 crop and a C4 crop for a hot, sunny region with limited irrigation. Recommend a crop type and justify your choice. (3 marks)
+**Q1060.** A farmer in northern Australia is choosing between a C3 crop and a C4 crop for a hot, sunny region with limited irrigation. Recommend a crop type and justify your choice. (3 marks)
 <!-- id: bio34a2-c4-8 -->
 
 *Written answer*
 
+**Q1061.** How do C4 and CAM plants reduce photorespiration?
+<!-- id: vce-bio34-c4-c1 -->
+*Challenge question*
+
+- A. C4 plants separate initial CO₂ fixation and the Calvin cycle in space; CAM plants separate them in time
+- B. C4 plants separate them in time; CAM plants in space
+- C. Both stop rubisco binding to CO₂
+- D. Both open their stomata only at midday
+
 #### Cellular respiration
 
-**Q1047.** Glycolysis occurs in the
+**Q1062.** Glycolysis occurs in the
 <!-- id: bio34a2-cr-1 -->
 
 - A. mitochondrial matrix
@@ -7369,7 +7504,7 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. inner mitochondrial membrane
 - D. stroma
 
-**Q1048.** Which of the following is the net yield of glycolysis per molecule of glucose?
+**Q1063.** Which of the following is the net yield of glycolysis per molecule of glucose?
 <!-- id: bio34a2-cr-2 -->
 
 - A. 6 CO₂, 2 ATP and 6 NADH
@@ -7377,7 +7512,7 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. 2 pyruvate, 2 ATP and 2 NADH
 - D. 2 lactate, 2 ATP and 2 NAD⁺
 
-**Q1049.** Oxygen is required in aerobic cellular respiration because it
+**Q1064.** Oxygen is required in aerobic cellular respiration because it
 <!-- id: bio34a2-cr-3 -->
 
 - A. is the final electron acceptor at the end of the electron transport chain, combining with electrons and H⁺ to form water
@@ -7385,7 +7520,7 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. combines with carbon to form CO₂ in the Krebs cycle
 - D. is a coenzyme that carries electrons from the Krebs cycle
 
-**Q1050.** A poison blocks the electron transport chain in mitochondria. Which of the following would occur first in an affected cell?
+**Q1065.** A poison blocks the electron transport chain in mitochondria. Which of the following would occur first in an affected cell?
 <!-- id: bio34a2-cr-4 -->
 
 - A. The concentration of NAD⁺ in the mitochondrial matrix would increase
@@ -7393,7 +7528,7 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. Glycolysis would stop immediately because it requires oxygen
 - D. The concentration of NADH would increase and ATP production would fall sharply
 
-**Q1051.** Which stage of aerobic cellular respiration produces the most ATP per glucose molecule, and where does it occur?
+**Q1066.** Which stage of aerobic cellular respiration produces the most ATP per glucose molecule, and where does it occur?
 <!-- id: bio34a2-cr-5 -->
 
 - A. Glycolysis, in the cytosol
@@ -7401,24 +7536,33 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. Krebs cycle, on the outer mitochondrial membrane
 - D. Electron transport chain, on the inner mitochondrial membrane (cristae)
 
-**Q1052.** Outline the Krebs cycle by stating its location, inputs and outputs per glucose molecule. (3 marks)
+**Q1067.** Outline the Krebs cycle by stating its location, inputs and outputs per glucose molecule. (3 marks)
 <!-- id: bio34a2-cr-6 -->
 
 *Written answer*
 
-**Q1053.** Muscle cells of an athlete in training have more mitochondria than those of an untrained person. Explain how this structural difference benefits the athlete during sustained exercise. (2 marks)
+**Q1068.** Muscle cells of an athlete in training have more mitochondria than those of an untrained person. Explain how this structural difference benefits the athlete during sustained exercise. (2 marks)
 <!-- id: bio34a2-cr-7 -->
 
 *Written answer*
 
-**Q1054.** Explain why the folding of the inner mitochondrial membrane into cristae increases the cell's capacity to produce ATP. (2 marks)
+**Q1069.** Explain why the folding of the inner mitochondrial membrane into cristae increases the cell's capacity to produce ATP. (2 marks)
 <!-- id: bio34a2-cr-8 -->
 
 *Written answer*
 
+**Q1070.** Cyanide blocks the electron transport chain. Which other stage of aerobic respiration stops soon after?
+<!-- id: vce-bio34-cr2-c1 -->
+*Challenge question*
+
+- A. Glycolysis only, because it happens in the cytosol
+- B. No other stage, because they are independent
+- C. Photosynthesis
+- D. The Krebs cycle, because NAD⁺ and FAD are no longer regenerated
+
 #### Anaerobic respiration and fermentation
 
-**Q1055.** During intense sprinting, human muscle cells carry out anaerobic respiration. The products of this pathway are
+**Q1071.** During intense sprinting, human muscle cells carry out anaerobic respiration. The products of this pathway are
 <!-- id: bio34a2-an-1 -->
 
 - A. lactate (lactic acid) and 2 ATP
@@ -7426,7 +7570,7 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. CO₂, H₂O and about 30 ATP
 - D. pyruvate, O₂ and 2 ATP
 
-**Q1056.** The main purpose of converting pyruvate to lactate or ethanol during anaerobic respiration is to
+**Q1072.** The main purpose of converting pyruvate to lactate or ethanol during anaerobic respiration is to
 <!-- id: bio34a2-an-2 -->
 
 - A. produce additional ATP after glycolysis
@@ -7434,7 +7578,7 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. regenerate NAD⁺ so that glycolysis can continue
 - D. remove oxygen from the cell
 
-**Q1057.** Anaerobic respiration in yeast occurs in the
+**Q1073.** Anaerobic respiration in yeast occurs in the
 <!-- id: bio34a2-an-3 -->
 
 - A. mitochondrial matrix
@@ -7442,7 +7586,7 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. cristae
 - D. nucleus
 
-**Q1058.** Yeast is placed in a sealed flask containing glucose solution. A CO₂ sensor shows CO₂ being produced throughout the experiment, while an O₂ sensor shows O₂ falling to zero after 20 minutes. After 20 minutes, the yeast is
+**Q1074.** Yeast is placed in a sealed flask containing glucose solution. A CO₂ sensor shows CO₂ being produced throughout the experiment, while an O₂ sensor shows O₂ falling to zero after 20 minutes. After 20 minutes, the yeast is
 <!-- id: bio34a2-an-4 -->
 
 - A. no longer respiring
@@ -7450,7 +7594,7 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. respiring anaerobically, producing lactate
 - D. respiring anaerobically, producing ethanol and CO₂
 
-**Q1059.** Compared with aerobic respiration, anaerobic respiration of one glucose molecule
+**Q1075.** Compared with aerobic respiration, anaerobic respiration of one glucose molecule
 <!-- id: bio34a2-an-5 -->
 
 - A. produces the same amount of ATP but more CO₂
@@ -7458,24 +7602,30 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. produces much less ATP because glucose is only partially broken down
 - D. requires mitochondria to produce ATP
 
-**Q1060.** Bioethanol can be produced by fermenting plant material such as sugarcane. Describe the biological process by which yeast produces ethanol and identify one advantage of bioethanol as a fuel. (3 marks)
+**Q1076.** Bioethanol can be produced by fermenting plant material such as sugarcane. Describe the biological process by which yeast produces ethanol and identify one advantage of bioethanol as a fuel. (3 marks)
 <!-- id: bio34a2-an-6 -->
 
 *Written answer*
 
-**Q1061.** Explain why a sprinter cannot rely on anaerobic respiration for an extended period of time. (2 marks)
+**Q1077.** Explain why a sprinter cannot rely on anaerobic respiration for an extended period of time. (2 marks)
 <!-- id: bio34a2-an-7 -->
 
 *Written answer*
 
-**Q1062.** A baker notices bread dough rises faster at 30 °C than at 15 °C. Explain this observation. (2 marks)
+**Q1078.** A baker notices bread dough rises faster at 30 °C than at 15 °C. Explain this observation. (2 marks)
 <!-- id: bio34a2-an-8 -->
+
+*Written answer*
+
+**Q1079.** Explain why muscle cells short of oxygen convert pyruvate to lactate instead of simply stopping after glycolysis.
+<!-- id: vce-bio34-an-c1 -->
+*Challenge question*
 
 *Written answer*
 
 #### Biotechnology to improve yield
 
-**Q1063.** Scientists aim to use CRISPR-Cas9 to edit the gene for a subunit of rubisco in a C3 crop. Which outcome would most directly improve crop yield?
+**Q1080.** Scientists aim to use CRISPR-Cas9 to edit the gene for a subunit of rubisco in a C3 crop. Which outcome would most directly improve crop yield?
 <!-- id: bio34a2-bt-1 -->
 
 - A. Rubisco with a reduced tendency to bind O₂ relative to CO₂
@@ -7483,7 +7633,7 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. Rubisco that is active only at night
 - D. Rubisco that can no longer bind CO₂
 
-**Q1064.** In CRISPR-Cas9 gene editing, the role of the guide RNA (sgRNA) is to
+**Q1081.** In CRISPR-Cas9 gene editing, the role of the guide RNA (sgRNA) is to
 <!-- id: bio34a2-bt-2 -->
 
 - A. cut both strands of the DNA
@@ -7491,7 +7641,7 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. act as the template for DNA repair
 - D. direct Cas9 to a specific target DNA sequence by complementary base pairing
 
-**Q1065.** Which of the following describes an approach to improve the yield of a C3 crop such as rice?
+**Q1082.** Which of the following describes an approach to improve the yield of a C3 crop such as rice?
 <!-- id: bio34a2-bt-3 -->
 
 - A. Removing all chlorophyll genes to reduce light absorption
@@ -7499,7 +7649,7 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. Inserting genes that keep stomata permanently closed
 - D. Knocking out the gene for rubisco
 
-**Q1066.** Second-generation biofuels are made from non-food plant material such as crop stems and woodchips. A key advantage of this approach over first-generation bioethanol made from corn grain is that it
+**Q1083.** Second-generation biofuels are made from non-food plant material such as crop stems and woodchips. A key advantage of this approach over first-generation bioethanol made from corn grain is that it
 <!-- id: bio34a2-bt-4 -->
 
 - A. releases no CO₂ when burned
@@ -7507,7 +7657,7 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. does not compete directly with food production for crops
 - D. produces petrol rather than ethanol
 
-**Q1067.** Before yeast can ferment cellulose-rich plant waste into ethanol, the cellulose must first be broken down. This is necessary because
+**Q1084.** Before yeast can ferment cellulose-rich plant waste into ethanol, the cellulose must first be broken down. This is necessary because
 <!-- id: bio34a2-bt-5 -->
 
 - A. yeast can only ferment simple sugars such as glucose, and cellulose is a polysaccharide
@@ -7515,26 +7665,35 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. cellulose contains no carbon
 - D. yeast respires only aerobically
 
-**Q1068.** Describe how CRISPR-Cas9 could be used to knock out a gene in a crop plant, and suggest one way this could improve yield. (3 marks)
+**Q1085.** Describe how CRISPR-Cas9 could be used to knock out a gene in a crop plant, and suggest one way this could improve yield. (3 marks)
 <!-- id: bio34a2-bt-6 -->
 
 *Written answer*
 
-**Q1069.** Scientists are investigating ways to increase the efficiency of photosynthesis in crops to feed a growing population. Identify one factor that limits photosynthesis in C3 crops and explain how a biotechnological approach could address it. (3 marks)
+**Q1086.** Scientists are investigating ways to increase the efficiency of photosynthesis in crops to feed a growing population. Identify one factor that limits photosynthesis in C3 crops and explain how a biotechnological approach could address it. (3 marks)
 <!-- id: bio34a2-bt-7 -->
 
 *Written answer*
 
-**Q1070.** Evaluate the use of sugarcane-based bioethanol as an alternative to petrol in Australia, giving one advantage and one disadvantage. (2 marks)
+**Q1087.** Evaluate the use of sugarcane-based bioethanol as an alternative to petrol in Australia, giving one advantage and one disadvantage. (2 marks)
 <!-- id: bio34a2-bt-8 -->
 
 *Written answer*
+
+**Q1088.** Scientists are trying to engineer C4 traits into rice (a C3 plant). The main expected benefit in hot, dry conditions is:
+<!-- id: vce-bio34-by-c1 -->
+*Challenge question*
+
+- A. Faster cellular respiration
+- B. Rice could photosynthesise without light
+- C. Less photorespiration, so more carbon is fixed per unit of water lost
+- D. Rubisco would no longer be needed
 
 ### Unit 4 AOS 1: Responding to pathogens
 
 #### Pathogens and physical and chemical barriers
 
-**Q1071.** Which of the following is a non-cellular pathogen?
+**Q1089.** Which of the following is a non-cellular pathogen?
 <!-- id: bio34a2-pb-1 -->
 
 - A. Plasmodium falciparum (a protozoan)
@@ -7542,7 +7701,7 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. Candida albicans (a fungus)
 - D. A prion
 
-**Q1072.** Lysozyme is found in tears and saliva. It is classified as a
+**Q1090.** Lysozyme is found in tears and saliva. It is classified as a
 <!-- id: bio34a2-pb-2 -->
 
 - A. physical barrier that traps pathogens
@@ -7550,7 +7709,7 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. microbiological barrier that outcompetes pathogens
 - D. chemical barrier that breaks down bacterial cell walls
 
-**Q1073.** A patient takes a long course of broad-spectrum antibiotics and then develops a fungal infection in the mouth. The most likely explanation is that the antibiotics
+**Q1091.** A patient takes a long course of broad-spectrum antibiotics and then develops a fungal infection in the mouth. The most likely explanation is that the antibiotics
 <!-- id: bio34a2-pb-3 -->
 
 - A. killed many of the normal bacterial flora that usually outcompete fungi
@@ -7558,7 +7717,7 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. destroyed the mucous membranes of the mouth
 - D. acted as an antigen that triggered an allergic reaction
 
-**Q1074.** Which of the following is a physical barrier in plants against pathogen entry?
+**Q1092.** Which of the following is a physical barrier in plants against pathogen entry?
 <!-- id: bio34a2-pb-4 -->
 
 - A. Production of chitinase enzymes
@@ -7566,7 +7725,7 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. A waxy cuticle on the leaf surface
 - D. Release of hydrogen peroxide at the infection site
 
-**Q1075.** Cells lining the human trachea have cilia and secrete mucus. Smoking damages the cilia. Which effect would be expected in a smoker?
+**Q1093.** Cells lining the human trachea have cilia and secrete mucus. Smoking damages the cilia. Which effect would be expected in a smoker?
 <!-- id: bio34a2-pb-5 -->
 
 - A. Increased stomach acid production
@@ -7574,24 +7733,33 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. Increased production of lysozyme in tears
 - D. Fewer pathogens able to enter the respiratory tract
 
-**Q1076.** Distinguish between a pathogen and an antigen, and give an example of each. (2 marks)
+**Q1094.** Distinguish between a pathogen and an antigen, and give an example of each. (2 marks)
 <!-- id: bio34a2-pb-6 -->
 
 *Written answer*
 
-**Q1077.** Describe two physical or chemical barriers a eucalyptus tree could use to prevent infection by a fungal pathogen. (2 marks)
+**Q1095.** Describe two physical or chemical barriers a eucalyptus tree could use to prevent infection by a fungal pathogen. (2 marks)
 <!-- id: bio34a2-pb-7 -->
 
 *Written answer*
 
-**Q1078.** Explain how the acidic environment of the stomach acts as a barrier to infection. (2 marks)
+**Q1096.** Explain how the acidic environment of the stomach acts as a barrier to infection. (2 marks)
 <!-- id: bio34a2-pb-8 -->
 
 *Written answer*
 
+**Q1097.** Prions differ from all other pathogens because they:
+<!-- id: vce-bio34-pb-c1 -->
+*Challenge question*
+
+- A. Are the smallest cellular pathogens
+- B. Can only infect plants
+- C. Carry RNA instead of DNA
+- D. Contain no nucleic acid; they are misfolded proteins that cause normal proteins to misfold
+
 #### Innate immunity
 
-**Q1079.** Which statement best describes the innate immune response?
+**Q1098.** Which statement best describes the innate immune response?
 <!-- id: bio34a2-inn-1 -->
 
 - A. It is specific to particular antigens and produces memory cells
@@ -7599,7 +7767,7 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. It is carried out only by B and T lymphocytes
 - D. It is non-specific, responds rapidly and does not produce immunological memory
 
-**Q1080.** Mast cells release histamine during an inflammatory response. The effect of histamine is to
+**Q1099.** Mast cells release histamine during an inflammatory response. The effect of histamine is to
 <!-- id: bio34a2-inn-2 -->
 
 - A. engulf and digest bacteria
@@ -7607,7 +7775,7 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. cause vasodilation and increased permeability of capillaries
 - D. kill virus-infected cells by releasing perforin
 
-**Q1081.** Natural killer (NK) cells are able to recognise and destroy
+**Q1100.** Natural killer (NK) cells are able to recognise and destroy
 <!-- id: bio34a2-inn-3 -->
 
 - A. cells that have abnormal or reduced MHC class I markers, such as virus-infected or cancerous cells
@@ -7615,7 +7783,7 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. antibodies bound to antigens
 - D. only cells displaying MHC class II with antigen
 
-**Q1082.** Interferons are produced by
+**Q1101.** Interferons are produced by
 <!-- id: bio34a2-inn-4 -->
 
 - A. bacteria to protect themselves from viruses
@@ -7623,7 +7791,7 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. plasma cells to bind to viruses
 - D. virus-infected cells, and they signal neighbouring cells to increase their resistance to viral replication
 
-**Q1083.** A child's body temperature rises to 39 °C during a bacterial infection. Which statement best explains how fever helps fight infection?
+**Q1102.** A child's body temperature rises to 39 °C during a bacterial infection. Which statement best explains how fever helps fight infection?
 <!-- id: bio34a2-inn-5 -->
 
 - A. Higher temperature denatures all of the child's own enzymes
@@ -7631,24 +7799,33 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. Fever directly produces antibodies
 - D. Fever causes the skin to become impermeable to bacteria
 
-**Q1084.** Describe the process of phagocytosis by a neutrophil. (3 marks)
+**Q1103.** Describe the process of phagocytosis by a neutrophil. (3 marks)
 <!-- id: bio34a2-inn-6 -->
 
 *Written answer*
 
-**Q1085.** A person steps on a rusty nail and the area becomes red, hot, swollen and painful. Explain how the inflammatory response produces these signs and how it helps clear the infection. (3 marks)
+**Q1104.** A person steps on a rusty nail and the area becomes red, hot, swollen and painful. Explain how the inflammatory response produces these signs and how it helps clear the infection. (3 marks)
 <!-- id: bio34a2-inn-7 -->
 
 *Written answer*
 
-**Q1086.** Describe two ways the complement system helps to defend against bacterial infection. (2 marks)
+**Q1105.** Describe two ways the complement system helps to defend against bacterial infection. (2 marks)
 <!-- id: bio34a2-inn-8 -->
 
 *Written answer*
 
+**Q1106.** Which sequence best describes inflammation after a splinter breaks the skin?
+<!-- id: vce-bio34-ii-c1 -->
+*Challenge question*
+
+- A. Phagocytes release histamine → vessels constrict → antibodies are made
+- B. Mast cells release histamine → blood vessels dilate and become more permeable → phagocytes move into the tissue
+- C. B cells release histamine → vessels dilate → fever starts
+- D. Vessels constrict → mast cells die → complement proteins leave the area
+
 #### Antigen presentation and the lymphatic system
 
-**Q1087.** MHC class I markers are found on
+**Q1107.** MHC class I markers are found on
 <!-- id: bio34a2-ap-1 -->
 
 - A. only antigen-presenting cells such as dendritic cells
@@ -7656,7 +7833,7 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. all nucleated body cells
 - D. bacterial cells only
 
-**Q1088.** After engulfing a pathogen in the skin, a dendritic cell travels to the nearest lymph node. The main purpose of this migration is to
+**Q1108.** After engulfing a pathogen in the skin, a dendritic cell travels to the nearest lymph node. The main purpose of this migration is to
 <!-- id: bio34a2-ap-2 -->
 
 - A. present antigen fragments on MHC II to T helper cells with complementary receptors
@@ -7664,7 +7841,7 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. destroy the lymph node's B cells
 - D. release histamine into the lymph
 
-**Q1089.** Which of the following is a function of the lymphatic system?
+**Q1109.** Which of the following is a function of the lymphatic system?
 <!-- id: bio34a2-ap-3 -->
 
 - A. Pumping blood around the body
@@ -7672,7 +7849,7 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. Producing red blood cells in the lymph nodes
 - D. Returning excess tissue fluid to the blood and providing sites where lymphocytes encounter antigens
 
-**Q1090.** During an infection, a patient's lymph nodes in the neck become swollen and tender. This is most likely because
+**Q1110.** During an infection, a patient's lymph nodes in the neck become swollen and tender. This is most likely because
 <!-- id: bio34a2-ap-4 -->
 
 - A. the lymph nodes are being destroyed by the pathogen
@@ -7680,7 +7857,7 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. red blood cells are accumulating in the nodes
 - D. lymphocytes in the nodes are undergoing clonal expansion after encountering antigen
 
-**Q1091.** Where do B lymphocytes and T lymphocytes respectively mature?
+**Q1111.** Where do B lymphocytes and T lymphocytes respectively mature?
 <!-- id: bio34a2-ap-5 -->
 
 - A. B cells in the bone marrow; T cells in the thymus
@@ -7688,24 +7865,33 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. B cells in the thymus; T cells in the bone marrow
 - D. Both mature in the lymph nodes
 
-**Q1092.** Compare MHC class I and MHC class II markers in terms of the cells that carry them and the source of the antigens they present. (3 marks)
+**Q1112.** Compare MHC class I and MHC class II markers in terms of the cells that carry them and the source of the antigens they present. (3 marks)
 <!-- id: bio34a2-ap-6 -->
 
 *Written answer*
 
-**Q1093.** Explain why tissues from an unrelated donor are often rejected after an organ transplant. (2 marks)
+**Q1113.** Explain why tissues from an unrelated donor are often rejected after an organ transplant. (2 marks)
 <!-- id: bio34a2-ap-7 -->
 
 *Written answer*
 
-**Q1094.** Describe the role of the lymphatic system in the initiation of an adaptive immune response to bacteria entering a cut in the hand. (3 marks)
+**Q1114.** Describe the role of the lymphatic system in the initiation of an adaptive immune response to bacteria entering a cut in the hand. (3 marks)
 <!-- id: bio34a2-ap-8 -->
 
 *Written answer*
 
+**Q1115.** Malaria parasites inside mature red blood cells cannot be detected by cytotoxic T cells mainly because:
+<!-- id: vce-bio34-ap-c1 -->
+*Challenge question*
+
+- A. Red blood cells have too much MHC class II
+- B. Cytotoxic T cells cannot enter blood vessels
+- C. Mature red blood cells have no nucleus and do not display MHC class I
+- D. Antibodies hide the parasite
+
 #### Humoral immunity
 
-**Q1095.** Humoral immunity is primarily directed against
+**Q1116.** Humoral immunity is primarily directed against
 <!-- id: bio34a2-hum-1 -->
 
 - A. viruses replicating inside host cells
@@ -7713,7 +7899,7 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. pathogens and antigens in extracellular fluids such as blood and lymph
 - D. transplanted tissue only
 
-**Q1096.** During the humoral response, a B cell that has bound its specific antigen is fully activated when
+**Q1117.** During the humoral response, a B cell that has bound its specific antigen is fully activated when
 <!-- id: bio34a2-hum-2 -->
 
 - A. it is engulfed by a macrophage
@@ -7721,7 +7907,7 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. it binds to an MHC I marker on an infected cell
 - D. a mast cell releases histamine
 
-**Q1097.** The part of an antibody that binds to a specific antigen is the
+**Q1118.** The part of an antibody that binds to a specific antigen is the
 <!-- id: bio34a2-hum-3 -->
 
 - A. constant region of the heavy chain
@@ -7729,7 +7915,7 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. disulfide bridge between the heavy chains
 - D. variable region at the tips of the heavy and light chains
 
-**Q1098.** Antibodies bind to the spike proteins of a virus, preventing the virus from attaching to receptors on host cells. This mode of action is called
+**Q1119.** Antibodies bind to the spike proteins of a virus, preventing the virus from attaching to receptors on host cells. This mode of action is called
 <!-- id: bio34a2-hum-4 -->
 
 - A. agglutination
@@ -7737,7 +7923,7 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. neutralisation
 - D. lysis
 
-**Q1099.** A graph shows antibody concentration after a first and second exposure to the same antigen. Compared with the primary response, the secondary response is faster and produces a much higher antibody concentration. This is mainly due to
+**Q1120.** A graph shows antibody concentration after a first and second exposure to the same antigen. Compared with the primary response, the secondary response is faster and produces a much higher antibody concentration. This is mainly due to
 <!-- id: bio34a2-hum-5 -->
 
 - A. memory B cells produced during the first exposure rapidly differentiating into plasma cells
@@ -7745,24 +7931,33 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. the antigen becoming weaker over time
 - D. antibodies from the first response remaining at high levels indefinitely
 
-**Q1100.** Outline the sequence of events in the humoral immune response, from a naive B cell encountering an antigen to the production of antibodies. (4 marks)
+**Q1121.** Outline the sequence of events in the humoral immune response, from a naive B cell encountering an antigen to the production of antibodies. (4 marks)
 <!-- id: bio34a2-hum-6 -->
 
 *Written answer*
 
-**Q1101.** Describe how antibodies can promote the destruction of bacteria by agglutination and opsonisation. (2 marks)
+**Q1122.** Describe how antibodies can promote the destruction of bacteria by agglutination and opsonisation. (2 marks)
 <!-- id: bio34a2-hum-7 -->
 
 *Written answer*
 
-**Q1102.** Explain why the antibodies produced against the measles virus do not protect against the chickenpox virus. (2 marks)
+**Q1123.** Explain why the antibodies produced against the measles virus do not protect against the chickenpox virus. (2 marks)
 <!-- id: bio34a2-hum-8 -->
 
 *Written answer*
 
+**Q1124.** A person has very few helper T cells (for example in advanced HIV infection). The most likely effect is:
+<!-- id: vce-bio34-hi-c1 -->
+*Challenge question*
+
+- A. Only innate immunity is affected
+- B. Antibody production increases to compensate
+- C. Only cell-mediated immunity is affected
+- D. Both antibody production and cytotoxic T cell responses are greatly weakened
+
 #### Cell-mediated immunity
 
-**Q1103.** Which cell directly destroys a virus-infected body cell during cell-mediated immunity?
+**Q1125.** Which cell directly destroys a virus-infected body cell during cell-mediated immunity?
 <!-- id: bio34a3-cmi-1 -->
 
 - A. Plasma cell
@@ -7770,7 +7965,7 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. Helper T cell
 - D. Mast cell
 
-**Q1104.** A cytotoxic T cell recognises an infected cell because the infected cell displays
+**Q1126.** A cytotoxic T cell recognises an infected cell because the infected cell displays
 <!-- id: bio34a3-cmi-2 -->
 
 - A. viral antigen fragments on MHC class II markers.
@@ -7778,7 +7973,7 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. viral antigen fragments on MHC class I markers.
 - D. complement proteins in its cytosol.
 
-**Q1105.** Perforin and granzymes released by a cytotoxic T cell cause the target cell to
+**Q1127.** Perforin and granzymes released by a cytotoxic T cell cause the target cell to
 <!-- id: bio34a3-cmi-3 -->
 
 - A. undergo apoptosis.
@@ -7786,7 +7981,7 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. secrete interferon.
 - D. differentiate into a memory cell.
 
-**Q1106.** A patient has a condition in which very few helper T cells are produced. Which outcome is most likely?
+**Q1128.** A patient has a condition in which very few helper T cells are produced. Which outcome is most likely?
 <!-- id: bio34a3-cmi-4 -->
 
 - A. Only cell-mediated immunity is impaired; antibody production is normal.
@@ -7794,7 +7989,7 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. Innate barriers such as skin and mucus stop functioning.
 - D. The patient's cells stop expressing MHC I markers.
 
-**Q1107.** Following an infection, a small number of cytotoxic T cells persist for years and produce a faster response if the same antigen is encountered again. These cells are
+**Q1129.** Following an infection, a small number of cytotoxic T cells persist for years and produce a faster response if the same antigen is encountered again. These cells are
 <!-- id: bio34a3-cmi-5 -->
 
 - A. regulatory T cells.
@@ -7802,24 +7997,30 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. plasma cells.
 - D. memory T cells.
 
-**Q1108.** Outline the sequence of events from the presentation of a viral antigen by a dendritic cell in a lymph node to the destruction of infected body cells by cytotoxic T cells. (4 marks)
+**Q1130.** Outline the sequence of events from the presentation of a viral antigen by a dendritic cell in a lymph node to the destruction of infected body cells by cytotoxic T cells. (4 marks)
 <!-- id: bio34a3-cmi-6 -->
 
 *Written answer*
 
-**Q1109.** Explain why cell-mediated immunity, rather than humoral immunity, is required to eliminate a virus once it is inside host cells. (2 marks)
+**Q1131.** Explain why cell-mediated immunity, rather than humoral immunity, is required to eliminate a virus once it is inside host cells. (2 marks)
 <!-- id: bio34a3-cmi-7 -->
 
 *Written answer*
 
-**Q1110.** Organ transplant recipients are given drugs that suppress T cell activity. Explain why these drugs are needed and identify one risk of taking them. (3 marks)
+**Q1132.** Organ transplant recipients are given drugs that suppress T cell activity. Explain why these drugs are needed and identify one risk of taking them. (3 marks)
 <!-- id: bio34a3-cmi-8 -->
+
+*Written answer*
+
+**Q1133.** Explain how a cytotoxic T cell destroys a virus-infected cell, and why antibodies alone cannot clear an established viral infection.
+<!-- id: vce-bio34-cm-c1 -->
+*Challenge question*
 
 *Written answer*
 
 #### Types of immunity and vaccination
 
-**Q1111.** A newborn receives antibodies from its mother through breast milk. This is an example of
+**Q1134.** A newborn receives antibodies from its mother through breast milk. This is an example of
 <!-- id: bio34a3-tiv-1 -->
 
 - A. natural active immunity.
@@ -7827,7 +8028,7 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. artificial passive immunity.
 - D. artificial active immunity.
 
-**Q1112.** A bushwalker bitten by an eastern brown snake is given antivenom. Which statement about this treatment is correct?
+**Q1135.** A bushwalker bitten by an eastern brown snake is given antivenom. Which statement about this treatment is correct?
 <!-- id: bio34a3-tiv-2 -->
 
 - A. It provides long-lasting protection because memory B cells are produced.
@@ -7835,7 +8036,7 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. It provides immediate but short-term protection.
 - D. It is an example of artificial active immunity.
 
-**Q1113.** Which of the following best explains why a second dose (booster) of a vaccine is often given?
+**Q1136.** Which of the following best explains why a second dose (booster) of a vaccine is often given?
 <!-- id: bio34a3-tiv-3 -->
 
 - A. To trigger a secondary response that produces more memory cells and a higher antibody level.
@@ -7843,7 +8044,7 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. To activate the innate immune system for the first time.
 - D. To reduce the number of memory cells so that autoimmunity is avoided.
 
-**Q1114.** An mRNA vaccine against a virus works by
+**Q1137.** An mRNA vaccine against a virus works by
 <!-- id: bio34a3-tiv-4 -->
 
 - A. inserting viral genes into the recipient's chromosomes.
@@ -7851,7 +8052,7 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. supplying ready-made antibodies against the viral spike protein.
 - D. causing the recipient's cells to translate a viral antigen, which then stimulates an adaptive immune response.
 
-**Q1115.** In a town, 95% of people are vaccinated against measles. An unvaccinated infant in the town is unlikely to catch measles mainly because
+**Q1138.** In a town, 95% of people are vaccinated against measles. An unvaccinated infant in the town is unlikely to catch measles mainly because
 <!-- id: bio34a3-tiv-5 -->
 
 - A. the infant has natural active immunity from birth.
@@ -7859,24 +8060,33 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. the measles virus cannot infect infants.
 - D. vaccinated people pass antibodies to unvaccinated people by contact.
 
-**Q1116.** Distinguish between active and passive immunity, referring to the duration of protection in each. (3 marks)
+**Q1139.** Distinguish between active and passive immunity, referring to the duration of protection in each. (3 marks)
 <!-- id: bio34a3-tiv-6 -->
 
 *Written answer*
 
-**Q1117.** A graph shows antibody concentration in a person's blood over 60 days. A vaccine was given on day 0 and a booster on day 30. Antibody levels peaked at a low level around day 12 and then declined; after day 30 they rose more quickly to a peak about ten times higher. Explain the difference between the two responses. (3 marks)
+**Q1140.** A graph shows antibody concentration in a person's blood over 60 days. A vaccine was given on day 0 and a booster on day 30. Antibody levels peaked at a low level around day 12 and then declined; after day 30 they rose more quickly to a peak about ten times higher. Explain the difference between the two responses. (3 marks)
 <!-- id: bio34a3-tiv-7 -->
 
 *Written answer*
 
-**Q1118.** Explain why vaccination rates below the herd immunity threshold can lead to an outbreak, even though most people are vaccinated. (2 marks)
+**Q1141.** Explain why vaccination rates below the herd immunity threshold can lead to an outbreak, even though most people are vaccinated. (2 marks)
 <!-- id: bio34a3-tiv-8 -->
 
 *Written answer*
 
+**Q1142.** The herd immunity threshold is about 1 − 1/R₀. For measles, R₀ ≈ 15. Roughly what proportion of a population must be immune?
+<!-- id: vce-bio34-tv-c1 -->
+*Challenge question*
+
+- A. About 93%
+- B. About 15%
+- C. About 50%
+- D. About 67%
+
 #### Emerging diseases and immunotherapy
 
-**Q1119.** Which of the following is an example of a re-emerging disease?
+**Q1143.** Which of the following is an example of a re-emerging disease?
 <!-- id: bio34a3-edi-1 -->
 
 - A. A disease caused by a newly identified coronavirus that jumped from bats to humans
@@ -7884,7 +8094,7 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. A genetic disorder caused by a new point mutation
 - D. Type 2 diabetes increasing with age
 
-**Q1120.** Which factor most directly increases the speed at which a new infectious disease spreads between countries?
+**Q1144.** Which factor most directly increases the speed at which a new infectious disease spreads between countries?
 <!-- id: bio34a3-edi-2 -->
 
 - A. International air travel
@@ -7892,7 +8102,7 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. Higher vaccination coverage
 - D. Antibiotic stewardship programs
 
-**Q1121.** Monoclonal antibodies are produced by
+**Q1145.** Monoclonal antibodies are produced by
 <!-- id: bio34a3-edi-3 -->
 
 - A. injecting a patient with weakened pathogens.
@@ -7900,7 +8110,7 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. fusing a specific plasma (B) cell with a myeloma (cancer) cell to form a hybridoma that is cloned.
 - D. inserting antibody genes into memory T cells.
 
-**Q1122.** Some cancer cells display the protein PD-L1, which binds to PD-1 on cytotoxic T cells and switches them off. A monoclonal antibody that binds PD-1 is used as a treatment. This works because the antibody
+**Q1146.** Some cancer cells display the protein PD-L1, which binds to PD-1 on cytotoxic T cells and switches them off. A monoclonal antibody that binds PD-1 is used as a treatment. This works because the antibody
 <!-- id: bio34a3-edi-4 -->
 
 - A. kills the cancer cells directly by causing apoptosis.
@@ -7908,7 +8118,7 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. binds PD-L1 and marks cancer cells for destruction by complement.
 - D. stimulates B cells to produce antibodies against PD-1.
 
-**Q1123.** Aboriginal and Torres Strait Islander peoples have long used plants such as the gumby gumby (Pittosporum angustifolium) for medicinal purposes. The most appropriate way for researchers to investigate such plants for new drugs is to
+**Q1147.** Aboriginal and Torres Strait Islander peoples have long used plants such as the gumby gumby (Pittosporum angustifolium) for medicinal purposes. The most appropriate way for researchers to investigate such plants for new drugs is to
 <!-- id: bio34a3-edi-5 -->
 
 - A. collect plants from Country without consultation, as plants are a public resource.
@@ -7916,26 +8126,35 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. partner with Traditional Owners, gain free, prior and informed consent and share benefits.
 - D. rely solely on written colonial records of plant use.
 
-**Q1124.** Identify two factors that contributed to the rapid global spread of COVID-19 and explain how each increased transmission. (4 marks)
+**Q1148.** Identify two factors that contributed to the rapid global spread of COVID-19 and explain how each increased transmission. (4 marks)
 <!-- id: bio34a3-edi-6 -->
 
 *Written answer*
 
-**Q1125.** Explain how a monoclonal antibody that binds a protein found only on the surface of breast cancer cells can be used to treat the cancer. (3 marks)
+**Q1149.** Explain how a monoclonal antibody that binds a protein found only on the surface of breast cancer cells can be used to treat the cancer. (3 marks)
 <!-- id: bio34a3-edi-7 -->
 
 *Written answer*
 
-**Q1126.** Explain how a zoonotic pathogen can become an emerging human disease. (2 marks)
+**Q1150.** Explain how a zoonotic pathogen can become an emerging human disease. (2 marks)
 <!-- id: bio34a3-edi-8 -->
 
 *Written answer*
+
+**Q1151.** Some cancer cells display PD-L1, which binds PD-1 on T cells and switches them off. A monoclonal antibody against PD-1 helps treat cancer by:
+<!-- id: vce-bio34-ed-c1 -->
+*Challenge question*
+
+- A. Blocking PD-1 so T cells stay active and attack the cancer cells
+- B. Killing the T cells
+- C. Directly digesting cancer DNA
+- D. Giving the patient memory B cells
 
 ### Unit 4 AOS 2: Change over time
 
 #### Mutations, gene flow and genetic drift
 
-**Q1127.** Which of the following is the only source of entirely new alleles in a population?
+**Q1152.** Which of the following is the only source of entirely new alleles in a population?
 <!-- id: bio34a3-mgd-1 -->
 
 - A. Mutation
@@ -7943,7 +8162,7 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. Genetic drift
 - D. Natural selection
 
-**Q1128.** A deletion of a single nucleotide near the start of a gene is likely to have a greater effect than a substitution because it
+**Q1153.** A deletion of a single nucleotide near the start of a gene is likely to have a greater effect than a substitution because it
 <!-- id: bio34a3-mgd-2 -->
 
 - A. changes only one amino acid.
@@ -7951,7 +8170,7 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. causes a frameshift that alters every codon downstream.
 - D. removes the promoter from the gene.
 
-**Q1129.** Tasmanian devil populations have extremely low genetic diversity, which is thought to have resulted from population crashes thousands of years ago. This is best described as
+**Q1154.** Tasmanian devil populations have extremely low genetic diversity, which is thought to have resulted from population crashes thousands of years ago. This is best described as
 <!-- id: bio34a3-mgd-3 -->
 
 - A. the founder effect.
@@ -7959,7 +8178,7 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. a bottleneck effect.
 - D. artificial selection.
 
-**Q1130.** Which population is most likely to experience large changes in allele frequency due to genetic drift?
+**Q1155.** Which population is most likely to experience large changes in allele frequency due to genetic drift?
 <!-- id: bio34a3-mgd-4 -->
 
 - A. A population of 10 000 frogs with frequent migration
@@ -7967,7 +8186,7 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. A population of 50 000 mosquitoes
 - D. A population of 5000 grasses with wind-borne pollen from other populations
 
-**Q1131.** Pollen from genetically modified canola is carried by wind into a neighbouring population of wild canola, where it fertilises some plants. The effect on the wild population is
+**Q1156.** Pollen from genetically modified canola is carried by wind into a neighbouring population of wild canola, where it fertilises some plants. The effect on the wild population is
 <!-- id: bio34a3-mgd-5 -->
 
 - A. genetic drift, which increases genetic differences between the populations.
@@ -7975,24 +8194,33 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. mutation, which creates new alleles in the GM crop.
 - D. gene flow, which makes the gene pools of the two populations more similar.
 
-**Q1132.** Distinguish between the founder effect and the bottleneck effect, and state one similarity. (3 marks)
+**Q1157.** Distinguish between the founder effect and the bottleneck effect, and state one similarity. (3 marks)
 <!-- id: bio34a3-mgd-6 -->
 
 *Written answer*
 
-**Q1133.** A population of 200 skinks has an allele frequency of 0.4 for allele B. After a flood kills 180 skinks at random, the frequency of B in the survivors is 0.15. Identify the mechanism responsible and explain why the change occurred. (2 marks)
+**Q1158.** A population of 200 skinks has an allele frequency of 0.4 for allele B. After a flood kills 180 skinks at random, the frequency of B in the survivors is 0.15. Identify the mechanism responsible and explain why the change occurred. (2 marks)
 <!-- id: bio34a3-mgd-7 -->
 
 *Written answer*
 
-**Q1134.** Explain how a mutation in a somatic cell differs from a mutation in a germline cell in its significance for the evolution of a population. (2 marks)
+**Q1159.** Explain how a mutation in a somatic cell differs from a mutation in a germline cell in its significance for the evolution of a population. (2 marks)
 <!-- id: bio34a3-mgd-8 -->
 
 *Written answer*
 
+**Q1160.** Twenty birds colonise an island. One allele has a frequency of 0.6 on the island but 0.3 on the mainland. This is best explained by:
+<!-- id: vce-bio34-mg-c1 -->
+*Challenge question*
+
+- A. Gene flow between the island and the mainland
+- B. The founder effect, a form of genetic drift
+- C. Natural selection for the allele
+- D. A new mutation on the island
+
 #### Natural selection and selective breeding
 
-**Q1135.** Which of the following is NOT a requirement for evolution by natural selection?
+**Q1161.** Which of the following is NOT a requirement for evolution by natural selection?
 <!-- id: bio34a3-nss-1 -->
 
 - A. Heritable variation in a trait within the population
@@ -8000,7 +8228,7 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. Individuals deliberately changing their traits to suit the environment
 - D. Differential survival and reproduction
 
-**Q1136.** Cane toads at the invasion front in northern Australia have longer legs than toads in long-established populations. The most likely explanation is that
+**Q1162.** Cane toads at the invasion front in northern Australia have longer legs than toads in long-established populations. The most likely explanation is that
 <!-- id: bio34a3-nss-2 -->
 
 - A. toads stretch their legs while travelling, and this is passed to offspring.
@@ -8008,7 +8236,7 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. longer legs arose by mutation because toads needed to move faster.
 - D. genetic drift always increases leg length in amphibians.
 
-**Q1137.** Compared with natural selection, selective breeding of dairy cattle
+**Q1163.** Compared with natural selection, selective breeding of dairy cattle
 <!-- id: bio34a3-nss-3 -->
 
 - A. involves humans choosing which individuals reproduce, often reducing genetic diversity.
@@ -8016,7 +8244,7 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. does not change allele frequencies in the population.
 - D. relies on random mutations being caused by the farmer.
 
-**Q1138.** A population of moths contains dark and light forms. After a fire blackens tree bark, the frequency of the dark allele increases over several generations. The selection pressure is
+**Q1164.** A population of moths contains dark and light forms. After a fire blackens tree bark, the frequency of the dark allele increases over several generations. The selection pressure is
 <!-- id: bio34a3-nss-4 -->
 
 - A. the mutation producing dark colour.
@@ -8024,7 +8252,7 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. the reduced genetic diversity.
 - D. predation by birds that see contrasting moths more easily.
 
-**Q1139.** Which is a likely disadvantage of a crop variety produced by many generations of selective breeding?
+**Q1165.** Which is a likely disadvantage of a crop variety produced by many generations of selective breeding?
 <!-- id: bio34a3-nss-5 -->
 
 - A. It always produces a lower yield.
@@ -8032,24 +8260,33 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. Plants are genetically very similar, so the whole crop may be vulnerable to a single new disease.
 - D. It contains more alleles than the wild type.
 
-**Q1140.** Using the example of a population of algae-eating snails in which some individuals have thicker shells, explain how natural selection could increase the frequency of thick shells after crabs are introduced as predators. (4 marks)
+**Q1166.** Using the example of a population of algae-eating snails in which some individuals have thicker shells, explain how natural selection could increase the frequency of thick shells after crabs are introduced as predators. (4 marks)
 <!-- id: bio34a3-nss-6 -->
 
 *Written answer*
 
-**Q1141.** Explain why selective breeding can produce large phenotypic changes in a species in far fewer generations than natural selection usually does. (2 marks)
+**Q1167.** Explain why selective breeding can produce large phenotypic changes in a species in far fewer generations than natural selection usually does. (2 marks)
 <!-- id: bio34a3-nss-7 -->
 
 *Written answer*
 
-**Q1142.** A farmer breeds sheep for fine wool for 30 generations. Describe the likely effect on the genetic diversity of the flock and explain one consequence. (2 marks)
+**Q1168.** A farmer breeds sheep for fine wool for 30 generations. Describe the likely effect on the genetic diversity of the flock and explain one consequence. (2 marks)
 <!-- id: bio34a3-nss-8 -->
 
 *Written answer*
 
+**Q1169.** Why are crops produced by intensive selective breeding often more vulnerable to new diseases?
+<!-- id: vce-bio34-ns-c1 -->
+*Challenge question*
+
+- A. Selection for a few traits reduces genetic diversity, so fewer individuals may carry resistance alleles
+- B. Selective breeding causes harmful mutations
+- C. Natural selection stops working on crops
+- D. Bred crops have fewer chromosomes
+
 #### Antibiotic and antiviral resistance
 
-**Q1143.** Which statement correctly describes the development of antibiotic resistance in a bacterial population?
+**Q1170.** Which statement correctly describes the development of antibiotic resistance in a bacterial population?
 <!-- id: bio34a3-aar-1 -->
 
 - A. Bacteria develop resistance because they are exposed to the antibiotic and need to survive.
@@ -8057,7 +8294,7 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. Resistant bacteria already present survive the antibiotic and reproduce, increasing the frequency of resistance.
 - D. Patients become resistant to the antibiotic after repeated use.
 
-**Q1144.** Bacteria can rapidly share resistance genes with other bacteria, including other species, through
+**Q1171.** Bacteria can rapidly share resistance genes with other bacteria, including other species, through
 <!-- id: bio34a3-aar-2 -->
 
 - A. meiosis.
@@ -8065,7 +8302,7 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. binary fission.
 - D. antigen presentation.
 
-**Q1145.** Why does failing to complete a prescribed course of antibiotics contribute to resistance?
+**Q1172.** Why does failing to complete a prescribed course of antibiotics contribute to resistance?
 <!-- id: bio34a3-aar-3 -->
 
 - A. It allows the more-resistant bacteria that survived early doses to multiply.
@@ -8073,7 +8310,7 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. It converts the antibiotic into a mutagen.
 - D. It increases gene flow between the patient and other people.
 
-**Q1146.** Influenza viruses with a mutation in the neuraminidase gene are not inhibited by the antiviral drug oseltamivir (Tamiflu). In a hospital where oseltamivir is widely used, the proportion of resistant viruses would be expected to
+**Q1173.** Influenza viruses with a mutation in the neuraminidase gene are not inhibited by the antiviral drug oseltamivir (Tamiflu). In a hospital where oseltamivir is widely used, the proportion of resistant viruses would be expected to
 <!-- id: bio34a3-aar-4 -->
 
 - A. decrease, as the drug destroys the mutated gene.
@@ -8081,7 +8318,7 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. decrease, because viruses cannot mutate.
 - D. increase, as the drug selects for viruses with the mutation.
 
-**Q1147.** Which practice would be most effective in slowing the evolution of antibiotic resistance in Australia?
+**Q1174.** Which practice would be most effective in slowing the evolution of antibiotic resistance in Australia?
 <!-- id: bio34a3-aar-5 -->
 
 - A. Prescribing antibiotics for viral colds as a precaution
@@ -8089,24 +8326,30 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. Prescribing antibiotics only for bacterial infections, using narrow-spectrum drugs where possible
 - D. Using a single antibiotic for all infections
 
-**Q1148.** Explain how a population of Staphylococcus aureus in a hospital could become resistant to methicillin (MRSA) over time. (4 marks)
+**Q1175.** Explain how a population of Staphylococcus aureus in a hospital could become resistant to methicillin (MRSA) over time. (4 marks)
 <!-- id: bio34a3-aar-6 -->
 
 *Written answer*
 
-**Q1149.** HIV is treated with a combination of three antiviral drugs that act on different targets rather than one drug. Explain why. (2 marks)
+**Q1176.** HIV is treated with a combination of three antiviral drugs that act on different targets rather than one drug. Explain why. (2 marks)
 <!-- id: bio34a3-aar-7 -->
 
 *Written answer*
 
-**Q1150.** Explain why antibiotic resistance can evolve in bacteria within months, whereas changes in human populations take thousands of years. (2 marks)
+**Q1177.** Explain why antibiotic resistance can evolve in bacteria within months, whereas changes in human populations take thousands of years. (2 marks)
 <!-- id: bio34a3-aar-8 -->
+
+*Written answer*
+
+**Q1178.** Explain how resistance to an antibiotic arises in a bacterial population, and why stopping a course early can make it worse.
+<!-- id: vce-bio34-ar-c1 -->
+*Challenge question*
 
 *Written answer*
 
 #### Speciation
 
-**Q1151.** According to the biological species concept, two organisms belong to the same species if they
+**Q1179.** According to the biological species concept, two organisms belong to the same species if they
 <!-- id: bio34a3-spe-1 -->
 
 - A. look very similar.
@@ -8114,7 +8357,7 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. have exactly the same DNA sequence.
 - D. can interbreed under natural conditions to produce viable, fertile offspring.
 
-**Q1152.** Which sequence correctly describes allopatric speciation?
+**Q1180.** Which sequence correctly describes allopatric speciation?
 <!-- id: bio34a3-spe-2 -->
 
 - A. Geographical isolation → different selection pressures and genetic drift → genetic divergence → reproductive isolation
@@ -8122,7 +8365,7 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. Mutation → gene flow → interbreeding → new species
 - D. Polyploidy → hybridisation → geographical isolation → new species
 
-**Q1153.** A horse and a donkey can mate to produce a mule, which is sterile. This shows that horses and donkeys
+**Q1181.** A horse and a donkey can mate to produce a mule, which is sterile. This shows that horses and donkeys
 <!-- id: bio34a3-spe-3 -->
 
 - A. are the same species, as they can mate.
@@ -8130,7 +8373,7 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. are undergoing sympatric speciation right now.
 - D. have no shared ancestor.
 
-**Q1154.** Two populations of frogs live in the same pond, but one breeds in early spring and the other in late summer. This is an example of
+**Q1182.** Two populations of frogs live in the same pond, but one breeds in early spring and the other in late summer. This is an example of
 <!-- id: bio34a3-spe-4 -->
 
 - A. geographical isolation.
@@ -8138,7 +8381,7 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. temporal (seasonal) reproductive isolation.
 - D. hybrid sterility.
 
-**Q1155.** Sympatric speciation in plants often occurs through polyploidy because
+**Q1183.** Sympatric speciation in plants often occurs through polyploidy because
 <!-- id: bio34a3-spe-5 -->
 
 - A. polyploid plants are geographically separated from the parent population.
@@ -8146,24 +8389,33 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. polyploid plants always have lower fitness and die out.
 - D. a polyploid plant cannot produce fertile offspring with the parent species, so it is instantly reproductively isolated.
 
-**Q1156.** Around 10 000 years ago, rising sea levels separated Kangaroo Island from mainland South Australia. Explain how this could lead to the formation of a new species of wallaby on the island. (4 marks)
+**Q1184.** Around 10 000 years ago, rising sea levels separated Kangaroo Island from mainland South Australia. Explain how this could lead to the formation of a new species of wallaby on the island. (4 marks)
 <!-- id: bio34a3-spe-6 -->
 
 *Written answer*
 
-**Q1157.** Distinguish between allopatric and sympatric speciation. (2 marks)
+**Q1185.** Distinguish between allopatric and sympatric speciation. (2 marks)
 <!-- id: bio34a3-spe-7 -->
 
 *Written answer*
 
-**Q1158.** Two populations of birds separated for 50 000 years are reunited. Describe an experiment or observation that would determine whether speciation has occurred. (2 marks)
+**Q1186.** Two populations of birds separated for 50 000 years are reunited. Describe an experiment or observation that would determine whether speciation has occurred. (2 marks)
 <!-- id: bio34a3-spe-8 -->
 
 *Written answer*
 
+**Q1187.** Two frog populations can interbreed and produce fertile offspring in a laboratory but never do in the wild, because they breed at different times of year. This is:
+<!-- id: vce-bio34-sp-c1 -->
+*Challenge question*
+
+- A. Postzygotic isolation
+- B. Geographic isolation only
+- C. Evidence that they are one species, because they can interbreed
+- D. Temporal (prezygotic) isolation, and they can be regarded as separate species
+
 #### Fossil record and dating
 
-**Q1159.** Which conditions most favour the formation of a fossil?
+**Q1188.** Which conditions most favour the formation of a fossil?
 <!-- id: bio34a3-frd-1 -->
 
 - A. Exposure to oxygen and scavengers on the ground surface
@@ -8171,7 +8423,7 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. Slow decomposition in warm, moist soil with many bacteria
 - D. Remains left in a fast-flowing river bed of coarse gravel
 
-**Q1160.** In an undisturbed sequence of sedimentary rock layers, fossil X is found in a lower layer than fossil Y. Which conclusion is valid?
+**Q1189.** In an undisturbed sequence of sedimentary rock layers, fossil X is found in a lower layer than fossil Y. Which conclusion is valid?
 <!-- id: bio34a3-frd-2 -->
 
 - A. Fossil X is younger than fossil Y.
@@ -8179,7 +8431,7 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. Fossil X is exactly twice the age of fossil Y.
 - D. Fossil X and fossil Y must be the same species.
 
-**Q1161.** Carbon-14 has a half-life of about 5730 years. A bone sample contains one-eighth of the carbon-14 expected in living tissue. The approximate age of the bone is
+**Q1190.** Carbon-14 has a half-life of about 5730 years. A bone sample contains one-eighth of the carbon-14 expected in living tissue. The approximate age of the bone is
 <!-- id: bio34a3-frd-3 -->
 
 - A. 5730 years.
@@ -8187,7 +8439,7 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. 17 190 years.
 - D. 45 840 years.
 
-**Q1162.** Carbon-14 dating would NOT be suitable for determining the age of a 65-million-year-old dinosaur fossil because
+**Q1191.** Carbon-14 dating would NOT be suitable for determining the age of a 65-million-year-old dinosaur fossil because
 <!-- id: bio34a3-frd-4 -->
 
 - A. dinosaurs did not contain carbon.
@@ -8195,7 +8447,7 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. the half-life of carbon-14 is too short, so almost no carbon-14 would remain.
 - D. carbon-14 dating only works for plants.
 
-**Q1163.** Stromatolites at Shark Bay, Western Australia, are significant in the fossil record because
+**Q1192.** Stromatolites at Shark Bay, Western Australia, are significant in the fossil record because
 <!-- id: bio34a3-frd-5 -->
 
 - A. they are formed by cyanobacteria, and fossil stromatolites are among the oldest evidence of life (about 3.5 billion years).
@@ -8203,24 +8455,33 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. they show the transition from fish to amphibians.
 - D. they are index fossils for the Jurassic period.
 
-**Q1164.** Explain why the fossil record is incomplete. Give two reasons. (2 marks)
+**Q1193.** Explain why the fossil record is incomplete. Give two reasons. (2 marks)
 <!-- id: bio34a3-frd-6 -->
 
 *Written answer*
 
-**Q1165.** A fossil is found in a sedimentary layer between two volcanic ash layers. The ash layer above is dated at 3.2 million years and the ash layer below at 3.6 million years. Explain how these dates were obtained and what they tell us about the fossil. (3 marks)
+**Q1194.** A fossil is found in a sedimentary layer between two volcanic ash layers. The ash layer above is dated at 3.2 million years and the ash layer below at 3.6 million years. Explain how these dates were obtained and what they tell us about the fossil. (3 marks)
 <!-- id: bio34a3-frd-7 -->
 
 *Written answer*
 
-**Q1166.** Define an index fossil and explain how it can be used to compare the ages of rock layers at two distant sites. (2 marks)
+**Q1195.** Define an index fossil and explain how it can be used to compare the ages of rock layers at two distant sites. (2 marks)
 <!-- id: bio34a3-frd-8 -->
 
 *Written answer*
 
+**Q1196.** Carbon-14 has a half-life of 5730 years. A bone has 12.5% of the ¹⁴C expected in living tissue. Its approximate age is:
+<!-- id: vce-bio34-fd-c1 -->
+*Challenge question*
+
+- A. 5730 years
+- B. 17 190 years
+- C. 11 460 years
+- D. 45 840 years
+
 #### Evidence of relatedness and phylogenetic trees
 
-**Q1167.** The forelimbs of a human, a bat and a whale have the same arrangement of bones but different functions. These are
+**Q1197.** The forelimbs of a human, a bat and a whale have the same arrangement of bones but different functions. These are
 <!-- id: bio34a3-erp-1 -->
 
 - A. analogous structures, showing convergent evolution.
@@ -8228,7 +8489,7 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. homologous structures, showing divergent evolution from a common ancestor.
 - D. analogous structures, showing a common ancestor.
 
-**Q1168.** The wings of a bird and the wings of an insect are best described as
+**Q1198.** The wings of a bird and the wings of an insect are best described as
 <!-- id: bio34a3-erp-2 -->
 
 - A. homologous structures.
@@ -8236,7 +8497,7 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. vestigial structures.
 - D. transitional structures.
 
-**Q1169.** The table shows the number of amino acid differences in cytochrome c between humans and four other species: rhesus monkey 1, dog 11, kangaroo 10, yeast 44. Which conclusion is best supported?
+**Q1199.** The table shows the number of amino acid differences in cytochrome c between humans and four other species: rhesus monkey 1, dog 11, kangaroo 10, yeast 44. Which conclusion is best supported?
 <!-- id: bio34a3-erp-3 -->
 
 - A. Humans are most closely related to yeast.
@@ -8244,7 +8505,7 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. Humans share a more recent common ancestor with the rhesus monkey than with any of the other species listed.
 - D. Dogs and kangaroos are the same species.
 
-**Q1170.** On a phylogenetic tree, a node represents
+**Q1200.** On a phylogenetic tree, a node represents
 <!-- id: bio34a3-erp-4 -->
 
 - A. a species that is now extinct with no descendants.
@@ -8252,7 +8513,7 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. the present-day species being compared.
 - D. the number of mutations in a gene.
 
-**Q1171.** Why are comparisons of DNA sequences generally more reliable than comparisons of amino acid sequences for determining relatedness?
+**Q1201.** Why are comparisons of DNA sequences generally more reliable than comparisons of amino acid sequences for determining relatedness?
 <!-- id: bio34a3-erp-5 -->
 
 - A. DNA sequences can be compared only in living species.
@@ -8260,24 +8521,33 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. Proteins contain more information than genes.
 - D. DNA comparisons detect all changes, including silent mutations and non-coding regions that do not alter amino acids.
 
-**Q1172.** Explain what vestigial structures are and why they provide evidence for evolution. Use an example. (3 marks)
+**Q1202.** Explain what vestigial structures are and why they provide evidence for evolution. Use an example. (3 marks)
 <!-- id: bio34a3-erp-6 -->
 
 *Written answer*
 
-**Q1173.** A segment of a gene has the following number of base differences between four species: P–Q 2, P–R 8, P–S 9, Q–R 8, Q–S 9, R–S 4. Describe the phylogenetic tree these data support. (3 marks)
+**Q1203.** A segment of a gene has the following number of base differences between four species: P–Q 2, P–R 8, P–S 9, Q–R 8, Q–S 9, R–S 4. Describe the phylogenetic tree these data support. (3 marks)
 <!-- id: bio34a3-erp-7 -->
 
 *Written answer*
 
-**Q1174.** The molecular clock assumes that mutations accumulate at a constant rate. Explain how this can be used to estimate when two species diverged, and state one limitation. (3 marks)
+**Q1204.** The molecular clock assumes that mutations accumulate at a constant rate. Explain how this can be used to estimate when two species diverged, and state one limitation. (3 marks)
 <!-- id: bio34a3-erp-8 -->
 
 *Written answer*
 
+**Q1205.** Which pair of structures is evidence of divergent evolution from a common ancestor?
+<!-- id: vce-bio34-er-c1 -->
+*Challenge question*
+
+- A. A human arm and a whale flipper
+- B. A bird wing and an insect wing
+- C. A shark fin and a dolphin flipper
+- D. An octopus eye and a human eye
+
 #### Human evolution
 
-**Q1175.** Which feature of the skull most clearly indicates that a hominin walked upright (bipedal)?
+**Q1206.** Which feature of the skull most clearly indicates that a hominin walked upright (bipedal)?
 <!-- id: bio34a3-hev-1 -->
 
 - A. A large brow ridge
@@ -8285,7 +8555,7 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. A protruding jaw (prognathism)
 - D. Large canine teeth
 
-**Q1176.** Compared with the pelvis of a chimpanzee, the pelvis of a modern human is
+**Q1207.** Compared with the pelvis of a chimpanzee, the pelvis of a modern human is
 <!-- id: bio34a3-hev-2 -->
 
 - A. long and narrow, to support knuckle-walking.
@@ -8293,7 +8563,7 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. short, broad and bowl-shaped, supporting the internal organs and attachment of walking muscles.
 - D. fused with the femur.
 
-**Q1177.** Analysis of DNA shows that many living people outside Africa carry about 1–2% Neanderthal DNA, and some populations (e.g. in Papua New Guinea and among Aboriginal Australians) also carry Denisovan DNA. This indicates that
+**Q1208.** Analysis of DNA shows that many living people outside Africa carry about 1–2% Neanderthal DNA, and some populations (e.g. in Papua New Guinea and among Aboriginal Australians) also carry Denisovan DNA. This indicates that
 <!-- id: bio34a3-hev-3 -->
 
 - A. Homo sapiens evolved from Neanderthals in Europe.
@@ -8301,7 +8571,7 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. Neanderthals are the direct ancestors of Denisovans only.
 - D. Denisovans evolved in Australia.
 
-**Q1178.** Archaeological evidence from Madjedbebe rock shelter in Arnhem Land suggests that people have lived in Australia for at least about
+**Q1209.** Archaeological evidence from Madjedbebe rock shelter in Arnhem Land suggests that people have lived in Australia for at least about
 <!-- id: bio34a3-hev-4 -->
 
 - A. 5000 years.
@@ -8309,7 +8579,7 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. 65 000 years.
 - D. 2 million years.
 
-**Q1179.** The term 'hominin' refers to
+**Q1210.** The term 'hominin' refers to
 <!-- id: bio34a3-hev-5 -->
 
 - A. all primates, including lemurs and monkeys.
@@ -8317,24 +8587,118 @@ Later, after hiking for hours without drinking, the hiker's urine is small in vo
 - C. only the species Homo sapiens.
 - D. modern humans and extinct species more closely related to humans than to chimpanzees.
 
-**Q1180.** Describe two skeletal features, other than the skull, that indicate a fossil hominin was bipedal, and explain how each is an adaptation for walking upright. (4 marks)
+**Q1211.** Describe two skeletal features, other than the skull, that indicate a fossil hominin was bipedal, and explain how each is an adaptation for walking upright. (4 marks)
 <!-- id: bio34a3-hev-6 -->
 
 *Written answer*
 
-**Q1181.** Explain how mitochondrial DNA (mtDNA) evidence has been used to support the 'Out of Africa' model of human origins. (3 marks)
+**Q1212.** Explain how mitochondrial DNA (mtDNA) evidence has been used to support the 'Out of Africa' model of human origins. (3 marks)
 <!-- id: bio34a3-hev-7 -->
 
 *Written answer*
 
-**Q1182.** Explain why new fossil discoveries, such as Homo floresiensis on the island of Flores, can change scientists' understanding of human evolution. (2 marks)
+**Q1213.** Explain why new fossil discoveries, such as Homo floresiensis on the island of Flores, can change scientists' understanding of human evolution. (2 marks)
 <!-- id: bio34a3-hev-8 -->
+
+*Written answer*
+
+**Q1214.** A fossil skull has its foramen magnum positioned centrally underneath. This suggests that the species:
+<!-- id: vce-bio34-he-c1 -->
+*Challenge question*
+
+- A. Walked on all fours
+- B. Walked upright (habitually bipedal)
+- C. Had a large brain
+- D. Used stone tools
+
+### Challenge questions
+
+#### Challenge set
+
+**Q1215.** A single-base deletion occurs in a gene. Where would it most likely have the greatest effect on the protein?
+<!-- id: vce-bio34-challenge-1 -->
+*Challenge question*
+
+- A. Near the end of the coding sequence
+- B. In an intron
+- C. Near the start of the coding sequence
+- D. It has the same effect anywhere
+
+**Q1216.** Explain how STR profiling and gel electrophoresis can show whether a man could be a child's biological father.
+<!-- id: vce-bio34-challenge-2 -->
+*Challenge question*
+
+*Written answer*
+
+**Q1217.** An inhibitor binds to an allosteric site on an enzyme. Increasing the substrate concentration will:
+<!-- id: vce-bio34-challenge-3 -->
+*Challenge question*
+
+- A. Not restore the maximum rate, because the active site's shape has changed
+- B. Fully restore the maximum rate
+- C. Cause the inhibitor to break down
+- D. Lower the activation energy further
+
+**Q1218.** Light intensity is very low. Increasing the carbon dioxide concentration will most likely:
+<!-- id: vce-bio34-challenge-4 -->
+*Challenge question*
+
+- A. Greatly increase the rate of photosynthesis
+- B. Stop photosynthesis
+- C. Make little difference, because light is the limiting factor
+- D. Speed up the light-dependent stage
+
+**Q1219.** Mitochondria are isolated from cells and placed in a solution with glucose and oxygen. Almost no ATP is produced because:
+<!-- id: vce-bio34-challenge-5 -->
+*Challenge question*
+
+- A. Mitochondria need light to work
+- B. Oxygen inhibits the Krebs cycle
+- C. Glycolysis happens in the cytosol, so mitochondria cannot use glucose directly
+- D. Mitochondria can only use fatty acids
+
+**Q1220.** A patient receives monoclonal antibodies against a virus. This gives:
+<!-- id: vce-bio34-challenge-6 -->
+*Challenge question*
+
+- A. Artificial active immunity with memory cells
+- B. Artificial passive immunity, which is fast but short-lived with no memory cells
+- C. Natural passive immunity
+- D. Natural active immunity
+
+**Q1221.** An mRNA vaccine cannot change a person's DNA mainly because:
+<!-- id: vce-bio34-challenge-7 -->
+*Challenge question*
+
+- A. mRNA is too short to be read
+- B. The mRNA stays in the cytoplasm, where it is translated and then broken down, and there is no reverse transcription into DNA
+- C. The mRNA is made of DNA nucleotides
+- D. The vaccine is destroyed in the bloodstream before reaching any cell
+
+**Q1222.** Influenza develops resistance to antivirals much faster than mammals evolve new traits. The main reasons are:
+<!-- id: vce-bio34-challenge-8 -->
+*Challenge question*
+
+- A. Viruses choose to change their genes
+- B. Antivirals cause the mutations
+- C. Viruses reproduce sexually
+- D. A very short generation time, huge population sizes and a high mutation rate
+
+**Q1223.** Explain how one base substitution could have no effect, a small effect, or a large effect on a protein.
+<!-- id: vce-bio34-challenge-9 -->
+*Challenge question*
+
+*Written answer*
+
+**Q1224.** Design a controlled experiment to test how temperature affects the activity of the enzyme catalase. Identify the independent and dependent variables and two controlled variables.
+<!-- id: vce-bio34-challenge-10 -->
+*Challenge question*
 
 *Written answer*
 
 ### Exam-style questions (mixed topics)
 
-**Q1183.** Human insulin, from gene to bacteria
+**Q1225.** Human insulin, from gene to bacteria
 <!-- id: vce-bio34-x1 -->
 *Multi-part question · 11 marks · Original question in the style of the VCE Biology exam, Section B*
 
@@ -8354,7 +8718,7 @@ To make human insulin in bacteria, a DNA copy of the insulin gene is made from i
 
 **f.** After transformation, the bacteria are grown on agar containing ampicillin. Explain why only some bacteria form colonies, and why growing on ampicillin does not prove that a colony contains the insulin gene. *(2 marks)*
 
-**Q1184.** A new virus: immunity, vaccines and resistance
+**Q1226.** A new virus: immunity, vaccines and resistance
 <!-- id: vce-bio34-x2 -->
 *Multi-part question · 11 marks · Original question in the style of the VCE Biology exam, Section B*
 
@@ -8374,7 +8738,7 @@ An antiviral drug blocks one of the virus's enzymes. A few years after the drug 
 
 **e.** Explain how the resistant strain became common. *(3 marks)*
 
-**Q1185.** Photosynthesis, Rubisco and a gene-edited crop
+**Q1227.** Photosynthesis, Rubisco and a gene-edited crop
 <!-- id: vce-bio34-x3 -->
 *Multi-part question · 11 marks · Original question in the style of the VCE Biology exam, Section B*
 
@@ -8394,7 +8758,7 @@ Scientists use CRISPR-Cas9 to edit a gene in a crop plant so that it tolerates d
 
 **f.** Give one benefit and one concern of growing gene-edited drought-tolerant crops. *(2 marks)*
 
-**Q1186.** Birds on two islands
+**Q1228.** Birds on two islands
 <!-- id: vce-bio34-x4 -->
 *Multi-part question · 9 marks · Original question in the style of the VCE Biology exam, Section B*
 
@@ -8415,3 +8779,41 @@ The DNA sequence of one gene was compared in three bird species. The number of d
 **c.ii.** Explain why the number of DNA differences can be used to estimate how long ago two species diverged. *(1 mark)*
 
 **d.** A fossil bird is found in a rock layer between two layers of volcanic ash dated at 2.4 and 2.1 million years old. Estimate the fossil's age and name the dating methods used. *(2 marks)*
+
+**Q1229.** Challenge: insulin from bacteria
+<!-- id: vce-bio34-cx1 -->
+*Challenge question*
+*Multi-part question · 11 marks · Original challenge question in the style of the VCE Biology exam, Section B*
+
+Researchers want bacteria to produce human insulin. They extract mRNA for insulin from human pancreatic beta cells and make complementary DNA (cDNA) from it.
+
+**a.** Explain why cDNA made from mRNA is used rather than the insulin gene cut from a human chromosome. *(2 marks)*
+
+**b.** Name the enzymes used to insert the cDNA into a plasmid, and describe the role of each. *(2 marks)*
+
+**c.** Before cloning, the cDNA is amplified by PCR from 50 copies through 20 cycles. How many copies are produced, and what is the role of the primers? *(2 marks)*
+
+The plasmid has an ampicillin-resistance gene and a lacZ gene containing the insertion site. Bacteria are treated to take up plasmids, then grown on agar containing ampicillin and X-gal.
+
+**d.** Explain how the researchers can identify colonies of bacteria that contain the recombinant plasmid. *(3 marks)*
+
+**e.** In a beta cell, insulin passes through the rough endoplasmic reticulum and the Golgi apparatus. Describe the role of each, and explain why bacteria may need extra steps to make active insulin. *(2 marks)*
+
+**Q1230.** Challenge: responding to a new virus
+<!-- id: vce-bio34-cx2 -->
+*Challenge question*
+*Multi-part question · 12 marks · Original challenge question in the style of the VCE Biology exam, Section B*
+
+A new respiratory virus spreads through a town. Most people infected for the first time are ill for about a week; people infected a second time months later have few symptoms.
+
+**a.** Describe one physical and one chemical barrier in the respiratory tract that can stop the virus entering cells. *(2 marks)*
+
+**b.** Explain why cytotoxic T cells, rather than antibodies, are needed to clear virus from infected cells. *(2 marks)*
+
+**c.** Explain why a second infection months later causes few symptoms. *(2 marks)*
+
+**d.** After a year, variants appear that antibodies from earlier infections bind poorly. Explain how these variants become common. *(3 marks)*
+
+**e.** R₀ for the virus is 4. Using 1 − 1/R₀, find the herd immunity threshold. *(1 mark)*
+
+**f.** Monoclonal antibodies are given to high-risk patients. Give one advantage and one limitation compared with vaccination. *(2 marks)*

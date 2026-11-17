@@ -6531,9 +6531,18 @@ Visual perception begins when light enters the eye.
 
 *Written answer*
 
+**Q932.** Which of these is NOT an effect of sympathetic nervous system activation?
+<!-- id: vce-psych34-dns-c1 -->
+*Challenge question*
+
+- A. Increased heart rate
+- B. Increased digestion and saliva production
+- C. Dilated pupils
+- D. Release of glucose from the liver
+
 #### Conscious and unconscious responses
 
-**Q932.** Which of the following is an example of an unconscious response?
+**Q933.** Which of the following is an example of an unconscious response?
 <!-- id: psych34a1-con-1 -->
 
 - A. Deciding to answer a question in class
@@ -6541,7 +6550,7 @@ Visual perception begins when light enters the eye.
 - C. Blinking when dust blows into the eye
 - D. Planning a route to a friend's house
 
-**Q933.** A spinal reflex differs from a conscious response because in a spinal reflex
+**Q934.** A spinal reflex differs from a conscious response because in a spinal reflex
 <!-- id: psych34a1-con-2 -->
 
 - A. the response is controlled by the sympathetic nervous system only
@@ -6549,7 +6558,7 @@ Visual perception begins when light enters the eye.
 - C. the brain makes a deliberate decision before the muscle moves
 - D. only sensory neurons are involved
 
-**Q934.** The correct order of neural transmission in a spinal reflex is
+**Q935.** The correct order of neural transmission in a spinal reflex is
 <!-- id: psych34a1-con-3 -->
 
 - A. sensory neuron, interneuron in spinal cord, motor neuron, effector
@@ -6557,7 +6566,7 @@ Visual perception begins when light enters the eye.
 - C. sensory neuron, brain, motor neuron, effector
 - D. motor neuron, interneuron, sensory neuron, effector
 
-**Q935.** Which of the following is the best reason a spinal reflex is adaptive?
+**Q936.** Which of the following is the best reason a spinal reflex is adaptive?
 <!-- id: psych34a1-con-4 -->
 
 - A. It uses fewer neurotransmitters than conscious responses
@@ -6565,7 +6574,7 @@ Visual perception begins when light enters the eye.
 - C. It allows greater conscious control over movement
 - D. It produces a response faster than one routed through the brain, reducing potential harm
 
-**Q936.** Ayesha is reading a book when she hears a loud bang. She jerks her head up before she realises what the noise was. She then looks around, deliberately deciding to investigate. The deliberate decision to investigate is best described as
+**Q937.** Ayesha is reading a book when she hears a loud bang. She jerks her head up before she realises what the noise was. She then looks around, deliberately deciding to investigate. The deliberate decision to investigate is best described as
 <!-- id: psych34a1-con-5 -->
 
 - A. an unconscious response because it involved the spinal cord
@@ -6573,24 +6582,33 @@ Visual perception begins when light enters the eye.
 - C. a spinal reflex because it was fast
 - D. an autonomic response because it followed a startle
 
-**Q937.** Define a spinal reflex and explain why it can occur without conscious awareness. (3 marks)
+**Q938.** Define a spinal reflex and explain why it can occur without conscious awareness. (3 marks)
 <!-- id: psych34a1-con-6 -->
 
 *Written answer*
 
-**Q938.** Compare conscious and unconscious responses in terms of speed and the role of the brain, using one example of each. (4 marks)
+**Q939.** Compare conscious and unconscious responses in terms of speed and the role of the brain, using one example of each. (4 marks)
 <!-- id: psych34a1-con-7 -->
 
 *Written answer*
 
-**Q939.** A nurse taps just below Jamal's kneecap and his lower leg kicks out. Identify the type of response, describe the pathway of the neural message, and explain why Jamal cannot stop the kick by deciding not to. (4 marks)
+**Q940.** A nurse taps just below Jamal's kneecap and his lower leg kicks out. Identify the type of response, describe the pathway of the neural message, and explain why Jamal cannot stop the kick by deciding not to. (4 marks)
 <!-- id: psych34a1-con-8 -->
 
 *Written answer*
 
+**Q941.** Someone touches a hot pan and pulls their hand away before they feel pain. The best explanation is that:
+<!-- id: vce-psych34-cu-c1 -->
+*Challenge question*
+
+- A. The brain sends the withdrawal message faster than the pain message
+- B. Motor neurons detect the heat directly
+- C. The sensory neuron synapses with an interneuron in the spinal cord, which activates a motor neuron, while the message travels on to the brain
+- D. The autonomic nervous system controls the arm muscles
+
 #### Neurotransmitters and neuromodulators
 
-**Q940.** Which of the following best describes the role of an excitatory neurotransmitter?
+**Q942.** Which of the following best describes the role of an excitatory neurotransmitter?
 <!-- id: psych34a1-ntm-1 -->
 
 - A. It stops the presynaptic neuron from producing action potentials
@@ -6598,7 +6616,7 @@ Visual perception begins when light enters the eye.
 - C. It increases the likelihood that the postsynaptic neuron will fire
 - D. It destroys the postsynaptic receptor sites
 
-**Q941.** Which neurotransmitter is the main inhibitory neurotransmitter in the central nervous system?
+**Q943.** Which neurotransmitter is the main inhibitory neurotransmitter in the central nervous system?
 <!-- id: psych34a1-ntm-2 -->
 
 - A. GABA
@@ -6606,7 +6624,7 @@ Visual perception begins when light enters the eye.
 - C. Acetylcholine
 - D. Glutamate
 
-**Q942.** Neuromodulators differ from neurotransmitters because neuromodulators
+**Q944.** Neuromodulators differ from neurotransmitters because neuromodulators
 <!-- id: psych34a1-ntm-3 -->
 
 - A. are produced only by the gut
@@ -6614,7 +6632,7 @@ Visual perception begins when light enters the eye.
 - C. alter the effect of neurotransmitters on the postsynaptic neuron, often across many neurons
 - D. always directly cause the postsynaptic neuron to fire
 
-**Q943.** In the synapse, after a neurotransmitter is released from the presynaptic neuron it
+**Q945.** In the synapse, after a neurotransmitter is released from the presynaptic neuron it
 <!-- id: psych34a1-ntm-4 -->
 
 - A. crosses the synaptic gap and binds to receptor sites on the postsynaptic neuron
@@ -6622,7 +6640,7 @@ Visual perception begins when light enters the eye.
 - C. is converted to an electrical impulse in the synaptic gap
 - D. binds to receptors on the presynaptic vesicles
 
-**Q944.** A drug blocks GABA from binding to its receptors on postsynaptic neurons in a region of the brain. The most likely effect is
+**Q946.** A drug blocks GABA from binding to its receptors on postsynaptic neurons in a region of the brain. The most likely effect is
 <!-- id: psych34a1-ntm-5 -->
 
 - A. increased inhibition of those neurons
@@ -6630,24 +6648,33 @@ Visual perception begins when light enters the eye.
 - C. increased likelihood that the neurons will fire
 - D. no change in neural activity
 
-**Q945.** Describe the difference between an excitatory neurotransmitter and an inhibitory neurotransmitter, naming one example of each. (3 marks)
+**Q947.** Describe the difference between an excitatory neurotransmitter and an inhibitory neurotransmitter, naming one example of each. (3 marks)
 <!-- id: psych34a1-ntm-6 -->
 
 *Written answer*
 
-**Q946.** Outline the process of neurotransmission at a chemical synapse. (4 marks)
+**Q948.** Outline the process of neurotransmission at a chemical synapse. (4 marks)
 <!-- id: psych34a1-ntm-7 -->
 
 *Written answer*
 
-**Q947.** Dopamine is described as a neuromodulator. Explain how a neuromodulator differs in its effect from a neurotransmitter such as glutamate. (3 marks)
+**Q949.** Dopamine is described as a neuromodulator. Explain how a neuromodulator differs in its effect from a neurotransmitter such as glutamate. (3 marks)
 <!-- id: psych34a1-ntm-8 -->
 
 *Written answer*
 
+**Q950.** A drug blocks GABA receptors on post-synaptic neurons. The most likely effect is:
+<!-- id: vce-psych34-nt-c1 -->
+*Challenge question*
+
+- A. Deep relaxation and sleepiness
+- B. Less glutamate release
+- C. Improved memory consolidation
+- D. More neural excitation, such as anxiety or even seizures
+
 #### Synaptic plasticity and long-term potentiation
 
-**Q948.** Synaptic plasticity refers to
+**Q951.** Synaptic plasticity refers to
 <!-- id: psych34a1-ltp-1 -->
 
 - A. the permanent loss of neurons through ageing
@@ -6655,7 +6682,7 @@ Visual perception begins when light enters the eye.
 - C. the speed at which an action potential travels along an axon
 - D. the production of new neurons in the gut
 
-**Q949.** Long-term potentiation (LTP) is best described as
+**Q952.** Long-term potentiation (LTP) is best described as
 <!-- id: psych34a1-ltp-2 -->
 
 - A. the death of unused neurons
@@ -6663,7 +6690,7 @@ Visual perception begins when light enters the eye.
 - C. a long-lasting weakening of synaptic connections
 - D. a long-lasting strengthening of synaptic connections following repeated stimulation
 
-**Q950.** Which neurotransmitter plays a key role in LTP?
+**Q953.** Which neurotransmitter plays a key role in LTP?
 <!-- id: psych34a1-ltp-3 -->
 
 - A. GABA
@@ -6671,7 +6698,7 @@ Visual perception begins when light enters the eye.
 - C. Cortisol
 - D. Adrenaline
 
-**Q951.** Long-term depression (LTD) results in
+**Q954.** Long-term depression (LTD) results in
 <!-- id: psych34a1-ltp-4 -->
 
 - A. an increase in the number of action potentials produced by the postsynaptic neuron
@@ -6679,7 +6706,7 @@ Visual perception begins when light enters the eye.
 - C. a weaker synaptic connection due to infrequent or low-level stimulation
 - D. the formation of new neurotransmitters
 
-**Q952.** A student practises vocabulary using spaced repetition, and over several weeks recalls the words more easily. Which neural change is the most likely contributor?
+**Q955.** A student practises vocabulary using spaced repetition, and over several weeks recalls the words more easily. Which neural change is the most likely contributor?
 <!-- id: psych34a1-ltp-5 -->
 
 - A. Long-term potentiation of the relevant synapses
@@ -6687,24 +6714,33 @@ Visual perception begins when light enters the eye.
 - C. Increased GABA activity at the relevant synapses
 - D. Long-term depression of the relevant synapses
 
-**Q953.** Define long-term potentiation and state its relevance to learning. (3 marks)
+**Q956.** Define long-term potentiation and state its relevance to learning. (3 marks)
 <!-- id: psych34a1-ltp-6 -->
 
 *Written answer*
 
-**Q954.** Explain how the neurotransmitter glutamate contributes to long-term potentiation. (3 marks)
+**Q957.** Explain how the neurotransmitter glutamate contributes to long-term potentiation. (3 marks)
 <!-- id: psych34a1-ltp-7 -->
 
 *Written answer*
 
-**Q955.** Contrast long-term potentiation and long-term depression, and explain why both are important for the functioning of neural circuits. (4 marks)
+**Q958.** Contrast long-term potentiation and long-term depression, and explain why both are important for the functioning of neural circuits. (4 marks)
 <!-- id: psych34a1-ltp-8 -->
 
 *Written answer*
 
+**Q959.** A student practises violin every day for a year, then stops for several months. Which best describes the changes at the synapses involved?
+<!-- id: vce-psych34-sp-c1 -->
+*Challenge question*
+
+- A. Long-term depression while practising, then long-term potentiation after stopping
+- B. Only pruning, because adults do not form new connections
+- C. No change, because the skill is stored in muscle memory
+- D. Long-term potentiation while practising, then long-term depression after stopping
+
 #### Stress responses and the GAS
 
-**Q956.** Stress is best defined as
+**Q960.** Stress is best defined as
 <!-- id: psych34a1-gas-1 -->
 
 - A. a type of mental disorder
@@ -6712,7 +6748,7 @@ Visual perception begins when light enters the eye.
 - C. an event that always leads to illness
 - D. a state of threat or challenge that causes a physiological and psychological response
 
-**Q957.** Eustress differs from distress in that eustress
+**Q961.** Eustress differs from distress in that eustress
 <!-- id: psych34a1-gas-2 -->
 
 - A. has no physiological effects
@@ -6720,7 +6756,7 @@ Visual perception begins when light enters the eye.
 - C. is a positive form of stress that can motivate and enhance performance
 - D. occurs only in the exhaustion stage of the GAS
 
-**Q958.** In the fight-flight-freeze response, which hormone released by the adrenal medulla increases heart rate and blood flow to muscles?
+**Q962.** In the fight-flight-freeze response, which hormone released by the adrenal medulla increases heart rate and blood flow to muscles?
 <!-- id: psych34a1-gas-3 -->
 
 - A. Adrenaline
@@ -6728,7 +6764,7 @@ Visual perception begins when light enters the eye.
 - C. Melatonin
 - D. Cortisol
 
-**Q959.** According to Selye's general adaptation syndrome (GAS), in which stage does the body's resistance to the stressor fall below normal and the person becomes susceptible to illness?
+**Q963.** According to Selye's general adaptation syndrome (GAS), in which stage does the body's resistance to the stressor fall below normal and the person becomes susceptible to illness?
 <!-- id: psych34a1-gas-4 -->
 
 - A. Resistance
@@ -6736,7 +6772,7 @@ Visual perception begins when light enters the eye.
 - C. Alarm reaction: shock phase
 - D. Alarm reaction: counter-shock phase
 
-**Q960.** During the resistance stage of the GAS, the body typically
+**Q964.** During the resistance stage of the GAS, the body typically
 <!-- id: psych34a1-gas-5 -->
 
 - A. shows a sharp drop in blood pressure and body temperature
@@ -6744,24 +6780,33 @@ Visual perception begins when light enters the eye.
 - C. returns fully to homeostasis because the stressor has been removed
 - D. activates the freeze response only
 
-**Q961.** Describe the alarm reaction stage of the general adaptation syndrome, including its two phases. (3 marks)
+**Q965.** Describe the alarm reaction stage of the general adaptation syndrome, including its two phases. (3 marks)
 <!-- id: psych34a1-gas-6 -->
 
 *Written answer*
 
-**Q962.** Explain how the role of cortisol differs from the role of adrenaline in the stress response. (3 marks)
+**Q966.** Explain how the role of cortisol differs from the role of adrenaline in the stress response. (3 marks)
 <!-- id: psych34a1-gas-7 -->
 
 *Written answer*
 
-**Q963.** Dana has spent eight months caring for a sick relative, working full time and sleeping poorly. She has recently developed frequent colds and feels constantly drained. Use the GAS to explain her symptoms. (4 marks)
+**Q967.** Dana has spent eight months caring for a sick relative, working full time and sleeping poorly. She has recently developed frequent colds and feels constantly drained. Use the GAS to explain her symptoms. (4 marks)
 <!-- id: psych34a1-gas-8 -->
 
 *Written answer*
 
+**Q968.** In Selye's General Adaptation Syndrome, why is a person in the resistance stage more likely to catch a cold?
+<!-- id: vce-psych34-gas-c1 -->
+*Challenge question*
+
+- A. Resistance falls below normal throughout this stage
+- B. High cortisol levels over a long period suppress the immune system
+- C. The sympathetic nervous system is switched off
+- D. Adrenaline levels are at their lowest
+
 #### Transactional model of stress and coping
 
-**Q964.** The transactional model of stress and coping was developed by
+**Q969.** The transactional model of stress and coping was developed by
 <!-- id: psych34a1-tmc-1 -->
 
 - A. Skinner
@@ -6769,7 +6814,7 @@ Visual perception begins when light enters the eye.
 - C. Lazarus and Folkman
 - D. Bandura
 
-**Q965.** According to the transactional model, stress is best seen as
+**Q970.** According to the transactional model, stress is best seen as
 <!-- id: psych34a1-tmc-2 -->
 
 - A. a transaction between the individual and the environment, depending on appraisal
@@ -6777,7 +6822,7 @@ Visual perception begins when light enters the eye.
 - C. an unavoidable outcome of any demand
 - D. an objective property of an event that affects everyone equally
 
-**Q966.** In primary appraisal, a person decides whether an event is
+**Q971.** In primary appraisal, a person decides whether an event is
 <!-- id: psych34a1-tmc-3 -->
 
 - A. a physiological or psychological demand
@@ -6785,7 +6830,7 @@ Visual perception begins when light enters the eye.
 - C. irrelevant, benign-positive or stressful
 - D. approach or avoidance coping
 
-**Q967.** Secondary appraisal involves
+**Q972.** Secondary appraisal involves
 <!-- id: psych34a1-tmc-4 -->
 
 - A. deciding whether an event is relevant to wellbeing
@@ -6793,7 +6838,7 @@ Visual perception begins when light enters the eye.
 - C. the body's physiological reaction in the alarm stage
 - D. stopping to think about the event after it has passed
 
-**Q968.** Two students receive identical news that their exam will be moved forward by a week. Mia views it as a challenge she can prepare for; Leo views it as a threat he cannot handle. According to the transactional model, the difference is best explained by their
+**Q973.** Two students receive identical news that their exam will be moved forward by a week. Mia views it as a challenge she can prepare for; Leo views it as a threat he cannot handle. According to the transactional model, the difference is best explained by their
 <!-- id: psych34a1-tmc-5 -->
 
 - A. different primary and secondary appraisals
@@ -6801,24 +6846,33 @@ Visual perception begins when light enters the eye.
 - C. levels of cortisol before the news
 - D. differences in the event itself
 
-**Q969.** Distinguish between primary appraisal and secondary appraisal in the transactional model of stress and coping. (3 marks)
+**Q974.** Distinguish between primary appraisal and secondary appraisal in the transactional model of stress and coping. (3 marks)
 <!-- id: psych34a1-tmc-6 -->
 
 *Written answer*
 
-**Q970.** Hannah has just been told she must give a presentation to her whole year level next week. She feels nervous, but thinks she has presented well before and has time to practise. Using the transactional model, describe her primary and secondary appraisal. (4 marks)
+**Q975.** Hannah has just been told she must give a presentation to her whole year level next week. She feels nervous, but thinks she has presented well before and has time to practise. Using the transactional model, describe her primary and secondary appraisal. (4 marks)
 <!-- id: psych34a1-tmc-7 -->
 
 *Written answer*
 
-**Q971.** Explain one strength and one limitation of the transactional model of stress and coping. (3 marks)
+**Q976.** Explain one strength and one limitation of the transactional model of stress and coping. (3 marks)
 <!-- id: psych34a1-tmc-8 -->
 
 *Written answer*
 
+**Q977.** Mia sees a new job as a chance to grow, although she knows it will be demanding. She then decides her friends and her mentor can help her manage it. Her two appraisals are:
+<!-- id: vce-psych34-tm-c1 -->
+*Challenge question*
+
+- A. Primary appraisal: benign-positive; secondary appraisal: threat
+- B. Primary appraisal: irrelevant; secondary appraisal: challenge
+- C. Primary appraisal: harm/loss; secondary appraisal: benign-positive
+- D. Primary appraisal: stressful (challenge); secondary appraisal: evaluating her coping resources
+
 #### Gut-brain axis
 
-**Q972.** The gut-brain axis refers to
+**Q978.** The gut-brain axis refers to
 <!-- id: psych34a1-gba-1 -->
 
 - A. the bidirectional communication between the gastrointestinal tract and the central nervous system
@@ -6826,7 +6880,7 @@ Visual perception begins when light enters the eye.
 - C. the transfer of food from the stomach to the brain
 - D. a neural pathway connecting the brain and the gut only through the spinal cord
 
-**Q973.** The enteric nervous system is
+**Q979.** The enteric nervous system is
 <!-- id: psych34a1-gba-2 -->
 
 - A. found only in the spinal cord
@@ -6834,7 +6888,7 @@ Visual perception begins when light enters the eye.
 - C. the part of the brain that regulates hunger only
 - D. a division of the somatic nervous system
 
-**Q974.** The vagus nerve contributes to the gut-brain axis by
+**Q980.** The vagus nerve contributes to the gut-brain axis by
 <!-- id: psych34a1-gba-3 -->
 
 - A. carrying signals between the gut and the brain in both directions
@@ -6842,7 +6896,7 @@ Visual perception begins when light enters the eye.
 - C. controlling skeletal muscle movement
 - D. producing the gut microbiota
 
-**Q975.** Which statement about gut microbiota and mental health is best supported by the gut-brain axis?
+**Q981.** Which statement about gut microbiota and mental health is best supported by the gut-brain axis?
 <!-- id: psych34a1-gba-4 -->
 
 - A. Gut microbiota are only affected by diet and have no effect on the brain
@@ -6850,7 +6904,7 @@ Visual perception begins when light enters the eye.
 - C. Gut microbiota are unrelated to the nervous system
 - D. Gut microbiota can influence the production of neurotransmitters such as serotonin, which may affect mood and stress responses
 
-**Q976.** A researcher finds that stressed participants experience more digestive discomfort than non-stressed participants. This finding is most consistent with
+**Q982.** A researcher finds that stressed participants experience more digestive discomfort than non-stressed participants. This finding is most consistent with
 <!-- id: psych34a1-gba-5 -->
 
 - A. signals from the brain affecting gut function via the gut-brain axis
@@ -6858,24 +6912,33 @@ Visual perception begins when light enters the eye.
 - C. the enteric nervous system being unrelated to stress
 - D. the parasympathetic nervous system being fully activated
 
-**Q977.** Explain what is meant by the statement that communication in the gut-brain axis is 'bidirectional'. (2 marks)
+**Q983.** Explain what is meant by the statement that communication in the gut-brain axis is 'bidirectional'. (2 marks)
 <!-- id: psych34a1-gba-6 -->
 
 *Written answer*
 
-**Q978.** Describe the role of gut microbiota in the gut-brain axis. (3 marks)
+**Q984.** Describe the role of gut microbiota in the gut-brain axis. (3 marks)
 <!-- id: psych34a1-gba-7 -->
 
 *Written answer*
 
-**Q979.** A study gives one group of volunteers a probiotic and another group a placebo for four weeks. The probiotic group reports lower stress and anxiety scores. Use the gut-brain axis to explain this result and identify one limitation in concluding causation. (4 marks)
+**Q985.** A study gives one group of volunteers a probiotic and another group a placebo for four weeks. The probiotic group reports lower stress and anxiety scores. Use the gut-brain axis to explain this result and identify one limitation in concluding causation. (4 marks)
 <!-- id: psych34a1-gba-8 -->
 
 *Written answer*
 
+**Q986.** Chronic stress changes a person's gut microbiota, and the changed microbiota then worsens their mood. This best illustrates that the gut–brain axis is:
+<!-- id: vce-psych34-gb-c1 -->
+*Challenge question*
+
+- A. One-directional, from the gut to the brain only
+- B. Bidirectional: the brain affects the gut and the gut affects the brain
+- C. Controlled only by the somatic nervous system
+- D. Unrelated to the vagus nerve
+
 #### Coping strategies and flexibility
 
-**Q980.** Approach coping strategies are
+**Q987.** Approach coping strategies are
 <!-- id: psych34a1-cop-1 -->
 
 - A. unconscious responses such as reflexes
@@ -6883,7 +6946,7 @@ Visual perception begins when light enters the eye.
 - C. strategies that aim to confront and deal directly with the stressor
 - D. strategies that always reduce stress in every context
 
-**Q981.** Which of the following is an example of an avoidance coping strategy?
+**Q988.** Which of the following is an example of an avoidance coping strategy?
 <!-- id: psych34a1-cop-2 -->
 
 - A. Talking to a teacher about difficulties with a subject
@@ -6891,7 +6954,7 @@ Visual perception begins when light enters the eye.
 - C. Breaking a large assignment into smaller tasks
 - D. Making a study timetable for an upcoming exam
 
-**Q982.** Coping flexibility is best defined as
+**Q989.** Coping flexibility is best defined as
 <!-- id: psych34a1-cop-3 -->
 
 - A. the ability to avoid stress completely
@@ -6899,7 +6962,7 @@ Visual perception begins when light enters the eye.
 - C. the ability to adapt coping strategies to suit the demands of different stressful situations
 - D. avoiding all stressful situations
 
-**Q983.** A strategy is considered 'context-specific' in its effectiveness when
+**Q990.** A strategy is considered 'context-specific' in its effectiveness when
 <!-- id: psych34a1-cop-4 -->
 
 - A. it works equally well in all situations
@@ -6907,7 +6970,7 @@ Visual perception begins when light enters the eye.
 - C. it is always an avoidance strategy
 - D. it is only effective for people with high stress levels
 
-**Q984.** Callum is anxious about a looming deadline and tries distraction by watching movies, but his anxiety increases as the deadline nears. He then makes a plan, breaks the task into steps and starts working. This change in approach is best described as
+**Q991.** Callum is anxious about a looming deadline and tries distraction by watching movies, but his anxiety increases as the deadline nears. He then makes a plan, breaks the task into steps and starts working. This change in approach is best described as
 <!-- id: psych34a1-cop-5 -->
 
 - A. primary appraisal
@@ -6915,26 +6978,35 @@ Visual perception begins when light enters the eye.
 - C. coping inflexibility
 - D. coping flexibility
 
-**Q985.** Distinguish between approach and avoidance coping strategies, giving one example of each. (3 marks)
+**Q992.** Distinguish between approach and avoidance coping strategies, giving one example of each. (3 marks)
 <!-- id: psych34a1-cop-6 -->
 
 *Written answer*
 
-**Q986.** Explain why the effectiveness of a coping strategy is described as context-specific. Use an example. (3 marks)
+**Q993.** Explain why the effectiveness of a coping strategy is described as context-specific. Use an example. (3 marks)
 <!-- id: psych34a1-cop-7 -->
 
 *Written answer*
 
-**Q987.** Describe coping flexibility and explain why it may be beneficial for a person's wellbeing. (3 marks)
+**Q994.** Describe coping flexibility and explain why it may be beneficial for a person's wellbeing. (3 marks)
 <!-- id: psych34a1-cop-8 -->
 
 *Written answer*
+
+**Q995.** Which example best shows coping flexibility?
+<!-- id: vce-psych34-cf-c1 -->
+*Challenge question*
+
+- A. A student who always uses exercise to cope with any stressor
+- B. A student who avoids thinking about an exam until the night before
+- C. A student who uses the same strategy because it worked last year
+- D. A student who keeps re-reading notes realises it is not working and switches to practice exams and asking a teacher
 
 ### Unit 3 AOS 2: Learning
 
 #### Classical conditioning
 
-**Q988.** Classical conditioning was first systematically investigated by
+**Q996.** Classical conditioning was first systematically investigated by
 <!-- id: psych34a1-cc-1 -->
 
 - A. Bandura
@@ -6942,7 +7014,7 @@ Visual perception begins when light enters the eye.
 - C. Lazarus
 - D. Skinner
 
-**Q989.** In classical conditioning, the unconditioned response (UCR) is
+**Q997.** In classical conditioning, the unconditioned response (UCR) is
 <!-- id: psych34a1-cc-2 -->
 
 - A. the consequence that follows a behaviour
@@ -6950,7 +7022,7 @@ Visual perception begins when light enters the eye.
 - C. an automatic response to the unconditioned stimulus that does not need to be learned
 - D. the neutral stimulus before conditioning
 
-**Q990.** Marcus eats a particular brand of chips and later gets food poisoning from a different meal. Now, the smell of the chips makes him feel nauseous. In this scenario the conditioned stimulus is
+**Q998.** Marcus eats a particular brand of chips and later gets food poisoning from a different meal. Now, the smell of the chips makes him feel nauseous. In this scenario the conditioned stimulus is
 <!-- id: psych34a1-cc-3 -->
 
 - A. the nausea felt after food poisoning
@@ -6958,7 +7030,7 @@ Visual perception begins when light enters the eye.
 - C. the other meal
 - D. the food poisoning
 
-**Q991.** Extinction in classical conditioning occurs when
+**Q999.** Extinction in classical conditioning occurs when
 <!-- id: psych34a1-cc-4 -->
 
 - A. the CS is presented before the UCS
@@ -6966,7 +7038,7 @@ Visual perception begins when light enters the eye.
 - C. the CS is repeatedly presented without the UCS, so the CR gradually weakens and disappears
 - D. the CR suddenly reappears after a rest period
 
-**Q992.** A child who was frightened by a large brown dog now becomes fearful when they see any large dog. This is an example of
+**Q1000.** A child who was frightened by a large brown dog now becomes fearful when they see any large dog. This is an example of
 <!-- id: psych34a1-cc-5 -->
 
 - A. stimulus discrimination
@@ -6974,24 +7046,33 @@ Visual perception begins when light enters the eye.
 - C. spontaneous recovery
 - D. stimulus generalisation
 
-**Q993.** Identify the NS, UCS, UCR, CS and CR in the following scenario: A student always hears the school bell just before being given a free lunch tray, which makes her salivate. After many weeks, the bell alone makes her salivate. (5 marks)
+**Q1001.** Identify the NS, UCS, UCR, CS and CR in the following scenario: A student always hears the school bell just before being given a free lunch tray, which makes her salivate. After many weeks, the bell alone makes her salivate. (5 marks)
 <!-- id: psych34a1-cc-6 -->
 
 *Written answer*
 
-**Q994.** Describe the process of acquisition in classical conditioning, including the role of timing between the stimuli. (3 marks)
+**Q1002.** Describe the process of acquisition in classical conditioning, including the role of timing between the stimuli. (3 marks)
 <!-- id: psych34a1-cc-7 -->
 
 *Written answer*
 
-**Q995.** A dog has been conditioned to salivate to a tone. After extinction, the tone is presented again following a rest period and the dog salivates slightly. Name this phenomenon and explain what it suggests about extinction. (3 marks)
+**Q1003.** A dog has been conditioned to salivate to a tone. After extinction, the tone is presented again following a rest period and the dog salivates slightly. Name this phenomenon and explain what it suggests about extinction. (3 marks)
 <!-- id: psych34a1-cc-8 -->
 
 *Written answer*
 
+**Q1004.** Leo eats sushi that contains bacteria and is violently ill. Afterwards the smell of sushi makes him nauseous. In this example the unconditioned stimulus (UCS) is:
+<!-- id: vce-psych34-cc-c1 -->
+*Challenge question*
+
+- A. The smell of sushi
+- B. Nausea
+- C. The restaurant
+- D. The bacteria that made him ill
+
 #### Operant conditioning
 
-**Q996.** Operant conditioning is best described as learning in which
+**Q1005.** Operant conditioning is best described as learning in which
 <!-- id: psych34a1-oc-1 -->
 
 - A. an association is formed between two stimuli
@@ -6999,7 +7080,7 @@ Visual perception begins when light enters the eye.
 - C. behaviour is acquired by observing others
 - D. reflexes are changed by repeated stimulus
 
-**Q997.** In the three-phase model of operant conditioning, the three phases are
+**Q1006.** In the three-phase model of operant conditioning, the three phases are
 <!-- id: psych34a1-oc-2 -->
 
 - A. attention, retention, reproduction
@@ -7007,7 +7088,7 @@ Visual perception begins when light enters the eye.
 - C. antecedent, behaviour, consequence
 - D. acquisition, extinction, spontaneous recovery
 
-**Q998.** A parent stops nagging a teenager once they have finished their homework. The teenager is now more likely to complete their homework in the future. This is an example of
+**Q1007.** A parent stops nagging a teenager once they have finished their homework. The teenager is now more likely to complete their homework in the future. This is an example of
 <!-- id: psych34a1-oc-3 -->
 
 - A. negative reinforcement
@@ -7015,7 +7096,7 @@ Visual perception begins when light enters the eye.
 - C. negative punishment
 - D. positive reinforcement
 
-**Q999.** A child's pocket money is taken away after they hit their sibling. The aim is to decrease hitting. This is best classified as
+**Q1008.** A child's pocket money is taken away after they hit their sibling. The aim is to decrease hitting. This is best classified as
 <!-- id: psych34a1-oc-4 -->
 
 - A. positive punishment
@@ -7023,7 +7104,7 @@ Visual perception begins when light enters the eye.
 - C. positive reinforcement
 - D. negative reinforcement
 
-**Q1000.** A coach praises a swimmer every time she achieves a personal best. Which of the following is the antecedent in the three-phase model?
+**Q1009.** A coach praises a swimmer every time she achieves a personal best. Which of the following is the antecedent in the three-phase model?
 <!-- id: psych34a1-oc-5 -->
 
 - A. The praise
@@ -7031,24 +7112,33 @@ Visual perception begins when light enters the eye.
 - C. The swimming race or training session in which the swimmer attempts a personal best
 - D. The swimmer's increased motivation
 
-**Q1001.** Using the three-phase model of operant conditioning, analyse the following: A toddler is given a sticker each time she puts her toys away after play time. Identify the antecedent, behaviour and consequence and state the effect on behaviour. (4 marks)
+**Q1010.** Using the three-phase model of operant conditioning, analyse the following: A toddler is given a sticker each time she puts her toys away after play time. Identify the antecedent, behaviour and consequence and state the effect on behaviour. (4 marks)
 <!-- id: psych34a1-oc-6 -->
 
 *Written answer*
 
-**Q1002.** Distinguish between positive reinforcement and negative reinforcement, giving an example of each. (4 marks)
+**Q1011.** Distinguish between positive reinforcement and negative reinforcement, giving an example of each. (4 marks)
 <!-- id: psych34a1-oc-7 -->
 
 *Written answer*
 
-**Q1003.** A teacher gives detention (positive punishment) to a student who keeps arriving late, but the lateness continues. Suggest two reasons why the punishment may not be effective and one alternative using operant conditioning. (3 marks)
+**Q1012.** A teacher gives detention (positive punishment) to a student who keeps arriving late, but the lateness continues. Suggest two reasons why the punishment may not be effective and one alternative using operant conditioning. (3 marks)
 <!-- id: psych34a1-oc-8 -->
 
 *Written answer*
 
+**Q1013.** A car beeps until the driver fastens their seatbelt, and the driver now buckles up straight away. The behaviour has been strengthened by:
+<!-- id: vce-psych34-oc-c1 -->
+*Challenge question*
+
+- A. Positive punishment
+- B. Negative reinforcement
+- C. Negative punishment
+- D. Positive reinforcement
+
 #### Observational learning
 
-**Q1004.** Observational learning was extensively studied by
+**Q1014.** Observational learning was extensively studied by
 <!-- id: psych34a1-obs-1 -->
 
 - A. Bandura
@@ -7056,7 +7146,7 @@ Visual perception begins when light enters the eye.
 - C. Pavlov
 - D. Skinner
 
-**Q1005.** According to Bandura, which of the following is the correct order of the stages of observational learning?
+**Q1015.** According to Bandura, which of the following is the correct order of the stages of observational learning?
 <!-- id: psych34a1-obs-2 -->
 
 - A. Attention, retention, reproduction, motivation, reinforcement
@@ -7064,7 +7154,7 @@ Visual perception begins when light enters the eye.
 - C. Retention, attention, motivation, reproduction, reinforcement
 - D. Reproduction, retention, attention, reinforcement, motivation
 
-**Q1006.** In observational learning, a model is
+**Q1016.** In observational learning, a model is
 <!-- id: psych34a1-obs-3 -->
 
 - A. the reinforcement that follows the behaviour
@@ -7072,7 +7162,7 @@ Visual perception begins when light enters the eye.
 - C. the person who is observed and whose behaviour is imitated
 - D. the observer who copies behaviour
 
-**Q1007.** A child sees an older cousin being praised for sharing toys. Later, the child shares their own toys. The child's behaviour is best explained by
+**Q1017.** A child sees an older cousin being praised for sharing toys. Later, the child shares their own toys. The child's behaviour is best explained by
 <!-- id: psych34a1-obs-4 -->
 
 - A. direct punishment
@@ -7080,7 +7170,7 @@ Visual perception begins when light enters the eye.
 - C. spontaneous recovery
 - D. vicarious reinforcement
 
-**Q1008.** Which of the following demonstrates the 'retention' stage of observational learning?
+**Q1018.** Which of the following demonstrates the 'retention' stage of observational learning?
 <!-- id: psych34a1-obs-5 -->
 
 - A. A trainee watches a chef closely as she chops vegetables
@@ -7088,24 +7178,33 @@ Visual perception begins when light enters the eye.
 - C. A trainee attempts to chop vegetables in the same way as the chef
 - D. A trainee is praised by the chef for improving
 
-**Q1009.** Outline the five stages of observational learning as proposed by Bandura. (5 marks)
+**Q1019.** Outline the five stages of observational learning as proposed by Bandura. (5 marks)
 <!-- id: psych34a1-obs-6 -->
 
 *Written answer*
 
-**Q1010.** Describe how Bandura's Bobo doll experiment demonstrated observational learning. (3 marks)
+**Q1020.** Describe how Bandura's Bobo doll experiment demonstrated observational learning. (3 marks)
 <!-- id: psych34a1-obs-7 -->
 
 *Written answer*
 
-**Q1011.** Lena watches an online tutorial in which a baker is applauded for decorating a cake with a new piping technique. Lena wants to copy the technique, but her first attempt is messy. Explain how the stages of attention and reproduction apply, and why reproduction may have failed. (4 marks)
+**Q1021.** Lena watches an online tutorial in which a baker is applauded for decorating a cake with a new piping technique. Lena wants to copy the technique, but her first attempt is messy. Explain how the stages of attention and reproduction apply, and why reproduction may have failed. (4 marks)
 <!-- id: psych34a1-obs-8 -->
 
 *Written answer*
 
+**Q1022.** A child watches a cooking show closely, remembers every step and wants to cook, but cannot reach the bench or use the knife safely. Which stage of observational learning is not met?
+<!-- id: vce-psych34-ol-c1 -->
+*Challenge question*
+
+- A. Reproduction
+- B. Attention
+- C. Retention
+- D. Motivation
+
 #### Aboriginal and Torres Strait Islander approaches to learning
 
-**Q1012.** Which statement best describes the role of Country in Aboriginal and Torres Strait Islander approaches to learning and memory?
+**Q1023.** Which statement best describes the role of Country in Aboriginal and Torres Strait Islander approaches to learning and memory?
 <!-- id: psych34a2-atsi-1 -->
 
 - A. Learning occurs only inside formal classrooms and is later applied to Country
@@ -7113,7 +7212,7 @@ Visual perception begins when light enters the eye.
 - C. Country is a backdrop that has little influence on what is learnt
 - D. Knowledge is closely tied to place, so features of the land act as cues that hold and help recall cultural knowledge
 
-**Q1013.** An Elder guides a group of young people along a route, telling a story and singing at each landmark. Later the young people can recount the route and the associated knowledge. This is best described as a use of
+**Q1024.** An Elder guides a group of young people along a route, telling a story and singing at each landmark. Later the young people can recount the route and the associated knowledge. This is best described as a use of
 <!-- id: psych34a2-atsi-2 -->
 
 - A. songlines
@@ -7121,7 +7220,7 @@ Visual perception begins when light enters the eye.
 - C. rote rehearsal of unrelated lists
 - D. a Western standardised test
 
-**Q1014.** Which of the following is a common feature of Aboriginal and Torres Strait Islander approaches to learning?
+**Q1025.** Which of the following is a common feature of Aboriginal and Torres Strait Islander approaches to learning?
 <!-- id: psych34a2-atsi-3 -->
 
 - A. Learning is individual and competitive, with a focus on personal achievement
@@ -7129,7 +7228,7 @@ Visual perception begins when light enters the eye.
 - C. Learning is community-based, often through observation, practice and storytelling with kin and Elders
 - D. Learning is limited to young children
 
-**Q1015.** Why are stories, art, dance and song particularly effective for passing on cultural knowledge across generations?
+**Q1026.** Why are stories, art, dance and song particularly effective for passing on cultural knowledge across generations?
 <!-- id: psych34a2-atsi-4 -->
 
 - A. They link information to meaningful, emotional, multisensory experiences that are shared and repeated, which supports memory
@@ -7137,7 +7236,7 @@ Visual perception begins when light enters the eye.
 - C. They make knowledge more private to each individual
 - D. They remove the need for any social interaction
 
-**Q1016.** Kinship systems in many Aboriginal and Torres Strait Islander communities are relevant to learning because they
+**Q1027.** Kinship systems in many Aboriginal and Torres Strait Islander communities are relevant to learning because they
 <!-- id: psych34a2-atsi-5 -->
 
 - A. are separate from cultural knowledge
@@ -7145,26 +7244,35 @@ Visual perception begins when light enters the eye.
 - C. define relationships and responsibilities, including who teaches particular knowledge and to whom
 - D. replace the need for oral traditions
 
-**Q1017.** Describe one way in which connection to Country supports learning and memory in Aboriginal and Torres Strait Islander cultures. (2 marks)
+**Q1028.** Describe one way in which connection to Country supports learning and memory in Aboriginal and Torres Strait Islander cultures. (2 marks)
 <!-- id: psych34a2-atsi-6 -->
 
 *Written answer*
 
-**Q1018.** A teacher in a Victorian school wants to include learning approaches used by local Aboriginal communities in a unit on the history of the local area. Suggest two strategies consistent with Aboriginal and Torres Strait Islander approaches to learning and explain how each could aid students' learning. (4 marks)
+**Q1029.** A teacher in a Victorian school wants to include learning approaches used by local Aboriginal communities in a unit on the history of the local area. Suggest two strategies consistent with Aboriginal and Torres Strait Islander approaches to learning and explain how each could aid students' learning. (4 marks)
 <!-- id: psych34a2-atsi-7 -->
 
 *Written answer*
 
-**Q1019.** Explain, with reference to memory, why oral traditions and songlines have been able to preserve detailed knowledge over thousands of years. (3 marks)
+**Q1030.** Explain, with reference to memory, why oral traditions and songlines have been able to preserve detailed knowledge over thousands of years. (3 marks)
 <!-- id: psych34a2-atsi-8 -->
 
 *Written answer*
+
+**Q1031.** Which statement best describes the role of Country in many Aboriginal and Torres Strait Islander approaches to learning?
+<!-- id: vce-psych34-at-c1 -->
+*Challenge question*
+
+- A. Country is the location where formal written tests are held
+- B. Learning happens mainly by silently reading texts indoors
+- C. Country is only relevant to geography lessons
+- D. Country acts as a teacher: knowledge is learned through relationships with land, kin and community, often through story, place and doing
 
 ### Unit 3 AOS 3: Memory
 
 #### Atkinson-Shiffrin multi-store model
 
-**Q1020.** In the Atkinson-Shiffrin multi-store model of memory, which of the following is the correct order in which information flows when it is successfully retained for a long time?
+**Q1032.** In the Atkinson-Shiffrin multi-store model of memory, which of the following is the correct order in which information flows when it is successfully retained for a long time?
 <!-- id: psych34a2-asm-1 -->
 
 - A. Sensory memory, long-term memory, short-term memory
@@ -7172,7 +7280,7 @@ Visual perception begins when light enters the eye.
 - C. Short-term memory, sensory memory, long-term memory
 - D. Sensory memory, short-term memory, long-term memory
 
-**Q1021.** Which of the following best describes the capacity and duration of short-term memory according to the Atkinson-Shiffrin model?
+**Q1033.** Which of the following best describes the capacity and duration of short-term memory according to the Atkinson-Shiffrin model?
 <!-- id: psych34a2-asm-2 -->
 
 - A. Unlimited capacity and potentially permanent duration
@@ -7180,7 +7288,7 @@ Visual perception begins when light enters the eye.
 - C. About 7 ± 2 items and several minutes without rehearsal
 - D. A few hundred items and about 3 to 4 seconds
 
-**Q1022.** Brian looks at a street scene as he walks past. He can recall almost nothing about it a minute later, because he did not pay attention to most of it. This is best explained by
+**Q1034.** Brian looks at a street scene as he walks past. He can recall almost nothing about it a minute later, because he did not pay attention to most of it. This is best explained by
 <!-- id: psych34a2-asm-3 -->
 
 - A. a lack of retrieval cues in long-term memory
@@ -7188,7 +7296,7 @@ Visual perception begins when light enters the eye.
 - C. information being displaced from long-term memory
 - D. information in sensory memory decaying because it was not attended to
 
-**Q1023.** A researcher presents participants with a list of 20 words and then tests recall. People commonly recall the first few and last few words best. The better recall of the first words is typically explained by the Atkinson-Shiffrin model as
+**Q1035.** A researcher presents participants with a list of 20 words and then tests recall. People commonly recall the first few and last few words best. The better recall of the first words is typically explained by the Atkinson-Shiffrin model as
 <!-- id: psych34a2-asm-4 -->
 
 - A. more rehearsal, so these words are more likely to be transferred to long-term memory
@@ -7196,7 +7304,7 @@ Visual perception begins when light enters the eye.
 - C. the last words displacing the first words from long-term memory
 - D. the words still being held in sensory memory
 
-**Q1024.** Which of the following is a limitation of the Atkinson-Shiffrin multi-store model?
+**Q1036.** Which of the following is a limitation of the Atkinson-Shiffrin multi-store model?
 <!-- id: psych34a2-asm-5 -->
 
 - A. It suggests that memory has more than one store
@@ -7204,24 +7312,33 @@ Visual perception begins when light enters the eye.
 - C. It treats short-term memory as a single store and does not explain how different types of long-term memory work or the role of processing beyond rehearsal
 - D. It proposes that information can be rehearsed
 
-**Q1025.** Distinguish between iconic memory and echoic memory, including the typical duration of each. (3 marks)
+**Q1037.** Distinguish between iconic memory and echoic memory, including the typical duration of each. (3 marks)
 <!-- id: psych34a2-asm-6 -->
 
 *Written answer*
 
-**Q1026.** Maya is trying to remember a phone number she has just been told. Using the Atkinson-Shiffrin multi-store model, explain how she could ensure the number is stored for a long period of time, and what will most likely happen if she is interrupted straight after hearing it. (4 marks)
+**Q1038.** Maya is trying to remember a phone number she has just been told. Using the Atkinson-Shiffrin multi-store model, explain how she could ensure the number is stored for a long period of time, and what will most likely happen if she is interrupted straight after hearing it. (4 marks)
 <!-- id: psych34a2-asm-7 -->
 
 *Written answer*
 
-**Q1027.** Describe how the serial position effect provides evidence for separate short-term and long-term memory stores. (3 marks)
+**Q1039.** Describe how the serial position effect provides evidence for separate short-term and long-term memory stores. (3 marks)
 <!-- id: psych34a2-asm-8 -->
 
 *Written answer*
 
+**Q1040.** You were not listening, but a second after a friend asks a question you can 'replay' it and answer. Which memory store made this possible?
+<!-- id: vce-psych34-as-c1 -->
+*Challenge question*
+
+- A. Iconic sensory memory, which holds images for about 0.2–0.4 seconds
+- B. Long-term memory, because it has unlimited capacity
+- C. Echoic sensory memory, which holds sounds for about 3–4 seconds
+- D. Short-term memory, because it lasts 18–30 seconds without attention
+
 #### Explicit and implicit memory
 
-**Q1028.** Which of the following is an example of implicit memory?
+**Q1041.** Which of the following is an example of implicit memory?
 <!-- id: psych34a2-eim-1 -->
 
 - A. Recalling the date of your last birthday party
@@ -7229,7 +7346,7 @@ Visual perception begins when light enters the eye.
 - C. Riding a bike without consciously thinking about each movement
 - D. Describing the plot of a film you saw last week
 
-**Q1029.** Semantic memory is best described as
+**Q1042.** Semantic memory is best described as
 <!-- id: psych34a2-eim-2 -->
 
 - A. memory of personal experiences tied to a particular time and place
@@ -7237,7 +7354,7 @@ Visual perception begins when light enters the eye.
 - C. memory of skills and habits
 - D. memory of conditioned emotional responses
 
-**Q1030.** A participant is shown a series of words and later asked to complete word fragments such as 'ch_ir'. They are more likely to complete fragments with previously seen words, but do not remember seeing the list. This is evidence of
+**Q1043.** A participant is shown a series of words and later asked to complete word fragments such as 'ch_ir'. They are more likely to complete fragments with previously seen words, but do not remember seeing the list. This is evidence of
 <!-- id: psych34a2-eim-3 -->
 
 - A. implicit memory, because past experience influenced performance without conscious recollection
@@ -7245,7 +7362,7 @@ Visual perception begins when light enters the eye.
 - C. the serial position effect
 - D. explicit memory, because they recalled the words
 
-**Q1031.** Which of the following correctly matches a type of memory with an example?
+**Q1044.** Which of the following correctly matches a type of memory with an example?
 <!-- id: psych34a2-eim-4 -->
 
 - A. Classically conditioned response: feeling anxious when you hear a dentist's drill
@@ -7253,7 +7370,7 @@ Visual perception begins when light enters the eye.
 - C. Episodic memory: knowing how to tie shoelaces
 - D. Procedural memory: remembering your graduation day
 
-**Q1032.** Which statement correctly distinguishes explicit memory from implicit memory?
+**Q1045.** Which statement correctly distinguishes explicit memory from implicit memory?
 <!-- id: psych34a2-eim-5 -->
 
 - A. Explicit memory is unconscious and implicit memory is conscious
@@ -7261,24 +7378,33 @@ Visual perception begins when light enters the eye.
 - C. Explicit memory is stored only in the cerebellum
 - D. Implicit memory includes only episodic memory
 
-**Q1033.** Name the two types of explicit memory and give one example of each. (4 marks)
+**Q1046.** Name the two types of explicit memory and give one example of each. (4 marks)
 <!-- id: psych34a2-eim-6 -->
 
 *Written answer*
 
-**Q1034.** Jamal learnt to play the piano as a child and has not played for 20 years. He sits at a piano and finds his fingers move through a familiar piece, but he cannot recall where or when he learnt it. Identify the types of memory shown in this scenario, and justify each choice. (4 marks)
+**Q1047.** Jamal learnt to play the piano as a child and has not played for 20 years. He sits at a piano and finds his fingers move through a familiar piece, but he cannot recall where or when he learnt it. Identify the types of memory shown in this scenario, and justify each choice. (4 marks)
 <!-- id: psych34a2-eim-7 -->
 
 *Written answer*
 
-**Q1035.** Explain why a person who has lost the ability to form new explicit memories may still be able to learn a new motor skill. (3 marks)
+**Q1048.** Explain why a person who has lost the ability to form new explicit memories may still be able to learn a new motor skill. (3 marks)
 <!-- id: psych34a2-eim-8 -->
 
 *Written answer*
 
+**Q1049.** Sara feels anxious every time she sits in a dentist's waiting room, though she cannot recall any bad experience there. This anxiety is an example of:
+<!-- id: vce-psych34-ei-c1 -->
+*Challenge question*
+
+- A. Episodic memory
+- B. Semantic memory
+- C. Explicit memory, because she is aware of the feeling
+- D. Implicit memory (classically conditioned)
+
 #### Brain regions in memory
 
-**Q1036.** Which brain region is primarily involved in the consolidation of new explicit memories?
+**Q1050.** Which brain region is primarily involved in the consolidation of new explicit memories?
 <!-- id: psych34a2-brm-1 -->
 
 - A. Brainstem
@@ -7286,7 +7412,7 @@ Visual perception begins when light enters the eye.
 - C. Hippocampus
 - D. Amygdala
 
-**Q1037.** The amygdala's role in memory is best described as
+**Q1051.** The amygdala's role in memory is best described as
 <!-- id: psych34a2-brm-2 -->
 
 - A. forming procedural memories for movement
@@ -7294,7 +7420,7 @@ Visual perception begins when light enters the eye.
 - C. short-term storage of visual information
 - D. storing semantic memories permanently
 
-**Q1038.** After surgery to remove both hippocampi, a patient can still learn to trace shapes in a mirror, with improved performance over days, but cannot remember doing the task. Which conclusion is best supported?
+**Q1052.** After surgery to remove both hippocampi, a patient can still learn to trace shapes in a mirror, with improved performance over days, but cannot remember doing the task. Which conclusion is best supported?
 <!-- id: psych34a2-brm-3 -->
 
 - A. Implicit memory is lost when the hippocampus is removed
@@ -7302,7 +7428,7 @@ Visual perception begins when light enters the eye.
 - C. Explicit memory formation depends on the hippocampus, while procedural learning does not
 - D. The amygdala is responsible for mirror tracing
 
-**Q1039.** Which of the following correctly matches a brain region with its role in memory?
+**Q1053.** Which of the following correctly matches a brain region with its role in memory?
 <!-- id: psych34a2-brm-4 -->
 
 - A. Neocortex: long-term storage of explicit memories
@@ -7310,7 +7436,7 @@ Visual perception begins when light enters the eye.
 - C. Hippocampus: storage of classically conditioned responses
 - D. Amygdala: formation of procedural memories
 
-**Q1040.** A person is attacked by a dog and later feels intense fear and an elevated heart rate whenever they hear barking, even though they cannot recall details of the attack. Which brain region is most likely involved in this emotional response?
+**Q1054.** A person is attacked by a dog and later feels intense fear and an elevated heart rate whenever they hear barking, even though they cannot recall details of the attack. Which brain region is most likely involved in this emotional response?
 <!-- id: psych34a2-brm-5 -->
 
 - A. Prefrontal cortex only
@@ -7318,24 +7444,33 @@ Visual perception begins when light enters the eye.
 - C. Hippocampus
 - D. Amygdala
 
-**Q1041.** Describe the roles of the hippocampus and the cerebellum in memory. (3 marks)
+**Q1055.** Describe the roles of the hippocampus and the cerebellum in memory. (3 marks)
 <!-- id: psych34a2-brm-6 -->
 
 *Written answer*
 
-**Q1042.** A man known as patient K has damage to his hippocampus following an accident. He can remember events from his childhood but cannot recall conversations from earlier the same day. He can learn a new sport with practice. Using your knowledge of brain regions in memory, explain these observations. (4 marks)
+**Q1056.** A man known as patient K has damage to his hippocampus following an accident. He can remember events from his childhood but cannot recall conversations from earlier the same day. He can learn a new sport with practice. Using your knowledge of brain regions in memory, explain these observations. (4 marks)
 <!-- id: psych34a2-brm-7 -->
 
 *Written answer*
 
-**Q1043.** Explain how the amygdala and the hippocampus work together when a person forms a memory of a frightening event. (3 marks)
+**Q1057.** Explain how the amygdala and the hippocampus work together when a person forms a memory of a frightening event. (3 marks)
 <!-- id: psych34a2-brm-8 -->
 
 *Written answer*
 
+**Q1058.** After surgery removing much of his hippocampi, a patient improved at a mirror-drawing task over several days but never remembered practising it. This suggests that:
+<!-- id: vce-psych34-br-c1 -->
+*Challenge question*
+
+- A. The hippocampus is needed to consolidate explicit memories, while procedural skills rely on other regions such as the cerebellum and basal ganglia
+- B. The hippocampus stores all long-term memories
+- C. The cerebellum consolidates episodic memories
+- D. Procedural memories are stored in the amygdala
+
 #### Autobiographical memory and aphantasia
 
-**Q1044.** Autobiographical memory is best described as
+**Q1059.** Autobiographical memory is best described as
 <!-- id: psych34a2-ama-1 -->
 
 - A. memory for facts learnt in school
@@ -7343,7 +7478,7 @@ Visual perception begins when light enters the eye.
 - C. memory for skills and habits
 - D. memory that is only formed in childhood
 
-**Q1045.** Aphantasia is best described as
+**Q1060.** Aphantasia is best described as
 <!-- id: psych34a2-ama-2 -->
 
 - A. an inability to recognise faces
@@ -7351,7 +7486,7 @@ Visual perception begins when light enters the eye.
 - C. a complete loss of long-term memory
 - D. a form of amnesia caused by damage to the amygdala
 
-**Q1046.** Compared with people who experience typical mental imagery, people with aphantasia are most likely to report that their autobiographical memories
+**Q1061.** Compared with people who experience typical mental imagery, people with aphantasia are most likely to report that their autobiographical memories
 <!-- id: psych34a2-ama-3 -->
 
 - A. contain more visual details
@@ -7359,7 +7494,7 @@ Visual perception begins when light enters the eye.
 - C. are not available at all
 - D. contain fewer sensory and visual details, although they may still recall facts about the events
 
-**Q1047.** A researcher asks a person to 'picture your breakfast table this morning' and then describe it. The person says they know what was there (cereal, a glass of juice) but 'see nothing at all in my mind'. This is most consistent with
+**Q1062.** A researcher asks a person to 'picture your breakfast table this morning' and then describe it. The person says they know what was there (cereal, a glass of juice) but 'see nothing at all in my mind'. This is most consistent with
 <!-- id: psych34a2-ama-4 -->
 
 - A. aphantasia
@@ -7367,7 +7502,7 @@ Visual perception begins when light enters the eye.
 - C. prosopagnosia
 - D. amnesia
 
-**Q1048.** Which of the following is an appropriate conclusion about aphantasia and memory from this type of evidence?
+**Q1063.** Which of the following is an appropriate conclusion about aphantasia and memory from this type of evidence?
 <!-- id: psych34a2-ama-5 -->
 
 - A. People with aphantasia have better semantic than procedural memory
@@ -7375,24 +7510,33 @@ Visual perception begins when light enters the eye.
 - C. Visual imagery may enrich the vividness of recalled episodes but is not required to remember what happened
 - D. Aphantasia is caused by damage to the cerebellum
 
-**Q1049.** Outline what is meant by autobiographical memory and name the two types of explicit memory it draws on. (3 marks)
+**Q1064.** Outline what is meant by autobiographical memory and name the two types of explicit memory it draws on. (3 marks)
 <!-- id: psych34a2-ama-6 -->
 
 *Written answer*
 
-**Q1050.** A study compares two groups on a task that asks participants to describe a past event, such as their last holiday, in as much detail as possible. Group A reports vivid mental imagery. Group B reports aphantasia. Group B gives fewer sensory details, but the number of factual details is similar across groups. Explain what these results suggest about the role of imagery in autobiographical memory. (3 marks)
+**Q1065.** A study compares two groups on a task that asks participants to describe a past event, such as their last holiday, in as much detail as possible. Group A reports vivid mental imagery. Group B reports aphantasia. Group B gives fewer sensory details, but the number of factual details is similar across groups. Explain what these results suggest about the role of imagery in autobiographical memory. (3 marks)
 <!-- id: psych34a2-ama-7 -->
 
 *Written answer*
 
-**Q1051.** Identify one limitation of using self-report to investigate aphantasia, and suggest how a researcher could address it. (3 marks)
+**Q1066.** Identify one limitation of using self-report to investigate aphantasia, and suggest how a researcher could address it. (3 marks)
 <!-- id: psych34a2-ama-8 -->
 
 *Written answer*
 
+**Q1067.** People with aphantasia often report less vivid autobiographical memories. The best explanation is that:
+<!-- id: vce-psych34-am-c1 -->
+*Challenge question*
+
+- A. They have no long-term memory
+- B. They cannot voluntarily form mental images, and visual imagery helps people re-experience past events and imagine future ones
+- C. Their hippocampus has been removed
+- D. They cannot remember facts about themselves
+
 #### Alzheimer's disease
 
-**Q1052.** Alzheimer's disease is best described as
+**Q1068.** Alzheimer's disease is best described as
 <!-- id: psych34a2-alz-1 -->
 
 - A. a disorder caused by a single traumatic head injury
@@ -7400,7 +7544,7 @@ Visual perception begins when light enters the eye.
 - C. a temporary memory loss caused by sleep deprivation
 - D. a progressive neurodegenerative disease resulting in loss of neurons and increasing memory and cognitive impairment
 
-**Q1053.** Which of the following brain changes is characteristic of Alzheimer's disease?
+**Q1069.** Which of the following brain changes is characteristic of Alzheimer's disease?
 <!-- id: psych34a2-alz-2 -->
 
 - A. An increase in the number of neurons in the hippocampus
@@ -7408,7 +7552,7 @@ Visual perception begins when light enters the eye.
 - C. Complete destruction of the cerebellum
 - D. Enlargement of the amygdala
 
-**Q1054.** Which of the following is most likely to be one of the earliest symptoms of Alzheimer's disease?
+**Q1070.** Which of the following is most likely to be one of the earliest symptoms of Alzheimer's disease?
 <!-- id: psych34a2-alz-3 -->
 
 - A. Inability to recognise close family members
@@ -7416,7 +7560,7 @@ Visual perception begins when light enters the eye.
 - C. Loss of the ability to walk
 - D. Difficulty forming new episodic memories, such as forgetting recent conversations
 
-**Q1055.** Why might a person with advanced Alzheimer's disease still be able to play a piece on the piano they learnt many years ago?
+**Q1071.** Why might a person with advanced Alzheimer's disease still be able to play a piece on the piano they learnt many years ago?
 <!-- id: psych34a2-alz-4 -->
 
 - A. Procedural memory depends on regions such as the cerebellum that are affected later than the hippocampus and neocortex
@@ -7424,7 +7568,7 @@ Visual perception begins when light enters the eye.
 - C. Alzheimer's disease does not affect long-term memories
 - D. The hippocampus is spared until the final stage
 
-**Q1056.** As Alzheimer's disease progresses, the loss of neurons in the neocortex is most likely to result in
+**Q1072.** As Alzheimer's disease progresses, the loss of neurons in the neocortex is most likely to result in
 <!-- id: psych34a2-alz-5 -->
 
 - A. no changes to behaviour or personality
@@ -7432,24 +7576,33 @@ Visual perception begins when light enters the eye.
 - C. decline in language, reasoning and stored explicit memories
 - D. improved attention
 
-**Q1057.** Describe two physical changes in the brain associated with Alzheimer's disease. (2 marks)
+**Q1073.** Describe two physical changes in the brain associated with Alzheimer's disease. (2 marks)
 <!-- id: psych34a2-alz-6 -->
 
 *Written answer*
 
-**Q1058.** Margaret, aged 72, has been diagnosed with Alzheimer's disease. Her family notes that she often repeats questions and forgets recent events but can still make a cup of tea and recall her wedding day in detail. Using knowledge of memory, explain these observations. (4 marks)
+**Q1074.** Margaret, aged 72, has been diagnosed with Alzheimer's disease. Her family notes that she often repeats questions and forgets recent events but can still make a cup of tea and recall her wedding day in detail. Using knowledge of memory, explain these observations. (4 marks)
 <!-- id: psych34a2-alz-7 -->
 
 *Written answer*
 
-**Q1059.** Explain how the progression of Alzheimer's disease can have implications for a person's daily functioning and for their family. (3 marks)
+**Q1075.** Explain how the progression of Alzheimer's disease can have implications for a person's daily functioning and for their family. (3 marks)
 <!-- id: psych34a2-alz-8 -->
 
 *Written answer*
 
+**Q1076.** Which pairing about Alzheimer's disease is correct?
+<!-- id: vce-psych34-ad-c1 -->
+*Challenge question*
+
+- A. Amyloid plaques form inside neurons; tau tangles form between neurons
+- B. Both form only in the cerebellum
+- C. Amyloid plaques form between neurons; neurofibrillary tangles of tau form inside neurons
+- D. Tangles are made of GABA; plaques are made of glutamate
+
 #### Mnemonics
 
-**Q1060.** A student remembers the order of the planets by using the sentence 'My Very Educated Mother Just Served Us Noodles'. This mnemonic is an example of
+**Q1077.** A student remembers the order of the planets by using the sentence 'My Very Educated Mother Just Served Us Noodles'. This mnemonic is an example of
 <!-- id: psych34a2-mne-1 -->
 
 - A. an acrostic
@@ -7457,7 +7610,7 @@ Visual perception begins when light enters the eye.
 - C. chunking
 - D. an acronym
 
-**Q1061.** Which of the following is an example of the method of loci?
+**Q1078.** Which of the following is an example of the method of loci?
 <!-- id: psych34a2-mne-2 -->
 
 - A. Repeating a list of words over and over
@@ -7465,7 +7618,7 @@ Visual perception begins when light enters the eye.
 - C. Imagining placing each item on a shopping list at a distinct location along a familiar route through your house
 - D. Using the word HOMES to remember the Great Lakes
 
-**Q1062.** A person remembers the 10-digit number 0412345678 as 0412 345 678. This strategy is best described as
+**Q1079.** A person remembers the 10-digit number 0412345678 as 0412 345 678. This strategy is best described as
 <!-- id: psych34a2-mne-3 -->
 
 - A. the method of loci
@@ -7473,7 +7626,7 @@ Visual perception begins when light enters the eye.
 - C. a classically conditioned response
 - D. chunking
 
-**Q1063.** Why are mnemonics effective in improving memory?
+**Q1080.** Why are mnemonics effective in improving memory?
 <!-- id: psych34a2-mne-4 -->
 
 - A. They increase the duration of sensory memory
@@ -7481,7 +7634,7 @@ Visual perception begins when light enters the eye.
 - C. They erase irrelevant information from long-term memory
 - D. They organise information and link it to existing knowledge or cues, which improves encoding and retrieval
 
-**Q1064.** A student is asked to remember the following rainbow colours in order: red, orange, yellow, green, blue, indigo, violet. She uses ROY G. BIV. This is an example of
+**Q1081.** A student is asked to remember the following rainbow colours in order: red, orange, yellow, green, blue, indigo, violet. She uses ROY G. BIV. This is an example of
 <!-- id: psych34a2-mne-5 -->
 
 - A. an acrostic
@@ -7489,26 +7642,35 @@ Visual perception begins when light enters the eye.
 - C. the method of loci
 - D. the serial position effect
 
-**Q1065.** Define a mnemonic and give one example of a mnemonic device. (2 marks)
+**Q1082.** Define a mnemonic and give one example of a mnemonic device. (2 marks)
 <!-- id: psych34a2-mne-6 -->
 
 *Written answer*
 
-**Q1066.** Sam needs to memorise a list of 12 items for a presentation. Describe how Sam could use the method of loci to do this and explain why it may help recall. (4 marks)
+**Q1083.** Sam needs to memorise a list of 12 items for a presentation. Describe how Sam could use the method of loci to do this and explain why it may help recall. (4 marks)
 <!-- id: psych34a2-mne-7 -->
 
 *Written answer*
 
-**Q1067.** Explain how chunking can overcome the limited capacity of short-term memory. (3 marks)
+**Q1084.** Explain how chunking can overcome the limited capacity of short-term memory. (3 marks)
 <!-- id: psych34a2-mne-8 -->
 
 *Written answer*
+
+**Q1085.** Why are Songlines an effective mnemonic for storing large amounts of knowledge in oral cultures?
+<!-- id: vce-psych34-mn-c1 -->
+*Challenge question*
+
+- A. They use the first letters of words as written cues
+- B. They link information to places on Country through story, song and movement, giving many retrieval cues, and they are rehearsed across generations
+- C. They only work for numbers
+- D. They rely on writing information down in sequence
 
 ### Unit 4 AOS 1: Sleep
 
 #### Consciousness and measuring sleep
 
-**Q1068.** Consciousness is best defined as
+**Q1086.** Consciousness is best defined as
 <!-- id: psych34a2-cms-1 -->
 
 - A. the ability to control all bodily processes
@@ -7516,7 +7678,7 @@ Visual perception begins when light enters the eye.
 - C. the same as being awake
 - D. a state that can only be measured by observation
 
-**Q1069.** Which of the following correctly identifies a measure used to record brain activity during sleep?
+**Q1087.** Which of the following correctly identifies a measure used to record brain activity during sleep?
 <!-- id: psych34a2-cms-2 -->
 
 - A. Electrooculograph (EOG)
@@ -7524,7 +7686,7 @@ Visual perception begins when light enters the eye.
 - C. Electromyograph (EMG)
 - D. Electroencephalograph (EEG)
 
-**Q1070.** In a sleep laboratory, an electrooculograph (EOG) is used to measure
+**Q1088.** In a sleep laboratory, an electrooculograph (EOG) is used to measure
 <!-- id: psych34a2-cms-3 -->
 
 - A. muscle tension in the chin
@@ -7532,7 +7694,7 @@ Visual perception begins when light enters the eye.
 - C. brain waves
 - D. heart rate only
 
-**Q1071.** Which of the following is an example of a subjective measure of a person's state of consciousness?
+**Q1089.** Which of the following is an example of a subjective measure of a person's state of consciousness?
 <!-- id: psych34a2-cms-4 -->
 
 - A. Muscle tone measured using an EMG
@@ -7540,7 +7702,7 @@ Visual perception begins when light enters the eye.
 - C. Brain wave patterns on an EEG
 - D. A participant's description of their dreams or sleepiness after waking
 
-**Q1072.** Researchers use video monitoring of participants while they sleep. What is an advantage of this method?
+**Q1090.** Researchers use video monitoring of participants while they sleep. What is an advantage of this method?
 <!-- id: psych34a2-cms-5 -->
 
 - A. It allows observation of behaviours such as body movements and sleep talking without the need for the participant's report
@@ -7548,24 +7710,33 @@ Visual perception begins when light enters the eye.
 - C. It replaces the need for an EEG in sleep studies
 - D. It records brain wave frequency directly
 
-**Q1073.** Describe what is meant by normal waking consciousness (NWC) and an altered state of consciousness (ASC), and give one example of an ASC. (3 marks)
+**Q1091.** Describe what is meant by normal waking consciousness (NWC) and an altered state of consciousness (ASC), and give one example of an ASC. (3 marks)
 <!-- id: psych34a2-cms-6 -->
 
 *Written answer*
 
-**Q1074.** A sleep researcher monitors a participant overnight using an EEG, an EOG and an EMG. Describe what each of these three measures records and how each could be used to identify REM sleep. (4 marks)
+**Q1092.** A sleep researcher monitors a participant overnight using an EEG, an EOG and an EMG. Describe what each of these three measures records and how each could be used to identify REM sleep. (4 marks)
 <!-- id: psych34a2-cms-7 -->
 
 *Written answer*
 
-**Q1075.** Explain one advantage and one limitation of using self-reports to study sleep and dreams. (3 marks)
+**Q1093.** Explain one advantage and one limitation of using self-reports to study sleep and dreams. (3 marks)
 <!-- id: psych34a2-cms-8 -->
 
 *Written answer*
 
+**Q1094.** During REM sleep, the expected EEG, EOG and EMG recordings are:
+<!-- id: vce-psych34-ms-c1 -->
+*Challenge question*
+
+- A. EEG: delta waves; EOG: little activity; EMG: high muscle tone
+- B. EEG: alpha waves; EOG: no activity; EMG: high
+- C. EEG: sleep spindles; EOG: high; EMG: high
+- D. EEG: fast, low-amplitude (beta-like) waves; EOG: high activity; EMG: very low muscle tone
+
 #### NREM and REM sleep
 
-**Q1076.** Which of the following correctly describes REM sleep?
+**Q1095.** Which of the following correctly describes REM sleep?
 <!-- id: psych34a2-nrs-1 -->
 
 - A. Slow delta waves and deep muscle relaxation, with no dreaming
@@ -7573,7 +7744,7 @@ Visual perception begins when light enters the eye.
 - C. Sleep spindles and K-complexes
 - D. Alpha waves and drowsiness
 
-**Q1077.** Which feature is most characteristic of NREM stage 3 (slow-wave) sleep?
+**Q1096.** Which feature is most characteristic of NREM stage 3 (slow-wave) sleep?
 <!-- id: psych34a2-nrs-2 -->
 
 - A. Beta waves
@@ -7581,7 +7752,7 @@ Visual perception begins when light enters the eye.
 - C. Large amplitude, low frequency delta waves
 - D. Rapid eye movements
 
-**Q1078.** A participant's EEG shows theta waves interrupted by short bursts of high-frequency activity (sleep spindles) and large sharp waves (K-complexes). The participant is most likely in
+**Q1097.** A participant's EEG shows theta waves interrupted by short bursts of high-frequency activity (sleep spindles) and large sharp waves (K-complexes). The participant is most likely in
 <!-- id: psych34a2-nrs-3 -->
 
 - A. NREM stage 1
@@ -7589,7 +7760,7 @@ Visual perception begins when light enters the eye.
 - C. NREM stage 3
 - D. REM sleep
 
-**Q1079.** During a typical night's sleep in a healthy young adult, what happens to the proportion of time spent in REM sleep across successive sleep cycles?
+**Q1098.** During a typical night's sleep in a healthy young adult, what happens to the proportion of time spent in REM sleep across successive sleep cycles?
 <!-- id: psych34a2-nrs-4 -->
 
 - A. REM occurs only in the first cycle
@@ -7597,7 +7768,7 @@ Visual perception begins when light enters the eye.
 - C. It stays exactly the same
 - D. It increases, with REM periods becoming longer toward morning
 
-**Q1080.** A person who is woken during REM sleep is most likely to
+**Q1099.** A person who is woken during REM sleep is most likely to
 <!-- id: psych34a2-nrs-5 -->
 
 - A. have no recall of any mental activity
@@ -7605,24 +7776,33 @@ Visual perception begins when light enters the eye.
 - C. show delta waves on EEG
 - D. report that they have been dreaming vividly
 
-**Q1081.** Outline the typical physiological characteristics of NREM stage 1 sleep. (2 marks)
+**Q1100.** Outline the typical physiological characteristics of NREM stage 1 sleep. (2 marks)
 <!-- id: psych34a2-nrs-6 -->
 
 *Written answer*
 
-**Q1082.** Compare REM sleep and NREM stage 3 sleep in terms of brain wave activity, muscle tone and ease of waking. (4 marks)
+**Q1101.** Compare REM sleep and NREM stage 3 sleep in terms of brain wave activity, muscle tone and ease of waking. (4 marks)
 <!-- id: psych34a2-nrs-7 -->
 
 *Written answer*
 
-**Q1083.** Explain why a person's sleep cycle is often described as a cycle rather than a linear progression through the stages, using one cycle as an example. (3 marks)
+**Q1102.** Explain why a person's sleep cycle is often described as a cycle rather than a linear progression through the stages, using one cycle as an example. (3 marks)
 <!-- id: psych34a2-nrs-8 -->
 
 *Written answer*
 
+**Q1103.** Across a typical night of adult sleep:
+<!-- id: vce-psych34-nr-c1 -->
+*Challenge question*
+
+- A. REM dominates early cycles and NREM stage 3 dominates later
+- B. Every cycle has the same proportions
+- C. REM only occurs once, just before waking
+- D. NREM stage 3 is most common in early cycles, and REM periods get longer towards morning
+
 #### Circadian and ultradian rhythms
 
-**Q1084.** A circadian rhythm is a biological cycle that
+**Q1104.** A circadian rhythm is a biological cycle that
 <!-- id: psych34a2-cur-1 -->
 
 - A. lasts about 90 minutes
@@ -7630,7 +7810,7 @@ Visual perception begins when light enters the eye.
 - C. lasts about 24 hours
 - D. occurs several times within a 24-hour period
 
-**Q1085.** Which structure acts as the body's main biological clock, coordinating the sleep-wake cycle in response to light?
+**Q1105.** Which structure acts as the body's main biological clock, coordinating the sleep-wake cycle in response to light?
 <!-- id: psych34a2-cur-2 -->
 
 - A. The suprachiasmatic nucleus (SCN)
@@ -7638,7 +7818,7 @@ Visual perception begins when light enters the eye.
 - C. The amygdala
 - D. The pineal gland
 
-**Q1086.** Melatonin is best described as
+**Q1106.** Melatonin is best described as
 <!-- id: psych34a2-cur-3 -->
 
 - A. a protein that regulates REM sleep only
@@ -7646,7 +7826,7 @@ Visual perception begins when light enters the eye.
 - C. a neurotransmitter that keeps the brain awake
 - D. a hormone secreted by the SCN that is highest during daylight
 
-**Q1087.** Which of the following is an example of an ultradian rhythm?
+**Q1107.** Which of the following is an example of an ultradian rhythm?
 <!-- id: psych34a2-cur-4 -->
 
 - A. The 90-minute cycle through stages of sleep
@@ -7654,7 +7834,7 @@ Visual perception begins when light enters the eye.
 - C. The sleep-wake cycle across one day
 - D. A monthly hormonal cycle
 
-**Q1088.** A shift worker keeps awake during the night and sleeps in the day. Which of the following is the most likely effect on their circadian rhythm?
+**Q1108.** A shift worker keeps awake during the night and sleeps in the day. Which of the following is the most likely effect on their circadian rhythm?
 <!-- id: psych34a2-cur-5 -->
 
 - A. Their SCN stops functioning
@@ -7662,24 +7842,33 @@ Visual perception begins when light enters the eye.
 - C. Their circadian rhythm will not be affected at all
 - D. Their internal clock is mismatched with external light-dark cues, causing reduced sleep quality and alertness at work
 
-**Q1089.** Distinguish between circadian and ultradian rhythms, giving one example of each in relation to sleep. (4 marks)
+**Q1109.** Distinguish between circadian and ultradian rhythms, giving one example of each in relation to sleep. (4 marks)
 <!-- id: psych34a2-cur-6 -->
 
 *Written answer*
 
-**Q1090.** Explain how the suprachiasmatic nucleus and the pineal gland work together to regulate the sleep-wake cycle when light levels fall in the evening. (3 marks)
+**Q1110.** Explain how the suprachiasmatic nucleus and the pineal gland work together to regulate the sleep-wake cycle when light levels fall in the evening. (3 marks)
 <!-- id: psych34a2-cur-7 -->
 
 *Written answer*
 
-**Q1091.** Hana travels from Melbourne to London and has trouble sleeping at night for several days after arrival. Using your knowledge of circadian rhythms, explain why. (3 marks)
+**Q1111.** Hana travels from Melbourne to London and has trouble sleeping at night for several days after arrival. Using your knowledge of circadian rhythms, explain why. (3 marks)
 <!-- id: psych34a2-cur-8 -->
 
 *Written answer*
 
+**Q1112.** Which statement about rhythms during an 8-hour sleep is correct?
+<!-- id: vce-psych34-cr-c1 -->
+*Challenge question*
+
+- A. Sleep cycles (about 90 minutes each) are ultradian; there are about 5 in the night, within the circadian sleep–wake cycle
+- B. Each sleep cycle is a circadian rhythm
+- C. There is only one ultradian cycle per night
+- D. The SCN controls each 90-minute cycle by releasing cortisol
+
 #### Sleep across the lifespan
 
-**Q1092.** Compared with adults, newborn babies typically
+**Q1113.** Compared with adults, newborn babies typically
 <!-- id: psych34a2-sal-1 -->
 
 - A. have no REM sleep
@@ -7687,7 +7876,7 @@ Visual perception begins when light enters the eye.
 - C. sleep for more hours and spend a greater proportion of sleep in REM sleep
 - D. sleep for the same number of hours
 
-**Q1093.** Which of the following changes is typical in sleep as a person ages from adulthood into older age?
+**Q1114.** Which of the following changes is typical in sleep as a person ages from adulthood into older age?
 <!-- id: psych34a2-sal-2 -->
 
 - A. A decrease in NREM stage 3 sleep and more frequent awakenings
@@ -7695,7 +7884,7 @@ Visual perception begins when light enters the eye.
 - C. A shift to 50% REM sleep
 - D. An increase in NREM stage 3 sleep
 
-**Q1094.** Adolescents often prefer going to bed late and waking late. Which of the following best explains this?
+**Q1115.** Adolescents often prefer going to bed late and waking late. Which of the following best explains this?
 <!-- id: psych34a2-sal-3 -->
 
 - A. They produce more melatonin than adults in the early evening
@@ -7703,7 +7892,7 @@ Visual perception begins when light enters the eye.
 - C. A delay in the release of melatonin shifts their circadian rhythm later
 - D. Adolescents have no circadian rhythm
 
-**Q1095.** Approximately how many hours of sleep do adults typically need per night?
+**Q1116.** Approximately how many hours of sleep do adults typically need per night?
 <!-- id: psych34a2-sal-4 -->
 
 - A. 4 to 5 hours
@@ -7711,7 +7900,7 @@ Visual perception begins when light enters the eye.
 - C. 10 to 12 hours
 - D. 14 to 17 hours
 
-**Q1096.** Which statement about REM sleep across the lifespan is correct?
+**Q1117.** Which statement about REM sleep across the lifespan is correct?
 <!-- id: psych34a2-sal-5 -->
 
 - A. REM sleep increases steadily with age
@@ -7719,24 +7908,33 @@ Visual perception begins when light enters the eye.
 - C. The percentage of sleep in REM remains constant from birth to old age
 - D. The proportion of sleep spent in REM is highest in infancy and declines to about 20 to 25% in adulthood
 
-**Q1097.** Describe two ways in which the sleep patterns of newborns differ from those of adults. (2 marks)
+**Q1118.** Describe two ways in which the sleep patterns of newborns differ from those of adults. (2 marks)
 <!-- id: psych34a2-sal-6 -->
 
 *Written answer*
 
-**Q1098.** A school considers starting classes later in the morning for Year 10 students. Using your knowledge of sleep across the lifespan, explain the reasoning behind this suggestion. (4 marks)
+**Q1119.** A school considers starting classes later in the morning for Year 10 students. Using your knowledge of sleep across the lifespan, explain the reasoning behind this suggestion. (4 marks)
 <!-- id: psych34a2-sal-7 -->
 
 *Written answer*
 
-**Q1099.** Explain two changes in sleep that typically occur in older adults and how these may affect their daytime functioning. (3 marks)
+**Q1120.** Explain two changes in sleep that typically occur in older adults and how these may affect their daytime functioning. (3 marks)
 <!-- id: psych34a2-sal-8 -->
 
 *Written answer*
 
+**Q1121.** Why do many adolescents struggle to fall asleep before about 11 pm?
+<!-- id: vce-psych34-sl-c1 -->
+*Challenge question*
+
+- A. Melatonin is released later in the evening, delaying their sleep–wake cycle
+- B. They need less sleep than adults
+- C. Their REM sleep proportion is higher than infants'
+- D. Their SCN stops responding to light
+
 #### Sleep deprivation
 
-**Q1100.** Which of the following best describes a microsleep?
+**Q1122.** Which of the following best describes a microsleep?
 <!-- id: psych34a3-sd-1 -->
 
 - A. A sleep episode lasting about 90 minutes that follows a night of partial sleep deprivation
@@ -7744,7 +7942,7 @@ Visual perception begins when light enters the eye.
 - C. A period of REM sleep that occurs during the first hour of the night
 - D. A deliberate short nap taken to reduce sleep debt
 
-**Q1101.** Tamsin has been awake for 24 hours straight. Compared with a person who has had normal sleep, her reaction time on a driving simulator is most likely to be
+**Q1123.** Tamsin has been awake for 24 hours straight. Compared with a person who has had normal sleep, her reaction time on a driving simulator is most likely to be
 <!-- id: psych34a3-sd-2 -->
 
 - A. slower, similar to the impairment seen with a blood alcohol concentration of about 0.10%
@@ -7752,7 +7950,7 @@ Visual perception begins when light enters the eye.
 - C. faster, because arousal is elevated
 - D. unchanged, because motor skills are unaffected by sleep loss
 
-**Q1102.** Which of the following is an example of an effect of sleep deprivation on affective functioning?
+**Q1124.** Which of the following is an example of an effect of sleep deprivation on affective functioning?
 <!-- id: psych34a3-sd-3 -->
 
 - A. Difficulty holding information in working memory
@@ -7760,7 +7958,7 @@ Visual perception begins when light enters the eye.
 - C. Slowed reaction time
 - D. More frequent microsleeps
 
-**Q1103.** A researcher compares 'total sleep deprivation' with 'partial sleep deprivation'. Which statement is correct?
+**Q1125.** A researcher compares 'total sleep deprivation' with 'partial sleep deprivation'. Which statement is correct?
 <!-- id: psych34a3-sd-4 -->
 
 - A. Partial sleep deprivation only affects NREM sleep
@@ -7768,7 +7966,7 @@ Visual perception begins when light enters the eye.
 - C. Total sleep deprivation involves no sleep for a period of time, while partial involves reduced sleep or sleep that is restricted or fragmented
 - D. Both involve no sleep, but partial deprivation lasts less than 12 hours
 
-**Q1104.** After a week in which Jarrah slept only five hours a night, he finds it hard to concentrate in class and makes more errors in maths problems. This is best classified as an effect on his
+**Q1126.** After a week in which Jarrah slept only five hours a night, he finds it hard to concentrate in class and makes more errors in maths problems. This is best classified as an effect on his
 <!-- id: psych34a3-sd-5 -->
 
 - A. affective functioning
@@ -7776,24 +7974,33 @@ Visual perception begins when light enters the eye.
 - C. autonomic functioning
 - D. cognitive functioning
 
-**Q1105.** Define total sleep deprivation and distinguish it from partial sleep deprivation, giving one example of a situation for each. (3 marks)
+**Q1127.** Define total sleep deprivation and distinguish it from partial sleep deprivation, giving one example of a situation for each. (3 marks)
 <!-- id: psych34a3-sd-6 -->
 
 *Written answer*
 
-**Q1106.** Explain how 24 hours of total sleep deprivation could affect a truck driver's behavioural and cognitive functioning, referring to blood alcohol concentration in your answer. (4 marks)
+**Q1128.** Explain how 24 hours of total sleep deprivation could affect a truck driver's behavioural and cognitive functioning, referring to blood alcohol concentration in your answer. (4 marks)
 <!-- id: psych34a3-sd-7 -->
 
 *Written answer*
 
-**Q1107.** A student claims, 'Staying up all night is fine because I can fully make up for it the next day.' Using two effects of sleep deprivation, evaluate this claim. (3 marks)
+**Q1129.** A student claims, 'Staying up all night is fine because I can fully make up for it the next day.' Using two effects of sleep deprivation, evaluate this claim. (3 marks)
 <!-- id: psych34a3-sd-8 -->
 
 *Written answer*
 
+**Q1130.** Research comparing sleep deprivation with alcohol suggests that being awake for about 17 hours affects performance roughly as much as a blood alcohol concentration of:
+<!-- id: vce-psych34-sd-c1 -->
+*Challenge question*
+
+- A. 0.05%
+- B. 0.10%
+- C. 0.01%
+- D. 0.20%
+
 #### Circadian rhythm sleep disorders and treatments
 
-**Q1108.** Delayed sleep phase disorder (DSPD) is characterised by
+**Q1131.** Delayed sleep phase disorder (DSPD) is characterised by
 <!-- id: psych34a3-crsd-1 -->
 
 - A. falling asleep and waking much earlier than desired
@@ -7801,7 +8008,7 @@ Visual perception begins when light enters the eye.
 - C. sleep that is normal in length but frequently interrupted by awakenings
 - D. excessive daytime sleepiness caused by narcotic drugs
 
-**Q1109.** Which treatment for DSPD aims to shift the sleep-wake cycle earlier by exposing the person to bright light shortly after waking?
+**Q1132.** Which treatment for DSPD aims to shift the sleep-wake cycle earlier by exposing the person to bright light shortly after waking?
 <!-- id: psych34a3-crsd-2 -->
 
 - A. Systematic desensitisation
@@ -7809,7 +8016,7 @@ Visual perception begins when light enters the eye.
 - C. Benzodiazepine therapy
 - D. Bright light therapy
 
-**Q1110.** A nurse works rotating night shifts and reports fatigue, poor sleep during the day and difficulty concentrating. Which description best explains this?
+**Q1133.** A nurse works rotating night shifts and reports fatigue, poor sleep during the day and difficulty concentrating. Which description best explains this?
 <!-- id: psych34a3-crsd-3 -->
 
 - A. Her work schedule conflicts with her circadian rhythm, which is synchronised by light and other zeitgebers
@@ -7817,7 +8024,7 @@ Visual perception begins when light enters the eye.
 - C. She has developed advanced sleep phase disorder from taking melatonin
 - D. Night shift always causes insomnia as a result of anxiety
 
-**Q1111.** Melatonin is sometimes used as a treatment for circadian rhythm sleep disorders. The best explanation of how it works is that
+**Q1134.** Melatonin is sometimes used as a treatment for circadian rhythm sleep disorders. The best explanation of how it works is that
 <!-- id: psych34a3-crsd-4 -->
 
 - A. it increases alertness by suppressing melatonin production
@@ -7825,7 +8032,7 @@ Visual perception begins when light enters the eye.
 - C. it is a hormone secreted by the pineal gland that signals darkness and promotes sleepiness, so timed doses can shift the sleep-wake cycle
 - D. it blocks the release of cortisol at night
 
-**Q1112.** Eleni flies from Melbourne to London and experiences fatigue and disrupted sleep for several days. Which statement about this is most accurate?
+**Q1135.** Eleni flies from Melbourne to London and experiences fatigue and disrupted sleep for several days. Which statement about this is most accurate?
 <!-- id: psych34a3-crsd-5 -->
 
 - A. It is a permanent circadian rhythm sleep disorder
@@ -7833,24 +8040,33 @@ Visual perception begins when light enters the eye.
 - C. It is best treated by flooding
 - D. It is caused by a mismatch between her internal body clock and the new local time, so her zeitgebers are out of step with her circadian rhythm
 
-**Q1113.** Describe delayed sleep phase disorder and explain one possible effect on a teenager's daily functioning. (3 marks)
+**Q1136.** Describe delayed sleep phase disorder and explain one possible effect on a teenager's daily functioning. (3 marks)
 <!-- id: psych34a3-crsd-6 -->
 
 *Written answer*
 
-**Q1114.** Outline how bright light therapy and melatonin could each be used to treat delayed sleep phase disorder. (4 marks)
+**Q1137.** Outline how bright light therapy and melatonin could each be used to treat delayed sleep phase disorder. (4 marks)
 <!-- id: psych34a3-crsd-7 -->
 
 *Written answer*
 
-**Q1115.** A factory worker moves from day shift to a permanent night shift. Explain, with reference to zeitgebers, why she may struggle to sleep during the day. (3 marks)
+**Q1138.** A factory worker moves from day shift to a permanent night shift. Explain, with reference to zeitgebers, why she may struggle to sleep during the day. (3 marks)
 <!-- id: psych34a3-crsd-8 -->
 
 *Written answer*
 
+**Q1139.** For delayed sleep phase syndrome, bright light therapy is usually scheduled:
+<!-- id: vce-psych34-cd-c1 -->
+*Challenge question*
+
+- A. Late at night, to make the person sleepy
+- B. In the morning, soon after waking, to suppress melatonin and shift the rhythm earlier
+- C. At any time, because timing does not matter
+- D. In the evening, to delay the rhythm further
+
 #### Sleep hygiene and zeitgebers
 
-**Q1116.** A zeitgeber is best defined as
+**Q1140.** A zeitgeber is best defined as
 <!-- id: psych34a3-shz-1 -->
 
 - A. a type of microsleep
@@ -7858,7 +8074,7 @@ Visual perception begins when light enters the eye.
 - C. an external environmental cue that helps synchronise the body's circadian rhythm
 - D. a hormone released during NREM stage 3 sleep
 
-**Q1117.** Which of the following is an example of good sleep hygiene?
+**Q1141.** Which of the following is an example of good sleep hygiene?
 <!-- id: psych34a3-shz-2 -->
 
 - A. Keeping a consistent bedtime and wake time, including on weekends
@@ -7866,7 +8082,7 @@ Visual perception begins when light enters the eye.
 - C. Taking a long nap late in the afternoon every day
 - D. Using a bright tablet in bed until falling asleep
 
-**Q1118.** Which zeitgeber is considered the most powerful for entraining the circadian rhythm in humans?
+**Q1142.** Which zeitgeber is considered the most powerful for entraining the circadian rhythm in humans?
 <!-- id: psych34a3-shz-3 -->
 
 - A. Background noise
@@ -7874,7 +8090,7 @@ Visual perception begins when light enters the eye.
 - C. Light
 - D. Exercise timing
 
-**Q1119.** Mina uses her phone in bed for an hour each night and then has trouble falling asleep. The most appropriate explanation is that the
+**Q1143.** Mina uses her phone in bed for an hour each night and then has trouble falling asleep. The most appropriate explanation is that the
 <!-- id: psych34a3-shz-4 -->
 
 - A. screen emits light, which suppresses melatonin secretion and delays sleep onset
@@ -7882,7 +8098,7 @@ Visual perception begins when light enters the eye.
 - C. screen light increases the amount of REM sleep
 - D. phone produces melatonin
 
-**Q1120.** A study of sleep hygiene programs for students measured sleep onset latency before and after the program. Which result would best support the effectiveness of the program?
+**Q1144.** A study of sleep hygiene programs for students measured sleep onset latency before and after the program. Which result would best support the effectiveness of the program?
 <!-- id: psych34a3-shz-5 -->
 
 - A. No change in mean bedtime
@@ -7890,26 +8106,35 @@ Visual perception begins when light enters the eye.
 - C. A decrease in the mean sleep onset latency
 - D. An increase in mean caffeine intake
 
-**Q1121.** Define sleep hygiene and identify two sleep hygiene practices that could be used by an adolescent with difficulty falling asleep. (3 marks)
+**Q1145.** Define sleep hygiene and identify two sleep hygiene practices that could be used by an adolescent with difficulty falling asleep. (3 marks)
 <!-- id: psych34a3-shz-6 -->
 
 *Written answer*
 
-**Q1122.** Explain how light acts as a zeitgeber to regulate the circadian rhythm. (3 marks)
+**Q1146.** Explain how light acts as a zeitgeber to regulate the circadian rhythm. (3 marks)
 <!-- id: psych34a3-shz-7 -->
 
 *Written answer*
 
-**Q1123.** Malik often stays up until 2 am on weekends and sleeps until noon, then struggles to get up for school on Monday. Using the concept of zeitgebers, explain why, and suggest one way he could address this. (4 marks)
+**Q1147.** Malik often stays up until 2 am on weekends and sleeps until noon, then struggles to get up for school on Monday. Using the concept of zeitgebers, explain why, and suggest one way he could address this. (4 marks)
 <!-- id: psych34a3-shz-8 -->
 
 *Written answer*
+
+**Q1148.** Using a bright phone screen in bed can delay sleep mainly because:
+<!-- id: vce-psych34-sh-c1 -->
+*Challenge question*
+
+- A. Phones increase GABA levels
+- B. Blue light increases melatonin
+- C. Blue light acts as a zeitgeber, signalling the SCN to suppress melatonin release
+- D. Screens lower body temperature
 
 ### Unit 4 AOS 2: Mental wellbeing
 
 #### Mental wellbeing and the mental health continuum
 
-**Q1124.** Which of the following best describes mental wellbeing?
+**Q1149.** Which of the following best describes mental wellbeing?
 <!-- id: psych34a3-mw-1 -->
 
 - A. A state in which a person can realise their abilities, cope with normal stressors, work productively and contribute to their community
@@ -7917,7 +8142,7 @@ Visual perception begins when light enters the eye.
 - C. The same thing as happiness
 - D. The absence of any mental disorder
 
-**Q1125.** On the mental health continuum, a person who is functioning well, has good coping and feels able to take part in life is placed
+**Q1150.** On the mental health continuum, a person who is functioning well, has good coping and feels able to take part in life is placed
 <!-- id: psych34a3-mw-2 -->
 
 - A. in the middle, as a mental health problem
@@ -7925,7 +8150,7 @@ Visual perception begins when light enters the eye.
 - C. at the mental illness end
 - D. outside the continuum
 
-**Q1126.** Which statement about the difference between a mental health problem and a mental disorder is most accurate?
+**Q1151.** Which statement about the difference between a mental health problem and a mental disorder is most accurate?
 <!-- id: psych34a3-mw-3 -->
 
 - A. A mental health problem interferes with a person's thoughts, feelings or behaviour but is generally less severe and shorter lasting than a mental disorder, which meets diagnostic criteria and persists over time
@@ -7933,7 +8158,7 @@ Visual perception begins when light enters the eye.
 - C. A mental disorder never involves a change in functioning
 - D. A mental health problem is a diagnosable condition and a mental disorder is not
 
-**Q1127.** Anh has felt sad and has found it hard to complete her work for two weeks following a relationship break-up, but she still attends classes and her symptoms are easing. This is best described as
+**Q1152.** Anh has felt sad and has found it hard to complete her work for two weeks following a relationship break-up, but she still attends classes and her symptoms are easing. This is best described as
 <!-- id: psych34a3-mw-4 -->
 
 - A. a severe mental illness
@@ -7941,7 +8166,7 @@ Visual perception begins when light enters the eye.
 - C. a mental health problem
 - D. a mental disorder
 
-**Q1128.** Which of the following is the best reason for describing mental health as a continuum rather than a dichotomy of 'healthy' versus 'ill'?
+**Q1153.** Which of the following is the best reason for describing mental health as a continuum rather than a dichotomy of 'healthy' versus 'ill'?
 <!-- id: psych34a3-mw-5 -->
 
 - A. People's mental health can vary in degree and shift position over time in response to internal and external factors
@@ -7949,24 +8174,33 @@ Visual perception begins when light enters the eye.
 - C. Mental health is fixed throughout life
 - D. All people are equally mentally healthy
 
-**Q1129.** Describe the mental health continuum and explain why a person's position on it can change. (3 marks)
+**Q1154.** Describe the mental health continuum and explain why a person's position on it can change. (3 marks)
 <!-- id: psych34a3-mw-6 -->
 
 *Written answer*
 
-**Q1130.** Distinguish between mental wellbeing and mental illness using an example of each. (3 marks)
+**Q1155.** Distinguish between mental wellbeing and mental illness using an example of each. (3 marks)
 <!-- id: psych34a3-mw-7 -->
 
 *Written answer*
 
-**Q1131.** Rohan's wellbeing was good, but after losing his job and having less contact with friends he often feels anxious and isolated. Use the mental health continuum to explain how his position may have changed, and suggest what it would take for him to move back. (3 marks)
+**Q1156.** Rohan's wellbeing was good, but after losing his job and having less contact with friends he often feels anxious and isolated. Use the mental health continuum to explain how his position may have changed, and suggest what it would take for him to move back. (3 marks)
 <!-- id: psych34a3-mw-8 -->
 
 *Written answer*
 
+**Q1157.** Which statement about the mental health continuum is correct?
+<!-- id: vce-psych34-mw-c1 -->
+*Challenge question*
+
+- A. Once diagnosed with a disorder, a person stays at that end of the continuum
+- B. A person's position can move over time, and someone with a diagnosed disorder can still have periods of high wellbeing
+- C. Mental health problems and mental disorders are the same thing
+- D. Feeling stressed before an exam means a person has a mental disorder
+
 #### Social and emotional wellbeing
 
-**Q1132.** Which of the following best describes the Aboriginal and Torres Strait Islander concept of social and emotional wellbeing (SEWB)?
+**Q1158.** Which of the following best describes the Aboriginal and Torres Strait Islander concept of social and emotional wellbeing (SEWB)?
 <!-- id: psych34a3-sew-1 -->
 
 - A. A holistic concept that includes connection to body, mind and emotions, family and kinship, community, culture, Country, and spirituality and ancestors
@@ -7974,7 +8208,7 @@ Visual perception begins when light enters the eye.
 - C. A measure of a person's income and employment
 - D. A concept focused only on the absence of mental illness in the individual
 
-**Q1133.** Which of the following is an example of an Aboriginal and Torres Strait Islander person's connection to Country supporting their SEWB?
+**Q1159.** Which of the following is an example of an Aboriginal and Torres Strait Islander person's connection to Country supporting their SEWB?
 <!-- id: psych34a3-sew-2 -->
 
 - A. Avoiding contact with elders
@@ -7982,7 +8216,7 @@ Visual perception begins when light enters the eye.
 - C. Taking part in cultural ceremonies and caring for land that holds ancestral and spiritual significance
 - D. Receiving a diagnosis of a mental disorder
 
-**Q1134.** A key difference between a SEWB approach and a purely biomedical approach to mental health is that SEWB
+**Q1160.** A key difference between a SEWB approach and a purely biomedical approach to mental health is that SEWB
 <!-- id: psych34a3-sew-3 -->
 
 - A. views wellbeing as shaped by the person's connections to family, community, culture and Country, as well as individual factors
@@ -7990,7 +8224,7 @@ Visual perception begins when light enters the eye.
 - C. ignores historical and social factors
 - D. treats the individual in isolation
 
-**Q1135.** Which of the following social determinants can negatively influence the SEWB of Aboriginal and Torres Strait Islander peoples?
+**Q1161.** Which of the following social determinants can negatively influence the SEWB of Aboriginal and Torres Strait Islander peoples?
 <!-- id: psych34a3-sew-4 -->
 
 - A. Access to culturally safe health services
@@ -7998,7 +8232,7 @@ Visual perception begins when light enters the eye.
 - C. Racism and discrimination
 - D. Strong family and kinship networks
 
-**Q1136.** Which of the following is an example of the 'family and kinship' dimension of SEWB?
+**Q1162.** Which of the following is an example of the 'family and kinship' dimension of SEWB?
 <!-- id: psych34a3-sew-5 -->
 
 - A. Spending time with extended family and fulfilling kinship obligations
@@ -8006,24 +8240,33 @@ Visual perception begins when light enters the eye.
 - C. Learning a new language at school
 - D. Earning a high income
 
-**Q1137.** Describe what is meant by social and emotional wellbeing (SEWB) for Aboriginal and Torres Strait Islander peoples and name two of its interrelated domains. (3 marks)
+**Q1163.** Describe what is meant by social and emotional wellbeing (SEWB) for Aboriginal and Torres Strait Islander peoples and name two of its interrelated domains. (3 marks)
 <!-- id: psych34a3-sew-6 -->
 
 *Written answer*
 
-**Q1138.** Explain how a loss of connection to Country or culture could affect the SEWB of an Aboriginal or Torres Strait Islander young person. (3 marks)
+**Q1164.** Explain how a loss of connection to Country or culture could affect the SEWB of an Aboriginal or Torres Strait Islander young person. (3 marks)
 <!-- id: psych34a3-sew-7 -->
 
 *Written answer*
 
-**Q1139.** A community health service wants to support SEWB in a remote Aboriginal community. Suggest two culturally appropriate strategies and justify each using a domain of SEWB. (4 marks)
+**Q1165.** A community health service wants to support SEWB in a remote Aboriginal community. Suggest two culturally appropriate strategies and justify each using a domain of SEWB. (4 marks)
 <!-- id: psych34a3-sew-8 -->
 
 *Written answer*
 
+**Q1166.** Which is NOT one of the seven domains of social and emotional wellbeing (SEWB) for Aboriginal and Torres Strait Islander peoples?
+<!-- id: vce-psych34-se-c1 -->
+*Challenge question*
+
+- A. Connection to Country
+- B. Connection to spirituality and ancestors
+- C. Connection to personal wealth
+- D. Connection to family and kinship
+
 #### Specific phobia: contributing factors
 
-**Q1140.** Which of the following is a defining feature of a specific phobia?
+**Q1167.** Which of the following is a defining feature of a specific phobia?
 <!-- id: psych34a3-sp-1 -->
 
 - A. Excessive, persistent fear of a specific object or situation that is out of proportion to the actual danger and leads to avoidance
@@ -8031,7 +8274,7 @@ Visual perception begins when light enters the eye.
 - C. A brief and rational fear of a genuinely dangerous situation
 - D. Fear of being in social situations only
 
-**Q1141.** Which of the following best describes the role of GABA in the development of a specific phobia?
+**Q1168.** Which of the following best describes the role of GABA in the development of a specific phobia?
 <!-- id: psych34a3-sp-2 -->
 
 - A. GABA causes the release of cortisol
@@ -8039,7 +8282,7 @@ Visual perception begins when light enters the eye.
 - C. Dysfunction in GABA, an inhibitory neurotransmitter, can reduce its ability to calm the fear response, so anxiety is less regulated
 - D. GABA increases the activity of the amygdala and causes fear
 
-**Q1142.** At age four, Ben was knocked over by a large dog and was terrified. He now feels intense fear when he sees any dog, even small ones. In terms of classical conditioning, the dog in this scenario after conditioning is the
+**Q1169.** At age four, Ben was knocked over by a large dog and was terrified. He now feels intense fear when he sees any dog, even small ones. In terms of classical conditioning, the dog in this scenario after conditioning is the
 <!-- id: psych34a3-sp-3 -->
 
 - A. unconditioned stimulus
@@ -8047,7 +8290,7 @@ Visual perception begins when light enters the eye.
 - C. unconditioned response
 - D. neutral stimulus
 
-**Q1143.** Which of the following is an example of a social contributing factor to a specific phobia?
+**Q1170.** Which of the following is an example of a social contributing factor to a specific phobia?
 <!-- id: psych34a3-sp-4 -->
 
 - A. Having a negative classical conditioning experience
@@ -8055,7 +8298,7 @@ Visual perception begins when light enters the eye.
 - C. Low levels of GABA
 - D. Hyperactivity of the amygdala caused by genetic variation
 
-**Q1144.** Which statement best describes the role of long-term potentiation (LTP) in specific phobia?
+**Q1171.** Which statement best describes the role of long-term potentiation (LTP) in specific phobia?
 <!-- id: psych34a3-sp-5 -->
 
 - A. It strengthens synaptic connections associated with the feared stimulus and fear response, making the fear memory more easily triggered
@@ -8063,24 +8306,33 @@ Visual perception begins when light enters the eye.
 - C. It is a type of operant conditioning
 - D. It weakens the synapses involved in the fear memory
 
-**Q1145.** Using the biopsychosocial approach, explain how a specific phobia of flying could develop. Include one biological, one psychological and one social contributing factor. (4 marks)
+**Q1172.** Using the biopsychosocial approach, explain how a specific phobia of flying could develop. Include one biological, one psychological and one social contributing factor. (4 marks)
 <!-- id: psych34a3-sp-6 -->
 
 *Written answer*
 
-**Q1146.** Explain how the process of classical conditioning could lead to a phobia of lifts, identifying the UCS, UCR, CS and CR. (4 marks)
+**Q1173.** Explain how the process of classical conditioning could lead to a phobia of lifts, identifying the UCS, UCR, CS and CR. (4 marks)
 <!-- id: psych34a3-sp-7 -->
 
 *Written answer*
 
-**Q1147.** Explain why the avoidance of a feared object can maintain a specific phobia. (3 marks)
+**Q1174.** Explain why the avoidance of a feared object can maintain a specific phobia. (3 marks)
 <!-- id: psych34a3-sp-8 -->
 
 *Written answer*
 
+**Q1175.** Jake avoids every dog he sees, and his relief each time keeps his fear going. This perpetuation of the phobia is best explained by:
+<!-- id: vce-psych34-pf-c1 -->
+*Challenge question*
+
+- A. Operant conditioning: avoidance is negatively reinforced by the removal of anxiety
+- B. Classical conditioning: the dog becomes a UCS
+- C. GABA overproduction
+- D. Stigma around seeking treatment
+
 #### Specific phobia: evidence-based interventions
 
-**Q1148.** Systematic desensitisation is best described as
+**Q1176.** Systematic desensitisation is best described as
 <!-- id: psych34a3-spi-1 -->
 
 - A. a drug therapy that increases GABA activity
@@ -8088,7 +8340,7 @@ Visual perception begins when light enters the eye.
 - C. an intervention in which the person is immediately exposed to the most feared stimulus until fear subsides
 - D. a gradual exposure to feared stimuli in a hierarchy from least to most feared while using relaxation to replace the fear response
 
-**Q1149.** A GABA agonist such as a benzodiazepine is used as a short-term treatment for specific phobia because it
+**Q1177.** A GABA agonist such as a benzodiazepine is used as a short-term treatment for specific phobia because it
 <!-- id: psych34a3-spi-2 -->
 
 - A. reduces anxiety by enhancing the inhibitory effect of GABA on neural activity
@@ -8096,7 +8348,7 @@ Visual perception begins when light enters the eye.
 - C. removes the fear memory permanently
 - D. blocks the reuptake of serotonin
 
-**Q1150.** Which of the following is a psychological intervention for specific phobia?
+**Q1178.** Which of the following is a psychological intervention for specific phobia?
 <!-- id: psych34a3-spi-3 -->
 
 - A. Reducing caffeine intake
@@ -8104,7 +8356,7 @@ Visual perception begins when light enters the eye.
 - C. Benzodiazepine medication
 - D. Cognitive behavioural therapy (CBT)
 
-**Q1151.** A therapist works with a client who fears needles by repeatedly exposing her to the needle at full intensity in a safe setting until the fear subsides, without relaxation training. This is
+**Q1179.** A therapist works with a client who fears needles by repeatedly exposing her to the needle at full intensity in a safe setting until the fear subsides, without relaxation training. This is
 <!-- id: psych34a3-spi-4 -->
 
 - A. systematic desensitisation
@@ -8112,7 +8364,7 @@ Visual perception begins when light enters the eye.
 - C. a GABA agonist
 - D. flooding
 
-**Q1152.** Which of the following is a social intervention for specific phobia?
+**Q1180.** Which of the following is a social intervention for specific phobia?
 <!-- id: psych34a3-spi-5 -->
 
 - A. Cognitive restructuring
@@ -8120,24 +8372,33 @@ Visual perception begins when light enters the eye.
 - C. Prescription of a benzodiazepine
 - D. Systematic desensitisation
 
-**Q1153.** Outline the steps involved in systematic desensitisation for a person with a specific phobia of spiders. (4 marks)
+**Q1181.** Outline the steps involved in systematic desensitisation for a person with a specific phobia of spiders. (4 marks)
 <!-- id: psych34a3-spi-6 -->
 
 *Written answer*
 
-**Q1154.** Evaluate the use of benzodiazepines as the only treatment for a specific phobia. (3 marks)
+**Q1182.** Evaluate the use of benzodiazepines as the only treatment for a specific phobia. (3 marks)
 <!-- id: psych34a3-spi-7 -->
 
 *Written answer*
 
-**Q1155.** Compare flooding and systematic desensitisation, giving one advantage and one disadvantage of flooding. (4 marks)
+**Q1183.** Compare flooding and systematic desensitisation, giving one advantage and one disadvantage of flooding. (4 marks)
 <!-- id: psych34a3-spi-8 -->
 
 *Written answer*
 
+**Q1184.** Why are benzodiazepines not usually a long-term treatment for specific phobia?
+<!-- id: vce-psych34-pi-c1 -->
+*Challenge question*
+
+- A. They block GABA, which increases anxiety
+- B. They are a psychological intervention
+- C. They reduce anxiety by enhancing GABA but do not change the learned fear, and they can cause dependence
+- D. They work only for social phobias
+
 #### Protective factors for mental wellbeing
 
-**Q1156.** A protective factor in relation to mental wellbeing is best described as
+**Q1185.** A protective factor in relation to mental wellbeing is best described as
 <!-- id: psych34a3-pf-1 -->
 
 - A. a characteristic or circumstance that reduces the likelihood of developing a mental health problem or helps a person cope with adversity
@@ -8145,7 +8406,7 @@ Visual perception begins when light enters the eye.
 - C. a diagnostic criterion for a mental disorder
 - D. a genetic condition that causes mental illness
 
-**Q1157.** Which of the following is a biological protective factor?
+**Q1186.** Which of the following is a biological protective factor?
 <!-- id: psych34a3-pf-2 -->
 
 - A. Supportive friendships
@@ -8153,7 +8414,7 @@ Visual perception begins when light enters the eye.
 - C. Self-efficacy
 - D. Regular physical exercise and adequate sleep
 
-**Q1158.** Which of the following is a psychological protective factor?
+**Q1187.** Which of the following is a psychological protective factor?
 <!-- id: psych34a3-pf-3 -->
 
 - A. Strong social connectedness with neighbours
@@ -8161,7 +8422,7 @@ Visual perception begins when light enters the eye.
 - C. Genetic resilience
 - D. Economic security
 
-**Q1159.** Ayla has recently moved to a new city, but she keeps in regular contact with her family and has joined a local sports club. Which type of protective factor is most clearly shown?
+**Q1188.** Ayla has recently moved to a new city, but she keeps in regular contact with her family and has joined a local sports club. Which type of protective factor is most clearly shown?
 <!-- id: psych34a3-pf-4 -->
 
 - A. Genetic
@@ -8169,7 +8430,7 @@ Visual perception begins when light enters the eye.
 - C. Social
 - D. Cognitive only
 
-**Q1160.** A study found that adolescents who reported higher levels of social support had lower rates of depressive symptoms. Which conclusion is best supported by this correlation?
+**Q1189.** A study found that adolescents who reported higher levels of social support had lower rates of depressive symptoms. Which conclusion is best supported by this correlation?
 <!-- id: psych34a3-pf-5 -->
 
 - A. There is an association between social support and lower depressive symptoms, but causation cannot be concluded
@@ -8177,26 +8438,35 @@ Visual perception begins when light enters the eye.
 - C. Social support has no relationship with depressive symptoms
 - D. Social support causes a reduction in depressive symptoms
 
-**Q1161.** Distinguish between a risk factor and a protective factor for mental wellbeing, using an example of each. (3 marks)
+**Q1190.** Distinguish between a risk factor and a protective factor for mental wellbeing, using an example of each. (3 marks)
 <!-- id: psych34a3-pf-6 -->
 
 *Written answer*
 
-**Q1162.** Identify one biological, one psychological and one social protective factor for mental wellbeing and briefly explain how each helps. (3 marks)
+**Q1191.** Identify one biological, one psychological and one social protective factor for mental wellbeing and briefly explain how each helps. (3 marks)
 <!-- id: psych34a3-pf-7 -->
 
 *Written answer*
 
-**Q1163.** Max lost his job but his mental wellbeing has stayed relatively stable. Using at least two protective factors, suggest how this could be explained. (3 marks)
+**Q1192.** Max lost his job but his mental wellbeing has stayed relatively stable. Using at least two protective factors, suggest how this could be explained. (3 marks)
 <!-- id: psych34a3-pf-8 -->
 
 *Written answer*
+
+**Q1193.** Which set correctly matches a biological, a psychological and a social protective factor?
+<!-- id: vce-psych34-pr-c1 -->
+*Challenge question*
+
+- A. Support from friends; adequate diet; mindfulness
+- B. Adequate sleep; cognitive behavioural strategies; support from family and friends
+- C. Cognitive behavioural strategies; adequate sleep; adequate diet
+- D. Social media use; avoidance; isolation
 
 ### Research methods
 
 #### Experimental design and variables
 
-**Q1164.** In an experiment, the independent variable is
+**Q1194.** In an experiment, the independent variable is
 <!-- id: psych34a3-ed-1 -->
 
 - A. the group that receives no treatment
@@ -8204,7 +8474,7 @@ Visual perception begins when light enters the eye.
 - C. the variable that the researcher manipulates or that differs between conditions
 - D. any variable that is not controlled
 
-**Q1165.** A researcher tests whether caffeine improves reaction time. Participants in Group A are given a caffeinated drink and those in Group B are given a decaffeinated drink that looks identical. Group B is the
+**Q1195.** A researcher tests whether caffeine improves reaction time. Participants in Group A are given a caffeinated drink and those in Group B are given a decaffeinated drink that looks identical. Group B is the
 <!-- id: psych34a3-ed-2 -->
 
 - A. control group
@@ -8212,7 +8482,7 @@ Visual perception begins when light enters the eye.
 - C. placebo-free group
 - D. experimental group
 
-**Q1166.** A study uses the same participants in both the experimental and control conditions. This is a
+**Q1196.** A study uses the same participants in both the experimental and control conditions. This is a
 <!-- id: psych34a3-ed-3 -->
 
 - A. quasi-experimental design with no IV
@@ -8220,7 +8490,7 @@ Visual perception begins when light enters the eye.
 - C. repeated measures design
 - D. matched participants design
 
-**Q1167.** A researcher wants to reduce the effect of order in a repeated measures design. Which strategy is most appropriate?
+**Q1197.** A researcher wants to reduce the effect of order in a repeated measures design. Which strategy is most appropriate?
 <!-- id: psych34a3-ed-4 -->
 
 - A. Counterbalancing the order of conditions
@@ -8228,7 +8498,7 @@ Visual perception begins when light enters the eye.
 - C. Using a single-blind procedure
 - D. Removing the control group
 
-**Q1168.** Which of the following describes a confounding variable?
+**Q1198.** Which of the following describes a confounding variable?
 <!-- id: psych34a3-ed-5 -->
 
 - A. A variable that is measured as an outcome
@@ -8236,24 +8506,33 @@ Visual perception begins when light enters the eye.
 - C. A variable that the researcher intentionally manipulates
 - D. An extraneous variable that systematically varies with the IV and may affect the DV, making it hard to determine the cause of the effect
 
-**Q1169.** A researcher investigates whether listening to music during study improves exam scores. Identify the independent variable, the dependent variable and two variables that should be controlled. (4 marks)
+**Q1199.** A researcher investigates whether listening to music during study improves exam scores. Identify the independent variable, the dependent variable and two variables that should be controlled. (4 marks)
 <!-- id: psych34a3-ed-6 -->
 
 *Written answer*
 
-**Q1170.** Explain the purpose of random allocation and a placebo in an experiment. (3 marks)
+**Q1200.** Explain the purpose of random allocation and a placebo in an experiment. (3 marks)
 <!-- id: psych34a3-ed-7 -->
 
 *Written answer*
 
-**Q1171.** A researcher compares sleep-deprived participants with participants who slept normally on a memory task. Group allocation is based on whether the participant stayed up the night before by choice. Explain why this is a limitation and how it could be improved. (3 marks)
+**Q1201.** A researcher compares sleep-deprived participants with participants who slept normally on a memory task. Group allocation is based on whether the participant stayed up the night before by choice. Explain why this is a limitation and how it could be improved. (3 marks)
 <!-- id: psych34a3-ed-8 -->
 
 *Written answer*
 
+**Q1202.** In a study of caffeine and reaction time, the caffeine group happened to include mostly experienced gamers. Gaming experience is best described as:
+<!-- id: vce-psych34-ed-c1 -->
+*Challenge question*
+
+- A. The independent variable
+- B. A controlled variable
+- C. The dependent variable
+- D. A confounding variable, because it differs systematically between groups and may have affected the DV
+
 #### Data, statistics and conclusions
 
-**Q1172.** Which of the following is quantitative data?
+**Q1203.** Which of the following is quantitative data?
 <!-- id: psych34a3-ds-1 -->
 
 - A. A transcript of an interview
@@ -8261,7 +8540,7 @@ Visual perception begins when light enters the eye.
 - C. The number of words recalled from a list
 - D. A researcher's observation notes about a participant's mood
 
-**Q1173.** The mean of a set of scores is 12, and the median is 8. Which of the following is the most likely explanation?
+**Q1204.** The mean of a set of scores is 12, and the median is 8. Which of the following is the most likely explanation?
 <!-- id: psych34a3-ds-2 -->
 
 - A. There are a few unusually high scores
@@ -8269,7 +8548,7 @@ Visual perception begins when light enters the eye.
 - C. The data are symmetrical
 - D. The data are negatively skewed
 
-**Q1174.** A p-value of 0.03 was obtained in an experiment with a significance level of 0.05. The correct interpretation is that
+**Q1205.** A p-value of 0.03 was obtained in an experiment with a significance level of 0.05. The correct interpretation is that
 <!-- id: psych34a3-ds-3 -->
 
 - A. the results are not statistically significant
@@ -8277,7 +8556,7 @@ Visual perception begins when light enters the eye.
 - C. the hypothesis has a 97% chance of being true
 - D. the effect is large and important
 
-**Q1175.** A study finds a correlation coefficient of −0.85 between hours of screen use before bed and hours of sleep. Which of the following is a valid statement?
+**Q1206.** A study finds a correlation coefficient of −0.85 between hours of screen use before bed and hours of sleep. Which of the following is a valid statement?
 <!-- id: psych34a3-ds-4 -->
 
 - A. Screen use causes sleep loss
@@ -8285,7 +8564,7 @@ Visual perception begins when light enters the eye.
 - C. There is a weak positive association
 - D. There is no association
 
-**Q1176.** A researcher concludes that a new therapy 'works' based on a significant difference between two groups in a study with only eight participants. The strongest criticism of this conclusion relates to
+**Q1207.** A researcher concludes that a new therapy 'works' based on a significant difference between two groups in a study with only eight participants. The strongest criticism of this conclusion relates to
 <!-- id: psych34a3-ds-5 -->
 
 - A. the use of quantitative data
@@ -8293,24 +8572,33 @@ Visual perception begins when light enters the eye.
 - C. the small sample size limiting the generalisability of the results
 - D. the use of a control group
 
-**Q1177.** The scores for six participants on a memory test are 5, 7, 7, 8, 9, 14. Calculate the mean and the median, and state which is the better measure of central tendency and why. (3 marks)
+**Q1208.** The scores for six participants on a memory test are 5, 7, 7, 8, 9, 14. Calculate the mean and the median, and state which is the better measure of central tendency and why. (3 marks)
 <!-- id: psych34a3-ds-6 -->
 
 *Written answer*
 
-**Q1178.** Explain what is meant by statistical significance and why it does not guarantee that a result is practically important. (3 marks)
+**Q1209.** Explain what is meant by statistical significance and why it does not guarantee that a result is practically important. (3 marks)
 <!-- id: psych34a3-ds-7 -->
 
 *Written answer*
 
-**Q1179.** A study reports that participants who exercised more had lower anxiety scores. Write a conclusion consistent with the results and identify one limitation in generalising it. (3 marks)
+**Q1210.** A study reports that participants who exercised more had lower anxiety scores. Write a conclusion consistent with the results and identify one limitation in generalising it. (3 marks)
 <!-- id: psych34a3-ds-8 -->
 
 *Written answer*
 
+**Q1211.** Hours of sleep lost by five participants were 2, 3, 3, 4 and 18. The best measure of central tendency to report is the:
+<!-- id: vce-psych34-ds-c1 -->
+*Challenge question*
+
+- A. Mean (6), because it uses all the data
+- B. Median (3), because the outlier of 18 distorts the mean
+- C. Mode (3), because it is always the most accurate
+- D. Range (16), because it shows the spread
+
 #### Ethics and validity
 
-**Q1180.** Which ethical principle requires that participants are told they can leave a study at any time without penalty?
+**Q1212.** Which ethical principle requires that participants are told they can leave a study at any time without penalty?
 <!-- id: psych34a3-ev-1 -->
 
 - A. Right to withdraw
@@ -8318,7 +8606,7 @@ Visual perception begins when light enters the eye.
 - C. Beneficence
 - D. Confidentiality
 
-**Q1181.** A researcher uses deception in a study about conformity. Which action is essential after the study finishes?
+**Q1213.** A researcher uses deception in a study about conformity. Which action is essential after the study finishes?
 <!-- id: psych34a3-ev-2 -->
 
 - A. Preventing participants from withdrawing their data
@@ -8326,7 +8614,7 @@ Visual perception begins when light enters the eye.
 - C. Debriefing the participants and explaining the true purpose
 - D. Offering payment only to those who complete the study
 
-**Q1182.** Which of the following best describes internal validity?
+**Q1214.** Which of the following best describes internal validity?
 <!-- id: psych34a3-ev-3 -->
 
 - A. The extent to which the experiment measures what it claims to measure and the results are due to the IV, not other factors
@@ -8334,7 +8622,7 @@ Visual perception begins when light enters the eye.
 - C. The extent to which the sample is large
 - D. The extent to which the results can be generalised to the population
 
-**Q1183.** Which of the following would most improve the external validity of a study of sleep and mood in adolescents?
+**Q1215.** Which of the following would most improve the external validity of a study of sleep and mood in adolescents?
 <!-- id: psych34a3-ev-4 -->
 
 - A. Using a smaller sample to reduce costs
@@ -8342,7 +8630,7 @@ Visual perception begins when light enters the eye.
 - C. Using a random sample from a range of schools across the state
 - D. Using only volunteers from one school
 
-**Q1184.** A set of measurements is closely grouped, but all are far from the true value. These measurements are best described as
+**Q1216.** A set of measurements is closely grouped, but all are far from the true value. These measurements are best described as
 <!-- id: psych34a3-ev-5 -->
 
 - A. accurate and precise
@@ -8350,24 +8638,118 @@ Visual perception begins when light enters the eye.
 - C. accurate but not precise
 - D. neither precise nor accurate
 
-**Q1185.** Identify and describe three ethical principles that must be followed when conducting research with human participants. (3 marks)
+**Q1217.** Identify and describe three ethical principles that must be followed when conducting research with human participants. (3 marks)
 <!-- id: psych34a3-ev-6 -->
 
 *Written answer*
 
-**Q1186.** A researcher plans a study on sleep deprivation in students and wants to mislead participants about the study's purpose. Explain two conditions that must be met for this to be ethically acceptable. (3 marks)
+**Q1218.** A researcher plans a study on sleep deprivation in students and wants to mislead participants about the study's purpose. Explain two conditions that must be met for this to be ethically acceptable. (3 marks)
 <!-- id: psych34a3-ev-7 -->
 
 *Written answer*
 
-**Q1187.** Distinguish between reliability and validity in research, and suggest one way to improve the reliability of a questionnaire measuring stress. (3 marks)
+**Q1219.** Distinguish between reliability and validity in research, and suggest one way to improve the reliability of a questionnaire measuring stress. (3 marks)
 <!-- id: psych34a3-ev-8 -->
 
 *Written answer*
 
+**Q1220.** A study uses only first-year university students, but its conclusions are applied to all adults. This mainly threatens the study's:
+<!-- id: vce-psych34-ev-c1 -->
+*Challenge question*
+
+- A. Internal validity
+- B. External validity
+- C. Precision
+- D. Confidentiality
+
+### Challenge questions
+
+#### Challenge set
+
+**Q1221.** Explain how a specific phobia of dogs could be precipitated by classical conditioning and perpetuated by operant conditioning.
+<!-- id: vce-psych34-challenge-1 -->
+*Challenge question*
+
+*Written answer*
+
+**Q1222.** A double-blind procedure is used mainly to control:
+<!-- id: vce-psych34-challenge-2 -->
+*Challenge question*
+
+- A. The placebo effect only
+- B. Both the placebo effect and the experimenter effect
+- C. Order effects
+- D. Participants' individual differences
+
+**Q1223.** In a within-subjects study, participants complete a memory test after a full night's sleep and again after partial sleep deprivation. Counterbalancing is used to:
+<!-- id: vce-psych34-challenge-3 -->
+*Challenge question*
+
+- A. Control order effects such as practice and fatigue
+- B. Remove participant differences
+- C. Make the sample more representative
+- D. Ensure informed consent
+
+**Q1224.** A patient with amygdala damage (but intact hippocampi) hears a tone paired with a loud horn. Afterwards the patient can say the tone predicts the horn, but shows no fear response to the tone. This suggests:
+<!-- id: vce-psych34-challenge-4 -->
+*Challenge question*
+
+- A. The hippocampus is needed for conditioned fear
+- B. The cerebellum stores the fear response
+- C. The amygdala is needed for classically conditioned fear, while the hippocampus supports the explicit memory of the pairing
+- D. Fear conditioning is a form of explicit memory
+
+**Q1225.** Compare the effects of one night of partial sleep deprivation on affective functioning and on cognitive functioning.
+<!-- id: vce-psych34-challenge-5 -->
+*Challenge question*
+
+*Written answer*
+
+**Q1226.** Dopamine is described as a neuromodulator rather than only a neurotransmitter because it:
+<!-- id: vce-psych34-challenge-6 -->
+*Challenge question*
+
+- A. Can affect many neurons at once and alter their responsiveness over a longer period
+- B. Is always inhibitory
+- C. Only acts on one post-synaptic neuron
+- D. Is produced only in the gut
+
+**Q1227.** Researchers recruit 40 volunteers from their own university's gym to study exercise and stress. The main limitation of this sample is that:
+<!-- id: vce-psych34-challenge-7 -->
+*Challenge question*
+
+- A. It is a convenience sample that may not represent the population of interest
+- B. It is too large
+- C. It removes all extraneous variables
+- D. It is a stratified sample
+
+**Q1228.** Explain the difference between stress (a response) and a stressor, and how the transactional model explains why two people respond differently to the same stressor.
+<!-- id: vce-psych34-challenge-8 -->
+*Challenge question*
+
+*Written answer*
+
+**Q1229.** Which ethical concept is best shown when a researcher designs a study so that the benefits outweigh the risks and harm is minimised?
+<!-- id: vce-psych34-challenge-9 -->
+*Challenge question*
+
+- A. Beneficence
+- B. Justice
+- C. Integrity
+- D. Respect
+
+**Q1230.** Shift workers often have poorer sleep. Which recommendation best uses zeitgebers to help?
+<!-- id: vce-psych34-challenge-10 -->
+*Challenge question*
+
+- A. Bright light before sleeping during the day
+- B. Eating large meals just before sleep
+- C. Different sleep times every day
+- D. Bright light during the night shift and dark, blackout conditions when sleeping during the day
+
 ### Exam-style questions (mixed topics)
 
-**Q1188.** Exam stress and a breathing study
+**Q1231.** Exam stress and a breathing study
 <!-- id: vce-psych34-x1 -->
 *Multi-part question · 11 marks · Original question in the style of the VCE Psychology exam, Section B*
 
@@ -8389,7 +8771,7 @@ A researcher tested whether 10 minutes of slow breathing before a test reduces a
 
 **g.** Identify one extraneous variable, and explain how random allocation helps to control it. *(2 marks)*
 
-**Q1189.** Late nights, memory and a nervous bell
+**Q1232.** Late nights, memory and a nervous bell
 <!-- id: vce-psych34-x2 -->
 *Multi-part question · 11 marks · Original question in the style of the VCE Psychology exam, Section B*
 
@@ -8409,7 +8791,7 @@ At school, a bell rings at the start of every exam. The bell used to mean nothin
 
 **f.** Using the three-phase model of classical conditioning, identify the neutral stimulus and the conditioned response in this example. *(2 marks)*
 
-**Q1190.** A fear of dogs
+**Q1233.** A fear of dogs
 <!-- id: vce-psych34-x3 -->
 *Multi-part question · 10 marks · Original question in the style of the VCE Psychology exam, Section B*
 
@@ -8425,7 +8807,7 @@ Priya, 17, has been intensely afraid of dogs since she was bitten at age 6. She 
 
 **e.** Describe how systematic desensitisation could be used to treat Priya's phobia. *(2 marks)*
 
-**Q1191.** Night shifts and sleep
+**Q1234.** Night shifts and sleep
 <!-- id: vce-psych34-x4 -->
 *Multi-part question · 10 marks · Original question in the style of the VCE Psychology exam, Section B*
 
@@ -8442,3 +8824,42 @@ Sam is a nurse who works a run of night shifts, sleeping during the day.
 A researcher measured the reaction times of 12 nurses after a night shift and again after a day shift.
 
 **e.** Name the experimental design and give one advantage of using it in this study. *(2 marks)*
+
+**Q1235.** Challenge: exam stress and sleep
+<!-- id: vce-psych34-cx1 -->
+*Challenge question*
+*Multi-part question · 10 marks · Original challenge question in the style of the VCE Psychology exam, Section B*
+
+Ava is a Year 12 student. In the month before her exams she thinks, 'If I fail, I won't get into my course.' She then decides she has no time to ask her teachers for help. She studies on her laptop until 1 am most nights and has to wake at 6:30 am.
+
+**a.** Identify Ava's primary and secondary appraisals using the transactional model of stress and coping. *(2 marks)*
+
+**b.** Explain how cortisol released over several weeks could affect Ava. *(2 marks)*
+
+**c.** Explain how screen use until 1 am is likely to affect when Ava falls asleep. *(2 marks)*
+
+**d.** Ava gets about 5.5 hours of sleep a night. Describe one likely affective and one likely cognitive effect of this partial sleep deprivation. *(2 marks)*
+
+**e.** Recommend one approach coping strategy for Ava and explain why it would suit her situation better than avoidance. *(2 marks)*
+
+**Q1236.** Challenge: testing a phobia treatment
+<!-- id: vce-psych34-cx2 -->
+*Challenge question*
+*Multi-part question · 10 marks · Original challenge question in the style of the VCE Psychology exam, Section B*
+
+Researchers recruited 30 adults with a specific phobia of spiders. Participants were randomly allocated to two groups. Group A received six sessions of systematic desensitisation; Group B received six sessions of psychoeducation only. Each participant rated their anxiety (0 = none, 10 = extreme) when shown a live spider in a sealed tank before and after treatment.
+
+| Group | Mean anxiety before | Mean anxiety after |
+| --- | --- | --- |
+| A: systematic desensitisation | 8.2 | 3.1 |
+| B: psychoeducation only | 8.0 | 6.5 |
+
+**a.** Write a hypothesis for this study. *(2 marks)*
+
+**b.** Identify the experimental design and give one advantage of it for this study. *(2 marks)*
+
+**c.** Calculate the change in mean anxiety for each group and state a conclusion. *(2 marks)*
+
+**d.** Explain how systematic desensitisation reduces the fear response. *(2 marks)*
+
+**e.** Identify one ethical guideline the researchers must follow, and explain why it matters in this study. *(2 marks)*
