@@ -45,6 +45,21 @@ Marks, times and relevance are estimates, not predictions. Question types were t
 python3 scripts/build_questions.py && python3 scripts/verify.py
 ```
 
+## Question database and admin page
+
+Questions and their metadata are also kept in a SQLite database. It covers:
+
+- question types, prerequisites and exam relevance;
+- study design versions and areas of study;
+- source and provenance, and a marking rubric for every question;
+- questions tagged to several subtopics, and a history of edits.
+
+`db/data.sql` is the tracked copy. A local admin page (`python admin/server.py`) filters questions by every attribute and edits their metadata, refusing any change that breaks a consistency rule. **Publish to files** writes the result back into `index.html` and `questions/`. See [db/README.md](db/README.md).
+
+```bash
+python scripts/db.py build && python admin/server.py
+```
+
 ## Running it
 
 No build step. Open `index.html` in a browser, or serve the folder:

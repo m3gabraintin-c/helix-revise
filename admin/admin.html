@@ -1,0 +1,254 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Helix Revise admin</title>
+<style>
+:root { --bg: #f6f3ec; --surface: #fffdf8; --ink: #161512; --muted: #5a554b; --line: #d8d2c4; --accent: #1f6f50; --bad: #a2261c; --warn: #8a5a00; color-scheme: light; }
+@media (prefers-color-scheme: dark) { :root { --bg: #1b1c19; --surface: #232520; --ink: #ece6d8; --muted: #b5ae9e; --line: #3a3d36; --accent: #8cc1ab; --bad: #f08a80; --warn: #e5b45a; color-scheme: dark; } }
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--bg); color: var(--ink); font: 15px/1.5 system-ui, sans-serif; }
+header { display: flex; flex-wrap: wrap; gap: 12px; align-items: center; padding: 12px 16px; border-bottom: 1px solid var(--line); background: var(--surface); position: sticky; top: 0; z-index: 5; }
+header h1 { font-size: 1.1rem; margin: 0 12px 0 0; }
+nav button[aria-current="page"] { background: var(--ink); color: var(--bg); }
+button, select, input, textarea { font: inherit; color: inherit; }
+button { border: 1px solid var(--ink); background: transparent; border-radius: 999px; padding: 6px 14px; cursor: pointer; min-height: 36px; }
+button.primary { background: var(--accent); border-color: var(--accent); color: var(--bg); font-weight: 600; }
+button:disabled { opacity: .5; cursor: default; }
+select, input, textarea { border: 1px solid var(--line); background: var(--bg); border-radius: 6px; padding: 5px 8px; min-height: 34px; max-width: 100%; }
+textarea { width: 100%; min-height: 60px; }
+label { display: flex; flex-direction: column; gap: 2px; font-size: .85rem; color: var(--muted); }
+:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+main { padding: 16px; max-width: 1400px; margin: 0 auto; }
+.filters { display: grid; grid-template-columns: repeat(auto-fill, minmax(170px, 1fr)); gap: 10px; background: var(--surface); border: 1px solid var(--line); border-radius: 10px; padding: 12px; }
+.row { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; }
+.muted { color: var(--muted); } .small { font-size: .85rem; }
+.split { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1.1fr); gap: 16px; margin-top: 16px; align-items: start; }
+@media (max-width: 900px) { .split { grid-template-columns: 1fr; } }
+table { border-collapse: collapse; width: 100%; background: var(--surface); }
+th, td { border-bottom: 1px solid var(--line); padding: 6px 8px; text-align: left; vertical-align: top; font-size: .88rem; }
+tbody tr { cursor: pointer; } tbody tr:hover, tbody tr[aria-selected="true"] { background: color-mix(in srgb, var(--accent) 14%, transparent); }
+.panel { background: var(--surface); border: 1px solid var(--line); border-radius: 10px; padding: 16px; display: flex; flex-direction: column; gap: 12px; }
+.panel h2 { font-size: 1.05rem; margin: 0; } .panel h3 { font-size: .95rem; margin: 8px 0 0; }
+.grid2 { display: grid; grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); gap: 10px; }
+.checks { display: flex; flex-wrap: wrap; gap: 4px 14px; } .checks label { flex-direction: row; gap: 6px; align-items: center; color: var(--ink); }
+.scroll { max-height: 220px; overflow: auto; border: 1px solid var(--line); border-radius: 6px; padding: 6px 8px; }
+.content { background: var(--bg); border-radius: 6px; padding: 10px; font-size: .9rem; max-height: 240px; overflow: auto; }
+.errors { color: var(--bad); } .ok { color: var(--accent); } .warn { color: var(--warn); }
+.tag { display: inline-block; border: 1px solid var(--line); border-radius: 999px; padding: 0 8px; font-size: .75rem; margin-right: 4px; }
+.rub { display: grid; grid-template-columns: 3rem minmax(0, 1fr) 4.5rem auto auto; gap: 6px; align-items: start; }
+.rub textarea { min-height: 38px; }
+pre { white-space: pre-wrap; font-size: .8rem; }
+.sr { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); }
+</style>
+</head>
+<body>
+<header>
+  <h1>Helix Revise admin</h1>
+  <nav class="row" aria-label="Sections"><button data-tab="questions" aria-current="page">Questions</button><button data-tab="subtopics">Subtopics</button><button data-tab="designs">Study designs</button></nav>
+  <label style="margin-left:auto">Your name (for the change history)<input id="who" autocomplete="name"></label>
+  <span id="pub-state" class="small muted" role="status"></span><button class="primary" id="publish">Publish to files</button>
+</header>
+<main id="main"></main>
+<script>
+const TOKEN = "__TOKEN__";
+const $ = (s, el = document) => el.querySelector(s), $$ = (s, el = document) => [...el.querySelectorAll(s)];
+const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+const api = async (path, body) => {
+  const r = await fetch(path, { method: body ? "POST" : "GET", headers: { "X-Admin-Token": TOKEN, "Content-Type": "application/json" }, body: body ? JSON.stringify(body) : undefined });
+  return { status: r.status, data: await r.json() };
+};
+let META, tab = "questions", sel = null, offset = 0;
+const who = $("#who"); try { who.value = localStorage.getItem("helix-admin-who") || ""; } catch {}
+who.onchange = () => { try { localStorage.setItem("helix-admin-who", who.value); } catch {} };
+const subjOf = id => META.subjects.find(s => s.id === id);
+const subById = id => META.subtopics.find(s => s.id === id);
+const current = sid => subjOf(sid).designs.find(d => d.status === "current");
+const opt = (v, t, s) => `<option value="${esc(v)}"${s ? " selected" : ""}>${esc(t)}</option>`;
+const subName = s => `${s.topic_number}. ${s.name}`;
+function pubState(n) { $("#pub-state").textContent = n ? `${n} unpublished change${n === 1 ? "" : "s"}` : "All changes published"; }
+function errs(el, list) { el.innerHTML = list.length ? `<ul class="errors">${list.map(e => `<li>${esc(e)}</li>`).join("")}</ul>` : ""; }
+
+// ---------- questions ----------
+const F = { subject: "", unit: "", design: "", area: "", subtopic: "", tagged: "", prerequisite: "", type: "", format: "", challenge: "", weight: "", marks: "", maxmin: "",
+  origin: "", ai: "", reviewed: "", rubric: "", integrated: "", multitopic: "", q: "" };
+function questionsTab() {
+  const s = F.subject;
+  const subs = META.subtopics.filter(x => (!s || x.subject === s) && x.kind === "syllabus" && x.design_status === "current");
+  const areas = s ? META.areas.filter(a => a.design_id === current(s).id) : [];
+  $("#main").innerHTML = `<form class="filters" id="ff" aria-label="Filter questions">
+    <label>Subject<select name="subject">${opt("", "All")}${META.subjects.map(x => opt(x.id, `${x.name} (${x.label.split(" · ").slice(1).join(" · ")})`, x.id === s)).join("")}</select></label>
+    <label>Unit<select name="unit">${opt("", "Any")}${[1, 2, 3, 4].map(u => opt(u, "Unit " + u, String(u) === F.unit)).join("")}</select></label>
+    <label>Study design<select name="design">${opt("", "Any")}${META.subjects.filter(x => !s || x.id === s).flatMap(x => x.designs.map(d => opt(d.id, `${x.name}: ${d.version} (${d.status})`, String(d.id) === F.design))).join("")}</select></label>
+    <label>Area of study<select name="area" ${s ? "" : "disabled"}>${opt("", s ? "Any" : "Choose a subject")}${areas.map(a => opt(a.id, `${a.code ? a.code + ": " : ""}${a.name}`, String(a.id) === F.area)).join("")}</select></label>
+    <label>Subtopic<select name="subtopic" ${s ? "" : "disabled"}>${opt("", s ? "Any" : "Choose a subject")}${subs.map(x => opt(x.id, subName(x), String(x.id) === F.subtopic)).join("")}</select></label>
+    <label>Subtopic match<select name="tagged">${opt("", "Primary subtopic")}${opt("any", "Any tag (incl. secondary)", F.tagged === "any")}</select></label>
+    <label>Has prerequisite<select name="prerequisite" ${s ? "" : "disabled"}>${opt("", "Any")}${META.subtopics.filter(x => x.kind === "syllabus" && s && (x.subject === s || META.subtopics.some(y => y.subject === s && y.prerequisites.includes(x.id)))).map(x => opt(x.id, `${x.subject}: ${x.name}`, String(x.id) === F.prerequisite)).join("")}</select></label>
+    <label>Question type<select name="type">${opt("", "Any")}${META.types.map(t => opt(t.code, t.name, t.code === F.type)).join("")}</select></label>
+    <label>Format<select name="format">${opt("", "Any")}${[["mcq", "Multiple choice"], ["written", "Written"], ["multi", "Multi-part"]].map(([v, t]) => opt(v, t, v === F.format)).join("")}</select></label>
+    <label>Challenge<select name="challenge">${opt("", "Any")}${opt("1", "Challenge only", F.challenge === "1")}${opt("0", "Not challenge", F.challenge === "0")}</select></label>
+    <label>Exam relevance<select name="weight">${opt("", "Any")}${[[3, "High"], [2, "Medium"], [1, "Low"]].map(([v, t]) => opt(v, t, String(v) === F.weight)).join("")}</select></label>
+    <label>Exam marks<input name="marks" type="number" min="0" value="${esc(F.marks)}"></label>
+    <label>Time at most (min)<input name="maxmin" type="number" min="0" step="0.5" value="${esc(F.maxmin)}"></label>
+    <label>Origin<select name="origin">${opt("", "Any")}${["original", "adapted", "past-paper-style"].map(v => opt(v, v, v === F.origin)).join("")}</select></label>
+    <label>AI-assisted<select name="ai">${opt("", "Any")}${["yes", "no", "unknown"].map(v => opt(v, v, v === F.ai)).join("")}</select></label>
+    <label>Reviewed<select name="reviewed">${opt("", "Any")}${opt("yes", "Has a reviewer", F.reviewed === "yes")}${opt("no", "No reviewer yet", F.reviewed === "no")}</select></label>
+    <label>Rubric<select name="rubric">${opt("", "Any")}${opt("review", "Needs review", F.rubric === "review")}${opt("done", "Reviewed", F.rubric === "done")}</select></label>
+    <label>Integrated<select name="integrated">${opt("", "Any")}${opt("yes", "Spans areas of study", F.integrated === "yes")}</select></label>
+    <label>Several subtopics<select name="multitopic">${opt("", "Any")}${opt("yes", "Tagged to 2+ subtopics", F.multitopic === "yes")}</select></label>
+    <label>Search text or id<input name="q" type="search" value="${esc(F.q)}"></label>
+  </form>
+  <div class="split"><section aria-labelledby="res-h"><div class="row"><h2 id="res-h" style="font-size:1rem;margin:0">Questions</h2><span id="count" class="small muted" role="status"></span>
+    <span style="margin-left:auto" class="row"><button id="prev">Previous</button><button id="next">Next</button></span></div>
+    <div style="overflow:auto;margin-top:8px"><table><thead><tr><th scope="col">Question</th><th scope="col">Subtopic</th><th scope="col">Type</th><th scope="col">Marks</th><th scope="col">Min</th></tr></thead><tbody id="rows"></tbody></table></div></section>
+    <section class="panel" id="editor" aria-live="polite"><p class="muted">Choose a question to see and edit its metadata.</p></section></div>`;
+  $("#ff").onchange = $("#ff").oninput = e => {
+    const f = new FormData($("#ff")); const was = F.subject;
+    for (const k in F) F[k] = f.get(k) ?? "";
+    if (F.subject !== was) { F.area = F.subtopic = F.prerequisite = F.design = ""; offset = 0; return questionsTab(); }
+    offset = 0; clearTimeout(window._t); window._t = setTimeout(load, e.type === "input" ? 300 : 0);
+  };
+  $("#ff").onsubmit = e => e.preventDefault();
+  $("#prev").onclick = () => { offset = Math.max(0, offset - 50); load(); };
+  $("#next").onclick = () => { offset += 50; load(); };
+  load(); if (sel) openQuestion(sel);
+}
+async function load() {
+  const p = new URLSearchParams(Object.entries(F).filter(([, v]) => v)); p.set("offset", offset); p.set("limit", 50);
+  const { data } = await api("/api/questions?" + p);
+  $("#count").textContent = `${data.total.toLocaleString()} found${data.total > 50 ? `, showing ${offset + 1}–${Math.min(offset + 50, data.total)}` : ""}`;
+  $("#prev").disabled = offset === 0; $("#next").disabled = offset + 50 >= data.total;
+  $("#rows").innerHTML = data.rows.map(r => `<tr data-id="${esc(r.id)}" tabindex="0" aria-selected="${r.id === sel}"><td><b>${esc(r.id)}</b>${r.is_challenge ? ' <span class="tag">Challenge</span>' : ""}${r.rubric_to_review ? ' <span class="tag warn">rubric to review</span>' : ""}<br><span class="small">${esc(r.prompt)}</span></td>
+    <td class="small">${esc(r.primary_name || r.area_label || "")}${r.topic_count > 1 ? `<br><span class="muted">+${r.topic_count - 1} more</span>` : ""}</td><td class="small">${esc((r.types || "").replaceAll(",", ", "))}</td><td>${r.exam_marks}</td><td>${r.minutes}</td></tr>`).join("") || `<tr><td colspan="5" class="muted">No questions match.</td></tr>`;
+  $$("#rows tr[data-id]").forEach(tr => { tr.onclick = () => openQuestion(tr.dataset.id); tr.onkeydown = e => { if (e.key === "Enter" || e.key === " ") { e.preventDefault(); openQuestion(tr.dataset.id); } }; });
+}
+async function openQuestion(id) {
+  sel = id; $$("#rows tr").forEach(tr => tr.setAttribute("aria-selected", tr.dataset.id === id));
+  const { data: q, status } = await api("/api/question/" + encodeURIComponent(id));
+  if (status !== 200) { $("#editor").innerHTML = `<p class="errors">Not found.</p>`; return; }
+  const sj = subjOf(q.subject_id), design = current(q.subject_id);
+  const subs = META.subtopics.filter(x => x.subject === q.subject_id && x.design_id === design.id && x.kind === "syllabus");
+  const tagged = Object.fromEntries(q.topics.filter(t => t.study_design_id === design.id).map(t => [t.subtopic_id, t.role]));
+  const prim = Object.keys(tagged).find(k => tagged[k] === "primary") || "";
+  const allowed = sj.allowed, typeName = c => META.types.find(t => t.code === c).name;
+  const content = q.format === "mcq" ? `<ol type="A">${q.options.map(o => `<li>${esc(o.text)}${o.is_correct ? " <b>(correct)</b>" : ""}</li>`).join("")}</ol>`
+    : q.format === "written" ? `<p><b>Model answer:</b> ${esc(q.answer)}</p>`
+    : q.pieces.map(p => p.kind === "info" ? `<p class="muted">${esc(p.text || "[table or diagram]")}</p>` : `<p><b>${esc(p.label)}.</b> ${esc(p.part_question)} <span class="tag">${p.marks} marks</span> <span class="tag">${esc(subById(p.subtopic_id)?.name || "")}</span></p>`).join("");
+  $("#editor").innerHTML = `<h2>${esc(q.id)} <span class="small muted">${esc(sj.name)} · ${esc(sj.label)} · ${{ mcq: "Multiple choice", written: "Written", multi: "Multi-part" }[q.format]}${q.exam_position !== null ? " · exam-style" : ""}</span></h2>
+    <div class="content"><p><b>${esc(q.prompt)}</b></p>${content}</div>
+    <form id="qf" class="panel" style="padding:0;border:0">
+      <h3>Question type</h3><p class="small muted">Tick every type that applies; the first ticked is the main type. Only types allowed for ${esc(sj.name)} are listed.</p>
+      <div class="checks" id="types">${[...q.types, ...allowed.filter(c => !q.types.includes(c))].map(c => `<label><input type="checkbox" value="${c}" ${q.types.includes(c) ? "checked" : ""}> ${esc(typeName(c))}</label>`).join("")}</div>
+      <h3>Topics</h3>
+      ${q.home_kind === "collection" ? `<p class="small muted">A Challenge-set question: give the subtopic it tests, or a syllabus area label when it tests no single subtopic.</p>` : q.exam_position === null ? `<p class="small muted">Changing the primary subtopic moves the question to that subtopic's quiz.</p>` : ""}
+      <div class="grid2"><label>Primary subtopic<select name="primary">${opt("", q.home_kind === "collection" ? "None (use the area label)" : "Choose")}${subs.map(x => opt(x.id, subName(x), String(x.id) === prim)).join("")}</select></label>
+        ${q.home_kind === "collection" ? `<label>Area label<input name="area_label" value="${esc(q.area_label || "")}"></label>` : ""}</div>
+      <fieldset class="scroll"><legend class="small muted">Secondary subtopics (other subtopics the question tests)</legend><div class="checks">${subs.map(x => `<label><input type="checkbox" name="secondary" value="${x.id}" ${tagged[x.id] === "secondary" ? "checked" : ""}> ${esc(subName(x))}</label>`).join("")}</div></fieldset>
+      <h3>Marks, time and challenge</h3>
+      <div class="grid2"><label>Exam marks<input name="exam_marks" type="number" min="0" value="${q.exam_marks}" ${q.format !== "written" ? "readonly" : ""}></label>
+        <label>Minutes<input name="minutes" type="number" min="0.5" step="0.5" value="${q.minutes}"></label>
+        <label>Challenge<select name="is_challenge">${opt(0, "No", !q.is_challenge)}${opt(1, "Yes", q.is_challenge)}</select></label></div>
+      <h3>Source and provenance</h3>
+      <div class="grid2"><label>Source label<input name="source" value="${esc(q.source || "")}"></label>
+        <label>Origin<select name="origin">${["original", "adapted", "past-paper-style"].map(v => opt(v, v, v === q.origin)).join("")}</select></label>
+        <label>AI-assisted<select name="ai_assisted">${["unknown", "yes", "no"].map(v => opt(v, v, v === q.ai_assisted)).join("")}</select></label>
+        <label>Author<input name="author" value="${esc(q.author || "")}"></label>
+        <label>Reviewed by<input name="reviewed_by" value="${esc(q.reviewed_by || "")}"></label>
+        <label>Reviewed on<input name="reviewed_at" type="date" value="${esc(q.reviewed_at || "")}"></label></div>
+      <label>Provenance note<textarea name="provenance_note">${esc(q.provenance_note || "")}</textarea></label>
+      <h3>Marking rubric</h3><p class="small muted">Criteria marks must add up to ${q.format === "multi" ? "each part's marks" : "the exam marks"}.</p>
+      <div id="rubric">${q.rubric.map(r => rubRow(r)).join("")}</div>
+      ${q.format !== "multi" ? `<button type="button" id="addcrit">Add criterion</button>` : ""}
+      <div class="row"><button class="primary" type="submit">Save changes</button><span id="qmsg" role="status"></span></div><div id="qerr" role="alert"></div>
+    </form>
+    <details><summary>Change history (${q.revisions.length})</summary><pre>${q.revisions.map(r => `${r.changed_at} ${r.changed_by}: ${r.field}\n  ${r.old_value}\n→ ${r.new_value}`).map(esc).join("\n")}</pre></details>`;
+  const f = $("#qf");
+  $$("#rubric .del", f).forEach(b => b.onclick = () => b.closest(".rub").remove());
+  if ($("#addcrit")) $("#addcrit").onclick = () => { $("#rubric").insertAdjacentHTML("beforeend", rubRow({ piece_id: null, description: "", marks: 1, needs_review: 0 })); const r = $("#rubric").lastElementChild; r.querySelector(".del").onclick = () => r.remove(); r.querySelector("textarea").focus(); };
+  f.onsubmit = async e => {
+    e.preventDefault();
+    const v = n => f.elements[n] ? f.elements[n].value : undefined;
+    const types = $$("#types input:checked").map(i => i.value);
+    const topics = [];
+    if (v("primary")) topics.push({ subtopic_id: +v("primary"), role: "primary" });
+    $$("input[name=secondary]:checked", f).forEach(i => { if (i.value !== v("primary")) topics.push({ subtopic_id: +i.value, role: "secondary" }); });
+    const rubric = $$(".rub", f).map(r => ({ piece_id: r.dataset.piece ? +r.dataset.piece : null, description: r.querySelector("textarea").value, marks: +r.querySelector("input[type=number]").value, needs_review: r.querySelector("input[type=checkbox]").checked }));
+    const fields = { exam_marks: +v("exam_marks"), minutes: +v("minutes"), is_challenge: +v("is_challenge"), source: v("source"), origin: v("origin"), ai_assisted: v("ai_assisted"),
+      author: v("author"), reviewed_by: v("reviewed_by"), reviewed_at: v("reviewed_at"), provenance_note: v("provenance_note") };
+    if (f.elements.area_label) fields.area_label = v("area_label");
+    $("#qmsg").textContent = "Saving…";
+    const { data } = await api("/api/question/" + encodeURIComponent(q.id), { changed_by: who.value, fields, types, topics, rubric });
+    errs($("#qerr"), data.errors || []);
+    $("#qmsg").textContent = data.ok ? "Saved." : "Not saved: fix the problems below.";
+    if (data.ok) { META.unpublished++; pubState(META.unpublished); load(); openQuestion(q.id); }
+  };
+}
+const rubRow = r => `<div class="rub" data-piece="${r.piece_id ?? ""}"><span class="small muted">${r.part ? "Part " + esc(r.part) : "Q"}</span>
+  <textarea aria-label="Criterion">${esc(r.description)}</textarea>
+  <input type="number" min="0" value="${r.marks}" aria-label="Marks">
+  <label class="small" style="flex-direction:row;gap:4px;align-items:center"><input type="checkbox" ${r.needs_review ? "checked" : ""}> review</label>
+  ${r.piece_id ? "<span></span>" : `<button type="button" class="del" aria-label="Remove criterion">✕</button>`}</div>`;
+
+// ---------- subtopics ----------
+let subSubject = "methods";
+function subtopicsTab() {
+  const sj = subjOf(subSubject), design = current(subSubject);
+  const subs = META.subtopics.filter(x => x.design_id === design.id && x.kind === "syllabus");
+  const areas = META.areas.filter(a => a.design_id === design.id);
+  const pool = META.subtopics.filter(x => x.kind === "syllabus" && x.design_status === "current" && subjOf(x.subject).curriculum === sj.curriculum);
+  $("#main").innerHTML = `<div class="row"><label>Subject<select id="ss">${META.subjects.map(x => opt(x.id, `${x.name} (${x.label.split(" · ").slice(1).join(" · ")})`, x.id === subSubject)).join("")}</select></label>
+    <p class="small muted" style="max-width:48rem">Exam relevance, prerequisites and prior knowledge for each subtopic of the current study design. Prerequisites may come from this course or an earlier one, never a later unit; saving is refused if it would create a cycle.</p></div>
+    <div style="display:grid;gap:12px;margin-top:12px">${subs.map(x => `<form class="panel" data-id="${x.id}"><h2>${esc(subName(x))} <span class="small muted">${esc(x.slug)}</span></h2>
+      <div class="grid2"><label>Exam relevance<select name="exam_weight">${[[3, "High"], [2, "Medium"], [1, "Low"]].map(([v, t]) => opt(v, t, v === x.exam_weight)).join("")}</select></label>
+        <label>Area of study (whole topic)<select name="area_id">${opt("", "Not set")}${areas.map(a => opt(a.id, `${a.code ? a.code + ": " : ""}${a.name}`, a.id === x.area_id)).join("")}</select></label>
+        <label>Prior knowledge<input name="prior_knowledge" value="${esc(x.prior_knowledge)}"></label>
+        <label>Format note (optional)<input name="format_note" value="${esc(x.format_note || "")}"></label></div>
+      <label>Prerequisite subtopics (Ctrl/Cmd-click to choose several)<select name="prerequisites" multiple size="5">${META.subjects.filter(s => pool.some(p => p.subject === s.id)).map(s => `<optgroup label="${esc(s.name + " " + s.label.split(" · ").slice(1).join(" · "))}">${pool.filter(p => p.subject === s.id && p.id !== x.id).map(p => opt(p.id, subName(p), x.prerequisites.includes(p.id))).join("")}</optgroup>`).join("")}</select></label>
+      <div class="row"><button class="primary">Save</button><span class="msg" role="status"></span></div><div class="err" role="alert"></div></form>`).join("")}</div>`;
+  $("#ss").onchange = e => { subSubject = e.target.value; subtopicsTab(); };
+  $$("form[data-id]").forEach(f => f.onsubmit = async e => {
+    e.preventDefault();
+    const body = { exam_weight: +f.elements.exam_weight.value, prior_knowledge: f.elements.prior_knowledge.value.trim(), format_note: f.elements.format_note.value.trim(),
+      prerequisites: [...f.elements.prerequisites.selectedOptions].map(o => +o.value), area_id: f.elements.area_id.value ? +f.elements.area_id.value : null };
+    const { data } = await api("/api/subtopic/" + f.dataset.id, body);
+    errs($(".err", f), data.errors || []); $(".msg", f).textContent = data.ok ? "Saved." : "Not saved.";
+    if (data.ok) { await refresh(); }
+  });
+}
+
+// ---------- study designs ----------
+function designsTab() {
+  $("#main").innerHTML = `<p class="small muted" style="max-width:52rem">Each course has one current study design. When VCAA accredits a new one, record it here, map topics to its areas of study, and re-tag questions (see db/README.md). Imported designs have no years yet: confirm them against the VCAA website.</p>
+  <div style="display:grid;gap:12px">${META.subjects.map(s => s.designs.map(d => `<form class="panel" data-id="${d.id}"><h2>${esc(s.name)} <span class="small muted">${esc(s.label)}</span></h2>
+    <div class="grid2"><label>Version<input name="version" value="${esc(d.version)}"></label><label>Title<input name="title" value="${esc(d.title)}"></label>
+      <label>Accredited from<input name="accredited_from" type="number" value="${esc(d.accredited_from ?? "")}"></label><label>Accredited to<input name="accredited_to" type="number" value="${esc(d.accredited_to ?? "")}"></label>
+      <label>Status<select name="status">${["draft", "current", "retired"].map(v => opt(v, v, v === d.status)).join("")}</select></label><label>Source URL<input name="source_url" type="url" value="${esc(d.source_url ?? "")}"></label></div>
+    <label>Notes<textarea name="notes">${esc(d.notes ?? "")}</textarea></label>
+    <details><summary>Areas of study (${META.areas.filter(a => a.design_id === d.id).length})</summary><div style="display:grid;gap:6px;margin-top:8px">${META.areas.filter(a => a.design_id === d.id).map(a => `<div class="grid2" data-area="${a.id}">
+      <label>Code<input name="code" value="${esc(a.code ?? "")}" placeholder="e.g. Unit 3 AOS 1"></label><label>Unit<input name="unit" type="number" min="1" max="4" value="${esc(a.unit ?? "")}"></label><label>Name<input name="name" value="${esc(a.name)}"></label></div>`).join("")}</div></details>
+    <div class="row"><button class="primary">Save</button><span class="msg" role="status"></span></div><div class="err" role="alert"></div></form>`).join("")).join("")}</div>`;
+  $$("form[data-id]").forEach(f => f.onsubmit = async e => {
+    e.preventDefault();
+    const body = Object.fromEntries(["version", "title", "accredited_from", "accredited_to", "status", "source_url", "notes"].map(k => [k, f.elements[k].value]));
+    body.accredited_from = body.accredited_from ? +body.accredited_from : ""; body.accredited_to = body.accredited_to ? +body.accredited_to : "";
+    body.areas = $$("[data-area]", f).map(a => ({ id: +a.dataset.area, code: $("[name=code]", a).value, unit: $("[name=unit]", a).value, name: $("[name=name]", a).value }));
+    const { data } = await api("/api/design/" + f.dataset.id, body);
+    errs($(".err", f), data.errors || []); $(".msg", f).textContent = data.ok ? "Saved." : "Not saved.";
+    if (data.ok) await refresh();
+  });
+}
+
+async function refresh() { META = (await api("/api/meta")).data; pubState(META.unpublished); }
+function show(t) { tab = t; $$("nav button").forEach(b => b.dataset.tab === t ? b.setAttribute("aria-current", "page") : b.removeAttribute("aria-current")); ({ questions: questionsTab, subtopics: subtopicsTab, designs: designsTab })[t](); }
+$$("nav button").forEach(b => b.onclick = () => show(b.dataset.tab));
+$("#publish").onclick = async () => {
+  const b = $("#publish"); b.disabled = true; $("#pub-state").textContent = "Publishing…";
+  const { data } = await api("/api/publish", {});
+  b.disabled = false; await refresh();
+  alert(data.ok ? data.log : "Not published:\n" + (data.errors || []).join("\n"));
+};
+refresh().then(() => show("questions"));
+</script>
+</body>
+</html>
