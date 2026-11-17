@@ -8,8 +8,11 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 #### Atomic structure and isotopes
 
+*Exam relevance: High (core content that Units 3 & 4 build on) · Prerequisites: Protons, neutrons and electrons*
+
 **Q1.** How many neutrons are in one atom of chlorine-37 (³⁷₁₇Cl)?
 <!-- id: chem12a1-ast-1 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. 17
 - B. 20
@@ -18,6 +21,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q2.** Carbon-12 and carbon-14 have the same chemical properties because they have the same
 <!-- id: chem12a1-ast-2 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. mass number.
 - B. number of neutrons.
@@ -26,6 +30,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q3.** The ion ⁵⁶Fe³⁺ contains
 <!-- id: chem12a1-ast-3 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. 26 protons, 30 neutrons and 23 electrons.
 - B. 26 protons, 30 neutrons and 29 electrons.
@@ -34,6 +39,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q4.** A sample of copper contains 69.2% copper-63 and 30.8% copper-65 (take the isotopic masses as 63.0 and 65.0). The relative atomic mass of copper in this sample is closest to
 <!-- id: chem12a1-ast-4 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. 63.0
 - B. 63.6
@@ -42,6 +48,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q5.** In Rutherford's gold foil experiment, most alpha particles passed straight through the foil, but a very small number were deflected back. This showed that
 <!-- id: chem12a1-ast-5 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. electrons occupy fixed energy levels.
 - B. atoms are solid, indivisible spheres.
@@ -50,21 +57,25 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q6.** Define the term isotopes and explain why ¹²C and ¹⁴C react identically with oxygen. (2 marks)
 <!-- id: chem12a1-ast-6 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q7.** Naturally occurring boron is 19.9% ¹⁰B (isotopic mass 10.0) and 80.1% ¹¹B (isotopic mass 11.0). Calculate the relative atomic mass of boron to three significant figures. Show your working. (2 marks)
 <!-- id: chem12a1-ast-7 -->
+*Info: Calculation · about 2 marks · about 2.5 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q8.** A particle contains 16 protons, 18 neutrons and 18 electrons. Identify the particle and write its full symbol, including mass number and charge. Explain how you determined the charge. (3 marks)
 <!-- id: chem12a1-ast-8 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q9.** The atomic number of an element is the number of
 <!-- id: chem12a1-ast-9 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. neutrons in the nucleus of an atom.
 - B. protons in the nucleus of an atom.
@@ -73,6 +84,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q10.** Which statement best describes the mass number of an atom?
 <!-- id: chem12a1-ast-10 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. The total number of protons and neutrons in its nucleus.
 - B. The number of protons in its nucleus.
@@ -81,6 +93,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q11.** Chlorine consists of 75.8% ³⁵Cl (isotopic mass 35.0) and 24.2% ³⁷Cl (isotopic mass 37.0). The relative atomic mass of chlorine is closest to
 <!-- id: chem12a1-ast-11 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. 35.0
 - B. 35.2
@@ -89,6 +102,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q12.** How many electrons are in one ²⁴Mg²⁺ ion?
 <!-- id: chem12a1-ast-12 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. 10
 - B. 12
@@ -97,6 +111,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q13.** The electron configuration of a calcium atom (atomic number 20) is
 <!-- id: chem12a1-ast-13 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. 2,8,10
 - B. 2,8,2
@@ -105,6 +120,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q14.** In a mass spectrometer, positive ions are separated according to their
 <!-- id: chem12a1-ast-14 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. mass-to-charge ratio.
 - B. number of neutrons only.
@@ -113,6 +129,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q15.** Which subatomic particle has a relative mass of approximately 1 and no electrical charge?
 <!-- id: chem12a1-ast-15 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. Electron
 - B. Proton
@@ -121,6 +138,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q16.** Which pair of atoms are isotopes of the same element?
 <!-- id: chem12a1-ast-16 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. ¹⁴₆C and ¹⁴₇N
 - B. ¹⁶₈O and ¹⁸₈O
@@ -129,6 +147,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q17.** A species contains 17 protons, 18 neutrons and 18 electrons. It is
 <!-- id: chem12a1-ast-17 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. ³⁵Cl⁺
 - B. ³⁵Ar⁻
@@ -137,6 +156,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q18.** An atom has the electron configuration 2,8,5. It is located in
 <!-- id: chem12a1-ast-18 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. Group 5, period 2.
 - B. Group 13, period 3.
@@ -145,6 +165,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q19.** The relative atomic mass of most elements is not a whole number because it is
 <!-- id: chem12a1-ast-19 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. affected by fractions of protons in the nucleus.
 - B. a weighted average of the masses of the naturally occurring isotopes.
@@ -153,6 +174,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q20.** Magnesium has three isotopes: ²⁴Mg (79.0%), ²⁵Mg (10.0%) and ²⁶Mg (11.0%). Taking isotopic masses as 24.0, 25.0 and 26.0, the relative atomic mass of magnesium is closest to
 <!-- id: chem12a1-ast-20 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. 24.0
 - B. 24.2
@@ -161,6 +183,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q21.** How many valence electrons does a sulfur atom (atomic number 16) have?
 <!-- id: chem12a1-ast-21 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. 6
 - B. 2
@@ -169,6 +192,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q22.** An atom has 6 protons and 8 neutrons. Its symbol is
 <!-- id: chem12a1-ast-22 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. ⁸₆C
 - B. ¹⁴₈O
@@ -177,6 +201,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q23.** Element X has two isotopes, ⁷⁹X and ⁸¹X, and a relative atomic mass of 79.9. It can be concluded that
 <!-- id: chem12a1-ast-23 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. ⁸¹X is the more abundant isotope.
 - B. ⁷⁹X is the more abundant isotope.
@@ -185,51 +210,61 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q24.** Describe how the nuclear model of the atom proposed by Rutherford differed from Thomson's plum pudding model. (3 marks)
 <!-- id: chem12a1-ast-24 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q25.** Naturally occurring neon consists of 90.5% ²⁰Ne, 0.3% ²¹Ne and 9.2% ²²Ne. Taking isotopic masses as 20.0, 21.0 and 22.0, calculate the relative atomic mass of neon to three significant figures. (2 marks)
 <!-- id: chem12a1-ast-25 -->
+*Info: Calculation · about 2 marks · about 2.5 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q26.** Write the electron configuration of an aluminium atom (atomic number 13) and of an Al³⁺ ion, and explain the difference. (3 marks)
 <!-- id: chem12a1-ast-26 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q27.** State the number of protons, neutrons and electrons in one ⁶⁵Zn²⁺ ion (zinc has atomic number 30). (3 marks)
 <!-- id: chem12a1-ast-27 -->
+*Info: Recall · about 3 marks · about 4 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q28.** Lithium has two stable isotopes, ⁶Li (isotopic mass 6.0) and ⁷Li (isotopic mass 7.0). The relative atomic mass of lithium is 6.94. Calculate the percentage abundance of each isotope. (3 marks)
 <!-- id: chem12a1-ast-28 -->
+*Info: Calculation · about 3 marks · about 4 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q29.** Describe what a mass spectrum of an element shows and explain how it is used to determine the relative atomic mass of the element. (3 marks)
 <!-- id: chem12a1-ast-29 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q30.** Describe two ways in which Bohr's model of the atom improved on Rutherford's nuclear model. (2 marks)
 <!-- id: chem12a1-ast-30 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q31.** Atom X has 12 protons and 12 neutrons, atom Y has 12 protons and 14 neutrons, and atom Z has 13 protons and 14 neutrons. Identify which two atoms are isotopes of the same element and write the symbol for each of them. (3 marks)
 <!-- id: chem12a1-ast-31 -->
+*Info: Recall · about 3 marks · about 4 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q32.** A ⁴⁰Ca atom forms a Ca²⁺ ion. State the number of electrons in the ion, write its electron configuration, and name the noble gas atom with the same configuration. (3 marks)
 <!-- id: chem12a1-ast-32 -->
+*Info: Recall · about 3 marks · about 4 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q33.** How many protons, neutrons and electrons are in one ³¹P³⁻ ion? (P has atomic number 15)
 <!-- id: chem12a1-ast-33 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. 15 protons, 16 neutrons, 18 electrons
 - B. 15 protons, 16 neutrons, 12 electrons
@@ -239,6 +274,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 **Q34.** Which pair of atoms contains the same number of neutrons?
 <!-- id: vce-chem12-as-c1 -->
 *Challenge question*
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams; harder than most exam questions*
 
 - A. ¹²C and ¹⁴N
 - B. ¹⁴C and ¹⁶O
@@ -247,8 +283,11 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 #### Electron configuration and subshells
 
+*Exam relevance: Medium (core content for school assessments) · Prerequisites: Atomic structure and isotopes*
+
 **Q35.** Which is the correct ground-state electron configuration of a potassium atom?
 <!-- id: chem12a1-ec-1 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. 1s² 2s² 2p⁶ 3s² 3p⁶ 3d¹
 - B. 1s² 2s² 2p⁶ 3s² 3p⁷
@@ -257,6 +296,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q36.** The maximum number of electrons that can occupy a d subshell is
 <!-- id: chem12a1-ec-2 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. 2
 - B. 6
@@ -265,6 +305,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q37.** The ground-state electron configuration of copper is an exception to the usual filling order. It is
 <!-- id: chem12a1-ec-3 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. 1s² 2s² 2p⁶ 3s² 3p⁶ 3d¹⁰ 4s¹
 - B. 1s² 2s² 2p⁶ 3s² 3p⁶ 3d⁹ 4s²
@@ -273,6 +314,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q38.** The electron configuration of the Fe³⁺ ion is
 <!-- id: chem12a1-ec-4 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. [Ar] 3d³ 4s²
 - B. [Ar] 3d⁵
@@ -281,6 +323,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q39.** The outermost subshell of an element's ground-state atom is 4p³. The element is in
 <!-- id: chem12a1-ec-5 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. period 3, group 15 of the p-block.
 - B. period 4, group 13 of the p-block.
@@ -289,21 +332,25 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q40.** Write the full subshell electron configuration for a sulfur atom and for the sulfide ion, S²⁻. (2 marks)
 <!-- id: chem12a1-ec-6 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q41.** Using the Schrödinger (subshell) model, explain why the 19th electron of calcium enters the 4s subshell rather than the 3d subshell, and state how many electrons a single orbital can hold. (2 marks)
 <!-- id: chem12a1-ec-7 -->
+*Info: Calculation · about 2 marks · about 2.5 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q42.** When a sample of a lithium salt is placed in a flame, a crimson colour is seen. Through a spectroscope this light appears as a series of distinct coloured lines. Explain how these lines arise and why each element gives a unique pattern. (3 marks)
 <!-- id: chem12a1-ec-8 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q43.** How many orbitals are there in a p subshell?
 <!-- id: chem12a1-ec-9 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. 3
 - B. 1
@@ -312,6 +359,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q44.** Which subshells are found in the third shell (n = 3)?
 <!-- id: chem12a1-ec-10 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. 3s and 3p only
 - B. 3s, 3p and 3d
@@ -320,6 +368,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q45.** What is the maximum number of electrons that can occupy the third shell (n = 3)?
 <!-- id: chem12a1-ec-11 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. 8
 - B. 10
@@ -328,6 +377,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q46.** The ground-state electron configuration of chromium is
 <!-- id: chem12a1-ec-12 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. [Ar] 3d⁴ 4s²
 - B. [Ar] 3d⁶
@@ -336,6 +386,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q47.** The electron configuration of the magnesium ion, Mg²⁺, is
 <!-- id: chem12a1-ec-13 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. 1s² 2s² 2p⁶
 - B. 1s² 2s² 2p⁶ 3s²
@@ -344,6 +395,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q48.** The electron configuration of the Zn²⁺ ion is
 <!-- id: chem12a1-ec-14 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. [Ar] 3d⁸ 4s²
 - B. [Ar] 3d¹⁰
@@ -352,6 +404,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q49.** Which subshell is filled immediately after the 4s subshell in the ground-state filling order?
 <!-- id: chem12a1-ec-15 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. 4p
 - B. 4d
@@ -360,6 +413,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q50.** How many unpaired electrons are in a ground-state nitrogen atom?
 <!-- id: chem12a1-ec-16 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. 1
 - B. 2
@@ -368,6 +422,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q51.** Which ion has the same electron configuration as an argon atom?
 <!-- id: chem12a1-ec-17 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. Ca²⁺
 - B. Mg²⁺
@@ -376,6 +431,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q52.** The outer subshell configuration of the atoms of a group 16 element is
 <!-- id: chem12a1-ec-18 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. ns² np⁶
 - B. ns² np⁴
@@ -384,6 +440,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q53.** An atom has the ground-state configuration 1s² 2s² 2p⁶ 3s² 3p¹. The element is
 <!-- id: chem12a1-ec-19 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. boron
 - B. silicon
@@ -392,6 +449,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q54.** Which list shows the subshells in order of increasing energy?
 <!-- id: chem12a1-ec-20 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. 3p, 3d, 4s, 4p
 - B. 4s, 3p, 3d, 4p
@@ -400,6 +458,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q55.** The electron configuration of the Cu⁺ ion is
 <!-- id: chem12a1-ec-21 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. [Ar] 3d¹⁰
 - B. [Ar] 3d⁹ 4s¹
@@ -408,6 +467,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q56.** How many electrons are in the 2p subshell of a ground-state oxygen atom?
 <!-- id: chem12a1-ec-22 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. 2
 - B. 4
@@ -416,6 +476,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q57.** According to the Pauli exclusion principle, two electrons in the same orbital must
 <!-- id: chem12a1-ec-23 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. have the same spin
 - B. be in different subshells
@@ -424,6 +485,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q58.** The electron configuration of the Ni²⁺ ion is
 <!-- id: chem12a1-ec-24 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. [Ar] 3d⁶ 4s²
 - B. [Ar] 3d⁷ 4s¹
@@ -432,31 +494,37 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q59.** Write the full subshell electron configurations for an aluminium atom and an aluminium ion, Al³⁺, and state which noble gas atom the ion has the same configuration as. (3 marks)
 <!-- id: chem12a1-ec-25 -->
+*Info: Recall · about 3 marks · about 4 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q60.** Define the terms subshell and orbital, and state the number of orbitals in a d subshell. (3 marks)
 <!-- id: chem12a1-ec-26 -->
+*Info: Recall · about 3 marks · about 4 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q61.** Write the electron configurations of a vanadium atom and a V³⁺ ion using noble gas shorthand. (2 marks)
 <!-- id: chem12a1-ec-27 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q62.** Explain why scandium is classified as a d-block element while calcium is classified as an s-block element. (2 marks)
 <!-- id: chem12a1-ec-28 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q63.** Write the electron configuration of a cobalt(II) ion, Co²⁺, using noble gas shorthand, state the number of unpaired electrons, and explain which electrons are removed when the ion forms. (3 marks)
 <!-- id: chem12a1-ec-29 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q64.** How many unpaired electrons are there in a ground-state Mn²⁺ ion? (Mn has atomic number 25)
 <!-- id: chem12a1-ec-30 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. 2
 - B. 5
@@ -465,6 +533,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q65.** An atom has the ground-state configuration [Ar] 3d¹⁰ 4s² 4p². The element is
 <!-- id: chem12a1-ec-31 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. silicon (Z = 14)
 - B. gallium (Z = 31)
@@ -473,12 +542,14 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q66.** Write the full subshell electron configuration of a bromine atom (atomic number 35) and of a bromide ion, Br⁻, and name the noble gas with the same configuration as Br⁻. (3 marks)
 <!-- id: chem12a1-ec-32 -->
+*Info: Recall · about 3 marks · about 4 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q67.** The electron configuration of the Fe³⁺ ion (Fe: Z = 26) is:
 <!-- id: vce-chem12-ec-c1 -->
 *Challenge question*
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams; harder than most exam questions*
 
 - A. 1s² 2s² 2p⁶ 3s² 3p⁶ 3d⁵
 - B. 1s² 2s² 2p⁶ 3s² 3p⁶ 3d³ 4s²
@@ -487,8 +558,11 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 #### Periodic table trends
 
+*Exam relevance: Medium (core content for school assessments) · Prerequisites: Electron configuration and subshells*
+
 **Q68.** Moving from sodium to chlorine across period 3, atomic radius decreases. The best explanation is that
 <!-- id: chem12a1-pt-1 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. the number of occupied shells decreases.
 - B. core charge increases while the number of occupied shells stays the same.
@@ -497,6 +571,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q69.** Which period 3 element has the highest first ionisation energy?
 <!-- id: chem12a1-pt-2 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. Sodium
 - B. Magnesium
@@ -505,6 +580,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q70.** The core charge experienced by the valence electrons of a sulfur atom is
 <!-- id: chem12a1-pt-3 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. +2
 - B. +6
@@ -513,6 +589,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q71.** Potassium reacts more vigorously with water than sodium does. This is mainly because, in potassium,
 <!-- id: chem12a1-pt-4 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. the valence electron is further from the nucleus, so it is lost more easily.
 - B. the core charge is greater.
@@ -521,6 +598,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q72.** Element X has a core charge of +7 and three occupied electron shells. Compared with fluorine, X would be expected to
 <!-- id: chem12a1-pt-5 -->
+*Info: Application · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. have a higher electronegativity.
 - B. have a smaller atomic radius.
@@ -529,21 +607,25 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q73.** The ions Na⁺ and F⁻ both have the electron configuration 1s² 2s² 2p⁶. Explain why Na⁺ has a smaller radius than F⁻. (2 marks)
 <!-- id: chem12a1-pt-6 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q74.** Describe and explain the trend in first ionisation energy down group 1 from lithium to caesium. (3 marks)
 <!-- id: chem12a1-pt-7 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q75.** The electronegativities of four period 3 elements are: Na 0.9, Mg 1.3, P 2.2, Cl 3.2. Describe the trend shown and explain it in terms of atomic structure. (2 marks)
 <!-- id: chem12a1-pt-8 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q76.** The core charge experienced by the valence electrons of a magnesium atom is
 <!-- id: chem12a1-pt-9 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. +2
 - B. +10
@@ -552,6 +634,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q77.** Which of the following atoms has the largest atomic radius?
 <!-- id: chem12a1-pt-10 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. Lithium
 - B. Beryllium
@@ -560,6 +643,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q78.** Which statement correctly describes electronegativity down group 17 from fluorine to iodine?
 <!-- id: chem12a1-pt-11 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. It increases because the number of protons increases.
 - B. It decreases because the valence shell is further from the nucleus.
@@ -568,6 +652,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q79.** Which element has the highest electronegativity?
 <!-- id: chem12a1-pt-12 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. Caesium
 - B. Chlorine
@@ -576,6 +661,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q80.** Which of the following lists the halogens in order of decreasing reactivity?
 <!-- id: chem12a1-pt-13 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. F₂ > Cl₂ > Br₂ > I₂
 - B. I₂ > Br₂ > Cl₂ > F₂
@@ -584,6 +670,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q81.** In period 3, which element has a lower first ionisation energy than the element immediately before it?
 <!-- id: chem12a1-pt-14 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. Magnesium
 - B. Silicon
@@ -592,6 +679,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q82.** Elements in the same group of the periodic table have similar chemical properties mainly because they have
 <!-- id: chem12a1-pt-15 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. the same number of occupied shells.
 - B. the same number of valence electrons.
@@ -600,6 +688,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q83.** Which of the following period 3 elements is the most metallic?
 <!-- id: chem12a1-pt-16 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. Aluminium
 - B. Silicon
@@ -608,6 +697,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q84.** A magnesium ion, Mg²⁺, has a smaller radius than a magnesium atom because
 <!-- id: chem12a1-pt-17 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. the ion has more protons than the atom.
 - B. the ion has lost its entire third shell, so it has fewer occupied shells.
@@ -616,6 +706,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q85.** The chloride ion, Cl⁻, has a larger radius than the chlorine atom because
 <!-- id: chem12a1-pt-18 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. the ion has an extra occupied shell.
 - B. the ion has more protons in its nucleus.
@@ -624,6 +715,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q86.** An element in group 15 and period 3 has a core charge of
 <!-- id: chem12a1-pt-19 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. +3
 - B. +15
@@ -632,6 +724,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q87.** Which of the following has the larger atomic radius, and why?
 <!-- id: chem12a1-pt-20 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. Carbon, because it has a lower core charge than fluorine.
 - B. Fluorine, because it has more protons than carbon.
@@ -640,6 +733,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q88.** Which of the following elements has the highest first ionisation energy?
 <!-- id: chem12a1-pt-21 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. Lithium
 - B. Beryllium
@@ -648,6 +742,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q89.** Compared with sodium, rubidium has
 <!-- id: chem12a1-pt-22 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. a lower first ionisation energy and a larger atomic radius.
 - B. a higher first ionisation energy and a larger atomic radius.
@@ -656,6 +751,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q90.** Neon has a higher first ionisation energy than argon. This is because neon's valence electrons are
 <!-- id: chem12a1-pt-23 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. in a shell with fewer occupied shells beneath it, so they are closer to the nucleus and held more strongly.
 - B. fewer in number than those of argon.
@@ -664,21 +760,25 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q91.** Define the term core charge and calculate the core charge of an aluminium atom. (2 marks)
 <!-- id: chem12a1-pt-24 -->
+*Info: Calculation · about 2 marks · about 2.5 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q92.** Calcium reacts more vigorously with water than magnesium does. Explain this difference in terms of atomic structure. (3 marks)
 <!-- id: chem12a1-pt-25 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q93.** The atomic radii of four period 3 elements are: Na 186 pm, Mg 160 pm, Al 143 pm and Si 117 pm. Describe the trend and explain it. (3 marks)
 <!-- id: chem12a1-pt-26 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q94.** Which group 2 element has the lowest first ionisation energy?
 <!-- id: chem12a1-pt-27 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. beryllium
 - B. magnesium
@@ -687,6 +787,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q95.** Which of the following species has the largest radius?
 <!-- id: chem12a1-pt-28 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. O²⁻
 - B. F⁻
@@ -695,6 +796,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q96.** The first five ionisation energies of an element, in kJ mol⁻¹, are 738, 1451, 7733, 10 543 and 13 630. The element is in group
 <!-- id: chem12a1-pt-29 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. 1
 - B. 2
@@ -703,17 +805,20 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q97.** The first four ionisation energies of an element in period 3 are 577, 1817, 2745 and 11 577 kJ mol⁻¹. State the group of the element, justify your answer and identify the element. (3 marks)
 <!-- id: chem12a1-pt-30 -->
+*Info: Evaluation · about 3 marks · about 4 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q98.** Compare the first ionisation energy of sodium with that of chlorine and explain the difference. (2 marks)
 <!-- id: chem12a1-pt-31 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q99.** Across period 3 from Na to Cl, atomic radius decreases mainly because:
 <!-- id: vce-chem12-pt-c1 -->
 *Challenge question*
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams; harder than most exam questions*
 
 - A. Core charge increases while the number of occupied shells stays the same
 - B. More shells are added across the period, pulling electrons closer
@@ -722,8 +827,11 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 #### Metallic bonding and properties of metals
 
+*Exam relevance: Medium (core content for school assessments) · Prerequisites: Atomic structure and isotopes*
+
 **Q100.** In the metallic bonding model, a metal consists of
 <!-- id: chem12a1-mb-1 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. a lattice of positive ions surrounded by a sea of delocalised electrons.
 - B. a lattice of alternating positive and negative ions.
@@ -732,6 +840,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q101.** Metals are malleable because
 <!-- id: chem12a1-mb-2 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. the ions are held in fixed positions by directional bonds.
 - B. the delocalised electrons evaporate when the metal is struck.
@@ -740,6 +849,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q102.** Which property of metals is NOT well explained by the simple metallic bonding model?
 <!-- id: chem12a1-mb-3 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. Electrical conductivity
 - B. Ductility
@@ -748,6 +858,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q103.** A piece of steel is heated until red hot and then allowed to cool slowly in air. This treatment, called annealing, produces steel that is
 <!-- id: chem12a1-mb-4 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. harder and more brittle, with very small crystals.
 - B. softer and more ductile, with larger crystals.
@@ -756,6 +867,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q104.** Metals conduct electricity in the solid state because
 <!-- id: chem12a1-mb-5 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. the cations move towards the negative electrode.
 - B. the delocalised electrons can move through the lattice when a potential difference is applied.
@@ -764,21 +876,25 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q105.** Magnesium melts at 650 °C, whereas sodium melts at 98 °C. Use the metallic bonding model to explain this difference. (2 marks)
 <!-- id: chem12a1-mb-6 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q106.** Steel is an interstitial alloy of iron containing small amounts of carbon. Explain why steel is harder than pure iron. (2 marks)
 <!-- id: chem12a1-mb-7 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q107.** A blacksmith quenches a hot steel blade in cold water and then tempers it. Describe how each treatment changes the crystal structure and properties of the steel. (3 marks)
 <!-- id: chem12a1-mb-8 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q108.** Metals are typically lustrous (shiny) because
 <!-- id: chem12a1-mb-9 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. delocalised electrons at the surface absorb and re-emit light of most visible wavelengths.
 - B. the cations in the lattice emit light of their own.
@@ -787,6 +903,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q109.** Metals are good conductors of heat mainly because
 <!-- id: chem12a1-mb-10 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. the lattice of cations is a perfect insulator that traps heat.
 - B. delocalised electrons move rapidly and transfer kinetic energy through the lattice.
@@ -795,6 +912,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q110.** Which statement best explains why a copper rod can be drawn into a wire without breaking?
 <!-- id: chem12a1-mb-11 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. Copper cations are held in fixed positions by covalent bonds.
 - B. Copper contains weak intermolecular forces that are easily broken.
@@ -803,6 +921,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q111.** Which of the following lists sodium, magnesium and aluminium in order of increasing melting point?
 <!-- id: chem12a1-mb-12 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. Al < Mg < Na
 - B. Mg < Na < Al
@@ -811,6 +930,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q112.** Melting points of the Group 1 metals decrease down the group (Li 181 °C, Na 98 °C, K 63 °C). The best explanation is that
 <!-- id: chem12a1-mb-13 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. larger cations mean the delocalised electrons are further from the nuclei, so the electrostatic attraction is weaker.
 - B. the number of delocalised electrons per atom decreases down the group.
@@ -819,6 +939,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q113.** Brass is an alloy of copper and zinc, which have similar atomic radii. Brass is best classified as
 <!-- id: chem12a1-mb-14 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. an interstitial alloy, with zinc atoms fitting between copper atoms.
 - B. a substitutional alloy, with zinc atoms replacing some copper atoms in the lattice.
@@ -827,6 +948,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q114.** Brass is harder than pure copper mainly because
 <!-- id: chem12a1-mb-15 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. zinc forms covalent bonds with copper that hold the layers rigidly.
 - B. zinc removes the delocalised electrons from the lattice.
@@ -835,6 +957,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q115.** A copper sheet is repeatedly hammered at room temperature. Compared with the original sheet, it becomes
 <!-- id: chem12a1-mb-16 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. softer and more ductile, as the crystals grow larger.
 - B. unchanged, because metallic bonding is non-directional.
@@ -843,6 +966,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q116.** Compared with the pure metals, alloys generally have
 <!-- id: chem12a1-mb-17 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. lower electrical conductivity, because the irregular lattice scatters the moving delocalised electrons.
 - B. higher electrical conductivity, because they contain more electrons.
@@ -851,6 +975,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q117.** How many delocalised electrons are present in 0.50 mol of magnesium metal? (N_A = 6.02 × 10²³ mol⁻¹)
 <!-- id: chem12a1-mb-18 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. 3.01 × 10²³
 - B. 6.02 × 10²³
@@ -859,6 +984,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q118.** What mass of aluminium (M = 27.0 g mol⁻¹) contains 1.00 mol of delocalised electrons?
 <!-- id: chem12a1-mb-19 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. 27.0 g
 - B. 81.0 g
@@ -867,6 +993,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q119.** Solid magnesium conducts electricity but solid magnesium oxide does not. This is because in solid magnesium oxide
 <!-- id: chem12a1-mb-20 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. there are no charged particles at all.
 - B. the electrons are delocalised but too strongly held to move.
@@ -875,6 +1002,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q120.** When a sheet of metal is struck, it deforms, but when a crystal of sodium chloride is struck, it shatters. The key reason is that
 <!-- id: chem12a1-mb-21 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. shifting NaCl layers brings ions of like charge together so they repel, whereas shifting metal layers keeps the cations surrounded by the electron sea.
 - B. NaCl has weaker bonds than any metal.
@@ -883,6 +1011,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q121.** Bronze, used in statues and bearings, is an alloy of
 <!-- id: chem12a1-mb-22 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. copper and zinc.
 - B. copper and tin.
@@ -891,6 +1020,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q122.** A block of solid sodium has no overall electric charge. This is because
 <!-- id: chem12a1-mb-23 -->
+*Info: Application · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. sodium atoms do not lose any electrons in the metal.
 - B. the delocalised electrons are neutral particles.
@@ -899,6 +1029,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q123.** Copper is used in electrical wiring because it is a good conductor and can be drawn into thin wires. These two properties are explained by
 <!-- id: chem12a1-mb-24 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. fixed cations, and strong directional covalent bonds, respectively.
 - B. free negative ions, and weak intermolecular forces, respectively.
@@ -907,11 +1038,13 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q124.** Calculate the number of delocalised electrons in 2.70 g of aluminium. (M(Al) = 27.0 g mol⁻¹; N_A = 6.02 × 10²³ mol⁻¹) (3 marks)
 <!-- id: chem12a1-mb-25 -->
+*Info: Calculation · about 3 marks · about 4 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q125.** Calcium has a higher melting point than potassium mainly because calcium atoms
 <!-- id: chem12a1-mb-26 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. are heavier, so more energy is needed to vibrate them
 - B. form covalent bonds with each other
@@ -920,6 +1053,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q126.** Stainless steel contains iron, chromium and nickel. Compared with pure iron, stainless steel is
 <!-- id: chem12a1-mb-27 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. more resistant to corrosion
 - B. a better conductor of electricity
@@ -928,6 +1062,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q127.** Which of the following is an interstitial alloy?
 <!-- id: chem12a1-mb-28 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. brass
 - B. sterling silver (silver and copper)
@@ -936,6 +1071,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q128.** Mercury is a liquid at room temperature, whereas most metals are solid. This suggests that, compared with most metals, the metallic bonding in mercury is
 <!-- id: chem12a1-mb-29 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. stronger
 - B. absent
@@ -944,17 +1080,20 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q129.** Describe the metallic bonding model. (2 marks)
 <!-- id: chem12a1-mb-30 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q130.** Pure gold is soft, so jewellery is often made from 18-carat gold, an alloy of gold with copper and silver. Explain why the alloy is harder than pure gold. (2 marks)
 <!-- id: chem12a1-mb-31 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q131.** Magnesium melts at a much higher temperature than sodium. The best explanation is that magnesium:
 <!-- id: vce-chem12-mb-c1 -->
 *Challenge question*
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams; harder than most exam questions*
 
 - A. Has covalent bonds between its atoms as well as metallic bonding
 - B. Has a larger atomic radius, so its atoms pack together more tightly
@@ -963,8 +1102,11 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 #### Ionic bonding and ionic compounds
 
+*Exam relevance: Medium (core content for school assessments) · Prerequisites: Electron configuration and subshells*
+
 **Q132.** The correct formula for aluminium sulfate is
 <!-- id: chem12a1-ib-1 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. AlSO₄
 - B. Al₃(SO₄)₂
@@ -973,6 +1115,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q133.** Ionic crystals shatter when struck with a hammer because
 <!-- id: chem12a1-ib-2 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. the delocalised electrons are knocked out of the lattice.
 - B. the blow shifts layers so that ions of like charge align and repel.
@@ -981,6 +1124,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q134.** Which of the following compounds would be expected to have the highest melting point?
 <!-- id: chem12a1-ib-3 -->
+*Info: Application · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. Sodium chloride, NaCl
 - B. Potassium bromide, KBr
@@ -989,6 +1133,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q135.** When magnesium reacts with oxygen to form magnesium oxide, each magnesium atom
 <!-- id: chem12a1-ib-4 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. shares two electrons with an oxygen atom.
 - B. transfers two electrons to an oxygen atom.
@@ -997,6 +1142,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q136.** Solid potassium chloride does not conduct electricity, but molten potassium chloride does. This is because, in the molten state,
 <!-- id: chem12a1-ib-5 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. electrons become delocalised.
 - B. the ions are free to move and carry charge.
@@ -1005,21 +1151,25 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q137.** Calcium reacts with nitrogen to form calcium nitride. Write the formula of calcium nitride and explain its formation in terms of electron transfer. (3 marks)
 <!-- id: chem12a1-ib-6 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q138.** Name each of the following ionic compounds: (a) Fe₂O₃ (b) NH₄NO₃ (c) K₂Cr₂O₇. (3 marks)
 <!-- id: chem12a1-ib-7 -->
+*Info: Recall · about 3 marks · about 4 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q139.** A student finds that an unknown white solid has a high melting point, does not conduct electricity as a solid but conducts when dissolved in water, and shatters when struck. Identify the type of bonding present and explain how any two of these observations support your answer. (3 marks)
 <!-- id: chem12a1-ib-8 -->
+*Info: Application · about 3 marks · about 4 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q140.** The correct formula for calcium phosphate is
 <!-- id: chem12a1-ib-9 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. CaPO₄
 - B. Ca₃(PO₄)₂
@@ -1028,6 +1178,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q141.** Which of the following ions has the same electron configuration as a neon atom?
 <!-- id: chem12a1-ib-10 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. Cl⁻
 - B. K⁺
@@ -1036,6 +1187,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q142.** The correct name for Cu(NO₃)₂ is
 <!-- id: chem12a1-ib-11 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. copper(II) nitrate
 - B. copper(I) nitrate
@@ -1044,6 +1196,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q143.** Sodium chloride dissolves readily in water mainly because
 <!-- id: chem12a1-ib-12 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. water molecules form covalent bonds with the ions.
 - B. water molecules are attracted to the Na⁺ and Cl⁻ ions, and these attractions can overcome the forces holding the ions in the lattice.
@@ -1052,6 +1205,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q144.** In a crystal of sodium chloride, each sodium ion is surrounded by how many nearest chloride ions?
 <!-- id: chem12a1-ib-13 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. 2
 - B. 4
@@ -1060,6 +1214,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q145.** How many ions are there in one formula unit of iron(III) sulfate, Fe₂(SO₄)₃?
 <!-- id: chem12a1-ib-14 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. 3
 - B. 6
@@ -1068,6 +1223,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q146.** The formula of an ionic compound is an empirical formula because it
 <!-- id: chem12a1-ib-15 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. shows the simplest whole-number ratio of ions in the lattice.
 - B. gives the number of ions in each molecule.
@@ -1076,6 +1232,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q147.** Which equation correctly represents the formation of an oxide ion from an oxygen atom?
 <!-- id: chem12a1-ib-16 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. O → O²⁻ + 2e⁻
 - B. O + 2e⁻ → O²⁻
@@ -1084,6 +1241,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q148.** Sodium chloride has a higher melting point than potassium chloride because
 <!-- id: chem12a1-ib-17 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. Na⁺ has a larger charge than K⁺.
 - B. sodium chloride has covalent bonds as well.
@@ -1092,6 +1250,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q149.** The correct formula for ammonium phosphate is
 <!-- id: chem12a1-ib-18 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. NH₄PO₄
 - B. (NH₄)₃PO₄
@@ -1100,6 +1259,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q150.** Element X is in group 13 and element Y is in group 16. The formula of the ionic compound they form is most likely
 <!-- id: chem12a1-ib-19 -->
+*Info: Application · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. XY
 - B. X₃Y₂
@@ -1108,6 +1268,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q151.** How many electrons are in a sulfide ion, S²⁻? (S has atomic number 16)
 <!-- id: chem12a1-ib-20 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. 18
 - B. 14
@@ -1116,31 +1277,37 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q152.** Write the formula of each of the following ionic compounds: (a) sodium sulfide (b) magnesium nitrate (c) iron(III) hydroxide (d) ammonium carbonate. (4 marks)
 <!-- id: chem12a1-ib-21 -->
+*Info: Conceptual · about 4 marks · about 5 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q153.** Explain why sodium chloride dissolves in water. (3 marks)
 <!-- id: chem12a1-ib-22 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q154.** Write the electron configurations of an aluminium atom and an aluminium ion, and explain why aluminium forms a 3+ ion. (3 marks)
 <!-- id: chem12a1-ib-23 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q155.** Describe the structure of an ionic lattice such as sodium chloride. (2 marks)
 <!-- id: chem12a1-ib-24 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q156.** Describe, in terms of electron arrangements, how magnesium and chlorine atoms form magnesium chloride. (3 marks)
 <!-- id: chem12a1-ib-25 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q157.** The correct formula for chromium(III) hydroxide is
 <!-- id: chem12a1-ib-26 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. Cr(OH)₃
 - B. CrOH₃
@@ -1149,6 +1316,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q158.** In a crystal of aluminium oxide, Al₂O₃, the ratio of aluminium ions to oxide ions is
 <!-- id: chem12a1-ib-27 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. 3 : 2
 - B. 2 : 3
@@ -1157,6 +1325,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q159.** The correct name for Fe(OH)₂ is
 <!-- id: chem12a1-ib-28 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. iron(III) hydroxide
 - B. iron dihydroxide
@@ -1165,6 +1334,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q160.** Which of the following substances will conduct electricity when dissolved in water?
 <!-- id: chem12a1-ib-29 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. glucose
 - B. ethanol
@@ -1173,6 +1343,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q161.** Element Z has the electron configuration 2,8,2 and element T has the configuration 2,8,7. The compound they form is most likely to have the formula
 <!-- id: chem12a1-ib-30 -->
+*Info: Application · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. ZT₂
 - B. Z₂T
@@ -1181,22 +1352,26 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q162.** Explain why magnesium oxide has a higher melting point than sodium chloride. (3 marks)
 <!-- id: chem12a1-ib-31 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q163.** Calculate the total number of ions in 5.30 g of sodium carbonate, Na₂CO₃. (M = 106.0 g mol⁻¹; N_A = 6.02 × 10²³ mol⁻¹) (3 marks)
 <!-- id: chem12a1-ib-32 -->
+*Info: Calculation · about 3 marks · about 4 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q164.** Calcium and sulfur react to form an ionic compound. Write its formula, give the electron configuration of each ion and state what the two ions have in common. (3 marks)
 <!-- id: chem12a1-ib-33 -->
+*Info: Recall · about 3 marks · about 4 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q165.** The formula of chromium(III) sulfate is:
 <!-- id: vce-chem12-ib-c1 -->
 *Challenge question*
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams; harder than most exam questions*
 
 - A. Cr₃(SO₄)₂
 - B. CrSO₄
@@ -1205,8 +1380,11 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 #### Nanomaterials and reactivity of metals
 
+*Exam relevance: Low (less central; assessed less often) · Prerequisites: Metallic bonding and properties of metals*
+
 **Q166.** Nanoparticles are generally defined as particles with at least one dimension in the range
 <!-- id: chem12a1-nr-1 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Low (less central; assessed less often); multiple choice, as in school exams*
 
 - A. 1–100 nm
 - B. 100–1000 nm
@@ -1215,6 +1393,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q167.** A 1.0 cm cube of a metal is cut into 1000 identical cubes, each 1.0 mm along each side. Compared with the original cube, the total surface area of the small cubes is
 <!-- id: chem12a1-nr-2 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Low (less central; assessed less often); multiple choice, as in school exams*
 
 - A. the same.
 - B. 10 times larger.
@@ -1223,6 +1402,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q168.** Which metal reacts vigorously with cold water, producing hydrogen gas?
 <!-- id: chem12a1-nr-3 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Low (less central; assessed less often); multiple choice, as in school exams*
 
 - A. Copper
 - B. Iron
@@ -1231,6 +1411,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q169.** Zinc granules are added to dilute hydrochloric acid. The products of the reaction are
 <!-- id: chem12a1-nr-4 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Low (less central; assessed less often); multiple choice, as in school exams*
 
 - A. zinc oxide and water.
 - B. zinc chloride and hydrogen gas.
@@ -1239,6 +1420,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q170.** A colloidal solution of gold nanoparticles appears deep red, while bulk gold appears yellow. The best explanation is that
 <!-- id: chem12a1-nr-5 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Low (less central; assessed less often); multiple choice, as in school exams*
 
 - A. the gold has been oxidised to Au³⁺ ions.
 - B. nanoparticles contain a different isotope of gold.
@@ -1247,21 +1429,25 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q171.** Write balanced equations, including states, for (a) the reaction of calcium with water and (b) the reaction of magnesium with oxygen. (2 marks)
 <!-- id: chem12a1-nr-6 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: Low (less central; assessed less often); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q172.** Pieces of three metals, A, B and C, of equal size were placed in separate test tubes of 1.0 M hydrochloric acid. A produced bubbles rapidly, B produced bubbles slowly, and C showed no reaction. Rank the metals in order of reactivity and suggest a possible identity for each from magnesium, iron and copper. (3 marks)
 <!-- id: chem12a1-nr-7 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: Low (less central; assessed less often); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q173.** Silver nanoparticles are added to some wound dressings because of their antibacterial action. Explain why nanoparticles are more effective than the same mass of bulk silver, and state one possible concern about their use. (3 marks)
 <!-- id: chem12a1-nr-8 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: Low (less central; assessed less often); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q174.** One nanometre is equal to
 <!-- id: chem12a1-nr-9 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Low (less central; assessed less often); multiple choice, as in school exams*
 
 - A. 10⁻⁹ m
 - B. 10⁻⁶ m
@@ -1270,6 +1456,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q175.** A cube of side length 2.0 cm has a surface area to volume ratio of
 <!-- id: chem12a1-nr-10 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: Low (less central; assessed less often); multiple choice, as in school exams*
 
 - A. 6.0 cm⁻¹
 - B. 3.0 cm⁻¹
@@ -1278,6 +1465,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q176.** Sodium is added to water containing a few drops of universal indicator. The final solution is most likely
 <!-- id: chem12a1-nr-11 -->
+*Info: Application · 1 mark · about 1 min · Exam relevance: Low (less central; assessed less often); multiple choice, as in school exams*
 
 - A. acidic, because hydrogen ions form.
 - B. neutral, because only hydrogen gas forms.
@@ -1286,6 +1474,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q177.** Which of the following metals will NOT produce hydrogen gas when added to dilute sulfuric acid?
 <!-- id: chem12a1-nr-12 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Low (less central; assessed less often); multiple choice, as in school exams*
 
 - A. Zinc
 - B. Magnesium
@@ -1294,6 +1483,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q178.** A student places a piece of zinc in blue copper(II) sulfate solution. Which observation is expected?
 <!-- id: chem12a1-nr-13 -->
+*Info: Application · 1 mark · about 1 min · Exam relevance: Low (less central; assessed less often); multiple choice, as in school exams*
 
 - A. A reddish-brown deposit forms on the zinc and the blue colour fades.
 - B. A grey deposit forms on the zinc and the blue colour deepens.
@@ -1302,6 +1492,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q179.** Which list shows the metals in order of decreasing reactivity?
 <!-- id: chem12a1-nr-14 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Low (less central; assessed less often); multiple choice, as in school exams*
 
 - A. Zinc, magnesium, copper, iron
 - B. Magnesium, zinc, iron, copper
@@ -1310,6 +1501,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q180.** A gas is collected from the reaction of magnesium with dilute hydrochloric acid. A lit splint is held at the mouth of the test tube. The gas is confirmed as hydrogen if
 <!-- id: chem12a1-nr-15 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Low (less central; assessed less often); multiple choice, as in school exams*
 
 - A. the splint is extinguished.
 - B. the splint glows brighter.
@@ -1318,6 +1510,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q181.** Titanium dioxide nanoparticles are used in some sunscreens. A main reason they are preferred to larger particles is that they
 <!-- id: chem12a1-nr-16 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Low (less central; assessed less often); multiple choice, as in school exams*
 
 - A. are more reactive with sodium ions in sweat.
 - B. have a lower melting point than larger particles.
@@ -1326,6 +1519,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q182.** Nanoparticles of platinum are often more effective catalysts than the same mass of platinum foil mainly because they
 <!-- id: chem12a1-nr-17 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Low (less central; assessed less often); multiple choice, as in school exams*
 
 - A. have a larger surface area, so more atoms are exposed to reactants.
 - B. have more protons in each atom.
@@ -1334,6 +1528,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q183.** In the reaction Mg(s) + Cu²⁺(aq) → Mg²⁺(aq) + Cu(s), which statement is correct?
 <!-- id: chem12a1-nr-18 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Low (less central; assessed less often); multiple choice, as in school exams*
 
 - A. Magnesium atoms gain electrons and copper ions lose electrons.
 - B. Magnesium and copper ions both lose electrons.
@@ -1342,6 +1537,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q184.** Magnesium reacts very slowly with cold water but reacts quickly with steam. The products of the reaction with steam are
 <!-- id: chem12a1-nr-19 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Low (less central; assessed less often); multiple choice, as in school exams*
 
 - A. magnesium hydroxide and oxygen gas.
 - B. magnesium oxide and hydrogen gas.
@@ -1350,6 +1546,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q185.** Aluminium is above zinc in the reactivity series, yet aluminium pots are used for cooking. This is because aluminium
 <!-- id: chem12a1-nr-20 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Low (less central; assessed less often); multiple choice, as in school exams*
 
 - A. is less reactive than copper.
 - B. does not form any oxide when exposed to air.
@@ -1358,6 +1555,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q186.** Iron nails are placed in dilute hydrochloric acid. The balanced equation for the reaction is
 <!-- id: chem12a1-nr-21 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Low (less central; assessed less often); multiple choice, as in school exams*
 
 - A. 2Fe(s) + 6HCl(aq) → 2FeCl₃(aq) + 3H₂(g)
 - B. Fe(s) + 2HCl(aq) → FeCl₂(aq) + H₂(g)
@@ -1366,6 +1564,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q187.** Magnesium powder reacts with dilute hydrochloric acid much faster than a magnesium ribbon of the same mass. This is best explained by the powder having
 <!-- id: chem12a1-nr-22 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Low (less central; assessed less often); multiple choice, as in school exams*
 
 - A. a higher reactivity as an element.
 - B. a lower mass of magnesium atoms.
@@ -1374,11 +1573,13 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q188.** Calculate the surface area to volume ratio of a cube with side length 10 nm and compare it with that of a cube with side length 1.0 cm. Give your answers in nm⁻¹. (3 marks)
 <!-- id: chem12a1-nr-23 -->
+*Info: Calculation · about 3 marks · about 4 min · Exam relevance: Low (less central; assessed less often); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q189.** A cube of side length 40 nm is compared with a cube of side length 20 nm of the same material. The surface area to volume ratio of the larger cube is
 <!-- id: chem12a1-nr-24 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: Low (less central; assessed less often); multiple choice, as in school exams*
 
 - A. twice that of the smaller cube
 - B. half that of the smaller cube
@@ -1387,6 +1588,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q190.** Which of the following reactions will occur?
 <!-- id: chem12a1-nr-25 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Low (less central; assessed less often); multiple choice, as in school exams*
 
 - A. Cu(s) + ZnSO₄(aq)
 - B. Ag(s) + CuSO₄(aq)
@@ -1395,6 +1597,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q191.** A concern about the use of nanoparticles in consumer products such as cosmetics is that they
 <!-- id: chem12a1-nr-26 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Low (less central; assessed less often); multiple choice, as in school exams*
 
 - A. may cross cell membranes, and their long-term health effects are not yet well understood
 - B. always dissolve completely in water
@@ -1403,6 +1606,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q192.** What mass of zinc (M = 65.4 g mol⁻¹) must react with excess hydrochloric acid to produce 0.100 mol of hydrogen gas?
 <!-- id: chem12a1-nr-27 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: Low (less central; assessed less often); multiple choice, as in school exams*
 
 - A. 13.1 g
 - B. 6.54 g
@@ -1411,6 +1615,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q193.** Metal P reacts rapidly with cold water, metal Q reacts only with dilute acid, and metal R does not react with dilute acid. The order of decreasing reactivity is
 <!-- id: chem12a1-nr-28 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Low (less central; assessed less often); multiple choice, as in school exams*
 
 - A. R > Q > P
 - B. Q > P > R
@@ -1419,17 +1624,20 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q194.** An iron nail is placed in a blue copper(II) sulfate solution. Describe two observations and write the net ionic equation for the reaction. (3 marks)
 <!-- id: chem12a1-nr-29 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: Low (less central; assessed less often); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q195.** Silver nanoparticles are used in some sports clothing. Describe one benefit and one potential risk of this use. (2 marks)
 <!-- id: chem12a1-nr-30 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: Low (less central; assessed less often); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q196.** A 1 cm cube of metal is cut into 1 mm cubes. By what factor does the total surface area increase?
 <!-- id: vce-chem12-nm-c1 -->
 *Challenge question*
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: Low (less central; assessed less often); multiple choice, as in school exams; harder than most exam questions*
 
 - A. 1000
 - B. 10
@@ -1440,8 +1648,11 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 #### Lewis structures and covalent bonding
 
+*Exam relevance: High (core content that Units 3 & 4 build on) · Prerequisites: Electron configuration and subshells*
+
 **Q197.** How many non-bonding (lone) pairs of electrons are on the nitrogen atom in an ammonia molecule, NH₃?
 <!-- id: chem12a1-lc-1 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. 0
 - B. 1
@@ -1450,6 +1661,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q198.** Which of the following molecules contains a triple covalent bond?
 <!-- id: chem12a1-lc-2 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. O₂
 - B. H₂O
@@ -1458,6 +1670,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q199.** In the Lewis structure of carbon dioxide, CO₂, the total number of lone pairs is
 <!-- id: chem12a1-lc-3 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. 2
 - B. 4
@@ -1466,6 +1679,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q200.** An ethene molecule, C₂H₄, contains a total of how many shared (bonding) pairs of electrons?
 <!-- id: chem12a1-lc-4 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. 4
 - B. 5
@@ -1474,6 +1688,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q201.** A covalent bond is best described as
 <!-- id: chem12a1-lc-5 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. the electrostatic attraction between oppositely charged ions.
 - B. the attraction between a lattice of cations and delocalised electrons.
@@ -1482,21 +1697,25 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q202.** Describe the Lewis structure of methanal, CH₂O, stating the central atom, the type of each bond and the number of lone pairs on each atom. (3 marks)
 <!-- id: chem12a1-lc-6 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q203.** For phosphorus trichloride, PCl₃, state the total number of valence electrons, the number of bonding pairs and the total number of lone pairs in the molecule. (3 marks)
 <!-- id: chem12a1-lc-7 -->
+*Info: Recall · about 3 marks · about 4 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q204.** Explain why covalent molecular substances such as iodine, I₂, have low melting points and do not conduct electricity. (2 marks)
 <!-- id: chem12a1-lc-8 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q205.** What is the total number of valence electrons that must be shown in the Lewis structure of sulfur dioxide, SO₂?
 <!-- id: chem12a1-lc-9 -->
+*Info: Data analysis · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. 12
 - B. 16
@@ -1505,6 +1724,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q206.** Which of the following molecules has a central atom that does NOT have a complete octet in its Lewis structure?
 <!-- id: chem12a1-lc-10 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. NH₃
 - B. BF₃
@@ -1513,6 +1733,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q207.** How many lone pairs of electrons are present in total in the Lewis structure of tetrachloromethane, CCl₄?
 <!-- id: chem12a1-lc-11 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. 4
 - B. 8
@@ -1521,6 +1742,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q208.** Hydrazine, N₂H₄, contains one N–N single bond and four N–H single bonds. How many lone pairs of electrons are in the molecule?
 <!-- id: chem12a1-lc-12 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. 2
 - B. 1
@@ -1529,6 +1751,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q209.** In stable covalent molecules such as CH₄ and CCl₄, how many covalent bonds does a carbon atom usually form?
 <!-- id: chem12a1-lc-13 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. 3
 - B. 4
@@ -1537,6 +1760,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q210.** Ethyne (acetylene), C₂H₂, has the structure H–C≡C–H. How many electrons are shared in the molecule in total?
 <!-- id: chem12a1-lc-14 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. 6
 - B. 8
@@ -1545,6 +1769,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q211.** Why is a hydrogen atom never the central atom in a Lewis structure?
 <!-- id: chem12a1-lc-15 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. Hydrogen is a metal and does not form covalent bonds.
 - B. Hydrogen has no valence electrons.
@@ -1553,6 +1778,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q212.** How many lone pairs of electrons are on the chlorine atom in a molecule of hydrogen chloride, HCl?
 <!-- id: chem12a1-lc-16 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. 3
 - B. 1
@@ -1561,6 +1787,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q213.** Methanol, CH₃OH, has a carbon atom bonded to three H atoms and to an O atom, and the O atom is also bonded to one H atom. How many bonding pairs of electrons are in the molecule?
 <!-- id: chem12a1-lc-17 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. 4
 - B. 5
@@ -1569,6 +1796,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q214.** Which of the following carbon–carbon bonds is the shortest?
 <!-- id: chem12a1-lc-18 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. C–C in ethane, C₂H₆
 - B. C=C in ethene, C₂H₄
@@ -1577,6 +1805,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q215.** How many electrons are shared between two atoms in a double covalent bond?
 <!-- id: chem12a1-lc-19 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. 1
 - B. 2
@@ -1585,6 +1814,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q216.** In the ammonium ion, NH₄⁺, one of the four N–H bonds can be described as a coordinate (dative) covalent bond. This is because
 <!-- id: chem12a1-lc-20 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. both electrons in that bond were supplied by the nitrogen atom.
 - B. the hydrogen atom has donated two electrons.
@@ -1593,6 +1823,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q217.** What is the total number of lone pairs in the Lewis structure of hydrogen cyanide, HCN?
 <!-- id: chem12a1-lc-21 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. 0
 - B. 1
@@ -1601,6 +1832,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q218.** Hydrogen peroxide, H₂O₂, has the structure H–O–O–H. How many lone pairs of electrons are in the molecule?
 <!-- id: chem12a1-lc-22 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. 2
 - B. 3
@@ -1609,6 +1841,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q219.** What is the total number of valence electrons shown in the Lewis structure of the carbonate ion, CO₃²⁻?
 <!-- id: chem12a1-lc-23 -->
+*Info: Data analysis · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. 22
 - B. 23
@@ -1617,6 +1850,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q220.** Oxygen difluoride, OF₂, has an oxygen atom single-bonded to two fluorine atoms. What is the total number of lone pairs in the molecule?
 <!-- id: chem12a1-lc-24 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. 8
 - B. 6
@@ -1625,42 +1859,50 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q221.** Distinguish between a bonding pair and a lone pair of electrons in a Lewis structure. (2 marks)
 <!-- id: chem12a1-lc-25 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q222.** Nitrogen, N₂, has a bond energy of 945 kJ mol⁻¹, whereas oxygen, O₂, has a bond energy of 498 kJ mol⁻¹. Explain this difference in terms of the covalent bonds present. (3 marks)
 <!-- id: chem12a1-lc-26 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q223.** Draw or describe the Lewis structure of carbon disulfide, CS₂, including the total number of valence electrons. (3 marks)
 <!-- id: chem12a1-lc-27 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q224.** Explain how the atoms in a water molecule, H₂O, achieve stable electron configurations by forming covalent bonds. (2 marks)
 <!-- id: chem12a1-lc-28 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q225.** Explain why covalent bonds typically form between atoms of non-metals rather than between a metal and a non-metal. (2 marks)
 <!-- id: chem12a1-lc-29 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q226.** Compare the number of bonding pairs and lone pairs on the central atom in methane, CH₄, ammonia, NH₃, and water, H₂O. (3 marks)
 <!-- id: chem12a1-lc-30 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q227.** Ethanol has the molecular formula C₂H₆O, with the atoms joined as CH₃–CH₂–OH. Determine the total number of valence electrons and describe the Lewis structure, including the number of bonding pairs and any lone pairs. (4 marks)
 <!-- id: chem12a1-lc-31 -->
+*Info: Conceptual · about 4 marks · about 5 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q228.** In the Lewis structure of hydrogen cyanide, H–C≡N, the numbers of bonding pairs and lone pairs are:
 <!-- id: vce-chem12-ls-c1 -->
 *Challenge question*
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams; harder than most exam questions*
 
 - A. 3 bonding pairs and 2 lone pairs
 - B. 4 bonding pairs and 0 lone pairs
@@ -1669,8 +1911,11 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 #### VSEPR and molecular shape
 
+*Exam relevance: Medium (core content for school assessments) · Prerequisites: Lewis structures and covalent bonding*
+
 **Q229.** According to VSEPR theory, the shape of an ammonia molecule, NH₃, is
 <!-- id: chem12a1-vs-1 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. trigonal planar.
 - B. tetrahedral.
@@ -1679,6 +1924,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q230.** Which molecule is linear?
 <!-- id: chem12a1-vs-2 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. H₂O
 - B. CO₂
@@ -1687,6 +1933,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q231.** The H–O–H bond angle in a water molecule is approximately
 <!-- id: chem12a1-vs-3 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. 90°
 - B. 104.5°
@@ -1695,6 +1942,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q232.** Which of the following molecules is tetrahedral in shape?
 <!-- id: chem12a1-vs-4 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. PH₃
 - B. H₂S
@@ -1703,6 +1951,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q233.** The central carbon atom in methanal, CH₂O, has three regions of electron density and no lone pairs. The shape of the molecule and its approximate bond angle are
 <!-- id: chem12a1-vs-5 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. trigonal planar, 120°
 - B. trigonal pyramidal, 107°
@@ -1711,21 +1960,25 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q234.** Use VSEPR theory to explain why the water molecule is V-shaped rather than linear. (2 marks)
 <!-- id: chem12a1-vs-6 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q235.** Predict the shape and approximate bond angle for (a) hydrogen cyanide, HCN, and (b) tetrachlorosilane, SiCl₄. (2 marks)
 <!-- id: chem12a1-vs-7 -->
+*Info: Application · about 2 marks · about 2.5 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q236.** The H–N–H bond angle in ammonia is about 107°, whereas the H–C–H angle in methane is 109.5°. Explain this difference. (2 marks)
 <!-- id: chem12a1-vs-8 -->
+*Info: Calculation · about 2 marks · about 2.5 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q237.** Boron trifluoride, BF₃, has three bonding pairs and no lone pairs around the central atom. Its shape is
 <!-- id: chem12a1-vs-9 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. trigonal planar.
 - B. trigonal pyramidal.
@@ -1734,6 +1987,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q238.** Which of the following molecules has a trigonal pyramidal shape?
 <!-- id: chem12a1-vs-10 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. BF₃
 - B. NCl₃
@@ -1742,6 +1996,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q239.** How many lone pairs of electrons are on the central atom of an OF₂ molecule?
 <!-- id: chem12a1-vs-11 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. 0
 - B. 1
@@ -1750,6 +2005,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q240.** Sulfur dioxide, SO₂, has two bonding regions and one lone pair on S. Its shape and approximate bond angle are
 <!-- id: chem12a1-vs-12 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. linear, 180°
 - B. trigonal planar, 120°
@@ -1758,6 +2014,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q241.** Beryllium chloride, BeCl₂, has two bonding pairs and no lone pairs around Be. The Cl–Be–Cl bond angle is
 <!-- id: chem12a1-vs-13 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. 180°
 - B. 120°
@@ -1766,6 +2023,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q242.** The ammonium ion, NH₄⁺, has a shape that is
 <!-- id: chem12a1-vs-14 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. trigonal pyramidal.
 - B. tetrahedral.
@@ -1774,6 +2032,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q243.** The shape of the hydronium ion, H₃O⁺, is
 <!-- id: chem12a1-vs-15 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. tetrahedral.
 - B. V-shaped.
@@ -1782,6 +2041,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q244.** In ethene, C₂H₄, each carbon atom has three regions of electron density. The shape around each carbon atom and the H–C–H angle are
 <!-- id: chem12a1-vs-16 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. tetrahedral, 109.5°
 - B. linear, 180°
@@ -1790,6 +2050,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q245.** Ethyne, C₂H₂, has the structure H–C≡C–H. The shape around each carbon atom is
 <!-- id: chem12a1-vs-17 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. linear.
 - B. trigonal planar.
@@ -1798,6 +2059,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q246.** The shape of a dichloromethane molecule, CH₂Cl₂, is
 <!-- id: chem12a1-vs-18 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. square planar.
 - B. tetrahedral.
@@ -1806,6 +2068,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q247.** Which of the following has the smallest bond angle?
 <!-- id: chem12a1-vs-19 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. CH₄
 - B. NH₃
@@ -1814,6 +2077,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q248.** The correct order of repulsion between electron pairs, from strongest to weakest, is
 <!-- id: chem12a1-vs-20 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. bonding pair–bonding pair > lone pair–bonding pair > lone pair–lone pair.
 - B. lone pair–bonding pair > lone pair–lone pair > bonding pair–bonding pair.
@@ -1822,6 +2086,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q249.** In a hydrogen sulfide molecule, H₂S, the arrangement of electron pairs around S and the shape of the molecule are respectively
 <!-- id: chem12a1-vs-21 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. tetrahedral and V-shaped.
 - B. trigonal planar and V-shaped.
@@ -1830,6 +2095,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q250.** Which pair of molecules has the same shape?
 <!-- id: chem12a1-vs-22 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. CH₄ and NH₃
 - B. NH₃ and PCl₃
@@ -1838,6 +2104,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q251.** Lone pairs repel bonding pairs more strongly than bonding pairs repel each other because a lone pair
 <!-- id: chem12a1-vs-23 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. is attracted to two nuclei.
 - B. has fewer electrons than a bonding pair.
@@ -1846,21 +2113,25 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q252.** Carbon dioxide is linear but sulfur dioxide is V-shaped. Explain this difference using VSEPR theory. (3 marks)
 <!-- id: chem12a1-vs-24 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q253.** The H–O–H angle in water is 104.5°, while the H–N–H angle in ammonia is about 107°. Explain why the angle in water is smaller. (3 marks)
 <!-- id: chem12a1-vs-25 -->
+*Info: Calculation · about 3 marks · about 4 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q254.** Distinguish between the arrangement of electron pairs and the shape of a molecule, using ammonia as an example. (2 marks)
 <!-- id: chem12a1-vs-26 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q255.** Which of the following species is NOT tetrahedral in shape?
 <!-- id: chem12a1-vs-27 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. NH₃
 - B. SiF₄
@@ -1869,6 +2140,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q256.** Sulfur trioxide, SO₃, has the central S atom bonded to three O atoms, one of them through a double bond. Its shape is
 <!-- id: chem12a1-vs-28 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. trigonal pyramidal.
 - B. trigonal planar.
@@ -1877,6 +2149,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q257.** Which statement about VSEPR theory is correct?
 <!-- id: chem12a1-vs-29 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. A double bond is treated as two regions of electron density.
 - B. Lone pairs repel other electron pairs less strongly than bonding pairs do.
@@ -1885,6 +2158,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q258.** The oxygen atom in ethanol, CH₃CH₂OH, is bonded to one carbon atom and one hydrogen atom. The C–O–H grouping is V-shaped because the oxygen atom has
 <!-- id: chem12a1-vs-30 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. two bonding pairs and no lone pairs.
 - B. three bonding pairs and one lone pair.
@@ -1893,12 +2167,14 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q259.** Boron trifluoride, BF₃, and nitrogen trifluoride, NF₃, both have three fluorine atoms bonded to a central atom, yet their shapes differ. Name the shape of each molecule and explain the difference. (3 marks)
 <!-- id: chem12a1-vs-31 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q260.** Which pair of particles has the same shape?
 <!-- id: vce-chem12-vs-c1 -->
 *Challenge question*
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams; harder than most exam questions*
 
 - A. NH₃ and CH₄
 - B. NH₄⁺ and CH₄
@@ -1907,8 +2183,11 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 #### Electronegativity and polarity
 
+*Exam relevance: High (core content that Units 3 & 4 build on) · Prerequisites: VSEPR and molecular shape; Periodic table trends*
+
 **Q261.** Which bond is the most polar?
 <!-- id: chem12a1-ep-1 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. H–Cl
 - B. H–Br
@@ -1917,6 +2196,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q262.** Which molecule contains polar bonds but is non-polar overall?
 <!-- id: chem12a1-ep-2 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. NH₃
 - B. H₂O
@@ -1925,6 +2205,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q263.** A charged plastic rod is held next to thin streams of four liquids. Which stream would be deflected most noticeably?
 <!-- id: chem12a1-ep-3 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. Hexane, C₆H₁₄
 - B. Water, H₂O
@@ -1933,6 +2214,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q264.** The bond between which pair of elements would have the greatest ionic character?
 <!-- id: chem12a1-ep-4 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. Caesium and fluorine
 - B. Carbon and oxygen
@@ -1941,6 +2223,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q265.** Electronegativity is best defined as
 <!-- id: chem12a1-ep-5 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. the energy needed to remove an electron from a gaseous atom.
 - B. the ability of an atom to attract the shared electrons in a covalent bond.
@@ -1949,21 +2232,25 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q266.** Tetrachloromethane, CCl₄, contains four polar C–Cl bonds yet is a non-polar molecule. Explain. (2 marks)
 <!-- id: chem12a1-ep-6 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q267.** Explain why a water molecule is polar. In your answer, identify which atoms carry partial positive and partial negative charges. (3 marks)
 <!-- id: chem12a1-ep-7 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q268.** Rank the bonds H–F, H–Cl and H–Br in order of increasing polarity and explain the trend using atomic structure. (2 marks)
 <!-- id: chem12a1-ep-8 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q269.** Which of these elements has the highest electronegativity?
 <!-- id: chem12a1-ep-9 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. Nitrogen
 - B. Sulfur
@@ -1972,6 +2259,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q270.** Which list shows the elements in order of increasing electronegativity?
 <!-- id: chem12a1-ep-10 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. Si, P, S, Cl
 - B. Cl, S, P, Si
@@ -1980,6 +2268,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q271.** Which bond is non-polar?
 <!-- id: chem12a1-ep-11 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. H–Cl
 - B. Cl–Cl
@@ -1988,6 +2277,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q272.** In an N–H bond, which description of the partial charges is correct?
 <!-- id: chem12a1-ep-12 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. Nδ+ and Hδ−
 - B. Nδ− and Hδ−
@@ -1996,6 +2286,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q273.** Which molecule is polar?
 <!-- id: chem12a1-ep-13 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. CH₃Cl
 - B. CH₄
@@ -2004,6 +2295,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q274.** Which molecule is non-polar?
 <!-- id: chem12a1-ep-14 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. NH₃
 - B. PCl₃
@@ -2012,6 +2304,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q275.** Which bond is the least polar?
 <!-- id: chem12a1-ep-15 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. O–H
 - B. C–H
@@ -2020,6 +2313,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q276.** Whether a molecule is polar depends on
 <!-- id: chem12a1-ep-16 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. both the polarity of its bonds and its shape.
 - B. only the polarity of its bonds.
@@ -2028,6 +2322,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q277.** Electronegativity generally increases from left to right across a period because
 <!-- id: chem12a1-ep-17 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. the number of electron shells increases.
 - B. the atoms become larger.
@@ -2036,6 +2331,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q278.** In a diagram of a polar bond, the arrow used to show a bond dipole points
 <!-- id: chem12a1-ep-18 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. towards the less electronegative atom.
 - B. towards the more electronegative atom.
@@ -2044,6 +2340,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q279.** HCN is a linear molecule, yet it is polar. This is because
 <!-- id: chem12a1-ep-19 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. linear molecules are always polar.
 - B. the two bond dipoles are equal and cancel.
@@ -2052,6 +2349,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q280.** CO₂ and SO₂ both contain two polar double bonds, but only SO₂ is polar. This is because SO₂
 <!-- id: chem12a1-ep-20 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. is bent, so its bond dipoles do not cancel.
 - B. is linear, so its bond dipoles do not cancel.
@@ -2060,6 +2358,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q281.** As the electronegativity difference between two bonded atoms increases, the bond changes from
 <!-- id: chem12a1-ep-21 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. ionic to polar covalent to non-polar covalent.
 - B. polar covalent to ionic to non-polar covalent.
@@ -2068,6 +2367,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q282.** In an S–Cl bond, which atom carries the partial positive charge?
 <!-- id: chem12a1-ep-22 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. Chlorine, because it is larger than sulfur
 - B. Sulfur, because it is less electronegative than chlorine
@@ -2076,31 +2376,37 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q283.** Explain why ammonia, NH₃, is a polar molecule. (3 marks)
 <!-- id: chem12a1-ep-23 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q284.** Trichloromethane, CHCl₃, has a tetrahedral shape like CCl₄, but CHCl₃ is polar. Explain. (3 marks)
 <!-- id: chem12a1-ep-24 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q285.** Electronegativity values are Na 0.9, H 2.2 and Cl 3.2. Calculate the electronegativity difference for Na–Cl, H–Cl and Cl–Cl and classify each bond. (3 marks)
 <!-- id: chem12a1-ep-25 -->
+*Info: Calculation · about 3 marks · about 4 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q286.** Electronegativity values are H 2.2 and S 2.6. Predict whether hydrogen sulfide, H₂S, is polar, giving reasons. (3 marks)
 <!-- id: chem12a1-ep-26 -->
+*Info: Application · about 3 marks · about 4 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q287.** A student claims that any molecule with polar bonds must be polar. Explain why this is wrong, and why a diatomic molecule with a polar bond is always polar. (3 marks)
 <!-- id: chem12a1-ep-27 -->
+*Info: Application · about 3 marks · about 4 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q288.** Electronegativity decreases down group 17 from fluorine to iodine mainly because
 <!-- id: chem12a1-ep-28 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. the shared electrons are further from the nucleus and more shielded from it.
 - B. the nuclear charge decreases down the group.
@@ -2109,6 +2415,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q289.** Which molecule is non-polar overall even though it contains polar bonds?
 <!-- id: chem12a1-ep-29 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. NF₃
 - B. SiF₄
@@ -2117,6 +2424,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q290.** Electronegativity values: H 2.2, C 2.6, N 3.0, O 3.4, F 4.0. Which bond has the greatest electronegativity difference?
 <!-- id: chem12a1-ep-30 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. O–H
 - B. N–H
@@ -2125,17 +2433,20 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q291.** Electronegativity values are H 2.2, C 2.6 and O 3.4. (a) Arrange the bonds C–H, C–O and O–H in order of increasing polarity. (b) Show the partial charges on the C–O bond. (2 marks)
 <!-- id: chem12a1-ep-31 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q292.** Sulfur dioxide, SO₂, is a polar molecule but sulfur trioxide, SO₃, is non-polar. Explain why. (3 marks)
 <!-- id: chem12a1-ep-32 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q293.** Which molecule is polar?
 <!-- id: vce-chem12-ep-c1 -->
 *Challenge question*
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams; harder than most exam questions*
 
 - A. CCl₄
 - B. CHCl₃
@@ -2144,8 +2455,11 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 #### Intermolecular forces
 
+*Exam relevance: High (core content that Units 3 & 4 build on) · Prerequisites: Electronegativity and polarity*
+
 **Q294.** The strongest type of intermolecular force between methanol molecules, CH₃OH, is
 <!-- id: chem12a1-im-1 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. dispersion forces.
 - B. hydrogen bonding.
@@ -2154,6 +2468,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q295.** The boiling points of the noble gases increase from helium to xenon. The best explanation is that
 <!-- id: chem12a1-im-2 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. the atoms become more polar down the group.
 - B. hydrogen bonding increases down the group.
@@ -2162,6 +2477,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q296.** Which substance CANNOT form hydrogen bonds between its own molecules?
 <!-- id: chem12a1-im-3 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. Hydrogen fluoride, HF
 - B. Ammonia, NH₃
@@ -2170,6 +2486,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q297.** Pentane and 2,2-dimethylpropane both have the formula C₅H₁₂. Pentane boils at 36 °C, while 2,2-dimethylpropane boils at about 10 °C. This difference is best explained by
 <!-- id: chem12a1-im-4 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. pentane forming hydrogen bonds.
 - B. the compact shape of 2,2-dimethylpropane reducing contact between molecules, so it has weaker dispersion forces.
@@ -2178,6 +2495,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q298.** Water (H₂O) boils at 100 °C, whereas hydrogen sulfide (H₂S), a heavier molecule, boils at −60 °C. The main reason is that
 <!-- id: chem12a1-im-5 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. water molecules form hydrogen bonds with each other.
 - B. the O–H covalent bond is stronger than the S–H bond.
@@ -2186,21 +2504,25 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q299.** Explain why ice is less dense than liquid water. (3 marks)
 <!-- id: chem12a1-im-6 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q300.** The boiling points of the hydrogen halides are: HF 20 °C, HCl −85 °C, HBr −67 °C, HI −35 °C. Explain (a) why HF has the highest boiling point and (b) why the boiling point rises from HCl to HI. (3 marks)
 <!-- id: chem12a1-im-7 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q301.** Identify all the types of intermolecular forces present between molecules in each of: (a) methane, CH₄ (b) hydrogen chloride, HCl (c) ammonia, NH₃. (3 marks)
 <!-- id: chem12a1-im-8 -->
+*Info: Recall · about 3 marks · about 4 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q302.** Which of the following has the highest boiling point?
 <!-- id: chem12a1-im-9 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. CH₄
 - B. SiH₄
@@ -2209,6 +2531,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q303.** Which statement correctly describes a hydrogen bond between two ammonia molecules?
 <!-- id: chem12a1-im-10 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. An attraction between an H atom bonded to N in one molecule and the lone pair on the N atom of a neighbouring molecule
 - B. An attraction between the N atom of one molecule and the N atom of another molecule
@@ -2217,6 +2540,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q304.** The only type of intermolecular force acting between carbon dioxide molecules, CO₂, is
 <!-- id: chem12a1-im-11 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. dipole–dipole attraction.
 - B. dispersion forces.
@@ -2225,6 +2549,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q305.** Which list shows the types of attraction in order of increasing strength?
 <!-- id: chem12a1-im-12 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. Hydrogen bond, dispersion force, covalent bond
 - B. Covalent bond, hydrogen bond, dispersion force
@@ -2233,6 +2558,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q306.** Ethanol, CH₃CH₂OH, boils at 78 °C, whereas dimethyl ether, CH₃OCH₃, which has the same molecular formula, boils at −24 °C. The best explanation is that
 <!-- id: chem12a1-im-13 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. dimethyl ether has stronger covalent bonds.
 - B. dimethyl ether has more electrons than ethanol.
@@ -2241,6 +2567,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q307.** Which of the following molecules has dipole–dipole forces between its molecules?
 <!-- id: chem12a1-im-14 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. CHCl₃
 - B. CCl₄
@@ -2249,6 +2576,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q308.** When solid iodine, I₂, sublimes on gentle heating, which interactions are overcome?
 <!-- id: chem12a1-im-15 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. Covalent bonds between iodine atoms
 - B. Dispersion forces between I₂ molecules
@@ -2257,6 +2585,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q309.** Octane, C₈H₁₈, boils at 126 °C but butane, C₄H₁₀, boils at −1 °C. This is mainly because octane has
 <!-- id: chem12a1-im-16 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. hydrogen bonding between its molecules.
 - B. a greater dipole moment.
@@ -2265,6 +2594,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q310.** Which substance can form the greatest number of hydrogen bonds per molecule?
 <!-- id: chem12a1-im-17 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. H₂O
 - B. HF
@@ -2273,6 +2603,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q311.** When liquid water boils, which of the following occurs?
 <!-- id: chem12a1-im-18 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. O–H covalent bonds break to form hydrogen and oxygen gases.
 - B. Hydrogen bonds between molecules are overcome, but the molecules remain H₂O.
@@ -2281,6 +2612,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q312.** Glycerol, C₃H₅(OH)₃, is much more viscous than ethanol, C₂H₅OH. The best explanation is that glycerol
 <!-- id: chem12a1-im-19 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. has weaker dispersion forces.
 - B. is non-polar.
@@ -2289,6 +2621,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q313.** Dispersion forces between non-polar molecules arise from
 <!-- id: chem12a1-im-20 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. temporary dipoles caused by momentary uneven distribution of electrons.
 - B. permanent dipoles caused by differences in electronegativity.
@@ -2297,6 +2630,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q314.** Hydrogen chloride, HCl, boils at −85 °C and fluorine, F₂, boils at −188 °C, even though both have 18 electrons. The better explanation is that
 <!-- id: chem12a1-im-21 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. HCl forms hydrogen bonds.
 - B. HCl is polar, so it has dipole–dipole forces as well as dispersion forces.
@@ -2305,6 +2639,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q315.** Which list shows increasing boiling points?
 <!-- id: chem12a1-im-22 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. H₂O, HCl, Ne
 - B. HCl, H₂O, Ne
@@ -2313,36 +2648,43 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q316.** Define a hydrogen bond and state the conditions needed for one to form. (2 marks)
 <!-- id: chem12a1-im-23 -->
+*Info: Recall · about 2 marks · about 2.5 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q317.** The boiling points of methane, ethane, propane and butane are −162 °C, −89 °C, −42 °C and −1 °C respectively. Explain this trend. (3 marks)
 <!-- id: chem12a1-im-24 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q318.** Ethanol, C₂H₅OH, boils at 78 °C, while propane, C₃H₈, boils at −42 °C, even though both have 26 electrons. Explain this difference. (3 marks)
 <!-- id: chem12a1-im-25 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q319.** Distinguish between intramolecular and intermolecular forces, and state which type is overcome when water boils. (2 marks)
 <!-- id: chem12a1-im-26 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q320.** Water boils at 100 °C, hydrogen fluoride at 20 °C and ammonia at −33 °C. All three form hydrogen bonds. Explain why water has the highest boiling point. (3 marks)
 <!-- id: chem12a1-im-27 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q321.** At room temperature fluorine, F₂, is a gas but iodine, I₂, is a solid. Explain why. (2 marks)
 <!-- id: chem12a1-im-28 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q322.** At the same temperature, which of these liquids has the highest vapour pressure?
 <!-- id: chem12a1-im-29 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. Propan-1-ol, C₃H₇OH
 - B. Butan-1-ol, C₄H₉OH
@@ -2351,6 +2693,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q323.** Which substance can form hydrogen bonds with water molecules but not with other molecules of its own kind?
 <!-- id: chem12a1-im-30 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. Propanone, CH₃COCH₃
 - B. Ethanol, CH₃CH₂OH
@@ -2359,17 +2702,20 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q324.** Describe the forces overcome when (a) solid carbon dioxide sublimes and (b) liquid ethanol evaporates, and state whether any covalent bonds are broken in either process. (3 marks)
 <!-- id: chem12a1-im-31 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q325.** Propanone, CH₃COCH₃ (M = 58.0 g mol⁻¹), boils at 56 °C, while propan-1-ol, CH₃CH₂CH₂OH (M = 60.0 g mol⁻¹), boils at 97 °C. Explain this difference. (2 marks)
 <!-- id: chem12a1-im-32 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q326.** Which shows the boiling points of the hydrogen halides from highest to lowest?
 <!-- id: vce-chem12-im-c1 -->
 *Challenge question*
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams; harder than most exam questions*
 
 - A. HI > HBr > HCl > HF
 - B. HF > HCl > HBr > HI
@@ -2378,8 +2724,11 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 #### Covalent lattices and carbon allotropes
 
+*Exam relevance: Low (less central; assessed less often) · Prerequisites: Lewis structures and covalent bonding*
+
 **Q327.** In diamond, each carbon atom is
 <!-- id: chem12a1-cl-1 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Low (less central; assessed less often); multiple choice, as in school exams*
 
 - A. covalently bonded to three other carbon atoms in flat layers.
 - B. covalently bonded to four other carbon atoms in a tetrahedral arrangement.
@@ -2388,6 +2737,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q328.** Graphite conducts electricity because
 <!-- id: chem12a1-cl-2 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Low (less central; assessed less often); multiple choice, as in school exams*
 
 - A. each carbon atom has one delocalised electron that can move along the layers.
 - B. it contains free carbon ions.
@@ -2396,6 +2746,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q329.** Which substance has a covalent network lattice structure?
 <!-- id: chem12a1-cl-3 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Low (less central; assessed less often); multiple choice, as in school exams*
 
 - A. Carbon dioxide, CO₂
 - B. Iodine, I₂
@@ -2404,6 +2755,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q330.** Graphite is used as a dry lubricant because
 <!-- id: chem12a1-cl-4 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Low (less central; assessed less often); multiple choice, as in school exams*
 
 - A. its covalent bonds are weak.
 - B. it has a low melting point.
@@ -2412,6 +2764,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q331.** Graphene is
 <!-- id: chem12a1-cl-5 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Low (less central; assessed less often); multiple choice, as in school exams*
 
 - A. a single layer of carbon atoms arranged in hexagons, as in one layer of graphite.
 - B. a spherical molecule of 60 carbon atoms.
@@ -2420,21 +2773,25 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q332.** Diamond and graphite are both made only of carbon. Explain why diamond is very hard and does not conduct electricity, whereas graphite is soft and conducts electricity. (3 marks)
 <!-- id: chem12a1-cl-6 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: Low (less central; assessed less often); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q333.** Silicon dioxide melts at about 1700 °C, whereas carbon dioxide sublimes at −78 °C. Explain this difference in terms of structure and bonding. (2 marks)
 <!-- id: chem12a1-cl-7 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: Low (less central; assessed less often); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q334.** Carbon nanotubes are rolled sheets of graphene. Suggest one use of carbon nanotubes and link it to a specific property and its structural explanation. (2 marks)
 <!-- id: chem12a1-cl-8 -->
+*Info: Application · about 2 marks · about 2.5 min · Exam relevance: Low (less central; assessed less often); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q335.** Diamond has a very high melting point because
 <!-- id: chem12a1-cl-9 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Low (less central; assessed less often); multiple choice, as in school exams*
 
 - A. weak dispersion forces between its molecules are very strong.
 - B. ionic bonds between carbon ions are broken on melting.
@@ -2443,6 +2800,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q336.** Within a single layer of graphite, the carbon atoms are arranged
 <!-- id: chem12a1-cl-10 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Low (less central; assessed less often); multiple choice, as in school exams*
 
 - A. in hexagonal rings, with each carbon covalently bonded to three others.
 - B. in a tetrahedral arrangement, with each carbon bonded to four others.
@@ -2451,6 +2809,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q337.** Allotropes are best defined as
 <!-- id: chem12a1-cl-11 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Low (less central; assessed less often); multiple choice, as in school exams*
 
 - A. atoms of the same element with different numbers of neutrons.
 - B. different elements with the same crystal structure.
@@ -2459,6 +2818,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q338.** Buckminsterfullerene, C₆₀, has a much lower sublimation point than diamond because
 <!-- id: chem12a1-cl-12 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Low (less central; assessed less often); multiple choice, as in school exams*
 
 - A. each carbon atom in C₆₀ has only one covalent bond.
 - B. only weak dispersion forces between C₆₀ molecules need to be overcome.
@@ -2467,6 +2827,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q339.** Diamond does not conduct electricity because
 <!-- id: chem12a1-cl-13 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Low (less central; assessed less often); multiple choice, as in school exams*
 
 - A. it contains positive and negative ions that are fixed in position.
 - B. its layers are held together by weak forces.
@@ -2475,6 +2836,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q340.** In the covalent network lattice of silicon dioxide, each silicon atom is bonded to
 <!-- id: chem12a1-cl-14 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Low (less central; assessed less often); multiple choice, as in school exams*
 
 - A. four oxygen atoms, and each oxygen atom is bonded to two silicon atoms.
 - B. two oxygen atoms, and each oxygen atom is bonded to four silicon atoms.
@@ -2483,6 +2845,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q341.** Which of the following is NOT an allotrope of carbon?
 <!-- id: chem12a1-cl-15 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Low (less central; assessed less often); multiple choice, as in school exams*
 
 - A. Graphene
 - B. Carbon nanotube
@@ -2491,6 +2854,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q342.** How many covalent bonds does each carbon atom form in a C₆₀ molecule?
 <!-- id: chem12a1-cl-16 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Low (less central; assessed less often); multiple choice, as in school exams*
 
 - A. Two
 - B. Three
@@ -2499,6 +2863,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q343.** Silicon carbide, SiC, is used as an abrasive on sandpaper and grinding wheels. This use is best explained by it being
 <!-- id: chem12a1-cl-17 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Low (less central; assessed less often); multiple choice, as in school exams*
 
 - A. a covalent network lattice, so it is very hard.
 - B. an ionic lattice, so it is hard but brittle.
@@ -2507,6 +2872,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q344.** Which of the following lists the substances in order of increasing melting point?
 <!-- id: chem12a1-cl-18 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Low (less central; assessed less often); multiple choice, as in school exams*
 
 - A. Diamond, silicon dioxide, carbon dioxide
 - B. Silicon dioxide, carbon dioxide, diamond
@@ -2515,6 +2881,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q345.** Graphite is soft and slippery, yet it sublimes only above 3600 °C. This is because
 <!-- id: chem12a1-cl-19 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Low (less central; assessed less often); multiple choice, as in school exams*
 
 - A. its layers are held by strong covalent bonds, but its atoms within layers are not bonded.
 - B. strong covalent bonds within layers make melting difficult, but weak dispersion forces between layers allow sliding.
@@ -2523,6 +2890,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q346.** A diamond has a mass of 0.50 g. Approximately how many carbon atoms does it contain? (M(C) = 12.0 g mol⁻¹; Nᴀ = 6.02 × 10²³ mol⁻¹)
 <!-- id: chem12a1-cl-20 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: Low (less central; assessed less often); multiple choice, as in school exams*
 
 - A. 2.5 × 10²¹
 - B. 2.5 × 10²²
@@ -2531,6 +2899,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q347.** Graphite conducts electricity well along its layers but very poorly between layers. This is because
 <!-- id: chem12a1-cl-21 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Low (less central; assessed less often); multiple choice, as in school exams*
 
 - A. delocalised electrons can move within a layer but not easily from one layer to the next.
 - B. ions can move within layers but not between them.
@@ -2539,6 +2908,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q348.** A carbon nanotube can be best described as
 <!-- id: chem12a1-cl-22 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Low (less central; assessed less often); multiple choice, as in school exams*
 
 - A. a sheet of graphene rolled into a cylinder.
 - B. a hollow sphere of 60 carbon atoms.
@@ -2547,31 +2917,37 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q349.** Compare the structures of diamond and silicon dioxide and state two properties they share as a result. (3 marks)
 <!-- id: chem12a1-cl-23 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: Low (less central; assessed less often); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q350.** Describe the structure of buckminsterfullerene, C₆₀, and explain why it is much softer than diamond. (3 marks)
 <!-- id: chem12a1-cl-24 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: Low (less central; assessed less often); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q351.** Explain why graphene is able to conduct electricity. (2 marks)
 <!-- id: chem12a1-cl-25 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: Low (less central; assessed less often); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q352.** Diamond is used on drill bits and graphite is used in electrodes. For each use, link the property that makes it suitable to the structure of the allotrope. (4 marks)
 <!-- id: chem12a1-cl-26 -->
+*Info: Conceptual · about 4 marks · about 5 min · Exam relevance: Low (less central; assessed less often); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q353.** A student states that diamond melts at a very high temperature because strong dispersion forces between carbon atoms must be overcome. Identify the error and give the correct explanation. (2 marks)
 <!-- id: chem12a1-cl-27 -->
+*Info: Application · about 2 marks · about 2.5 min · Exam relevance: Low (less central; assessed less often); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q354.** In a sheet of graphene, each carbon atom forms
 <!-- id: chem12a1-cl-28 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Low (less central; assessed less often); multiple choice, as in school exams*
 
 - A. four covalent bonds and has no delocalised electrons.
 - B. three covalent bonds and contributes one delocalised electron.
@@ -2580,6 +2956,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q355.** Graphite has a lower density than diamond mainly because
 <!-- id: chem12a1-cl-29 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Low (less central; assessed less often); multiple choice, as in school exams*
 
 - A. graphite contains fewer carbon atoms per mole.
 - B. graphite has weaker covalent bonds than diamond.
@@ -2588,6 +2965,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q356.** A solid is very hard, melts above 2500 °C and does not conduct electricity either as a solid or when molten. It is most likely to be a
 <!-- id: chem12a1-cl-30 -->
+*Info: Application · 1 mark · about 1 min · Exam relevance: Low (less central; assessed less often); multiple choice, as in school exams*
 
 - A. metallic lattice.
 - B. ionic lattice.
@@ -2596,17 +2974,20 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q357.** Graphene is being investigated for use in flexible electronic displays. Link two structural features of graphene to the properties that make it suitable. (2 marks)
 <!-- id: chem12a1-cl-31 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: Low (less central; assessed less often); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q358.** Explain why graphite conducts electricity but silicon dioxide does not. (2 marks)
 <!-- id: chem12a1-cl-32 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: Low (less central; assessed less often); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q359.** Graphite conducts electricity but diamond does not, because in graphite:
 <!-- id: vce-chem12-cl-c1 -->
 *Challenge question*
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Low (less central; assessed less often); multiple choice, as in school exams; harder than most exam questions*
 
 - A. There are carbon ions between the layers that move when a voltage is applied
 - B. The covalent bonds are weaker, so electrons break free from them easily
@@ -2617,8 +2998,11 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 #### Relative masses and mass spectrometry
 
+*Exam relevance: Medium (core content for school assessments) · Prerequisites: Atomic structure and isotopes*
+
 **Q360.** Chlorine has two naturally occurring isotopes, ³⁵Cl and ³⁷Cl, and a relative atomic mass of 35.45. Taking the relative isotopic masses as 35 and 37, what is the percentage abundance of ³⁵Cl?
 <!-- id: chem12a2-rm-1 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. 22.5%
 - B. 50.0%
@@ -2627,6 +3011,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q361.** In a mass spectrometer, what is actually detected and used to produce the mass spectrum?
 <!-- id: chem12a2-rm-2 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. Neutral atoms, separated according to their mass
 - B. Positively charged ions, separated according to their mass-to-charge ratio
@@ -2635,6 +3020,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q362.** Relative isotopic mass and relative atomic mass are both measured on a scale relative to:
 <!-- id: chem12a2-rm-3 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. one-twelfth of the mass of an atom of carbon-12
 - B. the mass of one hydrogen-1 atom
@@ -2643,6 +3029,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q363.** Gallium consists of ⁶⁹Ga (60.1%) and ⁷¹Ga (39.9%). Taking the relative isotopic masses as 69 and 71, the relative atomic mass of gallium is closest to:
 <!-- id: chem12a2-rm-4 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. 69.4
 - B. 69.8
@@ -2651,6 +3038,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q364.** Bromine exists as ⁷⁹Br and ⁸¹Br in almost equal amounts. The mass spectrum of Br₂ shows molecular-ion peaks at m/z 158, 160 and 162 in a ratio of about 1 : 2 : 1. The best explanation for the tallest peak at 160 is that:
 <!-- id: chem12a2-rm-5 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. 160 is the relative molecular mass of the most abundant isotope of bromine
 - B. the ⁸¹Br–⁸¹Br molecule is the most stable
@@ -2659,21 +3047,25 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q365.** Magnesium has three naturally occurring isotopes: ²⁴Mg (78.99%), ²⁵Mg (10.00%) and ²⁶Mg (11.01%). Taking the relative isotopic masses as 24, 25 and 26, calculate the relative atomic mass of magnesium to four significant figures. (2 marks)
 <!-- id: chem12a2-rm-6 -->
+*Info: Calculation · about 2 marks · about 2.5 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q366.** Distinguish between relative isotopic mass and relative atomic mass, and explain why the relative atomic mass of most elements is not a whole number. (3 marks)
 <!-- id: chem12a2-rm-7 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q367.** The mass spectrum of a metallic element X shows only two peaks: m/z 63 with a relative abundance of 69.2% and m/z 65 with a relative abundance of 30.8%. Calculate the relative atomic mass of X and identify the element. (3 marks)
 <!-- id: chem12a2-rm-8 -->
+*Info: Calculation · about 3 marks · about 4 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q368.** Lithium has two isotopes, ⁶Li (7.59%) and ⁷Li (92.41%). Taking the relative isotopic masses as 6 and 7, the relative atomic mass of lithium is closest to:
 <!-- id: chem12a2-rm-9 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. 6.50
 - B. 6.92
@@ -2682,6 +3074,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q369.** Boron consists of ¹⁰B (19.9%) and ¹¹B (80.1%). Taking the relative isotopic masses as 10 and 11, the relative atomic mass of boron is closest to:
 <!-- id: chem12a2-rm-10 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. 10.2
 - B. 10.5
@@ -2690,6 +3083,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q370.** Why does relative atomic mass have no units?
 <!-- id: chem12a2-rm-11 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. It is a ratio of masses, compared with one-twelfth of the mass of a carbon-12 atom
 - B. It is measured in atomic mass units, which are left out by convention
@@ -2698,6 +3092,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q371.** Singly charged ³⁵Cl⁺ and ³⁷Cl⁺ ions, travelling at the same speed, pass through the same magnetic field in a mass spectrometer. Which statement is correct?
 <!-- id: chem12a2-rm-12 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. ³⁵Cl⁺ is deflected less because it has fewer neutrons
 - B. Both ions are deflected equally because they have the same charge
@@ -2706,6 +3101,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q372.** In a mass spectrum, the vertical axis (the height of each peak) shows:
 <!-- id: chem12a2-rm-13 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. the charge on each ion
 - B. the energy of the ions as they hit the detector
@@ -2714,6 +3110,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q373.** Antimony has two isotopes, ¹²¹Sb and ¹²³Sb, and a relative atomic mass of 121.76. Taking the relative isotopic masses as 121 and 123, the percentage abundance of ¹²¹Sb is:
 <!-- id: chem12a2-rm-14 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. 38%
 - B. 50%
@@ -2722,6 +3119,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q374.** Chlorine molecules, Cl₂, are analysed in a mass spectrometer. Considering only ³⁵Cl and ³⁷Cl, how many different molecular-ion peaks appear, and where?
 <!-- id: chem12a2-rm-15 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. Three peaks, at m/z 70, 72 and 74
 - B. Two peaks, at m/z 70 and 74
@@ -2730,6 +3128,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q375.** Atoms of ¹²C and ¹⁴C differ in their:
 <!-- id: chem12a2-rm-16 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. number of protons
 - B. number of electrons
@@ -2738,6 +3137,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q376.** The mass spectrum of silicon shows peaks at m/z 28 (92.2%), 29 (4.7%) and 30 (3.1%). The relative atomic mass of silicon is closest to:
 <!-- id: chem12a2-rm-17 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. 28.0
 - B. 28.5
@@ -2746,6 +3146,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q377.** A sample of an element gives two peaks at m/z 107 (51.8%) and 109 (48.2%). Which element is it?
 <!-- id: chem12a2-rm-18 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. Palladium (Ar = 106.4)
 - B. Silver (Ar = 107.9)
@@ -2754,6 +3155,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q378.** In a mass spectrometer, a ²⁴Mg atom loses two electrons to form a ²⁴Mg²⁺ ion. At what m/z value does this ion appear?
 <!-- id: chem12a2-rm-19 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. 12
 - B. 24
@@ -2762,6 +3164,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q379.** Taking hydrogen as ¹H only, the molecular-ion peaks for HCl (containing ³⁵Cl and ³⁷Cl) appear at m/z:
 <!-- id: chem12a2-rm-20 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. 36 only
 - B. 35 and 37
@@ -2770,6 +3173,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q380.** The mass spectrum of an element shows peaks at m/z 50 (4%), 52 (84%), 53 (10%) and 54 (2%). Which prediction about its relative atomic mass is best?
 <!-- id: chem12a2-rm-21 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. Exactly 52, the mass of the tallest peak
 - B. Slightly above 52, because the heavier isotopes contribute more to the weighted mean than the lighter one
@@ -2778,6 +3182,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q381.** Which statement about relative atomic mass is correct?
 <!-- id: chem12a2-rm-22 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. It always lies between the lightest and heaviest relative isotopic masses of the element
 - B. It always equals the mass number of the most abundant isotope
@@ -2786,36 +3191,43 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q382.** Bromine consists of ⁷⁹Br (50.7%) and ⁸¹Br (49.3%). Taking the relative isotopic masses as 79 and 81, calculate the relative atomic mass of bromine to four significant figures. (2 marks)
 <!-- id: chem12a2-rm-23 -->
+*Info: Calculation · about 2 marks · about 2.5 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q383.** Describe the main stages by which a mass spectrometer produces a mass spectrum of an element. (4 marks)
 <!-- id: chem12a2-rm-24 -->
+*Info: Conceptual · about 4 marks · about 5 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q384.** Potassium can be treated as consisting of two isotopes, ³⁹K and ⁴¹K, and has a relative atomic mass of 39.10. Taking the relative isotopic masses as 39 and 41, calculate the percentage abundance of each isotope. (3 marks)
 <!-- id: chem12a2-rm-25 -->
+*Info: Calculation · about 3 marks · about 4 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q385.** State what the horizontal axis of a mass spectrum shows, and state its value for a singly charged ion of ⁶³Cu. (2 marks)
 <!-- id: chem12a2-rm-26 -->
+*Info: Recall · about 2 marks · about 2.5 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q386.** Neon has three isotopes: ²⁰Ne (90.5%), ²¹Ne (0.3%) and ²²Ne (9.2%). Taking the relative isotopic masses as 20, 21 and 22, calculate the relative atomic mass of neon to four significant figures. (3 marks)
 <!-- id: chem12a2-rm-27 -->
+*Info: Calculation · about 3 marks · about 4 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q387.** ³⁵Cl and ³⁷Cl atoms have different masses but behave almost identically in chemical reactions. Explain both observations. (3 marks)
 <!-- id: chem12a2-rm-28 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q388.** Rubidium consists of ⁸⁵Rb (72.2%) and ⁸⁷Rb (27.8%). Taking the relative isotopic masses as 85 and 87, the relative atomic mass of rubidium, to two decimal places, is
 <!-- id: chem12a2-rm-29 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. 85.56
 - B. 86.00
@@ -2824,6 +3236,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q389.** The mass spectrum of an element shows a single peak at m/z 31 for singly charged ions. Which conclusion is correct?
 <!-- id: chem12a2-rm-30 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. The element has two isotopes of masses 30 and 32.
 - B. The element has only one naturally occurring isotope.
@@ -2832,24 +3245,30 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q390.** Element Q has two isotopes, ¹⁸⁴Q and ¹⁸⁶Q, and a relative atomic mass of 185.2. Taking the relative isotopic masses as 184 and 186, calculate the percentage abundance of each isotope. (2 marks)
 <!-- id: chem12a2-rm-31 -->
+*Info: Calculation · about 2 marks · about 2.5 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q391.** Explain why the sample in a mass spectrometer must be ionised and why the inside of the instrument is kept under a vacuum. (2 marks)
 <!-- id: chem12a2-rm-32 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q392.** Boron is 19.9% ¹⁰B (isotopic mass 10.0) and 80.1% ¹¹B (isotopic mass 11.0). Calculate the relative atomic mass of boron.
 <!-- id: vce-chem12-rm-c1 -->
 *Challenge question*
+*Info: Calculation · about 2 marks · about 2.5 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs; harder than most exam questions*
 
 *Written answer*
 
 #### The mole and molar mass
 
+*Exam relevance: High (core content that Units 3 & 4 build on) · Prerequisites: Relative masses and mass spectrometry; Scientific notation*
+
 **Q393.** How many molecules are present in 0.250 mol of carbon dioxide? (NA = 6.02 × 10²³ mol⁻¹)
 <!-- id: chem12a2-mol-1 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. 6.02 × 10²³
 - B. 1.51 × 10²³
@@ -2858,6 +3277,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q394.** What is the molar mass of calcium nitrate, Ca(NO₃)₂?
 <!-- id: chem12a2-mol-2 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. 102.1 g mol⁻¹
 - B. 164.1 g mol⁻¹
@@ -2866,6 +3286,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q395.** Which sample contains the greatest total number of atoms?
 <!-- id: chem12a2-mol-3 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. 18.0 g of H₂O
 - B. 44.0 g of CO₂
@@ -2874,6 +3295,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q396.** What is the mass of 0.0450 mol of sodium carbonate, Na₂CO₃?
 <!-- id: chem12a2-mol-4 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. 4.77 g
 - B. 2.36 g
@@ -2882,6 +3304,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q397.** How many oxygen atoms are present in 0.10 mol of aluminium sulfate, Al₂(SO₄)₃?
 <!-- id: chem12a2-mol-5 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. 6.0 × 10²²
 - B. 2.4 × 10²³
@@ -2890,21 +3313,25 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q398.** A sports drink contains 9.00 g of glucose, C₆H₁₂O₆. Calculate (a) the amount, in mol, of glucose and (b) the number of glucose molecules. (3 marks)
 <!-- id: chem12a2-mol-6 -->
+*Info: Calculation · about 3 marks · about 4 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q399.** A sample of ethanol, C₂H₅OH, contains 1.20 × 10²⁴ hydrogen atoms. Calculate the mass of the ethanol sample. (3 marks)
 <!-- id: chem12a2-mol-7 -->
+*Info: Calculation · about 3 marks · about 4 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q400.** Define the mole, and explain why 1 mol of carbon has a mass of 12.0 g while 1 mol of magnesium has a mass of 24.3 g. (2 marks)
 <!-- id: chem12a2-mol-8 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q401.** What amount, in mol, of carbon dioxide is present in 4.40 g of CO₂?
 <!-- id: chem12a2-mol-9 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. 0.0100 mol
 - B. 0.100 mol
@@ -2913,6 +3340,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q402.** What is the molar mass of ammonium nitrate, NH₄NO₃?
 <!-- id: chem12a2-mol-10 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. 76.0 g mol⁻¹
 - B. 66.0 g mol⁻¹
@@ -2921,6 +3349,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q403.** How many atoms are present in 0.500 mol of iron? (NA = 6.02 × 10²³ mol⁻¹)
 <!-- id: chem12a2-mol-11 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. 1.20 × 10²⁴
 - B. 6.02 × 10²³
@@ -2929,6 +3358,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q404.** What is the mass of 1.20 × 10²³ molecules of oxygen, O₂? (NA = 6.02 × 10²³ mol⁻¹)
 <!-- id: chem12a2-mol-12 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. 6.38 g
 - B. 3.19 g
@@ -2937,6 +3367,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q405.** How many hydrogen atoms are present in 0.20 mol of ammonia, NH₃? (NA = 6.02 × 10²³ mol⁻¹)
 <!-- id: chem12a2-mol-13 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. 1.2 × 10²³
 - B. 3.6 × 10²³
@@ -2945,6 +3376,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q406.** Which sample has the greatest mass?
 <!-- id: chem12a2-mol-14 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. 1.0 mol of H₂O
 - B. 2.0 mol of CH₄
@@ -2953,6 +3385,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q407.** What amount of chlorine atoms is present in 0.30 mol of magnesium chloride, MgCl₂?
 <!-- id: chem12a2-mol-15 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. 0.30 mol
 - B. 0.90 mol
@@ -2961,6 +3394,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q408.** What is the molar mass of hydrated copper(II) sulfate, CuSO₄·5H₂O?
 <!-- id: chem12a2-mol-16 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. 249.6 g mol⁻¹
 - B. 159.6 g mol⁻¹
@@ -2969,6 +3403,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q409.** What is the mass of 0.0250 mol of aluminium hydroxide, Al(OH)₃?
 <!-- id: chem12a2-mol-17 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. 3.21 × 10⁻⁴ g
 - B. 1.95 g
@@ -2977,6 +3412,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q410.** What is the total amount of atoms, in mol, in 9.0 g of water, H₂O?
 <!-- id: chem12a2-mol-18 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. 0.50 mol
 - B. 1.0 mol
@@ -2985,6 +3421,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q411.** Which statement about 1.00 mol of sodium and 1.00 mol of potassium is correct?
 <!-- id: chem12a2-mol-19 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. They have the same mass but different numbers of atoms.
 - B. They contain the same number of protons.
@@ -2993,6 +3430,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q412.** How many ions are present in 0.10 mol of sodium sulfate, Na₂SO₄? (NA = 6.02 × 10²³ mol⁻¹)
 <!-- id: chem12a2-mol-20 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. 1.8 × 10²³
 - B. 6.0 × 10²²
@@ -3001,6 +3439,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q413.** What is the approximate mass of a single water molecule? (NA = 6.02 × 10²³ mol⁻¹)
 <!-- id: chem12a2-mol-21 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. 1.08 × 10²⁵ g
 - B. 2.99 × 10⁻²³ g
@@ -3009,6 +3448,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q414.** What mass of nitrogen is present in 0.250 mol of ammonium sulfate, (NH₄)₂SO₄?
 <!-- id: chem12a2-mol-22 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. 3.50 g
 - B. 14.0 g
@@ -3017,51 +3457,61 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q415.** Calculate the mass of 0.350 mol of ammonium sulfate, (NH₄)₂SO₄. (2 marks)
 <!-- id: chem12a2-mol-23 -->
+*Info: Calculation · about 2 marks · about 2.5 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q416.** Calculate the total number of atoms in 5.00 g of methane, CH₄. (3 marks)
 <!-- id: chem12a2-mol-24 -->
+*Info: Calculation · about 3 marks · about 4 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q417.** Distinguish between relative molecular mass and molar mass. (2 marks)
 <!-- id: chem12a2-mol-25 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q418.** Calculate the mass of copper(II) nitrate, Cu(NO₃)₂, that contains 0.600 mol of oxygen atoms. (3 marks)
 <!-- id: chem12a2-mol-26 -->
+*Info: Calculation · about 3 marks · about 4 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q419.** Compare the number of molecules in 10.0 g of water, H₂O, with the number in 10.0 g of carbon dioxide, CO₂. Show your calculations and state which sample contains more molecules. (4 marks)
 <!-- id: chem12a2-mol-27 -->
+*Info: Conceptual · about 4 marks · about 5 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q420.** A 3.20 g sample of a pure gas contains 3.01 × 10²² molecules. Calculate the molar mass of the gas and state whether it is O₂, N₂ or SO₂. (3 marks)
 <!-- id: chem12a2-mol-28 -->
+*Info: Calculation · about 3 marks · about 4 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q421.** Calculate the number of aluminium atoms in a 1.00 kg block of aluminium. (2 marks)
 <!-- id: chem12a2-mol-29 -->
+*Info: Calculation · about 2 marks · about 2.5 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q422.** Calculate the total number of ions in 2.34 g of sodium chloride, NaCl. (3 marks)
 <!-- id: chem12a2-mol-30 -->
+*Info: Calculation · about 3 marks · about 4 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q423.** A 2.86 g sample of hydrated sodium carbonate, Na₂CO₃·10H₂O, is heated until all water is removed. Calculate the amount of the hydrated salt, the mass of water of crystallisation it contains, and the number of hydrogen atoms in that water. (4 marks)
 <!-- id: chem12a2-mol-31 -->
+*Info: Calculation · about 4 marks · about 5 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q424.** What is the mass of 2.50 × 10²² molecules of nitrogen, N₂? (N = 14.0; NA = 6.02 × 10²³ mol⁻¹)
 <!-- id: chem12a2-mol-32 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. 0.581 g
 - B. 0.0415 g
@@ -3071,13 +3521,17 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 **Q425.** How many oxygen atoms are in 0.50 mol of calcium nitrate, Ca(NO₃)₂?
 <!-- id: vce-chem12-mo-c1 -->
 *Challenge question*
+*Info: Calculation · about 2 marks · about 2.5 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs; harder than most exam questions*
 
 *Written answer*
 
 #### Percentage composition and empirical formulas
 
+*Exam relevance: Medium (core content for school assessments) · Prerequisites: The mole and molar mass*
+
 **Q426.** What is the percentage by mass of nitrogen in ammonium nitrate, NH₄NO₃?
 <!-- id: chem12a2-emp-1 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. 17.5%
 - B. 35.0%
@@ -3086,6 +3540,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q427.** A compound contains 40.0% carbon, 6.7% hydrogen and 53.3% oxygen by mass. Its empirical formula is:
 <!-- id: chem12a2-emp-2 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. C₂H₄O
 - B. CHO
@@ -3094,6 +3549,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q428.** A hydrocarbon has the empirical formula CH₂ and a molar mass of 84.0 g mol⁻¹. Its molecular formula is:
 <!-- id: chem12a2-emp-3 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. C₅H₁₀
 - B. C₇H₁₄
@@ -3102,6 +3558,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q429.** Which pair of compounds has the same empirical formula?
 <!-- id: chem12a2-emp-4 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. Ethyne, C₂H₂, and benzene, C₆H₆
 - B. Ethane, C₂H₆, and ethene, C₂H₄
@@ -3110,6 +3567,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q430.** A student heated magnesium ribbon in a crucible to find the empirical formula of magnesium oxide. The calculated mole ratio Mg : O was 1 : 0.85 rather than 1 : 1. Which error best explains this result?
 <!-- id: chem12a2-emp-5 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. The magnesium ribbon was cleaned with sandpaper before weighing
 - B. The product absorbed water vapour from the air before the final weighing
@@ -3118,21 +3576,25 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q431.** A hydrocarbon used in the manufacture of a synthetic rubber contains 85.6% carbon and 14.4% hydrogen by mass. Its molar mass is 56.0 g mol⁻¹. Determine its empirical and molecular formulas. (3 marks)
 <!-- id: chem12a2-emp-6 -->
+*Info: Calculation · about 3 marks · about 4 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q432.** A 2.50 g sample of hydrated copper(II) sulfate, CuSO₄·xH₂O, was heated to constant mass, leaving 1.60 g of anhydrous CuSO₄. Determine the value of x. (3 marks)
 <!-- id: chem12a2-emp-7 -->
+*Info: Calculation · about 3 marks · about 4 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q433.** Haematite ore mined in Western Australia contains 80.0% Fe₂O₃ by mass. Calculate (a) the percentage by mass of iron in Fe₂O₃ and (b) the maximum mass of iron that could be extracted from 500 kg of the ore. (3 marks)
 <!-- id: chem12a2-emp-8 -->
+*Info: Calculation · about 3 marks · about 4 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q434.** What is the percentage by mass of calcium in calcium carbonate, CaCO₃?
 <!-- id: chem12a2-emp-9 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. 12.0%
 - B. 40.1%
@@ -3141,6 +3603,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q435.** A compound contains 32.4% sodium, 22.6% sulfur and 45.0% oxygen by mass. Its empirical formula is:
 <!-- id: chem12a2-emp-10 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. Na₂SO₃
 - B. NaSO₂
@@ -3149,6 +3612,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q436.** The empirical formula of a nitrogen oxide is NO₂ and its molar mass is 92.0 g mol⁻¹. Its molecular formula is:
 <!-- id: chem12a2-emp-11 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. N₂O₄
 - B. NO₂
@@ -3157,6 +3621,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q437.** What mass of nitrogen is present in 50.0 g of urea, CO(NH₂)₂?
 <!-- id: chem12a2-emp-12 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. 23.3 g
 - B. 28.0 g
@@ -3165,6 +3630,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q438.** What is the percentage by mass of water in magnesium sulfate heptahydrate, MgSO₄·7H₂O?
 <!-- id: chem12a2-emp-13 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. 7.3%
 - B. 51.1%
@@ -3173,6 +3639,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q439.** A sample of an aluminium oxide contains 5.40 g of aluminium combined with 4.80 g of oxygen. Its empirical formula is:
 <!-- id: chem12a2-emp-14 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. AlO
 - B. Al₂O
@@ -3181,6 +3648,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q440.** Why can the formula NaCl for sodium chloride be described as an empirical formula?
 <!-- id: chem12a2-emp-15 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. Sodium chloride exists as separate NaCl molecules
 - B. Each compound contains exactly one atom of each element
@@ -3189,6 +3657,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q441.** A hydrocarbon sample contains 2.40 g of carbon and 0.600 g of hydrogen. Its empirical formula is:
 <!-- id: chem12a2-emp-16 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. CH₃
 - B. CH₄
@@ -3197,6 +3666,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q442.** Which additional piece of information is needed to convert an empirical formula into a molecular formula?
 <!-- id: chem12a2-emp-17 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. The melting point of the compound
 - B. The molar mass of the compound
@@ -3205,6 +3675,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q443.** Sulfur dioxide, SO₂, and sulfur trioxide, SO₃, are both oxides of sulfur. Which statement about their sulfur content is correct?
 <!-- id: chem12a2-emp-18 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. SO₃ has the higher percentage of sulfur because it has more atoms
 - B. SO₃ has the higher percentage of sulfur because it contains more oxygen
@@ -3213,6 +3684,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q444.** A fertiliser is 90.0% ammonium sulfate, (NH₄)₂SO₄, by mass. What mass of nitrogen is present in 100 kg of the fertiliser?
 <!-- id: chem12a2-emp-19 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. 9.5 kg
 - B. 21.2 kg
@@ -3221,6 +3693,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q445.** A student heated a hydrated salt but stopped before all the water had been driven off. How will this affect the calculated value of x in the formula salt·xH₂O?
 <!-- id: chem12a2-emp-20 -->
+*Info: Application · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. x will be too low because the measured mass of water lost is too small
 - B. x will be too high because the mass of residue is too large
@@ -3229,6 +3702,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q446.** An iron oxide contains 70.0% iron and 30.0% oxygen by mass. Its empirical formula is:
 <!-- id: chem12a2-emp-21 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. FeO
 - B. Fe₂O₃
@@ -3237,6 +3711,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q447.** A compound contains 54.5% carbon, 9.1% hydrogen and 36.4% oxygen by mass and has a molar mass of 88.0 g mol⁻¹. Its molecular formula is:
 <!-- id: chem12a2-emp-22 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. C₂H₄O
 - B. C₄H₈O
@@ -3245,59 +3720,72 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q448.** Calculate the percentage by mass of oxygen in aluminium sulfate, Al₂(SO₄)₃. (2 marks)
 <!-- id: chem12a2-emp-23 -->
+*Info: Calculation · about 2 marks · about 2.5 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q449.** A sample of lead oxide contains 2.07 g of lead combined with 0.320 g of oxygen. Determine the empirical formula of the oxide. (3 marks)
 <!-- id: chem12a2-emp-24 -->
+*Info: Calculation · about 3 marks · about 4 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q450.** Complete combustion of 1.15 g of a compound containing only carbon, hydrogen and oxygen produced 2.20 g of carbon dioxide and 1.35 g of water. Determine the empirical formula of the compound. (4 marks)
 <!-- id: chem12a2-emp-25 -->
+*Info: Calculation · about 4 marks · about 5 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q451.** Hydrated sodium carbonate, Na₂CO₃·xH₂O, contains 62.9% water by mass. Determine the value of x. (3 marks)
 <!-- id: chem12a2-emp-26 -->
+*Info: Calculation · about 3 marks · about 4 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q452.** The empirical formula of ascorbic acid (vitamin C) is C₃H₄O₃ and its molar mass is 176 g mol⁻¹. Determine its molecular formula. (2 marks)
 <!-- id: chem12a2-emp-27 -->
+*Info: Calculation · about 2 marks · about 2.5 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q453.** A student determines the empirical formula of magnesium oxide by heating magnesium ribbon in a crucible. Explain why the student should (a) clean the ribbon with sandpaper before weighing and (b) heat the crucible repeatedly until constant mass is reached. (2 marks)
 <!-- id: chem12a2-emp-28 -->
+*Info: Application · about 2 marks · about 2.5 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q454.** A 2.20 g sample of an iron sulfide contains 1.40 g of iron and the remainder is sulfur. Calculate the percentage by mass of iron in the sample and determine the empirical formula of the compound. (3 marks)
 <!-- id: chem12a2-emp-29 -->
+*Info: Calculation · about 3 marks · about 4 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q455.** A compound used as a moth repellent contains 49.0% carbon, 2.7% hydrogen and 48.3% chlorine by mass and has a molar mass of 147 g mol⁻¹. Determine its empirical formula and its molecular formula. (4 marks)
 <!-- id: chem12a2-emp-30 -->
+*Info: Calculation · about 4 marks · about 5 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q456.** When 1.35 g of aluminium reacts completely with chlorine, 6.67 g of aluminium chloride is formed. Determine the empirical formula of aluminium chloride. (Al = 27.0; Cl = 35.5) (3 marks)
 <!-- id: chem12a2-emp-31 -->
+*Info: Calculation · about 3 marks · about 4 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q457.** A compound is 40.0% C, 6.7% H and 53.3% O by mass, and its molar mass is 180 g/mol. Find its empirical and molecular formulas.
 <!-- id: vce-chem12-pc-c1 -->
 *Challenge question*
+*Info: Calculation · about 3 marks · about 4 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs; harder than most exam questions*
 
 *Written answer*
 
 #### Hydrocarbons and IUPAC naming
 
+*Exam relevance: High (core content that Units 3 & 4 build on) · Prerequisites: Lewis structures and covalent bonding*
+
 **Q458.** What is the IUPAC name of CH₃CH(CH₃)CH₂CH₃?
 <!-- id: chem12a2-hc-1 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. 3-methylbutane
 - B. 2-methylbutane
@@ -3306,6 +3794,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q459.** Which molecular formula could represent an alkene?
 <!-- id: chem12a2-hc-2 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. C₅H₁₀
 - B. C₅H₁₂
@@ -3314,6 +3803,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q460.** How many structural isomers have the molecular formula C₄H₁₀?
 <!-- id: chem12a2-hc-3 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. 2
 - B. 3
@@ -3322,6 +3812,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q461.** What is the IUPAC name of CH₃CH=CHCH₂CH₃?
 <!-- id: chem12a2-hc-4 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. pent-3-ene
 - B. pent-2-ene
@@ -3330,6 +3821,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q462.** The boiling points of the unbranched alkanes increase from methane to decane. This trend is best explained by:
 <!-- id: chem12a2-hc-5 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. the increasing number of covalent bonds that must be broken
 - B. the increasing strength of hydrogen bonds between molecules
@@ -3338,21 +3830,25 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q463.** Give the IUPAC name for each of the following: (a) CH₃CH₂CH₂CH₂CH₃, (b) CH≡CCH₂CH₃, (c) (CH₃)₃CH. (3 marks)
 <!-- id: chem12a2-hc-6 -->
+*Info: Recall · about 3 marks · about 4 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q464.** Pentane and 2,2-dimethylpropane both have the formula C₅H₁₂, but their boiling points are 36 °C and 10 °C respectively. Explain this difference. (3 marks)
 <!-- id: chem12a2-hc-7 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q465.** Propane is the main component of LPG. (a) Write a balanced equation, with states at SLC, for the complete combustion of propane. (b) A student names a compound 3-methylbutane. Explain the error and give the correct name. (3 marks)
 <!-- id: chem12a2-hc-8 -->
+*Info: Application · about 3 marks · about 4 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q466.** What is the molecular formula of an alkane with 7 carbon atoms?
 <!-- id: chem12a2-hc-9 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. C₇H₁₂
 - B. C₇H₁₄
@@ -3361,6 +3857,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q467.** What is the IUPAC name of CH₃CH₂CH(CH₃)CH₂CH₃?
 <!-- id: chem12a2-hc-10 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. 2-ethylbutane
 - B. 3-methylpentane
@@ -3369,6 +3866,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q468.** Which of the following is a saturated hydrocarbon?
 <!-- id: chem12a2-hc-11 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. C₃H₈
 - B. C₂H₄
@@ -3377,6 +3875,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q469.** What is the IUPAC name of CH₃CH₂C≡CCH₃?
 <!-- id: chem12a2-hc-12 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. pent-3-yne
 - B. pent-2-ene
@@ -3385,6 +3884,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q470.** Which formula correctly represents 2,2-dimethylpropane?
 <!-- id: chem12a2-hc-13 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. CH₃CH₂CH₂CH₂CH₃
 - B. CH₃CH(CH₃)CH₂CH₃
@@ -3393,6 +3893,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q471.** How many hydrogen atoms are in one molecule of but-2-yne?
 <!-- id: chem12a2-hc-14 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. 4
 - B. 6
@@ -3401,6 +3902,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q472.** Which pair of compounds are structural isomers of each other?
 <!-- id: chem12a2-hc-15 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. but-1-ene and 2-methylpropene
 - B. butane and but-1-ene
@@ -3409,6 +3911,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q473.** What is the IUPAC name of CH₃CH(CH₃)CH(CH₃)CH₃?
 <!-- id: chem12a2-hc-16 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. 2-ethylbutane
 - B. 3-methylpentane
@@ -3417,6 +3920,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q474.** Cyclohexane and hex-1-ene are best described as:
 <!-- id: chem12a2-hc-17 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. the same compound
 - B. structural isomers
@@ -3425,6 +3929,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q475.** Which statement about the forces between hexane molecules in the liquid state is correct?
 <!-- id: chem12a2-hc-18 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. Hydrogen bonds form between C–H groups.
 - B. Only dispersion forces act between the molecules.
@@ -3433,6 +3938,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q476.** Which unbranched alkane is a liquid at SLC (25 °C and 100 kPa)?
 <!-- id: chem12a2-hc-19 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. ethane
 - B. propane
@@ -3441,6 +3947,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q477.** Which set of products could form from the incomplete combustion of methane?
 <!-- id: chem12a2-hc-20 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. CO and H₂O
 - B. CO₂ and H₂O only
@@ -3449,6 +3956,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q478.** What is the IUPAC name of CH₂=C(CH₃)CH₂CH₃?
 <!-- id: chem12a2-hc-21 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. 3-methylbut-1-ene
 - B. 2-methylbut-1-ene
@@ -3457,41 +3965,49 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q479.** Distinguish between a saturated and an unsaturated hydrocarbon, giving one example of each. (2 marks)
 <!-- id: chem12a2-hc-22 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q480.** State the general formula for each of the following homologous series: alkanes, alkenes (one C=C) and alkynes (one C≡C). (3 marks)
 <!-- id: chem12a2-hc-23 -->
+*Info: Recall · about 3 marks · about 4 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q481.** Give the IUPAC name for each of the following: (a) CH₂=CHCH₂CH₃, (b) CH₃CH(CH₃)CH₂CH₂CH₃, (c) CH₃C≡CCH₃. (3 marks)
 <!-- id: chem12a2-hc-24 -->
+*Info: Recall · about 3 marks · about 4 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q482.** Write a condensed structural formula for each of the following: (a) 2-methylbut-2-ene, (b) 3-methylpent-1-yne. (2 marks)
 <!-- id: chem12a2-hc-25 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q483.** Hexane does not dissolve in water. Explain why in terms of intermolecular forces. (3 marks)
 <!-- id: chem12a2-hc-26 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q484.** Propane burns completely in excess oxygen: C₃H₈(g) + 5O₂(g) → 3CO₂(g) + 4H₂O(l). Calculate the mass of carbon dioxide produced when 11.0 g of propane burns completely. (3 marks)
 <!-- id: chem12a2-hc-27 -->
+*Info: Calculation · about 3 marks · about 4 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q485.** Describe a simple test that distinguishes but-1-ene from butane, including the observations for each. (3 marks)
 <!-- id: chem12a2-hc-28 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q486.** What is the IUPAC name of CH₃CH₂CH(CH₃)CH₂CH₂CH₃?
 <!-- id: chem12a2-hc-29 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. 3-methylhexane
 - B. 4-methylhexane
@@ -3500,6 +4016,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q487.** How many moles of oxygen are needed for the complete combustion of 1 mol of but-1-ene, C₄H₈?
 <!-- id: chem12a2-hc-30 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. 4
 - B. 6
@@ -3508,12 +4025,14 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q488.** Ethane burns completely in oxygen: 2C₂H₆(g) + 7O₂(g) → 4CO₂(g) + 6H₂O(l). Calculate the volume of carbon dioxide, at SLC, produced by burning 5.00 g of ethane. (C = 12.0; H = 1.0; molar volume at SLC = 24.8 L mol⁻¹) (3 marks)
 <!-- id: chem12a2-hc-31 -->
+*Info: Calculation · about 3 marks · about 4 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q489.** The correct IUPAC name for CH₃C(CH₃)₂CH₂CH₃ is:
 <!-- id: vce-chem12-hc-c1 -->
 *Challenge question*
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams; harder than most exam questions*
 
 - A. 3,3-dimethylbutane
 - B. 2-ethyl-2-methylpropane
@@ -3522,8 +4041,11 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 #### Functional groups and homologous series
 
+*Exam relevance: High (core content that Units 3 & 4 build on) · Prerequisites: Hydrocarbons and IUPAC naming*
+
 **Q490.** Which functional group is present in ethanoic acid, CH₃COOH?
 <!-- id: chem12a2-fg-1 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. Hydroxyl group, –OH, only
 - B. Carbon–carbon double bond
@@ -3532,6 +4054,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q491.** What is the IUPAC name of CH₃CH₂CH₂OH?
 <!-- id: chem12a2-fg-2 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. propan-1-ol
 - B. propan-2-ol
@@ -3540,6 +4063,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q492.** Which statement about the members of a homologous series is correct?
 <!-- id: chem12a2-fg-3 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. They all have the same molecular formula
 - B. They all have the same boiling point
@@ -3548,6 +4072,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q493.** Which compound is a haloalkane?
 <!-- id: chem12a2-fg-4 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. CH₃COOH
 - B. CH₃CH₂Cl
@@ -3556,6 +4081,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q494.** The following compounds have similar molar masses. Which has the highest boiling point?
 <!-- id: chem12a2-fg-5 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. Butane, C₄H₁₀ (58.0 g mol⁻¹)
 - B. Chloroethane, C₂H₅Cl (64.5 g mol⁻¹)
@@ -3564,21 +4090,25 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q495.** Explain why ethanol, CH₃CH₂OH, is miscible with water but ethane, CH₃CH₃, is almost insoluble in water. (3 marks)
 <!-- id: chem12a2-fg-6 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q496.** The alkanols (primary alcohols) form a homologous series with the general formula CₙH₂ₙ₊₁OH, starting with methanol. Give the molecular formula and molar mass of the fifth member of the series. (2 marks)
 <!-- id: chem12a2-fg-7 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q497.** For each compound, name the functional group present and give the IUPAC name of the compound: (a) CH₃CH₂COOH, (b) CH₃CHBrCH₃, (c) CH₂=CHCH₃. (3 marks)
 <!-- id: chem12a2-fg-8 -->
+*Info: Recall · about 3 marks · about 4 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q498.** Which functional group is present in methyl ethanoate, CH₃COOCH₃?
 <!-- id: chem12a2-fg-9 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. Carboxyl group, –COOH
 - B. Ester group, –COO–
@@ -3587,6 +4117,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q499.** Which molecular formula could represent an acyclic alkene with one carbon–carbon double bond?
 <!-- id: chem12a2-fg-10 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. C₅H₁₀
 - B. C₅H₁₂
@@ -3595,6 +4126,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q500.** Which functional group is present in ethylamine, CH₃CH₂NH₂?
 <!-- id: chem12a2-fg-11 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. Amide group, –CONH₂
 - B. Hydroxyl group, –OH
@@ -3603,6 +4135,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q501.** Which pair of compounds belongs to the same homologous series?
 <!-- id: chem12a2-fg-12 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. CH₃OH and CH₃CH₂OH
 - B. CH₃CH₂OH and CH₃COOH
@@ -3611,6 +4144,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q502.** Which statement best explains why the boiling points of the alkanes increase from methane to decane?
 <!-- id: chem12a2-fg-13 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. The covalent C–C bonds become stronger
 - B. Hydrogen bonds form between the molecules
@@ -3619,6 +4153,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q503.** What is the molar mass of propanoic acid, CH₃CH₂COOH? (C = 12.0, H = 1.0, O = 16.0)
 <!-- id: chem12a2-fg-14 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. 60.0 g mol⁻¹
 - B. 74.0 g mol⁻¹
@@ -3627,6 +4162,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q504.** What is the IUPAC name of CH₃CH₂CH₂COOH?
 <!-- id: chem12a2-fg-15 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. butanoic acid
 - B. propanoic acid
@@ -3635,6 +4171,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q505.** What is the IUPAC name of CH₃CH(CH₃)CH₂OH?
 <!-- id: chem12a2-fg-16 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. 1-methylpropan-2-ol
 - B. 2-methylpropan-1-ol
@@ -3643,6 +4180,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q506.** What is the molecular formula of hexanoic acid?
 <!-- id: chem12a2-fg-17 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. C₆H₁₂O
 - B. C₆H₁₄O₂
@@ -3651,6 +4189,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q507.** What is the IUPAC name of BrCH₂CH₂Br?
 <!-- id: chem12a2-fg-18 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. 2-dibromoethane
 - B. bromoethane
@@ -3659,6 +4198,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q508.** Which two functional groups are present in aminoethanoic acid, H₂NCH₂COOH?
 <!-- id: chem12a2-fg-19 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. Amide and hydroxyl
 - B. Amino and carboxyl
@@ -3667,46 +4207,55 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q509.** Write the structural formulas and IUPAC names of the two structural isomers with molecular formula C₃H₇Cl. (2 marks)
 <!-- id: chem12a2-fg-20 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q510.** An alkane contains 22 hydrogen atoms per molecule. Determine its molecular formula and name. (2 marks)
 <!-- id: chem12a2-fg-21 -->
+*Info: Calculation · about 2 marks · about 2.5 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q511.** Describe how the structures of an alkane and an alkene differ, and how bromine water could be used to distinguish between hexane and hex-1-ene. (3 marks)
 <!-- id: chem12a2-fg-22 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q512.** Explain why butane (boiling point −1 °C) has a higher boiling point than propane (boiling point −42 °C). (2 marks)
 <!-- id: chem12a2-fg-23 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q513.** The compound HOCH₂CH₂COOH contains two functional groups. Name each group and give its formula. (2 marks)
 <!-- id: chem12a2-fg-24 -->
+*Info: Recall · about 2 marks · about 2.5 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q514.** Calculate the molar mass of 1-chlorobutane and the percentage by mass of chlorine in it. (C = 12.0, H = 1.0, Cl = 35.5) (3 marks)
 <!-- id: chem12a2-fg-25 -->
+*Info: Calculation · about 3 marks · about 4 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q515.** Methyl propanoate has the structural formula CH₃CH₂COOCH₃. Name its functional group and state the names of the alkanol and carboxylic acid from which it can be made. (3 marks)
 <!-- id: chem12a2-fg-26 -->
+*Info: Recall · about 3 marks · about 4 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q516.** Explain why the solubility of the primary alkanols in water decreases as the length of the carbon chain increases, with reference to methanol and decan-1-ol. (3 marks)
 <!-- id: chem12a2-fg-27 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q517.** The general formula for the alkanoic (carboxylic) acids, where n is the number of carbon atoms, is
 <!-- id: chem12a2-fg-28 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. CₙH₂ₙ₊₁OH
 - B. CₙH₂ₙ₊₂
@@ -3715,6 +4264,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q518.** Which compound is a structural isomer of butanoic acid, C₃H₇COOH?
 <!-- id: chem12a2-fg-29 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. Methyl propanoate, CH₃CH₂COOCH₃
 - B. Methyl ethanoate, CH₃COOCH₃
@@ -3723,17 +4273,20 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q519.** Give the IUPAC name and name the functional group of each compound: (a) CH₃CH(Cl)CH₂CH₃ and (b) CH₃CH₂CH(OH)CH₂CH₃. (2 marks)
 <!-- id: chem12a2-fg-30 -->
+*Info: Recall · about 2 marks · about 2.5 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q520.** Methylamine, CH₃NH₂ (boiling point −6 °C), has a much higher boiling point than ethane, CH₃CH₃ (boiling point −89 °C), although their molar masses are almost the same. Explain why. (2 marks)
 <!-- id: chem12a2-fg-31 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q521.** The molecular formula of the carboxylic acid with five carbon atoms (pentanoic acid) is:
 <!-- id: vce-chem12-fg-c1 -->
 *Challenge question*
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams; harder than most exam questions*
 
 - A. C₅H₁₂O₂
 - B. C₅H₁₀O₂
@@ -3742,8 +4295,11 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 #### Addition polymers
 
+*Exam relevance: Medium (core content for school assessments) · Prerequisites: Hydrocarbons and IUPAC naming*
+
 **Q522.** Which structural feature must a monomer have to undergo addition polymerisation?
 <!-- id: chem12a2-ap-1 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. A carbon–carbon double bond
 - B. A hydroxyl group
@@ -3752,6 +4308,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q523.** Chloroethene, CH₂=CHCl, is polymerised to form PVC. Which represents the repeating unit of the polymer?
 <!-- id: chem12a2-ap-2 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. –CH₂–CH₂–
 - B. –CH=CCl–
@@ -3760,6 +4317,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q524.** A polymer has the repeating unit –CH₂–CH(CH₃)–. Its monomer is:
 <!-- id: chem12a2-ap-3 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. ethene
 - B. propene
@@ -3768,6 +4326,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q525.** High-density polyethene (HDPE) has a higher density and softening temperature than low-density polyethene (LDPE). The best explanation is that HDPE:
 <!-- id: chem12a2-ap-4 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. contains covalent cross-links between chains
 - B. is made from a different monomer
@@ -3776,6 +4335,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q526.** A sample of polyethene has an average molar mass of 2.80 × 10⁵ g mol⁻¹. On average, how many ethene monomer units are in each chain?
 <!-- id: chem12a2-ap-5 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. 1.00 × 10³
 - B. 1.00 × 10⁴
@@ -3784,21 +4344,25 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q527.** Polytetrafluoroethene (PTFE) is used to coat non-stick frying pans. Give the structural formula of its monomer, the structure of its repeating unit, and explain why its formation is classified as addition polymerisation. (3 marks)
 <!-- id: chem12a2-ap-6 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q528.** Explain why a sample of polyethene with very long chains has a higher softening temperature than a sample with much shorter chains. (2 marks)
 <!-- id: chem12a2-ap-7 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q529.** Polystyrene is made from styrene (phenylethene), C₆H₅CH=CH₂. Write an equation showing n monomers forming the polymer, and state one property of polystyrene that relates to its structure. (3 marks)
 <!-- id: chem12a2-ap-8 -->
+*Info: Recall · about 3 marks · about 4 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q530.** Which statement about the products of addition polymerisation of ethene is correct?
 <!-- id: chem12a2-ap-9 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. The polymer is the only product; no small molecule is released
 - B. Water is released for every bond formed
@@ -3807,6 +4371,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q531.** Which of the following compounds could NOT be used as a monomer in addition polymerisation?
 <!-- id: chem12a2-ap-10 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. Propene
 - B. Hexane
@@ -3815,6 +4380,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q532.** What is the systematic name of the monomer used to make PVC?
 <!-- id: chem12a2-ap-11 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. Chloroethane
 - B. Dichloroethene
@@ -3823,6 +4389,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q533.** 14.0 g of ethene is completely converted into polyethene by addition polymerisation. What is the mass of polyethene formed?
 <!-- id: chem12a2-ap-12 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. 7.00 g
 - B. 28.0 g
@@ -3831,6 +4398,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q534.** In the radical addition polymerisation of ethene, the role of the initiator is to:
 <!-- id: chem12a2-ap-13 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. supply the hydrogen atoms needed for the chain
 - B. produce a reactive radical that attacks the C=C and starts the chain
@@ -3839,6 +4407,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q535.** Polyethene softens and can be moulded when heated. This is because:
 <!-- id: chem12a2-ap-14 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. the covalent bonds along each chain break at low temperatures
 - B. the C=C bonds reform on heating
@@ -3847,6 +4416,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q536.** Acrylonitrile (propenenitrile), CH₂=CH–CN, is polymerised by addition polymerisation. Which represents its repeating unit?
 <!-- id: chem12a2-ap-15 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. –CH₂–CH(CN)–
 - B. –CH=C(CN)–
@@ -3855,6 +4425,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q537.** A polyethene chain contains 500 ethene monomer units. How many carbon atoms are in its backbone?
 <!-- id: chem12a2-ap-16 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. 500
 - B. 1000
@@ -3863,6 +4434,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q538.** Which equation correctly represents the formation of polyethene?
 <!-- id: chem12a2-ap-17 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. n CH₂=CH₂ → CH₂=CH₂ + nH₂
 - B. n CH₃CH₃ → –[CH₂–CH₂]ₙ– + nH₂
@@ -3871,6 +4443,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q539.** PVC is harder and has a higher softening temperature than polyethene of similar chain length. The best explanation is that PVC has:
 <!-- id: chem12a2-ap-18 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. a higher number of C=C bonds in each chain
 - B. hydrogen bonds between the Cl atoms of neighbouring chains
@@ -3879,6 +4452,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q540.** Aqueous bromine is added to a sample of polyethene and to a sample of ethene. What is observed?
 <!-- id: chem12a2-ap-19 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. The polyethene does not decolourise the bromine, but ethene does
 - B. Both decolourise the bromine
@@ -3887,6 +4461,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q541.** But-1-ene, CH₂=CHCH₂CH₃, undergoes addition polymerisation. Which is its repeating unit?
 <!-- id: chem12a2-ap-20 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. –CH₂–CH₂–CH₂–CH₂–
 - B. –CH₂–CH(CH₂CH₃)–
@@ -3895,6 +4470,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q542.** Discarded polyethene bags persist in the environment for a very long time. The best reason is that:
 <!-- id: chem12a2-ap-21 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. they dissolve to form toxic acids
 - B. the polymer contains many C=C bonds that are unreactive
@@ -3903,26 +4479,31 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q543.** Define the terms 'monomer' and 'polymer', and state what type of bond in the monomer allows addition polymerisation. (3 marks)
 <!-- id: chem12a2-ap-22 -->
+*Info: Recall · about 3 marks · about 4 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q544.** Propene, CH₂=CHCH₃, is polymerised to form polypropene. Write the equation for the formation of the polymer from n monomer molecules, showing the repeating unit. (2 marks)
 <!-- id: chem12a2-ap-23 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q545.** A sample of poly(vinyl chloride) has 2500 repeating units per chain. Calculate the molar mass of the polymer, in g mol⁻¹. (C = 12.0, H = 1.0, Cl = 35.5) (3 marks)
 <!-- id: chem12a2-ap-24 -->
+*Info: Calculation · about 3 marks · about 4 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q546.** 5.60 kg of ethene is completely polymerised into polyethene. Calculate (a) the mass of polyethene formed and (b) the amount, in mol, of polymer chains if each chain contains 4.00 × 10³ ethene units. (M(C₂H₄) = 28.0 g mol⁻¹) (4 marks)
 <!-- id: chem12a2-ap-25 -->
+*Info: Calculation · about 4 marks · about 5 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q547.** A polymer has the repeating unit –CH₂–CCl₂–. Which compound is its monomer?
 <!-- id: chem12a2-ap-26 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. CH₂=CCl₂
 - B. CHCl=CHCl
@@ -3931,6 +4512,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q548.** A sample of polypropene has an average of 1500 repeating units per chain. What is its approximate average molar mass? (C₃H₆ = 42.0 g mol⁻¹)
 <!-- id: chem12a2-ap-27 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. 4.20 × 10⁴ g mol⁻¹
 - B. 6.30 × 10⁴ g mol⁻¹
@@ -3939,6 +4521,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q549.** The addition polymerisation of a single alkene monomer has an atom economy of 100%. This is because:
 <!-- id: chem12a2-ap-28 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. the reaction is exothermic
 - B. a catalyst is used, so no waste forms
@@ -3947,6 +4530,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q550.** What is the percentage by mass of chlorine in PVC, (–CH₂–CHCl–)ₙ? (C = 12.0, H = 1.0, Cl = 35.5)
 <!-- id: chem12a2-ap-29 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. 73.2%
 - B. 35.5%
@@ -3955,17 +4539,20 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q551.** Chloroethene is the monomer used to make PVC. Draw or describe a section of PVC containing three repeating units, and explain why the polymer chain contains no C=C double bonds. (3 marks)
 <!-- id: chem12a2-ap-30 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q552.** A sample of PVC has an average molar mass of 1.25 × 10⁵ g mol⁻¹. The repeating unit is –CH₂–CHCl–, with M = 62.5 g mol⁻¹. Calculate the average number of repeating units per chain and the number of carbon atoms in the backbone of an average chain. (2 marks)
 <!-- id: chem12a2-ap-31 -->
+*Info: Calculation · about 2 marks · about 2.5 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q553.** Which monomer forms a polymer with the repeating unit –CH₂–CH(CH₃)–?
 <!-- id: vce-chem12-ap-c1 -->
 *Challenge question*
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams; harder than most exam questions*
 
 - A. Ethene
 - B. Propane
@@ -3974,8 +4561,11 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 #### Thermoplastics, thermosets and the circular economy
 
+*Exam relevance: Medium (core content for school assessments) · Prerequisites: Addition polymers; Intermolecular forces*
+
 **Q554.** Which statement best describes the structure and behaviour of a thermoplastic?
 <!-- id: chem12a2-tt-1 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. Chains are joined by many covalent cross-links, so it chars rather than melts
 - B. It is a three-dimensional covalent network lattice
@@ -3984,6 +4574,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q555.** Which feature distinguishes a thermosetting polymer from a thermoplastic?
 <!-- id: chem12a2-tt-2 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. It has a lower average molar mass
 - B. It has extensive covalent cross-links between polymer chains
@@ -3992,6 +4583,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q556.** Which practice best reflects the principles of a circular economy for plastics?
 <!-- id: chem12a2-tt-3 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. Burning all plastic waste in landfill gas flares
 - B. Producing single-use packaging that is thinner and cheaper
@@ -4000,6 +4592,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q557.** Which polymer is commonly produced from a renewable feedstock such as corn starch or sugarcane?
 <!-- id: chem12a2-tt-4 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. Polylactic acid (PLA)
 - B. Polyvinyl chloride (PVC)
@@ -4008,6 +4601,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q558.** Why can a thermoset such as cured epoxy resin not be recycled by melting and remoulding?
 <!-- id: chem12a2-tt-5 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. It is too dense to be shredded
 - B. It dissolves in water when heated
@@ -4016,21 +4610,25 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q559.** Compare the linear economy and the circular economy models as they apply to plastic drink bottles made of PET. (3 marks)
 <!-- id: chem12a2-tt-6 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q560.** A car's brake pads contain a thermosetting resin. Explain, in terms of structure and bonding, why the resin does not soften when the brakes become very hot. (3 marks)
 <!-- id: chem12a2-tt-7 -->
+*Info: Application · about 3 marks · about 4 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q561.** Polyethene can be made from ethene obtained by dehydrating ethanol fermented from sugarcane ('bio-PE'). Explain why bio-PE is described as bio-based but not biodegradable, and state one environmental advantage it still offers. (3 marks)
 <!-- id: chem12a2-tt-8 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q562.** Which of the following polymers is a thermoplastic?
 <!-- id: chem12a2-tt-9 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. Bakelite
 - B. Polyethene
@@ -4039,6 +4637,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q563.** Natural rubber is vulcanised by heating it with sulfur. What does this process do to the rubber?
 <!-- id: chem12a2-tt-10 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. Breaks the polymer chains into monomers
 - B. Replaces the carbon–carbon double bonds with ionic bonds
@@ -4047,6 +4646,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q564.** Why is a thermoplastic such as high-density polyethene (HDPE) well suited to mechanical recycling?
 <!-- id: chem12a2-tt-11 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. It can be shredded, melted and reshaped because there are no covalent cross-links between its chains
 - B. It decomposes to its monomers when heated gently
@@ -4055,6 +4655,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q565.** A manufacturer increases the extent of cross-linking in a polymer. Which change in properties is most likely?
 <!-- id: chem12a2-tt-12 -->
+*Info: Application · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. It becomes more flexible and has a lower melting point
 - B. It becomes more soluble in non-polar solvents
@@ -4063,6 +4664,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q566.** In the waste hierarchy that underpins a circular economy, which action is the most preferred?
 <!-- id: chem12a2-tt-13 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. Recycling the material into new products
 - B. Reducing consumption so that less waste is created
@@ -4071,6 +4673,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q567.** Which process describes chemical recycling of a condensation polymer such as PET?
 <!-- id: chem12a2-tt-14 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. Breaking the polymer down into its monomers or small molecules that are used to make new polymer
 - B. Melting the polymer and moulding it into a new shape
@@ -4079,6 +4682,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q568.** Which statement correctly describes a biodegradable polymer?
 <!-- id: chem12a2-tt-15 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. It is always made from renewable plant materials
 - B. It cannot be recycled by any method
@@ -4087,6 +4691,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q569.** A plastic sample softens when heated and hardens again on cooling, and this can be repeated many times. What can be concluded?
 <!-- id: chem12a2-tt-16 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. It is a thermoset with extensive cross-linking
 - B. It is a thermoplastic with no extensive covalent cross-links between chains
@@ -4095,6 +4700,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q570.** Which polymer type is most suitable for the handle of a saucepan that regularly gets hot?
 <!-- id: chem12a2-tt-17 -->
+*Info: Evaluation · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. A thermoset, because its cross-links stop it softening
 - B. A thermoplastic with a low melting point, because it is easily moulded
@@ -4103,6 +4709,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q571.** How does a container deposit scheme support a circular economy?
 <!-- id: chem12a2-tt-18 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. It makes containers thinner so they use less plastic
 - B. It encourages burning of used containers for energy
@@ -4111,6 +4718,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q572.** A recycling facility receives 250 t of PET bottles and produces 180 t of reusable recycled PET. What percentage of the PET was recovered?
 <!-- id: chem12a2-tt-19 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. 28%
 - B. 70%
@@ -4119,6 +4727,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q573.** Why must plastics generally be sorted by type before mechanical recycling?
 <!-- id: chem12a2-tt-20 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. Different polymers have different melting points and mix poorly, so a mixture gives a weak, inconsistent product
 - B. All plastics have the same density, so they cannot be separated otherwise
@@ -4127,6 +4736,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q574.** What type of force mainly holds the polymer chains together in polyethene, allowing it to soften on heating?
 <!-- id: chem12a2-tt-21 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. Covalent cross-links
 - B. Dispersion forces
@@ -4135,6 +4745,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q575.** Why is burning waste plastic with energy recovery considered less desirable than recycling it in a circular economy?
 <!-- id: chem12a2-tt-22 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. It cannot release any energy
 - B. It only works for thermosets
@@ -4143,46 +4754,55 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q576.** Polyethene bags can be recycled by melting, but a vulcanised rubber tyre cannot. Explain this difference in terms of structure and bonding. (3 marks)
 <!-- id: chem12a2-tt-23 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q577.** Distinguish between mechanical recycling and chemical recycling of PET. (3 marks)
 <!-- id: chem12a2-tt-24 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q578.** Place the following in order from most preferred to least preferred in the waste hierarchy and justify the order: landfill, recycling, reducing consumption. (3 marks)
 <!-- id: chem12a2-tt-25 -->
+*Info: Evaluation · about 3 marks · about 4 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q579.** A sorting plant receives 12.0 t of mixed plastic waste, of which 65% is PET. The plant recovers 70% of the PET as reusable material. Calculate the mass of PET recovered. (3 marks)
 <!-- id: chem12a2-tt-26 -->
+*Info: Calculation · about 3 marks · about 4 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q580.** A company makes yoghurt tubs from a cross-linked thermosetting polymer. Suggest a change that would improve the recyclability of the tubs and justify it. (2 marks)
 <!-- id: chem12a2-tt-27 -->
+*Info: Evaluation · about 2 marks · about 2.5 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q581.** Polylactic acid (PLA) is biodegradable, yet PLA cups sent to landfill often persist for years. Explain why, and state the advantage of sending them to industrial composting instead. (2 marks)
 <!-- id: chem12a2-tt-28 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q582.** Define the term 'downcycling' and explain why mechanical recycling of plastics often leads to it. (3 marks)
 <!-- id: chem12a2-tt-29 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q583.** Evaluate a container deposit scheme as a way of moving towards a circular economy for plastic drink bottles. Give two benefits and one limitation. (4 marks)
 <!-- id: chem12a2-tt-30 -->
+*Info: Evaluation · about 4 marks · about 5 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q584.** Which process is an example of mechanical recycling of a thermoplastic such as HDPE?
 <!-- id: chem12a2-tt-31 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. Heating it with strong acid to regenerate the monomers
 - B. Burning it in an incinerator to generate electricity
@@ -4192,6 +4812,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 **Q585.** Why can thermoplastics be melted and remoulded, but thermosets cannot?
 <!-- id: vce-chem12-tt-c1 -->
 *Challenge question*
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams; harder than most exam questions*
 
 - A. Thermoplastics have stronger covalent bonds within their chains, so they do not char when heated
 - B. Thermosets have covalent cross-links between chains; thermoplastics have only weak forces between chains
@@ -4202,8 +4823,11 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 #### Properties of water and hydrogen bonding
 
+*Exam relevance: Medium (core content for school assessments) · Prerequisites: Intermolecular forces*
+
 **Q586.** Water has a high specific heat capacity (4.18 J g⁻¹ °C⁻¹) compared with most liquids. This is mainly because:
 <!-- id: chem12a2-wat-1 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. the O–H covalent bonds break when water is heated
 - B. water molecules are non-polar
@@ -4212,6 +4836,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q587.** How much energy is needed to heat 250 g of water from 20.0 °C to 80.0 °C? (c = 4.18 J g⁻¹ °C⁻¹)
 <!-- id: chem12a2-wat-2 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. 62.7 kJ
 - B. 20.9 kJ
@@ -4220,6 +4845,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q588.** Ice floats on liquid water because:
 <!-- id: chem12a2-wat-3 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. ice contains trapped air bubbles
 - B. the covalent bonds in ice are longer than in liquid water
@@ -4228,6 +4854,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q589.** Consider the hydrides H₂O, H₂S, H₂Se and H₂Te. Which has the highest boiling point, and why?
 <!-- id: chem12a2-wat-4 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. H₂Te, because it has the strongest dispersion forces
 - B. H₂O, because its molecules form hydrogen bonds
@@ -4236,6 +4863,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q590.** The molar heat of vaporisation of water at 100 °C is 40.7 kJ mol⁻¹. How much energy is needed to vaporise 9.00 g of water at its boiling point?
 <!-- id: chem12a2-wat-5 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. 40.7 kJ
 - B. 81.4 kJ
@@ -4244,21 +4872,25 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q591.** Melbourne's coastal suburbs typically have a smaller daily temperature range than inland towns such as Mildura. Explain this, referring to a property of water and its cause. (3 marks)
 <!-- id: chem12a2-wat-6 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q592.** Describe a hydrogen bond between two water molecules, and explain why each water molecule can form up to four hydrogen bonds. (3 marks)
 <!-- id: chem12a2-wat-7 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q593.** 15.0 kJ of energy is absorbed by 200 g of water initially at 18.0 °C. Calculate the final temperature of the water. (c = 4.18 J g⁻¹ °C⁻¹) (2 marks)
 <!-- id: chem12a2-wat-8 -->
+*Info: Calculation · about 2 marks · about 2.5 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q594.** Which pair of substances can form hydrogen bonds with each other?
 <!-- id: chem12a2-wat-9 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. CH₄ and H₂O
 - B. HCl and HCl
@@ -4267,6 +4899,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q595.** A water molecule has a bent shape with a bond angle of about 104.5°. This is because the oxygen atom has:
 <!-- id: chem12a2-wat-10 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. two bonding pairs and two lone pairs of electrons, which repel to give a bent shape
 - B. two bonding pairs and no lone pairs, giving a linear shape
@@ -4275,6 +4908,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q596.** Water has a high surface tension. This is best explained by:
 <!-- id: chem12a2-wat-11 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. strong covalent bonds between the hydrogen and oxygen atoms in each molecule
 - B. hydrogen bonds pulling surface molecules inwards towards neighbouring molecules
@@ -4283,6 +4917,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q597.** When liquid water boils at 100 °C, which of the following occurs?
 <!-- id: chem12a2-wat-12 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. The O–H covalent bonds break to form hydrogen and oxygen gas
 - B. The hydrogen atoms move to bond with different oxygen atoms
@@ -4291,6 +4926,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q598.** How much energy is needed to raise the temperature of 150 g of water by 25.0 °C? (c = 4.18 J g⁻¹ °C⁻¹)
 <!-- id: chem12a2-wat-13 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. 15.7 kJ
 - B. 0.627 kJ
@@ -4299,6 +4935,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q599.** A sample of water absorbs 5.00 kJ of energy and its temperature rises by 10.0 °C. What is the mass of the sample? (c = 4.18 J g⁻¹ °C⁻¹)
 <!-- id: chem12a2-wat-14 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. 12.0 g
 - B. 2.09 × 10⁵ g
@@ -4307,6 +4944,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q600.** Sweating cools the body mainly because:
 <!-- id: chem12a2-wat-15 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. water has a low specific heat capacity
 - B. evaporating sweat absorbs a large amount of energy from the skin to overcome hydrogen bonds
@@ -4315,6 +4953,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q601.** Methane (CH₄, M = 16) boils at −162 °C but water (H₂O, M = 18) boils at 100 °C. The main reason for this difference is that:
 <!-- id: chem12a2-wat-16 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. methane has a higher molar mass than water
 - B. methane molecules are polar and water molecules are not
@@ -4323,6 +4962,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q602.** The molar heat of vaporisation of water is 40.7 kJ mol⁻¹. What mass of water can be vaporised at 100 °C by 100 kJ of energy?
 <!-- id: chem12a2-wat-17 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. 44.2 g
 - B. 2.46 g
@@ -4331,6 +4971,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q603.** In liquid water, a hydrogen bond forms between:
 <!-- id: chem12a2-wat-18 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. the oxygen atom of one molecule and the oxygen atom of another molecule
 - B. the two hydrogen atoms of the same molecule
@@ -4339,6 +4980,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q604.** Propane (C₃H₈, M = 44), dimethyl ether (CH₃OCH₃, M = 46) and ethanol (CH₃CH₂OH, M = 46) have similar molar masses. Which has the highest boiling point?
 <!-- id: chem12a2-wat-19 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. propane, because it has the most hydrogen atoms
 - B. ethanol, because its molecules form hydrogen bonds
@@ -4347,6 +4989,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q605.** Equal masses of water (c = 4.18 J g⁻¹ °C⁻¹) and ethanol (c = 2.44 J g⁻¹ °C⁻¹) at the same starting temperature absorb the same amount of energy. Which statement is correct?
 <!-- id: chem12a2-wat-20 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. The ethanol temperature rises by more, because it has a lower specific heat capacity
 - B. The water temperature rises by more, because it has hydrogen bonds
@@ -4355,6 +4998,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q606.** Liquid water has a density of 1.00 g mL⁻¹ and ice has a density of 0.92 g mL⁻¹. What volume of ice forms when 100 mL of liquid water freezes?
 <!-- id: chem12a2-wat-21 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. 92.0 mL
 - B. 100 mL
@@ -4363,6 +5007,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q607.** Which statement about the strength of the bonds and forces in water is correct?
 <!-- id: chem12a2-wat-22 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. The covalent O–H bonds within a molecule are weaker than the hydrogen bonds between molecules
 - B. Hydrogen bonds are weaker than the covalent bonds within molecules but stronger than dispersion forces between similar-sized non-polar molecules
@@ -4371,52 +5016,62 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q608.** A water strider insect can walk on the surface of a pond without sinking. Explain this, referring to the intermolecular forces in water. (2 marks)
 <!-- id: chem12a2-wat-23 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q609.** Ammonia (NH₃) boils at −33 °C whereas phosphine (PH₃), which has a larger molar mass, boils at −88 °C. Explain this difference. (3 marks)
 <!-- id: chem12a2-wat-24 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q610.** Calculate the total energy needed to heat 500 g of water from 15.0 °C to 100 °C and then vaporise all of it at 100 °C. (c = 4.18 J g⁻¹ °C⁻¹; molar heat of vaporisation = 40.7 kJ mol⁻¹; M(H₂O) = 18.0 g mol⁻¹) (4 marks)
 <!-- id: chem12a2-wat-25 -->
+*Info: Calculation · about 4 marks · about 5 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q611.** An electric kettle with a power output of 2.00 kW (2000 J s⁻¹) heats 1.50 kg of water from 22.0 °C to 100 °C. Assuming all the energy heats the water, calculate the time taken. (c = 4.18 J g⁻¹ °C⁻¹) (3 marks)
 <!-- id: chem12a2-wat-26 -->
+*Info: Calculation · about 3 marks · about 4 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q612.** In cold climates, lakes freeze from the top down, and fish can survive in the liquid water beneath the ice. Explain why the ice forms at the surface, referring to hydrogen bonding. (3 marks)
 <!-- id: chem12a2-wat-27 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q613.** Explain why a water molecule is polar. (3 marks)
 <!-- id: chem12a2-wat-28 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q614.** Distinguish between the covalent bonds in a water molecule and the hydrogen bonds between water molecules, and state which type is broken when water evaporates. (2 marks)
 <!-- id: chem12a2-wat-29 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q615.** 100 g of water at 80.0 °C is mixed with 200 g of water at 20.0 °C in an insulated container. Calculate the final temperature of the mixture. (c = 4.18 J g⁻¹ °C⁻¹) (3 marks)
 <!-- id: chem12a2-wat-30 -->
+*Info: Calculation · about 3 marks · about 4 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q616.** Explain, in terms of intermolecular forces, why methanol, CH₃OH, is miscible with water but pentane, C₅H₁₂, is not. (3 marks)
 <!-- id: chem12a2-wat-31 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q617.** Ice floats on liquid water because:
 <!-- id: vce-chem12-pw-c1 -->
 *Challenge question*
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams; harder than most exam questions*
 
 - A. Ice contains trapped air bubbles that make it less dense than the liquid water around it
 - B. Water molecules in ice are lighter, because some hydrogen atoms are lost on freezing
@@ -4425,8 +5080,11 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 #### Solubility and precipitation reactions
 
+*Exam relevance: Medium (core content for school assessments) · Prerequisites: Ionic bonding and ionic compounds*
+
 **Q618.** Which compound is insoluble in water?
 <!-- id: chem12a2-sol-1 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. NaNO₃
 - B. AgCl
@@ -4435,6 +5093,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q619.** Solutions of barium chloride and sodium sulfate are mixed and a white precipitate forms. The ionic equation is:
 <!-- id: chem12a2-sol-2 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. Na⁺(aq) + Cl⁻(aq) → NaCl(s)
 - B. BaCl₂(aq) + Na₂SO₄(aq) → BaSO₄(s) + 2NaCl(aq)
@@ -4443,6 +5102,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q620.** When silver nitrate solution is added to sodium chloride solution, which ions are spectator ions?
 <!-- id: chem12a2-sol-3 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. Na⁺ and NO₃⁻
 - B. Ag⁺ and Cl⁻
@@ -4451,6 +5111,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q621.** The solubility of potassium nitrate is about 110 g per 100 g of water at 60 °C and about 32 g per 100 g of water at 20 °C. A saturated solution containing 100 g of water is cooled from 60 °C to 20 °C. What mass of KNO₃ crystallises?
 <!-- id: chem12a2-sol-4 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. 110 g
 - B. 32 g
@@ -4459,6 +5120,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q622.** Which pair of solutions forms a precipitate when mixed?
 <!-- id: chem12a2-sol-5 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. NaCl(aq) and KNO₃(aq)
 - B. Pb(NO₃)₂(aq) and KI(aq)
@@ -4467,21 +5129,25 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q623.** Explain, in terms of the particles involved, how solid sodium chloride dissolves in water. (3 marks)
 <!-- id: chem12a2-sol-6 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q624.** Copper(II) sulfate solution is mixed with sodium hydroxide solution. Write the ionic equation with states, describe what is observed, and name the spectator ions. (3 marks)
 <!-- id: chem12a2-sol-7 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q625.** A water sample is known to contain either Ag⁺ or Ba²⁺ ions. Adding dilute Na₂SO₄ solution gives a white precipitate, but adding NaCl solution to a fresh portion gives no precipitate. Identify the ion and explain, including an ionic equation. (3 marks)
 <!-- id: chem12a2-sol-8 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q626.** Lead(II) nitrate solution is mixed with sodium chloride solution. What is the formula of the precipitate?
 <!-- id: chem12a2-sol-9 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. PbCl₂
 - B. NaNO₃
@@ -4490,6 +5156,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q627.** Iron(III) nitrate solution is added to sodium hydroxide solution and a brown solid forms. Which is the correct ionic equation?
 <!-- id: chem12a2-sol-10 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. Fe(NO₃)₃(aq) + 3NaOH(aq) → Fe(OH)₃(s) + 3NaNO₃(aq)
 - B. Fe³⁺(aq) + OH⁻(aq) → Fe(OH)(s)
@@ -4498,6 +5165,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q628.** Which pair of solutions does NOT form a precipitate when mixed?
 <!-- id: chem12a2-sol-11 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. AgNO₃(aq) and KBr(aq)
 - B. Na₂S(aq) and Zn(NO₃)₂(aq)
@@ -4506,6 +5174,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q629.** Excess sodium sulfate solution is added to 50.0 mL of 0.100 mol L⁻¹ barium chloride solution. What mass of barium sulfate (M = 233.4 g mol⁻¹) precipitates?
 <!-- id: chem12a2-sol-12 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. 1.17 g
 - B. 2.33 g
@@ -4514,6 +5183,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q630.** Which equation correctly represents the dissolving of solid sodium sulfate in water?
 <!-- id: chem12a2-sol-13 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. Na₂SO₄(s) → Na₂(aq) + SO₄(aq)
 - B. Na₂SO₄(s) → Na⁺(aq) + SO₄²⁻(aq)
@@ -4522,6 +5192,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q631.** Which statement best describes a saturated solution?
 <!-- id: chem12a2-sol-14 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. It contains a very large amount of dissolved solute.
 - B. It contains no undissolved solute.
@@ -4530,6 +5201,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q632.** The solubility of sodium nitrate is about 88 g per 100 g of water at 20 °C. If 100 g of NaNO₃ is stirred into 100 g of water at 20 °C, which outcome is expected?
 <!-- id: chem12a2-sol-15 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. All 100 g dissolves to form an unsaturated solution.
 - B. A saturated solution forms with about 12 g of solid remaining undissolved.
@@ -4538,6 +5210,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q633.** Which anion, added as its sodium salt, would precipitate all of the Mg²⁺, Ca²⁺ and Ba²⁺ ions from a solution?
 <!-- id: chem12a2-sol-16 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. Cl⁻
 - B. NO₃⁻
@@ -4546,6 +5219,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q634.** Silver nitrate solution is added to sodium carbonate solution. Which is the correct ionic equation for the reaction?
 <!-- id: chem12a2-sol-17 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. Ag⁺(aq) + CO₃²⁻(aq) → AgCO₃(s)
 - B. 2Ag⁺(aq) + CO₃²⁻(aq) → Ag₂CO₃(s)
@@ -4554,6 +5228,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q635.** Which is the main reason an insoluble ionic compound such as CaCO₃ does not dissolve in water?
 <!-- id: chem12a2-sol-18 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. The ionic bonds in the lattice are stronger than the ion–dipole attractions that water molecules could form with the ions.
 - B. Water molecules are non-polar and cannot interact with ions.
@@ -4562,6 +5237,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q636.** Which is the correct ionic equation for the precipitation of magnesium phosphate when magnesium chloride and sodium phosphate solutions are mixed?
 <!-- id: chem12a2-sol-19 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. Mg²⁺(aq) + PO₄³⁻(aq) → MgPO₄(s)
 - B. Mg²⁺(aq) + 2PO₄³⁻(aq) → Mg(PO₄)₂(s)
@@ -4570,6 +5246,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q637.** Which combination of solutions would form TWO different precipitates when mixed?
 <!-- id: chem12a2-sol-20 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. Ba(OH)₂(aq) and CuSO₄(aq)
 - B. NaOH(aq) and CuSO₄(aq)
@@ -4578,6 +5255,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q638.** When sodium chloride dissolves in water, how are the water molecules oriented around each Na⁺ ion?
 <!-- id: chem12a2-sol-21 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. The δ+ hydrogen ends point towards the Na⁺ ion.
 - B. The δ− oxygen ends point towards the Na⁺ ion.
@@ -4586,46 +5264,55 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q639.** Solutions of calcium chloride and sodium carbonate are mixed. Write the ionic equation with states, state the colour of the precipitate, and name the spectator ions. (3 marks)
 <!-- id: chem12a2-sol-22 -->
+*Info: Recall · about 3 marks · about 4 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q640.** A 25.0 mL sample of 0.200 mol L⁻¹ silver nitrate solution is added to excess sodium chloride solution. Calculate the mass of silver chloride (M = 143.4 g mol⁻¹) that precipitates. (3 marks)
 <!-- id: chem12a2-sol-23 -->
+*Info: Calculation · about 3 marks · about 4 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q641.** You are given three colourless solutions labelled X, Y and Z. They are sodium chloride, sodium nitrate and sodium sulfate in an unknown order. Using only barium nitrate solution and silver nitrate solution, describe a procedure to identify each solution. (4 marks)
 <!-- id: chem12a2-sol-24 -->
+*Info: Conceptual · about 4 marks · about 5 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q642.** Silver chloride is insoluble in water, but sodium chloride is soluble. Explain this difference in terms of the attractions involved. (2 marks)
 <!-- id: chem12a2-sol-25 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q643.** The solubility of potassium chloride is about 34 g per 100 g of water at 20 °C and about 46 g per 100 g of water at 60 °C. A saturated solution is made using 250 g of water at 60 °C and is then cooled to 20 °C. Calculate the mass of KCl that crystallises. (3 marks)
 <!-- id: chem12a2-sol-26 -->
+*Info: Calculation · about 3 marks · about 4 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q644.** Water from a mine is contaminated with dissolved lead(II) ions. Describe how adding sodium carbonate solution could be used to remove the lead, including an ionic equation with states, and state how the solid would be separated. (3 marks)
 <!-- id: chem12a2-sol-27 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q645.** 50.0 mL of 0.100 mol L⁻¹ barium chloride solution is mixed with 50.0 mL of 0.100 mol L⁻¹ sodium sulfate solution. Write the ionic equation and calculate the concentrations of Na⁺ and Cl⁻ in the final solution after the precipitate is removed. (4 marks)
 <!-- id: chem12a2-sol-28 -->
+*Info: Calculation · about 4 marks · about 5 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q646.** Aluminium nitrate solution is mixed with potassium hydroxide solution. Write the balanced full (molecular) equation with states, and then the ionic equation. (3 marks)
 <!-- id: chem12a2-sol-29 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q647.** 50.0 mL of 0.200 mol L⁻¹ Pb(NO₃)₂(aq) is added to an excess of NaCl(aq). What mass of PbCl₂ (M = 278.2 g mol⁻¹) precipitates?
 <!-- id: chem12a2-sol-30 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. 5.56 g
 - B. 2.78 g
@@ -4635,6 +5322,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 **Q648.** Solutions of lead(II) nitrate and potassium iodide are mixed. The ionic equation for the reaction is:
 <!-- id: vce-chem12-sp-c1 -->
 *Challenge question*
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams; harder than most exam questions*
 
 - A. K⁺(aq) + NO₃⁻(aq) → KNO₃(s)
 - B. Pb(NO₃)₂(aq) + 2KI(aq) → PbI₂(s) + 2KNO₃(aq)
@@ -4643,8 +5331,11 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 #### Brønsted-Lowry acids and bases
 
+*Exam relevance: High (core content that Units 3 & 4 build on) · Prerequisites: Writing balanced equations*
+
 **Q649.** According to the Brønsted–Lowry theory, an acid is a:
 <!-- id: chem12a2-bl-1 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. proton donor
 - B. proton acceptor
@@ -4653,6 +5344,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q650.** What is the conjugate base of H₂PO₄⁻?
 <!-- id: chem12a2-bl-2 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. H₃PO₄
 - B. PO₄³⁻
@@ -4661,6 +5353,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q651.** Which species is amphiprotic?
 <!-- id: chem12a2-bl-3 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. Cl⁻
 - B. HCO₃⁻
@@ -4669,6 +5362,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q652.** In the reaction NH₃(aq) + H₂O(l) ⇌ NH₄⁺(aq) + OH⁻(aq), water acts as:
 <!-- id: chem12a2-bl-4 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. a base, because it accepts a proton
 - B. a spectator
@@ -4677,6 +5371,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q653.** Which acid is diprotic?
 <!-- id: chem12a2-bl-5 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. CH₃COOH
 - B. HNO₃
@@ -4685,21 +5380,25 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q654.** The hydrogen carbonate ion, HCO₃⁻, is amphiprotic. Write balanced equations, with states, showing HCO₃⁻ reacting as (a) an acid with hydroxide ions and (b) a base with hydronium ions, and explain the term amphiprotic. (3 marks)
 <!-- id: chem12a2-bl-6 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q655.** Identify the two conjugate acid–base pairs in: CH₃COOH(aq) + H₂O(l) ⇌ CH₃COO⁻(aq) + H₃O⁺(aq). (2 marks)
 <!-- id: chem12a2-bl-7 -->
+*Info: Recall · about 2 marks · about 2.5 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q656.** Write balanced full equations, with states, for the reaction of hydrochloric acid with (a) solid magnesium carbonate and (b) zinc metal. State one observation common to both reactions. (3 marks)
 <!-- id: chem12a2-bl-8 -->
+*Info: Recall · about 3 marks · about 4 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q657.** What is the conjugate acid of NH₃?
 <!-- id: chem12a2-bl-9 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. NH₄⁺
 - B. NH₂⁻
@@ -4708,6 +5407,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q658.** What is the conjugate base of H₂O?
 <!-- id: chem12a2-bl-10 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. H₃O⁺
 - B. OH⁻
@@ -4716,6 +5416,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q659.** What is the conjugate acid of CO₃²⁻?
 <!-- id: chem12a2-bl-11 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. H₂CO₃
 - B. CO₂
@@ -4724,6 +5425,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q660.** Which of the following is a monoprotic acid?
 <!-- id: chem12a2-bl-12 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. H₂CO₃
 - B. H₂S
@@ -4732,6 +5434,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q661.** Which species can act as both a Brønsted–Lowry acid and a Brønsted–Lowry base?
 <!-- id: chem12a2-bl-13 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. H₂O
 - B. NO₃⁻
@@ -4740,6 +5443,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q662.** In the reaction HSO₄⁻(aq) + H₂O(l) ⇌ SO₄²⁻(aq) + H₃O⁺(aq), which is a conjugate acid–base pair?
 <!-- id: chem12a2-bl-14 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. HSO₄⁻ and H₃O⁺
 - B. HSO₄⁻ and SO₄²⁻
@@ -4748,6 +5452,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q663.** What is the formula of the hydronium ion?
 <!-- id: chem12a2-bl-15 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. OH⁻
 - B. H₂O⁺
@@ -4756,6 +5461,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q664.** Nitric acid is added to solid calcium carbonate. Which products form?
 <!-- id: chem12a2-bl-16 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. Ca(NO₃)₂ and H₂
 - B. Ca(NO₃)₂ and H₂O only
@@ -4764,6 +5470,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q665.** A gas released when an acid is added to a carbonate turns limewater milky. What is the gas?
 <!-- id: chem12a2-bl-17 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. H₂
 - B. CO₂
@@ -4772,6 +5479,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q666.** A strong acid is best described as one that:
 <!-- id: chem12a2-bl-18 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. contains many hydrogen atoms per molecule
 - B. is present at high concentration
@@ -4780,6 +5488,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q667.** The conjugate base of a strong acid is:
 <!-- id: chem12a2-bl-19 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. a strong base
 - B. a weak acid
@@ -4788,6 +5497,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q668.** In H₂S(aq) + H₂O(l) ⇌ HS⁻(aq) + H₃O⁺(aq), which species is the conjugate base of H₂S?
 <!-- id: chem12a2-bl-20 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. HS⁻
 - B. H₃O⁺
@@ -4796,6 +5506,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q669.** In H₂PO₄⁻(aq) + OH⁻(aq) → HPO₄²⁻(aq) + H₂O(l), H₂PO₄⁻ acts as:
 <!-- id: chem12a2-bl-21 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. a base, because it gains a proton
 - B. an acid, because it donates a proton
@@ -4804,6 +5515,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q670.** 2.50 g of CaCO₃ (M = 100.1 g mol⁻¹) reacts with excess hydrochloric acid. How many moles of CO₂ form?
 <!-- id: chem12a2-bl-22 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. 0.0125 mol
 - B. 0.0500 mol
@@ -4812,51 +5524,61 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q671.** Define a Brønsted–Lowry base. Write an equation, with states, for the reaction of carbonate ions with water and identify the conjugate acid formed. (3 marks)
 <!-- id: chem12a2-bl-23 -->
+*Info: Recall · about 3 marks · about 4 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q672.** Write an equation, with states, for the reaction of nitric acid with water and state why it is classified as a strong acid. (2 marks)
 <!-- id: chem12a2-bl-24 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q673.** Ethanoic acid is a weak acid. Write the equation for its reaction with water and explain why a reversible arrow is used. (2 marks)
 <!-- id: chem12a2-bl-25 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q674.** Write balanced equations, with states, for the reaction of sulfuric acid with (a) sodium hydroxide solution and (b) solid copper(II) oxide. State one observation for (b). (3 marks)
 <!-- id: chem12a2-bl-26 -->
+*Info: Recall · about 3 marks · about 4 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q675.** Write the net ionic equation for the reaction of ethanoic acid with sodium carbonate solution and identify the proton donor and proton acceptor. (2 marks)
 <!-- id: chem12a2-bl-27 -->
+*Info: Recall · about 2 marks · about 2.5 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q676.** Sulfuric acid is diprotic. Write equations, with states, for each stage of its ionisation in water. (2 marks)
 <!-- id: chem12a2-bl-28 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q677.** A 25.0 mL sample of hydrochloric acid is neutralised by 18.5 mL of 0.100 M NaOH. Write the balanced equation and calculate the concentration of the acid. (4 marks)
 <!-- id: chem12a2-bl-29 -->
+*Info: Calculation · about 4 marks · about 5 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q678.** Water is amphiprotic. Write the equation for the self-ionisation of water and explain how it shows amphiprotic behaviour. (2 marks)
 <!-- id: chem12a2-bl-30 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q679.** Explain why 0.1 M hydrochloric acid conducts electricity better than 0.1 M ethanoic acid. (2 marks)
 <!-- id: chem12a2-bl-31 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q680.** In the reaction HCO₃⁻(aq) + H₃O⁺(aq) → H₂CO₃(aq) + H₂O(l), which statement is correct?
 <!-- id: chem12a2-bl-32 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. HCO₃⁻ acts as an acid and H₂CO₃ is its conjugate base
 - B. HCO₃⁻ acts as a base and H₂CO₃ is its conjugate acid
@@ -4866,6 +5588,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 **Q681.** Which statement about H₂PO₄⁻ is correct?
 <!-- id: vce-chem12-bl-c1 -->
 *Challenge question*
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams; harder than most exam questions*
 
 - A. It is amphiprotic: its conjugate base is H₃PO₄ and its conjugate acid is HPO₄²⁻
 - B. It is amphiprotic: its conjugate base is HPO₄²⁻ and its conjugate acid is H₃PO₄
@@ -4874,8 +5597,11 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 #### pH and strong vs weak acids
 
+*Exam relevance: High (core content that Units 3 & 4 build on) · Prerequisites: Brønsted-Lowry acids and bases; Logarithms to base 10*
+
 **Q682.** What is the pH of 0.010 mol L⁻¹ hydrochloric acid at 25 °C?
 <!-- id: chem12a2-ph-1 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. 1.0
 - B. 2.0
@@ -4884,6 +5610,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q683.** A sample of rainwater has a pH of 4.0 at 25 °C. What is its hydronium ion concentration?
 <!-- id: chem12a2-ph-2 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. 4.0 mol L⁻¹
 - B. 1.0 × 10⁻¹⁰ mol L⁻¹
@@ -4892,6 +5619,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q684.** Solutions of 0.10 mol L⁻¹ HCl and 0.10 mol L⁻¹ CH₃COOH are compared at 25 °C. Which statement is correct?
 <!-- id: chem12a2-ph-3 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. The HCl solution has the lower pH because HCl ionises completely in water, whereas CH₃COOH only partially ionises
 - B. Both solutions have the same pH because they have the same concentration
@@ -4900,6 +5628,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q685.** 10.0 mL of hydrochloric acid with pH 1.0 is diluted with water to a final volume of 1.00 L. What is the pH of the diluted solution?
 <!-- id: chem12a2-ph-4 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. 1.0
 - B. 2.0
@@ -4908,6 +5637,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q686.** What is the pH of a 0.0050 mol L⁻¹ solution of barium hydroxide, Ba(OH)₂, at 25 °C? (Kw = 1.0 × 10⁻¹⁴)
 <!-- id: chem12a2-ph-5 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. 11.7
 - B. 2.0
@@ -4916,21 +5646,25 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q687.** Using examples, explain the difference between the terms 'strong' and 'concentrated' when describing an acid. (3 marks)
 <!-- id: chem12a2-ph-6 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q688.** 20.0 mL of 0.100 mol L⁻¹ HCl is mixed with 15.0 mL of 0.100 mol L⁻¹ NaOH at 25 °C. Calculate the pH of the resulting solution. (3 marks)
 <!-- id: chem12a2-ph-7 -->
+*Info: Calculation · about 3 marks · about 4 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q689.** Calculate the pH of a 0.025 mol L⁻¹ sodium hydroxide solution at 25 °C. (Kw = 1.0 × 10⁻¹⁴) (2 marks)
 <!-- id: chem12a2-ph-8 -->
+*Info: Calculation · about 2 marks · about 2.5 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q690.** Which statement best defines a strong acid?
 <!-- id: chem12a2-ph-9 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. An acid with a high concentration in solution
 - B. An acid that contains many hydrogen atoms per molecule
@@ -4939,6 +5673,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q691.** What is the pH of 0.0010 mol L⁻¹ nitric acid, HNO₃, at 25 °C?
 <!-- id: chem12a2-ph-10 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. 3.0
 - B. 11.0
@@ -4947,6 +5682,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q692.** A solution has a pH of 9.0 at 25 °C. What is its hydroxide ion concentration? (Kw = 1.0 × 10⁻¹⁴)
 <!-- id: chem12a2-ph-11 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. 1.0 × 10⁻⁹ mol L⁻¹
 - B. 1.0 × 10⁻⁵ mol L⁻¹
@@ -4955,6 +5691,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q693.** Which of the following is a weak acid?
 <!-- id: chem12a2-ph-12 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. HNO₃
 - B. HCl
@@ -4963,6 +5700,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q694.** The pH of a solution is raised from 3 to 5 by dilution. How does [H₃O⁺] change?
 <!-- id: chem12a2-ph-13 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. It decreases by a factor of 2
 - B. It decreases by a factor of 100
@@ -4971,6 +5709,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q695.** Equal volumes of 0.10 mol L⁻¹ HCl and 0.10 mol L⁻¹ HF are tested with a conductivity meter. Which result is expected?
 <!-- id: chem12a2-ph-14 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. HCl has the higher conductivity because it forms more ions
 - B. HF has the higher conductivity because it is more concentrated
@@ -4979,6 +5718,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q696.** What is the pH of 0.0020 mol L⁻¹ calcium hydroxide, Ca(OH)₂, at 25 °C? (Kw = 1.0 × 10⁻¹⁴)
 <!-- id: chem12a2-ph-15 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. 2.40
 - B. 2.70
@@ -4987,6 +5727,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q697.** Solution X has a pH of 3 and solution Y has a pH of 6. How does [H₃O⁺] in X compare with Y?
 <!-- id: chem12a2-ph-16 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. 3 times greater
 - B. 30 times greater
@@ -4995,6 +5736,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q698.** Which equation correctly represents the ionisation of the weak acid HF in water?
 <!-- id: chem12a2-ph-17 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. HF + H₂O → H₃O⁺ + F⁻
 - B. HF + H₂O ⇌ H₃O⁺ + F⁻
@@ -5003,6 +5745,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q699.** 50.0 mL of 0.10 mol L⁻¹ HCl is mixed with 50.0 mL of water. What is the pH of the resulting solution at 25 °C?
 <!-- id: chem12a2-ph-18 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. 1.30
 - B. 1.00
@@ -5011,6 +5754,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q700.** Equal volumes of 0.10 mol L⁻¹ HCl and 0.10 mol L⁻¹ CH₃COOH are each titrated with 0.10 mol L⁻¹ NaOH. Which statement is correct?
 <!-- id: chem12a2-ph-19 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. The HCl solution needs more NaOH because it is stronger
 - B. The CH₃COOH solution needs more NaOH because it is weaker
@@ -5019,6 +5763,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q701.** Pure water at 50 °C has a pH of 6.6. Which statement is correct?
 <!-- id: chem12a2-ph-20 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. The water is acidic because its pH is below 7
 - B. The water is basic because Kw has increased
@@ -5027,6 +5772,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q702.** Which statement correctly compares 0.10 mol L⁻¹ NH₃ (a weak base) with 0.10 mol L⁻¹ NaOH at 25 °C?
 <!-- id: chem12a2-ph-21 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. NH₃ has a lower pH because it only partially ionises, giving a lower [OH⁻]
 - B. NH₃ has a higher pH because it is a molecule
@@ -5035,6 +5781,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q703.** Which species is present in the highest concentration in a 0.10 mol L⁻¹ solution of the weak acid HA (apart from water)?
 <!-- id: chem12a2-ph-22 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. H₃O⁺
 - B. A⁻
@@ -5043,49 +5790,60 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q704.** Define the term 'strong acid' and write an equation for the ionisation of nitric acid, HNO₃, in water. (2 marks)
 <!-- id: chem12a2-ph-23 -->
+*Info: Recall · about 2 marks · about 2.5 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q705.** 10.0 mL of 0.50 mol L⁻¹ HCl is diluted with water to a final volume of 250 mL. Calculate the pH of the diluted solution at 25 °C. (3 marks)
 <!-- id: chem12a2-ph-24 -->
+*Info: Calculation · about 3 marks · about 4 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q706.** A sample of orange juice has a pH of 3.40 at 25 °C. Calculate its hydronium ion concentration. (2 marks)
 <!-- id: chem12a2-ph-25 -->
+*Info: Calculation · about 2 marks · about 2.5 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q707.** Write an equation for the ionisation of ethanoic acid in water, and explain why a 0.10 mol L⁻¹ ethanoic acid solution is classed as a weak acid. (3 marks)
 <!-- id: chem12a2-ph-26 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q708.** 25.0 mL of 0.100 mol L⁻¹ NaOH is mixed with 20.0 mL of 0.100 mol L⁻¹ HCl at 25 °C. Calculate the pH of the resulting solution. (Kw = 1.0 × 10⁻¹⁴) (4 marks)
 <!-- id: chem12a2-ph-27 -->
+*Info: Calculation · about 4 marks · about 5 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q709.** A 0.15 mol L⁻¹ solution of ethanoic acid has a pH of 2.78 at 25 °C. Calculate [H₃O⁺] and the percentage of the acid that has ionised. (3 marks)
 <!-- id: chem12a2-ph-28 -->
+*Info: Calculation · about 3 marks · about 4 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q710.** 1.26 g of nitric acid, HNO₃ (M = 63.0 g mol⁻¹), is dissolved in water to make 250 mL of solution. Calculate the pH at 25 °C. (3 marks)
 <!-- id: chem12a2-ph-29 -->
+*Info: Calculation · about 3 marks · about 4 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q711.** Calculate the pH of 0.0050 M Ba(OH)₂ solution at 25 °C.
 <!-- id: vce-chem12-ph-c1 -->
 *Challenge question*
+*Info: Calculation · about 2 marks · about 2.5 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs; harder than most exam questions*
 
 *Written answer*
 
 #### Redox reactions and half-equations
 
+*Exam relevance: High (core content that Units 3 & 4 build on) · Prerequisites: Writing balanced equations*
+
 **Q712.** In the reaction Zn(s) + Cu²⁺(aq) → Zn²⁺(aq) + Cu(s), the oxidising agent is:
 <!-- id: chem12a3-rr-1 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. Zn(s)
 - B. Cu²⁺(aq)
@@ -5094,6 +5852,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q713.** What is the oxidation number of manganese in the permanganate ion, MnO₄⁻?
 <!-- id: chem12a3-rr-2 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. +2
 - B. +4
@@ -5102,6 +5861,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q714.** Which is the correctly balanced half-equation for the reduction of dichromate ions to chromium(III) ions in acidic solution?
 <!-- id: chem12a3-rr-3 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. Cr₂O₇²⁻(aq) + 7H⁺(aq) + 3e⁻ → 2Cr³⁺(aq) + 7H₂O(l)
 - B. Cr₂O₇²⁻(aq) + 14H⁺(aq) → 2Cr³⁺(aq) + 7H₂O(l) + 6e⁻
@@ -5110,6 +5870,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q715.** Which of the following is NOT a redox reaction?
 <!-- id: chem12a3-rr-4 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. 2Mg(s) + O₂(g) → 2MgO(s)
 - B. AgNO₃(aq) + NaCl(aq) → AgCl(s) + NaNO₃(aq)
@@ -5118,6 +5879,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q716.** When sulfur dioxide, SO₂, is converted to sulfate ions, SO₄²⁻, the sulfur:
 <!-- id: chem12a3-rr-5 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. is reduced, from +4 to +6
 - B. is reduced, from +6 to +4
@@ -5126,21 +5888,25 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q717.** A strip of aluminium is placed in copper(II) sulfate solution and a brown solid forms. Write the oxidation half-equation, the reduction half-equation and the balanced overall ionic equation, including states. (3 marks)
 <!-- id: chem12a3-rr-6 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q718.** Acidified potassium permanganate oxidises iron(II) ions to iron(III) ions and is itself reduced to Mn²⁺(aq). Write balanced half-equations for each process and combine them to give the overall equation, including states. (4 marks)
 <!-- id: chem12a3-rr-7 -->
+*Info: Conceptual · about 4 marks · about 5 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q719.** Chlorine reacts with cold dilute sodium hydroxide: Cl₂(aq) + 2OH⁻(aq) → Cl⁻(aq) + OCl⁻(aq) + H₂O(l). Use oxidation numbers to explain why this is a redox reaction and what is unusual about it. (3 marks)
 <!-- id: chem12a3-rr-8 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q720.** In terms of electron transfer, oxidation is defined as:
 <!-- id: chem12a3-rr-9 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. gain of electrons
 - B. loss of electrons
@@ -5149,6 +5915,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q721.** What is the oxidation number of nitrogen in the ammonium ion, NH₄⁺?
 <!-- id: chem12a3-rr-10 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. −3
 - B. +3
@@ -5157,6 +5924,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q722.** What is the oxidation number of oxygen in hydrogen peroxide, H₂O₂?
 <!-- id: chem12a3-rr-11 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. −2
 - B. 0
@@ -5165,6 +5933,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q723.** In the reaction 2Mg(s) + O₂(g) → 2MgO(s), the reducing agent is:
 <!-- id: chem12a3-rr-12 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. O₂(g)
 - B. MgO(s)
@@ -5173,6 +5942,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q724.** Which is the correctly balanced half-equation for the reduction of hydrogen peroxide to water in acidic solution?
 <!-- id: chem12a3-rr-13 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. H₂O₂(aq) + 2H⁺(aq) → 2H₂O(l) + 2e⁻
 - B. H₂O₂(aq) + 2e⁻ → 2H₂O(l)
@@ -5181,6 +5951,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q725.** Chlorine gas reacts with bromide ions: Cl₂(aq) + 2Br⁻(aq) → 2Cl⁻(aq) + Br₂(aq). How many electrons are accepted by each Cl₂ molecule?
 <!-- id: chem12a3-rr-14 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. 1
 - B. 2
@@ -5189,6 +5960,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q726.** Which of the following changes represents a reduction?
 <!-- id: chem12a3-rr-15 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. MnO₄⁻ → Mn²⁺
 - B. Fe²⁺ → Fe³⁺
@@ -5197,6 +5969,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q727.** Which is the correct half-equation for the oxidation of iodide ions to iodine?
 <!-- id: chem12a3-rr-16 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. I₂(aq) + 2e⁻ → 2I⁻(aq)
 - B. 2I⁻(aq) + 2e⁻ → I₂(aq)
@@ -5205,6 +5978,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q728.** In the combustion of methane, CH₄(g) + 2O₂(g) → CO₂(g) + 2H₂O(l), which statement is correct?
 <!-- id: chem12a3-rr-17 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. Oxygen is oxidised from 0 to −2
 - B. Carbon is oxidised from −4 to +4
@@ -5213,6 +5987,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q729.** Zinc metal is added to silver nitrate solution. Which is the correctly balanced overall ionic equation?
 <!-- id: chem12a3-rr-18 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. Zn(s) + 2Ag⁺(aq) → Zn²⁺(aq) + 2Ag(s)
 - B. Zn(s) + Ag⁺(aq) → Zn²⁺(aq) + Ag(s)
@@ -5221,6 +5996,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q730.** Which is the correctly balanced half-equation for the oxidation of sulfite ions to sulfate ions in acidic solution?
 <!-- id: chem12a3-rr-19 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. SO₃²⁻(aq) + 2H⁺(aq) → SO₄²⁻(aq) + H₂O(l) + 2e⁻
 - B. SO₃²⁻(aq) + H₂O(l) + 2e⁻ → SO₄²⁻(aq) + 2H⁺(aq)
@@ -5229,6 +6005,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q731.** In the reaction Fe(s) + 2H⁺(aq) → Fe²⁺(aq) + H₂(g), which species is reduced?
 <!-- id: chem12a3-rr-20 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. Fe(s)
 - B. Fe²⁺(aq)
@@ -5237,6 +6014,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q732.** What is the oxidation number of chlorine in the chlorate ion, ClO₃⁻?
 <!-- id: chem12a3-rr-21 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. +3
 - B. +5
@@ -5245,6 +6023,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q733.** A piece of copper wire is placed in silver nitrate solution. Which observation is consistent with a redox reaction occurring?
 <!-- id: chem12a3-rr-22 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. The solution turns blue and a silver-coloured solid forms
 - B. The solution stays colourless and the copper wire is unchanged
@@ -5253,6 +6032,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q734.** In acidic solution, nitrate ions are reduced to nitrogen monoxide: NO₃⁻(aq) + 4H⁺(aq) + ?e⁻ → NO(g) + 2H₂O(l). How many electrons are needed on the left side?
 <!-- id: chem12a3-rr-23 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. 1
 - B. 2
@@ -5261,47 +6041,56 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q735.** Determine the oxidation number of sulfur in each of H₂S, S₈, SO₂ and SO₄²⁻. (4 marks)
 <!-- id: chem12a3-rr-24 -->
+*Info: Conceptual · about 4 marks · about 5 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q736.** Sulfur dioxide is oxidised to sulfate ions by acidified permanganate ions, which are reduced to Mn²⁺. Write the balanced half-equation for the oxidation of SO₂ in acidic solution and combine it with the reduction half-equation to give the overall equation. (4 marks)
 <!-- id: chem12a3-rr-25 -->
+*Info: Conceptual · about 4 marks · about 5 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q737.** Magnesium ribbon reacts with dilute hydrochloric acid and bubbles of gas form. Write the oxidation and reduction half-equations, the overall ionic equation, and name the species oxidised. (4 marks)
 <!-- id: chem12a3-rr-26 -->
+*Info: Recall · about 4 marks · about 5 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q738.** Use oxidation numbers to show that Fe₂O₃(s) + 2Al(s) → Al₂O₃(s) + 2Fe(s) is a redox reaction, and identify the oxidising agent and the reducing agent. (4 marks)
 <!-- id: chem12a3-rr-27 -->
+*Info: Recall · about 4 marks · about 5 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q739.** Explain, using oxidation numbers, why Zn(s) + 2HCl(aq) → ZnCl₂(aq) + H₂(g) is a redox reaction whereas NaOH(aq) + HCl(aq) → NaCl(aq) + H₂O(l) is not. (2 marks)
 <!-- id: chem12a3-rr-28 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q740.** A 0.486 g strip of magnesium reacts completely with excess copper(II) sulfate solution: Mg(s) + Cu²⁺(aq) → Mg²⁺(aq) + Cu(s). Calculate the mass of copper deposited. M(Mg) = 24.3 g mol⁻¹, M(Cu) = 63.5 g mol⁻¹. (3 marks)
 <!-- id: chem12a3-rr-29 -->
+*Info: Calculation · about 3 marks · about 4 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q741.** Explain why oxidation and reduction must always occur together in a redox reaction. (2 marks)
 <!-- id: chem12a3-rr-30 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q742.** In acidic solution, hydrogen peroxide oxidises Fe²⁺ to Fe³⁺ and is itself reduced to water. Write the two half-equations and the overall balanced equation. (3 marks)
 <!-- id: chem12a3-rr-31 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q743.** When the half-equation for MnO₄⁻(aq) → Mn²⁺(aq) is balanced in acidic solution, the number of electrons is:
 <!-- id: vce-chem12-rx-c1 -->
 *Challenge question*
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams; harder than most exam questions*
 
 - A. 5, on the right side
 - B. 5, on the left side
@@ -5310,8 +6099,11 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 #### Reactivity series and metal displacement
 
+*Exam relevance: Medium (core content for school assessments) · Prerequisites: Redox reactions and half-equations*
+
 **Q744.** Which metal, when added to iron(II) sulfate solution, will displace iron?
 <!-- id: chem12a3-rs-1 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. Copper
 - B. Silver
@@ -5320,6 +6112,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q745.** A strip of copper is placed in silver nitrate solution. What would be observed over time?
 <!-- id: chem12a3-rs-2 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. No change, because copper is less reactive than silver
 - B. Grey-silver crystals form on the copper and the solution turns blue
@@ -5328,6 +6121,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q746.** Using the electrochemical series, which of these is the strongest reducing agent?
 <!-- id: chem12a3-rs-3 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. Mg(s)
 - B. Zn(s)
@@ -5336,6 +6130,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q747.** Metal X reacts with a solution of Y²⁺ ions, coating X with Y. Metal Z shows no reaction with solutions of X²⁺ or Y²⁺. What is the order of reactivity, from most to least reactive?
 <!-- id: chem12a3-rs-4 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. Z > Y > X
 - B. Y > X > Z
@@ -5344,6 +6139,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q748.** Potassium is not used to displace less reactive metals from their aqueous salt solutions because:
 <!-- id: chem12a3-rs-5 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. potassium is too unreactive to reduce metal ions
 - B. potassium reacts vigorously with the water itself, producing hydrogen gas and hydroxide ions
@@ -5352,21 +6148,25 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q749.** A piece of zinc is placed in lead(II) nitrate solution. Predict whether a reaction occurs, justify your prediction using the electrochemical series, and write the balanced ionic equation with states. (3 marks)
 <!-- id: chem12a3-rs-6 -->
+*Info: Evaluation · about 3 marks · about 4 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q750.** Explain why copper(II) sulfate solution should not be stored in an iron container. Include a balanced equation. (2 marks)
 <!-- id: chem12a3-rs-7 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q751.** A student places four metals, A, B, C and D, into solutions of each other's nitrates (all ions are 2+). Metal A reacts with solutions of B²⁺, C²⁺ and D²⁺. Metal B reacts only with D²⁺. Metal C reacts with B²⁺ and D²⁺. Metal D reacts with none. (a) List the metals from most to least reactive. (b) Identify the strongest oxidising agent among the four ions. (3 marks)
 <!-- id: chem12a3-rs-8 -->
+*Info: Application · about 3 marks · about 4 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q752.** Which of these metals reacts with cold water to produce hydrogen gas and a metal hydroxide solution?
 <!-- id: chem12a3-rs-9 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. Sodium
 - B. Iron
@@ -5375,6 +6175,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q753.** A silver wire is placed in copper(II) sulfate solution. Which statement is correct?
 <!-- id: chem12a3-rs-10 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. Copper metal deposits on the wire and the solution becomes colourless
 - B. Hydrogen gas bubbles form on the wire
@@ -5383,6 +6184,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q754.** A clean iron nail is placed in blue copper(II) sulfate solution. Which observation is expected after some time?
 <!-- id: chem12a3-rs-11 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. No change, as iron is less reactive than copper
 - B. Silver crystals form on the nail and the solution turns colourless
@@ -5391,6 +6193,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q755.** In the reaction Zn(s) + Cu²⁺(aq) → Zn²⁺(aq) + Cu(s), which species is the oxidising agent?
 <!-- id: chem12a3-rs-12 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. Cu²⁺(aq)
 - B. Zn(s)
@@ -5399,6 +6202,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q756.** Which of the following combinations will result in a displacement reaction?
 <!-- id: chem12a3-rs-13 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. Copper metal in zinc sulfate solution
 - B. Silver metal in lead(II) nitrate solution
@@ -5407,6 +6211,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q757.** An iron nail is left in excess copper(II) sulfate solution until 0.100 mol of copper has deposited. What mass of iron has dissolved? (Fe = 55.8)
 <!-- id: chem12a3-rs-14 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. 6.35 g
 - B. 2.79 g
@@ -5415,6 +6220,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q758.** Metal M displaces copper from copper(II) sulfate solution but does not react with zinc sulfate solution. M is best placed:
 <!-- id: chem12a3-rs-15 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. between zinc and copper in the reactivity series
 - B. above zinc in the reactivity series
@@ -5423,6 +6229,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q759.** Which of these metals will NOT produce hydrogen gas when added to dilute hydrochloric acid?
 <!-- id: chem12a3-rs-16 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. Magnesium
 - B. Iron
@@ -5431,6 +6238,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q760.** Aluminium is more reactive than zinc, yet aluminium cookware does not visibly react with water. The best explanation is that aluminium:
 <!-- id: chem12a3-rs-17 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. is a weaker reducing agent than zinc
 - B. has a thin, unreactive coating of aluminium oxide that protects the metal beneath
@@ -5439,6 +6247,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q761.** A copper wire is placed in excess silver nitrate solution and 0.0500 mol of copper reacts. What mass of silver is deposited? (Ag = 107.9)
 <!-- id: chem12a3-rs-18 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. 5.40 g
 - B. 3.18 g
@@ -5447,6 +6256,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q762.** In a metal displacement reaction, a more reactive metal atom displaces a less reactive metal ion from solution because the more reactive metal:
 <!-- id: chem12a3-rs-19 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. gains electrons more readily than the less reactive metal ion
 - B. has a larger atomic mass than the metal ion
@@ -5455,41 +6265,49 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q763.** A piece of magnesium ribbon is placed in copper(II) sulfate solution. Describe two observations and write the balanced ionic equation with states. (3 marks)
 <!-- id: chem12a3-rs-20 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q764.** Describe an experiment, using only strips of Zn, Pb, Cu and Ag and solutions of their nitrates, to determine the order of reactivity of these four metals. State the expected order. (4 marks)
 <!-- id: chem12a3-rs-21 -->
+*Info: Conceptual · about 4 marks · about 5 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q765.** Aluminium foil is placed in copper(II) chloride solution. Write the oxidation half-equation, the reduction half-equation and the overall balanced ionic equation. (3 marks)
 <!-- id: chem12a3-rs-22 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q766.** A 3.27 g piece of zinc (Zn = 65.4) is added to excess copper(II) sulfate solution and all of the zinc reacts. Calculate the mass of copper formed. (Cu = 63.5) (3 marks)
 <!-- id: chem12a3-rs-23 -->
+*Info: Calculation · about 3 marks · about 4 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q767.** Explain why zinc reacts with dilute hydrochloric acid to produce hydrogen gas, but copper does not. (2 marks)
 <!-- id: chem12a3-rs-24 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q768.** Explain why an iron nail placed in magnesium sulfate solution shows no change. Refer to reducing agents in your answer. (2 marks)
 <!-- id: chem12a3-rs-25 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q769.** Define a metal displacement reaction in terms of electron transfer, and give one example with a balanced ionic equation. (2 marks)
 <!-- id: chem12a3-rs-26 -->
+*Info: Recall · about 2 marks · about 2.5 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q770.** Which metal reacts with aqueous Pb(NO₃)₂ but not with aqueous Zn(NO₃)₂?
 <!-- id: chem12a3-rs-27 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. Cu
 - B. Ag
@@ -5498,6 +6316,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q771.** Excess zinc powder is added to 50.0 mL of 0.100 mol L⁻¹ CuSO₄(aq). What mass of copper (63.5 g mol⁻¹) is deposited?
 <!-- id: chem12a3-rs-28 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. 0.636 g
 - B. 0.318 g
@@ -5507,6 +6326,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 **Q772.** Which combination will react?
 <!-- id: vce-chem12-rs-c1 -->
 *Challenge question*
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams; harder than most exam questions*
 
 - A. Copper metal in zinc sulfate solution
 - B. Silver metal in copper(II) sulfate solution
@@ -5517,8 +6337,11 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 #### Concentration units and dilution
 
+*Exam relevance: High (core content that Units 3 & 4 build on) · Prerequisites: The mole and molar mass*
+
 **Q773.** 5.85 g of sodium chloride (M = 58.5 g mol⁻¹) is dissolved in water to make 250.0 mL of solution. What is the concentration?
 <!-- id: chem12a3-cd-1 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. 0.0234 mol L⁻¹
 - B. 0.100 mol L⁻¹
@@ -5527,6 +6350,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q774.** 25.0 mL of 2.00 mol L⁻¹ HCl is diluted with water to a final volume of 500.0 mL. What is the new concentration?
 <!-- id: chem12a3-cd-2 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. 0.100 mol L⁻¹
 - B. 0.0100 mol L⁻¹
@@ -5535,6 +6359,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q775.** A sample of drinking water contains 15 ppm of calcium ions. Assuming the density of the water is 1.00 g mL⁻¹, this is equivalent to:
 <!-- id: chem12a3-cd-3 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. 15 g L⁻¹
 - B. 15 mg L⁻¹
@@ -5543,6 +6368,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q776.** What is the concentration of sulfate ions in a 0.200 mol L⁻¹ solution of aluminium sulfate, Al₂(SO₄)₃?
 <!-- id: chem12a3-cd-4 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. 0.200 mol L⁻¹
 - B. 0.400 mol L⁻¹
@@ -5551,6 +6377,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q777.** 12.0 g of glucose is dissolved to make 300 mL of solution. What is the concentration in % (m/v)?
 <!-- id: chem12a3-cd-5 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. 0.0400 % (m/v)
 - B. 4.00 % (m/v)
@@ -5559,21 +6386,25 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q778.** A technician needs 2.00 L of 0.250 mol L⁻¹ NaOH, prepared from a 10.0 mol L⁻¹ stock solution. Calculate the volume of stock solution required and outline how the solution would be prepared. (2 marks)
 <!-- id: chem12a3-cd-6 -->
+*Info: Calculation · about 2 marks · about 2.5 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q779.** A 200 mL sample of river water near a farm contains 0.48 mg of nitrate ions, NO₃⁻. Express the nitrate concentration in (a) ppm (mg L⁻¹) and (b) mol L⁻¹. (3 marks)
 <!-- id: chem12a3-cd-7 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q780.** 10.0 mL of 0.500 mol L⁻¹ CuSO₄ is diluted to 100.0 mL. Then 5.00 mL of this solution is diluted to 50.0 mL. Calculate the final concentration and the amount, in mol, of Cu²⁺ in the final 50.0 mL. (3 marks)
 <!-- id: chem12a3-cd-8 -->
+*Info: Calculation · about 3 marks · about 4 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q781.** A water sample contains 25 µg L⁻¹ of lead ions. What is this concentration in ppb?
 <!-- id: chem12a3-cd-9 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. 25 ppb
 - B. 0.025 ppb
@@ -5582,6 +6413,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q782.** 4.00 g of sodium hydroxide (M = 40.0 g mol⁻¹) is dissolved in water to make 500.0 mL of solution. What is the concentration of the solution?
 <!-- id: chem12a3-cd-10 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. 0.0200 mol L⁻¹
 - B. 0.200 mol L⁻¹
@@ -5590,6 +6422,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q783.** 50.0 mL of 0.800 mol L⁻¹ KNO₃ solution is diluted with water to a total volume of 200.0 mL. What is the concentration of the diluted solution?
 <!-- id: chem12a3-cd-11 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. 3.20 mol L⁻¹
 - B. 0.400 mol L⁻¹
@@ -5598,6 +6431,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q784.** What is the concentration of chloride ions in a 0.150 mol L⁻¹ solution of calcium chloride, CaCl₂?
 <!-- id: chem12a3-cd-12 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. 0.150 mol L⁻¹
 - B. 0.450 mol L⁻¹
@@ -5606,6 +6440,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q785.** 20.0 mL of 1.00 mol L⁻¹ HCl is to be diluted to 0.250 mol L⁻¹. Assuming volumes are additive, what volume of water must be added?
 <!-- id: chem12a3-cd-13 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. 60.0 mL
 - B. 80.0 mL
@@ -5614,6 +6449,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q786.** Which piece of glassware is most suitable for making up a standard solution to an accurately known final volume?
 <!-- id: chem12a3-cd-14 -->
+*Info: Evaluation · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. Beaker
 - B. Volumetric flask
@@ -5622,6 +6458,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q787.** What mass of anhydrous sodium carbonate, Na₂CO₃ (M = 106.0 g mol⁻¹), is needed to prepare 250.0 mL of a 0.100 mol L⁻¹ solution?
 <!-- id: chem12a3-cd-15 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. 26.5 g
 - B. 0.265 g
@@ -5630,6 +6467,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q788.** 15.0 mL of ethanol is mixed with water to make 250.0 mL of solution. What is the concentration in % (v/v)?
 <!-- id: chem12a3-cd-16 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. 1.67 %
 - B. 16.7 %
@@ -5638,6 +6476,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q789.** 10.0 mL of a stock solution is diluted to a final volume of 250.0 mL. What is the dilution factor?
 <!-- id: chem12a3-cd-17 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. 25.0
 - B. 240
@@ -5646,6 +6485,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q790.** A water supply contains 2.0 ppm fluoride. What mass of fluoride is present in 5.0 L of this water (assume density 1.00 g mL⁻¹)?
 <!-- id: chem12a3-cd-18 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. 0.40 mg
 - B. 10 mg
@@ -5654,6 +6494,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q791.** What is the concentration, in g L⁻¹, of a 0.0500 mol L⁻¹ solution of potassium permanganate, KMnO₄ (M = 158.0 g mol⁻¹)?
 <!-- id: chem12a3-cd-19 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. 79.0 g L⁻¹
 - B. 3.16 × 10⁻⁴ g L⁻¹
@@ -5662,6 +6503,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q792.** When a solution is diluted by adding water, which quantity remains unchanged?
 <!-- id: chem12a3-cd-20 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. The concentration of the solution
 - B. The volume of the solution
@@ -5670,6 +6512,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q793.** 100.0 mL of 0.200 mol L⁻¹ NaCl is mixed with 100.0 mL of 0.300 mol L⁻¹ NaCl. Assuming volumes are additive, what is the final concentration of NaCl?
 <!-- id: chem12a3-cd-21 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. 0.250 mol L⁻¹
 - B. 0.500 mol L⁻¹
@@ -5678,6 +6521,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q794.** A solution of sodium hydroxide (M = 40.0 g mol⁻¹) has a concentration of 0.0400 g L⁻¹. What is its concentration in mol L⁻¹?
 <!-- id: chem12a3-cd-22 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. 1.60 mol L⁻¹
 - B. 1.00 × 10⁻³ mol L⁻¹
@@ -5686,6 +6530,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q795.** What volume of 12.0 mol L⁻¹ stock hydrochloric acid is required to prepare 500.0 mL of 0.600 mol L⁻¹ HCl?
 <!-- id: chem12a3-cd-23 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. 250 mL
 - B. 2.50 mL
@@ -5694,41 +6539,49 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q796.** Calculate the mass of potassium chloride, KCl (M = 74.6 g mol⁻¹), required to prepare 500.0 mL of a 0.100 mol L⁻¹ solution. (2 marks)
 <!-- id: chem12a3-cd-24 -->
+*Info: Calculation · about 2 marks · about 2.5 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q797.** The chloride concentration in a sample of river water is 2.50 × 10⁻⁴ mol L⁻¹. Calculate this concentration in ppm (mg L⁻¹). The molar mass of chlorine is 35.5 g mol⁻¹. (2 marks)
 <!-- id: chem12a3-cd-25 -->
+*Info: Calculation · about 2 marks · about 2.5 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q798.** A 0.250 mol L⁻¹ solution of sodium phosphate, Na₃PO₄, is prepared. Write the equation for its dissociation in water and determine the concentration of each ion in the solution. (3 marks)
 <!-- id: chem12a3-cd-26 -->
+*Info: Calculation · about 3 marks · about 4 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q799.** 20.0 mL of 0.600 mol L⁻¹ nitric acid is mixed with 30.0 mL of water. Assuming volumes are additive, calculate the concentration of the diluted acid. (3 marks)
 <!-- id: chem12a3-cd-27 -->
+*Info: Calculation · about 3 marks · about 4 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q800.** Explain why a volumetric flask, rather than a beaker, is used to prepare a standard solution, and why the solvent is added in two stages (dissolving, then making up to the mark). (2 marks)
 <!-- id: chem12a3-cd-28 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q801.** A stock solution contains 1000 ppm of copper(II) ions. Calculate the volume of stock needed to prepare 100.0 mL of a 25.0 ppm solution, and describe how the dilution is carried out. (3 marks)
 <!-- id: chem12a3-cd-29 -->
+*Info: Calculation · about 3 marks · about 4 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q802.** 50.0 mL of 0.400 mol L⁻¹ magnesium chloride, MgCl₂, solution is diluted to 200.0 mL with water. Calculate the concentration of Mg²⁺ and of Cl⁻ in the diluted solution. (3 marks)
 <!-- id: chem12a3-cd-30 -->
+*Info: Calculation · about 3 marks · about 4 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q803.** A 1.5 L water sample contains 3.0 mg of dissolved lead. What is the lead concentration in ppm (mg kg⁻¹)? Assume the density of water is 1.00 g mL⁻¹.
 <!-- id: chem12a3-cd-31 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. 4.5 ppm
 - B. 0.50 ppm
@@ -5738,13 +6591,17 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 **Q804.** 25.0 mL of 2.00 M HCl is diluted to 500.0 mL. Find the new concentration. Separately, a 250 mL water sample contains 5.0 mg of lead: find its concentration in ppm.
 <!-- id: vce-chem12-cd-c1 -->
 *Challenge question*
+*Info: Calculation · about 2 marks · about 2.5 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs; harder than most exam questions*
 
 *Written answer*
 
 #### Stoichiometry and limiting reactants
 
+*Exam relevance: High (core content that Units 3 & 4 build on) · Prerequisites: The mole and molar mass*
+
 **Q805.** Methane burns completely: CH₄(g) + 2O₂(g) → CO₂(g) + 2H₂O(g). What mass of CO₂ is produced from 8.0 g of CH₄?
 <!-- id: chem12a3-sl-1 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. 11 g
 - B. 22 g
@@ -5753,6 +6610,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q806.** 4.0 g of H₂ and 16.0 g of O₂ are mixed and ignited: 2H₂(g) + O₂(g) → 2H₂O(l). Which statement is correct?
 <!-- id: chem12a3-sl-2 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. H₂ is the limiting reactant
 - B. O₂ is the limiting reactant
@@ -5761,6 +6619,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q807.** 3.27 g of zinc (M = 65.4 g mol⁻¹) is added to 50.0 mL of 1.00 mol L⁻¹ HCl: Zn(s) + 2HCl(aq) → ZnCl₂(aq) + H₂(g). What amount of H₂ forms?
 <!-- id: chem12a3-sl-3 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. 0.0125 mol
 - B. 0.0500 mol
@@ -5769,6 +6628,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q808.** The theoretical yield of a product is 12.0 g but only 9.00 g is collected. What is the percentage yield?
 <!-- id: chem12a3-sl-4 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. 25.0 %
 - B. 133 %
@@ -5777,6 +6637,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q809.** In a blast furnace, Fe₂O₃(s) + 3CO(g) → 2Fe(s) + 3CO₂(g). What amount of CO is needed to produce 0.60 mol of Fe?
 <!-- id: chem12a3-sl-5 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. 0.90 mol
 - B. 0.40 mol
@@ -5785,21 +6646,25 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q810.** 50.0 mL of 0.200 mol L⁻¹ AgNO₃ is mixed with 30.0 mL of 0.150 mol L⁻¹ NaCl. Identify the limiting reactant, calculate the mass of AgCl precipitate (M = 143.4 g mol⁻¹), and state the amount of the excess ion remaining. (4 marks)
 <!-- id: chem12a3-sl-6 -->
+*Info: Calculation · about 4 marks · about 5 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q811.** 2.50 g of calcium carbonate (M = 100.1 g mol⁻¹) is added to 40.0 mL of 1.00 mol L⁻¹ HCl: CaCO₃(s) + 2HCl(aq) → CaCl₂(aq) + H₂O(l) + CO₂(g). Determine the limiting reactant and calculate the mass of CO₂ produced. (4 marks)
 <!-- id: chem12a3-sl-7 -->
+*Info: Calculation · about 4 marks · about 5 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q812.** Give two reasons why the actual yield of a reaction carried out in a school laboratory is usually less than the theoretical yield. (2 marks)
 <!-- id: chem12a3-sl-8 -->
+*Info: Application · about 2 marks · about 2.5 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q813.** Ammonia is made by N₂(g) + 3H₂(g) → 2NH₃(g). What amount of NH₃ can be made from 1.5 mol of H₂ with excess N₂?
 <!-- id: chem12a3-sl-9 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. 1.0 mol
 - B. 0.50 mol
@@ -5808,6 +6673,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q814.** Magnesium burns in oxygen: 2Mg(s) + O₂(g) → 2MgO(s). What mass of MgO (M = 40.3 g mol⁻¹) forms when 4.86 g of Mg (M = 24.3 g mol⁻¹) burns completely?
 <!-- id: chem12a3-sl-10 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. 4.03 g
 - B. 8.06 g
@@ -5816,6 +6682,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q815.** Hydrogen peroxide decomposes: 2H₂O₂(aq) → 2H₂O(l) + O₂(g). What volume of O₂ forms at SLC (molar volume 24.8 L mol⁻¹) from 0.200 mol of H₂O₂?
 <!-- id: chem12a3-sl-11 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. 4.96 L
 - B. 1.24 L
@@ -5824,6 +6691,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q816.** Which statement best describes the limiting reactant in a reaction?
 <!-- id: chem12a3-sl-12 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. The reactant with the smaller mass at the start
 - B. The reactant with the smaller coefficient in the balanced equation
@@ -5832,6 +6700,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q817.** The theoretical yield of a salt is 25.0 g. If the percentage yield of the experiment is 84.0 %, what mass of salt is actually obtained?
 <!-- id: chem12a3-sl-13 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. 21.0 g
 - B. 29.8 g
@@ -5840,6 +6709,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q818.** 0.30 mol of Al reacts with 0.30 mol of Cl₂: 2Al(s) + 3Cl₂(g) → 2AlCl₃(s). What amount of AlCl₃ forms?
 <!-- id: chem12a3-sl-14 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. 0.30 mol
 - B. 0.20 mol
@@ -5848,6 +6718,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q819.** 2.0 mol of Mg and 0.50 mol of O₂ react completely: 2Mg(s) + O₂(g) → 2MgO(s). What amount of the excess reactant remains?
 <!-- id: chem12a3-sl-15 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. 2.0 mol
 - B. 0.50 mol
@@ -5856,6 +6727,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q820.** What volume of 0.250 mol L⁻¹ NaOH is needed to react completely with 20.0 mL of 0.200 mol L⁻¹ H₂SO₄? H₂SO₄(aq) + 2NaOH(aq) → Na₂SO₄(aq) + 2H₂O(l)
 <!-- id: chem12a3-sl-16 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. 16.0 mL
 - B. 8.00 mL
@@ -5864,6 +6736,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q821.** Excess Na₂SO₄ solution is added to a solution containing 0.0200 mol of BaCl₂. What mass of BaSO₄ (M = 233.4 g mol⁻¹) precipitates?
 <!-- id: chem12a3-sl-17 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. 4.67 g
 - B. 2.33 g
@@ -5872,6 +6745,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q822.** Propane burns: C₃H₈(g) + 5O₂(g) → 3CO₂(g) + 4H₂O(g). At the same temperature and pressure, what volume of O₂ is needed to burn 10 L of propane completely?
 <!-- id: chem12a3-sl-18 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. 10 L
 - B. 50 L
@@ -5880,6 +6754,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q823.** A student calculates a percentage yield of 108 % for a precipitate. Which is the most likely explanation?
 <!-- id: chem12a3-sl-19 -->
+*Info: Application · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. The reaction did not go to completion
 - B. Some precipitate was lost during filtration
@@ -5888,6 +6763,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q824.** In a balanced chemical equation, the coefficients represent the ratio of which quantity?
 <!-- id: chem12a3-sl-20 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. Amounts in moles of reactants and products
 - B. Masses of reactants and products
@@ -5896,6 +6772,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q825.** 1.215 g of Mg (M = 24.3 g mol⁻¹) reacts with excess HCl: Mg(s) + 2HCl(aq) → MgCl₂(aq) + H₂(g). What volume of H₂ forms at SLC (24.8 L mol⁻¹)?
 <!-- id: chem12a3-sl-21 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. 2.48 L
 - B. 1.24 L
@@ -5904,64 +6781,78 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q826.** Explain why the limiting reactant determines the maximum amount of product formed in a reaction. (2 marks)
 <!-- id: chem12a3-sl-22 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q827.** Aluminium burns in oxygen: 4Al(s) + 3O₂(g) → 2Al₂O₃(s). Calculate the mass of Al₂O₃ (M = 102.0 g mol⁻¹) formed when 5.40 g of Al (M = 27.0 g mol⁻¹) burns completely in excess oxygen. (3 marks)
 <!-- id: chem12a3-sl-23 -->
+*Info: Calculation · about 3 marks · about 4 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q828.** 0.540 g of aluminium (M = 27.0 g mol⁻¹) is added to 50.0 mL of 1.00 mol L⁻¹ HCl: 2Al(s) + 6HCl(aq) → 2AlCl₃(aq) + 3H₂(g). Identify the limiting reactant and calculate the volume of H₂ produced at SLC (molar volume 24.8 L mol⁻¹). (4 marks)
 <!-- id: chem12a3-sl-24 -->
+*Info: Calculation · about 4 marks · about 5 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q829.** 20.0 mL of 0.500 mol L⁻¹ CuSO₄ is mixed with excess NaOH solution: CuSO₄(aq) + 2NaOH(aq) → Cu(OH)₂(s) + Na₂SO₄(aq). After filtering and drying, 0.850 g of Cu(OH)₂ (M = 97.5 g mol⁻¹) is collected. Calculate the percentage yield. (3 marks)
 <!-- id: chem12a3-sl-25 -->
+*Info: Calculation · about 3 marks · about 4 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q830.** A student has 10 g of substance X and 20 g of substance Y and states that X must be the limiting reactant because it has the smaller mass. Explain why this reasoning is flawed. (2 marks)
 <!-- id: chem12a3-sl-26 -->
+*Info: Application · about 2 marks · about 2.5 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q831.** Ethanol burns completely: C₂H₅OH(l) + 3O₂(g) → 2CO₂(g) + 3H₂O(l). Calculate the volume of O₂ at SLC (molar volume 24.8 L mol⁻¹) required to burn 2.30 g of ethanol (M = 46.0 g mol⁻¹). (3 marks)
 <!-- id: chem12a3-sl-27 -->
+*Info: Calculation · about 3 marks · about 4 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q832.** 25.0 mL of 0.400 mol L⁻¹ Pb(NO₃)₂ is mixed with 25.0 mL of 0.600 mol L⁻¹ KI: Pb²⁺(aq) + 2I⁻(aq) → PbI₂(s). Determine the limiting reactant, calculate the mass of PbI₂ (M = 461.0 g mol⁻¹) formed, and find the concentration of Pb²⁺ remaining in the final solution (assume volumes are additive). (4 marks)
 <!-- id: chem12a3-sl-28 -->
+*Info: Calculation · about 4 marks · about 5 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q833.** Limestone is heated: CaCO₃(s) → CaO(s) + CO₂(g). The percentage yield of CaO is 80.0 %. Calculate the mass of CaCO₃ (M = 100.1 g mol⁻¹) required to obtain 5.61 g of CaO (M = 56.1 g mol⁻¹). (3 marks)
 <!-- id: chem12a3-sl-29 -->
+*Info: Calculation · about 3 marks · about 4 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q834.** 4.60 g of sodium (M = 23.0 g mol⁻¹) reacts with 0.150 mol of chlorine gas: 2Na(s) + Cl₂(g) → 2NaCl(s). Identify the limiting reactant and calculate the mass of NaCl (M = 58.5 g mol⁻¹) formed. (3 marks)
 <!-- id: chem12a3-sl-30 -->
+*Info: Calculation · about 3 marks · about 4 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q835.** Heating 5.00 g of calcium carbonate gave 2.05 g of calcium oxide. Write the equation and calculate the percentage yield. (CaCO₃ = 100.1, CaO = 56.1 g mol⁻¹) (3 marks)
 <!-- id: chem12a3-sl-31 -->
+*Info: Calculation · about 3 marks · about 4 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q836.** 10.0 g of hydrogen reacts with 64.0 g of oxygen: 2H₂ + O₂ → 2H₂O. Which reactant is limiting, and what mass of water forms?
 <!-- id: vce-chem12-sl-c1 -->
 *Challenge question*
+*Info: Conceptual · about 1 mark · about 1.5 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs; harder than most exam questions*
 
 *Written answer*
 
 #### Gas laws and molar volume
 
+*Exam relevance: Medium (core content for school assessments) · Prerequisites: The mole and molar mass*
+
 **Q837.** What volume does 0.250 mol of oxygen gas occupy at SLC (25 °C and 100 kPa)?
 <!-- id: chem12a3-gl-1 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. 5.60 L
 - B. 6.20 L
@@ -5970,6 +6861,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q838.** A fixed amount of gas occupies 2.0 L at 100 kPa. At constant temperature it is compressed to 0.50 L. What is the new pressure?
 <!-- id: chem12a3-gl-2 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. 25 kPa
 - B. 50 kPa
@@ -5978,6 +6870,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q839.** A 2.00 L flask contains a gas at 150 kPa and 300 K. Using R = 8.31 J K⁻¹ mol⁻¹, what amount of gas is present?
 <!-- id: chem12a3-gl-3 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. 0.120 mol
 - B. 0.0120 mol
@@ -5986,6 +6879,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q840.** A balloon holds 500 mL of gas at 27 °C. At constant pressure it is warmed to 127 °C. What is its new volume?
 <!-- id: chem12a3-gl-4 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. 2350 mL
 - B. 375 mL
@@ -5994,6 +6888,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q841.** Equal volumes of hydrogen gas and carbon dioxide gas are at the same temperature and pressure. They contain the same:
 <!-- id: chem12a3-gl-5 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. mass
 - B. number of molecules
@@ -6002,21 +6897,25 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q842.** Calculate the mass of 3.10 L of carbon dioxide gas at SLC. (2 marks)
 <!-- id: chem12a3-gl-6 -->
+*Info: Calculation · about 2 marks · about 2.5 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q843.** A car airbag inflates when sodium azide decomposes: 2NaN₃(s) → 2Na(s) + 3N₂(g). Calculate the mass of NaN₃ needed to produce 60.0 L of N₂ at 25 °C and 120 kPa. (R = 8.31 J K⁻¹ mol⁻¹) (4 marks)
 <!-- id: chem12a3-gl-7 -->
+*Info: Calculation · about 4 marks · about 5 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q844.** Using the kinetic molecular theory, explain why the pressure of a fixed amount of gas in a sealed rigid container increases when it is heated. (3 marks)
 <!-- id: chem12a3-gl-8 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q845.** What amount of nitrogen gas is present in 12.4 L of N₂ at SLC (25 °C and 100 kPa)?
 <!-- id: chem12a3-gl-9 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. 0.500 mol
 - B. 0.554 mol
@@ -6025,6 +6924,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q846.** What volume does 2.00 mol of methane gas occupy at STP (0 °C and 101.3 kPa)? (Vm = 22.4 L mol⁻¹)
 <!-- id: chem12a3-gl-10 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. 49.6 L
 - B. 44.8 L
@@ -6033,6 +6933,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q847.** A 300 mL sample of gas at 27 °C is cooled to −73 °C at constant pressure. What is its new volume?
 <!-- id: chem12a3-gl-11 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. 450 mL
 - B. 100 mL
@@ -6041,6 +6942,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q848.** A gas occupies 4.0 L at 100 kPa and 300 K. Its pressure is doubled to 200 kPa and its temperature is doubled to 600 K. What is the new volume?
 <!-- id: chem12a3-gl-12 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. 4.0 L
 - B. 1.0 L
@@ -6049,6 +6951,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q849.** What is the mass of 5.60 L of helium gas at STP? (Vm = 22.4 L mol⁻¹)
 <!-- id: chem12a3-gl-13 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. 4.00 g
 - B. 0.903 g
@@ -6057,6 +6960,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q850.** What is the density of oxygen gas (O₂) at SLC, in g L⁻¹?
 <!-- id: chem12a3-gl-14 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. 0.775 g L⁻¹
 - B. 0.714 g L⁻¹
@@ -6065,6 +6969,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q851.** In the reaction 2H₂(g) + O₂(g) → 2H₂O(g), what volume of oxygen reacts completely with 10 L of hydrogen, with all gases measured at the same temperature and pressure?
 <!-- id: chem12a3-gl-15 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. 5.0 L
 - B. 10 L
@@ -6073,6 +6978,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q852.** A 500 mL flask holds a gas at 100 kPa and 300 K. Using R = 8.31 J K⁻¹ mol⁻¹ and kPa and L as pressure and volume units, what amount of gas is present?
 <!-- id: chem12a3-gl-16 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. 20.1 mol
 - B. 0.0201 mol
@@ -6081,6 +6987,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q853.** For a fixed amount of gas at constant temperature, which graph is a straight line passing through the origin?
 <!-- id: chem12a3-gl-17 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. P against V
 - B. V against 1 ÷ P
@@ -6089,6 +6996,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q854.** Why is the molar volume of a gas at SLC (24.8 L mol⁻¹) greater than at STP (22.4 L mol⁻¹)?
 <!-- id: chem12a3-gl-18 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. The gas molecules are larger at SLC
 - B. The gas has a greater number of molecules at SLC
@@ -6097,6 +7005,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q855.** What volume of carbon dioxide at SLC is produced when 10.0 g of calcium carbonate reacts completely with excess hydrochloric acid? CaCO₃(s) + 2HCl(aq) → CaCl₂(aq) + H₂O(l) + CO₂(g)
 <!-- id: chem12a3-gl-19 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. 2.48 L
 - B. 2.24 L
@@ -6105,6 +7014,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q856.** Four gas samples are at the same temperature and pressure. Which contains the greatest number of molecules?
 <!-- id: chem12a3-gl-20 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. 2.0 L of hydrogen
 - B. 3.0 L of carbon dioxide
@@ -6113,6 +7023,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q857.** A sealed rigid container of gas at 300 K has its pressure doubled by heating. What is the final temperature?
 <!-- id: chem12a3-gl-21 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. 150 °C
 - B. 600 °C
@@ -6121,64 +7032,78 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q858.** Calculate the volume occupied by 8.00 g of methane, CH₄, at SLC. (2 marks)
 <!-- id: chem12a3-gl-22 -->
+*Info: Calculation · about 2 marks · about 2.5 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q859.** A 3.0 L sample of gas at 150 kPa is compressed at constant temperature to 1.2 L. Calculate the final pressure. (2 marks)
 <!-- id: chem12a3-gl-23 -->
+*Info: Calculation · about 2 marks · about 2.5 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q860.** A 250 mL syringe of air at 15 °C is warmed to 45 °C at constant pressure. Calculate the final volume. (2 marks)
 <!-- id: chem12a3-gl-24 -->
+*Info: Calculation · about 2 marks · about 2.5 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q861.** A gas occupies 2.50 L at 27 °C and 200 kPa. Calculate its volume at 127 °C and 100 kPa. (3 marks)
 <!-- id: chem12a3-gl-25 -->
+*Info: Calculation · about 3 marks · about 4 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q862.** Magnesium reacts with hydrochloric acid: Mg(s) + 2HCl(aq) → MgCl₂(aq) + H₂(g). Calculate the mass of magnesium needed to produce 2.48 L of hydrogen gas at SLC. (3 marks)
 <!-- id: chem12a3-gl-26 -->
+*Info: Calculation · about 3 marks · about 4 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q863.** A sample of unknown gas has a mass of 1.50 g and occupies 1.00 L at 27 °C and 100 kPa. Calculate the molar mass of the gas. (R = 8.31 J K⁻¹ mol⁻¹) (3 marks)
 <!-- id: chem12a3-gl-27 -->
+*Info: Calculation · about 3 marks · about 4 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q864.** Use the kinetic molecular theory to explain why the pressure of a fixed amount of gas increases when its volume is decreased at constant temperature. (2 marks)
 <!-- id: chem12a3-gl-28 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q865.** Explain why 1.0 L of hydrogen and 1.0 L of carbon dioxide at the same temperature and pressure contain the same number of molecules, even though CO₂ molecules are larger and heavier. (2 marks)
 <!-- id: chem12a3-gl-29 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q866.** Propane burns according to: C₃H₈(g) + 5O₂(g) → 3CO₂(g) + 4H₂O(g). If 4.0 L of propane is burned completely, all gases being measured at the same temperature and pressure, calculate the volume of oxygen consumed and the volume of carbon dioxide produced. (3 marks)
 <!-- id: chem12a3-gl-30 -->
+*Info: Calculation · about 3 marks · about 4 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q867.** Calculate the pressure, in kPa, of 0.0500 mol of an ideal gas in a 1.50 L container at 27 °C. (R = 8.31 J mol⁻¹ K⁻¹) (2 marks)
 <!-- id: chem12a3-gl-31 -->
+*Info: Calculation · about 2 marks · about 2.5 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q868.** How many moles of gas are in a 2.00 L container at 150 kPa and 27 °C?
 <!-- id: vce-chem12-gl-c1 -->
 *Challenge question*
+*Info: Calculation · about 2 marks · about 2.5 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs; harder than most exam questions*
 
 *Written answer*
 
 #### Volumetric analysis and titration
 
+*Exam relevance: High (core content that Units 3 & 4 build on) · Prerequisites: Concentration units and dilution; Stoichiometry and limiting reactants*
+
 **Q869.** In a titration, which piece of glassware is used to transfer an accurately known volume (an aliquot) of solution into the conical flask?
 <!-- id: chem12a3-vt-1 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. Burette
 - B. Pipette
@@ -6187,6 +7112,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q870.** A student rinses the burette with deionised water but not with the titrant before filling it. Compared with the true value, the result for the analyte concentration will be:
 <!-- id: chem12a3-vt-2 -->
+*Info: Application · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. unchanged, because the amount of titrant is the same
 - B. too low, because the titre is smaller
@@ -6195,6 +7121,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q871.** A 20.00 mL aliquot of NaOH solution is titrated with 0.100 mol L⁻¹ HCl. The mean concordant titre is 18.40 mL. What is the concentration of the NaOH?
 <!-- id: chem12a3-vt-3 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. 0.0920 mol L⁻¹
 - B. 0.109 mol L⁻¹
@@ -6203,6 +7130,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q872.** A 25.00 mL aliquot of sulfuric acid is neutralised by 22.50 mL of 0.150 mol L⁻¹ NaOH: H₂SO₄(aq) + 2NaOH(aq) → Na₂SO₄(aq) + 2H₂O(l). What is the concentration of the H₂SO₄?
 <!-- id: chem12a3-vt-4 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. 0.135 mol L⁻¹
 - B. 0.150 mol L⁻¹
@@ -6211,6 +7139,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q873.** Titres are usually considered concordant if they agree within 0.10 mL. Which set of titres is concordant?
 <!-- id: chem12a3-vt-5 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. 22.10 mL, 21.40 mL, 21.35 mL
 - B. 21.35 mL, 21.40 mL, 21.30 mL
@@ -6219,21 +7148,25 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q874.** 25.00 mL of vinegar is diluted to 250.0 mL in a volumetric flask. 20.00 mL aliquots of the diluted solution are titrated with 0.1050 mol L⁻¹ NaOH, giving a mean titre of 16.85 mL. Calculate the concentration of ethanoic acid (CH₃COOH, M = 60.0 g mol⁻¹) in the original vinegar in mol L⁻¹ and in % (m/v). (4 marks)
 <!-- id: chem12a3-vt-6 -->
+*Info: Calculation · about 4 marks · about 5 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q875.** For the titration of ethanoic acid with sodium hydroxide, explain whether phenolphthalein (colour change pH 8.3–10.0) or methyl orange (pH 3.1–4.4) is the more suitable indicator. (3 marks)
 <!-- id: chem12a3-vt-7 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q876.** State three properties of a primary standard and explain why solid sodium hydroxide is not suitable as one. (3 marks)
 <!-- id: chem12a3-vt-8 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q877.** What is a standard solution in volumetric analysis?
 <!-- id: chem12a3-vt-9 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. A solution whose concentration is accurately known
 - B. A solution that has been made up to exactly 1.00 L
@@ -6242,6 +7175,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q878.** How should the volume be read from a burette containing a colourless solution?
 <!-- id: chem12a3-vt-10 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. At the top of the meniscus, with the eye above the liquid
 - B. At the bottom of the meniscus, with the eye level with the meniscus
@@ -6250,6 +7184,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q879.** What is the difference between the end point and the equivalence point of a titration?
 <!-- id: chem12a3-vt-11 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. They are always the same point by definition
 - B. The end point is where the reactants are in exact stoichiometric ratio; the equivalence point is where the indicator changes colour
@@ -6258,6 +7193,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q880.** A 25.00 mL aliquot of HCl is titrated with 0.0800 mol L⁻¹ NaOH. The mean titre is 20.50 mL. What is the concentration of the HCl?
 <!-- id: chem12a3-vt-12 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. 0.0328 mol L⁻¹
 - B. 0.0976 mol L⁻¹
@@ -6266,6 +7202,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q881.** Just before a titration, a student rinses the conical flask with deionised water and leaves some water in it. What effect does this have on the calculated concentration of the analyte?
 <!-- id: chem12a3-vt-13 -->
+*Info: Application · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. No effect, because the amount of analyte in the flask is unchanged
 - B. The concentration will be too high, because the titre is larger
@@ -6274,6 +7211,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q882.** A student rinses the pipette with deionised water, not with the analyte solution, before measuring the aliquot. The calculated analyte concentration will be:
 <!-- id: chem12a3-vt-14 -->
+*Info: Application · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. too high, because the titre is larger
 - B. too low, because the aliquot contains fewer moles of analyte
@@ -6282,6 +7220,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q883.** An air bubble is trapped in the tip of a burette at the start of a titration and is dislodged and escapes during the titration. How is the calculated analyte concentration affected?
 <!-- id: chem12a3-vt-15 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. Too low, because less titrant was delivered than was read
 - B. Unchanged, because air has no mass
@@ -6290,6 +7229,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q884.** A 20.00 mL aliquot of Na₂CO₃ solution is titrated with 0.100 mol L⁻¹ HCl: Na₂CO₃(aq) + 2HCl(aq) → 2NaCl(aq) + H₂O(l) + CO₂(g). The mean titre is 24.00 mL. What is the concentration of the Na₂CO₃?
 <!-- id: chem12a3-vt-16 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. 0.120 mol L⁻¹
 - B. 0.0480 mol L⁻¹
@@ -6298,6 +7238,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q885.** Which substance is the most suitable primary standard for making up a standard acid solution?
 <!-- id: chem12a3-vt-17 -->
+*Info: Evaluation · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. Anhydrous sodium carbonate
 - B. Solid sodium hydroxide
@@ -6306,6 +7247,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q886.** 1.325 g of anhydrous Na₂CO₃ (M = 106.0 g mol⁻¹) is dissolved in water and made up to 250.0 mL in a volumetric flask. What is the concentration of the solution?
 <!-- id: chem12a3-vt-18 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. 0.0125 mol L⁻¹
 - B. 0.0500 mol L⁻¹
@@ -6314,6 +7256,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q887.** Ammonia solution is titrated with hydrochloric acid. Which indicator is more suitable, and why?
 <!-- id: chem12a3-vt-19 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. Phenolphthalein, because its colour change is at pH 8.3–10.0
 - B. Either indicator, because the equivalence point is at pH 7
@@ -6322,6 +7265,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q888.** Four titres are recorded: 23.60 mL, 22.45 mL, 22.40 mL and 22.50 mL. The first is a rough titre. What mean titre should be used in the calculation?
 <!-- id: chem12a3-vt-20 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. 22.45 mL
 - B. 22.74 mL
@@ -6330,6 +7274,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q889.** A 20.00 mL aliquot of KOH solution is titrated with 0.0500 mol L⁻¹ H₂SO₄. The mean titre is 15.60 mL. What is the concentration of the KOH? (H₂SO₄(aq) + 2KOH(aq) → K₂SO₄(aq) + 2H₂O(l))
 <!-- id: chem12a3-vt-21 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. 0.0390 mol L⁻¹
 - B. 0.0780 mol L⁻¹
@@ -6338,6 +7283,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q890.** Why should only a few drops of indicator be added to the analyte in the conical flask?
 <!-- id: chem12a3-vt-22 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. More indicator makes the colour change impossible to see
 - B. Indicators only work in very small amounts of water
@@ -6346,49 +7292,60 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q891.** Describe how the burette, the pipette and the conical flask should each be rinsed before a titration, and justify the choice for the conical flask. (3 marks)
 <!-- id: chem12a3-vt-23 -->
+*Info: Evaluation · about 3 marks · about 4 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q892.** Explain why a rough titration is carried out first and why further titres must be concordant. (2 marks)
 <!-- id: chem12a3-vt-24 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q893.** Distinguish between the accuracy and the precision of a titration result, and explain how a titration could be precise but not accurate. (3 marks)
 <!-- id: chem12a3-vt-25 -->
+*Info: Investigation design · about 3 marks · about 4 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q894.** 10.00 mL of household ammonia (NH₃) cleaner is diluted to 500.0 mL in a volumetric flask. 25.00 mL aliquots of the diluted solution are titrated with 0.0950 mol L⁻¹ HCl, giving a mean titre of 21.30 mL. NH₃(aq) + HCl(aq) → NH₄Cl(aq). Calculate the concentration of NH₃ in the original cleaner in mol L⁻¹ and g L⁻¹ (M(NH₃) = 17.0 g mol⁻¹). (4 marks)
 <!-- id: chem12a3-vt-26 -->
+*Info: Calculation · about 4 marks · about 5 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q895.** Explain why bromothymol blue (colour change pH 6.0–7.6) is suitable for the titration of hydrochloric acid with sodium hydroxide, and why the choice of indicator is less critical for this titration than for ethanoic acid with sodium hydroxide. (3 marks)
 <!-- id: chem12a3-vt-27 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q896.** 0.6300 g of oxalic acid dihydrate, H₂C₂O₄·2H₂O (M = 126.0 g mol⁻¹), is dissolved and made up to 100.0 mL. A 20.00 mL aliquot is titrated with NaOH solution and the mean titre is 19.40 mL. H₂C₂O₄(aq) + 2NaOH(aq) → Na₂C₂O₄(aq) + 2H₂O(l). Calculate the concentration of the NaOH. (4 marks)
 <!-- id: chem12a3-vt-28 -->
+*Info: Calculation · about 4 marks · about 5 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q897.** Outline the steps for preparing 250.0 mL of a standard solution from a solid primary standard using a volumetric flask. (4 marks)
 <!-- id: chem12a3-vt-29 -->
+*Info: Conceptual · about 4 marks · about 5 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q898.** A 20.00 mL aliquot of sodium carbonate solution needs 18.40 mL of 0.100 M HCl to react completely: Na₂CO₃ + 2HCl → 2NaCl + CO₂ + H₂O. Find the concentration of the sodium carbonate.
 <!-- id: vce-chem12-va-c1 -->
 *Challenge question*
+*Info: Calculation · about 2 marks · about 2.5 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs; harder than most exam questions*
 
 *Written answer*
 
 #### Gravimetric analysis
 
+*Exam relevance: Medium (core content for school assessments) · Prerequisites: Stoichiometry and limiting reactants; Solubility and precipitation reactions*
+
 **Q899.** In gravimetric analysis, the precipitate is repeatedly dried and weighed until it reaches constant mass. This is done to:
 <!-- id: chem12a3-ga-1 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. make the precipitate crystals larger
 - B. remove soluble impurities from the precipitate
@@ -6397,6 +7354,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q900.** To find the chloride content of a sample, an excess of silver nitrate solution is added. The excess is used to:
 <!-- id: chem12a3-ga-2 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. ensure that all chloride ions are precipitated as AgCl
 - B. increase the solubility of AgCl
@@ -6405,6 +7363,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q901.** A 2.00 g sample produces 0.287 g of dry AgCl (M = 143.4 g mol⁻¹). What is the percentage by mass of chloride in the sample?
 <!-- id: chem12a3-ga-3 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. 14.4 %
 - B. 3.55 %
@@ -6413,6 +7372,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q902.** A barium sulfate precipitate is not washed before drying, and soluble sodium chloride stays on it. How will this affect the calculated percentage of sulfate?
 <!-- id: chem12a3-ga-4 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. It will be too low, because some BaSO₄ dissolves
 - B. No effect, because NaCl is soluble
@@ -6421,6 +7381,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q903.** Excess BaCl₂ solution is added to a dissolved fertiliser sample and 0.466 g of BaSO₄ (M = 233.4 g mol⁻¹) is collected. What mass of sulfate (SO₄²⁻, M = 96.1 g mol⁻¹) was in the sample?
 <!-- id: chem12a3-ga-5 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. 0.466 g
 - B. 0.0960 g
@@ -6429,21 +7390,25 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q904.** 2.50 g of hydrated copper(II) sulfate, CuSO₄·xH₂O, is heated to constant mass, leaving 1.60 g of anhydrous CuSO₄ (M = 159.6 g mol⁻¹). Determine the value of x. (3 marks)
 <!-- id: chem12a3-ga-6 -->
+*Info: Calculation · about 3 marks · about 4 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q905.** Excess barium chloride solution is added to a 200.0 mL sample of mineral water. The washed and dried BaSO₄ precipitate has a mass of 0.0583 g. Calculate the sulfate ion concentration in the water in mg L⁻¹ (ppm). (M(BaSO₄) = 233.4 g mol⁻¹; M(SO₄²⁻) = 96.1 g mol⁻¹) (4 marks)
 <!-- id: chem12a3-ga-7 -->
+*Info: Calculation · about 4 marks · about 5 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q906.** Describe two sources of error in a gravimetric analysis and state the effect of each on the calculated result. (3 marks)
 <!-- id: chem12a3-ga-8 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q907.** Gravimetric analysis determines the amount of an analyte by:
 <!-- id: chem12a3-ga-9 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. measuring the volume of a standard solution needed to react with it
 - B. converting it to a pure solid of known formula and measuring its mass
@@ -6452,6 +7417,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q908.** Which solution could be added to a water sample to precipitate sulfate ions for gravimetric analysis?
 <!-- id: chem12a3-ga-10 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. sodium nitrate
 - B. potassium chloride
@@ -6460,6 +7426,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q909.** In a gravimetric analysis, the clear liquid that passes through the filter paper is called the:
 <!-- id: chem12a3-ga-11 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. residue
 - B. precipitate
@@ -6468,6 +7435,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q910.** Excess sodium carbonate solution is added to a solution of calcium chloride and 0.250 g of dry CaCO₃ (M = 100.1 g mol⁻¹) is collected. What mass of calcium (M = 40.1 g mol⁻¹) was in the solution?
 <!-- id: chem12a3-ga-12 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. 0.0250 g
 - B. 0.100 g
@@ -6476,6 +7444,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q911.** A sample containing sodium chloride is dissolved in water and treated with excess silver nitrate, giving 1.434 g of dry AgCl (M = 143.4 g mol⁻¹). What mass of NaCl (M = 58.5 g mol⁻¹) was in the sample?
 <!-- id: chem12a3-ga-13 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. 1.434 g
 - B. 0.355 g
@@ -6484,6 +7453,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q912.** Which of the following is NOT a requirement for a precipitate used in gravimetric analysis?
 <!-- id: chem12a3-ga-14 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. It has a very low solubility in the solution
 - B. It has a known, fixed formula
@@ -6492,6 +7462,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q913.** A crucible is heated, cooled and weighed repeatedly until its mass is constant before it is used to collect a precipitate. This is done so that:
 <!-- id: chem12a3-ga-15 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. the crucible mass does not change during the experiment
 - B. the crucible becomes coated with a layer of precipitate
@@ -6500,6 +7471,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q914.** During transfer, some of the precipitate is left behind in the beaker and is not collected on the filter paper. The calculated percentage of the analyte in the sample will be:
 <!-- id: chem12a3-ga-16 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. too high, because the filtrate contains extra solid
 - B. unaffected, because the precipitate is still produced
@@ -6508,6 +7480,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q915.** A 0.500 g sample containing barium is dissolved and excess sulfate ions are added. The dried BaSO₄ (M = 233.4 g mol⁻¹) has a mass of 0.2334 g. What is the percentage by mass of barium (M = 137.3 g mol⁻¹) in the sample?
 <!-- id: chem12a3-ga-17 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. 13.7 %
 - B. 27.5 %
@@ -6516,6 +7489,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q916.** After filtering a BaSO₄ precipitate, a student wants to check that all the sulfate has been precipitated. The best test is to:
 <!-- id: chem12a3-ga-18 -->
+*Info: Application · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. add a few more drops of barium chloride to the filtrate and see whether more precipitate forms
 - B. heat the filtrate until it boils dry
@@ -6524,6 +7498,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q917.** Excess potassium iodide is added to 50.0 mL of lead(II) nitrate solution, producing 0.461 g of dry PbI₂ (M = 461.0 g mol⁻¹). What was the concentration of Pb²⁺ in the original solution?
 <!-- id: chem12a3-ga-19 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. 0.0100 mol L⁻¹
 - B. 0.0200 mol L⁻¹
@@ -6532,6 +7507,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q918.** A precipitate is dried, cooled and weighed repeatedly, giving masses of 0.512 g, 0.498 g, 0.497 g and 0.497 g. Which statement is correct?
 <!-- id: chem12a3-ga-20 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. The precipitate has reached constant mass and 0.497 g should be used
 - B. The precipitate should be dried until the mass reaches 0.512 g
@@ -6540,6 +7516,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q919.** A 5.00 g sample of a hydrated salt is heated to constant mass, leaving 4.10 g of anhydrous solid. What is the percentage by mass of water in the hydrated salt?
 <!-- id: chem12a3-ga-21 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. 0.90 %
 - B. 22.0 %
@@ -6548,51 +7525,61 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q920.** Explain why a precipitate is washed with distilled water before it is dried and weighed in a gravimetric analysis. (2 marks)
 <!-- id: chem12a3-ga-22 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q921.** Outline the main steps in a gravimetric analysis to determine the percentage of chloride in a solid salt sample. (4 marks)
 <!-- id: chem12a3-ga-23 -->
+*Info: Conceptual · about 4 marks · about 5 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q922.** A 1.250 g sample of a salt mixture containing sodium chloride is dissolved in water and excess silver nitrate solution is added. The dried precipitate of AgCl has a mass of 2.868 g. Calculate the percentage by mass of NaCl in the sample. (M(AgCl) = 143.4 g mol⁻¹; M(NaCl) = 58.5 g mol⁻¹) (4 marks)
 <!-- id: chem12a3-ga-24 -->
+*Info: Calculation · about 4 marks · about 5 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q923.** Excess sodium carbonate solution is added to a 25.0 mL sample of calcium chloride solution. The dried CaCO₃ precipitate has a mass of 0.350 g. Calculate the concentration of Ca²⁺ in the original solution in mol L⁻¹. (M(CaCO₃) = 100.1 g mol⁻¹) (3 marks)
 <!-- id: chem12a3-ga-25 -->
+*Info: Calculation · about 3 marks · about 4 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q924.** 4.92 g of hydrated magnesium sulfate, MgSO₄·xH₂O, is heated to constant mass, leaving 2.40 g of anhydrous MgSO₄ (M = 120.4 g mol⁻¹). Determine the value of x. (M(H₂O) = 18.0 g mol⁻¹) (3 marks)
 <!-- id: chem12a3-ga-26 -->
+*Info: Calculation · about 3 marks · about 4 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q925.** A student adds too little precipitating agent to a sample solution in a gravimetric analysis. Explain the effect on the calculated mass of analyte in the sample. (2 marks)
 <!-- id: chem12a3-ga-27 -->
+*Info: Application · about 2 marks · about 2.5 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q926.** A student heats a precipitate in a crucible and records masses of 18.642 g, then 18.615 g, then 18.598 g after successive heating and cooling. Explain what these results show and describe what the student should do next. (3 marks)
 <!-- id: chem12a3-ga-28 -->
+*Info: Data analysis · about 3 marks · about 4 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q927.** State two properties that a precipitate must have to be suitable for gravimetric analysis and explain why each is needed. (2 marks)
 <!-- id: chem12a3-ga-29 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q928.** Excess silver nitrate solution is added to a 250.0 mL sample of river water. The washed and dried AgCl precipitate has a mass of 0.0287 g. Calculate the concentration of chloride ions in the river water in mg L⁻¹. (M(AgCl) = 143.4 g mol⁻¹; M(Cl) = 35.5 g mol⁻¹) (4 marks)
 <!-- id: chem12a3-ga-30 -->
+*Info: Calculation · about 4 marks · about 5 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q929.** Excess BaCl₂(aq) is added to a solution containing 0.0500 mol of Na₂SO₄. What mass of BaSO₄ (M = 233.4 g mol⁻¹) is obtained?
 <!-- id: chem12a3-ga-31 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. 23.3 g
 - B. 5.84 g
@@ -6602,13 +7589,17 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 **Q930.** Excess silver nitrate is added to 50.0 mL of a water sample, and 0.287 g of dried AgCl (M = 143.4 g/mol) forms. Find the chloride concentration in g/L.
 <!-- id: vce-chem12-ga-c1 -->
 *Challenge question*
+*Info: Calculation · about 3 marks · about 4 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs; harder than most exam questions*
 
 *Written answer*
 
 #### Colorimetry and UV-visible spectroscopy
 
+*Exam relevance: Medium (core content for school assessments) · Prerequisites: Concentration units and dilution*
+
 **Q931.** A colorimeter is used to find the concentration of a blue copper(II) solution. Which colour of light should be selected, and why?
 <!-- id: chem12a3-cu-1 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. Blue light, because the solution is blue
 - B. Orange light, because the solution absorbs it most strongly
@@ -6617,6 +7608,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q932.** A calibration curve for a dye is a straight line through the origin. A 4.0 mg L⁻¹ standard has an absorbance of 0.40. An unknown sample has an absorbance of 0.26. What is the concentration of the unknown?
 <!-- id: chem12a3-cu-2 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. 2.6 mg L⁻¹
 - B. 0.65 mg L⁻¹
@@ -6625,6 +7617,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q933.** Before measuring standards and samples, a cuvette containing only the solvent (a blank) is placed in the spectrophotometer. Its purpose is to:
 <!-- id: chem12a3-cu-3 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. calibrate the wavelength of the light source
 - B. find the concentration of the most dilute standard
@@ -6633,6 +7626,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q934.** The absorbance of an unknown sample is higher than that of the most concentrated standard on the calibration curve. The most appropriate action is to:
 <!-- id: chem12a3-cu-4 -->
+*Info: Evaluation · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. extend the calibration line to estimate the concentration
 - B. use a different wavelength at which the sample absorbs more
@@ -6641,6 +7635,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q935.** UV-visible spectroscopy is based on the absorption of radiation that causes:
 <!-- id: chem12a3-cu-5 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. bonds within molecules to vibrate
 - B. electrons to move to higher energy levels
@@ -6649,21 +7644,25 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q936.** Iron in tank water is reacted to form a red complex. Standards of 0, 2.0, 4.0, 6.0 and 8.0 mg L⁻¹ iron give absorbances of 0.00, 0.11, 0.22, 0.33 and 0.44. A 5.0 mL sample of tank water is treated and diluted to 50.0 mL, giving an absorbance of 0.15. Calculate the iron concentration in the original tank water. (3 marks)
 <!-- id: chem12a3-cu-6 -->
+*Info: Calculation · about 3 marks · about 4 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q937.** Explain why the wavelength of maximum absorbance (λmax) of the analyte is normally chosen for a UV-visible spectroscopic analysis. (2 marks)
 <!-- id: chem12a3-cu-7 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q938.** Explain why a set of standard solutions must be measured to produce a calibration curve each time an analysis is done, and why sample absorbances should fall within the range of the standards. (3 marks)
 <!-- id: chem12a3-cu-8 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q939.** Which range of wavelengths corresponds to visible light?
 <!-- id: chem12a3-cu-9 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. 100–400 nm
 - B. 400–700 nm
@@ -6672,6 +7671,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q940.** A dye solution within the linear range of a spectrophotometer has an absorbance of 0.80. A 10.0 mL portion is diluted to 20.0 mL with water. What absorbance is expected for the diluted solution?
 <!-- id: chem12a3-cu-10 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. 0.40
 - B. 0.80
@@ -6680,6 +7680,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q941.** What are the units of absorbance?
 <!-- id: chem12a3-cu-11 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. mol L⁻¹
 - B. nm
@@ -6688,6 +7689,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q942.** Why is a quartz cuvette, rather than a glass or plastic one, required for measurements in the ultraviolet region?
 <!-- id: chem12a3-cu-12 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. Quartz is cheaper and easier to clean
 - B. Quartz scatters light, which increases sensitivity
@@ -6696,6 +7698,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q943.** Which statement correctly distinguishes a UV-visible spectrophotometer from a simple colorimeter?
 <!-- id: chem12a3-cu-13 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. A colorimeter measures emitted light, whereas a spectrophotometer measures absorbed light
 - B. A colorimeter works only on colourless solutions
@@ -6704,6 +7707,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q944.** When a calibration curve is plotted for a colorimetric analysis, which choice is standard?
 <!-- id: chem12a3-cu-14 -->
+*Info: Data analysis · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. Concentration on the y-axis and absorbance on the x-axis
 - B. Absorbance on the y-axis and concentration of the standards on the x-axis
@@ -6712,6 +7716,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q945.** Which of the following ions in aqueous solution could NOT be determined directly by visible colorimetry, without first reacting it to form a coloured species?
 <!-- id: chem12a3-cu-15 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. Cu²⁺ (blue)
 - B. MnO₄⁻ (purple)
@@ -6720,6 +7725,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q946.** A solution is measured and found to have an absorbance of 0 at the chosen wavelength, relative to a blank. This means that:
 <!-- id: chem12a3-cu-16 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. the sample absorbs no more light at that wavelength than the blank does
 - B. the sample absorbs all of the light at that wavelength
@@ -6728,6 +7734,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q947.** What is plotted on the axes of a UV-visible absorption spectrum?
 <!-- id: chem12a3-cu-17 -->
+*Info: Data analysis · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. Concentration against absorbance
 - B. Absorbance against time
@@ -6736,6 +7743,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q948.** Another species in a water sample absorbs light at the same wavelength as the analyte being measured. How will this affect the calculated concentration of the analyte?
 <!-- id: chem12a3-cu-18 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. It will be too low, because less analyte absorbs light
 - B. It will be too high, because the measured absorbance includes the other species
@@ -6744,6 +7752,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q949.** A student prepares standards and measures them in 1.0 cm cuvettes, but measures the sample in a 2.0 cm cuvette. The sample concentration read from the calibration curve will be:
 <!-- id: chem12a3-cu-19 -->
+*Info: Application · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. half the true value
 - B. unchanged, since concentration does not depend on cuvette
@@ -6752,6 +7761,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q950.** Why should a cuvette be held only by its frosted (non-optical) sides?
 <!-- id: chem12a3-cu-20 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. Fingerprints on the clear faces absorb and scatter light, giving a falsely high absorbance
 - B. The frosted sides contain the sample
@@ -6760,6 +7770,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q951.** Compared with visible light, ultraviolet radiation has:
 <!-- id: chem12a3-cu-21 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. longer wavelength and higher energy per photon
 - B. longer wavelength and lower energy per photon
@@ -6768,59 +7779,72 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q952.** Describe how a student could prepare 100.0 mL of a 20 mg L⁻¹ standard solution from a 100 mg L⁻¹ stock solution. Include the volume of stock required. (3 marks)
 <!-- id: chem12a3-cu-22 -->
+*Info: Application · about 3 marks · about 4 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q953.** Standard solutions of 0.50, 1.0, 1.5 and 2.0 mmol L⁻¹ of a coloured complex give absorbances of 0.12, 0.24, 0.36 and 0.48 respectively. A 25.0 mL sample gives an absorbance of 0.30. Calculate the amount, in mol, of the complex in the 25.0 mL sample. (3 marks)
 <!-- id: chem12a3-cu-23 -->
+*Info: Calculation · about 3 marks · about 4 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q954.** A colourless analyte is to be determined by visible colorimetry. Explain why it is first reacted with a reagent, and why the amount of reagent is controlled. (2 marks)
 <!-- id: chem12a3-cu-24 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q955.** A calibration graph of absorbance against concentration curves towards the horizontal axis at high concentrations. Explain why this limits the analysis and state what should be done with a sample of high concentration. (2 marks)
 <!-- id: chem12a3-cu-25 -->
+*Info: Data analysis · about 2 marks · about 2.5 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q956.** A 0.500 g sample of brass is dissolved and made up to 250.0 mL. A 1.00 mL aliquot is diluted to 100.0 mL and its copper concentration is determined by colorimetry. A calibration line through the origin has a slope of 0.040 absorbance units per mg L⁻¹, and the diluted solution has an absorbance of 0.48. Calculate the percentage of copper by mass in the brass. (4 marks)
 <!-- id: chem12a3-cu-26 -->
+*Info: Calculation · about 4 marks · about 5 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q957.** State two precautions that should be taken when filling and placing a cuvette in a spectrophotometer to ensure accurate absorbance readings. (2 marks)
 <!-- id: chem12a3-cu-27 -->
+*Info: Data analysis · about 2 marks · about 2.5 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q958.** An aqueous solution of potassium permanganate appears purple. Explain this observation in terms of the light absorbed and transmitted by the solution. (3 marks)
 <!-- id: chem12a3-cu-28 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q959.** State how absorbance depends on the concentration of the analyte and on the path length of the cuvette, for a dilute solution at a fixed wavelength. (2 marks)
 <!-- id: chem12a3-cu-29 -->
+*Info: Recall · about 2 marks · about 2.5 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q960.** Describe how a calibration curve is used to determine the concentration of Cu²⁺ in a water sample by colorimetry. (3 marks)
 <!-- id: chem12a3-cu-30 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q961.** A calibration curve gives an absorbance of 0.080 per mg/L of copper(II). A sample diluted by a factor of 10 has an absorbance of 0.36. Find the copper concentration in the original sample.
 <!-- id: vce-chem12-uv-c1 -->
 *Challenge question*
+*Info: Calculation · about 2 marks · about 2.5 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs; harder than most exam questions*
 
 *Written answer*
 
 #### Greenhouse gases and ocean acidification
 
+*Exam relevance: Medium (core content for school assessments) · Prerequisites: pH and strong vs weak acids*
+
 **Q962.** Which of the following gases in the atmosphere is NOT a greenhouse gas?
 <!-- id: chem12a3-go-1 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. Methane, CH₄
 - B. Water vapour, H₂O
@@ -6829,6 +7853,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q963.** Greenhouse gases warm the lower atmosphere mainly because they:
 <!-- id: chem12a3-go-2 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. absorb incoming ultraviolet radiation from the Sun
 - B. absorb infrared radiation emitted from Earth's surface and re-emit some of it back towards the surface
@@ -6837,6 +7862,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q964.** As atmospheric CO₂ rises, more CO₂ dissolves in the oceans. What happens to the concentration of carbonate ions, CO₃²⁻, in seawater?
 <!-- id: chem12a3-go-3 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. It increases, because CO₂ forms carbonic acid which ionises to carbonate
 - B. It is unchanged, because the ocean is buffered
@@ -6845,6 +7871,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q965.** Which organisms are most directly threatened by ocean acidification?
 <!-- id: chem12a3-go-4 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. Organisms that build calcium carbonate shells or skeletons, such as corals and molluscs
 - B. Large fish that breathe through gills
@@ -6853,6 +7880,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q966.** The average surface ocean pH has fallen from about 8.2 to 8.1 since pre-industrial times. By approximately what percentage has [H₃O⁺] increased?
 <!-- id: chem12a3-go-5 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. 1 %
 - B. 10 %
@@ -6861,21 +7889,25 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q967.** Write a series of equations, with states, to show how carbon dioxide from the atmosphere lowers the pH of seawater. (3 marks)
 <!-- id: chem12a3-go-6 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q968.** Explain how ocean acidification affects the ability of marine organisms to build and keep calcium carbonate shells. Include at least one equation. (3 marks)
 <!-- id: chem12a3-go-7 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q969.** Distinguish between the natural greenhouse effect and the enhanced greenhouse effect, and explain why methane is a significant contributor despite its much lower atmospheric concentration than CO₂. (3 marks)
 <!-- id: chem12a3-go-8 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q970.** Without the natural greenhouse effect, Earth's average surface temperature would be closest to:
 <!-- id: chem12a3-go-9 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. −18 °C
 - B. 0 °C
@@ -6884,6 +7916,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q971.** The main reason atmospheric CO₂ concentration has risen since the Industrial Revolution is:
 <!-- id: chem12a3-go-10 -->
+*Info: Application · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. increased volcanic eruptions
 - B. a decrease in the Sun's output
@@ -6892,6 +7925,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q972.** Methane burns according to CH₄(g) + 2O₂(g) → CO₂(g) + 2H₂O(l). What mass of CO₂ is produced by the complete combustion of 16.0 g of methane? (M(CH₄) = 16.0 g mol⁻¹, M(CO₂) = 44.0 g mol⁻¹)
 <!-- id: chem12a3-go-11 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. 16.0 g
 - B. 22.0 g
@@ -6900,6 +7934,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q973.** Octane burns completely: 2C₈H₁₈(l) + 25O₂(g) → 16CO₂(g) + 18H₂O(l). What mass of CO₂ forms from 57.0 g of octane? (M(C₈H₁₈) = 114.0 g mol⁻¹, M(CO₂) = 44.0 g mol⁻¹)
 <!-- id: chem12a3-go-12 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. 176 g
 - B. 88.0 g
@@ -6908,6 +7943,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q974.** The surface ocean has a pH of 8.1. What is [H₃O⁺] in this seawater?
 <!-- id: chem12a3-go-13 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. 8.1 × 10⁻¹⁴ M
 - B. 7.9 × 10⁻⁹ M
@@ -6916,6 +7952,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q975.** Scientists describe the ocean as undergoing 'acidification' even though its pH is about 8.1. This is because:
 <!-- id: chem12a3-go-14 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. the ocean's pH is below 7 and it is already acidic
 - B. pH is falling, so seawater is becoming less basic (moving towards neutral)
@@ -6924,6 +7961,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q976.** An increase in atmospheric CO₂ partial pressure shifts the equilibrium CO₂(g) ⇌ CO₂(aq) so that:
 <!-- id: chem12a3-go-15 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. more CO₂ dissolves in seawater, because the system partly opposes the increase in CO₂(g)
 - B. less CO₂ dissolves in seawater
@@ -6932,6 +7970,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q977.** Compared with cold polar water, warm tropical surface water can hold less dissolved CO₂. This is because the solubility of a gas in water generally:
 <!-- id: chem12a3-go-16 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. increases as temperature rises
 - B. decreases as temperature rises
@@ -6940,6 +7979,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q978.** Which human activity is a major source of nitrous oxide, N₂O?
 <!-- id: chem12a3-go-17 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. Rice paddies and livestock digestion
 - B. Burning of coal for electricity
@@ -6948,6 +7988,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q979.** As CO₂ dissolves in seawater, the concentration of hydrogencarbonate ions, HCO₃⁻:
 <!-- id: chem12a3-go-18 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. decreases, because it is converted to CO₃²⁻
 - B. stays constant
@@ -6956,6 +7997,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q980.** What volume does 22.0 g of CO₂ occupy at SLC (25 °C and 100 kPa, molar volume 24.8 L mol⁻¹)? (M(CO₂) = 44.0 g mol⁻¹)
 <!-- id: chem12a3-go-19 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. 12.4 L
 - B. 24.8 L
@@ -6964,6 +8006,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q981.** Earth's surface radiates mainly infrared rather than visible light because:
 <!-- id: chem12a3-go-20 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. greenhouse gases convert visible light to infrared
 - B. infrared is the only radiation that reaches Earth
@@ -6972,6 +8015,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q982.** The global warming potential (GWP) of methane over 100 years is about 28. How many tonnes of CO₂-equivalent are represented by 2.0 tonnes of methane released?
 <!-- id: chem12a3-go-21 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. 0.071 t
 - B. 14 t
@@ -6980,21 +8024,25 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q983.** The pH of surface seawater is predicted to fall from 8.2 to 7.9. By what factor does [H₃O⁺] change? (3 marks)
 <!-- id: chem12a3-go-22 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q984.** Identify one human activity that releases each of the following greenhouse gases: CO₂, CH₄ and N₂O. (3 marks)
 <!-- id: chem12a3-go-23 -->
+*Info: Recall · about 3 marks · about 4 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q985.** Propane burns completely in air. Calculate the volume of CO₂ produced at SLC (molar volume 24.8 L mol⁻¹) when 5.00 g of propane, C₃H₈, is burned. (M(C₃H₈) = 44.0 g mol⁻¹) (4 marks)
 <!-- id: chem12a3-go-24 -->
+*Info: Calculation · about 4 marks · about 5 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q986.** Ethanol burns completely: C₂H₅OH(l) + 3O₂(g) → 2CO₂(g) + 3H₂O(l). What mass of CO₂ forms when 23.0 g of ethanol is burned? (M(C₂H₅OH) = 46.0 g mol⁻¹, M(CO₂) = 44.0 g mol⁻¹)
 <!-- id: chem12a3-go-25 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. 22.0 g
 - B. 66.0 g
@@ -7003,6 +8051,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q987.** The pH of surface seawater falls by 0.2 units. By what factor does [H₃O⁺] change?
 <!-- id: chem12a3-go-26 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. It increases by a factor of about 0.2
 - B. It increases by a factor of about 1.6
@@ -7011,6 +8060,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q988.** Shells of marine organisms are mainly CaCO₃(s), which is in equilibrium with its ions: CaCO₃(s) ⇌ Ca²⁺(aq) + CO₃²⁻(aq). Why does ocean acidification tend to dissolve shells?
 <!-- id: chem12a3-go-27 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
 - A. Extra H₃O⁺ reacts with Ca²⁺, which lowers the solubility product
 - B. Extra H₃O⁺ makes the water warmer, so more CaCO₃ dissolves
@@ -7019,22 +8069,26 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q989.** Using Le Chatelier's principle, explain why the ability of the oceans to absorb CO₂ decreases as sea temperature rises, and state the consequence for atmospheric CO₂. (3 marks)
 <!-- id: chem12a3-go-28 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q990.** A farm releases 150 t of methane and 4.0 t of nitrous oxide in a year. The 100-year global warming potentials are 28 for CH₄ and 265 for N₂O. Calculate the total emissions in tonnes of CO₂-equivalent. (3 marks)
 <!-- id: chem12a3-go-29 -->
+*Info: Calculation · about 3 marks · about 4 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q991.** A furnace burns 1.00 × 10³ kg of pure carbon completely to carbon dioxide. Calculate the mass of CO₂ produced and its volume at SLC (molar volume 24.8 L mol⁻¹). (M(C) = 12.0 g mol⁻¹, M(CO₂) = 44.0 g mol⁻¹) (4 marks)
 <!-- id: chem12a3-go-30 -->
+*Info: Calculation · about 4 marks · about 5 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
 *Written answer*
 
 **Q992.** How does increased atmospheric CO₂ make it harder for shellfish to build calcium carbonate shells?
 <!-- id: vce-chem12-gg-c1 -->
 *Challenge question*
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams; harder than most exam questions*
 
 - A. CO₂ dissolves to form carbonic acid; the extra H⁺ reacts with carbonate ions, lowering [CO₃²⁻]
 - B. CO₂ reacts directly with calcium ions in seawater, so less calcium is left for building shells
@@ -7048,6 +8102,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 **Q993.** Copper is 69.2% ⁶³Cu and 30.8% ⁶⁵Cu. Its relative atomic mass is closest to:
 <!-- id: vce-chem12-challenge-1 -->
 *Challenge question*
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams; harder than most exam questions · Topic: Relative masses and mass spectrometry*
 
 - A. 64.0
 - B. 64.4
@@ -7057,12 +8112,14 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 **Q994.** 2.4 g of magnesium burns to form 4.0 g of magnesium oxide. Find the empirical formula of the oxide.
 <!-- id: vce-chem12-challenge-2 -->
 *Challenge question*
+*Info: Calculation · about 2 marks · about 2.5 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs; harder than most exam questions · Topic: Percentage composition and empirical formulas*
 
 *Written answer*
 
 **Q995.** CO₂ and H₂O both contain polar bonds. Which statement is correct?
 <!-- id: vce-chem12-challenge-3 -->
 *Challenge question*
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams; harder than most exam questions · Topic: Electronegativity and polarity*
 
 - A. Both are polar, because both contain polar bonds to oxygen
 - B. Both are non-polar, because both are symmetrical molecules
@@ -7072,18 +8129,21 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 **Q996.** 0.010 mol of AgNO₃ is mixed with 0.015 mol of NaCl in solution. What mass of AgCl (M = 143.4 g/mol) forms?
 <!-- id: vce-chem12-challenge-4 -->
 *Challenge question*
+*Info: Conceptual · about 1 mark · about 1.5 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs; harder than most exam questions · Topic: Stoichiometry and limiting reactants*
 
 *Written answer*
 
 **Q997.** 50.0 mL of 0.100 M HCl is mixed with 50.0 mL of 0.0800 M NaOH. Find the pH of the mixture.
 <!-- id: vce-chem12-challenge-5 -->
 *Challenge question*
+*Info: Calculation · about 2 marks · about 2.5 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs; harder than most exam questions · Topic: pH and strong vs weak acids*
 
 *Written answer*
 
 **Q998.** Using PV = nRT, the volume of 1.00 mol of an ideal gas at 0 °C and 100 kPa is about:
 <!-- id: vce-chem12-challenge-6 -->
 *Challenge question*
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams; harder than most exam questions · Topic: Gas laws and molar volume*
 
 - A. 24.8 L
 - B. 2.27 L
@@ -7093,6 +8153,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 **Q999.** In the reaction Cl₂(aq) + 2Br⁻(aq) → 2Cl⁻(aq) + Br₂(aq), the reductant is:
 <!-- id: vce-chem12-challenge-7 -->
 *Challenge question*
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams; harder than most exam questions · Topic: Redox reactions and half-equations*
 
 - A. Cl₂
 - B. Br⁻
@@ -7102,6 +8163,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 **Q1000.** A colourless solution gives a white precipitate with Ba²⁺(aq) but no precipitate with Ag⁺(aq). It most likely contains:
 <!-- id: vce-chem12-challenge-8 -->
 *Challenge question*
+*Info: Application · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams; harder than most exam questions · Topic: Solubility and precipitation reactions*
 
 - A. Chloride ions
 - B. Nitrate ions
@@ -7111,6 +8173,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 **Q1001.** The average pH of surface seawater has fallen from about 8.2 to 8.1. The hydronium ion concentration has increased by about:
 <!-- id: vce-chem12-challenge-9 -->
 *Challenge question*
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams; harder than most exam questions · Topic: Greenhouse gases and ocean acidification*
 
 - A. 1%
 - B. 10%
@@ -7120,6 +8183,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 **Q1002.** Explain why butan-1-ol (M = 74) boils at a much higher temperature than pentane (M = 72).
 <!-- id: vce-chem12-challenge-10 -->
 *Challenge question*
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs; harder than most exam questions · Topic: Intermolecular forces*
 
 *Written answer*
 
@@ -7127,6 +8191,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q1003.** Magnesium: atoms, bonds and reactions
 <!-- id: vce-chem12-x1 -->
+*Info: Conceptual, Calculation, Recall · 10 marks · about 13 min · Exam relevance: Medium (core content for school assessments); extended response, as in school exams and SACs · Topics: Electron configuration and subshells, Ionic bonding and ionic compounds, Stoichiometry and limiting reactants, Reactivity series and metal displacement, Redox reactions and half-equations, Gas laws and molar volume*
 *Multi-part question · 10 marks · Original question in the style of a Units 1 & 2 end-of-semester exam*
 
 Magnesium, Mg, has atomic number 12. Use M(Mg) = 24.3 g mol⁻¹ and M(O) = 16.0 g mol⁻¹.
@@ -7147,6 +8212,7 @@ Another 4.86 g sample of magnesium is added to excess dilute hydrochloric acid. 
 
 **Q1004.** Water, acids and a titration
 <!-- id: vce-chem12-x2 -->
+*Info: Calculation, Conceptual · 10 marks · about 13 min · Exam relevance: High (core content that Units 3 & 4 build on); extended response, as in school exams and SACs · Topics: Properties of water and hydrogen bonding, pH and strong vs weak acids, Concentration units and dilution, Brønsted-Lowry acids and bases, Volumetric analysis and titration*
 *Multi-part question · 10 marks · Original question in the style of a Units 1 & 2 end-of-semester exam*
 
 A student is investigating the chemistry of water samples.
@@ -7167,6 +8233,7 @@ To find the concentration of a sodium hydroxide solution, the student titrated 2
 
 **Q1005.** Hydrocarbons and plastics
 <!-- id: vce-chem12-x3 -->
+*Info: Conceptual, Recall, Calculation · 10 marks · about 13 min · Exam relevance: Medium (core content for school assessments); extended response, as in school exams and SACs · Topics: Hydrocarbons and IUPAC naming, Addition polymers, Thermoplastics, thermosets and the circular economy, Percentage composition and empirical formulas*
 *Multi-part question · 10 marks · Original question in the style of a Units 1 & 2 end-of-semester exam*
 
 Ethene, C₂H₄, is the starting material for polyethene, one of the most widely used plastics.
@@ -7187,6 +8254,7 @@ A hydrocarbon contains 85.7% carbon and 14.3% hydrogen by mass. Use M(C) = 12.0 
 
 **Q1006.** Sulfate in fertiliser and a displacement reaction
 <!-- id: vce-chem12-x4 -->
+*Info: Conceptual, Calculation · 10 marks · about 13 min · Exam relevance: Medium (core content for school assessments); extended response, as in school exams and SACs · Topics: Solubility and precipitation reactions, Gravimetric analysis, Reactivity series and metal displacement, Stoichiometry and limiting reactants*
 *Multi-part question · 10 marks · Original question in the style of a Units 1 & 2 end-of-semester exam*
 
 To find the sulfate content of a fertiliser, a student dissolved 2.50 g of it in water and added excess barium chloride solution. The barium sulfate precipitate was filtered, washed and dried; its mass was 1.86 g. Use M(BaSO₄) = 233.4 g mol⁻¹ and M(SO₄²⁻) = 96.1 g mol⁻¹.
@@ -7208,6 +8276,7 @@ A strip of zinc is placed in blue copper(II) sulfate solution. Use M(Zn) = 65.4 
 **Q1007.** Challenge: testing a river sample
 <!-- id: vce-chem12-cx1 -->
 *Challenge question*
+*Info: Calculation, Conceptual, Application · 10 marks · about 13 min · Exam relevance: Medium (core content for school assessments); extended response, as in school exams and SACs; harder than most exam questions · Topics: Solubility and precipitation reactions, Gravimetric analysis, Volumetric analysis and titration, pH and strong vs weak acids*
 *Multi-part question · 10 marks · Original challenge question in the style of a Units 1 & 2 end-of-semester exam*
 
 A student analyses water from a river near an old mine. Excess silver nitrate solution is added to a 100.0 mL sample, and 0.574 g of dry silver chloride (M = 143.4 g/mol) is collected.
@@ -7227,6 +8296,7 @@ The water is also acidic. A 25.00 mL sample needs 12.50 mL of 0.0100 M NaOH to n
 **Q1008.** Challenge: a barbecue's carbon footprint
 <!-- id: vce-chem12-cx2 -->
 *Challenge question*
+*Info: Conceptual, Calculation · 10 marks · about 13 min · Exam relevance: High (core content that Units 3 & 4 build on); extended response, as in school exams and SACs; harder than most exam questions · Topics: Stoichiometry and limiting reactants, The mole and molar mass, Gas laws and molar volume, Greenhouse gases and ocean acidification, Intermolecular forces*
 *Multi-part question · 10 marks · Original challenge question in the style of a Units 1 & 2 end-of-semester exam*
 
 A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2.20 kg of propane.
@@ -7249,8 +8319,11 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 #### Fossil fuels and biofuels
 
+*Exam relevance: Medium (comes up regularly in exams) · Prerequisites: Hydrocarbons and IUPAC naming (Chemistry, Units 1 & 2)*
+
 **Q1009.** Which of the following fuels is renewable?
 <!-- id: chem-1-1-1 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. Biogas produced by anaerobic digestion of food waste
 - B. Natural gas from Bass Strait
@@ -7259,6 +8332,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1010.** Which equation correctly represents the fermentation of glucose by yeast?
 <!-- id: chem-1-1-2 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. C₆H₁₂O₆(aq) + 6O₂(g) → 6CO₂(g) + 6H₂O(l)
 - B. C₆H₁₂O₆(aq) → 2C₂H₅OH(aq) + 2CO₂(g)
@@ -7267,6 +8341,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1011.** Biodiesel is produced industrially by
 <!-- id: chem-1-1-3 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. fermenting glucose with yeast under anaerobic conditions
 - B. fractional distillation of crude oil
@@ -7275,11 +8350,13 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1012.** Explain why bioethanol produced from sugar cane is not completely carbon neutral in practice.
 <!-- id: chem-1-1-4 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1013.** Which by-product is formed alongside biodiesel during transesterification of a triglyceride?
 <!-- id: chem-1-1-5 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. Ethanol
 - B. Carbon dioxide
@@ -7288,6 +8365,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1014.** The main combustible component of biogas is
 <!-- id: chem-1-1-6 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. methane
 - B. hydrogen
@@ -7296,6 +8374,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1015.** Biodiesel is more viscous than petrodiesel mainly because biodiesel molecules
 <!-- id: chem-1-1-7 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. form hydrogen bonds with each other through O–H groups
 - B. are generally larger and contain polar ester groups, giving stronger intermolecular forces
@@ -7304,11 +8383,13 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1016.** Name the two products formed when a triglyceride reacts with methanol in the presence of KOH, and state which one is used as the fuel.
 <!-- id: chem-1-1-8 -->
+*Info: Recall · about 2 marks · about 2.5 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1017.** Biodiesel absorbs water from the atmosphere more readily than petrodiesel because
 <!-- id: chem-1-1-9 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. it contains O–H groups that hydrogen bond with each other
 - B. its molecules are non-polar alkanes
@@ -7317,6 +8398,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1018.** Bioethanol is sometimes described as 'carbon neutral' because
 <!-- id: chem-1-1-10 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. burning ethanol produces no carbon dioxide
 - B. ethanol contains no carbon atoms
@@ -7325,6 +8407,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1019.** Which statement about coal is correct?
 <!-- id: chem-1-1-11 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. It formed from plant material compressed and heated over millions of years
 - B. It is a renewable fuel because plants are still growing
@@ -7333,11 +8416,13 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1020.** Explain why biodiesel is more hygroscopic than petrodiesel.
 <!-- id: chem-1-1-12 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1021.** Which of the following is a fossil fuel?
 <!-- id: chem-1-1-13 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. Bioethanol
 - B. Liquefied petroleum gas (LPG)
@@ -7346,6 +8431,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1022.** A Victorian company wants to produce bioethanol without competing with food production. Which feedstock is most suitable?
 <!-- id: chem-1-1-14 -->
+*Info: Evaluation · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. Wheat grain
 - B. Sugar cane juice
@@ -7354,6 +8440,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1023.** Compared with petrodiesel, biodiesel typically has
 <!-- id: chem-1-1-15 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. a higher energy content per gram
 - B. no oxygen atoms in its molecules
@@ -7362,11 +8449,13 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1024.** Give one advantage and one disadvantage of using E10 (10% ethanol) instead of regular unleaded petrol.
 <!-- id: chem-1-1-16 -->
+*Info: Recall · about 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1025.** The best reason crude-oil-derived fuels are classified as non-renewable is that
 <!-- id: chem-1-1-17 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. they form over millions of years, far more slowly than they are consumed
 - B. they release carbon dioxide when burnt
@@ -7375,6 +8464,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1026.** Which set of conditions is used to produce ethanol by fermentation?
 <!-- id: chem-1-1-18 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. Yeast, plentiful oxygen, 100 °C
 - B. Yeast, anaerobic conditions, about 30–40 °C
@@ -7383,6 +8473,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1027.** Ethanol is separated from the fermentation mixture by
 <!-- id: chem-1-1-19 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. filtration
 - B. transesterification
@@ -7391,11 +8482,13 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1028.** Distinguish between a renewable and a non-renewable fuel, using one Australian example of each.
 <!-- id: chem-1-1-20 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1029.** Which statement about biogas is correct?
 <!-- id: chem-1-1-21 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. It is produced by aerobic decomposition of waste
 - B. It consists mainly of hydrogen gas
@@ -7404,6 +8497,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1030.** In complete transesterification, one triglyceride molecule reacts with how many methanol molecules?
 <!-- id: chem-1-1-22 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. 3
 - B. 1
@@ -7412,6 +8506,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1031.** Petrodiesel is composed mainly of
 <!-- id: chem-1-1-23 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. fatty acid methyl esters
 - B. hydrocarbons such as long-chain alkanes
@@ -7420,16 +8515,19 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1032.** A dairy farm in northern Victoria captures gas from its manure ponds to run a generator. Explain why this gas is classified as a renewable fuel.
 <!-- id: chem-1-1-24 -->
+*Info: Application · about 2 marks · about 2.5 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1033.** Explain, in terms of intermolecular forces, why ethanol mixes completely with water but octane does not.
 <!-- id: chem-1-1-25 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1034.** Which statement best explains why bioethanol is classified as a renewable fuel while petrol is not?
 <!-- id: chem34a1-ffb-1 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. Bioethanol releases no carbon dioxide when it burns.
 - B. Bioethanol has a higher energy content per gram than petrol.
@@ -7438,6 +8536,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1035.** Biodiesel is produced from vegetable oils by a reaction with methanol in the presence of a catalyst such as KOH. This reaction is called
 <!-- id: chem34a1-ffb-2 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. fermentation.
 - B. transesterification.
@@ -7446,6 +8545,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1036.** A dairy farm in Gippsland collects cow manure in a sealed tank where bacteria break it down without oxygen. The main combustible product is
 <!-- id: chem34a1-ffb-3 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. methane.
 - B. ethanol.
@@ -7454,6 +8554,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1037.** Compared with petrodiesel of similar chain length, biodiesel tends to be more viscous and to gel at higher temperatures. The best explanation is that biodiesel molecules
 <!-- id: chem34a1-ffb-4 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. are non-polar and form only weak dispersion forces.
 - B. contain ester groups that add dipole–dipole attractions between molecules.
@@ -7462,6 +8563,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1038.** Which of the following is a disadvantage of bioethanol compared with petrol as a transport fuel?
 <!-- id: chem34a1-ffb-5 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. Bioethanol produces more soot when it burns.
 - B. Bioethanol cannot be blended with petrol.
@@ -7470,22 +8572,26 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1039.** Write a balanced equation, including states, for the production of ethanol by the fermentation of glucose, and name the organism that catalyses it. (2 marks)
 <!-- id: chem34a1-ffb-6 -->
+*Info: Recall · about 2 marks · about 2.5 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1040.** Some people describe biofuels as 'carbon neutral'. Explain the reasoning behind this claim and give one reason why it is not entirely accurate. (3 marks)
 <!-- id: chem34a1-ffb-7 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1041.** Coal, crude oil and natural gas are fossil fuels. Describe how they formed and explain why this makes them non-renewable. (2 marks)
 <!-- id: chem34a1-ffb-8 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1042.** Biodiesel is often described as carbon neutral. The best reason this is not strictly true is that:
 <!-- id: chem-1-1-c1 -->
 *Challenge question*
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A; harder than most exam questions*
 
 - A. Burning biodiesel releases more CO₂ than the crop absorbed from the air while it was growing
 - B. Biodiesel releases carbon that was absorbed millions of years ago, just as fossil fuels do
@@ -7494,8 +8600,11 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 #### Combustion and thermochemical equations
 
+*Exam relevance: High (comes up in most exams) · Prerequisites: Stoichiometry and limiting reactants (Chemistry, Units 1 & 2); Balancing equations*
+
 **Q1043.** Which equation represents the complete combustion of methane?
 <!-- id: chem-1-2-1 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. CH₄(g) + 2O₂(g) → CO₂(g) + 2H₂O(l)
 - B. CH₄(g) + O₂(g) → CO₂(g) + 2H₂(g)
@@ -7504,6 +8613,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1044.** In the balanced equation for the complete combustion of octane, 2C₈H₁₈ + xO₂ → 16CO₂ + 18H₂O, the value of x is
 <!-- id: chem-1-2-2 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. 12.5
 - B. 25
@@ -7512,6 +8622,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1045.** Incomplete combustion of a hydrocarbon fuel in a poorly ventilated room is most likely to produce
 <!-- id: chem-1-2-3 -->
+*Info: Application · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. carbon dioxide and hydrogen gas
 - B. only carbon dioxide and water
@@ -7520,11 +8631,13 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1046.** Write a balanced thermochemical equation, including states at SLC, for the complete combustion of ethanol. The molar heat of combustion of ethanol is 1364 kJ mol⁻¹.
 <!-- id: chem-1-2-4 -->
+*Info: Conceptual · about 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1047.** Carbon monoxide from a faulty gas heater is dangerous mainly because it
 <!-- id: chem-1-2-5 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. is a strong acid that burns the lungs
 - B. is a potent greenhouse gas that warms the room
@@ -7533,6 +8646,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1048.** Given CH₄(g) + 2O₂(g) → CO₂(g) + 2H₂O(l), ΔH = −890 kJ mol⁻¹, what is ΔH for 2CH₄(g) + 4O₂(g) → 2CO₂(g) + 4H₂O(l)?
 <!-- id: chem-1-2-6 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. −1780 kJ mol⁻¹
 - B. −890 kJ mol⁻¹
@@ -7541,6 +8655,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1049.** Given CH₄(g) + 2O₂(g) → CO₂(g) + 2H₂O(l), ΔH = −890 kJ mol⁻¹, what is ΔH for CO₂(g) + 2H₂O(l) → CH₄(g) + 2O₂(g)?
 <!-- id: chem-1-2-7 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. −890 kJ mol⁻¹
 - B. +890 kJ mol⁻¹
@@ -7549,11 +8664,13 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1050.** The molar heat of combustion of hydrogen is 286 kJ mol⁻¹. Write the thermochemical equation for the combustion of 2 mol of hydrogen gas at SLC.
 <!-- id: chem-1-2-8 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1051.** For an exothermic reaction, which statement is correct?
 <!-- id: chem-1-2-9 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. The products have higher enthalpy than the reactants and ΔH is positive
 - B. The products have lower enthalpy than the reactants and ΔH is positive
@@ -7562,6 +8679,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1052.** Which of the following processes is endothermic?
 <!-- id: chem-1-2-10 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. Combustion of ethanol
 - B. Cellular respiration
@@ -7570,6 +8688,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1053.** The molar heat of combustion of butane is 2876 kJ mol⁻¹. Which thermochemical equation is correct?
 <!-- id: chem-1-2-11 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. 2C₄H₁₀(g) + 13O₂(g) → 8CO₂(g) + 10H₂O(l)   ΔH = −5752 kJ mol⁻¹
 - B. 2C₄H₁₀(g) + 13O₂(g) → 8CO₂(g) + 10H₂O(l)   ΔH = −2876 kJ mol⁻¹
@@ -7578,11 +8697,13 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1054.** Explain why ΔH for an exothermic reaction is given a negative sign.
 <!-- id: chem-1-2-12 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1055.** For an exothermic reaction, the activation energy of the reverse reaction is
 <!-- id: chem-1-2-13 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. less than the activation energy of the forward reaction
 - B. greater than the activation energy of the forward reaction
@@ -7591,6 +8712,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1056.** A reaction has a forward activation energy of 120 kJ mol⁻¹ and ΔH = −80 kJ mol⁻¹. The activation energy of the reverse reaction is
 <!-- id: chem-1-2-14 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. 40 kJ mol⁻¹
 - B. 80 kJ mol⁻¹
@@ -7599,6 +8721,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1057.** A reaction has a forward activation energy of 50 kJ mol⁻¹ and ΔH = +30 kJ mol⁻¹. The activation energy of the reverse reaction is
 <!-- id: chem-1-2-15 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. 80 kJ mol⁻¹
 - B. 30 kJ mol⁻¹
@@ -7607,11 +8730,13 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1058.** Given C₃H₈(g) + 5O₂(g) → 3CO₂(g) + 4H₂O(l), ΔH = −2220 kJ mol⁻¹, determine ΔH for 6CO₂(g) + 8H₂O(l) → 2C₃H₈(g) + 10O₂(g).
 <!-- id: chem-1-2-16 -->
+*Info: Calculation · about 2 marks · about 2.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1059.** The enthalpy change for the combustion of methane is more negative when the water product is liquid rather than gaseous because
 <!-- id: chem-1-2-17 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. condensing water vapour to liquid releases additional energy
 - B. liquid water has more enthalpy than water vapour
@@ -7620,6 +8745,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1060.** Which statement best describes the energy changes during the combustion of a fuel?
 <!-- id: chem-1-2-18 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. The energy absorbed breaking bonds is greater than the energy released forming bonds
 - B. The energy absorbed breaking bonds in the reactants is less than the energy released forming bonds in the products
@@ -7628,6 +8754,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1061.** Propane burns according to C₃H₈(g) + 5O₂(g) → 3CO₂(g) + 4H₂O(l). How many moles of oxygen are needed to completely burn 2.0 mol of propane?
 <!-- id: chem-1-2-19 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. 5.0 mol
 - B. 2.5 mol
@@ -7636,11 +8763,13 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1062.** A gas heater in a Ballarat house is operating with a blocked air vent. Explain what type of combustion is likely to occur and name the possible products.
 <!-- id: chem-1-2-20 -->
+*Info: Application · about 2 marks · about 2.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1063.** What mass of carbon dioxide is produced by the complete combustion of 1.00 mol of propane, C₃H₈?
 <!-- id: chem-1-2-21 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. 44.0 g
 - B. 88.0 g
@@ -7649,6 +8778,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1064.** What volume of CO₂, measured at SLC (25 °C, 100 kPa, molar volume 24.8 L mol⁻¹), is produced by the complete combustion of 0.500 mol of butane, C₄H₁₀?
 <!-- id: chem-1-2-22 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. 49.6 L
 - B. 12.4 L
@@ -7657,6 +8787,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1065.** Which balanced equation represents the incomplete combustion of methane to form carbon monoxide?
 <!-- id: chem-1-2-23 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. CH₄(g) + O₂(g) → CO(g) + 2H₂O(l)
 - B. 2CH₄(g) + 3O₂(g) → 2CO(g) + 4H₂O(l)
@@ -7665,16 +8796,19 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1066.** Given CH₄(g) + 2O₂(g) → CO₂(g) + 2H₂O(l), ΔH = −890 kJ mol⁻¹ and H₂O(l) → H₂O(g), ΔH = +44 kJ mol⁻¹, calculate ΔH for the combustion of methane when water is produced as a gas.
 <!-- id: chem-1-2-24 -->
+*Info: Calculation · about 2 marks · about 2.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1067.** Balance the equation for the complete combustion of pentane, C₅H₁₂, and state the mole ratio of CO₂ produced to pentane consumed.
 <!-- id: chem-1-2-25 -->
+*Info: Recall · about 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1068.** Which equation correctly represents the complete combustion of propane at SLC?
 <!-- id: chem34a1-cte-1 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. C₃H₈(g) + 5O₂(g) → 3CO₂(g) + 4H₂O(l)  ΔH = −2220 kJ mol⁻¹
 - B. C₃H₈(g) + 5O₂(g) → 3CO₂(g) + 4H₂O(g)  ΔH = +2220 kJ mol⁻¹
@@ -7683,6 +8817,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1069.** For the reaction 2C₈H₁₈(l) + 25O₂(g) → 16CO₂(g) + 18H₂O(l) ΔH = −10 928 kJ mol⁻¹, the enthalpy change when 1.00 mol of octane burns completely is
 <!-- id: chem34a1-cte-2 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. −10 928 kJ
 - B. −21 856 kJ
@@ -7691,6 +8826,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1070.** A gas heater in a poorly ventilated room burns methane with a limited supply of oxygen. Compared with complete combustion, incomplete combustion
 <!-- id: chem34a1-cte-3 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. releases more energy per mole of methane and produces only CO₂.
 - B. releases less energy per mole of methane and can produce carbon monoxide and soot.
@@ -7699,6 +8835,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1071.** Given H₂(g) + ½O₂(g) → H₂O(l) ΔH = −286 kJ mol⁻¹, what is ΔH for 2H₂O(l) → 2H₂(g) + O₂(g)?
 <!-- id: chem34a1-cte-4 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. −572 kJ mol⁻¹
 - B. −286 kJ mol⁻¹
@@ -7707,6 +8844,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1072.** Which balanced equation correctly shows the incomplete combustion of ethanol producing carbon monoxide?
 <!-- id: chem34a1-cte-5 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. C₂H₅OH(l) + 2O₂(g) → 2CO(g) + 3H₂O(l)
 - B. C₂H₅OH(l) + 3O₂(g) → 2CO(g) + 3H₂O(l)
@@ -7715,22 +8853,26 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1073.** Write a balanced thermochemical equation, including states, for the complete combustion of butane at SLC. ΔcH(butane) = −2874 kJ mol⁻¹. (2 marks)
 <!-- id: chem34a1-cte-6 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1074.** Methanol (CH₃OH) burns with ΔcH = −726 kJ mol⁻¹. Calculate the energy released when 80.0 g of methanol burns completely. (2 marks)
 <!-- id: chem34a1-cte-7 -->
+*Info: Calculation · about 2 marks · about 2.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1075.** Explain why the heat of combustion values in the VCAA data book are quoted with water in the liquid state, and predict how the magnitude of ΔH would change if the water product were gaseous. (2 marks)
 <!-- id: chem34a1-cte-8 -->
+*Info: Application · about 2 marks · about 2.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1076.** Octane burns in a limited supply of oxygen to form carbon monoxide and water only. In the balanced equation with the smallest whole-number coefficients, the coefficient of O₂ is:
 <!-- id: chem-1-2-c1 -->
 *Challenge question*
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A; harder than most exam questions*
 
 - A. 25
 - B. 8.5
@@ -7739,8 +8881,11 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 #### Enthalpy and fuel energy calculations
 
+*Exam relevance: High (comes up in most exams) · Prerequisites: Combustion and thermochemical equations; The mole and molar mass (Chemistry, Units 1 & 2); Gas laws and molar volume (Chemistry, Units 1 & 2)*
+
 **Q1077.** Methane has ΔcH = −890 kJ mol⁻¹ (M = 16.0 g mol⁻¹). How much energy is released by the complete combustion of 32.0 g of methane?
 <!-- id: chem-1-3-1 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. 1780 kJ
 - B. 890 kJ
@@ -7749,6 +8894,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1078.** Ethanol has a molar heat of combustion of 1364 kJ mol⁻¹ and M = 46.0 g mol⁻¹. Its heat of combustion per gram is
 <!-- id: chem-1-3-2 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. 0.0337 kJ g⁻¹
 - B. 29.7 kJ g⁻¹
@@ -7757,6 +8903,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1079.** Octane has ΔcH = −5464 kJ mol⁻¹ (M = 114.0 g mol⁻¹). How much energy is released by burning 1.00 kg of octane?
 <!-- id: chem-1-3-3 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. 5.46 MJ
 - B. 623 MJ
@@ -7765,11 +8912,13 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1080.** Calculate the heat of combustion of propane in kJ g⁻¹, given ΔcH = −2220 kJ mol⁻¹ and M(C₃H₈) = 44.0 g mol⁻¹.
 <!-- id: chem-1-3-4 -->
+*Info: Calculation · about 2 marks · about 2.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1081.** What mass of methane (ΔcH = −890 kJ mol⁻¹, M = 16.0 g mol⁻¹) must be burnt to release 2225 kJ of energy?
 <!-- id: chem-1-3-5 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. 2.50 g
 - B. 6.40 g
@@ -7778,6 +8927,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1082.** What volume of methane at SLC (24.8 L mol⁻¹) must be burnt to release 445 kJ of energy? ΔcH(CH₄) = −890 kJ mol⁻¹.
 <!-- id: chem-1-3-6 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. 12.4 L
 - B. 24.8 L
@@ -7786,6 +8936,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1083.** Propane has ΔcH = −2220 kJ mol⁻¹. How much energy is released when 10.0 L of propane, measured at SLC (24.8 L mol⁻¹), is burnt completely?
 <!-- id: chem-1-3-7 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. 991 kJ
 - B. 895 kJ
@@ -7794,11 +8945,13 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1084.** Calculate the mass of CO₂ released per megajoule of energy produced by burning ethanol (ΔcH = −1364 kJ mol⁻¹).
 <!-- id: chem-1-3-8 -->
+*Info: Calculation · about 2 marks · about 2.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1085.** Given molar heats of combustion: H₂ 286, CH₄ 890, C₂H₅OH 1364 and C₈H₁₈ 5464 kJ mol⁻¹, which fuel releases the most energy per gram?
 <!-- id: chem-1-3-9 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. Methane
 - B. Ethanol
@@ -7807,6 +8960,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1086.** Given molar heats of combustion: CH₄ 890, C₃H₈ 2220, C₂H₅OH 1364 and C₈H₁₈ 5464 kJ mol⁻¹, which fuel releases the most energy per mole of CO₂ produced?
 <!-- id: chem-1-3-10 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. Propane
 - B. Ethanol
@@ -7815,6 +8969,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1087.** How much energy is released by the complete combustion of 5.00 g of ethanol (ΔcH = −1364 kJ mol⁻¹, M = 46.0 g mol⁻¹)?
 <!-- id: chem-1-3-11 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. 148 kJ
 - B. 6.82 × 10³ kJ
@@ -7823,11 +8978,13 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1088.** Calculate the volume of methane, measured at SLC (24.8 L mol⁻¹), that must be burnt to provide 10.0 MJ of energy. ΔcH(CH₄) = −890 kJ mol⁻¹.
 <!-- id: chem-1-3-12 -->
+*Info: Calculation · about 2 marks · about 2.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1089.** Butane (M = 58.0 g mol⁻¹) releases 49.6 kJ of energy per gram on complete combustion. Its molar enthalpy of combustion is
 <!-- id: chem-1-3-13 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. −49.6 kJ mol⁻¹
 - B. −2.88 × 10³ kJ mol⁻¹
@@ -7836,6 +8993,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1090.** A car's 45.0 L petrol tank is filled with fuel modelled as octane (density 0.700 g mL⁻¹, M = 114.0 g mol⁻¹, ΔcH = −5464 kJ mol⁻¹). The energy available from a full tank is closest to
 <!-- id: chem-1-3-14 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. 2.16 × 10⁶ kJ
 - B. 2.46 × 10⁵ kJ
@@ -7844,6 +9002,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1091.** C(s) + O₂(g) → CO₂(g), ΔH = −394 kJ mol⁻¹. How much energy is released by burning 6.0 g of carbon?
 <!-- id: chem-1-3-15 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. 394 kJ
 - B. 2364 kJ
@@ -7852,11 +9011,13 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1092.** A 9.0 kg barbecue gas cylinder contains propane (M = 44.0 g mol⁻¹, ΔcH = −2220 kJ mol⁻¹). Calculate the energy, in MJ, released by complete combustion of all the propane.
 <!-- id: chem-1-3-16 -->
+*Info: Calculation · about 3 marks · about 4 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1093.** Brown coal is modelled as pure carbon (ΔcH = −394 kJ mol⁻¹). How much energy is released by burning 1.00 tonne of this coal?
 <!-- id: chem-1-3-17 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. 3.28 × 10⁷ kJ
 - B. 3.94 × 10⁸ kJ
@@ -7865,6 +9026,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1094.** What mass of CO₂ is released per megajoule of energy obtained from burning methane (ΔcH = −890 kJ mol⁻¹)?
 <!-- id: chem-1-3-18 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. 44.0 g
 - B. 49.4 g
@@ -7873,6 +9035,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1095.** How much energy is released when 0.250 mol of octane (ΔcH = −5464 kJ mol⁻¹) burns completely?
 <!-- id: chem-1-3-19 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. 2.19 × 10⁴ kJ
 - B. 683 kJ
@@ -7881,11 +9044,13 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1096.** What mass of ethanol (ΔcH = −1364 kJ mol⁻¹, M = 46.0) releases the same energy as 1.00 g of octane (ΔcH = −5464 kJ mol⁻¹, M = 114.0)?
 <!-- id: chem-1-3-20 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1097.** For 2C₈H₁₈(l) + 25O₂(g) → 16CO₂(g) + 18H₂O(l), ΔH = −10 928 kJ mol⁻¹. The molar enthalpy of combustion of octane is
 <!-- id: chem-1-3-21 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. −10 928 kJ mol⁻¹
 - B. −437 kJ mol⁻¹
@@ -7894,6 +9059,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1098.** A sample of biogas is 60.0% methane by volume, the rest being CO₂. How much energy is released when 100 L of this biogas at SLC (24.8 L mol⁻¹) burns completely? ΔcH(CH₄) = −890 kJ mol⁻¹.
 <!-- id: chem-1-3-22 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. 2.15 × 10³ kJ
 - B. 3.59 × 10³ kJ
@@ -7902,6 +9068,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1099.** A hydrogen fuel cell bus in Melbourne needs 2.86 × 10⁵ kJ of energy. Assuming ΔcH(H₂) = −286 kJ mol⁻¹ and 100% efficiency, what mass of hydrogen is required?
 <!-- id: chem-1-3-23 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. 1.00 kg
 - B. 2.00 kg
@@ -7910,16 +9077,19 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1100.** Calculate the mass of hydrogen gas that must be burnt to release 1.00 MJ of energy. ΔcH(H₂) = −286 kJ mol⁻¹.
 <!-- id: chem-1-3-24 -->
+*Info: Calculation · about 2 marks · about 2.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1101.** Explain why the energy released per gram (or per kilogram) is often more useful than the energy per mole when comparing fuels for vehicles.
 <!-- id: chem-1-3-25 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1102.** In an energy profile diagram for an exothermic reaction,
 <!-- id: chem34a1-eep-1 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. the products are at a higher enthalpy than the reactants.
 - B. the products are at a lower enthalpy than the reactants and ΔH is negative.
@@ -7928,6 +9098,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1103.** An energy profile shows reactants at 50 kJ mol⁻¹, the transition state at 230 kJ mol⁻¹ and products at 140 kJ mol⁻¹. The activation energy for the forward reaction and ΔH are respectively
 <!-- id: chem34a1-eep-2 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. 180 kJ mol⁻¹ and +90 kJ mol⁻¹
 - B. 90 kJ mol⁻¹ and +180 kJ mol⁻¹
@@ -7936,6 +9107,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1104.** For the reaction in which reactants are at 50 kJ mol⁻¹, the transition state at 230 kJ mol⁻¹ and products at 140 kJ mol⁻¹, the activation energy of the reverse reaction is
 <!-- id: chem34a1-eep-3 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. 180 kJ mol⁻¹
 - B. 230 kJ mol⁻¹
@@ -7944,6 +9116,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1105.** A cold pack contains ammonium nitrate that dissolves in water and the pack becomes cold. Which statement is correct?
 <!-- id: chem34a1-eep-4 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. The process is exothermic because heat leaves the pack.
 - B. The process is exothermic because the products have lower enthalpy.
@@ -7952,6 +9125,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1106.** Breaking chemical bonds in reactants and forming bonds in products are, respectively,
 <!-- id: chem34a1-eep-5 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. exothermic and endothermic.
 - B. endothermic and exothermic.
@@ -7960,21 +9134,25 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1107.** Sketch (describe in words) a labelled energy profile for the complete combustion of methane, ΔH = −890 kJ mol⁻¹, assuming an activation energy of 250 kJ mol⁻¹. State the activation energy of the reverse reaction. (3 marks)
 <!-- id: chem34a1-eep-6 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1108.** Methane burns very exothermically, yet a mixture of methane and air can sit unreacted at room temperature indefinitely. Explain this using the concept of activation energy. (2 marks)
 <!-- id: chem34a1-eep-7 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1109.** Hydrogen and oxygen react: 2H₂(g) + O₂(g) → 2H₂O(g). Bond energies: H–H 436 kJ mol⁻¹, O=O 498 kJ mol⁻¹, O–H 463 kJ mol⁻¹. Estimate ΔH for this reaction. (3 marks)
 <!-- id: chem34a1-eep-8 -->
+*Info: Calculation · about 3 marks · about 4 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1110.** What volume of carbon dioxide at SLC is produced when 10.0 g of propane (M = 44.0 g mol⁻¹) burns completely?
 <!-- id: chem34a1-gse-1 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. 5.64 L
 - B. 16.9 L
@@ -7983,6 +9161,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1111.** How much energy is released when 50.0 L of methane at SLC burns completely? (ΔcH = −890 kJ mol⁻¹)
 <!-- id: chem34a1-gse-2 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. 4.45 × 10⁴ kJ
 - B. 35.9 kJ
@@ -7991,6 +9170,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1112.** A 2.00 L gas cylinder holds hydrogen at 150 kPa and 35 °C. The amount of hydrogen in the cylinder is
 <!-- id: chem34a1-gse-3 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. 0.117 mol
 - B. 1.03 mol
@@ -7999,6 +9179,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1113.** At SLC, what volume of oxygen is needed to completely burn 6.20 L of ethane? 2C₂H₆(g) + 7O₂(g) → 4CO₂(g) + 6H₂O(l)
 <!-- id: chem34a1-gse-4 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. 6.20 L
 - B. 12.4 L
@@ -8007,6 +9188,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1114.** Ethanol releases 29.6 kJ g⁻¹ and octane releases 47.9 kJ g⁻¹. What mass of ethanol releases the same energy as 1.00 kg of octane?
 <!-- id: chem34a1-gse-5 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. 618 g
 - B. 1.00 kg
@@ -8015,29 +9197,36 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1115.** A household barbecue uses 450 g of propane per hour (ΔcH = −2220 kJ mol⁻¹). Calculate (a) the energy released per hour and (b) the volume of CO₂ produced per hour at SLC. (3 marks)
 <!-- id: chem34a1-gse-6 -->
+*Info: Calculation · about 3 marks · about 4 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1116.** A gas sample of methane occupies 5.00 L at 25 °C and 100 kPa. It is burnt in a water heater that is 65.0% efficient at transferring energy to water. Calculate the energy transferred to the water. (ΔcH(CH₄) = −890 kJ mol⁻¹) (3 marks)
 <!-- id: chem34a1-gse-7 -->
+*Info: Calculation · about 3 marks · about 4 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1117.** Hydrogen (ΔcH = −286 kJ mol⁻¹) and methane (ΔcH = −890 kJ mol⁻¹) are compared as fuels. Calculate the energy released per litre of each gas at SLC and comment on one implication for storing hydrogen. (3 marks)
 <!-- id: chem34a1-gse-8 -->
+*Info: Calculation · about 3 marks · about 4 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1118.** Methane has ΔH = −890 kJ/mol. Calculate the energy released when 10.0 L of methane, measured at SLC, burns completely.
 <!-- id: chem-1-3-c1 -->
 *Challenge question*
+*Info: Calculation · about 2 marks · about 2.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B; harder than most exam questions*
 
 *Written answer*
 
 #### Calorimetry and specific heat capacity
 
+*Exam relevance: High (comes up in most exams) · Prerequisites: Enthalpy and fuel energy calculations*
+
 **Q1119.** How much energy is needed to heat 250 g of water from 20.0 °C to 80.0 °C? (c = 4.18 J g⁻¹ °C⁻¹)
 <!-- id: chem-1-4-1 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. 62.7 kJ
 - B. 83.6 kJ
@@ -8046,6 +9235,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1120.** The specific heat capacity of a substance is the energy required to
 <!-- id: chem-1-4-2 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. raise the temperature of 1 mol of the substance by 1 °C
 - B. raise the temperature of 1 g of the substance by 1 °C
@@ -8054,6 +9244,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1121.** Water has an unusually high specific heat capacity mainly because
 <!-- id: chem-1-4-3 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. water molecules are very large
 - B. water contains ionic bonds
@@ -8062,11 +9253,13 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1122.** A calorimeter is calibrated with a heater operating at 5.00 V and 3.00 A for 120 s. The temperature rises by 0.750 °C. Calculate the calibration factor.
 <!-- id: chem-1-4-4 -->
+*Info: Calculation · about 2 marks · about 2.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1123.** A calorimeter is calibrated by passing a current of 2.50 A at 6.00 V for 180 s, and the temperature rises by 1.35 °C. The calibration factor is
 <!-- id: chem-1-4-5 -->
+*Info: Application · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. 3.65 × 10³ J °C⁻¹
 - B. 5.00 × 10⁻⁴ J °C⁻¹
@@ -8075,6 +9268,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1124.** A calorimeter has a calibration factor of 3.50 kJ °C⁻¹. A reaction raises its temperature by 4.20 °C. The energy released by the reaction is
 <!-- id: chem-1-4-6 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. 14.7 kJ
 - B. 0.833 kJ
@@ -8083,6 +9277,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1125.** In a spirit-burner experiment, burning 0.460 g of ethanol (M = 46.0 g mol⁻¹) heats 200 g of water by 12.0 °C. Ignoring heat losses, the experimental molar enthalpy of combustion of ethanol is
 <!-- id: chem-1-4-7 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. −10.0 kJ mol⁻¹
 - B. −1.00 × 10³ kJ mol⁻¹
@@ -8091,11 +9286,13 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1126.** Burning 1.15 g of ethanol (M = 46.0 g mol⁻¹) in a calorimeter with a calibration factor of 4.25 kJ °C⁻¹ raises the temperature by 6.80 °C. Calculate the experimental molar enthalpy of combustion of ethanol.
 <!-- id: chem-1-4-8 -->
+*Info: Calculation · about 2 marks · about 2.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1127.** A student's experimental value for the heat of combustion of ethanol using a spirit burner and a metal can of water is much lower than the data book value. The most likely reason is
 <!-- id: chem-1-4-9 -->
+*Info: Application · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. the water had too high a specific heat capacity
 - B. too much ethanol was burnt
@@ -8104,6 +9301,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1128.** Which change would most improve the accuracy of a spirit-burner experiment to determine the heat of combustion of a fuel?
 <!-- id: chem-1-4-10 -->
+*Info: Investigation design · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. Using a larger flame placed further from the can
 - B. Using a smaller volume of water
@@ -8112,6 +9310,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1129.** When 4.00 g of ammonium nitrate (M = 80.0 g mol⁻¹) dissolves in 100 g of water, the temperature falls by 3.10 °C. Assuming c = 4.18 J g⁻¹ °C⁻¹ for the solution, ΔH for dissolving ammonium nitrate is
 <!-- id: chem-1-4-11 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. +25.9 kJ mol⁻¹
 - B. −25.9 kJ mol⁻¹
@@ -8120,11 +9319,13 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1130.** Explain why using an electrically determined calibration factor gives a more accurate result than using q = mcΔT with only the mass of water.
 <!-- id: chem-1-4-12 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1131.** If 5.00 kJ of energy is absorbed by 500 g of water, the temperature rise is (c = 4.18 J g⁻¹ °C⁻¹)
 <!-- id: chem-1-4-13 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. 0.418 °C
 - B. 2.39 °C
@@ -8133,6 +9334,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1132.** Equal masses of water (c = 4.18 J g⁻¹ °C⁻¹) and ethanol (c = 2.44 J g⁻¹ °C⁻¹) each absorb the same amount of energy. Which statement is correct?
 <!-- id: chem-1-4-14 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. The water has the larger temperature increase
 - B. Both have the same temperature increase
@@ -8141,6 +9343,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1133.** A bomb calorimeter differs from a simple solution calorimeter because a bomb calorimeter
 <!-- id: chem-1-4-15 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. is open to the atmosphere
 - B. can only measure endothermic reactions
@@ -8149,11 +9352,13 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1134.** Identify two sources of error in a spirit-burner experiment to measure the heat of combustion of ethanol, and state the effect of each on the calculated value.
 <!-- id: chem-1-4-16 -->
+*Info: Recall · about 2 marks · about 2.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1135.** The main purpose of electrically calibrating a calorimeter is to
 <!-- id: chem-1-4-17 -->
+*Info: Application · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. determine how much energy is needed to raise the temperature of the whole calorimeter and its contents by 1 °C
 - B. measure the specific heat capacity of pure water
@@ -8162,6 +9367,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1136.** A 50.0 g block of metal absorbs 450 J of energy and its temperature rises by 20.0 °C. The specific heat capacity of the metal is
 <!-- id: chem-1-4-18 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. 2.22 J g⁻¹ °C⁻¹
 - B. 0.450 J g⁻¹ °C⁻¹
@@ -8170,6 +9376,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1137.** A bomb calorimeter with a calibration factor of 9.80 kJ °C⁻¹ is used to burn 0.320 g of methanol (M = 32.0 g mol⁻¹). The temperature rises by 0.740 °C. The experimental ΔcH of methanol is
 <!-- id: chem-1-4-19 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. −7.25 kJ mol⁻¹
 - B. −22.7 kJ mol⁻¹
@@ -8178,11 +9385,13 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1138.** 50.0 mL of 1.00 M HCl is mixed with 50.0 mL of 1.00 M NaOH in a polystyrene cup and the temperature rises by 6.70 °C. Assuming the solution has a mass of 100 g and c = 4.18 J g⁻¹ °C⁻¹, calculate ΔH for the neutralisation per mole of water formed.
 <!-- id: chem-1-4-20 -->
+*Info: Calculation · about 3 marks · about 4 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1139.** A 2.00 g sample of a muesli bar is burnt and heats 100 g of water by 24.0 °C. Ignoring heat losses, the energy content of the bar is
 <!-- id: chem-1-4-21 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. 10.0 kJ g⁻¹
 - B. 1.20 kJ g⁻¹
@@ -8191,6 +9400,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1140.** In a solution calorimeter, the temperature of the solution rises during a reaction. Which statement is correct?
 <!-- id: chem-1-4-22 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. The reaction is exothermic and ΔH is negative
 - B. The reaction is endothermic and ΔH is negative
@@ -8199,6 +9409,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1141.** A student's experiment gives the heat of combustion of ethanol as 820 kJ mol⁻¹, whereas the accepted value is 1364 kJ mol⁻¹. The percentage of the energy released that was captured by the water is closest to
 <!-- id: chem-1-4-23 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. 39.9%
 - B. 60.1%
@@ -8207,16 +9418,19 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1142.** 0.200 g of methane (M = 16.0 g mol⁻¹, ΔcH = −890 kJ mol⁻¹) is burnt under a beaker containing 300 g of water. If only 70.0% of the energy released is absorbed by the water, calculate the temperature rise of the water.
 <!-- id: chem-1-4-24 -->
+*Info: Calculation · about 2 marks · about 2.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1143.** Explain why a lid and a stirrer are used in a simple polystyrene-cup calorimeter.
 <!-- id: chem-1-4-25 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1144.** A solution calorimeter is calibrated by passing a current of 2.50 A at 6.00 V for 120 s. The temperature rises by 1.25 °C. The calibration factor is
 <!-- id: chem34a1-cal-1 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. 1.44 J °C⁻¹
 - B. 1440 J °C⁻¹
@@ -8225,6 +9439,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1145.** Why is electrical calibration of a calorimeter preferred over simply using mass × 4.18 × ΔT?
 <!-- id: chem34a1-cal-2 -->
+*Info: Application · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. It accounts for energy absorbed by the calorimeter itself (container, thermometer, stirrer) and some heat loss.
 - B. It makes the reaction go faster.
@@ -8233,6 +9448,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1146.** A student burns 0.500 g of ethanol in a spirit burner under a can holding 150.0 g of water, and the water temperature rises by 18.5 °C. The experimental heat of combustion of ethanol (M = 46.0 g mol⁻¹) is closest to
 <!-- id: chem34a1-cal-3 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. −11.6 kJ mol⁻¹
 - B. −23.2 kJ mol⁻¹
@@ -8241,6 +9457,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1147.** In a spirit burner experiment the experimental heat of combustion is much less than the data book value. Which is the most likely cause?
 <!-- id: chem34a1-cal-4 -->
+*Info: Application · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. The thermometer was read too quickly.
 - B. The mass of fuel burnt was overestimated by weighing the burner with its cap on both times.
@@ -8249,6 +9466,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1148.** A bomb calorimeter has a calibration factor of 8.62 kJ °C⁻¹. When 1.20 g of a fuel is burnt, the temperature rises by 5.80 °C. The heat of combustion of the fuel in kJ g⁻¹ is
 <!-- id: chem34a1-cal-5 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. 41.7
 - B. 50.0
@@ -8257,22 +9475,26 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1149.** A calorimeter with a calibration factor of 420 J °C⁻¹ contains 100.0 mL of 1.00 M HCl. 100.0 mL of 1.00 M NaOH is added and the temperature rises by 13.6 °C. Calculate ΔH for H⁺(aq) + OH⁻(aq) → H₂O(l). (3 marks)
 <!-- id: chem34a1-cal-6 -->
+*Info: Calculation · about 3 marks · about 4 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1150.** Explain why the calibration factor must be redetermined if the volume of water in a solution calorimeter is changed. (2 marks)
 <!-- id: chem34a1-cal-7 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1151.** A student's temperature–time graph for a calorimetry experiment shows the temperature peaking and then slowly falling. Describe how the student should determine ΔT and why. (2 marks)
 <!-- id: chem34a1-cal-8 -->
+*Info: Application · about 2 marks · about 2.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1152.** Burning 0.500 g of ethanol (M = 46.0 g/mol) heats 100.0 g of water from 20.0 °C to 45.0 °C. Calculate the experimental molar enthalpy of combustion, and explain why its size is smaller than the data-book value (−1364 kJ/mol).
 <!-- id: chem-1-4-c1 -->
 *Challenge question*
+*Info: Calculation · about 3 marks · about 4 min · Exam relevance: High (comes up in most exams); short answer, as in Section B; harder than most exam questions*
 
 *Written answer*
 
@@ -8280,8 +9502,11 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 #### Electrochemical series
 
+*Exam relevance: High (comes up in most exams) · Prerequisites: Redox reactions and half-equations (Chemistry, Units 1 & 2)*
+
 **Q1153.** Using the electrochemical series, which species is the strongest oxidising agent?
 <!-- id: chem34a1-ecs-1 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. Li⁺(aq)
 - B. Cu²⁺(aq)
@@ -8290,6 +9515,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1154.** A strip of nickel is placed in each of the following 1.0 M solutions. In which will a reaction occur?
 <!-- id: chem34a1-ecs-2 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. Zn²⁺(aq)
 - B. Pb²⁺(aq)
@@ -8298,6 +9524,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1155.** Which metal would NOT react with 1.0 M hydrochloric acid at SLC?
 <!-- id: chem34a1-ecs-3 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. Copper
 - B. Iron
@@ -8306,6 +9533,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1156.** A predicted reaction using the electrochemical series may not be observed in practice because
 <!-- id: chem34a1-ecs-4 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. E° values change sign at higher temperatures.
 - B. the series predicts only whether a reaction is thermodynamically possible, not its rate; conditions may also differ from standard.
@@ -8314,6 +9542,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1157.** Iron(II) ions can act as both an oxidising agent and a reducing agent. Which pair of half-equations shows this?
 <!-- id: chem34a1-ecs-5 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. Fe²⁺(aq) + 2e⁻ → Fe(s) and Fe²⁺(aq) → Fe³⁺(aq) + e⁻
 - B. Fe³⁺(aq) + e⁻ → Fe²⁺(aq) and Fe(s) → Fe²⁺(aq) + 2e⁻
@@ -8322,22 +9551,26 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1158.** A student adds zinc powder to a blue copper(II) sulfate solution. Predict what is observed, and write the oxidation and reduction half-equations and the overall equation. (3 marks)
 <!-- id: chem34a1-ecs-6 -->
+*Info: Application · about 3 marks · about 4 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1159.** Three metals X, Y and Z are tested. X displaces Y from a solution of Y²⁺ ions; Z displaces X from a solution of X²⁺ ions; Y does not react with Z²⁺ ions. List the metals in order of increasing strength as reducing agents and justify. (2 marks)
 <!-- id: chem34a1-ecs-7 -->
+*Info: Evaluation · about 2 marks · about 2.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1160.** Explain why bromine water can oxidise iodide ions but cannot oxidise chloride ions. Refer to E° values (Cl₂/Cl⁻ +1.36 V, Br₂/Br⁻ +1.09 V, I₂/I⁻ +0.54 V). (2 marks)
 <!-- id: chem34a1-ecs-8 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1161.** Using the electrochemical series, which metal can reduce Fe³⁺(aq) to Fe²⁺(aq) but cannot reduce Fe²⁺(aq) to Fe(s)?
 <!-- id: chem-2-1-c1 -->
 *Challenge question*
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A; harder than most exam questions*
 
 - A. Zinc
 - B. Magnesium
@@ -8346,8 +9579,11 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 #### Galvanic cells
 
+*Exam relevance: High (comes up in most exams) · Prerequisites: Electrochemical series*
+
 **Q1162.** In a galvanic cell made from a Zn/Zn²⁺ half-cell and a Cu/Cu²⁺ half-cell under standard conditions, the cathode and the maximum cell voltage are
 <!-- id: chem34a1-gc-1 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. zinc, 1.10 V
 - B. zinc, 0.42 V
@@ -8356,6 +9592,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1163.** In a galvanic cell, electrons flow
 <!-- id: chem34a1-gc-2 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. from the cathode to the anode through the salt bridge.
 - B. from the anode to the cathode through the external circuit.
@@ -8364,6 +9601,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1164.** A salt bridge soaked in KNO₃(aq) connects the half-cells of a galvanic cell. During operation,
 <!-- id: chem34a1-gc-3 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. K⁺ ions move toward the cathode half-cell and NO₃⁻ ions move toward the anode half-cell.
 - B. K⁺ ions move toward the anode half-cell and NO₃⁻ ions move toward the cathode half-cell.
@@ -8372,6 +9610,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1165.** A galvanic cell is built from an Ag/Ag⁺ half-cell and a Ni/Ni²⁺ half-cell. Which overall equation represents the cell reaction?
 <!-- id: chem34a1-gc-4 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. Ni²⁺(aq) + 2Ag(s) → Ni(s) + 2Ag⁺(aq)
 - B. Ag⁺(aq) + Ni(s) → Ag(s) + Ni²⁺(aq)
@@ -8380,6 +9619,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1166.** A student builds a cell with Pb/Pb²⁺ and Fe/Fe²⁺ half-cells and measures 0.28 V instead of the predicted 0.31 V. The most likely reason is
 <!-- id: chem34a1-gc-5 -->
+*Info: Application · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. the cell is producing electricity in the wrong direction.
 - B. the electrodes are made of the wrong metals.
@@ -8388,22 +9628,26 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1167.** A galvanic cell is built from a Mg/Mg²⁺ half-cell and an inert carbon electrode in a Fe³⁺/Fe²⁺ solution. Identify the anode and its polarity, write the half-equation at each electrode, and calculate the standard cell potential. (Mg²⁺/Mg −2.37 V; Fe³⁺/Fe²⁺ +0.77 V) (4 marks)
 <!-- id: chem34a1-gc-6 -->
+*Info: Calculation · about 4 marks · about 5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1168.** Explain why the oxidising and reducing agents in a galvanic cell must be kept in separate half-cells. (2 marks)
 <!-- id: chem34a1-gc-7 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1169.** Over time in a Zn/Cu galvanic cell, describe what happens to the mass of each electrode and to the colour of the copper(II) sulfate solution. Explain. (3 marks)
 <!-- id: chem34a1-gc-8 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1170.** A galvanic cell is made from Zn(s)/Zn²⁺(aq) and Ag(s)/Ag⁺(aq) half-cells under standard conditions. The overall reaction and maximum voltage are:
 <!-- id: chem-2-2-c1 -->
 *Challenge question*
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A; harder than most exam questions*
 
 - A. Zn(s) + Ag⁺(aq) → Zn²⁺(aq) + Ag(s), 0.04 V
 - B. Zn(s) + 2Ag⁺(aq) → Zn²⁺(aq) + 2Ag(s), 1.56 V
@@ -8412,8 +9656,11 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 #### Fuel cells
 
+*Exam relevance: High (comes up in most exams) · Prerequisites: Galvanic cells*
+
 **Q1171.** In a hydrogen–oxygen fuel cell with an acidic electrolyte, the half-equation at the cathode is
 <!-- id: chem34a1-fc-1 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. H₂(g) → 2H⁺(aq) + 2e⁻
 - B. O₂(g) + 2H₂O(l) + 4e⁻ → 4OH⁻(aq)
@@ -8422,6 +9669,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1172.** Which feature distinguishes a fuel cell from a primary galvanic cell (non-rechargeable battery)?
 <!-- id: chem34a1-fc-2 -->
+*Info: Application · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. Fuel cells produce electricity from a redox reaction.
 - B. Fuel cells have an anode and a cathode.
@@ -8430,6 +9678,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1173.** In an alkaline hydrogen fuel cell, the anode half-equation is
 <!-- id: chem34a1-fc-3 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. H₂(g) + 2OH⁻(aq) → 2H₂O(l) + 2e⁻
 - B. H₂(g) → 2H⁺(aq) + 2e⁻
@@ -8438,6 +9687,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1174.** Fuel cell electrodes are usually porous and coated with a catalyst such as platinum. The main purpose is to
 <!-- id: chem34a1-fc-4 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. increase the surface area for reaction and lower the activation energy, increasing the rate of the electrode reactions.
 - B. increase the cell voltage above the E° difference.
@@ -8446,6 +9696,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1175.** A direct methanol fuel cell with an acidic electrolyte has the overall reaction 2CH₃OH(l) + 3O₂(g) → 2CO₂(g) + 4H₂O(l). The anode half-equation is
 <!-- id: chem34a1-fc-5 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. CH₃OH(l) + 6H⁺(aq) + 6e⁻ → CO₂(g) + 5H₂O(l)
 - B. CH₃OH(l) + H₂O(l) → CO₂(g) + 6H⁺(aq) + 6e⁻
@@ -8454,22 +9705,26 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1176.** Compare a hydrogen fuel cell with a coal-fired power station for producing electricity. Give two advantages and one disadvantage of the fuel cell. (3 marks)
 <!-- id: chem34a1-fc-6 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1177.** Write the anode and cathode half-equations for a methane fuel cell operating with an acidic electrolyte, and the overall equation. (3 marks)
 <!-- id: chem34a1-fc-7 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1178.** In an acidic hydrogen fuel cell, explain the direction of movement of H⁺ ions through the electrolyte and why this is necessary. (2 marks)
 <!-- id: chem34a1-fc-8 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1179.** In a methanol fuel cell with an acidic electrolyte, the anode half-equation is:
 <!-- id: chem-2-3-c1 -->
 *Challenge question*
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A; harder than most exam questions*
 
 - A. O₂(g) + 4H⁺(aq) + 4e⁻ → 2H₂O(l)
 - B. CH₃OH(l) + H₂O(l) → CO₂(g) + 6H⁺(aq) + 6e⁻
@@ -8478,8 +9733,11 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 #### Green hydrogen and sustainable energy
 
+*Exam relevance: Medium (comes up regularly in exams) · Prerequisites: Fuel cells*
+
 **Q1180.** Hydrogen produced by the electrolysis of water using electricity from solar or wind farms is described as
 <!-- id: chem34a1-ghs-1 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. grey hydrogen.
 - B. blue hydrogen.
@@ -8488,6 +9746,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1181.** Most hydrogen produced today comes from steam methane reforming. Which equation represents the main reforming reaction?
 <!-- id: chem34a1-ghs-2 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. CH₄(g) + H₂O(g) → CO(g) + 3H₂(g)
 - B. 2H₂O(l) → 2H₂(g) + O₂(g)
@@ -8496,6 +9755,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1182.** Which green chemistry principle is best demonstrated by replacing a coal-fired power station with a solar farm that powers an electrolyser?
 <!-- id: chem34a1-ghs-3 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. Design for degradation
 - B. Use of renewable feedstocks and energy
@@ -8504,6 +9764,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1183.** A disadvantage of green hydrogen compared with grey hydrogen at present is that
 <!-- id: chem34a1-ghs-4 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. green hydrogen releases CO₂ when used in a fuel cell.
 - B. green hydrogen is chemically different from grey hydrogen.
@@ -8512,6 +9773,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1184.** Australian projects plan to export hydrogen by converting it into ammonia. A key reason is that ammonia
 <!-- id: chem34a1-ghs-5 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. is a liquid under mild pressure and stores more hydrogen per litre than compressed hydrogen gas.
 - B. is non-toxic and safe to handle.
@@ -8520,22 +9782,26 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1185.** Describe how green hydrogen is produced and write the overall equation for the process. Explain why this hydrogen can be described as a sustainable energy carrier. (3 marks)
 <!-- id: chem34a1-ghs-6 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1186.** Explain the difference between an energy source and an energy carrier, using hydrogen and solar energy as examples. (2 marks)
 <!-- id: chem34a1-ghs-7 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1187.** Steam methane reforming with carbon capture and storage produces 'blue' hydrogen. Evaluate whether blue hydrogen is a sustainable alternative to green hydrogen. (3 marks)
 <!-- id: chem34a1-ghs-8 -->
+*Info: Evaluation · about 3 marks · about 4 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1188.** Renewable electricity is stored by making hydrogen in an electrolyser (70% efficient) and later converting it back in a fuel cell (60% efficient). The overall efficiency is:
 <!-- id: chem-2-4-c1 -->
 *Challenge question*
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A; harder than most exam questions*
 
 - A. 42%
 - B. 65%
@@ -8546,8 +9812,11 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 #### Collision theory and reaction rates
 
+*Exam relevance: High (comes up in most exams) · Prerequisites: Particle model of matter*
+
 **Q1189.** According to collision theory, which conditions must be met for a collision between reactant particles to result in a reaction?
 <!-- id: chem-3-1-1 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. The particles must collide with the correct orientation, regardless of their energy
 - B. The particles must collide with energy at least equal to the activation energy and with the correct orientation
@@ -8556,6 +9825,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1190.** A student reacts magnesium ribbon with 0.50 M and then 2.0 M hydrochloric acid at the same temperature. The main reason the 2.0 M acid reacts faster is that:
 <!-- id: chem-3-1-2 -->
+*Info: Application · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. the activation energy of the reaction is lowered at higher concentration
 - B. there are more acid particles per unit volume, so the frequency of collisions increases
@@ -8564,6 +9834,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1191.** Powdered calcium carbonate reacts faster with dilute hydrochloric acid than the same mass of marble chips because the powder:
 <!-- id: chem-3-1-3 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. has a lower activation energy for the reaction
 - B. produces a greater total amount of carbon dioxide
@@ -8572,11 +9843,13 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1192.** Using collision theory, explain why marble chips react faster with 2 M hydrochloric acid than with 1 M hydrochloric acid at the same temperature.
 <!-- id: chem-3-1-4 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1193.** The volume of a sealed vessel containing a gaseous reaction mixture is halved at constant temperature. The rate of reaction increases mainly because:
 <!-- id: chem-3-1-5 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. the activation energy of the reaction decreases
 - B. the average kinetic energy of the particles increases
@@ -8585,6 +9858,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1194.** A 10 °C rise in temperature often roughly doubles the rate of a reaction. The main reason for this large increase is that:
 <!-- id: chem-3-1-6 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. the frequency of collisions doubles
 - B. the activation energy halves
@@ -8593,6 +9867,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1195.** Which change would NOT increase the rate of reaction between zinc and dilute sulfuric acid?
 <!-- id: chem-3-1-7 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. Using larger lumps of zinc of the same total mass
 - B. Heating the acid to 40 °C
@@ -8601,11 +9876,13 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1196.** Explain why increasing temperature increases reaction rate by much more than the increase in collision frequency alone would predict.
 <!-- id: chem-3-1-8 -->
+*Info: Application · about 3 marks · about 4 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1197.** Calcium carbonate reacts with hydrochloric acid in an open conical flask sitting on an electronic balance. Which measurement is most suitable for following the rate of this reaction?
 <!-- id: chem-3-1-9 -->
+*Info: Evaluation · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. The increase in mass of the flask as carbon dioxide forms
 - B. The decrease in mass of the flask and contents over time
@@ -8614,6 +9891,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1198.** The activation energy of a reaction is best described as:
 <!-- id: chem-3-1-10 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. the energy released when products form
 - B. the minimum energy colliding particles need for the collision to result in a reaction
@@ -8622,6 +9900,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1199.** An exothermic reaction has a forward activation energy of 50 kJ mol⁻¹ and ΔH = −120 kJ mol⁻¹. What is the activation energy of the reverse reaction?
 <!-- id: chem-3-1-11 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. 170 kJ mol⁻¹
 - B. 70 kJ mol⁻¹
@@ -8630,11 +9909,13 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1200.** The forward activation energy of a reaction is 185 kJ mol⁻¹ and ΔH = −92 kJ mol⁻¹. Calculate the activation energy of the reverse reaction.
 <!-- id: chem-3-1-12 -->
+*Info: Calculation · about 2 marks · about 2.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1201.** An endothermic reaction has ΔH = +40 kJ mol⁻¹ and a forward activation energy of 90 kJ mol⁻¹. What is the activation energy of the reverse reaction?
 <!-- id: chem-3-1-13 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. 130 kJ mol⁻¹
 - B. 40 kJ mol⁻¹
@@ -8643,6 +9924,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1202.** The rate at which hydrogen gas is produced when magnesium reacts with excess hydrochloric acid slows down as the reaction proceeds. The best explanation is that:
 <!-- id: chem-3-1-14 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. the activation energy increases as products form
 - B. the concentration of acid and the surface area of magnesium decrease, so collisions become less frequent
@@ -8651,6 +9933,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1203.** Argon gas is injected into a sealed rigid vessel containing a gaseous reaction mixture at constant temperature. What is the effect on the rate of reaction?
 <!-- id: chem-3-1-15 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. The rate increases because the total pressure has increased
 - B. The rate decreases because argon lowers the activation energy
@@ -8659,11 +9942,13 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1204.** A 1.00 g marble chip (CaCO₃) reacts completely with excess hydrochloric acid in 120 s. Calculate the average rate of CO₂ production in mol s⁻¹.
 <!-- id: chem-3-1-16 -->
+*Info: Calculation · about 3 marks · about 4 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1205.** A 0.0450 g sample of magnesium reacts completely with excess hydrochloric acid at SLC (25 °C, 100 kPa). What volume of hydrogen gas is produced? (Molar volume at SLC = 24.8 L mol⁻¹)
 <!-- id: chem-3-1-17 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. 41.5 mL
 - B. 23.0 mL
@@ -8672,6 +9957,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1206.** In a reaction producing carbon dioxide, 60.0 mL of gas is collected in the first 30 s and a further 20.0 mL in the next 30 s. What is the average rate of gas production over the first 60 s?
 <!-- id: chem-3-1-18 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. 2.00 mL s⁻¹
 - B. 0.667 mL s⁻¹
@@ -8680,6 +9966,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1207.** Milk stored in a refrigerator at 4 °C spoils more slowly than milk left on a kitchen bench in a Melbourne summer. The best explanation is that at the lower temperature:
 <!-- id: chem-3-1-19 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. fewer collisions between reacting particles have energy equal to or greater than the activation energy
 - B. the activation energy of the spoilage reactions is higher
@@ -8688,11 +9975,13 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1208.** Describe two experimental methods that could be used to measure the rate of reaction between magnesium ribbon and hydrochloric acid.
 <!-- id: chem-3-1-20 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1209.** Fine flour dust suspended in the air of a grain silo can explode if ignited, while a bag of flour burns slowly. This is mainly because the dust:
 <!-- id: chem-3-1-21 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. has an extremely large surface area in contact with oxygen
 - B. has a higher enthalpy of combustion than bagged flour
@@ -8701,6 +9990,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1210.** Which change increases BOTH the frequency of collisions and the proportion of collisions that have energy equal to or greater than the activation energy?
 <!-- id: chem-3-1-22 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. Increasing the concentration of a reactant
 - B. Adding a catalyst
@@ -8709,6 +9999,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1211.** Many collisions between reactant particles that have energy greater than the activation energy still do not produce products. The most likely reason is that:
 <!-- id: chem-3-1-23 -->
+*Info: Application · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. the particles collided with an orientation that did not allow the required bonds to break and form
 - B. the particles had too much energy and bounced apart
@@ -8717,16 +10008,19 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1212.** A graph of volume of hydrogen collected against time for magnesium reacting with hydrochloric acid is steep at first, then becomes flatter and finally horizontal. Explain this shape.
 <!-- id: chem-3-1-24 -->
+*Info: Data analysis · about 3 marks · about 4 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1213.** A student writes: 'Heating a reaction mixture increases the rate because it lowers the activation energy.' Correct this statement.
 <!-- id: chem-3-1-25 -->
+*Info: Application · about 2 marks · about 2.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1214.** According to collision theory, for a reaction to occur, reactant particles must
 <!-- id: chem34a1-ctr-1 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. collide with energy equal to or greater than the activation energy and with the correct orientation.
 - B. collide with any energy as long as they are moving.
@@ -8735,6 +10029,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1215.** Marble chips (CaCO₃) react with hydrochloric acid. Which change would NOT increase the initial rate of reaction?
 <!-- id: chem34a1-ctr-2 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. Using powdered marble instead of chips
 - B. Using a larger volume of the same concentration of acid
@@ -8743,6 +10038,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1216.** Increasing the temperature by 10 °C often roughly doubles the rate of a reaction. The main reason is that
 <!-- id: chem34a1-ctr-3 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. the activation energy is halved.
 - B. the number of collisions per second doubles.
@@ -8751,6 +10047,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1217.** A student measures the mass of a flask as CaCO₃ chips react with excess HCl, and graphs mass lost against time. The gradient of the curve
 <!-- id: chem34a1-ctr-4 -->
+*Info: Application · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. is greatest at the start and decreases to zero as reactants are used up.
 - B. is zero at the start and increases over time.
@@ -8759,6 +10056,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1218.** Increasing the pressure of a gaseous reaction mixture by reducing its volume increases the rate because
 <!-- id: chem34a1-ctr-5 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. the activation energy decreases.
 - B. the temperature of the gases always doubles.
@@ -8767,22 +10065,26 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1219.** Coal dust in an underground mine can explode, while a lump of coal burns slowly. Explain this using collision theory. (2 marks)
 <!-- id: chem34a1-ctr-6 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1220.** Two experiments react 1.0 g magnesium ribbon with excess HCl: Experiment 1 uses 1.0 M HCl, Experiment 2 uses 2.0 M HCl. Describe how a graph of H₂ volume against time for Experiment 2 would compare with Experiment 1, and explain. (3 marks)
 <!-- id: chem34a1-ctr-7 -->
+*Info: Data analysis · about 3 marks · about 4 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1221.** Explain why food stored in a refrigerator spoils more slowly than food left on the bench. (2 marks)
 <!-- id: chem34a1-ctr-8 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1222.** A 10 °C rise in temperature can double a reaction rate, although collision frequency rises only a few percent. The main reason is that:
 <!-- id: chem-3-1-c1 -->
 *Challenge question*
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A; harder than most exam questions*
 
 - A. The activation energy decreases, so collisions with less energy are now successful
 - B. Particles collide far more often, because they move much faster at a higher temperature
@@ -8791,8 +10093,11 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 #### Maxwell–Boltzmann distributions and catalysts
 
+*Exam relevance: High (comes up in most exams) · Prerequisites: Collision theory and reaction rates*
+
 **Q1223.** In a Maxwell–Boltzmann distribution curve for a gas, the total area under the curve represents:
 <!-- id: chem-3-2-1 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. the total energy released by the reaction
 - B. the total number of particles in the sample
@@ -8801,6 +10106,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1224.** When the temperature of a gas sample is increased, its Maxwell–Boltzmann distribution curve:
 <!-- id: chem-3-2-2 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. becomes taller and narrower, with the peak moving to lower energy
 - B. shifts to higher energy and the total area increases
@@ -8809,6 +10115,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1225.** On a Maxwell–Boltzmann distribution, the area under the curve to the right of the activation energy line represents:
 <!-- id: chem-3-2-3 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. the number of particles with enough energy to react on collision
 - B. the number of particles that have already reacted
@@ -8817,11 +10124,13 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1226.** Describe how the Maxwell–Boltzmann distribution of a gas changes when the temperature is increased from 25 °C to 50 °C, and explain the effect on reaction rate.
 <!-- id: chem-3-2-4 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1227.** How is the Maxwell–Boltzmann distribution of a reaction mixture affected when a catalyst is added at constant temperature?
 <!-- id: chem-3-2-5 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. The curve shifts to higher energies and the activation energy is unchanged
 - B. The curve becomes taller and the activation energy increases
@@ -8830,6 +10139,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1228.** A catalyst increases the rate of a reaction by:
 <!-- id: chem-3-2-6 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. increasing the kinetic energy of the reactant particles
 - B. increasing the enthalpy change of the reaction
@@ -8838,6 +10148,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1229.** What effect does adding a catalyst have on the enthalpy change, ΔH, of a reaction?
 <!-- id: chem-3-2-7 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. ΔH becomes more negative
 - B. ΔH becomes less negative
@@ -8846,11 +10157,13 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1230.** With reference to a Maxwell–Boltzmann distribution, explain how a catalyst increases the rate of a reaction.
 <!-- id: chem-3-2-8 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1231.** A catalyst is added to a reaction mixture that is already at equilibrium. Which statement is correct?
 <!-- id: chem-3-2-9 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. The equilibrium shifts to the right, increasing the yield
 - B. The equilibrium shifts to the left, decreasing the yield
@@ -8859,6 +10172,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1232.** The platinum, palladium and rhodium in a car's catalytic converter are best described as:
 <!-- id: chem-3-2-10 -->
+*Info: Application · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. heterogeneous catalysts, because they are solids and the reactants are gases
 - B. homogeneous catalysts, because they are in the same phase as the exhaust gases
@@ -8867,6 +10181,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1233.** The rate of an enzyme-catalysed reaction falls sharply when the temperature is raised well above about 40 °C. The best explanation is that:
 <!-- id: chem-3-2-11 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. the activation energy of the reaction increases
 - B. the enzyme denatures, changing the shape of its active site
@@ -8875,11 +10190,13 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1234.** Distinguish between a homogeneous and a heterogeneous catalyst, giving an example of each.
 <!-- id: chem-3-2-12 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1235.** Which feature of the Maxwell–Boltzmann distribution of a fixed amount of gas does NOT change when the temperature increases?
 <!-- id: chem-3-2-13 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. The height of the peak
 - B. The total area under the curve
@@ -8888,6 +10205,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1236.** Compared with the distribution at 50 °C, the Maxwell–Boltzmann distribution of the same gas sample at 10 °C has:
 <!-- id: chem-3-2-14 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. a lower peak at a higher kinetic energy
 - B. a taller peak at a higher kinetic energy
@@ -8896,6 +10214,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1237.** When a catalyst is added to a reversible reaction, the rate of the reverse reaction:
 <!-- id: chem-3-2-15 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. increases, because the catalyst also lowers the activation energy of the reverse reaction
 - B. decreases, because the catalyst favours the forward reaction
@@ -8904,11 +10223,13 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1238.** Explain why adding a catalyst to a reversible reaction does not change the equilibrium yield of product.
 <!-- id: chem-3-2-16 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1239.** Which of the following is an example of a homogeneous catalyst?
 <!-- id: chem-3-2-17 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. Iron in the Haber process
 - B. Concentrated sulfuric acid in the liquid-phase reaction between ethanoic acid and ethanol
@@ -8917,6 +10238,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1240.** Which statement best describes how a heterogeneous catalyst such as iron works in the Haber process?
 <!-- id: chem-3-2-18 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. The catalyst reacts permanently with nitrogen to form iron nitride as the product
 - B. The catalyst increases the temperature of the gases by absorbing heat
@@ -8925,6 +10247,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1241.** The iron catalyst used in the Haber process is finely divided or porous. This is because:
 <!-- id: chem-3-2-19 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. finely divided iron has a higher activation energy
 - B. a larger surface area provides more active sites for reactant molecules to adsorb onto
@@ -8933,11 +10256,13 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1242.** Small amounts of lead or sulfur compounds in exhaust gases can 'poison' a catalytic converter. Explain what this means.
 <!-- id: chem-3-2-20 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1243.** On an energy profile diagram, how does the pathway for a catalysed reaction compare with the uncatalysed pathway?
 <!-- id: chem-3-2-21 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. It has a higher peak, with the products at a lower energy
 - B. It has the same peak, but the products are at a higher energy
@@ -8946,6 +10271,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1244.** A catalyst lowers the forward activation energy of an exothermic reaction from 80 kJ mol⁻¹ to 50 kJ mol⁻¹. ΔH for the reaction is −30 kJ mol⁻¹. What is the activation energy of the catalysed reverse reaction?
 <!-- id: chem-3-2-22 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. 80 kJ mol⁻¹
 - B. 110 kJ mol⁻¹
@@ -8954,6 +10280,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1245.** Raising the temperature of a gas from 25 °C to 35 °C increases the average kinetic energy of its particles by only about 3%, yet the reaction rate may double. Using the Maxwell–Boltzmann distribution, this is explained by:
 <!-- id: chem-3-2-23 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. the activation energy line moving to a lower energy
 - B. the total area under the curve doubling
@@ -8962,16 +10289,19 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1246.** The uncatalysed oxidation of sulfur dioxide has Ea = 240 kJ mol⁻¹; with a V₂O₅ catalyst Ea = 140 kJ mol⁻¹. ΔH for 2SO₂(g) + O₂(g) → 2SO₃(g) is −196 kJ mol⁻¹. Calculate the activation energy of the catalysed reverse reaction.
 <!-- id: chem-3-2-24 -->
+*Info: Calculation · about 2 marks · about 2.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1247.** Explain why a Maxwell–Boltzmann distribution curve starts at the origin and approaches, but never touches, the energy axis at high energies.
 <!-- id: chem-3-2-25 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1248.** On a Maxwell–Boltzmann distribution curve, the area under the curve to the right of the activation energy represents
 <!-- id: chem34a1-mbc-1 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. the total number of particles in the sample.
 - B. the activation energy of the reaction.
@@ -8980,6 +10310,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1249.** When the temperature of a gas sample is increased, its Maxwell–Boltzmann curve
 <!-- id: chem34a1-mbc-2 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. becomes taller and narrower, with the peak shifting left.
 - B. flattens and broadens, with the peak shifting to higher energy, while the total area stays the same.
@@ -8988,6 +10319,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1250.** A catalyst increases the rate of a reaction by
 <!-- id: chem34a1-mbc-3 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. increasing the average kinetic energy of the reactant particles.
 - B. increasing the enthalpy change of the reaction.
@@ -8996,6 +10328,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1251.** Which statement about a catalyst in a reversible reaction is correct?
 <!-- id: chem34a1-mbc-4 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. It increases the rate of the forward reaction only.
 - B. It changes ΔH for the reaction.
@@ -9004,6 +10337,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1252.** Platinum and rhodium in a car's catalytic converter speed up the conversion of CO and NO into CO₂ and N₂. These metals are best described as
 <!-- id: chem34a1-mbc-5 -->
+*Info: Application · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. heterogeneous catalysts that provide a surface where gas molecules adsorb and react.
 - B. homogeneous catalysts in the same phase as the gases.
@@ -9012,22 +10346,26 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1253.** Describe (in words) a Maxwell–Boltzmann distribution for a gas at temperature T₁ and the same gas at a higher temperature T₂. Use it to explain why reaction rate increases with temperature. (3 marks)
 <!-- id: chem34a1-mbc-6 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1254.** On a Maxwell–Boltzmann distribution, show how adding a catalyst changes the proportion of particles able to react. Explain why the curve itself does not change. (2 marks)
 <!-- id: chem34a1-mbc-7 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1255.** Hydrogen peroxide decomposes slowly: 2H₂O₂(aq) → 2H₂O(l) + O₂(g). Adding manganese(IV) oxide powder causes rapid bubbling, and the MnO₂ can be recovered unchanged in mass. Explain these observations and identify the type of catalyst. (3 marks)
 <!-- id: chem34a1-mbc-8 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1256.** Adding a catalyst to a reaction mixture changes a Maxwell–Boltzmann distribution diagram by:
 <!-- id: chem-3-2-c1 -->
 *Challenge question*
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A; harder than most exam questions*
 
 - A. Shifting the peak of the curve to the right, so that more particles have high energy
 - B. Making the curve taller and narrower, while the activation-energy line stays fixed
@@ -9036,8 +10374,11 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 #### Equilibrium constants and calculations
 
+*Exam relevance: High (comes up in most exams) · Prerequisites: Concentration units and dilution (Chemistry, Units 1 & 2); Balanced equations with states*
+
 **Q1257.** Which is the correct equilibrium expression for N₂(g) + 3H₂(g) ⇌ 2NH₃(g)?
 <!-- id: chem-3-3-1 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. Kc = [N₂][H₂]³ / [NH₃]²
 - B. Kc = [NH₃]² / ([N₂][H₂]³)
@@ -9046,6 +10387,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1258.** What are the units of Kc for N₂(g) + 3H₂(g) ⇌ 2NH₃(g)?
 <!-- id: chem-3-3-2 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. M²
 - B. M⁻²
@@ -9054,6 +10396,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1259.** For 2SO₂(g) + O₂(g) ⇌ 2SO₃(g), the equilibrium constant is K. What is the equilibrium constant for 2SO₃(g) ⇌ 2SO₂(g) + O₂(g) at the same temperature?
 <!-- id: chem-3-3-3 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. K
 - B. −K
@@ -9062,11 +10405,13 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1260.** Write the equilibrium expression, including units, for 2NO(g) + O₂(g) ⇌ 2NO₂(g).
 <!-- id: chem-3-3-4 -->
+*Info: Conceptual · about 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1261.** For 2SO₂(g) + O₂(g) ⇌ 2SO₃(g), the equilibrium constant is K. What is the equilibrium constant for SO₂(g) + ½O₂(g) ⇌ SO₃(g) at the same temperature?
 <!-- id: chem-3-3-5 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. K/2
 - B. 2K
@@ -9075,6 +10420,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1262.** A reaction has Kc = 1 × 10²⁰ at 25 °C. Which statement is correct?
 <!-- id: chem-3-3-6 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. The reaction must occur very rapidly
 - B. At equilibrium the mixture consists almost entirely of reactants
@@ -9083,6 +10429,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1263.** At 450 °C, an equilibrium mixture for H₂(g) + I₂(g) ⇌ 2HI(g) contains [H₂] = 0.100 M, [I₂] = 0.100 M and [HI] = 0.700 M. What is the value of Kc?
 <!-- id: chem-3-3-7 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. 70.0
 - B. 49.0
@@ -9091,11 +10438,13 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1264.** 0.500 mol of H₂ and 0.500 mol of I₂ are placed in a 5.00 L vessel. Kc for H₂(g) + I₂(g) ⇌ 2HI(g) is 64.0 at this temperature. Calculate the equilibrium concentration of HI.
 <!-- id: chem-3-3-8 -->
+*Info: Calculation · about 3 marks · about 4 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1265.** For a reaction mixture that is not at equilibrium, the reaction quotient Q is found to be less than K. What will happen?
 <!-- id: chem-3-3-9 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. The net reaction proceeds in the forward direction until Q = K
 - B. The net reaction proceeds in the reverse direction until Q = K
@@ -9104,6 +10453,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1266.** For N₂O₄(g) ⇌ 2NO₂(g), Kc = 4.6 × 10⁻³ M at 25 °C. A mixture at 25 °C has [N₂O₄] = 0.50 M and [NO₂] = 0.020 M. Which statement is correct?
 <!-- id: chem-3-3-10 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. Q = 0.040, so the net reaction proceeds in reverse, producing more N₂O₄
 - B. Q = 8.0 × 10⁻⁴, so the net reaction proceeds in reverse, producing more N₂O₄
@@ -9112,6 +10462,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1267.** Which change will alter the value of the equilibrium constant for a reaction?
 <!-- id: chem-3-3-11 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. Adding a catalyst
 - B. Increasing the concentration of a reactant
@@ -9120,11 +10471,13 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1268.** For 2SO₂(g) + O₂(g) ⇌ 2SO₃(g), Kc = 280 M⁻¹ at a certain temperature. A mixture contains [SO₂] = 0.10 M, [O₂] = 0.050 M and [SO₃] = 0.50 M. Determine whether the mixture is at equilibrium and, if not, the direction of net reaction.
 <!-- id: chem-3-3-12 -->
+*Info: Calculation · about 3 marks · about 4 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1269.** The temperature of an exothermic equilibrium reaction is increased. What happens to the value of Kc?
 <!-- id: chem-3-3-13 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. It decreases
 - B. It increases
@@ -9133,6 +10486,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1270.** 2.00 mol of PCl₅ is placed in a 1.00 L flask and allowed to reach equilibrium: PCl₅(g) ⇌ PCl₃(g) + Cl₂(g). At equilibrium, 0.40 mol of PCl₃ is present. What is the value of Kc?
 <!-- id: chem-3-3-14 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. 0.10 M
 - B. 0.25 M
@@ -9141,6 +10495,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1271.** 1.00 mol of N₂ and 3.00 mol of H₂ are placed in a 2.00 L vessel. At equilibrium, 0.400 mol of NH₃ has formed. What is the value of Kc for N₂(g) + 3H₂(g) ⇌ 2NH₃(g)?
 <!-- id: chem-3-3-15 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. 0.0145 M⁻²
 - B. 0.417 M⁻²
@@ -9149,11 +10504,13 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1272.** Explain why the value of Kc does not change when extra reactant is added to an equilibrium mixture at constant temperature.
 <!-- id: chem-3-3-16 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1273.** For the reaction X(g) ⇌ Y(g), Kc = 4.0 at a certain temperature. If 1.00 M of X is initially present with no Y, what is the equilibrium concentration of Y?
 <!-- id: chem-3-3-17 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. 0.80 M
 - B. 0.20 M
@@ -9162,6 +10519,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1274.** For 2A(g) ⇌ B(g), Kc = 2.5 × 10⁻³ M⁻¹. What is the value of Kc for 2B(g) ⇌ 4A(g) at the same temperature?
 <!-- id: chem-3-3-18 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. 400 M
 - B. 6.3 × 10⁻⁶ M⁻²
@@ -9170,6 +10528,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1275.** What are the units of Kc for CH₃COOH(l) + C₂H₅OH(l) ⇌ CH₃COOC₂H₅(l) + H₂O(l), treating all species as being in the same solution?
 <!-- id: chem-3-3-19 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. M
 - B. M⁻¹
@@ -9178,11 +10537,13 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1276.** For A(g) + B(g) ⇌ C(g), Kc = 2.0 M⁻¹. Determine the value and units of Kc for 2C(g) ⇌ 2A(g) + 2B(g) at the same temperature.
 <!-- id: chem-3-3-20 -->
+*Info: Calculation · about 2 marks · about 2.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1277.** Which statement is true for a chemical system at dynamic equilibrium?
 <!-- id: chem-3-3-21 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. The concentrations of reactants and products are equal
 - B. Both the forward and reverse reactions have stopped
@@ -9191,6 +10552,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1278.** At a certain temperature, Kc for N₂O₄(g) ⇌ 2NO₂(g) is 4.6 × 10⁻³ M. What is Kc for 2NO₂(g) ⇌ N₂O₄(g) at the same temperature?
 <!-- id: chem-3-3-22 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. 4.6 × 10⁻³ M⁻¹
 - B. 217 M⁻¹
@@ -9199,6 +10561,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1279.** For which reaction would the units of Kc be M?
 <!-- id: chem-3-3-23 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. H₂(g) + I₂(g) ⇌ 2HI(g)
 - B. 2SO₂(g) + O₂(g) ⇌ 2SO₃(g)
@@ -9207,16 +10570,19 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1280.** Explain what is meant by the term 'dynamic equilibrium'.
 <!-- id: chem-3-3-24 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1281.** 0.800 mol of NO₂ is placed in a 2.00 L vessel. At equilibrium for 2NO₂(g) ⇌ N₂O₄(g), 0.200 mol of N₂O₄ is present. Calculate Kc.
 <!-- id: chem-3-3-25 -->
+*Info: Calculation · about 3 marks · about 4 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1282.** Which expression is the equilibrium constant, K, for the reaction N₂(g) + 3H₂(g) ⇌ 2NH₃(g)?
 <!-- id: chem34a2-eq-1 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. [NH₃]/([N₂][H₂])
 - B. [NH₃]²/([N₂][H₂]³)
@@ -9225,6 +10591,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1283.** What are the units of K for the reaction 2SO₂(g) + O₂(g) ⇌ 2SO₃(g)?
 <!-- id: chem34a2-eq-2 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. mol L⁻¹
 - B. mol² L⁻²
@@ -9233,6 +10600,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1284.** At a particular temperature, K for the reaction A(g) ⇌ B(g) is 4.0. What is the value of K for 2B(g) ⇌ 2A(g) at the same temperature?
 <!-- id: chem34a2-eq-3 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. 0.0625
 - B. 0.25
@@ -9241,6 +10609,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1285.** A reaction mixture in a closed vessel has a reaction quotient Q = 2.5 × 10⁻³, while K at that temperature is 1.8 × 10⁻². Which statement is correct?
 <!-- id: chem34a2-eq-4 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. The system is at equilibrium.
 - B. The net reaction will proceed in the reverse direction until Q decreases to K.
@@ -9249,6 +10618,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1286.** A reaction has K = 3 × 10¹⁵ at 25 °C. What can be concluded from this value alone?
 <!-- id: chem34a2-eq-5 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. The reaction is very fast at 25 °C.
 - B. At equilibrium, the mixture contains mainly products.
@@ -9257,29 +10627,36 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1287.** 0.500 mol of H₂(g) and 0.500 mol of I₂(g) were placed in a sealed 2.00 L vessel at 450 °C. At equilibrium, 0.780 mol of HI(g) was present. H₂(g) + I₂(g) ⇌ 2HI(g). Calculate K at 450 °C. (3 marks)
 <!-- id: chem34a2-eq-6 -->
+*Info: Calculation · about 3 marks · about 4 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1288.** For 2NO₂(g) ⇌ N₂O₄(g), K = 6.0 M⁻¹ at a certain temperature. A mixture at this temperature contains [NO₂] = 0.20 M and [N₂O₄] = 0.50 M. Determine whether the mixture is at equilibrium and, if not, predict how [NO₂] will change. (3 marks)
 <!-- id: chem34a2-eq-7 -->
+*Info: Calculation · about 3 marks · about 4 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1289.** Explain what is meant by 'dynamic equilibrium' and state the only factor that changes the value of K for a given reaction. (2 marks)
 <!-- id: chem34a2-eq-8 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1290.** 0.100 mol of N₂O₄ is placed in a sealed 1.00 L flask: N₂O₄(g) ⇌ 2NO₂(g). At equilibrium, [NO₂] = 0.060 M. Calculate K.
 <!-- id: chem-3-3-c1 -->
 *Challenge question*
+*Info: Calculation · about 2 marks · about 2.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B; harder than most exam questions*
 
 *Written answer*
 
 #### Le Chatelier's principle and yield optimisation
 
+*Exam relevance: High (comes up in most exams) · Prerequisites: Equilibrium constants and calculations; Collision theory and reaction rates*
+
 **Q1291.** For N₂(g) + 3H₂(g) ⇌ 2NH₃(g), ΔH = −92 kJ mol⁻¹, the volume of the vessel is decreased at constant temperature. How does the system respond?
 <!-- id: chem-3-4-1 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. The equilibrium shifts to the left, because there are more gas particles on the reactant side
 - B. There is no shift, because pressure does not affect gaseous equilibria
@@ -9288,6 +10665,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1292.** The temperature of an equilibrium mixture of N₂, H₂ and NH₃ (ΔH = −92 kJ mol⁻¹) is increased. Which statement is correct?
 <!-- id: chem-3-4-2 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. The rate and the equilibrium yield of ammonia both increase
 - B. The rate decreases but the equilibrium yield of ammonia increases
@@ -9296,6 +10674,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1293.** The Haber process is typically run at about 400–450 °C, even though lower temperatures give a higher equilibrium yield. This is because:
 <!-- id: chem-3-4-3 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. the reaction is endothermic, so high temperatures increase yield
 - B. the iron catalyst only increases the yield at high temperatures
@@ -9304,11 +10683,13 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1294.** Using Le Chatelier's principle, explain why increasing pressure increases the equilibrium yield of ammonia in N₂(g) + 3H₂(g) ⇌ 2NH₃(g).
 <!-- id: chem-3-4-4 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1295.** A catalyst is added to an equilibrium mixture of N₂, H₂ and NH₃. What happens to the amount of ammonia?
 <!-- id: chem-3-4-5 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. It increases
 - B. It decreases
@@ -9317,6 +10698,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1296.** Argon is added to an equilibrium mixture of N₂, H₂ and NH₃ in a rigid sealed vessel at constant temperature. What happens to the equilibrium position?
 <!-- id: chem-3-4-6 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. It shifts to the right because the total pressure increases
 - B. It shifts to the left because argon reacts with ammonia
@@ -9325,6 +10707,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1297.** In an industrial ammonia plant, ammonia is continuously removed by condensing it. The effect of this is to:
 <!-- id: chem-3-4-7 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. shift the equilibrium to the left, regenerating nitrogen and hydrogen
 - B. increase the value of Kc
@@ -9333,11 +10716,13 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1298.** The Haber process (ΔH = −92 kJ mol⁻¹) is operated at about 450 °C. Explain this choice in terms of both rate and yield.
 <!-- id: chem-3-4-8 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1299.** Fe³⁺(aq) + SCN⁻(aq) ⇌ FeSCN²⁺(aq) is an equilibrium in which FeSCN²⁺ is deep red. A few crystals of KSCN are dissolved in the mixture. What is observed?
 <!-- id: chem-3-4-9 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. The solution becomes a deeper red
 - B. The solution becomes paler red
@@ -9346,6 +10731,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1300.** For Fe³⁺(aq) + SCN⁻(aq) ⇌ FeSCN²⁺(aq) (deep red), a few drops of AgNO₃ solution are added, precipitating AgSCN. What is observed?
 <!-- id: chem-3-4-10 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. The red colour becomes paler
 - B. The red colour deepens
@@ -9354,6 +10740,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1301.** 2NO₂(g) ⇌ N₂O₄(g), ΔH = −57 kJ mol⁻¹. NO₂ is brown and N₂O₄ is colourless. A sealed flask of the equilibrium mixture is placed in hot water. What is observed?
 <!-- id: chem-3-4-11 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. The mixture becomes paler
 - B. The colour does not change
@@ -9362,11 +10749,13 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1302.** A syringe contains an equilibrium mixture of 2NO₂(g) (brown) ⇌ N₂O₄(g) (colourless). The plunger is pushed in and held. Describe and explain the colour changes observed.
 <!-- id: chem-3-4-12 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1303.** A gas syringe containing an equilibrium mixture of brown NO₂ and colourless N₂O₄ (2NO₂ ⇌ N₂O₄) is quickly compressed to half its volume. What is observed?
 <!-- id: chem-3-4-13 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. The colour lightens immediately and stays lighter than originally
 - B. The colour darkens and stays at that darker shade with no further change
@@ -9375,6 +10764,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1304.** For H₂(g) + I₂(g) ⇌ 2HI(g), the pressure is increased by decreasing the volume. What is the effect on the equilibrium position?
 <!-- id: chem-3-4-14 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. It shifts right, because the products have fewer gas particles
 - B. No shift occurs, because there are equal numbers of gas particles on each side
@@ -9383,6 +10773,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1305.** In the contact process, 2SO₂(g) + O₂(g) ⇌ 2SO₃(g), ΔH = −197 kJ mol⁻¹. Which conditions would give the highest equilibrium yield of SO₃?
 <!-- id: chem-3-4-15 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. Low temperature and high pressure
 - B. High temperature and high pressure
@@ -9391,11 +10782,13 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1306.** For CH₄(g) + H₂O(g) ⇌ CO(g) + 3H₂(g), ΔH = +206 kJ mol⁻¹, predict the effect of increasing the temperature on the value of Kc and on the yield of hydrogen. Explain.
 <!-- id: chem-3-4-16 -->
+*Info: Application · about 2 marks · about 2.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1307.** The contact process is usually operated at only slightly above atmospheric pressure, even though high pressure would increase yield. The main reason is that:
 <!-- id: chem-3-4-17 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. high pressure would decrease the yield of SO₃
 - B. high pressure would poison the V₂O₅ catalyst
@@ -9404,6 +10797,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1308.** Water is added to dilute an equilibrium mixture of Fe³⁺(aq) + SCN⁻(aq) ⇌ FeSCN²⁺(aq). How does the equilibrium respond?
 <!-- id: chem-3-4-18 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. It shifts to the left, the side with more dissolved particles
 - B. It shifts to the right, the side with fewer dissolved particles
@@ -9412,6 +10806,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1309.** Extra H₂ is added to the Haber equilibrium mixture at constant volume and temperature. Once equilibrium is re-established, how does [N₂] compare with its value before the H₂ was added?
 <!-- id: chem-3-4-19 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. It is lower
 - B. It is higher
@@ -9420,11 +10815,13 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1310.** Explain why adding a catalyst does not increase the yield of an equilibrium reaction, yet catalysts are still essential in industrial processes such as the Haber process.
 <!-- id: chem-3-4-20 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1311.** Steam reforming of methane is CH₄(g) + H₂O(g) ⇌ CO(g) + 3H₂(g), ΔH = +206 kJ mol⁻¹. Which conditions favour the highest equilibrium yield of hydrogen?
 <!-- id: chem-3-4-21 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. Low temperature and high pressure
 - B. High temperature and low pressure
@@ -9433,6 +10830,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1312.** Which statement best expresses Le Chatelier's principle?
 <!-- id: chem-3-4-22 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. If an equilibrium system is subjected to a change, the system adjusts to completely reverse that change
 - B. If an equilibrium system is subjected to a change, the system adjusts to partially oppose the effect of that change
@@ -9441,6 +10839,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1313.** The temperature of an equilibrium mixture for an endothermic reaction is increased. Which statement is correct once equilibrium is re-established?
 <!-- id: chem-3-4-23 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. The value of K has decreased and the yield of products is smaller
 - B. The value of K has increased and the yield of products is greater
@@ -9449,16 +10848,19 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1314.** For the esterification CH₃COOH + C₂H₅OH ⇌ CH₃COOC₂H₅ + H₂O, suggest two ways to increase the yield of ethyl ethanoate and explain each.
 <!-- id: chem-3-4-24 -->
+*Info: Application · about 3 marks · about 4 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1315.** Extra O₂ is added at constant volume and temperature to an equilibrium mixture of 2SO₂(g) + O₂(g) ⇌ 2SO₃(g). Describe how [O₂], [SO₂], [SO₃] and Kc compare with their original values once equilibrium is re-established.
 <!-- id: chem-3-4-25 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1316.** N₂O₄(g) ⇌ 2NO₂(g), ΔH = +58 kJ mol⁻¹. N₂O₄ is colourless and NO₂ is brown. A sealed syringe of the equilibrium mixture is placed in hot water. Which observation and explanation are correct?
 <!-- id: chem34a2-lc-1 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. The mixture becomes paler because the reverse reaction is endothermic.
 - B. The mixture becomes browner and the value of K increases.
@@ -9467,6 +10869,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1317.** A catalyst is added to a system already at equilibrium. Which statement is correct?
 <!-- id: chem34a2-lc-2 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. The equilibrium position shifts to the right.
 - B. The value of K increases.
@@ -9475,6 +10878,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1318.** The volume of a vessel containing H₂(g) + I₂(g) ⇌ 2HI(g) at equilibrium is suddenly halved at constant temperature. I₂ is purple. What is observed?
 <!-- id: chem34a2-lc-3 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. The colour becomes darker and the equilibrium position does not shift.
 - B. The colour becomes darker and then fades as the equilibrium shifts right.
@@ -9483,6 +10887,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1319.** Argon gas is added to an equilibrium mixture of 2SO₂(g) + O₂(g) ⇌ 2SO₃(g) in a rigid, sealed container at constant temperature. What happens?
 <!-- id: chem34a2-lc-4 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. The equilibrium shifts right because total pressure increased.
 - B. The equilibrium shifts left because argon reacts with SO₃.
@@ -9491,6 +10896,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1320.** A concentration–time graph for 2SO₂(g) + O₂(g) ⇌ 2SO₃(g) shows that at time t, [SO₃] jumps up vertically and then gradually decreases, while [SO₂] and [O₂] gradually increase from t until new constant values. What change was made at time t?
 <!-- id: chem34a2-lc-5 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. The temperature was increased.
 - B. Some SO₃ was added to the vessel.
@@ -9499,21 +10905,25 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1321.** Methanol is made by CO(g) + 2H₂(g) ⇌ CH₃OH(g), ΔH = −91 kJ mol⁻¹. Explain the effect of increasing pressure, by decreasing the volume at constant temperature, on the equilibrium yield of methanol and on K. (3 marks)
 <!-- id: chem34a2-lc-6 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1322.** Fe³⁺(aq) + SCN⁻(aq) ⇌ FeSCN²⁺(aq). FeSCN²⁺ is deep red. Water is added to double the volume of an equilibrium mixture. Using the reaction quotient, explain the direction of the shift and the colour change observed. (3 marks)
 <!-- id: chem34a2-lc-7 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1323.** For the exothermic reaction N₂(g) + 3H₂(g) ⇌ 2NH₃(g), the temperature of an equilibrium mixture is increased at constant volume. Describe the changes you would see on a concentration–time graph for all three species, and state the effect on K. (3 marks)
 <!-- id: chem34a2-lc-8 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1324.** The Haber process (N₂(g) + 3H₂(g) ⇌ 2NH₃(g), ΔH = −92 kJ mol⁻¹) operates at about 400–450 °C. Why is a lower temperature not used?
 <!-- id: chem34a2-ind-1 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. Lower temperatures would decrease the equilibrium yield of ammonia.
 - B. The iron catalyst only works below 200 °C.
@@ -9522,6 +10932,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1325.** Which statement best describes the role of the iron catalyst in the Haber process?
 <!-- id: chem34a2-ind-2 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. It increases the rate of reaction without changing the equilibrium yield.
 - B. It increases the equilibrium yield by shifting the position to the right.
@@ -9530,6 +10941,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1326.** In the Haber process, the gas mixture leaving the reactor is cooled so that ammonia condenses and is removed; the unreacted N₂ and H₂ are recycled. What is the main effect of this?
 <!-- id: chem34a2-ind-3 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. It increases K for the reaction.
 - B. It increases the overall conversion of N₂ and H₂ into ammonia.
@@ -9538,6 +10950,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1327.** In the contact process, 2SO₂(g) + O₂(g) ⇌ 2SO₃(g) is exothermic and has fewer gas particles on the product side, yet it is run at only slightly above atmospheric pressure. What is the best reason?
 <!-- id: chem34a2-ind-4 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. High pressure would decrease the yield of SO₃.
 - B. The V₂O₅ catalyst is destroyed at high pressure.
@@ -9546,6 +10959,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1328.** An engineer proposes raising the temperature of an exothermic equilibrium reaction in an industrial reactor. Which pair of effects is expected?
 <!-- id: chem34a2-ind-5 -->
+*Info: Application · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. Rate increases; equilibrium yield increases.
 - B. Rate decreases; equilibrium yield increases.
@@ -9554,22 +10968,26 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1329.** Methanol is manufactured by CO(g) + 2H₂(g) ⇌ CH₃OH(g), ΔH = −91 kJ mol⁻¹, at about 250 °C and 50–100 atm with a Cu/ZnO catalyst. Explain why these conditions are a compromise. (3 marks)
 <!-- id: chem34a2-ind-6 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1330.** A Haber process plant uses 10.0 tonnes of N₂ in excess H₂ and collects 2.50 tonnes of NH₃ in a single pass. Calculate the percentage yield. (3 marks)
 <!-- id: chem34a2-ind-7 -->
+*Info: Calculation · about 3 marks · about 4 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1331.** Explain how the use of a catalyst in an industrial process supports the green chemistry principle of energy efficiency. (2 marks)
 <!-- id: chem34a2-ind-8 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1332.** Argon is added to an equilibrium mixture of N₂, H₂ and NH₃ in a rigid container at constant temperature. The equilibrium position:
 <!-- id: chem-3-4-c1 -->
 *Challenge question*
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A; harder than most exam questions*
 
 - A. Shifts right, because the total pressure increases and the right side has fewer particles
 - B. Does not change, because the concentrations of the reacting gases are unchanged
@@ -9580,8 +10998,11 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 #### Electrolytic cell design and products
 
+*Exam relevance: High (comes up in most exams) · Prerequisites: Electrochemical series; Galvanic cells*
+
 **Q1333.** In an electrolytic cell, oxidation occurs at the
 <!-- id: chem-4-1-1 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. anode, which is connected to the positive terminal of the power supply
 - B. cathode, which is connected to the negative terminal of the power supply
@@ -9590,6 +11011,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1334.** Which energy transformation occurs in an electrolytic cell?
 <!-- id: chem-4-1-2 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. Chemical energy to electrical energy
 - B. Electrical energy to chemical energy
@@ -9598,6 +11020,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1335.** Molten sodium chloride is electrolysed using inert electrodes. The product at the cathode is
 <!-- id: chem-4-1-3 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. chlorine gas
 - B. hydrogen gas
@@ -9606,11 +11029,13 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1336.** Write the anode and cathode half-equations for the electrolysis of molten potassium bromide.
 <!-- id: chem-4-1-4 -->
+*Info: Conceptual · about 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1337.** Molten sodium chloride is electrolysed using inert electrodes. The product at the anode is
 <!-- id: chem-4-1-5 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. sodium liquid
 - B. oxygen gas
@@ -9619,6 +11044,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1338.** A 1.0 M aqueous sodium chloride solution is electrolysed with inert graphite electrodes. What forms at the cathode?
 <!-- id: chem-4-1-6 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. Hydrogen gas and hydroxide ions
 - B. Sodium metal
@@ -9627,6 +11053,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1339.** Dilute aqueous sodium sulfate is electrolysed with platinum electrodes. The ratio of the volume of gas at the cathode to that at the anode (same conditions) is
 <!-- id: chem-4-1-7 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. 1 : 1
 - B. 2 : 1
@@ -9635,11 +11062,13 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1340.** Explain why sodium metal is not produced when dilute aqueous sodium chloride is electrolysed.
 <!-- id: chem-4-1-8 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1341.** During electrolysis of aqueous copper(II) sulfate with graphite electrodes, which observation is expected over time?
 <!-- id: chem-4-1-9 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. The blue colour deepens and the solution becomes basic
 - B. The solution colour stays constant and the pH stays constant
@@ -9648,6 +11077,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1342.** Aqueous copper(II) sulfate is electrolysed using copper electrodes. Which statement is correct?
 <!-- id: chem-4-1-10 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. Oxygen gas forms at the anode and the solution becomes acidic
 - B. Hydrogen gas forms at the cathode
@@ -9656,6 +11086,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1343.** In the industrial electrolysis of concentrated brine, chlorine rather than oxygen is the main anode product. This is mainly because
 <!-- id: chem-4-1-11 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. the high Cl⁻ concentration and the large overpotential for O₂ formation favour oxidation of Cl⁻
 - B. Cl⁻ is a stronger reductant than water under standard conditions
@@ -9664,11 +11095,13 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1344.** Write the overall equation for the electrolysis of dilute sulfuric acid using platinum electrodes.
 <!-- id: chem-4-1-12 -->
+*Info: Conceptual · about 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1345.** Aqueous potassium iodide is electrolysed with inert electrodes. The products at the anode and cathode respectively are
 <!-- id: chem-4-1-13 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. oxygen and potassium
 - B. iodine and hydrogen
@@ -9677,6 +11110,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1346.** Aluminium is produced by electrolysing alumina dissolved in molten cryolite rather than an aqueous solution because
 <!-- id: chem-4-1-14 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. Al³⁺ is a stronger oxidant than water
 - B. aluminium compounds are insoluble in all solvents
@@ -9685,6 +11119,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1347.** Using standard electrode potentials (Cu²⁺/Cu = +0.34 V, O₂/H₂O = +1.23 V), the theoretical minimum voltage to electrolyse aqueous CuSO₄ with inert electrodes is
 <!-- id: chem-4-1-15 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. 1.57 V
 - B. 0.34 V
@@ -9693,11 +11128,13 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1348.** Aqueous nickel(II) sulfate is electrolysed with inert electrodes. Write the overall equation.
 <!-- id: chem-4-1-16 -->
+*Info: Conceptual · about 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1349.** In an electrolytic cell, electrons in the external circuit flow
 <!-- id: chem-4-1-17 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. from the anode to the positive terminal of the power supply, and from the negative terminal to the cathode
 - B. from the cathode to the anode through the electrolyte
@@ -9706,6 +11143,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1350.** In an electrolytic cell, cations in the electrolyte migrate towards the
 <!-- id: chem-4-1-18 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. anode, which is negative
 - B. cathode, which is negative
@@ -9714,6 +11152,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1351.** Aqueous silver nitrate is electrolysed using platinum electrodes. The products are
 <!-- id: chem-4-1-19 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. hydrogen at the cathode and oxygen at the anode
 - B. silver at the cathode and nitrogen dioxide at the anode
@@ -9722,11 +11161,13 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1352.** Using E°(I₂/I⁻) = +0.54 V and E°(H₂O/H₂) = −0.83 V, calculate the minimum theoretical voltage needed to electrolyse aqueous potassium iodide.
 <!-- id: chem-4-1-20 -->
+*Info: Calculation · about 2 marks · about 2.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1353.** During electrolysis of aqueous sodium chloride, the pH of the solution near the cathode
 <!-- id: chem-4-1-21 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. decreases
 - B. stays at 7
@@ -9735,6 +11176,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1354.** In the Downs cell for producing sodium from molten NaCl, calcium chloride is added mainly to
 <!-- id: chem-4-1-22 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. lower the melting point of the electrolyte and reduce energy costs
 - B. act as a catalyst for chlorine formation
@@ -9743,6 +11185,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1355.** In the Downs cell, the sodium and chlorine products must be kept separated mainly because
 <!-- id: chem-4-1-23 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. chlorine dissolves in liquid sodium without reacting
 - B. they would react together to re-form sodium chloride
@@ -9751,16 +11194,19 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1356.** Explain why an electrolytic cell requires an external power supply.
 <!-- id: chem-4-1-24 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1357.** Explain why graphite or platinum is often chosen as the electrode material in electrolysis.
 <!-- id: chem-4-1-25 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1358.** Which statement about an electrolytic cell is correct?
 <!-- id: chem34a2-ely-1 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. Oxidation occurs at the anode, which is the positive electrode.
 - B. Oxidation occurs at the anode, which is the negative electrode.
@@ -9769,6 +11215,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1359.** Molten sodium chloride is electrolysed using inert electrodes. What are the products at the cathode and anode?
 <!-- id: chem34a2-ely-2 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. Cathode: H₂(g); anode: Cl₂(g)
 - B. Cathode: Na(l); anode: Cl₂(g)
@@ -9777,6 +11224,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1360.** A 1.0 M Na₂SO₄(aq) solution is electrolysed using platinum electrodes. Which products form?
 <!-- id: chem34a2-ely-3 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. Na(s) at the cathode and SO₂(g) at the anode
 - B. Na(s) at the cathode and O₂(g) at the anode
@@ -9785,6 +11233,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1361.** CuSO₄(aq) is electrolysed using copper electrodes. Which statement is correct?
 <!-- id: chem34a2-ely-4 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. Oxygen gas forms at the anode and [Cu²⁺] decreases.
 - B. Copper dissolves from the cathode and deposits on the anode.
@@ -9793,6 +11242,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1362.** Which statement correctly compares an electrolytic cell with a galvanic cell?
 <!-- id: chem34a2-ely-5 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. An electrolytic cell converts chemical energy into electrical energy.
 - B. An electrolytic cell uses electrical energy to drive a non-spontaneous redox reaction.
@@ -9801,22 +11251,26 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1363.** 1.0 M KI(aq) is electrolysed with inert graphite electrodes. Using the electrochemical series, write the half-equations at each electrode, the overall equation, and one observation at each electrode. (4 marks)
 <!-- id: chem34a2-ely-6 -->
+*Info: Conceptual · about 4 marks · about 5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1364.** Explain why sodium metal is produced industrially by electrolysis of molten NaCl rather than aqueous NaCl. (2 marks)
 <!-- id: chem34a2-ely-7 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1365.** A steel spoon is to be electroplated with silver. Describe the setup (electrode materials, polarity and electrolyte) and write the half-equations at each electrode. (3 marks)
 <!-- id: chem34a2-ely-8 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1366.** Dilute aqueous potassium iodide is electrolysed with inert electrodes. The main products at the cathode and the anode are:
 <!-- id: chem-4-1-c1 -->
 *Challenge question*
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A; harder than most exam questions*
 
 - A. Potassium at the cathode; iodine at the anode
 - B. Hydrogen gas at the cathode; oxygen gas at the anode
@@ -9825,8 +11279,11 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 #### Faraday's laws and calculations
 
+*Exam relevance: High (comes up in most exams) · Prerequisites: Electrolytic cell design and products; The mole and molar mass (Chemistry, Units 1 & 2)*
+
 **Q1367.** A current of 2.00 A flows for 10.0 minutes. The charge passed is
 <!-- id: chem-4-2-1 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. 1.20 × 10³ C
 - B. 20.0 C
@@ -9835,6 +11292,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1368.** How many moles of electrons are delivered by 9650 C of charge? (F = 96 500 C mol⁻¹)
 <!-- id: chem-4-2-2 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. 1.00 mol
 - B. 0.100 mol
@@ -9843,6 +11301,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1369.** What mass of copper is deposited from Cu²⁺(aq) by 0.200 mol of electrons?
 <!-- id: chem-4-2-3 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. 12.7 g
 - B. 3.18 g
@@ -9851,11 +11310,13 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1370.** Calculate the mass of nickel deposited from Ni²⁺(aq) when a current of 1.50 A flows for 45.0 minutes.
 <!-- id: chem-4-2-4 -->
+*Info: Calculation · about 3 marks · about 4 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1371.** A current of 5.00 A passes through aqueous silver nitrate for 1.00 hour. The mass of silver deposited is closest to
 <!-- id: chem-4-2-5 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. 10.1 g
 - B. 0.336 g
@@ -9864,6 +11325,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1372.** Faraday's first law of electrolysis states that the amount of substance produced at an electrode is
 <!-- id: chem-4-2-6 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. directly proportional to the quantity of charge passed
 - B. inversely proportional to the current
@@ -9872,6 +11334,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1373.** Two cells containing AgNO₃(aq) and CuSO₄(aq) are connected in series. If 0.20 mol of silver is deposited, the amount of copper deposited is
 <!-- id: chem-4-2-7 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. 0.20 mol
 - B. 0.10 mol
@@ -9880,11 +11343,13 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1374.** How long, in minutes, is needed to plate 5.00 g of silver from Ag⁺(aq) using a current of 0.750 A?
 <!-- id: chem-4-2-8 -->
+*Info: Calculation · about 3 marks · about 4 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1375.** How long would it take a current of 3.00 A to deposit 2.00 g of zinc from Zn²⁺(aq)?
 <!-- id: chem-4-2-9 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. 16.4 min
 - B. 65.6 min
@@ -9893,6 +11358,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1376.** The charge required to produce 1.00 kg of aluminium from Al³⁺ is closest to
 <!-- id: chem-4-2-10 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. 3.57 × 10⁶ C
 - B. 3.57 × 10³ C
@@ -9901,6 +11367,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1377.** A current of 2.00 A for 965 s is used to produce chlorine from molten NaCl. The volume of Cl₂ at SLC (24.8 L mol⁻¹) is
 <!-- id: chem-4-2-11 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. 0.248 L
 - B. 0.496 L
@@ -9909,11 +11376,13 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1378.** Calculate the volume of oxygen at SLC (24.8 L mol⁻¹) produced at the anode when water is electrolysed with a current of 3.00 A for 20.0 minutes.
 <!-- id: chem-4-2-12 -->
+*Info: Calculation · about 3 marks · about 4 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1379.** A charge of 1930 C deposits 0.347 g of a metal with molar mass 52.0 g mol⁻¹. The charge on the metal ion is
 <!-- id: chem-4-2-13 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. +1
 - B. +3
@@ -9922,6 +11391,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1380.** The Faraday constant represents
 <!-- id: chem-4-2-14 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. the charge on a single electron
 - B. the current needed to deposit one gram of metal
@@ -9930,6 +11400,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1381.** If the current in an electroplating cell is doubled and the time is halved, the mass of metal deposited will
 <!-- id: chem-4-2-15 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. double
 - B. halve
@@ -9938,11 +11409,13 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1382.** An aluminium smelter cell in Portland, Victoria operates at 150 kA for 24.0 hours. Calculate the mass of aluminium produced, in tonnes.
 <!-- id: chem-4-2-16 -->
+*Info: Calculation · about 3 marks · about 4 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1383.** When several electrolytic cells are connected in series, which quantity is the same in every cell?
 <!-- id: chem-4-2-17 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. The charge passed through each cell
 - B. The mass of product at each cathode
@@ -9951,6 +11424,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1384.** In the electrolysis of water, 0.400 mol of electrons passes through the cell. The amount of oxygen gas produced is
 <!-- id: chem-4-2-18 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. 0.200 mol
 - B. 0.100 mol
@@ -9959,6 +11433,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1385.** What current is needed to deposit 0.635 g of copper from Cu²⁺(aq) in 30.0 minutes?
 <!-- id: chem-4-2-19 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. 0.536 A
 - B. 2.14 A
@@ -9967,11 +11442,13 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1386.** State Faraday's second law and illustrate it with an example.
 <!-- id: chem-4-2-20 -->
+*Info: Recall · about 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1387.** How many electrons pass a point in a circuit when 1.00 C of charge flows? (e = 1.60 × 10⁻¹⁹ C)
 <!-- id: chem-4-2-21 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. 1.60 × 10⁻¹⁹
 - B. 6.02 × 10²³
@@ -9980,6 +11457,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1388.** A current of 2.00 A is passed through CuSO₄(aq) for 1.00 hour, and 2.13 g of copper is actually deposited. The efficiency of the process is closest to
 <!-- id: chem-4-2-22 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. 90%
 - B. 45%
@@ -9988,6 +11466,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1389.** The charge required to produce 0.0500 mol of hydrogen gas by reduction of water is
 <!-- id: chem-4-2-23 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. 4.83 × 10³ C
 - B. 9.65 × 10³ C
@@ -9996,16 +11475,19 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1390.** A current of 1.00 A flowing for 1930 s deposits 1.187 g of tin. Determine the charge on the tin ion in the solution.
 <!-- id: chem-4-2-24 -->
+*Info: Calculation · about 2 marks · about 2.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1391.** Cells containing AgNO₃(aq) and CuSO₄(aq) are connected in series. 1.079 g of silver is deposited. Calculate the mass of copper deposited.
 <!-- id: chem-4-2-25 -->
+*Info: Calculation · about 3 marks · about 4 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1392.** A current of 2.00 A flows through an electrolytic cell for 10.0 minutes. How much charge passes through the cell?
 <!-- id: chem34a2-far-1 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. 20.0 C
 - B. 1.24 × 10⁻² C
@@ -10014,6 +11496,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1393.** What mass of copper is deposited at a cathode when 0.200 mol of electrons passes through CuSO₄(aq)?
 <!-- id: chem34a2-far-2 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. 12.7 g
 - B. 6.35 g
@@ -10022,6 +11505,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1394.** Two cells, one containing AgNO₃(aq) and one containing Cu(NO₃)₂(aq), are connected in series. 1.08 g of silver is deposited in the first cell. What mass of copper is deposited in the second?
 <!-- id: chem34a2-far-3 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. 0.318 g
 - B. 0.635 g
@@ -10030,6 +11514,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1395.** Which statement summarises Faraday's second law of electrolysis?
 <!-- id: chem34a2-far-4 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. The mass of product is inversely proportional to the current.
 - B. The amount of product formed is independent of the charge on the ion.
@@ -10038,6 +11523,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1396.** How long would it take a current of 10.0 A to deposit 0.500 mol of aluminium from molten Al₂O₃ (Al³⁺ + 3e⁻ → Al)?
 <!-- id: chem34a2-far-5 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. 4.83 × 10³ s
 - B. 9.65 × 10³ s
@@ -10046,29 +11532,36 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1397.** A car part is chromium plated from a solution containing Cr³⁺ ions using a current of 3.50 A for 45.0 minutes. Calculate the mass of chromium deposited. (3 marks)
 <!-- id: chem34a2-far-6 -->
+*Info: Calculation · about 3 marks · about 4 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1398.** A current of 0.500 A was passed through a solution of a nickel salt for 1930 s, depositing 0.300 g of nickel. Use this data to determine the charge on the nickel ion. (3 marks)
 <!-- id: chem34a2-far-7 -->
+*Info: Calculation · about 3 marks · about 4 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1399.** Molten NaCl is electrolysed with a current of 5.00 A for 2.00 hours. Calculate the volume of chlorine gas produced, measured at SLC. (3 marks)
 <!-- id: chem34a2-far-8 -->
+*Info: Calculation · about 3 marks · about 4 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1400.** How long, in minutes, must a current of 1.50 A flow to deposit 2.00 g of silver from a solution of Ag⁺ ions?
 <!-- id: chem-4-2-c1 -->
 *Challenge question*
+*Info: Calculation · about 3 marks · about 4 min · Exam relevance: High (comes up in most exams); short answer, as in Section B; harder than most exam questions*
 
 *Written answer*
 
 #### Rechargeable (secondary) cells
 
+*Exam relevance: High (comes up in most exams) · Prerequisites: Galvanic cells; Electrolytic cell design and products*
+
 **Q1401.** While a secondary cell is being recharged, it operates as
 <!-- id: chem-4-3-1 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. an electrolytic cell
 - B. a galvanic cell
@@ -10077,6 +11570,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1402.** Which property is essential for a cell to be rechargeable?
 <!-- id: chem-4-3-2 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. The electrolyte must be aqueous
 - B. The discharge products remain in contact with the electrodes so the reaction can be reversed
@@ -10085,6 +11579,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1403.** During recharging, the electrode that acted as the anode during discharge
 <!-- id: chem-4-3-3 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. remains the anode and is connected to the positive terminal
 - B. becomes the cathode and is connected to the positive terminal
@@ -10093,11 +11588,13 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1404.** Write the overall equation for the discharge of a lead–acid battery.
 <!-- id: chem-4-3-4 -->
+*Info: Conceptual · about 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1405.** The half-equation at the anode during discharge of a lead–acid battery is
 <!-- id: chem-4-3-5 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. PbO₂(s) + SO₄²⁻(aq) + 4H⁺(aq) + 2e⁻ → PbSO₄(s) + 2H₂O(l)
 - B. PbSO₄(s) + 2e⁻ → Pb(s) + SO₄²⁻(aq)
@@ -10106,6 +11603,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1406.** The half-equation at the cathode during discharge of a lead–acid battery is
 <!-- id: chem-4-3-6 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. PbO₂(s) + SO₄²⁻(aq) + 4H⁺(aq) + 2e⁻ → PbSO₄(s) + 2H₂O(l)
 - B. Pb(s) + SO₄²⁻(aq) → PbSO₄(s) + 2e⁻
@@ -10114,6 +11612,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1407.** As a car's lead–acid battery discharges, the density of the electrolyte
 <!-- id: chem-4-3-7 -->
+*Info: Application · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. increases because water is consumed
 - B. decreases because sulfuric acid is consumed and water is produced
@@ -10122,11 +11621,13 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1408.** Explain why the PbSO₄ formed during discharge in a lead–acid battery allows the battery to be recharged.
 <!-- id: chem-4-3-8 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1409.** When a lithium-ion battery in a mobile phone discharges, lithium ions move
 <!-- id: chem-4-3-9 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. from the metal oxide electrode to the graphite electrode
 - B. from the positive terminal to the negative terminal through the external wire
@@ -10135,6 +11636,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1410.** Which half-equation occurs at the negative electrode during discharge of a lithium-ion cell?
 <!-- id: chem-4-3-10 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. Li⁺ + C₆ + e⁻ → LiC₆
 - B. Li⁺ + CoO₂ + e⁻ → LiCoO₂
@@ -10143,6 +11645,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1411.** Lithium is particularly suited to batteries for electric vehicles mainly because it
 <!-- id: chem-4-3-11 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. has a low molar mass and a very low reduction potential, giving a high voltage and energy density
 - B. is the most abundant metal in the Earth's crust
@@ -10151,11 +11654,13 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1412.** Write the half-equation at the graphite electrode while a lithium-ion battery is being recharged.
 <!-- id: chem-4-3-12 -->
+*Info: Conceptual · about 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1413.** The electrolyte in a lithium-ion battery is non-aqueous because
 <!-- id: chem-4-3-13 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. water would not conduct electricity
 - B. lithium reacts with water
@@ -10164,6 +11669,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1414.** To recharge a battery, the positive terminal of the charger must be connected to
 <!-- id: chem-4-3-14 -->
+*Info: Application · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. the negative electrode of the battery, which becomes the anode
 - B. the positive electrode of the battery, which becomes the cathode
@@ -10172,6 +11678,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1415.** A rechargeable battery gradually loses capacity after hundreds of cycles. A likely reason is
 <!-- id: chem-4-3-15 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. the Faraday constant changes with use
 - B. the battery becomes a primary cell
@@ -10180,11 +11687,13 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1416.** Explain why the charger voltage must be greater than the battery's voltage during recharging.
 <!-- id: chem-4-3-16 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1417.** Overcharging a lead–acid battery can produce gases. These gases are
 <!-- id: chem-4-3-17 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. hydrogen and oxygen
 - B. chlorine and hydrogen
@@ -10193,6 +11702,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1418.** In a nickel–metal hydride (NiMH) cell, the half-equation at the anode during discharge is
 <!-- id: chem-4-3-18 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. M + H₂O + e⁻ → MH + OH⁻
 - B. MH + OH⁻ → M + H₂O + e⁻
@@ -10201,6 +11711,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1419.** Which equation represents the overall reaction when a lead–acid battery is recharged?
 <!-- id: chem-4-3-19 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. Pb + PbO₂ + 4H⁺ + 2SO₄²⁻ → 2PbSO₄ + 2H₂O
 - B. 2H₂O → 2H₂ + O₂
@@ -10209,11 +11720,13 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1420.** Explain how the labels anode/cathode and the polarity of each electrode change when a rechargeable battery switches from discharge to recharge.
 <!-- id: chem-4-3-20 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1421.** In a lithium-ion cell with a LiCoO₂ cathode, what is reduced at the cathode during discharge?
 <!-- id: chem-4-3-21 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. Lithium, from +1 to 0
 - B. Oxygen, from −2 to −1
@@ -10222,6 +11735,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1422.** Which of the following is a primary (non-rechargeable) cell?
 <!-- id: chem-4-3-22 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. Alkaline zinc–manganese dioxide cell
 - B. Lead–acid cell
@@ -10230,6 +11744,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1423.** During discharge of a lead–acid battery, the oxidation number of lead at the positive electrode changes from
 <!-- id: chem-4-3-23 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. 0 to +2
 - B. +4 to +2
@@ -10238,16 +11753,19 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1424.** A standard car battery is labelled 12 V. Each lead–acid cell produces about 2 V. Explain how the battery achieves 12 V.
 <!-- id: chem-4-3-24 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1425.** Give one advantage and one disadvantage of lithium-ion batteries for electric vehicles in Australia.
 <!-- id: chem-4-3-25 -->
+*Info: Recall · about 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1426.** When a rechargeable (secondary) cell is being recharged, which statement is correct?
 <!-- id: chem34a2-bat-1 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. It operates as a galvanic cell, and the electrode polarities reverse.
 - B. The electrode that was the anode during discharge becomes the cathode.
@@ -10256,6 +11774,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1427.** Why can a lead–acid car battery be recharged, while a standard alkaline cell is not designed to be?
 <!-- id: chem34a2-bat-2 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. The lead–acid battery has a higher voltage.
 - B. The discharge products in a lead–acid battery are gases that can be recaptured.
@@ -10264,6 +11783,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1428.** Overall discharge reaction of a lead–acid battery: Pb(s) + PbO₂(s) + 4H⁺(aq) + 2SO₄²⁻(aq) → 2PbSO₄(s) + 2H₂O(l). As the battery discharges, what happens to the electrolyte?
 <!-- id: chem34a2-bat-3 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. Its pH decreases and its density increases.
 - B. Its sulfuric acid concentration increases.
@@ -10272,6 +11792,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1429.** During discharge of a lithium-ion battery, which describes the movement of lithium ions?
 <!-- id: chem34a2-bat-4 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. Li⁺ ions move from the graphite anode through the electrolyte to the metal oxide cathode.
 - B. Li⁺ ions move from the metal oxide cathode to the graphite anode.
@@ -10280,6 +11801,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1430.** Which factor best explains why a rechargeable battery gradually loses its capacity after many charge–discharge cycles?
 <!-- id: chem34a2-bat-5 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. The electrolyte is converted into electrons.
 - B. Side reactions and physical degradation of the electrodes mean that not all products are reconverted into reactants.
@@ -10288,22 +11810,26 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1431.** A lithium-ion cell discharges according to: anode LiC₆(s) → C₆(s) + Li⁺ + e⁻; cathode CoO₂(s) + Li⁺ + e⁻ → LiCoO₂(s). (a) Write the half-equation occurring at the graphite electrode during recharging. (b) State which terminal of the charger the graphite electrode is connected to, and explain. (3 marks)
 <!-- id: chem34a2-bat-6 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1432.** Write the overall equation for recharging a lead–acid battery, and identify the species oxidised and the species reduced during recharging. (3 marks)
 <!-- id: chem34a2-bat-7 -->
+*Info: Recall · about 3 marks · about 4 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1433.** Explain why lithium-ion batteries use a non-aqueous electrolyte, and give one safety concern associated with them. (2 marks)
 <!-- id: chem34a2-bat-8 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1434.** The electrode that acts as the anode while a rechargeable cell discharges becomes, during recharging:
 <!-- id: chem-4-3-c1 -->
 *Challenge question*
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A; harder than most exam questions*
 
 - A. The cathode, connected to the negative terminal of the charger
 - B. The anode, connected to the positive terminal of the charger
@@ -10312,8 +11838,11 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 #### Electroplating and comparing cell types
 
+*Exam relevance: Medium (comes up regularly in exams) · Prerequisites: Electrolytic cell design and products; Faraday's laws and calculations*
+
 **Q1435.** To electroplate a brass key with silver, the key should be
 <!-- id: chem-4-4-1 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. the cathode, connected to the negative terminal
 - B. the anode, connected to the positive terminal
@@ -10322,6 +11851,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1436.** In silver plating, the anode is usually made of
 <!-- id: chem-4-4-2 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. graphite
 - B. pure silver
@@ -10330,6 +11860,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1437.** A suitable electrolyte for silver electroplating is a solution containing
 <!-- id: chem-4-4-3 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. sodium chloride
 - B. copper(II) sulfate
@@ -10338,11 +11869,13 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1438.** Describe how a steel spoon could be electroplated with nickel. Include the electrodes, electrolyte and half-equations.
 <!-- id: chem-4-4-4 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1439.** When an object is copper-plated using a copper anode and CuSO₄(aq) electrolyte, the concentration of Cu²⁺(aq)
 <!-- id: chem-4-4-5 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. decreases steadily
 - B. increases steadily
@@ -10351,6 +11884,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1440.** In electrolytic refining of copper, silver and gold impurities in the impure anode
 <!-- id: chem-4-4-6 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. fall to the bottom of the cell as anode sludge
 - B. are deposited on the pure copper cathode
@@ -10359,6 +11893,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1441.** In copper refining, zinc impurities in the anode
 <!-- id: chem-4-4-7 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. fall to the bottom as sludge
 - B. are oxidised to Zn²⁺ but are not reduced at the cathode
@@ -10367,11 +11902,13 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1442.** A watch is gold-plated from a solution containing Au(I) ions using 0.200 A for 15.0 minutes. Calculate the mass of gold deposited.
 <!-- id: chem-4-4-8 -->
+*Info: Calculation · about 2 marks · about 2.5 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1443.** Which statement correctly compares the anode in galvanic and electrolytic cells?
 <!-- id: chem-4-4-9 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. The anode is positive in both cells
 - B. The anode is negative in both cells
@@ -10380,6 +11917,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1444.** Which statement about spontaneity is correct?
 <!-- id: chem-4-4-10 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. Both types of cell involve spontaneous reactions
 - B. Electrolytic cell reactions are spontaneous; galvanic cell reactions are non-spontaneous
@@ -10388,6 +11926,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1445.** A feature common to both galvanic and electrolytic cells is that
 <!-- id: chem-4-4-11 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. reduction occurs at the cathode
 - B. the cathode is positive
@@ -10396,11 +11935,13 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1446.** Compare galvanic and electrolytic cells in terms of energy conversion and the polarity of the anode.
 <!-- id: chem-4-4-12 -->
+*Info: Conceptual · about 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1447.** The energy transformation in a galvanic cell is
 <!-- id: chem-4-4-13 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. electrical energy to chemical energy
 - B. chemical energy to electrical energy
@@ -10409,6 +11950,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1448.** Why does a typical electrolytic cell not need a salt bridge, whereas a galvanic cell does?
 <!-- id: chem-4-4-14 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. Electrolytic cells do not need ions to move
 - B. Salt bridges only work with molten electrolytes
@@ -10417,6 +11959,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1449.** An object is being chrome-plated from a Cr³⁺ solution. The half-equation at the object is
 <!-- id: chem-4-4-15 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. Cr(s) → Cr³⁺(aq) + 3e⁻
 - B. 2H₂O(l) → O₂(g) + 4H⁺(aq) + 4e⁻
@@ -10425,11 +11968,13 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1450.** Explain why the copper deposited at the cathode in electrolytic refining is purer than the anode.
 <!-- id: chem-4-4-16 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1451.** Before nickel plating, the steel object is thoroughly cleaned. The main reason is to
 <!-- id: chem-4-4-17 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. ensure the plated metal adheres evenly to the surface
 - B. increase the voltage of the cell
@@ -10438,6 +11983,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1452.** In ideal silver plating using a silver anode, how does the mass lost by the anode compare with the mass gained by the cathode?
 <!-- id: chem-4-4-18 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. The anode loses twice the mass gained by the cathode
 - B. They are equal
@@ -10446,6 +11992,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1453.** For the electrolysis of a solution to occur, the applied voltage must be
 <!-- id: chem-4-4-19 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. less than the cell's E° difference
 - B. exactly zero
@@ -10454,11 +12001,13 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1454.** Explain why an inert graphite anode is not used when copper-plating an object from CuSO₄(aq).
 <!-- id: chem-4-4-20 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1455.** Steel sheet can be electroplated with zinc. Zinc continues to protect the steel even when the coating is scratched because
 <!-- id: chem-4-4-21 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. zinc is a weaker reductant than iron
 - B. zinc does not react with water or oxygen
@@ -10467,6 +12016,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1456.** Which change would increase the rate at which metal is deposited in an electroplating cell (assuming no side reactions)?
 <!-- id: chem-4-4-22 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. Increasing the current
 - B. Decreasing the current
@@ -10475,6 +12025,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1457.** In both galvanic and electrolytic cells, anions in the electrolyte migrate towards the
 <!-- id: chem-4-4-23 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. cathode
 - B. anode
@@ -10483,17 +12034,20 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1458.** A plate with surface area 50.0 cm² is silver-plated using 2.00 A for 30.0 minutes. Given the density of silver is 10.5 g cm⁻³, calculate the thickness of the silver layer in micrometres.
 <!-- id: chem-4-4-24 -->
+*Info: Calculation · about 3 marks · about 4 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1459.** State the polarity of the cathode in a galvanic cell and in an electrolytic cell, and explain the difference.
 <!-- id: chem-4-4-25 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1460.** A spoon is silver-plated using a silver anode and an AgNO₃ electrolyte. Why does [Ag⁺] stay almost constant?
 <!-- id: chem-4-4-c1 -->
 *Challenge question*
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A; harder than most exam questions*
 
 - A. Ag⁺ ions take no part in either reaction; only water is oxidised and reduced
 - B. Silver atoms are oxidised at the anode at the same rate as Ag⁺ ions are reduced at the cathode
@@ -10504,8 +12058,11 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 #### IUPAC naming and functional groups
 
+*Exam relevance: High (comes up in most exams) · Prerequisites: Hydrocarbons and IUPAC naming (Chemistry, Units 1 & 2); Functional groups and homologous series (Chemistry, Units 1 & 2)*
+
 **Q1461.** What is the IUPAC name of CH₃CH₂CH₂OH?
 <!-- id: chem-5-1-1 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. propan-1-ol
 - B. propan-2-ol
@@ -10514,6 +12071,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1462.** What is the IUPAC name of CH₃CH(OH)CH₃?
 <!-- id: chem-5-1-2 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. propan-1-ol
 - B. propan-2-ol
@@ -10522,6 +12080,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1463.** What is the IUPAC name of CH₃CH₂COOH?
 <!-- id: chem-5-1-3 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. ethanoic acid
 - B. butanoic acid
@@ -10530,6 +12089,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1464.** What is the IUPAC name of CH₃CH₂CHO?
 <!-- id: chem-5-1-4 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. propanone
 - B. propan-1-ol
@@ -10538,6 +12098,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1465.** What is the IUPAC name of CH₃COCH₂CH₃?
 <!-- id: chem-5-1-5 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. butan-2-one
 - B. butanal
@@ -10546,6 +12107,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1466.** What is the IUPAC name of CH₃CH=CHCH₃?
 <!-- id: chem-5-1-6 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. but-1-ene
 - B. but-2-ene
@@ -10554,6 +12116,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1467.** What is the IUPAC name of CH₃CH(CH₃)CH₂CH₃?
 <!-- id: chem-5-1-7 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. 3-methylbutane
 - B. pentane
@@ -10562,6 +12125,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1468.** What is the IUPAC name of CH₃CH₂CH₂CH₂Cl?
 <!-- id: chem-5-1-8 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. 4-chlorobutane
 - B. 1-chloropropane
@@ -10570,6 +12134,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1469.** What is the IUPAC name of CH₃CH₂NH₂?
 <!-- id: chem-5-1-9 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. ethanamine
 - B. ethanamide
@@ -10578,6 +12143,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1470.** What is the IUPAC name of CH₃CONH₂?
 <!-- id: chem-5-1-10 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. ethanamine
 - B. ethanamide
@@ -10586,6 +12152,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1471.** What is the IUPAC name of CH₃COOCH₂CH₃?
 <!-- id: chem-5-1-11 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. methyl propanoate
 - B. ethyl methanoate
@@ -10594,6 +12161,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1472.** Which functional group is characteristic of all alcohols?
 <!-- id: chem-5-1-12 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. carboxyl group (–COOH)
 - B. carbonyl group (C=O)
@@ -10602,6 +12170,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1473.** Which of the following compounds contains a carbonyl (C=O) functional group?
 <!-- id: chem-5-1-13 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. propanone
 - B. ethanol
@@ -10610,6 +12179,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1474.** Butan-2-ol, CH₃CH(OH)CH₂CH₃, is classified as which type of alcohol?
 <!-- id: chem-5-1-14 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. primary
 - B. secondary
@@ -10618,6 +12188,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1475.** 2-Methylpropan-2-ol, (CH₃)₃COH, is classified as which type of alcohol?
 <!-- id: chem-5-1-15 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. primary
 - B. secondary
@@ -10626,6 +12197,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1476.** What is the IUPAC name of CH₃CH₂CH(CH₃)CH₂OH?
 <!-- id: chem-5-1-16 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. 3-methylbutan-1-ol
 - B. 2-methylbutan-4-ol
@@ -10634,6 +12206,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1477.** Which general formula represents the alkane homologous series?
 <!-- id: chem-5-1-17 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. CₙH₂ₙ₊₂
 - B. CₙH₂ₙ
@@ -10642,6 +12215,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1478.** What is the IUPAC name of CH₃CHClCH₂CH₃?
 <!-- id: chem-5-1-18 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. 3-chlorobutane
 - B. 2-chlorobutane
@@ -10650,41 +12224,49 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1479.** Give the IUPAC name of CH₃CH₂CH₂CH₂CH₂OH.
 <!-- id: chem-5-1-19 -->
+*Info: Recall · about 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1480.** Write the condensed structural formula of 3-methylpentane.
 <!-- id: chem-5-1-20 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1481.** A student names a compound '3-methylbutane'. Explain why this name is incorrect and give the correct name.
 <!-- id: chem-5-1-21 -->
+*Info: Application · about 2 marks · about 2.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1482.** Give the IUPAC name of HCOOCH₃.
 <!-- id: chem-5-1-22 -->
+*Info: Recall · about 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1483.** Lactic acid, found in sour milk and fatigued muscles, has the formula CH₃CH(OH)COOH. Identify its two functional groups and give its IUPAC name.
 <!-- id: chem-5-1-23 -->
+*Info: Recall · about 2 marks · about 2.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1484.** Give the molecular formula of heptan-1-ol.
 <!-- id: chem-5-1-24 -->
+*Info: Conceptual · about 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1485.** Ethanol (M = 46 g/mol) boils at 78 °C, whereas propane (M = 44 g/mol) boils at –42 °C. Explain the difference.
 <!-- id: chem-5-1-25 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1486.** What is the IUPAC name of CH₃CH(CH₃)CH₂CH₃?
 <!-- id: chem34a2-nom-1 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. Pentane
 - B. 2-methylbutane
@@ -10693,6 +12275,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1487.** What is the IUPAC name of CH₃CH₂CH(OH)CH₃?
 <!-- id: chem34a2-nom-2 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. Butan-1-ol
 - B. Butan-3-ol
@@ -10701,6 +12284,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1488.** What is the IUPAC name of CH₃COOCH₂CH₃?
 <!-- id: chem34a2-nom-3 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. Ethyl ethanoate
 - B. Methyl propanoate
@@ -10709,6 +12293,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1489.** What is the IUPAC name of CH₃CH(NH₂)CH₃?
 <!-- id: chem34a2-nom-4 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. Propan-1-amine
 - B. Propan-2-amine
@@ -10717,6 +12302,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1490.** What is the IUPAC name of CH₃CH=C(CH₃)CH₃?
 <!-- id: chem34a2-nom-5 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. 3-methylbut-2-ene
 - B. 2-methylbut-3-ene
@@ -10725,22 +12311,26 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1491.** Write the semi-structural (condensed) formula for (a) 3-methylpentanoic acid and (b) 1,2-dichloropropane. (2 marks)
 <!-- id: chem34a2-nom-6 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1492.** A student named a compound '2-ethylbutane'. Explain why this name is incorrect and give the correct IUPAC name. (2 marks)
 <!-- id: chem34a2-nom-7 -->
+*Info: Application · about 2 marks · about 2.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1493.** Propan-1-ol reacts with butanoic acid. Name the ester produced and write its semi-structural formula. (2 marks)
 <!-- id: chem34a2-nom-8 -->
+*Info: Recall · about 2 marks · about 2.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1494.** The IUPAC name of CH₃CH(CH₃)CH₂CH(OH)CH₃ is:
 <!-- id: chem-5-1-c1 -->
 *Challenge question*
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A; harder than most exam questions*
 
 - A. 2-methylpentan-4-ol
 - B. 4-methylpentan-2-ol
@@ -10749,8 +12339,11 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 #### Structural and stereoisomers
 
+*Exam relevance: High (comes up in most exams) · Prerequisites: IUPAC naming and functional groups*
+
 **Q1495.** How many structural isomers have the molecular formula C₄H₁₀?
 <!-- id: chem-5-2-1 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. 1
 - B. 3
@@ -10759,6 +12352,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1496.** How many structural isomers have the molecular formula C₅H₁₂?
 <!-- id: chem-5-2-2 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. 2
 - B. 4
@@ -10767,6 +12361,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1497.** How many structural isomers have the molecular formula C₆H₁₄?
 <!-- id: chem-5-2-3 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. 5
 - B. 4
@@ -10775,6 +12370,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1498.** Which pair of compounds are structural isomers?
 <!-- id: chem-5-2-4 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. butan-1-ol and butanal
 - B. butan-1-ol and 2-methylpropan-2-ol
@@ -10783,6 +12379,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1499.** Which compound is a structural isomer of ethyl ethanoate (C₄H₈O₂)?
 <!-- id: chem-5-2-5 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. butanal
 - B. butan-1-ol
@@ -10791,6 +12388,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1500.** Which compound is a structural isomer of propanal?
 <!-- id: chem-5-2-6 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. propan-1-ol
 - B. propanoic acid
@@ -10799,6 +12397,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1501.** How many structural isomers have the formula C₃H₇Cl?
 <!-- id: chem-5-2-7 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. 2
 - B. 1
@@ -10807,6 +12406,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1502.** How many structural isomers have the formula C₄H₉Br?
 <!-- id: chem-5-2-8 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. 2
 - B. 4
@@ -10815,6 +12415,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1503.** Structural isomers are compounds that have
 <!-- id: chem-5-2-9 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. the same structural formula but different molecular formulas
 - B. the same molecular formula and the same arrangement of atoms
@@ -10823,6 +12424,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1504.** Pentane and 2,2-dimethylpropane are best described as
 <!-- id: chem-5-2-10 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. positional isomers
 - B. functional group isomers
@@ -10831,6 +12433,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1505.** Propan-1-ol and propan-2-ol are best described as
 <!-- id: chem-5-2-11 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. positional isomers
 - B. chain isomers
@@ -10839,6 +12442,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1506.** Propanal and propanone are best described as
 <!-- id: chem-5-2-12 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. chain isomers
 - B. functional group isomers
@@ -10847,6 +12451,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1507.** Which isomer of C₄H₁₀O is a tertiary alcohol?
 <!-- id: chem-5-2-13 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. butan-2-ol
 - B. butan-1-ol
@@ -10855,6 +12460,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1508.** How many alcohols have the molecular formula C₄H₁₀O?
 <!-- id: chem-5-2-14 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. 2
 - B. 3
@@ -10863,6 +12469,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1509.** Which isomer of C₅H₁₂ has the lowest boiling point?
 <!-- id: chem-5-2-15 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. 2,2-dimethylpropane
 - B. pentane
@@ -10871,6 +12478,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1510.** Ignoring stereoisomers, how many alkenes have the molecular formula C₄H₈?
 <!-- id: chem-5-2-16 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. 2
 - B. 3
@@ -10879,6 +12487,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1511.** Which compound is NOT a structural isomer of hexane?
 <!-- id: chem-5-2-17 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. 2-methylpentane
 - B. 3-methylpentane
@@ -10887,6 +12496,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1512.** How many carboxylic acids have the molecular formula C₄H₈O₂?
 <!-- id: chem-5-2-18 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. 1
 - B. 3
@@ -10895,41 +12505,49 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1513.** Name the three structural isomers of C₅H₁₂.
 <!-- id: chem-5-2-19 -->
+*Info: Recall · about 3 marks · about 4 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1514.** Name the two esters with the molecular formula C₃H₆O₂.
 <!-- id: chem-5-2-20 -->
+*Info: Recall · about 2 marks · about 2.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1515.** Explain why pentane (36 °C) has a higher boiling point than its isomer 2,2-dimethylpropane (10 °C).
 <!-- id: chem-5-2-21 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1516.** Give the condensed structural formulas and names of the two alcohols with formula C₃H₈O.
 <!-- id: chem-5-2-22 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1517.** Explain why but-1-ene and butane are not isomers.
 <!-- id: chem-5-2-23 -->
+*Info: Conceptual · about 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1518.** Give the name of the positional isomer of 1-chloropentane in which the chlorine is on the middle carbon.
 <!-- id: chem-5-2-24 -->
+*Info: Recall · about 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1519.** Butanal and 2-methylpropanal are two carbonyl compounds with the formula C₄H₈O. Name the ketone that is also an isomer of these.
 <!-- id: chem-5-2-25 -->
+*Info: Recall · about 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1520.** How many structural isomers have the molecular formula C₄H₁₀?
 <!-- id: chem34a2-iso-1 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. 1
 - B. 3
@@ -10938,6 +12556,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1521.** Which compound can exist as cis and trans isomers?
 <!-- id: chem34a2-iso-2 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. But-2-ene
 - B. But-1-ene
@@ -10946,6 +12565,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1522.** Which molecule contains a chiral carbon atom?
 <!-- id: chem34a2-iso-3 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. Propan-2-ol
 - B. Butan-2-ol
@@ -10954,6 +12574,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1523.** Two enantiomers of a compound are compared. In which property would they differ?
 <!-- id: chem34a2-iso-4 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. Boiling point
 - B. Molar mass
@@ -10962,6 +12583,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1524.** How many structural isomers have the formula C₃H₇Cl?
 <!-- id: chem34a2-iso-5 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. 1
 - B. 2
@@ -10970,22 +12592,26 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1525.** Explain why but-2-ene exists as cis and trans isomers, but propene (CH₂=CHCH₃) does not. (3 marks)
 <!-- id: chem34a2-iso-6 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1526.** Name the four structural isomers of C₄H₉OH that are alcohols, and identify which one is chiral. (3 marks)
 <!-- id: chem34a2-iso-7 -->
+*Info: Recall · about 3 marks · about 4 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1527.** Many medicines contain a chiral carbon. Explain why pharmaceutical companies may need to produce a single enantiomer rather than a mixture of both. (2 marks)
 <!-- id: chem34a2-iso-8 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1528.** How many structural isomers have the formula C₄H₉Cl, and how many of them have a chiral carbon?
 <!-- id: chem-5-2-c1 -->
 *Challenge question*
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A; harder than most exam questions*
 
 - A. 4 isomers; 2 are chiral
 - B. 3 isomers; 1 is chiral
@@ -10994,8 +12620,11 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 #### Addition, substitution, oxidation, condensation, hydrolysis
 
+*Exam relevance: High (comes up in most exams) · Prerequisites: IUPAC naming and functional groups*
+
 **Q1529.** Ethene reacts with steam in the presence of a phosphoric acid catalyst. What is the organic product?
 <!-- id: chem-5-3-1 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. ethanol
 - B. ethane
@@ -11004,6 +12633,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1530.** What type of reaction occurs when ethene reacts with bromine?
 <!-- id: chem-5-3-2 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. substitution
 - B. addition
@@ -11012,6 +12642,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1531.** Propene reacts with hydrogen chloride. Which of the following is a possible organic product?
 <!-- id: chem-5-3-3 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. 1,2-dichloropropane
 - B. 3-chloropropene
@@ -11020,6 +12651,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1532.** Which catalyst is commonly used for the addition of hydrogen to an alkene?
 <!-- id: chem-5-3-4 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. phosphoric acid
 - B. concentrated sulfuric acid
@@ -11028,6 +12660,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1533.** Chloroethane reacts with aqueous sodium hydroxide to form ethanol. This reaction is classified as
 <!-- id: chem-5-3-5 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. substitution
 - B. addition
@@ -11036,6 +12669,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1534.** Chloroethane reacts with ammonia. What is the organic product?
 <!-- id: chem-5-3-6 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. ethanamide
 - B. ethanamine
@@ -11044,6 +12678,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1535.** Propan-1-ol is heated under reflux with excess acidified potassium dichromate. What is the final organic product?
 <!-- id: chem-5-3-7 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. propanone
 - B. propanal
@@ -11052,6 +12687,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1536.** Propan-2-ol is heated with acidified potassium permanganate. What is the organic product?
 <!-- id: chem-5-3-8 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. propanal
 - B. propanoic acid
@@ -11060,6 +12696,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1537.** 2-Methylpropan-2-ol is warmed with acidified potassium dichromate. What is observed?
 <!-- id: chem-5-3-9 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. no reaction occurs and the solution stays orange
 - B. 2-methylpropanal forms and the solution turns green
@@ -11068,6 +12705,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1538.** When acidified potassium dichromate oxidises an alcohol, the colour change observed is
 <!-- id: chem-5-3-10 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. purple to colourless
 - B. orange to green
@@ -11076,6 +12714,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1539.** When acidified potassium permanganate oxidises an alcohol, the colour change observed is
 <!-- id: chem-5-3-11 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. orange to green
 - B. colourless to purple
@@ -11084,6 +12723,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1540.** Ethanoic acid reacts with ethanol in the presence of concentrated sulfuric acid. This reaction is classified as
 <!-- id: chem-5-3-12 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. addition
 - B. substitution
@@ -11092,6 +12732,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1541.** What is the main role of concentrated sulfuric acid in an esterification reaction?
 <!-- id: chem-5-3-13 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. catalyst
 - B. oxidising agent
@@ -11100,6 +12741,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1542.** N-methylethanamide, CH₃CONHCH₃, is hydrolysed in acidic solution. What are the products?
 <!-- id: chem-5-3-14 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. ethanamine and methanoic acid
 - B. ethanoic acid and methanamine
@@ -11108,6 +12750,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1543.** Which statement best describes a condensation reaction?
 <!-- id: chem-5-3-15 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. a molecule is split by reaction with water
 - B. atoms are added across a double bond
@@ -11116,6 +12759,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1544.** What small molecule is eliminated when an ester forms from a carboxylic acid and an alcohol?
 <!-- id: chem-5-3-16 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. hydrogen chloride
 - B. hydrogen
@@ -11124,6 +12768,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1545.** Ethyl ethanoate is heated with aqueous sodium hydroxide. What are the products?
 <!-- id: chem-5-3-17 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. sodium ethanoate and ethanol
 - B. ethanoic acid and sodium ethoxide
@@ -11132,6 +12777,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1546.** Methane reacts with chlorine in UV light to form chloromethane and hydrogen chloride. This reaction is classified as
 <!-- id: chem-5-3-18 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. addition
 - B. substitution
@@ -11140,41 +12786,49 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1547.** Write a balanced equation for the reaction of ethene with steam and state the catalyst and reaction type.
 <!-- id: chem-5-3-19 -->
+*Info: Recall · about 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1548.** Write a balanced equation for the reaction of 1-bromopropane with aqueous sodium hydroxide.
 <!-- id: chem-5-3-20 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1549.** Explain why alkenes undergo addition reactions but alkanes do not.
 <!-- id: chem-5-3-21 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1550.** Explain how the conditions of oxidising ethanol with acidified dichromate determine whether ethanal or ethanoic acid is the main product.
 <!-- id: chem-5-3-22 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1551.** What is the atom economy for producing ethanol by the hydration of ethene? Explain.
 <!-- id: chem-5-3-23 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1552.** Calculate the atom economy for producing ethanol from chloroethane and sodium hydroxide: C₂H₅Cl + NaOH → C₂H₅OH + NaCl. (M: C₂H₅Cl 64.5, NaOH 40.0, C₂H₅OH 46.0 g/mol)
 <!-- id: chem-5-3-24 -->
+*Info: Calculation · about 2 marks · about 2.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1553.** Describe a simple chemical test to distinguish hexene from hexane.
 <!-- id: chem-5-3-25 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1554.** Ethene reacts with steam at about 300 °C with a phosphoric acid catalyst. What is the product and type of reaction?
 <!-- id: chem34a2-rxn-1 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. Ethanoic acid; oxidation
 - B. Ethane; addition
@@ -11183,6 +12837,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1555.** Which reaction is a substitution reaction?
 <!-- id: chem34a2-rxn-2 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. CH₃CH₂Cl(l) + OH⁻(aq) → CH₃CH₂OH(aq) + Cl⁻(aq)
 - B. CH₂=CH₂(g) + H₂(g) → CH₃CH₃(g)
@@ -11191,6 +12846,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1556.** Propan-1-ol is heated with excess acidified potassium dichromate solution. Which observation and product are correct?
 <!-- id: chem34a2-rxn-3 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. The solution changes from green to orange; propanoic acid forms.
 - B. The solution changes from orange to green; propanoic acid forms.
@@ -11199,6 +12855,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1557.** Which statement about the formation of an ester from a carboxylic acid and an alcohol is correct?
 <!-- id: chem34a2-rxn-4 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. It is an addition reaction that needs UV light.
 - B. Hydrogen gas is a by-product.
@@ -11207,6 +12864,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1558.** Ethane is mixed with chlorine gas and exposed to UV light. Which equation shows the first product formed?
 <!-- id: chem34a2-rxn-5 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. C₂H₆(g) + Cl₂(g) → C₂H₅Cl(g) + HCl(g)
 - B. C₂H₆(g) + Cl₂(g) → C₂H₆Cl₂(g)
@@ -11215,22 +12873,26 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1559.** Write a balanced equation, using semi-structural formulas, for the reaction between ethanoic acid and methanol. Name the organic product and state the conditions required. (3 marks)
 <!-- id: chem34a2-rxn-6 -->
+*Info: Recall · about 3 marks · about 4 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1560.** Chloroethane reacts with ammonia to form an amine. Write the balanced equation, name the organic product and identify the type of reaction. (3 marks)
 <!-- id: chem34a2-rxn-7 -->
+*Info: Recall · about 3 marks · about 4 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1561.** Bromine water is added to propene and to propane in separate test tubes. Describe and explain the observations, including an equation for any reaction. (3 marks)
 <!-- id: chem34a2-rxn-8 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1562.** Which alkene gives only one product when it reacts with HCl?
 <!-- id: chem-5-3-c1 -->
 *Challenge question*
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A; harder than most exam questions*
 
 - A. But-1-ene
 - B. Propene
@@ -11239,8 +12901,11 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 #### Reaction pathways, esters and yield
 
+*Exam relevance: High (comes up in most exams) · Prerequisites: Addition, substitution, oxidation, condensation, hydrolysis; Percentage yield calculations*
+
 **Q1563.** Which two-step pathway converts ethene into ethanoic acid?
 <!-- id: chem-5-4-1 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. react with HCl, then heat with NaOH(aq)
 - B. react with H₂ (Ni catalyst), then heat with acidified K₂Cr₂O₇
@@ -11249,6 +12914,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1564.** Which pair of reactants produces ethyl propanoate?
 <!-- id: chem-5-4-2 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. propan-1-ol and ethanoic acid
 - B. ethanol and ethanoic acid
@@ -11257,6 +12923,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1565.** What is the name of the ester formed from methanol and butanoic acid?
 <!-- id: chem-5-4-3 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. methyl butanoate
 - B. butyl methanoate
@@ -11265,6 +12932,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1566.** Propyl ethanoate, CH₃COOCH₂CH₂CH₃, is formed from which reactants?
 <!-- id: chem-5-4-4 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. ethanol and propanoic acid
 - B. propan-1-ol and ethanoic acid
@@ -11273,6 +12941,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1567.** What is the molecular formula of ethyl ethanoate?
 <!-- id: chem-5-4-5 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. C₄H₁₀O₂
 - B. C₃H₆O₂
@@ -11281,6 +12950,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1568.** Which pathway converts chloroethane into ethanoic acid?
 <!-- id: chem-5-4-6 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. heat with NH₃, then heat with acidified KMnO₄
 - B. react with H₂O and H₃PO₄, then react with H₂ and Ni
@@ -11289,6 +12959,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1569.** Which two-step pathway produces ethanamine from ethene?
 <!-- id: chem-5-4-7 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. add HCl, then react the chloroethane with NH₃
 - B. add H₂O, then react the ethanol with NH₃
@@ -11297,6 +12968,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1570.** Why does ethyl ethanoate (77 °C) have a lower boiling point than butanoic acid (164 °C), even though they are isomers?
 <!-- id: chem-5-4-8 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. ethyl ethanoate has a smaller molar mass
 - B. ester molecules cannot form hydrogen bonds with each other, whereas carboxylic acid molecules can
@@ -11305,6 +12977,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1571.** A student reacted 12.0 g of ethanoic acid (M = 60.0 g/mol) with excess ethanol and obtained 14.1 g of ethyl ethanoate (M = 88.0 g/mol). What is the percentage yield?
 <!-- id: chem-5-4-9 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. 117.5%
 - B. 85.1%
@@ -11313,6 +12986,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1572.** A two-step synthesis has a yield of 80% for step 1 and 75% for step 2. What is the overall percentage yield?
 <!-- id: chem-5-4-10 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. 155%
 - B. 77.5%
@@ -11321,6 +12995,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1573.** Biodiesel is made by reacting a triglyceride (vegetable oil) with methanol using a KOH catalyst. The products are
 <!-- id: chem-5-4-11 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. fatty acid methyl esters and glycerol
 - B. fatty acids and methanol
@@ -11329,6 +13004,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1574.** Which reagents convert ethanol directly into ethyl ethanoate in one step?
 <!-- id: chem-5-4-12 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. acidified K₂Cr₂O₇ under reflux
 - B. ethanoic acid with a concentrated H₂SO₄ catalyst
@@ -11337,6 +13013,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1575.** Methyl propanoate is hydrolysed in dilute acid. What are the products?
 <!-- id: chem-5-4-13 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. propan-1-ol and methanoic acid
 - B. methanol and propanal
@@ -11345,6 +13022,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1576.** Which group of atoms is characteristic of an ester?
 <!-- id: chem-5-4-14 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. –COOH
 - B. –CONH–
@@ -11353,6 +13031,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1577.** What is the IUPAC name of CH₃CH₂COOCH₂CH₂CH₃?
 <!-- id: chem-5-4-15 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. propyl propanoate
 - B. ethyl propanoate
@@ -11361,6 +13040,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1578.** 2-Chloropropane is heated with NaOH(aq), and the organic product is then heated with acidified K₂Cr₂O₇. What is the final organic product?
 <!-- id: chem-5-4-16 -->
+*Info: Application · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. propanal
 - B. propanone
@@ -11369,6 +13049,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1579.** Calculate the atom economy for making ethyl ethanoate: CH₃COOH + C₂H₅OH → CH₃COOC₂H₅ + H₂O. (M: CH₃COOH 60.0, C₂H₅OH 46.0, CH₃COOC₂H₅ 88.0 g/mol)
 <!-- id: chem-5-4-17 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. 100%
 - B. 17.0%
@@ -11377,6 +13058,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1580.** Pentyl ethanoate has a banana-like odour. Which reactants form it?
 <!-- id: chem-5-4-18 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. ethanol and pentanoic acid
 - B. pentan-1-ol and methanoic acid
@@ -11385,41 +13067,49 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1581.** Outline a reaction pathway to make ethyl ethanoate using ethene as the only organic starting material. Give reagents for each step.
 <!-- id: chem-5-4-19 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1582.** Write a balanced equation for the formation of methyl ethanoate.
 <!-- id: chem-5-4-20 -->
+*Info: Conceptual · about 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1583.** 23.0 g of ethanol (M = 46.0 g/mol) reacts with excess ethanoic acid. If the yield is 65.0%, what mass of ethyl ethanoate (M = 88.0 g/mol) is obtained?
 <!-- id: chem-5-4-21 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1584.** Name CH₃CH₂COOCH₂CH₃ and the products of its acid hydrolysis.
 <!-- id: chem-5-4-22 -->
+*Info: Recall · about 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1585.** Give a two-step pathway, with reagents, to convert chloroethane into ethanoic acid.
 <!-- id: chem-5-4-23 -->
+*Info: Recall · about 2 marks · about 2.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1586.** Name the ester formed from ethanol and methanoic acid and give its condensed formula.
 <!-- id: chem-5-4-24 -->
+*Info: Recall · about 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1587.** A three-step synthesis has yields of 90%, 80% and 75%. Calculate the overall percentage yield.
 <!-- id: chem-5-4-25 -->
+*Info: Calculation · about 2 marks · about 2.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1588.** Which reagents would convert ethene into ethanoic acid in two steps?
 <!-- id: chem34a2-syn-1 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. Step 1: H₂/Ni; Step 2: Cl₂/UV light
 - B. Step 1: H₂O(g)/H₃PO₄; Step 2: H⁺/Cr₂O₇²⁻
@@ -11428,6 +13118,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1589.** What is the atom economy for the production of ethanol by the reaction CH₂=CH₂(g) + H₂O(g) → CH₃CH₂OH(g)?
 <!-- id: chem34a2-syn-2 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. 50%
 - B. 61%
@@ -11436,6 +13127,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1590.** Ethanol can also be made by CH₃CH₂Cl + NaOH → CH₃CH₂OH + NaCl. What is the atom economy for ethanol? (M: C₂H₅Cl = 64.5, NaOH = 40.0, C₂H₅OH = 46.0 g mol⁻¹)
 <!-- id: chem34a2-syn-3 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. 44.0%
 - B. 71.3%
@@ -11444,6 +13136,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1591.** A three-step synthesis has step yields of 80%, 70% and 90%. What is the overall percentage yield?
 <!-- id: chem34a2-syn-4 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. 80%
 - B. 70%
@@ -11452,6 +13145,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1592.** A reaction has a percentage yield of 95% but an atom economy of 30%. Which statement is correct?
 <!-- id: chem34a2-syn-5 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. Most of the reactant atoms end up in the desired product.
 - B. The reaction is close to completion, but most of the reactant atoms end up in by-products.
@@ -11460,29 +13154,36 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1593.** 12.0 g of ethanoic acid was heated under reflux with excess ethanol and concentrated H₂SO₄. 11.0 g of ethyl ethanoate was obtained. Calculate the percentage yield. (3 marks)
 <!-- id: chem34a2-syn-6 -->
+*Info: Calculation · about 3 marks · about 4 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1594.** Outline a synthetic pathway to produce ethyl ethanoate using ethene as the only organic starting material. Include the reagents and conditions for each step. (3 marks)
 <!-- id: chem34a2-syn-7 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1595.** Calculate the atom economy for producing ethyl ethanoate by CH₃COOH + CH₃CH₂OH ⇌ CH₃COOCH₂CH₃ + H₂O, and suggest one way the percentage yield of this equilibrium reaction could be increased. (3 marks)
 <!-- id: chem34a2-syn-8 -->
+*Info: Calculation · about 3 marks · about 4 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1596.** 10.0 g of ethanol reacts with excess propanoic acid. The yield of ethyl propanoate (M = 102.0 g/mol) is 65%. What mass of ester is obtained?
 <!-- id: chem-5-4-c1 -->
 *Challenge question*
+*Info: Conceptual · about 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B; harder than most exam questions*
 
 *Written answer*
 
 #### Physical properties of organic compounds
 
+*Exam relevance: Medium (comes up regularly in exams) · Prerequisites: IUPAC naming and functional groups; Intermolecular forces (Chemistry, Units 1 & 2)*
+
 **Q1597.** Which compound has the highest boiling point?
 <!-- id: chem34a2-phys-1 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. Butane, C₄H₁₀
 - B. Methyl methanoate, HCOOCH₃
@@ -11491,6 +13192,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1598.** Why do boiling points increase from methane to octane in the alkane homologous series?
 <!-- id: chem34a2-phys-2 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. Hydrogen bonding increases with chain length.
 - B. Longer molecules have more electrons and greater surface area, so dispersion forces are stronger.
@@ -11499,6 +13201,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1599.** Pentane boils at 36 °C and its isomer 2,2-dimethylpropane boils at 10 °C. What is the best explanation?
 <!-- id: chem34a2-phys-3 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. 2,2-dimethylpropane has a lower molar mass.
 - B. Pentane can form hydrogen bonds.
@@ -11507,6 +13210,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1600.** Which statement explains why the solubility of alcohols in water decreases from methanol to hexan-1-ol?
 <!-- id: chem34a2-phys-4 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. The longer non-polar hydrocarbon chain disrupts hydrogen bonding with water and cannot itself interact strongly with water.
 - B. The –OH group becomes less polar as the chain gets longer.
@@ -11515,6 +13219,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1601.** Moving from hexane to decane in the alkane series, how do viscosity and flash point change?
 <!-- id: chem34a2-phys-5 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. Viscosity decreases; flash point decreases.
 - B. Viscosity increases; flash point decreases.
@@ -11523,22 +13228,26 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1602.** Ethanol (M = 46 g mol⁻¹) boils at 78 °C, while propane (M = 44 g mol⁻¹) boils at −42 °C. Explain this difference with reference to intermolecular forces. (3 marks)
 <!-- id: chem34a2-phys-6 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1603.** Methyl ethanoate (CH₃COOCH₃) and propanoic acid (CH₃CH₂COOH) are isomers. Explain why methyl ethanoate has a much lower boiling point. (2 marks)
 <!-- id: chem34a2-phys-7 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1604.** Propan-1-amine (CH₃CH₂CH₂NH₂) boils at 48 °C and propan-1-ol boils at 97 °C. Explain why both have higher boiling points than butane (−1 °C), but the amine boils at a lower temperature than the alcohol. (3 marks)
 <!-- id: chem34a2-phys-8 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1605.** Propan-1-ol (M = 60), propanal (M = 58) and butane (M = 58) have similar molar masses. Their boiling points in decreasing order are:
 <!-- id: chem-5-5-c1 -->
 *Challenge question*
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A; harder than most exam questions*
 
 - A. Propan-1-ol > propanal > butane
 - B. Butane > propanal > propan-1-ol
@@ -11549,8 +13258,11 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 #### Mass spectrometry
 
+*Exam relevance: High (comes up in most exams) · Prerequisites: Relative masses and mass spectrometry (Chemistry, Units 1 & 2); IUPAC naming and functional groups*
+
 **Q1606.** In a mass spectrum, the molecular ion peak (M⁺) corresponds to:
 <!-- id: chem-6-1-1 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. the ion formed when a whole molecule loses one electron
 - B. the most abundant ion detected in the spectrum
@@ -11559,6 +13271,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1607.** The base peak in a mass spectrum is best described as the peak:
 <!-- id: chem-6-1-2 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. with the highest m/z value
 - B. produced by the most abundant ion, assigned a relative intensity of 100%
@@ -11567,6 +13280,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1608.** The mass spectrum of chloromethane shows peaks at m/z 50 and 52 with relative heights of about 3:1. This is because:
 <!-- id: chem-6-1-3 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. carbon exists as ¹²C and ¹³C in about a 3:1 ratio
 - B. the molecule loses either one or three hydrogen atoms
@@ -11575,6 +13289,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1609.** The mass spectrum of bromoethane (CH₃CH₂Br) would be expected to show molecular ion peaks at:
 <!-- id: chem-6-1-4 -->
+*Info: Application · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. m/z 108 and 110 in a 3:1 ratio
 - B. m/z 109 only
@@ -11583,6 +13298,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1610.** A peak at m/z 15 in the mass spectrum of an organic compound is most likely due to:
 <!-- id: chem-6-1-5 -->
+*Info: Application · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. CH₃⁺
 - B. NH⁺
@@ -11591,6 +13307,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1611.** The difference between the molecular ion peak and a fragment peak is 15 m/z units. This suggests the molecule lost:
 <!-- id: chem-6-1-6 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. an ethyl group (C₂H₅)
 - B. a methyl group (CH₃)
@@ -11599,6 +13316,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1612.** What is the m/z of the molecular ion of ethanol, CH₃CH₂OH?
 <!-- id: chem-6-1-7 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. 45
 - B. 31
@@ -11607,6 +13325,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1613.** Primary alcohols such as propan-1-ol commonly show a fragment peak at m/z 31. This fragment is:
 <!-- id: chem-6-1-8 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. CH₃O⁻
 - B. C₂H₇⁺
@@ -11615,6 +13334,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1614.** In the mass spectrum of butane (M = 58), a large peak at m/z 43 is due to:
 <!-- id: chem-6-1-9 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. C₃H₇⁺ formed by loss of a CH₃ radical
 - B. C₂H₅⁺ formed by loss of a C₂H₅ radical
@@ -11623,6 +13343,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1615.** Only positively charged fragments appear in a mass spectrum because:
 <!-- id: chem-6-1-10 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. neutral fragments are too heavy to be detected
 - B. only ions are accelerated, deflected and detected; neutral radicals are not
@@ -11631,6 +13352,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1616.** The base peak in the mass spectrum of propanone (CH₃COCH₃) is at m/z 43. The ion responsible is:
 <!-- id: chem-6-1-11 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. C₃H₆O⁺
 - B. CH₃⁺
@@ -11639,6 +13361,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1617.** A small peak at one m/z unit above the molecular ion (the M+1 peak) in organic compounds is mainly due to:
 <!-- id: chem-6-1-12 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. the presence of the ³⁷Cl isotope
 - B. a molecule gaining a hydrogen atom in the instrument
@@ -11647,6 +13370,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1618.** An organic compound containing C, H and O shows a molecular ion peak at m/z 60. Which compound could it be?
 <!-- id: chem-6-1-13 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. propan-1-ol
 - B. propanal
@@ -11655,6 +13379,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1619.** A ketone with molecular ion at m/z 86 shows its base peak at m/z 57. Which ketone is most consistent with this?
 <!-- id: chem-6-1-14 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. pentan-2-one
 - B. pentan-3-one
@@ -11663,6 +13388,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1620.** Which equation correctly represents a fragmentation that occurs in a mass spectrometer?
 <!-- id: chem-6-1-15 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. [CH₃CH₂OH]⁺ → CH₂OH⁺ + CH₃⁺
 - B. CH₃CH₂OH → CH₂OH⁺ + CH₃•
@@ -11671,6 +13397,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1621.** A peak at m/z 45 in the mass spectrum of an organic acid is most likely due to:
 <!-- id: chem-6-1-16 -->
+*Info: Application · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. C₂H₅⁺
 - B. CH₂OH⁺
@@ -11679,6 +13406,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1622.** A compound has a molecular ion at m/z 74 and fragment peaks at m/z 45 and 29. The compound is most likely:
 <!-- id: chem-6-1-17 -->
+*Info: Application · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. propanoic acid
 - B. ethanoic acid
@@ -11687,6 +13415,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1623.** Why is it often difficult to distinguish structural isomers such as propan-1-ol and propan-2-ol by their molecular ion peak alone?
 <!-- id: chem-6-1-18 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. isomers never form molecular ions
 - B. isomers have the same molecular formula and therefore the same molecular ion m/z
@@ -11695,41 +13424,49 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1624.** Explain why the molecular ion peak of some organic compounds, such as certain alcohols, is very small or missing from the mass spectrum.
 <!-- id: chem-6-1-19 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1625.** Calculate the m/z value of the fragment ion CH₃CH₂CH₂⁺ and name a compound in whose mass spectrum it would be expected.
 <!-- id: chem-6-1-20 -->
+*Info: Calculation · about 3 marks · about 4 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1626.** The mass spectrum of propane has a large peak at m/z 29. Identify the ion responsible and write an equation for its formation from the molecular ion.
 <!-- id: chem-6-1-21 -->
+*Info: Recall · about 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1627.** Chloroethane, C₂H₅Cl, shows two molecular ion peaks. State their m/z values and the approximate ratio of their heights, and explain the pattern.
 <!-- id: chem-6-1-22 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1628.** The mass spectrum of ethanal (CH₃CHO) shows a significant peak at m/z 29. Identify the ion and the neutral species lost.
 <!-- id: chem-6-1-23 -->
+*Info: Recall · about 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1629.** The mass spectrum of butanone (CH₃COCH₂CH₃, M = 72) shows peaks at m/z 57 and 43. Identify the ion causing each peak.
 <!-- id: chem-6-1-24 -->
+*Info: Recall · about 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1630.** Outline the main steps that occur inside a mass spectrometer, from the sample entering to the spectrum being produced.
 <!-- id: chem-6-1-25 -->
+*Info: Data analysis · about 3 marks · about 4 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1631.** In the mass spectrum of an organic compound, the molecular ion peak (M⁺) is best described as the peak that
 <!-- id: chem34a3-ms-1 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. is always the tallest peak in the spectrum
 - B. corresponds to the whole molecule that has lost one electron
@@ -11738,6 +13475,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1632.** A mass spectrum of a haloalkane shows two molecular ion peaks at m/z = 64 and m/z = 66, with relative heights of about 3 : 1. The compound is most likely
 <!-- id: chem34a3-ms-2 -->
+*Info: Application · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. bromomethane
 - B. chloromethane
@@ -11746,6 +13484,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1633.** The base peak in the mass spectrum of butanone, CH₃COCH₂CH₃, occurs at m/z = 43. Which species is responsible for this peak?
 <!-- id: chem34a3-ms-3 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. CH₃CO⁺
 - B. CH₃CO•
@@ -11754,6 +13493,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1634.** A student notices a very small peak at m/z = 47 in the mass spectrum of ethanol (M = 46). The best explanation for this peak is
 <!-- id: chem34a3-ms-4 -->
+*Info: Application · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. the presence of an impurity with a higher molar mass
 - B. a fragment ion that has gained a hydrogen atom
@@ -11762,6 +13502,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1635.** An unknown compound has its molecular ion at m/z = 60 and prominent peaks at m/z = 45 and m/z = 15. Which compound is consistent with these data?
 <!-- id: chem34a3-ms-5 -->
+*Info: Data analysis · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. propan-1-ol
 - B. ethanoic acid
@@ -11770,22 +13511,26 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1636.** Explain why the m/z value of the molecular ion peak can be used to find the relative molecular mass of a compound, and state one reason why a molecular ion peak may be very small or absent. (2 marks)
 <!-- id: chem34a3-ms-6 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1637.** Bromoethane, CH₃CH₂Br, is analysed by mass spectrometry. Bromine exists as ⁷⁹Br and ⁸¹Br in roughly equal amounts. (a) Predict the m/z values and relative heights of the molecular ion peaks. (b) Identify the cation responsible for a peak at m/z = 29. (3 marks)
 <!-- id: chem34a3-ms-7 -->
+*Info: Application · about 3 marks · about 4 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1638.** A compound containing only C, H and O has a molecular ion at m/z = 58 and a base peak at m/z = 43. A peak at m/z = 15 is also present, but there is no peak at m/z = 29. Suggest the identity of the compound and justify using the fragments. (3 marks)
 <!-- id: chem34a3-ms-8 -->
+*Info: Evaluation · about 3 marks · about 4 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1639.** A mass spectrum shows peaks at m/z 78 and 80 in an intensity ratio of about 3 : 1. This suggests the molecule:
 <!-- id: chem-6-1-c1 -->
 *Challenge question*
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A; harder than most exam questions*
 
 - A. Contains one bromine atom
 - B. Contains one chlorine atom
@@ -11794,8 +13539,11 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 #### Infrared spectroscopy
 
+*Exam relevance: High (comes up in most exams) · Prerequisites: IUPAC naming and functional groups*
+
 **Q1640.** A broad absorption between 3200 and 3600 cm⁻¹ in an infrared spectrum indicates the presence of:
 <!-- id: chem-6-2-1 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. a C=O bond in a ketone
 - B. a C–H bond in an alkane
@@ -11804,6 +13552,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1641.** A bond will absorb infrared radiation only if its vibration:
 <!-- id: chem-6-2-2 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. breaks the bond
 - B. causes an electron to move to a higher energy level
@@ -11812,6 +13561,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1642.** A strong, sharp absorption at about 1715 cm⁻¹ is most characteristic of:
 <!-- id: chem-6-2-3 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. a C=O bond
 - B. an O–H bond
@@ -11820,6 +13570,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1643.** How can IR spectroscopy distinguish ethanoic acid from ethanol?
 <!-- id: chem-6-2-4 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. ethanol shows a C=O absorption near 1700 cm⁻¹ but ethanoic acid does not
 - B. ethanoic acid shows a C=O absorption near 1700 cm⁻¹ and a very broad O–H absorption around 2500–3000 cm⁻¹
@@ -11828,6 +13579,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1644.** The fingerprint region of an IR spectrum (below about 1500 cm⁻¹) is most useful for:
 <!-- id: chem-6-2-5 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. identifying O–H groups
 - B. determining molecular mass
@@ -11836,6 +13588,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1645.** In IR spectroscopy, absorptions are reported as wavenumbers in cm⁻¹. A higher wavenumber corresponds to:
 <!-- id: chem-6-2-6 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. longer wavelength radiation
 - B. lower frequency radiation
@@ -11844,6 +13597,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1646.** When an organic molecule absorbs infrared radiation, the energy is used to:
 <!-- id: chem-6-2-7 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. increase the vibrational energy of its bonds
 - B. ionise the molecule
@@ -11852,6 +13606,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1647.** Propan-1-ol is oxidised with excess acidified dichromate. Which change in the IR spectrum confirms that propanoic acid has formed?
 <!-- id: chem-6-2-8 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. all absorptions above 2500 cm⁻¹ disappear
 - B. a new strong absorption appears near 1700 cm⁻¹ and the O–H band becomes very broad around 2500–3000 cm⁻¹
@@ -11860,6 +13615,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1648.** Which of these molecules does NOT absorb infrared radiation?
 <!-- id: chem-6-2-9 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. CO₂
 - B. H₂O
@@ -11868,6 +13624,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1649.** An IR spectrum shows absorptions at about 1650 cm⁻¹ and in the 2850–3300 cm⁻¹ region, with no absorptions above 3300 cm⁻¹ or near 1700 cm⁻¹. The compound is most likely:
 <!-- id: chem-6-2-10 -->
+*Info: Application · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. propan-1-ol
 - B. propanal
@@ -11876,6 +13633,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1650.** How could IR spectroscopy distinguish ethyl ethanoate from butanoic acid?
 <!-- id: chem-6-2-11 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. both show C=O near 1700 cm⁻¹, but only butanoic acid shows a broad O–H absorption at 2500–3000 cm⁻¹
 - B. only ethyl ethanoate shows a C=O absorption
@@ -11884,6 +13642,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1651.** An absorption in the 3350–3500 cm⁻¹ region in the spectrum of a compound containing nitrogen most likely indicates:
 <!-- id: chem-6-2-12 -->
+*Info: Data analysis · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. a C≡N bond
 - B. an N–H bond
@@ -11892,6 +13651,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1652.** On a typical IR spectrum with percentage transmittance on the vertical axis, an absorption appears as:
 <!-- id: chem-6-2-13 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. an upward peak where more radiation is transmitted
 - B. a horizontal line at 100% transmittance
@@ -11900,6 +13660,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1653.** The C=O bond absorbs at a higher wavenumber (about 1700 cm⁻¹) than the C–O bond (about 1000–1300 cm⁻¹) mainly because:
 <!-- id: chem-6-2-14 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. the C=O bond contains heavier atoms
 - B. the C–O bond is more polar
@@ -11908,6 +13669,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1654.** How would the IR spectrum of propanone differ from that of propan-2-ol?
 <!-- id: chem-6-2-15 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. propanone shows a strong absorption near 1700 cm⁻¹ and no broad band at 3200–3600 cm⁻¹
 - B. propanone shows a broad band at 3200–3600 cm⁻¹ and no absorption near 1700 cm⁻¹
@@ -11916,6 +13678,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1655.** Propan-1-ol and propan-2-ol have very similar IR spectra above 1500 cm⁻¹. The best way to tell them apart using IR is to:
 <!-- id: chem-6-2-16 -->
+*Info: Evaluation · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. look for a C=O absorption
 - B. compare their fingerprint regions with reference spectra
@@ -11924,6 +13687,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1656.** Absorptions in the 2850–3300 cm⁻¹ region appear in the IR spectra of almost all organic compounds. They are due to:
 <!-- id: chem-6-2-17 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. C–C bonds
 - B. C=O bonds
@@ -11932,6 +13696,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1657.** A sample of ethyl ethanoate is hydrolysed completely in acidic solution. Compared with the spectrum of pure ethyl ethanoate, the IR spectrum of the product mixture would show:
 <!-- id: chem-6-2-18 -->
+*Info: Data analysis · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. the loss of all C–H absorptions
 - B. the loss of all absorptions near 1700 cm⁻¹
@@ -11940,41 +13705,49 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1658.** Explain why the O–H absorption in the IR spectrum of a carboxylic acid is very broad.
 <!-- id: chem-6-2-19 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1659.** Describe how IR spectroscopy could be used to distinguish butan-1-ol from butanal.
 <!-- id: chem-6-2-20 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1660.** Carbon dioxide is a non-polar molecule, yet it absorbs infrared radiation. Explain why.
 <!-- id: chem-6-2-21 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1661.** Explain how the fingerprint region of an IR spectrum is used in chemical analysis.
 <!-- id: chem-6-2-22 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1662.** Propan-2-ol is heated with acidified potassium dichromate. Name the organic product and describe two changes in the IR spectrum showing the reaction has occurred.
 <!-- id: chem-6-2-23 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1663.** State one limitation of using IR spectroscopy alone to determine the structure of an unknown organic compound.
 <!-- id: chem-6-2-24 -->
+*Info: Recall · about 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1664.** Explain why a given bond absorbs infrared radiation only at particular wavenumbers rather than across the whole IR range.
 <!-- id: chem-6-2-25 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1665.** Absorption of infrared radiation by an organic molecule causes
 <!-- id: chem34a3-ir-1 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. electrons to move to higher energy levels
 - B. bonds to vibrate with greater energy (stretching or bending)
@@ -11983,6 +13756,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1666.** An IR spectrum shows a very broad absorption from about 2500 to 3300 cm⁻¹ and a strong, sharp absorption near 1710 cm⁻¹. The compound is most likely
 <!-- id: chem34a3-ir-2 -->
+*Info: Application · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. butan-1-ol
 - B. butanal
@@ -11991,6 +13765,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1667.** Propan-1-ol is oxidised by acidified potassium dichromate and the product is analysed by IR. Which change in the spectrum would confirm that some propanal has formed while some propan-1-ol remains?
 <!-- id: chem34a3-ir-3 -->
+*Info: Data analysis · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. The O–H band disappears and a C=O band appears
 - B. A C=O band appears near 1730 cm⁻¹ while a broad band near 3200–3600 cm⁻¹ is still present
@@ -11999,6 +13774,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1668.** The region of an IR spectrum below about 1500 cm⁻¹ is called the fingerprint region because
 <!-- id: chem34a3-ir-4 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. it only contains absorptions from O–H bonds
 - B. its complex pattern of absorptions is unique to a particular compound
@@ -12007,6 +13783,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1669.** Which pair of compounds would be most difficult to distinguish using only the absorptions above 1500 cm⁻¹ in their IR spectra?
 <!-- id: chem34a3-ir-5 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. ethanol and ethanoic acid
 - B. propanone and propan-2-ol
@@ -12015,22 +13792,26 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1670.** A bottle is labelled either propanal, propan-1-ol or propanoic acid. Describe how IR spectroscopy could identify which compound it contains, referring to specific absorptions. (3 marks)
 <!-- id: chem34a3-ir-6 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1671.** Explain why the O–H absorption in the IR spectrum of a liquid alcohol is broad rather than sharp. (2 marks)
 <!-- id: chem34a3-ir-7 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1672.** An ester, ethyl ethanoate, is made from ethanol and ethanoic acid. A student says the IR spectrum of the purified product should contain no absorption between 3200 and 3600 cm⁻¹. Explain whether the student is correct and identify one absorption that should be present. (2 marks)
 <!-- id: chem34a3-ir-8 -->
+*Info: Application · about 2 marks · about 2.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1673.** An IR spectrum shows a very broad absorption from 2500 to 3300 cm⁻¹ and a strong sharp absorption near 1710 cm⁻¹. The compound is most likely:
 <!-- id: chem-6-2-c1 -->
 *Challenge question*
+*Info: Application · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A; harder than most exam questions*
 
 - A. An alcohol
 - B. A carboxylic acid
@@ -12039,8 +13820,11 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 #### ¹H and ¹³C NMR spectroscopy
 
+*Exam relevance: High (comes up in most exams) · Prerequisites: IUPAC naming and functional groups; Structural and stereoisomers*
+
 **Q1674.** Tetramethylsilane (TMS) is used as the reference in NMR spectroscopy because it:
 <!-- id: chem-6-3-1 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. gives a single strong signal from 12 equivalent hydrogens and is chemically inert
 - B. contains no hydrogen atoms
@@ -12049,6 +13833,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1675.** How many different hydrogen environments are there in ethanol, CH₃CH₂OH?
 <!-- id: chem-6-3-2 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. 2
 - B. 3
@@ -12057,6 +13842,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1676.** In the high-resolution ¹H NMR spectrum of chloroethane (CH₃CH₂Cl), the CH₃ signal is split into a:
 <!-- id: chem-6-3-3 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. quartet
 - B. doublet
@@ -12065,6 +13851,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1677.** How many peaks would appear in the ¹³C NMR spectrum of propan-2-ol, CH₃CH(OH)CH₃?
 <!-- id: chem-6-3-4 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. 3
 - B. 1
@@ -12073,6 +13860,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1678.** How many peaks would appear in the ¹³C NMR spectrum of butanone, CH₃COCH₂CH₃?
 <!-- id: chem-6-3-5 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. 4
 - B. 3
@@ -12081,6 +13869,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1679.** What is the ratio of peak areas in the ¹H NMR spectrum of ethyl ethanoate, CH₃COOCH₂CH₃?
 <!-- id: chem-6-3-6 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. 3 : 5
 - B. 3 : 2 : 3
@@ -12089,6 +13878,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1680.** Deuterated solvents such as CDCl₃ are used in ¹H NMR spectroscopy because:
 <!-- id: chem-6-3-7 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. they react with the sample to make it more soluble
 - B. they increase the splitting of peaks
@@ -12097,6 +13887,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1681.** Which compound shows only one signal in its ¹H NMR spectrum?
 <!-- id: chem-6-3-8 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. propanal, CH₃CH₂CHO
 - B. propan-1-ol, CH₃CH₂CH₂OH
@@ -12105,6 +13896,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1682.** In the ¹H NMR spectrum of 2-methylpropane, (CH₃)₃CH, the signal for the CH₃ hydrogens is a:
 <!-- id: chem-6-3-9 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. doublet with a relative area of 9
 - B. singlet with a relative area of 9
@@ -12113,6 +13905,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1683.** Hydrogen atoms near an electronegative atom such as oxygen or chlorine appear at higher chemical shifts because they are:
 <!-- id: chem-6-3-10 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. shielded by extra electron density
 - B. deshielded, as electron density is drawn away from them
@@ -12121,6 +13914,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1684.** A ¹H NMR signal at about 9.7 ppm is most likely due to a hydrogen in:
 <!-- id: chem-6-3-11 -->
+*Info: Application · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. an alkane (R–CH₃)
 - B. a methyl group next to a ketone C=O
@@ -12129,6 +13923,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1685.** How many peaks would appear in the ¹³C NMR spectrum of pentan-3-one, CH₃CH₂COCH₂CH₃?
 <!-- id: chem-6-3-12 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. 5
 - B. 2
@@ -12137,6 +13932,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1686.** In the high-resolution ¹H NMR spectrum of 1-chloropropane (CH₃CH₂CH₂Cl), the signal for the middle CH₂ group is a:
 <!-- id: chem-6-3-13 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. sextet
 - B. triplet
@@ -12145,6 +13941,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1687.** In VCE-level ¹H NMR analysis, the signal from the hydrogen of an alcohol O–H group is usually treated as a:
 <!-- id: chem-6-3-14 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. triplet
 - B. singlet, because the O–H proton exchanges rapidly and does not split
@@ -12153,6 +13950,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1688.** NMR spectroscopy involves the absorption of which type of electromagnetic radiation?
 <!-- id: chem-6-3-15 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. infrared radiation
 - B. ultraviolet radiation
@@ -12161,6 +13959,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1689.** Which statement correctly describes how ¹³C NMR distinguishes propan-1-ol from propan-2-ol?
 <!-- id: chem-6-3-16 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. propan-1-ol gives 2 peaks and propan-2-ol gives 3 peaks
 - B. both give 3 peaks
@@ -12169,6 +13968,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1690.** A compound with formula C₂H₄O₂ has a ¹H NMR spectrum with two singlets in a 3 : 1 ratio at 2.1 ppm and 11.5 ppm. The compound is:
 <!-- id: chem-6-3-17 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. ethanoic acid
 - B. methyl methanoate
@@ -12177,6 +13977,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1691.** How many hydrogen environments are there in methyl propanoate, CH₃CH₂COOCH₃?
 <!-- id: chem-6-3-18 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. 2
 - B. 3
@@ -12185,41 +13986,49 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1692.** Predict the number of signals, their splitting patterns and their relative areas in the high-resolution ¹H NMR spectrum of chloroethane, CH₃CH₂Cl.
 <!-- id: chem-6-3-19 -->
+*Info: Application · about 2 marks · about 2.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1693.** State two reasons why tetramethylsilane (TMS) is a suitable reference substance for NMR spectroscopy.
 <!-- id: chem-6-3-20 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1694.** How many peaks would be observed in the ¹³C NMR spectrum of butan-2-ol, CH₃CH(OH)CH₂CH₃? Explain.
 <!-- id: chem-6-3-21 -->
+*Info: Calculation · about 3 marks · about 4 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1695.** A ¹H NMR spectrum shows a triplet with area 3 and a quartet with area 2. What structural feature does this pattern indicate? Explain.
 <!-- id: chem-6-3-22 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1696.** A compound with formula C₃H₆O shows only one signal (a singlet) in its ¹H NMR spectrum. Identify the compound and explain your reasoning.
 <!-- id: chem-6-3-23 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1697.** A compound C₃H₈O shows 2 peaks in its ¹³C NMR spectrum. Identify it and describe its expected high-resolution ¹H NMR spectrum (ignore chemical shift values).
 <!-- id: chem-6-3-24 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1698.** Explain how the ratio of peak areas in a ¹H NMR spectrum helps determine the structure of an organic compound.
 <!-- id: chem-6-3-25 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1699.** Tetramethylsilane (TMS) is used as the reference in NMR spectroscopy. Which property is NOT a reason for choosing TMS?
 <!-- id: chem34a3-nmr-1 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. All its hydrogen atoms are in the same environment, giving a single peak
 - B. It is chemically inert and easily removed because it is volatile
@@ -12228,6 +14037,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1700.** How many peaks would appear in the ¹³C NMR spectrum of pentan-3-one, CH₃CH₂COCH₂CH₃?
 <!-- id: chem34a3-nmr-2 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. 2
 - B. 3
@@ -12236,6 +14046,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1701.** In the high-resolution ¹H NMR spectrum of 1-chloropropane, CH₃CH₂CH₂Cl, the signal for the middle CH₂ group would be split into a
 <!-- id: chem34a3-nmr-3 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. triplet
 - B. quartet
@@ -12244,6 +14055,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1702.** A compound with molecular formula C₂H₄O₂ gives a ¹H NMR spectrum with two singlets, at about 2.1 ppm and about 11.5 ppm, in the area ratio 3 : 1. The compound is
 <!-- id: chem34a3-nmr-4 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. methyl methanoate
 - B. ethanoic acid
@@ -12252,6 +14064,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1703.** The relative areas under the peaks in a ¹H NMR spectrum indicate the
 <!-- id: chem34a3-nmr-5 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. number of neighbouring hydrogen atoms for each environment
 - B. relative number of hydrogen atoms in each environment
@@ -12260,22 +14073,26 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1704.** Predict the high-resolution ¹H NMR spectrum of ethanol, CH₃CH₂OH. For each signal give the splitting pattern and relative peak area. Assume the O–H hydrogen does not couple with other hydrogens. (3 marks)
 <!-- id: chem34a3-nmr-6 -->
+*Info: Application · about 3 marks · about 4 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1705.** Ethyl ethanoate (CH₃COOCH₂CH₃) and methyl propanoate (CH₃CH₂COOCH₃) are isomers. Describe two differences in their ¹H NMR spectra that would allow them to be distinguished. (2 marks)
 <!-- id: chem34a3-nmr-7 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1706.** An alcohol with molecular formula C₃H₈O gives a ¹³C NMR spectrum with only two peaks. Its ¹H NMR spectrum contains a doublet with relative area 6. Identify the alcohol and explain the evidence. (3 marks)
 <!-- id: chem34a3-nmr-8 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1707.** The ¹H NMR spectrum of propan-2-ol, (CH₃)₂CHOH, shows peak areas in the ratio:
 <!-- id: chem-6-3-c1 -->
 *Challenge question*
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A; harder than most exam questions*
 
 - A. 3 : 3 : 1 : 1
 - B. 6 : 2
@@ -12284,8 +14101,11 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 #### HPLC and volumetric analysis
 
+*Exam relevance: High (comes up in most exams) · Prerequisites: Volumetric analysis and titration (Chemistry, Units 1 & 2); Stoichiometry and limiting reactants (Chemistry, Units 1 & 2)*
+
 **Q1708.** In HPLC, the components of a mixture are separated because they:
 <!-- id: chem-6-4-1 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. have different molar masses only
 - B. react with the mobile phase to form new compounds
@@ -12294,6 +14114,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1709.** Retention time in HPLC is defined as the time taken for a component to:
 <!-- id: chem-6-4-2 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. dissolve in the mobile phase
 - B. be adsorbed onto the stationary phase
@@ -12302,6 +14123,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1710.** In reversed-phase HPLC the stationary phase is non-polar and the mobile phase is polar. Which component of a mixture would generally have the shortest retention time?
 <!-- id: chem-6-4-3 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. the most polar component
 - B. the least polar component
@@ -12310,6 +14132,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1711.** In quantitative HPLC analysis, the concentration of a component is determined from:
 <!-- id: chem-6-4-4 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. the retention time compared with standards
 - B. the peak area compared with a calibration curve made from standards
@@ -12318,6 +14141,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1712.** If the flow rate of the mobile phase in an HPLC column is increased with all other conditions unchanged, the retention times of the components will:
 <!-- id: chem-6-4-5 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. increase
 - B. stay exactly the same
@@ -12326,6 +14150,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1713.** An analyst suspects a sports drink contains caffeine. The best way to confirm this using HPLC is to:
 <!-- id: chem-6-4-6 -->
+*Info: Evaluation · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. measure the height of the largest peak
 - B. increase the column temperature until one peak remains
@@ -12334,6 +14159,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1714.** A 25.00 mL aliquot of hydrochloric acid is titrated with 0.100 M sodium hydroxide. The average titre is 20.00 mL. What is the concentration of the hydrochloric acid?
 <!-- id: chem-6-4-7 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. 0.0800 M
 - B. 0.125 M
@@ -12342,6 +14168,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1715.** When ethanoic acid is titrated with sodium hydroxide, the pH at the equivalence point is:
 <!-- id: chem-6-4-8 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. exactly 7, so any indicator is suitable
 - B. greater than 7, so phenolphthalein is a suitable indicator
@@ -12350,6 +14177,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1716.** Which substance is suitable for use as a primary standard?
 <!-- id: chem-6-4-9 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. sodium hydroxide pellets
 - B. concentrated hydrochloric acid
@@ -12358,6 +14186,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1717.** Before a titration, the burette should be rinsed with:
 <!-- id: chem-6-4-10 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. deionised water only
 - B. the solution to be placed in the conical flask
@@ -12366,6 +14195,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1718.** A 20.00 mL aliquot of 0.0500 M Na₂CO₃ reacts completely with 18.50 mL of HCl: Na₂CO₃ + 2HCl → 2NaCl + H₂O + CO₂. What is the concentration of the HCl?
 <!-- id: chem-6-4-11 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. 0.108 M
 - B. 0.0541 M
@@ -12374,6 +14204,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1719.** A 25.00 mL aliquot of an Fe²⁺ solution needs 15.00 mL of 0.0200 M KMnO₄ to reach the end point: MnO₄⁻ + 5Fe²⁺ + 8H⁺ → Mn²⁺ + 5Fe³⁺ + 4H₂O. What is the concentration of Fe²⁺?
 <!-- id: chem-6-4-12 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. 0.0120 M
 - B. 0.0600 M
@@ -12382,6 +14213,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1720.** A student leaves a few drops of deionised water in the conical flask before adding the aliquot. The effect on the calculated concentration is:
 <!-- id: chem-6-4-13 -->
+*Info: Application · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. it is too high, because the solution is diluted
 - B. it is too low, because the solution is diluted
@@ -12390,6 +14222,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1721.** A burette is rinsed with deionised water but not with the NaOH solution before an acid is titrated. The calculated concentration of the acid will be:
 <!-- id: chem-6-4-14 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. too low, because the diluted NaOH gives a smaller titre
 - B. unaffected, because water is neutral
@@ -12398,6 +14231,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1722.** In VCE titrations, titres are usually regarded as concordant if they agree within:
 <!-- id: chem-6-4-15 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. 0.10 mL
 - B. 1.0 mL
@@ -12406,6 +14240,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1723.** A 20.00 mL sample of vinegar is diluted to 250.0 mL in a volumetric flask. Titration shows the diluted solution is 0.0880 M ethanoic acid. What is the concentration of ethanoic acid in the original vinegar?
 <!-- id: chem-6-4-16 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. 0.00704 M
 - B. 1.10 M
@@ -12414,6 +14249,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1724.** The end point of a titration is best described as the point at which:
 <!-- id: chem-6-4-17 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. the reactants have reacted in exact stoichiometric proportions
 - B. the pH is exactly 7
@@ -12422,6 +14258,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1725.** Aqueous ammonia is titrated with hydrochloric acid. The most suitable indicator is:
 <!-- id: chem-6-4-18 -->
+*Info: Evaluation · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. phenolphthalein, because the equivalence point is basic
 - B. phenolphthalein, because the equivalence point is exactly 7
@@ -12430,41 +14267,49 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1726.** Standard solutions of caffeine give HPLC peak areas directly proportional to concentration, with a 20.0 mg/L standard giving a peak area of 3000 units. A diluted energy-drink sample gives a caffeine peak area of 4200 units. Calculate the caffeine concentration in the diluted sample.
 <!-- id: chem-6-4-19 -->
+*Info: Calculation · about 2 marks · about 2.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1727.** A 10.00 mL sample of vinegar was diluted to 100.0 mL. A 25.00 mL aliquot of the diluted solution needed 21.50 mL of 0.1000 M NaOH. Calculate the concentration of ethanoic acid in the original vinegar in % (w/v). M(CH₃COOH) = 60.05 g/mol.
 <!-- id: chem-6-4-20 -->
+*Info: Calculation · about 3 marks · about 4 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1728.** Explain why sodium hydroxide is not suitable as a primary standard.
 <!-- id: chem-6-4-21 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1729.** Explain why two different compounds in a mixture have different retention times in HPLC.
 <!-- id: chem-6-4-22 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1730.** A student rinses the pipette with deionised water instead of the solution being analysed. Explain the effect on the titre and on the calculated concentration of the analysed solution.
 <!-- id: chem-6-4-23 -->
+*Info: Application · about 2 marks · about 2.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1731.** An iron tablet is dissolved in acid and all its iron is converted to Fe²⁺. The solution needs 12.40 mL of 0.0150 M KMnO₄ to reach the end point (MnO₄⁻ + 5Fe²⁺ + 8H⁺ → Mn²⁺ + 5Fe³⁺ + 4H₂O). Calculate the mass of iron in the tablet in mg. M(Fe) = 55.85 g/mol.
 <!-- id: chem-6-4-24 -->
+*Info: Calculation · about 3 marks · about 4 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1732.** Explain why HPLC columns are packed with very small particles and why this requires high pressure.
 <!-- id: chem-6-4-25 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1733.** In a thin-layer chromatogram, a dye spot travels 3.6 cm while the solvent front travels 8.0 cm from the origin. The Rf value of the dye is
 <!-- id: chem34a3-chr-1 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. 0.36
 - B. 0.45
@@ -12473,6 +14318,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1734.** In reversed-phase HPLC, the stationary phase is non-polar and the mobile phase is a polar solvent mixture. Which compound would be expected to have the shortest retention time?
 <!-- id: chem34a3-chr-2 -->
+*Info: Application · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. hexane
 - B. octan-1-ol
@@ -12481,6 +14327,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1735.** Which statement about the separation of components in chromatography is correct?
 <!-- id: chem34a3-chr-3 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. Components separate because they have different molar masses only
 - B. A component that adsorbs strongly to the stationary phase moves further in a given time
@@ -12489,6 +14336,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1736.** Caffeine standards of 20, 40, 60 and 80 mg L⁻¹ give HPLC peak areas of 1500, 3000, 4500 and 6000 units. A cola sample, diluted by a factor of 10 before injection, gives a caffeine peak area of 3750. The caffeine concentration in the original cola is
 <!-- id: chem34a3-chr-4 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. 50 mg L⁻¹
 - B. 5.0 mg L⁻¹
@@ -12497,6 +14345,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1737.** An analyst changes the mobile phase in a reversed-phase HPLC run from 80% water to 50% water (with the rest methanol, which is less polar). The most likely effect on the retention time of a moderately non-polar compound is that it
 <!-- id: chem34a3-chr-5 -->
+*Info: Application · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. decreases, because the compound is now more soluble in the mobile phase
 - B. increases, because the compound is now less soluble in the mobile phase
@@ -12505,21 +14354,25 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1738.** State the information that can be obtained from (a) the retention time and (b) the peak area in an HPLC chromatogram, and explain how each is used. (3 marks)
 <!-- id: chem34a3-chr-6 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1739.** A student identifies a pesticide in a water sample because a peak has the same retention time as a pesticide standard. Explain why this alone is not conclusive and suggest how the identification could be confirmed. (2 marks)
 <!-- id: chem34a3-chr-7 -->
+*Info: Application · about 2 marks · about 2.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1740.** A sports drink is analysed for its vitamin B₃ content using HPLC. 10.0 mL of drink is diluted to 50.0 mL. From the calibration curve, the diluted solution contains 12.4 mg L⁻¹ of vitamin B₃. Calculate the mass of vitamin B₃ in a 600 mL bottle of the drink, in mg. (2 marks)
 <!-- id: chem34a3-chr-8 -->
+*Info: Calculation · about 2 marks · about 2.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1741.** 25.00 mL of vinegar is diluted to 250.0 mL. A 20.00 mL aliquot of the diluted solution requires 17.50 mL of 0.100 mol L⁻¹ NaOH(aq) to reach the endpoint. The concentration of ethanoic acid in the original vinegar is
 <!-- id: chem34a3-vol-1 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. 0.0875 mol L⁻¹
 - B. 0.700 mol L⁻¹
@@ -12528,6 +14381,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1742.** Which indicator is most suitable for titrating ethanoic acid (a weak acid) with sodium hydroxide (a strong base)?
 <!-- id: chem34a3-vol-2 -->
+*Info: Evaluation · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. methyl orange (colour change pH 3.1–4.4)
 - B. bromothymol blue (colour change pH 6.0–7.6)
@@ -12536,6 +14390,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1743.** Ethanol is oxidised by acidified dichromate according to: 3CH₃CH₂OH(aq) + 2Cr₂O₇²⁻(aq) + 16H⁺(aq) → 3CH₃COOH(aq) + 4Cr³⁺(aq) + 11H₂O(l). A 10.00 mL sample of wine is diluted to 100.0 mL, and a 10.00 mL aliquot reacts with 15.20 mL of 0.0500 mol L⁻¹ K₂Cr₂O₇. The ethanol concentration in the wine is
 <!-- id: chem34a3-vol-3 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. 0.507 mol L⁻¹
 - B. 0.760 mol L⁻¹
@@ -12544,6 +14399,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1744.** In a titration, the burette is rinsed with deionised water but not with the titrant solution before being filled. The effect on the calculated concentration of the analyte is that it will be
 <!-- id: chem34a3-vol-4 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. too high, because the titrant is diluted and a larger titre is needed
 - B. too low, because the titrant is diluted and a smaller titre is needed
@@ -12552,6 +14408,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1745.** Vitamin C (ascorbic acid, C₆H₈O₆) reacts with iodine in a 1 : 1 mole ratio. Which indicator is commonly used to detect the endpoint, and what is observed?
 <!-- id: chem34a3-vol-5 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. phenolphthalein; colourless to pink
 - B. starch; the first permanent blue-black colour
@@ -12560,22 +14417,26 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1746.** A vitamin C tablet is dissolved and made up to 100.0 mL in a volumetric flask. 20.00 mL aliquots are titrated with 0.0250 mol L⁻¹ I₂(aq); the average concordant titre is 22.70 mL. Vitamin C (M = 176.0 g mol⁻¹) reacts with I₂ in a 1 : 1 ratio. Calculate the mass of vitamin C in the tablet, in grams, to an appropriate number of significant figures. (3 marks)
 <!-- id: chem34a3-vol-6 -->
+*Info: Calculation · about 3 marks · about 4 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1747.** Explain the meaning of 'concordant titres' and why the average of concordant titres, rather than all titres, is used in the calculation. (2 marks)
 <!-- id: chem34a3-vol-7 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1748.** A 0.250 g sample of an unknown monoprotic carboxylic acid is dissolved in water and titrated with 0.115 mol L⁻¹ NaOH(aq). The titre is 24.65 mL. Calculate the molar mass of the acid and suggest its identity from the following: propanoic acid (74.0 g mol⁻¹), butanoic acid (88.0 g mol⁻¹), benzoic acid (122.0 g mol⁻¹). (3 marks)
 <!-- id: chem34a3-vol-8 -->
+*Info: Calculation · about 3 marks · about 4 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1749.** 10.00 mL of vinegar is diluted to 100.0 mL. A 25.00 mL aliquot needs 21.50 mL of 0.100 M NaOH. Find the concentration of ethanoic acid in the original vinegar.
 <!-- id: chem-6-4-c1 -->
 *Challenge question*
+*Info: Calculation · about 3 marks · about 4 min · Exam relevance: High (comes up in most exams); short answer, as in Section B; harder than most exam questions*
 
 *Written answer*
 
@@ -12583,8 +14444,11 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 #### Proteins and amino acids
 
+*Exam relevance: High (comes up in most exams) · Prerequisites: Addition, substitution, oxidation, condensation, hydrolysis; Intermolecular forces (Chemistry, Units 1 & 2)*
+
 **Q1750.** Which two functional groups are present in every 2-amino acid found in proteins?
 <!-- id: chem-7-1-1 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. Amino and carboxyl
 - B. Hydroxyl and carboxyl
@@ -12593,6 +14457,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1751.** The bond formed between two amino acids in a condensation reaction is called a:
 <!-- id: chem-7-1-2 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. ester bond
 - B. peptide (amide) bond
@@ -12601,6 +14466,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1752.** How many water molecules are released when a single polypeptide chain of 150 amino acid residues is formed?
 <!-- id: chem-7-1-3 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. 150
 - B. 151
@@ -12609,6 +14475,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1753.** Glycine (C₂H₅NO₂, M = 75.0 g mol⁻¹) forms the dipeptide Gly-Gly. What is the molar mass of Gly-Gly?
 <!-- id: chem-7-1-4 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. 150.0 g mol⁻¹
 - B. 168.0 g mol⁻¹
@@ -12617,6 +14484,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1754.** Which level of protein structure is defined by the sequence of amino acids in a polypeptide chain?
 <!-- id: chem-7-1-5 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. Primary
 - B. Secondary
@@ -12625,6 +14493,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1755.** α-helices and β-pleated sheets in proteins are stabilised mainly by:
 <!-- id: chem-7-1-6 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. disulfide bridges between cysteine side chains
 - B. hydrogen bonds between C=O and N–H groups of the polypeptide backbone
@@ -12633,6 +14502,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1756.** A disulfide bridge in a protein forms between the side chains of which amino acid?
 <!-- id: chem-7-1-7 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. Serine
 - B. Glycine
@@ -12641,6 +14511,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1757.** Which statement best describes the quaternary structure of a protein?
 <!-- id: chem-7-1-8 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. The folding of a single polypeptide chain into its overall 3D shape
 - B. The local coiling of the backbone into α-helices
@@ -12649,6 +14520,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1758.** When egg white is fried, the protein albumin is denatured. Which bonds remain intact?
 <!-- id: chem-7-1-9 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. Peptide bonds
 - B. Hydrogen bonds between side chains
@@ -12657,6 +14529,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1759.** Which of the following amino acids is not chiral?
 <!-- id: chem-7-1-10 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. Alanine
 - B. Glycine
@@ -12665,6 +14538,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1760.** An essential amino acid is one that:
 <!-- id: chem-7-1-11 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. is found in every protein in the body
 - B. is needed only to make enzymes
@@ -12673,6 +14547,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1761.** Lysine has the side chain –(CH₂)₄NH₂ and aspartic acid has –CH₂COOH. At physiological pH (about 7.4) these side chains are most likely to interact through:
 <!-- id: chem-7-1-12 -->
+*Info: Application · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. a disulfide bridge
 - B. a peptide bond
@@ -12681,6 +14556,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1762.** In a strongly acidic solution such as pH 1, the amino group of an amino acid is present mainly as:
 <!-- id: chem-7-1-13 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. –NH₃⁺
 - B. –NH⁻
@@ -12689,6 +14565,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1763.** How many different dipeptides can be formed from one glycine molecule and one alanine molecule, each used once?
 <!-- id: chem-7-1-14 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. 1
 - B. 2
@@ -12697,6 +14574,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1764.** How many different tripeptides can be formed using one molecule each of three different amino acids?
 <!-- id: chem-7-1-15 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. 3
 - B. 9
@@ -12705,6 +14583,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1765.** Complete acid hydrolysis of a protein produces:
 <!-- id: chem-7-1-16 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. glucose and fructose
 - B. glycerol and fatty acids
@@ -12713,6 +14592,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1766.** Valine has the non-polar side chain –CH(CH₃)₂. In a water-soluble globular protein, valine residues are most likely to be found:
 <!-- id: chem-7-1-17 -->
+*Info: Application · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. in the interior of the protein, interacting with other non-polar side chains via dispersion forces
 - B. on the surface, forming hydrogen bonds with water
@@ -12721,6 +14601,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1767.** Which statement about a linear polypeptide chain is correct?
 <!-- id: chem-7-1-18 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. It has free carboxyl groups at both ends
 - B. It has a free amino group at one end and a free carboxyl group at the other end
@@ -12729,41 +14610,49 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1768.** Write the semi-structural formula of the dipeptide formed when the carboxyl group of glycine (H₂NCH₂COOH) reacts with the amino group of alanine (H₂NCH(CH₃)COOH).
 <!-- id: chem-7-1-19 -->
+*Info: Conceptual · about 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1769.** Explain why heating an enzyme-containing protein solution to 80 °C causes the protein to lose its biological function.
 <!-- id: chem-7-1-20 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1770.** Distinguish between the secondary and tertiary structure of a protein, referring to the bonding involved in each.
 <!-- id: chem-7-1-21 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1771.** A dipeptide with molecular formula C₅H₁₀N₂O₃ is hydrolysed. One product is glycine (C₂H₅NO₂). Determine the molecular formula of the other amino acid.
 <!-- id: chem-7-1-22 -->
+*Info: Conceptual · about 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1772.** Explain why people following a vegan diet are advised to eat a variety of plant protein sources, such as legumes together with grains.
 <!-- id: chem-7-1-23 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1773.** Explain how adding lemon juice (lowering the pH) to milk can cause milk proteins to denature and curdle.
 <!-- id: chem-7-1-24 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1774.** Calculate the mass of water needed to completely hydrolyse 1.00 mol of a single-chain polypeptide containing 51 amino acid residues.
 <!-- id: chem-7-1-25 -->
+*Info: Calculation · about 2 marks · about 2.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1775.** In a solution of very low pH, the amino acid glycine (H₂NCH₂COOH) exists mainly as
 <!-- id: chem34a3-prot-1 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. H₂NCH₂COO⁻
 - B. H₃N⁺CH₂COO⁻
@@ -12772,6 +14661,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1776.** The secondary structure of a protein, such as an α-helix or β-pleated sheet, is held together mainly by
 <!-- id: chem34a3-prot-2 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. peptide bonds between adjacent amino acids
 - B. hydrogen bonds between C=O and N–H groups of the polypeptide backbone
@@ -12780,6 +14670,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1777.** A protein is heated to 80 °C and loses its biological activity. Which level of protein structure is NOT disrupted by this denaturation?
 <!-- id: chem34a3-prot-3 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. primary
 - B. secondary
@@ -12788,6 +14679,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1778.** An enzyme increases the rate of a reaction in the body by
 <!-- id: chem34a3-prot-4 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. increasing the temperature of the reactants
 - B. providing an alternative reaction pathway with a lower activation energy
@@ -12796,6 +14688,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1779.** Three different amino acids, X, Y and Z, are each used once to form a tripeptide. How many different tripeptides are possible?
 <!-- id: chem34a3-prot-5 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. 3
 - B. 6
@@ -12804,22 +14697,26 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1780.** Explain, with reference to the active site, why a change in pH can reduce the activity of an enzyme. (3 marks)
 <!-- id: chem34a3-prot-6 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1781.** Many water-soluble vitamins act as coenzymes. Explain what a coenzyme is and why a deficiency of such a vitamin could slow certain metabolic reactions. (2 marks)
 <!-- id: chem34a3-prot-7 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1782.** Draw or describe the structure of the dipeptide formed when the amino group of alanine (H₂NCH(CH₃)COOH) reacts with the carboxyl group of glycine (H₂NCH₂COOH). Name the type of reaction and the bond formed. (3 marks)
 <!-- id: chem34a3-prot-8 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1783.** Which interaction is NOT part of a protein's tertiary structure?
 <!-- id: chem-7-1-c1 -->
 *Challenge question*
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A; harder than most exam questions*
 
 - A. Disulfide bridges between cysteine side chains
 - B. Ionic interactions between charged side chains
@@ -12828,8 +14725,11 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 #### Carbohydrates, fats and oils
 
+*Exam relevance: High (comes up in most exams) · Prerequisites: Addition, substitution, oxidation, condensation, hydrolysis; IUPAC naming and functional groups*
+
 **Q1784.** Glucose and fructose both have the molecular formula C₆H₁₂O₆. They are best described as:
 <!-- id: chem-7-2-1 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. the same compound
 - B. polysaccharides
@@ -12838,6 +14738,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1785.** Complete hydrolysis of sucrose produces:
 <!-- id: chem-7-2-2 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. two glucose molecules
 - B. glucose and galactose
@@ -12846,6 +14747,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1786.** Lactose, the sugar found in milk, is a disaccharide made from:
 <!-- id: chem-7-2-3 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. glucose and galactose
 - B. two glucose units
@@ -12854,6 +14756,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1787.** Two monosaccharide molecules of formula C₆H₁₂O₆ (M = 180.0 g mol⁻¹) join to form a disaccharide. What is the molar mass of the disaccharide?
 <!-- id: chem-7-2-4 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. 360.0 g mol⁻¹
 - B. 342.0 g mol⁻¹
@@ -12862,6 +14765,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1788.** The linkage between monosaccharide units in a disaccharide is a:
 <!-- id: chem-7-2-5 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. peptide linkage
 - B. ester linkage
@@ -12870,6 +14774,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1789.** Which polysaccharide is used by animals to store glucose, mainly in the liver and muscles?
 <!-- id: chem-7-2-6 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. Amylose
 - B. Cellulose
@@ -12878,6 +14783,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1790.** Humans cannot use cellulose as an energy source because:
 <!-- id: chem-7-2-7 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. they lack an enzyme that can hydrolyse the β-glycosidic links between its glucose units
 - B. cellulose is made of fructose rather than glucose
@@ -12886,6 +14792,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1791.** Compared with amylose, amylopectin:
 <!-- id: chem-7-2-8 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. is unbranched and digested more slowly
 - B. is branched, so it is hydrolysed more quickly and tends to give a higher glycaemic index
@@ -12894,6 +14801,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1792.** A food with a high glycaemic index (GI):
 <!-- id: chem-7-2-9 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. releases glucose slowly over several hours
 - B. contains no carbohydrate
@@ -12902,6 +14810,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1793.** A triglyceride is formed by the condensation of:
 <!-- id: chem-7-2-10 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. glycerol and three amino acids
 - B. glucose and three fatty acids
@@ -12910,6 +14819,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1794.** Which functional group links each fatty acid to glycerol in a triglyceride?
 <!-- id: chem-7-2-11 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. Ester
 - B. Ether
@@ -12918,6 +14828,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1795.** A fatty acid has the molecular formula C₁₈H₃₂O₂. How many C=C double bonds does it contain?
 <!-- id: chem-7-2-12 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. 1
 - B. 2
@@ -12926,6 +14837,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1796.** Tristearin (made from saturated stearic acid) is solid at room temperature, but olive oil (rich in oleic acid) is liquid. The best explanation is that:
 <!-- id: chem-7-2-13 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. saturated fats form hydrogen bonds between their hydrocarbon chains
 - B. oleic acid has more carbon atoms than stearic acid
@@ -12934,6 +14846,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1797.** An omega-3 fatty acid is one in which:
 <!-- id: chem-7-2-14 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. there are exactly three C=C double bonds
 - B. the chain contains three carbon atoms
@@ -12942,6 +14855,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1798.** Oxidative rancidity of an oil occurs mainly because of:
 <!-- id: chem-7-2-15 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. reaction of oxygen at C=C double bonds in unsaturated fatty acid chains
 - B. hydrolysis of glycosidic linkages
@@ -12950,6 +14864,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1799.** What is the molecular formula of the triglyceride formed from glycerol (C₃H₈O₃) and three molecules of stearic acid (C₁₈H₃₆O₂)?
 <!-- id: chem-7-2-16 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. C₅₇H₁₁₆O₉
 - B. C₅₇H₁₁₀O₆
@@ -12958,6 +14873,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1800.** How many moles of I₂ react by addition with one mole of a triglyceride made from glycerol and three linoleic acid (C₁₈H₃₂O₂) chains?
 <!-- id: chem-7-2-17 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. 3
 - B. 2
@@ -12966,6 +14882,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1801.** How many moles of water are needed to completely hydrolyse one mole of a triglyceride?
 <!-- id: chem-7-2-18 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. 1
 - B. 2
@@ -12974,41 +14891,49 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1802.** Explain why glucose is highly soluble in water, whereas a triglyceride is insoluble.
 <!-- id: chem-7-2-19 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1803.** Name the products of complete hydrolysis of (a) starch and (b) a triglyceride.
 <!-- id: chem-7-2-20 -->
+*Info: Recall · about 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1804.** Explain why unsaturated vegetable oils generally have lower melting points than saturated animal fats of similar molar mass.
 <!-- id: chem-7-2-21 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1805.** Maltose (C₁₂H₂₂O₁₁) is a disaccharide of two glucose units. Calculate the mass of glucose (M = 180.0 g mol⁻¹) produced when 34.2 g of maltose is completely hydrolysed.
 <!-- id: chem-7-2-22 -->
+*Info: Calculation · about 2 marks · about 2.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1806.** Explain how adding an antioxidant such as vitamin E to packaged nuts slows the development of oxidative rancidity.
 <!-- id: chem-7-2-23 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1807.** Distinguish between amylose and amylopectin, and state which is likely to give a food a lower glycaemic index.
 <!-- id: chem-7-2-24 -->
+*Info: Application · about 3 marks · about 4 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1808.** Linolenic acid has the formula C₁₈H₃₀O₂. Determine the number of C=C double bonds and classify it as saturated, monounsaturated or polyunsaturated.
 <!-- id: chem-7-2-25 -->
+*Info: Conceptual · about 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1809.** Sucrose is a disaccharide formed from which two monosaccharides?
 <!-- id: chem34a3-carb-1 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. glucose and glucose
 - B. glucose and galactose
@@ -13017,6 +14942,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1810.** Which equation correctly represents the formation of maltose from glucose?
 <!-- id: chem34a3-carb-2 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. 2C₆H₁₂O₆ → C₁₂H₂₄O₁₂
 - B. 2C₆H₁₂O₆ → C₁₂H₂₂O₁₁ + H₂O
@@ -13025,6 +14951,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1811.** Humans can digest starch but not cellulose, even though both are polymers of glucose. The main reason is that
 <!-- id: chem34a3-carb-3 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. cellulose contains fructose units that cannot be absorbed
 - B. cellulose is made from β-glucose, and humans lack an enzyme that hydrolyses its glycosidic links
@@ -13033,6 +14960,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1812.** Amylose and amylopectin are both components of starch. Compared with amylose, amylopectin
 <!-- id: chem34a3-carb-4 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. is a polymer of fructose
 - B. is unbranched and coils into a helix
@@ -13041,6 +14969,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1813.** A polysaccharide molecule is made from 500 glucose units joined in a single unbranched chain. How many water molecules are needed to completely hydrolyse it to glucose?
 <!-- id: chem34a3-carb-5 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. 250
 - B. 499
@@ -13049,21 +14978,25 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1814.** Glycogen and starch are both energy-storage polysaccharides. Describe one structural difference between them and explain why glycogen is well suited to rapid release of glucose in animals. (2 marks)
 <!-- id: chem34a3-carb-6 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1815.** Aspartame is an artificial sweetener about 200 times sweeter than sucrose. Explain why a soft drink sweetened with aspartame has a much lower energy content than one sweetened with sucrose to the same sweetness, even though aspartame is metabolised and releases energy. (2 marks)
 <!-- id: chem34a3-carb-7 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1816.** Foods rich in amylose tend to have a lower glycaemic index (GI) than foods rich in amylopectin. Explain this observation and give one health benefit of low-GI foods. (3 marks)
 <!-- id: chem34a3-carb-8 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1817.** A triglyceride is formed when glycerol reacts with three fatty acid molecules. The products of this reaction are the triglyceride and
 <!-- id: chem34a3-fat-1 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. one water molecule
 - B. three water molecules
@@ -13072,6 +15005,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1818.** Linoleic acid has the formula C₁₇H₃₁COOH. How many carbon–carbon double bonds does one molecule contain?
 <!-- id: chem34a3-fat-2 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. 1
 - B. 2
@@ -13080,6 +15014,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1819.** Olive oil is a liquid at room temperature, while butter is a soft solid. The best explanation is that olive oil contains a higher proportion of
 <!-- id: chem34a3-fat-3 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. saturated fatty acid chains, which have stronger dispersion forces
 - B. cis-unsaturated fatty acid chains, whose kinks prevent close packing and weaken dispersion forces
@@ -13088,6 +15023,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1820.** Which vitamin is fat-soluble and therefore can be stored in body fat?
 <!-- id: chem34a3-fat-4 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. vitamin C
 - B. vitamin B₁₂
@@ -13096,6 +15032,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1821.** How many moles of hydrogen gas are needed to completely hydrogenate 1 mol of a triglyceride made from glycerol and three linolenic acid (C₁₇H₂₉COOH) chains?
 <!-- id: chem34a3-fat-5 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. 3 mol
 - B. 6 mol
@@ -13104,22 +15041,26 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1822.** Explain what is meant by an omega-3 fatty acid and give one reason why omega-3 fatty acids are described as 'essential' in the diet. (2 marks)
 <!-- id: chem34a3-fat-6 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1823.** Polyunsaturated oils become rancid more quickly than saturated fats when exposed to air. Explain why, and describe one way food manufacturers slow this process. (3 marks)
 <!-- id: chem34a3-fat-7 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1824.** Vitamin C contains several –OH groups, whereas vitamin A consists mainly of a long hydrocarbon chain with a single –OH group. Use these structural features to explain the different solubilities of the two vitamins and one dietary consequence. (3 marks)
 <!-- id: chem34a3-fat-8 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1825.** Linoleic acid has 18 carbons and two C=C bonds. How many moles of H₂ are needed to fully saturate 1 mol of a triglyceride made from three linoleic acid units?
 <!-- id: chem-7-2-c1 -->
 *Challenge question*
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A; harder than most exam questions*
 
 - A. 2
 - B. 6
@@ -13128,8 +15069,11 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 #### Enzymes and vitamins
 
+*Exam relevance: Medium (comes up regularly in exams) · Prerequisites: Proteins and amino acids*
+
 **Q1826.** Enzymes increase the rate of reactions in the body by:
 <!-- id: chem-7-3-1 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. providing an alternative reaction pathway with a lower activation energy
 - B. increasing the activation energy of the reaction
@@ -13138,6 +15082,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1827.** The active site of an enzyme is:
 <!-- id: chem-7-3-2 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. the place in the cell where the enzyme is made
 - B. the region where the substrate binds and the reaction is catalysed
@@ -13146,6 +15091,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1828.** The induced-fit model of enzyme action proposes that:
 <!-- id: chem-7-3-3 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. the active site is rigid and an exact match to the substrate
 - B. an enzyme can bind any substrate
@@ -13154,6 +15100,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1829.** A typical human enzyme is heated from 37 °C to 70 °C. The rate of the reaction it catalyses will most likely:
 <!-- id: chem-7-3-4 -->
+*Info: Application · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. keep increasing, because particles move faster
 - B. stay the same, because catalysts are unaffected by temperature
@@ -13162,6 +15109,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1830.** Pepsin works best at about pH 2. If pepsin is placed in a solution at pH 8, its activity will:
 <!-- id: chem-7-3-5 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. decrease, because the change in pH alters the charges on side chains and the shape of the active site
 - B. increase, because more OH⁻ ions are present
@@ -13170,6 +15118,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1831.** The specificity of an enzyme for its substrate mainly arises from:
 <!-- id: chem-7-3-6 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. the very large molar mass of the enzyme
 - B. the complementary shape and chemical properties of the active site and the substrate
@@ -13178,6 +15127,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1832.** A coenzyme is best described as:
 <!-- id: chem-7-3-7 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. an inorganic metal ion bound to an enzyme
 - B. a second enzyme that works alongside the first
@@ -13186,6 +15136,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1833.** The Zn²⁺ ion required by the enzyme carbonic anhydrase is an example of:
 <!-- id: chem-7-3-8 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. a coenzyme
 - B. a substrate
@@ -13194,6 +15145,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1834.** A competitive inhibitor reduces the rate of an enzyme-catalysed reaction because it:
 <!-- id: chem-7-3-9 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. binds to the active site and prevents the substrate from binding
 - B. binds to the enzyme and hydrolyses its peptide bonds
@@ -13202,6 +15154,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1835.** Food is stored in a refrigerator at 4 °C. The effect of this on the enzymes in the food is that they:
 <!-- id: chem-7-3-10 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. are permanently denatured
 - B. work more slowly because there are fewer successful collisions, but are not permanently denatured
@@ -13210,6 +15163,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1836.** Which group of vitamins is fat-soluble?
 <!-- id: chem-7-3-11 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. B group and C
 - B. C and D
@@ -13218,6 +15172,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1837.** Vitamin C (ascorbic acid) is water-soluble mainly because:
 <!-- id: chem-7-3-12 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. it is a large non-polar ring system
 - B. it is an ionic compound
@@ -13226,6 +15181,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1838.** Vitamin D is fat-soluble because:
 <!-- id: chem-7-3-13 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. its molecule is mostly non-polar hydrocarbon with only one hydroxyl group
 - B. it has many hydroxyl groups
@@ -13234,6 +15190,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1839.** Why is it more important to consume vitamin C regularly than vitamin A?
 <!-- id: chem-7-3-14 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. Vitamin C is fat-soluble and is stored in the liver
 - B. Vitamin C is water-soluble, is not stored in large amounts and the excess is excreted in urine, whereas vitamin A is stored in fatty tissue
@@ -13242,6 +15199,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1840.** Vitamins are described as essential in the human diet because:
 <!-- id: chem-7-3-15 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. they provide a large proportion of the body's energy
 - B. they are the main structural material of cells
@@ -13250,6 +15208,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1841.** Humans can synthesise vitamin D when:
 <!-- id: chem-7-3-16 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. vitamin C is eaten in large amounts
 - B. the body is fasting
@@ -13258,6 +15217,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1842.** Boiling broccoli in a large volume of water reduces its vitamin C content mainly because vitamin C:
 <!-- id: chem-7-3-17 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. is water-soluble, so it leaches into the cooking water, and it is also broken down by heat
 - B. is fat-soluble and is lost in the steam
@@ -13266,6 +15226,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1843.** Lactose intolerance is caused by:
 <!-- id: chem-7-3-18 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. an excess of salivary amylase
 - B. insufficient lactase enzyme to hydrolyse lactose in the small intestine
@@ -13274,42 +15235,50 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1844.** Use the idea of enzyme specificity to explain why amylase can hydrolyse starch but not cellulose, even though both are polymers of glucose.
 <!-- id: chem-7-3-19 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1845.** Explain why the activity of a human enzyme increases from 20 °C to 37 °C but drops sharply above about 45 °C.
 <!-- id: chem-7-3-20 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1846.** Distinguish between a cofactor and a coenzyme, giving an example of each.
 <!-- id: chem-7-3-21 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1847.** Explain why vitamin C toxicity is rare, whereas excessive intake of vitamin A or D can be harmful.
 <!-- id: chem-7-3-22 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1848.** A student states: 'An enzyme denatured by high temperature has been broken down into amino acids.' Evaluate this statement.
 <!-- id: chem-7-3-23 -->
+*Info: Evaluation · about 2 marks · about 2.5 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1849.** Explain, in terms of intermolecular forces, why vitamin D is stored in the body's adipose (fat) tissue.
 <!-- id: chem-7-3-24 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1850.** Fresh pineapple contains bromelain, a protease. Explain why fresh pineapple stops gelatine (a protein) from setting, but canned pineapple, which has been heated, does not.
 <!-- id: chem-7-3-25 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1851.** Vitamin C is water-soluble but vitamin D is fat-soluble because:
 <!-- id: chem-7-3-c1 -->
 *Challenge question*
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A; harder than most exam questions*
 
 - A. Vitamin D is an ionic compound that dissolves in fats; vitamin C is a covalent molecule that dissolves in water
 - B. Vitamin C has a much higher molar mass than vitamin D, so it dissolves more easily in water
@@ -13318,8 +15287,11 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 #### Food energy and digestion
 
+*Exam relevance: Medium (comes up regularly in exams) · Prerequisites: Carbohydrates, fats and oils; Calorimetry and specific heat capacity*
+
 **Q1852.** Using standard food energy values, approximately how much energy is released per gram of fat in the body?
 <!-- id: chem-7-4-1 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. 16 kJ
 - B. 17 kJ
@@ -13328,6 +15300,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1853.** A muesli bar contains 20.0 g carbohydrate, 5.0 g fat and 3.0 g protein. Using 16 kJ g⁻¹, 37 kJ g⁻¹ and 17 kJ g⁻¹ respectively, what is its total energy content?
 <!-- id: chem-7-4-2 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. 504 kJ
 - B. 470 kJ
@@ -13336,6 +15309,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1854.** A 150 g sample of water is heated by burning a food and its temperature rises by 12.0 °C. How much energy did the water absorb? (c = 4.18 J g⁻¹ °C⁻¹)
 <!-- id: chem-7-4-3 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. 7.52 kJ
 - B. 0.627 kJ
@@ -13344,6 +15318,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1855.** A calorimeter is calibrated by passing a current of 2.50 A at 6.00 V for 90.0 s, which raises the temperature by 1.35 °C. What is the calibration factor?
 <!-- id: chem-7-4-4 -->
+*Info: Application · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. 1.35 kJ °C⁻¹
 - B. 1.00 kJ °C⁻¹
@@ -13352,6 +15327,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1856.** A bomb calorimeter has a calibration factor of 850 J °C⁻¹. Burning 0.400 g of peanut raises its temperature by 4.80 °C. What is the energy content of the peanut?
 <!-- id: chem-7-4-5 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. 4.08 kJ g⁻¹
 - B. 1.63 kJ g⁻¹
@@ -13360,6 +15336,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1857.** Fats release more energy per gram than carbohydrates when metabolised because fat molecules:
 <!-- id: chem-7-4-6 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. have a higher molar mass
 - B. contain nitrogen atoms
@@ -13368,6 +15345,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1858.** The heat of combustion of glucose (M = 180.0 g mol⁻¹) is 2805 kJ mol⁻¹. How much energy is released per gram of glucose?
 <!-- id: chem-7-4-7 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. 15.6 kJ g⁻¹
 - B. 2805 kJ g⁻¹
@@ -13376,6 +15354,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1859.** In a simple 'can' calorimeter experiment, the measured energy content of a food is usually lower than the accepted value. The main reason is:
 <!-- id: chem-7-4-8 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. the water absorbs more energy than the food releases
 - B. heat is lost to the surrounding air and the food may not combust completely
@@ -13384,6 +15363,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1860.** The purpose of electrically calibrating a calorimeter before a food is burned in it is to:
 <!-- id: chem-7-4-9 -->
+*Info: Application · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. measure the mass of the food sample
 - B. ensure the food combusts completely
@@ -13392,6 +15372,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1861.** Chemical digestion of starch begins in the:
 <!-- id: chem-7-4-10 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. stomach, catalysed by pepsin
 - B. small intestine, catalysed by lipase
@@ -13400,6 +15381,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1862.** Chemical digestion of protein begins in the:
 <!-- id: chem-7-4-11 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. stomach, catalysed by pepsin
 - B. mouth, catalysed by amylase
@@ -13408,6 +15390,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1863.** The role of bile in the digestion of fats is to:
 <!-- id: chem-7-4-12 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. hydrolyse the ester bonds in triglycerides
 - B. emulsify fats into small droplets, increasing the surface area for lipase to act on
@@ -13416,6 +15399,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1864.** The products of fat digestion that are absorbed from the small intestine are mainly:
 <!-- id: chem-7-4-13 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. amino acids
 - B. glucose and fructose
@@ -13424,6 +15408,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1865.** Chemical digestion of carbohydrates, proteins and fats in the body involves which type of reaction?
 <!-- id: chem-7-4-14 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. Condensation
 - B. Combustion
@@ -13432,6 +15417,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1866.** In aerobic cellular respiration, glucose reacts with oxygen. The products are:
 <!-- id: chem-7-4-15 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. carbon dioxide and water
 - B. glucose and oxygen
@@ -13440,6 +15426,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1867.** A serve of a breakfast cereal provides 1500 kJ. An adult's average daily energy requirement is 8700 kJ. What percentage of daily energy needs does one serve provide?
 <!-- id: chem-7-4-16 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. 5.80%
 - B. 17.2%
@@ -13448,6 +15435,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1868.** A serve of peanut butter provides 370 kJ of energy from fat. What mass of fat is in the serve? (fat: 37 kJ g⁻¹)
 <!-- id: chem-7-4-17 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. 23.1 g
 - B. 21.8 g
@@ -13456,6 +15444,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1869.** A spirit burner burns 0.50 g of ethanol (M = 46.0 g mol⁻¹, heat of combustion 1360 kJ mol⁻¹), heating 100 g of water by 25.0 °C. What is the approximate efficiency of the energy transfer to the water? (c = 4.18 J g⁻¹ °C⁻¹)
 <!-- id: chem-7-4-18 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. 29%
 - B. 141%
@@ -13464,41 +15453,49 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1870.** A 2.00 g cracker is burned under a can containing 250 g of water, and the water temperature rises by 18.0 °C. Assuming all the heat is absorbed by the water, calculate the energy content of the cracker in kJ g⁻¹. (c = 4.18 J g⁻¹ °C⁻¹)
 <!-- id: chem-7-4-19 -->
+*Info: Calculation · about 2 marks · about 2.5 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1871.** A calorimeter is calibrated using 5.00 V and 3.00 A for 180 s, giving a temperature rise of 2.25 °C. A 1.20 g food sample is then burned and the temperature rises by 3.60 °C. Calculate the energy content of the food in kJ g⁻¹.
 <!-- id: chem-7-4-20 -->
+*Info: Calculation · about 2 marks · about 2.5 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1872.** Explain why the energy content of a food measured using a simple can-and-burner apparatus is usually lower than the value on the food label, and suggest one improvement.
 <!-- id: chem-7-4-21 -->
+*Info: Application · about 3 marks · about 4 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1873.** Describe the chemical digestion of a triglyceride, naming the main enzyme, where it occurs and the products formed.
 <!-- id: chem-7-4-22 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1874.** Explain why the body stores excess energy mainly as fat rather than as glycogen.
 <!-- id: chem-7-4-23 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1875.** A 30 g slice of toast contains 14.4 g carbohydrate, 1.2 g fat and 3.0 g protein. Using 16, 37 and 17 kJ g⁻¹ respectively, calculate the energy content of the slice.
 <!-- id: chem-7-4-24 -->
+*Info: Calculation · about 2 marks · about 2.5 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1876.** Explain why dietary fibre such as cellulose provides humans with very little energy even though it is a polymer of glucose.
 <!-- id: chem-7-4-25 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1877.** A serving of breakfast cereal contains 6.0 g of protein, 15.0 g of carbohydrate and 5.0 g of fat. Using energy values of 17 kJ g⁻¹ (protein), 16 kJ g⁻¹ (carbohydrate) and 37 kJ g⁻¹ (fat), the energy content of the serving is approximately
 <!-- id: chem34a3-en-1 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. 340 kJ
 - B. 527 kJ
@@ -13507,6 +15504,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1878.** A bomb calorimeter is calibrated by passing a current of 2.00 A at 5.00 V for 120 s, causing a temperature rise of 0.480 °C. The calibration factor is
 <!-- id: chem34a3-en-2 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. 0.480 kJ °C⁻¹
 - B. 1.20 kJ °C⁻¹
@@ -13515,6 +15513,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1879.** In a spirit burner experiment, 200 g of water is heated from 20.0 °C to 35.0 °C by burning ethanol. Assuming all the heat is absorbed by the water (c = 4.18 J g⁻¹ °C⁻¹), the energy absorbed is
 <!-- id: chem34a3-en-3 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. 12.5 kJ
 - B. 3.14 kJ
@@ -13523,6 +15522,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1880.** The experimentally determined enthalpy of combustion of ethanol from a spirit burner is usually much less negative than the data book value. Which of the following is the most significant reason?
 <!-- id: chem34a3-en-4 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. The thermometer reads too high
 - B. Heat is lost to the surroundings and combustion may be incomplete
@@ -13531,6 +15531,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1881.** Glucose has a molar enthalpy of combustion of −2803 kJ mol⁻¹ (M = 180.0 g mol⁻¹). The energy released per gram of glucose is closest to
 <!-- id: chem34a3-en-5 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. 2.80 kJ g⁻¹
 - B. 15.6 kJ g⁻¹
@@ -13539,22 +15540,26 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1882.** A bomb calorimeter has a calibration factor of 2.50 kJ °C⁻¹. When 1.20 g of a dried food sample is combusted completely, the temperature rises by 6.40 °C. Calculate the energy content of the food in kJ g⁻¹. (2 marks)
 <!-- id: chem34a3-en-6 -->
+*Info: Calculation · about 2 marks · about 2.5 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1883.** 0.850 g of ethanol (M = 46.0 g mol⁻¹) is burnt in a spirit burner, raising the temperature of 200 g of water by 15.0 °C (c = 4.18 J g⁻¹ °C⁻¹). Calculate the experimental molar enthalpy of combustion of ethanol and state why it differs from the accepted value of −1364 kJ mol⁻¹. (3 marks)
 <!-- id: chem34a3-en-7 -->
+*Info: Calculation · about 3 marks · about 4 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1884.** Explain, in terms of the composition of the molecules, why fats release more than twice as much energy per gram as carbohydrates when fully oxidised. (2 marks)
 <!-- id: chem34a3-en-8 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1885.** A snack contains 10.0 g of carbohydrate, 5.0 g of fat and 3.0 g of protein. Using 16, 37 and 17 kJ/g respectively, find its energy content.
 <!-- id: chem-7-4-c1 -->
 *Challenge question*
+*Info: Calculation · about 2 marks · about 2.5 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Section B; harder than most exam questions*
 
 *Written answer*
 
@@ -13562,8 +15567,11 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 #### Green chemistry principles
 
+*Exam relevance: Medium (comes up regularly in exams) · Prerequisites: none*
+
 **Q1886.** Which statement best describes the green chemistry principle of 'prevention'?
 <!-- id: chem-8-1-1 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. It is better to prevent waste from forming than to treat or clean it up after it has formed.
 - B. Hazardous waste should be stored securely on site until it can be incinerated.
@@ -13572,6 +15580,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1887.** A manufacturer replaces dichloromethane with supercritical carbon dioxide as the extraction solvent for decaffeinating coffee. Which green chemistry principle is mainly being applied?
 <!-- id: chem-8-1-2 -->
+*Info: Application · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. Design for degradation
 - B. Use of safer solvents and auxiliaries
@@ -13580,6 +15589,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1888.** Why are catalysts considered consistent with green chemistry?
 <!-- id: chem-8-1-3 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. They shift the equilibrium position towards products, increasing the equilibrium yield.
 - B. They are consumed in the reaction, so no excess reagent is needed.
@@ -13588,11 +15598,13 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1889.** Explain why green chemistry focuses on preventing waste rather than treating waste.
 <!-- id: chem-8-1-4 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1890.** Producing ethanol by fermenting sugar cane rather than by hydrating ethene from crude oil best illustrates which principle?
 <!-- id: chem-8-1-5 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. Design for energy efficiency
 - B. Catalysis
@@ -13601,6 +15613,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1891.** Which practice best illustrates the principle of 'design for energy efficiency'?
 <!-- id: chem-8-1-6 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. Choosing a catalyst that allows a process to run at ambient temperature and pressure
 - B. Increasing reactor pressure to increase reaction rate
@@ -13609,6 +15622,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1892.** A detergent company redesigns a surfactant so that it is broken down by microorganisms in waterways within days. Which principle does this demonstrate?
 <!-- id: chem-8-1-7 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. Prevention of waste
 - B. Design for degradation
@@ -13617,11 +15631,13 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1893.** State two green chemistry principles that are applied when an enzyme is used as a catalyst in a fermentation process at 35 °C, and explain each briefly.
 <!-- id: chem-8-1-8 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1894.** Real-time analysis for pollution prevention refers to:
 <!-- id: chem-8-1-9 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. testing waste water once a year to meet EPA Victoria requirements.
 - B. analysing finished products in a laboratory before sale.
@@ -13630,6 +15646,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1895.** Which of the following is the best example of 'inherently safer chemistry for accident prevention'?
 <!-- id: chem-8-1-10 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. Storing large stockpiles of chlorine gas to avoid supply interruptions
 - B. Running exothermic reactions at higher temperatures to finish faster
@@ -13638,6 +15655,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1896.** Reducing derivatives in a synthesis means:
 <!-- id: chem-8-1-11 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. avoiding unnecessary protecting groups or temporary modifications, as these steps require extra reagents and generate waste.
 - B. using derivatives of petroleum as feedstocks.
@@ -13646,11 +15664,13 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1897.** Supercritical CO₂ is used as a solvent in some industrial processes. Give one advantage and one disadvantage of its use in terms of green chemistry.
 <!-- id: chem-8-1-12 -->
+*Info: Recall · about 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1898.** Which change to an industrial process is LEAST consistent with green chemistry principles?
 <!-- id: chem-8-1-13 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. Switching from a stoichiometric oxidising agent to a catalytic process
 - B. Replacing a catalysed route at 40 °C with an uncatalysed route at 400 °C
@@ -13659,6 +15679,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1899.** A Victorian company converts waste cooking oil from restaurants into biodiesel. Which green chemistry principle is most directly applied?
 <!-- id: chem-8-1-14 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. Real-time analysis for pollution prevention
 - B. Design for degradation
@@ -13667,6 +15688,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1900.** Why is water often considered a 'green' solvent?
 <!-- id: chem-8-1-15 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. It dissolves all organic compounds well.
 - B. It has a low specific heat capacity, so it is cheap to heat.
@@ -13675,11 +15697,13 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1901.** Explain the difference between a renewable and a non-renewable feedstock, giving a chemical example of each.
 <!-- id: chem-8-1-16 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1902.** Which statement about green chemistry principles is correct?
 <!-- id: chem-8-1-17 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. Green chemistry aims to reduce or eliminate the use and generation of hazardous substances across the whole life cycle of a product.
 - B. Green chemistry only applies to the disposal stage of a product.
@@ -13688,6 +15712,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1903.** The principle 'designing safer chemicals' is best demonstrated by:
 <!-- id: chem-8-1-18 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. increasing the concentration of a pesticide so less volume is transported.
 - B. developing a pesticide that is effective against the target insect but has low toxicity to bees and mammals.
@@ -13696,6 +15721,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1904.** Hydrogen produced by electrolysis of water using electricity from a Victorian wind farm is described as 'green hydrogen' mainly because:
 <!-- id: chem-8-1-19 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. it has a higher energy content per gram than hydrogen from natural gas.
 - B. the electrolysis reaction has 100% atom economy for hydrogen.
@@ -13704,11 +15730,13 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1905.** Explain how real-time analysis can reduce pollution in a chemical plant.
 <!-- id: chem-8-1-20 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1906.** Catalytic reagents are preferred over stoichiometric reagents because:
 <!-- id: chem-8-1-21 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. stoichiometric reagents always give lower equilibrium yields.
 - B. catalysts increase the atom economy shown by the balanced equation to 100%.
@@ -13717,6 +15745,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1907.** Which feature of the Haber process is most consistent with green chemistry principles?
 <!-- id: chem-8-1-22 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. The reaction N₂ + 3H₂ → 2NH₃ has 100% atom economy and unreacted gases are recycled.
 - B. The process uses hydrogen obtained from natural gas.
@@ -13725,6 +15754,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1908.** Which of the following best describes 'design for degradation' as applied to plastics?
 <!-- id: chem-8-1-23 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. Producing polymers with very strong cross-links so they last longer
 - B. Producing polymers such as PLA that can be broken down by microorganisms under composting conditions
@@ -13733,17 +15763,20 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1909.** A chemical plant stores large quantities of a toxic, flammable solvent. Suggest two changes, based on green chemistry principles, that would reduce the risk of a serious accident.
 <!-- id: chem-8-1-24 -->
+*Info: Application · about 2 marks · about 2.5 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1910.** Explain why producing hydrogen from natural gas by steam reforming (CH₄ + H₂O → CO + 3H₂) is less consistent with green chemistry than producing hydrogen by electrolysis of water powered by solar energy.
 <!-- id: chem-8-1-25 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1911.** Which change to an industrial process best follows the green chemistry principle of designing for energy efficiency?
 <!-- id: chem-8-1-c1 -->
 *Challenge question*
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A; harder than most exam questions*
 
 - A. Increasing the temperature to speed up the reaction
 - B. Adding an excess of one reactant
@@ -13752,8 +15785,11 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 #### Atom economy calculations
 
+*Exam relevance: Medium (comes up regularly in exams) · Prerequisites: The mole and molar mass (Chemistry, Units 1 & 2); Green chemistry principles*
+
 **Q1912.** Atom economy is calculated as:
 <!-- id: chem-8-2-1 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. (actual mass of product ÷ theoretical mass of product) × 100
 - B. (mass of waste ÷ mass of desired product) × 100
@@ -13762,6 +15798,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1913.** Ethanol can be made by fermentation: C₆H₁₂O₆ → 2C₂H₅OH + 2CO₂. Given M(C₆H₁₂O₆) = 180.0 g/mol and M(C₂H₅OH) = 46.0 g/mol, the atom economy for ethanol is:
 <!-- id: chem-8-2-2 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. 25.6%
 - B. 48.9%
@@ -13770,6 +15807,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1914.** The atom economy for ethanol made by hydration of ethene, C₂H₄ + H₂O → C₂H₅OH, is:
 <!-- id: chem-8-2-3 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. 100%
 - B. 60.9%
@@ -13778,11 +15816,13 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1915.** Chloromethane is made by CH₄ + Cl₂ → CH₃Cl + HCl. Calculate the atom economy for chloromethane. M(CH₄) = 16.0, M(Cl₂) = 71.0, M(CH₃Cl) = 50.5 g/mol.
 <!-- id: chem-8-2-4 -->
+*Info: Calculation · about 2 marks · about 2.5 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1916.** Which type of reaction always has an atom economy of 100% for the single product formed?
 <!-- id: chem-8-2-5 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. Substitution reaction
 - B. Addition reaction
@@ -13791,6 +15831,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1917.** Hydrogen can be produced by steam reforming: CH₄ + H₂O → CO + 3H₂. Using M(CH₄) = 16.0, M(H₂O) = 18.0 and M(H₂) = 2.0 g/mol, the atom economy for hydrogen is:
 <!-- id: chem-8-2-6 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. 5.9%
 - B. 82.4%
@@ -13799,6 +15840,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1918.** Lime is made by heating limestone: CaCO₃ → CaO + CO₂. Given M(CaCO₃) = 100.1 g/mol and M(CaO) = 56.1 g/mol, the atom economy for CaO is:
 <!-- id: chem-8-2-7 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. 44.0%
 - B. 78.6%
@@ -13807,11 +15849,13 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1919.** Aspirin can be made from salicylic acid (M = 138.0 g/mol) using either ethanoic anhydride (M = 102.0 g/mol, by-product ethanoic acid) or ethanoic acid (M = 60.0 g/mol, by-product water). M(aspirin) = 180.0 g/mol. Calculate the atom economy for each route and state which is greener on this basis.
 <!-- id: chem-8-2-8 -->
+*Info: Calculation · about 3 marks · about 4 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1920.** Iron is extracted in a blast furnace: Fe₂O₃ + 3CO → 2Fe + 3CO₂. Given M(Fe₂O₃) = 159.6, M(CO) = 28.0 and M(Fe) = 55.8 g/mol, the atom economy for iron is:
 <!-- id: chem-8-2-9 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. 45.8%
 - B. 22.9%
@@ -13820,6 +15864,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1921.** Ethyl ethanoate is made by esterification: CH₃COOH + C₂H₅OH → CH₃COOC₂H₅ + H₂O. Given M(CH₃COOH) = 60.0, M(C₂H₅OH) = 46.0 and M(CH₃COOC₂H₅) = 88.0 g/mol, the atom economy for the ester is:
 <!-- id: chem-8-2-10 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. 17.0%
 - B. 83.0%
@@ -13828,6 +15873,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1922.** Chloroethane can be made by two routes. Route 1: C₂H₄ + HCl → C₂H₅Cl. Route 2: C₂H₆ + Cl₂ → C₂H₅Cl + HCl. Given M(C₂H₅Cl) = 64.5, M(C₂H₆) = 30.0 and M(Cl₂) = 71.0 g/mol, the atom economies of Routes 1 and 2 respectively are:
 <!-- id: chem-8-2-11 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. 63.9% and 100%
 - B. 100% and 36.1%
@@ -13836,11 +15882,13 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1923.** Explain why atom economy is described as a 'theoretical' measure while percentage yield is an 'experimental' measure.
 <!-- id: chem-8-2-12 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1924.** Electrolysis of brine: 2NaCl + 2H₂O → 2NaOH + H₂ + Cl₂. Given M(NaCl) = 58.5, M(H₂O) = 18.0, M(NaOH) = 40.0 and M(Cl₂) = 71.0 g/mol, the atom economy if both NaOH and Cl₂ are considered useful products is:
 <!-- id: chem-8-2-13 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. 52.3%
 - B. 46.4%
@@ -13849,6 +15897,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1925.** The atom economy for hydrogen produced by electrolysis of water, 2H₂O → 2H₂ + O₂, is:
 <!-- id: chem-8-2-14 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. 11.1%
 - B. 88.9%
@@ -13857,6 +15906,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1926.** Which change would increase the effective atom economy of a process?
 <!-- id: chem-8-2-15 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. Increasing the reaction temperature
 - B. Finding a use for, and selling, the by-product
@@ -13865,11 +15915,13 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1927.** Explain how selling the CO₂ produced in the fermentation of glucose (C₆H₁₂O₆ → 2C₂H₅OH + 2CO₂) to the beverage industry affects the atom economy of the process.
 <!-- id: chem-8-2-16 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1928.** Aspirin (M = 180.0 g/mol) is made from salicylic acid (M = 138.0 g/mol) and ethanoic anhydride (M = 102.0 g/mol), with ethanoic acid (M = 60.0 g/mol) as by-product. The atom economy for aspirin is:
 <!-- id: chem-8-2-17 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. 130.4%
 - B. 25.0%
@@ -13878,6 +15930,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1929.** Copper can be obtained by reducing copper(II) oxide with hydrogen: CuO + H₂ → Cu + H₂O. Given M(CuO) = 79.5, M(H₂) = 2.0 and M(Cu) = 63.5 g/mol, the atom economy for copper is:
 <!-- id: chem-8-2-18 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. 79.9%
 - B. 22.1%
@@ -13886,6 +15939,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1930.** Ethene can be made by dehydrating ethanol: C₂H₅OH → C₂H₄ + H₂O. Given M(C₂H₅OH) = 46.0 g/mol and M(C₂H₄) = 28.0 g/mol, the atom economy for ethene is:
 <!-- id: chem-8-2-19 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. 60.9%
 - B. 39.1%
@@ -13894,11 +15948,13 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1931.** Ethene can be made by dehydrating ethanol or by cracking ethane (C₂H₆ → C₂H₄ + H₂). Calculate the atom economy for ethene in the cracking reaction. M(C₂H₆) = 30.0, M(C₂H₄) = 28.0 g/mol.
 <!-- id: chem-8-2-20 -->
+*Info: Calculation · about 2 marks · about 2.5 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1932.** Which statement about atom economy is correct?
 <!-- id: chem-8-2-21 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. Atom economy can be measured experimentally by weighing the product.
 - B. A reaction can have a high percentage yield but a low atom economy.
@@ -13907,6 +15963,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1933.** Methanol is produced industrially by CO + 2H₂ → CH₃OH. A student claims this reaction is 'perfectly green'. Which is the best response?
 <!-- id: chem-8-2-22 -->
+*Info: Application · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. The student is correct because 100% atom economy means no environmental impact.
 - B. The student is wrong because the atom economy is only 50%.
@@ -13915,6 +15972,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1934.** Thermite reaction: Fe₂O₃ + 2Al → 2Fe + Al₂O₃. Given M(Fe₂O₃) = 159.6, M(Al) = 27.0 and M(Fe) = 55.8 g/mol, the atom economy for iron is:
 <!-- id: chem-8-2-23 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. 47.8%
 - B. 26.1%
@@ -13923,24 +15981,30 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1935.** Explain why addition polymerisation (e.g. making polyethene from ethene) has a higher atom economy than condensation polymerisation (e.g. making a polyester).
 <!-- id: chem-8-2-24 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1936.** Calculate the atom economy for sodium hydroxide alone in the electrolysis of brine: 2NaCl + 2H₂O → 2NaOH + H₂ + Cl₂. M(NaCl) = 58.5, M(H₂O) = 18.0, M(NaOH) = 40.0 g/mol.
 <!-- id: chem-8-2-25 -->
+*Info: Calculation · about 2 marks · about 2.5 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1937.** Calculate the atom economy for making ethanol by fermentation, C₆H₁₂O₆ → 2C₂H₅OH + 2CO₂, and compare it with making ethanol by hydration of ethene.
 <!-- id: chem-8-2-c1 -->
 *Challenge question*
+*Info: Calculation · about 2 marks · about 2.5 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Section B; harder than most exam questions*
 
 *Written answer*
 
 #### Percentage yield calculations
 
+*Exam relevance: High (comes up in most exams) · Prerequisites: Stoichiometry and limiting reactants (Chemistry, Units 1 & 2)*
+
 **Q1938.** Percentage yield is calculated as:
 <!-- id: chem-8-3-1 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. (actual mass of product ÷ theoretical mass of product) × 100
 - B. (molar mass of product ÷ molar mass of reactants) × 100
@@ -13949,6 +16013,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1939.** 10.0 g of glucose is fermented: C₆H₁₂O₆ → 2C₂H₅OH + 2CO₂, producing 4.20 g of ethanol. M(glucose) = 180.0, M(ethanol) = 46.0 g/mol. The percentage yield is:
 <!-- id: chem-8-3-2 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. 42.0%
 - B. 82.2%
@@ -13957,6 +16022,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1940.** In the Haber process, 28.0 kg of N₂ reacts with excess H₂ (N₂ + 3H₂ → 2NH₃) and 5.10 kg of NH₃ is collected. M(N₂) = 28.0, M(NH₃) = 17.0 g/mol. The percentage yield is:
 <!-- id: chem-8-3-3 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. 30.0%
 - B. 18.2%
@@ -13965,11 +16031,13 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1941.** A two-step synthesis has step yields of 85% and 60%. Calculate the overall yield and explain why reducing the number of steps in a synthesis is consistent with green chemistry.
 <!-- id: chem-8-3-4 -->
+*Info: Calculation · about 2 marks · about 2.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1942.** 6.00 g of ethanoic acid (M = 60.0 g/mol) reacts with excess ethanol, giving 5.72 g of ethyl ethanoate (M = 88.0 g/mol). The percentage yield is:
 <!-- id: chem-8-3-5 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. 95.3%
 - B. 68.2%
@@ -13978,6 +16046,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1943.** 12.0 g of ethanoic acid (M = 60.0 g/mol) is mixed with 6.90 g of ethanol (M = 46.0 g/mol), and 9.90 g of ethyl ethanoate (M = 88.0 g/mol) is obtained. The percentage yield is:
 <!-- id: chem-8-3-6 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. 75.0%
 - B. 56.3%
@@ -13986,6 +16055,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1944.** A synthesis has three steps with yields of 90%, 80% and 70%. The overall percentage yield is:
 <!-- id: chem-8-3-7 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. 80%
 - B. 50.4%
@@ -13994,11 +16064,13 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1945.** Give two reasons why the actual yield of an industrial reaction is usually less than the theoretical yield.
 <!-- id: chem-8-3-8 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1946.** A student calculates a percentage yield of 108% for a crystallised product. The most likely reason is:
 <!-- id: chem-8-3-9 -->
+*Info: Application · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. some product was lost during filtration.
 - B. the reaction did not go to completion.
@@ -14007,6 +16079,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1947.** Which factor would NOT cause a percentage yield below 100%?
 <!-- id: chem-8-3-10 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. Loss of product during transfer between containers
 - B. The reaction reaching equilibrium before completion
@@ -14015,6 +16088,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1948.** 50.0 g of CaCO₃ (M = 100.1 g/mol) is heated and 25.2 g of CaO (M = 56.1 g/mol) is collected. The percentage yield is:
 <!-- id: chem-8-3-11 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. 89.9%
 - B. 50.4%
@@ -14023,11 +16097,13 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1949.** Explain why a chemical engineer would aim to improve both the atom economy and the percentage yield of a process.
 <!-- id: chem-8-3-12 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1950.** 2.76 g of salicylic acid (M = 138.0 g/mol) gives 2.70 g of aspirin (M = 180.0 g/mol). The 1:1 reaction ratio applies. The percentage yield is:
 <!-- id: chem-8-3-13 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. 97.8%
 - B. 75.0%
@@ -14036,6 +16112,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1951.** Methanol is produced by CO + 2H₂ → CH₃OH. 56.0 kg of CO (M = 28.0 g/mol) reacts with excess H₂, and 48.0 kg of CH₃OH (M = 32.0 g/mol) is produced. The percentage yield is:
 <!-- id: chem-8-3-14 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. 85.7%
 - B. 37.5%
@@ -14044,6 +16121,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1952.** A company needs 23.0 g of ethanol (M = 46.0 g/mol) from C₂H₄ + H₂O → C₂H₅OH, which has an 80.0% yield. The minimum mass of ethene (M = 28.0 g/mol) required is:
 <!-- id: chem-8-3-15 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. 14.0 g
 - B. 11.2 g
@@ -14052,11 +16130,13 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1953.** In an esterification, 0.250 mol of propanoic acid (M = 74.0 g/mol) reacts with excess methanol to form methyl propanoate (M = 88.0 g/mol). If 15.4 g of ester is collected, calculate the percentage yield.
 <!-- id: chem-8-3-16 -->
+*Info: Calculation · about 2 marks · about 2.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1954.** In the Contact process, 2SO₂ + O₂ → 2SO₃. 128.2 g of SO₂ (M = 64.1 g/mol) gives 155.4 g of SO₃ (M = 80.1 g/mol). The percentage yield is:
 <!-- id: chem-8-3-17 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. 97.0%
 - B. 82.5%
@@ -14065,6 +16145,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1955.** 200 g of CaCO₃ (M = 100.1 g/mol) is decomposed with a 95.0% yield. The mass of CaO (M = 56.1 g/mol) obtained is closest to:
 <!-- id: chem-8-3-18 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. 112 g
 - B. 106 g
@@ -14073,6 +16154,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1956.** How does a catalyst affect the percentage yield of an equilibrium reaction once equilibrium is reached?
 <!-- id: chem-8-3-19 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. It increases the equilibrium yield by shifting the equilibrium to the right.
 - B. It decreases the yield because it is consumed.
@@ -14081,11 +16163,13 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1957.** Explain why unreacted N₂ and H₂ are recycled in the Haber process, referring to percentage yield.
 <!-- id: chem-8-3-20 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1958.** For the exothermic reaction N₂ + 3H₂ ⇌ 2NH₃, which change increases the equilibrium yield of ammonia?
 <!-- id: chem-8-3-21 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. Adding an iron catalyst
 - B. Decreasing the pressure
@@ -14094,6 +16178,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1959.** 16.0 g of Fe₂O₃ (M = 159.6 g/mol) reacts with excess aluminium (Fe₂O₃ + 2Al → 2Fe + Al₂O₃), forming 9.50 g of iron (M = 55.8 g/mol). The percentage yield is closest to:
 <!-- id: chem-8-3-22 -->
+*Info: Calculation · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. 84.9%
 - B. 59.4%
@@ -14102,6 +16187,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1960.** A reaction has a 100% atom economy but only a 40% percentage yield. Which statement is correct?
 <!-- id: chem-8-3-23 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
 - A. 60% of the reactant atoms formed by-products according to the balanced equation.
 - B. In theory every reactant atom could end up in the product, but in practice only 40% of the maximum product mass was obtained.
@@ -14110,24 +16196,30 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1961.** A student needs 5.00 g of aspirin (M = 180.0 g/mol). The reaction of salicylic acid (M = 138.0 g/mol) to aspirin is 1:1 and has a 70.0% yield. Calculate the mass of salicylic acid needed.
 <!-- id: chem-8-3-24 -->
+*Info: Calculation · about 2 marks · about 2.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1962.** Explain why a percentage yield greater than 100% indicates an experimental error, and give one possible cause.
 <!-- id: chem-8-3-25 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1963.** 5.00 g of magnesium is added to 0.150 mol of HCl: Mg + 2HCl → MgCl₂ + H₂. 0.0600 mol of H₂ is collected. Find the percentage yield.
 <!-- id: chem-8-3-c1 -->
 *Challenge question*
+*Info: Calculation · about 2 marks · about 2.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B; harder than most exam questions*
 
 *Written answer*
 
 #### Circular economy and sustainability
 
+*Exam relevance: Medium (comes up regularly in exams) · Prerequisites: Green chemistry principles; Thermoplastics, thermosets and the circular economy (Chemistry, Units 1 & 2)*
+
 **Q1964.** Which statement best describes a circular economy?
 <!-- id: chem-8-4-1 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. An economy in which raw materials are extracted, made into products and disposed of after use
 - B. An economy that only uses products made from recycled materials
@@ -14136,6 +16228,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1965.** A linear economy is best described as:
 <!-- id: chem-8-4-2 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. reduce, reuse, recycle
 - B. make, use, recycle, remake
@@ -14144,6 +16237,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1966.** Which of the following is the best example of a circular economy approach to PET drink bottles?
 <!-- id: chem-8-4-3 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. Collecting bottles through the Victorian container deposit scheme and reprocessing them into new food-grade bottles
 - B. Sending used bottles to landfill lined with clay
@@ -14152,11 +16246,13 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1967.** Explain the difference between a linear economy and a circular economy.
 <!-- id: chem-8-4-4 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1968.** Why is burning a plastic waste to generate electricity considered less circular than recycling it?
 <!-- id: chem-8-4-5 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. Burning produces no useful energy.
 - B. The material is permanently lost and the carbon is released as CO₂, so new raw materials are needed for future plastics.
@@ -14165,6 +16261,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1969.** Which property makes thermoplastics such as PET easier to recycle than thermosetting polymers?
 <!-- id: chem-8-4-6 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. They have strong covalent cross-links between chains.
 - B. They are biodegradable.
@@ -14173,6 +16270,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1970.** In chemical (feedstock) recycling of plastics, polymers are:
 <!-- id: chem-8-4-7 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. melted and remoulded into a new shape.
 - B. shredded and buried in landfill.
@@ -14181,11 +16279,13 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1971.** Give one advantage and one disadvantage of using bioethanol produced from sugar cane as a fuel in terms of sustainability.
 <!-- id: chem-8-4-8 -->
+*Info: Recall · about 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1972.** Which of the following is a sustainability benefit of producing biodiesel from canola oil compared with diesel from crude oil?
 <!-- id: chem-8-4-9 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. The carbon released on combustion was recently absorbed from the atmosphere by the canola plants, so net CO₂ emissions are lower.
 - B. Biodiesel releases no CO₂ when it burns.
@@ -14194,6 +16294,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1973.** A concern about producing biofuels from food crops such as wheat or sugar cane is that:
 <!-- id: chem-8-4-10 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. biofuels cannot be used in vehicles.
 - B. land and water used for fuel crops may compete with food production.
@@ -14202,6 +16303,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1974.** Which practice best represents 'industrial symbiosis' in a circular economy?
 <!-- id: chem-8-4-11 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. Each factory treating all its own waste on site
 - B. Building factories far apart to reduce pollution concentration
@@ -14210,11 +16312,13 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1975.** Explain why thermosetting polymers are more difficult to recycle than thermoplastic polymers.
 <!-- id: chem-8-4-12 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1976.** Which of the following ranks the waste hierarchy correctly from most preferred to least preferred?
 <!-- id: chem-8-4-13 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. Recycle, reuse, reduce, dispose, recover energy
 - B. Dispose, recover energy, recycle, reuse, reduce
@@ -14223,6 +16327,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1977.** Which term describes the assessment of the environmental impacts of a product from raw material extraction to final disposal?
 <!-- id: chem-8-4-14 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. Life cycle assessment
 - B. Atom economy
@@ -14231,6 +16336,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1978.** Green hydrogen can be used to make 'green ammonia' for fertilisers. This improves the sustainability of ammonia production mainly because:
 <!-- id: chem-8-4-15 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. it increases the atom economy of the Haber reaction above 100%.
 - B. it removes the need to use natural gas as the hydrogen source, eliminating CO₂ released in steam reforming.
@@ -14239,11 +16345,13 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1979.** A Victorian brewery sells the CO₂ released during fermentation to a soft drink manufacturer and sends spent grain to local farmers as cattle feed. Explain how these practices reflect circular economy principles.
 <!-- id: chem-8-4-16 -->
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1980.** Which example best demonstrates 'design for disassembly' in a circular economy?
 <!-- id: chem-8-4-17 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. A phone sealed completely in a single plastic case
 - B. A phone designed to be replaced every year
@@ -14252,6 +16360,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1981.** Polylactic acid (PLA) is made from corn starch. Which statement about PLA is correct?
 <!-- id: chem-8-4-18 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. It is made from crude oil and does not biodegrade.
 - B. It biodegrades rapidly in the ocean in a few days.
@@ -14260,6 +16369,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1982.** Which is a disadvantage of mechanical recycling of plastics?
 <!-- id: chem-8-4-19 -->
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. Polymer chains are shortened and contaminants build up each cycle, so quality decreases (downcycling).
 - B. It always requires more energy than making new plastic.
@@ -14268,11 +16378,13 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1983.** Describe what a life cycle assessment (LCA) of a product involves and why it is useful.
 <!-- id: chem-8-4-20 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1984.** Recovering copper from discarded electronic waste rather than mining new ore is consistent with a circular economy because it:
 <!-- id: chem-8-4-21 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. increases the amount of copper ore in the Earth's crust.
 - B. keeps a valuable, finite resource in use and reduces the environmental impacts of mining.
@@ -14281,6 +16393,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1985.** Which statement best describes 'sustainable development'?
 <!-- id: chem-8-4-22 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. Development that maximises current profits regardless of future impacts
 - B. Development that avoids all use of chemicals
@@ -14289,6 +16402,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1986.** Which of the following is the most sustainable source of energy for running an electrolytic cell to produce aluminium in Australia?
 <!-- id: chem-8-4-23 -->
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A*
 
 - A. Electricity from brown coal power stations
 - B. Electricity from diesel generators
@@ -14297,17 +16411,20 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q1987.** Explain how producing ammonia using hydrogen from renewable-powered electrolysis would improve the sustainability of fertiliser production.
 <!-- id: chem-8-4-24 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1988.** Explain why 'reduce' and 'reuse' are placed above 'recycle' in the waste hierarchy.
 <!-- id: chem-8-4-25 -->
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Section B*
 
 *Written answer*
 
 **Q1989.** Which is the best example of a circular economy for PET drink bottles?
 <!-- id: chem-8-4-c1 -->
 *Challenge question*
+*Info: Recall · 1 mark · about 1 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Section A; harder than most exam questions*
 
 - A. Burning used bottles to generate electricity
 - B. Chemically breaking used PET into monomers that are made into new bottles
@@ -14321,12 +16438,14 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 **Q1990.** A calorimeter is calibrated: 5.00 V and 2.00 A for 120 s raises its temperature by 1.50 °C. A reaction in the calorimeter then raises the temperature by 2.80 °C. Find the calibration factor and the energy released.
 <!-- id: chem-challenge-1 -->
 *Challenge question*
+*Info: Calculation · about 2 marks · about 2.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B; harder than most exam questions · Topic: Calorimetry and specific heat capacity*
 
 *Written answer*
 
 **Q1991.** For H₂(g) + I₂(g) ⇌ 2HI(g), K = 4.0 at some temperature. A mixture has [H₂] = [I₂] = 0.10 M and [HI] = 0.40 M. The mixture will:
 <!-- id: chem-challenge-2 -->
 *Challenge question*
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A; harder than most exam questions · Topic: Equilibrium constants and calculations*
 
 - A. React in the forward direction, because Q < K
 - B. Stay the same, because it is at equilibrium
@@ -14336,6 +16455,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 **Q1992.** For Fe³⁺(aq) + SCN⁻(aq) ⇌ FeSCN²⁺(aq), water is added to the equilibrium mixture. The equilibrium:
 <!-- id: chem-challenge-3 -->
 *Challenge question*
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A; harder than most exam questions · Topic: Le Chatelier's principle and yield optimisation*
 
 - A. Shifts right, towards fewer particles
 - B. Shifts left, towards more dissolved particles
@@ -14345,12 +16465,14 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 **Q1993.** Two electrolytic cells containing Ag⁺(aq) and Cu²⁺(aq) are connected in series. 1.08 g of silver is deposited. What mass of copper is deposited?
 <!-- id: chem-challenge-4 -->
 *Challenge question*
+*Info: Conceptual · about 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B; harder than most exam questions · Topic: Faraday's laws and calculations*
 
 *Written answer*
 
 **Q1994.** Which set of reagents converts chloroethane into ethyl ethanoate in three steps (chloroethane → ethanol → ethanoic acid → ester)?
 <!-- id: chem-challenge-5 -->
 *Challenge question*
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A; harder than most exam questions · Topic: Reaction pathways, esters and yield*
 
 - A. H₂O with an H₃PO₄ catalyst; NaOH(aq); methanol with concentrated H₂SO₄
 - B. NaOH(aq); acidified K₂Cr₂O₇; ethanol with a concentrated H₂SO₄ catalyst
@@ -14360,6 +16482,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 **Q1995.** A compound C₃H₆O shows a strong IR absorption at 1715 cm⁻¹ and no broad band above 3000 cm⁻¹. Its ¹H NMR spectrum shows a single peak. It is:
 <!-- id: chem-challenge-6 -->
 *Challenge question*
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A; harder than most exam questions · Topic: ¹H and ¹³C NMR spectroscopy*
 
 - A. Propanone
 - B. Propanal
@@ -14369,6 +16492,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 **Q1996.** Methane (ΔH = −890 kJ/mol, M = 16.0) and octane (ΔH = −5460 kJ/mol, M = 114) are compared. Per gram of fuel:
 <!-- id: chem-challenge-7 -->
 *Challenge question*
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A; harder than most exam questions · Topic: Enthalpy and fuel energy calculations*
 
 - A. Octane releases more energy, because its ΔH is larger
 - B. They release the same energy
@@ -14378,12 +16502,14 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 **Q1997.** A process has 100% atom economy but a percentage yield of only 40%. Explain what each value tells you, and why the process may still be wasteful.
 <!-- id: chem-challenge-8 -->
 *Challenge question*
+*Info: Conceptual · about 2 marks · about 2.5 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Section B; harder than most exam questions · Topic: Atom economy calculations*
 
 *Written answer*
 
 **Q1998.** Molten NaCl and concentrated NaCl(aq) are each electrolysed with inert electrodes. The cathode products are:
 <!-- id: chem-challenge-9 -->
 *Challenge question*
+*Info: Conceptual · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A; harder than most exam questions · Topic: Electrolytic cell design and products*
 
 - A. Sodium metal from both the molten salt and the solution
 - B. Hydrogen gas from the molten salt; sodium metal from the solution
@@ -14393,6 +16519,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 **Q1999.** An enzyme's activity falls sharply above 45 °C and does not recover when it is cooled. Explain this at the molecular level.
 <!-- id: chem-challenge-10 -->
 *Challenge question*
+*Info: Conceptual · about 3 marks · about 4 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Section B; harder than most exam questions · Topic: Enzymes and vitamins*
 
 *Written answer*
 
@@ -14400,6 +16527,7 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 
 **Q2000.** Ethanol as a fuel
 <!-- id: chem-x1 -->
+*Info: Calculation, Conceptual, Recall · 13 marks · about 17 min · Exam relevance: High (comes up in most exams); multi-part question, as in Section B · Topics: Combustion and thermochemical equations, Enthalpy and fuel energy calculations, Calorimetry and specific heat capacity, Addition, substitution, oxidation, condensation, hydrolysis, Reaction pathways, esters and yield, Atom economy calculations*
 *Multi-part question · 13 marks · Original question in the style of the VCE Chemistry exam, Section B*
 
 Bioethanol, C₂H₅OH, is made by fermenting glucose from plant material and can be burnt as a fuel. The molar heat of combustion of ethanol is 1360 kJ mol⁻¹. Use M(C₂H₅OH) = 46.0 g mol⁻¹.
@@ -14424,6 +16552,7 @@ Ethanol can be oxidised to ethanoic acid, CH₃COOH. Ethanoic acid then reacts w
 
 **Q2001.** Green hydrogen: making it and using it
 <!-- id: chem-x2 -->
+*Info: Conceptual, Calculation, Application · 12 marks · about 15 min · Exam relevance: High (comes up in most exams); multi-part question, as in Section B · Topics: Electrolytic cell design and products, Faraday's laws and calculations, Fuel cells, Equilibrium constants and calculations, Le Chatelier's principle and yield optimisation*
 *Multi-part question · 12 marks · Original question in the style of the VCE Chemistry exam, Section B*
 
 Green hydrogen is made by electrolysing water using electricity from renewable sources. In one electrolyser the electrolyte is acidic. Use F = 96 500 C mol⁻¹ and M(H₂) = 2.0 g mol⁻¹.
@@ -14448,6 +16577,7 @@ Hydrogen is also used to make ammonia: N₂(g) + 3H₂(g) ⇌ 2NH₃(g), ΔH = �
 
 **Q2002.** Identifying an acid and making an ester
 <!-- id: chem-x3 -->
+*Info: Recall, Conceptual, Calculation, Application · 10 marks · about 13 min · Exam relevance: High (comes up in most exams); multi-part question, as in Section B · Topics: Infrared spectroscopy, IUPAC naming and functional groups, Mass spectrometry, ¹H and ¹³C NMR spectroscopy, Reaction pathways, esters and yield, Percentage yield calculations*
 *Multi-part question · 10 marks · Original question in the style of the VCE Chemistry exam, Section B*
 
 An unknown compound X has the molecular formula C₃H₆O₂. Its infrared spectrum has a very broad absorption from 2500 to 3300 cm⁻¹ and a sharp, strong absorption near 1710 cm⁻¹.
@@ -14468,6 +16598,7 @@ X reacts with methanol, using concentrated sulfuric acid as a catalyst, to form 
 
 **Q2003.** A lead–acid battery and a catalyst
 <!-- id: chem-x4 -->
+*Info: Conceptual, Calculation · 10 marks · about 13 min · Exam relevance: High (comes up in most exams); multi-part question, as in Section B · Topics: Rechargeable (secondary) cells, Faraday's laws and calculations, Maxwell–Boltzmann distributions and catalysts*
 *Multi-part question · 10 marks · Original question in the style of the VCE Chemistry exam, Section B*
 
 A car battery is a lead–acid cell. While it discharges, the overall reaction is Pb(s) + PbO₂(s) + 2H₂SO₄(aq) → 2PbSO₄(s) + 2H₂O(l).
@@ -14491,6 +16622,7 @@ Hydrogen peroxide decomposes slowly into water and oxygen. Adding a little manga
 **Q2004.** Challenge: methanol as a fuel
 <!-- id: chem-cx1 -->
 *Challenge question*
+*Info: Calculation, Conceptual, Application · 12 marks · about 15 min · Exam relevance: High (comes up in most exams); multi-part question, as in Section B; harder than most exam questions · Topics: Combustion and thermochemical equations, Calorimetry and specific heat capacity, Enthalpy and fuel energy calculations, Fuel cells, Green hydrogen and sustainable energy*
 *Multi-part question · 12 marks · Original challenge question in the style of the VCE Chemistry exam, Section B*
 
 Methanol, CH₃OH (M = 32.0 g/mol), can be burnt or used in a fuel cell. Its molar enthalpy of combustion is −726 kJ/mol.
@@ -14512,6 +16644,7 @@ In a school experiment, burning 1.20 g of methanol heated 200.0 g of water from 
 **Q2005.** Challenge: making and analysing an ester
 <!-- id: chem-cx2 -->
 *Challenge question*
+*Info: Conceptual, Calculation, Recall · 13 marks · about 16 min · Exam relevance: High (comes up in most exams); multi-part question, as in Section B; harder than most exam questions · Topics: Reaction pathways, esters and yield, Equilibrium constants and calculations, Le Chatelier's principle and yield optimisation, Atom economy calculations, ¹H and ¹³C NMR spectroscopy, Infrared spectroscopy*
 *Multi-part question · 13 marks · Original challenge question in the style of the VCE Chemistry exam, Section B*
 
 Ethanoic acid reacts with ethanol, with a sulfuric acid catalyst, to form an ester and water. At the temperature used, K = 4.0 for this equilibrium.

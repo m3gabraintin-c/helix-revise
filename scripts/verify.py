@@ -46,6 +46,49 @@ if not isinstance(CH, list) or len(CH) != len(set(CH)): errs.append("DATA.C must
 elif set(CH) - set(ids): errs.append(f"DATA.C has unknown ids: {sorted(set(CH) - set(ids))[:5]}")
 CH = set(CH) if isinstance(CH, list) else set()
 
+# ---- question info: DATA.M (per subtopic), DATA.T (per question), DATA.E (per subject) ----
+M, T, E = d.get("M", {}), d.get("T", {}), d.get("E", {})
+QTYPES = {"recall": "Recall", "concept": "Conceptual", "calc": "Calculation", "apply": "Application", "data": "Data analysis",
+          "eval": "Evaluation", "proof": "Proof", "design": "Investigation design", "text": "Text analysis", "write": "Extended writing",
+          "read": "Reading comprehension", "lang": "Language use", "speak": "Speaking"}
+isint = lambda x: isinstance(x, int) and not isinstance(x, bool)
+loc_of = {qid(r): slug for slug, rows in d["Q"].items() for r in rows}
+for sid, *_ in d["S"]:
+    e = E.get(sid)
+    if not (isinstance(e, dict) and isinstance(e.get("w"), list) and len(e["w"]) == 3 and all(isinstance(e.get(k), str) and e[k] for k in ("mcq", "short", "multi"))
+            and all(isinstance(x, str) and x for x in e["w"]) and set(e) <= {"w", "mcq", "short", "multi", "free"}):
+        errs.append(f"DATA.E[{sid}]: needs w (three strings), mcq, short and multi (and optionally free)")
+for slug in subj_of:
+    m = M.get(slug)
+    if m is None:
+        if not slug.endswith("-challenge"): errs.append(f"DATA.M: no entry for subtopic {slug}")
+        continue
+    if not (isinstance(m, list) and len(m) in (3, 4) and isint(m[0]) and 1 <= m[0] <= 3 and isinstance(m[1], list) and isinstance(m[2], str)
+            and (len(m) == 3 or (isinstance(m[3], str) and m[3]))):
+        errs.append(f"DATA.M[{slug}]: must be [weight 1-3, [prerequisite slugs], prior knowledge, format note?]"); continue
+    for x in m[1]:
+        if x not in subj_of or x == slug: errs.append(f"DATA.M[{slug}]: bad prerequisite {x}")
+if set(M) - set(subj_of): errs.append(f"DATA.M has unknown subtopics: {sorted(set(M) - set(subj_of))[:5]}")
+xrows = {qid(r): r for rows in X.values() for r in rows}
+for i in ids:
+    t, r = T.get(i), (xrows.get(i) or next(rr for rr in d["Q"][loc_of[i]] if qid(rr) == i))
+    if t is None: errs.append(f"DATA.T: no entry for {i}"); continue
+    types = t[0] if isinstance(t[0], list) else [t[0]] if isinstance(t, list) and t else None
+    if not (isinstance(t, list) and len(t) in (3, 4) and types and all(x in QTYPES for x in types) and len(set(types)) == len(types)
+            and isint(t[1]) and t[1] >= 0 and isinstance(t[2], (int, float)) and not isinstance(t[2], bool) and t[2] > 0):
+        errs.append(f"DATA.T[{i}]: must be [type or [types], exam marks, minutes, topic?] with types from {list(QTYPES)}"); continue
+    if isinstance(r, dict):
+        if t[1] != sum(p["marks"] for p in r["pieces"] if p.get("kind") == "part"): errs.append(f"DATA.T[{i}]: marks must equal the sum of the parts")
+    elif r[1] == 0 and t[1] != 1: errs.append(f"DATA.T[{i}]: a multiple-choice question is worth 1 mark")
+    elif r[1] == 1 and t[1] == 0 and t[0] != "speak": errs.append(f"DATA.T[{i}]: only speaking questions may have 0 marks")
+    in_set = i in loc_of and loc_of[i].endswith("-challenge")
+    if in_set != (len(t) == 4): errs.append(f"DATA.T[{i}]: Challenge-set questions (and only those) give the topic they test")
+    elif in_set:
+        if t[3] in subj_of:
+            if subj_of[t[3]] != subj_of[loc_of[i]] or t[3].endswith("-challenge"): errs.append(f"DATA.T[{i}]: topic {t[3]} is not a subtopic of this subject")
+        elif not (isinstance(t[3], str) and t[3].strip() and loc_of[i] in M): errs.append(f"DATA.T[{i}]: a topic that is not a subtopic needs DATA.M[{loc_of[i]}]")
+if set(T) - set(ids): errs.append(f"DATA.T has unknown ids: {sorted(set(T) - set(ids))[:5]}")
+
 # ---- multi-part question structure ----
 LABEL = re.compile(r"^[a-z](\.[ivx]+)?$")
 def check_multi(r, where, subject):
@@ -165,6 +208,29 @@ def parse_multi_a(lines):
         else: parts.append({"stray": l})
     return meta, parts
 
+# The expected "*Info: ...*" line under each question in questions.md, built independently of scripts/build_questions.py.
+REL = ["Low", "Medium", "High"]
+low = lambda s: s[:1].lower() + s[1:]
+xsubj = {qid(r): sid for sid, rows in X.items() for r in rows}
+def want_info(i, r):
+    t = T[i]; types = t[0] if isinstance(t[0], list) else [t[0]]
+    kind = "multi" if isinstance(r, dict) else "mcq" if r[1] == 0 else "short"
+    if i in loc_of:
+        sid = subj_of[loc_of[i]]
+        m = M[t[3]] if len(t) == 4 and t[3] in subj_of else M[loc_of[i]]
+        w, note = m[0], (m[3] if len(m) == 4 else "")
+    else:
+        sid = xsubj[i]; ps = [p for p in r["pieces"] if p["kind"] == "part"]
+        w = int(sum(M[p["topic"]][0] * p["marks"] for p in ps) / sum(p["marks"] for p in ps) + 0.5); note = ""
+    e = E[sid]
+    fmt = note or (e["free"] if kind == "multi" and r.get("tech") == "free" and "free" in e else e[kind])
+    rel = [f"{REL[w - 1]} ({low(e['w'][w - 1])})", low(fmt)] + (["harder than most exam questions"] if i in CH else [])
+    marks = ("marked as part of the conversation" if t[1] == 0 else "about " + mk(t[1])) if kind == "short" else mk(t[1])
+    bits = [", ".join(QTYPES[x] for x in types), marks, "about %g min" % t[2], "Exam relevance: " + "; ".join(rel)]
+    if len(t) == 4: bits.append("Topic: " + (subname[t[3]] if t[3] in subj_of else t[3]))
+    if i not in loc_of: bits.append("Topics: " + ", ".join(dict.fromkeys(subname[p["topic"]] for p in r["pieces"] if p["kind"] == "part")))
+    return "*Info: %s*" % " · ".join(bits)
+
 folders = sorted(x for x in os.listdir(root) if os.path.isdir(os.path.join(root, x)))
 for fo in folders:
     qs = blocks(open(os.path.join(root, fo, "questions.md"), encoding="utf-8").read().split("\n"), QRE)
@@ -180,6 +246,9 @@ for fo in folders:
         marked = "*Challenge question*" in body
         if marked != (id_ in CH): errs.append(f"{fo} Q{n}: challenge marker {'present' if marked else 'missing'} for {id_}")
         body = [x for x in body if x != "*Challenge question*"]
+        infos = [x for x in body if x.startswith("*Info: ")]
+        if infos != [want_info(id_, r)]: errs.append(f"{fo} Q{n}: info line differs for {id_}")
+        body = [x for x in body if not x.startswith("*Info: ")]
         if isinstance(r, dict):
             if head != r["title"]: errs.append(f"{fo} Q{n}: title differs")
             if parse_multi_q(body) != multi_q_tokens(r): errs.append(f"{fo} Q{n}: multi-part question text differs")

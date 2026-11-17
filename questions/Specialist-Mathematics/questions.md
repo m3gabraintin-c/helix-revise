@@ -8,8 +8,11 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 #### Statements, quantifiers and counterexamples
 
+*Exam relevance: Medium (comes up regularly in exams) · Prerequisites: Integers, rational numbers and primes*
+
 **Q1.** What is the converse of the statement 'If n is even, then n² is even'?
 <!-- id: specialist-1-1-1 -->
+*Info: Conceptual · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. If n² is even, then n is even.
 - B. If n is not even, then n² is not even.
@@ -18,6 +21,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q2.** What is the contrapositive of 'If x > 2, then x² > 4'?
 <!-- id: specialist-1-1-2 -->
+*Info: Conceptual · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. If x² > 4, then x > 2.
 - B. If x² ≤ 4, then x ≤ 2.
@@ -26,6 +30,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q3.** Which statement is the negation of 'If it rains, then the cricket match at the MCG is cancelled'?
 <!-- id: specialist-1-1-3 -->
+*Info: Conceptual · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. If it does not rain, then the match is not cancelled.
 - B. It does not rain and the match is cancelled.
@@ -34,11 +39,13 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q4.** State the converse and the contrapositive of 'If a triangle is equilateral, then it is isosceles', and give the truth value of each.
 <!-- id: specialist-1-1-4 -->
+*Info: Conceptual · about 2 marks · about 3 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q5.** Which is the negation of '∀x ∈ R, x² ≥ 0'?
 <!-- id: specialist-1-1-5 -->
+*Info: Conceptual · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. ∀x ∈ R, x² < 0
 - B. ∃x ∈ R such that x² ≤ 0
@@ -47,6 +54,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q6.** Which is the negation of '∃n ∈ N such that n² = 2n'?
 <!-- id: specialist-1-1-6 -->
+*Info: Conceptual · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. ∀n ∈ N, n² ≠ 2n
 - B. ∃n ∈ N such that n² ≠ 2n
@@ -55,6 +63,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q7.** Which value of p is a counterexample to the claim 'Every prime number p is odd'?
 <!-- id: specialist-1-1-7 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. p = 9
 - B. p = 2
@@ -63,11 +72,13 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q8.** Give a counterexample to the claim 'For all real numbers a and b, √(a² + b²) = a + b'.
 <!-- id: specialist-1-1-8 -->
+*Info: Calculation · about 2 marks · about 3 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q9.** Euler noticed that n² + n + 41 gives primes for many natural numbers n. Which value of n is a counterexample to the claim that it is always prime?
 <!-- id: specialist-1-1-9 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. n = 1
 - B. n = 10
@@ -76,6 +87,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q10.** Which of the following statements is true?
 <!-- id: specialist-1-1-10 -->
+*Info: Conceptual · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. ∃y ∈ R such that ∀x ∈ R, y > x
 - B. ∀x ∈ R, x² > x
@@ -84,6 +96,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q11.** The implication P ⇒ Q is evaluated when P is false and Q is true. What is its truth value?
 <!-- id: specialist-1-1-11 -->
+*Info: Conceptual · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. True
 - B. False
@@ -92,11 +105,13 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q12.** Disprove the statement 'For all n ∈ N, 2ⁿ > n²'.
 <!-- id: specialist-1-1-12 -->
+*Info: Proof · about 3 marks · about 4.5 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q13.** Which pair of statements is logically equivalent?
 <!-- id: specialist-1-1-13 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. P ⇒ Q and Q ⇒ P
 - B. P ⇒ Q and ¬Q ⇒ ¬P
@@ -105,6 +120,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q14.** For real x, consider the claim 'If x² = 9, then x = 3'. Which is correct?
 <!-- id: specialist-1-1-14 -->
+*Info: Conceptual · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. It is true for all real x.
 - B. It is false; x = 0 is a counterexample.
@@ -113,6 +129,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q15.** Consider 'If a quadrilateral is a square, then it is a rectangle'. Which is correct?
 <!-- id: specialist-1-1-15 -->
+*Info: Conceptual · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. The statement, its converse and its contrapositive are all true.
 - B. The statement and its converse are true; the contrapositive is false.
@@ -121,11 +138,13 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q16.** Write the negation of '∃x ∈ R such that x² + 1 = 0'. Which is true, the statement or its negation?
 <!-- id: specialist-1-1-16 -->
+*Info: Conceptual · about 2 marks · about 3 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q17.** 'Being even is a necessary condition for an integer n to be divisible by 6.' Which statement does this mean?
 <!-- id: specialist-1-1-17 -->
+*Info: Conceptual · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. If n is divisible by 6, then n is even.
 - B. If n is even, then n is divisible by 6.
@@ -134,6 +153,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q18.** For integers n, which biconditional is true?
 <!-- id: specialist-1-1-18 -->
+*Info: Conceptual · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. n > 2 ⇔ n² > 4
 - B. n is odd ⇔ n² is odd
@@ -142,6 +162,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q19.** A teacher claims, 'All the students in my class passed the Specialist Maths SAC.' Which statement is the negation?
 <!-- id: specialist-1-1-19 -->
+*Info: Conceptual · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. No student in the class passed the SAC.
 - B. Exactly one student in the class did not pass the SAC.
@@ -150,11 +171,13 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q20.** Is the statement 'For all real a and b, if a < b then a² < b²' true? Justify your answer.
 <!-- id: specialist-1-1-20 -->
+*Info: Application · about 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q21.** Which is the negation of '∀x ∈ Z ∃y ∈ Z such that x + y = 0'?
 <!-- id: specialist-1-1-21 -->
+*Info: Conceptual · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. ∀x ∈ Z ∃y ∈ Z such that x + y ≠ 0
 - B. ∃x ∈ Z ∃y ∈ Z such that x + y ≠ 0
@@ -163,6 +186,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q22.** Which value of x is a counterexample to 'For all real x, if x > 0 then x³ > x'?
 <!-- id: specialist-1-1-22 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. x = 0.5
 - B. x = 2
@@ -171,6 +195,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q23.** Let n be an integer. Which of the following statements is false?
 <!-- id: specialist-1-1-23 -->
+*Info: Conceptual · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. If n is a multiple of 4, then n is a multiple of 2.
 - B. If n is not a multiple of 4, then n is not a multiple of 2.
@@ -179,17 +204,20 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q24.** Over the real numbers, explain the difference in truth value between '∀x ∃y such that x < y' and '∃y such that ∀x, x < y'.
 <!-- id: specialist-1-1-24 -->
+*Info: Conceptual · about 2 marks · about 3 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q25.** Show that the statement 'The sum of two irrational numbers is always irrational' is false.
 <!-- id: specialist-1-1-25 -->
+*Info: Proof · about 2 marks · about 3 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q26.** The negation of 'for every integer \(n\), there exists an integer \(m\) with \(m > n\)' is:
 <!-- id: specialist-1-1-c1 -->
 *Challenge question*
+*Info: Conceptual · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A; harder than most exam questions*
 
 - A. For every integer n, there exists an integer m with m ≤ n
 - B. There exists an integer n and an integer m with m ≤ n
@@ -198,8 +226,11 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 #### Direct proof and divisibility
 
+*Exam relevance: Medium (comes up regularly in exams) · Prerequisites: Statements, quantifiers and counterexamples; Expanding and factorising*
+
 **Q27.** In a direct proof that the square of an odd integer is odd, let n = 2k + 1 for an integer k. Which form of n² shows that it is odd?
 <!-- id: specialist-1-2-1 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. n² = 2(2k² + k) + 1
 - B. n² = 2(2k² + 2k) + 1
@@ -208,6 +239,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q28.** Which number must divide n(n + 1) for every integer n?
 <!-- id: specialist-1-2-2 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. 3
 - B. 4
@@ -216,6 +248,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q29.** What is the largest of these numbers that divides n(n + 1)(n + 2) for every integer n?
 <!-- id: specialist-1-2-3 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. 4
 - B. 12
@@ -224,11 +257,13 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q30.** Prove that the sum of any two even integers is even.
 <!-- id: specialist-1-2-4 -->
+*Info: Proof · about 3 marks · about 4.5 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q31.** For integers a, b and c, if a | b and b | c, which must be true?
 <!-- id: specialist-1-2-5 -->
+*Info: Application · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. a | c
 - B. c | a
@@ -237,6 +272,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q32.** The sum of any three consecutive integers is always divisible by which of these numbers?
 <!-- id: specialist-1-2-6 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. 2
 - B. 3
@@ -245,6 +281,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q33.** Let a = 2m + 1 and b = 2n + 1 be odd integers. Which expression for a + b proves that the sum is even?
 <!-- id: specialist-1-2-7 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. 2(m + n) + 1
 - B. 2m + 2n
@@ -253,11 +290,13 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q34.** Prove that n² + n is even for every integer n.
 <!-- id: specialist-1-2-8 -->
+*Info: Proof · about 3 marks · about 4.5 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q35.** In a proof that n³ − n is divisible by 6 for every integer n, which factorisation is the key step?
 <!-- id: specialist-1-2-9 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. n(n − 1)²
 - B. n(n² + 1)
@@ -266,6 +305,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q36.** Which statement is true for every integer n?
 <!-- id: specialist-1-2-10 -->
+*Info: Conceptual · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. n² − n is even.
 - B. n² + n is odd.
@@ -274,6 +314,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q37.** If n = 3k + 2 for some integer k, what is the remainder when n² is divided by 3?
 <!-- id: specialist-1-2-11 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. 2
 - B. 1
@@ -282,11 +323,13 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q38.** Prove that if a | b and a | c, then a | (b + c), where a, b and c are integers.
 <!-- id: specialist-1-2-12 -->
+*Info: Proof · about 3 marks · about 4.5 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q39.** When the square of any integer is divided by 4, which remainders are possible?
 <!-- id: specialist-1-2-13 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. 0 or 2 only
 - B. 1 or 3 only
@@ -295,6 +338,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q40.** Which number divides 5ⁿ − 1 for every n ∈ N?
 <!-- id: specialist-1-2-14 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. 3
 - B. 6
@@ -303,6 +347,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q41.** The product of two consecutive even integers, 2k(2k + 2), is always divisible by which of these numbers?
 <!-- id: specialist-1-2-15 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. 8
 - B. 16
@@ -311,11 +356,13 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q42.** Prove that 8 divides n² − 1 for every odd integer n.
 <!-- id: specialist-1-2-16 -->
+*Info: Proof · about 3 marks · about 4.5 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q43.** Suppose 3 | a and 3 | b for integers a and b. Which expression must be divisible by 3?
 <!-- id: specialist-1-2-17 -->
+*Info: Application · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. a + b + 1
 - B. 2a − 5b
@@ -324,6 +371,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q44.** In a direct proof that the product of two rational numbers x = a/b and y = c/d (a, b, c, d integers) is rational, which condition is essential?
 <!-- id: specialist-1-2-18 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. a ≠ 0 and c ≠ 0
 - B. a/b is written in lowest terms
@@ -332,6 +380,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q45.** Which fact explains why a whole number is divisible by 9 exactly when the sum of its digits is divisible by 9?
 <!-- id: specialist-1-2-19 -->
+*Info: Conceptual · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. 10ᵏ is divisible by 9 for every k ≥ 1
 - B. 10ᵏ + 1 is divisible by 9 for every k ≥ 0
@@ -340,11 +389,13 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q46.** Prove that the product of two odd integers is odd.
 <!-- id: specialist-1-2-20 -->
+*Info: Proof · about 3 marks · about 4.5 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q47.** What is the correct opening line of a direct proof of 'If n is a multiple of 4, then n² is a multiple of 16'?
 <!-- id: specialist-1-2-21 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. Let n = 4k for some integer k.
 - B. Assume n² is not a multiple of 16.
@@ -353,6 +404,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q48.** For positive real numbers a and b, which inequality expands to give a direct proof that a + b ≥ 2√(ab)?
 <!-- id: specialist-1-2-22 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. (a + b)² ≥ 0
 - B. (√a − √b)² ≥ 0
@@ -361,6 +413,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q49.** For every integer n, the number n² + n + 1 is always:
 <!-- id: specialist-1-2-23 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. even
 - B. prime
@@ -369,24 +422,30 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q50.** Prove that x² − 6x + 10 > 0 for all real x.
 <!-- id: specialist-1-2-24 -->
+*Info: Proof · about 3 marks · about 4.5 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q51.** Prove that n³ − n is divisible by 6 for every integer n.
 <!-- id: specialist-1-2-25 -->
+*Info: Proof · about 3 marks · about 4.5 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q52.** Prove that \(n^3 - n\) is divisible by 6 for every integer \(n\).
 <!-- id: specialist-1-2-c1 -->
 *Challenge question*
+*Info: Proof · about 3 marks · about 4.5 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Exam 1 or Exam 2; harder than most exam questions*
 
 *Written answer*
 
 #### Contradiction and contrapositive proofs
 
+*Exam relevance: Medium (comes up regularly in exams) · Prerequisites: Statements, quantifiers and counterexamples; Direct proof and divisibility*
+
 **Q53.** To prove that √2 is irrational by contradiction, what is the initial assumption?
 <!-- id: specialist-1-3-1 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. √2 is irrational
 - B. √2 = p/q, where p and q are both even
@@ -395,6 +454,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q54.** In the proof that √2 is irrational, the equation p² = 2q² is reached. What follows immediately?
 <!-- id: specialist-1-3-2 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. q² is even, so q is even.
 - B. p = 2q
@@ -403,6 +463,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q55.** In the proof that √2 is irrational, where does the contradiction come from?
 <!-- id: specialist-1-3-3 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. Both p and q turn out to be even, which contradicts p/q being in lowest terms.
 - B. p² turns out to be negative.
@@ -411,11 +472,13 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q56.** Prove by contradiction that √3 is irrational.
 <!-- id: specialist-1-3-4 -->
+*Info: Proof · about 4 marks · about 6 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q57.** To prove 'If n² is even, then n is even' by the contrapositive, what do we prove?
 <!-- id: specialist-1-3-5 -->
+*Info: Conceptual · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. If n is even, then n² is even.
 - B. If n is odd, then n² is odd.
@@ -424,6 +487,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q58.** In Euclid's proof by contradiction that there are infinitely many primes, assume p₁, p₂, …, pₖ are all the primes. Which number is then considered?
 <!-- id: specialist-1-3-6 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. N = p₁p₂…pₖ
 - B. N = pₖ + 1
@@ -432,6 +496,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q59.** In Euclid's proof, N = p₁p₂…pₖ + 1 leaves remainder 1 when divided by each pᵢ. What can we validly conclude?
 <!-- id: specialist-1-3-7 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. N must itself be prime.
 - B. N must be even.
@@ -440,11 +505,13 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q60.** Prove by contrapositive: for integers n, if n² is odd then n is odd.
 <!-- id: specialist-1-3-8 -->
+*Info: Proof · about 3 marks · about 4.5 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q61.** Which product shows that p₁p₂…pₖ + 1 (the product of the first k primes, plus 1) need not be prime?
 <!-- id: specialist-1-3-9 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. 2 × 3 × 5 × 7 × 11 × 13 + 1
 - B. 2 × 3 + 1
@@ -453,6 +520,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q62.** To prove 'If 3n + 2 is odd, then n is odd' for integers n, which contrapositive is proved?
 <!-- id: specialist-1-3-10 -->
+*Info: Conceptual · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. If n is odd, then 3n + 2 is odd.
 - B. If n is even, then 3n + 2 is even.
@@ -461,6 +529,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q63.** To prove log₂(3) is irrational, assume log₂(3) = p/q for positive integers p and q. This gives 2ᵖ = 3^q. Why is this a contradiction?
 <!-- id: specialist-1-3-11 -->
+*Info: Conceptual · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. 2ᵖ is negative but 3^q is positive.
 - B. p must equal q.
@@ -469,11 +538,13 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q64.** Prove by contradiction that there is no smallest positive rational number.
 <!-- id: specialist-1-3-12 -->
+*Info: Proof · about 3 marks · about 4.5 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q65.** Prove by contradiction that there is no largest even integer. Assume N is the largest even integer. What is the next step?
 <!-- id: specialist-1-3-13 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. N/2 is an integer, a contradiction.
 - B. N − 2 is even and smaller than N, a contradiction.
@@ -482,6 +553,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q66.** Which statement is a good way to prove 'If xy is irrational, then x is irrational or y is irrational'?
 <!-- id: specialist-1-3-14 -->
+*Info: Conceptual · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. If x and y are both rational, then xy is rational.
 - B. If x or y is irrational, then xy is irrational.
@@ -490,6 +562,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q67.** To prove 'If n² is divisible by 3, then n is divisible by 3' by contrapositive, which cases must be considered?
 <!-- id: specialist-1-3-15 -->
+*Info: Conceptual · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. n = 2k and n = 2k + 1
 - B. n = 3k + 1 and n = 3k + 2
@@ -498,11 +571,13 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q68.** Prove that if x is a non-zero irrational number, then 1/x is irrational.
 <!-- id: specialist-1-3-16 -->
+*Info: Proof · about 3 marks · about 4.5 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q69.** To prove that no integers a and b satisfy 4a + 6b = 1, which observation produces the contradiction?
 <!-- id: specialist-1-3-17 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. The left side is always positive.
 - B. a and b would have to be equal.
@@ -511,6 +586,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q70.** In proving √3 is irrational, assume √3 = p/q in lowest terms, so p² = 3q². Why must 3 divide p?
 <!-- id: specialist-1-3-18 -->
+*Info: Conceptual · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. Every perfect square is divisible by 3.
 - B. p² is even.
@@ -519,6 +595,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q71.** To prove 'If a + b ≥ 20, then a ≥ 10 or b ≥ 10' by contradiction, what should be assumed?
 <!-- id: specialist-1-3-19 -->
+*Info: Application · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. a + b ≥ 20, a < 10 and b < 10
 - B. a + b < 20, a < 10 and b < 10
@@ -527,11 +604,13 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q72.** Prove that log₂(5) is irrational.
 <!-- id: specialist-1-3-20 -->
+*Info: Proof · about 3 marks · about 4.5 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q73.** To prove 2 + √3 is irrational, assume 2 + √3 = r with r rational. Which facts complete the proof?
 <!-- id: specialist-1-3-21 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. √3 = r + 2 would be irrational, which agrees with the assumption.
 - B. √3 = r − 2 would be rational, which contradicts that √3 is irrational (rationals are closed under subtraction).
@@ -540,6 +619,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q74.** Which of the following is NOT a valid way to prove P ⇒ Q?
 <!-- id: specialist-1-3-22 -->
+*Info: Conceptual · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. Assume P and ¬Q, and derive a contradiction.
 - B. Prove ¬Q ⇒ ¬P.
@@ -548,6 +628,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q75.** A Year 12 class has 13 students. To prove by contradiction that two of them were born in the same month, what is the reasoning?
 <!-- id: specialist-1-3-23 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. Assume all 13 share a birth month; this is impossible.
 - B. Assume two share a birth month; then 13 is prime, a contradiction.
@@ -556,24 +637,30 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q76.** Prove by contrapositive: for integers a and b, if ab is even then a is even or b is even.
 <!-- id: specialist-1-3-24 -->
+*Info: Proof · about 3 marks · about 4.5 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q77.** Prove that there are no positive integers x and y such that x² − y² = 1.
 <!-- id: specialist-1-3-25 -->
+*Info: Proof · about 3 marks · about 4.5 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q78.** Prove by contradiction that \(\log_2 3\) is irrational.
 <!-- id: specialist-1-3-c1 -->
 *Challenge question*
+*Info: Proof · about 3 marks · about 4.5 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Exam 1 or Exam 2; harder than most exam questions*
 
 *Written answer*
 
 #### Mathematical induction
 
+*Exam relevance: High (comes up in most exams) · Prerequisites: Direct proof and divisibility; Algebraic manipulation*
+
 **Q79.** To prove 2ⁿ ≥ n + 1 for all n ∈ N by induction, what is the base step?
 <!-- id: specialist-1-4-1 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. Check n = 1: 2 > 2 holds.
 - B. Check n = 2: 4 ≥ 3 holds.
@@ -582,6 +669,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q80.** In the inductive step of a proof by mathematical induction, what must be shown?
 <!-- id: specialist-1-4-2 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. P(k) ⇒ P(k + 1) for every k in the domain
 - B. P(k + 1) ⇒ P(k)
@@ -590,6 +678,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q81.** To prove 1² + 2² + … + n² = n(n + 1)(2n + 1)/6, assume the result for n = k. Which expression must simplify to (k + 1)(k + 2)(2k + 3)/6?
 <!-- id: specialist-1-4-3 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. k(k + 1)(2k + 1)/6 + k²
 - B. k(k + 1)(2k + 1)/6 + (k + 1)²
@@ -598,11 +687,13 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q82.** Prove by mathematical induction that 1 + 2 + … + n = n(n + 1)/2 for all n ∈ N.
 <!-- id: specialist-1-4-4 -->
+*Info: Proof · about 3 marks · about 4.5 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q83.** To prove 1 + 3 + 5 + … + (2n − 1) = n² by induction, which term is added to k² in the inductive step?
 <!-- id: specialist-1-4-5 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 2k − 1
 - B. 2k + 3
@@ -611,6 +702,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q84.** To prove 3ⁿ − 1 is even by induction, which rewriting of 3^(k+1) − 1 is most useful?
 <!-- id: specialist-1-4-6 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 3(3ᵏ − 1) + 1
 - B. 3ᵏ − 1 + 3
@@ -619,6 +711,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q85.** Assume 7ᵏ − 1 = 6m for an integer m. Which expression equals 7^(k+1) − 1 and shows it is divisible by 6?
 <!-- id: specialist-1-4-7 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 6(7m + 1)
 - B. 6(7m) + 1
@@ -627,11 +720,13 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q86.** Prove by induction that 5ⁿ − 1 is divisible by 4 for all n ∈ N.
 <!-- id: specialist-1-4-8 -->
+*Info: Proof · about 3 marks · about 4.5 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q87.** What is the smallest integer n₀ such that 2ⁿ > n² for all integers n ≥ n₀?
 <!-- id: specialist-1-4-9 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 4
 - B. 5
@@ -640,6 +735,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q88.** What is the smallest natural number n for which n! > 2ⁿ?
 <!-- id: specialist-1-4-10 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 3
 - B. 5
@@ -648,6 +744,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q89.** A sequence has a₁ = 2 and a_(n+1) = 2aₙ − 1, and a_n = 2^(n−1) + 1 can be proved by induction. What is a₅?
 <!-- id: specialist-1-4-11 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 16
 - B. 33
@@ -656,11 +753,13 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q90.** Prove by induction that 1³ + 2³ + … + n³ = (n(n + 1)/2)² for all n ∈ N.
 <!-- id: specialist-1-4-12 -->
+*Info: Proof · about 3 marks · about 4.5 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q91.** Which formula for 1×2 + 2×3 + … + n(n + 1) can be proved by induction for all n ∈ N?
 <!-- id: specialist-1-4-13 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. n(n + 1)(n + 2)/3
 - B. n(n + 1)(n + 2)/6
@@ -669,6 +768,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q92.** Which closed form for 1/(1×2) + 1/(2×3) + … + 1/(n(n + 1)) can be proved by induction?
 <!-- id: specialist-1-4-14 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 1/(n + 1)
 - B. n/(n + 1)
@@ -677,6 +777,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q93.** A flawed 'proof' by induction claims that all horses are the same colour. At which step does the inductive argument fail?
 <!-- id: specialist-1-4-15 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. The base case n = 1, because one horse might be two colours
 - B. Going from n = 100 to n = 101, because the groups are too large
@@ -685,11 +786,13 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q94.** Prove by induction that 3ⁿ > 2n + 1 for all integers n ≥ 2.
 <!-- id: specialist-1-4-16 -->
+*Info: Proof · about 3 marks · about 4.5 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q95.** Suppose P(3) is true and P(k) ⇒ P(k + 1) has been proved for all k ≥ 3. For which n is P(n) guaranteed to be true?
 <!-- id: specialist-1-4-17 -->
+*Info: Conceptual · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. All integers n ≥ 1
 - B. Only n = 3 and n = 4
@@ -698,6 +801,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q96.** To prove 4ⁿ + 5 is divisible by 3, which rewriting of 4^(k+1) + 5 is useful?
 <!-- id: specialist-1-4-18 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 4(4ᵏ + 5) − 15
 - B. 4(4ᵏ + 5) − 5
@@ -706,6 +810,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q97.** Using 1 + 2 + 4 + … + 2^(n−1) = 2ⁿ − 1 (provable by induction), evaluate 1 + 2 + 4 + … + 2⁹.
 <!-- id: specialist-1-4-19 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 1024
 - B. 1023
@@ -714,11 +819,13 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q98.** Prove by induction that 6ⁿ + 4 is divisible by 5 for all n ∈ N.
 <!-- id: specialist-1-4-20 -->
+*Info: Proof · about 3 marks · about 4.5 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q99.** Which number divides 11ⁿ − 6 for every n ∈ N?
 <!-- id: specialist-1-4-21 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 3
 - B. 7
@@ -727,6 +834,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q100.** In the inductive proof of de Moivre's theorem, (cos θ + i sin θ)ⁿ = cos(nθ) + i sin(nθ), which identities are needed?
 <!-- id: specialist-1-4-22 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. sin²A + cos²A = 1 only
 - B. cos 2A = 2cos²A − 1 only
@@ -735,6 +843,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q101.** To prove Bernoulli's inequality (1 + x)ⁿ ≥ 1 + nx by induction, both sides of (1 + x)ᵏ ≥ 1 + kx are multiplied by (1 + x). Which condition keeps the inequality valid?
 <!-- id: specialist-1-4-23 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 1 + x > 0
 - B. x > 0
@@ -743,17 +852,20 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q102.** A sequence has a₁ = 1 and a_(n+1) = 3aₙ + 2. Prove by induction that aₙ = 2·3^(n−1) − 1.
 <!-- id: specialist-1-4-24 -->
+*Info: Proof · about 3 marks · about 4.5 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q103.** Prove by induction that n³ + 2n is divisible by 3 for all n ∈ N.
 <!-- id: specialist-1-4-25 -->
+*Info: Proof · about 3 marks · about 4.5 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q104.** Prove by induction that \(5^n - 1\) is divisible by 4 for all \(n \in \mathbb{N}\).
 <!-- id: specialist-1-4-c1 -->
 *Challenge question*
+*Info: Proof · about 3 marks · about 4.5 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2; harder than most exam questions*
 
 *Written answer*
 
@@ -761,8 +873,11 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 #### Cartesian and polar forms
 
+*Exam relevance: High (comes up in most exams) · Prerequisites: Unit circle and exact values (Mathematical Methods, Units 1 & 2)*
+
 **Q105.** If z = 3 − 4i, what is |z|?
 <!-- id: specialist-2-1-1 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 5
 - B. 7
@@ -771,6 +886,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q106.** What is Arg(−1 + i)?
 <!-- id: specialist-2-1-2 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. −π/4
 - B. 3π/4
@@ -779,6 +895,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q107.** What is Arg(−√3 − i)?
 <!-- id: specialist-2-1-3 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 5π/6
 - B. −π/6
@@ -787,11 +904,13 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q108.** Express z = −3 + 3i in polar form using the principal argument.
 <!-- id: specialist-2-1-4 -->
+*Info: Calculation · about 2 marks · about 3 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q109.** Express 2cis(π/3) in Cartesian form.
 <!-- id: specialist-2-1-5 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. √3 + i
 - B. 2 + 2√3 i
@@ -800,6 +919,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q110.** Simplify (2 + 3i)(1 − i).
 <!-- id: specialist-2-1-6 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 5 + i
 - B. −1 + i
@@ -808,6 +928,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q111.** Simplify (3 + i)/(1 + i).
 <!-- id: specialist-2-1-7 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 2 + i
 - B. 2 − i
@@ -816,11 +937,13 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q112.** Find real numbers a and b such that (a + bi)(2 − i) = 5 + 5i.
 <!-- id: specialist-2-1-8 -->
+*Info: Calculation · about 2 marks · about 3 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q113.** If z = 4cis(−π/5), then z̄ equals
 <!-- id: specialist-2-1-9 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 4cis(4π/5)
 - B. −4cis(π/5)
@@ -829,6 +952,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q114.** If z₁ = 2cis(π/4) and z₂ = 3cis(π/6), then z₁z₂ equals
 <!-- id: specialist-2-1-10 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 5cis(5π/12)
 - B. 6cis(π/24)
@@ -837,6 +961,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q115.** If z₁ = 6cis(2π/3) and z₂ = 2cis(−π/2), then z₁/z₂ in polar form with principal argument is
 <!-- id: specialist-2-1-11 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 3cis(−5π/6)
 - B. 3cis(π/6)
@@ -845,11 +970,13 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q116.** Given z = 1 + 2i, express z/z̄ in Cartesian form.
 <!-- id: specialist-2-1-12 -->
+*Info: Calculation · about 2 marks · about 3 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q117.** If z = 2cis(π/3), then 1/z equals
 <!-- id: specialist-2-1-13 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 2cis(−π/3)
 - B. (1/2)cis(−π/3)
@@ -858,6 +985,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q118.** Simplify i²⁰²⁷.
 <!-- id: specialist-2-1-14 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. i
 - B. 1
@@ -866,6 +994,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q119.** If z = a + bi where a, b ∈ R, then z z̄ equals
 <!-- id: specialist-2-1-15 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. a² − b²
 - B. 2a
@@ -874,11 +1003,13 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q120.** Find the square roots of 5 − 12i in Cartesian form.
 <!-- id: specialist-2-1-16 -->
+*Info: Calculation · about 2 marks · about 3 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q121.** For any complex number z, z + z̄ equals
 <!-- id: specialist-2-1-17 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 2Re(z)
 - B. 2Im(z)
@@ -887,6 +1018,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q122.** The complex number z satisfying z + 2z̄ = 6 − i is
 <!-- id: specialist-2-1-18 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 2 − i
 - B. 2 + i
@@ -895,6 +1027,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q123.** The polar form of −2i is
 <!-- id: specialist-2-1-19 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 2cis(π/2)
 - B. 2cis(π)
@@ -903,11 +1036,13 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q124.** Express 4cis(−5π/6) in Cartesian form.
 <!-- id: specialist-2-1-20 -->
+*Info: Calculation · about 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q125.** What is Re(1/(1 + i))?
 <!-- id: specialist-2-1-21 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 1
 - B. −1/2
@@ -916,6 +1051,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q126.** If Arg(z) = π/3, then Arg(−z) is
 <!-- id: specialist-2-1-22 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. −2π/3
 - B. 2π/3
@@ -924,6 +1060,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q127.** If z₁ = 1 + i and z₂ = √3 − i, then |z₁z₂| equals
 <!-- id: specialist-2-1-23 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 4
 - B. 2√2
@@ -932,17 +1069,20 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q128.** Given z = 2cis(π/6) and w = cis(π/4), express z²w in polar form.
 <!-- id: specialist-2-1-24 -->
+*Info: Calculation · about 2 marks · about 3 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q129.** Express z = (1 + i)⁴/(1 − i)² in Cartesian form.
 <!-- id: specialist-2-1-25 -->
+*Info: Calculation · about 2 marks · about 3 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q130.** \(\text{Arg}\left(\dfrac{1 - i}{\sqrt{3} + i}\right)\) equals:
 <!-- id: specialist-2-1-c1 -->
 *Challenge question*
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A; harder than most exam questions*
 
 - A. \(-\dfrac{5\pi}{12}\)
 - B. \(-\dfrac{\pi}{12}\)
@@ -951,8 +1091,11 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 #### De Moivre's theorem and roots
 
+*Exam relevance: High (comes up in most exams) · Prerequisites: Cartesian and polar forms*
+
 **Q131.** Simplify (1 + i)⁸.
 <!-- id: specialist-2-2-1 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 16i
 - B. −16
@@ -961,6 +1104,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q132.** Simplify (√3 + i)⁶.
 <!-- id: specialist-2-2-2 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 64
 - B. 64i
@@ -969,6 +1113,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q133.** Using De Moivre's theorem, (cis(π/12))⁴ equals
 <!-- id: specialist-2-2-3 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 1/2 + (√3/2)i
 - B. √3/2 + (1/2)i
@@ -977,11 +1122,13 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q134.** Solve z³ = −8 over C, giving answers in Cartesian form.
 <!-- id: specialist-2-2-4 -->
+*Info: Calculation · about 2 marks · about 3 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q135.** The smallest positive integer n for which (1 + i)ⁿ is real is
 <!-- id: specialist-2-2-5 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 2
 - B. 4
@@ -990,6 +1137,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q136.** The smallest positive integer n for which (√3 + i)ⁿ is purely imaginary is
 <!-- id: specialist-2-2-6 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 6
 - B. 2
@@ -998,6 +1146,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q137.** How many distinct solutions does z⁵ = 1 + i have over C?
 <!-- id: specialist-2-2-7 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 1
 - B. 2
@@ -1006,11 +1155,13 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q138.** Solve z⁴ = −8 − 8√3 i, giving answers in Cartesian form.
 <!-- id: specialist-2-2-8 -->
+*Info: Calculation · about 2 marks · about 3 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q139.** Which of the following is a cube root of 8i?
 <!-- id: specialist-2-2-9 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. −2i
 - B. 2i
@@ -1019,6 +1170,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q140.** For n ≥ 2, the sum of the n distinct nth roots of unity is
 <!-- id: specialist-2-2-10 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 1
 - B. 0
@@ -1027,6 +1179,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q141.** The angle between adjacent roots of z⁸ = 256 on an Argand diagram is
 <!-- id: specialist-2-2-11 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. π/8
 - B. π/2
@@ -1035,11 +1188,13 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q142.** Express (1 − √3 i)¹⁰ in Cartesian form.
 <!-- id: specialist-2-2-12 -->
+*Info: Calculation · about 2 marks · about 3 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q143.** Which of the following is a fourth root of −16?
 <!-- id: specialist-2-2-13 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 2 + 2i
 - B. 2i
@@ -1048,6 +1203,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q144.** If z = cis θ and n is a positive integer, then zⁿ + z⁻ⁿ equals
 <!-- id: specialist-2-2-14 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 2cos(nθ)
 - B. 2i sin(nθ)
@@ -1056,6 +1212,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q145.** Using De Moivre's theorem, cos(3θ) can be written as
 <!-- id: specialist-2-2-15 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 3cos θ − 4cos³θ
 - B. 4cos³θ − 3cos θ
@@ -1064,11 +1221,13 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q146.** Use De Moivre's theorem to express cos(4θ) in terms of cos θ only.
 <!-- id: specialist-2-2-16 -->
+*Info: Calculation · about 2 marks · about 3 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q147.** Simplify (2cis(π/8))⁴.
 <!-- id: specialist-2-2-17 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 8i
 - B. 16
@@ -1077,6 +1236,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q148.** If z = 1 − i, then z⁻⁴ equals
 <!-- id: specialist-2-2-18 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 1/4
 - B. −4
@@ -1085,6 +1245,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q149.** Simplify (−1 + √3 i)³.
 <!-- id: specialist-2-2-19 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 8
 - B. −8
@@ -1093,11 +1254,13 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q150.** Solve z² = −2 + 2√3 i, giving answers in Cartesian form.
 <!-- id: specialist-2-2-20 -->
+*Info: Calculation · about 2 marks · about 3 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q151.** Which of the following is NOT a solution of z⁴ = 81?
 <!-- id: specialist-2-2-21 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 3i
 - B. 3 + 3i
@@ -1106,6 +1269,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q152.** If ω is a non-real cube root of unity, then 1 + ω + ω² equals
 <!-- id: specialist-2-2-22 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 1
 - B. 3
@@ -1114,6 +1278,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q153.** Which of the following is NOT an argument of a solution of z⁵ = 32cis(π/2)?
 <!-- id: specialist-2-2-23 -->
+*Info: Conceptual · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. π/10
 - B. π/2
@@ -1122,24 +1287,30 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q154.** If z = cis(π/5), find the exact value of z⁵ + z⁻⁵.
 <!-- id: specialist-2-2-24 -->
+*Info: Calculation · about 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q155.** Find the smallest positive integer n such that (1 − i)ⁿ is a positive real number, and state its value.
 <!-- id: specialist-2-2-25 -->
+*Info: Calculation · about 2 marks · about 3 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q156.** Solve \(z^4 = -16\), giving the solutions in Cartesian form.
 <!-- id: specialist-2-2-c1 -->
 *Challenge question*
+*Info: Calculation · about 3 marks · about 4.5 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2; harder than most exam questions*
 
 *Written answer*
 
 #### Complex polynomials and factorisation
 
+*Exam relevance: High (comes up in most exams) · Prerequisites: Cartesian and polar forms; Factor and remainder theorems (Mathematical Methods, Units 3 & 4)*
+
 **Q157.** A polynomial P(z) with real coefficients has 3 + 2i as a root. Which of the following must also be a root?
 <!-- id: specialist-2-3-1 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 3 − 2i
 - B. −3 + 2i
@@ -1148,6 +1319,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q158.** Which monic quadratic with real coefficients has roots 1 ± 2i?
 <!-- id: specialist-2-3-2 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. z² + 2z + 5
 - B. z² − 2z + 5
@@ -1156,6 +1328,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q159.** The solutions of z² + 4z + 13 = 0 are
 <!-- id: specialist-2-3-3 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 2 ± 3i
 - B. −4 ± 6i
@@ -1164,11 +1337,13 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q160.** Solve z² + 2z + 5 = 0 over C.
 <!-- id: specialist-2-3-4 -->
+*Info: Calculation · about 2 marks · about 3 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q161.** Over C, z² + 9 factorises as
 <!-- id: specialist-2-3-5 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. (z + 3)(z − 3)
 - B. (z + 3i)²
@@ -1177,6 +1352,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q162.** The remainder when P(z) = z³ + 2z² − z + 1 is divided by (z − i) is
 <!-- id: specialist-2-3-6 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. −1 − 2i
 - B. −1 + 2i
@@ -1185,6 +1361,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q163.** A cubic polynomial with real coefficients must have
 <!-- id: specialist-2-3-7 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. exactly one real root
 - B. at least one real root
@@ -1193,11 +1370,13 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q164.** Given 1 − 2i is a root of z³ − z² + 3z + 5 = 0, find the other roots.
 <!-- id: specialist-2-3-8 -->
+*Info: Calculation · about 2 marks · about 3 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q165.** The roots of z³ − z² + 4z − 4 = 0 are
 <!-- id: specialist-2-3-9 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. −1, 2i, −2i
 - B. 1, 4i, −4i
@@ -1206,6 +1385,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q166.** Given 2i is a root of z³ + az² + 4z + 8 = 0 where a ∈ R, the value of a is
 <!-- id: specialist-2-3-10 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. −2
 - B. 4
@@ -1214,6 +1394,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q167.** Given z = 1 is a root of z³ − 5z² + 9z − 5 = 0, the other roots are
 <!-- id: specialist-2-3-11 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 2 ± i
 - B. −2 ± i
@@ -1222,11 +1403,13 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q168.** Solve z² − 4iz − 5 = 0 over C.
 <!-- id: specialist-2-3-12 -->
+*Info: Calculation · about 2 marks · about 3 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q169.** The solution(s) of z² − 2iz − 1 = 0 are
 <!-- id: specialist-2-3-13 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. z = −i only
 - B. z = i only (repeated root)
@@ -1235,6 +1418,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q170.** If 1 + i is a root of z² + bz + c = 0 where b, c ∈ R, then (b, c) equals
 <!-- id: specialist-2-3-14 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. (2, 2)
 - B. (−2, −2)
@@ -1243,6 +1427,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q171.** Over C, a polynomial of degree 4 has
 <!-- id: specialist-2-3-15 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. at most 2 roots
 - B. exactly 2 roots
@@ -1251,11 +1436,13 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q172.** Factorise z⁴ − 16 into linear factors over C.
 <!-- id: specialist-2-3-16 -->
+*Info: Calculation · about 2 marks · about 3 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q173.** The solutions of z² = −16 are
 <!-- id: specialist-2-3-17 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. ±4i
 - B. ±4
@@ -1264,6 +1451,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q174.** The solutions of z² − (3 + i)z + (2 + i) = 0 are
 <!-- id: specialist-2-3-18 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. −1 and −2 − i
 - B. 1 and 2 + i
@@ -1272,6 +1460,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q175.** Which is the factorisation of z³ + 8 into a real linear factor and a real quadratic factor?
 <!-- id: specialist-2-3-19 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. (z + 2)(z² + 2z + 4)
 - B. (z − 2)(z² + 2z + 4)
@@ -1280,11 +1469,13 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q176.** P(z) = z³ + az² + bz + 10 has real coefficients and 1 + 2i is a root. Find a, b and the third root.
 <!-- id: specialist-2-3-20 -->
+*Info: Calculation · about 2 marks · about 3 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q177.** If z − (1 − i) is a factor of a polynomial with real coefficients, which quadratic must also be a factor?
 <!-- id: specialist-2-3-21 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. z² + 2z + 2
 - B. z² − 2z − 2
@@ -1293,6 +1484,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q178.** A monic quartic with real coefficients has roots i and 1 + i. The quartic is
 <!-- id: specialist-2-3-22 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. z⁴ − 2z³ + 3z² − 2z + 2
 - B. z⁴ − 2z³ + 3z² − 2z − 2
@@ -1301,6 +1493,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q179.** A degree-5 polynomial with real coefficients has 2i and 3 − i as roots. The minimum number of real roots it has is
 <!-- id: specialist-2-3-23 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 0
 - B. 1
@@ -1309,24 +1502,30 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q180.** Solve z² + 2iz + 3 = 0 over C.
 <!-- id: specialist-2-3-24 -->
+*Info: Calculation · about 2 marks · about 3 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q181.** Show that z = 2 is a root of z³ − 2z² + 9z − 18 = 0 and hence solve the equation over C.
 <!-- id: specialist-2-3-25 -->
+*Info: Proof · about 2 marks · about 3 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q182.** \(1 + i\) is a root of \(z^3 + az + b = 0\), where \(a, b \in \mathbb{R}\). Find \(a\), \(b\) and the other roots.
 <!-- id: specialist-2-3-c1 -->
 *Challenge question*
+*Info: Calculation · about 3 marks · about 4.5 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2; harder than most exam questions*
 
 *Written answer*
 
 #### Regions and loci in the complex plane
 
+*Exam relevance: Medium (comes up regularly in exams) · Prerequisites: Cartesian and polar forms; Equations of circles and lines*
+
 **Q183.** The set {z : |z − 2 + i| = 3} is a circle with centre
 <!-- id: specialist-2-4-1 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. −2 + i
 - B. 2 + i
@@ -1335,6 +1534,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q184.** The Cartesian equation of {z : |z − 1| = |z + i|} is
 <!-- id: specialist-2-4-2 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. y = x
 - B. y = x − 1
@@ -1343,6 +1543,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q185.** The set {z : Arg(z) = π/4} is
 <!-- id: specialist-2-4-3 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. the ray y = x, x > 0
 - B. the line y = x
@@ -1351,11 +1552,13 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q186.** Find the Cartesian equation of {z : |z − 1 − i| = |z + 1 + i|}.
 <!-- id: specialist-2-4-4 -->
+*Info: Calculation · about 2 marks · about 3 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q187.** The set {z : Re(z²) = 0} is
 <!-- id: specialist-2-4-5 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. a circle centred at the origin
 - B. the pair of lines y = x and y = −x
@@ -1364,6 +1567,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q188.** The area of the region {z : |z| ≤ 2, Re(z) ≥ 0} is
 <!-- id: specialist-2-4-6 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. 4π
 - B. π
@@ -1372,6 +1576,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q189.** The set {z : |z − 3| = 2|z|} is a circle with
 <!-- id: specialist-2-4-7 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. centre 1 and radius 2
 - B. centre −1 and radius 4
@@ -1380,11 +1585,13 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q190.** Find the Cartesian equation of {z : |z − 2| = 2|z + 1|} and describe the locus.
 <!-- id: specialist-2-4-8 -->
+*Info: Calculation · about 2 marks · about 3 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q191.** The set {z : Im(z) > 2} is
 <!-- id: specialist-2-4-9 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. the open half-plane above the line y = 2
 - B. the closed half-plane on and above y = 2
@@ -1393,6 +1600,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q192.** Which of the following lies in the region {z : |z − i| < 1}?
 <!-- id: specialist-2-4-10 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. 1 + i
 - B. 0.5i
@@ -1401,6 +1609,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q193.** The set {z : Arg(z − 1) = π/2} is
 <!-- id: specialist-2-4-11 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. the vertical line x = 1
 - B. the vertical ray x = 1, y < 0
@@ -1409,11 +1618,13 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q194.** Describe the region {z : 1 ≤ |z| ≤ 3} and find its area.
 <!-- id: specialist-2-4-12 -->
+*Info: Calculation · about 3 marks · about 4.5 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q195.** The set {z : |z + 2| = |z − 4|} is the line
 <!-- id: specialist-2-4-13 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. Re(z) = 3
 - B. Re(z) = −1
@@ -1422,6 +1633,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q196.** For z on the circle |z − 3 − 4i| = 2, the maximum value of |z| is
 <!-- id: specialist-2-4-14 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. 7
 - B. 5
@@ -1430,6 +1642,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q197.** The equation z z̄ = 9 represents
 <!-- id: specialist-2-4-15 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. a circle centred at the origin with radius 9
 - B. a circle centred at the origin with radius 3
@@ -1438,11 +1651,13 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q198.** Find the point of intersection of |z| = 2 and Arg(z) = 2π/3 in Cartesian form.
 <!-- id: specialist-2-4-16 -->
+*Info: Calculation · about 2 marks · about 3 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q199.** The Cartesian equation of {z : |z − 2i| = |z|} is
 <!-- id: specialist-2-4-17 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. x = 1
 - B. y = 2
@@ -1451,6 +1666,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q200.** Which point lies in the region {z : −π/4 < Arg(z) < π/4}?
 <!-- id: specialist-2-4-18 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. 1 + 2i
 - B. −2
@@ -1459,6 +1675,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q201.** The Cartesian equation of {z : |z + 1 − 2i| = √5} is
 <!-- id: specialist-2-4-19 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. (x + 1)² + (y − 2)² = 5
 - B. (x − 1)² + (y + 2)² = 5
@@ -1467,11 +1684,13 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q202.** Find the minimum value of |z| for z on the circle |z − 6 − 8i| = 4.
 <!-- id: specialist-2-4-20 -->
+*Info: Calculation · about 2 marks · about 3 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q203.** How many complex numbers satisfy both |z| = 2 and Arg(z) = π/3?
 <!-- id: specialist-2-4-21 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. 0
 - B. 1
@@ -1480,6 +1699,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q204.** The set {z : Arg(z + i) = −π/4} is
 <!-- id: specialist-2-4-22 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. the ray y = −x + 1, x > 0
 - B. the ray y = −x − 1, x < 0
@@ -1488,6 +1708,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q205.** The points of intersection of |z| = 5 and Re(z) = 3 are
 <!-- id: specialist-2-4-23 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. 4 ± 3i
 - B. 3 + 4i only
@@ -1496,17 +1717,20 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q206.** Find the Cartesian equation of {z : Im(z²) = 8}.
 <!-- id: specialist-2-4-24 -->
+*Info: Calculation · about 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q207.** Find all z satisfying both |z − 2| = 2 and Re(z) = Im(z).
 <!-- id: specialist-2-4-25 -->
+*Info: Calculation · about 2 marks · about 3 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q208.** The set \(\{z : |z - 2| = |z + 2i|\}\) is the line:
 <!-- id: specialist-2-4-c1 -->
 *Challenge question*
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A; harder than most exam questions*
 
 - A. \(y = -x\)
 - B. \(y = x\)
@@ -1517,8 +1741,11 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 #### Rational functions and asymptotes
 
+*Exam relevance: Medium (comes up regularly in exams) · Prerequisites: Polynomial graphs and key features (Mathematical Methods, Units 3 & 4); Power functions and hyperbolas (Mathematical Methods, Units 1 & 2)*
+
 **Q209.** What is the equation of the vertical asymptote of y = (2x + 1)/(x − 3)?
 <!-- id: specialist-3-1-1 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. x = 3
 - B. x = −3
@@ -1527,11 +1754,13 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q210.** Find the equations of all asymptotes of y = (x² − 4x + 7)/(x − 2).
 <!-- id: specialist-3-1-2 -->
+*Info: Calculation · about 3 marks · about 4.5 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q211.** What is the equation of the horizontal asymptote of y = (2x + 1)/(x − 3)?
 <!-- id: specialist-3-1-3 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. y = 3
 - B. y = 2
@@ -1540,11 +1769,13 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q212.** Find the coordinates and nature of the stationary points of y = x/(x² + 1).
 <!-- id: specialist-3-1-4 -->
+*Info: Calculation · about 3 marks · about 4.5 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q213.** The graph of y = (x² + 3x + 5)/(x + 1) has an oblique asymptote with equation
 <!-- id: specialist-3-1-5 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. y = x + 1
 - B. y = x + 3
@@ -1553,6 +1784,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q214.** The stationary points of y = x + 4/x are
 <!-- id: specialist-3-1-6 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. (1, 5) and (−1, −5)
 - B. (2, 2) and (−2, −2)
@@ -1561,6 +1793,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q215.** The vertical asymptote(s) of y = 1/(x² − 4) are
 <!-- id: specialist-3-1-7 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. x = 2 and x = −2
 - B. x = 2 only
@@ -1569,11 +1802,13 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q216.** Express y = (3x + 5)/(x + 1) in the form y = a + b/(x + 1) and state its asymptotes.
 <!-- id: specialist-3-1-8 -->
+*Info: Calculation · about 2 marks · about 3 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q217.** The range of y = 1/(x² + 1) is
 <!-- id: specialist-3-1-9 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. (0, 1)
 - B. (0, 1]
@@ -1582,6 +1817,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q218.** Which best describes the graph of y = (x² − 1)/(x − 1)?
 <!-- id: specialist-3-1-10 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. The line y = x + 1 with a hole at (1, 0)
 - B. A hyperbola with vertical asymptote x = 1
@@ -1590,6 +1826,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q219.** The x-coordinate of the stationary point of y = x² + 1/x is
 <!-- id: specialist-3-1-11 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. −1/∛2
 - B. 1
@@ -1598,11 +1835,13 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q220.** The graph of y = (x² + k)/(x − 1) has a stationary point at x = 3. Find k.
 <!-- id: specialist-3-1-12 -->
+*Info: Calculation · about 2 marks · about 3 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q221.** The graph of y = x² + 1/x crosses the x-axis at
 <!-- id: specialist-3-1-13 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. x = −1
 - B. x = 1
@@ -1611,6 +1850,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q222.** The graph of y = (x + 2)/(x² − x − 6) has vertical asymptote(s)
 <!-- id: specialist-3-1-14 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. x = 3 and x = −2
 - B. x = 3 only
@@ -1619,6 +1859,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q223.** The range of y = 3 − 2/(x + 1) is
 <!-- id: specialist-3-1-15 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. R \ {−2}
 - B. R \ {−1}
@@ -1627,11 +1868,13 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q224.** Find the x-values where the graph of y = x + 1/x meets the line y = 5/2.
 <!-- id: specialist-3-1-16 -->
+*Info: Calculation · about 2 marks · about 3 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q225.** As x → ±∞, the graph of y = (x³ + 1)/x approaches the curve
 <!-- id: specialist-3-1-17 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. y = 1
 - B. y = x
@@ -1640,6 +1883,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q226.** Which equation has a graph with asymptotes x = −2 and y = 1?
 <!-- id: specialist-3-1-18 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. y = 1/(x + 2) + 1
 - B. y = 1/(x − 2) + 1
@@ -1648,6 +1892,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q227.** How many x-intercepts does the graph of y = x + 9/x have?
 <!-- id: specialist-3-1-19 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. 1
 - B. 0
@@ -1656,11 +1901,13 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q228.** State the equations of the asymptotes and the y-intercept of y = (x² + 1)/(x² − 1).
 <!-- id: specialist-3-1-20 -->
+*Info: Calculation · about 2 marks · about 3 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q229.** The oblique asymptote of y = (2x² + 3)/x is
 <!-- id: specialist-3-1-21 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. y = x
 - B. y = 2x + 3
@@ -1669,6 +1916,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q230.** The y-intercept of y = (x − 1)/(x + 2) is
 <!-- id: specialist-3-1-22 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. −2
 - B. 1/2
@@ -1677,6 +1925,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q231.** For x > 0, the minimum value of y = x + 1/x is
 <!-- id: specialist-3-1-23 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. 2
 - B. 1
@@ -1685,11 +1934,13 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q232.** Find the exact coordinates of the stationary point and the x-intercept of y = x² − 8/x.
 <!-- id: specialist-3-1-24 -->
+*Info: Calculation · about 3 marks · about 4.5 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q233.** The range of y = 1/(x − 1)² + 2 is
 <!-- id: specialist-3-1-25 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. [2, ∞)
 - B. (2, ∞)
@@ -1699,6 +1950,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 **Q234.** The asymptotes of the graph of \(y = \dfrac{2x^2 + 3x}{x + 1}\) are:
 <!-- id: specialist-3-1-c1 -->
 *Challenge question*
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A; harder than most exam questions*
 
 - A. \(x = -1\) and \(y = 2x\)
 - B. \(x = -1\) and \(y = 2\)
@@ -1707,8 +1959,11 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 #### Reciprocal circular functions
 
+*Exam relevance: Medium (comes up regularly in exams) · Prerequisites: Circular function graphs and transformations (Mathematical Methods, Units 3 & 4)*
+
 **Q235.** The exact value of sec(π/3) is
 <!-- id: specialist-3-2-1 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. 2
 - B. 1/2
@@ -1717,11 +1972,13 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q236.** Prove that sec²x + cosec²x = sec²x cosec²x.
 <!-- id: specialist-3-2-2 -->
+*Info: Proof · about 3 marks · about 4.5 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q237.** The exact value of cosec(π/4) is
 <!-- id: specialist-3-2-3 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. 1/√2
 - B. √2
@@ -1730,11 +1987,13 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q238.** Solve cosec x = −2 for 0 ≤ x ≤ 2π.
 <!-- id: specialist-3-2-4 -->
+*Info: Calculation · about 2 marks · about 3 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q239.** The exact value of cot(π/6) is
 <!-- id: specialist-3-2-5 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. 2
 - B. 1/√3
@@ -1743,6 +2002,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q240.** The maximal domain of y = sec(x) is
 <!-- id: specialist-3-2-6 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. R
 - B. R \ {kπ, k ∈ Z}
@@ -1751,6 +2011,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q241.** The range of y = cosec(x) is
 <!-- id: specialist-3-2-7 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. (−∞, −1] ∪ [1, ∞)
 - B. [−1, 1]
@@ -1759,11 +2020,13 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q242.** Given cot x = −2 and π/2 < x < π, find the exact values of sec x and cosec x.
 <!-- id: specialist-3-2-8 -->
+*Info: Calculation · about 2 marks · about 3 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q243.** The vertical asymptotes of y = cot(x) occur at
 <!-- id: specialist-3-2-9 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. x = (2k + 1)π/2, k ∈ Z
 - B. x = kπ, k ∈ Z
@@ -1772,6 +2035,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q244.** The period of y = sec(2x) is
 <!-- id: specialist-3-2-10 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. π/2
 - B. 2π
@@ -1780,6 +2044,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q245.** The expression 1 + tan²θ is equal to
 <!-- id: specialist-3-2-11 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. sin²θ
 - B. cosec²θ
@@ -1788,11 +2053,13 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q246.** Solve tan²x = 3 sec x − 3 for 0 ≤ x ≤ 2π.
 <!-- id: specialist-3-2-12 -->
+*Info: Calculation · about 2 marks · about 3 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q247.** If tan x = 3/4 and π < x < 3π/2, then sec x equals
 <!-- id: specialist-3-2-13 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. −5/4
 - B. 5/4
@@ -1801,6 +2068,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q248.** If sin x = −5/13 and 3π/2 < x < 2π, then cot x equals
 <!-- id: specialist-3-2-14 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. 12/5
 - B. −12/5
@@ -1809,6 +2077,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q249.** cosec²x − cot²x simplifies to
 <!-- id: specialist-3-2-15 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. −1
 - B. 0
@@ -1817,11 +2086,13 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q250.** For −π/2 < x < 3π/2, state the turning points of y = sec x and the equation of the asymptote in this interval.
 <!-- id: specialist-3-2-16 -->
+*Info: Calculation · about 2 marks · about 3 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q251.** The period of y = 3 cosec(x/2) is
 <!-- id: specialist-3-2-17 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. 6π
 - B. 2π
@@ -1830,6 +2101,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q252.** The solutions of sec x = 2 for 0 ≤ x ≤ 2π are
 <!-- id: specialist-3-2-18 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. x = π/3, 5π/3
 - B. x = π/6, 11π/6
@@ -1838,6 +2110,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q253.** The range of y = 2 sec(x) + 1 is
 <!-- id: specialist-3-2-19 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. (−∞, −2] ∪ [2, ∞)
 - B. (−∞, −1] ∪ [3, ∞)
@@ -1846,11 +2119,13 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q254.** Simplify (sec x − cos x)/sin x.
 <!-- id: specialist-3-2-20 -->
+*Info: Calculation · about 2 marks · about 3 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q255.** The exact value of cot(3π/4) is
 <!-- id: specialist-3-2-21 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. −√3
 - B. 1
@@ -1859,6 +2134,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q256.** The exact value of sec(7π/6) is
 <!-- id: specialist-3-2-22 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. −√3/2
 - B. 2/√3
@@ -1867,6 +2143,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q257.** sin x · sec x simplifies to
 <!-- id: specialist-3-2-23 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. tan x
 - B. cot x
@@ -1875,11 +2152,13 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q258.** The graph of y = a sec(bx), with a, b > 0, has period π and passes through (0, 3). Find a and b.
 <!-- id: specialist-3-2-24 -->
+*Info: Calculation · about 2 marks · about 3 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q259.** How many solutions does cot x = 1 have for 0 ≤ x ≤ 2π?
 <!-- id: specialist-3-2-25 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. 1
 - B. 2
@@ -1889,13 +2168,17 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 **Q260.** Solve \(\sec^2 x - \tan x - 1 = 0\) for \(x \in [0, \pi)\).
 <!-- id: specialist-3-2-c1 -->
 *Challenge question*
+*Info: Calculation · about 2 marks · about 3 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Exam 1 or Exam 2; harder than most exam questions*
 
 *Written answer*
 
 #### Inverse circular functions
 
+*Exam relevance: High (comes up in most exams) · Prerequisites: Inverse functions (Mathematical Methods, Units 3 & 4); Reciprocal circular functions*
+
 **Q261.** The exact value of sin⁻¹(1/2) is
 <!-- id: specialist-3-3-1 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. π/6
 - B. 5π/6
@@ -1904,11 +2187,13 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q262.** Find the exact value of cos(2 sin⁻¹(1/3)).
 <!-- id: specialist-3-3-2 -->
+*Info: Calculation · about 2 marks · about 3 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q263.** The exact value of cos⁻¹(−1/2) is
 <!-- id: specialist-3-3-3 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. −π/3
 - B. 2π/3
@@ -1917,11 +2202,13 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q264.** State the maximal domain and range of f(x) = 2 cos⁻¹(1 − x).
 <!-- id: specialist-3-3-4 -->
+*Info: Calculation · about 2 marks · about 3 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q265.** The exact value of tan⁻¹(−1) is
 <!-- id: specialist-3-3-5 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. π/4
 - B. 3π/4
@@ -1930,6 +2217,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q266.** The range of y = cos⁻¹(x) is
 <!-- id: specialist-3-3-6 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. [−1, 1]
 - B. [−π/2, π/2]
@@ -1938,6 +2226,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q267.** The maximal domain of y = sin⁻¹(2x − 1) is
 <!-- id: specialist-3-3-7 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. [0, 1]
 - B. [−1, 1]
@@ -1946,11 +2235,13 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q268.** Solve tan⁻¹(2x) = π/6.
 <!-- id: specialist-3-3-8 -->
+*Info: Calculation · about 2 marks · about 3 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q269.** The range of y = 3 tan⁻¹(x) + π/2 is
 <!-- id: specialist-3-3-9 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. [−π, 2π]
 - B. (−π, 2π)
@@ -1959,6 +2250,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q270.** The exact value of cos(sin⁻¹(3/5)) is
 <!-- id: specialist-3-3-10 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. −4/5
 - B. 3/5
@@ -1967,6 +2259,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q271.** The exact value of sin(cos⁻¹(−5/13)) is
 <!-- id: specialist-3-3-11 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. −5/13
 - B. −12/13
@@ -1975,11 +2268,13 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q272.** Show that sin(tan⁻¹(x)) = x/√(1 + x²) for all real x.
 <!-- id: specialist-3-3-12 -->
+*Info: Proof · about 2 marks · about 3 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q273.** The exact value of sin⁻¹(sin(5π/6)) is
 <!-- id: specialist-3-3-13 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. π/6
 - B. 5π/6
@@ -1988,6 +2283,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q274.** The exact value of cos⁻¹(cos(−π/3)) is
 <!-- id: specialist-3-3-14 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. −π/3
 - B. π/3
@@ -1996,6 +2292,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q275.** For 0 < x ≤ 1, tan(cos⁻¹(x)) is equal to
 <!-- id: specialist-3-3-15 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. √(1 − x²)
 - B. x/√(1 − x²)
@@ -2004,11 +2301,13 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q276.** Find tan(tan⁻¹(2) + tan⁻¹(3)) and hence find the exact value of tan⁻¹(2) + tan⁻¹(3).
 <!-- id: specialist-3-3-16 -->
+*Info: Calculation · about 3 marks · about 4.5 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q277.** The maximal domain of y = cos⁻¹(x/3) is
 <!-- id: specialist-3-3-17 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. [0, 3π]
 - B. [−1/3, 1/3]
@@ -2017,6 +2316,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q278.** The range of y = 2 sin⁻¹(x) is
 <!-- id: specialist-3-3-18 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. [−π, π]
 - B. [−π/2, π/2]
@@ -2025,6 +2325,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q279.** The exact value of tan⁻¹(√3) − tan⁻¹(1) is
 <!-- id: specialist-3-3-19 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. π/6
 - B. π/12
@@ -2033,11 +2334,13 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q280.** Evaluate sin⁻¹(sin(2π/3)) and explain why it is not 2π/3.
 <!-- id: specialist-3-3-20 -->
+*Info: Calculation · about 3 marks · about 4.5 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q281.** For −1 ≤ x ≤ 1, sin⁻¹(x) + cos⁻¹(x) is equal to
 <!-- id: specialist-3-3-21 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 0
 - B. π
@@ -2046,6 +2349,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q282.** The exact value of sec(tan⁻¹(2)) is
 <!-- id: specialist-3-3-22 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. √5/2
 - B. 1/√5
@@ -2054,6 +2358,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q283.** If sin⁻¹(x) = π/3, then x equals
 <!-- id: specialist-3-3-23 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. √3/2
 - B. 1/2
@@ -2062,11 +2367,13 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q284.** Find the maximal domain and range of y = sin⁻¹(x² − 1).
 <!-- id: specialist-3-3-24 -->
+*Info: Calculation · about 2 marks · about 3 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q285.** The horizontal asymptotes of y = tan⁻¹(x) are
 <!-- id: specialist-3-3-25 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. x = π/2 and x = −π/2
 - B. y = π/2 and y = −π/2
@@ -2076,6 +2383,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 **Q286.** The maximal domain of \(f(x) = \sin^{-1}(2x - 1)\) is:
 <!-- id: specialist-3-3-c1 -->
 *Challenge question*
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A; harder than most exam questions*
 
 - A. \([-1, 1]\)
 - B. \(\left[-\frac{1}{2}, \frac{1}{2}\right]\)
@@ -2084,8 +2392,11 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 #### Compound and double angle identities
 
+*Exam relevance: High (comes up in most exams) · Prerequisites: Exact values and general solutions (Mathematical Methods, Units 3 & 4)*
+
 **Q287.** The exact value of sin(75°) is
 <!-- id: specialist-3-4-1 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. (√6 + √2)/4
 - B. (√6 − √2)/4
@@ -2094,11 +2405,13 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q288.** Prove that sin(A + B) + sin(A − B) = 2 sin A cos B.
 <!-- id: specialist-3-4-2 -->
+*Info: Proof · about 2 marks · about 3 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q289.** The exact value of cos(105°) is
 <!-- id: specialist-3-4-3 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. (√6 − √2)/4
 - B. (√2 − √6)/4
@@ -2107,11 +2420,13 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q290.** Solve cos(2x) = cos x for 0 ≤ x ≤ 2π.
 <!-- id: specialist-3-4-4 -->
+*Info: Calculation · about 2 marks · about 3 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q291.** The exact value of tan(π/12) is
 <!-- id: specialist-3-4-5 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. √3 − 1
 - B. 2 + √3
@@ -2120,6 +2435,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q292.** sin(2x) is equal to
 <!-- id: specialist-3-4-6 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. sin x cos x
 - B. 2 sin x
@@ -2128,6 +2444,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q293.** Which of the following is NOT equal to cos(2x)?
 <!-- id: specialist-3-4-7 -->
+*Info: Conceptual · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 1 − 2cos²x
 - B. cos²x − sin²x
@@ -2136,11 +2453,13 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q294.** Solve sin(2x) = sin x for 0 ≤ x ≤ 2π.
 <!-- id: specialist-3-4-8 -->
+*Info: Calculation · about 2 marks · about 3 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q295.** If sin x = 3/5 and π/2 < x < π, then sin(2x) equals
 <!-- id: specialist-3-4-9 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 24/25
 - B. −24/25
@@ -2149,6 +2468,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q296.** If sin x = 3/5 and π/2 < x < π, then cos(2x) equals
 <!-- id: specialist-3-4-10 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 1/5
 - B. −7/25
@@ -2157,6 +2477,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q297.** If tan x = 2, then tan(2x) equals
 <!-- id: specialist-3-4-11 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. −4/5
 - B. 4/3
@@ -2165,11 +2486,13 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q298.** Use a double angle formula to find the exact value of cos(π/8).
 <!-- id: specialist-3-4-12 -->
+*Info: Calculation · about 2 marks · about 3 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q299.** cos²(3x) − sin²(3x) simplifies to
 <!-- id: specialist-3-4-13 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. cos(6x)
 - B. cos(9x)
@@ -2178,6 +2501,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q300.** sin(x + π/2) is equal to
 <!-- id: specialist-3-4-14 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. −cos x
 - B. cos x
@@ -2186,6 +2510,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q301.** cos(x − y) is equal to
 <!-- id: specialist-3-4-15 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. sin x cos y − cos x sin y
 - B. cos x cos y − sin x sin y
@@ -2194,11 +2519,13 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q302.** Given sin A = 4/5 and cos B = 5/13, where A and B are acute, find the exact value of sin(A + B).
 <!-- id: specialist-3-4-16 -->
+*Info: Calculation · about 2 marks · about 3 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q303.** The exact value of 2 sin(π/8) cos(π/8) is
 <!-- id: specialist-3-4-17 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 1
 - B. 1/2
@@ -2207,6 +2534,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q304.** The maximum value of sin x cos x is
 <!-- id: specialist-3-4-18 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 1/2
 - B. 1
@@ -2215,6 +2543,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q305.** sin x + cos x can be written as
 <!-- id: specialist-3-4-19 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. √2 sin(x − π/4)
 - B. √2 sin(x + π/4)
@@ -2223,11 +2552,13 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q306.** Prove that sin(2x)/(1 + cos(2x)) = tan x.
 <!-- id: specialist-3-4-20 -->
+*Info: Proof · about 2 marks · about 3 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q307.** (1 − cos 2x)/(1 + cos 2x) simplifies to
 <!-- id: specialist-3-4-21 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. cot²x
 - B. tan x
@@ -2236,6 +2567,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q308.** If cos(2x) = 1/3, then cos²x equals
 <!-- id: specialist-3-4-22 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 4/9
 - B. 1/3
@@ -2244,6 +2576,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q309.** If tan A = 1/2 and tan B = 1/3, then tan(A + B) equals
 <!-- id: specialist-3-4-23 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 1
 - B. 5/6
@@ -2252,11 +2585,13 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q310.** Show that cos(3x) = 4cos³x − 3cos x.
 <!-- id: specialist-3-4-24 -->
+*Info: Proof · about 3 marks · about 4.5 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q311.** sin(3x) expressed in terms of sin x is
 <!-- id: specialist-3-4-25 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 3 sin x
 - B. 3 sin x − 4 sin³x
@@ -2266,6 +2601,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 **Q312.** The exact value of \(\cos\left(\frac{\pi}{12}\right)\) is:
 <!-- id: specialist-3-4-c1 -->
 *Challenge question*
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A; harder than most exam questions*
 
 - A. \(\dfrac{\sqrt{6} - \sqrt{2}}{4}\)
 - B. \(\dfrac{\sqrt{6} + \sqrt{2}}{4}\)
@@ -2276,8 +2612,11 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 #### Integration by substitution
 
+*Exam relevance: High (comes up in most exams) · Prerequisites: Antiderivatives and integration rules (Mathematical Methods, Units 3 & 4); Chain, product and quotient rules (Mathematical Methods, Units 3 & 4)*
+
 **Q313.** An antiderivative of 2x(x² + 1)⁴ is
 <!-- id: specialist-4-1-1 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. (x² + 1)⁵/5 + c
 - B. (x² + 1)⁵/10 + c
@@ -2286,6 +2625,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q314.** ∫ x e^(x²) dx equals
 <!-- id: specialist-4-1-2 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. e^(x²) + c
 - B. ½e^(x²) + c
@@ -2294,6 +2634,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q315.** ∫ cos(x) sin³(x) dx equals
 <!-- id: specialist-4-1-3 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. −¼sin⁴(x) + c
 - B. ¼cos⁴(x) + c
@@ -2302,11 +2643,13 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q316.** Find ∫ x²√(x³ − 1) dx.
 <!-- id: specialist-4-1-4 -->
+*Info: Calculation · about 3 marks · about 4.5 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q317.** ∫ tan(x) dx equals
 <!-- id: specialist-4-1-5 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. log_e|cos(x)| + c
 - B. sec²(x) + c
@@ -2315,6 +2658,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q318.** The value of ∫₀¹ x(1 − x²)³ dx is
 <!-- id: specialist-4-1-6 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 1/8
 - B. 1/4
@@ -2323,6 +2667,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q319.** Using the substitution u = 2x + 1, ∫ x√(2x + 1) dx can be written as
 <!-- id: specialist-4-1-7 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. ½∫(u^(3/2) − u^(1/2)) du
 - B. ¼∫(u^(3/2) − u^(1/2)) du
@@ -2331,11 +2676,13 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q320.** Evaluate ∫₀¹ x/(x² + 1) dx exactly.
 <!-- id: specialist-4-1-8 -->
+*Info: Calculation · about 2 marks · about 3 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q321.** The value of ∫₀^(π/2) sin(x) cos²(x) dx is
 <!-- id: specialist-4-1-9 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. −1/3
 - B. 2/3
@@ -2344,6 +2691,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q322.** ∫ (log_e(x))/x dx, x > 0, equals
 <!-- id: specialist-4-1-10 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 1/x² + c
 - B. log_e(log_e(x)) + c
@@ -2352,6 +2700,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q323.** ∫ 3x²/(x³ + 4) dx equals
 <!-- id: specialist-4-1-11 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. log_e|x³ + 4| + c
 - B. 3log_e|x³ + 4| + c
@@ -2360,11 +2709,13 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q324.** Using the substitution u = x + 1, find ∫ x√(x + 1) dx.
 <!-- id: specialist-4-1-12 -->
+*Info: Calculation · about 3 marks · about 4.5 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q325.** Using u = x² + 1, the definite integral ∫₀² x/(x² + 1)² dx is equivalent to
 <!-- id: specialist-4-1-13 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. ½∫₀² u⁻² du
 - B. ½∫₁⁵ u⁻² du
@@ -2373,6 +2724,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q326.** An antiderivative of sec²(x) tan(x) is
 <!-- id: specialist-4-1-14 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. ⅓tan³(x)
 - B. tan²(x)
@@ -2381,6 +2733,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q327.** ∫ eˣ/(1 + eˣ) dx equals
 <!-- id: specialist-4-1-15 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. tan⁻¹(eˣ) + c
 - B. eˣlog_e(1 + eˣ) + c
@@ -2389,11 +2742,13 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q328.** Evaluate ∫₀^(π/2) cos(x) e^(sin(x)) dx.
 <!-- id: specialist-4-1-16 -->
+*Info: Calculation · about 2 marks · about 3 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q329.** The value of ∫₁^e (log_e(x))²/x dx is
 <!-- id: specialist-4-1-17 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 1/3
 - B. 1/2
@@ -2402,6 +2757,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q330.** ∫ sin(x)/cos³(x) dx equals
 <!-- id: specialist-4-1-18 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. −1/(2cos²(x)) + c
 - B. 1/(2cos²(x)) + c
@@ -2410,6 +2766,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q331.** The most appropriate substitution for finding ∫ x²√(x³ − 1) dx is
 <!-- id: specialist-4-1-19 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. u = x²
 - B. u = √x
@@ -2418,11 +2775,13 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q332.** Find ∫ sin³(x) dx by writing sin³(x) = sin(x)(1 − cos²(x)).
 <!-- id: specialist-4-1-20 -->
+*Info: Calculation · about 2 marks · about 3 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q333.** The value of ∫₀^(π/3) sin(x)/cos²(x) dx is
 <!-- id: specialist-4-1-21 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. −1
 - B. 1/2
@@ -2431,6 +2790,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q334.** For ∫₁³ x(x² − 1)⁵ dx, the substitution u = x² − 1 gives new terminals of
 <!-- id: specialist-4-1-22 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. u = 0 and u = 8
 - B. u = 1 and u = 3
@@ -2439,6 +2799,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q335.** ∫ cos(x)/(1 + sin(x))² dx equals
 <!-- id: specialist-4-1-23 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 1/(1 + sin(x)) + c
 - B. −1/(1 + sin(x)) + c
@@ -2447,24 +2808,30 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q336.** Find ∫ cos²(x) dx.
 <!-- id: specialist-4-1-24 -->
+*Info: Calculation · about 2 marks · about 3 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q337.** Use the substitution u = 1 + √x to evaluate ∫₁⁴ 1/(√x(1 + √x)) dx.
 <!-- id: specialist-4-1-25 -->
+*Info: Calculation · about 2 marks · about 3 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q338.** Use the substitution \(u = x - 1\) to find \(\displaystyle\int x\sqrt{x - 1}\,dx\).
 <!-- id: specialist-4-1-c1 -->
 *Challenge question*
+*Info: Calculation · about 3 marks · about 4.5 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2; harder than most exam questions*
 
 *Written answer*
 
 #### Partial fractions integration
 
+*Exam relevance: High (comes up in most exams) · Prerequisites: Rational functions and asymptotes; Antiderivatives and integration rules (Mathematical Methods, Units 3 & 4)*
+
 **Q339.** If 1/((x − 1)(x + 2)) = A/(x − 1) + B/(x + 2), then A equals
 <!-- id: specialist-4-2-1 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 1/3
 - B. −1/3
@@ -2473,6 +2840,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q340.** ∫ 1/(x² − 1) dx equals
 <!-- id: specialist-4-2-2 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. ½log_e|(x + 1)/(x − 1)| + c
 - B. ½log_e|(x − 1)/(x + 1)| + c
@@ -2481,6 +2849,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q341.** The correct partial fraction form for (2x + 3)/((x − 1)²(x + 4)) is
 <!-- id: specialist-4-2-3 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. A/(x − 1) + B/(x + 4)
 - B. A/(x − 1)² + B/(x + 4)
@@ -2489,11 +2858,13 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q342.** Express (x + 5)/((x + 1)(x² + 4)) in partial fractions.
 <!-- id: specialist-4-2-4 -->
+*Info: Calculation · about 3 marks · about 4.5 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q343.** The correct partial fraction form for (x + 5)/((x + 1)(x² + 4)) is
 <!-- id: specialist-4-2-5 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. A/(x + 1) + B/(x² + 4)
 - B. A/(x + 1) + B/(x + 2) + C/(x − 2)
@@ -2502,6 +2873,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q344.** The value of ∫₂³ 1/(x(x − 1)) dx is
 <!-- id: specialist-4-2-6 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. log_e(4/3)
 - B. log_e(3/4)
@@ -2510,6 +2882,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q345.** (3x + 1)/((x + 1)(x − 1)) expressed in partial fractions is
 <!-- id: specialist-4-2-7 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 2/(x + 1) + 1/(x − 1)
 - B. 1/(x + 1) + 2/(x − 1)
@@ -2518,11 +2891,13 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q346.** Hence, or otherwise, find ∫ (x + 5)/((x + 1)(x² + 4)) dx.
 <!-- id: specialist-4-2-8 -->
+*Info: Calculation · about 3 marks · about 4.5 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q347.** ∫ (x² + 1)/(x − 1) dx equals
 <!-- id: specialist-4-2-9 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. x²/2 + x − 2log_e|x − 1| + c
 - B. x²/2 + 2log_e|x − 1| + c
@@ -2531,6 +2906,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q348.** ∫ 5/((x + 2)(x − 3)) dx equals
 <!-- id: specialist-4-2-10 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. log_e|(x + 2)/(x − 3)| + c
 - B. 5log_e|(x + 2)(x − 3)| + c
@@ -2539,6 +2915,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q349.** If 1/(x(x + 1)²) = A/x + B/(x + 1) + C/(x + 1)², then
 <!-- id: specialist-4-2-11 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. A = 1, B = −1, C = −1
 - B. A = 1, B = 1, C = −1
@@ -2547,11 +2924,13 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q350.** Evaluate ∫₂⁴ (x + 1)/(x(x − 1)) dx, giving your answer in the form log_e(k).
 <!-- id: specialist-4-2-12 -->
+*Info: Calculation · about 2 marks · about 3 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q351.** ∫ 1/(x(x + 1)²) dx equals
 <!-- id: specialist-4-2-13 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. log_e|x| − log_e|x + 1| − 1/(x + 1) + c
 - B. log_e|x| − log_e|x + 1| + 1/(x + 1) + c
@@ -2560,6 +2939,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q352.** The value of ∫₀¹ 2/(x² + 3x + 2) dx is
 <!-- id: specialist-4-2-14 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 2log_e(3/4)
 - B. log_e(4/3)
@@ -2568,6 +2948,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q353.** To find ∫ x³/(x² − 4) dx using partial fractions, the first step should be to
 <!-- id: specialist-4-2-15 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. write x³/(x² − 4) = A/(x − 2) + B/(x + 2) directly
 - B. use the inverse tangent standard form
@@ -2576,11 +2957,13 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q354.** Find ∫ x²/(x² − 1) dx.
 <!-- id: specialist-4-2-16 -->
+*Info: Calculation · about 2 marks · about 3 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q355.** ∫ (2x + 3)/(x² + 3x + 5) dx equals
 <!-- id: specialist-4-2-17 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. log_e(x² + 3x + 5) + c
 - B. 2log_e(x² + 3x + 5) + c
@@ -2589,6 +2972,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q356.** x/((x + 1)(x + 2)) expressed in partial fractions is
 <!-- id: specialist-4-2-18 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 1/(x + 1) + 2/(x + 2)
 - B. −1/(x + 1) + 2/(x + 2)
@@ -2597,6 +2981,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q357.** ∫ x/((x + 1)(x + 2)) dx equals
 <!-- id: specialist-4-2-19 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 2log_e|x + 1| − log_e|x + 2| + c
 - B. log_e|x + 2| − log_e|x + 1| + c
@@ -2605,11 +2990,13 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q358.** Evaluate ∫₀¹ 4/((x + 1)(x + 3)) dx exactly.
 <!-- id: specialist-4-2-20 -->
+*Info: Calculation · about 2 marks · about 3 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q359.** If (x + 5)/((x + 1)(x² + 4)) = A/(x + 1) + (Bx + C)/(x² + 4), then A equals
 <!-- id: specialist-4-2-21 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 1
 - B. 5/4
@@ -2618,6 +3005,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q360.** The value of ∫₃⁴ 1/(x² − 4) dx is
 <!-- id: specialist-4-2-22 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. ¼log_e(5/3)
 - B. ½log_e(5/3)
@@ -2626,6 +3014,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q361.** A kangaroo population on a reserve is modelled by a logistic equation, requiring ∫ 1/(P(100 − P)) dP for 0 < P < 100. This integral equals
 <!-- id: specialist-4-2-23 -->
+*Info: Application · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. (1/100)log_e((100 − P)/P) + c
 - B. (1/100)log_e(P/(100 − P)) + c
@@ -2634,17 +3023,20 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q362.** Find ∫ (3x − 1)/(x − 1)² dx.
 <!-- id: specialist-4-2-24 -->
+*Info: Calculation · about 2 marks · about 3 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q363.** Show that 1/(N(1 − N)) = 1/N + 1/(1 − N) and hence find ∫ 1/(N(1 − N)) dN for 0 < N < 1.
 <!-- id: specialist-4-2-25 -->
+*Info: Proof · about 3 marks · about 4.5 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q364.** \(\displaystyle\int \frac{1}{x^2 - 1}\,dx\) equals:
 <!-- id: specialist-4-2-c1 -->
 *Challenge question*
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A; harder than most exam questions*
 
 - A. \(\log_e|x^2 - 1| + c\)
 - B. \(\frac{1}{2}\log_e\left|\dfrac{x + 1}{x - 1}\right| + c\)
@@ -2653,8 +3045,11 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 #### Inverse circular function integrals
 
+*Exam relevance: Medium (comes up regularly in exams) · Prerequisites: Inverse circular functions; Integration by substitution*
+
 **Q365.** ∫ 1/√(4 − x²) dx equals
 <!-- id: specialist-4-3-1 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. sin⁻¹(x/2) + c
 - B. ½sin⁻¹(x/2) + c
@@ -2663,6 +3058,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q366.** ∫ 1/(9 + x²) dx equals
 <!-- id: specialist-4-3-2 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. tan⁻¹(x/3) + c
 - B. ⅓tan⁻¹(x/3) + c
@@ -2671,6 +3067,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q367.** The value of ∫₀¹ 1/(1 + x²) dx is
 <!-- id: specialist-4-3-3 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. π/2
 - B. 1
@@ -2679,11 +3076,13 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q368.** Evaluate ∫₀^(√3) 1/(3 + x²) dx exactly.
 <!-- id: specialist-4-3-4 -->
+*Info: Calculation · about 2 marks · about 3 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q369.** The value of ∫₀^(3/2) 1/√(9 − x²) dx is
 <!-- id: specialist-4-3-5 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. π/3
 - B. π/2
@@ -2692,6 +3091,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q370.** ∫ −1/√(1 − x²) dx, for −1 < x < 1, equals
 <!-- id: specialist-4-3-6 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. cos⁻¹(x) + c
 - B. sin⁻¹(x) + c
@@ -2700,6 +3100,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q371.** ∫ 1/√(1 − 9x²) dx equals
 <!-- id: specialist-4-3-7 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. sin⁻¹(3x) + c
 - B. ⅓sin⁻¹(3x) + c
@@ -2708,11 +3109,13 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q372.** Find ∫ (2x + 3)/(x² + 1) dx.
 <!-- id: specialist-4-3-8 -->
+*Info: Calculation · about 2 marks · about 3 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q373.** ∫ 1/(x² + 2x + 5) dx equals
 <!-- id: specialist-4-3-9 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. tan⁻¹((x + 1)/2) + c
 - B. ½tan⁻¹((x − 1)/2) + c
@@ -2721,6 +3124,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q374.** The value of ∫₀² 4/(4 + x²) dx is
 <!-- id: specialist-4-3-10 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. π
 - B. π/4
@@ -2729,6 +3133,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q375.** ∫ 1/√(5 − 4x − x²) dx equals
 <!-- id: specialist-4-3-11 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. sin⁻¹((x + 2)/3) + c
 - B. sin⁻¹((x − 2)/3) + c
@@ -2737,11 +3142,13 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q376.** Find ∫ 1/(x² − 6x + 13) dx.
 <!-- id: specialist-4-3-12 -->
+*Info: Calculation · about 2 marks · about 3 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q377.** ∫ 1/(1 + 4x²) dx equals
 <!-- id: specialist-4-3-13 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. 2tan⁻¹(2x) + c
 - B. ½tan⁻¹(2x) + c
@@ -2750,6 +3157,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q378.** Which integrand has antiderivative ½log_e(1 + x²)?
 <!-- id: specialist-4-3-14 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. 1/(1 + x²)
 - B. 2x/(1 + x²)
@@ -2758,6 +3166,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q379.** ∫ (x + 1)/(x² + 1) dx equals
 <!-- id: specialist-4-3-15 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. log_e(x² + 1) + tan⁻¹(x) + c
 - B. ½log_e(x² + 1) + x + c
@@ -2766,11 +3175,13 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q380.** Evaluate ∫₀¹ 1/√(2 − x²) dx.
 <!-- id: specialist-4-3-16 -->
+*Info: Calculation · about 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q381.** The area enclosed by y = 6/(9 + x²), the x-axis, x = 0 and x = 3√3 is
 <!-- id: specialist-4-3-17 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. 2π/3
 - B. π/3
@@ -2779,6 +3190,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q382.** The maximal domain of f(x) = 1/√(25 − x²) is
 <!-- id: specialist-4-3-18 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. [−5, 5]
 - B. (−5, 5)
@@ -2787,6 +3199,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q383.** ∫ 3/(1 + (x − 2)²) dx equals
 <!-- id: specialist-4-3-19 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. tan⁻¹(3(x − 2)) + c
 - B. ⅓tan⁻¹(x − 2) + c
@@ -2795,11 +3208,13 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q384.** Find ∫ (x + 2)/√(1 − x²) dx.
 <!-- id: specialist-4-3-20 -->
+*Info: Calculation · about 2 marks · about 3 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q385.** The value of ∫₋₁¹ 1/√(4 − x²) dx is
 <!-- id: specialist-4-3-21 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. π/6
 - B. 2π/3
@@ -2808,6 +3223,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q386.** ∫ 1/(2x² + 8) dx equals
 <!-- id: specialist-4-3-22 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. ¼tan⁻¹(x/2) + c
 - B. ½tan⁻¹(x/2) + c
@@ -2816,6 +3232,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q387.** ∫ 1/√(9 − 4x²) dx equals
 <!-- id: specialist-4-3-23 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. ⅓sin⁻¹(2x/3) + c
 - B. ½sin⁻¹(2x/3) + c
@@ -2824,17 +3241,20 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q388.** Show that d/dx[x sin⁻¹(x) + √(1 − x²)] = sin⁻¹(x), and hence evaluate ∫₀¹ sin⁻¹(x) dx.
 <!-- id: specialist-4-3-24 -->
+*Info: Proof · about 2 marks · about 3 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q389.** Use the substitution u = x² to evaluate ∫₀¹ x/(1 + x⁴) dx.
 <!-- id: specialist-4-3-25 -->
+*Info: Calculation · about 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q390.** \(\displaystyle\int_0^2 \frac{1}{4 + x^2}\,dx\) equals:
 <!-- id: specialist-4-3-c1 -->
 *Challenge question*
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A; harder than most exam questions*
 
 - A. \(\frac{\pi}{4}\)
 - B. \(\frac{\pi}{2}\)
@@ -2843,8 +3263,11 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 #### Volumes, arc length and surface area
 
+*Exam relevance: High (comes up in most exams) · Prerequisites: Integration by substitution; Area under and between curves (Mathematical Methods, Units 3 & 4)*
+
 **Q391.** The region under y = √x for 0 ≤ x ≤ 4 is rotated about the x-axis. The volume of the solid is
 <!-- id: specialist-4-4-1 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 8π
 - B. 16π
@@ -2853,6 +3276,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q392.** The region under y = x² for 0 ≤ x ≤ 1 is rotated about the x-axis. The volume is
 <!-- id: specialist-4-4-2 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. π/3
 - B. π/5
@@ -2861,6 +3285,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q393.** The region bounded by y = x², the y-axis and the line y = 4 (with x ≥ 0) is rotated about the y-axis. The volume is given by
 <!-- id: specialist-4-4-3 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. π∫₀² x⁴ dx
 - B. π∫₀⁴ y² dy
@@ -2869,11 +3294,13 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q394.** Find the exact volume of the solid formed when the region under y = sin(x), 0 ≤ x ≤ π, is rotated about the x-axis.
 <!-- id: specialist-4-4-4 -->
+*Info: Calculation · about 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q395.** A sphere of radius r is generated by rotating y = √(r² − x²) about the x-axis. Its volume is given by
 <!-- id: specialist-4-4-5 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. π∫₋ᵣʳ √(r² − x²) dx
 - B. π∫₀ʳ (r² − x²) dx
@@ -2882,6 +3309,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q396.** The arc length of y = x^(3/2) from x = 0 to x = 4 is
 <!-- id: specialist-4-4-6 -->
+*Info: Application · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. (8/27)(10√10 − 1)
 - B. (8/27)(10√10)
@@ -2890,6 +3318,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q397.** The surface area of the solid formed by rotating y = f(x), a ≤ x ≤ b, about the x-axis (with f(x) ≥ 0) is
 <!-- id: specialist-4-4-7 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. π∫ₐᵇ y² dx
 - B. 2π∫ₐᵇ y√(1 + (dy/dx)²) dx
@@ -2898,11 +3327,13 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q398.** Find the arc length of y = (2/3)x^(3/2) from x = 0 to x = 3.
 <!-- id: specialist-4-4-8 -->
+*Info: Application · about 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q399.** The region under y = 2x for 0 ≤ x ≤ 3 is rotated about the x-axis to form a cone. Its volume is
 <!-- id: specialist-4-4-9 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 12π
 - B. 108π
@@ -2911,6 +3342,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q400.** The length of the line segment y = 2x + 1 from x = 0 to x = 2 is
 <!-- id: specialist-4-4-10 -->
+*Info: Application · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. √5
 - B. 4
@@ -2919,6 +3351,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q401.** The region enclosed between y = x and y = x² is rotated about the x-axis. The volume is
 <!-- id: specialist-4-4-11 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 2π/15
 - B. π/30
@@ -2927,11 +3360,13 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q402.** Find the exact surface area when y = √x, 0 ≤ x ≤ 2, is rotated about the x-axis.
 <!-- id: specialist-4-4-12 -->
+*Info: Calculation · about 2 marks · about 3 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q403.** Rotating y = √(9 − x²), −3 ≤ x ≤ 3, about the x-axis, the surface area obtained is
 <!-- id: specialist-4-4-13 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 18π
 - B. 36π
@@ -2940,6 +3375,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q404.** The region under y = eˣ for 0 ≤ x ≤ 1 is rotated about the x-axis. The volume is
 <!-- id: specialist-4-4-14 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. π(e − 1)
 - B. π(e² − 1)
@@ -2948,6 +3384,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q405.** The region under y = sec(x) for 0 ≤ x ≤ π/4 is rotated about the x-axis. The volume is
 <!-- id: specialist-4-4-15 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. π/4
 - B. π²/4
@@ -2956,11 +3393,13 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q406.** The region enclosed by y = x² and y = 2x is rotated about the x-axis. Find the exact volume.
 <!-- id: specialist-4-4-16 -->
+*Info: Calculation · about 2 marks · about 3 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q407.** The region bounded by y = log_e(x), the y-axis, y = 0 and y = 2 is rotated about the y-axis. The volume is
 <!-- id: specialist-4-4-17 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. π(e⁴ − 1)/2
 - B. π(e² − 1)
@@ -2969,6 +3408,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q408.** The arc length of y = ⅓(x² + 2)^(3/2) from x = 0 to x = 1 is
 <!-- id: specialist-4-4-18 -->
+*Info: Application · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 1/3
 - B. 4/3
@@ -2977,6 +3417,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q409.** The line y = 2x, 0 ≤ x ≤ 1, is rotated about the x-axis. The curved surface area is
 <!-- id: specialist-4-4-19 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 4√5π
 - B. √5π
@@ -2985,11 +3426,13 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q410.** A ceramic bowl made in a Melbourne studio is formed by rotating y = x²/4 about the y-axis for 0 ≤ y ≤ 9, where units are cm. Find the capacity of the bowl in cm³, exactly and correct to one decimal place.
 <!-- id: specialist-4-4-20 -->
+*Info: Application · about 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q411.** The region under y = 1/x for 1 ≤ x ≤ 3 is rotated about the x-axis. The volume is
 <!-- id: specialist-4-4-21 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. πlog_e(3)
 - B. 2π
@@ -2998,6 +3441,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q412.** The arc length of y = sin(x) from x = 0 to x = π is given by
 <!-- id: specialist-4-4-22 -->
+*Info: Application · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. ∫₀^π √(1 + cos²(x)) dx
 - B. ∫₀^π √(1 + sin²(x)) dx
@@ -3006,6 +3450,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q413.** A garden water feature is modelled by rotating the curve y = 4 − x², x ≥ 0, about the y-axis for 0 ≤ y ≤ 3 (units in metres). Its volume is
 <!-- id: specialist-4-4-23 -->
+*Info: Application · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 21π m³
 - B. 15π/2 m³
@@ -3014,17 +3459,20 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q414.** Given ∫sec(x) dx = log_e|sec(x) + tan(x)| + c, find the arc length of y = log_e(cos(x)) from x = 0 to x = π/4.
 <!-- id: specialist-4-4-24 -->
+*Info: Application · about 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q415.** Find the exact surface area generated when y = x³, 0 ≤ x ≤ 1, is rotated about the x-axis.
 <!-- id: specialist-4-4-25 -->
+*Info: Calculation · about 2 marks · about 3 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q416.** Find the exact length of the curve \(y = \frac{2}{3}x^{3/2}\) from \(x = 0\) to \(x = 3\).
 <!-- id: specialist-4-4-c1 -->
 *Challenge question*
+*Info: Application · about 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2; harder than most exam questions*
 
 *Written answer*
 
@@ -3032,8 +3480,11 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 #### Separable first-order differential equations
 
+*Exam relevance: High (comes up in most exams) · Prerequisites: Integration by substitution; Partial fractions integration*
+
 **Q417.** The general solution of dy/dx = 3x²y is:
 <!-- id: specialist-5-1-1 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. y = Ae^(x³)
 - B. y = x³ + A
@@ -3042,6 +3493,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q418.** Given dy/dx = y/x with y(1) = 3, the value of y(2) is:
 <!-- id: specialist-5-1-2 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 3e
 - B. 6
@@ -3050,6 +3502,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q419.** The solution of dy/dx = e^(−y) with y(0) = 0 is:
 <!-- id: specialist-5-1-3 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. y = −log_e(x + 1)
 - B. y = e^(−x) − 1
@@ -3058,6 +3511,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q420.** Which of the following differential equations is separable?
 <!-- id: specialist-5-1-4 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. dy/dx = x + y
 - B. dy/dx = sin(x + y)
@@ -3066,6 +3520,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q421.** If dy/dx = 2y and y(0) = 5, then y(log_e 3) equals:
 <!-- id: specialist-5-1-5 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 45
 - B. 15
@@ -3074,6 +3529,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q422.** The solution of dy/dx = 1 + y² with y(0) = 0 is:
 <!-- id: specialist-5-1-6 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. y = sin(x)
 - B. y = tan(x)
@@ -3082,6 +3538,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q423.** Given dy/dx = x/y with y(0) = 2 and y > 0, the value of y when x = √5 is:
 <!-- id: specialist-5-1-7 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. √7
 - B. 9
@@ -3090,6 +3547,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q424.** Which function satisfies dy/dx = −2xy?
 <!-- id: specialist-5-1-8 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. y = e^(x²)
 - B. y = e^(−2x)
@@ -3098,6 +3556,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q425.** A population of possums modelled by dP/dt = kP doubles every 5 years. The value of k is:
 <!-- id: specialist-5-1-9 -->
+*Info: Application · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. log_e(2)/5
 - B. 5 log_e(2)
@@ -3106,6 +3565,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q426.** A radioactive isotope decays according to dN/dt = −kN and has a half-life of 30 years. The fraction remaining after 90 years is:
 <!-- id: specialist-5-1-10 -->
+*Info: Application · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 1/3
 - B. 1/8
@@ -3114,6 +3574,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q427.** The solution of dy/dx = x e^y with y(0) = 0 is:
 <!-- id: specialist-5-1-11 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. y = log_e(1 − x²/2)
 - B. y = −log_e(1 + x²/2)
@@ -3122,6 +3583,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q428.** The solution of dy/dx = y² with y(0) = 1 is:
 <!-- id: specialist-5-1-12 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. y = 1/(1 + x)
 - B. y = e^(x²)
@@ -3130,6 +3592,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q429.** The solution of dy/dx = y², y(0) = 1, is y = 1/(1 − x). The largest interval containing x = 0 on which this solution is valid is:
 <!-- id: specialist-5-1-13 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. x < 1
 - B. x > 1
@@ -3138,6 +3601,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q430.** Given dy/dx = y cos(x) and y(0) = 2, the value of y(π/2) is:
 <!-- id: specialist-5-1-14 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 2
 - B. 2e
@@ -3146,6 +3610,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q431.** Given dy/dx = y − 3 and y(0) = 5, the value of y(log_e 2) is:
 <!-- id: specialist-5-1-15 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 10
 - B. 5
@@ -3154,6 +3619,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q432.** The solution curve of dy/dx = −x/y passing through (0, 3) has equation:
 <!-- id: specialist-5-1-16 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. x² − y² = 9
 - B. y = 3 − x
@@ -3162,6 +3628,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q433.** Water leaks from a tank so that dV/dt = −2√V, where V is in litres and t in minutes. If V(0) = 100, the tank is empty when t equals:
 <!-- id: specialist-5-1-17 -->
+*Info: Application · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 10
 - B. 5
@@ -3170,6 +3637,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q434.** The solution of dy/dx = e^(x − y) with y(0) = 0 is:
 <!-- id: specialist-5-1-18 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. y = e^x − 1
 - B. y = x
@@ -3178,49 +3646,60 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q435.** Solve dy/dx = xy² given y(0) = 1, stating y as a function of x.
 <!-- id: specialist-5-1-19 -->
+*Info: Calculation · about 3 marks · about 4.5 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q436.** Verify that y = 3e^(2x) − 1 is a solution of dy/dx = 2y + 2.
 <!-- id: specialist-5-1-20 -->
+*Info: Calculation · about 3 marks · about 4.5 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q437.** Solve dy/dx = (1 + y)/x for x > 0, given y(1) = 1.
 <!-- id: specialist-5-1-21 -->
+*Info: Calculation · about 3 marks · about 4.5 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q438.** A bacteria culture grows at a rate proportional to its size. There are 500 bacteria initially and 1500 after 2 hours. Find N(t) and the time (to two decimal places) for the culture to reach 10 000.
 <!-- id: specialist-5-1-22 -->
+*Info: Application · about 2 marks · about 3 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q439.** Solve dy/dx = 4x√y given y(0) = 1, y ≥ 0.
 <!-- id: specialist-5-1-23 -->
+*Info: Calculation · about 2 marks · about 3 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q440.** Solve dy/dx = 2x(y − 1) given y(0) = 4.
 <!-- id: specialist-5-1-24 -->
+*Info: Calculation · about 3 marks · about 4.5 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q441.** Solve dy/dx = x e^(−y) given y(0) = 0.
 <!-- id: specialist-5-1-25 -->
+*Info: Calculation · about 2 marks · about 3 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q442.** Solve \(\dfrac{dy}{dx} = xy\), given \(y = 2\) when \(x = 0\).
 <!-- id: specialist-5-1-c1 -->
 *Challenge question*
+*Info: Calculation · about 2 marks · about 3 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2; harder than most exam questions*
 
 *Written answer*
 
 #### Logistic growth models
 
+*Exam relevance: Medium (comes up regularly in exams) · Prerequisites: Separable first-order differential equations; Partial fractions integration*
+
 **Q443.** For the logistic model dP/dt = 0.4P(1 − P/2000), the carrying capacity is:
 <!-- id: specialist-5-2-1 -->
+*Info: Application · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. 0.4
 - B. 2000
@@ -3229,6 +3708,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q444.** For dP/dt = 0.4P(1 − P/2000), the population is growing fastest when P equals:
 <!-- id: specialist-5-2-2 -->
+*Info: Application · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. 2000
 - B. 500
@@ -3237,6 +3717,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q445.** For dP/dt = 0.4P(1 − P/2000), the maximum rate of growth is:
 <!-- id: specialist-5-2-3 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. 400 per unit time
 - B. 800 per unit time
@@ -3245,6 +3726,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q446.** The solution of dP/dt = 0.4P(1 − P/2000) with P(0) = 200 is:
 <!-- id: specialist-5-2-4 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. P = 2000/(1 + 9e^(−0.4t))
 - B. P = 2000/(1 + 9e^(0.4t))
@@ -3253,6 +3735,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q447.** For P = 2000/(1 + 9e^(−0.4t)), the time when P = 1000 is:
 <!-- id: specialist-5-2-5 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. 0.4 log_e(9)
 - B. 2.5 log_e(9)
@@ -3261,6 +3744,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q448.** The model dN/dt = 0.02N(500 − N) has carrying capacity:
 <!-- id: specialist-5-2-6 -->
+*Info: Application · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. 0.02
 - B. 250
@@ -3269,6 +3753,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q449.** Writing dN/dt = 0.02N(500 − N) in the form dN/dt = rN(1 − N/K), the value of r is:
 <!-- id: specialist-5-2-7 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. 0.02
 - B. 500
@@ -3277,6 +3762,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q450.** In a logistic model dP/dt = rP(1 − P/K) with r > 0, if the initial population P₀ is greater than K, then the population:
 <!-- id: specialist-5-2-8 -->
+*Info: Application · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. decreases and approaches K
 - B. increases without bound
@@ -3285,6 +3771,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q451.** The equilibrium solutions of dP/dt = 0.3P(1 − P/600) are:
 <!-- id: specialist-5-2-9 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. P = 300 only
 - B. P = 0 and P = 600
@@ -3293,6 +3780,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q452.** The long-term value of P = 800/(1 + 7e^(−0.5t)) is:
 <!-- id: specialist-5-2-10 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. 100
 - B. 0
@@ -3301,6 +3789,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q453.** For the logistic model P = 1200/(1 + 3e^(−0.2t)), the initial population is:
 <!-- id: specialist-5-2-11 -->
+*Info: Application · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. 400
 - B. 1200
@@ -3309,6 +3798,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q454.** Which differential equation has solution P = 1000/(1 + 4e^(−0.5t))?
 <!-- id: specialist-5-2-12 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. dP/dt = 0.5P(1 − P/1000)
 - B. dP/dt = 0.5P(1 − P/4)
@@ -3317,6 +3807,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q455.** A rumour spreads through a school of 1200 students at a rate proportional to both the number N who have heard it and the number who have not. The model is:
 <!-- id: specialist-5-2-13 -->
+*Info: Application · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. dN/dt = kN
 - B. dN/dt = kN(1200 − N)
@@ -3325,6 +3816,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q456.** When solving the logistic equation by separation, 1/(P(K − P)) is written in partial fractions as:
 <!-- id: specialist-5-2-14 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. (1/K)(1/P − 1/(K − P))
 - B. 1/P + 1/(K − P)
@@ -3333,6 +3825,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q457.** Trout in a lake follow a logistic model with K = 5000, r = 0.6 per year and P(0) = 500. Correct to the nearest whole number, the population after 5 years is:
 <!-- id: specialist-5-2-15 -->
+*Info: Application · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. 10 043
 - B. 2500
@@ -3341,6 +3834,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q458.** When P is very small compared with K, the logistic model dP/dt = rP(1 − P/K) is approximately:
 <!-- id: specialist-5-2-16 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. dP/dt = rP (exponential growth)
 - B. dP/dt = rK (linear growth)
@@ -3349,6 +3843,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q459.** A koala population follows a logistic model with K = 400, P(0) = 50 and P(2) = 100. The value of r is:
 <!-- id: specialist-5-2-17 -->
+*Info: Application · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. (1/2)log_e(2)
 - B. (1/2)log_e(7/3)
@@ -3357,6 +3852,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q460.** For dP/dt = 0.4P(1 − P/2000), the rate of change when P = 1500 is:
 <!-- id: specialist-5-2-18 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. 450
 - B. 600
@@ -3365,42 +3861,50 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q461.** Solve dP/dt = 0.5P(1 − P/1000) given P(0) = 100.
 <!-- id: specialist-5-2-19 -->
+*Info: Calculation · about 3 marks · about 4.5 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q462.** For P = 1000/(1 + 9e^(−0.5t)), find the exact time at which P = 900.
 <!-- id: specialist-5-2-20 -->
+*Info: Calculation · about 3 marks · about 4.5 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q463.** Show that, for dP/dt = rP(1 − P/K) with r, K > 0, the growth rate is greatest when P = K/2.
 <!-- id: specialist-5-2-21 -->
+*Info: Proof · about 3 marks · about 4.5 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q464.** Flu spreads through a town of 10 000 people according to dN/dt = 0.0001N(10 000 − N), t in days, with N(0) = 10. Find N(t) and the time when half the town is infected.
 <!-- id: specialist-5-2-22 -->
+*Info: Application · about 2 marks · about 3 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q465.** Find P(t) for dP/dt = 2P − 0.01P² given P(0) = 50.
 <!-- id: specialist-5-2-23 -->
+*Info: Calculation · about 2 marks · about 3 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q466.** In the logistic model dP/dt = rP(1 − P/K), explain the meaning of r and K in the context of an animal population.
 <!-- id: specialist-5-2-24 -->
+*Info: Conceptual · about 2 marks · about 3 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q467.** A logistic population has P(0) = 200, K = 1000 and P(3) = 400. Find the exact value of r.
 <!-- id: specialist-5-2-25 -->
+*Info: Application · about 2 marks · about 3 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q468.** A population satisfies \(\dfrac{dP}{dt} = 0.2P\left(1 - \dfrac{P}{500}\right)\). At what population is it growing fastest?
 <!-- id: specialist-5-2-c1 -->
 *Challenge question*
+*Info: Application · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A; harder than most exam questions*
 
 - A. 500
 - B. 100
@@ -3409,8 +3913,11 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 #### Euler's method and slope fields
 
+*Exam relevance: High (comes up in most exams) · Prerequisites: Separable first-order differential equations*
+
 **Q469.** Euler's method with step size 0.1 is applied to dy/dx = x + y, y(0) = 1. The first approximation y₁ is:
 <!-- id: specialist-5-3-1 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 1.11
 - B. 1.2
@@ -3419,6 +3926,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q470.** Euler's method with h = 0.1 is applied to dy/dx = x + y, y(0) = 1. The approximation to y(0.2) is:
 <!-- id: specialist-5-3-2 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 1.21
 - B. 1.2
@@ -3427,6 +3935,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q471.** Using Euler's method with h = 0.5 for dy/dx = 2x, y(1) = 3, the estimate of y(2) is:
 <!-- id: specialist-5-3-3 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 5.5
 - B. 6
@@ -3435,6 +3944,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q472.** Euler's method will underestimate the true value of a solution over an interval where the solution curve is:
 <!-- id: specialist-5-3-4 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. concave down
 - B. concave up
@@ -3443,6 +3953,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q473.** When the step size in Euler's method is halved (over the same interval), the error in the final approximation typically:
 <!-- id: specialist-5-3-5 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. doubles
 - B. stays the same
@@ -3451,6 +3962,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q474.** For dy/dx = f(x, y), Euler's method uses the iteration:
 <!-- id: specialist-5-3-6 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. yₙ₊₁ = yₙ + f(xₙ, yₙ)
 - B. yₙ₊₁ = h yₙ f(xₙ, yₙ)
@@ -3459,6 +3971,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q475.** Euler's method with h = 0.5 is used for dy/dx = y, y(0) = 1. The estimate of y(1) is:
 <!-- id: specialist-5-3-7 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 2.25
 - B. 2.5
@@ -3467,6 +3980,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q476.** Euler's method with h = 0.5 is used for dy/dx = 1/x, y(1) = 0. The estimate of y(2) is:
 <!-- id: specialist-5-3-8 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. log_e(2)
 - B. 5/6
@@ -3475,6 +3989,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q477.** Euler's method with h = 0.2 is applied to dy/dx = xy, y(1) = 2. The value of y₁ is:
 <!-- id: specialist-5-3-9 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 2.48
 - B. 2.2
@@ -3483,6 +3998,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q478.** In which slope field are all line segments along any vertical line x = a parallel to each other?
 <!-- id: specialist-5-3-10 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. dy/dx = y²
 - B. dy/dx = x + y
@@ -3491,6 +4007,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q479.** In which slope field do all line segments along any horizontal line y = b have the same gradient?
 <!-- id: specialist-5-3-11 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. dy/dx = y(2 − y)
 - B. dy/dx = x(2 − x)
@@ -3499,6 +4016,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q480.** In the slope field of dy/dx = x² − 3y, the gradient of the segment at (2, −1) is:
 <!-- id: specialist-5-3-12 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 1
 - B. 7
@@ -3507,6 +4025,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q481.** In the slope field of dy/dx = x − 2y, the segments are horizontal along the line:
 <!-- id: specialist-5-3-13 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. y = 2x
 - B. x = 0
@@ -3515,6 +4034,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q482.** In the slope field of dy/dx = y − 1, the line y = 1:
 <!-- id: specialist-5-3-14 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. is a vertical asymptote of all solutions
 - B. has segments of gradient 1
@@ -3523,6 +4043,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q483.** The solution curves of the slope field for dy/dx = −x/y are:
 <!-- id: specialist-5-3-15 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. circles centred at the origin
 - B. straight lines through the origin
@@ -3531,6 +4052,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q484.** For dy/dx = 0.5y(4 − y), the solution with y(0) = 1:
 <!-- id: specialist-5-3-16 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. decreases and approaches 0
 - B. increases and approaches 4
@@ -3539,6 +4061,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q485.** In the slope field of dy/dx = y − x, every segment along the line y = x + 1 has gradient:
 <!-- id: specialist-5-3-17 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 0
 - B. −1
@@ -3547,6 +4070,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q486.** Euler's method with h = 1 is applied to dy/dt = 0.2(30 − y), y(0) = 10. The estimate of y(2) is:
 <!-- id: specialist-5-3-18 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 18
 - B. 14
@@ -3555,49 +4079,60 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q487.** Use Euler's method with h = 0.1 to estimate y(0.3) for dy/dx = x² + y, y(0) = 1.
 <!-- id: specialist-5-3-19 -->
+*Info: Calculation · about 3 marks · about 4.5 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q488.** Euler's method is applied to dy/dx = e^x with y(0) = 1. Will the approximation over- or underestimate y(1)? Justify.
 <!-- id: specialist-5-3-20 -->
+*Info: Calculation · about 3 marks · about 4.5 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q489.** Describe the main features of the slope field for dy/dx = y(3 − y).
 <!-- id: specialist-5-3-21 -->
+*Info: Calculation · about 3 marks · about 4.5 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q490.** Use Euler's method with h = 0.5 for dy/dx = 1/(1 + x²), y(0) = 0 to estimate y(1). Compare with the exact value.
 <!-- id: specialist-5-3-22 -->
+*Info: Calculation · about 3 marks · about 4.5 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q491.** For dy/dx = x/y, find the gradients of the slope field at (3, 2) and (−3, 2), and describe the symmetry of the slope field.
 <!-- id: specialist-5-3-23 -->
+*Info: Calculation · about 3 marks · about 4.5 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q492.** Use Euler's method with h = 0.25 to estimate y(1) for dy/dx = 2y, y(0) = 1. Find the percentage error compared with the exact value.
 <!-- id: specialist-5-3-24 -->
+*Info: Calculation · about 3 marks · about 4.5 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q493.** Use Euler's method with step size 0.5 to estimate y(2) for dy/dx = log_e(x), y(1) = 2. Give your answer to two decimal places.
 <!-- id: specialist-5-3-25 -->
+*Info: Calculation · about 2 marks · about 3 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q494.** Use Euler's method with step size 0.1 to estimate \(y(0.2)\) for \(\dfrac{dy}{dx} = x + y\), \(y(0) = 1\).
 <!-- id: specialist-5-3-c1 -->
 *Challenge question*
+*Info: Calculation · about 3 marks · about 4.5 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2; harder than most exam questions*
 
 *Written answer*
 
 #### Mixing problems and rate models
 
+*Exam relevance: Medium (comes up regularly in exams) · Prerequisites: Separable first-order differential equations*
+
 **Q495.** A tank holds 100 L of pure water. Brine with 0.5 kg/L of salt enters at 4 L/min and the well-mixed solution leaves at 4 L/min. If Q kg is the salt at time t minutes, then:
 <!-- id: specialist-5-4-1 -->
+*Info: Application · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. dQ/dt = 2 − 4Q
 - B. dQ/dt = 0.5 − Q/100
@@ -3606,6 +4141,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q496.** For the tank modelled by dQ/dt = 2 − Q/25 with Q(0) = 0, the long-term amount of salt is:
 <!-- id: specialist-5-4-2 -->
+*Info: Application · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. 50 kg
 - B. 100 kg
@@ -3614,6 +4150,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q497.** The solution of dQ/dt = 2 − Q/25 with Q(0) = 0 is:
 <!-- id: specialist-5-4-3 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. Q = 50e^(−t/25)
 - B. Q = 50(1 − e^(−t/25))
@@ -3622,6 +4159,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q498.** A tank initially contains 200 L of solution. Liquid flows in at 5 L/min and out at 3 L/min. The volume after t minutes is:
 <!-- id: specialist-5-4-4 -->
+*Info: Application · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. V = 200 + 5t
 - B. V = 200 − 2t
@@ -3630,6 +4168,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q499.** A tank initially contains 200 L. Brine of 0.2 kg/L enters at 5 L/min and the mixture leaves at 3 L/min. The differential equation for the salt Q kg is:
 <!-- id: specialist-5-4-5 -->
+*Info: Application · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. dQ/dt = 1 − 3Q/200
 - B. dQ/dt = 1 − 5Q/(200 + 2t)
@@ -3638,6 +4177,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q500.** A 500 L tank contains 50 kg of dissolved salt. Pure water enters at 20 L/min and the mixture leaves at 20 L/min. The amount of salt after t minutes is:
 <!-- id: specialist-5-4-6 -->
+*Info: Application · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. Q = 50e^(−t/25)
 - B. Q = 50e^(−20t)
@@ -3646,6 +4186,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q501.** For Q = 50e^(−t/25), the time for the amount of salt to halve is closest to:
 <!-- id: specialist-5-4-7 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. 12.5 minutes
 - B. 17.3 minutes
@@ -3654,6 +4195,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q502.** For the tank modelled by dQ/dt = 2 − Q/25 in a 100 L tank, the concentration of salt approaches:
 <!-- id: specialist-5-4-8 -->
+*Info: Application · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. 2 kg/L
 - B. 0.25 kg/L
@@ -3662,6 +4204,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q503.** In the model dQ/dt = 3 − Q/20, with Q in grams and t in minutes, the term Q/20 represents:
 <!-- id: specialist-5-4-9 -->
+*Info: Application · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. the concentration of salt in the tank, in g/L
 - B. the rate at which salt enters, in g/min
@@ -3670,6 +4213,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q504.** A tank holds 100 L. Liquid enters at 2 L/min and leaves at 4 L/min. The tank is empty after:
 <!-- id: specialist-5-4-10 -->
+*Info: Application · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. 50 minutes
 - B. 25 minutes
@@ -3678,6 +4222,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q505.** A pie cools according to dT/dt = −0.1(T − 25), where T is in °C. In the long term, T approaches:
 <!-- id: specialist-5-4-11 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. 0°C
 - B. 25°C
@@ -3686,6 +4231,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q506.** A drug is infused at 5 mg/h and eliminated at a rate of 0.2A mg/h, where A mg is the amount in the body. The long-term amount is:
 <!-- id: specialist-5-4-12 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. 5 mg
 - B. 1 mg
@@ -3694,6 +4240,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q507.** For dA/dt = 5 − 0.2A with A(0) = 0, the time for A to reach 20 mg is:
 <!-- id: specialist-5-4-13 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. 0.2 log_e(5) hours
 - B. 5 log_e(4) hours
@@ -3702,6 +4249,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q508.** Water drains from a tank so that dh/dt = −0.5√h, where h is in metres and t in minutes. If h(0) = 16, the tank empties at t equal to:
 <!-- id: specialist-5-4-14 -->
+*Info: Application · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. 16 minutes
 - B. 8 minutes
@@ -3710,6 +4258,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q509.** For Q = 50(1 − e^(−t/25)), correct to one decimal place, the amount of salt after 25 minutes is:
 <!-- id: specialist-5-4-15 -->
+*Info: Application · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. 18.4 kg
 - B. 31.6 kg
@@ -3718,6 +4267,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q510.** A 100 L tank initially contains 60 L of water. Water enters at 3 L/min and leaves at 2 L/min. The tank starts to overflow after:
 <!-- id: specialist-5-4-16 -->
+*Info: Application · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. 20 minutes
 - B. 33.3 minutes
@@ -3726,6 +4276,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q511.** A 1000 L tank contains 20 kg of salt. Brine of 0.1 kg/L enters at 10 L/min and the mixture leaves at 10 L/min. The amount of salt at time t is:
 <!-- id: specialist-5-4-17 -->
+*Info: Application · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. Q = 100 − 20e^(−t/100)
 - B. Q = 20 + 80e^(−t/100)
@@ -3734,6 +4285,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q512.** In a mixing model, writing the outflow rate of salt as (Q/V) × (outflow rate) assumes that:
 <!-- id: specialist-5-4-18 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. the solution is perfectly mixed at all times
 - B. the volume of the tank is constant
@@ -3742,42 +4294,50 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q513.** A 400 L tank initially contains pure water. Brine of 0.25 kg/L enters at 8 L/min and the mixture leaves at 8 L/min. Find Q(t), the salt in kg, and the amount after 50 minutes.
 <!-- id: specialist-5-4-19 -->
+*Info: Application · about 2 marks · about 3 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q514.** A 100 L tank contains 10 kg of salt. Pure water enters at 3 L/min and the mixture leaves at 5 L/min. Write and solve the differential equation for Q kg of salt for 0 ≤ t < 50.
 <!-- id: specialist-5-4-20 -->
+*Info: Application · about 2 marks · about 3 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q515.** For the tank with Q = 100(1 − e^(−t/50)), find the exact time at which there is 75 kg of salt in the tank.
 <!-- id: specialist-5-4-21 -->
+*Info: Application · about 2 marks · about 3 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q516.** A drug is given by drip at 10 mg/h and is removed from the body at a rate of 0.25A mg/h. If A(0) = 0, find A(t) and the steady-state amount.
 <!-- id: specialist-5-4-22 -->
+*Info: Application · about 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q517.** State two assumptions commonly made when modelling salt in a tank with dQ/dt = (rate in) − (rate out).
 <!-- id: specialist-5-4-23 -->
+*Info: Recall · about 2 marks · about 3 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q518.** A cake at 180°C is placed in a 20°C room and cools according to dT/dt = −k(T − 20). After 10 minutes it is 100°C. Find k exactly and the time when the cake reaches 30°C.
 <!-- id: specialist-5-4-24 -->
+*Info: Application · about 2 marks · about 3 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q519.** A retiree's superannuation balance $A changes according to dA/dt = 0.04A − 20 000 (t in years), with A(0) = 400 000. Find A(t) and when the balance runs out.
 <!-- id: specialist-5-4-25 -->
+*Info: Application · about 2 marks · about 3 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q520.** A tank holds 100 L of water containing 10 kg of salt. Brine with 0.2 kg/L flows in at 5 L/min and the mixture flows out at 5 L/min. Find \(Q\), the salt in kg after \(t\) minutes.
 <!-- id: specialist-5-4-c1 -->
 *Challenge question*
+*Info: Application · about 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Exam 1 or Exam 2; harder than most exam questions*
 
 *Written answer*
 
@@ -3785,8 +4345,11 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 #### Variable acceleration and v dv/dx
 
+*Exam relevance: High (comes up in most exams) · Prerequisites: Integration by substitution; Displacement, velocity and acceleration*
+
 **Q521.** A particle moves in a straight line with velocity v = 2x + 1 m/s, where x is its displacement in metres. Find its acceleration when x = 1.
 <!-- id: specialist-6-1-1 -->
+*Info: Application · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 6 m/s²
 - B. 2 m/s²
@@ -3795,6 +4358,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q522.** Which of the following is NOT a correct expression for the acceleration of a particle moving in a straight line?
 <!-- id: specialist-6-1-2 -->
+*Info: Conceptual · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. d/dx(½v²)
 - B. dv/dx
@@ -3803,6 +4367,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q523.** A particle has acceleration a = 6t − 4 m/s² and velocity 2 m/s at t = 0. Find its velocity at t = 2.
 <!-- id: specialist-6-1-3 -->
+*Info: Application · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 4 m/s
 - B. 8 m/s
@@ -3811,6 +4376,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q524.** A particle has acceleration a = −4x m/s² and is momentarily at rest when x = 3 m. Find its speed when it passes through x = 0.
 <!-- id: specialist-6-1-4 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 3 m/s
 - B. 12 m/s
@@ -3819,6 +4385,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q525.** A particle moves so that a = 2v, with v = 1 m/s when t = 0. Which expression gives v in terms of t?
 <!-- id: specialist-6-1-5 -->
+*Info: Application · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. v = e^(2t)
 - B. v = 1 + 2t
@@ -3827,6 +4394,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q526.** A particle moves with acceleration a = −v² m/s², and v = 4 m/s when x = 0. Which expression gives v in terms of x?
 <!-- id: specialist-6-1-6 -->
+*Info: Application · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. v = 4e^(x)
 - B. v = 4e^(−x)
@@ -3835,6 +4403,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q527.** The velocity of a particle satisfies v² = 9 − x². Find its acceleration in terms of x.
 <!-- id: specialist-6-1-7 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. a = −2x
 - B. a = −x/√(9 − x²)
@@ -3843,6 +4412,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q528.** A particle starts at the origin and has velocity v = 3t² − 12t m/s for t ≥ 0. Find the distance it travels in the first 5 seconds.
 <!-- id: specialist-6-1-8 -->
+*Info: Application · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 25 m
 - B. 32 m
@@ -3851,6 +4421,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q529.** The displacement of a particle is x = 4 sin(2t) metres. What is the maximum magnitude of its acceleration?
 <!-- id: specialist-6-1-9 -->
+*Info: Application · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 16 m/s²
 - B. 4 m/s²
@@ -3859,6 +4430,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q530.** A car travelling at 72 km/h on the Monash Freeway brakes with constant deceleration 5 m/s². How far does it travel before stopping?
 <!-- id: specialist-6-1-10 -->
+*Info: Application · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 4 m
 - B. 40 m
@@ -3867,6 +4439,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q531.** Take g = 9.8 m/s². A ball is thrown vertically upwards from ground level at 14.7 m/s. Find its maximum height, ignoring air resistance.
 <!-- id: specialist-6-1-11 -->
+*Info: Application · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 1.5 m
 - B. 7.35 m
@@ -3875,6 +4448,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q532.** A particle has acceleration a = x + 1 m/s² and starts from rest at x = 0. Find its speed when x = 2.
 <!-- id: specialist-6-1-12 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 2 m/s
 - B. 4 m/s
@@ -3883,6 +4457,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q533.** A particle moves with velocity v = 1/(x + 2) m/s, starting at x = 0 when t = 0. How long does it take to reach x = 2?
 <!-- id: specialist-6-1-13 -->
+*Info: Application · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 6 s
 - B. 2 s
@@ -3891,6 +4466,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q534.** A boat cuts its engine at 20 m/s and then decelerates according to a = −0.1v. How long does it take for the speed to halve?
 <!-- id: specialist-6-1-14 -->
+*Info: Application · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 5 s
 - B. 10 log_e(2) ≈ 6.93 s
@@ -3899,6 +4475,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q535.** A boat cuts its engine at 20 m/s and then decelerates according to a = −0.1v. How far does it travel while slowing to 10 m/s?
 <!-- id: specialist-6-1-15 -->
+*Info: Application · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 50 m
 - B. 69.3 m
@@ -3907,6 +4484,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q536.** A particle has displacement x = t² − 4t metres. Find its average speed over 0 ≤ t ≤ 4.
 <!-- id: specialist-6-1-16 -->
+*Info: Application · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 0 m/s
 - B. 1 m/s
@@ -3915,6 +4493,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q537.** A tram accelerates uniformly from rest at 3 m/s² for 4 s, then decelerates uniformly to rest over the next 6 s. Find the total distance travelled.
 <!-- id: specialist-6-1-17 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 60 m
 - B. 24 m
@@ -3923,6 +4502,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q538.** A particle has acceleration a = cos(t), with v = 0 and x = 0 at t = 0. Find its position at t = π.
 <!-- id: specialist-6-1-18 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 0 m
 - B. 2 m
@@ -3931,49 +4511,60 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q539.** A particle moves with velocity v = e^(−x) m/s. Find its acceleration in terms of x.
 <!-- id: specialist-6-1-19 -->
+*Info: Application · about 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q540.** A particle has acceleration a = 3x² m/s² and velocity 2 m/s at x = 0, moving in the positive direction. Find its velocity at x = 2.
 <!-- id: specialist-6-1-20 -->
+*Info: Application · about 2 marks · about 3 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q541.** Take g = 9.8 m/s². A stone is dropped from rest off a 44.1 m cliff at the Twelve Apostles. Find the time it takes to reach the water and its speed on impact, ignoring air resistance.
 <!-- id: specialist-6-1-21 -->
+*Info: Application · about 2 marks · about 3 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q542.** A particle starts at x = 0 with velocity 6 m/s and has acceleration a = −2v. Find x in terms of t, and the limiting position of the particle.
 <!-- id: specialist-6-1-22 -->
+*Info: Application · about 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q543.** A particle starts at the origin with velocity v = 4 − t² m/s. Find the distance travelled in the first 3 seconds.
 <!-- id: specialist-6-1-23 -->
+*Info: Application · about 2 marks · about 3 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q544.** A V/Line train accelerates uniformly from 10 m/s to 30 m/s over a distance of 400 m. Find its acceleration and the time taken.
 <!-- id: specialist-6-1-24 -->
+*Info: Application · about 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q545.** A particle has displacement x = t³ − 3t² + 2 m. Find the time when its acceleration is zero and its velocity at that time.
 <!-- id: specialist-6-1-25 -->
+*Info: Calculation · about 3 marks · about 4.5 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q546.** A particle moves in a straight line with acceleration \(a = -4x\) and velocity 6 m/s at \(x = 0\). Find its velocity in terms of \(x\) and its greatest distance from the origin.
 <!-- id: specialist-6-1-c1 -->
 *Challenge question*
+*Info: Application · about 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2; harder than most exam questions*
 
 *Written answer*
 
 #### Newton's laws and connected particles
 
+*Exam relevance: High (comes up in most exams) · Prerequisites: Vector algebra and scalar product; Resolving forces into components*
+
 **Q547.** A 1200 kg car accelerates at 2.5 m/s². What is the resultant force acting on it?
 <!-- id: specialist-6-2-1 -->
+*Info: Application · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 3000 N
 - B. 480 N
@@ -3982,6 +4573,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q548.** Take g = 9.8 m/s². A 70 kg person stands in a lift that is accelerating upwards at 1.2 m/s². Find the normal reaction force from the floor.
 <!-- id: specialist-6-2-2 -->
+*Info: Application · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 84 N
 - B. 770 N
@@ -3990,6 +4582,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q549.** Take g = 9.8 m/s². A 60 kg person stands in a lift that is accelerating downwards at 2 m/s². Find the normal reaction force from the floor.
 <!-- id: specialist-6-2-3 -->
+*Info: Application · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 120 N
 - B. 588 N
@@ -3998,6 +4591,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q550.** A book rests on a table. By Newton's third law, which force forms an action–reaction pair with the weight of the book?
 <!-- id: specialist-6-2-4 -->
+*Info: Application · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. The normal force of the table on the book
 - B. The normal force of the book on the table
@@ -4006,6 +4600,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q551.** Take g = 9.8 m/s². Masses of 3 kg and 5 kg hang at either end of a light inextensible string over a smooth fixed pulley. Find the magnitude of their acceleration.
 <!-- id: specialist-6-2-5 -->
+*Info: Application · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 2.45 m/s²
 - B. 1.96 m/s²
@@ -4014,6 +4609,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q552.** Take g = 9.8 m/s². Masses of 3 kg and 5 kg hang at either end of a light inextensible string over a smooth fixed pulley. Find the tension in the string.
 <!-- id: specialist-6-2-6 -->
+*Info: Application · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 29.4 N
 - B. 36.75 N
@@ -4022,6 +4618,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q553.** Take g = 9.8 m/s². A 4 kg block on a smooth horizontal table is connected by a light string over a smooth pulley at the edge to a hanging 1 kg mass. Find the acceleration of the system.
 <!-- id: specialist-6-2-7 -->
+*Info: Application · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 2.45 m/s²
 - B. 7.84 m/s²
@@ -4030,6 +4627,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q554.** Take g = 9.8 m/s². A 4 kg block on a smooth horizontal table is connected by a light string over a smooth pulley at the edge to a hanging 1 kg mass. Find the tension in the string.
 <!-- id: specialist-6-2-8 -->
+*Info: Application · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 1.96 N
 - B. 9.8 N
@@ -4038,6 +4636,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q555.** A 2000 kg truck tows a 500 kg trailer along a level road. The driving force is 5000 N and resistances are negligible. Find the tension in the tow bar.
 <!-- id: specialist-6-2-9 -->
+*Info: Application · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 1000 N
 - B. 2500 N
@@ -4046,6 +4645,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q556.** A resultant force F = (6i + 8j) N acts on a 2 kg particle. Find the magnitude of its acceleration.
 <!-- id: specialist-6-2-10 -->
+*Info: Application · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 7 m/s²
 - B. 5 m/s²
@@ -4054,6 +4654,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q557.** A 0.5 kg particle starts from rest and is acted on by a resultant force F = 3t i newtons. Find its speed at t = 2 s.
 <!-- id: specialist-6-2-11 -->
+*Info: Application · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 3 m/s
 - B. 6 m/s
@@ -4062,6 +4663,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q558.** A 1500 kg car travelling at 25 m/s brakes uniformly to rest over 50 m. Find the magnitude of the braking force.
 <!-- id: specialist-6-2-12 -->
+*Info: Application · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 750 N
 - B. 4687.5 N
@@ -4070,6 +4672,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q559.** Which statement best describes Newton's first law of motion?
 <!-- id: specialist-6-2-13 -->
+*Info: Conceptual · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. A body remains at rest or moves with constant velocity unless acted on by a non-zero resultant force
 - B. A body's acceleration is proportional to its mass
@@ -4078,6 +4681,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q560.** Take g = 9.8 m/s². A 2 kg object falls from rest with air resistance 0.4v N, where v m/s is its speed. Find its terminal velocity.
 <!-- id: specialist-6-2-14 -->
+*Info: Application · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 4.9 m/s
 - B. 49 m/s
@@ -4086,6 +4690,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q561.** Take g = 9.8 m/s². A 2 kg object falls with air resistance 0.5v² N, where v m/s is its speed. Find its terminal velocity, correct to two decimal places.
 <!-- id: specialist-6-2-15 -->
+*Info: Application · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 4.43 m/s
 - B. 19.60 m/s
@@ -4094,6 +4699,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q562.** Take g = 9.8 m/s². A 2 kg object falls with air resistance 0.4v N, where v m/s is its downward speed. Which equation of motion is correct?
 <!-- id: specialist-6-2-16 -->
+*Info: Conceptual · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. dv/dt = 9.8 + 0.2v
 - B. dv/dt = 9.8 − 0.4v
@@ -4102,6 +4708,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q563.** The acceleration due to gravity on the Moon is about 1.6 m/s². What is the weight of a 10 kg mass on the Moon?
 <!-- id: specialist-6-2-17 -->
+*Info: Application · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 16 N
 - B. 1.6 N
@@ -4110,6 +4717,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q564.** Blocks of 3 kg and 2 kg sit side by side and in contact on a smooth floor. A horizontal force of 15 N pushes the 3 kg block, which in turn pushes the 2 kg block. Find the contact force between the blocks.
 <!-- id: specialist-6-2-18 -->
+*Info: Application · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 7.5 N
 - B. 6 N
@@ -4118,49 +4726,60 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q565.** A 400 kg jet boat on Port Phillip Bay has a constant engine thrust of 800 N and experiences resistance 40v N. Find its terminal velocity and its acceleration when v = 10 m/s.
 <!-- id: specialist-6-2-19 -->
+*Info: Application · about 2 marks · about 3 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q566.** Take g = 9.8 m/s². Masses of 2 kg and 6 kg hang over a smooth pulley and are released from rest. Find their speed after 1.5 s.
 <!-- id: specialist-6-2-20 -->
+*Info: Application · about 2 marks · about 3 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q567.** Take g = 9.8 m/s². An 800 kg lift is supported by a cable with tension 9000 N. Find the acceleration of the lift.
 <!-- id: specialist-6-2-21 -->
+*Info: Application · about 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q568.** A 2 kg particle starts from rest and is acted on by a resultant force (4 − 2v) N. Find v in terms of t and its limiting speed.
 <!-- id: specialist-6-2-22 -->
+*Info: Application · about 2 marks · about 3 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q569.** Forces F₁ = (3i + 4j) N and F₂ = (−i + 2j) N act on a 2 kg particle. Find its acceleration vector and the magnitude of the acceleration.
 <!-- id: specialist-6-2-23 -->
+*Info: Application · about 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q570.** A 1200 kg car accelerates uniformly from rest to 27 m/s in 9 s on a level road against a constant resistance of 600 N. Find the driving force.
 <!-- id: specialist-6-2-24 -->
+*Info: Application · about 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q571.** Explain, using Newton's second law, why a person in a lift whose cable has snapped (falling freely) would feel weightless.
 <!-- id: specialist-6-2-25 -->
+*Info: Conceptual · about 2 marks · about 3 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q572.** Masses of 3 kg and 2 kg hang on either side of a smooth, light pulley. Find the acceleration of the system and the tension in the string (\(g = 9.8\) m/s²).
 <!-- id: specialist-6-2-c1 -->
 *Challenge question*
+*Info: Application · about 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2; harder than most exam questions*
 
 *Written answer*
 
 #### Friction, inclined planes and equilibrium
 
+*Exam relevance: Medium (comes up regularly in exams) · Prerequisites: Newton's laws and connected particles; Right-angled triangle trigonometry*
+
 **Q573.** Take g = 9.8 m/s². A 5 kg block slides down a smooth plane inclined at 30° to the horizontal. Find its acceleration.
 <!-- id: specialist-6-3-1 -->
+*Info: Application · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. 4.9 m/s²
 - B. 8.49 m/s²
@@ -4169,6 +4788,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q574.** Take g = 9.8 m/s². A 5 kg block rests on a smooth plane inclined at 30° to the horizontal. Find the normal reaction force, correct to two decimal places.
 <!-- id: specialist-6-3-2 -->
+*Info: Application · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. 24.50 N
 - B. 42.44 N
@@ -4177,6 +4797,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q575.** A block on a rough plane is on the point of sliding when the angle of inclination is θ. The coefficient of friction μ equals
 <!-- id: specialist-6-3-3 -->
+*Info: Application · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. sin θ
 - B. cos θ
@@ -4185,6 +4806,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q576.** Take g = 9.8 m/s². A 10 kg box rests on a horizontal floor with μ = 0.3. A horizontal force of 50 N is applied. Find its acceleration.
 <!-- id: specialist-6-3-4 -->
+*Info: Application · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. 0 m/s²
 - B. 5 m/s²
@@ -4193,6 +4815,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q577.** Take g = 9.8 m/s². A 10 kg box rests on a horizontal floor with μ = 0.3. A horizontal force of 20 N is applied. What is the friction force on the box?
 <!-- id: specialist-6-3-5 -->
+*Info: Application · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. 20 N
 - B. 0 N
@@ -4201,6 +4824,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q578.** Take g = 9.8 m/s². A 4 kg block slides down a rough plane inclined at 30° with μ = 0.2. Find its acceleration, correct to two decimal places.
 <!-- id: specialist-6-3-6 -->
+*Info: Application · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. 2.94 m/s²
 - B. 3.20 m/s²
@@ -4209,6 +4833,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q579.** Take g = 9.8 m/s². A 6 kg lamp hangs in equilibrium from two light strings, each making an angle of 30° with the horizontal. Find the tension in each string.
 <!-- id: specialist-6-3-7 -->
+*Info: Application · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. 29.4 N
 - B. 33.9 N
@@ -4217,6 +4842,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q580.** A particle is in equilibrium under three forces. Two of them have magnitudes 5 N and 12 N and act at right angles to each other. Find the magnitude of the third force.
 <!-- id: specialist-6-3-8 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. 7 N
 - B. 8.5 N
@@ -4225,6 +4851,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q581.** A particle is in equilibrium under forces F₁ = (2i − 3j) N, F₂ = (−5i + j) N and F₃. Find F₃.
 <!-- id: specialist-6-3-9 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. (3i + 2j) N
 - B. (−3i − 2j) N
@@ -4233,6 +4860,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q582.** Take g = 9.8 m/s². An 8 kg trolley is pulled up a smooth ramp inclined at 20° at constant velocity by a force parallel to the ramp. Find the force, correct to two decimal places.
 <!-- id: specialist-6-3-10 -->
+*Info: Application · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. 0 N
 - B. 26.81 N
@@ -4241,6 +4869,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q583.** Take g = 9.8 m/s². A 3 kg block is held at rest on a smooth plane inclined at 40° by a horizontal force P. Find P, correct to two decimal places.
 <!-- id: specialist-6-3-11 -->
+*Info: Application · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. 18.90 N
 - B. 22.52 N
@@ -4249,6 +4878,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q584.** Take g = 9.8 m/s². A 2 kg puck on a rough horizontal surface slows uniformly from 6 m/s to rest over 4.5 m. Find μ, correct to three decimal places.
 <!-- id: specialist-6-3-12 -->
+*Info: Application · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. 0.204
 - B. 0.816
@@ -4257,6 +4887,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q585.** Which statement about the friction force on a stationary block on a rough plane is correct?
 <!-- id: specialist-6-3-13 -->
+*Info: Conceptual · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. It acts to oppose the tendency of motion and has magnitude up to μR
 - B. It always equals μR
@@ -4265,6 +4896,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q586.** Take g = 9.8 m/s². A 20 kg crate is pulled along a rough horizontal floor (μ = 0.4) by a rope inclined at 30° above the horizontal with tension 100 N. Find its acceleration, correct to two decimal places.
 <!-- id: specialist-6-3-14 -->
+*Info: Application · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. 0.41 m/s²
 - B. 1.41 m/s²
@@ -4273,6 +4905,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q587.** A block is placed at rest on a rough plane inclined at 35°, with μ = 0.8. What happens?
 <!-- id: specialist-6-3-15 -->
+*Info: Application · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. It slides, because sin 35° < 0.8
 - B. It slides, because tan 35° < 0.8
@@ -4281,6 +4914,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q588.** Take g = 9.8 m/s². A 5 kg block rests in equilibrium on a rough plane inclined at 20°, with μ = 0.5. Find the friction force, correct to two decimal places.
 <!-- id: specialist-6-3-16 -->
+*Info: Application · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. 23.02 N
 - B. 24.50 N
@@ -4289,6 +4923,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q589.** A body is said to be in 'limiting equilibrium' when
 <!-- id: specialist-6-3-17 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. it is at rest but on the point of moving, with friction equal to μR
 - B. it moves at constant velocity with no friction
@@ -4297,6 +4932,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q590.** Take g = 9.8 m/s². A 10 kg mass hangs in equilibrium from two strings inclined at 30° and 60° to the horizontal. Find the tension in the string inclined at 60°, correct to two decimal places.
 <!-- id: specialist-6-3-18 -->
+*Info: Application · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. 49.00 N
 - B. 84.87 N
@@ -4305,42 +4941,50 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q591.** Take g = 9.8 m/s². A 6 kg block is projected up a rough plane inclined at 30° (μ = 0.25) at 8 m/s. How far up the plane does it travel before stopping?
 <!-- id: specialist-6-3-19 -->
+*Info: Application · about 2 marks · about 3 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q592.** Take g = 9.8 m/s². A 10 kg block on a rough plane inclined at 30° (μ = 0.3) would slide down if left alone. Find the minimum force parallel to the plane needed to keep it at rest.
 <!-- id: specialist-6-3-20 -->
+*Info: Application · about 2 marks · about 3 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q593.** Show that a block on a rough plane is on the point of slipping when tan θ = μ, where θ is the angle of inclination.
 <!-- id: specialist-6-3-21 -->
+*Info: Proof · about 2 marks · about 3 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q594.** Take g = 9.8 m/s². A 12 kg sign hangs in equilibrium from two cables, each making an angle of 45° with the vertical. Find the tension in each cable.
 <!-- id: specialist-6-3-22 -->
+*Info: Application · about 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q595.** Take g = 9.8 m/s². A 15 kg sled is pushed at constant speed across a horizontal surface with μ = 0.12. Find the horizontal pushing force.
 <!-- id: specialist-6-3-23 -->
+*Info: Application · about 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q596.** Take g = 9.8 m/s². A 2 kg block on a rough horizontal table (μ = 0.25) is connected over a smooth pulley to a hanging 3 kg mass. Find the acceleration and the tension in the string.
 <!-- id: specialist-6-3-24 -->
+*Info: Application · about 2 marks · about 3 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q597.** Forces of 6 N due east and 8 N due north act on a particle. Find the magnitude and true bearing of a third force that keeps the particle in equilibrium.
 <!-- id: specialist-6-3-25 -->
+*Info: Calculation · about 3 marks · about 4.5 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q598.** A block rests on a rough plane inclined at 30° and is on the point of sliding down. The coefficient of friction is:
 <!-- id: specialist-6-3-c1 -->
 *Challenge question*
+*Info: Application · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A; harder than most exam questions*
 
 - A. \(\frac{1}{2}\)
 - B. \(\frac{\sqrt{3}}{2}\)
@@ -4349,8 +4993,11 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 #### Momentum and impulse
 
+*Exam relevance: Medium (comes up regularly in exams) · Prerequisites: Newton's laws and connected particles*
+
 **Q599.** Find the momentum of a 0.16 kg cricket ball bowled at 35 m/s.
 <!-- id: specialist-6-4-1 -->
+*Info: Application · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. 5.6 kg m/s
 - B. 0.56 kg m/s
@@ -4359,6 +5006,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q600.** A 0.4 kg ball hits a wall at 10 m/s and rebounds in the opposite direction at 6 m/s. Find the magnitude of the impulse on the ball.
 <!-- id: specialist-6-4-2 -->
+*Info: Application · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. 1.6 N s
 - B. 6.4 N s
@@ -4367,6 +5015,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q601.** A constant resultant force of 20 N acts for 0.3 s on a 2 kg particle that is initially at rest. Find its final speed.
 <!-- id: specialist-6-4-3 -->
+*Info: Application · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. 1.5 m/s
 - B. 6 m/s
@@ -4375,6 +5024,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q602.** A 2 kg trolley moving at 3 m/s collides and couples with a stationary 1 kg trolley. Find their common speed.
 <!-- id: specialist-6-4-4 -->
+*Info: Application · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. 1 m/s
 - B. 1.5 m/s
@@ -4383,6 +5033,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q603.** A 3 kg object at rest explodes into two pieces. A 1 kg piece moves off at 12 m/s. Find the speed of the 2 kg piece.
 <!-- id: specialist-6-4-5 -->
+*Info: Application · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. 6 m/s
 - B. 4 m/s
@@ -4391,6 +5042,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q604.** A 0.01 kg bullet is fired at 400 m/s from a 4 kg rifle that is initially at rest. Find the recoil speed of the rifle.
 <!-- id: specialist-6-4-6 -->
+*Info: Application · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. 0.1 m/s
 - B. 1 m/s
@@ -4399,6 +5051,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q605.** A force F = 6t² N acts on a 3 kg particle for 0 ≤ t ≤ 2 s. Find the magnitude of the impulse.
 <!-- id: specialist-6-4-7 -->
+*Info: Application · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. 8 N s
 - B. 24 N s
@@ -4407,6 +5060,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q606.** Which of the following is equivalent to the SI unit of momentum, kg m s⁻¹?
 <!-- id: specialist-6-4-8 -->
+*Info: Application · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. N m
 - B. J s
@@ -4415,6 +5069,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q607.** A 2 kg particle has velocity (3i − 4j) m/s. Find the magnitude of its momentum.
 <!-- id: specialist-6-4-9 -->
+*Info: Application · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. 10 kg m/s
 - B. 2 kg m/s
@@ -4423,6 +5078,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q608.** A 4 kg body moving at 5 m/s collides head-on with a 6 kg body moving at 2 m/s in the opposite direction, and they stick together. Find their common velocity.
 <!-- id: specialist-6-4-10 -->
+*Info: Application · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. 2.0 m/s in the original direction of the 4 kg body
 - B. 0.8 m/s in the original direction of the 4 kg body
@@ -4431,6 +5087,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q609.** A 60 kg gymnast hits the mat at 7 m/s and is brought to rest in 0.5 s. Find the average force exerted by the mat, ignoring gravity during the impact.
 <!-- id: specialist-6-4-11 -->
+*Info: Application · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. 210 N
 - B. 420 N
@@ -4439,6 +5096,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q610.** Car airbags reduce injuries mainly because they
 <!-- id: specialist-6-4-12 -->
+*Info: Conceptual · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. reduce the change in momentum of the occupant
 - B. increase the occupant's momentum before impact
@@ -4447,6 +5105,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q611.** Take g = 9.8 m/s². A 0.2 kg ball is dropped from rest. Find the magnitude of its momentum after falling for 2 s, ignoring air resistance.
 <!-- id: specialist-6-4-13 -->
+*Info: Application · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. 3.92 kg m/s
 - B. 0.392 kg m/s
@@ -4455,6 +5114,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q612.** The total momentum of a system of particles is conserved when
 <!-- id: specialist-6-4-14 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. the particles stick together after colliding
 - B. the resultant external force on the system is zero
@@ -4463,6 +5123,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q613.** A 2 kg particle moving with velocity 4i m/s receives an impulse of 6j N s. Find its new speed.
 <!-- id: specialist-6-4-15 -->
+*Info: Application · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. 3 m/s
 - B. 7 m/s
@@ -4471,6 +5132,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q614.** A 5 kg body moving east at 2 m/s receives an impulse of 15 N s directed west. Find its new velocity.
 <!-- id: specialist-6-4-16 -->
+*Info: Application · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. 1 m/s east
 - B. 3 m/s west
@@ -4479,6 +5141,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q615.** A 0.5 kg particle has displacement x = t³ − 2t metres. Find its momentum at t = 2 s.
 <!-- id: specialist-6-4-17 -->
+*Info: Application · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. 5 kg m/s
 - B. 2 kg m/s
@@ -4487,6 +5150,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q616.** A 1 kg particle moving at 3 m/s strikes a stationary 2 kg particle. Afterwards the 1 kg particle moves at 1 m/s in the opposite direction. Find the velocity of the 2 kg particle.
 <!-- id: specialist-6-4-18 -->
+*Info: Application · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. 1 m/s in the original direction of the 1 kg particle
 - B. 2 m/s in the original direction of the 1 kg particle
@@ -4495,42 +5159,50 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q617.** A 1500 kg car travelling at 20 m/s on the Hume Highway runs into the back of a stationary 1000 kg car, and the cars lock together. Find their common speed just after the collision.
 <!-- id: specialist-6-4-19 -->
+*Info: Application · about 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q618.** A 0.058 kg tennis ball arrives at 30 m/s and is returned in the opposite direction at 40 m/s. The racquet is in contact for 0.005 s. Find the average force on the ball.
 <!-- id: specialist-6-4-20 -->
+*Info: Application · about 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q619.** A 2 kg particle starts from rest and is acted on by a resultant force F = (4 + 2t) N for 3 s. Find its speed at t = 3.
 <!-- id: specialist-6-4-21 -->
+*Info: Application · about 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q620.** An 80 kg astronaut at rest in space throws a 2 kg tool away at 5 m/s. Find the astronaut's recoil speed.
 <!-- id: specialist-6-4-22 -->
+*Info: Application · about 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q621.** The velocity of a 3 kg particle changes from (2i + j) m/s to (5i − 3j) m/s. Find the impulse and its magnitude.
 <!-- id: specialist-6-4-23 -->
+*Info: Application · about 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q622.** Take g = 9.8 m/s². A 0.5 kg ball is dropped from a height of 5 m and rebounds to a height of 1.8 m. Find the magnitude of the impulse from the ground.
 <!-- id: specialist-6-4-24 -->
+*Info: Application · about 2 marks · about 3 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q623.** Define impulse and state its relationship to momentum.
 <!-- id: specialist-6-4-25 -->
+*Info: Recall · about 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q624.** A 0.5 kg ball travelling at 8 m/s hits a wall and rebounds at 6 m/s. The magnitude of the impulse on the ball is:
 <!-- id: specialist-6-4-c1 -->
 *Challenge question*
+*Info: Application · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A; harder than most exam questions*
 
 - A. 7 N s
 - B. 1 N s
@@ -4541,8 +5213,11 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 #### Vector algebra and scalar product
 
+*Exam relevance: High (comes up in most exams) · Prerequisites: Pythagoras' theorem and trigonometry*
+
 **Q625.** Find the magnitude of the vector 2i − 3j + 6k.
 <!-- id: specialist-7-1-1 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 7
 - B. 5
@@ -4551,6 +5226,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q626.** Which of the following is the unit vector in the direction of 3i + 4k?
 <!-- id: specialist-7-1-2 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. (1/7)(3i + 4k)
 - B. (1/5)(3i + 4k)
@@ -4559,6 +5235,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q627.** If a = i + 2j − k and b = 3i − j + 2k, then a·b equals
 <!-- id: specialist-7-1-3 -->
+*Info: Application · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 1
 - B. 5
@@ -4567,6 +5244,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q628.** The angle between the vectors i + j and j + k is
 <!-- id: specialist-7-1-4 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. π/4
 - B. π/6
@@ -4575,6 +5253,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q629.** The vectors 2i + mj − k and mi + 3j + 4k are perpendicular when m equals
 <!-- id: specialist-7-1-5 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 4/5
 - B. −4/5
@@ -4583,6 +5262,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q630.** The scalar resolute of a = 2i + j − 2k in the direction of b = 3i + 4k is
 <!-- id: specialist-7-1-6 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 2/5
 - B. −2/5
@@ -4591,6 +5271,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q631.** The vector resolute of a = 4i + 2j in the direction of b = i + j is
 <!-- id: specialist-7-1-7 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 3√2(i + j)
 - B. 6i + 6j
@@ -4599,6 +5280,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q632.** The vector resolute of a = 4i + 2j perpendicular to b = i + j is
 <!-- id: specialist-7-1-8 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 3i + 3j
 - B. −i + j
@@ -4607,6 +5289,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q633.** The vectors i + j + k, 2i − j + 3k and 4i + j + pk are linearly dependent when p equals
 <!-- id: specialist-7-1-9 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 5
 - B. 3
@@ -4615,6 +5298,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q634.** The cosine of the angle that a = 2i − 2j + k makes with the positive x-axis is
 <!-- id: specialist-7-1-10 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 1/3
 - B. 2/3
@@ -4623,6 +5307,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q635.** The points A(1, 2, 3), B(3, 5, 4) and C(7, 11, p) are collinear when p equals
 <!-- id: specialist-7-1-11 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 4
 - B. 9
@@ -4631,6 +5316,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q636.** Point P divides the line segment AB internally in the ratio 2 : 1 (AP : PB = 2 : 1). If A and B have position vectors a and b, then the position vector of P is
 <!-- id: specialist-7-1-12 -->
+*Info: Application · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. (2a + b)/3
 - B. (a + b)/2
@@ -4639,6 +5325,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q637.** The vectors 3i − 6j + 2k and αi + 4j + βk are parallel. The values of α and β are
 <!-- id: specialist-7-1-13 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. α = −2, β = −4/3
 - B. α = 2, β = 4/3
@@ -4647,6 +5334,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q638.** If |a| = 3, |b| = 4 and a·b = 6, then |a + b| equals
 <!-- id: specialist-7-1-14 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 7
 - B. √37
@@ -4655,6 +5343,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q639.** If a and b are non-zero, non-parallel vectors with |a| = |b|, then the vectors a + b and a − b are
 <!-- id: specialist-7-1-15 -->
+*Info: Application · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. parallel
 - B. equal
@@ -4663,6 +5352,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q640.** Correct to one decimal place, the angle between i + j + k and the positive x-axis is
 <!-- id: specialist-7-1-16 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 35.3°
 - B. 45.0°
@@ -4671,6 +5361,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q641.** Given OA = 2i + j and OB = 5i + 5j, the distance AB is
 <!-- id: specialist-7-1-17 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 5
 - B. √85
@@ -4679,6 +5370,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q642.** The angle between a = i − 2j + 2k and b = 2i + j + 2k is
 <!-- id: specialist-7-1-18 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. cos⁻¹(4/3)
 - B. cos⁻¹(4/9)
@@ -4687,42 +5379,50 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q643.** The points A(3, 2, −1), B(2, 1, −1) and C(3, 0, 1) form a triangle. Use a scalar product to show that the triangle has a right angle at B.
 <!-- id: specialist-7-1-19 -->
+*Info: Calculation · about 3 marks · about 4.5 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q644.** Find the vector resolute of a = 3i − j + 2k in the direction of b = i + 2j + 2k.
 <!-- id: specialist-7-1-20 -->
+*Info: Calculation · about 2 marks · about 3 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q645.** Find all real values of m for which |mi + 2j − 2k| = 3√2.
 <!-- id: specialist-7-1-21 -->
+*Info: Calculation · about 2 marks · about 3 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q646.** Find the angle between a = 2i − j + k and b = i + j + 2k.
 <!-- id: specialist-7-1-22 -->
+*Info: Calculation · about 2 marks · about 3 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q647.** Use vectors to prove that the diagonals of a rhombus are perpendicular.
 <!-- id: specialist-7-1-23 -->
+*Info: Proof · about 3 marks · about 4.5 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q648.** Determine whether a = i + 2j − k, b = 3i − j + 2k and c = 5i + 3j are linearly dependent.
 <!-- id: specialist-7-1-24 -->
+*Info: Calculation · about 3 marks · about 4.5 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q649.** Point P divides AB internally in the ratio 3 : 2, where A is (1, −2, 4) and B is (6, 3, −1). Find the coordinates of P.
 <!-- id: specialist-7-1-25 -->
+*Info: Calculation · about 2 marks · about 3 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q650.** For which value of \(m\) are \(2\mathbf{i} + m\mathbf{j} - \mathbf{k}\) and \(\mathbf{i} - 3\mathbf{j} + 4\mathbf{k}\) perpendicular?
 <!-- id: specialist-7-1-c1 -->
 *Challenge question*
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A; harder than most exam questions*
 
 - A. \(-\frac{2}{3}\)
 - B. \(\frac{2}{3}\)
@@ -4731,8 +5431,11 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 #### Cross product and applications
 
+*Exam relevance: Medium (comes up regularly in exams) · Prerequisites: Vector algebra and scalar product; 2 × 2 and 3 × 3 determinants*
+
 **Q651.** i × j equals
 <!-- id: specialist-7-2-1 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. −k
 - B. 0
@@ -4741,6 +5444,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q652.** (i + 2j) × (3i − j) equals
 <!-- id: specialist-7-2-2 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. 7k
 - B. k
@@ -4749,6 +5453,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q653.** If a = i − j + 2k and b = 2i + j − k, then a × b equals
 <!-- id: specialist-7-2-3 -->
+*Info: Application · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. −i + 5j + 3k
 - B. i − 5j − 3k
@@ -4757,6 +5462,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q654.** The area of the parallelogram with adjacent sides a = i − j + 2k and b = 2i + j − k is
 <!-- id: specialist-7-2-4 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. √35/2
 - B. √35
@@ -4765,6 +5471,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q655.** The area of the triangle with vertices A(1, 0, 1), B(2, 1, 0) and C(0, 2, 3) is
 <!-- id: specialist-7-2-5 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. √26
 - B. 13
@@ -4773,6 +5480,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q656.** Which one of the following is true for all vectors a, b and c?
 <!-- id: specialist-7-2-6 -->
+*Info: Conceptual · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. a × b = b × a
 - B. a × (b × c) = (a × b) × c
@@ -4781,6 +5489,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q657.** If |a| = 4, |b| = 5 and the angle between a and b is 30°, then |a × b| equals
 <!-- id: specialist-7-2-7 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. 10
 - B. 10√3
@@ -4789,6 +5498,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q658.** If a and b are non-zero vectors and a × b = 0, then
 <!-- id: specialist-7-2-8 -->
+*Info: Application · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. a is perpendicular to b
 - B. a is parallel to b
@@ -4797,6 +5507,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q659.** For any vectors a and b, a·(a × b) equals
 <!-- id: specialist-7-2-9 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. |a|²|b|
 - B. |a × b|
@@ -4805,6 +5516,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q660.** A unit vector perpendicular to both i + j and j + k is
 <!-- id: specialist-7-2-10 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. (1/√3)(i + j + k)
 - B. i − j + k
@@ -4813,6 +5525,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q661.** A vector normal to the plane through A(1, 0, 0), B(0, 2, 0) and C(0, 0, 3) is
 <!-- id: specialist-7-2-11 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. 6i + 3j + 2k
 - B. i + 2j + 3k
@@ -4821,6 +5534,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q662.** k × j equals
 <!-- id: specialist-7-2-12 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. i
 - B. −i
@@ -4829,6 +5543,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q663.** (2i) × (3i) equals
 <!-- id: specialist-7-2-13 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. 6i
 - B. 6
@@ -4837,6 +5552,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q664.** If a = 2i + k and b = i + 3j, then a × b equals
 <!-- id: specialist-7-2-14 -->
+*Info: Application · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. 3i − j − 6k
 - B. −3i − j + 6k
@@ -4845,6 +5561,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q665.** Non-zero vectors a and b satisfy |a × b| = a·b. The angle between a and b is
 <!-- id: specialist-7-2-15 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. π/4
 - B. π/2
@@ -4853,6 +5570,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q666.** For any vectors a and b, (a + b) × (a − b) equals
 <!-- id: specialist-7-2-16 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. 2(a × b)
 - B. −2(a × b)
@@ -4861,6 +5579,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q667.** The area of the triangle with vertices A(1, 1, 1), B(3, 1, 1) and C(1, 4, 1) is
 <!-- id: specialist-7-2-17 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. 6
 - B. √13
@@ -4869,6 +5588,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q668.** If |a| = 3, |b| = 2 and a·b = 3, then |a × b| equals
 <!-- id: specialist-7-2-18 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. 3
 - B. √33
@@ -4877,49 +5597,60 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q669.** Find (3i − j + 2k) × (i + 2j − k) and check that your answer is perpendicular to both vectors.
 <!-- id: specialist-7-2-19 -->
+*Info: Calculation · about 3 marks · about 4.5 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q670.** Find the area of the triangle with vertices P(2, −1, 0), Q(3, 1, 2) and R(0, 1, 1).
 <!-- id: specialist-7-2-20 -->
+*Info: Calculation · about 2 marks · about 3 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q671.** Find the unit vectors that are perpendicular to both a = i + 2j + 2k and b = 2i + j − 2k.
 <!-- id: specialist-7-2-21 -->
+*Info: Calculation · about 2 marks · about 3 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q672.** Given a = i + 5j + ck and a × b = 2i − j + 3k, find c.
 <!-- id: specialist-7-2-22 -->
+*Info: Calculation · about 2 marks · about 3 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q673.** Use the cross product to find the angle between a = i + j and b = i + k.
 <!-- id: specialist-7-2-23 -->
+*Info: Calculation · about 3 marks · about 4.5 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q674.** Parallelogram ABCD has AB = 2i + j and AD = i + 3k. Find its area.
 <!-- id: specialist-7-2-24 -->
+*Info: Calculation · about 2 marks · about 3 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q675.** Explain why a × b = a × c (with a ≠ 0) does not imply that b = c. Give an example.
 <!-- id: specialist-7-2-25 -->
+*Info: Conceptual · about 2 marks · about 3 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q676.** Find the area of the triangle with vertices \(A(1, 0, 0)\), \(B(0, 2, 0)\) and \(C(0, 0, 3)\).
 <!-- id: specialist-7-2-c1 -->
 *Challenge question*
+*Info: Calculation · about 2 marks · about 3 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Exam 1 or Exam 2; harder than most exam questions*
 
 *Written answer*
 
 #### Vector equations of lines and planes
 
+*Exam relevance: High (comes up in most exams) · Prerequisites: Vector algebra and scalar product; Cross product and applications*
+
 **Q677.** A vector equation of the line through (1, −2, 3) parallel to 2i + j − k is
 <!-- id: specialist-7-3-1 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. r = i − 2j + 3k + t(2i + j − k), t ∈ R
 - B. r = 2i + j − k + t(i − 2j + 3k), t ∈ R
@@ -4928,6 +5659,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q678.** Parametric equations of the line through A(2, 0, 1) and B(4, 3, −1) are
 <!-- id: specialist-7-3-2 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. x = 2 + 4t, y = 3t, z = 1 − t
 - B. x = 2 + 2t, y = 3t, z = 1 − 2t
@@ -4936,6 +5668,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q679.** Which one of the following points lies on the line r = (i − j + 2k) + t(2i + j − k)?
 <!-- id: specialist-7-3-3 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. (3, 0, 3)
 - B. (5, 1, 4)
@@ -4944,6 +5677,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q680.** The Cartesian equation of the plane through (1, 2, 3) with normal vector 2i − j + 4k is
 <!-- id: specialist-7-3-4 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. x + 2y + 3z = 12
 - B. 2x − y + 4z = 0
@@ -4952,6 +5686,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q681.** A normal vector to the plane 3x − 2y + z = 7 is
 <!-- id: specialist-7-3-5 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 3i − 2j + k
 - B. 7i
@@ -4960,6 +5695,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q682.** The line r = (i + 2k) + t(i + j − k) meets the plane x + 2y + z = 9 at the point
 <!-- id: specialist-7-3-6 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. (3, 2, 0)
 - B. (4, 3, −1)
@@ -4968,6 +5704,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q683.** The plane through the origin parallel to 2x + y − 2z = 5 has equation
 <!-- id: specialist-7-3-7 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 2x + y − 2z = 5
 - B. x + 2y − 2z = 0
@@ -4976,6 +5713,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q684.** Which line is parallel to r = i + t(2i − 4j + 6k)?
 <!-- id: specialist-7-3-8 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. r = 3j + s(i + 2j + 3k)
 - B. r = 3j + s(2i + 4j + 6k)
@@ -4984,6 +5722,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q685.** Lines with direction vectors i + 2j + pk and 3i − j + 2k are perpendicular when p equals
 <!-- id: specialist-7-3-9 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. −1/2
 - B. 1/2
@@ -4992,6 +5731,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q686.** The Cartesian equation of the plane through A(1, 0, 0), B(0, 2, 0) and C(0, 0, 3) is
 <!-- id: specialist-7-3-10 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. x + 2y + 3z = 6
 - B. 6x + 3y + 2z = 6
@@ -5000,6 +5740,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q687.** The perpendicular distance from the origin to the plane 2x − y + 2z = 9 is
 <!-- id: specialist-7-3-11 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 9
 - B. 1
@@ -5008,6 +5749,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q688.** The line with parametric equations x = 1 + 2t, y = 3 − t, z = 4t has direction vector
 <!-- id: specialist-7-3-12 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. i + 3j
 - B. i + 3j + 4k
@@ -5016,6 +5758,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q689.** The line r = (2i − j + 3k) + t(i + 4j − 2k) has Cartesian form
 <!-- id: specialist-7-3-13 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. (x − 2)/1 = (y + 1)/4 = (z − 3)/(−2)
 - B. (x + 2)/1 = (y − 1)/4 = (z + 3)/(−2)
@@ -5024,6 +5767,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q690.** Consider the line r = 5k + t(i + 2j − k) and the plane 3x − y + z = 1. Which statement is true?
 <!-- id: specialist-7-3-14 -->
+*Info: Conceptual · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. The line lies in the plane
 - B. The line is parallel to the plane and does not meet it
@@ -5032,6 +5776,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q691.** The lines r = (i + 2j) + s(i − j + 2k) and r = (−j + 4k) + t(i + j − k) intersect at
 <!-- id: specialist-7-3-15 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. (3, 0, 4)
 - B. (1, 2, 0)
@@ -5040,6 +5785,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q692.** Two lines in three-dimensional space are skew if they
 <!-- id: specialist-7-3-16 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. are perpendicular and intersect
 - B. are parallel but distinct
@@ -5048,6 +5794,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q693.** The plane through the point with position vector 2i + j − k and with normal i + j + k has vector equation r·(i + j + k) = d, where d equals
 <!-- id: specialist-7-3-17 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 2
 - B. 0
@@ -5056,6 +5803,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q694.** The point (k, 2, 1) lies in the plane 3x − y + 4z = 11 when k equals
 <!-- id: specialist-7-3-18 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 5/3
 - B. 3
@@ -5064,49 +5812,60 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q695.** Find a vector equation of the line through A(3, −1, 2) and B(1, 4, 0).
 <!-- id: specialist-7-3-19 -->
+*Info: Calculation · about 2 marks · about 3 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q696.** Find the Cartesian equation of the plane through P(1, 1, 1), Q(2, 0, 3) and R(0, 2, 2).
 <!-- id: specialist-7-3-20 -->
+*Info: Calculation · about 3 marks · about 4.5 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q697.** Find the point where the line x = 2 + t, y = −1 + 2t, z = 3 − t meets the plane 2x + y + z = 12.
 <!-- id: specialist-7-3-21 -->
+*Info: Calculation · about 2 marks · about 3 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q698.** Show that the lines r = i + s(i + j) and r = (j + 2k) + t(i + k) are skew.
 <!-- id: specialist-7-3-22 -->
+*Info: Proof · about 3 marks · about 4.5 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q699.** Find the acute angle between lines with direction vectors i + 2j + 2k and 2i − j + 2k, correct to one decimal place.
 <!-- id: specialist-7-3-23 -->
+*Info: Calculation · about 2 marks · about 3 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q700.** Find the perpendicular distance from P(3, 1, −2) to the plane x + 2y + 2z = 5.
 <!-- id: specialist-7-3-24 -->
+*Info: Calculation · about 2 marks · about 3 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q701.** Find the value of a for which the plane ax + 2y − z = 4 is perpendicular to the plane x − y + 3z = 0.
 <!-- id: specialist-7-3-25 -->
+*Info: Calculation · about 2 marks · about 3 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q702.** Find the Cartesian equation of the plane through \((1, 2, 3)\) with normal \(2\mathbf{i} - \mathbf{j} + \mathbf{k}\), and its distance from the origin.
 <!-- id: specialist-7-3-c1 -->
 *Challenge question*
+*Info: Calculation · about 3 marks · about 4.5 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2; harder than most exam questions*
 
 *Written answer*
 
 #### Vector calculus and particle motion
 
+*Exam relevance: High (comes up in most exams) · Prerequisites: Vector algebra and scalar product; Exponential, logarithmic and circular derivatives (Mathematical Methods, Units 3 & 4); Variable acceleration and v dv/dx*
+
 **Q703.** A particle has position r(t) = t² i + (3t − 1) j. Its velocity at t = 2 is
 <!-- id: specialist-7-4-1 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 4i + 5j
 - B. 2i + 3j
@@ -5115,6 +5874,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q704.** A particle has position r(t) = t² i + (3t − 1) j. Its speed at t = 2 is
 <!-- id: specialist-7-4-2 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. √41
 - B. 7
@@ -5123,6 +5883,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q705.** If r(t) = 3 sin(2t) i + 3 cos(2t) j, then the acceleration is
 <!-- id: specialist-7-4-3 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. −12 sin(2t) i − 12 cos(2t) j
 - B. −6 sin(2t) i − 6 cos(2t) j
@@ -5131,6 +5892,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q706.** The Cartesian equation of the path given by r(t) = 2 cos(t) i + 3 sin(t) j is
 <!-- id: specialist-7-4-4 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. x²/9 + y²/4 = 1
 - B. x²/4 + y²/9 = 1
@@ -5139,6 +5901,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q707.** The Cartesian equation of the path given by r(t) = (t − 1) i + t² j is
 <!-- id: specialist-7-4-5 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. y = (x − 1)²
 - B. y = x² + 1
@@ -5147,6 +5910,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q708.** A particle has velocity v(t) = 2i + 6t j and starts at r(0) = i − j. Its position vector is
 <!-- id: specialist-7-4-6 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. r(t) = 2t i + 3t² j
 - B. r(t) = (2t + 1) i + (6t² − 1) j
@@ -5155,6 +5919,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q709.** A ball is projected from the origin with v(0) = 20i + 15j m/s and a = −10j m/s² (taking g = 10). It reaches its maximum height at t =
 <!-- id: specialist-7-4-7 -->
+*Info: Application · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 1.5 s
 - B. 3 s
@@ -5163,6 +5928,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q710.** A ball is projected from the origin with v(0) = 20i + 15j m/s and a = −10j m/s² (taking g = 10), over horizontal ground. Its horizontal range is
 <!-- id: specialist-7-4-8 -->
+*Info: Application · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 30 m
 - B. 60 m
@@ -5171,6 +5937,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q711.** A particle moves with r(t) = (t³ − 3t) i + (t² − 2t) j, t ≥ 0. The particle is at rest when t equals
 <!-- id: specialist-7-4-9 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 0
 - B. √3
@@ -5179,6 +5946,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q712.** A particle moves with r(t) = 5 cos(2t) i + 5 sin(2t) j. Its speed is
 <!-- id: specialist-7-4-10 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 5
 - B. 2
@@ -5187,6 +5955,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q713.** For r(t) = 4 cos(t) i + 4 sin(t) j, the value of r(t)·ṙ(t) is
 <!-- id: specialist-7-4-11 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 0
 - B. 16
@@ -5195,6 +5964,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q714.** A particle has position r(t) = 2t i + (t² + 2) j + (t − 3) k. At t = 1 its distance from the origin is
 <!-- id: specialist-7-4-12 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 17
 - B. √17
@@ -5203,6 +5973,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q715.** Two particles have positions r_A = (2t + 1) i + (t + 3) j and r_B = (t + 3) i + (3t − 1) j for t ≥ 0. Which statement is true?
 <!-- id: specialist-7-4-13 -->
+*Info: Conceptual · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. They collide at t = 2 at 4i + 5j
 - B. They collide at t = 1 at 3i + 4j
@@ -5211,6 +5982,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q716.** d/dt (e^(2t) i + log_e(t) j), t > 0, equals
 <!-- id: specialist-7-4-14 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. e^(2t) i + (1/t) j
 - B. 2e^(2t) i + log_e(t) j
@@ -5219,6 +5991,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q717.** A particle starts from rest with acceleration a(t) = 6t i + 2j. Its velocity at t = 2 is
 <!-- id: specialist-7-4-15 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 12i + 4j
 - B. 12i + 2j
@@ -5227,6 +6000,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q718.** A particle moves with r(t) = t² i + 2√3 t j. At t = 1 its direction of motion makes an angle with the positive x-axis of
 <!-- id: specialist-7-4-16 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 30°
 - B. 60°
@@ -5235,6 +6009,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q719.** The distance travelled from t = 0 to t = 2 by a particle with r(t) = 3t i + 4t j is
 <!-- id: specialist-7-4-17 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 5
 - B. 14
@@ -5243,6 +6018,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q720.** The path given by r(t) = sec(t) i + tan(t) j, for −π/2 < t < π/2, lies on the curve
 <!-- id: specialist-7-4-18 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. x² + y² = 1
 - B. y² − x² = 1
@@ -5251,42 +6027,50 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q721.** A particle has position r(t) = (2t − 1) i + (t² + 1) j. Find its velocity and speed at t = 3.
 <!-- id: specialist-7-4-19 -->
+*Info: Calculation · about 2 marks · about 3 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q722.** A particle moves on a helix with r(t) = 3 cos(t) i + 3 sin(t) j + 4t k. Find its speed and the distance it travels from t = 0 to t = 2π.
 <!-- id: specialist-7-4-20 -->
+*Info: Calculation · about 2 marks · about 3 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q723.** A projectile is launched from ground level with v(0) = 15i + 19.6j m/s and a = −9.8j m/s². Find its maximum height.
 <!-- id: specialist-7-4-21 -->
+*Info: Application · about 2 marks · about 3 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q724.** A particle has a(t) = −4 cos(2t) i − 4 sin(2t) j, v(0) = 2j and r(0) = i. Find r(t) and describe the path.
 <!-- id: specialist-7-4-22 -->
+*Info: Calculation · about 3 marks · about 4.5 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q725.** A particle has position r(t) = (t − 2) i + (t² − 4t) j, t ≥ 0. Find the Cartesian equation of its path and state the domain.
 <!-- id: specialist-7-4-23 -->
+*Info: Calculation · about 2 marks · about 3 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q726.** A particle has position r(t) = (t² − 6t) i + 4t j. Find when its velocity is perpendicular to its acceleration.
 <!-- id: specialist-7-4-24 -->
+*Info: Calculation · about 2 marks · about 3 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q727.** Ship A has position r_A = t i + 2t j and ship B has r_B = (6 − t) i + (t + 1) j (in km, t in hours). Show that the ships do not collide, and find the distance between them at t = 2.
 <!-- id: specialist-7-4-25 -->
+*Info: Application · about 3 marks · about 4.5 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q728.** A particle has position \(\mathbf{r}(t) = \cos(2t)\,\mathbf{i} + \sin(2t)\,\mathbf{j}\). The magnitude of its acceleration is:
 <!-- id: specialist-7-4-c1 -->
 *Challenge question*
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A; harder than most exam questions*
 
 - A. 2
 - B. 4
@@ -5297,8 +6081,11 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 #### Linear combinations of random variables
 
+*Exam relevance: High (comes up in most exams) · Prerequisites: Expected value and variance (Mathematical Methods, Units 3 & 4); Normal distribution and standardisation (Mathematical Methods, Units 3 & 4)*
+
 **Q729.** A random variable X has E(X) = 5 and Var(X) = 4. Find E(3X − 2).
 <!-- id: specialist-8-1-1 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 13
 - B. 15
@@ -5307,6 +6094,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q730.** A random variable X has E(X) = 5 and Var(X) = 4. Find Var(3X − 2).
 <!-- id: specialist-8-1-2 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 34
 - B. 36
@@ -5315,6 +6103,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q731.** A random variable X has standard deviation 3. What is the standard deviation of −2X + 7?
 <!-- id: specialist-8-1-3 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. −6
 - B. 36
@@ -5323,6 +6112,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q732.** X and Y are independent with Var(X) = 9 and Var(Y) = 16. What is the standard deviation of X − Y?
 <!-- id: specialist-8-1-4 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. √7
 - B. 7
@@ -5331,6 +6121,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q733.** E(X) = 10 and E(Y) = 4. Find E(2X − 3Y).
 <!-- id: specialist-8-1-5 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 8
 - B. 32
@@ -5339,6 +6130,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q734.** X and Y are independent with Var(X) = 2 and Var(Y) = 5. Find Var(4X − Y).
 <!-- id: specialist-8-1-6 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 27
 - B. 37
@@ -5347,6 +6139,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q735.** X₁, X₂, …, X₅ are independent, each with standard deviation 2. What is the standard deviation of X₁ + X₂ + … + X₅?
 <!-- id: specialist-8-1-7 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 10
 - B. 20
@@ -5355,6 +6148,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q736.** X₁ and X₂ are independent, each with the same distribution as X, where Var(X) = σ². Which statement is true?
 <!-- id: specialist-8-1-8 -->
+*Info: Conceptual · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. Var(X₁ + X₂) = Var(2X₁) = 2σ²
 - B. Var(X₁ + X₂) = Var(2X₁) = 4σ²
@@ -5363,6 +6157,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q737.** The mass of a Pink Lady apple grown in the Goulburn Valley is normally distributed with mean 150 g and standard deviation 10 g. A bag contains 6 randomly selected apples. What is the standard deviation of the total mass of the bag?
 <!-- id: specialist-8-1-9 -->
+*Info: Application · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 10√6 g (≈ 24.5 g)
 - B. 60 g
@@ -5371,6 +6166,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q738.** The mass of coffee in a jar is N(500, 4²) grams and the mass of an empty jar is N(200, 3²) grams, independently. What is the distribution of the total mass of a filled jar?
 <!-- id: specialist-8-1-10 -->
+*Info: Application · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. N(700, 7²)
 - B. N(700, 5²)
@@ -5379,6 +6175,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q739.** X ~ N(20, 9) and Y ~ N(15, 16) are independent. Find Pr(X > Y), correct to four decimal places.
 <!-- id: specialist-8-1-11 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 0.1587
 - B. 0.6915
@@ -5387,6 +6184,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q740.** X and Y are independent normal random variables. Which describes the distribution of 2X − 3Y?
 <!-- id: specialist-8-1-12 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. Normal, mean 2μ_X − 3μ_Y, variance 4σ_X² − 9σ_Y²
 - B. Normal, mean 2μ_X − 3μ_Y, variance 2σ_X² + 3σ_Y²
@@ -5395,6 +6193,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q741.** Var(X) = 5 and Var(aX + 3) = 45, where a < 0. Find a.
 <!-- id: specialist-8-1-13 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. −3
 - B. 3
@@ -5403,6 +6202,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q742.** Cars boarding the Queenscliff–Sorrento ferry have masses with mean 1500 kg and standard deviation 200 kg, independently. For 40 cars, the standard deviation of the total mass is closest to
 <!-- id: specialist-8-1-14 -->
+*Info: Application · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 8000 kg
 - B. 1265 kg
@@ -5411,6 +6211,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q743.** A fair six-sided die has E(X) = 3.5 and Var(X) = 35/12. Two such dice are rolled independently. What is the variance of the sum of the two numbers?
 <!-- id: specialist-8-1-15 -->
+*Info: Application · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 35/3
 - B. 35/12
@@ -5419,6 +6220,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q744.** A student's bus trip takes B ~ N(25, 4²) minutes and the walk to school takes W ~ N(10, 3²) minutes, independently. Find the probability the total trip takes more than 40 minutes.
 <!-- id: specialist-8-1-16 -->
+*Info: Application · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 0.8413
 - B. 0.0228
@@ -5427,6 +6229,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q745.** A lid's diameter is L ~ N(8.0, 0.03²) cm and a jar opening's diameter is J ~ N(7.9, 0.04²) cm, independently. A lid fits if L > J. Find the probability that a randomly chosen lid fits a randomly chosen jar.
 <!-- id: specialist-8-1-17 -->
+*Info: Application · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 0.9772
 - B. 0.0228
@@ -5435,6 +6238,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q746.** Which of the following results requires X and Y to be independent?
 <!-- id: specialist-8-1-18 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. E(X + Y) = E(X) + E(Y)
 - B. Var(X + Y) = Var(X) + Var(Y)
@@ -5443,49 +6247,60 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q747.** X has mean 12 and standard deviation 3. Find the mean and standard deviation of Y = 5 − 2X.
 <!-- id: specialist-8-1-19 -->
+*Info: Calculation · about 2 marks · about 3 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q748.** X ~ N(40, 9) and Y ~ N(30, 16) are independent. Find Pr(X + Y < 75), correct to four decimal places.
 <!-- id: specialist-8-1-20 -->
+*Info: Calculation · about 2 marks · about 3 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q749.** Explain why Var(X − Y) = Var(X) + Var(Y), rather than Var(X) − Var(Y), when X and Y are independent.
 <!-- id: specialist-8-1-21 -->
+*Info: Conceptual · about 2 marks · about 3 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q750.** Muesli bar masses are N(45, 1.5²) g and an empty box has mass N(30, 2²) g, all independent. A box holds 8 bars. Find the mean and standard deviation of the total mass of a packed box.
 <!-- id: specialist-8-1-22 -->
+*Info: Application · about 2 marks · about 3 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q751.** A ~ N(60, 8²) and B ~ N(25, 3²) are independent. Find Pr(A > 2B), correct to four decimal places.
 <!-- id: specialist-8-1-23 -->
+*Info: Calculation · about 3 marks · about 4.5 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q752.** A random variable X has E(X) = 4 and E(X²) = 20. Find Var(3X + 1).
 <!-- id: specialist-8-1-24 -->
+*Info: Calculation · about 2 marks · about 3 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q753.** In a 4 × 100 m freestyle relay, each swimmer's time is independent with mean 60 s and standard deviation 1.5 s. Find the probability that the total time is less than 237 s, assuming normality.
 <!-- id: specialist-8-1-25 -->
+*Info: Calculation · about 2 marks · about 3 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q754.** \(X \sim \text{N}(10, 4)\) and \(Y \sim \text{N}(6, 9)\) are independent (variances given). Find \(\Pr(2X - Y > 20)\), correct to four decimal places.
 <!-- id: specialist-8-1-c1 -->
 *Challenge question*
+*Info: Calculation · about 2 marks · about 3 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2; harder than most exam questions*
 
 *Written answer*
 
 #### Sample means and the CLT
 
+*Exam relevance: High (comes up in most exams) · Prerequisites: Linear combinations of random variables*
+
 **Q755.** A population has mean 50 and standard deviation 12. Random samples of size 36 are taken. What is the standard deviation of the sample mean X̄?
 <!-- id: specialist-8-2-1 -->
+*Info: Application · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 2
 - B. 12
@@ -5494,6 +6309,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q756.** A population has mean 50 and standard deviation 12. For random samples of size 36, what is E(X̄)?
 <!-- id: specialist-8-2-2 -->
+*Info: Application · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 50/36
 - B. 50
@@ -5502,6 +6318,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q757.** Which statement best describes the central limit theorem?
 <!-- id: specialist-8-2-3 -->
+*Info: Conceptual · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. For large n, the population itself becomes approximately normal
 - B. X̄ is exactly normal for every population and every sample size
@@ -5510,6 +6327,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q758.** By what factor must the sample size be multiplied to halve the standard deviation of X̄?
 <!-- id: specialist-8-2-4 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 2
 - B. √2
@@ -5518,6 +6336,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q759.** Heights in a population are normally distributed. A random sample of size 4 is taken. Which statement about X̄ is correct?
 <!-- id: specialist-8-2-5 -->
+*Info: Conceptual · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. X̄ is exactly normally distributed
 - B. X̄ is only approximately normal because n < 30
@@ -5526,6 +6345,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q760.** Phone battery life has mean 20 hours and standard deviation 4 hours. For a random sample of 64 batteries, find Pr(X̄ > 20.5), correct to four decimal places.
 <!-- id: specialist-8-2-6 -->
+*Info: Application · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 0.4503
 - B. 0.1587
@@ -5534,6 +6354,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q761.** Phone battery life has mean 20 hours and standard deviation 4 hours. For a random sample of 64 batteries, find Pr(X̄ < 19), correct to four decimal places.
 <!-- id: specialist-8-2-7 -->
+*Info: Application · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 0.4013
 - B. 0.9772
@@ -5542,6 +6363,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q762.** A population has σ = 6. What is the smallest sample size for which sd(X̄) ≤ 0.5?
 <!-- id: specialist-8-2-8 -->
+*Info: Application · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 12
 - B. 72
@@ -5550,6 +6372,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q763.** Which of the following is a population parameter rather than a sample statistic?
 <!-- id: specialist-8-2-9 -->
+*Info: Application · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. The mean height μ of all Year 12 students in Victoria
 - B. The mean height of a random sample of 50 Year 12 students
@@ -5558,6 +6381,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q764.** A population has mean μ and variance σ². What is Var(X̄) for random samples of size n?
 <!-- id: specialist-8-2-10 -->
+*Info: Application · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. σ²/√n
 - B. σ²/n
@@ -5566,6 +6390,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q765.** Adult heights in a population are N(170, 8²) cm. What is the distribution of the mean height of a random sample of 16 adults?
 <!-- id: specialist-8-2-11 -->
+*Info: Application · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. N(170, 8²)
 - B. N(170, 0.5²)
@@ -5574,6 +6399,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q766.** Adult heights in a population are N(170, 8²) cm. For a random sample of 16 adults, find Pr(X̄ > 173), correct to four decimal places.
 <!-- id: specialist-8-2-12 -->
+*Info: Application · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 0.3538
 - B. 0.9332
@@ -5582,6 +6408,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q767.** Household electricity bills in Melbourne are strongly right skewed. For which sample size is it most reasonable to model X̄ as approximately normal?
 <!-- id: specialist-8-2-13 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. n = 100
 - B. n = 3
@@ -5590,6 +6417,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q768.** As the sample size n increases, what happens to the sampling distribution of X̄?
 <!-- id: specialist-8-2-14 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. Its mean increases and its standard deviation decreases
 - B. Its mean stays at μ and its standard deviation decreases
@@ -5598,6 +6426,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q769.** A random sample of 50 values is taken from a population with mean 8 and standard deviation 2. Which best describes the sampling distribution of the sample sum?
 <!-- id: specialist-8-2-15 -->
+*Info: Application · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. Approximately normal, mean 400, standard deviation 100
 - B. Approximately normal, mean 8, standard deviation ≈ 0.28
@@ -5606,6 +6435,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q770.** Waiting times at a Myki top-up machine have mean 5 minutes and standard deviation 5 minutes (not normal). For a random sample of 100 waiting times, find approximately Pr(X̄ > 6).
 <!-- id: specialist-8-2-16 -->
+*Info: Application · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 0.4207
 - B. 0.9772
@@ -5614,6 +6444,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q771.** A fair die has mean 3.5 and variance 35/12. It is rolled 105 times. What is the standard deviation of the mean score?
 <!-- id: specialist-8-2-17 -->
+*Info: Application · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 1/6
 - B. 1/36
@@ -5622,6 +6453,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q772.** IQ scores have mean 100 and standard deviation 15. For random samples of 25 people, the interval containing the middle 95% of sample means is closest to
 <!-- id: specialist-8-2-18 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. (70.60, 129.40)
 - B. (94.12, 105.88)
@@ -5630,42 +6462,50 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q773.** What is meant by the sampling distribution of the sample mean?
 <!-- id: specialist-8-2-19 -->
+*Info: Calculation · about 3 marks · about 4.5 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q774.** A population has mean 72 and standard deviation 9. For a random sample of 81, find Pr(70 < X̄ < 73), correct to four decimal places.
 <!-- id: specialist-8-2-20 -->
+*Info: Application · about 2 marks · about 3 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q775.** Explain why the central limit theorem lets us use a normal model for X̄ even when the population is not normal.
 <!-- id: specialist-8-2-21 -->
+*Info: Conceptual · about 2 marks · about 3 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q776.** A population has σ = 1.8. Find the smallest sample size for which the standard deviation of X̄ is less than 0.2.
 <!-- id: specialist-8-2-22 -->
+*Info: Application · about 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q777.** Packets of chips have mean mass 175 g and standard deviation 6 g. A carton holds 36 randomly selected packets. Find the probability the mean packet mass in the carton is less than 174 g.
 <!-- id: specialist-8-2-23 -->
+*Info: Calculation · about 2 marks · about 3 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q778.** Distinguish between σ, σ/√n and s.
 <!-- id: specialist-8-2-24 -->
+*Info: Calculation · about 3 marks · about 4.5 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q779.** Sample means for samples of size 25 have standard deviation 3. Find the population standard deviation.
 <!-- id: specialist-8-2-25 -->
+*Info: Application · about 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q780.** A population has mean 50 and standard deviation 10. For random samples of 25, \(\Pr(\bar{X} > 53)\) is closest to:
 <!-- id: specialist-8-2-c1 -->
 *Challenge question*
+*Info: Application · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A; harder than most exam questions*
 
 - A. 0.3821
 - B. 0.1587
@@ -5674,8 +6514,11 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 #### Confidence intervals for the mean
 
+*Exam relevance: High (comes up in most exams) · Prerequisites: Sample means and the CLT; Approximate confidence intervals for p (Mathematical Methods, Units 3 & 4)*
+
 **Q781.** A sample of 100 has mean 52. Given σ = 10, an approximate 95% confidence interval for μ is
 <!-- id: specialist-8-3-1 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. (50.04, 53.96)
 - B. (32.40, 71.60)
@@ -5684,6 +6527,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q782.** Which z-value is used to construct a 99% confidence interval for μ?
 <!-- id: specialist-8-3-2 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 1.96
 - B. 2.576
@@ -5692,6 +6536,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q783.** Which is the correct interpretation of a 95% confidence interval for μ?
 <!-- id: specialist-8-3-3 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. There is a 95% probability that μ lies in this particular interval
 - B. 95% of the sample values lie inside the interval
@@ -5700,6 +6545,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q784.** If the sample size is multiplied by 4 (all else unchanged), the width of a confidence interval for μ is
 <!-- id: specialist-8-3-4 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. quartered
 - B. doubled
@@ -5708,6 +6554,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q785.** Using the same sample, changing the confidence level from 95% to 99% makes the interval
 <!-- id: specialist-8-3-5 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. wider
 - B. narrower
@@ -5716,6 +6563,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q786.** A 95% confidence interval for mean commute time is (24.2, 27.8) minutes. What was the sample mean?
 <!-- id: specialist-8-3-6 -->
+*Info: Application · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 1.8 minutes
 - B. 26 minutes
@@ -5724,6 +6572,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q787.** A 95% confidence interval (24.2, 27.8) was based on a sample of 36 with known σ. Find σ, correct to two decimal places.
 <!-- id: specialist-8-3-7 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 0.92
 - B. 11.02
@@ -5732,6 +6581,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q788.** With σ = 12, what is the minimum sample size so that a 95% confidence interval has margin of error at most 2?
 <!-- id: specialist-8-3-8 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 138
 - B. 12
@@ -5740,6 +6590,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q789.** A manufacturer claims μ = 50. A 95% confidence interval from a sample is (51.2, 54.8). What is the most appropriate conclusion?
 <!-- id: specialist-8-3-9 -->
+*Info: Application · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. There is evidence, at the 5% level, that μ ≠ 50
 - B. The interval supports the claim that μ = 50
@@ -5748,6 +6599,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q790.** Which z-value is used to construct a 90% confidence interval for μ?
 <!-- id: specialist-8-3-10 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 1.282
 - B. 1.645
@@ -5756,6 +6608,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q791.** A random sample of 225 bags of Victorian potatoes has x̄ = 8.4 kg and s = 1.5 kg. An approximate 95% confidence interval for the mean mass is
 <!-- id: specialist-8-3-11 -->
+*Info: Application · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. (5.460, 11.340)
 - B. (8.300, 8.500)
@@ -5764,6 +6617,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q792.** Which change narrows a confidence interval for μ, with all other factors unchanged?
 <!-- id: specialist-8-3-12 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. Increasing the confidence level
 - B. Using a population with a larger standard deviation
@@ -5772,6 +6626,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q793.** Twenty independent 95% confidence intervals for the same μ are calculated. How many are expected to contain μ?
 <!-- id: specialist-8-3-13 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 19
 - B. 20
@@ -5780,6 +6635,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q794.** With σ = 8 and n = 64, what is the total width of a 95% confidence interval for μ?
 <!-- id: specialist-8-3-14 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 1.96
 - B. 3.92
@@ -5788,6 +6644,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q795.** When σ is unknown and n is large, an approximate 95% confidence interval for μ is
 <!-- id: specialist-8-3-15 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. x̄ ± 1.96 s
 - B. x̄ ± 1.96 s/n
@@ -5796,6 +6653,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q796.** A 95% confidence interval for μ is (40.08, 43.92), based on n = 64 with known σ. Using the same data, the 99% confidence interval is closest to
 <!-- id: specialist-8-3-16 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. (39.08, 44.92)
 - B. (40.39, 43.61)
@@ -5804,6 +6662,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q797.** A 95% confidence interval for mean café waiting time is (3.1, 4.5) minutes. What is the margin of error?
 <!-- id: specialist-8-3-17 -->
+*Info: Application · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 0.7 minutes
 - B. 1.4 minutes
@@ -5812,6 +6671,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q798.** A 95% confidence interval for μ is calculated. Compared with it, the 90% interval from the same data is
 <!-- id: specialist-8-3-18 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. centred at the same value and wider
 - B. centred at the same value and narrower
@@ -5820,49 +6680,60 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q799.** A random sample of 50 Victorian Year 12 students had mean nightly sleep 7.2 hours and standard deviation 1.1 hours. Find an approximate 95% confidence interval for the mean sleep time, correct to two decimal places.
 <!-- id: specialist-8-3-19 -->
+*Info: Application · about 2 marks · about 3 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q800.** Interpret the statement 'a 95% confidence interval for the mean is (12.4, 15.6)'.
 <!-- id: specialist-8-3-20 -->
+*Info: Conceptual · about 2 marks · about 3 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q801.** With σ = 4, find the minimum sample size for a 99% confidence interval for μ to have margin of error at most 0.5.
 <!-- id: specialist-8-3-21 -->
+*Info: Calculation · about 2 marks · about 3 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q802.** Why is it incorrect to say 'there is a 95% probability that μ lies in the interval (12.4, 15.6)'?
 <!-- id: specialist-8-3-22 -->
+*Info: Calculation · about 3 marks · about 4.5 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q803.** A 95% confidence interval for μ is (12.4, 15.6), based on a sample of 100 with known σ. Find x̄ and σ.
 <!-- id: specialist-8-3-23 -->
+*Info: Calculation · about 2 marks · about 3 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q804.** A Geelong factory claims the mean mass of its packets is 500 g. A 99% confidence interval for the mean, from a sample, is (496.1, 499.3) g. Comment on the claim.
 <!-- id: specialist-8-3-24 -->
+*Info: Calculation · about 3 marks · about 4.5 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q805.** State three factors that affect the width of a confidence interval for μ, and say what happens to the width when n increases from 100 to 400.
 <!-- id: specialist-8-3-25 -->
+*Info: Calculation · about 3 marks · about 4.5 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q806.** The population standard deviation is 12. What is the smallest sample size for which an approximate 95% confidence interval for the mean has a margin of error of at most 2?
 <!-- id: specialist-8-3-c1 -->
 *Challenge question*
+*Info: Application · about 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2; harder than most exam questions*
 
 *Written answer*
 
 #### Hypothesis testing, p-values and errors
 
+*Exam relevance: High (comes up in most exams) · Prerequisites: Sample means and the CLT*
+
 **Q807.** A soft-drink company claims its bottles hold a mean of 250 mL. A consumer group suspects underfilling. Which hypotheses are appropriate?
 <!-- id: specialist-8-4-1 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. H₀: μ = 250, H₁: μ < 250
 - B. H₀: μ < 250, H₁: μ = 250
@@ -5871,6 +6742,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q808.** A Type I error occurs when
 <!-- id: specialist-8-4-2 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. H₀ is not rejected when H₀ is false
 - B. H₀ is rejected when H₀ is true
@@ -5879,6 +6751,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q809.** A Type II error occurs when
 <!-- id: specialist-8-4-3 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. H₀ is rejected when H₀ is true
 - B. H₀ is rejected when H₀ is false
@@ -5887,6 +6760,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q810.** The p-value of a test is
 <!-- id: specialist-8-4-4 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. the probability that H₀ is true
 - B. the probability that H₁ is true
@@ -5895,6 +6769,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q811.** A test gives a p-value of 0.03 and uses a 5% significance level. What is the correct decision?
 <!-- id: specialist-8-4-5 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. Reject H₀ in favour of H₁
 - B. Do not reject H₀
@@ -5903,6 +6778,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q812.** A test gives p = 0.03. At which significance level would H₀ be rejected?
 <!-- id: specialist-8-4-6 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. α = 0.01
 - B. α = 0.05
@@ -5911,6 +6787,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q813.** H₀: μ = 80 with σ = 12. A sample of 36 has x̄ = 83. Find the test statistic z.
 <!-- id: specialist-8-4-7 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 0.25
 - B. 9
@@ -5919,6 +6796,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q814.** For an upper-tailed test with test statistic z = 1.5, the p-value is closest to
 <!-- id: specialist-8-4-8 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 0.1336
 - B. 0.9332
@@ -5927,6 +6805,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q815.** For a two-tailed test with test statistic z = −2, the p-value is closest to
 <!-- id: specialist-8-4-9 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 0.0455
 - B. 0.0228
@@ -5935,6 +6814,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q816.** A test is carried out at the 5% level of significance. What is the probability of a Type I error?
 <!-- id: specialist-8-4-10 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 0.95
 - B. 0.05
@@ -5943,6 +6823,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q817.** The significance level of a test is changed from 5% to 1%, with the same sample size. What is the effect on the probabilities of errors?
 <!-- id: specialist-8-4-11 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. Both probabilities decrease
 - B. Pr(Type I error) increases and Pr(Type II error) decreases
@@ -5951,6 +6832,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q818.** For an upper-tailed z-test at the 5% level, H₀ is rejected when the test statistic exceeds
 <!-- id: specialist-8-4-12 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 1.96
 - B. 2.326
@@ -5959,6 +6841,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q819.** H₀: μ = 40 vs H₁: μ > 40 with σ = 6, n = 36 and α = 0.05. H₀ is rejected when x̄ exceeds approximately
 <!-- id: specialist-8-4-13 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 41.645
 - B. 41.96
@@ -5967,6 +6850,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q820.** A researcher wants to know whether the mean reaction time of Victorian drivers differs from 0.25 s. The appropriate alternative hypothesis is
 <!-- id: specialist-8-4-14 -->
+*Info: Application · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. H₁: μ > 0.25
 - B. H₁: μ ≠ 0.25
@@ -5975,6 +6859,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q821.** A test does not reject H₀ at the 5% level. Which conclusion is correct?
 <!-- id: specialist-8-4-15 -->
+*Info: Conceptual · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. H₀ has been proven true
 - B. H₁ has been proven false
@@ -5983,6 +6868,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q822.** A company claims bottles hold 250 mL; the test is H₀: μ = 250 vs H₁: μ < 250. In context, a Type II error is
 <!-- id: specialist-8-4-16 -->
+*Info: Application · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. concluding bottles are underfilled when the mean is actually 250 mL
 - B. concluding the mean is 250 mL when it actually is 250 mL
@@ -5991,6 +6877,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q823.** H₀: μ = 500 vs H₁: μ < 500, with σ = 10. A sample of 25 has x̄ = 496. The p-value is closest to
 <!-- id: specialist-8-4-17 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 0.0228
 - B. 0.0455
@@ -5999,6 +6886,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q824.** For a fixed significance level, what is the effect of increasing the sample size on a hypothesis test?
 <!-- id: specialist-8-4-18 -->
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. Pr(Type I error) increases
 - B. Pr(Type II error) decreases
@@ -6007,42 +6895,50 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q825.** A Melbourne café claims its coffee is served at a mean of 65 °C with σ = 3 °C. A sample of 36 cups has mean 64 °C. Test at the 5% level whether the mean is less than 65 °C.
 <!-- id: specialist-8-4-19 -->
+*Info: Calculation · about 3 marks · about 4.5 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q826.** H₀: μ = 100 vs H₁: μ ≠ 100, with σ = 15 and n = 100. The sample mean is 103. Find the p-value and state the conclusion at the 5% and 1% levels.
 <!-- id: specialist-8-4-20 -->
+*Info: Calculation · about 3 marks · about 4.5 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q827.** Define the p-value of a hypothesis test.
 <!-- id: specialist-8-4-21 -->
+*Info: Recall · about 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q828.** A battery manufacturer claims a mean life of 30 hours. A consumer group tests H₀: μ = 30 vs H₁: μ < 30. Describe a Type I error and a Type II error in this context.
 <!-- id: specialist-8-4-22 -->
+*Info: Application · about 2 marks · about 3 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q829.** H₀: μ = 60 vs H₁: μ < 60 with σ = 8, n = 64 and α = 0.05. Find the values of x̄ for which H₀ is rejected.
 <!-- id: specialist-8-4-23 -->
+*Info: Calculation · about 2 marks · about 3 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q830.** Explain the connection between a 95% confidence interval for μ and a two-tailed hypothesis test at the 5% level.
 <!-- id: specialist-8-4-24 -->
+*Info: Conceptual · about 2 marks · about 3 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q831.** H₀: μ = 50 vs H₁: μ > 50 with σ = 10, n = 25 and α = 0.05. If the true mean is actually 55, find the probability of a Type II error, correct to two decimal places.
 <!-- id: specialist-8-4-25 -->
+*Info: Calculation · about 3 marks · about 4.5 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
 **Q832.** A type II error occurs when:
 <!-- id: specialist-8-4-c1 -->
 *Challenge question*
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A; harder than most exam questions*
 
 - A. the null hypothesis is rejected even though it is true
 - B. the p-value is less than the significance level
@@ -6056,12 +6952,14 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 **Q833.** Find all complex numbers \(z\) such that \(\bar{z} = z^2\).
 <!-- id: specialist-challenge-1 -->
 *Challenge question*
+*Info: Calculation · about 3 marks · about 4.5 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2; harder than most exam questions · Topic: Cartesian and polar forms*
 
 *Written answer*
 
 **Q834.** \(\displaystyle\int_0^{\pi/2} \sin^3 x\,dx\) equals:
 <!-- id: specialist-challenge-2 -->
 *Challenge question*
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A; harder than most exam questions · Topic: Integration by substitution*
 
 - A. \(\frac{1}{3}\)
 - B. \(\frac{3}{4}\)
@@ -6071,6 +6969,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 **Q835.** A particle has velocity \(v = 3t^2 - 12t + 9\) m/s. The distance it travels from \(t = 0\) to \(t = 3\) is:
 <!-- id: specialist-challenge-3 -->
 *Challenge question*
+*Info: Application · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A; harder than most exam questions · Topic: Variable acceleration and v dv/dx*
 
 - A. 8 m
 - B. 0 m
@@ -6080,12 +6979,14 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 **Q836.** Determine whether the lines \(\mathbf{r} = (1, 2, 3) + s(1, -1, 2)\) and \(\mathbf{r} = (2, 1, 0) + t(2, 1, 1)\) intersect, are parallel or are skew.
 <!-- id: specialist-challenge-4 -->
 *Challenge question*
+*Info: Calculation · about 2 marks · about 3 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2; harder than most exam questions · Topic: Vector equations of lines and planes*
 
 *Written answer*
 
 **Q837.** How many solutions of \(z^6 = 1\) lie strictly inside the first quadrant?
 <!-- id: specialist-challenge-5 -->
 *Challenge question*
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A; harder than most exam questions · Topic: De Moivre's theorem and roots*
 
 - A. 2
 - B. 0
@@ -6095,12 +6996,14 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 **Q838.** Solve \(\dfrac{dy}{dx} = y^2\) with \(y(0) = 1\), and state the largest interval containing \(x = 0\) on which the solution is defined.
 <!-- id: specialist-challenge-6 -->
 *Challenge question*
+*Info: Calculation · about 3 marks · about 4.5 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2; harder than most exam questions · Topic: Separable first-order differential equations*
 
 *Written answer*
 
 **Q839.** A test of \(H_0: \mu = 50\) against \(H_1: \mu \ne 50\) gives \(z = 1.8\). The p-value is closest to:
 <!-- id: specialist-challenge-7 -->
 *Challenge question*
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A; harder than most exam questions · Topic: Hypothesis testing, p-values and errors*
 
 - A. 0.036
 - B. 0.964
@@ -6110,6 +7013,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 **Q840.** \(\displaystyle\int_0^{\pi/4} \tan^2 x\,dx\) equals:
 <!-- id: specialist-challenge-8 -->
 *Challenge question*
+*Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A; harder than most exam questions · Topic: Integration by substitution*
 
 - A. \(1 + \frac{\pi}{4}\)
 - B. \(\frac{\pi}{4}\)
@@ -6119,12 +7023,14 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 **Q841.** Prove that if \(n^2 + 2n\) is odd then \(n\) is odd, for integers \(n\).
 <!-- id: specialist-challenge-9 -->
 *Challenge question*
+*Info: Proof · about 3 marks · about 4.5 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Exam 1 or Exam 2; harder than most exam questions · Topic: Contradiction and contrapositive proofs*
 
 *Written answer*
 
 **Q842.** \(X_1\) and \(X_2\) are independent, each \(\text{N}(5, 4)\) (variance 4). Which statement is true?
 <!-- id: specialist-challenge-10 -->
 *Challenge question*
+*Info: Conceptual · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A; harder than most exam questions · Topic: Linear combinations of random variables*
 
 - A. \(\text{Var}(X_1 + X_2) = \text{Var}(2X_1) = 16\)
 - B. \(\text{Var}(X_1 + X_2) = 8\) but \(\text{Var}(2X_1) = 16\)
@@ -6135,6 +7041,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 **Q843.** A rational function, an integral and a solid
 <!-- id: specialist-x1 -->
+*Info: Calculation, Proof, Recall · 11 marks · about 17 min · Exam relevance: High (comes up in most exams); technology-free extended response, as in Exam 1 · Topics: Partial fractions integration, Rational functions and asymptotes, Volumes, arc length and surface area, Direct proof and divisibility*
 *Multi-part question · 11 marks · Technology-free · Original question in the style of VCAA Exam 1*
 
 Let \(f(x) = \dfrac{x + 5}{(x - 1)(x + 2)}\).
@@ -6151,6 +7058,7 @@ Let \(f(x) = \dfrac{x + 5}{(x - 1)(x + 2)}\).
 
 **Q844.** A parcel dropped from a drone
 <!-- id: specialist-x2 -->
+*Info: Application, Proof, Calculation, Recall · 13 marks · about 20 min · Exam relevance: High (comes up in most exams); extended response, as in Exam 2 Section B · Topics: Separable first-order differential equations, Variable acceleration and v dv/dx, Linear combinations of random variables, Hypothesis testing, p-values and errors*
 *Multi-part question · 13 marks · Technology-active (CAS) · Original question in the style of VCAA Exam 2, Section B*
 
 A parcel is dropped from a hovering drone. Taking downwards as positive, its velocity \(v\) m/s after \(t\) seconds satisfies \(\dfrac{dv}{dt} = 9.8 - 0.2v\), with \(v = 0\) when \(t = 0\).
@@ -6175,6 +7083,7 @@ The company says its deliveries take a mean of 25 minutes, with a standard devia
 
 **Q845.** Complex numbers, induction and vectors
 <!-- id: specialist-x3 -->
+*Info: Calculation, Proof · 10 marks · about 15 min · Exam relevance: High (comes up in most exams); technology-free extended response, as in Exam 1 · Topics: Cartesian and polar forms, De Moivre's theorem and roots, Mathematical induction, Vector algebra and scalar product*
 *Multi-part question · 10 marks · Technology-free · Original question in the style of VCAA Exam 1*
 
 Let \(z = 1 + \sqrt{3}\,i\).
@@ -6193,6 +7102,7 @@ Let \(\mathbf{a} = 2\mathbf{i} - \mathbf{j} + 2\mathbf{k}\) and \(\mathbf{b} = \
 
 **Q846.** A crate, a particle and a sample of crates
 <!-- id: specialist-x4 -->
+*Info: Calculation, Conceptual · 10 marks · about 16 min · Exam relevance: High (comes up in most exams); extended response, as in Exam 2 Section B · Topics: Friction, inclined planes and equilibrium, Newton's laws and connected particles, Vector calculus and particle motion, Confidence intervals for the mean*
 *Multi-part question · 10 marks · Technology-active (CAS) · Original question in the style of VCAA Exam 2, Section B*
 
 A crate of mass 20 kg is pulled along a rough horizontal floor by a rope inclined at 30° to the horizontal. The tension in the rope is 100 N and the coefficient of friction is 0.3. Take \(g = 9.8\) m/s².
@@ -6216,6 +7126,7 @@ The supplier says its crates have a mean mass of 20 kg. In a random sample of 40
 **Q847.** Challenge: a ball kicked across a field
 <!-- id: specialist-cx1 -->
 *Challenge question*
+*Info: Calculation, Application · 9 marks · about 14 min · Exam relevance: High (comes up in most exams); extended response, as in Exam 2 Section B; harder than most exam questions · Topics: Vector calculus and particle motion, Variable acceleration and v dv/dx, Vector equations of lines and planes, Vector algebra and scalar product*
 *Multi-part question · 9 marks · Technology-active (CAS) · Original challenge question in the style of VCAA Exam 2, Section B*
 
 A ball is kicked from ground level. Its position vector after \(t\) seconds is \(\mathbf{r}(t) = 20t\,\mathbf{i} + (20t - 4.9t^2)\,\mathbf{j}\), \(t \ge 0\), in metres, with \(\mathbf{j}\) vertically up, until it lands.
@@ -6233,6 +7144,7 @@ A ball is kicked from ground level. Its position vector after \(t\) seconds is \
 **Q848.** Challenge: a cooling drink and a hypothesis test
 <!-- id: specialist-cx2 -->
 *Challenge question*
+*Info: Application, Proof, Calculation · 10 marks · about 15 min · Exam relevance: High (comes up in most exams); extended response, as in Exam 2 Section B; harder than most exam questions · Topics: Separable first-order differential equations, Euler's method and slope fields, Hypothesis testing, p-values and errors*
 *Multi-part question · 10 marks · Technology-active (CAS) · Original challenge question in the style of VCAA Exam 2, Section B*
 
 A drink cools according to \(\dfrac{dT}{dt} = -k(T - 20)\), where \(T\) °C is its temperature after \(t\) minutes and \(k > 0\). Initially \(T = 90\), and after 10 minutes \(T = 60\).

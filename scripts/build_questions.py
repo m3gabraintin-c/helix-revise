@@ -1,5 +1,5 @@
 # Regenerate questions/ from the DATA block in index.html. Run from anywhere: python3 scripts/build_questions.py
-import json, os, re, shutil
+import json, math, os, re, shutil
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 OUT = os.path.join(ROOT, "questions")
@@ -53,12 +53,55 @@ def ma_body(r):
 CH = set(d.get("C", []))  # ids of challenge questions, marked in questions.md
 CHL = "*Challenge question*\n"
 
-def qblock(n, r):
+# ---- question info: DATA.M (per subtopic), DATA.T (per question), DATA.E (per subject) ----
+M, T, E = d.get("M", {}), d.get("T", {}), d.get("E", {})
+SUBJ = {slug: s[0] for s in d["S"] for _, _, subs in s[4] for slug, _, _ in subs}
+SLUG = {(r["id"] if isinstance(r, dict) else r[0]): slug for slug, rows in d["Q"].items() for r in rows}
+SUBJ_LABEL = {s[0]: "%s, %s" % (s[1], s[2].split(" · ", 1)[-1]) for s in d["S"]}
+QTYPES = {"recall": "Recall", "concept": "Conceptual", "calc": "Calculation", "apply": "Application", "data": "Data analysis",
+          "eval": "Evaluation", "proof": "Proof", "design": "Investigation design", "text": "Text analysis", "write": "Extended writing",
+          "read": "Reading comprehension", "lang": "Language use", "speak": "Speaking"}
+REL = ["Low", "Medium", "High"]
+lc = lambda s: s[:1].lower() + s[1:]
+num = lambda x: ("%g" % x)
+def kind_of(r): return "multi" if isinstance(r, dict) else "mcq" if r[1] == 0 else "short"
+def marks_text(r, t):
+    k = kind_of(r)
+    if k == "short": return "marked as part of the conversation" if t[1] == 0 else "about " + mk(t[1])
+    return mk(t[1])
+def topic_slug(qid):
+    t, loc = T[qid], SLUG.get(qid)
+    return t[3] if len(t) > 3 and t[3] in SUBJ else loc
+def relevance(r, sid):
+    qid = r["id"] if isinstance(r, dict) else r[0]
+    loc = SLUG.get(qid)
+    if loc:  # a subtopic question (a Challenge-set question uses the subtopic it tests)
+        m = M.get(topic_slug(qid)) or M[loc]; w, note = m[0], (m[3] if len(m) > 3 else "")
+    else:  # an exam-style question: the marks-weighted mean of its parts' subtopics
+        ps = mparts(r); w = int(math.floor(sum(M[p["topic"]][0] * p["marks"] for p in ps) / sum(p["marks"] for p in ps) + 0.5)); note = ""
+    e = E[sid]; k = kind_of(r)
+    fmt = note or (e["free"] if k == "multi" and r.get("tech") == "free" and e.get("free") else e[k])
+    return "; ".join(["%s (%s)" % (REL[w - 1], lc(e["w"][w - 1])), lc(fmt)] + (["harder than most exam questions"] if qid in CH else []))
+def info_line(r, sid):
+    qid = r["id"] if isinstance(r, dict) else r[0]
+    t = T[qid]; types = t[0] if isinstance(t[0], list) else [t[0]]
+    bits = [", ".join(QTYPES[x] for x in types), marks_text(r, t), "about %s min" % num(t[2]), "Exam relevance: " + relevance(r, sid)]
+    if len(t) > 3: bits.append("Topic: " + (SUBNAME[t[3]] if t[3] in SUBJ else t[3]))
+    if not SLUG.get(qid): bits.append("Topics: " + ", ".join(dict.fromkeys(SUBNAME[p["topic"]] for p in mparts(r))))
+    return "*Info: %s*\n" % " · ".join(bits)
+def sub_line(slug):
+    m = M.get(slug)
+    if not m: return ""
+    pre = ["%s%s" % (SUBNAME[x], "" if SUBJ[x] == SUBJ[slug] else " (%s)" % SUBJ_LABEL[SUBJ[x]]) for x in m[1]] + ([m[2]] if m[2] else [])
+    return "*Exam relevance: %s (%s) · Prerequisites: %s*\n\n" % (REL[m[0] - 1], lc(E[SUBJ[slug]]["w"][m[0] - 1]), "; ".join(pre) if pre else "none")
+
+def qblock(n, r, sid):
     if isinstance(r, dict):
-        return "**Q%d.** %s\n<!-- id: %s -->\n" % (n, r["title"], r["id"]) + (CHL if r["id"] in CH else "") + mq_body(r)
+        return "**Q%d.** %s\n<!-- id: %s -->\n" % (n, r["title"], r["id"]) + (CHL if r["id"] in CH else "") + info_line(r, sid) + mq_body(r)
     s = "**Q%d.** %s\n<!-- id: %s -->\n" % (n, r[2], r[0])
     if r[0] in CH: s += CHL
     if r[-1]: s += "*Higher tier only*\n"
+    s += info_line(r, sid)
     if r[1] == 0:
         return s + "\n" + "\n".join("- %s. %s" % (LET[i], o) for i, o in enumerate(r[3])) + "\n\n"
     return s + "\n*Written answer*\n\n"
@@ -85,14 +128,15 @@ def render(k, kind):
             t += "### %s\n\n" % tname
             for slug, stname, triple in subtopics:
                 t += "#### %s\n\n" % (stname + (" *(Triple only)*" if triple else ""))
+                if kind == "q": t += sub_line(slug)
                 for r in d["Q"].get(slug, []):
                     order.append(r)
-                    t += qblock(len(order), r) if kind == "q" else ablock(len(order), r)
+                    t += qblock(len(order), r, s[0]) if kind == "q" else ablock(len(order), r)
         if X.get(s[0]):
             t += "### Exam-style questions (mixed topics)\n\n"
             for r in X[s[0]]:
                 order.append(r)
-                t += qblock(len(order), r) if kind == "q" else ablock(len(order), r)
+                t += qblock(len(order), r, s[0]) if kind == "q" else ablock(len(order), r)
     return t.rstrip("\n") + "\n", order
 
 if os.path.exists(OUT): shutil.rmtree(OUT)
@@ -135,12 +179,13 @@ for k in counts:
             assert id_ == (r["id"] if isinstance(r, dict) else r[0]), (k, fn, i)
             seen[kind].append(id_)
             r = allrows[id_]
+            sid = SUBJ[SLUG[id_]] if id_ in SLUG else next(k for k, v in X.items() if r in v)
             if isinstance(r, dict):
                 assert pre == r["title"]
-                exp = ((CHL if id_ in CH else "") + mq_body(r) if kind == "q" else ma_body(r)).rstrip("\n")
+                exp = ((CHL if id_ in CH else "") + info_line(r, sid) + mq_body(r) if kind == "q" else ma_body(r)).rstrip("\n")
             elif kind == "q":
                 assert pre == r[2]
-                exp = (CHL if id_ in CH else "") + ("*Higher tier only*\n" if r[-1] else "") + "\n"
+                exp = (CHL if id_ in CH else "") + ("*Higher tier only*\n" if r[-1] else "") + info_line(r, sid) + "\n"
                 exp += "\n".join("- %s. %s" % (LET[j], o) for j, o in enumerate(r[3])) if r[1] == 0 else "*Written answer*"
             else:
                 assert pre == ("%s. %s" % (LET[r[4]], r[3][r[4]]) if r[1] == 0 else r[3])
