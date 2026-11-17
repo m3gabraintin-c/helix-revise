@@ -4,6 +4,8 @@ These files are generated from index.html's DATA; question and answer text is ve
 
 - [Biology](Biology/questions.md) — 1182 questions (4 multi-part) ([answers](Biology/answers.md))
 - [Chemistry](Chemistry/questions.md) — 1913 questions (4 multi-part) ([answers](Chemistry/answers.md))
+- [Chinese-Second-Language](Chinese-Second-Language/questions.md) — 30 questions (10 multi-part) ([answers](Chinese-Second-Language/answers.md))
+- [English-and-EAL](English-and-EAL/questions.md) — 118 questions (12 multi-part) ([answers](English-and-EAL/answers.md))
 - [General-Mathematics](General-Mathematics/questions.md) — 802 questions (2 multi-part) ([answers](General-Mathematics/answers.md))
 - [Mathematical-Methods](Mathematical-Methods/questions.md) — 1790 questions (8 multi-part) ([answers](Mathematical-Methods/answers.md))
 - [Physics](Physics/questions.md) — 1271 questions (4 multi-part) ([answers](Physics/answers.md))

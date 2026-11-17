@@ -49,7 +49,8 @@ def check_multi(r, where, subject):
         if not (isinstance(r.get(f), str) and r[f].strip()): errs.append(f"{w}: missing {f}")
     if r.get("type") != "multi": errs.append(f"{w}: type must be 'multi'")
     if "tech" in r and r["tech"] not in TECH: errs.append(f"{w}: tech must be one of {list(TECH)}")
-    if set(r) - {"id", "type", "title", "source", "tech", "pieces"}: errs.append(f"{w}: unknown fields {set(r) - {'id', 'type', 'title', 'source', 'tech', 'pieces'}}")
+    if set(r) - {"id", "type", "title", "source", "tech", "steps_label", "pieces"}: errs.append(f"{w}: unknown fields {set(r) - {'id', 'type', 'title', 'source', 'tech', 'steps_label', 'pieces'}}")
+    if "steps_label" in r and not (isinstance(r["steps_label"], str) and r["steps_label"].strip()): errs.append(f"{w}: steps_label must be a non-empty string")
     pieces = r.get("pieces")
     if not (isinstance(pieces, list) and pieces): errs.append(f"{w}: no pieces"); return
     labels = []
@@ -71,7 +72,8 @@ def check_multi(r, where, subject):
                     if not (sv.startswith("<svg") and sv.endswith("</svg>") and 'aria-hidden="true"' in sv): errs.append(f"{pw}: diagram svg must be one <svg aria-hidden=\"true\"> element")
                     if re.search(r"<script|<foreignObject|\son\w+\s*=|javascript:|href", sv, re.I): errs.append(f"{pw}: diagram svg has scripts, event handlers or links")
         elif p.get("kind") == "part":
-            if set(p) != {"kind", "label", "question", "marks", "answer", "steps", "mistake", "topic"}: errs.append(f"{pw}: fields must be kind, label, question, marks, answer, steps, mistake, topic")
+            if set(p) - {"sample"} != {"kind", "label", "question", "marks", "answer", "steps", "mistake", "topic"}: errs.append(f"{pw}: fields must be kind, label, question, marks, answer, steps, mistake, topic (and optionally sample)")
+            if "sample" in p and not (isinstance(p["sample"], list) and p["sample"] and all(isinstance(x, str) and x.strip() for x in p["sample"])): errs.append(f"{pw}: sample must be a non-empty list of paragraphs")
             for f in ("question", "answer", "mistake"):
                 if not (isinstance(p.get(f), str) and p[f].strip()): errs.append(f"{pw}: missing {f}")
             if not (isinstance(p.get("label"), str) and LABEL.match(p["label"])): errs.append(f"{pw}: label must look like a, b or e.i")
@@ -150,6 +152,8 @@ def parse_multi_a(lines):
     for l in lines[1:]:
         pm, sm = PART.match(l), STEP.match(l)
         if pm: parts.append({"label": pm.group(1), "answer": pm.group(2), "marks": int(pm.group(3)), "steps": [], "mistake": None, "topic": None})
+        elif l in ("Sample response:", ">"): continue
+        elif l.startswith("> "): parts[-1].setdefault("sample", []).append(l[2:])
         elif l.startswith("Common mistake: "): parts[-1]["mistake"] = l[len("Common mistake: "):]
         elif l.startswith("Topic: "): parts[-1]["topic"] = re.search(r"\(([^()]+)\)$", l).group(1)
         elif sm: parts[-1]["steps"].append({"working": sm.group(2), "marks": int(sm.group(3) or 0)})
@@ -182,7 +186,7 @@ for fo in folders:
         if isinstance(r, dict):
             if head != r["title"]: errs.append(f"{fo} A{n}: title differs")
             meta, parts = parse_multi_a(body)
-            want = [{"label": p["label"], "answer": p["answer"], "marks": p["marks"], "steps": p["steps"], "mistake": p["mistake"], "topic": p["topic"]} for p in r["pieces"] if p["kind"] == "part"]
+            want = [{"label": p["label"], "answer": p["answer"], "marks": p["marks"], "steps": p["steps"], "mistake": p["mistake"], "topic": p["topic"], **({"sample": p["sample"]} if p.get("sample") else {})} for p in r["pieces"] if p["kind"] == "part"]
             if meta != "*Multi-part question · %s*" % mk(sum(p["marks"] for p in want)): errs.append(f"{fo} A{n}: header differs")
             if parts != want: errs.append(f"{fo} A{n}: multi-part answers differ")
             continue

@@ -44,6 +44,8 @@ def ma_body(r):
     s = "*Multi-part question · %s*\n\n" % mk(mtotal(r))
     for p in mparts(r):
         s += "**%s.** %s *(%s)*\n\n" % (p["label"], p["answer"], mk(p["marks"]))
+        if p.get("sample"):  # essay or writing-task sample response, as one blockquote of paragraphs
+            s += "Sample response:\n\n" + "\n>\n".join("> " + x for x in p["sample"]) + "\n\n"
         s += "".join("%d. %s%s\n" % (k + 1, st["working"], " *(%s)*" % mk(st["marks"]) if st["marks"] else "") for k, st in enumerate(p["steps"])) + "\n"
         s += "Common mistake: %s\n\nTopic: %s (%s)\n\n" % (p["mistake"], SUBNAME[p["topic"]], p["topic"])
     return s
