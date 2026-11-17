@@ -4768,342 +4768,447 @@ Common mistake: Naming the anchoring heuristic. Anchoring relies too much on the
 
 Topic: Heuristics and cognitive biases (vce-psych12-heuristics-and-cognitive-biases)
 
+**A922.** Attachment, thinking and identity
+<!-- id: vce-psych12-x3 -->
+*Multi-part question · 10 marks*
+
+**a.** The infants spent most of their time clinging to the cloth mother, going to the wire mother only to feed, and ran to the cloth mother when frightened. Contact comfort, not food, is central to attachment. *(2 marks)*
+
+1. Finding: the infants preferred the cloth mother, especially when frightened, and visited the wire mother only to feed. *(1 mark)*
+2. Conclusion: comfort and security from contact matter more for attachment than feeding. *(1 mark)*
+
+Common mistake: Saying the monkeys preferred whichever mother fed them. Feeding was not the basis of attachment.
+
+Topic: Emotional development and attachment (vce-psych12-emotional-development-and-attachment)
+
+**b.** The infant monkeys suffered lasting psychological harm from being separated from their real mothers. *(1 mark)*
+
+1. The animals experienced significant psychological distress and long-term harm, raising concerns about animal welfare. *(1 mark)*
+
+Common mistake: Mentioning informed consent. Animals cannot consent; the concern is harm to the animals.
+
+Topic: Emotional development and attachment (vce-psych12-emotional-development-and-attachment)
+
+**c.** The preoperational stage; the child lacks conservation. *(2 marks)*
+
+1. Stage: preoperational (about 2 to 7 years). *(1 mark)*
+2. The child lacks conservation: understanding that quantity stays the same when its appearance changes. *(1 mark)*
+
+Common mistake: Naming object permanence, which develops in the sensorimotor stage.
+
+Topic: Cognitive development and Piaget (vce-psych12-cognitive-development-and-piaget)
+
+**d.** Identity versus role confusion: adolescents explore roles, values and beliefs to form a stable sense of self; failure can leave them unsure of who they are. *(2 marks)*
+
+1. Stage: identity versus role confusion (about 12 to 18 years). *(1 mark)*
+2. Adolescents explore roles and values; success gives a clear identity, while failure leads to confusion about who they are and where they belong. *(1 mark)*
+
+Common mistake: Naming intimacy versus isolation, which is Erikson's stage for young adulthood.
+
+Topic: Psychosocial development and Erikson (vce-psych12-psychosocial-development-and-erikson)
+
+**e.** Biological: an inherited temperament. Psychological: learned beliefs or low self-esteem. Social: few chances to mix with peers or family modelling. These factors interact. *(2 marks)*
+
+1. Names at least two levels, for example a biological factor (inherited temperament) and a psychological one (low confidence). *(1 mark)*
+2. Includes a social factor (such as family or peer experiences) and explains that the factors interact. *(1 mark)*
+
+Common mistake: Choosing only nature or only nurture. The approach combines biological, psychological and social factors.
+
+Topic: Nature, nurture and the biopsychosocial approach (vce-psych12-nature-nurture-and-the-biopsychosocial-approach)
+
+**f.** For example: statistical rarity, social norms, cultural perspective, personal distress or maladaptive behaviour. *(1 mark)*
+
+1. One approach, such as statistical rarity or social norms, with a brief description. *(1 mark)*
+
+Common mistake: Saying atypical simply means abnormal or wrong. Psychology uses specific criteria.
+
+Topic: Typical and atypical behaviour (vce-psych12-typical-and-atypical-behaviour)
+
+**A923.** Seeing and tasting
+<!-- id: vce-psych12-x4 -->
+*Multi-part question · 10 marks*
+
+**a.** Reception: light is focused onto the retina. Transduction: photoreceptors (rods and cones) convert light into neural impulses. Transmission: impulses travel along the optic nerve to the visual cortex in the occipital lobe. *(3 marks)*
+
+1. Reception: the eye detects light, which is focused onto the retina. *(1 mark)*
+2. Transduction: rods and cones convert light energy into electrochemical neural impulses. *(1 mark)*
+3. Transmission: the impulses travel along the optic nerve to the primary visual cortex in the occipital lobe. *(1 mark)*
+
+Common mistake: Sending visual information to the temporal lobe. The primary visual cortex is in the occipital lobe.
+
+Topic: Sensation and the visual system (vce-psych12-sensation-and-the-visual-system)
+
+**b.** We interpret the fins as depth cues: the line with outward fins looks like a far corner, so the brain assumes it is further away and perceives it as longer (misapplied size constancy). *(2 marks)*
+
+1. The fins act like perspective cues, making one line look like a near corner and the other like a far corner. *(1 mark)*
+2. Applying size constancy, the brain judges the 'further' line to be longer, so the lines look unequal. *(1 mark)*
+
+Common mistake: Saying the eyes are faulty. Illusions come from how the brain interprets sensory information.
+
+Topic: Distortions of perception and illusions (vce-psych12-distortions-of-perception-and-illusions)
+
+**c.** Each eye receives a slightly different image; the brain compares them, and the greater the difference, the closer the object is judged to be. *(2 marks)*
+
+1. Because the eyes are a few centimetres apart, each retina receives a slightly different image. *(1 mark)*
+2. The brain combines the images; a greater difference means the object is closer. *(1 mark)*
+
+Common mistake: Calling it a monocular cue. It needs both eyes, so it is binocular.
+
+Topic: Depth cues and Gestalt principles (vce-psych12-depth-cues-and-gestalt-principles)
+
+**d.** The tendency to perceive incomplete figures as complete by mentally filling in the gaps. *(1 mark)*
+
+1. We perceive incomplete shapes as complete, filling in missing parts. *(1 mark)*
+
+Common mistake: Confusing closure with proximity (grouping objects that are close together).
+
+Topic: Depth cues and Gestalt principles (vce-psych12-depth-cues-and-gestalt-principles)
+
+**e.** Flavour combines taste with smell. When olfaction is blocked, the brain receives much less information, so flavour seems weak even though taste receptors still work. *(2 marks)*
+
+1. Flavour depends on combining gustatory (taste) and olfactory (smell) information. *(1 mark)*
+2. A blocked nose reduces olfactory input, so the perceived flavour is weaker. *(1 mark)*
+
+Common mistake: Saying the taste buds stop working. Taste receptors still work; the loss of smell reduces flavour.
+
+Topic: Gustatory perception (vce-psych12-gustatory-perception)
+
 ## VCE Units 3 & 4
 
 ### Unit 3 AOS 1: The nervous system and stress
 
 #### Divisions of the nervous system
 
-**A922.** A. Central nervous system and peripheral nervous system
+**A924.** A. Central nervous system and peripheral nervous system
 <!-- id: psych34a1-div-1 -->
 
 Explanation: The nervous system is divided into the central nervous system (brain and spinal cord) and the peripheral nervous system (all neural tissue outside the CNS). Somatic/autonomic are the two divisions of the PNS; sympathetic/parasympathetic are the two divisions of the autonomic nervous system.
 
-**A923.** B. carries sensory information to the CNS and motor commands from the CNS to skeletal muscles
+**A925.** B. carries sensory information to the CNS and motor commands from the CNS to skeletal muscles
 <!-- id: psych34a1-div-2 -->
 
 Explanation: The somatic nervous system transmits sensory information to the CNS via sensory (afferent) neurons and motor commands to skeletal muscles via motor (efferent) neurons. Options A, C and D describe the autonomic nervous system and its sympathetic and parasympathetic branches.
 
-**A924.** B. Sympathetic nervous system
+**A926.** B. Sympathetic nervous system
 <!-- id: psych34a1-div-3 -->
 
 Explanation: Increased heart rate, pupil dilation and inhibited digestion are sympathetic responses that mobilise the body's resources. The parasympathetic nervous system does the opposite, conserving energy and restoring homeostasis.
 
-**A925.** C. Slowing the heart rate and stimulating digestion
+**A927.** C. Slowing the heart rate and stimulating digestion
 <!-- id: psych34a1-div-4 -->
 
 Explanation: The parasympathetic nervous system conserves energy, slowing heart rate and promoting digestion. A and B are sympathetic responses and D is a function of the somatic nervous system.
 
-**A926.** B. can move the arm but cannot feel touch on it
+**A928.** B. can move the arm but cannot feel touch on it
 <!-- id: psych34a1-div-5 -->
 
 Explanation: Afferent (sensory) neurons carry information from the body to the CNS, so damage prevents sensation. Efferent (motor) neurons carry commands to muscles, which remain intact so movement is still possible.
 
-**A927.** CNS consists of the brain and spinal cord and processes information and coordinates responses; PNS consists of all the nerves outside the brain and spinal cord (e.g. spinal nerves, cranial nerves) and carries messages between the CNS and the rest of the body; any correct component of each (e.g. brain / somatic nervous system).
+**A929.** CNS consists of the brain and spinal cord and processes information and coordinates responses; PNS consists of all the nerves outside the brain and spinal cord (e.g. spinal nerves, cranial nerves) and carries messages between the CNS and the rest of the body; any correct component of each (e.g. brain / somatic nervous system).
 <!-- id: psych34a1-div-6 -->
 
 Explanation:
 
-**A928.** The autonomic nervous system controls involuntary functions of internal organs and glands; the sympathetic nervous system arouses the body in response to a threat, e.g. increases heart rate; the parasympathetic nervous system calms the body and returns it to homeostasis, e.g. decreases heart rate back to normal.
+**A930.** The autonomic nervous system controls involuntary functions of internal organs and glands; the sympathetic nervous system arouses the body in response to a threat, e.g. increases heart rate; the parasympathetic nervous system calms the body and returns it to homeostasis, e.g. decreases heart rate back to normal.
 <!-- id: psych34a1-div-7 -->
 
 Explanation:
 
-**A929.** (a) Somatic nervous system; motor neurons carried a command to skeletal muscles in his arm to move it voluntarily/consciously (or by reflex via the spinal cord); sensory neurons carried the pain message to the CNS; (b) Autonomic nervous system, specifically the sympathetic nervous system; the involuntary increase in heart rate is an arousal response to a perceived threat.
+**A931.** (a) Somatic nervous system; motor neurons carried a command to skeletal muscles in his arm to move it voluntarily/consciously (or by reflex via the spinal cord); sensory neurons carried the pain message to the CNS; (b) Autonomic nervous system, specifically the sympathetic nervous system; the involuntary increase in heart rate is an arousal response to a perceived threat.
 <!-- id: psych34a1-div-8 -->
 
 Explanation:
 
 #### Conscious and unconscious responses
 
-**A930.** C. Blinking when dust blows into the eye
+**A932.** C. Blinking when dust blows into the eye
 <!-- id: psych34a1-con-1 -->
 
 Explanation: Unconscious responses occur automatically without awareness or deliberate control, such as blinking and other reflexes. The other options involve awareness and voluntary control.
 
-**A931.** B. the response is processed in the spinal cord without needing to reach the brain first
+**A933.** B. the response is processed in the spinal cord without needing to reach the brain first
 <!-- id: psych34a1-con-2 -->
 
 Explanation: In a spinal reflex the sensory neuron synapses (often via an interneuron) in the spinal cord, which sends a motor command directly back to the muscle, making the response fast. The brain is informed afterwards but is not required for the response.
 
-**A932.** A. sensory neuron, interneuron in spinal cord, motor neuron, effector
+**A934.** A. sensory neuron, interneuron in spinal cord, motor neuron, effector
 <!-- id: psych34a1-con-3 -->
 
 Explanation: Stimulus detected by receptors, then a sensory neuron carries the signal to the spinal cord, an interneuron relays it, a motor neuron carries the command to the effector (muscle). The brain is not part of the reflex pathway itself.
 
-**A933.** D. It produces a response faster than one routed through the brain, reducing potential harm
+**A935.** D. It produces a response faster than one routed through the brain, reducing potential harm
 <!-- id: psych34a1-con-4 -->
 
 Explanation: Bypassing the brain shortens the neural pathway, so the response is quicker and can protect the body from harm. Reflexes are not under conscious control and they do not involve fewer neurotransmitters by definition.
 
-**A934.** B. a conscious response because it involved awareness and voluntary control
+**A936.** B. a conscious response because it involved awareness and voluntary control
 <!-- id: psych34a1-con-5 -->
 
 Explanation: Deliberately choosing to investigate involves awareness and voluntary decision making, which is a conscious response involving the brain. The initial jerk was the unconscious startle response.
 
-**A935.** A spinal reflex is an unconscious, automatic and involuntary response to a stimulus; the sensory neuron sends the message to the spinal cord where it is passed via an interneuron to a motor neuron that triggers the muscle; the brain is not required to process the message, so it occurs before awareness of the stimulus is registered.
+**A937.** A spinal reflex is an unconscious, automatic and involuntary response to a stimulus; the sensory neuron sends the message to the spinal cord where it is passed via an interneuron to a motor neuron that triggers the muscle; the brain is not required to process the message, so it occurs before awareness of the stimulus is registered.
 <!-- id: psych34a1-con-6 -->
 
 Explanation:
 
-**A936.** Conscious responses involve awareness and voluntary control with the brain processing information, so are slower, e.g. deciding to catch a ball; unconscious responses occur automatically without awareness or brain-based decision making, so are usually faster, e.g. withdrawing a hand from a sharp object via spinal reflex; correct example of each given; comparison of both speed and brain involvement.
+**A938.** Conscious responses involve awareness and voluntary control with the brain processing information, so are slower, e.g. deciding to catch a ball; unconscious responses occur automatically without awareness or brain-based decision making, so are usually faster, e.g. withdrawing a hand from a sharp object via spinal reflex; correct example of each given; comparison of both speed and brain involvement.
 <!-- id: psych34a1-con-7 -->
 
 Explanation:
 
-**A937.** Unconscious spinal reflex; sensory neuron detects the stretch and sends a message to the spinal cord, then via an interneuron to a motor neuron that causes the thigh muscle to contract; the response is processed at the spinal cord without the brain deciding; it is involuntary and occurs too quickly for conscious control to intervene.
+**A939.** Unconscious spinal reflex; sensory neuron detects the stretch and sends a message to the spinal cord, then via an interneuron to a motor neuron that causes the thigh muscle to contract; the response is processed at the spinal cord without the brain deciding; it is involuntary and occurs too quickly for conscious control to intervene.
 <!-- id: psych34a1-con-8 -->
 
 Explanation:
 
 #### Neurotransmitters and neuromodulators
 
-**A938.** C. It increases the likelihood that the postsynaptic neuron will fire
+**A940.** C. It increases the likelihood that the postsynaptic neuron will fire
 <!-- id: psych34a1-ntm-1 -->
 
 Explanation: Excitatory neurotransmitters such as glutamate bind to receptors and make the postsynaptic neuron more likely to fire an action potential. Inhibitory neurotransmitters, such as GABA, do the opposite.
 
-**A939.** A. GABA
+**A941.** A. GABA
 <!-- id: psych34a1-ntm-2 -->
 
 Explanation: GABA (gamma-aminobutyric acid) is the main inhibitory neurotransmitter and reduces the likelihood the postsynaptic neuron fires. Glutamate is the main excitatory neurotransmitter.
 
-**A940.** C. alter the effect of neurotransmitters on the postsynaptic neuron, often across many neurons
+**A942.** C. alter the effect of neurotransmitters on the postsynaptic neuron, often across many neurons
 <!-- id: psych34a1-ntm-3 -->
 
 Explanation: Neuromodulators influence the transmission of neural information by adjusting the strength or effect of neurotransmitters, often acting on groups of neurons. Neurotransmitters directly transmit signals across a single synapse, either exciting or inhibiting the postsynaptic neuron.
 
-**A941.** A. crosses the synaptic gap and binds to receptor sites on the postsynaptic neuron
+**A943.** A. crosses the synaptic gap and binds to receptor sites on the postsynaptic neuron
 <!-- id: psych34a1-ntm-4 -->
 
 Explanation: Neurotransmitters are released from vesicles at the axon terminal, diffuse across the synaptic gap and bind to complementary receptor sites on the postsynaptic neuron. The signal is chemical across the gap, not electrical.
 
-**A942.** C. increased likelihood that the neurons will fire
+**A944.** C. increased likelihood that the neurons will fire
 <!-- id: psych34a1-ntm-5 -->
 
 Explanation: GABA is inhibitory, so blocking it removes inhibition and the neurons become more likely to fire. Option A is the opposite of the effect.
 
-**A943.** Excitatory neurotransmitters increase the likelihood that the postsynaptic neuron will fire an action potential, e.g. glutamate; inhibitory neurotransmitters decrease the likelihood that the postsynaptic neuron will fire, e.g. GABA; both bind to receptor sites on the postsynaptic neuron.
+**A945.** Excitatory neurotransmitters increase the likelihood that the postsynaptic neuron will fire an action potential, e.g. glutamate; inhibitory neurotransmitters decrease the likelihood that the postsynaptic neuron will fire, e.g. GABA; both bind to receptor sites on the postsynaptic neuron.
 <!-- id: psych34a1-ntm-6 -->
 
 Explanation:
 
-**A944.** An action potential arrives at the axon terminal of the presynaptic neuron; vesicles release neurotransmitter into the synaptic gap; neurotransmitter diffuses across the gap and binds to complementary receptor sites on the postsynaptic neuron; this has an excitatory or inhibitory effect on the postsynaptic neuron, making it more or less likely to fire.
+**A946.** An action potential arrives at the axon terminal of the presynaptic neuron; vesicles release neurotransmitter into the synaptic gap; neurotransmitter diffuses across the gap and binds to complementary receptor sites on the postsynaptic neuron; this has an excitatory or inhibitory effect on the postsynaptic neuron, making it more or less likely to fire.
 <!-- id: psych34a1-ntm-7 -->
 
 Explanation:
 
-**A945.** Glutamate is a neurotransmitter that directly acts at the synapse to excite the postsynaptic neuron; a neuromodulator such as dopamine does not by itself simply transmit the signal but influences/regulates the effect of neurotransmitters; it can change the sensitivity or responsiveness of neurons, often over many neurons at once, thereby adjusting the strength of neural communication.
+**A947.** Glutamate is a neurotransmitter that directly acts at the synapse to excite the postsynaptic neuron; a neuromodulator such as dopamine does not by itself simply transmit the signal but influences/regulates the effect of neurotransmitters; it can change the sensitivity or responsiveness of neurons, often over many neurons at once, thereby adjusting the strength of neural communication.
 <!-- id: psych34a1-ntm-8 -->
 
 Explanation:
 
 #### Synaptic plasticity and long-term potentiation
 
-**A946.** B. the ability of synapses to change in strength in response to activity
+**A948.** B. the ability of synapses to change in strength in response to activity
 <!-- id: psych34a1-ltp-1 -->
 
 Explanation: Synaptic plasticity is the ability of synapses to strengthen or weaken over time in response to their activity, underlying learning and memory. It is not about neuron loss or axon conduction speed.
 
-**A947.** D. a long-lasting strengthening of synaptic connections following repeated stimulation
+**A949.** D. a long-lasting strengthening of synaptic connections following repeated stimulation
 <!-- id: psych34a1-ltp-2 -->
 
 Explanation: LTP is a long-lasting strengthening of synaptic transmission following repeated or intense stimulation, and is a mechanism for learning and memory. Long-term depression (LTD) is the long-lasting weakening.
 
-**A948.** B. Glutamate
+**A950.** B. Glutamate
 <!-- id: psych34a1-ltp-3 -->
 
 Explanation: Glutamate released from the presynaptic neuron binds to receptors on the postsynaptic neuron and is central to LTP, which strengthens the synapse. GABA is inhibitory and cortisol and adrenaline are hormones.
 
-**A949.** C. a weaker synaptic connection due to infrequent or low-level stimulation
+**A951.** C. a weaker synaptic connection due to infrequent or low-level stimulation
 <!-- id: psych34a1-ltp-4 -->
 
 Explanation: LTD is a long-lasting decrease in the strength of synaptic transmission, which helps remove unused connections. It is the opposite of LTP, which is a strengthening.
 
-**A950.** A. Long-term potentiation of the relevant synapses
+**A952.** A. Long-term potentiation of the relevant synapses
 <!-- id: psych34a1-ltp-5 -->
 
 Explanation: Repeated activation of the same neural pathway strengthens its synapses through LTP, making transmission more efficient and supporting memory. LTD and increased GABA would weaken or inhibit the pathway.
 
-**A951.** LTP is a long-lasting increase in the strength of synaptic transmission between neurons following repeated stimulation; it makes it easier for the presynaptic neuron to trigger the postsynaptic neuron; it is a cellular basis of learning and memory because strengthened pathways support retention of new information.
+**A953.** LTP is a long-lasting increase in the strength of synaptic transmission between neurons following repeated stimulation; it makes it easier for the presynaptic neuron to trigger the postsynaptic neuron; it is a cellular basis of learning and memory because strengthened pathways support retention of new information.
 <!-- id: psych34a1-ltp-6 -->
 
 Explanation:
 
-**A952.** Glutamate is released from the presynaptic neuron into the synapse and binds to receptors on the postsynaptic neuron; repeated stimulation leads to more/stronger receptor activity (e.g. more receptors on the postsynaptic membrane) so the postsynaptic neuron responds more strongly; this strengthens the synapse, producing LTP.
+**A954.** Glutamate is released from the presynaptic neuron into the synapse and binds to receptors on the postsynaptic neuron; repeated stimulation leads to more/stronger receptor activity (e.g. more receptors on the postsynaptic membrane) so the postsynaptic neuron responds more strongly; this strengthens the synapse, producing LTP.
 <!-- id: psych34a1-ltp-7 -->
 
 Explanation:
 
-**A953.** LTP strengthens synaptic connections after high-frequency/repeated activity; LTD weakens synaptic connections after low-frequency/infrequent activity; LTP supports the formation and consolidation of memories; LTD removes or weakens unused or unnecessary connections, which refines neural circuits and allows flexibility in learning.
+**A955.** LTP strengthens synaptic connections after high-frequency/repeated activity; LTD weakens synaptic connections after low-frequency/infrequent activity; LTP supports the formation and consolidation of memories; LTD removes or weakens unused or unnecessary connections, which refines neural circuits and allows flexibility in learning.
 <!-- id: psych34a1-ltp-8 -->
 
 Explanation:
 
 #### Stress responses and the GAS
 
-**A954.** D. a state of threat or challenge that causes a physiological and psychological response
+**A956.** D. a state of threat or challenge that causes a physiological and psychological response
 <!-- id: psych34a1-gas-1 -->
 
 Explanation: Stress is a psychological and physiological response to a perceived demand or threat, which can be positive or negative. It is not a disorder and it can involve both distress and eustress.
 
-**A955.** C. is a positive form of stress that can motivate and enhance performance
+**A957.** C. is a positive form of stress that can motivate and enhance performance
 <!-- id: psych34a1-gas-2 -->
 
 Explanation: Eustress is a positive form of stress, often experienced as motivation or excitement, such as before a sporting final. Distress is the negative form that causes anxiety or damages wellbeing.
 
-**A956.** A. Adrenaline
+**A958.** A. Adrenaline
 <!-- id: psych34a1-gas-3 -->
 
 Explanation: Adrenaline (released by the adrenal medulla, triggered by the sympathetic nervous system) raises heart rate and mobilises energy. Cortisol is released from the adrenal cortex and supports longer-term stress responses.
 
-**A957.** B. Exhaustion
+**A959.** B. Exhaustion
 <!-- id: psych34a1-gas-4 -->
 
 Explanation: In exhaustion, prolonged exposure depletes the body's resources, so resistance falls and illness becomes more likely. In resistance the body copes with elevated physiological arousal, and the alarm stage is the initial reaction.
 
-**A958.** B. maintains elevated cortisol levels while attempting to cope with the stressor
+**A960.** B. maintains elevated cortisol levels while attempting to cope with the stressor
 <!-- id: psych34a1-gas-5 -->
 
 Explanation: In resistance the body continues to cope with the ongoing stressor with elevated physiological arousal (including cortisol), though outwardly it may seem normal. The shock phase of alarm involves the initial drop in resistance.
 
-**A959.** Alarm reaction is the initial response to a stressor; shock phase: the body's resistance temporarily drops (e.g. decreased heart rate and blood pressure) as it perceives the stressor; counter-shock phase: the sympathetic nervous system is activated, adrenaline and cortisol are released, increasing heart rate and mobilising energy for fight-flight-freeze.
+**A961.** Alarm reaction is the initial response to a stressor; shock phase: the body's resistance temporarily drops (e.g. decreased heart rate and blood pressure) as it perceives the stressor; counter-shock phase: the sympathetic nervous system is activated, adrenaline and cortisol are released, increasing heart rate and mobilising energy for fight-flight-freeze.
 <!-- id: psych34a1-gas-6 -->
 
 Explanation:
 
-**A960.** Adrenaline is released rapidly by the adrenal medulla and produces immediate effects such as increased heart rate and blood flow; cortisol is released more slowly by the adrenal cortex via the HPA axis and acts over a longer period, releasing glucose and maintaining energy supply; prolonged high cortisol is associated with the resistance and exhaustion stages and negative health effects.
+**A962.** Adrenaline is released rapidly by the adrenal medulla and produces immediate effects such as increased heart rate and blood flow; cortisol is released more slowly by the adrenal cortex via the HPA axis and acts over a longer period, releasing glucose and maintaining energy supply; prolonged high cortisol is associated with the resistance and exhaustion stages and negative health effects.
 <!-- id: psych34a1-gas-7 -->
 
 Explanation:
 
-**A961.** Her prolonged stress corresponds to the resistance stage, where she has been coping with elevated physiological arousal; over time her bodily resources were depleted so she has entered the exhaustion stage; in exhaustion, resistance to stress falls below normal and the immune system is weakened, explaining the frequent colds; feeling drained reflects depleted energy resources from sustained cortisol and arousal.
+**A963.** Her prolonged stress corresponds to the resistance stage, where she has been coping with elevated physiological arousal; over time her bodily resources were depleted so she has entered the exhaustion stage; in exhaustion, resistance to stress falls below normal and the immune system is weakened, explaining the frequent colds; feeling drained reflects depleted energy resources from sustained cortisol and arousal.
 <!-- id: psych34a1-gas-8 -->
 
 Explanation:
 
 #### Transactional model of stress and coping
 
-**A962.** C. Lazarus and Folkman
+**A964.** C. Lazarus and Folkman
 <!-- id: psych34a1-tmc-1 -->
 
 Explanation: The transactional model of stress and coping was proposed by Lazarus and Folkman. Selye developed the GAS, Bandura observational learning and Skinner operant conditioning.
 
-**A963.** A. a transaction between the individual and the environment, depending on appraisal
+**A965.** A. a transaction between the individual and the environment, depending on appraisal
 <!-- id: psych34a1-tmc-2 -->
 
 Explanation: In the transactional model, stress arises from the interaction between a person and their environment and depends on how the person appraises the situation and their ability to cope. Different people can appraise the same event differently.
 
-**A964.** C. irrelevant, benign-positive or stressful
+**A966.** C. irrelevant, benign-positive or stressful
 <!-- id: psych34a1-tmc-3 -->
 
 Explanation: Primary appraisal evaluates the event itself as irrelevant, benign-positive or stressful (harm/loss, threat or challenge). Secondary appraisal then evaluates coping resources and options.
 
-**A965.** B. evaluating whether one has the resources and abilities to cope with the event
+**A967.** B. evaluating whether one has the resources and abilities to cope with the event
 <!-- id: psych34a1-tmc-4 -->
 
 Explanation: Secondary appraisal is the assessment of one's coping resources and options for dealing with the stressor. Option A describes primary appraisal.
 
-**A966.** A. different primary and secondary appraisals
+**A968.** A. different primary and secondary appraisals
 <!-- id: psych34a1-tmc-5 -->
 
 Explanation: The model emphasises that stress depends on appraisal: Mia appraised the event as a challenge and judged she had resources to cope, while Leo appraised it as a threat with inadequate resources. The event itself was identical.
 
-**A967.** Primary appraisal is the initial evaluation of an event as irrelevant, benign-positive or stressful; secondary appraisal is the evaluation of one's ability and resources to cope with the event; if resources are judged inadequate the situation is more likely to be experienced as stressful.
+**A969.** Primary appraisal is the initial evaluation of an event as irrelevant, benign-positive or stressful; secondary appraisal is the evaluation of one's ability and resources to cope with the event; if resources are judged inadequate the situation is more likely to be experienced as stressful.
 <!-- id: psych34a1-tmc-6 -->
 
 Explanation:
 
-**A968.** Primary appraisal: she judges the presentation as stressful (a challenge/threat) because it is relevant to her wellbeing; secondary appraisal: she assesses her coping resources positively (past experience, time to practise); because she believes she can cope, she is likely to experience it as a challenge, leading to lower stress; coping strategies are chosen in response.
+**A970.** Primary appraisal: she judges the presentation as stressful (a challenge/threat) because it is relevant to her wellbeing; secondary appraisal: she assesses her coping resources positively (past experience, time to practise); because she believes she can cope, she is likely to experience it as a challenge, leading to lower stress; coping strategies are chosen in response.
 <!-- id: psych34a1-tmc-7 -->
 
 Explanation:
 
-**A969.** Strength: it recognises individual differences in appraisal so explains why the same event is stressful for one person but not another (and links to coping choices); limitation: it focuses on cognitive appraisal and may underplay physiological aspects of stress or the role of objective stressor severity; appraisal is difficult to measure objectively and relies on self-report.
+**A971.** Strength: it recognises individual differences in appraisal so explains why the same event is stressful for one person but not another (and links to coping choices); limitation: it focuses on cognitive appraisal and may underplay physiological aspects of stress or the role of objective stressor severity; appraisal is difficult to measure objectively and relies on self-report.
 <!-- id: psych34a1-tmc-8 -->
 
 Explanation:
 
 #### Gut-brain axis
 
-**A970.** A. the bidirectional communication between the gastrointestinal tract and the central nervous system
+**A972.** A. the bidirectional communication between the gastrointestinal tract and the central nervous system
 <!-- id: psych34a1-gba-1 -->
 
 Explanation: The gut-brain axis is the bidirectional communication between the gut (including its microbiota and enteric nervous system) and the brain via neural, hormonal and immune pathways.
 
-**A971.** B. a network of neurons embedded in the walls of the gastrointestinal tract
+**A973.** B. a network of neurons embedded in the walls of the gastrointestinal tract
 <!-- id: psych34a1-gba-2 -->
 
 Explanation: The enteric nervous system is a network of neurons lining the gastrointestinal tract that regulates digestion and communicates with the CNS, often called the 'second brain'.
 
-**A972.** A. carrying signals between the gut and the brain in both directions
+**A974.** A. carrying signals between the gut and the brain in both directions
 <!-- id: psych34a1-gba-3 -->
 
 Explanation: The vagus nerve is a major pathway for bidirectional communication between the gut and brainstem. It does not produce microbiota.
 
-**A973.** D. Gut microbiota can influence the production of neurotransmitters such as serotonin, which may affect mood and stress responses
+**A975.** D. Gut microbiota can influence the production of neurotransmitters such as serotonin, which may affect mood and stress responses
 <!-- id: psych34a1-gba-4 -->
 
 Explanation: Gut microbiota influence the production and regulation of neurotransmitters (a large proportion of serotonin is produced in the gut) and can affect stress responses and mood via the gut-brain axis.
 
-**A974.** A. signals from the brain affecting gut function via the gut-brain axis
+**A976.** A. signals from the brain affecting gut function via the gut-brain axis
 <!-- id: psych34a1-gba-5 -->
 
 Explanation: Stress signals travel from the brain to the gut (e.g. via the sympathetic nervous system and HPA axis), altering digestion and gut function. This demonstrates the brain-to-gut direction of the axis.
 
-**A975.** Signals travel from the brain to the gut (e.g. stress altering digestion); and signals also travel from the gut to the brain (e.g. gut microbiota and gut-produced chemicals influencing mood and stress response).
+**A977.** Signals travel from the brain to the gut (e.g. stress altering digestion); and signals also travel from the gut to the brain (e.g. gut microbiota and gut-produced chemicals influencing mood and stress response).
 <!-- id: psych34a1-gba-6 -->
 
 Explanation:
 
-**A976.** Gut microbiota are the community of microorganisms living in the gut; they influence the production of neurotransmitters such as serotonin and other signalling chemicals; these signals reach the brain via the vagus nerve, immune and hormonal pathways and so can influence mood, stress responses and behaviour.
+**A978.** Gut microbiota are the community of microorganisms living in the gut; they influence the production of neurotransmitters such as serotonin and other signalling chemicals; these signals reach the brain via the vagus nerve, immune and hormonal pathways and so can influence mood, stress responses and behaviour.
 <!-- id: psych34a1-gba-7 -->
 
 Explanation:
 
-**A977.** Probiotics may alter the composition of gut microbiota, changing production of neurotransmitters (e.g. serotonin) and signalling to the brain via the vagus nerve, which could reduce stress and anxiety; limitation: stress and anxiety were self-reported so subject to bias (or small sample, other lifestyle variables not controlled, placebo effect); a link is not enough to prove the probiotic alone caused the change, and the mechanism was not measured directly.
+**A979.** Probiotics may alter the composition of gut microbiota, changing production of neurotransmitters (e.g. serotonin) and signalling to the brain via the vagus nerve, which could reduce stress and anxiety; limitation: stress and anxiety were self-reported so subject to bias (or small sample, other lifestyle variables not controlled, placebo effect); a link is not enough to prove the probiotic alone caused the change, and the mechanism was not measured directly.
 <!-- id: psych34a1-gba-8 -->
 
 Explanation:
 
 #### Coping strategies and flexibility
 
-**A978.** C. strategies that aim to confront and deal directly with the stressor
+**A980.** C. strategies that aim to confront and deal directly with the stressor
 <!-- id: psych34a1-cop-1 -->
 
 Explanation: Approach strategies involve confronting the stressor directly, such as problem solving or seeking support. Avoidance strategies involve evading or ignoring the stressor.
 
-**A979.** B. Spending hours playing video games to avoid thinking about an upcoming exam
+**A981.** B. Spending hours playing video games to avoid thinking about an upcoming exam
 <!-- id: psych34a1-cop-2 -->
 
 Explanation: Using distraction to avoid thinking about the stressor is avoidance coping. The other options are approach strategies that confront the stressor directly.
 
-**A980.** C. the ability to adapt coping strategies to suit the demands of different stressful situations
+**A982.** C. the ability to adapt coping strategies to suit the demands of different stressful situations
 <!-- id: psych34a1-cop-3 -->
 
 Explanation: Coping flexibility is the ability to change or adapt coping strategies depending on the context and the effectiveness of the strategy currently being used.
 
-**A981.** B. its effectiveness depends on the nature of the stressor and the situation
+**A983.** B. its effectiveness depends on the nature of the stressor and the situation
 <!-- id: psych34a1-cop-4 -->
 
 Explanation: Context-specific effectiveness means that a coping strategy may be useful in some situations but not others. For example, avoidance may help temporarily with an uncontrollable stressor but not with an upcoming deadline.
 
-**A982.** D. coping flexibility
+**A984.** D. coping flexibility
 <!-- id: psych34a1-cop-5 -->
 
 Explanation: Callum recognised the ineffective avoidance strategy and shifted to an approach strategy better suited to the situation, demonstrating coping flexibility.
 
-**A983.** Approach coping involves confronting or dealing directly with the stressor, e.g. making a plan or seeking social support; avoidance coping involves evading, ignoring or withdrawing from the stressor, e.g. distraction or procrastinating; correct example of each.
+**A985.** Approach coping involves confronting or dealing directly with the stressor, e.g. making a plan or seeking social support; avoidance coping involves evading, ignoring or withdrawing from the stressor, e.g. distraction or procrastinating; correct example of each.
 <!-- id: psych34a1-cop-6 -->
 
 Explanation:
 
-**A984.** A coping strategy's effectiveness depends on the situation and the stressor; a strategy may be adaptive in one context and maladaptive in another; example: avoidance such as distraction may help short-term with an uncontrollable situation (e.g. waiting for medical results) but be ineffective for a controllable one (e.g. an upcoming assignment) where an approach strategy such as planning is more effective.
+**A986.** A coping strategy's effectiveness depends on the situation and the stressor; a strategy may be adaptive in one context and maladaptive in another; example: avoidance such as distraction may help short-term with an uncontrollable situation (e.g. waiting for medical results) but be ineffective for a controllable one (e.g. an upcoming assignment) where an approach strategy such as planning is more effective.
 <!-- id: psych34a1-cop-7 -->
 
 Explanation:
 
-**A985.** Coping flexibility is the ability to adapt or switch coping strategies according to the changing demands of the stressor/context and whether the current strategy is working; it is beneficial because it allows the person to choose the most appropriate strategy, e.g. approach when the stressor is controllable and avoidance when it is not; this leads to more effective stress management and better psychological wellbeing.
+**A987.** Coping flexibility is the ability to adapt or switch coping strategies according to the changing demands of the stressor/context and whether the current strategy is working; it is beneficial because it allows the person to choose the most appropriate strategy, e.g. approach when the stressor is controllable and avoidance when it is not; this leads to more effective stress management and better psychological wellbeing.
 <!-- id: psych34a1-cop-8 -->
 
 Explanation:
@@ -5112,168 +5217,168 @@ Explanation:
 
 #### Classical conditioning
 
-**A986.** B. Pavlov
+**A988.** B. Pavlov
 <!-- id: psych34a1-cc-1 -->
 
 Explanation: Ivan Pavlov studied classical conditioning in dogs, showing they could be conditioned to salivate to a neutral stimulus. Skinner studied operant conditioning and Bandura observational learning.
 
-**A987.** C. an automatic response to the unconditioned stimulus that does not need to be learned
+**A989.** C. an automatic response to the unconditioned stimulus that does not need to be learned
 <!-- id: psych34a1-cc-2 -->
 
 Explanation: The UCR is a naturally occurring, automatic response to the unconditioned stimulus (UCS). The learned response to the conditioned stimulus is the conditioned response (CR).
 
-**A988.** B. the smell of the chips
+**A990.** B. the smell of the chips
 <!-- id: psych34a1-cc-3 -->
 
 Explanation: Before conditioning the chips were a neutral stimulus. After being paired with the UCS (food poisoning), the chips became a CS that elicits the CR (nausea). The food poisoning is the UCS and the nausea in response to it is the UCR.
 
-**A989.** C. the CS is repeatedly presented without the UCS, so the CR gradually weakens and disappears
+**A991.** C. the CS is repeatedly presented without the UCS, so the CR gradually weakens and disappears
 <!-- id: psych34a1-cc-4 -->
 
 Explanation: Extinction is the gradual weakening and disappearance of the CR when the CS is repeatedly presented without the UCS. Reappearance after a rest is spontaneous recovery; responding to similar stimuli is generalisation.
 
-**A990.** D. stimulus generalisation
+**A992.** D. stimulus generalisation
 <!-- id: psych34a1-cc-5 -->
 
 Explanation: Stimulus generalisation occurs when stimuli similar to the original CS also elicit the CR. Discrimination would be responding only to the specific CS and not to similar ones.
 
-**A991.** NS (before conditioning): the school bell; UCS: the free lunch/food; UCR: salivation in response to the food; CS (after conditioning): the school bell; CR: salivation in response to the bell alone.
+**A993.** NS (before conditioning): the school bell; UCS: the free lunch/food; UCR: salivation in response to the food; CS (after conditioning): the school bell; CR: salivation in response to the bell alone.
 <!-- id: psych34a1-cc-6 -->
 
 Explanation:
 
-**A992.** Acquisition is the stage during which the association between the NS and UCS is formed; the NS is repeatedly paired with the UCS; learning is most effective when the NS is presented just before/slightly before the UCS (contiguity); once the NS elicits the response alone it becomes the CS and the response becomes the CR.
+**A994.** Acquisition is the stage during which the association between the NS and UCS is formed; the NS is repeatedly paired with the UCS; learning is most effective when the NS is presented just before/slightly before the UCS (contiguity); once the NS elicits the response alone it becomes the CS and the response becomes the CR.
 <!-- id: psych34a1-cc-7 -->
 
 Explanation:
 
-**A993.** Spontaneous recovery; the reappearance of a previously extinguished CR after a rest period without further pairing; suggests extinction does not completely erase the learned association, it is suppressed, and the CR is usually weaker than at acquisition.
+**A995.** Spontaneous recovery; the reappearance of a previously extinguished CR after a rest period without further pairing; suggests extinction does not completely erase the learned association, it is suppressed, and the CR is usually weaker than at acquisition.
 <!-- id: psych34a1-cc-8 -->
 
 Explanation:
 
 #### Operant conditioning
 
-**A994.** B. behaviour is shaped by its consequences
+**A996.** B. behaviour is shaped by its consequences
 <!-- id: psych34a1-oc-1 -->
 
 Explanation: In operant conditioning, behaviour is influenced by its consequences (reinforcement and punishment). Option A describes classical conditioning and option C observational learning.
 
-**A995.** C. antecedent, behaviour, consequence
+**A997.** C. antecedent, behaviour, consequence
 <!-- id: psych34a1-oc-2 -->
 
 Explanation: The three-phase model consists of antecedent (the stimulus before the behaviour), behaviour (the response) and consequence (what follows the behaviour). The other options relate to classical conditioning and observational learning.
 
-**A996.** A. negative reinforcement
+**A998.** A. negative reinforcement
 <!-- id: psych34a1-oc-3 -->
 
 Explanation: Negative reinforcement is the removal of an unpleasant stimulus (nagging) following a behaviour, which increases the likelihood of the behaviour recurring. Positive reinforcement adds a pleasant stimulus.
 
-**A997.** B. negative punishment
+**A999.** B. negative punishment
 <!-- id: psych34a1-oc-4 -->
 
 Explanation: Negative punishment is the removal of a desirable stimulus (pocket money) following a behaviour to decrease it. Positive punishment would add an unpleasant stimulus.
 
-**A998.** C. The swimming race or training session in which the swimmer attempts a personal best
+**A1000.** C. The swimming race or training session in which the swimmer attempts a personal best
 <!-- id: psych34a1-oc-5 -->
 
 Explanation: The antecedent is the stimulus or situation that occurs before the behaviour (the race/training). The behaviour is the swim and the praise is the consequence (a positive reinforcer).
 
-**A999.** Antecedent: play time finishes (or being asked to tidy up); behaviour: she puts her toys away; consequence: she receives a sticker (positive reinforcement); effect: the behaviour is more likely to be repeated in the future.
+**A1001.** Antecedent: play time finishes (or being asked to tidy up); behaviour: she puts her toys away; consequence: she receives a sticker (positive reinforcement); effect: the behaviour is more likely to be repeated in the future.
 <!-- id: psych34a1-oc-6 -->
 
 Explanation:
 
-**A1000.** Positive reinforcement is the addition of a pleasant stimulus after a behaviour, increasing the likelihood of the behaviour, e.g. a dog receives a treat for sitting; negative reinforcement is the removal of an unpleasant stimulus after a behaviour, also increasing the likelihood of the behaviour, e.g. taking painkillers to remove a headache; both increase behaviour, differing in whether a stimulus is added or removed.
+**A1002.** Positive reinforcement is the addition of a pleasant stimulus after a behaviour, increasing the likelihood of the behaviour, e.g. a dog receives a treat for sitting; negative reinforcement is the removal of an unpleasant stimulus after a behaviour, also increasing the likelihood of the behaviour, e.g. taking painkillers to remove a headache; both increase behaviour, differing in whether a stimulus is added or removed.
 <!-- id: psych34a1-oc-7 -->
 
 Explanation:
 
-**A1001.** Reasons (any two): punishment may not be delivered consistently or immediately after the behaviour; the student may find detention not aversive or may gain attention from it (which could reinforce the behaviour); punishment shows what not to do rather than what to do; alternative: use positive reinforcement, e.g. praise or reward for arriving on time.
+**A1003.** Reasons (any two): punishment may not be delivered consistently or immediately after the behaviour; the student may find detention not aversive or may gain attention from it (which could reinforce the behaviour); punishment shows what not to do rather than what to do; alternative: use positive reinforcement, e.g. praise or reward for arriving on time.
 <!-- id: psych34a1-oc-8 -->
 
 Explanation:
 
 #### Observational learning
 
-**A1002.** A. Bandura
+**A1004.** A. Bandura
 <!-- id: psych34a1-obs-1 -->
 
 Explanation: Albert Bandura investigated observational learning, notably through the Bobo doll experiments. Pavlov studied classical conditioning and Skinner operant conditioning.
 
-**A1003.** A. Attention, retention, reproduction, motivation, reinforcement
+**A1005.** A. Attention, retention, reproduction, motivation, reinforcement
 <!-- id: psych34a1-obs-2 -->
 
 Explanation: The stages in the VCE study design are attention, retention, reproduction, motivation and reinforcement. The observer must first attend to the model and store the information before being able to reproduce the behaviour.
 
-**A1004.** C. the person who is observed and whose behaviour is imitated
+**A1006.** C. the person who is observed and whose behaviour is imitated
 <!-- id: psych34a1-obs-3 -->
 
 Explanation: A model is the person whose behaviour is observed and potentially imitated. The learner is the observer.
 
-**A1005.** D. vicarious reinforcement
+**A1007.** D. vicarious reinforcement
 <!-- id: psych34a1-obs-4 -->
 
 Explanation: Vicarious reinforcement occurs when an observer sees a model being rewarded, which increases the likelihood that the observer will imitate the behaviour. No direct reward was given to the child.
 
-**A1006.** B. A trainee remembers the chef's technique when practising later that evening
+**A1008.** B. A trainee remembers the chef's technique when practising later that evening
 <!-- id: psych34a1-obs-5 -->
 
 Explanation: Retention is storing the observed behaviour in memory so it can be recalled later. Option A is attention, option C is reproduction and option D is reinforcement.
 
-**A1007.** Attention: the observer pays attention to the model's behaviour; retention: the observer stores the behaviour in memory; reproduction: the observer is physically able to replicate the behaviour; motivation: the observer has a reason or desire to perform the behaviour; reinforcement: the observer is reinforced (directly or vicariously) or expects reinforcement, making the behaviour more likely to be repeated.
+**A1009.** Attention: the observer pays attention to the model's behaviour; retention: the observer stores the behaviour in memory; reproduction: the observer is physically able to replicate the behaviour; motivation: the observer has a reason or desire to perform the behaviour; reinforcement: the observer is reinforced (directly or vicariously) or expects reinforcement, making the behaviour more likely to be repeated.
 <!-- id: psych34a1-obs-6 -->
 
 Explanation:
 
-**A1008.** Children observed an adult model behaving aggressively toward an inflatable Bobo doll (or non-aggressively in a control condition); when later placed in a room with the doll, children who had seen aggression imitated the same aggressive acts; this showed behaviour can be learned by observation without direct reinforcement.
+**A1010.** Children observed an adult model behaving aggressively toward an inflatable Bobo doll (or non-aggressively in a control condition); when later placed in a room with the doll, children who had seen aggression imitated the same aggressive acts; this showed behaviour can be learned by observation without direct reinforcement.
 <!-- id: psych34a1-obs-7 -->
 
 Explanation:
 
-**A1009.** Attention: Lena watched and focused on the baker's technique; reproduction: Lena tries to physically replicate the behaviour from memory; reproduction may have failed because she lacks the motor skill or practice, or her retention of the details was incomplete; with more practice and feedback her reproduction can improve.
+**A1011.** Attention: Lena watched and focused on the baker's technique; reproduction: Lena tries to physically replicate the behaviour from memory; reproduction may have failed because she lacks the motor skill or practice, or her retention of the details was incomplete; with more practice and feedback her reproduction can improve.
 <!-- id: psych34a1-obs-8 -->
 
 Explanation:
 
 #### Aboriginal and Torres Strait Islander approaches to learning
 
-**A1010.** D. Knowledge is closely tied to place, so features of the land act as cues that hold and help recall cultural knowledge
+**A1012.** D. Knowledge is closely tied to place, so features of the land act as cues that hold and help recall cultural knowledge
 <!-- id: psych34a2-atsi-1 -->
 
 Explanation: Knowledge, stories and law are linked to specific places, so landscape features act as memory cues. A is wrong because Country is central, not incidental.
 
-**A1011.** A. songlines
+**A1013.** A. songlines
 <!-- id: psych34a2-atsi-2 -->
 
 Explanation: Songlines link story, song and landscape so that knowledge is stored and recalled in sequence. The method of loci is a Western mnemonic term; here the cultural practice is songlines.
 
-**A1012.** C. Learning is community-based, often through observation, practice and storytelling with kin and Elders
+**A1014.** C. Learning is community-based, often through observation, practice and storytelling with kin and Elders
 <!-- id: psych34a2-atsi-3 -->
 
 Explanation: Community-based, relational learning through observation, imitation, practice and stories is a key feature. Option A reflects an individualistic approach, not a typical feature of these approaches.
 
-**A1013.** A. They link information to meaningful, emotional, multisensory experiences that are shared and repeated, which supports memory
+**A1015.** A. They link information to meaningful, emotional, multisensory experiences that are shared and repeated, which supports memory
 <!-- id: psych34a2-atsi-4 -->
 
 Explanation: Multisensory, shared, repeated and meaningful experiences strengthen encoding and retrieval. D is incorrect: the knowledge is communal.
 
-**A1014.** C. define relationships and responsibilities, including who teaches particular knowledge and to whom
+**A1016.** C. define relationships and responsibilities, including who teaches particular knowledge and to whom
 <!-- id: psych34a2-atsi-5 -->
 
 Explanation: Kinship specifies relationships and roles, including who holds and passes on certain knowledge. A is not a function of kinship systems in this context.
 
-**A1015.** 1 mark for a feature of Country-based learning (e.g. knowledge, story or law is linked to specific places/landmarks; songlines); 1 mark for explaining how it supports memory (e.g. landmarks act as retrieval cues, linking information to place and sequence makes it easier to recall, learning in context).
+**A1017.** 1 mark for a feature of Country-based learning (e.g. knowledge, story or law is linked to specific places/landmarks; songlines); 1 mark for explaining how it supports memory (e.g. landmarks act as retrieval cues, linking information to place and sequence makes it easier to recall, learning in context).
 <!-- id: psych34a2-atsi-6 -->
 
 Explanation:
 
-**A1016.** Any two strategies, each with an explanation, 1 mark for strategy and 1 mark for explanation: invite a local Elder or community member to share stories (learning from Elders in a community context, knowledge held in oral stories, relevant and respectful); take learning outdoors onto Country (links knowledge to place, landmarks as retrieval cues, multisensory); use storytelling, art, song or dance to represent events (multisensory, emotional, shared and repeated); learning through observation and practice in small groups (collaborative, social learning).
+**A1018.** Any two strategies, each with an explanation, 1 mark for strategy and 1 mark for explanation: invite a local Elder or community member to share stories (learning from Elders in a community context, knowledge held in oral stories, relevant and respectful); take learning outdoors onto Country (links knowledge to place, landmarks as retrieval cues, multisensory); use storytelling, art, song or dance to represent events (multisensory, emotional, shared and repeated); learning through observation and practice in small groups (collaborative, social learning).
 <!-- id: psych34a2-atsi-7 -->
 
 Explanation:
 
-**A1017.** Information is encoded in song, story and rhythm, which gives structure and aids retrieval; the knowledge is linked to physical landmarks on Country, which act as cues and give a sequence; it is repeated, rehearsed and passed on through the community and Elders with shared responsibility, so it is maintained and checked across generations (also acceptable: multisensory and emotional meaning).
+**A1019.** Information is encoded in song, story and rhythm, which gives structure and aids retrieval; the knowledge is linked to physical landmarks on Country, which act as cues and give a sequence; it is repeated, rehearsed and passed on through the community and Elders with shared responsibility, so it is maintained and checked across generations (also acceptable: multisensory and emotional meaning).
 <!-- id: psych34a2-atsi-8 -->
 
 Explanation:
@@ -5282,252 +5387,252 @@ Explanation:
 
 #### Atkinson-Shiffrin multi-store model
 
-**A1018.** D. Sensory memory, short-term memory, long-term memory
+**A1020.** D. Sensory memory, short-term memory, long-term memory
 <!-- id: psych34a2-asm-1 -->
 
 Explanation: Information passes from sensory memory (attention) to short-term memory and, through rehearsal, to long-term memory. Retrieval then returns information from LTM to STM.
 
-**A1019.** B. About 7 ± 2 items and about 12 to 30 seconds without rehearsal
+**A1021.** B. About 7 ± 2 items and about 12 to 30 seconds without rehearsal
 <!-- id: psych34a2-asm-2 -->
 
 Explanation: STM holds about 5 to 9 items for approximately 12 to 30 seconds without rehearsal. Option D confuses STM with sensory memory duration.
 
-**A1020.** D. information in sensory memory decaying because it was not attended to
+**A1022.** D. information in sensory memory decaying because it was not attended to
 <!-- id: psych34a2-asm-3 -->
 
 Explanation: Unattended sensory information decays within a very short time (iconic memory under about a second, echoic 3 to 4 seconds) and does not transfer to STM.
 
-**A1021.** A. more rehearsal, so these words are more likely to be transferred to long-term memory
+**A1023.** A. more rehearsal, so these words are more likely to be transferred to long-term memory
 <!-- id: psych34a2-asm-4 -->
 
 Explanation: The primacy effect reflects greater rehearsal of early items, increasing the chance of transfer to LTM. The recency effect reflects items still in STM.
 
-**A1022.** C. It treats short-term memory as a single store and does not explain how different types of long-term memory work or the role of processing beyond rehearsal
+**A1024.** C. It treats short-term memory as a single store and does not explain how different types of long-term memory work or the role of processing beyond rehearsal
 <!-- id: psych34a2-asm-5 -->
 
 Explanation: Critics note that STM is more than a passive store (see working memory) and that the model oversimplifies LTM and the importance of types of processing. A, B and D are features, not limitations.
 
-**A1023.** Iconic memory is the sensory memory for visual information; duration is a fraction of a second (about 0.2 to 0.4 seconds); echoic memory is the sensory memory for auditory information; duration about 3 to 4 seconds.
+**A1025.** Iconic memory is the sensory memory for visual information; duration is a fraction of a second (about 0.2 to 0.4 seconds); echoic memory is the sensory memory for auditory information; duration about 3 to 4 seconds.
 <!-- id: psych34a2-asm-6 -->
 
 Explanation:
 
-**A1024.** She must attend to the number so it moves from sensory memory to short-term memory (1); she needs to rehearse it (e.g. maintenance or elaborative rehearsal) so it is transferred to long-term memory (1 to 2 marks for explaining rehearsal and transfer to LTM); if interrupted, the number will not be rehearsed and will be lost from STM within about 12 to 30 seconds through decay or displacement, so it is not transferred to LTM (1).
+**A1026.** She must attend to the number so it moves from sensory memory to short-term memory (1); she needs to rehearse it (e.g. maintenance or elaborative rehearsal) so it is transferred to long-term memory (1 to 2 marks for explaining rehearsal and transfer to LTM); if interrupted, the number will not be rehearsed and will be lost from STM within about 12 to 30 seconds through decay or displacement, so it is not transferred to LTM (1).
 <!-- id: psych34a2-asm-7 -->
 
 Explanation:
 
-**A1025.** Serial position effect: better recall of items at the start (primacy) and end (recency) of a list than the middle; primacy is explained by early items being rehearsed and transferred to LTM; recency is explained by the last items still being held in STM; the middle items are lost because they are displaced from STM before they are rehearsed enough to enter LTM, which supports the existence of two stores.
+**A1027.** Serial position effect: better recall of items at the start (primacy) and end (recency) of a list than the middle; primacy is explained by early items being rehearsed and transferred to LTM; recency is explained by the last items still being held in STM; the middle items are lost because they are displaced from STM before they are rehearsed enough to enter LTM, which supports the existence of two stores.
 <!-- id: psych34a2-asm-8 -->
 
 Explanation:
 
 #### Explicit and implicit memory
 
-**A1026.** C. Riding a bike without consciously thinking about each movement
+**A1028.** C. Riding a bike without consciously thinking about each movement
 <!-- id: psych34a2-eim-1 -->
 
 Explanation: Riding a bike is procedural (implicit) memory: it is expressed through performance without conscious recall. A and D are episodic and B is semantic, all explicit.
 
-**A1027.** B. memory of general facts and knowledge about the world
+**A1029.** B. memory of general facts and knowledge about the world
 <!-- id: psych34a2-eim-2 -->
 
 Explanation: Semantic memory stores general knowledge and facts (a type of explicit memory). Option A describes episodic memory.
 
-**A1028.** A. implicit memory, because past experience influenced performance without conscious recollection
+**A1030.** A. implicit memory, because past experience influenced performance without conscious recollection
 <!-- id: psych34a2-eim-3 -->
 
 Explanation: Priming-type effects show that prior exposure influences performance without conscious recall, indicating implicit memory.
 
-**A1029.** A. Classically conditioned response: feeling anxious when you hear a dentist's drill
+**A1031.** A. Classically conditioned response: feeling anxious when you hear a dentist's drill
 <!-- id: psych34a2-eim-4 -->
 
 Explanation: An emotional response learned through classical conditioning is stored implicitly. Tying shoelaces is procedural, graduation day is episodic and breakfast yesterday is episodic.
 
-**A1030.** B. Explicit memory requires conscious recall and can be declared; implicit memory influences behaviour without conscious awareness
+**A1032.** B. Explicit memory requires conscious recall and can be declared; implicit memory influences behaviour without conscious awareness
 <!-- id: psych34a2-eim-5 -->
 
 Explanation: Explicit (declarative) memory involves conscious retrieval; implicit (non-declarative) memory is expressed through behaviour without conscious effort.
 
-**A1031.** Episodic memory (1) with a suitable example, e.g. remembering your 10th birthday party or what you did yesterday (1); semantic memory (1) with a suitable example, e.g. knowing that Canberra is the capital of Australia (1).
+**A1033.** Episodic memory (1) with a suitable example, e.g. remembering your 10th birthday party or what you did yesterday (1); semantic memory (1) with a suitable example, e.g. knowing that Canberra is the capital of Australia (1).
 <!-- id: psych34a2-eim-6 -->
 
 Explanation:
 
-**A1032.** Procedural (implicit) memory (1) because he can perform the skill without conscious recall of how (1); episodic (explicit) memory failure/absence (1) because he cannot consciously recall the specific time and place of the learning (1). (Also acceptable: contrast between implicit retained and explicit lost.)
+**A1034.** Procedural (implicit) memory (1) because he can perform the skill without conscious recall of how (1); episodic (explicit) memory failure/absence (1) because he cannot consciously recall the specific time and place of the learning (1). (Also acceptable: contrast between implicit retained and explicit lost.)
 <!-- id: psych34a2-eim-7 -->
 
 Explanation:
 
-**A1033.** Explicit and implicit memories are stored and processed separately, involving different brain regions; the person's explicit memory system (e.g. hippocampus) is damaged, preventing formation of new conscious memories; implicit procedural memory (e.g. involving the cerebellum) remains intact so the skill improves with practice even though they cannot recall the practice sessions.
+**A1035.** Explicit and implicit memories are stored and processed separately, involving different brain regions; the person's explicit memory system (e.g. hippocampus) is damaged, preventing formation of new conscious memories; implicit procedural memory (e.g. involving the cerebellum) remains intact so the skill improves with practice even though they cannot recall the practice sessions.
 <!-- id: psych34a2-eim-8 -->
 
 Explanation:
 
 #### Brain regions in memory
 
-**A1034.** C. Hippocampus
+**A1036.** C. Hippocampus
 <!-- id: psych34a2-brm-1 -->
 
 Explanation: The hippocampus is critical for consolidating explicit memories, which are then stored in the neocortex. The cerebellum is involved in implicit memories such as motor skills and classically conditioned responses.
 
-**A1035.** B. attaching emotional significance to memories, especially fear-related, and enhancing their consolidation
+**A1037.** B. attaching emotional significance to memories, especially fear-related, and enhancing their consolidation
 <!-- id: psych34a2-brm-2 -->
 
 Explanation: The amygdala is involved in the emotional components of memory and strengthens memories of emotionally charged events. Procedural memory involves the cerebellum.
 
-**A1036.** C. Explicit memory formation depends on the hippocampus, while procedural learning does not
+**A1038.** C. Explicit memory formation depends on the hippocampus, while procedural learning does not
 <!-- id: psych34a2-brm-3 -->
 
 Explanation: Improved skill without recall shows intact implicit procedural memory and impaired formation of explicit memory, which depends on the hippocampus.
 
-**A1037.** A. Neocortex: long-term storage of explicit memories
+**A1039.** A. Neocortex: long-term storage of explicit memories
 <!-- id: psych34a2-brm-4 -->
 
 Explanation: The neocortex is where explicit memories are ultimately stored, with different regions storing different aspects. The cerebellum is involved in implicit memories, not episodic consolidation.
 
-**A1038.** D. Amygdala
+**A1040.** D. Amygdala
 <!-- id: psych34a2-brm-5 -->
 
 Explanation: The amygdala processes and stores emotional (fear) responses, which can occur without explicit recall. The hippocampus is more involved in explicit details.
 
-**A1039.** Hippocampus: involved in the encoding and consolidation of new explicit (episodic and semantic) memories, which are then stored in the neocortex (1 to 2 marks); cerebellum: involved in the formation and storage of implicit memories such as procedural memory (motor skills) and classically conditioned responses (1 mark).
+**A1041.** Hippocampus: involved in the encoding and consolidation of new explicit (episodic and semantic) memories, which are then stored in the neocortex (1 to 2 marks); cerebellum: involved in the formation and storage of implicit memories such as procedural memory (motor skills) and classically conditioned responses (1 mark).
 <!-- id: psych34a2-brm-6 -->
 
 Explanation:
 
-**A1040.** Childhood memories were already consolidated and are stored in the neocortex, so remain accessible (1); damaged hippocampus prevents consolidation of new explicit (episodic) memories, so recent conversations are not recalled (1 to 2); learning a sport is implicit procedural memory, involving the cerebellum, which is intact (1).
+**A1042.** Childhood memories were already consolidated and are stored in the neocortex, so remain accessible (1); damaged hippocampus prevents consolidation of new explicit (episodic) memories, so recent conversations are not recalled (1 to 2); learning a sport is implicit procedural memory, involving the cerebellum, which is intact (1).
 <!-- id: psych34a2-brm-7 -->
 
 Explanation:
 
-**A1041.** The hippocampus encodes and consolidates the explicit details of the event, such as where and when it happened (1); the amygdala processes the emotional significance (fear) and enhances the strength of consolidation (1); together the memory is stronger and more vivid, with emotional response and factual details linked (1).
+**A1043.** The hippocampus encodes and consolidates the explicit details of the event, such as where and when it happened (1); the amygdala processes the emotional significance (fear) and enhances the strength of consolidation (1); together the memory is stronger and more vivid, with emotional response and factual details linked (1).
 <!-- id: psych34a2-brm-8 -->
 
 Explanation:
 
 #### Autobiographical memory and aphantasia
 
-**A1042.** B. memory of personal life experiences and personal knowledge about oneself
+**A1044.** B. memory of personal life experiences and personal knowledge about oneself
 <!-- id: psych34a2-ama-1 -->
 
 Explanation: Autobiographical memory is memory of one's own life, combining episodic memories of events and semantic knowledge about oneself. Option A describes semantic memory in general.
 
-**A1043.** B. a condition in which a person cannot voluntarily form mental images
+**A1045.** B. a condition in which a person cannot voluntarily form mental images
 <!-- id: psych34a2-ama-2 -->
 
 Explanation: Aphantasia is the absence or severe reduction of voluntary visual mental imagery. Face blindness is prosopagnosia.
 
-**A1044.** D. contain fewer sensory and visual details, although they may still recall facts about the events
+**A1046.** D. contain fewer sensory and visual details, although they may still recall facts about the events
 <!-- id: psych34a2-ama-3 -->
 
 Explanation: Research shows people with aphantasia often report autobiographical memories that lack vivid sensory, especially visual, detail, but they retain factual information about the events.
 
-**A1045.** A. aphantasia
+**A1047.** A. aphantasia
 <!-- id: psych34a2-ama-4 -->
 
 Explanation: Knowing the facts without being able to visualise suggests aphantasia, not a memory loss.
 
-**A1046.** C. Visual imagery may enrich the vividness of recalled episodes but is not required to remember what happened
+**A1048.** C. Visual imagery may enrich the vividness of recalled episodes but is not required to remember what happened
 <!-- id: psych34a2-ama-5 -->
 
 Explanation: Evidence suggests aphantasia affects the sensory richness of recollection but not necessarily the ability to recall events. The cause is not established as cerebellar damage.
 
-**A1047.** Autobiographical memory is memory of events and information about one's own life (1); it draws on episodic memory (personal events and experiences) (1) and semantic memory (personal facts, e.g. where you went to school) (1).
+**A1049.** Autobiographical memory is memory of events and information about one's own life (1); it draws on episodic memory (personal events and experiences) (1) and semantic memory (personal facts, e.g. where you went to school) (1).
 <!-- id: psych34a2-ama-6 -->
 
 Explanation:
 
-**A1048.** Imagery contributes to the vividness and sensory richness of recalled events (1); factual (semantic/episodic) information can be retrieved without imagery (1); so imagery is not necessary for the retrieval of autobiographical information, but it influences the quality or detail of recollection (1).
+**A1050.** Imagery contributes to the vividness and sensory richness of recalled events (1); factual (semantic/episodic) information can be retrieved without imagery (1); so imagery is not necessary for the retrieval of autobiographical information, but it influences the quality or detail of recollection (1).
 <!-- id: psych34a2-ama-7 -->
 
 Explanation:
 
-**A1049.** Limitation (1): imagery is subjective, so people may differ in how they interpret or rate vividness, so responses may be unreliable or biased; address (up to 2): use objective measures in addition, such as performance on tasks requiring imagery, physiological responses or comparing with brain imaging, or use standardised scales such as a validated vividness questionnaire and compare across a large sample.
+**A1051.** Limitation (1): imagery is subjective, so people may differ in how they interpret or rate vividness, so responses may be unreliable or biased; address (up to 2): use objective measures in addition, such as performance on tasks requiring imagery, physiological responses or comparing with brain imaging, or use standardised scales such as a validated vividness questionnaire and compare across a large sample.
 <!-- id: psych34a2-ama-8 -->
 
 Explanation:
 
 #### Alzheimer's disease
 
-**A1050.** D. a progressive neurodegenerative disease resulting in loss of neurons and increasing memory and cognitive impairment
+**A1052.** D. a progressive neurodegenerative disease resulting in loss of neurons and increasing memory and cognitive impairment
 <!-- id: psych34a2-alz-1 -->
 
 Explanation: Alzheimer's disease is a progressive neurodegenerative disease. It typically affects explicit memory early, not procedural memory.
 
-**A1051.** B. Build-up of amyloid plaques and neurofibrillary tangles, with neuron loss
+**A1053.** B. Build-up of amyloid plaques and neurofibrillary tangles, with neuron loss
 <!-- id: psych34a2-alz-2 -->
 
 Explanation: Beta-amyloid plaques and tau neurofibrillary tangles lead to neuron death and brain atrophy.
 
-**A1052.** D. Difficulty forming new episodic memories, such as forgetting recent conversations
+**A1054.** D. Difficulty forming new episodic memories, such as forgetting recent conversations
 <!-- id: psych34a2-alz-3 -->
 
 Explanation: The hippocampus is affected early, so difficulty forming new explicit memories appears first. Loss of recognition of family and mobility occurs later.
 
-**A1053.** A. Procedural memory depends on regions such as the cerebellum that are affected later than the hippocampus and neocortex
+**A1055.** A. Procedural memory depends on regions such as the cerebellum that are affected later than the hippocampus and neocortex
 <!-- id: psych34a2-alz-4 -->
 
 Explanation: Implicit procedural memories are more resistant, as they rely on regions less affected early in the disease. A is incorrect since the hippocampus is affected early.
 
-**A1054.** C. decline in language, reasoning and stored explicit memories
+**A1056.** C. decline in language, reasoning and stored explicit memories
 <!-- id: psych34a2-alz-5 -->
 
 Explanation: Neocortical neuron loss affects stored explicit memories and cognitive functions such as language, reasoning and judgement, and can lead to personality changes.
 
-**A1055.** Any two: formation of amyloid plaques between neurons (1); neurofibrillary tangles of tau protein within neurons (1); loss of neurons and synapses (1); shrinkage (atrophy) of regions such as the hippocampus and neocortex (1); reduced levels of neurotransmitters such as acetylcholine (1).
+**A1057.** Any two: formation of amyloid plaques between neurons (1); neurofibrillary tangles of tau protein within neurons (1); loss of neurons and synapses (1); shrinkage (atrophy) of regions such as the hippocampus and neocortex (1); reduced levels of neurotransmitters such as acetylcholine (1).
 <!-- id: psych34a2-alz-6 -->
 
 Explanation:
 
-**A1056.** Damage to the hippocampus affects consolidation of new explicit memories, so recent events and repeated questions are forgotten (1 to 2); making tea is a procedural (implicit) memory, which is stored in regions such as the cerebellum that are affected later (1); her wedding day is an old, consolidated episodic memory stored in the neocortex, which is initially less affected (1).
+**A1058.** Damage to the hippocampus affects consolidation of new explicit memories, so recent events and repeated questions are forgotten (1 to 2); making tea is a procedural (implicit) memory, which is stored in regions such as the cerebellum that are affected later (1); her wedding day is an old, consolidated episodic memory stored in the neocortex, which is initially less affected (1).
 <!-- id: psych34a2-alz-7 -->
 
 Explanation:
 
-**A1057.** As neurons are lost, memory, language and reasoning decline, leading to difficulty with daily tasks such as managing money, cooking or self-care, and eventually needing full-time care (1 to 2); family members may experience emotional, financial and physical strain as carers and may grieve as the person's personality and ability to recognise them changes (1).
+**A1059.** As neurons are lost, memory, language and reasoning decline, leading to difficulty with daily tasks such as managing money, cooking or self-care, and eventually needing full-time care (1 to 2); family members may experience emotional, financial and physical strain as carers and may grieve as the person's personality and ability to recognise them changes (1).
 <!-- id: psych34a2-alz-8 -->
 
 Explanation:
 
 #### Mnemonics
 
-**A1058.** A. an acrostic
+**A1060.** A. an acrostic
 <!-- id: psych34a2-mne-1 -->
 
 Explanation: An acrostic uses the first letters of words to form a new sentence. An acronym forms a single word (e.g. ROYGBIV is an acronym-style device).
 
-**A1059.** C. Imagining placing each item on a shopping list at a distinct location along a familiar route through your house
+**A1061.** C. Imagining placing each item on a shopping list at a distinct location along a familiar route through your house
 <!-- id: psych34a2-mne-2 -->
 
 Explanation: The method of loci associates items with locations on a familiar route. A is chunking, C is an acronym and D is maintenance rehearsal.
 
-**A1060.** D. chunking
+**A1062.** D. chunking
 <!-- id: psych34a2-mne-3 -->
 
 Explanation: Chunking groups items into meaningful units, effectively increasing the amount of information held in short-term memory.
 
-**A1061.** D. They organise information and link it to existing knowledge or cues, which improves encoding and retrieval
+**A1063.** D. They organise information and link it to existing knowledge or cues, which improves encoding and retrieval
 <!-- id: psych34a2-mne-4 -->
 
 Explanation: Mnemonics provide structure and retrieval cues by linking new information to familiar patterns, images or places.
 
-**A1062.** B. an acronym
+**A1064.** B. an acronym
 <!-- id: psych34a2-mne-5 -->
 
 Explanation: An acronym uses the initial letters of items to form a new word or abbreviation.
 
-**A1063.** A mnemonic is a memory aid or technique used to improve encoding and retrieval of information, often by organising it or linking it to something familiar (1); example: acronym, acrostic, method of loci or chunking, with a suitable example (1).
+**A1065.** A mnemonic is a memory aid or technique used to improve encoding and retrieval of information, often by organising it or linking it to something familiar (1); example: acronym, acrostic, method of loci or chunking, with a suitable example (1).
 <!-- id: psych34a2-mne-6 -->
 
 Explanation:
 
-**A1064.** Choose a familiar route or place, e.g. walking through a house (1); create a vivid image of each item and place it in a distinct location along the route in order (1 to 2); at recall, mentally walk the route and retrieve each item from its location (1); helps because locations provide retrieval cues and a sequence, and vivid imagery adds elaboration (1).
+**A1066.** Choose a familiar route or place, e.g. walking through a house (1); create a vivid image of each item and place it in a distinct location along the route in order (1 to 2); at recall, mentally walk the route and retrieve each item from its location (1); helps because locations provide retrieval cues and a sequence, and vivid imagery adds elaboration (1).
 <!-- id: psych34a2-mne-7 -->
 
 Explanation:
 
-**A1065.** STM has a limited capacity of about 7 ± 2 items (1); chunking groups individual items into larger meaningful units (1); each chunk counts as one item, so more information can be held in STM and later transferred to LTM (1).
+**A1067.** STM has a limited capacity of about 7 ± 2 items (1); chunking groups individual items into larger meaningful units (1); each chunk counts as one item, so more information can be held in STM and later transferred to LTM (1).
 <!-- id: psych34a2-mne-8 -->
 
 Explanation:
@@ -5536,294 +5641,294 @@ Explanation:
 
 #### Consciousness and measuring sleep
 
-**A1066.** B. the level of awareness a person has of their internal states and external environment
+**A1068.** B. the level of awareness a person has of their internal states and external environment
 <!-- id: psych34a2-cms-1 -->
 
 Explanation: Consciousness is the awareness of internal and external stimuli, and it exists on a continuum from normal waking consciousness to altered states such as sleep.
 
-**A1067.** D. Electroencephalograph (EEG)
+**A1069.** D. Electroencephalograph (EEG)
 <!-- id: psych34a2-cms-2 -->
 
 Explanation: An EEG records electrical brain activity via electrodes on the scalp. EMG measures muscle tension and EOG eye movement.
 
-**A1068.** B. eye movements
+**A1070.** B. eye movements
 <!-- id: psych34a2-cms-3 -->
 
 Explanation: EOG records eye movements, helping to identify rapid eye movements during REM sleep.
 
-**A1069.** D. A participant's description of their dreams or sleepiness after waking
+**A1071.** D. A participant's description of their dreams or sleepiness after waking
 <!-- id: psych34a2-cms-4 -->
 
 Explanation: Subjective measures are based on a person's own report. Physiological measures such as EEG and heart rate are objective.
 
-**A1070.** A. It allows observation of behaviours such as body movements and sleep talking without the need for the participant's report
+**A1072.** A. It allows observation of behaviours such as body movements and sleep talking without the need for the participant's report
 <!-- id: psych34a2-cms-5 -->
 
 Explanation: Video monitoring provides objective data on behaviours such as movement and sleep position, but cannot record brain activity.
 
-**A1071.** NWC is a state in which a person is alert and aware of their thoughts, feelings and surroundings and can respond in a coordinated way (1); ASC is a state that differs from NWC in level of awareness, perception, attention or control (1); example: sleep, daydreaming, meditation, or a drug-induced state (1).
+**A1073.** NWC is a state in which a person is alert and aware of their thoughts, feelings and surroundings and can respond in a coordinated way (1); ASC is a state that differs from NWC in level of awareness, perception, attention or control (1); example: sleep, daydreaming, meditation, or a drug-induced state (1).
 <!-- id: psych34a2-cms-6 -->
 
 Explanation:
 
-**A1072.** EEG: records electrical activity of the brain; REM shows fast, low-amplitude, beta-like waves similar to wakefulness (1); EOG: records eye movement; REM shows rapid eye movements (1); EMG: records muscle activity; REM shows muscle paralysis/very low muscle tone (1); one mark for linking at least two measures to the identification of REM (1).
+**A1074.** EEG: records electrical activity of the brain; REM shows fast, low-amplitude, beta-like waves similar to wakefulness (1); EOG: records eye movement; REM shows rapid eye movements (1); EMG: records muscle activity; REM shows muscle paralysis/very low muscle tone (1); one mark for linking at least two measures to the identification of REM (1).
 <!-- id: psych34a2-cms-7 -->
 
 Explanation:
 
-**A1073.** Advantage (1): self-reports provide direct access to subjective experiences such as dream content and perceived sleep quality, which cannot be measured physiologically; limitation (2): people may forget or distort what they experienced, may not accurately judge how long they slept, and responses may be influenced by social desirability, so data may be unreliable or inaccurate.
+**A1075.** Advantage (1): self-reports provide direct access to subjective experiences such as dream content and perceived sleep quality, which cannot be measured physiologically; limitation (2): people may forget or distort what they experienced, may not accurately judge how long they slept, and responses may be influenced by social desirability, so data may be unreliable or inaccurate.
 <!-- id: psych34a2-cms-8 -->
 
 Explanation:
 
 #### NREM and REM sleep
 
-**A1074.** B. Fast, low-amplitude brain waves, rapid eye movements and temporary muscle paralysis
+**A1076.** B. Fast, low-amplitude brain waves, rapid eye movements and temporary muscle paralysis
 <!-- id: psych34a2-nrs-1 -->
 
 Explanation: REM sleep shows brain activity similar to wakefulness with rapid eye movements and muscle atonia. Sleep spindles and K-complexes are features of NREM stage 2.
 
-**A1075.** C. Large amplitude, low frequency delta waves
+**A1077.** C. Large amplitude, low frequency delta waves
 <!-- id: psych34a2-nrs-2 -->
 
 Explanation: NREM stage 3 is dominated by delta waves, and it is the deepest stage of sleep and hardest to wake from.
 
-**A1076.** B. NREM stage 2
+**A1078.** B. NREM stage 2
 <!-- id: psych34a2-nrs-3 -->
 
 Explanation: Sleep spindles and K-complexes are characteristic of NREM stage 2.
 
-**A1077.** D. It increases, with REM periods becoming longer toward morning
+**A1079.** D. It increases, with REM periods becoming longer toward morning
 <!-- id: psych34a2-nrs-4 -->
 
 Explanation: REM periods become longer in later cycles, while NREM stage 3 is concentrated in the first half of the night.
 
-**A1078.** D. report that they have been dreaming vividly
+**A1080.** D. report that they have been dreaming vividly
 <!-- id: psych34a2-nrs-5 -->
 
 Explanation: Vivid dreaming is more commonly reported on waking from REM, although dreams can also occur in NREM. Muscle paralysis does not persist after waking.
 
-**A1079.** Light sleep, transition between wakefulness and sleep (1); brain waves slow from alpha to theta, with slower heart rate and breathing, reduced muscle tone and possible hypnic jerks, slow rolling eye movements (1).
+**A1081.** Light sleep, transition between wakefulness and sleep (1); brain waves slow from alpha to theta, with slower heart rate and breathing, reduced muscle tone and possible hypnic jerks, slow rolling eye movements (1).
 <!-- id: psych34a2-nrs-6 -->
 
 Explanation:
 
-**A1080.** Brain waves: REM is fast, low amplitude, similar to wakefulness; NREM 3 is slow, high amplitude delta waves (1); muscle tone: REM has paralysis (atonia) while NREM 3 has reduced but present muscle tone (1); ease of waking: REM is relatively easy to wake from (brain is active) while NREM 3 is hardest to wake from (1); one mark for correctly using comparative language or noting both stages for each criterion (1).
+**A1082.** Brain waves: REM is fast, low amplitude, similar to wakefulness; NREM 3 is slow, high amplitude delta waves (1); muscle tone: REM has paralysis (atonia) while NREM 3 has reduced but present muscle tone (1); ease of waking: REM is relatively easy to wake from (brain is active) while NREM 3 is hardest to wake from (1); one mark for correctly using comparative language or noting both stages for each criterion (1).
 <!-- id: psych34a2-nrs-7 -->
 
 Explanation:
 
-**A1081.** A person does not go straight from stage 1 through to REM; the order is NREM 1, 2, 3 and back through 2 before REM (1); the cycle lasts about 90 minutes and repeats 4 to 5 times per night (1); the proportions change across the night, with more deep sleep early and longer REM later (1).
+**A1083.** A person does not go straight from stage 1 through to REM; the order is NREM 1, 2, 3 and back through 2 before REM (1); the cycle lasts about 90 minutes and repeats 4 to 5 times per night (1); the proportions change across the night, with more deep sleep early and longer REM later (1).
 <!-- id: psych34a2-nrs-8 -->
 
 Explanation:
 
 #### Circadian and ultradian rhythms
 
-**A1082.** C. lasts about 24 hours
+**A1084.** C. lasts about 24 hours
 <!-- id: psych34a2-cur-1 -->
 
 Explanation: Circadian rhythms (e.g. the sleep-wake cycle) last approximately 24 hours. Ultradian rhythms are shorter than 24 hours, such as the approximately 90-minute sleep cycle.
 
-**A1083.** A. The suprachiasmatic nucleus (SCN)
+**A1085.** A. The suprachiasmatic nucleus (SCN)
 <!-- id: psych34a2-cur-2 -->
 
 Explanation: The SCN in the hypothalamus receives light information from the retina and regulates circadian rhythms, signalling the pineal gland to adjust melatonin release.
 
-**A1084.** B. a hormone secreted by the pineal gland that promotes sleepiness, with levels rising in darkness
+**A1086.** B. a hormone secreted by the pineal gland that promotes sleepiness, with levels rising in darkness
 <!-- id: psych34a2-cur-3 -->
 
 Explanation: The pineal gland releases melatonin in response to darkness, signalled by the SCN, which promotes sleep onset.
 
-**A1085.** A. The 90-minute cycle through stages of sleep
+**A1087.** A. The 90-minute cycle through stages of sleep
 <!-- id: psych34a2-cur-4 -->
 
 Explanation: Ultradian rhythms are cycles shorter than 24 hours that repeat within a day, such as sleep stage cycles. The sleep-wake cycle is circadian.
 
-**A1086.** D. Their internal clock is mismatched with external light-dark cues, causing reduced sleep quality and alertness at work
+**A1088.** D. Their internal clock is mismatched with external light-dark cues, causing reduced sleep quality and alertness at work
 <!-- id: psych34a2-cur-5 -->
 
 Explanation: Working against light-dark cues causes desynchronisation of the internal clock, leading to sleep problems and reduced alertness.
 
-**A1087.** Circadian rhythm: a cycle of about 24 hours (1); example: the sleep-wake cycle (1); ultradian rhythm: a cycle shorter than 24 hours, occurring more than once a day (1); example: the approximately 90-minute cycle of sleep stages (NREM and REM) (1).
+**A1089.** Circadian rhythm: a cycle of about 24 hours (1); example: the sleep-wake cycle (1); ultradian rhythm: a cycle shorter than 24 hours, occurring more than once a day (1); example: the approximately 90-minute cycle of sleep stages (NREM and REM) (1).
 <!-- id: psych34a2-cur-6 -->
 
 Explanation:
 
-**A1088.** The retina detects reduced light and sends signals to the SCN (1); the SCN signals the pineal gland to increase melatonin secretion (1); rising melatonin promotes sleepiness and lowers alertness, leading to sleep onset (1).
+**A1090.** The retina detects reduced light and sends signals to the SCN (1); the SCN signals the pineal gland to increase melatonin secretion (1); rising melatonin promotes sleepiness and lowers alertness, leading to sleep onset (1).
 <!-- id: psych34a2-cur-7 -->
 
 Explanation:
 
-**A1089.** Her circadian rhythm is aligned to Melbourne time (1); in London, the light-dark cycle and local times are different, so melatonin release and the body clock are out of sync with local time (1); the SCN takes several days to adjust (resynchronise) to the new light cues, so she is sleepy during the day and alert at night (jet lag) (1).
+**A1091.** Her circadian rhythm is aligned to Melbourne time (1); in London, the light-dark cycle and local times are different, so melatonin release and the body clock are out of sync with local time (1); the SCN takes several days to adjust (resynchronise) to the new light cues, so she is sleepy during the day and alert at night (jet lag) (1).
 <!-- id: psych34a2-cur-8 -->
 
 Explanation:
 
 #### Sleep across the lifespan
 
-**A1090.** C. sleep for more hours and spend a greater proportion of sleep in REM sleep
+**A1092.** C. sleep for more hours and spend a greater proportion of sleep in REM sleep
 <!-- id: psych34a2-sal-1 -->
 
 Explanation: Newborns sleep for about 14 to 17 hours per day, with about half of it REM sleep, which is thought to be important for brain development.
 
-**A1091.** A. A decrease in NREM stage 3 sleep and more frequent awakenings
+**A1093.** A. A decrease in NREM stage 3 sleep and more frequent awakenings
 <!-- id: psych34a2-sal-2 -->
 
 Explanation: Older adults experience less deep slow-wave sleep, lighter sleep, and more frequent awakenings, with total sleep time reducing slightly.
 
-**A1092.** C. A delay in the release of melatonin shifts their circadian rhythm later
+**A1094.** C. A delay in the release of melatonin shifts their circadian rhythm later
 <!-- id: psych34a2-sal-3 -->
 
 Explanation: During puberty, a phase delay in melatonin release moves the circadian rhythm later, making early sleep difficult.
 
-**A1093.** B. 7 to 9 hours
+**A1095.** B. 7 to 9 hours
 <!-- id: psych34a2-sal-4 -->
 
 Explanation: Adults (and most people aged 18 to 64) typically need about 7 to 9 hours of sleep per night.
 
-**A1094.** D. The proportion of sleep spent in REM is highest in infancy and declines to about 20 to 25% in adulthood
+**A1096.** D. The proportion of sleep spent in REM is highest in infancy and declines to about 20 to 25% in adulthood
 <!-- id: psych34a2-sal-5 -->
 
 Explanation: REM makes up about 50% of newborn sleep, and gradually falls to roughly 20 to 25% in adults and slightly less in older age.
 
-**A1095.** Any two: newborns sleep more hours per day (about 14 to 17 hours versus 7 to 9 hours) (1); newborns spend a greater proportion of sleep in REM (about 50% versus 20 to 25%) (1); newborns' sleep is polyphasic (several short sleeps across 24 hours, no consolidated night sleep) and has shorter cycles (1).
+**A1097.** Any two: newborns sleep more hours per day (about 14 to 17 hours versus 7 to 9 hours) (1); newborns spend a greater proportion of sleep in REM (about 50% versus 20 to 25%) (1); newborns' sleep is polyphasic (several short sleeps across 24 hours, no consolidated night sleep) and has shorter cycles (1).
 <!-- id: psych34a2-sal-6 -->
 
 Explanation:
 
-**A1096.** Adolescents experience a delay in melatonin secretion due to a shift in circadian rhythm (1); this results in sleep onset later at night and difficulty waking early (1); adolescents need about 8 to 10 hours of sleep, so early starts reduce total sleep (1); a later start would allow sleep to better match their biological rhythm and improve alertness and learning (1).
+**A1098.** Adolescents experience a delay in melatonin secretion due to a shift in circadian rhythm (1); this results in sleep onset later at night and difficulty waking early (1); adolescents need about 8 to 10 hours of sleep, so early starts reduce total sleep (1); a later start would allow sleep to better match their biological rhythm and improve alertness and learning (1).
 <!-- id: psych34a2-sal-7 -->
 
 Explanation:
 
-**A1097.** Any two changes (1 mark each): reduced time in deep NREM stage 3 sleep; more frequent awakenings and lighter sleep; earlier sleep and wake times due to a shift in circadian rhythm; plus 1 mark for an effect: sleep fragmentation can lead to daytime sleepiness, napping and reduced concentration or alertness.
+**A1099.** Any two changes (1 mark each): reduced time in deep NREM stage 3 sleep; more frequent awakenings and lighter sleep; earlier sleep and wake times due to a shift in circadian rhythm; plus 1 mark for an effect: sleep fragmentation can lead to daytime sleepiness, napping and reduced concentration or alertness.
 <!-- id: psych34a2-sal-8 -->
 
 Explanation:
 
 #### Sleep deprivation
 
-**A1098.** B. A brief, involuntary episode of sleep lasting a few seconds, during which the person may appear awake
+**A1100.** B. A brief, involuntary episode of sleep lasting a few seconds, during which the person may appear awake
 <!-- id: psych34a3-sd-1 -->
 
 Explanation: Microsleeps are involuntary lapses lasting seconds, often with eyes open, and are a hallmark of sleep deprivation. A nap is deliberate; microsleeps are not.
 
-**A1099.** A. slower, similar to the impairment seen with a blood alcohol concentration of about 0.10%
+**A1101.** A. slower, similar to the impairment seen with a blood alcohol concentration of about 0.10%
 <!-- id: psych34a3-sd-2 -->
 
 Explanation: Research comparing performance after prolonged wakefulness found that about 17-19 hours awake is comparable to a BAC of about 0.05%, and about 24 hours is comparable to about 0.10%.
 
-**A1100.** B. Increased irritability and mood swings
+**A1102.** B. Increased irritability and mood swings
 <!-- id: psych34a3-sd-3 -->
 
 Explanation: Affective functioning refers to mood and emotional responses. Irritability is affective; the others are cognitive or behavioural effects.
 
-**A1101.** C. Total sleep deprivation involves no sleep for a period of time, while partial involves reduced sleep or sleep that is restricted or fragmented
+**A1103.** C. Total sleep deprivation involves no sleep for a period of time, while partial involves reduced sleep or sleep that is restricted or fragmented
 <!-- id: psych34a3-sd-4 -->
 
 Explanation: Total deprivation is going without sleep entirely for a period; partial is a reduction in total sleep time (restricted or disrupted sleep), which is the more common everyday form.
 
-**A1102.** D. cognitive functioning
+**A1104.** D. cognitive functioning
 <!-- id: psych34a3-sd-5 -->
 
 Explanation: Reduced concentration, attention and problem-solving accuracy are cognitive effects. Behavioural effects would include slowed reaction time or impaired coordination.
 
-**A1103.** Total sleep deprivation is no sleep at all for a period of time (e.g. staying awake all night to study / a 24-hour shift); partial sleep deprivation is getting less sleep than needed, through restricted or fragmented sleep over one or more nights (e.g. sleeping five hours a night during exams); the difference is complete absence of sleep versus reduced/disrupted sleep.
+**A1105.** Total sleep deprivation is no sleep at all for a period of time (e.g. staying awake all night to study / a 24-hour shift); partial sleep deprivation is getting less sleep than needed, through restricted or fragmented sleep over one or more nights (e.g. sleeping five hours a night during exams); the difference is complete absence of sleep versus reduced/disrupted sleep.
 <!-- id: psych34a3-sd-6 -->
 
 Explanation:
 
-**A1104.** Behavioural: slowed reaction time, reduced coordination/motor performance, microsleeps leading to loss of control; Cognitive: reduced attention/concentration, impaired decision-making and judgement; Comparison: about 24 hours awake produces impairment comparable to a BAC of about 0.10%, above the legal driving limit of 0.05%; so the driver is at greater risk of a crash.
+**A1106.** Behavioural: slowed reaction time, reduced coordination/motor performance, microsleeps leading to loss of control; Cognitive: reduced attention/concentration, impaired decision-making and judgement; Comparison: about 24 hours awake produces impairment comparable to a BAC of about 0.10%, above the legal driving limit of 0.05%; so the driver is at greater risk of a crash.
 <!-- id: psych34a3-sd-7 -->
 
 Explanation:
 
-**A1105.** Sleep deprivation has immediate effects on functioning, so performance during the day is already impaired (e.g. slowed reaction time, poor concentration, memory difficulty); affective effects such as irritability and mood changes also occur before any recovery sleep; the claim ignores these immediate costs, so it is not supported even if some recovery sleep occurs later.
+**A1107.** Sleep deprivation has immediate effects on functioning, so performance during the day is already impaired (e.g. slowed reaction time, poor concentration, memory difficulty); affective effects such as irritability and mood changes also occur before any recovery sleep; the claim ignores these immediate costs, so it is not supported even if some recovery sleep occurs later.
 <!-- id: psych34a3-sd-8 -->
 
 Explanation:
 
 #### Circadian rhythm sleep disorders and treatments
 
-**A1106.** B. a persistent inability to fall asleep until very late at night and difficulty waking at socially required times, because the sleep-wake cycle is shifted later
+**A1108.** B. a persistent inability to fall asleep until very late at night and difficulty waking at socially required times, because the sleep-wake cycle is shifted later
 <!-- id: psych34a3-crsd-1 -->
 
 Explanation: In DSPD the circadian rhythm is delayed so that the person's natural sleep and wake times are later than conventional. Falling asleep and waking too early describes advanced sleep phase disorder.
 
-**A1107.** D. Bright light therapy
+**A1109.** D. Bright light therapy
 <!-- id: psych34a3-crsd-2 -->
 
 Explanation: Morning bright light exposure suppresses melatonin and advances the circadian phase, which helps move a delayed cycle earlier.
 
-**A1108.** A. Her work schedule conflicts with her circadian rhythm, which is synchronised by light and other zeitgebers
+**A1110.** A. Her work schedule conflicts with her circadian rhythm, which is synchronised by light and other zeitgebers
 <!-- id: psych34a3-crsd-3 -->
 
 Explanation: Shift work forces wakefulness and sleep at times that conflict with the endogenous circadian rhythm and the cues from the light-dark cycle, producing circadian misalignment.
 
-**A1109.** C. it is a hormone secreted by the pineal gland that signals darkness and promotes sleepiness, so timed doses can shift the sleep-wake cycle
+**A1111.** C. it is a hormone secreted by the pineal gland that signals darkness and promotes sleepiness, so timed doses can shift the sleep-wake cycle
 <!-- id: psych34a3-crsd-4 -->
 
 Explanation: Melatonin is secreted by the pineal gland in darkness; taken at an appropriate time it helps shift the timing of the circadian rhythm. The GABA option describes benzodiazepine-type action.
 
-**A1110.** D. It is caused by a mismatch between her internal body clock and the new local time, so her zeitgebers are out of step with her circadian rhythm
+**A1112.** D. It is caused by a mismatch between her internal body clock and the new local time, so her zeitgebers are out of step with her circadian rhythm
 <!-- id: psych34a3-crsd-5 -->
 
 Explanation: Jet lag is a temporary misalignment between the circadian rhythm and external cues at the new time zone. It resolves as the body clock re-entrains.
 
-**A1111.** DSPD: a circadian rhythm sleep disorder where the sleep-wake cycle is delayed so the person cannot fall asleep until very late and wakes late / has difficulty waking at socially required times; effect: e.g. daytime sleepiness at school due to partial sleep deprivation, reduced concentration or poorer performance, or irritability; the cause is a mismatch between the body clock and school schedule.
+**A1113.** DSPD: a circadian rhythm sleep disorder where the sleep-wake cycle is delayed so the person cannot fall asleep until very late and wakes late / has difficulty waking at socially required times; effect: e.g. daytime sleepiness at school due to partial sleep deprivation, reduced concentration or poorer performance, or irritability; the cause is a mismatch between the body clock and school schedule.
 <!-- id: psych34a3-crsd-6 -->
 
 Explanation:
 
-**A1112.** Bright light therapy: exposure to bright light soon after waking suppresses melatonin and shifts the circadian rhythm earlier; so the person feels sleepy earlier at night; Melatonin: synthetic melatonin taken several hours before the desired bedtime (in the evening) acts like the natural darkness signal; promotes sleepiness and advances the sleep-wake cycle; timing is important as wrongly timed light or melatonin could shift the cycle in the wrong direction.
+**A1114.** Bright light therapy: exposure to bright light soon after waking suppresses melatonin and shifts the circadian rhythm earlier; so the person feels sleepy earlier at night; Melatonin: synthetic melatonin taken several hours before the desired bedtime (in the evening) acts like the natural darkness signal; promotes sleepiness and advances the sleep-wake cycle; timing is important as wrongly timed light or melatonin could shift the cycle in the wrong direction.
 <!-- id: psych34a3-crsd-7 -->
 
 Explanation:
 
-**A1113.** Light is the main zeitgeber that entrains the circadian rhythm; daylight exposure signals wakefulness and suppresses melatonin, so during the day her body is cued to be alert; her night work conflicts with her body clock, so she is sleepy at work and has trouble sleeping in daytime (circadian misalignment); noise and social cues (zeitgebers) in daytime may also reduce sleep.
+**A1115.** Light is the main zeitgeber that entrains the circadian rhythm; daylight exposure signals wakefulness and suppresses melatonin, so during the day her body is cued to be alert; her night work conflicts with her body clock, so she is sleepy at work and has trouble sleeping in daytime (circadian misalignment); noise and social cues (zeitgebers) in daytime may also reduce sleep.
 <!-- id: psych34a3-crsd-8 -->
 
 Explanation:
 
 #### Sleep hygiene and zeitgebers
 
-**A1114.** C. an external environmental cue that helps synchronise the body's circadian rhythm
+**A1116.** C. an external environmental cue that helps synchronise the body's circadian rhythm
 <!-- id: psych34a3-shz-1 -->
 
 Explanation: Zeitgebers (time-givers) such as light, meals and social cues entrain the endogenous circadian rhythm to the 24-hour day.
 
-**A1115.** A. Keeping a consistent bedtime and wake time, including on weekends
+**A1117.** A. Keeping a consistent bedtime and wake time, including on weekends
 <!-- id: psych34a3-shz-2 -->
 
 Explanation: A regular sleep-wake schedule supports the circadian rhythm. Screens, caffeine and long late naps all interfere with sleep onset.
 
-**A1116.** C. Light
+**A1118.** C. Light
 <!-- id: psych34a3-shz-3 -->
 
 Explanation: Light detected by the retina signals the suprachiasmatic nucleus and regulates melatonin release, so it is the dominant zeitgeber.
 
-**A1117.** A. screen emits light, which suppresses melatonin secretion and delays sleep onset
+**A1119.** A. screen emits light, which suppresses melatonin secretion and delays sleep onset
 <!-- id: psych34a3-shz-4 -->
 
 Explanation: Light, especially blue-enriched light from screens, suppresses melatonin from the pineal gland and delays sleepiness. Removing the device is a sleep hygiene strategy.
 
-**A1118.** C. A decrease in the mean sleep onset latency
+**A1120.** C. A decrease in the mean sleep onset latency
 <!-- id: psych34a3-shz-5 -->
 
 Explanation: Sleep onset latency is the time taken to fall asleep; a reduction after the program indicates improved sleep, though a control group would be needed to attribute this to the program.
 
-**A1119.** Sleep hygiene: habits and practices that promote good quality and sufficient sleep; e.g. avoid screens / bright light for an hour before bed; no caffeine in the afternoon or evening; consistent sleep and wake times; a cool, dark, quiet bedroom.
+**A1121.** Sleep hygiene: habits and practices that promote good quality and sufficient sleep; e.g. avoid screens / bright light for an hour before bed; no caffeine in the afternoon or evening; consistent sleep and wake times; a cool, dark, quiet bedroom.
 <!-- id: psych34a3-shz-6 -->
 
 Explanation:
 
-**A1120.** Light is detected by the retina and signals the suprachiasmatic nucleus (the body clock) in the hypothalamus; the SCN regulates the pineal gland's secretion of melatonin: darkness increases melatonin and sleepiness, light suppresses it; so regular light exposure keeps the circadian rhythm aligned with the 24-hour day.
+**A1122.** Light is detected by the retina and signals the suprachiasmatic nucleus (the body clock) in the hypothalamus; the SCN regulates the pineal gland's secretion of melatonin: darkness increases melatonin and sleepiness, light suppresses it; so regular light exposure keeps the circadian rhythm aligned with the 24-hour day.
 <!-- id: psych34a3-shz-7 -->
 
 Explanation:
 
-**A1121.** His weekend schedule delays his exposure to morning light and other zeitgebers, shifting the circadian rhythm later; on Monday his body clock is out of sync with the early school start, so he is sleepy and has difficulty waking; solution: keep a consistent wake time and get morning light exposure (or avoid late-night light / screens); this re-entrains the cycle and reduces social jet lag.
+**A1123.** His weekend schedule delays his exposure to morning light and other zeitgebers, shifting the circadian rhythm later; on Monday his body clock is out of sync with the early school start, so he is sleepy and has difficulty waking; solution: keep a consistent wake time and get morning light exposure (or avoid late-night light / screens); this re-entrains the cycle and reduces social jet lag.
 <!-- id: psych34a3-shz-8 -->
 
 Explanation:
@@ -5832,210 +5937,210 @@ Explanation:
 
 #### Mental wellbeing and the mental health continuum
 
-**A1122.** A. A state in which a person can realise their abilities, cope with normal stressors, work productively and contribute to their community
+**A1124.** A. A state in which a person can realise their abilities, cope with normal stressors, work productively and contribute to their community
 <!-- id: psych34a3-mw-1 -->
 
 Explanation: Mental wellbeing is more than the absence of illness; it is a state of functioning and capacity to cope and contribute. The first option confuses wellbeing with the absence of disorder.
 
-**A1123.** B. at the mentally healthy / good mental wellbeing end
+**A1125.** B. at the mentally healthy / good mental wellbeing end
 <!-- id: psych34a3-mw-2 -->
 
 Explanation: The continuum runs from mentally healthy functioning, through mental health problems and mental disorders, to severe mental illness. Position can move over time.
 
-**A1124.** A. A mental health problem interferes with a person's thoughts, feelings or behaviour but is generally less severe and shorter lasting than a mental disorder, which meets diagnostic criteria and persists over time
+**A1126.** A. A mental health problem interferes with a person's thoughts, feelings or behaviour but is generally less severe and shorter lasting than a mental disorder, which meets diagnostic criteria and persists over time
 <!-- id: psych34a3-mw-3 -->
 
 Explanation: Problems are milder and often temporary (e.g. stress after an exam); a mental disorder is diagnosed against criteria (e.g. DSM-5-TR) and involves significant, persistent distress or impairment.
 
-**A1125.** C. a mental health problem
+**A1127.** C. a mental health problem
 <!-- id: psych34a3-mw-4 -->
 
 Explanation: Temporary difficulties that affect functioning but do not meet diagnostic criteria in severity or duration are mental health problems.
 
-**A1126.** A. People's mental health can vary in degree and shift position over time in response to internal and external factors
+**A1128.** A. People's mental health can vary in degree and shift position over time in response to internal and external factors
 <!-- id: psych34a3-mw-5 -->
 
 Explanation: A continuum recognises gradations and change over time. Fixed categories ignore the fluctuation that occurs with stress, support, treatment and life events.
 
-**A1127.** The continuum shows mental health ranging from good mental wellbeing/optimal functioning through mental health problems and mental disorder to severe mental illness; position changes with internal factors (e.g. coping, biological state) and external factors (e.g. stressors, social support, treatment); so someone can move toward either end over time.
+**A1129.** The continuum shows mental health ranging from good mental wellbeing/optimal functioning through mental health problems and mental disorder to severe mental illness; position changes with internal factors (e.g. coping, biological state) and external factors (e.g. stressors, social support, treatment); so someone can move toward either end over time.
 <!-- id: psych34a3-mw-6 -->
 
 Explanation:
 
-**A1128.** Mental wellbeing: a positive state of functioning in which a person can cope, realise abilities and contribute (e.g. a student who copes with exams and maintains friendships); mental illness: a diagnosable condition involving significant distress and impairment (e.g. major depressive disorder); wellbeing is not just the absence of illness, and illness is more severe and persistent.
+**A1130.** Mental wellbeing: a positive state of functioning in which a person can cope, realise abilities and contribute (e.g. a student who copes with exams and maintains friendships); mental illness: a diagnosable condition involving significant distress and impairment (e.g. major depressive disorder); wellbeing is not just the absence of illness, and illness is more severe and persistent.
 <!-- id: psych34a3-mw-7 -->
 
 Explanation:
 
-**A1129.** He has moved from the mentally healthy end toward a mental health problem due to external factors (job loss, reduced social support) which strained his coping; he is not necessarily a mental disorder unless criteria are met; moving back could involve new employment, rebuilding social connections and developing coping strategies/seeking professional help.
+**A1131.** He has moved from the mentally healthy end toward a mental health problem due to external factors (job loss, reduced social support) which strained his coping; he is not necessarily a mental disorder unless criteria are met; moving back could involve new employment, rebuilding social connections and developing coping strategies/seeking professional help.
 <!-- id: psych34a3-mw-8 -->
 
 Explanation:
 
 #### Social and emotional wellbeing
 
-**A1130.** A. A holistic concept that includes connection to body, mind and emotions, family and kinship, community, culture, Country, and spirituality and ancestors
+**A1132.** A. A holistic concept that includes connection to body, mind and emotions, family and kinship, community, culture, Country, and spirituality and ancestors
 <!-- id: psych34a3-sew-1 -->
 
 Explanation: SEWB is a multidimensional, holistic concept, with wellbeing of the individual understood as bound up with family, community, culture and Country.
 
-**A1131.** C. Taking part in cultural ceremonies and caring for land that holds ancestral and spiritual significance
+**A1133.** C. Taking part in cultural ceremonies and caring for land that holds ancestral and spiritual significance
 <!-- id: psych34a3-sew-2 -->
 
 Explanation: Connection to Country, including the land, waters and community, is one of the interrelated domains of SEWB.
 
-**A1132.** A. views wellbeing as shaped by the person's connections to family, community, culture and Country, as well as individual factors
+**A1134.** A. views wellbeing as shaped by the person's connections to family, community, culture and Country, as well as individual factors
 <!-- id: psych34a3-sew-3 -->
 
 Explanation: SEWB integrates individual, community, cultural and historical contexts, whereas a narrow biomedical approach emphasises individual biology.
 
-**A1133.** C. Racism and discrimination
+**A1135.** C. Racism and discrimination
 <!-- id: psych34a3-sew-4 -->
 
 Explanation: Racism, discrimination, and the ongoing impacts of dispossession and removal from family are risk factors, while kinship, culture and culturally safe services are protective.
 
-**A1134.** A. Spending time with extended family and fulfilling kinship obligations
+**A1136.** A. Spending time with extended family and fulfilling kinship obligations
 <!-- id: psych34a3-sew-5 -->
 
 Explanation: Kinship systems and extended family roles and responsibilities are central to identity and support, and so to SEWB.
 
-**A1135.** SEWB is a holistic, multidimensional concept of health where an individual's wellbeing is linked to their connections to others, culture and land; and not just absence of illness; two domains from: body, mind and emotions; family and kinship; community; culture; Country; spirituality and ancestors.
+**A1137.** SEWB is a holistic, multidimensional concept of health where an individual's wellbeing is linked to their connections to others, culture and land; and not just absence of illness; two domains from: body, mind and emotions; family and kinship; community; culture; Country; spirituality and ancestors.
 <!-- id: psych34a3-sew-6 -->
 
 Explanation:
 
-**A1136.** Connection to Country and culture is part of identity and belonging in SEWB; its loss (e.g. through displacement or disconnection from community) may reduce sense of identity, spiritual connection and support; so could lead to lowered self-esteem, isolation and increased risk of a mental health problem; the domains are interrelated, so a loss in one affects others.
+**A1138.** Connection to Country and culture is part of identity and belonging in SEWB; its loss (e.g. through displacement or disconnection from community) may reduce sense of identity, spiritual connection and support; so could lead to lowered self-esteem, isolation and increased risk of a mental health problem; the domains are interrelated, so a loss in one affects others.
 <!-- id: psych34a3-sew-7 -->
 
 Explanation:
 
-**A1137.** Strategy 1: run programs led by elders/community members that include cultural activities (e.g. language, ceremony, art); justification: strengthens connection to culture and community; Strategy 2: Country-based programs such as caring for Country or on-Country camps; justification: strengthens connection to Country and spirituality/ancestors; other valid: family and kinship support groups; services should be culturally safe and community-controlled.
+**A1139.** Strategy 1: run programs led by elders/community members that include cultural activities (e.g. language, ceremony, art); justification: strengthens connection to culture and community; Strategy 2: Country-based programs such as caring for Country or on-Country camps; justification: strengthens connection to Country and spirituality/ancestors; other valid: family and kinship support groups; services should be culturally safe and community-controlled.
 <!-- id: psych34a3-sew-8 -->
 
 Explanation:
 
 #### Specific phobia: contributing factors
 
-**A1138.** A. Excessive, persistent fear of a specific object or situation that is out of proportion to the actual danger and leads to avoidance
+**A1140.** A. Excessive, persistent fear of a specific object or situation that is out of proportion to the actual danger and leads to avoidance
 <!-- id: psych34a3-sp-1 -->
 
 Explanation: A specific phobia involves marked, irrational fear of a particular object or situation, usually lasting six months or more, with avoidance or intense distress.
 
-**A1139.** C. Dysfunction in GABA, an inhibitory neurotransmitter, can reduce its ability to calm the fear response, so anxiety is less regulated
+**A1141.** C. Dysfunction in GABA, an inhibitory neurotransmitter, can reduce its ability to calm the fear response, so anxiety is less regulated
 <!-- id: psych34a3-sp-2 -->
 
 Explanation: GABA is the main inhibitory neurotransmitter that dampens neural activity; dysfunction in its action can lead to heightened fear and anxiety responses.
 
-**A1140.** B. conditioned stimulus
+**A1142.** B. conditioned stimulus
 <!-- id: psych34a3-sp-3 -->
 
 Explanation: Before the incident the dog was a neutral stimulus; paired with the fall (UCS) it becomes a conditioned stimulus that elicits fear (CR). Fear of small dogs shows stimulus generalisation.
 
-**A1141.** B. Observing a parent react with extreme fear to spiders
+**A1143.** B. Observing a parent react with extreme fear to spiders
 <!-- id: psych34a3-sp-4 -->
 
 Explanation: Observational learning from a family member or media is part of the social/psychological learning pathway. Low GABA is biological. The conditioning option is psychological.
 
-**A1142.** A. It strengthens synaptic connections associated with the feared stimulus and fear response, making the fear memory more easily triggered
+**A1144.** A. It strengthens synaptic connections associated with the feared stimulus and fear response, making the fear memory more easily triggered
 <!-- id: psych34a3-sp-5 -->
 
 Explanation: Repeated activation of the neural pathways linking the stimulus and fear response strengthens the synapses (LTP), supporting persistence of the phobia.
 
-**A1143.** Biological: dysfunction in GABA reduces inhibition of fear response / LTP strengthens the fear memory pathway; Psychological: a frightening experience of turbulence classically conditions fear of flying (flight = CS), or avoidance reinforces fear (negative reinforcement); Social: seeing a family member or media coverage showing fear of air travel (observational learning); overall these factors interact.
+**A1145.** Biological: dysfunction in GABA reduces inhibition of fear response / LTP strengthens the fear memory pathway; Psychological: a frightening experience of turbulence classically conditions fear of flying (flight = CS), or avoidance reinforces fear (negative reinforcement); Social: seeing a family member or media coverage showing fear of air travel (observational learning); overall these factors interact.
 <!-- id: psych34a3-sp-6 -->
 
 Explanation:
 
-**A1144.** UCS: the frightening event (e.g. being trapped in a lift when it breaks down); UCR: fear/panic; before conditioning the lift is a neutral stimulus; after pairing, the lift becomes the CS; CR: fear response to the lift alone; generalisation to other enclosed spaces may follow.
+**A1146.** UCS: the frightening event (e.g. being trapped in a lift when it breaks down); UCR: fear/panic; before conditioning the lift is a neutral stimulus; after pairing, the lift becomes the CS; CR: fear response to the lift alone; generalisation to other enclosed spaces may follow.
 <!-- id: psych34a3-sp-7 -->
 
 Explanation:
 
-**A1145.** Avoiding the object reduces anxiety, which negatively reinforces the avoidance behaviour (anxiety relief is rewarding); the person never learns the feared stimulus is safe, so the conditioned response is not extinguished; the fear memory remains and the phobia persists.
+**A1147.** Avoiding the object reduces anxiety, which negatively reinforces the avoidance behaviour (anxiety relief is rewarding); the person never learns the feared stimulus is safe, so the conditioned response is not extinguished; the fear memory remains and the phobia persists.
 <!-- id: psych34a3-sp-8 -->
 
 Explanation:
 
 #### Specific phobia: evidence-based interventions
 
-**A1146.** D. a gradual exposure to feared stimuli in a hierarchy from least to most feared while using relaxation to replace the fear response
+**A1148.** D. a gradual exposure to feared stimuli in a hierarchy from least to most feared while using relaxation to replace the fear response
 <!-- id: psych34a3-spi-1 -->
 
 Explanation: Systematic desensitisation uses counterconditioning: relaxation is paired with each step of a fear hierarchy. Immediate full exposure describes flooding.
 
-**A1147.** A. reduces anxiety by enhancing the inhibitory effect of GABA on neural activity
+**A1149.** A. reduces anxiety by enhancing the inhibitory effect of GABA on neural activity
 <!-- id: psych34a3-spi-2 -->
 
 Explanation: Benzodiazepines are GABA agonists: they enhance GABA's inhibitory action and reduce arousal. They provide short-term symptom relief only, and have risks such as dependence.
 
-**A1148.** D. Cognitive behavioural therapy (CBT)
+**A1150.** D. Cognitive behavioural therapy (CBT)
 <!-- id: psych34a3-spi-3 -->
 
 Explanation: CBT targets unhelpful thoughts and behaviours, and often includes exposure. Medication and diet are biological.
 
-**A1149.** D. flooding
+**A1151.** D. flooding
 <!-- id: psych34a3-spi-4 -->
 
 Explanation: Flooding involves immediate, prolonged exposure to the feared stimulus until the fear response extinguishes. It is effective but can be distressing, so informed consent matters.
 
-**A1150.** B. Psychoeducation delivered to the person's family so they understand the phobia and can support the treatment
+**A1152.** B. Psychoeducation delivered to the person's family so they understand the phobia and can support the treatment
 <!-- id: psych34a3-spi-5 -->
 
 Explanation: Social interventions involve the person's social environment, such as psychoeducation, support groups and family involvement.
 
-**A1151.** Person learns a relaxation technique (e.g. deep breathing); a fear hierarchy is constructed from least feared (e.g. word 'spider') to most feared (holding one); person is gradually exposed at each step while relaxed; progression only occurs when anxiety is controlled; by counterconditioning, relaxation replaces fear as the response.
+**A1153.** Person learns a relaxation technique (e.g. deep breathing); a fear hierarchy is constructed from least feared (e.g. word 'spider') to most feared (holding one); person is gradually exposed at each step while relaxed; progression only occurs when anxiety is controlled; by counterconditioning, relaxation replaces fear as the response.
 <!-- id: psych34a3-spi-6 -->
 
 Explanation:
 
-**A1152.** Benefit: act quickly to reduce anxiety by increasing GABA's inhibitory effect, useful short-term; limitation: do not address the cause (e.g. learned fear), so symptoms may return when stopped; risks include drowsiness, tolerance and dependence; therefore best combined with psychological interventions such as CBT or exposure.
+**A1154.** Benefit: act quickly to reduce anxiety by increasing GABA's inhibitory effect, useful short-term; limitation: do not address the cause (e.g. learned fear), so symptoms may return when stopped; risks include drowsiness, tolerance and dependence; therefore best combined with psychological interventions such as CBT or exposure.
 <!-- id: psych34a3-spi-7 -->
 
 Explanation:
 
-**A1153.** Both are exposure-based and rely on the person learning that the stimulus is not dangerous; systematic desensitisation is gradual with relaxation, flooding is immediate full-intensity exposure; advantage of flooding: often faster results / fewer sessions; disadvantage: very distressing, higher drop-out risk, needs careful consent and monitoring.
+**A1155.** Both are exposure-based and rely on the person learning that the stimulus is not dangerous; systematic desensitisation is gradual with relaxation, flooding is immediate full-intensity exposure; advantage of flooding: often faster results / fewer sessions; disadvantage: very distressing, higher drop-out risk, needs careful consent and monitoring.
 <!-- id: psych34a3-spi-8 -->
 
 Explanation:
 
 #### Protective factors for mental wellbeing
 
-**A1154.** A. a characteristic or circumstance that reduces the likelihood of developing a mental health problem or helps a person cope with adversity
+**A1156.** A. a characteristic or circumstance that reduces the likelihood of developing a mental health problem or helps a person cope with adversity
 <!-- id: psych34a3-pf-1 -->
 
 Explanation: Protective factors promote resilience and wellbeing; risk factors increase vulnerability.
 
-**A1155.** D. Regular physical exercise and adequate sleep
+**A1157.** D. Regular physical exercise and adequate sleep
 <!-- id: psych34a3-pf-2 -->
 
 Explanation: Exercise and sleep support brain function and stress regulation. Self-efficacy is psychological; friendships and housing are social.
 
-**A1156.** B. A positive sense of self-efficacy and effective coping strategies
+**A1158.** B. A positive sense of self-efficacy and effective coping strategies
 <!-- id: psych34a3-pf-3 -->
 
 Explanation: Self-efficacy (belief in one's ability to succeed) and adaptive coping help a person manage stressors. The others are social or biological factors.
 
-**A1157.** C. Social
+**A1159.** C. Social
 <!-- id: psych34a3-pf-4 -->
 
 Explanation: Family support and community connectedness are social protective factors that buffer against stress.
 
-**A1158.** A. There is an association between social support and lower depressive symptoms, but causation cannot be concluded
+**A1160.** A. There is an association between social support and lower depressive symptoms, but causation cannot be concluded
 <!-- id: psych34a3-pf-5 -->
 
 Explanation: A correlational design shows association only. Reverse causation or a third variable could explain the relationship.
 
-**A1159.** Risk factor: increases the likelihood of developing a mental health problem (e.g. chronic stress, social isolation, poverty); protective factor: reduces the likelihood or buffers impact (e.g. social support, exercise, self-efficacy); they influence mental wellbeing in opposite directions and may interact.
+**A1161.** Risk factor: increases the likelihood of developing a mental health problem (e.g. chronic stress, social isolation, poverty); protective factor: reduces the likelihood or buffers impact (e.g. social support, exercise, self-efficacy); they influence mental wellbeing in opposite directions and may interact.
 <!-- id: psych34a3-pf-6 -->
 
 Explanation:
 
-**A1160.** Biological: e.g. regular sleep or exercise, supports brain function and stress regulation; Psychological: e.g. self-efficacy or effective coping, helps person manage challenges; Social: e.g. family support or social connectedness, provides emotional/practical help and belonging.
+**A1162.** Biological: e.g. regular sleep or exercise, supports brain function and stress regulation; Psychological: e.g. self-efficacy or effective coping, helps person manage challenges; Social: e.g. family support or social connectedness, provides emotional/practical help and belonging.
 <!-- id: psych34a3-pf-7 -->
 
 Explanation:
 
-**A1161.** Social: strong support from family and friends provides emotional and practical help; Psychological: adaptive coping and self-efficacy let him actively search for work and view the situation as challenge; Biological: good sleep/exercise habits maintain stress regulation; protective factors buffer the effect of the stressor.
+**A1163.** Social: strong support from family and friends provides emotional and practical help; Psychological: adaptive coping and self-efficacy let him actively search for work and view the situation as challenge; Biological: good sleep/exercise habits maintain stress regulation; protective factors buffer the effect of the stressor.
 <!-- id: psych34a3-pf-8 -->
 
 Explanation:
@@ -6044,133 +6149,133 @@ Explanation:
 
 #### Experimental design and variables
 
-**A1162.** C. the variable that the researcher manipulates or that differs between conditions
+**A1164.** C. the variable that the researcher manipulates or that differs between conditions
 <!-- id: psych34a3-ed-1 -->
 
 Explanation: The IV is systematically manipulated; the DV is measured. Uncontrolled variables that affect the DV are extraneous or confounding.
 
-**A1163.** A. control group
+**A1165.** A. control group
 <!-- id: psych34a3-ed-2 -->
 
 Explanation: The control group is the baseline for comparison and receives no active treatment (here, a placebo). The experimental group receives the IV.
 
-**A1164.** C. repeated measures design
+**A1166.** C. repeated measures design
 <!-- id: psych34a3-ed-3 -->
 
 Explanation: In a repeated measures design every participant experiences all conditions, which controls individual participant differences but risks order effects.
 
-**A1165.** A. Counterbalancing the order of conditions
+**A1167.** A. Counterbalancing the order of conditions
 <!-- id: psych34a3-ed-4 -->
 
 Explanation: Counterbalancing varies the order in which participants complete conditions so that practice or fatigue effects are spread equally.
 
-**A1166.** D. An extraneous variable that systematically varies with the IV and may affect the DV, making it hard to determine the cause of the effect
+**A1168.** D. An extraneous variable that systematically varies with the IV and may affect the DV, making it hard to determine the cause of the effect
 <!-- id: psych34a3-ed-5 -->
 
 Explanation: A confounding variable is an uncontrolled variable that influences the DV in a way that is mixed up with the IV's effect. Random error is not systematic.
 
-**A1167.** IV: listening to music during study (music versus no music); DV: exam scores; controlled variables e.g. time spent studying, difficulty of material, prior knowledge, noise level, time of day, same exam.
+**A1169.** IV: listening to music during study (music versus no music); DV: exam scores; controlled variables e.g. time spent studying, difficulty of material, prior knowledge, noise level, time of day, same exam.
 <!-- id: psych34a3-ed-6 -->
 
 Explanation:
 
-**A1168.** Random allocation: assigns participants to groups by chance so each has equal likelihood of being in either; spreads participant characteristics evenly, reducing the effect of extraneous variables; placebo: an inactive treatment that looks like the real treatment; controls for participant expectation / placebo effect so differences can be attributed to the IV.
+**A1170.** Random allocation: assigns participants to groups by chance so each has equal likelihood of being in either; spreads participant characteristics evenly, reducing the effect of extraneous variables; placebo: an inactive treatment that looks like the real treatment; controls for participant expectation / placebo effect so differences can be attributed to the IV.
 <!-- id: psych34a3-ed-7 -->
 
 Explanation:
 
-**A1169.** Participants self-selected, so groups may differ in other ways (e.g. age, motivation, caffeine use) giving confounding variables; this weakens internal validity as the difference in memory may not be due to sleep; improvement: random allocation of participants to sleep-deprived or normal-sleep conditions by researcher.
+**A1171.** Participants self-selected, so groups may differ in other ways (e.g. age, motivation, caffeine use) giving confounding variables; this weakens internal validity as the difference in memory may not be due to sleep; improvement: random allocation of participants to sleep-deprived or normal-sleep conditions by researcher.
 <!-- id: psych34a3-ed-8 -->
 
 Explanation:
 
 #### Data, statistics and conclusions
 
-**A1170.** C. The number of words recalled from a list
+**A1172.** C. The number of words recalled from a list
 <!-- id: psych34a3-ds-1 -->
 
 Explanation: Quantitative data are numerical measurements. Descriptions in words are qualitative.
 
-**A1171.** A. There are a few unusually high scores
+**A1173.** A. There are a few unusually high scores
 <!-- id: psych34a3-ds-2 -->
 
 Explanation: A mean greater than the median suggests that some high outliers are pulling the mean up (positive skew).
 
-**A1172.** B. the results are statistically significant, so the null hypothesis can be rejected at the 0.05 level, and there is a 3% probability that results at least this extreme occurred by chance alone if there were no effect
+**A1174.** B. the results are statistically significant, so the null hypothesis can be rejected at the 0.05 level, and there is a 3% probability that results at least this extreme occurred by chance alone if there were no effect
 <!-- id: psych34a3-ds-3 -->
 
 Explanation: p < 0.05 means the results are statistically significant. A p-value does not give the probability that the hypothesis is true or the effect's size.
 
-**A1173.** B. There is a strong negative association: more screen use is associated with less sleep
+**A1175.** B. There is a strong negative association: more screen use is associated with less sleep
 <!-- id: psych34a3-ds-4 -->
 
 Explanation: −0.85 shows a strong negative relationship. Correlation does not prove causation.
 
-**A1174.** C. the small sample size limiting the generalisability of the results
+**A1176.** C. the small sample size limiting the generalisability of the results
 <!-- id: psych34a3-ds-5 -->
 
 Explanation: Small samples may not be representative, so conclusions may not generalise to the population.
 
-**A1175.** Mean = 50 ÷ 6 = 8.3 (8.33); median = (7 + 8) ÷ 2 = 7.5; the median is better as the score of 14 is an outlier that pulls the mean up, but median is not affected by extreme scores.
+**A1177.** Mean = 50 ÷ 6 = 8.3 (8.33); median = (7 + 8) ÷ 2 = 7.5; the median is better as the score of 14 is an outlier that pulls the mean up, but median is not affected by extreme scores.
 <!-- id: psych34a3-ds-6 -->
 
 Explanation:
 
-**A1176.** Statistical significance means the results are unlikely to be due to chance (p below the chosen level, e.g. 0.05), so the null hypothesis can be rejected; it does not give effect size; a very small difference can be significant in a large sample; so the result may have little real-world importance.
+**A1178.** Statistical significance means the results are unlikely to be due to chance (p below the chosen level, e.g. 0.05), so the null hypothesis can be rejected; it does not give effect size; a very small difference can be significant in a large sample; so the result may have little real-world importance.
 <!-- id: psych34a3-ds-7 -->
 
 Explanation:
 
-**A1177.** Conclusion: higher levels of exercise were associated with lower anxiety scores in the sample (correlation not causation); the results support / do not prove the hypothesis; limitation e.g. sample not representative (so cannot generalise), self-report bias, or uncontrolled third variables.
+**A1179.** Conclusion: higher levels of exercise were associated with lower anxiety scores in the sample (correlation not causation); the results support / do not prove the hypothesis; limitation e.g. sample not representative (so cannot generalise), self-report bias, or uncontrolled third variables.
 <!-- id: psych34a3-ds-8 -->
 
 Explanation:
 
 #### Ethics and validity
 
-**A1178.** A. Right to withdraw
+**A1180.** A. Right to withdraw
 <!-- id: psych34a3-ev-1 -->
 
 Explanation: The right to withdraw is part of voluntary participation. Participants may leave, and may withdraw their data, without penalty.
 
-**A1179.** C. Debriefing the participants and explaining the true purpose
+**A1181.** C. Debriefing the participants and explaining the true purpose
 <!-- id: psych34a3-ev-2 -->
 
 Explanation: Where deception is used, it must be justified, minimal and followed by a debrief that explains the true aim and addresses any distress.
 
-**A1180.** A. The extent to which the experiment measures what it claims to measure and the results are due to the IV, not other factors
+**A1182.** A. The extent to which the experiment measures what it claims to measure and the results are due to the IV, not other factors
 <!-- id: psych34a3-ev-3 -->
 
 Explanation: Internal validity is about whether changes in the DV are caused by the IV. Generalisability is external validity.
 
-**A1181.** C. Using a random sample from a range of schools across the state
+**A1183.** C. Using a random sample from a range of schools across the state
 <!-- id: psych34a3-ev-4 -->
 
 Explanation: A larger, randomly selected representative sample allows results to be generalised to the population.
 
-**A1182.** B. precise but not accurate
+**A1184.** B. precise but not accurate
 <!-- id: psych34a3-ev-5 -->
 
 Explanation: Precision is closeness of repeated measurements to each other; accuracy (trueness) is closeness to the true value. A systematic error can cause precise but inaccurate data.
 
-**A1183.** Informed consent: participants agree after being told the nature, risks and procedures (parental consent for minors); confidentiality: personal information and data are protected; voluntary participation / right to withdraw: free to leave at any time; also valid: debriefing, minimising harm (beneficence), deception only if justified.
+**A1185.** Informed consent: participants agree after being told the nature, risks and procedures (parental consent for minors); confidentiality: personal information and data are protected; voluntary participation / right to withdraw: free to leave at any time; also valid: debriefing, minimising harm (beneficence), deception only if justified.
 <!-- id: psych34a3-ev-6 -->
 
 Explanation:
 
-**A1184.** Deception must be justified as necessary and no alternative method is available, with minimal risk of harm and approved by ethics committee; full debriefing after the study explaining the true purpose; participants must be able to withdraw their data / not be exposed to undue distress.
+**A1186.** Deception must be justified as necessary and no alternative method is available, with minimal risk of harm and approved by ethics committee; full debriefing after the study explaining the true purpose; participants must be able to withdraw their data / not be exposed to undue distress.
 <!-- id: psych34a3-ev-7 -->
 
 Explanation:
 
-**A1185.** Reliability: consistency of results if the study or measure is repeated; validity: whether the study measures what it claims and results are due to the IV (internal) / generalise (external); improve reliability e.g. standardised instructions, clearer or more questionnaire items, test-retest checks, or training of researchers.
+**A1187.** Reliability: consistency of results if the study or measure is repeated; validity: whether the study measures what it claims and results are due to the IV (internal) / generalise (external); improve reliability e.g. standardised instructions, clearer or more questionnaire items, test-retest checks, or training of researchers.
 <!-- id: psych34a3-ev-8 -->
 
 Explanation:
 
 ### Exam-style questions (mixed topics)
 
-**A1186.** Exam stress and a breathing study
+**A1188.** Exam stress and a breathing study
 <!-- id: vce-psych34-x1 -->
 *Multi-part question · 11 marks*
 
@@ -6234,7 +6339,7 @@ Common mistake: Confusing random allocation with random sampling. Random samplin
 
 Topic: Experimental design and variables (vce-psych34-experimental-design-and-variables)
 
-**A1187.** Late nights, memory and a nervous bell
+**A1189.** Late nights, memory and a nervous bell
 <!-- id: vce-psych34-x2 -->
 *Multi-part question · 11 marks*
 
@@ -6290,3 +6395,101 @@ Topic: Sleep hygiene and zeitgebers (vce-psych34-sleep-hygiene-and-zeitgebers)
 Common mistake: Naming the exam as the conditioned stimulus. The exam is the unconditioned stimulus; the bell becomes the conditioned stimulus.
 
 Topic: Classical conditioning (vce-psych34-classical-conditioning)
+
+**A1190.** A fear of dogs
+<!-- id: vce-psych34-x3 -->
+*Multi-part question · 10 marks*
+
+**a.** Her fear is excessive and persistent, out of proportion to the actual danger, and her avoidance disrupts her daily life and relationships. *(2 marks)*
+
+1. The fear is intense, persistent and out of proportion to the real danger posed by most dogs. *(1 mark)*
+2. It causes significant avoidance that interferes with her everyday functioning, such as visiting friends and parks. *(1 mark)*
+
+Common mistake: Saying it is a phobia simply because it is a strong fear. Specific phobia involves disproportionate fear and disruption to daily life.
+
+Topic: Specific phobia: contributing factors (vce-psych34-specific-phobia-contributing-factors)
+
+**b.** Dogs (neutral stimulus) were paired with the bite (unconditioned stimulus), which caused fear (unconditioned response). Dogs became a conditioned stimulus that now produces fear (conditioned response). *(2 marks)*
+
+1. The bite was an unconditioned stimulus producing fear as an unconditioned response; dogs were initially a neutral stimulus. *(1 mark)*
+2. After pairing, dogs alone became a conditioned stimulus producing fear as a conditioned response. *(1 mark)*
+
+Common mistake: Calling the bite the conditioned stimulus. The bite causes fear naturally, so it is the unconditioned stimulus.
+
+Topic: Classical conditioning (vce-psych34-classical-conditioning)
+
+**c.** Avoiding dogs removes her anxiety. Removing an unpleasant feeling is negative reinforcement, so avoidance becomes more likely, and she never learns that most dogs are safe. *(2 marks)*
+
+1. Avoiding dogs removes her anxiety, which is negative reinforcement. *(1 mark)*
+2. Avoidance is therefore strengthened, and it stops her from having experiences that would weaken the fear, so the phobia is maintained. *(1 mark)*
+
+Common mistake: Calling this punishment. Removing something unpleasant to increase a behaviour is negative reinforcement.
+
+Topic: Operant conditioning (vce-psych34-operant-conditioning)
+
+**d.** GABA is the main inhibitory neurotransmitter. Low GABA activity means less inhibition of neural firing, so the stress response is triggered more easily and anxiety is heightened. *(2 marks)*
+
+1. GABA is an inhibitory neurotransmitter that reduces the likelihood of postsynaptic neurons firing. *(1 mark)*
+2. If GABA is not working effectively, neurons fire more readily, contributing to excessive anxiety and fear responses. *(1 mark)*
+
+Common mistake: Calling GABA an excitatory neurotransmitter. Glutamate is the main excitatory one.
+
+Topic: Neurotransmitters and neuromodulators (vce-psych34-neurotransmitters-and-neuromodulators)
+
+**e.** Priya learns relaxation techniques and builds a fear hierarchy, then is gradually exposed to each step (from a picture of a dog to touching a calm dog) while staying relaxed, until the fear response is replaced. *(2 marks)*
+
+1. Priya is taught relaxation techniques and creates a fear hierarchy from least to most anxiety-provoking situations involving dogs. *(1 mark)*
+2. She is exposed to each step gradually while relaxed, moving up only when calm, so relaxation replaces fear (reciprocal inhibition). *(1 mark)*
+
+Common mistake: Describing flooding, where she would be exposed to the most feared situation at once.
+
+Topic: Specific phobia: evidence-based interventions (vce-psych34-specific-phobia-evidence-based-interventions)
+
+**A1191.** Night shifts and sleep
+<!-- id: vce-psych34-x4 -->
+*Multi-part question · 10 marks*
+
+**a.** The suprachiasmatic nucleus is entrained to daylight. Sam is awake at night and tries to sleep in daylight, so light exposure suppresses melatonin when he needs to sleep, and his body clock is misaligned with his schedule. *(2 marks)*
+
+1. The suprachiasmatic nucleus (SCN) uses light as a zeitgeber to set the timing of the sleep–wake cycle. *(1 mark)*
+2. Sam's exposure to daylight when he needs to sleep suppresses melatonin release, so his circadian rhythm is out of step with his sleep schedule. *(1 mark)*
+
+Common mistake: Saying shift work stops melatonin being produced altogether. It shifts when melatonin is released.
+
+Topic: Circadian rhythm sleep disorders and treatments (vce-psych34-circadian-rhythm-sleep-disorders-and-treatments)
+
+**b.** 17 hours awake is roughly equivalent to a BAC of 0.05; 24 hours awake is roughly equivalent to 0.10. *(2 marks)*
+
+1. About 17 hours of sustained wakefulness produces impairment similar to a BAC of 0.05. *(1 mark)*
+2. Impairment keeps rising: about 24 hours awake is similar to a BAC of 0.10. *(1 mark)*
+
+Common mistake: Giving the values the wrong way round. The longer awake, the higher the equivalent BAC.
+
+Topic: Sleep deprivation (vce-psych34-sleep-deprivation)
+
+**c.** Exposure to bright artificial light at chosen times (for example at the start of his shift) helps shift the SCN's timing, delaying melatonin release so that he is alert at night and sleepy in the day. *(2 marks)*
+
+1. Sam is exposed to bright artificial light for a set time at a specific point in his schedule. *(1 mark)*
+2. The light acts on the SCN to shift the circadian rhythm and the timing of melatonin release, realigning it with his work schedule. *(1 mark)*
+
+Common mistake: Saying the light makes him tired. Bright light promotes alertness; its timing shifts the rhythm.
+
+Topic: Circadian rhythm sleep disorders and treatments (vce-psych34-circadian-rhythm-sleep-disorders-and-treatments)
+
+**d.** Deep NREM sleep (stage 3) dominates the first half; REM sleep periods become longer in the second half. *(2 marks)*
+
+1. First half: more deep NREM sleep (stage 3). *(1 mark)*
+2. Second half: REM periods lengthen and dominate. *(1 mark)*
+
+Common mistake: Reversing them. REM periods are short early in the night and lengthen towards morning.
+
+Topic: NREM and REM sleep (vce-psych34-nrem-and-rem-sleep)
+
+**e.** Within-subjects (repeated measures) design; each nurse is compared with themselves, which controls participant-related extraneous variables such as natural reaction speed. *(2 marks)*
+
+1. Within-subjects design: every nurse is tested in both conditions. *(1 mark)*
+2. Advantage: it controls participant differences (such as natural reaction speed), so differences are more likely due to the shift type; it also needs fewer participants. *(1 mark)*
+
+Common mistake: Naming a between-subjects design. The same nurses are tested twice.
+
+Topic: Experimental design and variables (vce-psych34-experimental-design-and-variables)

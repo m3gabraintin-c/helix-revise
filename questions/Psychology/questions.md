@@ -6436,13 +6436,47 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 
 **e.** After hearing a friend's vivid story about getting lost in the school's buildings, Sam thinks it is very likely that Sam will get lost too. Name the heuristic Sam is using, and explain one risk of using it. *(2 marks)*
 
+**Q922.** Attachment, thinking and identity
+<!-- id: vce-psych12-x3 -->
+*Multi-part question · 10 marks · Original question in the style of a Units 1 & 2 end-of-semester exam*
+
+In Harlow's experiments, infant rhesus monkeys were raised with two artificial 'mothers': one made of wire that held a feeding bottle, and one covered in soft cloth that gave no food.
+
+**a.** Describe the main finding of Harlow's experiments and what it suggests about attachment. *(2 marks)*
+
+**b.** Identify one ethical concern with Harlow's experiments. *(1 mark)*
+
+**c.** A 4-year-old says a tall, thin glass holds more juice than a short, wide glass, even after watching the same amount poured into each. Identify Piaget's stage and the concept the child lacks. *(2 marks)*
+
+**d.** Describe Erikson's psychosocial stage for adolescence. *(2 marks)*
+
+**e.** Use the biopsychosocial approach to explain a child's shyness. *(2 marks)*
+
+**f.** Name one approach to deciding whether a behaviour is typical or atypical. *(1 mark)*
+
+**Q923.** Seeing and tasting
+<!-- id: vce-psych12-x4 -->
+*Multi-part question · 10 marks · Original question in the style of a Units 1 & 2 end-of-semester exam*
+
+Visual perception begins when light enters the eye.
+
+**a.** Describe the processes of reception, transduction and transmission in the visual system. *(3 marks)*
+
+**b.** In the Müller-Lyer illusion, two equal lines look different in length. Give one explanation. *(2 marks)*
+
+**c.** Explain retinal disparity as a depth cue. *(2 marks)*
+
+**d.** Define the Gestalt principle of closure. *(1 mark)*
+
+**e.** Explain why food tastes bland when you have a blocked nose. *(2 marks)*
+
 ## VCE Units 3 & 4
 
 ### Unit 3 AOS 1: The nervous system and stress
 
 #### Divisions of the nervous system
 
-**Q922.** Which of the following correctly lists the two main divisions of the nervous system?
+**Q924.** Which of the following correctly lists the two main divisions of the nervous system?
 <!-- id: psych34a1-div-1 -->
 
 - A. Central nervous system and peripheral nervous system
@@ -6450,7 +6484,7 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. Brain and spinal cord
 - D. Somatic nervous system and autonomic nervous system
 
-**Q923.** The somatic nervous system is best described as the division that
+**Q925.** The somatic nervous system is best described as the division that
 <!-- id: psych34a1-div-2 -->
 
 - A. controls involuntary functions such as heart rate and digestion
@@ -6458,7 +6492,7 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. prepares the body for a threat by increasing heart rate
 - D. restores the body to a resting state after a threat has passed
 
-**Q924.** While sitting a VCE exam, Priya notices that her heart is pounding, her pupils have dilated and her digestion has slowed. Which division is most directly responsible for these changes?
+**Q926.** While sitting a VCE exam, Priya notices that her heart is pounding, her pupils have dilated and her digestion has slowed. Which division is most directly responsible for these changes?
 <!-- id: psych34a1-div-3 -->
 
 - A. Somatic nervous system
@@ -6466,7 +6500,7 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. Central nervous system
 - D. Parasympathetic nervous system
 
-**Q925.** Which of the following is a function of the parasympathetic nervous system?
+**Q927.** Which of the following is a function of the parasympathetic nervous system?
 <!-- id: psych34a1-div-4 -->
 
 - A. Stimulating the release of adrenaline from the adrenal glands
@@ -6474,7 +6508,7 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. Slowing the heart rate and stimulating digestion
 - D. Moving the skeletal muscles of the legs during running
 
-**Q926.** A person suffers damage to the afferent neurons of the spinal nerves in their left arm. The most likely result is that they
+**Q928.** A person suffers damage to the afferent neurons of the spinal nerves in their left arm. The most likely result is that they
 <!-- id: psych34a1-div-5 -->
 
 - A. can feel touch on the arm but cannot move it
@@ -6482,24 +6516,24 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. lose both heart rate regulation and digestion
 - D. lose all conscious thought
 
-**Q927.** Distinguish between the central nervous system and the peripheral nervous system, giving one component of each. (3 marks)
+**Q929.** Distinguish between the central nervous system and the peripheral nervous system, giving one component of each. (3 marks)
 <!-- id: psych34a1-div-6 -->
 
 *Written answer*
 
-**Q928.** Describe the role of the sympathetic and parasympathetic nervous systems in the autonomic nervous system, using heart rate as an example. (3 marks)
+**Q930.** Describe the role of the sympathetic and parasympathetic nervous systems in the autonomic nervous system, using heart rate as an example. (3 marks)
 <!-- id: psych34a1-div-7 -->
 
 *Written answer*
 
-**Q929.** Tom accidentally touches a hot pan, pulls his hand away and then feels his heart racing. Identify which divisions of the nervous system were involved in (a) pulling his hand away and (b) his racing heart. Justify each. (4 marks)
+**Q931.** Tom accidentally touches a hot pan, pulls his hand away and then feels his heart racing. Identify which divisions of the nervous system were involved in (a) pulling his hand away and (b) his racing heart. Justify each. (4 marks)
 <!-- id: psych34a1-div-8 -->
 
 *Written answer*
 
 #### Conscious and unconscious responses
 
-**Q930.** Which of the following is an example of an unconscious response?
+**Q932.** Which of the following is an example of an unconscious response?
 <!-- id: psych34a1-con-1 -->
 
 - A. Deciding to answer a question in class
@@ -6507,7 +6541,7 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. Blinking when dust blows into the eye
 - D. Planning a route to a friend's house
 
-**Q931.** A spinal reflex differs from a conscious response because in a spinal reflex
+**Q933.** A spinal reflex differs from a conscious response because in a spinal reflex
 <!-- id: psych34a1-con-2 -->
 
 - A. the response is controlled by the sympathetic nervous system only
@@ -6515,7 +6549,7 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. the brain makes a deliberate decision before the muscle moves
 - D. only sensory neurons are involved
 
-**Q932.** The correct order of neural transmission in a spinal reflex is
+**Q934.** The correct order of neural transmission in a spinal reflex is
 <!-- id: psych34a1-con-3 -->
 
 - A. sensory neuron, interneuron in spinal cord, motor neuron, effector
@@ -6523,7 +6557,7 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. sensory neuron, brain, motor neuron, effector
 - D. motor neuron, interneuron, sensory neuron, effector
 
-**Q933.** Which of the following is the best reason a spinal reflex is adaptive?
+**Q935.** Which of the following is the best reason a spinal reflex is adaptive?
 <!-- id: psych34a1-con-4 -->
 
 - A. It uses fewer neurotransmitters than conscious responses
@@ -6531,7 +6565,7 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. It allows greater conscious control over movement
 - D. It produces a response faster than one routed through the brain, reducing potential harm
 
-**Q934.** Ayesha is reading a book when she hears a loud bang. She jerks her head up before she realises what the noise was. She then looks around, deliberately deciding to investigate. The deliberate decision to investigate is best described as
+**Q936.** Ayesha is reading a book when she hears a loud bang. She jerks her head up before she realises what the noise was. She then looks around, deliberately deciding to investigate. The deliberate decision to investigate is best described as
 <!-- id: psych34a1-con-5 -->
 
 - A. an unconscious response because it involved the spinal cord
@@ -6539,24 +6573,24 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. a spinal reflex because it was fast
 - D. an autonomic response because it followed a startle
 
-**Q935.** Define a spinal reflex and explain why it can occur without conscious awareness. (3 marks)
+**Q937.** Define a spinal reflex and explain why it can occur without conscious awareness. (3 marks)
 <!-- id: psych34a1-con-6 -->
 
 *Written answer*
 
-**Q936.** Compare conscious and unconscious responses in terms of speed and the role of the brain, using one example of each. (4 marks)
+**Q938.** Compare conscious and unconscious responses in terms of speed and the role of the brain, using one example of each. (4 marks)
 <!-- id: psych34a1-con-7 -->
 
 *Written answer*
 
-**Q937.** A nurse taps just below Jamal's kneecap and his lower leg kicks out. Identify the type of response, describe the pathway of the neural message, and explain why Jamal cannot stop the kick by deciding not to. (4 marks)
+**Q939.** A nurse taps just below Jamal's kneecap and his lower leg kicks out. Identify the type of response, describe the pathway of the neural message, and explain why Jamal cannot stop the kick by deciding not to. (4 marks)
 <!-- id: psych34a1-con-8 -->
 
 *Written answer*
 
 #### Neurotransmitters and neuromodulators
 
-**Q938.** Which of the following best describes the role of an excitatory neurotransmitter?
+**Q940.** Which of the following best describes the role of an excitatory neurotransmitter?
 <!-- id: psych34a1-ntm-1 -->
 
 - A. It stops the presynaptic neuron from producing action potentials
@@ -6564,7 +6598,7 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. It increases the likelihood that the postsynaptic neuron will fire
 - D. It destroys the postsynaptic receptor sites
 
-**Q939.** Which neurotransmitter is the main inhibitory neurotransmitter in the central nervous system?
+**Q941.** Which neurotransmitter is the main inhibitory neurotransmitter in the central nervous system?
 <!-- id: psych34a1-ntm-2 -->
 
 - A. GABA
@@ -6572,7 +6606,7 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. Acetylcholine
 - D. Glutamate
 
-**Q940.** Neuromodulators differ from neurotransmitters because neuromodulators
+**Q942.** Neuromodulators differ from neurotransmitters because neuromodulators
 <!-- id: psych34a1-ntm-3 -->
 
 - A. are produced only by the gut
@@ -6580,7 +6614,7 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. alter the effect of neurotransmitters on the postsynaptic neuron, often across many neurons
 - D. always directly cause the postsynaptic neuron to fire
 
-**Q941.** In the synapse, after a neurotransmitter is released from the presynaptic neuron it
+**Q943.** In the synapse, after a neurotransmitter is released from the presynaptic neuron it
 <!-- id: psych34a1-ntm-4 -->
 
 - A. crosses the synaptic gap and binds to receptor sites on the postsynaptic neuron
@@ -6588,7 +6622,7 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. is converted to an electrical impulse in the synaptic gap
 - D. binds to receptors on the presynaptic vesicles
 
-**Q942.** A drug blocks GABA from binding to its receptors on postsynaptic neurons in a region of the brain. The most likely effect is
+**Q944.** A drug blocks GABA from binding to its receptors on postsynaptic neurons in a region of the brain. The most likely effect is
 <!-- id: psych34a1-ntm-5 -->
 
 - A. increased inhibition of those neurons
@@ -6596,24 +6630,24 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. increased likelihood that the neurons will fire
 - D. no change in neural activity
 
-**Q943.** Describe the difference between an excitatory neurotransmitter and an inhibitory neurotransmitter, naming one example of each. (3 marks)
+**Q945.** Describe the difference between an excitatory neurotransmitter and an inhibitory neurotransmitter, naming one example of each. (3 marks)
 <!-- id: psych34a1-ntm-6 -->
 
 *Written answer*
 
-**Q944.** Outline the process of neurotransmission at a chemical synapse. (4 marks)
+**Q946.** Outline the process of neurotransmission at a chemical synapse. (4 marks)
 <!-- id: psych34a1-ntm-7 -->
 
 *Written answer*
 
-**Q945.** Dopamine is described as a neuromodulator. Explain how a neuromodulator differs in its effect from a neurotransmitter such as glutamate. (3 marks)
+**Q947.** Dopamine is described as a neuromodulator. Explain how a neuromodulator differs in its effect from a neurotransmitter such as glutamate. (3 marks)
 <!-- id: psych34a1-ntm-8 -->
 
 *Written answer*
 
 #### Synaptic plasticity and long-term potentiation
 
-**Q946.** Synaptic plasticity refers to
+**Q948.** Synaptic plasticity refers to
 <!-- id: psych34a1-ltp-1 -->
 
 - A. the permanent loss of neurons through ageing
@@ -6621,7 +6655,7 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. the speed at which an action potential travels along an axon
 - D. the production of new neurons in the gut
 
-**Q947.** Long-term potentiation (LTP) is best described as
+**Q949.** Long-term potentiation (LTP) is best described as
 <!-- id: psych34a1-ltp-2 -->
 
 - A. the death of unused neurons
@@ -6629,7 +6663,7 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. a long-lasting weakening of synaptic connections
 - D. a long-lasting strengthening of synaptic connections following repeated stimulation
 
-**Q948.** Which neurotransmitter plays a key role in LTP?
+**Q950.** Which neurotransmitter plays a key role in LTP?
 <!-- id: psych34a1-ltp-3 -->
 
 - A. GABA
@@ -6637,7 +6671,7 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. Cortisol
 - D. Adrenaline
 
-**Q949.** Long-term depression (LTD) results in
+**Q951.** Long-term depression (LTD) results in
 <!-- id: psych34a1-ltp-4 -->
 
 - A. an increase in the number of action potentials produced by the postsynaptic neuron
@@ -6645,7 +6679,7 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. a weaker synaptic connection due to infrequent or low-level stimulation
 - D. the formation of new neurotransmitters
 
-**Q950.** A student practises vocabulary using spaced repetition, and over several weeks recalls the words more easily. Which neural change is the most likely contributor?
+**Q952.** A student practises vocabulary using spaced repetition, and over several weeks recalls the words more easily. Which neural change is the most likely contributor?
 <!-- id: psych34a1-ltp-5 -->
 
 - A. Long-term potentiation of the relevant synapses
@@ -6653,24 +6687,24 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. Increased GABA activity at the relevant synapses
 - D. Long-term depression of the relevant synapses
 
-**Q951.** Define long-term potentiation and state its relevance to learning. (3 marks)
+**Q953.** Define long-term potentiation and state its relevance to learning. (3 marks)
 <!-- id: psych34a1-ltp-6 -->
 
 *Written answer*
 
-**Q952.** Explain how the neurotransmitter glutamate contributes to long-term potentiation. (3 marks)
+**Q954.** Explain how the neurotransmitter glutamate contributes to long-term potentiation. (3 marks)
 <!-- id: psych34a1-ltp-7 -->
 
 *Written answer*
 
-**Q953.** Contrast long-term potentiation and long-term depression, and explain why both are important for the functioning of neural circuits. (4 marks)
+**Q955.** Contrast long-term potentiation and long-term depression, and explain why both are important for the functioning of neural circuits. (4 marks)
 <!-- id: psych34a1-ltp-8 -->
 
 *Written answer*
 
 #### Stress responses and the GAS
 
-**Q954.** Stress is best defined as
+**Q956.** Stress is best defined as
 <!-- id: psych34a1-gas-1 -->
 
 - A. a type of mental disorder
@@ -6678,7 +6712,7 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. an event that always leads to illness
 - D. a state of threat or challenge that causes a physiological and psychological response
 
-**Q955.** Eustress differs from distress in that eustress
+**Q957.** Eustress differs from distress in that eustress
 <!-- id: psych34a1-gas-2 -->
 
 - A. has no physiological effects
@@ -6686,7 +6720,7 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. is a positive form of stress that can motivate and enhance performance
 - D. occurs only in the exhaustion stage of the GAS
 
-**Q956.** In the fight-flight-freeze response, which hormone released by the adrenal medulla increases heart rate and blood flow to muscles?
+**Q958.** In the fight-flight-freeze response, which hormone released by the adrenal medulla increases heart rate and blood flow to muscles?
 <!-- id: psych34a1-gas-3 -->
 
 - A. Adrenaline
@@ -6694,7 +6728,7 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. Melatonin
 - D. Cortisol
 
-**Q957.** According to Selye's general adaptation syndrome (GAS), in which stage does the body's resistance to the stressor fall below normal and the person becomes susceptible to illness?
+**Q959.** According to Selye's general adaptation syndrome (GAS), in which stage does the body's resistance to the stressor fall below normal and the person becomes susceptible to illness?
 <!-- id: psych34a1-gas-4 -->
 
 - A. Resistance
@@ -6702,7 +6736,7 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. Alarm reaction: shock phase
 - D. Alarm reaction: counter-shock phase
 
-**Q958.** During the resistance stage of the GAS, the body typically
+**Q960.** During the resistance stage of the GAS, the body typically
 <!-- id: psych34a1-gas-5 -->
 
 - A. shows a sharp drop in blood pressure and body temperature
@@ -6710,24 +6744,24 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. returns fully to homeostasis because the stressor has been removed
 - D. activates the freeze response only
 
-**Q959.** Describe the alarm reaction stage of the general adaptation syndrome, including its two phases. (3 marks)
+**Q961.** Describe the alarm reaction stage of the general adaptation syndrome, including its two phases. (3 marks)
 <!-- id: psych34a1-gas-6 -->
 
 *Written answer*
 
-**Q960.** Explain how the role of cortisol differs from the role of adrenaline in the stress response. (3 marks)
+**Q962.** Explain how the role of cortisol differs from the role of adrenaline in the stress response. (3 marks)
 <!-- id: psych34a1-gas-7 -->
 
 *Written answer*
 
-**Q961.** Dana has spent eight months caring for a sick relative, working full time and sleeping poorly. She has recently developed frequent colds and feels constantly drained. Use the GAS to explain her symptoms. (4 marks)
+**Q963.** Dana has spent eight months caring for a sick relative, working full time and sleeping poorly. She has recently developed frequent colds and feels constantly drained. Use the GAS to explain her symptoms. (4 marks)
 <!-- id: psych34a1-gas-8 -->
 
 *Written answer*
 
 #### Transactional model of stress and coping
 
-**Q962.** The transactional model of stress and coping was developed by
+**Q964.** The transactional model of stress and coping was developed by
 <!-- id: psych34a1-tmc-1 -->
 
 - A. Skinner
@@ -6735,7 +6769,7 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. Lazarus and Folkman
 - D. Bandura
 
-**Q963.** According to the transactional model, stress is best seen as
+**Q965.** According to the transactional model, stress is best seen as
 <!-- id: psych34a1-tmc-2 -->
 
 - A. a transaction between the individual and the environment, depending on appraisal
@@ -6743,7 +6777,7 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. an unavoidable outcome of any demand
 - D. an objective property of an event that affects everyone equally
 
-**Q964.** In primary appraisal, a person decides whether an event is
+**Q966.** In primary appraisal, a person decides whether an event is
 <!-- id: psych34a1-tmc-3 -->
 
 - A. a physiological or psychological demand
@@ -6751,7 +6785,7 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. irrelevant, benign-positive or stressful
 - D. approach or avoidance coping
 
-**Q965.** Secondary appraisal involves
+**Q967.** Secondary appraisal involves
 <!-- id: psych34a1-tmc-4 -->
 
 - A. deciding whether an event is relevant to wellbeing
@@ -6759,7 +6793,7 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. the body's physiological reaction in the alarm stage
 - D. stopping to think about the event after it has passed
 
-**Q966.** Two students receive identical news that their exam will be moved forward by a week. Mia views it as a challenge she can prepare for; Leo views it as a threat he cannot handle. According to the transactional model, the difference is best explained by their
+**Q968.** Two students receive identical news that their exam will be moved forward by a week. Mia views it as a challenge she can prepare for; Leo views it as a threat he cannot handle. According to the transactional model, the difference is best explained by their
 <!-- id: psych34a1-tmc-5 -->
 
 - A. different primary and secondary appraisals
@@ -6767,24 +6801,24 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. levels of cortisol before the news
 - D. differences in the event itself
 
-**Q967.** Distinguish between primary appraisal and secondary appraisal in the transactional model of stress and coping. (3 marks)
+**Q969.** Distinguish between primary appraisal and secondary appraisal in the transactional model of stress and coping. (3 marks)
 <!-- id: psych34a1-tmc-6 -->
 
 *Written answer*
 
-**Q968.** Hannah has just been told she must give a presentation to her whole year level next week. She feels nervous, but thinks she has presented well before and has time to practise. Using the transactional model, describe her primary and secondary appraisal. (4 marks)
+**Q970.** Hannah has just been told she must give a presentation to her whole year level next week. She feels nervous, but thinks she has presented well before and has time to practise. Using the transactional model, describe her primary and secondary appraisal. (4 marks)
 <!-- id: psych34a1-tmc-7 -->
 
 *Written answer*
 
-**Q969.** Explain one strength and one limitation of the transactional model of stress and coping. (3 marks)
+**Q971.** Explain one strength and one limitation of the transactional model of stress and coping. (3 marks)
 <!-- id: psych34a1-tmc-8 -->
 
 *Written answer*
 
 #### Gut-brain axis
 
-**Q970.** The gut-brain axis refers to
+**Q972.** The gut-brain axis refers to
 <!-- id: psych34a1-gba-1 -->
 
 - A. the bidirectional communication between the gastrointestinal tract and the central nervous system
@@ -6792,7 +6826,7 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. the transfer of food from the stomach to the brain
 - D. a neural pathway connecting the brain and the gut only through the spinal cord
 
-**Q971.** The enteric nervous system is
+**Q973.** The enteric nervous system is
 <!-- id: psych34a1-gba-2 -->
 
 - A. found only in the spinal cord
@@ -6800,7 +6834,7 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. the part of the brain that regulates hunger only
 - D. a division of the somatic nervous system
 
-**Q972.** The vagus nerve contributes to the gut-brain axis by
+**Q974.** The vagus nerve contributes to the gut-brain axis by
 <!-- id: psych34a1-gba-3 -->
 
 - A. carrying signals between the gut and the brain in both directions
@@ -6808,7 +6842,7 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. controlling skeletal muscle movement
 - D. producing the gut microbiota
 
-**Q973.** Which statement about gut microbiota and mental health is best supported by the gut-brain axis?
+**Q975.** Which statement about gut microbiota and mental health is best supported by the gut-brain axis?
 <!-- id: psych34a1-gba-4 -->
 
 - A. Gut microbiota are only affected by diet and have no effect on the brain
@@ -6816,7 +6850,7 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. Gut microbiota are unrelated to the nervous system
 - D. Gut microbiota can influence the production of neurotransmitters such as serotonin, which may affect mood and stress responses
 
-**Q974.** A researcher finds that stressed participants experience more digestive discomfort than non-stressed participants. This finding is most consistent with
+**Q976.** A researcher finds that stressed participants experience more digestive discomfort than non-stressed participants. This finding is most consistent with
 <!-- id: psych34a1-gba-5 -->
 
 - A. signals from the brain affecting gut function via the gut-brain axis
@@ -6824,24 +6858,24 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. the enteric nervous system being unrelated to stress
 - D. the parasympathetic nervous system being fully activated
 
-**Q975.** Explain what is meant by the statement that communication in the gut-brain axis is 'bidirectional'. (2 marks)
+**Q977.** Explain what is meant by the statement that communication in the gut-brain axis is 'bidirectional'. (2 marks)
 <!-- id: psych34a1-gba-6 -->
 
 *Written answer*
 
-**Q976.** Describe the role of gut microbiota in the gut-brain axis. (3 marks)
+**Q978.** Describe the role of gut microbiota in the gut-brain axis. (3 marks)
 <!-- id: psych34a1-gba-7 -->
 
 *Written answer*
 
-**Q977.** A study gives one group of volunteers a probiotic and another group a placebo for four weeks. The probiotic group reports lower stress and anxiety scores. Use the gut-brain axis to explain this result and identify one limitation in concluding causation. (4 marks)
+**Q979.** A study gives one group of volunteers a probiotic and another group a placebo for four weeks. The probiotic group reports lower stress and anxiety scores. Use the gut-brain axis to explain this result and identify one limitation in concluding causation. (4 marks)
 <!-- id: psych34a1-gba-8 -->
 
 *Written answer*
 
 #### Coping strategies and flexibility
 
-**Q978.** Approach coping strategies are
+**Q980.** Approach coping strategies are
 <!-- id: psych34a1-cop-1 -->
 
 - A. unconscious responses such as reflexes
@@ -6849,7 +6883,7 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. strategies that aim to confront and deal directly with the stressor
 - D. strategies that always reduce stress in every context
 
-**Q979.** Which of the following is an example of an avoidance coping strategy?
+**Q981.** Which of the following is an example of an avoidance coping strategy?
 <!-- id: psych34a1-cop-2 -->
 
 - A. Talking to a teacher about difficulties with a subject
@@ -6857,7 +6891,7 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. Breaking a large assignment into smaller tasks
 - D. Making a study timetable for an upcoming exam
 
-**Q980.** Coping flexibility is best defined as
+**Q982.** Coping flexibility is best defined as
 <!-- id: psych34a1-cop-3 -->
 
 - A. the ability to avoid stress completely
@@ -6865,7 +6899,7 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. the ability to adapt coping strategies to suit the demands of different stressful situations
 - D. avoiding all stressful situations
 
-**Q981.** A strategy is considered 'context-specific' in its effectiveness when
+**Q983.** A strategy is considered 'context-specific' in its effectiveness when
 <!-- id: psych34a1-cop-4 -->
 
 - A. it works equally well in all situations
@@ -6873,7 +6907,7 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. it is always an avoidance strategy
 - D. it is only effective for people with high stress levels
 
-**Q982.** Callum is anxious about a looming deadline and tries distraction by watching movies, but his anxiety increases as the deadline nears. He then makes a plan, breaks the task into steps and starts working. This change in approach is best described as
+**Q984.** Callum is anxious about a looming deadline and tries distraction by watching movies, but his anxiety increases as the deadline nears. He then makes a plan, breaks the task into steps and starts working. This change in approach is best described as
 <!-- id: psych34a1-cop-5 -->
 
 - A. primary appraisal
@@ -6881,17 +6915,17 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. coping inflexibility
 - D. coping flexibility
 
-**Q983.** Distinguish between approach and avoidance coping strategies, giving one example of each. (3 marks)
+**Q985.** Distinguish between approach and avoidance coping strategies, giving one example of each. (3 marks)
 <!-- id: psych34a1-cop-6 -->
 
 *Written answer*
 
-**Q984.** Explain why the effectiveness of a coping strategy is described as context-specific. Use an example. (3 marks)
+**Q986.** Explain why the effectiveness of a coping strategy is described as context-specific. Use an example. (3 marks)
 <!-- id: psych34a1-cop-7 -->
 
 *Written answer*
 
-**Q985.** Describe coping flexibility and explain why it may be beneficial for a person's wellbeing. (3 marks)
+**Q987.** Describe coping flexibility and explain why it may be beneficial for a person's wellbeing. (3 marks)
 <!-- id: psych34a1-cop-8 -->
 
 *Written answer*
@@ -6900,7 +6934,7 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 
 #### Classical conditioning
 
-**Q986.** Classical conditioning was first systematically investigated by
+**Q988.** Classical conditioning was first systematically investigated by
 <!-- id: psych34a1-cc-1 -->
 
 - A. Bandura
@@ -6908,7 +6942,7 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. Lazarus
 - D. Skinner
 
-**Q987.** In classical conditioning, the unconditioned response (UCR) is
+**Q989.** In classical conditioning, the unconditioned response (UCR) is
 <!-- id: psych34a1-cc-2 -->
 
 - A. the consequence that follows a behaviour
@@ -6916,7 +6950,7 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. an automatic response to the unconditioned stimulus that does not need to be learned
 - D. the neutral stimulus before conditioning
 
-**Q988.** Marcus eats a particular brand of chips and later gets food poisoning from a different meal. Now, the smell of the chips makes him feel nauseous. In this scenario the conditioned stimulus is
+**Q990.** Marcus eats a particular brand of chips and later gets food poisoning from a different meal. Now, the smell of the chips makes him feel nauseous. In this scenario the conditioned stimulus is
 <!-- id: psych34a1-cc-3 -->
 
 - A. the nausea felt after food poisoning
@@ -6924,7 +6958,7 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. the other meal
 - D. the food poisoning
 
-**Q989.** Extinction in classical conditioning occurs when
+**Q991.** Extinction in classical conditioning occurs when
 <!-- id: psych34a1-cc-4 -->
 
 - A. the CS is presented before the UCS
@@ -6932,7 +6966,7 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. the CS is repeatedly presented without the UCS, so the CR gradually weakens and disappears
 - D. the CR suddenly reappears after a rest period
 
-**Q990.** A child who was frightened by a large brown dog now becomes fearful when they see any large dog. This is an example of
+**Q992.** A child who was frightened by a large brown dog now becomes fearful when they see any large dog. This is an example of
 <!-- id: psych34a1-cc-5 -->
 
 - A. stimulus discrimination
@@ -6940,24 +6974,24 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. spontaneous recovery
 - D. stimulus generalisation
 
-**Q991.** Identify the NS, UCS, UCR, CS and CR in the following scenario: A student always hears the school bell just before being given a free lunch tray, which makes her salivate. After many weeks, the bell alone makes her salivate. (5 marks)
+**Q993.** Identify the NS, UCS, UCR, CS and CR in the following scenario: A student always hears the school bell just before being given a free lunch tray, which makes her salivate. After many weeks, the bell alone makes her salivate. (5 marks)
 <!-- id: psych34a1-cc-6 -->
 
 *Written answer*
 
-**Q992.** Describe the process of acquisition in classical conditioning, including the role of timing between the stimuli. (3 marks)
+**Q994.** Describe the process of acquisition in classical conditioning, including the role of timing between the stimuli. (3 marks)
 <!-- id: psych34a1-cc-7 -->
 
 *Written answer*
 
-**Q993.** A dog has been conditioned to salivate to a tone. After extinction, the tone is presented again following a rest period and the dog salivates slightly. Name this phenomenon and explain what it suggests about extinction. (3 marks)
+**Q995.** A dog has been conditioned to salivate to a tone. After extinction, the tone is presented again following a rest period and the dog salivates slightly. Name this phenomenon and explain what it suggests about extinction. (3 marks)
 <!-- id: psych34a1-cc-8 -->
 
 *Written answer*
 
 #### Operant conditioning
 
-**Q994.** Operant conditioning is best described as learning in which
+**Q996.** Operant conditioning is best described as learning in which
 <!-- id: psych34a1-oc-1 -->
 
 - A. an association is formed between two stimuli
@@ -6965,7 +6999,7 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. behaviour is acquired by observing others
 - D. reflexes are changed by repeated stimulus
 
-**Q995.** In the three-phase model of operant conditioning, the three phases are
+**Q997.** In the three-phase model of operant conditioning, the three phases are
 <!-- id: psych34a1-oc-2 -->
 
 - A. attention, retention, reproduction
@@ -6973,7 +7007,7 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. antecedent, behaviour, consequence
 - D. acquisition, extinction, spontaneous recovery
 
-**Q996.** A parent stops nagging a teenager once they have finished their homework. The teenager is now more likely to complete their homework in the future. This is an example of
+**Q998.** A parent stops nagging a teenager once they have finished their homework. The teenager is now more likely to complete their homework in the future. This is an example of
 <!-- id: psych34a1-oc-3 -->
 
 - A. negative reinforcement
@@ -6981,7 +7015,7 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. negative punishment
 - D. positive reinforcement
 
-**Q997.** A child's pocket money is taken away after they hit their sibling. The aim is to decrease hitting. This is best classified as
+**Q999.** A child's pocket money is taken away after they hit their sibling. The aim is to decrease hitting. This is best classified as
 <!-- id: psych34a1-oc-4 -->
 
 - A. positive punishment
@@ -6989,7 +7023,7 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. positive reinforcement
 - D. negative reinforcement
 
-**Q998.** A coach praises a swimmer every time she achieves a personal best. Which of the following is the antecedent in the three-phase model?
+**Q1000.** A coach praises a swimmer every time she achieves a personal best. Which of the following is the antecedent in the three-phase model?
 <!-- id: psych34a1-oc-5 -->
 
 - A. The praise
@@ -6997,24 +7031,24 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. The swimming race or training session in which the swimmer attempts a personal best
 - D. The swimmer's increased motivation
 
-**Q999.** Using the three-phase model of operant conditioning, analyse the following: A toddler is given a sticker each time she puts her toys away after play time. Identify the antecedent, behaviour and consequence and state the effect on behaviour. (4 marks)
+**Q1001.** Using the three-phase model of operant conditioning, analyse the following: A toddler is given a sticker each time she puts her toys away after play time. Identify the antecedent, behaviour and consequence and state the effect on behaviour. (4 marks)
 <!-- id: psych34a1-oc-6 -->
 
 *Written answer*
 
-**Q1000.** Distinguish between positive reinforcement and negative reinforcement, giving an example of each. (4 marks)
+**Q1002.** Distinguish between positive reinforcement and negative reinforcement, giving an example of each. (4 marks)
 <!-- id: psych34a1-oc-7 -->
 
 *Written answer*
 
-**Q1001.** A teacher gives detention (positive punishment) to a student who keeps arriving late, but the lateness continues. Suggest two reasons why the punishment may not be effective and one alternative using operant conditioning. (3 marks)
+**Q1003.** A teacher gives detention (positive punishment) to a student who keeps arriving late, but the lateness continues. Suggest two reasons why the punishment may not be effective and one alternative using operant conditioning. (3 marks)
 <!-- id: psych34a1-oc-8 -->
 
 *Written answer*
 
 #### Observational learning
 
-**Q1002.** Observational learning was extensively studied by
+**Q1004.** Observational learning was extensively studied by
 <!-- id: psych34a1-obs-1 -->
 
 - A. Bandura
@@ -7022,7 +7056,7 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. Pavlov
 - D. Skinner
 
-**Q1003.** According to Bandura, which of the following is the correct order of the stages of observational learning?
+**Q1005.** According to Bandura, which of the following is the correct order of the stages of observational learning?
 <!-- id: psych34a1-obs-2 -->
 
 - A. Attention, retention, reproduction, motivation, reinforcement
@@ -7030,7 +7064,7 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. Retention, attention, motivation, reproduction, reinforcement
 - D. Reproduction, retention, attention, reinforcement, motivation
 
-**Q1004.** In observational learning, a model is
+**Q1006.** In observational learning, a model is
 <!-- id: psych34a1-obs-3 -->
 
 - A. the reinforcement that follows the behaviour
@@ -7038,7 +7072,7 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. the person who is observed and whose behaviour is imitated
 - D. the observer who copies behaviour
 
-**Q1005.** A child sees an older cousin being praised for sharing toys. Later, the child shares their own toys. The child's behaviour is best explained by
+**Q1007.** A child sees an older cousin being praised for sharing toys. Later, the child shares their own toys. The child's behaviour is best explained by
 <!-- id: psych34a1-obs-4 -->
 
 - A. direct punishment
@@ -7046,7 +7080,7 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. spontaneous recovery
 - D. vicarious reinforcement
 
-**Q1006.** Which of the following demonstrates the 'retention' stage of observational learning?
+**Q1008.** Which of the following demonstrates the 'retention' stage of observational learning?
 <!-- id: psych34a1-obs-5 -->
 
 - A. A trainee watches a chef closely as she chops vegetables
@@ -7054,24 +7088,24 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. A trainee attempts to chop vegetables in the same way as the chef
 - D. A trainee is praised by the chef for improving
 
-**Q1007.** Outline the five stages of observational learning as proposed by Bandura. (5 marks)
+**Q1009.** Outline the five stages of observational learning as proposed by Bandura. (5 marks)
 <!-- id: psych34a1-obs-6 -->
 
 *Written answer*
 
-**Q1008.** Describe how Bandura's Bobo doll experiment demonstrated observational learning. (3 marks)
+**Q1010.** Describe how Bandura's Bobo doll experiment demonstrated observational learning. (3 marks)
 <!-- id: psych34a1-obs-7 -->
 
 *Written answer*
 
-**Q1009.** Lena watches an online tutorial in which a baker is applauded for decorating a cake with a new piping technique. Lena wants to copy the technique, but her first attempt is messy. Explain how the stages of attention and reproduction apply, and why reproduction may have failed. (4 marks)
+**Q1011.** Lena watches an online tutorial in which a baker is applauded for decorating a cake with a new piping technique. Lena wants to copy the technique, but her first attempt is messy. Explain how the stages of attention and reproduction apply, and why reproduction may have failed. (4 marks)
 <!-- id: psych34a1-obs-8 -->
 
 *Written answer*
 
 #### Aboriginal and Torres Strait Islander approaches to learning
 
-**Q1010.** Which statement best describes the role of Country in Aboriginal and Torres Strait Islander approaches to learning and memory?
+**Q1012.** Which statement best describes the role of Country in Aboriginal and Torres Strait Islander approaches to learning and memory?
 <!-- id: psych34a2-atsi-1 -->
 
 - A. Learning occurs only inside formal classrooms and is later applied to Country
@@ -7079,7 +7113,7 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. Country is a backdrop that has little influence on what is learnt
 - D. Knowledge is closely tied to place, so features of the land act as cues that hold and help recall cultural knowledge
 
-**Q1011.** An Elder guides a group of young people along a route, telling a story and singing at each landmark. Later the young people can recount the route and the associated knowledge. This is best described as a use of
+**Q1013.** An Elder guides a group of young people along a route, telling a story and singing at each landmark. Later the young people can recount the route and the associated knowledge. This is best described as a use of
 <!-- id: psych34a2-atsi-2 -->
 
 - A. songlines
@@ -7087,7 +7121,7 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. rote rehearsal of unrelated lists
 - D. a Western standardised test
 
-**Q1012.** Which of the following is a common feature of Aboriginal and Torres Strait Islander approaches to learning?
+**Q1014.** Which of the following is a common feature of Aboriginal and Torres Strait Islander approaches to learning?
 <!-- id: psych34a2-atsi-3 -->
 
 - A. Learning is individual and competitive, with a focus on personal achievement
@@ -7095,7 +7129,7 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. Learning is community-based, often through observation, practice and storytelling with kin and Elders
 - D. Learning is limited to young children
 
-**Q1013.** Why are stories, art, dance and song particularly effective for passing on cultural knowledge across generations?
+**Q1015.** Why are stories, art, dance and song particularly effective for passing on cultural knowledge across generations?
 <!-- id: psych34a2-atsi-4 -->
 
 - A. They link information to meaningful, emotional, multisensory experiences that are shared and repeated, which supports memory
@@ -7103,7 +7137,7 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. They make knowledge more private to each individual
 - D. They remove the need for any social interaction
 
-**Q1014.** Kinship systems in many Aboriginal and Torres Strait Islander communities are relevant to learning because they
+**Q1016.** Kinship systems in many Aboriginal and Torres Strait Islander communities are relevant to learning because they
 <!-- id: psych34a2-atsi-5 -->
 
 - A. are separate from cultural knowledge
@@ -7111,17 +7145,17 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. define relationships and responsibilities, including who teaches particular knowledge and to whom
 - D. replace the need for oral traditions
 
-**Q1015.** Describe one way in which connection to Country supports learning and memory in Aboriginal and Torres Strait Islander cultures. (2 marks)
+**Q1017.** Describe one way in which connection to Country supports learning and memory in Aboriginal and Torres Strait Islander cultures. (2 marks)
 <!-- id: psych34a2-atsi-6 -->
 
 *Written answer*
 
-**Q1016.** A teacher in a Victorian school wants to include learning approaches used by local Aboriginal communities in a unit on the history of the local area. Suggest two strategies consistent with Aboriginal and Torres Strait Islander approaches to learning and explain how each could aid students' learning. (4 marks)
+**Q1018.** A teacher in a Victorian school wants to include learning approaches used by local Aboriginal communities in a unit on the history of the local area. Suggest two strategies consistent with Aboriginal and Torres Strait Islander approaches to learning and explain how each could aid students' learning. (4 marks)
 <!-- id: psych34a2-atsi-7 -->
 
 *Written answer*
 
-**Q1017.** Explain, with reference to memory, why oral traditions and songlines have been able to preserve detailed knowledge over thousands of years. (3 marks)
+**Q1019.** Explain, with reference to memory, why oral traditions and songlines have been able to preserve detailed knowledge over thousands of years. (3 marks)
 <!-- id: psych34a2-atsi-8 -->
 
 *Written answer*
@@ -7130,7 +7164,7 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 
 #### Atkinson-Shiffrin multi-store model
 
-**Q1018.** In the Atkinson-Shiffrin multi-store model of memory, which of the following is the correct order in which information flows when it is successfully retained for a long time?
+**Q1020.** In the Atkinson-Shiffrin multi-store model of memory, which of the following is the correct order in which information flows when it is successfully retained for a long time?
 <!-- id: psych34a2-asm-1 -->
 
 - A. Sensory memory, long-term memory, short-term memory
@@ -7138,7 +7172,7 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. Short-term memory, sensory memory, long-term memory
 - D. Sensory memory, short-term memory, long-term memory
 
-**Q1019.** Which of the following best describes the capacity and duration of short-term memory according to the Atkinson-Shiffrin model?
+**Q1021.** Which of the following best describes the capacity and duration of short-term memory according to the Atkinson-Shiffrin model?
 <!-- id: psych34a2-asm-2 -->
 
 - A. Unlimited capacity and potentially permanent duration
@@ -7146,7 +7180,7 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. About 7 ± 2 items and several minutes without rehearsal
 - D. A few hundred items and about 3 to 4 seconds
 
-**Q1020.** Brian looks at a street scene as he walks past. He can recall almost nothing about it a minute later, because he did not pay attention to most of it. This is best explained by
+**Q1022.** Brian looks at a street scene as he walks past. He can recall almost nothing about it a minute later, because he did not pay attention to most of it. This is best explained by
 <!-- id: psych34a2-asm-3 -->
 
 - A. a lack of retrieval cues in long-term memory
@@ -7154,7 +7188,7 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. information being displaced from long-term memory
 - D. information in sensory memory decaying because it was not attended to
 
-**Q1021.** A researcher presents participants with a list of 20 words and then tests recall. People commonly recall the first few and last few words best. The better recall of the first words is typically explained by the Atkinson-Shiffrin model as
+**Q1023.** A researcher presents participants with a list of 20 words and then tests recall. People commonly recall the first few and last few words best. The better recall of the first words is typically explained by the Atkinson-Shiffrin model as
 <!-- id: psych34a2-asm-4 -->
 
 - A. more rehearsal, so these words are more likely to be transferred to long-term memory
@@ -7162,7 +7196,7 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. the last words displacing the first words from long-term memory
 - D. the words still being held in sensory memory
 
-**Q1022.** Which of the following is a limitation of the Atkinson-Shiffrin multi-store model?
+**Q1024.** Which of the following is a limitation of the Atkinson-Shiffrin multi-store model?
 <!-- id: psych34a2-asm-5 -->
 
 - A. It suggests that memory has more than one store
@@ -7170,24 +7204,24 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. It treats short-term memory as a single store and does not explain how different types of long-term memory work or the role of processing beyond rehearsal
 - D. It proposes that information can be rehearsed
 
-**Q1023.** Distinguish between iconic memory and echoic memory, including the typical duration of each. (3 marks)
+**Q1025.** Distinguish between iconic memory and echoic memory, including the typical duration of each. (3 marks)
 <!-- id: psych34a2-asm-6 -->
 
 *Written answer*
 
-**Q1024.** Maya is trying to remember a phone number she has just been told. Using the Atkinson-Shiffrin multi-store model, explain how she could ensure the number is stored for a long period of time, and what will most likely happen if she is interrupted straight after hearing it. (4 marks)
+**Q1026.** Maya is trying to remember a phone number she has just been told. Using the Atkinson-Shiffrin multi-store model, explain how she could ensure the number is stored for a long period of time, and what will most likely happen if she is interrupted straight after hearing it. (4 marks)
 <!-- id: psych34a2-asm-7 -->
 
 *Written answer*
 
-**Q1025.** Describe how the serial position effect provides evidence for separate short-term and long-term memory stores. (3 marks)
+**Q1027.** Describe how the serial position effect provides evidence for separate short-term and long-term memory stores. (3 marks)
 <!-- id: psych34a2-asm-8 -->
 
 *Written answer*
 
 #### Explicit and implicit memory
 
-**Q1026.** Which of the following is an example of implicit memory?
+**Q1028.** Which of the following is an example of implicit memory?
 <!-- id: psych34a2-eim-1 -->
 
 - A. Recalling the date of your last birthday party
@@ -7195,7 +7229,7 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. Riding a bike without consciously thinking about each movement
 - D. Describing the plot of a film you saw last week
 
-**Q1027.** Semantic memory is best described as
+**Q1029.** Semantic memory is best described as
 <!-- id: psych34a2-eim-2 -->
 
 - A. memory of personal experiences tied to a particular time and place
@@ -7203,7 +7237,7 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. memory of skills and habits
 - D. memory of conditioned emotional responses
 
-**Q1028.** A participant is shown a series of words and later asked to complete word fragments such as 'ch_ir'. They are more likely to complete fragments with previously seen words, but do not remember seeing the list. This is evidence of
+**Q1030.** A participant is shown a series of words and later asked to complete word fragments such as 'ch_ir'. They are more likely to complete fragments with previously seen words, but do not remember seeing the list. This is evidence of
 <!-- id: psych34a2-eim-3 -->
 
 - A. implicit memory, because past experience influenced performance without conscious recollection
@@ -7211,7 +7245,7 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. the serial position effect
 - D. explicit memory, because they recalled the words
 
-**Q1029.** Which of the following correctly matches a type of memory with an example?
+**Q1031.** Which of the following correctly matches a type of memory with an example?
 <!-- id: psych34a2-eim-4 -->
 
 - A. Classically conditioned response: feeling anxious when you hear a dentist's drill
@@ -7219,7 +7253,7 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. Episodic memory: knowing how to tie shoelaces
 - D. Procedural memory: remembering your graduation day
 
-**Q1030.** Which statement correctly distinguishes explicit memory from implicit memory?
+**Q1032.** Which statement correctly distinguishes explicit memory from implicit memory?
 <!-- id: psych34a2-eim-5 -->
 
 - A. Explicit memory is unconscious and implicit memory is conscious
@@ -7227,24 +7261,24 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. Explicit memory is stored only in the cerebellum
 - D. Implicit memory includes only episodic memory
 
-**Q1031.** Name the two types of explicit memory and give one example of each. (4 marks)
+**Q1033.** Name the two types of explicit memory and give one example of each. (4 marks)
 <!-- id: psych34a2-eim-6 -->
 
 *Written answer*
 
-**Q1032.** Jamal learnt to play the piano as a child and has not played for 20 years. He sits at a piano and finds his fingers move through a familiar piece, but he cannot recall where or when he learnt it. Identify the types of memory shown in this scenario, and justify each choice. (4 marks)
+**Q1034.** Jamal learnt to play the piano as a child and has not played for 20 years. He sits at a piano and finds his fingers move through a familiar piece, but he cannot recall where or when he learnt it. Identify the types of memory shown in this scenario, and justify each choice. (4 marks)
 <!-- id: psych34a2-eim-7 -->
 
 *Written answer*
 
-**Q1033.** Explain why a person who has lost the ability to form new explicit memories may still be able to learn a new motor skill. (3 marks)
+**Q1035.** Explain why a person who has lost the ability to form new explicit memories may still be able to learn a new motor skill. (3 marks)
 <!-- id: psych34a2-eim-8 -->
 
 *Written answer*
 
 #### Brain regions in memory
 
-**Q1034.** Which brain region is primarily involved in the consolidation of new explicit memories?
+**Q1036.** Which brain region is primarily involved in the consolidation of new explicit memories?
 <!-- id: psych34a2-brm-1 -->
 
 - A. Brainstem
@@ -7252,7 +7286,7 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. Hippocampus
 - D. Amygdala
 
-**Q1035.** The amygdala's role in memory is best described as
+**Q1037.** The amygdala's role in memory is best described as
 <!-- id: psych34a2-brm-2 -->
 
 - A. forming procedural memories for movement
@@ -7260,7 +7294,7 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. short-term storage of visual information
 - D. storing semantic memories permanently
 
-**Q1036.** After surgery to remove both hippocampi, a patient can still learn to trace shapes in a mirror, with improved performance over days, but cannot remember doing the task. Which conclusion is best supported?
+**Q1038.** After surgery to remove both hippocampi, a patient can still learn to trace shapes in a mirror, with improved performance over days, but cannot remember doing the task. Which conclusion is best supported?
 <!-- id: psych34a2-brm-3 -->
 
 - A. Implicit memory is lost when the hippocampus is removed
@@ -7268,7 +7302,7 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. Explicit memory formation depends on the hippocampus, while procedural learning does not
 - D. The amygdala is responsible for mirror tracing
 
-**Q1037.** Which of the following correctly matches a brain region with its role in memory?
+**Q1039.** Which of the following correctly matches a brain region with its role in memory?
 <!-- id: psych34a2-brm-4 -->
 
 - A. Neocortex: long-term storage of explicit memories
@@ -7276,7 +7310,7 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. Hippocampus: storage of classically conditioned responses
 - D. Amygdala: formation of procedural memories
 
-**Q1038.** A person is attacked by a dog and later feels intense fear and an elevated heart rate whenever they hear barking, even though they cannot recall details of the attack. Which brain region is most likely involved in this emotional response?
+**Q1040.** A person is attacked by a dog and later feels intense fear and an elevated heart rate whenever they hear barking, even though they cannot recall details of the attack. Which brain region is most likely involved in this emotional response?
 <!-- id: psych34a2-brm-5 -->
 
 - A. Prefrontal cortex only
@@ -7284,24 +7318,24 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. Hippocampus
 - D. Amygdala
 
-**Q1039.** Describe the roles of the hippocampus and the cerebellum in memory. (3 marks)
+**Q1041.** Describe the roles of the hippocampus and the cerebellum in memory. (3 marks)
 <!-- id: psych34a2-brm-6 -->
 
 *Written answer*
 
-**Q1040.** A man known as patient K has damage to his hippocampus following an accident. He can remember events from his childhood but cannot recall conversations from earlier the same day. He can learn a new sport with practice. Using your knowledge of brain regions in memory, explain these observations. (4 marks)
+**Q1042.** A man known as patient K has damage to his hippocampus following an accident. He can remember events from his childhood but cannot recall conversations from earlier the same day. He can learn a new sport with practice. Using your knowledge of brain regions in memory, explain these observations. (4 marks)
 <!-- id: psych34a2-brm-7 -->
 
 *Written answer*
 
-**Q1041.** Explain how the amygdala and the hippocampus work together when a person forms a memory of a frightening event. (3 marks)
+**Q1043.** Explain how the amygdala and the hippocampus work together when a person forms a memory of a frightening event. (3 marks)
 <!-- id: psych34a2-brm-8 -->
 
 *Written answer*
 
 #### Autobiographical memory and aphantasia
 
-**Q1042.** Autobiographical memory is best described as
+**Q1044.** Autobiographical memory is best described as
 <!-- id: psych34a2-ama-1 -->
 
 - A. memory for facts learnt in school
@@ -7309,7 +7343,7 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. memory for skills and habits
 - D. memory that is only formed in childhood
 
-**Q1043.** Aphantasia is best described as
+**Q1045.** Aphantasia is best described as
 <!-- id: psych34a2-ama-2 -->
 
 - A. an inability to recognise faces
@@ -7317,7 +7351,7 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. a complete loss of long-term memory
 - D. a form of amnesia caused by damage to the amygdala
 
-**Q1044.** Compared with people who experience typical mental imagery, people with aphantasia are most likely to report that their autobiographical memories
+**Q1046.** Compared with people who experience typical mental imagery, people with aphantasia are most likely to report that their autobiographical memories
 <!-- id: psych34a2-ama-3 -->
 
 - A. contain more visual details
@@ -7325,7 +7359,7 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. are not available at all
 - D. contain fewer sensory and visual details, although they may still recall facts about the events
 
-**Q1045.** A researcher asks a person to 'picture your breakfast table this morning' and then describe it. The person says they know what was there (cereal, a glass of juice) but 'see nothing at all in my mind'. This is most consistent with
+**Q1047.** A researcher asks a person to 'picture your breakfast table this morning' and then describe it. The person says they know what was there (cereal, a glass of juice) but 'see nothing at all in my mind'. This is most consistent with
 <!-- id: psych34a2-ama-4 -->
 
 - A. aphantasia
@@ -7333,7 +7367,7 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. prosopagnosia
 - D. amnesia
 
-**Q1046.** Which of the following is an appropriate conclusion about aphantasia and memory from this type of evidence?
+**Q1048.** Which of the following is an appropriate conclusion about aphantasia and memory from this type of evidence?
 <!-- id: psych34a2-ama-5 -->
 
 - A. People with aphantasia have better semantic than procedural memory
@@ -7341,24 +7375,24 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. Visual imagery may enrich the vividness of recalled episodes but is not required to remember what happened
 - D. Aphantasia is caused by damage to the cerebellum
 
-**Q1047.** Outline what is meant by autobiographical memory and name the two types of explicit memory it draws on. (3 marks)
+**Q1049.** Outline what is meant by autobiographical memory and name the two types of explicit memory it draws on. (3 marks)
 <!-- id: psych34a2-ama-6 -->
 
 *Written answer*
 
-**Q1048.** A study compares two groups on a task that asks participants to describe a past event, such as their last holiday, in as much detail as possible. Group A reports vivid mental imagery. Group B reports aphantasia. Group B gives fewer sensory details, but the number of factual details is similar across groups. Explain what these results suggest about the role of imagery in autobiographical memory. (3 marks)
+**Q1050.** A study compares two groups on a task that asks participants to describe a past event, such as their last holiday, in as much detail as possible. Group A reports vivid mental imagery. Group B reports aphantasia. Group B gives fewer sensory details, but the number of factual details is similar across groups. Explain what these results suggest about the role of imagery in autobiographical memory. (3 marks)
 <!-- id: psych34a2-ama-7 -->
 
 *Written answer*
 
-**Q1049.** Identify one limitation of using self-report to investigate aphantasia, and suggest how a researcher could address it. (3 marks)
+**Q1051.** Identify one limitation of using self-report to investigate aphantasia, and suggest how a researcher could address it. (3 marks)
 <!-- id: psych34a2-ama-8 -->
 
 *Written answer*
 
 #### Alzheimer's disease
 
-**Q1050.** Alzheimer's disease is best described as
+**Q1052.** Alzheimer's disease is best described as
 <!-- id: psych34a2-alz-1 -->
 
 - A. a disorder caused by a single traumatic head injury
@@ -7366,7 +7400,7 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. a temporary memory loss caused by sleep deprivation
 - D. a progressive neurodegenerative disease resulting in loss of neurons and increasing memory and cognitive impairment
 
-**Q1051.** Which of the following brain changes is characteristic of Alzheimer's disease?
+**Q1053.** Which of the following brain changes is characteristic of Alzheimer's disease?
 <!-- id: psych34a2-alz-2 -->
 
 - A. An increase in the number of neurons in the hippocampus
@@ -7374,7 +7408,7 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. Complete destruction of the cerebellum
 - D. Enlargement of the amygdala
 
-**Q1052.** Which of the following is most likely to be one of the earliest symptoms of Alzheimer's disease?
+**Q1054.** Which of the following is most likely to be one of the earliest symptoms of Alzheimer's disease?
 <!-- id: psych34a2-alz-3 -->
 
 - A. Inability to recognise close family members
@@ -7382,7 +7416,7 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. Loss of the ability to walk
 - D. Difficulty forming new episodic memories, such as forgetting recent conversations
 
-**Q1053.** Why might a person with advanced Alzheimer's disease still be able to play a piece on the piano they learnt many years ago?
+**Q1055.** Why might a person with advanced Alzheimer's disease still be able to play a piece on the piano they learnt many years ago?
 <!-- id: psych34a2-alz-4 -->
 
 - A. Procedural memory depends on regions such as the cerebellum that are affected later than the hippocampus and neocortex
@@ -7390,7 +7424,7 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. Alzheimer's disease does not affect long-term memories
 - D. The hippocampus is spared until the final stage
 
-**Q1054.** As Alzheimer's disease progresses, the loss of neurons in the neocortex is most likely to result in
+**Q1056.** As Alzheimer's disease progresses, the loss of neurons in the neocortex is most likely to result in
 <!-- id: psych34a2-alz-5 -->
 
 - A. no changes to behaviour or personality
@@ -7398,24 +7432,24 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. decline in language, reasoning and stored explicit memories
 - D. improved attention
 
-**Q1055.** Describe two physical changes in the brain associated with Alzheimer's disease. (2 marks)
+**Q1057.** Describe two physical changes in the brain associated with Alzheimer's disease. (2 marks)
 <!-- id: psych34a2-alz-6 -->
 
 *Written answer*
 
-**Q1056.** Margaret, aged 72, has been diagnosed with Alzheimer's disease. Her family notes that she often repeats questions and forgets recent events but can still make a cup of tea and recall her wedding day in detail. Using knowledge of memory, explain these observations. (4 marks)
+**Q1058.** Margaret, aged 72, has been diagnosed with Alzheimer's disease. Her family notes that she often repeats questions and forgets recent events but can still make a cup of tea and recall her wedding day in detail. Using knowledge of memory, explain these observations. (4 marks)
 <!-- id: psych34a2-alz-7 -->
 
 *Written answer*
 
-**Q1057.** Explain how the progression of Alzheimer's disease can have implications for a person's daily functioning and for their family. (3 marks)
+**Q1059.** Explain how the progression of Alzheimer's disease can have implications for a person's daily functioning and for their family. (3 marks)
 <!-- id: psych34a2-alz-8 -->
 
 *Written answer*
 
 #### Mnemonics
 
-**Q1058.** A student remembers the order of the planets by using the sentence 'My Very Educated Mother Just Served Us Noodles'. This mnemonic is an example of
+**Q1060.** A student remembers the order of the planets by using the sentence 'My Very Educated Mother Just Served Us Noodles'. This mnemonic is an example of
 <!-- id: psych34a2-mne-1 -->
 
 - A. an acrostic
@@ -7423,7 +7457,7 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. chunking
 - D. an acronym
 
-**Q1059.** Which of the following is an example of the method of loci?
+**Q1061.** Which of the following is an example of the method of loci?
 <!-- id: psych34a2-mne-2 -->
 
 - A. Repeating a list of words over and over
@@ -7431,7 +7465,7 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. Imagining placing each item on a shopping list at a distinct location along a familiar route through your house
 - D. Using the word HOMES to remember the Great Lakes
 
-**Q1060.** A person remembers the 10-digit number 0412345678 as 0412 345 678. This strategy is best described as
+**Q1062.** A person remembers the 10-digit number 0412345678 as 0412 345 678. This strategy is best described as
 <!-- id: psych34a2-mne-3 -->
 
 - A. the method of loci
@@ -7439,7 +7473,7 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. a classically conditioned response
 - D. chunking
 
-**Q1061.** Why are mnemonics effective in improving memory?
+**Q1063.** Why are mnemonics effective in improving memory?
 <!-- id: psych34a2-mne-4 -->
 
 - A. They increase the duration of sensory memory
@@ -7447,7 +7481,7 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. They erase irrelevant information from long-term memory
 - D. They organise information and link it to existing knowledge or cues, which improves encoding and retrieval
 
-**Q1062.** A student is asked to remember the following rainbow colours in order: red, orange, yellow, green, blue, indigo, violet. She uses ROY G. BIV. This is an example of
+**Q1064.** A student is asked to remember the following rainbow colours in order: red, orange, yellow, green, blue, indigo, violet. She uses ROY G. BIV. This is an example of
 <!-- id: psych34a2-mne-5 -->
 
 - A. an acrostic
@@ -7455,17 +7489,17 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. the method of loci
 - D. the serial position effect
 
-**Q1063.** Define a mnemonic and give one example of a mnemonic device. (2 marks)
+**Q1065.** Define a mnemonic and give one example of a mnemonic device. (2 marks)
 <!-- id: psych34a2-mne-6 -->
 
 *Written answer*
 
-**Q1064.** Sam needs to memorise a list of 12 items for a presentation. Describe how Sam could use the method of loci to do this and explain why it may help recall. (4 marks)
+**Q1066.** Sam needs to memorise a list of 12 items for a presentation. Describe how Sam could use the method of loci to do this and explain why it may help recall. (4 marks)
 <!-- id: psych34a2-mne-7 -->
 
 *Written answer*
 
-**Q1065.** Explain how chunking can overcome the limited capacity of short-term memory. (3 marks)
+**Q1067.** Explain how chunking can overcome the limited capacity of short-term memory. (3 marks)
 <!-- id: psych34a2-mne-8 -->
 
 *Written answer*
@@ -7474,7 +7508,7 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 
 #### Consciousness and measuring sleep
 
-**Q1066.** Consciousness is best defined as
+**Q1068.** Consciousness is best defined as
 <!-- id: psych34a2-cms-1 -->
 
 - A. the ability to control all bodily processes
@@ -7482,7 +7516,7 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. the same as being awake
 - D. a state that can only be measured by observation
 
-**Q1067.** Which of the following correctly identifies a measure used to record brain activity during sleep?
+**Q1069.** Which of the following correctly identifies a measure used to record brain activity during sleep?
 <!-- id: psych34a2-cms-2 -->
 
 - A. Electrooculograph (EOG)
@@ -7490,7 +7524,7 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. Electromyograph (EMG)
 - D. Electroencephalograph (EEG)
 
-**Q1068.** In a sleep laboratory, an electrooculograph (EOG) is used to measure
+**Q1070.** In a sleep laboratory, an electrooculograph (EOG) is used to measure
 <!-- id: psych34a2-cms-3 -->
 
 - A. muscle tension in the chin
@@ -7498,7 +7532,7 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. brain waves
 - D. heart rate only
 
-**Q1069.** Which of the following is an example of a subjective measure of a person's state of consciousness?
+**Q1071.** Which of the following is an example of a subjective measure of a person's state of consciousness?
 <!-- id: psych34a2-cms-4 -->
 
 - A. Muscle tone measured using an EMG
@@ -7506,7 +7540,7 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. Brain wave patterns on an EEG
 - D. A participant's description of their dreams or sleepiness after waking
 
-**Q1070.** Researchers use video monitoring of participants while they sleep. What is an advantage of this method?
+**Q1072.** Researchers use video monitoring of participants while they sleep. What is an advantage of this method?
 <!-- id: psych34a2-cms-5 -->
 
 - A. It allows observation of behaviours such as body movements and sleep talking without the need for the participant's report
@@ -7514,24 +7548,24 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. It replaces the need for an EEG in sleep studies
 - D. It records brain wave frequency directly
 
-**Q1071.** Describe what is meant by normal waking consciousness (NWC) and an altered state of consciousness (ASC), and give one example of an ASC. (3 marks)
+**Q1073.** Describe what is meant by normal waking consciousness (NWC) and an altered state of consciousness (ASC), and give one example of an ASC. (3 marks)
 <!-- id: psych34a2-cms-6 -->
 
 *Written answer*
 
-**Q1072.** A sleep researcher monitors a participant overnight using an EEG, an EOG and an EMG. Describe what each of these three measures records and how each could be used to identify REM sleep. (4 marks)
+**Q1074.** A sleep researcher monitors a participant overnight using an EEG, an EOG and an EMG. Describe what each of these three measures records and how each could be used to identify REM sleep. (4 marks)
 <!-- id: psych34a2-cms-7 -->
 
 *Written answer*
 
-**Q1073.** Explain one advantage and one limitation of using self-reports to study sleep and dreams. (3 marks)
+**Q1075.** Explain one advantage and one limitation of using self-reports to study sleep and dreams. (3 marks)
 <!-- id: psych34a2-cms-8 -->
 
 *Written answer*
 
 #### NREM and REM sleep
 
-**Q1074.** Which of the following correctly describes REM sleep?
+**Q1076.** Which of the following correctly describes REM sleep?
 <!-- id: psych34a2-nrs-1 -->
 
 - A. Slow delta waves and deep muscle relaxation, with no dreaming
@@ -7539,7 +7573,7 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. Sleep spindles and K-complexes
 - D. Alpha waves and drowsiness
 
-**Q1075.** Which feature is most characteristic of NREM stage 3 (slow-wave) sleep?
+**Q1077.** Which feature is most characteristic of NREM stage 3 (slow-wave) sleep?
 <!-- id: psych34a2-nrs-2 -->
 
 - A. Beta waves
@@ -7547,7 +7581,7 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. Large amplitude, low frequency delta waves
 - D. Rapid eye movements
 
-**Q1076.** A participant's EEG shows theta waves interrupted by short bursts of high-frequency activity (sleep spindles) and large sharp waves (K-complexes). The participant is most likely in
+**Q1078.** A participant's EEG shows theta waves interrupted by short bursts of high-frequency activity (sleep spindles) and large sharp waves (K-complexes). The participant is most likely in
 <!-- id: psych34a2-nrs-3 -->
 
 - A. NREM stage 1
@@ -7555,7 +7589,7 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. NREM stage 3
 - D. REM sleep
 
-**Q1077.** During a typical night's sleep in a healthy young adult, what happens to the proportion of time spent in REM sleep across successive sleep cycles?
+**Q1079.** During a typical night's sleep in a healthy young adult, what happens to the proportion of time spent in REM sleep across successive sleep cycles?
 <!-- id: psych34a2-nrs-4 -->
 
 - A. REM occurs only in the first cycle
@@ -7563,7 +7597,7 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. It stays exactly the same
 - D. It increases, with REM periods becoming longer toward morning
 
-**Q1078.** A person who is woken during REM sleep is most likely to
+**Q1080.** A person who is woken during REM sleep is most likely to
 <!-- id: psych34a2-nrs-5 -->
 
 - A. have no recall of any mental activity
@@ -7571,24 +7605,24 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. show delta waves on EEG
 - D. report that they have been dreaming vividly
 
-**Q1079.** Outline the typical physiological characteristics of NREM stage 1 sleep. (2 marks)
+**Q1081.** Outline the typical physiological characteristics of NREM stage 1 sleep. (2 marks)
 <!-- id: psych34a2-nrs-6 -->
 
 *Written answer*
 
-**Q1080.** Compare REM sleep and NREM stage 3 sleep in terms of brain wave activity, muscle tone and ease of waking. (4 marks)
+**Q1082.** Compare REM sleep and NREM stage 3 sleep in terms of brain wave activity, muscle tone and ease of waking. (4 marks)
 <!-- id: psych34a2-nrs-7 -->
 
 *Written answer*
 
-**Q1081.** Explain why a person's sleep cycle is often described as a cycle rather than a linear progression through the stages, using one cycle as an example. (3 marks)
+**Q1083.** Explain why a person's sleep cycle is often described as a cycle rather than a linear progression through the stages, using one cycle as an example. (3 marks)
 <!-- id: psych34a2-nrs-8 -->
 
 *Written answer*
 
 #### Circadian and ultradian rhythms
 
-**Q1082.** A circadian rhythm is a biological cycle that
+**Q1084.** A circadian rhythm is a biological cycle that
 <!-- id: psych34a2-cur-1 -->
 
 - A. lasts about 90 minutes
@@ -7596,7 +7630,7 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. lasts about 24 hours
 - D. occurs several times within a 24-hour period
 
-**Q1083.** Which structure acts as the body's main biological clock, coordinating the sleep-wake cycle in response to light?
+**Q1085.** Which structure acts as the body's main biological clock, coordinating the sleep-wake cycle in response to light?
 <!-- id: psych34a2-cur-2 -->
 
 - A. The suprachiasmatic nucleus (SCN)
@@ -7604,7 +7638,7 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. The amygdala
 - D. The pineal gland
 
-**Q1084.** Melatonin is best described as
+**Q1086.** Melatonin is best described as
 <!-- id: psych34a2-cur-3 -->
 
 - A. a protein that regulates REM sleep only
@@ -7612,7 +7646,7 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. a neurotransmitter that keeps the brain awake
 - D. a hormone secreted by the SCN that is highest during daylight
 
-**Q1085.** Which of the following is an example of an ultradian rhythm?
+**Q1087.** Which of the following is an example of an ultradian rhythm?
 <!-- id: psych34a2-cur-4 -->
 
 - A. The 90-minute cycle through stages of sleep
@@ -7620,7 +7654,7 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. The sleep-wake cycle across one day
 - D. A monthly hormonal cycle
 
-**Q1086.** A shift worker keeps awake during the night and sleeps in the day. Which of the following is the most likely effect on their circadian rhythm?
+**Q1088.** A shift worker keeps awake during the night and sleeps in the day. Which of the following is the most likely effect on their circadian rhythm?
 <!-- id: psych34a2-cur-5 -->
 
 - A. Their SCN stops functioning
@@ -7628,24 +7662,24 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. Their circadian rhythm will not be affected at all
 - D. Their internal clock is mismatched with external light-dark cues, causing reduced sleep quality and alertness at work
 
-**Q1087.** Distinguish between circadian and ultradian rhythms, giving one example of each in relation to sleep. (4 marks)
+**Q1089.** Distinguish between circadian and ultradian rhythms, giving one example of each in relation to sleep. (4 marks)
 <!-- id: psych34a2-cur-6 -->
 
 *Written answer*
 
-**Q1088.** Explain how the suprachiasmatic nucleus and the pineal gland work together to regulate the sleep-wake cycle when light levels fall in the evening. (3 marks)
+**Q1090.** Explain how the suprachiasmatic nucleus and the pineal gland work together to regulate the sleep-wake cycle when light levels fall in the evening. (3 marks)
 <!-- id: psych34a2-cur-7 -->
 
 *Written answer*
 
-**Q1089.** Hana travels from Melbourne to London and has trouble sleeping at night for several days after arrival. Using your knowledge of circadian rhythms, explain why. (3 marks)
+**Q1091.** Hana travels from Melbourne to London and has trouble sleeping at night for several days after arrival. Using your knowledge of circadian rhythms, explain why. (3 marks)
 <!-- id: psych34a2-cur-8 -->
 
 *Written answer*
 
 #### Sleep across the lifespan
 
-**Q1090.** Compared with adults, newborn babies typically
+**Q1092.** Compared with adults, newborn babies typically
 <!-- id: psych34a2-sal-1 -->
 
 - A. have no REM sleep
@@ -7653,7 +7687,7 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. sleep for more hours and spend a greater proportion of sleep in REM sleep
 - D. sleep for the same number of hours
 
-**Q1091.** Which of the following changes is typical in sleep as a person ages from adulthood into older age?
+**Q1093.** Which of the following changes is typical in sleep as a person ages from adulthood into older age?
 <!-- id: psych34a2-sal-2 -->
 
 - A. A decrease in NREM stage 3 sleep and more frequent awakenings
@@ -7661,7 +7695,7 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. A shift to 50% REM sleep
 - D. An increase in NREM stage 3 sleep
 
-**Q1092.** Adolescents often prefer going to bed late and waking late. Which of the following best explains this?
+**Q1094.** Adolescents often prefer going to bed late and waking late. Which of the following best explains this?
 <!-- id: psych34a2-sal-3 -->
 
 - A. They produce more melatonin than adults in the early evening
@@ -7669,7 +7703,7 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. A delay in the release of melatonin shifts their circadian rhythm later
 - D. Adolescents have no circadian rhythm
 
-**Q1093.** Approximately how many hours of sleep do adults typically need per night?
+**Q1095.** Approximately how many hours of sleep do adults typically need per night?
 <!-- id: psych34a2-sal-4 -->
 
 - A. 4 to 5 hours
@@ -7677,7 +7711,7 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. 10 to 12 hours
 - D. 14 to 17 hours
 
-**Q1094.** Which statement about REM sleep across the lifespan is correct?
+**Q1096.** Which statement about REM sleep across the lifespan is correct?
 <!-- id: psych34a2-sal-5 -->
 
 - A. REM sleep increases steadily with age
@@ -7685,24 +7719,24 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. The percentage of sleep in REM remains constant from birth to old age
 - D. The proportion of sleep spent in REM is highest in infancy and declines to about 20 to 25% in adulthood
 
-**Q1095.** Describe two ways in which the sleep patterns of newborns differ from those of adults. (2 marks)
+**Q1097.** Describe two ways in which the sleep patterns of newborns differ from those of adults. (2 marks)
 <!-- id: psych34a2-sal-6 -->
 
 *Written answer*
 
-**Q1096.** A school considers starting classes later in the morning for Year 10 students. Using your knowledge of sleep across the lifespan, explain the reasoning behind this suggestion. (4 marks)
+**Q1098.** A school considers starting classes later in the morning for Year 10 students. Using your knowledge of sleep across the lifespan, explain the reasoning behind this suggestion. (4 marks)
 <!-- id: psych34a2-sal-7 -->
 
 *Written answer*
 
-**Q1097.** Explain two changes in sleep that typically occur in older adults and how these may affect their daytime functioning. (3 marks)
+**Q1099.** Explain two changes in sleep that typically occur in older adults and how these may affect their daytime functioning. (3 marks)
 <!-- id: psych34a2-sal-8 -->
 
 *Written answer*
 
 #### Sleep deprivation
 
-**Q1098.** Which of the following best describes a microsleep?
+**Q1100.** Which of the following best describes a microsleep?
 <!-- id: psych34a3-sd-1 -->
 
 - A. A sleep episode lasting about 90 minutes that follows a night of partial sleep deprivation
@@ -7710,7 +7744,7 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. A period of REM sleep that occurs during the first hour of the night
 - D. A deliberate short nap taken to reduce sleep debt
 
-**Q1099.** Tamsin has been awake for 24 hours straight. Compared with a person who has had normal sleep, her reaction time on a driving simulator is most likely to be
+**Q1101.** Tamsin has been awake for 24 hours straight. Compared with a person who has had normal sleep, her reaction time on a driving simulator is most likely to be
 <!-- id: psych34a3-sd-2 -->
 
 - A. slower, similar to the impairment seen with a blood alcohol concentration of about 0.10%
@@ -7718,7 +7752,7 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. faster, because arousal is elevated
 - D. unchanged, because motor skills are unaffected by sleep loss
 
-**Q1100.** Which of the following is an example of an effect of sleep deprivation on affective functioning?
+**Q1102.** Which of the following is an example of an effect of sleep deprivation on affective functioning?
 <!-- id: psych34a3-sd-3 -->
 
 - A. Difficulty holding information in working memory
@@ -7726,7 +7760,7 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. Slowed reaction time
 - D. More frequent microsleeps
 
-**Q1101.** A researcher compares 'total sleep deprivation' with 'partial sleep deprivation'. Which statement is correct?
+**Q1103.** A researcher compares 'total sleep deprivation' with 'partial sleep deprivation'. Which statement is correct?
 <!-- id: psych34a3-sd-4 -->
 
 - A. Partial sleep deprivation only affects NREM sleep
@@ -7734,7 +7768,7 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. Total sleep deprivation involves no sleep for a period of time, while partial involves reduced sleep or sleep that is restricted or fragmented
 - D. Both involve no sleep, but partial deprivation lasts less than 12 hours
 
-**Q1102.** After a week in which Jarrah slept only five hours a night, he finds it hard to concentrate in class and makes more errors in maths problems. This is best classified as an effect on his
+**Q1104.** After a week in which Jarrah slept only five hours a night, he finds it hard to concentrate in class and makes more errors in maths problems. This is best classified as an effect on his
 <!-- id: psych34a3-sd-5 -->
 
 - A. affective functioning
@@ -7742,24 +7776,24 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. autonomic functioning
 - D. cognitive functioning
 
-**Q1103.** Define total sleep deprivation and distinguish it from partial sleep deprivation, giving one example of a situation for each. (3 marks)
+**Q1105.** Define total sleep deprivation and distinguish it from partial sleep deprivation, giving one example of a situation for each. (3 marks)
 <!-- id: psych34a3-sd-6 -->
 
 *Written answer*
 
-**Q1104.** Explain how 24 hours of total sleep deprivation could affect a truck driver's behavioural and cognitive functioning, referring to blood alcohol concentration in your answer. (4 marks)
+**Q1106.** Explain how 24 hours of total sleep deprivation could affect a truck driver's behavioural and cognitive functioning, referring to blood alcohol concentration in your answer. (4 marks)
 <!-- id: psych34a3-sd-7 -->
 
 *Written answer*
 
-**Q1105.** A student claims, 'Staying up all night is fine because I can fully make up for it the next day.' Using two effects of sleep deprivation, evaluate this claim. (3 marks)
+**Q1107.** A student claims, 'Staying up all night is fine because I can fully make up for it the next day.' Using two effects of sleep deprivation, evaluate this claim. (3 marks)
 <!-- id: psych34a3-sd-8 -->
 
 *Written answer*
 
 #### Circadian rhythm sleep disorders and treatments
 
-**Q1106.** Delayed sleep phase disorder (DSPD) is characterised by
+**Q1108.** Delayed sleep phase disorder (DSPD) is characterised by
 <!-- id: psych34a3-crsd-1 -->
 
 - A. falling asleep and waking much earlier than desired
@@ -7767,7 +7801,7 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. sleep that is normal in length but frequently interrupted by awakenings
 - D. excessive daytime sleepiness caused by narcotic drugs
 
-**Q1107.** Which treatment for DSPD aims to shift the sleep-wake cycle earlier by exposing the person to bright light shortly after waking?
+**Q1109.** Which treatment for DSPD aims to shift the sleep-wake cycle earlier by exposing the person to bright light shortly after waking?
 <!-- id: psych34a3-crsd-2 -->
 
 - A. Systematic desensitisation
@@ -7775,7 +7809,7 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. Benzodiazepine therapy
 - D. Bright light therapy
 
-**Q1108.** A nurse works rotating night shifts and reports fatigue, poor sleep during the day and difficulty concentrating. Which description best explains this?
+**Q1110.** A nurse works rotating night shifts and reports fatigue, poor sleep during the day and difficulty concentrating. Which description best explains this?
 <!-- id: psych34a3-crsd-3 -->
 
 - A. Her work schedule conflicts with her circadian rhythm, which is synchronised by light and other zeitgebers
@@ -7783,7 +7817,7 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. She has developed advanced sleep phase disorder from taking melatonin
 - D. Night shift always causes insomnia as a result of anxiety
 
-**Q1109.** Melatonin is sometimes used as a treatment for circadian rhythm sleep disorders. The best explanation of how it works is that
+**Q1111.** Melatonin is sometimes used as a treatment for circadian rhythm sleep disorders. The best explanation of how it works is that
 <!-- id: psych34a3-crsd-4 -->
 
 - A. it increases alertness by suppressing melatonin production
@@ -7791,7 +7825,7 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. it is a hormone secreted by the pineal gland that signals darkness and promotes sleepiness, so timed doses can shift the sleep-wake cycle
 - D. it blocks the release of cortisol at night
 
-**Q1110.** Eleni flies from Melbourne to London and experiences fatigue and disrupted sleep for several days. Which statement about this is most accurate?
+**Q1112.** Eleni flies from Melbourne to London and experiences fatigue and disrupted sleep for several days. Which statement about this is most accurate?
 <!-- id: psych34a3-crsd-5 -->
 
 - A. It is a permanent circadian rhythm sleep disorder
@@ -7799,24 +7833,24 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. It is best treated by flooding
 - D. It is caused by a mismatch between her internal body clock and the new local time, so her zeitgebers are out of step with her circadian rhythm
 
-**Q1111.** Describe delayed sleep phase disorder and explain one possible effect on a teenager's daily functioning. (3 marks)
+**Q1113.** Describe delayed sleep phase disorder and explain one possible effect on a teenager's daily functioning. (3 marks)
 <!-- id: psych34a3-crsd-6 -->
 
 *Written answer*
 
-**Q1112.** Outline how bright light therapy and melatonin could each be used to treat delayed sleep phase disorder. (4 marks)
+**Q1114.** Outline how bright light therapy and melatonin could each be used to treat delayed sleep phase disorder. (4 marks)
 <!-- id: psych34a3-crsd-7 -->
 
 *Written answer*
 
-**Q1113.** A factory worker moves from day shift to a permanent night shift. Explain, with reference to zeitgebers, why she may struggle to sleep during the day. (3 marks)
+**Q1115.** A factory worker moves from day shift to a permanent night shift. Explain, with reference to zeitgebers, why she may struggle to sleep during the day. (3 marks)
 <!-- id: psych34a3-crsd-8 -->
 
 *Written answer*
 
 #### Sleep hygiene and zeitgebers
 
-**Q1114.** A zeitgeber is best defined as
+**Q1116.** A zeitgeber is best defined as
 <!-- id: psych34a3-shz-1 -->
 
 - A. a type of microsleep
@@ -7824,7 +7858,7 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. an external environmental cue that helps synchronise the body's circadian rhythm
 - D. a hormone released during NREM stage 3 sleep
 
-**Q1115.** Which of the following is an example of good sleep hygiene?
+**Q1117.** Which of the following is an example of good sleep hygiene?
 <!-- id: psych34a3-shz-2 -->
 
 - A. Keeping a consistent bedtime and wake time, including on weekends
@@ -7832,7 +7866,7 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. Taking a long nap late in the afternoon every day
 - D. Using a bright tablet in bed until falling asleep
 
-**Q1116.** Which zeitgeber is considered the most powerful for entraining the circadian rhythm in humans?
+**Q1118.** Which zeitgeber is considered the most powerful for entraining the circadian rhythm in humans?
 <!-- id: psych34a3-shz-3 -->
 
 - A. Background noise
@@ -7840,7 +7874,7 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. Light
 - D. Exercise timing
 
-**Q1117.** Mina uses her phone in bed for an hour each night and then has trouble falling asleep. The most appropriate explanation is that the
+**Q1119.** Mina uses her phone in bed for an hour each night and then has trouble falling asleep. The most appropriate explanation is that the
 <!-- id: psych34a3-shz-4 -->
 
 - A. screen emits light, which suppresses melatonin secretion and delays sleep onset
@@ -7848,7 +7882,7 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. screen light increases the amount of REM sleep
 - D. phone produces melatonin
 
-**Q1118.** A study of sleep hygiene programs for students measured sleep onset latency before and after the program. Which result would best support the effectiveness of the program?
+**Q1120.** A study of sleep hygiene programs for students measured sleep onset latency before and after the program. Which result would best support the effectiveness of the program?
 <!-- id: psych34a3-shz-5 -->
 
 - A. No change in mean bedtime
@@ -7856,17 +7890,17 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. A decrease in the mean sleep onset latency
 - D. An increase in mean caffeine intake
 
-**Q1119.** Define sleep hygiene and identify two sleep hygiene practices that could be used by an adolescent with difficulty falling asleep. (3 marks)
+**Q1121.** Define sleep hygiene and identify two sleep hygiene practices that could be used by an adolescent with difficulty falling asleep. (3 marks)
 <!-- id: psych34a3-shz-6 -->
 
 *Written answer*
 
-**Q1120.** Explain how light acts as a zeitgeber to regulate the circadian rhythm. (3 marks)
+**Q1122.** Explain how light acts as a zeitgeber to regulate the circadian rhythm. (3 marks)
 <!-- id: psych34a3-shz-7 -->
 
 *Written answer*
 
-**Q1121.** Malik often stays up until 2 am on weekends and sleeps until noon, then struggles to get up for school on Monday. Using the concept of zeitgebers, explain why, and suggest one way he could address this. (4 marks)
+**Q1123.** Malik often stays up until 2 am on weekends and sleeps until noon, then struggles to get up for school on Monday. Using the concept of zeitgebers, explain why, and suggest one way he could address this. (4 marks)
 <!-- id: psych34a3-shz-8 -->
 
 *Written answer*
@@ -7875,7 +7909,7 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 
 #### Mental wellbeing and the mental health continuum
 
-**Q1122.** Which of the following best describes mental wellbeing?
+**Q1124.** Which of the following best describes mental wellbeing?
 <!-- id: psych34a3-mw-1 -->
 
 - A. A state in which a person can realise their abilities, cope with normal stressors, work productively and contribute to their community
@@ -7883,7 +7917,7 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. The same thing as happiness
 - D. The absence of any mental disorder
 
-**Q1123.** On the mental health continuum, a person who is functioning well, has good coping and feels able to take part in life is placed
+**Q1125.** On the mental health continuum, a person who is functioning well, has good coping and feels able to take part in life is placed
 <!-- id: psych34a3-mw-2 -->
 
 - A. in the middle, as a mental health problem
@@ -7891,7 +7925,7 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. at the mental illness end
 - D. outside the continuum
 
-**Q1124.** Which statement about the difference between a mental health problem and a mental disorder is most accurate?
+**Q1126.** Which statement about the difference between a mental health problem and a mental disorder is most accurate?
 <!-- id: psych34a3-mw-3 -->
 
 - A. A mental health problem interferes with a person's thoughts, feelings or behaviour but is generally less severe and shorter lasting than a mental disorder, which meets diagnostic criteria and persists over time
@@ -7899,7 +7933,7 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. A mental disorder never involves a change in functioning
 - D. A mental health problem is a diagnosable condition and a mental disorder is not
 
-**Q1125.** Anh has felt sad and has found it hard to complete her work for two weeks following a relationship break-up, but she still attends classes and her symptoms are easing. This is best described as
+**Q1127.** Anh has felt sad and has found it hard to complete her work for two weeks following a relationship break-up, but she still attends classes and her symptoms are easing. This is best described as
 <!-- id: psych34a3-mw-4 -->
 
 - A. a severe mental illness
@@ -7907,7 +7941,7 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. a mental health problem
 - D. a mental disorder
 
-**Q1126.** Which of the following is the best reason for describing mental health as a continuum rather than a dichotomy of 'healthy' versus 'ill'?
+**Q1128.** Which of the following is the best reason for describing mental health as a continuum rather than a dichotomy of 'healthy' versus 'ill'?
 <!-- id: psych34a3-mw-5 -->
 
 - A. People's mental health can vary in degree and shift position over time in response to internal and external factors
@@ -7915,24 +7949,24 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. Mental health is fixed throughout life
 - D. All people are equally mentally healthy
 
-**Q1127.** Describe the mental health continuum and explain why a person's position on it can change. (3 marks)
+**Q1129.** Describe the mental health continuum and explain why a person's position on it can change. (3 marks)
 <!-- id: psych34a3-mw-6 -->
 
 *Written answer*
 
-**Q1128.** Distinguish between mental wellbeing and mental illness using an example of each. (3 marks)
+**Q1130.** Distinguish between mental wellbeing and mental illness using an example of each. (3 marks)
 <!-- id: psych34a3-mw-7 -->
 
 *Written answer*
 
-**Q1129.** Rohan's wellbeing was good, but after losing his job and having less contact with friends he often feels anxious and isolated. Use the mental health continuum to explain how his position may have changed, and suggest what it would take for him to move back. (3 marks)
+**Q1131.** Rohan's wellbeing was good, but after losing his job and having less contact with friends he often feels anxious and isolated. Use the mental health continuum to explain how his position may have changed, and suggest what it would take for him to move back. (3 marks)
 <!-- id: psych34a3-mw-8 -->
 
 *Written answer*
 
 #### Social and emotional wellbeing
 
-**Q1130.** Which of the following best describes the Aboriginal and Torres Strait Islander concept of social and emotional wellbeing (SEWB)?
+**Q1132.** Which of the following best describes the Aboriginal and Torres Strait Islander concept of social and emotional wellbeing (SEWB)?
 <!-- id: psych34a3-sew-1 -->
 
 - A. A holistic concept that includes connection to body, mind and emotions, family and kinship, community, culture, Country, and spirituality and ancestors
@@ -7940,7 +7974,7 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. A measure of a person's income and employment
 - D. A concept focused only on the absence of mental illness in the individual
 
-**Q1131.** Which of the following is an example of an Aboriginal and Torres Strait Islander person's connection to Country supporting their SEWB?
+**Q1133.** Which of the following is an example of an Aboriginal and Torres Strait Islander person's connection to Country supporting their SEWB?
 <!-- id: psych34a3-sew-2 -->
 
 - A. Avoiding contact with elders
@@ -7948,7 +7982,7 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. Taking part in cultural ceremonies and caring for land that holds ancestral and spiritual significance
 - D. Receiving a diagnosis of a mental disorder
 
-**Q1132.** A key difference between a SEWB approach and a purely biomedical approach to mental health is that SEWB
+**Q1134.** A key difference between a SEWB approach and a purely biomedical approach to mental health is that SEWB
 <!-- id: psych34a3-sew-3 -->
 
 - A. views wellbeing as shaped by the person's connections to family, community, culture and Country, as well as individual factors
@@ -7956,7 +7990,7 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. ignores historical and social factors
 - D. treats the individual in isolation
 
-**Q1133.** Which of the following social determinants can negatively influence the SEWB of Aboriginal and Torres Strait Islander peoples?
+**Q1135.** Which of the following social determinants can negatively influence the SEWB of Aboriginal and Torres Strait Islander peoples?
 <!-- id: psych34a3-sew-4 -->
 
 - A. Access to culturally safe health services
@@ -7964,7 +7998,7 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. Racism and discrimination
 - D. Strong family and kinship networks
 
-**Q1134.** Which of the following is an example of the 'family and kinship' dimension of SEWB?
+**Q1136.** Which of the following is an example of the 'family and kinship' dimension of SEWB?
 <!-- id: psych34a3-sew-5 -->
 
 - A. Spending time with extended family and fulfilling kinship obligations
@@ -7972,24 +8006,24 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. Learning a new language at school
 - D. Earning a high income
 
-**Q1135.** Describe what is meant by social and emotional wellbeing (SEWB) for Aboriginal and Torres Strait Islander peoples and name two of its interrelated domains. (3 marks)
+**Q1137.** Describe what is meant by social and emotional wellbeing (SEWB) for Aboriginal and Torres Strait Islander peoples and name two of its interrelated domains. (3 marks)
 <!-- id: psych34a3-sew-6 -->
 
 *Written answer*
 
-**Q1136.** Explain how a loss of connection to Country or culture could affect the SEWB of an Aboriginal or Torres Strait Islander young person. (3 marks)
+**Q1138.** Explain how a loss of connection to Country or culture could affect the SEWB of an Aboriginal or Torres Strait Islander young person. (3 marks)
 <!-- id: psych34a3-sew-7 -->
 
 *Written answer*
 
-**Q1137.** A community health service wants to support SEWB in a remote Aboriginal community. Suggest two culturally appropriate strategies and justify each using a domain of SEWB. (4 marks)
+**Q1139.** A community health service wants to support SEWB in a remote Aboriginal community. Suggest two culturally appropriate strategies and justify each using a domain of SEWB. (4 marks)
 <!-- id: psych34a3-sew-8 -->
 
 *Written answer*
 
 #### Specific phobia: contributing factors
 
-**Q1138.** Which of the following is a defining feature of a specific phobia?
+**Q1140.** Which of the following is a defining feature of a specific phobia?
 <!-- id: psych34a3-sp-1 -->
 
 - A. Excessive, persistent fear of a specific object or situation that is out of proportion to the actual danger and leads to avoidance
@@ -7997,7 +8031,7 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. A brief and rational fear of a genuinely dangerous situation
 - D. Fear of being in social situations only
 
-**Q1139.** Which of the following best describes the role of GABA in the development of a specific phobia?
+**Q1141.** Which of the following best describes the role of GABA in the development of a specific phobia?
 <!-- id: psych34a3-sp-2 -->
 
 - A. GABA causes the release of cortisol
@@ -8005,7 +8039,7 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. Dysfunction in GABA, an inhibitory neurotransmitter, can reduce its ability to calm the fear response, so anxiety is less regulated
 - D. GABA increases the activity of the amygdala and causes fear
 
-**Q1140.** At age four, Ben was knocked over by a large dog and was terrified. He now feels intense fear when he sees any dog, even small ones. In terms of classical conditioning, the dog in this scenario after conditioning is the
+**Q1142.** At age four, Ben was knocked over by a large dog and was terrified. He now feels intense fear when he sees any dog, even small ones. In terms of classical conditioning, the dog in this scenario after conditioning is the
 <!-- id: psych34a3-sp-3 -->
 
 - A. unconditioned stimulus
@@ -8013,7 +8047,7 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. unconditioned response
 - D. neutral stimulus
 
-**Q1141.** Which of the following is an example of a social contributing factor to a specific phobia?
+**Q1143.** Which of the following is an example of a social contributing factor to a specific phobia?
 <!-- id: psych34a3-sp-4 -->
 
 - A. Having a negative classical conditioning experience
@@ -8021,7 +8055,7 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. Low levels of GABA
 - D. Hyperactivity of the amygdala caused by genetic variation
 
-**Q1142.** Which statement best describes the role of long-term potentiation (LTP) in specific phobia?
+**Q1144.** Which statement best describes the role of long-term potentiation (LTP) in specific phobia?
 <!-- id: psych34a3-sp-5 -->
 
 - A. It strengthens synaptic connections associated with the feared stimulus and fear response, making the fear memory more easily triggered
@@ -8029,24 +8063,24 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. It is a type of operant conditioning
 - D. It weakens the synapses involved in the fear memory
 
-**Q1143.** Using the biopsychosocial approach, explain how a specific phobia of flying could develop. Include one biological, one psychological and one social contributing factor. (4 marks)
+**Q1145.** Using the biopsychosocial approach, explain how a specific phobia of flying could develop. Include one biological, one psychological and one social contributing factor. (4 marks)
 <!-- id: psych34a3-sp-6 -->
 
 *Written answer*
 
-**Q1144.** Explain how the process of classical conditioning could lead to a phobia of lifts, identifying the UCS, UCR, CS and CR. (4 marks)
+**Q1146.** Explain how the process of classical conditioning could lead to a phobia of lifts, identifying the UCS, UCR, CS and CR. (4 marks)
 <!-- id: psych34a3-sp-7 -->
 
 *Written answer*
 
-**Q1145.** Explain why the avoidance of a feared object can maintain a specific phobia. (3 marks)
+**Q1147.** Explain why the avoidance of a feared object can maintain a specific phobia. (3 marks)
 <!-- id: psych34a3-sp-8 -->
 
 *Written answer*
 
 #### Specific phobia: evidence-based interventions
 
-**Q1146.** Systematic desensitisation is best described as
+**Q1148.** Systematic desensitisation is best described as
 <!-- id: psych34a3-spi-1 -->
 
 - A. a drug therapy that increases GABA activity
@@ -8054,7 +8088,7 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. an intervention in which the person is immediately exposed to the most feared stimulus until fear subsides
 - D. a gradual exposure to feared stimuli in a hierarchy from least to most feared while using relaxation to replace the fear response
 
-**Q1147.** A GABA agonist such as a benzodiazepine is used as a short-term treatment for specific phobia because it
+**Q1149.** A GABA agonist such as a benzodiazepine is used as a short-term treatment for specific phobia because it
 <!-- id: psych34a3-spi-2 -->
 
 - A. reduces anxiety by enhancing the inhibitory effect of GABA on neural activity
@@ -8062,7 +8096,7 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. removes the fear memory permanently
 - D. blocks the reuptake of serotonin
 
-**Q1148.** Which of the following is a psychological intervention for specific phobia?
+**Q1150.** Which of the following is a psychological intervention for specific phobia?
 <!-- id: psych34a3-spi-3 -->
 
 - A. Reducing caffeine intake
@@ -8070,7 +8104,7 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. Benzodiazepine medication
 - D. Cognitive behavioural therapy (CBT)
 
-**Q1149.** A therapist works with a client who fears needles by repeatedly exposing her to the needle at full intensity in a safe setting until the fear subsides, without relaxation training. This is
+**Q1151.** A therapist works with a client who fears needles by repeatedly exposing her to the needle at full intensity in a safe setting until the fear subsides, without relaxation training. This is
 <!-- id: psych34a3-spi-4 -->
 
 - A. systematic desensitisation
@@ -8078,7 +8112,7 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. a GABA agonist
 - D. flooding
 
-**Q1150.** Which of the following is a social intervention for specific phobia?
+**Q1152.** Which of the following is a social intervention for specific phobia?
 <!-- id: psych34a3-spi-5 -->
 
 - A. Cognitive restructuring
@@ -8086,24 +8120,24 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. Prescription of a benzodiazepine
 - D. Systematic desensitisation
 
-**Q1151.** Outline the steps involved in systematic desensitisation for a person with a specific phobia of spiders. (4 marks)
+**Q1153.** Outline the steps involved in systematic desensitisation for a person with a specific phobia of spiders. (4 marks)
 <!-- id: psych34a3-spi-6 -->
 
 *Written answer*
 
-**Q1152.** Evaluate the use of benzodiazepines as the only treatment for a specific phobia. (3 marks)
+**Q1154.** Evaluate the use of benzodiazepines as the only treatment for a specific phobia. (3 marks)
 <!-- id: psych34a3-spi-7 -->
 
 *Written answer*
 
-**Q1153.** Compare flooding and systematic desensitisation, giving one advantage and one disadvantage of flooding. (4 marks)
+**Q1155.** Compare flooding and systematic desensitisation, giving one advantage and one disadvantage of flooding. (4 marks)
 <!-- id: psych34a3-spi-8 -->
 
 *Written answer*
 
 #### Protective factors for mental wellbeing
 
-**Q1154.** A protective factor in relation to mental wellbeing is best described as
+**Q1156.** A protective factor in relation to mental wellbeing is best described as
 <!-- id: psych34a3-pf-1 -->
 
 - A. a characteristic or circumstance that reduces the likelihood of developing a mental health problem or helps a person cope with adversity
@@ -8111,7 +8145,7 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. a diagnostic criterion for a mental disorder
 - D. a genetic condition that causes mental illness
 
-**Q1155.** Which of the following is a biological protective factor?
+**Q1157.** Which of the following is a biological protective factor?
 <!-- id: psych34a3-pf-2 -->
 
 - A. Supportive friendships
@@ -8119,7 +8153,7 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. Self-efficacy
 - D. Regular physical exercise and adequate sleep
 
-**Q1156.** Which of the following is a psychological protective factor?
+**Q1158.** Which of the following is a psychological protective factor?
 <!-- id: psych34a3-pf-3 -->
 
 - A. Strong social connectedness with neighbours
@@ -8127,7 +8161,7 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. Genetic resilience
 - D. Economic security
 
-**Q1157.** Ayla has recently moved to a new city, but she keeps in regular contact with her family and has joined a local sports club. Which type of protective factor is most clearly shown?
+**Q1159.** Ayla has recently moved to a new city, but she keeps in regular contact with her family and has joined a local sports club. Which type of protective factor is most clearly shown?
 <!-- id: psych34a3-pf-4 -->
 
 - A. Genetic
@@ -8135,7 +8169,7 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. Social
 - D. Cognitive only
 
-**Q1158.** A study found that adolescents who reported higher levels of social support had lower rates of depressive symptoms. Which conclusion is best supported by this correlation?
+**Q1160.** A study found that adolescents who reported higher levels of social support had lower rates of depressive symptoms. Which conclusion is best supported by this correlation?
 <!-- id: psych34a3-pf-5 -->
 
 - A. There is an association between social support and lower depressive symptoms, but causation cannot be concluded
@@ -8143,17 +8177,17 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. Social support has no relationship with depressive symptoms
 - D. Social support causes a reduction in depressive symptoms
 
-**Q1159.** Distinguish between a risk factor and a protective factor for mental wellbeing, using an example of each. (3 marks)
+**Q1161.** Distinguish between a risk factor and a protective factor for mental wellbeing, using an example of each. (3 marks)
 <!-- id: psych34a3-pf-6 -->
 
 *Written answer*
 
-**Q1160.** Identify one biological, one psychological and one social protective factor for mental wellbeing and briefly explain how each helps. (3 marks)
+**Q1162.** Identify one biological, one psychological and one social protective factor for mental wellbeing and briefly explain how each helps. (3 marks)
 <!-- id: psych34a3-pf-7 -->
 
 *Written answer*
 
-**Q1161.** Max lost his job but his mental wellbeing has stayed relatively stable. Using at least two protective factors, suggest how this could be explained. (3 marks)
+**Q1163.** Max lost his job but his mental wellbeing has stayed relatively stable. Using at least two protective factors, suggest how this could be explained. (3 marks)
 <!-- id: psych34a3-pf-8 -->
 
 *Written answer*
@@ -8162,7 +8196,7 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 
 #### Experimental design and variables
 
-**Q1162.** In an experiment, the independent variable is
+**Q1164.** In an experiment, the independent variable is
 <!-- id: psych34a3-ed-1 -->
 
 - A. the group that receives no treatment
@@ -8170,7 +8204,7 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. the variable that the researcher manipulates or that differs between conditions
 - D. any variable that is not controlled
 
-**Q1163.** A researcher tests whether caffeine improves reaction time. Participants in Group A are given a caffeinated drink and those in Group B are given a decaffeinated drink that looks identical. Group B is the
+**Q1165.** A researcher tests whether caffeine improves reaction time. Participants in Group A are given a caffeinated drink and those in Group B are given a decaffeinated drink that looks identical. Group B is the
 <!-- id: psych34a3-ed-2 -->
 
 - A. control group
@@ -8178,7 +8212,7 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. placebo-free group
 - D. experimental group
 
-**Q1164.** A study uses the same participants in both the experimental and control conditions. This is a
+**Q1166.** A study uses the same participants in both the experimental and control conditions. This is a
 <!-- id: psych34a3-ed-3 -->
 
 - A. quasi-experimental design with no IV
@@ -8186,7 +8220,7 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. repeated measures design
 - D. matched participants design
 
-**Q1165.** A researcher wants to reduce the effect of order in a repeated measures design. Which strategy is most appropriate?
+**Q1167.** A researcher wants to reduce the effect of order in a repeated measures design. Which strategy is most appropriate?
 <!-- id: psych34a3-ed-4 -->
 
 - A. Counterbalancing the order of conditions
@@ -8194,7 +8228,7 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. Using a single-blind procedure
 - D. Removing the control group
 
-**Q1166.** Which of the following describes a confounding variable?
+**Q1168.** Which of the following describes a confounding variable?
 <!-- id: psych34a3-ed-5 -->
 
 - A. A variable that is measured as an outcome
@@ -8202,24 +8236,24 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. A variable that the researcher intentionally manipulates
 - D. An extraneous variable that systematically varies with the IV and may affect the DV, making it hard to determine the cause of the effect
 
-**Q1167.** A researcher investigates whether listening to music during study improves exam scores. Identify the independent variable, the dependent variable and two variables that should be controlled. (4 marks)
+**Q1169.** A researcher investigates whether listening to music during study improves exam scores. Identify the independent variable, the dependent variable and two variables that should be controlled. (4 marks)
 <!-- id: psych34a3-ed-6 -->
 
 *Written answer*
 
-**Q1168.** Explain the purpose of random allocation and a placebo in an experiment. (3 marks)
+**Q1170.** Explain the purpose of random allocation and a placebo in an experiment. (3 marks)
 <!-- id: psych34a3-ed-7 -->
 
 *Written answer*
 
-**Q1169.** A researcher compares sleep-deprived participants with participants who slept normally on a memory task. Group allocation is based on whether the participant stayed up the night before by choice. Explain why this is a limitation and how it could be improved. (3 marks)
+**Q1171.** A researcher compares sleep-deprived participants with participants who slept normally on a memory task. Group allocation is based on whether the participant stayed up the night before by choice. Explain why this is a limitation and how it could be improved. (3 marks)
 <!-- id: psych34a3-ed-8 -->
 
 *Written answer*
 
 #### Data, statistics and conclusions
 
-**Q1170.** Which of the following is quantitative data?
+**Q1172.** Which of the following is quantitative data?
 <!-- id: psych34a3-ds-1 -->
 
 - A. A transcript of an interview
@@ -8227,7 +8261,7 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. The number of words recalled from a list
 - D. A researcher's observation notes about a participant's mood
 
-**Q1171.** The mean of a set of scores is 12, and the median is 8. Which of the following is the most likely explanation?
+**Q1173.** The mean of a set of scores is 12, and the median is 8. Which of the following is the most likely explanation?
 <!-- id: psych34a3-ds-2 -->
 
 - A. There are a few unusually high scores
@@ -8235,7 +8269,7 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. The data are symmetrical
 - D. The data are negatively skewed
 
-**Q1172.** A p-value of 0.03 was obtained in an experiment with a significance level of 0.05. The correct interpretation is that
+**Q1174.** A p-value of 0.03 was obtained in an experiment with a significance level of 0.05. The correct interpretation is that
 <!-- id: psych34a3-ds-3 -->
 
 - A. the results are not statistically significant
@@ -8243,7 +8277,7 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. the hypothesis has a 97% chance of being true
 - D. the effect is large and important
 
-**Q1173.** A study finds a correlation coefficient of −0.85 between hours of screen use before bed and hours of sleep. Which of the following is a valid statement?
+**Q1175.** A study finds a correlation coefficient of −0.85 between hours of screen use before bed and hours of sleep. Which of the following is a valid statement?
 <!-- id: psych34a3-ds-4 -->
 
 - A. Screen use causes sleep loss
@@ -8251,7 +8285,7 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. There is a weak positive association
 - D. There is no association
 
-**Q1174.** A researcher concludes that a new therapy 'works' based on a significant difference between two groups in a study with only eight participants. The strongest criticism of this conclusion relates to
+**Q1176.** A researcher concludes that a new therapy 'works' based on a significant difference between two groups in a study with only eight participants. The strongest criticism of this conclusion relates to
 <!-- id: psych34a3-ds-5 -->
 
 - A. the use of quantitative data
@@ -8259,24 +8293,24 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. the small sample size limiting the generalisability of the results
 - D. the use of a control group
 
-**Q1175.** The scores for six participants on a memory test are 5, 7, 7, 8, 9, 14. Calculate the mean and the median, and state which is the better measure of central tendency and why. (3 marks)
+**Q1177.** The scores for six participants on a memory test are 5, 7, 7, 8, 9, 14. Calculate the mean and the median, and state which is the better measure of central tendency and why. (3 marks)
 <!-- id: psych34a3-ds-6 -->
 
 *Written answer*
 
-**Q1176.** Explain what is meant by statistical significance and why it does not guarantee that a result is practically important. (3 marks)
+**Q1178.** Explain what is meant by statistical significance and why it does not guarantee that a result is practically important. (3 marks)
 <!-- id: psych34a3-ds-7 -->
 
 *Written answer*
 
-**Q1177.** A study reports that participants who exercised more had lower anxiety scores. Write a conclusion consistent with the results and identify one limitation in generalising it. (3 marks)
+**Q1179.** A study reports that participants who exercised more had lower anxiety scores. Write a conclusion consistent with the results and identify one limitation in generalising it. (3 marks)
 <!-- id: psych34a3-ds-8 -->
 
 *Written answer*
 
 #### Ethics and validity
 
-**Q1178.** Which ethical principle requires that participants are told they can leave a study at any time without penalty?
+**Q1180.** Which ethical principle requires that participants are told they can leave a study at any time without penalty?
 <!-- id: psych34a3-ev-1 -->
 
 - A. Right to withdraw
@@ -8284,7 +8318,7 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. Beneficence
 - D. Confidentiality
 
-**Q1179.** A researcher uses deception in a study about conformity. Which action is essential after the study finishes?
+**Q1181.** A researcher uses deception in a study about conformity. Which action is essential after the study finishes?
 <!-- id: psych34a3-ev-2 -->
 
 - A. Preventing participants from withdrawing their data
@@ -8292,7 +8326,7 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. Debriefing the participants and explaining the true purpose
 - D. Offering payment only to those who complete the study
 
-**Q1180.** Which of the following best describes internal validity?
+**Q1182.** Which of the following best describes internal validity?
 <!-- id: psych34a3-ev-3 -->
 
 - A. The extent to which the experiment measures what it claims to measure and the results are due to the IV, not other factors
@@ -8300,7 +8334,7 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. The extent to which the sample is large
 - D. The extent to which the results can be generalised to the population
 
-**Q1181.** Which of the following would most improve the external validity of a study of sleep and mood in adolescents?
+**Q1183.** Which of the following would most improve the external validity of a study of sleep and mood in adolescents?
 <!-- id: psych34a3-ev-4 -->
 
 - A. Using a smaller sample to reduce costs
@@ -8308,7 +8342,7 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. Using a random sample from a range of schools across the state
 - D. Using only volunteers from one school
 
-**Q1182.** A set of measurements is closely grouped, but all are far from the true value. These measurements are best described as
+**Q1184.** A set of measurements is closely grouped, but all are far from the true value. These measurements are best described as
 <!-- id: psych34a3-ev-5 -->
 
 - A. accurate and precise
@@ -8316,24 +8350,24 @@ Sam is starting at a new school. In the first class, Sam sees another student, A
 - C. accurate but not precise
 - D. neither precise nor accurate
 
-**Q1183.** Identify and describe three ethical principles that must be followed when conducting research with human participants. (3 marks)
+**Q1185.** Identify and describe three ethical principles that must be followed when conducting research with human participants. (3 marks)
 <!-- id: psych34a3-ev-6 -->
 
 *Written answer*
 
-**Q1184.** A researcher plans a study on sleep deprivation in students and wants to mislead participants about the study's purpose. Explain two conditions that must be met for this to be ethically acceptable. (3 marks)
+**Q1186.** A researcher plans a study on sleep deprivation in students and wants to mislead participants about the study's purpose. Explain two conditions that must be met for this to be ethically acceptable. (3 marks)
 <!-- id: psych34a3-ev-7 -->
 
 *Written answer*
 
-**Q1185.** Distinguish between reliability and validity in research, and suggest one way to improve the reliability of a questionnaire measuring stress. (3 marks)
+**Q1187.** Distinguish between reliability and validity in research, and suggest one way to improve the reliability of a questionnaire measuring stress. (3 marks)
 <!-- id: psych34a3-ev-8 -->
 
 *Written answer*
 
 ### Exam-style questions (mixed topics)
 
-**Q1186.** Exam stress and a breathing study
+**Q1188.** Exam stress and a breathing study
 <!-- id: vce-psych34-x1 -->
 *Multi-part question · 11 marks · Original question in the style of the VCE Psychology exam, Section B*
 
@@ -8355,7 +8389,7 @@ A researcher tested whether 10 minutes of slow breathing before a test reduces a
 
 **g.** Identify one extraneous variable, and explain how random allocation helps to control it. *(2 marks)*
 
-**Q1187.** Late nights, memory and a nervous bell
+**Q1189.** Late nights, memory and a nervous bell
 <!-- id: vce-psych34-x2 -->
 *Multi-part question · 11 marks · Original question in the style of the VCE Psychology exam, Section B*
 
@@ -8374,3 +8408,37 @@ Liam is studying for his exams. After a week of going to bed at about 2 am and g
 At school, a bell rings at the start of every exam. The bell used to mean nothing to Liam, but now he feels nervous whenever he hears it, even outside exam time.
 
 **f.** Using the three-phase model of classical conditioning, identify the neutral stimulus and the conditioned response in this example. *(2 marks)*
+
+**Q1190.** A fear of dogs
+<!-- id: vce-psych34-x3 -->
+*Multi-part question · 10 marks · Original question in the style of the VCE Psychology exam, Section B*
+
+Priya, 17, has been intensely afraid of dogs since she was bitten at age 6. She now avoids parks and will not visit friends who own dogs. When she sees a dog, her heart races and she feels she must escape.
+
+**a.** Explain why Priya's fear is likely to be a specific phobia rather than an ordinary fear. *(2 marks)*
+
+**b.** Use classical conditioning to explain how the bite could have led to Priya's fear of dogs. *(2 marks)*
+
+**c.** Use operant conditioning to explain how Priya's avoidance keeps the phobia going. *(2 marks)*
+
+**d.** Explain how GABA dysfunction could contribute to specific phobia. *(2 marks)*
+
+**e.** Describe how systematic desensitisation could be used to treat Priya's phobia. *(2 marks)*
+
+**Q1191.** Night shifts and sleep
+<!-- id: vce-psych34-x4 -->
+*Multi-part question · 10 marks · Original question in the style of the VCE Psychology exam, Section B*
+
+Sam is a nurse who works a run of night shifts, sleeping during the day.
+
+**a.** Explain how working night shifts disrupts Sam's circadian rhythm. *(2 marks)*
+
+**b.** Sam has been awake for 17 hours by the end of a shift. Compare his likely performance with a blood alcohol concentration (BAC). *(2 marks)*
+
+**c.** Describe how bright light therapy could help Sam adjust to night shifts. *(2 marks)*
+
+**d.** Which type of sleep dominates the first half of a typical night, and which dominates the second half? *(2 marks)*
+
+A researcher measured the reaction times of 12 nurses after a night shift and again after a day shift.
+
+**e.** Name the experimental design and give one advantage of using it in this study. *(2 marks)*

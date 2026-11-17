@@ -4224,3 +4224,136 @@ Topic: Transition matrices and state matrices (general-7-1)
 Common mistake: Assuming the visitors end up split equally. The long-term split depends on the transition rates, not on the starting numbers.
 
 Topic: Steady state and long-term behaviour (general-7-2)
+
+**A803.** A running club's times, members and savings
+<!-- id: general-x3 -->
+*Multi-part question · 10 marks*
+
+**a.** \(z = -2\) *(1 mark)*
+
+1. \(z = \dfrac{22 - 28}{3} = -2\). *(1 mark)*
+
+Common mistake: Dividing by the variance (9) instead of the standard deviation (3).
+
+Topic: Normal distribution and z-scores (general-1-4)
+
+**b.** 16% *(1 mark)*
+
+1. 31 minutes is 1 standard deviation above the mean; 68% lie within 1 SD, so \(\frac{100 - 68}{2} = 16\%\) are above it. *(1 mark)*
+
+Common mistake: Giving 32%, the percentage outside 1 SD on both sides combined.
+
+Topic: Normal distribution and z-scores (general-1-4)
+
+**c.** 81.5% *(2 marks)*
+
+1. 22 minutes is 2 SD below the mean: 47.5% lie between 22 and 28 minutes. *(1 mark)*
+2. 31 minutes is 1 SD above: 34% lie between 28 and 31. Total \(47.5 + 34 = 81.5\%\). *(1 mark)*
+
+Common mistake: Treating both sides as the same number of standard deviations.
+
+Topic: Normal distribution and z-scores (general-1-4)
+
+**d.** 1.00 *(1 mark)*
+
+1. Seasonal indices for four seasons add to 4: \(4 - (1.15 + 1.05 + 0.80) = 1.00\). *(1 mark)*
+
+Common mistake: Assuming the indices add to 1. With four seasons they add to 4.
+
+Topic: Seasonal indices and deseasonalising (general-3-3)
+
+**e.** 120 *(1 mark)*
+
+1. Deseasonalised value = actual ÷ seasonal index = \(96 \div 0.80 = 120\). *(1 mark)*
+
+Common mistake: Multiplying by the seasonal index instead of dividing.
+
+Topic: Seasonal indices and deseasonalising (general-3-3)
+
+**f.** Summer membership is typically 15% above the seasonal average. *(1 mark)*
+
+1. An index of 1.15 means summer figures are typically 15% higher than the average for all seasons. *(1 mark)*
+
+Common mistake: Saying membership grows by 15% each summer. The index compares a season with the average, not with last year.
+
+Topic: Seasonal indices and deseasonalising (general-3-3)
+
+**g.** $13 329.17 *(2 marks)*
+
+1. Finance solver: N = 36, I% = 4.2, PV = −5000, PMT = −200, P/Y = C/Y = 12. *(1 mark)*
+2. FV ≈ $13 329.17. *(1 mark)*
+
+Common mistake: Entering PV and PMT as positive values. Money paid into the account is negative in the finance solver.
+
+Topic: Investments with regular additions (general-5-4)
+
+**h.** $1129.17 *(1 mark)*
+
+1. Interest = FV − total deposited = 13 329.17 − (5000 + 36 × 200) = $1129.17. *(1 mark)*
+
+Common mistake: Subtracting only the $5000. The 36 monthly additions of $200 were deposited too.
+
+Topic: Investments with regular additions (general-5-4)
+
+**A804.** A delivery business: routes, prices and customers
+<!-- id: general-x4 -->
+*Multi-part question · 10 marks*
+
+**a.** A–C–B–D–E, 10 km *(2 marks)*
+
+1. Compare routes: A–B–D–E = 11, A–C–E = 11, A–C–D–E = 12, A–C–B–D–E = 3 + 1 + 4 + 2 = 10. *(1 mark)*
+2. The shortest route is A–C–B–D–E, with length 10 km. *(1 mark)*
+
+Common mistake: Choosing the route with the fewest roads (A–C–E). Shortest means least total distance.
+
+Topic: Trees, spanning trees and shortest paths (general-8-2)
+
+**b.** 10 km *(2 marks)*
+
+1. Choose the shortest roads that do not form a cycle: B–C (1), D–E (2), A–C (3), B–D (4). *(1 mark)*
+2. These connect all five towns, with total length \(1 + 2 + 3 + 4 = 10\) km. *(1 mark)*
+
+Common mistake: Including A–B (5), which would create a cycle A–B–C. A spanning tree has no cycles.
+
+Topic: Trees, spanning trees and shortest paths (general-8-2)
+
+**c.** Exactly two vertices (B and D) have odd degree. *(1 mark)*
+
+1. Degrees: A 2, B 3, C 4, D 3, E 2. Exactly two vertices have odd degree, so there is an Euler trail (from B to D) but no Euler circuit. *(1 mark)*
+
+Common mistake: Checking only whether the network is connected. Euler routes depend on the number of odd-degree vertices.
+
+Topic: Graphs, Euler and Hamiltonian routes (general-8-1)
+
+**d.** 10 *(1 mark)*
+
+1. \(\det = 3 \times 4 - 2 \times 1 = 10\). *(1 mark)*
+
+Common mistake: Calculating \(3 \times 4 + 2 \times 1\). The determinant subtracts the product of the other diagonal.
+
+Topic: Determinants and inverse matrices (general-6-2)
+
+**e.** \(s = 6\), \(l = 8\) *(2 marks)*
+
+1. The inverse is \(\dfrac{1}{10}\begin{bmatrix} 4 & -2 \\ -1 & 3 \end{bmatrix}\). *(1 mark)*
+2. \(\begin{bmatrix} s \\ l \end{bmatrix} = \dfrac{1}{10}\begin{bmatrix} 4 \times 34 - 2 \times 38 \\ -34 + 3 \times 38 \end{bmatrix} = \begin{bmatrix} 6 \\ 8 \end{bmatrix}\): $6 for small and $8 for large. *(1 mark)*
+
+Common mistake: Multiplying in the wrong order. Solve \(X = A^{-1}B\), with the inverse on the left.
+
+Topic: Simultaneous equations using matrices (general-6-3)
+
+**f.** Fast 620, Swift 380 *(1 mark)*
+
+1. \(S_1 = TS_0 = \begin{bmatrix} 0.9 \times 600 + 0.2 \times 400 \\ 0.1 \times 600 + 0.8 \times 400 \end{bmatrix} = \begin{bmatrix} 620 \\ 380 \end{bmatrix}\). *(1 mark)*
+
+Common mistake: Multiplying \(S_0T\). For a column state matrix the order is \(TS_0\).
+
+Topic: Transition matrices and state matrices (general-7-1)
+
+**g.** 667 *(1 mark)*
+
+1. At steady state \(0.1F = 0.2S\) with \(F + S = 1000\), so \(F = \frac{2000}{3} \approx 667\). *(1 mark)*
+
+Common mistake: Assuming the split stays at 600 and 400. The long-term split depends only on the transition percentages.
+
+Topic: Steady state and long-term behaviour (general-7-2)

@@ -5853,3 +5853,43 @@ The drone carries 3 parcels at a time in a box of mass 0.5 kg. The masses of the
 The company says its deliveries take a mean of 25 minutes, with a standard deviation of 4 minutes. A random sample of 36 deliveries had a mean time of 26.3 minutes. Assume the standard deviation of 4 minutes is correct.
 
 **f.** Test at the 5% level of significance whether the mean delivery time is greater than 25 minutes. State the hypotheses, the p-value correct to four decimal places, and your conclusion. *(3 marks)*
+
+**Q803.** Complex numbers, induction and vectors
+<!-- id: specialist-x3 -->
+*Multi-part question · 10 marks · Technology-free · Original question in the style of VCAA Exam 1*
+
+Let \(z = 1 + \sqrt{3}\,i\).
+
+**a.** Express \(z\) in polar form. *(1 mark)*
+
+**b.** Use De Moivre's theorem to find \(z^6\). *(2 marks)*
+
+**c.** Find all solutions of \(w^3 = 8\), \(w \in \mathbb{C}\), in Cartesian form. *(2 marks)*
+
+**d.** Prove by mathematical induction that \(1 + 3 + 5 + \dots + (2n - 1) = n^2\) for all \(n \in \mathbb{N}\). *(3 marks)*
+
+Let \(\mathbf{a} = 2\mathbf{i} - \mathbf{j} + 2\mathbf{k}\) and \(\mathbf{b} = \mathbf{i} + 2\mathbf{j} + 2\mathbf{k}\).
+
+**e.** Find the cosine of the angle between \(\mathbf{a}\) and \(\mathbf{b}\). *(2 marks)*
+
+**Q804.** A crate, a particle and a sample of crates
+<!-- id: specialist-x4 -->
+*Multi-part question · 10 marks · Technology-active (CAS) · Original question in the style of VCAA Exam 2, Section B*
+
+A crate of mass 20 kg is pulled along a rough horizontal floor by a rope inclined at 30° to the horizontal. The tension in the rope is 100 N and the coefficient of friction is 0.3. Take \(g = 9.8\) m/s².
+
+**a.** Find the normal reaction force on the crate. *(2 marks)*
+
+**b.** Find the acceleration of the crate, in m/s² correct to two decimal places. *(2 marks)*
+
+A particle moves so that its position vector at time \(t\) seconds is \(\mathbf{r}(t) = 3t\,\mathbf{i} + (4t - t^2)\,\mathbf{j}\), \(t \ge 0\), with distances in metres.
+
+**c.** Find the speed of the particle when \(t = 1\), correct to two decimal places. *(2 marks)*
+
+**d.** Find the time at which the particle is moving parallel to the \(x\)-axis. *(1 mark)*
+
+The supplier says its crates have a mean mass of 20 kg. In a random sample of 40 crates, the mean mass was 20.4 kg. Assume the population standard deviation is 1.2 kg.
+
+**e.** Find an approximate 95% confidence interval for the mean mass of the supplier's crates, correct to two decimal places. *(2 marks)*
+
+**f.** Does this interval support the supplier's claim? Explain. *(1 mark)*

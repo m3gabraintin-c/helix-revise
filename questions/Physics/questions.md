@@ -3363,13 +3363,49 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 
 **g.** Use Newton's first law to explain why the cyclist's body tends to move forward when the bicycle stops suddenly. *(1 mark)*
 
+**Q470.** Radiation in medicine
+<!-- id: vce-physics12-x3 -->
+*Multi-part question · 10 marks · Original question in the style of a Units 1 & 2 end-of-semester exam*
+
+Technetium-99m is a gamma emitter with a half-life of 6.0 hours. A patient is injected with a dose with an activity of 800 MBq.
+
+**a.** Calculate the activity remaining after 24 hours. *(2 marks)*
+
+**b.** Explain why a gamma emitter with a short half-life is suitable for medical imaging. *(2 marks)*
+
+**c.** Which type of radiation is the most ionising and the least penetrating? *(1 mark)*
+
+**d.** A patient of mass 70 kg absorbs 0.050 J of gamma radiation. Calculate the absorbed dose and the equivalent dose (gamma weighting factor 1). *(2 marks)*
+
+**e.** Cobalt-60 undergoes beta-minus decay to nickel. Write the nuclear equation. *(2 marks)*
+
+**f.** One fission of uranium-235 releases about 200 MeV. Convert this energy to joules. *(1 mark)*
+
+**Q471.** Light bending and splitting
+<!-- id: vce-physics12-x4 -->
+*Multi-part question · 10 marks · Original question in the style of a Units 1 & 2 end-of-semester exam*
+
+Light travels from air (refractive index 1.00) into glass (refractive index 1.50) at an angle of incidence of 40°.
+
+**a.** Calculate the angle of refraction. *(2 marks)*
+
+**b.** Calculate the speed of light in the glass. *(1 mark)*
+
+**c.** Calculate the critical angle for light passing from this glass into air. *(2 marks)*
+
+**d.** Explain how optical fibres use total internal reflection to carry light. *(2 marks)*
+
+**e.** Explain why white light splits into colours in a glass prism. *(2 marks)*
+
+**f.** Calculate the wavelength of a 100 MHz radio wave. *(1 mark)*
+
 ## VCE Units 3 & 4
 
 ### Gravitational fields
 
 #### Newton's law of gravitation
 
-**Q470.** Two asteroids attract each other with a gravitational force F. If the distance between their centres is doubled, the new force is:
+**Q472.** Two asteroids attract each other with a gravitational force F. If the distance between their centres is doubled, the new force is:
 <!-- id: physics-1-1-1 -->
 
 - A. F/4
@@ -3377,7 +3413,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 2F
 - D. 4F
 
-**Q471.** The masses of two objects are both doubled and the distance between their centres is also doubled. The gravitational force between them:
+**Q473.** The masses of two objects are both doubled and the distance between their centres is also doubled. The gravitational force between them:
 <!-- id: physics-1-1-2 -->
 
 - A. doubles
@@ -3385,7 +3421,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. quadruples
 - D. halves
 
-**Q472.** What is the gravitational force exerted by Earth on a 70 kg bushwalker standing at Earth's surface? (Use G = 6.67 × 10⁻¹¹ N m² kg⁻², M_Earth = 5.97 × 10²⁴ kg, R_Earth = 6.37 × 10⁶ m.)
+**Q474.** What is the gravitational force exerted by Earth on a 70 kg bushwalker standing at Earth's surface? (Use G = 6.67 × 10⁻¹¹ N m² kg⁻², M_Earth = 5.97 × 10²⁴ kg, R_Earth = 6.37 × 10⁶ m.)
 <!-- id: physics-1-1-3 -->
 
 - A. 70 N
@@ -3393,12 +3429,12 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 687 N
 - D. 2.74 × 10³ N
 
-**Q473.** Calculate the gravitational force exerted by Mars (mass 6.42 × 10²³ kg, radius 3.39 × 10⁶ m) on a 2.0 kg rock sample sitting on its surface. (G = 6.67 × 10⁻¹¹ N m² kg⁻²)
+**Q475.** Calculate the gravitational force exerted by Mars (mass 6.42 × 10²³ kg, radius 3.39 × 10⁶ m) on a 2.0 kg rock sample sitting on its surface. (G = 6.67 × 10⁻¹¹ N m² kg⁻²)
 <!-- id: physics-1-1-4 -->
 
 *Written answer*
 
-**Q474.** Two 1000 kg cars are parked with their centres 5.0 m apart in a Melbourne car park. The gravitational force between them is closest to: (G = 6.67 × 10⁻¹¹ N m² kg⁻²)
+**Q476.** Two 1000 kg cars are parked with their centres 5.0 m apart in a Melbourne car park. The gravitational force between them is closest to: (G = 6.67 × 10⁻¹¹ N m² kg⁻²)
 <!-- id: physics-1-1-5 -->
 
 - A. 1.3 × 10⁻⁵ N
@@ -3406,7 +3442,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 6.7 × 10⁻⁵ N
 - D. 2.7 × 10⁻⁶ N
 
-**Q475.** An apple falls from a tree in a Yarra Valley orchard. Compared with the force Earth exerts on the apple, the force the apple exerts on Earth is:
+**Q477.** An apple falls from a tree in a Yarra Valley orchard. Compared with the force Earth exerts on the apple, the force the apple exerts on Earth is:
 <!-- id: physics-1-1-6 -->
 
 - A. equal in magnitude and opposite in direction
@@ -3414,7 +3450,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. much larger, because Earth's mass is larger
 - D. zero, because the apple is falling
 
-**Q476.** The SI units of the universal gravitational constant G are:
+**Q478.** The SI units of the universal gravitational constant G are:
 <!-- id: physics-1-1-7 -->
 
 - A. N kg⁻¹
@@ -3422,12 +3458,12 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. N m kg⁻²
 - D. N m² kg²
 
-**Q477.** When a ball is dropped, Earth and the ball exert equal and opposite gravitational forces on each other. Explain why we observe the ball accelerating but not Earth.
+**Q479.** When a ball is dropped, Earth and the ball exert equal and opposite gravitational forces on each other. Explain why we observe the ball accelerating but not Earth.
 <!-- id: physics-1-1-8 -->
 
 *Written answer*
 
-**Q478.** The Moon (mass 7.35 × 10²² kg) orbits Earth at a mean centre-to-centre distance of 3.84 × 10⁸ m. The gravitational force between Earth and the Moon is closest to: (G = 6.67 × 10⁻¹¹ N m² kg⁻², M_Earth = 5.97 × 10²⁴ kg)
+**Q480.** The Moon (mass 7.35 × 10²² kg) orbits Earth at a mean centre-to-centre distance of 3.84 × 10⁸ m. The gravitational force between Earth and the Moon is closest to: (G = 6.67 × 10⁻¹¹ N m² kg⁻², M_Earth = 5.97 × 10²⁴ kg)
 <!-- id: physics-1-1-9 -->
 
 - A. 7.62 × 10²⁸ N
@@ -3435,7 +3471,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 1.98 × 10²⁰ N
 - D. 3.52 × 10²² N
 
-**Q479.** If the distance between two spherical masses is tripled, the gravitational force between them becomes:
+**Q481.** If the distance between two spherical masses is tripled, the gravitational force between them becomes:
 <!-- id: physics-1-1-10 -->
 
 - A. 1/3 of the original
@@ -3443,7 +3479,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 1/6 of the original
 - D. 1/9 of the original
 
-**Q480.** One of two masses is halved and the separation of their centres is also halved. The gravitational force:
+**Q482.** One of two masses is halved and the separation of their centres is also halved. The gravitational force:
 <!-- id: physics-1-1-11 -->
 
 - A. doubles
@@ -3451,12 +3487,12 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. stays the same
 - D. quadruples
 
-**Q481.** Jupiter (mass 1.90 × 10²⁷ kg) and its moon Io (mass 8.93 × 10²² kg) are 4.22 × 10⁸ m apart, centre to centre. Calculate the gravitational force between them. (G = 6.67 × 10⁻¹¹ N m² kg⁻²)
+**Q483.** Jupiter (mass 1.90 × 10²⁷ kg) and its moon Io (mass 8.93 × 10²² kg) are 4.22 × 10⁸ m apart, centre to centre. Calculate the gravitational force between them. (G = 6.67 × 10⁻¹¹ N m² kg⁻²)
 <!-- id: physics-1-1-12 -->
 
 *Written answer*
 
-**Q482.** The Sun (mass 1.99 × 10³⁰ kg) is 1.50 × 10¹¹ m from Earth. The gravitational force of the Sun on Earth is closest to: (G = 6.67 × 10⁻¹¹ N m² kg⁻², M_Earth = 5.97 × 10²⁴ kg)
+**Q484.** The Sun (mass 1.99 × 10³⁰ kg) is 1.50 × 10¹¹ m from Earth. The gravitational force of the Sun on Earth is closest to: (G = 6.67 × 10⁻¹¹ N m² kg⁻², M_Earth = 5.97 × 10²⁴ kg)
 <!-- id: physics-1-1-13 -->
 
 - A. 5.28 × 10³³ N
@@ -3464,7 +3500,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 1.98 × 10²⁰ N
 - D. 5.90 × 10⁻³ N
 
-**Q483.** A spacecraft travels directly from Earth to the Moon (mass of Earth ≈ 81 × mass of the Moon). The point where the net gravitational force from Earth and the Moon is zero is located:
+**Q485.** A spacecraft travels directly from Earth to the Moon (mass of Earth ≈ 81 × mass of the Moon). The point where the net gravitational force from Earth and the Moon is zero is located:
 <!-- id: physics-1-1-14 -->
 
 - A. exactly halfway between them
@@ -3472,7 +3508,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. about 90% of the way from Earth to the Moon
 - D. about 99% of the way from Earth to the Moon
 
-**Q484.** Which statement about the gravitational force between two masses is correct?
+**Q486.** Which statement about the gravitational force between two masses is correct?
 <!-- id: physics-1-1-15 -->
 
 - A. It can be attractive or repulsive depending on the masses
@@ -3480,12 +3516,12 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. It depends on the medium between the two masses
 - D. It is always attractive and acts along the line joining their centres
 
-**Q485.** Gravity is described as the weakest of the fundamental forces, yet it holds us firmly on the ground. Explain this apparent contradiction.
+**Q487.** Gravity is described as the weakest of the fundamental forces, yet it holds us firmly on the ground. Explain this apparent contradiction.
 <!-- id: physics-1-1-16 -->
 
 *Written answer*
 
-**Q486.** A 1500 kg satellite orbits at an altitude equal to one Earth radius above the surface. The gravitational force on it is closest to: (G = 6.67 × 10⁻¹¹ N m² kg⁻², M_Earth = 5.97 × 10²⁴ kg, R_Earth = 6.37 × 10⁶ m)
+**Q488.** A 1500 kg satellite orbits at an altitude equal to one Earth radius above the surface. The gravitational force on it is closest to: (G = 6.67 × 10⁻¹¹ N m² kg⁻², M_Earth = 5.97 × 10²⁴ kg, R_Earth = 6.37 × 10⁶ m)
 <!-- id: physics-1-1-17 -->
 
 - A. 3.68 × 10³ N
@@ -3493,7 +3529,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 7.36 × 10³ N
 - D. 1.64 × 10³ N
 
-**Q487.** The gravitational force between two lead spheres in a Cavendish-type experiment is 8.0 × 10⁻⁹ N when their centres are 2.0 m apart. What is the force when their centres are 4.0 m apart?
+**Q489.** The gravitational force between two lead spheres in a Cavendish-type experiment is 8.0 × 10⁻⁹ N when their centres are 2.0 m apart. What is the force when their centres are 4.0 m apart?
 <!-- id: physics-1-1-18 -->
 
 - A. 4.0 × 10⁻⁹ N
@@ -3501,7 +3537,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 1.6 × 10⁻⁸ N
 - D. 3.2 × 10⁻⁸ N
 
-**Q488.** In 1971 an Apollo astronaut dropped a hammer and a feather together on the Moon and they landed at the same time. The best explanation is that:
+**Q490.** In 1971 an Apollo astronaut dropped a hammer and a feather together on the Moon and they landed at the same time. The best explanation is that:
 <!-- id: physics-1-1-19 -->
 
 - A. the Moon exerts the same gravitational force on both objects
@@ -3509,12 +3545,12 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. the gravitational acceleration a = GM/r² does not depend on the mass of the falling object
 - D. the feather and hammer have the same mass on the Moon
 
-**Q489.** A student claims that Earth pulls on the Moon with a larger force than the Moon pulls on Earth because Earth is more massive. Evaluate this claim.
+**Q491.** A student claims that Earth pulls on the Moon with a larger force than the Moon pulls on Earth because Earth is more massive. Evaluate this claim.
 <!-- id: physics-1-1-20 -->
 
 *Written answer*
 
-**Q490.** Using g = 9.8 N kg⁻¹ at Earth's surface, R = 6.37 × 10⁶ m and G = 6.67 × 10⁻¹¹ N m² kg⁻², the mass of Earth is calculated to be closest to:
+**Q492.** Using g = 9.8 N kg⁻¹ at Earth's surface, R = 6.37 × 10⁶ m and G = 6.67 × 10⁻¹¹ N m² kg⁻², the mass of Earth is calculated to be closest to:
 <!-- id: physics-1-1-21 -->
 
 - A. 9.36 × 10¹⁷ kg
@@ -3522,7 +3558,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 5.96 × 10³⁰ kg
 - D. 5.96 × 10²⁴ kg
 
-**Q491.** A student plots the gravitational force F between two fixed masses against 1/r², where r is their separation. The graph should be:
+**Q493.** A student plots the gravitational force F between two fixed masses against 1/r², where r is their separation. The graph should be:
 <!-- id: physics-1-1-22 -->
 
 - A. a straight line through the origin
@@ -3530,7 +3566,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. a curve that rises then flattens
 - D. a horizontal line
 
-**Q492.** Two 5.0 kg bowling balls sit with their centres 0.50 m apart. The gravitational force between them is: (G = 6.67 × 10⁻¹¹ N m² kg⁻²)
+**Q494.** Two 5.0 kg bowling balls sit with their centres 0.50 m apart. The gravitational force between them is: (G = 6.67 × 10⁻¹¹ N m² kg⁻²)
 <!-- id: physics-1-1-23 -->
 
 - A. 3.3 × 10⁻⁹ N
@@ -3538,19 +3574,19 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 1.7 × 10⁻⁹ N
 - D. 6.7 × 10⁻¹⁰ N
 
-**Q493.** A spacecraft moves from an orbital radius of 7.0 × 10⁶ m out to 4.2 × 10⁷ m from Earth's centre. By what factor does the gravitational force on it decrease?
+**Q495.** A spacecraft moves from an orbital radius of 7.0 × 10⁶ m out to 4.2 × 10⁷ m from Earth's centre. By what factor does the gravitational force on it decrease?
 <!-- id: physics-1-1-24 -->
 
 *Written answer*
 
-**Q494.** Two 50 kg masses attract each other with a gravitational force of 1.0 × 10⁻⁸ N. Calculate the distance between their centres. (G = 6.67 × 10⁻¹¹ N m² kg⁻²)
+**Q496.** Two 50 kg masses attract each other with a gravitational force of 1.0 × 10⁻⁸ N. Calculate the distance between their centres. (G = 6.67 × 10⁻¹¹ N m² kg⁻²)
 <!-- id: physics-1-1-25 -->
 
 *Written answer*
 
 #### Gravitational field strength
 
-**Q495.** Using g = GM/R², the gravitational field strength at Earth's surface is closest to: (Use G = 6.67 × 10⁻¹¹ N m² kg⁻², M_Earth = 5.97 × 10²⁴ kg, R_Earth = 6.37 × 10⁶ m.)
+**Q497.** Using g = GM/R², the gravitational field strength at Earth's surface is closest to: (Use G = 6.67 × 10⁻¹¹ N m² kg⁻², M_Earth = 5.97 × 10²⁴ kg, R_Earth = 6.37 × 10⁶ m.)
 <!-- id: physics-1-2-1 -->
 
 - A. 6.25 × 10⁷ N kg⁻¹
@@ -3558,7 +3594,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 9.81 N kg⁻¹
 - D. 4.91 N kg⁻¹
 
-**Q496.** The unit N kg⁻¹ for gravitational field strength is equivalent to:
+**Q498.** The unit N kg⁻¹ for gravitational field strength is equivalent to:
 <!-- id: physics-1-2-2 -->
 
 - A. kg m s⁻¹
@@ -3566,7 +3602,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. m s⁻¹
 - D. m s⁻²
 
-**Q497.** The International Space Station orbits about 400 km above Earth's surface. The gravitational field strength at its altitude is closest to: (Use G = 6.67 × 10⁻¹¹ N m² kg⁻², M_Earth = 5.97 × 10²⁴ kg, R_Earth = 6.37 × 10⁶ m.)
+**Q499.** The International Space Station orbits about 400 km above Earth's surface. The gravitational field strength at its altitude is closest to: (Use G = 6.67 × 10⁻¹¹ N m² kg⁻², M_Earth = 5.97 × 10²⁴ kg, R_Earth = 6.37 × 10⁶ m.)
 <!-- id: physics-1-2-3 -->
 
 - A. 8.7 N kg⁻¹
@@ -3574,12 +3610,12 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 9.8 N kg⁻¹
 - D. 2.5 N kg⁻¹
 
-**Q498.** Calculate the gravitational field strength at the 'surface' of Jupiter (mass 1.90 × 10²⁷ kg, radius 6.99 × 10⁷ m). (G = 6.67 × 10⁻¹¹ N m² kg⁻²)
+**Q500.** Calculate the gravitational field strength at the 'surface' of Jupiter (mass 1.90 × 10²⁷ kg, radius 6.99 × 10⁷ m). (G = 6.67 × 10⁻¹¹ N m² kg⁻²)
 <!-- id: physics-1-2-4 -->
 
 *Written answer*
 
-**Q499.** At a height above Earth's surface equal to one Earth radius, the gravitational field strength is approximately:
+**Q501.** At a height above Earth's surface equal to one Earth radius, the gravitational field strength is approximately:
 <!-- id: physics-1-2-5 -->
 
 - A. 4.9 N kg⁻¹
@@ -3587,7 +3623,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 9.8 N kg⁻¹
 - D. 1.09 N kg⁻¹
 
-**Q500.** The Moon has mass 7.35 × 10²² kg and radius 1.74 × 10⁶ m. The gravitational field strength at its surface is closest to: (G = 6.67 × 10⁻¹¹ N m² kg⁻²)
+**Q502.** The Moon has mass 7.35 × 10²² kg and radius 1.74 × 10⁶ m. The gravitational field strength at its surface is closest to: (G = 6.67 × 10⁻¹¹ N m² kg⁻²)
 <!-- id: physics-1-2-6 -->
 
 - A. 2.82 × 10⁶ N kg⁻¹
@@ -3595,7 +3631,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 1.62 N kg⁻¹
 - D. 0.27 N kg⁻¹
 
-**Q501.** Planet P has twice the mass and twice the radius of Earth. The gravitational field strength at its surface, compared with Earth's, is:
+**Q503.** Planet P has twice the mass and twice the radius of Earth. The gravitational field strength at its surface, compared with Earth's, is:
 <!-- id: physics-1-2-7 -->
 
 - A. the same
@@ -3603,12 +3639,12 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. one quarter
 - D. half
 
-**Q502.** Distinguish between mass and weight, using an astronaut travelling from Earth to the Moon as an example.
+**Q504.** Distinguish between mass and weight, using an astronaut travelling from Earth to the Moon as an example.
 <!-- id: physics-1-2-8 -->
 
 *Written answer*
 
-**Q503.** A planet has the same average density as Earth but twice Earth's radius. Its surface gravitational field strength is:
+**Q505.** A planet has the same average density as Earth but twice Earth's radius. Its surface gravitational field strength is:
 <!-- id: physics-1-2-9 -->
 
 - A. twice Earth's
@@ -3616,7 +3652,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. four times Earth's
 - D. eight times Earth's
 
-**Q504.** The direction of the gravitational field at any point near a planet is:
+**Q506.** The direction of the gravitational field at any point near a planet is:
 <!-- id: physics-1-2-10 -->
 
 - A. away from the centre of the planet
@@ -3624,7 +3660,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. tangential to the planet's surface
 - D. in the direction the planet rotates
 
-**Q505.** An 80 kg astronaut stands on Mars (mass 6.42 × 10²³ kg, radius 3.39 × 10⁶ m). Her weight on Mars is closest to: (G = 6.67 × 10⁻¹¹ N m² kg⁻²)
+**Q507.** An 80 kg astronaut stands on Mars (mass 6.42 × 10²³ kg, radius 3.39 × 10⁶ m). Her weight on Mars is closest to: (G = 6.67 × 10⁻¹¹ N m² kg⁻²)
 <!-- id: physics-1-2-11 -->
 
 - A. 784 N
@@ -3632,12 +3668,12 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 298 N
 - D. 3.73 N
 
-**Q506.** Planet X has 4 times the mass and 2 times the radius of Earth. Determine the gravitational field strength at its surface (g_Earth = 9.8 N kg⁻¹).
+**Q508.** Planet X has 4 times the mass and 2 times the radius of Earth. Determine the gravitational field strength at its surface (g_Earth = 9.8 N kg⁻¹).
 <!-- id: physics-1-2-12 -->
 
 *Written answer*
 
-**Q507.** In a gravitational field diagram, regions where the field lines are closer together indicate:
+**Q509.** In a gravitational field diagram, regions where the field lines are closer together indicate:
 <!-- id: physics-1-2-13 -->
 
 - A. a weaker gravitational field
@@ -3645,7 +3681,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. zero gravitational field
 - D. a stronger gravitational field
 
-**Q508.** Gravitational field strength at a point is best defined as:
+**Q510.** Gravitational field strength at a point is best defined as:
 <!-- id: physics-1-2-14 -->
 
 - A. the gravitational force per unit mass on a small test mass placed at that point
@@ -3653,7 +3689,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. the gravitational potential energy of a 1 kg mass at that point
 - D. the speed a falling object reaches at that point
 
-**Q509.** At what altitude above Earth's surface is the gravitational field strength half its surface value? (R_Earth = 6.37 × 10⁶ m)
+**Q511.** At what altitude above Earth's surface is the gravitational field strength half its surface value? (R_Earth = 6.37 × 10⁶ m)
 <!-- id: physics-1-2-15 -->
 
 - A. 6.37 × 10⁶ m
@@ -3661,12 +3697,12 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 3.19 × 10⁶ m
 - D. 9.01 × 10⁶ m
 
-**Q510.** Show how the expression g = GM/r² follows from Newton's law of universal gravitation.
+**Q512.** Show how the expression g = GM/r² follows from Newton's law of universal gravitation.
 <!-- id: physics-1-2-16 -->
 
 *Written answer*
 
-**Q511.** Two identical stars are some distance apart. The net gravitational field strength at the midpoint between them is:
+**Q513.** Two identical stars are some distance apart. The net gravitational field strength at the midpoint between them is:
 <!-- id: physics-1-2-17 -->
 
 - A. twice the field of one star at that point
@@ -3674,7 +3710,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. zero
 - D. directed towards one of the stars
 
-**Q512.** Over a region the size of a sports oval near Earth's surface, the gravitational field is modelled as uniform. This means the field lines are drawn:
+**Q514.** Over a region the size of a sports oval near Earth's surface, the gravitational field is modelled as uniform. This means the field lines are drawn:
 <!-- id: physics-1-2-18 -->
 
 - A. radiating outwards from the ground
@@ -3682,7 +3718,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. curved, closer together at the edges
 - D. parallel, equally spaced and pointing downwards
 
-**Q513.** Astronauts on the International Space Station float freely inside the cabin. This is because:
+**Q515.** Astronauts on the International Space Station float freely inside the cabin. This is because:
 <!-- id: physics-1-2-19 -->
 
 - A. they and the station are both in free fall, accelerating at the same rate towards Earth
@@ -3690,12 +3726,12 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. the station is beyond the reach of Earth's gravity
 - D. the station's mass cancels Earth's gravity
 
-**Q514.** A planet has a surface gravitational field strength of 3.7 N kg⁻¹ and a radius of 3.39 × 10⁶ m. Calculate its mass. (G = 6.67 × 10⁻¹¹ N m² kg⁻²)
+**Q516.** A planet has a surface gravitational field strength of 3.7 N kg⁻¹ and a radius of 3.39 × 10⁶ m. Calculate its mass. (G = 6.67 × 10⁻¹¹ N m² kg⁻²)
 <!-- id: physics-1-2-20 -->
 
 *Written answer*
 
-**Q515.** A 10 kg box of equipment is taken from Earth to the Moon. On the Moon its mass is:
+**Q517.** A 10 kg box of equipment is taken from Earth to the Moon. On the Moon its mass is:
 <!-- id: physics-1-2-21 -->
 
 - A. 1.6 kg
@@ -3703,7 +3739,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 16 kg
 - D. 62 kg
 
-**Q516.** Geostationary satellites orbit 4.22 × 10⁷ m from Earth's centre. The gravitational field strength at this radius is closest to: (G = 6.67 × 10⁻¹¹ N m² kg⁻², M_Earth = 5.97 × 10²⁴ kg)
+**Q518.** Geostationary satellites orbit 4.22 × 10⁷ m from Earth's centre. The gravitational field strength at this radius is closest to: (G = 6.67 × 10⁻¹¹ N m² kg⁻², M_Earth = 5.97 × 10²⁴ kg)
 <!-- id: physics-1-2-22 -->
 
 - A. 9.8 N kg⁻¹
@@ -3711,7 +3747,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 0.224 N kg⁻¹
 - D. 1.47 N kg⁻¹
 
-**Q517.** A space probe is at a distance of 3R from Earth's centre, where R is Earth's radius. The field strength there, as a fraction of the surface value, is:
+**Q519.** A space probe is at a distance of 3R from Earth's centre, where R is Earth's radius. The field strength there, as a fraction of the surface value, is:
 <!-- id: physics-1-2-23 -->
 
 - A. 1/3
@@ -3719,19 +3755,19 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 1/16
 - D. 1/9
 
-**Q518.** The measured value of g at Earth's poles (about 9.83 N kg⁻¹) is slightly greater than at the equator (about 9.78 N kg⁻¹). Give one reason for this.
+**Q520.** The measured value of g at Earth's poles (about 9.83 N kg⁻¹) is slightly greater than at the equator (about 9.78 N kg⁻¹). Give one reason for this.
 <!-- id: physics-1-2-24 -->
 
 *Written answer*
 
-**Q519.** A spacecraft lies on the line between Earth and the Moon, 3.0 × 10⁸ m from Earth's centre and 8.4 × 10⁷ m from the Moon's centre. Calculate the net gravitational field strength there and state its direction. (G = 6.67 × 10⁻¹¹ N m² kg⁻², M_Earth = 5.97 × 10²⁴ kg, M_Moon = 7.35 × 10²² kg)
+**Q521.** A spacecraft lies on the line between Earth and the Moon, 3.0 × 10⁸ m from Earth's centre and 8.4 × 10⁷ m from the Moon's centre. Calculate the net gravitational field strength there and state its direction. (G = 6.67 × 10⁻¹¹ N m² kg⁻², M_Earth = 5.97 × 10²⁴ kg, M_Moon = 7.35 × 10²² kg)
 <!-- id: physics-1-2-25 -->
 
 *Written answer*
 
 #### Satellites, orbits and Kepler's law
 
-**Q520.** The ISS orbits at a radius of 6.77 × 10⁶ m from Earth's centre. Its orbital speed is closest to: (G = 6.67 × 10⁻¹¹ N m² kg⁻², M_Earth = 5.97 × 10²⁴ kg)
+**Q522.** The ISS orbits at a radius of 6.77 × 10⁶ m from Earth's centre. Its orbital speed is closest to: (G = 6.67 × 10⁻¹¹ N m² kg⁻², M_Earth = 5.97 × 10²⁴ kg)
 <!-- id: physics-1-3-1 -->
 
 - A. 7.67 × 10³ m s⁻¹
@@ -3739,7 +3775,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 1.08 × 10⁴ m s⁻¹
 - D. 2.42 × 10³ m s⁻¹
 
-**Q521.** The ISS (orbital radius 6.77 × 10⁶ m, speed 7.67 × 10³ m s⁻¹) has an orbital period closest to:
+**Q523.** The ISS (orbital radius 6.77 × 10⁶ m, speed 7.67 × 10³ m s⁻¹) has an orbital period closest to:
 <!-- id: physics-1-3-2 -->
 
 - A. 15 minutes
@@ -3747,7 +3783,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 24 hours
 - D. 46 minutes
 
-**Q522.** A geostationary satellite has a period of 24 hours. Its orbital radius from Earth's centre is closest to: (G = 6.67 × 10⁻¹¹ N m² kg⁻², M_Earth = 5.97 × 10²⁴ kg)
+**Q524.** A geostationary satellite has a period of 24 hours. Its orbital radius from Earth's centre is closest to: (G = 6.67 × 10⁻¹¹ N m² kg⁻², M_Earth = 5.97 × 10²⁴ kg)
 <!-- id: physics-1-3-3 -->
 
 - A. 3.58 × 10⁷ m
@@ -3755,12 +3791,12 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 4.22 × 10⁷ m
 - D. 1.78 × 10¹⁵ m
 
-**Q523.** Starting from Newton's law of gravitation and the centripetal force, derive Kepler's third law, T² = 4π²r³/(GM), for a satellite in circular orbit.
+**Q525.** Starting from Newton's law of gravitation and the centripetal force, derive Kepler's third law, T² = 4π²r³/(GM), for a satellite in circular orbit.
 <!-- id: physics-1-3-4 -->
 
 *Written answer*
 
-**Q524.** A satellite is moved to a circular orbit with four times the original radius. According to Kepler's third law, its period becomes:
+**Q526.** A satellite is moved to a circular orbit with four times the original radius. According to Kepler's third law, its period becomes:
 <!-- id: physics-1-3-5 -->
 
 - A. 4 times as long
@@ -3768,7 +3804,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 2 times as long
 - D. 8 times as long
 
-**Q525.** Two satellites, one of 500 kg and one of 2000 kg, are in circular orbits of the same radius around Earth. Compared with the lighter satellite, the heavier one has:
+**Q527.** Two satellites, one of 500 kg and one of 2000 kg, are in circular orbits of the same radius around Earth. Compared with the lighter satellite, the heavier one has:
 <!-- id: physics-1-3-6 -->
 
 - A. the same speed and period
@@ -3776,7 +3812,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. twice the period
 - D. a quarter of the speed
 
-**Q526.** For a satellite in uniform circular orbit around Earth, the net force on the satellite is:
+**Q528.** For a satellite in uniform circular orbit around Earth, the net force on the satellite is:
 <!-- id: physics-1-3-7 -->
 
 - A. zero, because its speed is constant
@@ -3784,12 +3820,12 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. directed along its velocity
 - D. directed outwards, balancing gravity
 
-**Q527.** A weather satellite is in a circular orbit with a period of 100 minutes. Calculate its altitude above Earth's surface. (Use G = 6.67 × 10⁻¹¹ N m² kg⁻², M_Earth = 5.97 × 10²⁴ kg, R_Earth = 6.37 × 10⁶ m.)
+**Q529.** A weather satellite is in a circular orbit with a period of 100 minutes. Calculate its altitude above Earth's surface. (Use G = 6.67 × 10⁻¹¹ N m² kg⁻², M_Earth = 5.97 × 10²⁴ kg, R_Earth = 6.37 × 10⁶ m.)
 <!-- id: physics-1-3-8 -->
 
 *Written answer*
 
-**Q528.** A satellite is boosted from a low circular orbit to a higher circular orbit. In the higher orbit its orbital speed is:
+**Q530.** A satellite is boosted from a low circular orbit to a higher circular orbit. In the higher orbit its orbital speed is:
 <!-- id: physics-1-3-9 -->
 
 - A. higher
@@ -3797,7 +3833,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. lower
 - D. zero
 
-**Q529.** Which set of conditions is required for a geostationary orbit?
+**Q531.** Which set of conditions is required for a geostationary orbit?
 <!-- id: physics-1-3-10 -->
 
 - A. Above the poles, period of 24 hours
@@ -3805,7 +3841,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. Above the equator, period of 90 minutes, any direction
 - D. Above the equator, period of 24 hours, orbiting in the same direction as Earth's rotation
 
-**Q530.** The centripetal acceleration of a satellite in circular orbit is equal to:
+**Q532.** The centripetal acceleration of a satellite in circular orbit is equal to:
 <!-- id: physics-1-3-11 -->
 
 - A. the gravitational field strength at its orbital radius
@@ -3813,12 +3849,12 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 9.8 m s⁻² at all altitudes
 - D. its orbital speed divided by its period
 
-**Q531.** Explain why geostationary satellites, such as the NBN Sky Muster satellites serving rural Australia, are well suited to communications.
+**Q533.** Explain why geostationary satellites, such as the NBN Sky Muster satellites serving rural Australia, are well suited to communications.
 <!-- id: physics-1-3-12 -->
 
 *Written answer*
 
-**Q532.** The Moon orbits Earth at a radius of 3.84 × 10⁸ m. Using Kepler's third law, its period is closest to: (G = 6.67 × 10⁻¹¹ N m² kg⁻², M_Earth = 5.97 × 10²⁴ kg)
+**Q534.** The Moon orbits Earth at a radius of 3.84 × 10⁸ m. Using Kepler's third law, its period is closest to: (G = 6.67 × 10⁻¹¹ N m² kg⁻², M_Earth = 5.97 × 10²⁴ kg)
 <!-- id: physics-1-3-13 -->
 
 - A. 1.0 day
@@ -3826,7 +3862,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 365 days
 - D. 4.4 days
 
-**Q533.** Mars' moon Phobos orbits at a radius of 9.38 × 10⁶ m with a period of 2.76 × 10⁴ s. The mass of Mars is closest to: (G = 6.67 × 10⁻¹¹ N m² kg⁻²)
+**Q535.** Mars' moon Phobos orbits at a radius of 9.38 × 10⁶ m with a period of 2.76 × 10⁴ s. The mass of Mars is closest to: (G = 6.67 × 10⁻¹¹ N m² kg⁻²)
 <!-- id: physics-1-3-14 -->
 
 - A. 1.6 × 10²² kg
@@ -3834,7 +3870,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 6.4 × 10²³ kg
 - D. 2.5 × 10²⁵ kg
 
-**Q534.** If a satellite's orbital radius is doubled, its orbital speed changes by a factor of:
+**Q536.** If a satellite's orbital radius is doubled, its orbital speed changes by a factor of:
 <!-- id: physics-1-3-15 -->
 
 - A. 1/2
@@ -3842,12 +3878,12 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 1/4
 - D. 1/√2
 
-**Q535.** Mars orbits the Sun at a mean radius of 2.28 × 10¹¹ m and Earth at 1.50 × 10¹¹ m. Use Kepler's third law to find the orbital period of Mars in Earth years.
+**Q537.** Mars orbits the Sun at a mean radius of 2.28 × 10¹¹ m and Earth at 1.50 × 10¹¹ m. Use Kepler's third law to find the orbital period of Mars in Earth years.
 <!-- id: physics-1-3-16 -->
 
 *Written answer*
 
-**Q536.** The work done by Earth's gravitational force on a satellite during one complete uniform circular orbit is:
+**Q538.** The work done by Earth's gravitational force on a satellite during one complete uniform circular orbit is:
 <!-- id: physics-1-3-17 -->
 
 - A. zero, because the force is always perpendicular to the velocity
@@ -3855,7 +3891,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. negative, because gravity slows it down
 - D. equal to its kinetic energy
 
-**Q537.** The kinetic energy of a satellite of mass m in a circular orbit of radius r around a planet of mass M is:
+**Q539.** The kinetic energy of a satellite of mass m in a circular orbit of radius r around a planet of mass M is:
 <!-- id: physics-1-3-18 -->
 
 - A. GMm/r
@@ -3863,7 +3899,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. GMm/r²
 - D. 2GMm/r
 
-**Q538.** Satellite A orbits Earth at radius r and satellite B at radius 4r. The ratio of their speeds v_A : v_B is:
+**Q540.** Satellite A orbits Earth at radius r and satellite B at radius 4r. The ratio of their speeds v_A : v_B is:
 <!-- id: physics-1-3-19 -->
 
 - A. 1 : 2
@@ -3871,12 +3907,12 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 2 : 1
 - D. 16 : 1
 
-**Q539.** The Moon orbits Earth at radius 3.84 × 10⁸ m with a period of 27.3 days. Calculate its orbital speed.
+**Q541.** The Moon orbits Earth at radius 3.84 × 10⁸ m with a period of 27.3 days. Calculate its orbital speed.
 <!-- id: physics-1-3-20 -->
 
 *Written answer*
 
-**Q540.** Two moons orbit the same planet. Moon Q's orbital radius is 9 times Moon P's. The ratio of their periods T_Q : T_P is:
+**Q542.** Two moons orbit the same planet. Moon Q's orbital radius is 9 times Moon P's. The ratio of their periods T_Q : T_P is:
 <!-- id: physics-1-3-21 -->
 
 - A. 9 : 1
@@ -3884,7 +3920,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 3 : 1
 - D. 27 : 1
 
-**Q541.** GPS satellites have an orbital period of 12 hours. Given that the geostationary orbital radius (24-hour period) is 4.22 × 10⁷ m, the radius of a GPS orbit is closest to:
+**Q543.** GPS satellites have an orbital period of 12 hours. Given that the geostationary orbital radius (24-hour period) is 4.22 × 10⁷ m, the radius of a GPS orbit is closest to:
 <!-- id: physics-1-3-22 -->
 
 - A. 2.66 × 10⁷ m
@@ -3892,7 +3928,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 1.06 × 10⁷ m
 - D. 2.98 × 10⁷ m
 
-**Q542.** An astronaut on a bathroom scale inside an orbiting spacecraft reads zero. This is because:
+**Q544.** An astronaut on a bathroom scale inside an orbiting spacecraft reads zero. This is because:
 <!-- id: physics-1-3-23 -->
 
 - A. gravity does not act in space
@@ -3900,19 +3936,19 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. the astronaut's mass becomes zero in orbit
 - D. the spacecraft's engines cancel gravity
 
-**Q543.** Earth orbits the Sun at a radius of 1.50 × 10¹¹ m with a period of 3.16 × 10⁷ s. Calculate the mass of the Sun. (G = 6.67 × 10⁻¹¹ N m² kg⁻²)
+**Q545.** Earth orbits the Sun at a radius of 1.50 × 10¹¹ m with a period of 3.16 × 10⁷ s. Calculate the mass of the Sun. (G = 6.67 × 10⁻¹¹ N m² kg⁻²)
 <!-- id: physics-1-3-24 -->
 
 *Written answer*
 
-**Q544.** A satellite in a low orbit experiences slight atmospheric drag. Explain what happens to its orbital radius and its speed over time.
+**Q546.** A satellite in a low orbit experiences slight atmospheric drag. Explain what happens to its orbital radius and its speed over time.
 <!-- id: physics-1-3-25 -->
 
 *Written answer*
 
 #### Gravitational potential energy from graphs
 
-**Q545.** The area under a gravitational force versus distance graph between two radii represents:
+**Q547.** The area under a gravitational force versus distance graph between two radii represents:
 <!-- id: physics-1-4-1 -->
 
 - A. the gravitational field strength
@@ -3920,7 +3956,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. the change in gravitational potential energy of the object between those radii
 - D. the power required to move the object
 
-**Q546.** The area under a gravitational field strength versus distance graph between two radii represents:
+**Q548.** The area under a gravitational field strength versus distance graph between two radii represents:
 <!-- id: physics-1-4-2 -->
 
 - A. the total change in gravitational potential energy
@@ -3928,7 +3964,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. the gravitational force per metre
 - D. the change in gravitational potential energy per kilogram
 
-**Q547.** The units of the area under a gravitational field strength (N kg⁻¹) versus distance (m) graph are:
+**Q549.** The units of the area under a gravitational field strength (N kg⁻¹) versus distance (m) graph are:
 <!-- id: physics-1-4-3 -->
 
 - A. J kg⁻¹
@@ -3936,12 +3972,12 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. J
 - D. N kg⁻¹ m⁻¹
 
-**Q548.** Describe how a gravitational force–distance graph can be used to find the energy needed to move a satellite from one orbital radius to a higher one.
+**Q550.** Describe how a gravitational force–distance graph can be used to find the energy needed to move a satellite from one orbital radius to a higher one.
 <!-- id: physics-1-4-4 -->
 
 *Written answer*
 
-**Q549.** A 2.0 kg bag is lifted 5.0 m onto a mezzanine floor. Taking g = 9.8 N kg⁻¹, its gravitational potential energy increases by:
+**Q551.** A 2.0 kg bag is lifted 5.0 m onto a mezzanine floor. Taking g = 9.8 N kg⁻¹, its gravitational potential energy increases by:
 <!-- id: physics-1-4-5 -->
 
 - A. 10 J
@@ -3949,7 +3985,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 49 J
 - D. 196 J
 
-**Q550.** On a g–r graph, g is 9.8 N kg⁻¹ at r = 6.4 × 10⁶ m and 8.2 N kg⁻¹ at r = 7.0 × 10⁶ m. Treating the graph as a straight line between these points, the energy needed to raise a 1000 kg satellite between these radii is about:
+**Q552.** On a g–r graph, g is 9.8 N kg⁻¹ at r = 6.4 × 10⁶ m and 8.2 N kg⁻¹ at r = 7.0 × 10⁶ m. Treating the graph as a straight line between these points, the energy needed to raise a 1000 kg satellite between these radii is about:
 <!-- id: physics-1-4-6 -->
 
 - A. 5.4 × 10⁶ J
@@ -3957,7 +3993,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 5.4 × 10⁹ J
 - D. 9.0 × 10³ J
 
-**Q551.** Why is ΔU = mgΔh unsuitable for calculating the energy needed to lift a satellite to an altitude of 20 000 km?
+**Q553.** Why is ΔU = mgΔh unsuitable for calculating the energy needed to lift a satellite to an altitude of 20 000 km?
 <!-- id: physics-1-4-7 -->
 
 - A. mgh applies only to objects at rest
@@ -3965,12 +4001,12 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. mgh ignores Newton's third law
 - D. g decreases significantly over that distance, so it cannot be treated as constant
 
-**Q552.** The gravitational field strength is 8.13 N kg⁻¹ at r = 7.0 × 10⁶ m and 6.22 N kg⁻¹ at r = 8.0 × 10⁶ m from Earth's centre. Using a single trapezium, estimate the energy required to raise a 250 kg satellite between these radii.
+**Q554.** The gravitational field strength is 8.13 N kg⁻¹ at r = 7.0 × 10⁶ m and 6.22 N kg⁻¹ at r = 8.0 × 10⁶ m from Earth's centre. Using a single trapezium, estimate the energy required to raise a 250 kg satellite between these radii.
 <!-- id: physics-1-4-8 -->
 
 *Written answer*
 
-**Q553.** A probe moves from radius r₁ to a larger radius r₂ from Earth's centre. Ignoring changes in kinetic energy, the minimum energy needed equals:
+**Q555.** A probe moves from radius r₁ to a larger radius r₂ from Earth's centre. Ignoring changes in kinetic energy, the minimum energy needed equals:
 <!-- id: physics-1-4-9 -->
 
 - A. the probe's mass multiplied by the area under the g–r graph from r₁ to r₂
@@ -3978,7 +4014,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. the area under the g–r graph from 0 to r₁
 - D. the gradient of the F–r graph at r₂
 
-**Q554.** A model rocket at Woomera rises vertically after its engine has stopped. As it rises, ignoring air resistance:
+**Q556.** A model rocket at Woomera rises vertically after its engine has stopped. As it rises, ignoring air resistance:
 <!-- id: physics-1-4-10 -->
 
 - A. both its gravitational potential energy and its kinetic energy increase
@@ -3986,7 +4022,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. its gravitational potential energy decreases and its kinetic energy increases
 - D. its total mechanical energy decreases
 
-**Q555.** On a g–r graph, each grid square represents 0.5 N kg⁻¹ by 1.0 × 10⁶ m. The region under the curve between two radii covers about 12 squares. The change in gravitational potential energy of a 200 kg satellite between those radii is:
+**Q557.** On a g–r graph, each grid square represents 0.5 N kg⁻¹ by 1.0 × 10⁶ m. The region under the curve between two radii covers about 12 squares. The change in gravitational potential energy of a 200 kg satellite between those radii is:
 <!-- id: physics-1-4-11 -->
 
 - A. 6.0 × 10⁶ J
@@ -3994,12 +4030,12 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 1.2 × 10⁹ J
 - D. 2.4 × 10⁹ J
 
-**Q556.** A student uses ΔU = mgΔh with g = 9.8 N kg⁻¹ to find the GPE gain of a payload lifted to 400 km altitude. Is the answer too high or too low? Explain.
+**Q558.** A student uses ΔU = mgΔh with g = 9.8 N kg⁻¹ to find the GPE gain of a payload lifted to 400 km altitude. Is the answer too high or too low? Explain.
 <!-- id: physics-1-4-12 -->
 
 *Written answer*
 
-**Q557.** A meteoroid starts from rest far from Earth. The area under the g–r graph from its starting point to the top of the atmosphere is 3.2 × 10⁶ J kg⁻¹. Ignoring other forces, its speed on reaching the atmosphere is about:
+**Q559.** A meteoroid starts from rest far from Earth. The area under the g–r graph from its starting point to the top of the atmosphere is 3.2 × 10⁶ J kg⁻¹. Ignoring other forces, its speed on reaching the atmosphere is about:
 <!-- id: physics-1-4-13 -->
 
 - A. 1.8 × 10³ m s⁻¹
@@ -4007,7 +4043,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 6.4 × 10⁶ m s⁻¹
 - D. 2.5 × 10³ m s⁻¹
 
-**Q558.** Above Earth's surface, a graph of gravitational field strength g against distance r from Earth's centre is best described as:
+**Q560.** Above Earth's surface, a graph of gravitational field strength g against distance r from Earth's centre is best described as:
 <!-- id: physics-1-4-14 -->
 
 - A. a curve decreasing in proportion to 1/r², approaching zero but never reaching it
@@ -4015,7 +4051,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. a horizontal line at 9.8 N kg⁻¹
 - D. a straight line increasing with r
 
-**Q559.** For a 500 kg satellite, the area under its gravitational force–distance graph between two radii, compared with the area under the g–r graph between the same radii, is:
+**Q561.** For a 500 kg satellite, the area under its gravitational force–distance graph between two radii, compared with the area under the g–r graph between the same radii, is:
 <!-- id: physics-1-4-15 -->
 
 - A. the same
@@ -4023,12 +4059,12 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 500 times smaller
 - D. larger by a factor of 500²
 
-**Q560.** A 450 kg module is lifted from Earth's surface (g = 9.8 N kg⁻¹) to the ISS altitude of 400 km (g = 8.69 N kg⁻¹). Using the average field strength, estimate its increase in gravitational potential energy.
+**Q562.** A 450 kg module is lifted from Earth's surface (g = 9.8 N kg⁻¹) to the ISS altitude of 400 km (g = 8.69 N kg⁻¹). Using the average field strength, estimate its increase in gravitational potential energy.
 <!-- id: physics-1-4-16 -->
 
 *Written answer*
 
-**Q561.** A meteorite falls towards Earth from rest at a great distance. Ignoring air resistance, the kinetic energy it gains equals:
+**Q563.** A meteorite falls towards Earth from rest at a great distance. Ignoring air resistance, the kinetic energy it gains equals:
 <!-- id: physics-1-4-17 -->
 
 - A. the gradient of the force–distance graph
@@ -4036,7 +4072,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. the area under the force–distance graph over the distance it falls
 - D. zero, because gravity is a conservative force
 
-**Q562.** A student estimates the area under a curved g–r graph (decreasing and concave up) by joining the end points with a straight line and finding the trapezium area. This estimate will be:
+**Q564.** A student estimates the area under a curved g–r graph (decreasing and concave up) by joining the end points with a straight line and finding the trapezium area. This estimate will be:
 <!-- id: physics-1-4-18 -->
 
 - A. an underestimate, because the straight line lies below the curve
@@ -4044,7 +4080,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. an overestimate, because g increases with r
 - D. an overestimate, because the straight line lies above the curve
 
-**Q563.** The area under Earth's g–r graph from the surface (R = 6.37 × 10⁶ m) to infinity equals GM/R = 6.25 × 10⁷ J kg⁻¹. The minimum launch speed needed to escape Earth's gravity (ignoring air resistance) is closest to:
+**Q565.** The area under Earth's g–r graph from the surface (R = 6.37 × 10⁶ m) to infinity equals GM/R = 6.25 × 10⁷ J kg⁻¹. The minimum launch speed needed to escape Earth's gravity (ignoring air resistance) is closest to:
 <!-- id: physics-1-4-19 -->
 
 - A. 1.12 × 10⁴ m s⁻¹
@@ -4052,12 +4088,12 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 6.25 × 10⁷ m s⁻¹
 - D. 3.13 × 10⁷ m s⁻¹
 
-**Q564.** On a force–distance graph for a 1200 kg satellite, each grid square represents 100 N by 1.0 × 10⁵ m. The area under the curve between two orbital radii is 35 squares. Calculate the change in gravitational potential energy.
+**Q566.** On a force–distance graph for a 1200 kg satellite, each grid square represents 100 N by 1.0 × 10⁵ m. The area under the curve between two orbital radii is 35 squares. Calculate the change in gravitational potential energy.
 <!-- id: physics-1-4-20 -->
 
 *Written answer*
 
-**Q565.** A cricket ball is thrown vertically upwards at 20 m s⁻¹. Using conservation of energy (g = 9.8 m s⁻²) and ignoring air resistance, its maximum height is closest to:
+**Q567.** A cricket ball is thrown vertically upwards at 20 m s⁻¹. Using conservation of energy (g = 9.8 m s⁻²) and ignoring air resistance, its maximum height is closest to:
 <!-- id: physics-1-4-21 -->
 
 - A. 2.0 m
@@ -4065,7 +4101,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 41 m
 - D. 10 m
 
-**Q566.** A 60 kg hiker walks from Thredbo village (1365 m above sea level) to the summit of Mt Kosciuszko (2228 m). Taking g = 9.8 N kg⁻¹, her gain in gravitational potential energy is closest to:
+**Q568.** A 60 kg hiker walks from Thredbo village (1365 m above sea level) to the summit of Mt Kosciuszko (2228 m). Taking g = 9.8 N kg⁻¹, her gain in gravitational potential energy is closest to:
 <!-- id: physics-1-4-22 -->
 
 - A. 1.3 × 10⁶ J
@@ -4073,7 +4109,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 5.1 × 10⁵ J
 - D. 5.1 × 10⁴ J
 
-**Q567.** A small mass moves from the surface of a planet out to 2R from its centre. Which graph's area gives the work done per kilogram against gravity?
+**Q569.** A small mass moves from the surface of a planet out to 2R from its centre. Which graph's area gives the work done per kilogram against gravity?
 <!-- id: physics-1-4-23 -->
 
 - A. The area under the gravitational force–distance graph from 0 to R
@@ -4081,12 +4117,12 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. The area under the field strength–distance graph from 0 to 2R
 - D. The area under the gravitational field strength–distance graph from R to 2R
 
-**Q568.** A coin is dropped from the Eureka Skydeck in Melbourne, 285 m above the ground. Ignoring air resistance and taking g = 9.8 m s⁻², use energy conservation to find its speed just before hitting the ground.
+**Q570.** A coin is dropped from the Eureka Skydeck in Melbourne, 285 m above the ground. Ignoring air resistance and taking g = 9.8 m s⁻², use energy conservation to find its speed just before hitting the ground.
 <!-- id: physics-1-4-24 -->
 
 *Written answer*
 
-**Q569.** Explain why the gravitational potential energy of a satellite increases as it moves to a larger orbital radius, with reference to work done.
+**Q571.** Explain why the gravitational potential energy of a satellite increases as it moves to a larger orbital radius, with reference to work done.
 <!-- id: physics-1-4-25 -->
 
 *Written answer*
@@ -4095,7 +4131,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 
 #### Coulomb's law and electric fields
 
-**Q570.** Two small spheres carrying charges of +2.0 μC and +3.0 μC are 0.30 m apart. What is the magnitude and nature of the electrostatic force between them? (k = 8.99 × 10⁹ N m² C⁻²)
+**Q572.** Two small spheres carrying charges of +2.0 μC and +3.0 μC are 0.30 m apart. What is the magnitude and nature of the electrostatic force between them? (k = 8.99 × 10⁹ N m² C⁻²)
 <!-- id: physics-2-1-1 -->
 
 - A. 0.60 N, repulsive
@@ -4103,7 +4139,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 0.18 N, repulsive
 - D. 1.8 N, repulsive
 
-**Q571.** The distance between two point charges is tripled. The electrostatic force between them becomes:
+**Q573.** The distance between two point charges is tripled. The electrostatic force between them becomes:
 <!-- id: physics-2-1-2 -->
 
 - A. one-third of its original value
@@ -4111,7 +4147,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. three times its original value
 - D. nine times its original value
 
-**Q572.** Both point charges are doubled in magnitude and the distance between them is also doubled. The force between them:
+**Q574.** Both point charges are doubled in magnitude and the distance between them is also doubled. The force between them:
 <!-- id: physics-2-1-3 -->
 
 - A. doubles
@@ -4119,7 +4155,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. is unchanged
 - D. halves
 
-**Q573.** What is the electric field at a point 0.50 m from a point charge of +4.0 nC? (k = 8.99 × 10⁹ N m² C⁻²)
+**Q575.** What is the electric field at a point 0.50 m from a point charge of +4.0 nC? (k = 8.99 × 10⁹ N m² C⁻²)
 <!-- id: physics-2-1-4 -->
 
 - A. 1.4 × 10² N C⁻¹ directed towards the charge
@@ -4127,7 +4163,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 2.9 × 10² N C⁻¹ directed away from the charge
 - D. 1.4 × 10² N C⁻¹ directed away from the charge
 
-**Q574.** Two parallel plates 2.0 cm apart have a potential difference of 500 V across them. What is the electric field strength between the plates?
+**Q576.** Two parallel plates 2.0 cm apart have a potential difference of 500 V across them. What is the electric field strength between the plates?
 <!-- id: physics-2-1-5 -->
 
 - A. 2.5 × 10⁴ V m⁻¹
@@ -4135,7 +4171,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 1.0 × 10¹ V m⁻¹
 - D. 1.0 × 10³ V m⁻¹
 
-**Q575.** An electron is placed between two parallel plates where the uniform field strength is 2.5 × 10⁴ V m⁻¹. What is the magnitude of the force on the electron?
+**Q577.** An electron is placed between two parallel plates where the uniform field strength is 2.5 × 10⁴ V m⁻¹. What is the magnitude of the force on the electron?
 <!-- id: physics-2-1-6 -->
 
 - A. 4.0 × 10⁻¹⁷ N
@@ -4143,7 +4179,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 8.0 × 10⁻¹⁷ N
 - D. 1.6 × 10⁻¹⁸ N
 
-**Q576.** An electron is released from rest midway between two charged parallel plates. In which direction does it accelerate?
+**Q578.** An electron is released from rest midway between two charged parallel plates. In which direction does it accelerate?
 <!-- id: physics-2-1-7 -->
 
 - A. Towards the negative plate
@@ -4151,7 +4187,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. Towards the positive plate
 - D. It does not accelerate because the field is uniform
 
-**Q577.** Which statement about electric field lines is correct?
+**Q579.** Which statement about electric field lines is correct?
 <!-- id: physics-2-1-8 -->
 
 - A. They can cross at points where the field is very strong.
@@ -4159,7 +4195,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. They always show the actual path taken by a charged particle.
 - D. They begin on positive charges and end on negative charges.
 
-**Q578.** Which statement best describes the electric field between two large, oppositely charged parallel plates, away from the edges?
+**Q580.** Which statement best describes the electric field between two large, oppositely charged parallel plates, away from the edges?
 <!-- id: physics-2-1-9 -->
 
 - A. It is uniform in both magnitude and direction.
@@ -4167,7 +4203,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. It decreases with the inverse square of distance from each plate.
 - D. It is zero at the midpoint between the plates.
 
-**Q579.** How much work is done by the electric field on an electron accelerated from rest through a potential difference of 2000 V?
+**Q581.** How much work is done by the electric field on an electron accelerated from rest through a potential difference of 2000 V?
 <!-- id: physics-2-1-10 -->
 
 - A. 8.0 × 10⁻²³ J
@@ -4175,7 +4211,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 1.6 × 10⁻¹⁶ J
 - D. 6.4 × 10⁻¹⁶ J
 
-**Q580.** Charges +Q and −Q of equal magnitude are fixed a distance apart. At the midpoint between them, the electric field is:
+**Q582.** Charges +Q and −Q of equal magnitude are fixed a distance apart. At the midpoint between them, the electric field is:
 <!-- id: physics-2-1-11 -->
 
 - A. zero
@@ -4183,7 +4219,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. non-zero and directed towards −Q
 - D. non-zero and perpendicular to the line joining the charges
 
-**Q581.** A charge of +4q and a charge of +q are separated by a distance d. At what point on the line between them is the electric field zero?
+**Q583.** A charge of +4q and a charge of +q are separated by a distance d. At what point on the line between them is the electric field zero?
 <!-- id: physics-2-1-12 -->
 
 - A. d/3 from the +4q charge
@@ -4191,7 +4227,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. d/2 from either charge
 - D. d/3 from the +q charge
 
-**Q582.** At a distance r from a point charge the electric field strength is E. What is the field strength at a distance 2r?
+**Q584.** At a distance r from a point charge the electric field strength is E. What is the field strength at a distance 2r?
 <!-- id: physics-2-1-13 -->
 
 - A. E/4
@@ -4199,7 +4235,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 2E
 - D. 4E
 
-**Q583.** A proton is placed in a uniform electric field of 3.0 × 10³ N C⁻¹. What is the magnitude of its acceleration? (mₚ = 1.67 × 10⁻²⁷ kg)
+**Q585.** A proton is placed in a uniform electric field of 3.0 × 10³ N C⁻¹. What is the magnitude of its acceleration? (mₚ = 1.67 × 10⁻²⁷ kg)
 <!-- id: physics-2-1-14 -->
 
 - A. 5.3 × 10¹⁴ m s⁻²
@@ -4207,7 +4243,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 4.8 × 10⁻¹⁶ m s⁻²
 - D. 2.9 × 10⁸ m s⁻²
 
-**Q584.** Which statement correctly compares electric and gravitational fields?
+**Q586.** Which statement correctly compares electric and gravitational fields?
 <!-- id: physics-2-1-15 -->
 
 - A. Gravitational fields of point masses follow an inverse square law but electric fields of point charges do not.
@@ -4215,7 +4251,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. Electric forces can be attractive or repulsive, whereas gravitational forces are only attractive.
 - D. The gravitational force between two protons is greater than the electric force between them.
 
-**Q585.** Two identical small conducting spheres carry charges of +6 μC and −2 μC. They are touched together and then returned to their original separation. Compared with the original force, the new force is:
+**Q587.** Two identical small conducting spheres carry charges of +6 μC and −2 μC. They are touched together and then returned to their original separation. Compared with the original force, the new force is:
 <!-- id: physics-2-1-16 -->
 
 - A. one-third of the original magnitude, and attractive
@@ -4223,7 +4259,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. two-thirds of the original magnitude, and repulsive
 - D. one-third of the original magnitude, and repulsive
 
-**Q586.** The unit N C⁻¹ for electric field strength is equivalent to:
+**Q588.** The unit N C⁻¹ for electric field strength is equivalent to:
 <!-- id: physics-2-1-17 -->
 
 - A. V m⁻¹
@@ -4231,7 +4267,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. C m⁻¹
 - D. N m C⁻¹
 
-**Q587.** An electron is accelerated from rest through a potential difference of 500 V. What is its final speed? (mₑ = 9.1 × 10⁻³¹ kg)
+**Q589.** An electron is accelerated from rest through a potential difference of 500 V. What is its final speed? (mₑ = 9.1 × 10⁻³¹ kg)
 <!-- id: physics-2-1-18 -->
 
 - A. 9.4 × 10⁶ m s⁻¹
@@ -4239,44 +4275,44 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 1.8 × 10¹⁴ m s⁻¹
 - D. 3.1 × 10⁵ m s⁻¹
 
-**Q588.** Calculate the magnitude of the electrostatic force between the electron and proton in a hydrogen atom, given their separation is 5.3 × 10⁻¹¹ m. State whether the force is attractive or repulsive.
+**Q590.** Calculate the magnitude of the electrostatic force between the electron and proton in a hydrogen atom, given their separation is 5.3 × 10⁻¹¹ m. State whether the force is attractive or repulsive.
 <!-- id: physics-2-1-19 -->
 
 *Written answer*
 
-**Q589.** Describe in words the electric field pattern around two equal positive point charges placed near each other.
+**Q591.** Describe in words the electric field pattern around two equal positive point charges placed near each other.
 <!-- id: physics-2-1-20 -->
 
 *Written answer*
 
-**Q590.** An electron enters the region between two horizontal charged parallel plates travelling horizontally. Explain why its path between the plates is parabolic.
+**Q592.** An electron enters the region between two horizontal charged parallel plates travelling horizontally. Explain why its path between the plates is parabolic.
 <!-- id: physics-2-1-21 -->
 
 *Written answer*
 
-**Q591.** Two parallel plates are 5.0 mm apart. What potential difference must be applied to produce a uniform electric field of 4.0 × 10⁵ V m⁻¹ between them?
+**Q593.** Two parallel plates are 5.0 mm apart. What potential difference must be applied to produce a uniform electric field of 4.0 × 10⁵ V m⁻¹ between them?
 <!-- id: physics-2-1-22 -->
 
 *Written answer*
 
-**Q592.** A small charged sphere experiences a force of 2.4 × 10⁻³ N at a point where the electric field strength is 8.0 × 10³ N C⁻¹. Calculate the magnitude of the charge on the sphere.
+**Q594.** A small charged sphere experiences a force of 2.4 × 10⁻³ N at a point where the electric field strength is 8.0 × 10³ N C⁻¹. Calculate the magnitude of the charge on the sphere.
 <!-- id: physics-2-1-23 -->
 
 *Written answer*
 
-**Q593.** Calculate the ratio of the electrostatic force to the gravitational force between two protons, and comment on the result. (k = 8.99 × 10⁹ N m² C⁻², G = 6.67 × 10⁻¹¹ N m² kg⁻², mₚ = 1.67 × 10⁻²⁷ kg)
+**Q595.** Calculate the ratio of the electrostatic force to the gravitational force between two protons, and comment on the result. (k = 8.99 × 10⁹ N m² C⁻², G = 6.67 × 10⁻¹¹ N m² kg⁻², mₚ = 1.67 × 10⁻²⁷ kg)
 <!-- id: physics-2-1-24 -->
 
 *Written answer*
 
-**Q594.** Point charges of +3.0 nC and −3.0 nC are 0.20 m apart. Calculate the magnitude and direction of the electric field at the midpoint between them.
+**Q596.** Point charges of +3.0 nC and −3.0 nC are 0.20 m apart. Calculate the magnitude and direction of the electric field at the midpoint between them.
 <!-- id: physics-2-1-25 -->
 
 *Written answer*
 
 #### Magnetic fields of wires and solenoids
 
-**Q595.** A long straight wire lies horizontally on a bench and carries a current towards the north. What is the direction of the magnetic field at a point directly above the wire?
+**Q597.** A long straight wire lies horizontally on a bench and carries a current towards the north. What is the direction of the magnetic field at a point directly above the wire?
 <!-- id: physics-2-2-1 -->
 
 - A. West
@@ -4284,7 +4320,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. East
 - D. Vertically upwards
 
-**Q596.** Which description best matches the magnetic field around a long straight current-carrying wire?
+**Q598.** Which description best matches the magnetic field around a long straight current-carrying wire?
 <!-- id: physics-2-2-2 -->
 
 - A. Straight lines radiating outward from the wire
@@ -4292,7 +4328,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. A uniform field directed along the wire
 - D. Concentric circles centred on the wire, in planes perpendicular to it
 
-**Q597.** The distance from a long straight current-carrying wire is doubled. The magnetic field strength:
+**Q599.** The distance from a long straight current-carrying wire is doubled. The magnetic field strength:
 <!-- id: physics-2-2-3 -->
 
 - A. halves
@@ -4300,7 +4336,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. doubles
 - D. stays the same
 
-**Q598.** Which statement best describes the magnetic field inside a long solenoid carrying a steady current?
+**Q600.** Which statement best describes the magnetic field inside a long solenoid carrying a steady current?
 <!-- id: physics-2-2-4 -->
 
 - A. It is zero because fields from opposite sides cancel.
@@ -4308,7 +4344,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. It forms circles around the axis of the solenoid.
 - D. It is strongest close to the windings and zero on the axis.
 
-**Q599.** Looking at one end of a solenoid, the current is seen to flow anticlockwise. That end of the solenoid behaves as:
+**Q601.** Looking at one end of a solenoid, the current is seen to flow anticlockwise. That end of the solenoid behaves as:
 <!-- id: physics-2-2-5 -->
 
 - A. a south pole
@@ -4316,7 +4352,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. a north pole
 - D. a north or south pole depending on the number of turns
 
-**Q600.** Which change would NOT increase the magnetic field strength inside a solenoid?
+**Q602.** Which change would NOT increase the magnetic field strength inside a solenoid?
 <!-- id: physics-2-2-6 -->
 
 - A. Increasing the current
@@ -4324,7 +4360,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. Inserting a soft iron core
 - D. Stretching it to twice its length while keeping the same number of turns and current
 
-**Q601.** Inside a bar magnet, the magnetic field lines are directed:
+**Q603.** Inside a bar magnet, the magnetic field lines are directed:
 <!-- id: physics-2-2-7 -->
 
 - A. from the south pole to the north pole
@@ -4332,7 +4368,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. radially outwards from the centre
 - D. nowhere, because the field inside is zero
 
-**Q602.** Which statement correctly distinguishes magnetic field lines from electric field lines?
+**Q604.** Which statement correctly distinguishes magnetic field lines from electric field lines?
 <!-- id: physics-2-2-8 -->
 
 - A. Magnetic field lines begin on north monopoles and end on south monopoles.
@@ -4340,7 +4376,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. Magnetic field lines can cross, but electric field lines cannot.
 - D. Electric field lines form closed loops around stationary charges.
 
-**Q603.** Two long parallel wires carry currents in the same direction. The wires will:
+**Q605.** Two long parallel wires carry currents in the same direction. The wires will:
 <!-- id: physics-2-2-9 -->
 
 - A. repel each other
@@ -4348,7 +4384,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. attract each other
 - D. twist so that they become perpendicular
 
-**Q604.** Two long parallel wires carry equal currents in the same direction. At the point midway between them, the magnetic field is:
+**Q606.** Two long parallel wires carry equal currents in the same direction. At the point midway between them, the magnetic field is:
 <!-- id: physics-2-2-10 -->
 
 - A. twice the field due to one wire
@@ -4356,7 +4392,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. directed parallel to the wires
 - D. zero
 
-**Q605.** The tesla (T), the unit of magnetic field strength, is equivalent to:
+**Q607.** The tesla (T), the unit of magnetic field strength, is equivalent to:
 <!-- id: physics-2-2-11 -->
 
 - A. N A⁻¹ m⁻¹
@@ -4364,7 +4400,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. V m⁻¹
 - D. A m N⁻¹
 
-**Q606.** The north pole of a compass needle points towards Earth's geographic North Pole. This means that near Earth's geographic North Pole there is:
+**Q608.** The north pole of a compass needle points towards Earth's geographic North Pole. This means that near Earth's geographic North Pole there is:
 <!-- id: physics-2-2-12 -->
 
 - A. a magnetic north pole
@@ -4372,7 +4408,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. a region where Earth's magnetic field is zero
 - D. a magnetic pole that alternates between north and south daily
 
-**Q607.** In a magnetic field diagram, a region of stronger magnetic field is shown by:
+**Q609.** In a magnetic field diagram, a region of stronger magnetic field is shown by:
 <!-- id: physics-2-2-13 -->
 
 - A. field lines drawn further apart
@@ -4380,7 +4416,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. field lines drawn closer together
 - D. field lines that end at a point
 
-**Q608.** The current in a solenoid is doubled and the number of turns per metre is halved. The magnetic field inside the solenoid:
+**Q610.** The current in a solenoid is doubled and the number of turns per metre is halved. The magnetic field inside the solenoid:
 <!-- id: physics-2-2-14 -->
 
 - A. doubles
@@ -4388,7 +4424,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. halves
 - D. is unchanged
 
-**Q609.** A long straight wire is vertical and carries current upwards. Viewed from above, the magnetic field lines around it circulate:
+**Q611.** A long straight wire is vertical and carries current upwards. Viewed from above, the magnetic field lines around it circulate:
 <!-- id: physics-2-2-15 -->
 
 - A. anticlockwise
@@ -4396,7 +4432,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. radially outward
 - D. vertically upwards, parallel to the wire
 
-**Q610.** A long vertical wire carries current upwards. What is the direction of the magnetic field at a point 2.0 cm due east of the wire?
+**Q612.** A long vertical wire carries current upwards. What is the direction of the magnetic field at a point 2.0 cm due east of the wire?
 <!-- id: physics-2-2-16 -->
 
 - A. South
@@ -4404,7 +4440,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. East
 - D. Vertically upwards
 
-**Q611.** What is the fundamental source of magnetic fields?
+**Q613.** What is the fundamental source of magnetic fields?
 <!-- id: physics-2-2-17 -->
 
 - A. Stationary electric charges
@@ -4412,7 +4448,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. Moving electric charges
 - D. Only permanent magnets
 
-**Q612.** Iron filings are sprinkled around a current-carrying solenoid. The pattern outside the solenoid most closely resembles that of:
+**Q614.** Iron filings are sprinkled around a current-carrying solenoid. The pattern outside the solenoid most closely resembles that of:
 <!-- id: physics-2-2-18 -->
 
 - A. concentric circles centred on the middle of the solenoid
@@ -4420,44 +4456,44 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. nothing, because the entire field is confined inside the solenoid
 - D. a bar magnet, with poles at each end
 
-**Q613.** Describe the magnetic field around a long straight current-carrying wire and explain how its direction is found.
+**Q615.** Describe the magnetic field around a long straight current-carrying wire and explain how its direction is found.
 <!-- id: physics-2-2-19 -->
 
 *Written answer*
 
-**Q614.** Explain why the magnetic field inside a long solenoid is strong and nearly uniform, while the field outside is relatively weak.
+**Q616.** Explain why the magnetic field inside a long solenoid is strong and nearly uniform, while the field outside is relatively weak.
 <!-- id: physics-2-2-20 -->
 
 *Written answer*
 
-**Q615.** State two differences between magnetic field lines and electric field lines from static charges.
+**Q617.** State two differences between magnetic field lines and electric field lines from static charges.
 <!-- id: physics-2-2-21 -->
 
 *Written answer*
 
-**Q616.** A wire perpendicular to this page carries current into the page. Describe the direction of the magnetic field around it as seen by someone looking at the page.
+**Q618.** A wire perpendicular to this page carries current into the page. Describe the direction of the magnetic field around it as seen by someone looking at the page.
 <!-- id: physics-2-2-22 -->
 
 *Written answer*
 
-**Q617.** Two long parallel wires 10 cm apart carry equal currents in opposite directions. Explain what the magnetic field is like at the point midway between them.
+**Q619.** Two long parallel wires 10 cm apart carry equal currents in opposite directions. Explain what the magnetic field is like at the point midway between them.
 <!-- id: physics-2-2-23 -->
 
 *Written answer*
 
-**Q618.** A solenoid produces a magnetic field of 4.0 mT inside it when the current is 2.0 A. What is the field when the current is increased to 5.0 A, with all else unchanged?
+**Q620.** A solenoid produces a magnetic field of 4.0 mT inside it when the current is 2.0 A. What is the field when the current is increased to 5.0 A, with all else unchanged?
 <!-- id: physics-2-2-24 -->
 
 *Written answer*
 
-**Q619.** Explain how the polarity of an electromagnet can be reversed and why a soft iron core is commonly used.
+**Q621.** Explain how the polarity of an electromagnet can be reversed and why a soft iron core is commonly used.
 <!-- id: physics-2-2-25 -->
 
 *Written answer*
 
 #### Forces on moving charges and currents
 
-**Q620.** A straight wire 0.50 m long carries a current of 3.0 A at right angles to a uniform magnetic field of 0.20 T. What is the magnitude of the force on the wire?
+**Q622.** A straight wire 0.50 m long carries a current of 3.0 A at right angles to a uniform magnetic field of 0.20 T. What is the magnitude of the force on the wire?
 <!-- id: physics-2-3-1 -->
 
 - A. 0.30 N
@@ -4465,7 +4501,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 3.0 N
 - D. 7.5 N
 
-**Q621.** A current-carrying wire is placed parallel to a uniform magnetic field. The magnetic force on the wire is:
+**Q623.** A current-carrying wire is placed parallel to a uniform magnetic field. The magnetic force on the wire is:
 <!-- id: physics-2-3-2 -->
 
 - A. maximum
@@ -4473,7 +4509,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. equal to IlB, directed along the wire
 - D. equal to IlB, perpendicular to the wire
 
-**Q622.** A rectangular coil of 50 turns has a side of length 0.10 m perpendicular to a 0.40 T magnetic field. The coil carries 2.0 A. What is the force on that side?
+**Q624.** A rectangular coil of 50 turns has a side of length 0.10 m perpendicular to a 0.40 T magnetic field. The coil carries 2.0 A. What is the force on that side?
 <!-- id: physics-2-3-3 -->
 
 - A. 0.080 N
@@ -4481,7 +4517,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 4.0 N
 - D. 8.0 N
 
-**Q623.** A horizontal wire carries current towards the east in a magnetic field directed vertically downwards. What is the direction of the force on the wire?
+**Q625.** A horizontal wire carries current towards the east in a magnetic field directed vertically downwards. What is the direction of the force on the wire?
 <!-- id: physics-2-3-4 -->
 
 - A. South
@@ -4489,7 +4525,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. West
 - D. North
 
-**Q624.** An electron travels north through a uniform magnetic field directed vertically upwards. What is the direction of the magnetic force on the electron when it enters the field?
+**Q626.** An electron travels north through a uniform magnetic field directed vertically upwards. What is the direction of the magnetic force on the electron when it enters the field?
 <!-- id: physics-2-3-5 -->
 
 - A. West
@@ -4497,7 +4533,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. South
 - D. Vertically downwards
 
-**Q625.** A proton moves at 2.0 × 10⁶ m s⁻¹ perpendicular to a 0.50 T magnetic field. What is the magnitude of the magnetic force on it?
+**Q627.** A proton moves at 2.0 × 10⁶ m s⁻¹ perpendicular to a 0.50 T magnetic field. What is the magnitude of the magnetic force on it?
 <!-- id: physics-2-3-6 -->
 
 - A. 6.4 × 10⁻¹³ N
@@ -4505,7 +4541,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 3.2 × 10⁻¹³ N
 - D. 1.6 × 10⁻¹⁹ N
 
-**Q626.** An electron travelling at 3.0 × 10⁶ m s⁻¹ enters a uniform magnetic field of 2.0 × 10⁻³ T at right angles. What is the radius of its circular path? (mₑ = 9.1 × 10⁻³¹ kg)
+**Q628.** An electron travelling at 3.0 × 10⁶ m s⁻¹ enters a uniform magnetic field of 2.0 × 10⁻³ T at right angles. What is the radius of its circular path? (mₑ = 9.1 × 10⁻³¹ kg)
 <!-- id: physics-2-3-7 -->
 
 - A. 4.3 mm
@@ -4513,7 +4549,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 8.5 mm
 - D. 1.2 × 10² m
 
-**Q627.** A charged particle moves in a circle in a uniform magnetic field. How much work does the magnetic force do on the particle during one revolution?
+**Q629.** A charged particle moves in a circle in a uniform magnetic field. How much work does the magnetic force do on the particle during one revolution?
 <!-- id: physics-2-3-8 -->
 
 - A. qvB × 2πr, because the force acts all the way around the circle
@@ -4521,7 +4557,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. A negative amount, because the force points towards the centre
 - D. Zero, because the force is always perpendicular to the velocity
 
-**Q628.** A charged particle moving perpendicular to a uniform magnetic field has its speed doubled. The radius of its circular path:
+**Q630.** A charged particle moving perpendicular to a uniform magnetic field has its speed doubled. The radius of its circular path:
 <!-- id: physics-2-3-9 -->
 
 - A. doubles
@@ -4529,7 +4565,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. quadruples
 - D. is unchanged
 
-**Q629.** A proton and an electron enter the same uniform magnetic field with the same velocity, perpendicular to the field. Which statement is correct?
+**Q631.** A proton and an electron enter the same uniform magnetic field with the same velocity, perpendicular to the field. Which statement is correct?
 <!-- id: physics-2-3-10 -->
 
 - A. Both have the same radius but curve in opposite senses.
@@ -4537,7 +4573,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. The electron's path has the larger radius and both curve in the same sense.
 - D. The proton's path has the larger radius and both curve in the same sense.
 
-**Q630.** A charged particle passes undeflected through a region where a uniform electric field of 2.0 × 10⁴ V m⁻¹ is perpendicular to a uniform magnetic field of 0.10 T (both perpendicular to its velocity). What is the particle's speed?
+**Q632.** A charged particle passes undeflected through a region where a uniform electric field of 2.0 × 10⁴ V m⁻¹ is perpendicular to a uniform magnetic field of 0.10 T (both perpendicular to its velocity). What is the particle's speed?
 <!-- id: physics-2-3-11 -->
 
 - A. 2.0 × 10³ m s⁻¹
@@ -4545,7 +4581,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 2.0 × 10⁵ m s⁻¹
 - D. 2.0 × 10⁴ m s⁻¹
 
-**Q631.** A charged particle moves in the same direction as a uniform magnetic field. Its subsequent motion is:
+**Q633.** A charged particle moves in the same direction as a uniform magnetic field. Its subsequent motion is:
 <!-- id: physics-2-3-12 -->
 
 - A. a circle in a plane perpendicular to the field
@@ -4553,7 +4589,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. a decelerating straight line
 - D. a straight line at constant speed
 
-**Q632.** In a simple DC motor, what is the purpose of the split-ring commutator?
+**Q634.** In a simple DC motor, what is the purpose of the split-ring commutator?
 <!-- id: physics-2-3-13 -->
 
 - A. To reverse the current in the coil every half turn so the torque keeps acting in the same direction
@@ -4561,7 +4597,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. To increase the strength of the magnetic field
 - D. To keep the current in the coil flowing in the same direction at all times
 
-**Q633.** In a DC motor, the coil sides that are parallel to the magnetic field at a given instant experience a force that is:
+**Q635.** In a DC motor, the coil sides that are parallel to the magnetic field at a given instant experience a force that is:
 <!-- id: physics-2-3-14 -->
 
 - A. maximum
@@ -4569,7 +4605,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. directed along the wire
 - D. directed parallel to the field
 
-**Q634.** An alpha particle (charge +2e, mass 4 u) and a proton (charge +e, mass 1 u) enter the same magnetic field with the same speed, perpendicular to the field. What is the ratio of the radius of the alpha particle's path to the proton's?
+**Q636.** An alpha particle (charge +2e, mass 4 u) and a proton (charge +e, mass 1 u) enter the same magnetic field with the same speed, perpendicular to the field. What is the ratio of the radius of the alpha particle's path to the proton's?
 <!-- id: physics-2-3-15 -->
 
 - A. 4
@@ -4577,7 +4613,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 2
 - D. 1
 
-**Q635.** For a current-carrying wire in a magnetic field, both the current direction and the magnetic field direction are reversed. The force on the wire:
+**Q637.** For a current-carrying wire in a magnetic field, both the current direction and the magnetic field direction are reversed. The force on the wire:
 <!-- id: physics-2-3-16 -->
 
 - A. reverses direction
@@ -4585,7 +4621,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. doubles in magnitude
 - D. stays in the same direction with the same magnitude
 
-**Q636.** A charged particle moves in a circle perpendicular to a uniform magnetic field. If its speed is increased, which statement is correct?
+**Q638.** A charged particle moves in a circle perpendicular to a uniform magnetic field. If its speed is increased, which statement is correct?
 <!-- id: physics-2-3-17 -->
 
 - A. The radius increases but the period stays the same.
@@ -4593,7 +4629,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. The radius decreases and the period increases.
 - D. The radius stays the same but the period decreases.
 
-**Q637.** A singly charged positive ion travelling at 1.0 × 10⁵ m s⁻¹ follows a circular path of radius 0.10 m in a 0.50 T magnetic field. What is the mass of the ion?
+**Q639.** A singly charged positive ion travelling at 1.0 × 10⁵ m s⁻¹ follows a circular path of radius 0.10 m in a 0.50 T magnetic field. What is the mass of the ion?
 <!-- id: physics-2-3-18 -->
 
 - A. 8.0 × 10⁻²⁵ kg
@@ -4601,44 +4637,44 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 8.0 × 10⁻¹⁶ kg
 - D. 8.0 × 10⁻²⁴ kg
 
-**Q638.** Show that a particle of mass m and charge q moving at speed v perpendicular to a uniform magnetic field B travels in a circle of radius r = mv/(qB).
+**Q640.** Show that a particle of mass m and charge q moving at speed v perpendicular to a uniform magnetic field B travels in a circle of radius r = mv/(qB).
 <!-- id: physics-2-3-19 -->
 
 *Written answer*
 
-**Q639.** An electron travelling at 4.0 × 10⁶ m s⁻¹ is to move in a circle of radius 0.050 m. What magnetic field strength is required? (mₑ = 9.1 × 10⁻³¹ kg)
+**Q641.** An electron travelling at 4.0 × 10⁶ m s⁻¹ is to move in a circle of radius 0.050 m. What magnetic field strength is required? (mₑ = 9.1 × 10⁻³¹ kg)
 <!-- id: physics-2-3-20 -->
 
 *Written answer*
 
-**Q640.** Explain why a magnetic field can change the direction of a moving charged particle but cannot change its speed.
+**Q642.** Explain why a magnetic field can change the direction of a moving charged particle but cannot change its speed.
 <!-- id: physics-2-3-21 -->
 
 *Written answer*
 
-**Q641.** A 20-turn rectangular coil has a side 5.0 cm long perpendicular to a 0.30 T magnetic field. If the coil carries 1.5 A, calculate the force on that side.
+**Q643.** A 20-turn rectangular coil has a side 5.0 cm long perpendicular to a 0.30 T magnetic field. If the coil carries 1.5 A, calculate the force on that side.
 <!-- id: physics-2-3-22 -->
 
 *Written answer*
 
-**Q642.** Explain the role of the split-ring commutator and brushes in a DC motor.
+**Q644.** Explain the role of the split-ring commutator and brushes in a DC motor.
 <!-- id: physics-2-3-23 -->
 
 *Written answer*
 
-**Q643.** A horizontal wire of length 0.20 m and mass 6.0 g lies perpendicular to a horizontal magnetic field of 0.50 T. What current is needed in the wire for the magnetic force to support its weight? (g = 9.8 m s⁻²)
+**Q645.** A horizontal wire of length 0.20 m and mass 6.0 g lies perpendicular to a horizontal magnetic field of 0.50 T. What current is needed in the wire for the magnetic force to support its weight? (g = 9.8 m s⁻²)
 <!-- id: physics-2-3-24 -->
 
 *Written answer*
 
-**Q644.** A positive ion travels horizontally towards the east and enters a region where the magnetic field points vertically upwards. In which direction is the ion initially deflected? Justify your answer.
+**Q646.** A positive ion travels horizontally towards the east and enters a region where the magnetic field points vertically upwards. In which direction is the ion initially deflected? Justify your answer.
 <!-- id: physics-2-3-25 -->
 
 *Written answer*
 
 #### Particle accelerators and the synchrotron
 
-**Q645.** Where is the Australian Synchrotron located?
+**Q647.** Where is the Australian Synchrotron located?
 <!-- id: physics-2-4-1 -->
 
 - A. Lucas Heights, New South Wales
@@ -4646,7 +4682,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. Clayton, Victoria
 - D. Hobart, Tasmania
 
-**Q646.** In the storage ring of a synchrotron, what is the main purpose of the bending magnets?
+**Q648.** In the storage ring of a synchrotron, what is the main purpose of the bending magnets?
 <!-- id: physics-2-4-2 -->
 
 - A. To increase the speed of the electrons
@@ -4654,7 +4690,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. To slow the electrons before they reach the beamlines
 - D. To change the direction of the electrons so they follow a closed path
 
-**Q647.** What is the function of the radio-frequency (RF) cavities in a synchrotron storage ring?
+**Q649.** What is the function of the radio-frequency (RF) cavities in a synchrotron storage ring?
 <!-- id: physics-2-4-3 -->
 
 - A. To replace the energy the electrons lose as synchrotron radiation
@@ -4662,7 +4698,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. To focus the X-rays onto samples
 - D. To remove unwanted electrons from the beam
 
-**Q648.** Synchrotron radiation is emitted when:
+**Q650.** Synchrotron radiation is emitted when:
 <!-- id: physics-2-4-4 -->
 
 - A. electrons collide with atoms in the vacuum tube
@@ -4670,7 +4706,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. electrons travel in a straight line at constant velocity
 - D. electrons are absorbed by the walls of the storage ring
 
-**Q649.** In an electron gun, electrons released from a heated filament are accelerated by:
+**Q651.** In an electron gun, electrons released from a heated filament are accelerated by:
 <!-- id: physics-2-4-5 -->
 
 - A. the magnetic field of the filament current
@@ -4678,7 +4714,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. the electric field between the cathode and the anode
 - D. collisions with gas molecules in the tube
 
-**Q650.** An electron gun accelerates electrons from rest through 15 kV. What kinetic energy does each electron gain?
+**Q652.** An electron gun accelerates electrons from rest through 15 kV. What kinetic energy does each electron gain?
 <!-- id: physics-2-4-6 -->
 
 - A. 1.5 × 10⁴ J
@@ -4686,7 +4722,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 2.4 × 10⁻¹⁸ J
 - D. 2.4 × 10⁻¹⁵ J
 
-**Q651.** Why are magnetic fields used to steer charged particles in accelerators, but not to increase their kinetic energy?
+**Q653.** Why are magnetic fields used to steer charged particles in accelerators, but not to increase their kinetic energy?
 <!-- id: physics-2-4-7 -->
 
 - A. The magnetic force is perpendicular to the velocity, so it does no work on the particles.
@@ -4694,7 +4730,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. Magnetic fields are too weak to affect electrons.
 - D. The magnetic force always acts opposite to the velocity, slowing the particles.
 
-**Q652.** Why are electric fields used to accelerate charged particles in a linear accelerator?
+**Q654.** Why are electric fields used to accelerate charged particles in a linear accelerator?
 <!-- id: physics-2-4-8 -->
 
 - A. Electric fields only exert forces perpendicular to the particle's motion.
@@ -4702,7 +4738,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. Electric fields keep the particles moving in a circle.
 - D. Electric fields reduce the mass of the particles.
 
-**Q653.** As electrons gain speed in a synchrotron's booster ring, what must happen to the magnetic field in the bending magnets for the electrons to stay on the same circular path?
+**Q655.** As electrons gain speed in a synchrotron's booster ring, what must happen to the magnetic field in the bending magnets for the electrons to stay on the same circular path?
 <!-- id: physics-2-4-9 -->
 
 - A. It must decrease.
@@ -4710,7 +4746,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. It must increase.
 - D. It must reverse direction every lap.
 
-**Q654.** What is the role of the linear accelerator (linac) at the start of a synchrotron?
+**Q656.** What is the role of the linear accelerator (linac) at the start of a synchrotron?
 <!-- id: physics-2-4-10 -->
 
 - A. To store electrons for many hours
@@ -4718,7 +4754,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. To convert electrons into X-ray photons
 - D. To accelerate electrons from the electron gun to very high speed in a straight line using electric fields
 
-**Q655.** An electron is accelerated from rest through 100 V and then enters a 1.0 × 10⁻³ T magnetic field at right angles. What is the radius of its path? (mₑ = 9.1 × 10⁻³¹ kg)
+**Q657.** An electron is accelerated from rest through 100 V and then enters a 1.0 × 10⁻³ T magnetic field at right angles. What is the radius of its path? (mₑ = 9.1 × 10⁻³¹ kg)
 <!-- id: physics-2-4-11 -->
 
 - A. 3.4 cm
@@ -4726,7 +4762,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 6.7 cm
 - D. 1.7 cm
 
-**Q656.** In a mass spectrometer, ions with the same charge and speed enter a uniform magnetic field. Compared with lighter ions, heavier ions:
+**Q658.** In a mass spectrometer, ions with the same charge and speed enter a uniform magnetic field. Compared with lighter ions, heavier ions:
 <!-- id: physics-2-4-12 -->
 
 - A. follow a path of smaller radius
@@ -4734,7 +4770,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. follow the same path
 - D. travel in a straight line
 
-**Q657.** Which is a common use of synchrotron light at facilities such as the Australian Synchrotron?
+**Q659.** Which is a common use of synchrotron light at facilities such as the Australian Synchrotron?
 <!-- id: physics-2-4-13 -->
 
 - A. Generating electricity for the power grid
@@ -4742,7 +4778,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. Determining the structure of proteins using X-ray diffraction
 - D. Powering nuclear fission reactions
 
-**Q658.** The accelerating voltage of an electron gun is increased by a factor of 4. Assuming non-relativistic speeds, the final speed of the electrons:
+**Q660.** The accelerating voltage of an electron gun is increased by a factor of 4. Assuming non-relativistic speeds, the final speed of the electrons:
 <!-- id: physics-2-4-14 -->
 
 - A. increases by a factor of 4
@@ -4750,7 +4786,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. increases by a factor of √2
 - D. doubles
 
-**Q659.** Electrons in a synchrotron storage ring of circumference 216 m travel at very nearly the speed of light (3.0 × 10⁸ m s⁻¹). Approximately how long does each lap take?
+**Q661.** Electrons in a synchrotron storage ring of circumference 216 m travel at very nearly the speed of light (3.0 × 10⁸ m s⁻¹). Approximately how long does each lap take?
 <!-- id: physics-2-4-15 -->
 
 - A. 0.72 μs
@@ -4758,7 +4794,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 1.4 μs
 - D. 7.2 ms
 
-**Q660.** An alpha particle (charge +2e) is accelerated from rest through a potential difference of 50 kV. How much kinetic energy does it gain?
+**Q662.** An alpha particle (charge +2e) is accelerated from rest through a potential difference of 50 kV. How much kinetic energy does it gain?
 <!-- id: physics-2-4-16 -->
 
 - A. 8.0 × 10⁻¹⁵ J
@@ -4766,7 +4802,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 3.2 × 10⁻¹⁴ J
 - D. 1.0 × 10⁵ J
 
-**Q661.** An electron enters the region between two charged parallel plates moving parallel to the plates. While between the plates, its velocity component parallel to the plates:
+**Q663.** An electron enters the region between two charged parallel plates moving parallel to the plates. While between the plates, its velocity component parallel to the plates:
 <!-- id: physics-2-4-17 -->
 
 - A. increases steadily
@@ -4774,7 +4810,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. stays constant
 - D. becomes zero
 
-**Q662.** An electron moves in a circular path in a uniform magnetic field directed into the page. As seen by someone looking at the page, the electron circulates:
+**Q664.** An electron moves in a circular path in a uniform magnetic field directed into the page. As seen by someone looking at the page, the electron circulates:
 <!-- id: physics-2-4-18 -->
 
 - A. anticlockwise
@@ -4782,37 +4818,37 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. in an outward spiral at constant speed
 - D. clockwise
 
-**Q663.** Outline the role of each of these parts of the Australian Synchrotron: electron gun, linac, booster ring, storage ring and beamlines.
+**Q665.** Outline the role of each of these parts of the Australian Synchrotron: electron gun, linac, booster ring, storage ring and beamlines.
 <!-- id: physics-2-4-19 -->
 
 *Written answer*
 
-**Q664.** Explain why electrons in a synchrotron storage ring emit synchrotron radiation and why energy must be continually supplied to them.
+**Q666.** Explain why electrons in a synchrotron storage ring emit synchrotron radiation and why energy must be continually supplied to them.
 <!-- id: physics-2-4-20 -->
 
 *Written answer*
 
-**Q665.** An electron gun accelerates electrons from rest through 3.0 kV. Calculate the speed of the electrons leaving the gun. (mₑ = 9.1 × 10⁻³¹ kg)
+**Q667.** An electron gun accelerates electrons from rest through 3.0 kV. Calculate the speed of the electrons leaving the gun. (mₑ = 9.1 × 10⁻³¹ kg)
 <!-- id: physics-2-4-21 -->
 
 *Written answer*
 
-**Q666.** Electrons travelling at 3.2 × 10⁷ m s⁻¹ enter a uniform magnetic field of 5.0 × 10⁻³ T at right angles. Calculate the radius of their circular path. (mₑ = 9.1 × 10⁻³¹ kg)
+**Q668.** Electrons travelling at 3.2 × 10⁷ m s⁻¹ enter a uniform magnetic field of 5.0 × 10⁻³ T at right angles. Calculate the radius of their circular path. (mₑ = 9.1 × 10⁻³¹ kg)
 <!-- id: physics-2-4-22 -->
 
 *Written answer*
 
-**Q667.** In a mass spectrometer, singly charged carbon-12 and carbon-14 ions enter the same magnetic field with the same speed. Find the ratio of the radius of the carbon-14 path to the carbon-12 path.
+**Q669.** In a mass spectrometer, singly charged carbon-12 and carbon-14 ions enter the same magnetic field with the same speed. Find the ratio of the radius of the carbon-14 path to the carbon-12 path.
 <!-- id: physics-2-4-23 -->
 
 *Written answer*
 
-**Q668.** Explain why the tubes in which electrons travel in a particle accelerator must be kept at a very high vacuum.
+**Q670.** Explain why the tubes in which electrons travel in a particle accelerator must be kept at a very high vacuum.
 <!-- id: physics-2-4-24 -->
 
 *Written answer*
 
-**Q669.** Two parallel plates 4.0 cm apart have a potential difference of 200 V. Calculate the acceleration of an electron between the plates. (mₑ = 9.1 × 10⁻³¹ kg)
+**Q671.** Two parallel plates 4.0 cm apart have a potential difference of 200 V. Calculate the acceleration of an electron between the plates. (mₑ = 9.1 × 10⁻³¹ kg)
 <!-- id: physics-2-4-25 -->
 
 *Written answer*
@@ -4821,7 +4857,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 
 #### Newton's laws and forces
 
-**Q670.** A 1200 kg car accelerates uniformly from rest to 20 m/s in 8.0 s. What is the magnitude of the net force on the car?
+**Q672.** A 1200 kg car accelerates uniformly from rest to 20 m/s in 8.0 s. What is the magnitude of the net force on the car?
 <!-- id: physics-3-1-1 -->
 
 - A. 3000 N
@@ -4829,7 +4865,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 9600 N
 - D. 150 N
 
-**Q671.** A book rests on a table. According to Newton's third law, the reaction force to the book's weight is:
+**Q673.** A book rests on a table. According to Newton's third law, the reaction force to the book's weight is:
 <!-- id: physics-3-1-2 -->
 
 - A. the normal force exerted by the table on the book
@@ -4837,7 +4873,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. the force exerted by the book on the table
 - D. the friction force between the book and the table
 
-**Q672.** A 70 kg student stands in a lift that is accelerating upwards at 1.5 m/s². What is the normal force from the floor on the student? Take g = 9.8 m/s².
+**Q674.** A 70 kg student stands in a lift that is accelerating upwards at 1.5 m/s². What is the normal force from the floor on the student? Take g = 9.8 m/s².
 <!-- id: physics-3-1-3 -->
 
 - A. 581 N
@@ -4845,7 +4881,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 791 N
 - D. 105 N
 
-**Q673.** A 50 kg person stands in a lift moving downwards at a constant 3.0 m/s. What is the normal force on the person? Take g = 9.8 m/s².
+**Q675.** A 50 kg person stands in a lift moving downwards at a constant 3.0 m/s. What is the normal force on the person? Take g = 9.8 m/s².
 <!-- id: physics-3-1-4 -->
 
 - A. 340 N
@@ -4853,7 +4889,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 0 N
 - D. 490 N
 
-**Q674.** A block slides down a frictionless ramp inclined at 30° to the horizontal. What is its acceleration? Take g = 9.8 m/s².
+**Q676.** A block slides down a frictionless ramp inclined at 30° to the horizontal. What is its acceleration? Take g = 9.8 m/s².
 <!-- id: physics-3-1-5 -->
 
 - A. 4.9 m/s²
@@ -4861,7 +4897,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 9.8 m/s²
 - D. 2.5 m/s²
 
-**Q675.** Two blocks of mass 3.0 kg and 2.0 kg sit side by side on a frictionless surface. A 20 N horizontal force pushes the 3.0 kg block, which pushes the 2.0 kg block. What is the force between the blocks?
+**Q677.** Two blocks of mass 3.0 kg and 2.0 kg sit side by side on a frictionless surface. A 20 N horizontal force pushes the 3.0 kg block, which pushes the 2.0 kg block. What is the force between the blocks?
 <!-- id: physics-3-1-6 -->
 
 - A. 12 N
@@ -4869,7 +4905,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 20 N
 - D. 10 N
 
-**Q676.** A 2.0 kg trolley on a frictionless bench is connected by a light string over a frictionless pulley to a 0.50 kg mass hanging freely. What is the acceleration of the system? Take g = 9.8 m/s².
+**Q678.** A 2.0 kg trolley on a frictionless bench is connected by a light string over a frictionless pulley to a 0.50 kg mass hanging freely. What is the acceleration of the system? Take g = 9.8 m/s².
 <!-- id: physics-3-1-7 -->
 
 - A. 2.45 m/s²
@@ -4877,7 +4913,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 1.96 m/s²
 - D. 4.9 m/s²
 
-**Q677.** For a 2.0 kg trolley on a frictionless bench pulled by a 0.50 kg hanging mass (system acceleration 1.96 m/s²), what is the tension in the string?
+**Q679.** For a 2.0 kg trolley on a frictionless bench pulled by a 0.50 kg hanging mass (system acceleration 1.96 m/s²), what is the tension in the string?
 <!-- id: physics-3-1-8 -->
 
 - A. 4.9 N
@@ -4885,7 +4921,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 5.9 N
 - D. 3.9 N
 
-**Q678.** A passenger on a Melbourne tram lurches forward when the tram brakes suddenly. The best explanation is that:
+**Q680.** A passenger on a Melbourne tram lurches forward when the tram brakes suddenly. The best explanation is that:
 <!-- id: physics-3-1-9 -->
 
 - A. the passenger tends to keep moving at the original velocity while the tram slows down
@@ -4893,7 +4929,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. momentum is transferred from the tram to the passenger
 - D. the braking force on the tram is also applied to the passenger
 
-**Q679.** A ute tows a trailer along a straight highway and speeds up. How does the force of the ute on the trailer compare with the force of the trailer on the ute?
+**Q681.** A ute tows a trailer along a straight highway and speeds up. How does the force of the ute on the trailer compare with the force of the trailer on the ute?
 <!-- id: physics-3-1-10 -->
 
 - A. The ute's force on the trailer is larger, which is why they accelerate
@@ -4901,7 +4937,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. The trailer's force on the ute is larger because the trailer resists motion
 - D. They are equal only when the speed is constant
 
-**Q680.** A 5.0 kg box rests on a ramp inclined at 25° to the horizontal. What is the normal force on the box? Take g = 9.8 m/s².
+**Q682.** A 5.0 kg box rests on a ramp inclined at 25° to the horizontal. What is the normal force on the box? Take g = 9.8 m/s².
 <!-- id: physics-3-1-11 -->
 
 - A. 21 N
@@ -4909,7 +4945,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 44 N
 - D. 54 N
 
-**Q681.** A 10 kg box slides down a ramp inclined at 20° at constant velocity. What is the magnitude of the friction force on the box? Take g = 9.8 m/s².
+**Q683.** A 10 kg box slides down a ramp inclined at 20° at constant velocity. What is the magnitude of the friction force on the box? Take g = 9.8 m/s².
 <!-- id: physics-3-1-12 -->
 
 - A. 92 N
@@ -4917,7 +4953,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 0 N
 - D. 34 N
 
-**Q682.** A skydiver falls at terminal velocity. Which statement is correct?
+**Q684.** A skydiver falls at terminal velocity. Which statement is correct?
 <!-- id: physics-3-1-13 -->
 
 - A. The air resistance equals the skydiver's weight and the net force is zero
@@ -4925,7 +4961,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. The acceleration of the skydiver is 9.8 m/s² downwards
 - D. The net force on the skydiver equals the skydiver's weight
 
-**Q683.** A 1500 kg car travelling at 25 m/s brakes with a constant net braking force of 6000 N. What is its stopping distance?
+**Q685.** A 1500 kg car travelling at 25 m/s brakes with a constant net braking force of 6000 N. What is its stopping distance?
 <!-- id: physics-3-1-14 -->
 
 - A. 6.3 m
@@ -4933,7 +4969,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 156 m
 - D. 39 m
 
-**Q684.** A child pulls a 40 kg toboggan across frictionless snow with a rope that makes 30° above the horizontal and has a tension of 150 N. What is the horizontal acceleration of the toboggan?
+**Q686.** A child pulls a 40 kg toboggan across frictionless snow with a rope that makes 30° above the horizontal and has a tension of 150 N. What is the horizontal acceleration of the toboggan?
 <!-- id: physics-3-1-15 -->
 
 - A. 3.8 m/s²
@@ -4941,7 +4977,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 3.2 m/s²
 - D. 6.5 m/s²
 
-**Q685.** A locomotive pulls three identical 20 000 kg carriages along a frictionless level track with an acceleration of 0.50 m/s². What is the tension in the coupling between the first and second carriages?
+**Q687.** A locomotive pulls three identical 20 000 kg carriages along a frictionless level track with an acceleration of 0.50 m/s². What is the tension in the coupling between the first and second carriages?
 <!-- id: physics-3-1-16 -->
 
 - A. 10 000 N
@@ -4949,7 +4985,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 60 000 N
 - D. 20 000 N
 
-**Q686.** An 80 kg astronaut stands on the Moon, where g = 1.6 m/s². Which describes the astronaut's mass and weight there?
+**Q688.** An 80 kg astronaut stands on the Moon, where g = 1.6 m/s². Which describes the astronaut's mass and weight there?
 <!-- id: physics-3-1-17 -->
 
 - A. Mass 80 kg, weight 128 N
@@ -4957,7 +4993,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. Mass 80 kg, weight 784 N
 - D. Mass 13 kg, weight 784 N
 
-**Q687.** A person whose true weight is 600 N stands on bathroom scales in a lift. The scales read 500 N. The lift could be:
+**Q689.** A person whose true weight is 600 N stands on bathroom scales in a lift. The scales read 500 N. The lift could be:
 <!-- id: physics-3-1-18 -->
 
 - A. moving upwards at constant speed
@@ -4965,44 +5001,44 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. moving upwards and speeding up
 - D. moving downwards and slowing down
 
-**Q688.** A child pulls a 40 kg toboggan across level snow with a rope at 30° above the horizontal and a tension of 150 N. Calculate the normal force from the snow on the toboggan. (g = 9.8 m/s²)
+**Q690.** A child pulls a 40 kg toboggan across level snow with a rope at 30° above the horizontal and a tension of 150 N. Calculate the normal force from the snow on the toboggan. (g = 9.8 m/s²)
 <!-- id: physics-3-1-19 -->
 
 *Written answer*
 
-**Q689.** A horse pulls a cart. A student argues that by Newton's third law the cart pulls back on the horse with an equal force, so they can never move. Explain the error in this argument.
+**Q691.** A horse pulls a cart. A student argues that by Newton's third law the cart pulls back on the horse with an equal force, so they can never move. Explain the error in this argument.
 <!-- id: physics-3-1-20 -->
 
 *Written answer*
 
-**Q690.** A 65 kg passenger is in a lift moving downwards that slows down at 1.2 m/s². Calculate the normal force on the passenger. (g = 9.8 m/s²)
+**Q692.** A 65 kg passenger is in a lift moving downwards that slows down at 1.2 m/s². Calculate the normal force on the passenger. (g = 9.8 m/s²)
 <!-- id: physics-3-1-21 -->
 
 *Written answer*
 
-**Q691.** A 4.0 kg block slides down a ramp inclined at 35°, with a constant friction force of 10 N acting on it. Calculate its acceleration. (g = 9.8 m/s²)
+**Q693.** A 4.0 kg block slides down a ramp inclined at 35°, with a constant friction force of 10 N acting on it. Calculate its acceleration. (g = 9.8 m/s²)
 <!-- id: physics-3-1-22 -->
 
 *Written answer*
 
-**Q692.** Masses of 5.0 kg and 3.0 kg hang on either side of a light, frictionless pulley (an Atwood machine). Calculate the acceleration and the tension in the string. (g = 9.8 m/s²)
+**Q694.** Masses of 5.0 kg and 3.0 kg hang on either side of a light, frictionless pulley (an Atwood machine). Calculate the acceleration and the tension in the string. (g = 9.8 m/s²)
 <!-- id: physics-3-1-23 -->
 
 *Written answer*
 
-**Q693.** A student claims that while a ball thrown upwards is rising, an upward force of the throw keeps acting on it. Evaluate this claim, ignoring air resistance.
+**Q695.** A student claims that while a ball thrown upwards is rising, an upward force of the throw keeps acting on it. Evaluate this claim, ignoring air resistance.
 <!-- id: physics-3-1-24 -->
 
 *Written answer*
 
-**Q694.** A car tows a 500 kg trailer with a horizontal force of 1500 N. The trailer experiences 300 N of resistance. Calculate the trailer's acceleration.
+**Q696.** A car tows a 500 kg trailer with a horizontal force of 1500 N. The trailer experiences 300 N of resistance. Calculate the trailer's acceleration.
 <!-- id: physics-3-1-25 -->
 
 *Written answer*
 
 #### Projectile motion
 
-**Q695.** A ball rolls horizontally off a wall 4.9 m high at 3.0 m/s. How far from the base of the wall does it land? Take g = 9.8 m/s². Ignore air resistance.
+**Q697.** A ball rolls horizontally off a wall 4.9 m high at 3.0 m/s. How far from the base of the wall does it land? Take g = 9.8 m/s². Ignore air resistance.
 <!-- id: physics-3-2-1 -->
 
 - A. 1.5 m
@@ -5010,7 +5046,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 3.0 m
 - D. 14.7 m
 
-**Q696.** A stone is thrown horizontally from the top of a 20 m sea cliff. How long does it take to reach the water below? Take g = 9.8 m/s². Ignore air resistance.
+**Q698.** A stone is thrown horizontally from the top of a 20 m sea cliff. How long does it take to reach the water below? Take g = 9.8 m/s². Ignore air resistance.
 <!-- id: physics-3-2-2 -->
 
 - A. 4.1 s
@@ -5018,7 +5054,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 2.9 s
 - D. 2.0 s
 
-**Q697.** A football is kicked at 40° above the horizontal. At the highest point of its flight, ignoring air resistance:
+**Q699.** A football is kicked at 40° above the horizontal. At the highest point of its flight, ignoring air resistance:
 <!-- id: physics-3-2-3 -->
 
 - A. its velocity is horizontal and its acceleration is 9.8 m/s² downwards
@@ -5026,7 +5062,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. its velocity is zero and its acceleration is 9.8 m/s² downwards
 - D. its velocity is horizontal and its acceleration is zero
 
-**Q698.** A football is kicked from level ground at 20 m/s at 30° above the horizontal. What is its maximum height? Take g = 9.8 m/s². Ignore air resistance.
+**Q700.** A football is kicked from level ground at 20 m/s at 30° above the horizontal. What is its maximum height? Take g = 9.8 m/s². Ignore air resistance.
 <!-- id: physics-3-2-4 -->
 
 - A. 15.3 m
@@ -5034,7 +5070,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 20.4 m
 - D. 10.2 m
 
-**Q699.** A football is kicked from level ground at 20 m/s at 30° above the horizontal. What is its time of flight? Take g = 9.8 m/s². Ignore air resistance.
+**Q701.** A football is kicked from level ground at 20 m/s at 30° above the horizontal. What is its time of flight? Take g = 9.8 m/s². Ignore air resistance.
 <!-- id: physics-3-2-5 -->
 
 - A. 1.0 s
@@ -5042,7 +5078,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 2.0 s
 - D. 4.1 s
 
-**Q700.** A football is kicked from level ground at 20 m/s at 30° above the horizontal. What is its horizontal range? Take g = 9.8 m/s². Ignore air resistance.
+**Q702.** A football is kicked from level ground at 20 m/s at 30° above the horizontal. What is its horizontal range? Take g = 9.8 m/s². Ignore air resistance.
 <!-- id: physics-3-2-6 -->
 
 - A. 18 m
@@ -5050,7 +5086,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 20 m
 - D. 35 m
 
-**Q701.** Ignoring air resistance, which launch angle gives the maximum range for a projectile launched from and landing on level ground?
+**Q703.** Ignoring air resistance, which launch angle gives the maximum range for a projectile launched from and landing on level ground?
 <!-- id: physics-3-2-7 -->
 
 - A. 45°
@@ -5058,7 +5094,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 60°
 - D. 90°
 
-**Q702.** On level ground with no air resistance, which pair of launch angles gives the same range for the same launch speed?
+**Q704.** On level ground with no air resistance, which pair of launch angles gives the same range for the same launch speed?
 <!-- id: physics-3-2-8 -->
 
 - A. 25° and 55°
@@ -5066,7 +5102,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 30° and 45°
 - D. 20° and 80°
 
-**Q703.** Ignoring air resistance, how does the horizontal component of a projectile's velocity change during its flight?
+**Q705.** Ignoring air resistance, how does the horizontal component of a projectile's velocity change during its flight?
 <!-- id: physics-3-2-9 -->
 
 - A. It decreases to zero at the highest point
@@ -5074,7 +5110,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. It remains constant
 - D. It decreases uniformly throughout the flight
 
-**Q704.** From the same height and at the same instant, one ball is dropped and an identical ball is launched horizontally at 10 m/s. Ignoring air resistance, which reaches the level ground first?
+**Q706.** From the same height and at the same instant, one ball is dropped and an identical ball is launched horizontally at 10 m/s. Ignoring air resistance, which reaches the level ground first?
 <!-- id: physics-3-2-10 -->
 
 - A. The dropped ball
@@ -5082,7 +5118,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. It depends on the height of release
 - D. Both land at the same time
 
-**Q705.** A ball is thrown vertically upwards at 14.7 m/s. How long does it take to reach its highest point? Take g = 9.8 m/s². Ignore air resistance.
+**Q707.** A ball is thrown vertically upwards at 14.7 m/s. How long does it take to reach its highest point? Take g = 9.8 m/s². Ignore air resistance.
 <!-- id: physics-3-2-11 -->
 
 - A. 1.5 s
@@ -5090,7 +5126,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 0.67 s
 - D. 2.3 s
 
-**Q706.** A netball is thrown horizontally at 8.0 m/s and is in the air for 0.60 s before it is caught at a lower height. What is its speed just before it is caught? Take g = 9.8 m/s². Ignore air resistance.
+**Q708.** A netball is thrown horizontally at 8.0 m/s and is in the air for 0.60 s before it is caught at a lower height. What is its speed just before it is caught? Take g = 9.8 m/s². Ignore air resistance.
 <!-- id: physics-3-2-12 -->
 
 - A. 13.9 m/s
@@ -5098,7 +5134,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 5.9 m/s
 - D. 8.0 m/s
 
-**Q707.** An archer fires an arrow horizontally at 50 m/s at a target 25 m away. How far does the arrow drop vertically before it hits the target? Take g = 9.8 m/s². Ignore air resistance.
+**Q709.** An archer fires an arrow horizontally at 50 m/s at a target 25 m away. How far does the arrow drop vertically before it hits the target? Take g = 9.8 m/s². Ignore air resistance.
 <!-- id: physics-3-2-13 -->
 
 - A. 2.5 m
@@ -5106,7 +5142,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 1.2 m
 - D. 0.61 m
 
-**Q708.** A projectile is launched on level ground. If the launch speed is doubled with the angle unchanged, the range (ignoring air resistance) is:
+**Q710.** A projectile is launched on level ground. If the launch speed is doubled with the angle unchanged, the range (ignoring air resistance) is:
 <!-- id: physics-3-2-14 -->
 
 - A. multiplied by 2
@@ -5114,7 +5150,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. multiplied by 8
 - D. multiplied by 4
 
-**Q709.** A ball is launched at 15 m/s at 60° above the horizontal. What is the horizontal component of its velocity?
+**Q711.** A ball is launched at 15 m/s at 60° above the horizontal. What is the horizontal component of its velocity?
 <!-- id: physics-3-2-15 -->
 
 - A. 7.5 m/s
@@ -5122,7 +5158,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 15 m/s
 - D. 9.8 m/s
 
-**Q710.** A projectile is launched with a horizontal velocity component of 15 m/s and a vertical component of 20 m/s upwards. What is its speed 1.0 s after launch? Take g = 9.8 m/s². Ignore air resistance.
+**Q712.** A projectile is launched with a horizontal velocity component of 15 m/s and a vertical component of 20 m/s upwards. What is its speed 1.0 s after launch? Take g = 9.8 m/s². Ignore air resistance.
 <!-- id: physics-3-2-16 -->
 
 - A. 25 m/s
@@ -5130,7 +5166,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 15 m/s
 - D. 10 m/s
 
-**Q711.** Compared with the ideal (no air resistance) path, a real cricket ball hit at the same speed and angle has:
+**Q713.** Compared with the ideal (no air resistance) path, a real cricket ball hit at the same speed and angle has:
 <!-- id: physics-3-2-17 -->
 
 - A. the same range but a lower maximum height
@@ -5138,7 +5174,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. a lower maximum height, a shorter range and a steeper descent than ascent
 - D. a symmetrical path with a shorter range
 
-**Q712.** A marble rolls horizontally off a bench 1.8 m high and lands 1.2 m from the base of the bench. What was its launch speed? Take g = 9.8 m/s². Ignore air resistance.
+**Q714.** A marble rolls horizontally off a bench 1.8 m high and lands 1.2 m from the base of the bench. What was its launch speed? Take g = 9.8 m/s². Ignore air resistance.
 <!-- id: physics-3-2-18 -->
 
 - A. 0.67 m/s
@@ -5146,44 +5182,44 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 1.2 m/s
 - D. 2.0 m/s
 
-**Q713.** A golf ball is hit from level ground at 30 m/s at 40° above the horizontal. Ignoring air resistance, calculate its horizontal range. (g = 9.8 m/s²)
+**Q715.** A golf ball is hit from level ground at 30 m/s at 40° above the horizontal. Ignoring air resistance, calculate its horizontal range. (g = 9.8 m/s²)
 <!-- id: physics-3-2-19 -->
 
 *Written answer*
 
-**Q714.** A golf ball is hit from level ground at 30 m/s at 40° above the horizontal. Ignoring air resistance, calculate its maximum height. (g = 9.8 m/s²)
+**Q716.** A golf ball is hit from level ground at 30 m/s at 40° above the horizontal. Ignoring air resistance, calculate its maximum height. (g = 9.8 m/s²)
 <!-- id: physics-3-2-20 -->
 
 *Written answer*
 
-**Q715.** A stone is thrown horizontally at 12 m/s from a bridge 45 m above a river. Calculate the time of flight and how far horizontally it travels. (g = 9.8 m/s², ignore air resistance)
+**Q717.** A stone is thrown horizontally at 12 m/s from a bridge 45 m above a river. Calculate the time of flight and how far horizontally it travels. (g = 9.8 m/s², ignore air resistance)
 <!-- id: physics-3-2-21 -->
 
 *Written answer*
 
-**Q716.** Explain why the horizontal and vertical components of a projectile's motion can be analysed independently.
+**Q718.** Explain why the horizontal and vertical components of a projectile's motion can be analysed independently.
 <!-- id: physics-3-2-22 -->
 
 *Written answer*
 
-**Q717.** A footballer kicks a ball at 18 m/s at 35° above the horizontal towards goalposts 20 m away. The crossbar is 2.4 m high. Determine whether the ball passes over the crossbar. (g = 9.8 m/s², ignore air resistance)
+**Q719.** A footballer kicks a ball at 18 m/s at 35° above the horizontal towards goalposts 20 m away. The crossbar is 2.4 m high. Determine whether the ball passes over the crossbar. (g = 9.8 m/s², ignore air resistance)
 <!-- id: physics-3-2-23 -->
 
 *Written answer*
 
-**Q718.** A stone is thrown horizontally at 12 m/s from a bridge 45 m above a river. Calculate its speed just before it hits the water. (g = 9.8 m/s², ignore air resistance)
+**Q720.** A stone is thrown horizontally at 12 m/s from a bridge 45 m above a river. Calculate its speed just before it hits the water. (g = 9.8 m/s², ignore air resistance)
 <!-- id: physics-3-2-24 -->
 
 *Written answer*
 
-**Q719.** A supply package is released from a plane flying horizontally at 60 m/s at an altitude of 500 m. Ignoring air resistance, how far horizontally from the release point does it land, and where is the plane when it lands?
+**Q721.** A supply package is released from a plane flying horizontally at 60 m/s at an altitude of 500 m. Ignoring air resistance, how far horizontally from the release point does it land, and where is the plane when it lands?
 <!-- id: physics-3-2-25 -->
 
 *Written answer*
 
 #### Circular motion and banked tracks
 
-**Q720.** A 1000 kg car travels around a flat curve of radius 50 m at a constant 15 m/s. What friction force is needed to keep it on the curve?
+**Q722.** A 1000 kg car travels around a flat curve of radius 50 m at a constant 15 m/s. What friction force is needed to keep it on the curve?
 <!-- id: physics-3-3-1 -->
 
 - A. 4500 N
@@ -5191,7 +5227,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 9800 N
 - D. 2250 N
 
-**Q721.** For an object in uniform circular motion, the net force on it is directed:
+**Q723.** For an object in uniform circular motion, the net force on it is directed:
 <!-- id: physics-3-3-2 -->
 
 - A. tangent to the circle in the direction of motion
@@ -5199,7 +5235,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. away from the centre of the circle
 - D. in the direction of the velocity
 
-**Q722.** A ball on a string moves in a horizontal circle of radius 0.80 m, completing 2.0 revolutions per second. What is its speed?
+**Q724.** A ball on a string moves in a horizontal circle of radius 0.80 m, completing 2.0 revolutions per second. What is its speed?
 <!-- id: physics-3-3-3 -->
 
 - A. 2.5 m/s
@@ -5207,7 +5243,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 10 m/s
 - D. 1.6 m/s
 
-**Q723.** A curve of radius 80 m is to be banked so that cars at 20 m/s need no sideways friction. What is the required banking angle? Take g = 9.8 m/s².
+**Q725.** A curve of radius 80 m is to be banked so that cars at 20 m/s need no sideways friction. What is the required banking angle? Take g = 9.8 m/s².
 <!-- id: physics-3-3-4 -->
 
 - A. 63°
@@ -5215,7 +5251,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 14°
 - D. 27°
 
-**Q724.** A car travels around a banked track at exactly its design speed. Ignoring friction and air resistance, which statement is correct?
+**Q726.** A car travels around a banked track at exactly its design speed. Ignoring friction and air resistance, which statement is correct?
 <!-- id: physics-3-3-5 -->
 
 - A. Only gravity and the normal force act, and their resultant is horizontal towards the centre
@@ -5223,7 +5259,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. The resultant force points down the slope of the bank
 - D. The normal force equals the car's weight
 
-**Q725.** A car rounds a flat curve. If its speed doubles while the radius stays the same, the required centripetal force:
+**Q727.** A car rounds a flat curve. If its speed doubles while the radius stays the same, the required centripetal force:
 <!-- id: physics-3-3-6 -->
 
 - A. is multiplied by 2
@@ -5231,7 +5267,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. is unchanged
 - D. is halved
 
-**Q726.** A roller-coaster car goes over the top of a vertical loop of radius 10 m on the inside of the track. What is the minimum speed at the top for it to stay in contact with the track? Take g = 9.8 m/s².
+**Q728.** A roller-coaster car goes over the top of a vertical loop of radius 10 m on the inside of the track. What is the minimum speed at the top for it to stay in contact with the track? Take g = 9.8 m/s².
 <!-- id: physics-3-3-7 -->
 
 - A. 14 m/s
@@ -5239,7 +5275,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 9.9 m/s
 - D. 98 m/s
 
-**Q727.** A 0.50 kg ball on a string moves in a vertical circle of radius 1.0 m. At the lowest point its speed is 6.0 m/s. What is the tension in the string there? Take g = 9.8 m/s².
+**Q729.** A 0.50 kg ball on a string moves in a vertical circle of radius 1.0 m. At the lowest point its speed is 6.0 m/s. What is the tension in the string there? Take g = 9.8 m/s².
 <!-- id: physics-3-3-8 -->
 
 - A. 13.1 N
@@ -5247,7 +5283,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 4.9 N
 - D. 22.9 N
 
-**Q728.** A 1200 kg car drives over the top of a hump-back bridge (radius 40 m) at 12 m/s. What is the normal force on the car at the top? Take g = 9.8 m/s².
+**Q730.** A 1200 kg car drives over the top of a hump-back bridge (radius 40 m) at 12 m/s. What is the normal force on the car at the top? Take g = 9.8 m/s².
 <!-- id: physics-3-3-9 -->
 
 - A. 7440 N
@@ -5255,7 +5291,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 11 760 N
 - D. 4320 N
 
-**Q729.** What is the maximum speed at which a car can drive over the top of a hump of radius 25 m without losing contact with the road? Take g = 9.8 m/s².
+**Q731.** What is the maximum speed at which a car can drive over the top of a hump of radius 25 m without losing contact with the road? Take g = 9.8 m/s².
 <!-- id: physics-3-3-10 -->
 
 - A. 22.1 m/s
@@ -5263,7 +5299,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 245 m/s
 - D. 7.8 m/s
 
-**Q730.** A car travels around a banked curve faster than its design speed. Sideways friction on the tyres acts:
+**Q732.** A car travels around a banked curve faster than its design speed. Sideways friction on the tyres acts:
 <!-- id: physics-3-3-11 -->
 
 - A. up the slope of the bank
@@ -5271,7 +5307,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. down the slope of the bank
 - D. nowhere, because friction is not needed
 
-**Q731.** A cyclist rounds a flat corner at Albert Park. What provides the centripetal force?
+**Q733.** A cyclist rounds a flat corner at Albert Park. What provides the centripetal force?
 <!-- id: physics-3-3-12 -->
 
 - A. The normal force from the road
@@ -5279,7 +5315,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. A centrifugal force acting outwards
 - D. Friction between the tyres and the road
 
-**Q732.** Which statement about an object in uniform circular motion is correct?
+**Q734.** Which statement about an object in uniform circular motion is correct?
 <!-- id: physics-3-3-13 -->
 
 - A. Its speed is constant but its velocity is changing
@@ -5287,7 +5323,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. Both its speed and its velocity are constant
 - D. Its acceleration is zero because its speed is constant
 
-**Q733.** A curve of radius 120 m is banked at 15°. What is its design speed? Take g = 9.8 m/s².
+**Q735.** A curve of radius 120 m is banked at 15°. What is its design speed? Take g = 9.8 m/s².
 <!-- id: physics-3-3-14 -->
 
 - A. 34.3 m/s
@@ -5295,7 +5331,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 315 m/s
 - D. 8.9 m/s
 
-**Q734.** A child rides a merry-go-round at a radius of 2.0 m and completes one revolution every 4.0 s. What is the child's centripetal acceleration?
+**Q736.** A child rides a merry-go-round at a radius of 2.0 m and completes one revolution every 4.0 s. What is the child's centripetal acceleration?
 <!-- id: physics-3-3-15 -->
 
 - A. 3.1 m/s²
@@ -5303,7 +5339,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 4.9 m/s²
 - D. 1.6 m/s²
 
-**Q735.** A car rounds a frictionless banked curve at its design speed. Compared with the car's weight, the normal force on the car is:
+**Q737.** A car rounds a frictionless banked curve at its design speed. Compared with the car's weight, the normal force on the car is:
 <!-- id: physics-3-3-16 -->
 
 - A. equal to the weight
@@ -5311,7 +5347,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. zero
 - D. greater than the weight
 
-**Q736.** A hammer thrower releases the hammer while it moves in a horizontal circle. Immediately after release, viewed from above, the hammer moves:
+**Q738.** A hammer thrower releases the hammer while it moves in a horizontal circle. Immediately after release, viewed from above, the hammer moves:
 <!-- id: physics-3-3-17 -->
 
 - A. along the tangent to the circle at the point of release
@@ -5319,7 +5355,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. along a curved path continuing the circle
 - D. radially inwards towards the centre
 
-**Q737.** A 0.20 kg puck on a frictionless air table moves in a circle of radius 0.50 m on a string, with a period of 0.50 s. What is the tension in the string?
+**Q739.** A 0.20 kg puck on a frictionless air table moves in a circle of radius 0.50 m on a string, with a period of 0.50 s. What is the tension in the string?
 <!-- id: physics-3-3-18 -->
 
 - A. 2.5 N
@@ -5327,44 +5363,44 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 7.9 N
 - D. 2.0 N
 
-**Q738.** Show that the design speed v of a curve of radius r banked at angle θ satisfies tan θ = v²/(rg).
+**Q740.** Show that the design speed v of a curve of radius r banked at angle θ satisfies tan θ = v²/(rg).
 <!-- id: physics-3-3-19 -->
 
 *Written answer*
 
-**Q739.** A racetrack curve of radius 200 m is to be designed for cars travelling at 108 km/h. Calculate the banking angle needed so that no friction is required. (g = 9.8 m/s²)
+**Q741.** A racetrack curve of radius 200 m is to be designed for cars travelling at 108 km/h. Calculate the banking angle needed so that no friction is required. (g = 9.8 m/s²)
 <!-- id: physics-3-3-20 -->
 
 *Written answer*
 
-**Q740.** A student swings a bucket of water in a vertical circle of radius 0.90 m. Calculate the minimum speed at the top so the water stays in the bucket, and explain why. (g = 9.8 m/s²)
+**Q742.** A student swings a bucket of water in a vertical circle of radius 0.90 m. Calculate the minimum speed at the top so the water stays in the bucket, and explain why. (g = 9.8 m/s²)
 <!-- id: physics-3-3-21 -->
 
 *Written answer*
 
-**Q741.** A 60 kg passenger passes through the bottom of a roller-coaster loop of radius 12 m at 20 m/s. Calculate the normal force on the passenger. (g = 9.8 m/s²)
+**Q743.** A 60 kg passenger passes through the bottom of a roller-coaster loop of radius 12 m at 20 m/s. Calculate the normal force on the passenger. (g = 9.8 m/s²)
 <!-- id: physics-3-3-22 -->
 
 *Written answer*
 
-**Q742.** A 1400 kg car rounds a flat curve of radius 40 m. The maximum sideways friction available is 7000 N. Calculate the maximum speed for the curve.
+**Q744.** A 1400 kg car rounds a flat curve of radius 40 m. The maximum sideways friction available is 7000 N. Calculate the maximum speed for the curve.
 <!-- id: physics-3-3-23 -->
 
 *Written answer*
 
-**Q743.** Passengers in a car going around a sharp corner feel 'thrown outwards'. Explain why this is not caused by a real outward force.
+**Q745.** Passengers in a car going around a sharp corner feel 'thrown outwards'. Explain why this is not caused by a real outward force.
 <!-- id: physics-3-3-24 -->
 
 *Written answer*
 
-**Q744.** A 1500 kg car travels around a banked curve of radius 100 m at its design speed of 25 m/s. State the magnitude and direction of the net force on the car.
+**Q746.** A 1500 kg car travels around a banked curve of radius 100 m at its design speed of 25 m/s. State the magnitude and direction of the net force on the car.
 <!-- id: physics-3-3-25 -->
 
 *Written answer*
 
 #### Momentum, impulse, work and energy
 
-**Q745.** A 0.16 kg cricket ball travelling at 30 m/s is hit straight back at 40 m/s. What is the magnitude of the impulse on the ball?
+**Q747.** A 0.16 kg cricket ball travelling at 30 m/s is hit straight back at 40 m/s. What is the magnitude of the impulse on the ball?
 <!-- id: physics-3-4-1 -->
 
 - A. 1.6 N s
@@ -5372,7 +5408,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 11.2 N s
 - D. 6.4 N s
 
-**Q746.** A 58 g tennis ball hits a racquet at 20 m/s and leaves in the opposite direction at 30 m/s. The contact time is 5.0 ms. What is the average force on the ball?
+**Q748.** A 58 g tennis ball hits a racquet at 20 m/s and leaves in the opposite direction at 30 m/s. The contact time is 5.0 ms. What is the average force on the ball?
 <!-- id: physics-3-4-2 -->
 
 - A. 116 N
@@ -5380,7 +5416,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 232 N
 - D. 580 N
 
-**Q747.** A 1200 kg car travelling at 15 m/s collides with a stationary 800 kg car, and they lock together. What is their speed just after the collision?
+**Q749.** A 1200 kg car travelling at 15 m/s collides with a stationary 800 kg car, and they lock together. What is their speed just after the collision?
 <!-- id: physics-3-4-3 -->
 
 - A. 9.0 m/s
@@ -5388,7 +5424,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 6.0 m/s
 - D. 7.5 m/s
 
-**Q748.** A 1200 kg car at 15 m/s collides with a stationary 800 kg car and they move off together at 9.0 m/s. How much kinetic energy is transformed in the collision?
+**Q750.** A 1200 kg car at 15 m/s collides with a stationary 800 kg car and they move off together at 9.0 m/s. How much kinetic energy is transformed in the collision?
 <!-- id: physics-3-4-4 -->
 
 - A. 81 000 J
@@ -5396,7 +5432,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 135 000 J
 - D. 0 J
 
-**Q749.** Which statement best describes an elastic collision?
+**Q751.** Which statement best describes an elastic collision?
 <!-- id: physics-3-4-5 -->
 
 - A. Momentum is conserved but kinetic energy is not
@@ -5404,7 +5440,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. Both momentum and total kinetic energy are conserved
 - D. The objects stick together after colliding
 
-**Q750.** Car airbags reduce injuries in a crash mainly because they:
+**Q752.** Car airbags reduce injuries in a crash mainly because they:
 <!-- id: physics-3-4-6 -->
 
 - A. reduce the occupant's change in momentum
@@ -5412,7 +5448,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. reduce the occupant's kinetic energy before the crash
 - D. increase the time over which the occupant's momentum changes, reducing the average force
 
-**Q751.** A shopper pushes a 30 kg trolley 15 m across a level car park with a constant 80 N force directed 20° below the horizontal. How much work does this force do on the trolley?
+**Q753.** A shopper pushes a 30 kg trolley 15 m across a level car park with a constant 80 N force directed 20° below the horizontal. How much work does this force do on the trolley?
 <!-- id: physics-3-4-7 -->
 
 - A. 1.1 kJ
@@ -5420,7 +5456,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 0.41 kJ
 - D. 4.4 kJ
 
-**Q752.** A spring with spring constant 200 N/m is compressed by 0.15 m. How much elastic potential energy does it store?
+**Q754.** A spring with spring constant 200 N/m is compressed by 0.15 m. How much elastic potential energy does it store?
 <!-- id: physics-3-4-8 -->
 
 - A. 4.5 J
@@ -5428,7 +5464,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 30 J
 - D. 15 J
 
-**Q753.** A ball is dropped from rest from a height of 5.0 m. What is its speed just before it hits the ground? Take g = 9.8 m/s². Ignore air resistance.
+**Q755.** A ball is dropped from rest from a height of 5.0 m. What is its speed just before it hits the ground? Take g = 9.8 m/s². Ignore air resistance.
 <!-- id: physics-3-4-9 -->
 
 - A. 7.0 m/s
@@ -5436,7 +5472,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 9.9 m/s
 - D. 98 m/s
 
-**Q754.** A 4.0 kg rifle fires a 10 g bullet horizontally at 400 m/s. What is the rifle's recoil speed?
+**Q756.** A 4.0 kg rifle fires a 10 g bullet horizontally at 400 m/s. What is the rifle's recoil speed?
 <!-- id: physics-3-4-10 -->
 
 - A. 0.10 m/s
@@ -5444,7 +5480,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 100 m/s
 - D. 1.0 m/s
 
-**Q755.** The impulse acting on an object is equal to:
+**Q757.** The impulse acting on an object is equal to:
 <!-- id: physics-3-4-11 -->
 
 - A. its change in momentum
@@ -5452,7 +5488,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. the force divided by the time
 - D. its final momentum multiplied by the time
 
-**Q756.** A lift raises an 800 kg load 20 m at constant speed in 16 s. What is the minimum average power output of the lift motor? Take g = 9.8 m/s².
+**Q758.** A lift raises an 800 kg load 20 m at constant speed in 16 s. What is the minimum average power output of the lift motor? Take g = 9.8 m/s².
 <!-- id: physics-3-4-12 -->
 
 - A. 1.0 kW
@@ -5460,7 +5496,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 157 kW
 - D. 4.9 kW
 
-**Q757.** A 0.50 kg mass hung from a spring stretches it by 4.9 cm. What is the spring constant? Take g = 9.8 m/s².
+**Q759.** A 0.50 kg mass hung from a spring stretches it by 4.9 cm. What is the spring constant? Take g = 9.8 m/s².
 <!-- id: physics-3-4-13 -->
 
 - A. 10 N/m
@@ -5468,7 +5504,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 100 N/m
 - D. 1000 N/m
 
-**Q758.** A 50 kg skateboarder rolls at 3.0 m/s at the bottom of a frictionless ramp. What maximum height can they reach up the ramp? Take g = 9.8 m/s².
+**Q760.** A 50 kg skateboarder rolls at 3.0 m/s at the bottom of a frictionless ramp. What maximum height can they reach up the ramp? Take g = 9.8 m/s².
 <!-- id: physics-3-4-14 -->
 
 - A. 0.92 m
@@ -5476,7 +5512,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 0.31 m
 - D. 0.46 m
 
-**Q759.** Two ice skaters of mass 60 kg and 40 kg stand at rest and push off each other. The 40 kg skater moves off at 3.0 m/s. What is the speed of the 60 kg skater?
+**Q761.** Two ice skaters of mass 60 kg and 40 kg stand at rest and push off each other. The 40 kg skater moves off at 3.0 m/s. What is the speed of the 60 kg skater?
 <!-- id: physics-3-4-15 -->
 
 - A. 2.0 m/s
@@ -5484,7 +5520,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 4.5 m/s
 - D. 1.2 m/s
 
-**Q760.** The total momentum of a system of colliding objects is conserved when:
+**Q762.** The total momentum of a system of colliding objects is conserved when:
 <!-- id: physics-3-4-16 -->
 
 - A. the collision is elastic
@@ -5492,7 +5528,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. the objects stick together
 - D. the objects have equal masses
 
-**Q761.** A car's braking force is constant. If the car's initial speed is doubled, its braking distance:
+**Q763.** A car's braking force is constant. If the car's initial speed is doubled, its braking distance:
 <!-- id: physics-3-4-17 -->
 
 - A. is multiplied by 2
@@ -5500,7 +5536,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. is multiplied by 4
 - D. is multiplied by √2
 
-**Q762.** An object of mass 3.0 kg has a momentum of 12 kg m/s. What is its kinetic energy?
+**Q764.** An object of mass 3.0 kg has a momentum of 12 kg m/s. What is its kinetic energy?
 <!-- id: physics-3-4-18 -->
 
 - A. 18 J
@@ -5508,37 +5544,37 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 4.0 J
 - D. 24 J
 
-**Q763.** A 3000 kg truck travelling at 10 m/s collides with a stationary 1000 kg car. Immediately after, the car moves forward at 12 m/s. Calculate the truck's velocity after the collision and determine whether the collision is elastic.
+**Q765.** A 3000 kg truck travelling at 10 m/s collides with a stationary 1000 kg car. Immediately after, the car moves forward at 12 m/s. Calculate the truck's velocity after the collision and determine whether the collision is elastic.
 <!-- id: physics-3-4-19 -->
 
 *Written answer*
 
-**Q764.** Explain how the crumple zones of a car reduce the force on occupants in a collision.
+**Q766.** Explain how the crumple zones of a car reduce the force on occupants in a collision.
 <!-- id: physics-3-4-20 -->
 
 *Written answer*
 
-**Q765.** A toy launcher uses a spring with k = 400 N/m compressed by 0.10 m to fire a 50 g ball horizontally. Assuming all the elastic energy becomes kinetic energy, calculate the launch speed.
+**Q767.** A toy launcher uses a spring with k = 400 N/m compressed by 0.10 m to fire a 50 g ball horizontally. Assuming all the elastic energy becomes kinetic energy, calculate the launch speed.
 <!-- id: physics-3-4-21 -->
 
 *Written answer*
 
-**Q766.** A 1500 kg car travelling at 20 m/s brakes to a stop in 40 m. Calculate the average braking force using energy methods.
+**Q768.** A 1500 kg car travelling at 20 m/s brakes to a stop in 40 m. Calculate the average braking force using energy methods.
 <!-- id: physics-3-4-22 -->
 
 *Written answer*
 
-**Q767.** A 0.45 kg football is kicked from rest to 25 m/s, with a foot contact time of 0.010 s. Calculate the impulse on the ball and the average force from the foot.
+**Q769.** A 0.45 kg football is kicked from rest to 25 m/s, with a foot contact time of 0.010 s. Calculate the impulse on the ball and the average force from the foot.
 <!-- id: physics-3-4-23 -->
 
 *Written answer*
 
-**Q768.** A 2.0 kg ball is dropped from 1.25 m onto a floor and rebounds to 0.80 m. Calculate the impulse the floor exerts on the ball. (g = 9.8 m/s², ignore air resistance)
+**Q770.** A 2.0 kg ball is dropped from 1.25 m onto a floor and rebounds to 0.80 m. Calculate the impulse the floor exerts on the ball. (g = 9.8 m/s², ignore air resistance)
 <!-- id: physics-3-4-24 -->
 
 *Written answer*
 
-**Q769.** A 500 kg roller-coaster car starts from rest at a height of 30 m. Ignoring friction, calculate its speed at a point 12 m above the ground. (g = 9.8 m/s²)
+**Q771.** A 500 kg roller-coaster car starts from rest at a height of 30 m. Ignoring friction, calculate its speed at a point 12 m above the ground. (g = 9.8 m/s²)
 <!-- id: physics-3-4-25 -->
 
 *Written answer*
@@ -5547,7 +5583,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 
 #### Einstein's postulates and frames
 
-**Q770.** Which statement is Einstein's first postulate of special relativity?
+**Q772.** Which statement is Einstein's first postulate of special relativity?
 <!-- id: physics-4-1-1 -->
 
 - A. The laws of physics are the same in all inertial frames of reference.
@@ -5555,7 +5591,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. Time passes at the same rate for all observers.
 - D. All motion is measured relative to a stationary aether.
 
-**Q771.** Which statement is Einstein's second postulate of special relativity?
+**Q773.** Which statement is Einstein's second postulate of special relativity?
 <!-- id: physics-4-1-2 -->
 
 - A. The speed of light is greatest when the source moves towards the observer.
@@ -5563,7 +5599,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. Light requires a medium, the aether, to travel through.
 - D. Nothing can travel at the speed of light, including light pulses in a vacuum.
 
-**Q772.** An inertial frame of reference is best described as a frame that is:
+**Q774.** An inertial frame of reference is best described as a frame that is:
 <!-- id: physics-4-1-3 -->
 
 - A. moving at the speed of light
@@ -5571,7 +5607,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. not accelerating, so it is at rest or moving at constant velocity
 - D. attached to the surface of the Sun
 
-**Q773.** Which of the following is NOT an inertial frame of reference?
+**Q775.** Which of the following is NOT an inertial frame of reference?
 <!-- id: physics-4-1-4 -->
 
 - A. A V/Line train travelling at a constant 120 km/h on a straight, level track
@@ -5579,7 +5615,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. A laboratory bench at rest on Earth's surface (to a good approximation)
 - D. A car travelling around a roundabout at a constant 40 km/h
 
-**Q774.** A spacecraft travelling at 0.50c relative to Earth switches on a forward-pointing headlight. What speed does an observer on Earth measure for the light from the headlight?
+**Q776.** A spacecraft travelling at 0.50c relative to Earth switches on a forward-pointing headlight. What speed does an observer on Earth measure for the light from the headlight?
 <!-- id: physics-4-1-5 -->
 
 - A. c
@@ -5587,7 +5623,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 0.50c
 - D. 1.25c
 
-**Q775.** A spacecraft moves away from Earth at 0.60c. A laser pulse is sent from Earth towards the spacecraft. What speed does the astronaut on the spacecraft measure for the pulse?
+**Q777.** A spacecraft moves away from Earth at 0.60c. A laser pulse is sent from Earth towards the spacecraft. What speed does the astronaut on the spacecraft measure for the pulse?
 <!-- id: physics-4-1-6 -->
 
 - A. 0.40c
@@ -5595,7 +5631,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 1.6c
 - D. 0.60c
 
-**Q776.** What was the main result of the Michelson–Morley experiment?
+**Q778.** What was the main result of the Michelson–Morley experiment?
 <!-- id: physics-4-1-7 -->
 
 - A. A clear fringe shift showed Earth's speed through the aether.
@@ -5603,7 +5639,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. No significant change in the interference pattern was detected, giving no evidence for the aether.
 - D. Light was shown to need a medium to travel through space.
 
-**Q777.** A passenger in a windowless carriage of a smoothly moving train at constant velocity drops a ball and does several pendulum experiments. Which idea explains why she cannot work out the train's speed from these experiments?
+**Q779.** A passenger in a windowless carriage of a smoothly moving train at constant velocity drops a ball and does several pendulum experiments. Which idea explains why she cannot work out the train's speed from these experiments?
 <!-- id: physics-4-1-8 -->
 
 - A. Light travels at the same speed for all observers.
@@ -5611,7 +5647,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. Time dilation makes moving clocks run slow.
 - D. The laws of physics are the same in all inertial frames.
 
-**Q778.** Proper time is the time interval between two events measured by an observer:
+**Q780.** Proper time is the time interval between two events measured by an observer:
 <!-- id: physics-4-1-9 -->
 
 - A. for whom the two events occur at the same location
@@ -5619,7 +5655,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. who is moving fastest relative to the events
 - D. who measures the longest time interval
 
-**Q779.** The proper length of an object is the length measured by an observer who is:
+**Q781.** The proper length of an object is the length measured by an observer who is:
 <!-- id: physics-4-1-10 -->
 
 - A. moving at the speed of light relative to the object
@@ -5627,7 +5663,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. moving at the greatest possible speed relative to the object
 - D. on Earth, regardless of the object's motion
 
-**Q780.** Two lightning strikes hit opposite ends of a long platform at the same time according to an observer standing on the platform. According to a passenger on a train moving rapidly along the platform, the strikes:
+**Q782.** Two lightning strikes hit opposite ends of a long platform at the same time according to an observer standing on the platform. According to a passenger on a train moving rapidly along the platform, the strikes:
 <!-- id: physics-4-1-11 -->
 
 - A. must occur at the same time, because simultaneity is absolute
@@ -5635,7 +5671,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. generally do not occur at the same time
 - D. occur at the same location
 
-**Q781.** Einstein was motivated to develop special relativity mainly by a conflict between:
+**Q783.** Einstein was motivated to develop special relativity mainly by a conflict between:
 <!-- id: physics-4-1-12 -->
 
 - A. Newton's law of gravitation and Kepler's laws
@@ -5643,7 +5679,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. Ohm's law and Faraday's law
 - D. Maxwell's electromagnetism, which predicts a fixed speed of light, and Galilean (classical) velocity addition
 
-**Q782.** Which quantity is measured to have the same value by all inertial observers, whatever their relative motion?
+**Q784.** Which quantity is measured to have the same value by all inertial observers, whatever their relative motion?
 <!-- id: physics-4-1-13 -->
 
 - A. The speed of light in a vacuum
@@ -5651,7 +5687,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. The length of a moving rod
 - D. The kinetic energy of a moving particle
 
-**Q783.** A train moves at speed v relative to the track and turns on its headlight. Using classical Galilean velocity addition, what speed would a trackside observer be predicted to measure for the light?
+**Q785.** A train moves at speed v relative to the track and turns on its headlight. Using classical Galilean velocity addition, what speed would a trackside observer be predicted to measure for the light?
 <!-- id: physics-4-1-14 -->
 
 - A. c
@@ -5659,7 +5695,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. c − v
 - D. v
 
-**Q784.** Which statement about the scope of special relativity is correct?
+**Q786.** Which statement about the scope of special relativity is correct?
 <!-- id: physics-4-1-15 -->
 
 - A. It applies only to objects travelling at the speed of light.
@@ -5667,7 +5703,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. It applies to observers in inertial (non-accelerating) frames of reference.
 - D. It applies only to light and not to objects with mass.
 
-**Q785.** Why can a spacecraft with mass never reach the speed of light?
+**Q787.** Why can a spacecraft with mass never reach the speed of light?
 <!-- id: physics-4-1-16 -->
 
 - A. Air resistance in space becomes too large near c.
@@ -5675,7 +5711,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. The second postulate forbids objects from moving faster than 0.5c.
 - D. As v approaches c, the Lorentz factor approaches infinity, so infinite energy would be needed.
 
-**Q786.** Lightning strikes the front and back of a fast-moving train simultaneously in the ground frame. A passenger sits exactly in the middle of the train. According to the passenger, which strike happened first?
+**Q788.** Lightning strikes the front and back of a fast-moving train simultaneously in the ground frame. A passenger sits exactly in the middle of the train. According to the passenger, which strike happened first?
 <!-- id: physics-4-1-17 -->
 
 - A. The strike at the front of the train
@@ -5683,7 +5719,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. Both strikes happened at the same time
 - D. It depends on the colour of the light
 
-**Q787.** Astronauts Ana and Ben pass each other in spacecraft moving at constant relative velocity. Each finds that the other's clock is running slow. Which statement is correct?
+**Q789.** Astronauts Ana and Ben pass each other in spacecraft moving at constant relative velocity. Each finds that the other's clock is running slow. Which statement is correct?
 <!-- id: physics-4-1-18 -->
 
 - A. Only Ana is correct, because she noticed it first.
@@ -5691,44 +5727,44 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. Only the faster astronaut is correct.
 - D. Neither is correct, because clocks always run at the same rate.
 
-**Q788.** State Einstein's two postulates of special relativity.
+**Q790.** State Einstein's two postulates of special relativity.
 <!-- id: physics-4-1-19 -->
 
 *Written answer*
 
-**Q789.** Galileo argued that a person below deck on a smoothly sailing ship could not tell whether the ship was moving. Explain this using Einstein's first postulate.
+**Q791.** Galileo argued that a person below deck on a smoothly sailing ship could not tell whether the ship was moving. Explain this using Einstein's first postulate.
 <!-- id: physics-4-1-20 -->
 
 *Written answer*
 
-**Q790.** Explain the significance of the null result of the Michelson–Morley experiment for the development of special relativity.
+**Q792.** Explain the significance of the null result of the Michelson–Morley experiment for the development of special relativity.
 <!-- id: physics-4-1-21 -->
 
 *Written answer*
 
-**Q791.** Use the second postulate to explain why two events that are simultaneous for one observer may not be simultaneous for another observer moving relative to the first.
+**Q793.** Use the second postulate to explain why two events that are simultaneous for one observer may not be simultaneous for another observer moving relative to the first.
 <!-- id: physics-4-1-22 -->
 
 *Written answer*
 
-**Q792.** Distinguish between an inertial and a non-inertial frame of reference, giving one example of each.
+**Q794.** Distinguish between an inertial and a non-inertial frame of reference, giving one example of each.
 <!-- id: physics-4-1-23 -->
 
 *Written answer*
 
-**Q793.** A rocket travelling at 0.90c relative to Earth fires a laser pulse backwards, towards Earth. What speed does an observer on Earth measure for the pulse? Justify your answer.
+**Q795.** A rocket travelling at 0.90c relative to Earth fires a laser pulse backwards, towards Earth. What speed does an observer on Earth measure for the pulse? Justify your answer.
 <!-- id: physics-4-1-24 -->
 
 *Written answer*
 
-**Q794.** Two observers in relative motion measure different time intervals between the same pair of events. Explain why this is not a contradiction.
+**Q796.** Two observers in relative motion measure different time intervals between the same pair of events. Explain why this is not a contradiction.
 <!-- id: physics-4-1-25 -->
 
 *Written answer*
 
 #### Time dilation and Lorentz factor
 
-**Q795.** What is the Lorentz factor γ for a spacecraft travelling at 0.60c?
+**Q797.** What is the Lorentz factor γ for a spacecraft travelling at 0.60c?
 <!-- id: physics-4-2-1 -->
 
 - A. 1.25
@@ -5736,7 +5772,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 1.67
 - D. 1.6
 
-**Q796.** What is the Lorentz factor γ for a particle travelling at 0.80c?
+**Q798.** What is the Lorentz factor γ for a particle travelling at 0.80c?
 <!-- id: physics-4-2-2 -->
 
 - A. 0.60
@@ -5744,7 +5780,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 1.25
 - D. 2.78
 
-**Q797.** A proton in the Australian Synchrotron's booster ring is travelling at 0.99c. What is its Lorentz factor, to three significant figures?
+**Q799.** A proton in the Australian Synchrotron's booster ring is travelling at 0.99c. What is its Lorentz factor, to three significant figures?
 <!-- id: physics-4-2-3 -->
 
 - A. 1.01
@@ -5752,7 +5788,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 7.09
 - D. 0.141
 
-**Q798.** At what speed is the Lorentz factor equal to 2.0?
+**Q800.** At what speed is the Lorentz factor equal to 2.0?
 <!-- id: physics-4-2-4 -->
 
 - A. 0.50c
@@ -5760,7 +5796,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 0.707c
 - D. 0.866c
 
-**Q799.** Which equation correctly relates the dilated time Δt to the proper time Δt₀?
+**Q801.** Which equation correctly relates the dilated time Δt to the proper time Δt₀?
 <!-- id: physics-4-2-5 -->
 
 - A. Δt = γΔt₀
@@ -5768,7 +5804,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. Δt = γ²Δt₀
 - D. Δt = Δt₀ − γ
 
-**Q800.** An astronaut on a spacecraft travelling at 0.60c relative to Earth measures the time between her heartbeats as 1.00 s. What time between heartbeats would an observer on Earth measure?
+**Q802.** An astronaut on a spacecraft travelling at 0.60c relative to Earth measures the time between her heartbeats as 1.00 s. What time between heartbeats would an observer on Earth measure?
 <!-- id: physics-4-2-6 -->
 
 - A. 0.80 s
@@ -5776,7 +5812,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 1.00 s
 - D. 1.56 s
 
-**Q801.** A spacecraft travels at 0.80c. The journey takes 6.0 years according to clocks on the spacecraft. How long does the journey take according to clocks on Earth?
+**Q803.** A spacecraft travels at 0.80c. The journey takes 6.0 years according to clocks on the spacecraft. How long does the journey take according to clocks on Earth?
 <!-- id: physics-4-2-7 -->
 
 - A. 3.6 years
@@ -5784,7 +5820,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 10 years
 - D. 16.7 years
 
-**Q802.** Observers on Earth measure a spacecraft's journey at 0.80c to take 20 years. How much does the astronaut age during the journey?
+**Q804.** Observers on Earth measure a spacecraft's journey at 0.80c to take 20 years. How much does the astronaut age during the journey?
 <!-- id: physics-4-2-8 -->
 
 - A. 33 years
@@ -5792,7 +5828,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 7.2 years
 - D. 12 years
 
-**Q803.** A Qantas aircraft cruises at 300 m/s. Which best describes the Lorentz factor for the aircraft relative to the ground?
+**Q805.** A Qantas aircraft cruises at 300 m/s. Which best describes the Lorentz factor for the aircraft relative to the ground?
 <!-- id: physics-4-2-9 -->
 
 - A. Very slightly greater than 1, about 1 + 5 × 10⁻¹³
@@ -5800,7 +5836,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. About 1.001
 - D. Slightly less than 1
 
-**Q804.** A clock on a spacecraft ticks once per second. Which observer measures the proper time between two ticks?
+**Q806.** A clock on a spacecraft ticks once per second. Which observer measures the proper time between two ticks?
 <!-- id: physics-4-2-10 -->
 
 - A. An observer on Earth watching the spacecraft pass
@@ -5808,7 +5844,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. An observer on a second spacecraft moving relative to the first
 - D. Any observer, because all observers measure the same interval
 
-**Q805.** Which statement about the Lorentz factor γ is always true?
+**Q807.** Which statement about the Lorentz factor γ is always true?
 <!-- id: physics-4-2-11 -->
 
 - A. 0 ≤ γ ≤ 1
@@ -5816,7 +5852,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. γ ≥ 1
 - D. γ = 1 only at the speed of light
 
-**Q806.** What is the Lorentz factor for an object moving at 0.50c?
+**Q808.** What is the Lorentz factor for an object moving at 0.50c?
 <!-- id: physics-4-2-12 -->
 
 - A. 2.00
@@ -5824,7 +5860,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 0.87
 - D. 1.15
 
-**Q807.** A particle in an accelerator has a Lorentz factor of 5.0. What is its speed?
+**Q809.** A particle in an accelerator has a Lorentz factor of 5.0. What is its speed?
 <!-- id: physics-4-2-13 -->
 
 - A. 0.980c
@@ -5832,7 +5868,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 0.960c
 - D. 0.800c
 
-**Q808.** A pion has a mean lifetime of 26 ns when at rest. Pions in a beam travel at 0.95c. What mean lifetime is measured in the laboratory?
+**Q810.** A pion has a mean lifetime of 26 ns when at rest. Pions in a beam travel at 0.95c. What mean lifetime is measured in the laboratory?
 <!-- id: physics-4-2-14 -->
 
 - A. 8.1 ns
@@ -5840,7 +5876,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 26 ns
 - D. 25 ns
 
-**Q809.** GPS satellites orbit at about 3.9 km/s. Considering special relativity alone, how do the satellite clocks behave compared with clocks on the ground?
+**Q811.** GPS satellites orbit at about 3.9 km/s. Considering special relativity alone, how do the satellite clocks behave compared with clocks on the ground?
 <!-- id: physics-4-2-15 -->
 
 - A. They run fast, as seen from the ground.
@@ -5848,7 +5884,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. They run slow, as seen from the ground.
 - D. They stop completely.
 
-**Q810.** A spacecraft's speed increases from 0.40c to 0.80c. Which describes the change in its Lorentz factor?
+**Q812.** A spacecraft's speed increases from 0.40c to 0.80c. Which describes the change in its Lorentz factor?
 <!-- id: physics-4-2-16 -->
 
 - A. It doubles from about 1.09 to about 2.18.
@@ -5856,7 +5892,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. It stays the same, because γ only depends on acceleration.
 - D. It increases from about 1.09 to about 1.67.
 
-**Q811.** A spacecraft passes Earth at 0.60c. While 50 minutes pass on Earth clocks, how much time do Earth observers measure passing on the spacecraft's clock?
+**Q813.** A spacecraft passes Earth at 0.60c. While 50 minutes pass on Earth clocks, how much time do Earth observers measure passing on the spacecraft's clock?
 <!-- id: physics-4-2-17 -->
 
 - A. 40 minutes
@@ -5864,7 +5900,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 50 minutes
 - D. 30 minutes
 
-**Q812.** In the 'twin paradox', a twin travels to a distant star at high speed and returns, while her brother stays on Earth. Why is it the travelling twin who is younger when they reunite?
+**Q814.** In the 'twin paradox', a twin travels to a distant star at high speed and returns, while her brother stays on Earth. Why is it the travelling twin who is younger when they reunite?
 <!-- id: physics-4-2-18 -->
 
 - A. Her heart beats more slowly because of the cold of space.
@@ -5872,44 +5908,44 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. Light travels faster on the return journey.
 - D. Her spacecraft gains mass, which slows down biological processes.
 
-**Q813.** Calculate the Lorentz factor for a spacecraft travelling at 0.90c.
+**Q815.** Calculate the Lorentz factor for a spacecraft travelling at 0.90c.
 <!-- id: physics-4-2-19 -->
 
 *Written answer*
 
-**Q814.** A spacecraft travels at 0.70c to a distant star. The journey takes 20.0 years according to Earth observers. How much does the astronaut age during the journey?
+**Q816.** A spacecraft travels at 0.70c to a distant star. The journey takes 20.0 years according to Earth observers. How much does the astronaut age during the journey?
 <!-- id: physics-4-2-20 -->
 
 *Written answer*
 
-**Q815.** An unstable particle has a lifetime of 1.8 μs in its own rest frame. In the laboratory its lifetime is measured as 9.0 μs. Calculate the Lorentz factor and the particle's speed.
+**Q817.** An unstable particle has a lifetime of 1.8 μs in its own rest frame. In the laboratory its lifetime is measured as 9.0 μs. Calculate the Lorentz factor and the particle's speed.
 <!-- id: physics-4-2-21 -->
 
 *Written answer*
 
-**Q816.** Using the idea of a light clock (a light pulse bouncing between two mirrors), explain why a moving clock is measured to run slow.
+**Q818.** Using the idea of a light clock (a light pulse bouncing between two mirrors), explain why a moving clock is measured to run slow.
 <!-- id: physics-4-2-22 -->
 
 *Written answer*
 
-**Q817.** At what speed, in m/s, would a moving clock be measured to run at half the rate of an identical stationary clock?
+**Q819.** At what speed, in m/s, would a moving clock be measured to run at half the rate of an identical stationary clock?
 <!-- id: physics-4-2-23 -->
 
 *Written answer*
 
-**Q818.** Explain why time dilation is not noticed in everyday life, using a car travelling at 30 m/s on the Monash Freeway as an example.
+**Q820.** Explain why time dilation is not noticed in everyday life, using a car travelling at 30 m/s on the Monash Freeway as an example.
 <!-- id: physics-4-2-24 -->
 
 *Written answer*
 
-**Q819.** An astronaut on a spacecraft travelling at 0.80c relative to Earth takes 30 minutes to eat a meal, measured on her own clock. How long does the meal take according to observers on Earth?
+**Q821.** An astronaut on a spacecraft travelling at 0.80c relative to Earth takes 30 minutes to eat a meal, measured on her own clock. How long does the meal take according to observers on Earth?
 <!-- id: physics-4-2-25 -->
 
 *Written answer*
 
 #### Length contraction and muon evidence
 
-**Q820.** Which equation gives the length L of a moving object measured by an observer, where L₀ is its proper length?
+**Q822.** Which equation gives the length L of a moving object measured by an observer, where L₀ is its proper length?
 <!-- id: physics-4-3-1 -->
 
 - A. L = L₀/γ
@@ -5917,7 +5953,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. L = L₀ − γ
 - D. L = γ²L₀
 
-**Q821.** Length contraction of a moving object occurs:
+**Q823.** Length contraction of a moving object occurs:
 <!-- id: physics-4-3-2 -->
 
 - A. only perpendicular to the direction of motion
@@ -5925,7 +5961,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. equally in all directions
 - D. only when the object is accelerating
 
-**Q822.** A spacecraft has a proper length of 100 m. What length does an observer on Earth measure as it flies past at 0.60c?
+**Q824.** A spacecraft has a proper length of 100 m. What length does an observer on Earth measure as it flies past at 0.60c?
 <!-- id: physics-4-3-3 -->
 
 - A. 125 m
@@ -5933,7 +5969,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 80 m
 - D. 64 m
 
-**Q823.** A rod has a proper length of 2.0 m and moves lengthwise at 0.80c past an observer. What length does the observer measure?
+**Q825.** A rod has a proper length of 2.0 m and moves lengthwise at 0.80c past an observer. What length does the observer measure?
 <!-- id: physics-4-3-4 -->
 
 - A. 3.3 m
@@ -5941,7 +5977,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 1.6 m
 - D. 1.2 m
 
-**Q824.** A spacecraft with a proper length of 50 m and a proper width of 10 m flies lengthwise past Earth at 0.80c. What width do Earth observers measure?
+**Q826.** A spacecraft with a proper length of 50 m and a proper width of 10 m flies lengthwise past Earth at 0.80c. What width do Earth observers measure?
 <!-- id: physics-4-3-5 -->
 
 - A. 10 m
@@ -5949,7 +5985,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 16.7 m
 - D. 3.6 m
 
-**Q825.** A star is 4.0 light-years from Earth, measured in Earth's frame. An astronaut travels to it at 0.60c. What distance to the star does the astronaut measure?
+**Q827.** A star is 4.0 light-years from Earth, measured in Earth's frame. An astronaut travels to it at 0.60c. What distance to the star does the astronaut measure?
 <!-- id: physics-4-3-6 -->
 
 - A. 5.0 light-years
@@ -5957,7 +5993,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 4.0 light-years
 - D. 2.4 light-years
 
-**Q826.** A star is 4.0 light-years from Earth in Earth's frame. An astronaut travels there at 0.60c. How long does the trip take according to the astronaut's clock?
+**Q828.** A star is 4.0 light-years from Earth in Earth's frame. An astronaut travels there at 0.60c. How long does the trip take according to the astronaut's clock?
 <!-- id: physics-4-3-7 -->
 
 - A. 6.7 years
@@ -5965,7 +6001,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 5.3 years
 - D. 8.3 years
 
-**Q827.** Which observer measures the proper length of a spacecraft?
+**Q829.** Which observer measures the proper length of a spacecraft?
 <!-- id: physics-4-3-8 -->
 
 - A. An observer on Earth as the spacecraft flies past
@@ -5973,7 +6009,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. Any observer, because all measure the same length
 - D. An observer at rest relative to the spacecraft
 
-**Q828.** Where are most of the muons detected at Earth's surface produced?
+**Q830.** Where are most of the muons detected at Earth's surface produced?
 <!-- id: physics-4-3-9 -->
 
 - A. High in the atmosphere, when cosmic rays collide with nuclei of atmospheric gases
@@ -5981,7 +6017,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. Inside Earth's crust, by radioactive decay
 - D. In thunderclouds, by lightning
 
-**Q829.** A muon has a mean lifetime of 2.2 μs at rest and travels at 0.99c. Ignoring relativity, what mean distance would it travel before decaying?
+**Q831.** A muon has a mean lifetime of 2.2 μs at rest and travels at 0.99c. Ignoring relativity, what mean distance would it travel before decaying?
 <!-- id: physics-4-3-10 -->
 
 - A. 4.6 km
@@ -5989,7 +6025,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 92 m
 - D. 2.2 km
 
-**Q830.** A muon with a rest-frame mean lifetime of 2.2 μs travels at 0.99c (γ = 7.09). Taking time dilation into account, what mean distance does it travel in Earth's frame before decaying?
+**Q832.** A muon with a rest-frame mean lifetime of 2.2 μs travels at 0.99c (γ = 7.09). Taking time dilation into account, what mean distance does it travel in Earth's frame before decaying?
 <!-- id: physics-4-3-11 -->
 
 - A. 650 m
@@ -5997,7 +6033,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 4.6 km
 - D. 46 km
 
-**Q831.** In the muon's own frame of reference, the muon lives for only about 2.2 μs. How does an observer in the muon's frame explain the muon reaching Earth's surface?
+**Q833.** In the muon's own frame of reference, the muon lives for only about 2.2 μs. How does an observer in the muon's frame explain the muon reaching Earth's surface?
 <!-- id: physics-4-3-12 -->
 
 - A. The muon's clock runs fast in its own frame.
@@ -6005,7 +6041,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. The muon's lifetime is time dilated in its own frame.
 - D. The atmosphere is moving relative to the muon, so its thickness is length contracted.
 
-**Q832.** Muons travel at 0.995c (γ = 10.0). In the muon's frame, how thick is a 10 km layer of atmosphere?
+**Q834.** Muons travel at 0.995c (γ = 10.0). In the muon's frame, how thick is a 10 km layer of atmosphere?
 <!-- id: physics-4-3-13 -->
 
 - A. 1.0 km
@@ -6013,7 +6049,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 10 km
 - D. 0.10 km
 
-**Q833.** Why does the detection of muons at sea level provide evidence for special relativity?
+**Q835.** Why does the detection of muons at sea level provide evidence for special relativity?
 <!-- id: physics-4-3-14 -->
 
 - A. Muons travel faster than light in the atmosphere.
@@ -6021,7 +6057,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. Muons are detected at the same rate at all altitudes.
 - D. Muons have no mass, so they do not decay.
 
-**Q834.** An observer on Earth and an observer travelling with a muon analyse its journey through the atmosphere. On which quantity do they agree?
+**Q836.** An observer on Earth and an observer travelling with a muon analyse its journey through the atmosphere. On which quantity do they agree?
 <!-- id: physics-4-3-15 -->
 
 - A. The muon's lifetime
@@ -6029,7 +6065,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. The speed of the muon relative to Earth
 - D. The time taken for the muon to reach the ground
 
-**Q835.** At what speed would a metre ruler moving lengthwise be measured to be 60 cm long?
+**Q837.** At what speed would a metre ruler moving lengthwise be measured to be 60 cm long?
 <!-- id: physics-4-3-16 -->
 
 - A. 0.60c
@@ -6037,7 +6073,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 0.36c
 - D. 0.80c
 
-**Q836.** A train with a proper length of 200 m travels at 0.60c through a tunnel with a proper length of 160 m. What is the train's length in the tunnel's frame?
+**Q838.** A train with a proper length of 200 m travels at 0.60c through a tunnel with a proper length of 160 m. What is the train's length in the tunnel's frame?
 <!-- id: physics-4-3-17 -->
 
 - A. 160 m, the same as the tunnel's length
@@ -6045,7 +6081,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 200 m
 - D. 128 m
 
-**Q837.** A train with a proper length of 200 m travels at 0.60c through a tunnel with a proper length of 160 m. What is the tunnel's length in the train's frame?
+**Q839.** A train with a proper length of 200 m travels at 0.60c through a tunnel with a proper length of 160 m. What is the tunnel's length in the train's frame?
 <!-- id: physics-4-3-18 -->
 
 - A. 200 m
@@ -6053,44 +6089,44 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 160 m
 - D. 250 m
 
-**Q838.** A spacecraft has a proper length of 120 m. Calculate its length as measured by an observer it passes at 0.90c.
+**Q840.** A spacecraft has a proper length of 120 m. Calculate its length as measured by an observer it passes at 0.90c.
 <!-- id: physics-4-3-19 -->
 
 *Written answer*
 
-**Q839.** An astronaut travelling at 0.95c measures the length of her own spacecraft. Explain whether she observes it to be contracted.
+**Q841.** An astronaut travelling at 0.95c measures the length of her own spacecraft. Explain whether she observes it to be contracted.
 <!-- id: physics-4-3-20 -->
 
 *Written answer*
 
-**Q840.** Muons produced 12 km above the ground travel at 0.98c and have a mean lifetime of 2.2 μs in their rest frame. Calculate the mean distance they travel in Earth's frame before decaying.
+**Q842.** Muons produced 12 km above the ground travel at 0.98c and have a mean lifetime of 2.2 μs in their rest frame. Calculate the mean distance they travel in Earth's frame before decaying.
 <!-- id: physics-4-3-21 -->
 
 *Written answer*
 
-**Q841.** A muon travels at 0.98c (γ = 5.03) relative to Earth. In the muon's frame, how thick is a 12 km layer of atmosphere?
+**Q843.** A muon travels at 0.98c (γ = 5.03) relative to Earth. In the muon's frame, how thick is a 12 km layer of atmosphere?
 <!-- id: physics-4-3-22 -->
 
 *Written answer*
 
-**Q842.** Explain how the detection of large numbers of muons at sea level is evidence for both time dilation and length contraction.
+**Q844.** Explain how the detection of large numbers of muons at sea level is evidence for both time dilation and length contraction.
 <!-- id: physics-4-3-23 -->
 
 *Written answer*
 
-**Q843.** A star is 8.0 light-years from Earth in Earth's frame. At what speed must an astronaut travel for her to measure the distance as 4.8 light-years?
+**Q845.** A star is 8.0 light-years from Earth in Earth's frame. At what speed must an astronaut travel for her to measure the distance as 4.8 light-years?
 <!-- id: physics-4-3-24 -->
 
 *Written answer*
 
-**Q844.** A spacecraft flies from Earth to the Moon. Identify which observer measures the proper length of the spacecraft and which measures the proper length of the Earth–Moon distance, explaining why.
+**Q846.** A spacecraft flies from Earth to the Moon. Identify which observer measures the proper length of the spacecraft and which measures the proper length of the Earth–Moon distance, explaining why.
 <!-- id: physics-4-3-25 -->
 
 *Written answer*
 
 #### Mass–energy equivalence
 
-**Q845.** In the equation E = mc², where m is the rest mass of a body, the equation states that:
+**Q847.** In the equation E = mc², where m is the rest mass of a body, the equation states that:
 <!-- id: physics-4-4-1 -->
 
 - A. a body at rest has energy in proportion to its mass
@@ -6098,7 +6134,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. a body's energy depends only on its speed
 - D. energy can be created from nothing
 
-**Q846.** What is the rest energy of an electron (mass 9.1 × 10⁻³¹ kg)?
+**Q848.** What is the rest energy of an electron (mass 9.1 × 10⁻³¹ kg)?
 <!-- id: physics-4-4-2 -->
 
 - A. 2.7 × 10⁻²² J
@@ -6106,7 +6142,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 4.1 × 10⁻¹⁴ J
 - D. 8.2 × 10⁻¹⁷ J
 
-**Q847.** An electron (rest energy 8.19 × 10⁻¹⁴ J) travels at 0.60c. What is its kinetic energy?
+**Q849.** An electron (rest energy 8.19 × 10⁻¹⁴ J) travels at 0.60c. What is its kinetic energy?
 <!-- id: physics-4-4-3 -->
 
 - A. 1.5 × 10⁻¹⁴ J
@@ -6114,7 +6150,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 2.0 × 10⁻¹⁴ J
 - D. 8.2 × 10⁻¹⁴ J
 
-**Q848.** Which expression gives the total energy of a particle of rest mass m moving with Lorentz factor γ?
+**Q850.** Which expression gives the total energy of a particle of rest mass m moving with Lorentz factor γ?
 <!-- id: physics-4-4-4 -->
 
 - A. mc²
@@ -6122,7 +6158,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. ½mv²
 - D. γmc²
 
-**Q849.** Which expression gives the relativistic kinetic energy of a particle of rest mass m?
+**Q851.** Which expression gives the relativistic kinetic energy of a particle of rest mass m?
 <!-- id: physics-4-4-5 -->
 
 - A. (γ − 1)mc²
@@ -6130,7 +6166,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. ½γmv
 - D. mc²/γ
 
-**Q850.** The Sun radiates energy at a rate of about 3.8 × 10²⁶ W. At what rate does the Sun's mass decrease as a result?
+**Q852.** The Sun radiates energy at a rate of about 3.8 × 10²⁶ W. At what rate does the Sun's mass decrease as a result?
 <!-- id: physics-4-4-6 -->
 
 - A. 1.3 × 10¹⁸ kg/s
@@ -6138,7 +6174,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 3.4 × 10⁴³ kg/s
 - D. 4.2 × 10⁶ kg/s
 
-**Q851.** In a nuclear fission reaction, the total mass of the products compared with the total mass of the reactants is:
+**Q853.** In a nuclear fission reaction, the total mass of the products compared with the total mass of the reactants is:
 <!-- id: physics-4-4-7 -->
 
 - A. larger, because energy is absorbed
@@ -6146,7 +6182,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. smaller, with the mass difference released as energy
 - D. smaller, with the lost mass converted into extra neutrons
 
-**Q852.** How much work must be done to accelerate a proton (mass 1.67 × 10⁻²⁷ kg) from rest to 0.80c?
+**Q854.** How much work must be done to accelerate a proton (mass 1.67 × 10⁻²⁷ kg) from rest to 0.80c?
 <!-- id: physics-4-4-8 -->
 
 - A. 4.8 × 10⁻¹¹ J
@@ -6154,7 +6190,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 1.5 × 10⁻¹⁰ J
 - D. 1.0 × 10⁻¹⁰ J
 
-**Q853.** Why does the classical formula Ek = ½mv² fail for particles moving close to the speed of light?
+**Q855.** Why does the classical formula Ek = ½mv² fail for particles moving close to the speed of light?
 <!-- id: physics-4-4-9 -->
 
 - A. It underestimates the energy, because the true energy required approaches infinity as v approaches c.
@@ -6162,7 +6198,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. It gives the correct energy but the wrong direction.
 - D. It only fails for particles with no charge.
 
-**Q854.** A proton has a rest energy of 938 MeV. What is its total energy when it travels at 0.60c?
+**Q856.** A proton has a rest energy of 938 MeV. What is its total energy when it travels at 0.60c?
 <!-- id: physics-4-4-10 -->
 
 - A. 235 MeV
@@ -6170,7 +6206,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 750 MeV
 - D. 938 MeV
 
-**Q855.** An electron and a positron, each with mass 9.1 × 10⁻³¹ kg, annihilate while at rest. How much energy is released?
+**Q857.** An electron and a positron, each with mass 9.1 × 10⁻³¹ kg, annihilate while at rest. How much energy is released?
 <!-- id: physics-4-4-11 -->
 
 - A. 8.2 × 10⁻¹⁴ J
@@ -6178,7 +6214,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 1.6 × 10⁻¹³ J
 - D. 3.3 × 10⁻¹³ J
 
-**Q856.** A cup of hot coffee cools down on a bench. According to mass–energy equivalence, which statement is correct?
+**Q858.** A cup of hot coffee cools down on a bench. According to mass–energy equivalence, which statement is correct?
 <!-- id: physics-4-4-12 -->
 
 - A. Its mass stays exactly the same, because only nuclear reactions change mass.
@@ -6186,7 +6222,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. Its mass decreases by about 1%.
 - D. Its mass decreases very slightly, by an amount too small to measure.
 
-**Q857.** In the Sun, about 0.7% of the mass of hydrogen is converted to energy when it fuses to form helium. How much energy is released when 1.0 kg of hydrogen fuses?
+**Q859.** In the Sun, about 0.7% of the mass of hydrogen is converted to energy when it fuses to form helium. How much energy is released when 1.0 kg of hydrogen fuses?
 <!-- id: physics-4-4-13 -->
 
 - A. 6.3 × 10¹⁴ J
@@ -6194,7 +6230,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 6.3 × 10¹¹ J
 - D. 2.1 × 10⁶ J
 
-**Q858.** An electron gains kinetic energy equal to its rest energy. What is its Lorentz factor?
+**Q860.** An electron gains kinetic energy equal to its rest energy. What is its Lorentz factor?
 <!-- id: physics-4-4-14 -->
 
 - A. 1
@@ -6202,7 +6238,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 1.41
 - D. 4
 
-**Q859.** An electron (rest energy 0.511 MeV) is accelerated until γ = 3.0. What is its kinetic energy?
+**Q861.** An electron (rest energy 0.511 MeV) is accelerated until γ = 3.0. What is its kinetic energy?
 <!-- id: physics-4-4-15 -->
 
 - A. 1.53 MeV
@@ -6210,7 +6246,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 1.02 MeV
 - D. 0.170 MeV
 
-**Q860.** If 1.0 g of mass were converted completely into energy, how much energy would be released?
+**Q862.** If 1.0 g of mass were converted completely into energy, how much energy would be released?
 <!-- id: physics-4-4-16 -->
 
 - A. 9.0 × 10¹⁶ J
@@ -6218,7 +6254,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 9.0 × 10¹⁰ J
 - D. 9.0 × 10¹³ J
 
-**Q861.** Protons in a particle accelerator are already travelling at 0.999c. More energy is supplied to them. Which statement is correct?
+**Q863.** Protons in a particle accelerator are already travelling at 0.999c. More energy is supplied to them. Which statement is correct?
 <!-- id: physics-4-4-17 -->
 
 - A. Their total energy increases greatly while their speed increases only slightly.
@@ -6226,7 +6262,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. Their energy stays the same, because they cannot go faster.
 - D. Their rest mass increases while their kinetic energy stays the same.
 
-**Q862.** The fission of one uranium-235 nucleus releases about 3.2 × 10⁻¹¹ J (200 MeV). What mass is converted into energy in one fission?
+**Q864.** The fission of one uranium-235 nucleus releases about 3.2 × 10⁻¹¹ J (200 MeV). What mass is converted into energy in one fission?
 <!-- id: physics-4-4-18 -->
 
 - A. 1.1 × 10⁻¹⁹ kg
@@ -6234,37 +6270,37 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 2.9 × 10⁶ kg
 - D. 3.6 × 10⁻²⁵ kg
 
-**Q863.** The Loy Yang power stations in the Latrobe Valley produce about 2.2 GW of electrical power. If this energy came entirely from converting mass, how much mass would be converted each day?
+**Q865.** The Loy Yang power stations in the Latrobe Valley produce about 2.2 GW of electrical power. If this energy came entirely from converting mass, how much mass would be converted each day?
 <!-- id: physics-4-4-19 -->
 
 *Written answer*
 
-**Q864.** An electron (mass 9.1 × 10⁻³¹ kg) travels at 0.80c. Calculate its total energy and its kinetic energy.
+**Q866.** An electron (mass 9.1 × 10⁻³¹ kg) travels at 0.80c. Calculate its total energy and its kinetic energy.
 <!-- id: physics-4-4-20 -->
 
 *Written answer*
 
-**Q865.** Using the relativistic kinetic energy equation, explain why an object with mass can never reach the speed of light.
+**Q867.** Using the relativistic kinetic energy equation, explain why an object with mass can never reach the speed of light.
 <!-- id: physics-4-4-21 -->
 
 *Written answer*
 
-**Q866.** Explain why, at everyday speeds, the classical kinetic energy ½mv² gives practically the same result as the relativistic kinetic energy (γ − 1)mc².
+**Q868.** Explain why, at everyday speeds, the classical kinetic energy ½mv² gives practically the same result as the relativistic kinetic energy (γ − 1)mc².
 <!-- id: physics-4-4-22 -->
 
 *Written answer*
 
-**Q867.** A proton (rest energy 938 MeV) is given 938 MeV of kinetic energy. Find its Lorentz factor and its speed.
+**Q869.** A proton (rest energy 938 MeV) is given 938 MeV of kinetic energy. Find its Lorentz factor and its speed.
 <!-- id: physics-4-4-23 -->
 
 *Written answer*
 
-**Q868.** Explain, using mass–energy equivalence, where the energy released by nuclear fusion in the Sun comes from.
+**Q870.** Explain, using mass–energy equivalence, where the energy released by nuclear fusion in the Sun comes from.
 <!-- id: physics-4-4-24 -->
 
 *Written answer*
 
-**Q869.** An electron's total energy is three times its rest energy. Calculate its speed.
+**Q871.** An electron's total energy is three times its rest energy. Calculate its speed.
 <!-- id: physics-4-4-25 -->
 
 *Written answer*
@@ -6273,7 +6309,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 
 #### Magnetic flux and Faraday's law
 
-**Q870.** What is the SI unit of magnetic flux?
+**Q872.** What is the SI unit of magnetic flux?
 <!-- id: physics-5-1-1 -->
 
 - A. weber (Wb)
@@ -6281,7 +6317,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. tesla per square metre (T m⁻²)
 - D. henry (H)
 
-**Q871.** A flat loop of area 0.020 m² sits perpendicular to a uniform magnetic field of 0.50 T. What is the magnetic flux through the loop?
+**Q873.** A flat loop of area 0.020 m² sits perpendicular to a uniform magnetic field of 0.50 T. What is the magnetic flux through the loop?
 <!-- id: physics-5-1-2 -->
 
 - A. 0.025 Wb
@@ -6289,7 +6325,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 0.010 Wb
 - D. 25 Wb
 
-**Q872.** A loop is oriented so that its plane is parallel to a uniform magnetic field of strength B. If the loop has area A, the flux through it is
+**Q874.** A loop is oriented so that its plane is parallel to a uniform magnetic field of strength B. If the loop has area A, the flux through it is
 <!-- id: physics-5-1-3 -->
 
 - A. BA
@@ -6297,12 +6333,12 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. zero
 - D. BA/√2
 
-**Q873.** Define magnetic flux and state the equation used to calculate it for a flat loop in a uniform field.
+**Q875.** Define magnetic flux and state the equation used to calculate it for a flat loop in a uniform field.
 <!-- id: physics-5-1-4 -->
 
 *Written answer*
 
-**Q874.** A square coil of side 10 cm is placed perpendicular to a 0.40 T magnetic field. What is the flux through one turn of the coil?
+**Q876.** A square coil of side 10 cm is placed perpendicular to a 0.40 T magnetic field. What is the flux through one turn of the coil?
 <!-- id: physics-5-1-5 -->
 
 - A. 4.0 × 10⁻² Wb
@@ -6310,7 +6346,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 40 Wb
 - D. 4.0 × 10⁻⁴ Wb
 
-**Q875.** The flux through each turn of a 200-turn coil increases uniformly from 0 to 3.0 × 10⁻³ Wb in 0.050 s. What is the magnitude of the average induced emf?
+**Q877.** The flux through each turn of a 200-turn coil increases uniformly from 0 to 3.0 × 10⁻³ Wb in 0.050 s. What is the magnitude of the average induced emf?
 <!-- id: physics-5-1-6 -->
 
 - A. 12 V
@@ -6318,7 +6354,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 0.030 V
 - D. 120 V
 
-**Q876.** A 50-turn coil of area 0.010 m² is perpendicular to a magnetic field that falls uniformly from 0.80 T to zero in 0.20 s. What is the magnitude of the average induced emf?
+**Q878.** A 50-turn coil of area 0.010 m² is perpendicular to a magnetic field that falls uniformly from 0.80 T to zero in 0.20 s. What is the magnitude of the average induced emf?
 <!-- id: physics-5-1-7 -->
 
 - A. 0.040 V
@@ -6326,12 +6362,12 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 0.80 V
 - D. 20 V
 
-**Q877.** A circular loop of radius 5.0 cm is perpendicular to a uniform 0.60 T magnetic field. Calculate the flux through the loop.
+**Q879.** A circular loop of radius 5.0 cm is perpendicular to a uniform 0.60 T magnetic field. Calculate the flux through the loop.
 <!-- id: physics-5-1-8 -->
 
 *Written answer*
 
-**Q878.** Which of the following will NOT induce an emf in a flat coil?
+**Q880.** Which of the following will NOT induce an emf in a flat coil?
 <!-- id: physics-5-1-9 -->
 
 - A. Rotating the coil about an axis perpendicular to the field
@@ -6339,7 +6375,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. Increasing the strength of the field through the stationary coil
 - D. Pulling the coil out of the field region
 
-**Q879.** According to Faraday's law, the magnitude of the induced emf in a coil is proportional to
+**Q881.** According to Faraday's law, the magnitude of the induced emf in a coil is proportional to
 <!-- id: physics-5-1-10 -->
 
 - A. the rate of change of magnetic flux through the coil
@@ -6347,7 +6383,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. the magnetic field strength at the coil
 - D. the resistance of the coil
 
-**Q880.** A coil experiences a given flux change. If the number of turns is doubled and the time taken for the same flux change is halved, the average induced emf becomes
+**Q882.** A coil experiences a given flux change. If the number of turns is doubled and the time taken for the same flux change is halved, the average induced emf becomes
 <!-- id: physics-5-1-11 -->
 
 - A. four times as large
@@ -6355,12 +6391,12 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. twice as large
 - D. eight times as large
 
-**Q881.** A 150-turn coil of area 4.0 × 10⁻³ m² is perpendicular to a 0.50 T field. It is pulled completely out of the field in 0.080 s. Calculate the average emf induced.
+**Q883.** A 150-turn coil of area 4.0 × 10⁻³ m² is perpendicular to a 0.50 T field. It is pulled completely out of the field in 0.080 s. Calculate the average emf induced.
 <!-- id: physics-5-1-12 -->
 
 *Written answer*
 
-**Q882.** A 100-turn coil of area 0.050 m² in a 0.20 T field is rotated from having its plane perpendicular to the field to having its plane parallel to the field in 0.10 s. What is the average induced emf?
+**Q884.** A 100-turn coil of area 0.050 m² in a 0.20 T field is rotated from having its plane perpendicular to the field to having its plane parallel to the field in 0.10 s. What is the average induced emf?
 <!-- id: physics-5-1-13 -->
 
 - A. 10 V
@@ -6368,7 +6404,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 20 V
 - D. 5.0 V
 
-**Q883.** A single loop of area 0.040 m² is perpendicular to a 0.25 T field. It is flipped through 180° in 0.020 s. What is the average induced emf?
+**Q885.** A single loop of area 0.040 m² is perpendicular to a 0.25 T field. It is flipped through 180° in 0.020 s. What is the average induced emf?
 <!-- id: physics-5-1-14 -->
 
 - A. 1.0 V
@@ -6376,7 +6412,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 0 V
 - D. 2.0 V
 
-**Q884.** A loop of area 0.30 m² is in a uniform 0.20 T field. The normal to the loop makes an angle of 60° with the field. What is the flux through the loop?
+**Q886.** A loop of area 0.30 m² is in a uniform 0.20 T field. The normal to the loop makes an angle of 60° with the field. What is the flux through the loop?
 <!-- id: physics-5-1-15 -->
 
 - A. 0.052 Wb
@@ -6384,12 +6420,12 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 0.060 Wb
 - D. 0.12 Wb
 
-**Q885.** A rectangular loop moves at constant speed through a large region of uniform magnetic field, staying entirely inside the field. Explain why no current is induced in the loop.
+**Q887.** A rectangular loop moves at constant speed through a large region of uniform magnetic field, staying entirely inside the field. Explain why no current is induced in the loop.
 <!-- id: physics-5-1-16 -->
 
 *Written answer*
 
-**Q886.** A student pushes a bar magnet into a coil, first slowly and then quickly, starting and finishing in the same positions. Compared with the slow push, the quick push produces
+**Q888.** A student pushes a bar magnet into a coil, first slowly and then quickly, starting and finishing in the same positions. Compared with the slow push, the quick push produces
 <!-- id: physics-5-1-17 -->
 
 - A. the same emf and the same total change in flux
@@ -6397,7 +6433,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. a smaller emf, because there is less time for current to build up
 - D. a larger emf, but the same total change in flux
 
-**Q887.** The flux through each turn of a 25-turn coil increases uniformly from 2.0 mWb to 6.0 mWb over 40 ms. What is the average induced emf?
+**Q889.** The flux through each turn of a 25-turn coil increases uniformly from 2.0 mWb to 6.0 mWb over 40 ms. What is the average induced emf?
 <!-- id: physics-5-1-18 -->
 
 - A. 0.10 V
@@ -6405,7 +6441,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 0.25 V
 - D. 2.5 V
 
-**Q888.** While the flux through a coil is held constant at a large non-zero value, the induced emf in the coil is
+**Q890.** While the flux through a coil is held constant at a large non-zero value, the induced emf in the coil is
 <!-- id: physics-5-1-19 -->
 
 - A. at its maximum value
@@ -6413,12 +6449,12 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. constant and non-zero
 - D. zero
 
-**Q889.** State three ways to increase the emf induced in a coil by a moving bar magnet.
+**Q891.** State three ways to increase the emf induced in a coil by a moving bar magnet.
 <!-- id: physics-5-1-20 -->
 
 *Written answer*
 
-**Q890.** Which combination of units is equivalent to the volt?
+**Q892.** Which combination of units is equivalent to the volt?
 <!-- id: physics-5-1-21 -->
 
 - A. Wb s
@@ -6426,7 +6462,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. T m
 - D. T s m⁻²
 
-**Q891.** A 400-turn coil has a steady emf of 6.0 V induced in it for 0.30 s while the flux changes at a constant rate. What is the change in flux through each turn?
+**Q893.** A 400-turn coil has a steady emf of 6.0 V induced in it for 0.30 s while the flux changes at a constant rate. What is the change in flux through each turn?
 <!-- id: physics-5-1-22 -->
 
 - A. 5.0 × 10⁻² Wb
@@ -6434,7 +6470,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 4.5 × 10⁻¹ Wb
 - D. 4.5 × 10⁻³ Wb
 
-**Q892.** A coil of fixed area is placed in a magnetic field at Monash's physics lab. Which change would increase the flux through the coil the most?
+**Q894.** A coil of fixed area is placed in a magnetic field at Monash's physics lab. Which change would increase the flux through the coil the most?
 <!-- id: physics-5-1-23 -->
 
 - A. Doubling the field strength while rotating the coil from 60° to 0° between its normal and the field
@@ -6442,19 +6478,19 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. Rotating the coil from 0° to 60° between its normal and the field
 - D. Halving the field strength while rotating the coil from 60° to 0°
 
-**Q893.** An 80-turn coil of area 0.025 m² is perpendicular to a magnetic field that increases uniformly from 0.10 T to 0.50 T in 0.20 s. The coil has a resistance of 4.0 Ω. Calculate the induced current.
+**Q895.** An 80-turn coil of area 0.025 m² is perpendicular to a magnetic field that increases uniformly from 0.10 T to 0.50 T in 0.20 s. The coil has a resistance of 4.0 Ω. Calculate the induced current.
 <!-- id: physics-5-1-24 -->
 
 *Written answer*
 
-**Q894.** Distinguish between magnetic flux density (B) and magnetic flux (Φ).
+**Q896.** Distinguish between magnetic flux density (B) and magnetic flux (Φ).
 <!-- id: physics-5-1-25 -->
 
 *Written answer*
 
 #### Lenz's law and induced currents
 
-**Q895.** Lenz's law is a direct consequence of the law of conservation of
+**Q897.** Lenz's law is a direct consequence of the law of conservation of
 <!-- id: physics-5-2-1 -->
 
 - A. charge
@@ -6462,7 +6498,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. energy
 - D. mass
 
-**Q896.** The north pole of a bar magnet is pushed towards one end of a coil connected in a closed circuit. The induced current makes the end of the coil nearest the magnet
+**Q898.** The north pole of a bar magnet is pushed towards one end of a coil connected in a closed circuit. The induced current makes the end of the coil nearest the magnet
 <!-- id: physics-5-2-2 -->
 
 - A. a north pole, repelling the magnet
@@ -6470,7 +6506,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. a south pole, repelling the magnet
 - D. neither pole, as only an emf is produced
 
-**Q897.** The north pole of a bar magnet is pulled away from one end of a closed coil. The induced current makes the end of the coil nearest the magnet
+**Q899.** The north pole of a bar magnet is pulled away from one end of a closed coil. The induced current makes the end of the coil nearest the magnet
 <!-- id: physics-5-2-3 -->
 
 - A. a north pole, repelling the magnet
@@ -6478,12 +6514,12 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. a south pole, attracting the magnet
 - D. a south pole, repelling the magnet
 
-**Q898.** State Lenz's law.
+**Q900.** State Lenz's law.
 <!-- id: physics-5-2-4 -->
 
 *Written answer*
 
-**Q899.** A strong magnet dropped down a vertical copper pipe falls much more slowly than one dropped beside the pipe. The best explanation is that
+**Q901.** A strong magnet dropped down a vertical copper pipe falls much more slowly than one dropped beside the pipe. The best explanation is that
 <!-- id: physics-5-2-5 -->
 
 - A. copper is ferromagnetic and attracts the magnet
@@ -6491,7 +6527,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. the pipe shields the magnet from gravity
 - D. eddy currents induced in the pipe produce magnetic fields that oppose the magnet's motion
 
-**Q900.** A flat loop lies in the plane of the page in a magnetic field directed into the page. The field strength is increasing. Viewed from the front, the induced current in the loop is
+**Q902.** A flat loop lies in the plane of the page in a magnetic field directed into the page. The field strength is increasing. Viewed from the front, the induced current in the loop is
 <!-- id: physics-5-2-6 -->
 
 - A. clockwise
@@ -6499,7 +6535,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. alternating between clockwise and anticlockwise
 - D. anticlockwise
 
-**Q901.** A flat loop lies in the plane of the page in a magnetic field directed into the page. The field strength is decreasing. Viewed from the front, the induced current in the loop is
+**Q903.** A flat loop lies in the plane of the page in a magnetic field directed into the page. The field strength is decreasing. Viewed from the front, the induced current in the loop is
 <!-- id: physics-5-2-7 -->
 
 - A. anticlockwise
@@ -6507,12 +6543,12 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. alternating between clockwise and anticlockwise
 - D. clockwise
 
-**Q902.** Use the principle of conservation of energy to explain why the induced current in a coil must oppose the motion of a magnet pushed into it.
+**Q904.** Use the principle of conservation of energy to explain why the induced current in a coil must oppose the motion of a magnet pushed into it.
 <!-- id: physics-5-2-8 -->
 
 *Written answer*
 
-**Q903.** A flat loop lies in the plane of the page in a magnetic field directed out of the page. The field strength is increasing. Viewed from the front, the induced current is
+**Q905.** A flat loop lies in the plane of the page in a magnetic field directed out of the page. The field strength is increasing. Viewed from the front, the induced current is
 <!-- id: physics-5-2-9 -->
 
 - A. anticlockwise
@@ -6520,7 +6556,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. zero
 - D. alternating between clockwise and anticlockwise
 
-**Q904.** A square loop is pulled at constant speed out of a region where a uniform field points into the page. While the loop is partly out of the field, the induced current, viewed from the front, is
+**Q906.** A square loop is pulled at constant speed out of a region where a uniform field points into the page. While the loop is partly out of the field, the induced current, viewed from the front, is
 <!-- id: physics-5-2-10 -->
 
 - A. anticlockwise
@@ -6528,7 +6564,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. zero
 - D. clockwise then anticlockwise
 
-**Q905.** A bar magnet is pushed into a coil. Compared with when the coil is open-circuited, when the coil is connected to a resistor the force needed to push the magnet in at the same speed is
+**Q907.** A bar magnet is pushed into a coil. Compared with when the coil is open-circuited, when the coil is connected to a resistor the force needed to push the magnet in at the same speed is
 <!-- id: physics-5-2-11 -->
 
 - A. smaller, because the induced current attracts the magnet
@@ -6536,12 +6572,12 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. the same, because the flux change is the same
 - D. zero, because the coil does work on the magnet
 
-**Q906.** A strong magnet is dropped into a long vertical copper pipe. Explain why it reaches a terminal velocity.
+**Q908.** A strong magnet is dropped into a long vertical copper pipe. Explain why it reaches a terminal velocity.
 <!-- id: physics-5-2-12 -->
 
 *Written answer*
 
-**Q907.** An aluminium ring rests over the top of a vertical solenoid with an iron core. When the switch to the solenoid is closed, the ring jumps upwards because
+**Q909.** An aluminium ring rests over the top of a vertical solenoid with an iron core. When the switch to the solenoid is closed, the ring jumps upwards because
 <!-- id: physics-5-2-13 -->
 
 - A. aluminium is strongly attracted to iron
@@ -6549,7 +6585,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. the solenoid's field pushes on the ring's own permanent magnetism
 - D. the ring is heated and expands upwards
 
-**Q908.** The aluminium ring in a 'jumping ring' demonstration is replaced with an identical ring that has a narrow cut through it. When the switch is closed, the cut ring
+**Q910.** The aluminium ring in a 'jumping ring' demonstration is replaced with an identical ring that has a narrow cut through it. When the switch is closed, the cut ring
 <!-- id: physics-5-2-14 -->
 
 - A. jumps higher because its resistance is lower
@@ -6557,7 +6593,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. has a current induced but no emf, so it does not jump
 - D. has an emf induced but no current, so it does not jump
 
-**Q909.** Some trains use eddy-current brakes, where electromagnets near the steel rails induce currents in the rails. The main energy transformation in this braking is
+**Q911.** Some trains use eddy-current brakes, where electromagnets near the steel rails induce currents in the rails. The main energy transformation in this braking is
 <!-- id: physics-5-2-15 -->
 
 - A. thermal energy to kinetic energy
@@ -6565,12 +6601,12 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. gravitational potential energy to kinetic energy
 - D. kinetic energy to thermal energy in the rails
 
-**Q910.** A wire loop lies flat on a bench in a vertical magnetic field that points upwards. The field is switched off. Viewed from above, what is the direction of the induced current? Explain.
+**Q912.** A wire loop lies flat on a bench in a vertical magnetic field that points upwards. The field is switched off. Viewed from above, what is the direction of the induced current? Explain.
 <!-- id: physics-5-2-16 -->
 
 *Written answer*
 
-**Q911.** In Faraday's law, ε = −NΔΦ/Δt, the negative sign indicates that
+**Q913.** In Faraday's law, ε = −NΔΦ/Δt, the negative sign indicates that
 <!-- id: physics-5-2-17 -->
 
 - A. the emf is always negative
@@ -6578,7 +6614,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. the induced emf opposes the change in flux that produces it
 - D. the induced current flows from negative to positive terminal outside the source
 
-**Q912.** A coil is connected to a centre-zero galvanometer. Pushing the north pole of a magnet into the coil makes the needle deflect to the right. Which action would also make the needle deflect to the right?
+**Q914.** A coil is connected to a centre-zero galvanometer. Pushing the north pole of a magnet into the coil makes the needle deflect to the right. Which action would also make the needle deflect to the right?
 <!-- id: physics-5-2-18 -->
 
 - A. Pushing the south pole of the magnet into the same end of the coil
@@ -6586,7 +6622,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. Pulling the north pole of the magnet out of the same end of the coil
 - D. Holding the north pole of the magnet stationary inside the coil
 
-**Q913.** A magnet is dropped through a vertical coil whose ends are not connected to anything. Ignoring air resistance, as it falls through the coil the magnet
+**Q915.** A magnet is dropped through a vertical coil whose ends are not connected to anything. Ignoring air resistance, as it falls through the coil the magnet
 <!-- id: physics-5-2-19 -->
 
 - A. falls with acceleration less than g, because an emf is induced
@@ -6594,12 +6630,12 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. falls at constant speed
 - D. slows down while inside the coil
 
-**Q914.** In a jumping-ring demonstration, explain why the ring jumps when the switch is closed but does not jump while a steady DC current flows.
+**Q916.** In a jumping-ring demonstration, explain why the ring jumps when the switch is closed but does not jump while a steady DC current flows.
 <!-- id: physics-5-2-20 -->
 
 *Written answer*
 
-**Q915.** A long straight wire carries a constant current upwards in the plane of the page. A rectangular loop to the right of the wire, in the same plane, moves directly away from the wire. Viewed from the front, the induced current in the loop is
+**Q917.** A long straight wire carries a constant current upwards in the plane of the page. A rectangular loop to the right of the wire, in the same plane, moves directly away from the wire. Viewed from the front, the induced current in the loop is
 <!-- id: physics-5-2-21 -->
 
 - A. anticlockwise
@@ -6607,7 +6643,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. zero
 - D. clockwise then anticlockwise
 
-**Q916.** A copper plate swinging as a pendulum between the poles of a magnet stops quickly. If many deep slots are cut into the plate, it swings for much longer because
+**Q918.** A copper plate swinging as a pendulum between the poles of a magnet stops quickly. If many deep slots are cut into the plate, it swings for much longer because
 <!-- id: physics-5-2-22 -->
 
 - A. the slots reduce the mass of the plate
@@ -6615,7 +6651,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. the slots make the plate magnetic
 - D. the slots increase air resistance
 
-**Q917.** A conducting loop is held stationary near a stationary bar magnet. Which statement is correct?
+**Q919.** A conducting loop is held stationary near a stationary bar magnet. Which statement is correct?
 <!-- id: physics-5-2-23 -->
 
 - A. A steady current is induced because flux passes through the loop
@@ -6623,19 +6659,19 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. No current is induced because the flux through the loop is not changing
 - D. An alternating current is induced
 
-**Q918.** Electric vehicles use regenerative braking, where the drive motor acts as a generator. Explain how this slows the car.
+**Q920.** Electric vehicles use regenerative braking, where the drive motor acts as a generator. Explain how this slows the car.
 <!-- id: physics-5-2-24 -->
 
 *Written answer*
 
-**Q919.** The north pole of a magnet is moved towards the end of a coil. Viewed from the magnet's side, in which direction does the induced current flow around the coil? Explain.
+**Q921.** The north pole of a magnet is moved towards the end of a coil. Viewed from the magnet's side, in which direction does the induced current flow around the coil? Explain.
 <!-- id: physics-5-2-25 -->
 
 *Written answer*
 
 #### Generators, alternators and AC/RMS
 
-**Q920.** An alternator (AC generator) connects its rotating coil to the external circuit using
+**Q922.** An alternator (AC generator) connects its rotating coil to the external circuit using
 <!-- id: physics-5-3-1 -->
 
 - A. a split-ring commutator
@@ -6643,7 +6679,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. a permanent magnet
 - D. slip rings
 
-**Q921.** The function of a split-ring commutator in a DC generator is to
+**Q923.** The function of a split-ring commutator in a DC generator is to
 <!-- id: physics-5-3-2 -->
 
 - A. keep the coil's connections fixed so the output alternates
@@ -6651,7 +6687,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. reverse the coil's connection to the external circuit every half turn, so the output has one polarity
 - D. reduce friction between the brushes and the coil
 
-**Q922.** A coil rotates at constant speed in a uniform magnetic field. The induced emf is at its maximum when
+**Q924.** A coil rotates at constant speed in a uniform magnetic field. The induced emf is at its maximum when
 <!-- id: physics-5-3-3 -->
 
 - A. the plane of the coil is perpendicular to the field
@@ -6659,12 +6695,12 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. the flux through the coil is at its maximum
 - D. the coil has rotated 45° from the perpendicular position
 
-**Q923.** A coil rotates in a uniform magnetic field. Explain why the induced emf is a maximum when the plane of the coil is parallel to the field, even though the flux through it is zero.
+**Q925.** A coil rotates in a uniform magnetic field. Explain why the induced emf is a maximum when the plane of the coil is parallel to the field, even though the flux through it is zero.
 <!-- id: physics-5-3-4 -->
 
 *Written answer*
 
-**Q924.** A coil rotates at constant speed in a uniform magnetic field. At the instant the flux through the coil is a maximum, the induced emf is
+**Q926.** A coil rotates at constant speed in a uniform magnetic field. At the instant the flux through the coil is a maximum, the induced emf is
 <!-- id: physics-5-3-5 -->
 
 - A. zero
@@ -6672,7 +6708,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. half its maximum
 - D. equal to the RMS value
 
-**Q925.** The rotation rate of a simple AC generator is doubled. What happens to the peak emf and the frequency of the output?
+**Q927.** The rotation rate of a simple AC generator is doubled. What happens to the peak emf and the frequency of the output?
 <!-- id: physics-5-3-6 -->
 
 - A. Both double
@@ -6680,7 +6716,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. Peak emf stays the same; frequency doubles
 - D. Peak emf quadruples; frequency doubles
 
-**Q926.** Australian household mains supply is 230 V RMS. What is the approximate peak voltage?
+**Q928.** Australian household mains supply is 230 V RMS. What is the approximate peak voltage?
 <!-- id: physics-5-3-7 -->
 
 - A. 230 V
@@ -6688,12 +6724,12 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 163 V
 - D. 460 V
 
-**Q927.** Australian mains electricity is 230 V RMS at 50 Hz. Calculate the peak voltage and the period of the supply.
+**Q929.** Australian mains electricity is 230 V RMS at 50 Hz. Calculate the peak voltage and the period of the supply.
 <!-- id: physics-5-3-8 -->
 
 *Written answer*
 
-**Q928.** A generator coil rotates at 50 revolutions per second. What is the period of the AC output?
+**Q930.** A generator coil rotates at 50 revolutions per second. What is the period of the AC output?
 <!-- id: physics-5-3-9 -->
 
 - A. 50 ms
@@ -6701,7 +6737,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 20 ms
 - D. 10 ms
 
-**Q929.** What is the peak-to-peak voltage of the 230 V RMS mains supply?
+**Q931.** What is the peak-to-peak voltage of the 230 V RMS mains supply?
 <!-- id: physics-5-3-10 -->
 
 - A. 325 V
@@ -6709,7 +6745,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 650 V
 - D. 230 V
 
-**Q930.** A 1000 W heater operates from the 230 V RMS mains. What is the peak current through it?
+**Q932.** A 1000 W heater operates from the 230 V RMS mains. What is the peak current through it?
 <!-- id: physics-5-3-11 -->
 
 - A. 6.1 A
@@ -6717,12 +6753,12 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 3.1 A
 - D. 8.7 A
 
-**Q931.** The rotation speed of a simple AC generator is halved. Describe the effect on the peak emf and on the frequency of the output.
+**Q933.** The rotation speed of a simple AC generator is halved. Describe the effect on the peak emf and on the frequency of the output.
 <!-- id: physics-5-3-12 -->
 
 *Written answer*
 
-**Q932.** The RMS value of an alternating voltage is best described as
+**Q934.** The RMS value of an alternating voltage is best described as
 <!-- id: physics-5-3-13 -->
 
 - A. the average value of the voltage over one cycle
@@ -6730,7 +6766,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. half the peak-to-peak voltage
 - D. the steady DC voltage that would deliver the same average power to a resistor
 
-**Q933.** A sinusoidal AC voltage with a peak of 20 V is applied across a 10 Ω resistor. What is the average power dissipated?
+**Q935.** A sinusoidal AC voltage with a peak of 20 V is applied across a 10 Ω resistor. What is the average power dissipated?
 <!-- id: physics-5-3-14 -->
 
 - A. 40 W
@@ -6738,7 +6774,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 20 W
 - D. 14 W
 
-**Q934.** A generator has a 100-turn coil of area 0.020 m² in a 0.50 T field, rotating at 25 revolutions per second. What is the average emf during a quarter turn starting from the position where the plane is perpendicular to the field?
+**Q936.** A generator has a 100-turn coil of area 0.020 m² in a 0.50 T field, rotating at 25 revolutions per second. What is the average emf during a quarter turn starting from the position where the plane is perpendicular to the field?
 <!-- id: physics-5-3-15 -->
 
 - A. 100 V
@@ -6746,12 +6782,12 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 50 V
 - D. 1.0 V
 
-**Q935.** A 2400 W electric kettle is connected to the 230 V RMS mains. Calculate the RMS current and the resistance of the heating element.
+**Q937.** A 2400 W electric kettle is connected to the 230 V RMS mains. Calculate the RMS current and the resistance of the heating element.
 <!-- id: physics-5-3-16 -->
 
 *Written answer*
 
-**Q936.** A coil rotates at constant speed in a uniform magnetic field. The average emf over one complete revolution is
+**Q938.** A coil rotates at constant speed in a uniform magnetic field. The average emf over one complete revolution is
 <!-- id: physics-5-3-17 -->
 
 - A. zero
@@ -6759,7 +6795,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. equal to the RMS emf
 - D. equal to half the peak emf
 
-**Q937.** In a generator, the brushes
+**Q939.** In a generator, the brushes
 <!-- id: physics-5-3-18 -->
 
 - A. reverse the current direction every half turn
@@ -6767,7 +6803,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. increase the speed of rotation
 - D. provide a sliding electrical contact between the rotating coil and the external circuit
 
-**Q938.** The output of a simple single-coil DC generator with a split-ring commutator is best described as
+**Q940.** The output of a simple single-coil DC generator with a split-ring commutator is best described as
 <!-- id: physics-5-3-19 -->
 
 - A. a constant, steady voltage
@@ -6775,12 +6811,12 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. a sinusoidal voltage that alternates in polarity
 - D. a square wave alternating in polarity
 
-**Q939.** Explain the difference between the output of a generator fitted with slip rings and one fitted with a split-ring commutator.
+**Q941.** Explain the difference between the output of a generator fitted with slip rings and one fitted with a split-ring commutator.
 <!-- id: physics-5-3-20 -->
 
 *Written answer*
 
-**Q940.** A wind turbine's generator becomes harder to turn when a load is connected to it. This is because
+**Q942.** A wind turbine's generator becomes harder to turn when a load is connected to it. This is because
 <!-- id: physics-5-3-21 -->
 
 - A. the current in the coil experiences a magnetic force that opposes its rotation
@@ -6788,7 +6824,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. the magnetic field disappears when current flows
 - D. friction in the brushes increases with current
 
-**Q941.** Large alternators in Victorian power stations rotate an electromagnet inside stationary output coils. A key advantage of this design is that
+**Q943.** Large alternators in Victorian power stations rotate an electromagnet inside stationary output coils. A key advantage of this design is that
 <!-- id: physics-5-3-22 -->
 
 - A. it produces DC without a commutator
@@ -6796,7 +6832,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. the large output current does not need to pass through sliding contacts
 - D. it eliminates the need for a turbine
 
-**Q942.** An AC supply has a peak voltage of 340 V. What is its RMS voltage?
+**Q944.** An AC supply has a peak voltage of 340 V. What is its RMS voltage?
 <!-- id: physics-5-3-23 -->
 
 - A. 240 V
@@ -6804,19 +6840,19 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 170 V
 - D. 340 V
 
-**Q943.** A 50-turn coil of area 0.030 m² is in a uniform 0.20 T field, with its plane perpendicular to the field. It rotates through half a turn in 0.010 s. Calculate the average emf.
+**Q945.** A 50-turn coil of area 0.030 m² is in a uniform 0.20 T field, with its plane perpendicular to the field. It rotates through half a turn in 0.010 s. Calculate the average emf.
 <!-- id: physics-5-3-24 -->
 
 *Written answer*
 
-**Q944.** Explain why RMS values, rather than peak values, are used to rate AC appliances and supplies.
+**Q946.** Explain why RMS values, rather than peak values, are used to rate AC appliances and supplies.
 <!-- id: physics-5-3-25 -->
 
 *Written answer*
 
 #### Transformers and transmission losses
 
-**Q945.** An ideal transformer has 1150 turns on its primary and 60 turns on its secondary. It is connected to the 230 V RMS mains. What is the secondary voltage?
+**Q947.** An ideal transformer has 1150 turns on its primary and 60 turns on its secondary. It is connected to the 230 V RMS mains. What is the secondary voltage?
 <!-- id: physics-5-4-1 -->
 
 - A. 12 V
@@ -6824,7 +6860,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 2.4 V
 - D. 24 V
 
-**Q946.** A transformer will not work if its primary is connected to a steady DC supply because
+**Q948.** A transformer will not work if its primary is connected to a steady DC supply because
 <!-- id: physics-5-4-2 -->
 
 - A. a steady current produces a constant flux, so no emf is induced in the secondary
@@ -6832,7 +6868,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. the iron core is demagnetised by DC
 - D. DC flows only in the secondary coil
 
-**Q947.** An ideal step-up transformer has a turns ratio of 1 : 20 (primary : secondary). The primary current is 50 A. What is the secondary current?
+**Q949.** An ideal step-up transformer has a turns ratio of 1 : 20 (primary : secondary). The primary current is 50 A. What is the secondary current?
 <!-- id: physics-5-4-3 -->
 
 - A. 1000 A
@@ -6840,12 +6876,12 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 2.5 A
 - D. 0.40 A
 
-**Q948.** Explain how a transformer produces an alternating voltage in its secondary coil.
+**Q950.** Explain how a transformer produces an alternating voltage in its secondary coil.
 <!-- id: physics-5-4-4 -->
 
 *Written answer*
 
-**Q949.** Transformer cores are made from thin laminated sheets of soft iron, insulated from each other, in order to
+**Q951.** Transformer cores are made from thin laminated sheets of soft iron, insulated from each other, in order to
 <!-- id: physics-5-4-5 -->
 
 - A. increase the turns ratio
@@ -6853,7 +6889,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. reduce energy losses due to eddy currents
 - D. allow the transformer to work with DC
 
-**Q950.** The power lost as heat in a transmission line carrying current I with total resistance R is
+**Q952.** The power lost as heat in a transmission line carrying current I with total resistance R is
 <!-- id: physics-5-4-6 -->
 
 - A. V²/R using the transmission voltage
@@ -6861,7 +6897,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. I²R
 - D. IR
 
-**Q951.** A power station transmits 10 MW. If the transmission voltage is increased from 20 kV to 200 kV, the power lost in the lines is
+**Q953.** A power station transmits 10 MW. If the transmission voltage is increased from 20 kV to 200 kV, the power lost in the lines is
 <!-- id: physics-5-4-7 -->
 
 - A. reduced to 1/10 of its original value
@@ -6869,12 +6905,12 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. increased 100 times
 - D. reduced to 1/100 of its original value
 
-**Q952.** A substation transformer steps 66 kV down to 11 kV. The primary has 1800 turns. Calculate the number of secondary turns, assuming an ideal transformer.
+**Q954.** A substation transformer steps 66 kV down to 11 kV. The primary has 1800 turns. Calculate the number of secondary turns, assuming an ideal transformer.
 <!-- id: physics-5-4-8 -->
 
 *Written answer*
 
-**Q953.** 500 kW of power is transmitted at 10 kV along lines with a total resistance of 4.0 Ω. What is the power lost in the lines?
+**Q955.** 500 kW of power is transmitted at 10 kV along lines with a total resistance of 4.0 Ω. What is the power lost in the lines?
 <!-- id: physics-5-4-9 -->
 
 - A. 200 W
@@ -6882,7 +6918,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 25 MW
 - D. 10 kW
 
-**Q954.** 500 kW of power is sent at 10 kV along lines with a total resistance of 4.0 Ω. What is the voltage at the load end of the lines?
+**Q956.** 500 kW of power is sent at 10 kV along lines with a total resistance of 4.0 Ω. What is the voltage at the load end of the lines?
 <!-- id: physics-5-4-10 -->
 
 - A. 10 kV
@@ -6890,7 +6926,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 9.8 kV
 - D. 200 V
 
-**Q955.** A student calculates the power loss in a transmission line using P = V²/R with V equal to the 10 kV transmission voltage. This is incorrect because
+**Q957.** A student calculates the power loss in a transmission line using P = V²/R with V equal to the 10 kV transmission voltage. This is incorrect because
 <!-- id: physics-5-4-11 -->
 
 - A. V²/R only applies to DC circuits
@@ -6898,12 +6934,12 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. the 10 kV is not the voltage across the line resistance; only the much smaller voltage drop across the lines should be used
 - D. the power loss does not depend on resistance
 
-**Q956.** Explain why electricity is transmitted at very high voltages over long distances.
+**Q958.** Explain why electricity is transmitted at very high voltages over long distances.
 <!-- id: physics-5-4-12 -->
 
 *Written answer*
 
-**Q957.** An ideal transformer has 4800 turns on its primary. It converts 240 V RMS to 12 V RMS. How many turns are on the secondary?
+**Q959.** An ideal transformer has 4800 turns on its primary. It converts 240 V RMS to 12 V RMS. How many turns are on the secondary?
 <!-- id: physics-5-4-13 -->
 
 - A. 96 000
@@ -6911,7 +6947,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 400
 - D. 120
 
-**Q958.** An ideal transformer supplies 60 W to a 12 V lamp. The primary is connected to 240 V RMS. What is the primary current?
+**Q960.** An ideal transformer supplies 60 W to a 12 V lamp. The primary is connected to 240 V RMS. What is the primary current?
 <!-- id: physics-5-4-14 -->
 
 - A. 5.0 A
@@ -6919,7 +6955,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 0.050 A
 - D. 0.25 A
 
-**Q959.** Transformer cores are made of soft iron mainly because soft iron
+**Q961.** Transformer cores are made of soft iron mainly because soft iron
 <!-- id: physics-5-4-15 -->
 
 - A. is easily magnetised and concentrates the changing flux so it links both coils
@@ -6927,12 +6963,12 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. stays permanently magnetised
 - D. has a high resistance that reduces heat in the coils
 
-**Q960.** 100 kW is to be transmitted through lines with a total resistance of 0.50 Ω. Calculate the power loss if it is transmitted at (a) 415 V and (b) 11 kV.
+**Q962.** 100 kW is to be transmitted through lines with a total resistance of 0.50 Ω. Calculate the power loss if it is transmitted at (a) 415 V and (b) 11 kV.
 <!-- id: physics-5-4-16 -->
 
 *Written answer*
 
-**Q961.** Which statement about an ideal step-down transformer is correct?
+**Q963.** Which statement about an ideal step-down transformer is correct?
 <!-- id: physics-5-4-17 -->
 
 - A. The secondary has more turns and carries a larger current than the primary
@@ -6940,7 +6976,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. The secondary delivers more power than the primary receives
 - D. The secondary has fewer turns and carries a larger current than the primary
 
-**Q962.** A 1 : 10 step-up transformer is connected to a 50 Hz supply. What is the frequency of the secondary output?
+**Q964.** A 1 : 10 step-up transformer is connected to a 50 Hz supply. What is the frequency of the secondary output?
 <!-- id: physics-5-4-18 -->
 
 - A. 500 Hz
@@ -6948,7 +6984,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 50 Hz
 - D. 0 Hz
 
-**Q963.** For the same power delivered, the transmission voltage is doubled. The power lost in the lines becomes
+**Q965.** For the same power delivered, the transmission voltage is doubled. The power lost in the lines becomes
 <!-- id: physics-5-4-19 -->
 
 - A. half its original value
@@ -6956,12 +6992,12 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. one quarter of its original value
 - D. unchanged
 
-**Q964.** Explain why transformer cores are laminated.
+**Q966.** Explain why transformer cores are laminated.
 <!-- id: physics-5-4-20 -->
 
 *Written answer*
 
-**Q965.** 2.0 MW is transmitted at 40 kV through lines with a total resistance of 5.0 Ω. Approximately what percentage of the transmitted power is lost in the lines?
+**Q967.** 2.0 MW is transmitted at 40 kV through lines with a total resistance of 5.0 Ω. Approximately what percentage of the transmitted power is lost in the lines?
 <!-- id: physics-5-4-21 -->
 
 - A. 6.3%
@@ -6969,7 +7005,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 0.063%
 - D. 0.63%
 
-**Q966.** The main reason AC rather than DC has traditionally been used for electricity distribution in Australia is that
+**Q968.** The main reason AC rather than DC has traditionally been used for electricity distribution in Australia is that
 <!-- id: physics-5-4-22 -->
 
 - A. AC loses no energy in transmission lines
@@ -6977,7 +7013,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. AC travels faster along wires than DC
 - D. AC is easier to store in batteries
 
-**Q967.** A zone substation transformer steps 22 kV down to 415 V. What is the approximate primary : secondary turns ratio?
+**Q969.** A zone substation transformer steps 22 kV down to 415 V. What is the approximate primary : secondary turns ratio?
 <!-- id: physics-5-4-23 -->
 
 - A. 1 : 53
@@ -6985,12 +7021,12 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 530 : 1
 - D. 53 : 1
 
-**Q968.** An ideal transformer's secondary supplies 4.0 A at 24 V to a load. The primary is connected to 240 V RMS. Calculate the primary current and the turns ratio.
+**Q970.** An ideal transformer's secondary supplies 4.0 A at 24 V to a load. The primary is connected to 240 V RMS. Calculate the primary current and the turns ratio.
 <!-- id: physics-5-4-24 -->
 
 *Written answer*
 
-**Q969.** A farm shed needs 20 kW at 240 V and is supplied by a line of total resistance 0.20 Ω. Calculate the voltage drop along the line and the power lost in it.
+**Q971.** A farm shed needs 20 kW at 240 V and is supplied by a line of total resistance 0.20 Ω. Calculate the voltage drop along the line and the power lost in it.
 <!-- id: physics-5-4-25 -->
 
 *Written answer*
@@ -6999,7 +7035,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 
 #### Wave properties and electromagnetic waves
 
-**Q970.** A red laser emits light of wavelength 600 nm in a vacuum. What is the frequency of this light? (c = 3.0 × 10^8 m s⁻¹)
+**Q972.** A red laser emits light of wavelength 600 nm in a vacuum. What is the frequency of this light? (c = 3.0 × 10^8 m s⁻¹)
 <!-- id: physics-6-1-1 -->
 
 - A. 5.0 × 10^14 Hz
@@ -7007,7 +7043,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 1.8 × 10^2 Hz
 - D. 5.0 × 10^11 Hz
 
-**Q971.** Light passes from air into a glass block. Which property of the light remains unchanged?
+**Q973.** Light passes from air into a glass block. Which property of the light remains unchanged?
 <!-- id: physics-6-1-2 -->
 
 - A. Wavelength
@@ -7015,7 +7051,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. Speed
 - D. Both speed and wavelength
 
-**Q972.** According to Maxwell's theory, electromagnetic waves are produced by:
+**Q974.** According to Maxwell's theory, electromagnetic waves are produced by:
 <!-- id: physics-6-1-3 -->
 
 - A. stationary electric charges
@@ -7023,7 +7059,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. accelerating (e.g. oscillating) electric charges
 - D. a steady direct current in a straight wire
 
-**Q973.** In an electromagnetic wave travelling through space, the electric and magnetic fields are:
+**Q975.** In an electromagnetic wave travelling through space, the electric and magnetic fields are:
 <!-- id: physics-6-1-4 -->
 
 - A. parallel to each other and perpendicular to the direction of travel
@@ -7031,7 +7067,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. parallel to each other and to the direction of travel
 - D. perpendicular to each other and to the direction of travel
 
-**Q974.** Triple J broadcasts on an FM frequency of about 100 MHz. What is the wavelength of these radio waves?
+**Q976.** Triple J broadcasts on an FM frequency of about 100 MHz. What is the wavelength of these radio waves?
 <!-- id: physics-6-1-5 -->
 
 - A. 3.0 m
@@ -7039,7 +7075,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 30 m
 - D. 3.0 × 10^16 m
 
-**Q975.** Which scientist showed theoretically that electromagnetic waves should travel at about 3 × 10^8 m s⁻¹, suggesting that light is an electromagnetic wave?
+**Q977.** Which scientist showed theoretically that electromagnetic waves should travel at about 3 × 10^8 m s⁻¹, suggesting that light is an electromagnetic wave?
 <!-- id: physics-6-1-6 -->
 
 - A. Isaac Newton
@@ -7047,7 +7083,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. Thomas Young
 - D. Christiaan Huygens
 
-**Q976.** Which colour of visible light has the highest frequency?
+**Q978.** Which colour of visible light has the highest frequency?
 <!-- id: physics-6-1-7 -->
 
 - A. Red
@@ -7055,7 +7091,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. Violet
 - D. Green
 
-**Q977.** What is the period of a light wave with frequency 5.0 × 10^14 Hz?
+**Q979.** What is the period of a light wave with frequency 5.0 × 10^14 Hz?
 <!-- id: physics-6-1-8 -->
 
 - A. 5.0 × 10^-14 s
@@ -7063,7 +7099,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 6.0 × 10^-7 s
 - D. 2.0 × 10^-15 s
 
-**Q978.** A green laser pointer emits light of wavelength 532 nm. What is its frequency?
+**Q980.** A green laser pointer emits light of wavelength 532 nm. What is its frequency?
 <!-- id: physics-6-1-9 -->
 
 - A. 5.64 × 10^14 Hz
@@ -7071,7 +7107,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 1.60 × 10^2 Hz
 - D. 5.64 × 10^5 Hz
 
-**Q979.** Light of frequency 5.0 × 10^14 Hz travels through a plastic in which its speed is 2.0 × 10^8 m s⁻¹. What is its wavelength in the plastic?
+**Q981.** Light of frequency 5.0 × 10^14 Hz travels through a plastic in which its speed is 2.0 × 10^8 m s⁻¹. What is its wavelength in the plastic?
 <!-- id: physics-6-1-10 -->
 
 - A. 600 nm
@@ -7079,7 +7115,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 250 nm
 - D. 1.0 × 10^23 m
 
-**Q980.** Which statement correctly describes a key difference between light and sound?
+**Q982.** Which statement correctly describes a key difference between light and sound?
 <!-- id: physics-6-1-11 -->
 
 - A. Sound travels faster than light in air.
@@ -7087,7 +7123,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. Light can travel through a vacuum, but sound requires a medium.
 - D. Sound can be polarised, but light cannot.
 
-**Q981.** In the wave model of light, increasing the amplitude of a light wave of fixed frequency increases its:
+**Q983.** In the wave model of light, increasing the amplitude of a light wave of fixed frequency increases its:
 <!-- id: physics-6-1-12 -->
 
 - A. frequency
@@ -7095,7 +7131,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. wavelength
 - D. intensity (brightness)
 
-**Q982.** In the 1850s, Foucault showed that light travels more slowly in water than in air. This result supported:
+**Q984.** In the 1850s, Foucault showed that light travels more slowly in water than in air. This result supported:
 <!-- id: physics-6-1-13 -->
 
 - A. Huygens' wave model of light
@@ -7103,7 +7139,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. the idea that light needs no medium
 - D. the idea that light is a longitudinal wave
 
-**Q983.** Which observation could NOT be explained by the classical wave model of light?
+**Q985.** Which observation could NOT be explained by the classical wave model of light?
 <!-- id: physics-6-1-14 -->
 
 - A. Two-slit interference
@@ -7111,7 +7147,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. Diffraction through a narrow slit
 - D. Refraction at a boundary
 
-**Q984.** Electromagnetic radiation with a wavelength of 1.0 × 10^-10 m is best classified as:
+**Q986.** Electromagnetic radiation with a wavelength of 1.0 × 10^-10 m is best classified as:
 <!-- id: physics-6-1-15 -->
 
 - A. ultraviolet
@@ -7119,7 +7155,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. X-rays
 - D. microwaves
 
-**Q985.** Two points along the direction of travel of a 600 nm light wave are 900 nm apart. The oscillations at these two points are:
+**Q987.** Two points along the direction of travel of a 600 nm light wave are 900 nm apart. The oscillations at these two points are:
 <!-- id: physics-6-1-16 -->
 
 - A. exactly in phase
@@ -7127,7 +7163,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. in phase, because all points on a light wave move together
 - D. exactly out of phase (half a cycle apart)
 
-**Q986.** In Huygens' description of light, a wavefront is:
+**Q988.** In Huygens' description of light, a wavefront is:
 <!-- id: physics-6-1-17 -->
 
 - A. a surface joining points of the wave that are in the same phase
@@ -7135,7 +7171,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. the leading edge of a light pulse only
 - D. the direction in which the wave's energy travels
 
-**Q987.** A radio wave, a visible light wave and an X-ray all travel through a vacuum. Which statement is correct?
+**Q989.** A radio wave, a visible light wave and an X-ray all travel through a vacuum. Which statement is correct?
 <!-- id: physics-6-1-18 -->
 
 - A. The X-ray travels fastest because it has the highest frequency.
@@ -7143,44 +7179,44 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. The radio wave travels fastest because it has the longest wavelength.
 - D. They have the same frequency but different speeds.
 
-**Q988.** Explain why electromagnetic waves, unlike sound, do not need a medium in which to travel.
+**Q990.** Explain why electromagnetic waves, unlike sound, do not need a medium in which to travel.
 <!-- id: physics-6-1-19 -->
 
 *Written answer*
 
-**Q989.** Red light with frequency 4.6 × 10^14 Hz travels through water at 2.25 × 10^8 m s⁻¹. Calculate its wavelength in water.
+**Q991.** Red light with frequency 4.6 × 10^14 Hz travels through water at 2.25 × 10^8 m s⁻¹. Calculate its wavelength in water.
 <!-- id: physics-6-1-20 -->
 
 *Written answer*
 
-**Q990.** A 4G mobile phone tower transmits at 2.6 GHz. Calculate the wavelength of the signal.
+**Q992.** A 4G mobile phone tower transmits at 2.6 GHz. Calculate the wavelength of the signal.
 <!-- id: physics-6-1-21 -->
 
 *Written answer*
 
-**Q991.** Distinguish between transverse and longitudinal waves, giving one example of each.
+**Q993.** Distinguish between transverse and longitudinal waves, giving one example of each.
 <!-- id: physics-6-1-22 -->
 
 *Written answer*
 
-**Q992.** Outline Maxwell's contribution to the understanding of light.
+**Q994.** Outline Maxwell's contribution to the understanding of light.
 <!-- id: physics-6-1-23 -->
 
 *Written answer*
 
-**Q993.** Describe what happens to the speed, frequency and wavelength of light as it passes from air into glass.
+**Q995.** Describe what happens to the speed, frequency and wavelength of light as it passes from air into glass.
 <!-- id: physics-6-1-24 -->
 
 *Written answer*
 
-**Q994.** How many wavelengths of 500 nm light fit into a distance of 1.0 mm?
+**Q996.** How many wavelengths of 500 nm light fit into a distance of 1.0 mm?
 <!-- id: physics-6-1-25 -->
 
 *Written answer*
 
 #### Interference and Young's double slit
 
-**Q995.** In a Young's double-slit experiment, a bright fringe occurs at a point where the path difference from the two slits is:
+**Q997.** In a Young's double-slit experiment, a bright fringe occurs at a point where the path difference from the two slits is:
 <!-- id: physics-6-2-1 -->
 
 - A. an odd number of half wavelengths
@@ -7188,7 +7224,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. a whole number of wavelengths, nλ
 - D. zero only
 
-**Q996.** In a Young's double-slit pattern, a dark fringe occurs where the path difference is:
+**Q998.** In a Young's double-slit pattern, a dark fringe occurs where the path difference is:
 <!-- id: physics-6-2-2 -->
 
 - A. nλ, where n = 1, 2, 3, …
@@ -7196,7 +7232,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. λ/n, where n = 1, 2, 3, …
 - D. (n − ½)λ, where n = 1, 2, 3, …
 
-**Q997.** Light of wavelength 600 nm passes through two slits 0.30 mm apart and falls on a screen 2.0 m away. What is the spacing between adjacent bright fringes?
+**Q999.** Light of wavelength 600 nm passes through two slits 0.30 mm apart and falls on a screen 2.0 m away. What is the spacing between adjacent bright fringes?
 <!-- id: physics-6-2-3 -->
 
 - A. 4.0 mm
@@ -7204,7 +7240,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 2.0 mm
 - D. 8.0 mm
 
-**Q998.** In a Young's double-slit experiment, the slit separation is increased while everything else is unchanged. The fringe spacing will:
+**Q1000.** In a Young's double-slit experiment, the slit separation is increased while everything else is unchanged. The fringe spacing will:
 <!-- id: physics-6-2-4 -->
 
 - A. increase
@@ -7212,7 +7248,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. stay the same
 - D. become zero
 
-**Q999.** A Young's double-slit experiment is repeated with blue light instead of red light. Compared with the red pattern, the blue fringes will be:
+**Q1001.** A Young's double-slit experiment is repeated with blue light instead of red light. Compared with the red pattern, the blue fringes will be:
 <!-- id: physics-6-2-5 -->
 
 - A. further apart
@@ -7220,7 +7256,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. closer together
 - D. replaced by a single bright band
 
-**Q1000.** The screen in a Young's double-slit experiment is moved further from the slits. The fringe spacing will:
+**Q1002.** The screen in a Young's double-slit experiment is moved further from the slits. The fringe spacing will:
 <!-- id: physics-6-2-6 -->
 
 - A. decrease
@@ -7228,7 +7264,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. decrease, then increase
 - D. increase
 
-**Q1001.** Light of wavelength 500 nm is used in a double-slit experiment. What is the path difference to the third bright fringe either side of the central maximum?
+**Q1003.** Light of wavelength 500 nm is used in a double-slit experiment. What is the path difference to the third bright fringe either side of the central maximum?
 <!-- id: physics-6-2-7 -->
 
 - A. 1.5 µm
@@ -7236,7 +7272,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 1.0 µm
 - D. 0.75 µm
 
-**Q1002.** Light of wavelength 600 nm is used in a Young's experiment. What is the path difference at the second dark fringe from the centre?
+**Q1004.** Light of wavelength 600 nm is used in a Young's experiment. What is the path difference at the second dark fringe from the centre?
 <!-- id: physics-6-2-8 -->
 
 - A. 1200 nm
@@ -7244,7 +7280,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 600 nm
 - D. 300 nm
 
-**Q1003.** In a double-slit experiment using 500 nm light, point P on the screen has a path difference of 1.25 µm. What is observed at P?
+**Q1005.** In a double-slit experiment using 500 nm light, point P on the screen has a path difference of 1.25 µm. What is observed at P?
 <!-- id: physics-6-2-9 -->
 
 - A. The second bright fringe
@@ -7252,7 +7288,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. A dark fringe (the third dark fringe from the centre)
 - D. A bright fringe, because 1.25 µm is greater than λ
 
-**Q1004.** In Young's original experiment, light from a single source was passed through a single slit before the double slits. The main purpose was to make the two slits act as:
+**Q1006.** In Young's original experiment, light from a single source was passed through a single slit before the double slits. The main purpose was to make the two slits act as:
 <!-- id: physics-6-2-10 -->
 
 - A. sources of different frequencies
@@ -7260,7 +7296,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. polarised sources
 - D. coherent sources with a constant phase relationship
 
-**Q1005.** Two identical car headlights shining on a wall do not produce a visible interference pattern because the light from them is:
+**Q1007.** Two identical car headlights shining on a wall do not produce a visible interference pattern because the light from them is:
 <!-- id: physics-6-2-11 -->
 
 - A. not coherent
@@ -7268,7 +7304,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. travelling too fast
 - D. longitudinal
 
-**Q1006.** A double-slit pattern has a fringe spacing of 2.4 mm when the slits are 0.50 mm apart and the screen is 2.0 m away. What is the wavelength of the light?
+**Q1008.** A double-slit pattern has a fringe spacing of 2.4 mm when the slits are 0.50 mm apart and the screen is 2.0 m away. What is the wavelength of the light?
 <!-- id: physics-6-2-12 -->
 
 - A. 300 nm
@@ -7276,7 +7312,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 1.2 × 10^3 nm
 - D. 6.0 × 10^3 nm
 
-**Q1007.** Young's double-slit experiment provided strong evidence that light:
+**Q1009.** Young's double-slit experiment provided strong evidence that light:
 <!-- id: physics-6-2-13 -->
 
 - A. consists of particles with momentum
@@ -7284,7 +7320,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. behaves as a wave
 - D. travels faster in glass than in air
 
-**Q1008.** A Young's double-slit apparatus is completely immersed in water, where light travels more slowly than in air. The fringe spacing will:
+**Q1010.** A Young's double-slit apparatus is completely immersed in water, where light travels more slowly than in air. The fringe spacing will:
 <!-- id: physics-6-2-14 -->
 
 - A. increase
@@ -7292,7 +7328,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. double
 - D. decrease
 
-**Q1009.** In a double-slit pattern the fringe spacing is 2.0 mm. What is the distance from the centre of the central bright fringe to the centre of the third dark fringe?
+**Q1011.** In a double-slit pattern the fringe spacing is 2.0 mm. What is the distance from the centre of the central bright fringe to the centre of the third dark fringe?
 <!-- id: physics-6-2-15 -->
 
 - A. 5.0 mm
@@ -7300,7 +7336,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 3.0 mm
 - D. 7.0 mm
 
-**Q1010.** Destructive interference between two light waves of equal amplitude occurs when the waves arrive:
+**Q1012.** Destructive interference between two light waves of equal amplitude occurs when the waves arrive:
 <!-- id: physics-6-2-16 -->
 
 - A. exactly in phase
@@ -7308,7 +7344,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. a whole cycle out of phase
 - D. with a path difference of zero
 
-**Q1011.** In a double-slit interference pattern, what happens to the light energy that does not reach the dark fringes?
+**Q1013.** In a double-slit interference pattern, what happens to the light energy that does not reach the dark fringes?
 <!-- id: physics-6-2-17 -->
 
 - A. It is destroyed by destructive interference.
@@ -7316,7 +7352,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. It is redistributed to the bright fringes.
 - D. It is converted into heat in the slits.
 
-**Q1012.** Light of wavelength 650 nm passes through slits 0.25 mm apart onto a screen 1.5 m away. How far from the centre of the central maximum is the fourth bright fringe?
+**Q1014.** Light of wavelength 650 nm passes through slits 0.25 mm apart onto a screen 1.5 m away. How far from the centre of the central maximum is the fourth bright fringe?
 <!-- id: physics-6-2-18 -->
 
 - A. 3.9 mm
@@ -7324,44 +7360,44 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 19.5 mm
 - D. 15.6 mm
 
-**Q1013.** Explain, using the idea of path difference, how bright and dark fringes form in Young's double-slit experiment.
+**Q1015.** Explain, using the idea of path difference, how bright and dark fringes form in Young's double-slit experiment.
 <!-- id: physics-6-2-19 -->
 
 *Written answer*
 
-**Q1014.** A 532 nm green laser produces fringes 4.0 mm apart on a screen 3.0 m from a double slit. Calculate the slit separation.
+**Q1016.** A 532 nm green laser produces fringes 4.0 mm apart on a screen 3.0 m from a double slit. Calculate the slit separation.
 <!-- id: physics-6-2-20 -->
 
 *Written answer*
 
-**Q1015.** Light of wavelength 640 nm is used in a double-slit experiment. What is the path difference to the first dark fringe?
+**Q1017.** Light of wavelength 640 nm is used in a double-slit experiment. What is the path difference to the first dark fringe?
 <!-- id: physics-6-2-21 -->
 
 *Written answer*
 
-**Q1016.** During a Young's double-slit experiment, one slit is covered. Describe how the pattern on the screen changes.
+**Q1018.** During a Young's double-slit experiment, one slit is covered. Describe how the pattern on the screen changes.
 <!-- id: physics-6-2-22 -->
 
 *Written answer*
 
-**Q1017.** A student measures that 10 fringe spacings cover 25 mm on a screen 1.0 m from a double slit with separation 0.20 mm. Calculate the wavelength of the light.
+**Q1019.** A student measures that 10 fringe spacings cover 25 mm on a screen 1.0 m from a double slit with separation 0.20 mm. Calculate the wavelength of the light.
 <!-- id: physics-6-2-23 -->
 
 *Written answer*
 
-**Q1018.** Describe the pattern seen when white light is used in a Young's double-slit experiment, and explain it.
+**Q1020.** Describe the pattern seen when white light is used in a Young's double-slit experiment, and explain it.
 <!-- id: physics-6-2-24 -->
 
 *Written answer*
 
-**Q1019.** Explain why Young's double-slit result was a problem for Newton's particle model of light.
+**Q1021.** Explain why Young's double-slit result was a problem for Newton's particle model of light.
 <!-- id: physics-6-2-25 -->
 
 *Written answer*
 
 #### Diffraction and the λ/w ratio
 
-**Q1020.** Diffraction of a wave through a gap is most noticeable when:
+**Q1022.** Diffraction of a wave through a gap is most noticeable when:
 <!-- id: physics-6-3-1 -->
 
 - A. the wavelength is similar to or larger than the gap width
@@ -7369,7 +7405,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. the wave has a very high frequency
 - D. the wave has a very large amplitude
 
-**Q1021.** Light of wavelength 500 nm passes through each of the following slits. Which produces the greatest diffraction?
+**Q1023.** Light of wavelength 500 nm passes through each of the following slits. Which produces the greatest diffraction?
 <!-- id: physics-6-3-2 -->
 
 - A. A 5 µm slit
@@ -7377,7 +7413,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. A 50 µm slit
 - D. A 5 mm slit
 
-**Q1022.** A single slit is made narrower while the wavelength of light is unchanged. The central bright band of the diffraction pattern will:
+**Q1024.** A single slit is made narrower while the wavelength of light is unchanged. The central bright band of the diffraction pattern will:
 <!-- id: physics-6-3-3 -->
 
 - A. become narrower
@@ -7385,7 +7421,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. become wider
 - D. split into two bands
 
-**Q1023.** You can hear people talking in a corridor around a corner, but cannot see them. The best explanation is that:
+**Q1025.** You can hear people talking in a corridor around a corner, but cannot see them. The best explanation is that:
 <!-- id: physics-6-3-4 -->
 
 - A. sound travels faster than light
@@ -7393,7 +7429,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. sound is a transverse wave
 - D. sound wavelengths are comparable to the doorway width, but light wavelengths are far smaller
 
-**Q1024.** Red light and blue light pass in turn through the same narrow slit. Compared with the blue pattern, the red diffraction pattern is:
+**Q1026.** Red light and blue light pass in turn through the same narrow slit. Compared with the blue pattern, the red diffraction pattern is:
 <!-- id: physics-6-3-5 -->
 
 - A. wider
@@ -7401,7 +7437,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. the same width
 - D. not formed at all
 
-**Q1025.** When light diffracts through a narrow slit in air, which statement is correct?
+**Q1027.** When light diffracts through a narrow slit in air, which statement is correct?
 <!-- id: physics-6-3-6 -->
 
 - A. Its wavelength increases.
@@ -7409,7 +7445,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. Its speed decreases.
 - D. Its frequency decreases.
 
-**Q1026.** In hilly regions of country Victoria, AM radio (wavelength about 300 m) is often received better than FM radio (wavelength about 3 m). This is mainly because:
+**Q1028.** In hilly regions of country Victoria, AM radio (wavelength about 300 m) is often received better than FM radio (wavelength about 3 m). This is mainly because:
 <!-- id: physics-6-3-7 -->
 
 - A. AM waves travel faster than FM waves
@@ -7417,7 +7453,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. longer-wavelength AM waves diffract more around hills
 - D. AM waves have a higher frequency
 
-**Q1027.** Microwaves of wavelength 3.0 cm pass through a gap of 6.0 cm. What is the value of λ/w?
+**Q1029.** Microwaves of wavelength 3.0 cm pass through a gap of 6.0 cm. What is the value of λ/w?
 <!-- id: physics-6-3-8 -->
 
 - A. 2.0
@@ -7425,7 +7461,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 18
 - D. 0.50
 
-**Q1028.** Light of wavelength 500 nm passes through a 2.0 mm wide gap. Which best describes the diffraction?
+**Q1030.** Light of wavelength 500 nm passes through a 2.0 mm wide gap. Which best describes the diffraction?
 <!-- id: physics-6-3-9 -->
 
 - A. Negligible, because λ/w is about 2.5 × 10^-4
@@ -7433,7 +7469,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. Very significant, because λ/w is about 1
 - D. None at all, because light cannot diffract
 
-**Q1029.** Large telescopes such as those at Siding Spring Observatory have wide apertures partly because a larger aperture:
+**Q1031.** Large telescopes such as those at Siding Spring Observatory have wide apertures partly because a larger aperture:
 <!-- id: physics-6-3-10 -->
 
 - A. increases the wavelength of the incoming light
@@ -7441,7 +7477,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. increases diffraction, making images brighter
 - D. polarises the incoming light
 
-**Q1030.** Ocean waves of wavelength 20 m approach a harbour entrance 20 m wide. Inside the harbour the waves will:
+**Q1032.** Ocean waves of wavelength 20 m approach a harbour entrance 20 m wide. Inside the harbour the waves will:
 <!-- id: physics-6-3-11 -->
 
 - A. continue in a narrow straight beam
@@ -7449,7 +7485,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. spread out significantly into the harbour
 - D. double in wavelength
 
-**Q1031.** The wavelength of light and the width of a slit are both doubled. Compared with the original, the amount of diffraction will be:
+**Q1033.** The wavelength of light and the width of a slit are both doubled. Compared with the original, the amount of diffraction will be:
 <!-- id: physics-6-3-12 -->
 
 - A. doubled
@@ -7457,7 +7493,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. four times greater
 - D. the same
 
-**Q1032.** Which change will increase the diffraction of light passing through a single slit?
+**Q1034.** Which change will increase the diffraction of light passing through a single slit?
 <!-- id: physics-6-3-13 -->
 
 - A. Using light of a longer wavelength
@@ -7465,7 +7501,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. Making the slit wider
 - D. Increasing the brightness of the light
 
-**Q1033.** The intensity of a laser beam passing through a single slit is increased. The diffraction pattern will be:
+**Q1035.** The intensity of a laser beam passing through a single slit is increased. The diffraction pattern will be:
 <!-- id: physics-6-3-14 -->
 
 - A. wider and brighter
@@ -7473,7 +7509,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. narrower and brighter
 - D. unchanged in brightness but wider
 
-**Q1034.** For monochromatic light passing through a single slit, the pattern on the screen consists of:
+**Q1036.** For monochromatic light passing through a single slit, the pattern on the screen consists of:
 <!-- id: physics-6-3-15 -->
 
 - A. equally spaced bright fringes of equal brightness
@@ -7481,7 +7517,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. a broad, bright central band with much fainter, narrower side bands
 - D. a continuous spectrum of colours
 
-**Q1035.** Laser light passing the sharp edge of a razor blade produces faint bright and dark bands at the edge of the shadow. This is mainly due to:
+**Q1037.** Laser light passing the sharp edge of a razor blade produces faint bright and dark bands at the edge of the shadow. This is mainly due to:
 <!-- id: physics-6-3-16 -->
 
 - A. refraction
@@ -7489,7 +7525,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. dispersion
 - D. diffraction
 
-**Q1036.** Which wave would diffract MOST when passing through a 1.0 m wide doorway?
+**Q1038.** Which wave would diffract MOST when passing through a 1.0 m wide doorway?
 <!-- id: physics-6-3-17 -->
 
 - A. Sound of frequency 340 Hz (λ = 1.0 m)
@@ -7497,7 +7533,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. Infrared radiation (λ = 10 µm)
 - D. Visible light (λ = 500 nm)
 
-**Q1037.** Which observation is the strongest evidence from diffraction that light behaves as a wave?
+**Q1039.** Which observation is the strongest evidence from diffraction that light behaves as a wave?
 <!-- id: physics-6-3-18 -->
 
 - A. Light travels in straight lines through a wide window.
@@ -7505,44 +7541,44 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. Light reflects from a mirror at equal angles.
 - D. Light from the Sun takes about 8 minutes to reach Earth.
 
-**Q1038.** State how the amount of diffraction depends on wavelength and gap width.
+**Q1040.** State how the amount of diffraction depends on wavelength and gap width.
 <!-- id: physics-6-3-19 -->
 
 *Written answer*
 
-**Q1039.** A Wi-Fi router transmits at 2.4 GHz. The signal passes through a 0.125 m gap between two steel shelves. Calculate λ/w and comment on the diffraction.
+**Q1041.** A Wi-Fi router transmits at 2.4 GHz. The signal passes through a 0.125 m gap between two steel shelves. Calculate λ/w and comment on the diffraction.
 <!-- id: physics-6-3-20 -->
 
 *Written answer*
 
-**Q1040.** Explain why you can hear a radio playing in the next room through an open door, even though you cannot see it.
+**Q1042.** Explain why you can hear a radio playing in the next room through an open door, even though you cannot see it.
 <!-- id: physics-6-3-21 -->
 
 *Written answer*
 
-**Q1041.** Describe the single-slit diffraction pattern produced by a red laser, and how it changes as the slit is made narrower.
+**Q1043.** Describe the single-slit diffraction pattern produced by a red laser, and how it changes as the slit is made narrower.
 <!-- id: physics-6-3-22 -->
 
 *Written answer*
 
-**Q1042.** A red laser (650 nm) passing through a 0.10 mm slit produces a certain amount of diffraction. What slit width would give the same diffraction for blue light of 450 nm?
+**Q1044.** A red laser (650 nm) passing through a 0.10 mm slit produces a certain amount of diffraction. What slit width would give the same diffraction for blue light of 450 nm?
 <!-- id: physics-6-3-23 -->
 
 *Written answer*
 
-**Q1043.** Microchip manufacturers use ultraviolet light rather than visible light to make extremely small circuit features. Explain why, in terms of diffraction.
+**Q1045.** Microchip manufacturers use ultraviolet light rather than visible light to make extremely small circuit features. Explain why, in terms of diffraction.
 <!-- id: physics-6-3-24 -->
 
 *Written answer*
 
-**Q1044.** Explain how the diffraction of light supports the wave model rather than Newton's particle model.
+**Q1046.** Explain how the diffraction of light supports the wave model rather than Newton's particle model.
 <!-- id: physics-6-3-25 -->
 
 *Written answer*
 
 #### Polarisation of light
 
-**Q1045.** The fact that light can be polarised shows that light is:
+**Q1047.** The fact that light can be polarised shows that light is:
 <!-- id: physics-6-4-1 -->
 
 - A. a longitudinal wave
@@ -7550,7 +7586,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. a transverse wave
 - D. a mechanical wave
 
-**Q1046.** Unpolarised light passes through an ideal polarising filter. The intensity of the transmitted light is:
+**Q1048.** Unpolarised light passes through an ideal polarising filter. The intensity of the transmitted light is:
 <!-- id: physics-6-4-2 -->
 
 - A. the same as the original intensity
@@ -7558,7 +7594,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. zero
 - D. half the original intensity
 
-**Q1047.** Two ideal polarising filters are placed with their transmission axes at 90° to each other. Unpolarised light is shone through both. The light emerging is:
+**Q1049.** Two ideal polarising filters are placed with their transmission axes at 90° to each other. Unpolarised light is shone through both. The light emerging is:
 <!-- id: physics-6-4-3 -->
 
 - A. zero
@@ -7566,7 +7602,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. a quarter of the original intensity
 - D. the same as the original intensity
 
-**Q1048.** Sound waves in air cannot be polarised because they are:
+**Q1050.** Sound waves in air cannot be polarised because they are:
 <!-- id: physics-6-4-4 -->
 
 - A. too slow
@@ -7574,7 +7610,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. mechanical waves with long wavelengths
 - D. unable to diffract
 
-**Q1049.** Polarised sunglasses reduce glare from the surface of Port Phillip Bay because:
+**Q1051.** Polarised sunglasses reduce glare from the surface of Port Phillip Bay because:
 <!-- id: physics-6-4-5 -->
 
 - A. the lenses absorb all wavelengths equally
@@ -7582,7 +7618,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. reflected light is partly horizontally polarised and the lenses only transmit vertically polarised light
 - D. reflected light is vertically polarised and the lenses block vertical light
 
-**Q1050.** Plane-polarised light is light in which:
+**Q1052.** Plane-polarised light is light in which:
 <!-- id: physics-6-4-6 -->
 
 - A. all wavelengths are the same
@@ -7590,7 +7626,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. the magnetic field is zero
 - D. the electric field oscillates in only one plane
 
-**Q1051.** A polarising filter is rotated slowly through 360° in front of a beam of plane-polarised light. The transmitted intensity:
+**Q1053.** A polarising filter is rotated slowly through 360° in front of a beam of plane-polarised light. The transmitted intensity:
 <!-- id: physics-6-4-7 -->
 
 - A. goes from maximum to zero twice
@@ -7598,7 +7634,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. goes from maximum to zero once
 - D. goes from maximum to zero four times
 
-**Q1052.** A polarising filter is rotated in front of an unpolarised light source such as an incandescent globe. The transmitted intensity:
+**Q1054.** A polarising filter is rotated in front of an unpolarised light source such as an incandescent globe. The transmitted intensity:
 <!-- id: physics-6-4-8 -->
 
 - A. varies between maximum and zero
@@ -7606,7 +7642,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. stays constant at the original intensity
 - D. drops to zero
 
-**Q1053.** A third polarising filter with its axis at 45° is placed between two crossed polarisers. Unpolarised light is shone through all three. What is observed?
+**Q1055.** A third polarising filter with its axis at 45° is placed between two crossed polarisers. Unpolarised light is shone through all three. What is observed?
 <!-- id: physics-6-4-9 -->
 
 - A. No light emerges, as before.
@@ -7614,7 +7650,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. Some light now emerges from the final filter.
 - D. The light emerges unpolarised.
 
-**Q1054.** Which of these waves can be polarised?
+**Q1056.** Which of these waves can be polarised?
 <!-- id: physics-6-4-10 -->
 
 - A. Sound waves in air
@@ -7622,7 +7658,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. Seismic P-waves
 - D. Microwaves
 
-**Q1055.** By convention, the direction of polarisation of an electromagnetic wave is the direction of oscillation of its:
+**Q1057.** By convention, the direction of polarisation of an electromagnetic wave is the direction of oscillation of its:
 <!-- id: physics-6-4-11 -->
 
 - A. electric field
@@ -7630,7 +7666,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. wave velocity
 - D. energy transfer
 
-**Q1056.** A TV station broadcasts horizontally polarised signals. For best reception, the rods of a rooftop antenna should be:
+**Q1058.** A TV station broadcasts horizontally polarised signals. For best reception, the rods of a rooftop antenna should be:
 <!-- id: physics-6-4-12 -->
 
 - A. vertical
@@ -7638,7 +7674,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. at 45°
 - D. pointing directly at the transmitter along the line of travel
 
-**Q1057.** A student wearing polarised sunglasses looks at a laptop screen and tilts her head 90°. The screen becomes much darker. This shows that light from the screen is:
+**Q1059.** A student wearing polarised sunglasses looks at a laptop screen and tilts her head 90°. The screen becomes much darker. This shows that light from the screen is:
 <!-- id: physics-6-4-13 -->
 
 - A. unpolarised
@@ -7646,7 +7682,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. polarised
 - D. coherent and monochromatic
 
-**Q1058.** Unpolarised light of intensity 80 W m⁻² passes through two ideal polarisers with parallel transmission axes. The final intensity is:
+**Q1060.** Unpolarised light of intensity 80 W m⁻² passes through two ideal polarisers with parallel transmission axes. The final intensity is:
 <!-- id: physics-6-4-14 -->
 
 - A. 80 W m⁻²
@@ -7654,7 +7690,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 0 W m⁻²
 - D. 40 W m⁻²
 
-**Q1059.** Huygens believed light was a longitudinal wave. Which observation is inconsistent with this belief?
+**Q1061.** Huygens believed light was a longitudinal wave. Which observation is inconsistent with this belief?
 <!-- id: physics-6-4-15 -->
 
 - A. Light can be polarised.
@@ -7662,7 +7698,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. Light can be refracted.
 - D. Light shows interference.
 
-**Q1060.** A photographer uses a polarising filter to darken the blue sky in landscape photos. This works because:
+**Q1062.** A photographer uses a polarising filter to darken the blue sky in landscape photos. This works because:
 <!-- id: physics-6-4-16 -->
 
 - A. the filter changes the wavelength of blue light
@@ -7670,7 +7706,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. the filter refracts blue light away from the lens
 - D. sunlight is fully polarised before entering the atmosphere
 
-**Q1061.** An electromagnetic wave travels in the +x direction with its electric field oscillating along the y-axis. Its magnetic field oscillates along the:
+**Q1063.** An electromagnetic wave travels in the +x direction with its electric field oscillating along the y-axis. Its magnetic field oscillates along the:
 <!-- id: physics-6-4-17 -->
 
 - A. y-axis
@@ -7678,7 +7714,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. z-axis
 - D. y-axis and z-axis equally
 
-**Q1062.** Light from the Sun is described as unpolarised. This means that:
+**Q1064.** Light from the Sun is described as unpolarised. This means that:
 <!-- id: physics-6-4-18 -->
 
 - A. its electric field oscillates parallel to its direction of travel
@@ -7686,37 +7722,37 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. it contains only one wavelength
 - D. its electric field oscillates in all directions perpendicular to its direction of travel
 
-**Q1063.** Explain why polarisation provides evidence that light is a transverse wave.
+**Q1065.** Explain why polarisation provides evidence that light is a transverse wave.
 <!-- id: physics-6-4-19 -->
 
 *Written answer*
 
-**Q1064.** Explain how polarised sunglasses reduce glare from a wet road.
+**Q1066.** Explain how polarised sunglasses reduce glare from a wet road.
 <!-- id: physics-6-4-20 -->
 
 *Written answer*
 
-**Q1065.** Unpolarised light of intensity 120 W m⁻² passes through a polariser, then through a second polariser whose axis is at 90° to the first. State the intensity after each filter.
+**Q1067.** Unpolarised light of intensity 120 W m⁻² passes through a polariser, then through a second polariser whose axis is at 90° to the first. State the intensity after each filter.
 <!-- id: physics-6-4-21 -->
 
 *Written answer*
 
-**Q1066.** Describe a simple test to determine whether a light source is polarised.
+**Q1068.** Describe a simple test to determine whether a light source is polarised.
 <!-- id: physics-6-4-22 -->
 
 *Written answer*
 
-**Q1067.** Distinguish between polarised and unpolarised light.
+**Q1069.** Distinguish between polarised and unpolarised light.
 <!-- id: physics-6-4-23 -->
 
 *Written answer*
 
-**Q1068.** Explain why sound waves cannot be polarised.
+**Q1070.** Explain why sound waves cannot be polarised.
 <!-- id: physics-6-4-24 -->
 
 *Written answer*
 
-**Q1069.** Maxwell's theory predicted that light is a transverse electromagnetic wave. Explain how the polarisation of light supports this prediction.
+**Q1071.** Maxwell's theory predicted that light is a transverse electromagnetic wave. Explain how the polarisation of light supports this prediction.
 <!-- id: physics-6-4-25 -->
 
 *Written answer*
@@ -7725,7 +7761,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 
 #### Photoelectric effect and photons
 
-**Q1070.** Using hc = 1.24 × 10^-6 eV m, what is the energy of a photon of wavelength 500 nm?
+**Q1072.** Using hc = 1.24 × 10^-6 eV m, what is the energy of a photon of wavelength 500 nm?
 <!-- id: physics-7-1-1 -->
 
 - A. 2.48 eV
@@ -7733,7 +7769,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 3.98 × 10^-19 eV
 - D. 6.20 eV
 
-**Q1071.** Sodium has a work function of 2.30 eV. Taking h = 4.14 × 10^-15 eV s, what is its threshold frequency?
+**Q1073.** Sodium has a work function of 2.30 eV. Taking h = 4.14 × 10^-15 eV s, what is its threshold frequency?
 <!-- id: physics-7-1-2 -->
 
 - A. 3.47 × 10^33 Hz
@@ -7741,7 +7777,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 1.80 × 10^-15 Hz
 - D. 5.56 × 10^15 Hz
 
-**Q1072.** Light of wavelength 400 nm falls on a metal with work function 2.30 eV. What is the maximum kinetic energy of the photoelectrons? (hc = 1.24 × 10^-6 eV m)
+**Q1074.** Light of wavelength 400 nm falls on a metal with work function 2.30 eV. What is the maximum kinetic energy of the photoelectrons? (hc = 1.24 × 10^-6 eV m)
 <!-- id: physics-7-1-3 -->
 
 - A. 3.10 eV
@@ -7749,12 +7785,12 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 0.80 eV
 - D. 2.30 eV
 
-**Q1073.** Explain why increasing the intensity of red light that is below the threshold frequency of a metal does not cause photoelectrons to be emitted.
+**Q1075.** Explain why increasing the intensity of red light that is below the threshold frequency of a metal does not cause photoelectrons to be emitted.
 <!-- id: physics-7-1-4 -->
 
 *Written answer*
 
-**Q1074.** Photons of energy 4.0 eV eject electrons from a metal with work function 2.5 eV. What is the stopping voltage?
+**Q1076.** Photons of energy 4.0 eV eject electrons from a metal with work function 2.5 eV. What is the stopping voltage?
 <!-- id: physics-7-1-5 -->
 
 - A. 4.0 V
@@ -7762,7 +7798,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 2.5 V
 - D. 1.5 V
 
-**Q1075.** A metal surface is illuminated with light above its threshold frequency. The intensity is doubled while the frequency is kept constant. Which statement is correct?
+**Q1077.** A metal surface is illuminated with light above its threshold frequency. The intensity is doubled while the frequency is kept constant. Which statement is correct?
 <!-- id: physics-7-1-6 -->
 
 - A. The photocurrent increases but the maximum kinetic energy of the photoelectrons is unchanged.
@@ -7770,7 +7806,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. Both the photocurrent and the maximum kinetic energy double.
 - D. The stopping voltage doubles.
 
-**Q1076.** Red light below the threshold frequency of a metal shines on it. The intensity is increased greatly. What happens?
+**Q1078.** Red light below the threshold frequency of a metal shines on it. The intensity is increased greatly. What happens?
 <!-- id: physics-7-1-7 -->
 
 - A. Photoelectrons are emitted after a time delay.
@@ -7778,12 +7814,12 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. Photoelectrons are emitted with very low kinetic energy.
 - D. The work function of the metal decreases.
 
-**Q1077.** Ultraviolet light of wavelength 250 nm shines on zinc (work function 4.3 eV). Calculate the maximum kinetic energy of the photoelectrons in eV. (hc = 1.24 × 10^-6 eV m)
+**Q1079.** Ultraviolet light of wavelength 250 nm shines on zinc (work function 4.3 eV). Calculate the maximum kinetic energy of the photoelectrons in eV. (hc = 1.24 × 10^-6 eV m)
 <!-- id: physics-7-1-8 -->
 
 *Written answer*
 
-**Q1078.** A graph of maximum kinetic energy of photoelectrons (y-axis) against frequency of incident light (x-axis) is a straight line. Its gradient equals:
+**Q1080.** A graph of maximum kinetic energy of photoelectrons (y-axis) against frequency of incident light (x-axis) is a straight line. Its gradient equals:
 <!-- id: physics-7-1-9 -->
 
 - A. the work function
@@ -7791,7 +7827,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. Planck's constant
 - D. the charge of an electron
 
-**Q1079.** On a graph of maximum kinetic energy of photoelectrons against frequency, the intercept on the energy axis (extrapolated) equals:
+**Q1081.** On a graph of maximum kinetic energy of photoelectrons against frequency, the intercept on the energy axis (extrapolated) equals:
 <!-- id: physics-7-1-10 -->
 
 - A. the threshold frequency
@@ -7799,7 +7835,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. zero
 - D. the negative of the work function
 
-**Q1080.** Ek max versus frequency graphs are drawn for potassium and for zinc. Compared with each other, the two lines:
+**Q1082.** Ek max versus frequency graphs are drawn for potassium and for zinc. Compared with each other, the two lines:
 <!-- id: physics-7-1-11 -->
 
 - A. are parallel but have different frequency-axis intercepts
@@ -7807,12 +7843,12 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. are identical
 - D. have gradients proportional to the work functions
 
-**Q1081.** In a photocell, the photocurrent reaches a maximum (saturation) value as the anode is made more positive. Explain why.
+**Q1083.** In a photocell, the photocurrent reaches a maximum (saturation) value as the anode is made more positive. Explain why.
 <!-- id: physics-7-1-12 -->
 
 *Written answer*
 
-**Q1082.** Which observation of the photoelectric effect could NOT be explained by the wave model of light?
+**Q1084.** Which observation of the photoelectric effect could NOT be explained by the wave model of light?
 <!-- id: physics-7-1-13 -->
 
 - A. The photocurrent increases with light intensity.
@@ -7820,7 +7856,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. Some light is reflected from the metal surface.
 - D. More intense light delivers more energy per second to the surface.
 
-**Q1083.** What is the momentum of a photon of wavelength 600 nm? (h = 6.63 × 10^-34 J s)
+**Q1085.** What is the momentum of a photon of wavelength 600 nm? (h = 6.63 × 10^-34 J s)
 <!-- id: physics-7-1-14 -->
 
 - A. 3.32 × 10^-19 kg m s^-1
@@ -7828,7 +7864,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 1.11 × 10^-27 kg m s^-1
 - D. 3.68 × 10^-36 kg m s^-1
 
-**Q1084.** A 5.0 mW laser pointer emits light of wavelength 650 nm. Approximately how many photons does it emit per second? (h = 6.63 × 10^-34 J s, c = 3.00 × 10^8 m s^-1)
+**Q1086.** A 5.0 mW laser pointer emits light of wavelength 650 nm. Approximately how many photons does it emit per second? (h = 6.63 × 10^-34 J s, c = 3.00 × 10^8 m s^-1)
 <!-- id: physics-7-1-15 -->
 
 - A. 1.6 × 10^19
@@ -7836,12 +7872,12 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 6.1 × 10^-17
 - D. 1.6 × 10^16
 
-**Q1085.** A student measures stopping voltages of 0.50 V at 6.0 × 10^14 Hz and 1.33 V at 8.0 × 10^14 Hz. Determine Planck's constant in eV s and the work function of the metal.
+**Q1087.** A student measures stopping voltages of 0.50 V at 6.0 × 10^14 Hz and 1.33 V at 8.0 × 10^14 Hz. Determine Planck's constant in eV s and the work function of the metal.
 <!-- id: physics-7-1-16 -->
 
 *Written answer*
 
-**Q1086.** Which change would increase the maximum kinetic energy of photoelectrons emitted from a given metal?
+**Q1088.** Which change would increase the maximum kinetic energy of photoelectrons emitted from a given metal?
 <!-- id: physics-7-1-17 -->
 
 - A. Using light of shorter wavelength
@@ -7849,7 +7885,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. Moving the light source closer to the metal
 - D. Increasing the area of the metal plate
 
-**Q1087.** A photon has an energy of 3.0 eV. What is its wavelength? (hc = 1.24 × 10^-6 eV m)
+**Q1089.** A photon has an energy of 3.0 eV. What is its wavelength? (hc = 1.24 × 10^-6 eV m)
 <!-- id: physics-7-1-18 -->
 
 - A. 41.4 nm
@@ -7857,7 +7893,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 4.14 μm
 - D. 1.24 μm
 
-**Q1088.** In a photoelectric experiment, the stopping voltage depends on:
+**Q1090.** In a photoelectric experiment, the stopping voltage depends on:
 <!-- id: physics-7-1-19 -->
 
 - A. the intensity of the light only
@@ -7865,12 +7901,12 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. the frequency of the light and the work function of the metal
 - D. the distance between the light source and the cell
 
-**Q1089.** Explain how the absence of a time delay in photoelectron emission supports the particle model of light.
+**Q1091.** Explain how the absence of a time delay in photoelectron emission supports the particle model of light.
 <!-- id: physics-7-1-20 -->
 
 *Written answer*
 
-**Q1090.** Photoelectrons are emitted with a range of kinetic energies up to a maximum value. The best explanation is that:
+**Q1092.** Photoelectrons are emitted with a range of kinetic energies up to a maximum value. The best explanation is that:
 <!-- id: physics-7-1-21 -->
 
 - A. photons have a range of energies even in monochromatic light
@@ -7878,7 +7914,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. some electrons absorb two photons
 - D. electrons further below the surface or more tightly bound lose extra energy escaping
 
-**Q1091.** A metal has a threshold wavelength of 540 nm. What is its work function? (hc = 1.24 × 10^-6 eV m)
+**Q1093.** A metal has a threshold wavelength of 540 nm. What is its work function? (hc = 1.24 × 10^-6 eV m)
 <!-- id: physics-7-1-22 -->
 
 - A. 2.30 eV
@@ -7886,7 +7922,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 3.68 × 10^-19 eV
 - D. 4.60 eV
 
-**Q1092.** If the wavelength of monochromatic light is halved, the energy of each photon:
+**Q1094.** If the wavelength of monochromatic light is halved, the energy of each photon:
 <!-- id: physics-7-1-23 -->
 
 - A. halves
@@ -7894,19 +7930,19 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. quadruples
 - D. stays the same
 
-**Q1093.** Describe how the stopping voltage is measured in a photoelectric experiment.
+**Q1095.** Describe how the stopping voltage is measured in a photoelectric experiment.
 <!-- id: physics-7-1-24 -->
 
 *Written answer*
 
-**Q1094.** A 1.0 W green light source emits only light of wavelength 530 nm. Calculate the number of photons emitted per second. (h = 6.63 × 10^-34 J s, c = 3.00 × 10^8 m s^-1)
+**Q1096.** A 1.0 W green light source emits only light of wavelength 530 nm. Calculate the number of photons emitted per second. (h = 6.63 × 10^-34 J s, c = 3.00 × 10^8 m s^-1)
 <!-- id: physics-7-1-25 -->
 
 *Written answer*
 
 #### De Broglie wavelength and diffraction
 
-**Q1095.** What is the de Broglie wavelength of an electron travelling at 2.0 × 10^6 m s^-1? (h = 6.63 × 10^-34 J s, mₑ = 9.11 × 10^-31 kg)
+**Q1097.** What is the de Broglie wavelength of an electron travelling at 2.0 × 10^6 m s^-1? (h = 6.63 × 10^-34 J s, mₑ = 9.11 × 10^-31 kg)
 <!-- id: physics-7-2-1 -->
 
 - A. 7.3 × 10^-10 m
@@ -7914,7 +7950,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 3.6 × 10^-10 m
 - D. 2.7 × 10^9 m
 
-**Q1096.** An electron is accelerated from rest through 100 V. What is its de Broglie wavelength? (h = 6.63 × 10^-34 J s, mₑ = 9.11 × 10^-31 kg, e = 1.60 × 10^-19 C)
+**Q1098.** An electron is accelerated from rest through 100 V. What is its de Broglie wavelength? (h = 6.63 × 10^-34 J s, mₑ = 9.11 × 10^-31 kg, e = 1.60 × 10^-19 C)
 <!-- id: physics-7-2-2 -->
 
 - A. 1.74 × 10^-10 m
@@ -7922,7 +7958,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 4.14 × 10^-17 m
 - D. 1.23 × 10^-10 m
 
-**Q1097.** An electron and a proton travel at the same speed. Compared with the electron, the proton's de Broglie wavelength is:
+**Q1099.** An electron and a proton travel at the same speed. Compared with the electron, the proton's de Broglie wavelength is:
 <!-- id: physics-7-2-3 -->
 
 - A. much shorter
@@ -7930,12 +7966,12 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. the same
 - D. longer by a factor of about 43
 
-**Q1098.** In the Davisson–Germer experiment, electrons were accelerated through 54 V. Calculate their de Broglie wavelength. (h = 6.63 × 10^-34 J s, mₑ = 9.11 × 10^-31 kg, e = 1.60 × 10^-19 C)
+**Q1100.** In the Davisson–Germer experiment, electrons were accelerated through 54 V. Calculate their de Broglie wavelength. (h = 6.63 × 10^-34 J s, mₑ = 9.11 × 10^-31 kg, e = 1.60 × 10^-19 C)
 <!-- id: physics-7-2-4 -->
 
 *Written answer*
 
-**Q1099.** An electron and a proton have the same kinetic energy. Which statement is correct?
+**Q1101.** An electron and a proton have the same kinetic energy. Which statement is correct?
 <!-- id: physics-7-2-5 -->
 
 - A. The proton's wavelength is about 43 times longer than the electron's.
@@ -7943,7 +7979,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. The electron's wavelength is about 1836 times longer than the proton's.
 - D. They have equal wavelengths.
 
-**Q1100.** The speed of an electron doubles (non-relativistic). Its de Broglie wavelength:
+**Q1102.** The speed of an electron doubles (non-relativistic). Its de Broglie wavelength:
 <!-- id: physics-7-2-6 -->
 
 - A. doubles
@@ -7951,7 +7987,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. halves
 - D. is unchanged
 
-**Q1101.** The accelerating voltage on an electron gun is increased by a factor of four. The de Broglie wavelength of the electrons:
+**Q1103.** The accelerating voltage on an electron gun is increased by a factor of four. The de Broglie wavelength of the electrons:
 <!-- id: physics-7-2-7 -->
 
 - A. quarters
@@ -7959,12 +7995,12 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. is unchanged
 - D. halves
 
-**Q1102.** Explain how an electron diffraction pattern provides evidence for the wave nature of matter.
+**Q1104.** Explain how an electron diffraction pattern provides evidence for the wave nature of matter.
 <!-- id: physics-7-2-8 -->
 
 *Written answer*
 
-**Q1103.** An electron beam and an X-ray beam produce identical diffraction patterns when passed through the same crystal. The electrons and X-ray photons must have the same:
+**Q1105.** An electron beam and an X-ray beam produce identical diffraction patterns when passed through the same crystal. The electrons and X-ray photons must have the same:
 <!-- id: physics-7-2-9 -->
 
 - A. wavelength
@@ -7972,7 +8008,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. speed
 - D. frequency
 
-**Q1104.** Electron microscopes can resolve much finer detail than optical microscopes mainly because:
+**Q1106.** Electron microscopes can resolve much finer detail than optical microscopes mainly because:
 <!-- id: physics-7-2-10 -->
 
 - A. electrons travel faster than light
@@ -7980,7 +8016,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. electrons are not diffracted
 - D. electrons have no mass
 
-**Q1105.** The observation that a beam of electrons produces a diffraction pattern when passed through a thin crystal provides evidence that:
+**Q1107.** The observation that a beam of electrons produces a diffraction pattern when passed through a thin crystal provides evidence that:
 <!-- id: physics-7-2-11 -->
 
 - A. electrons are made of photons
@@ -7988,12 +8024,12 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. electrons have wave-like properties
 - D. electrons have no charge
 
-**Q1106.** An X-ray beam of photon energy 8.0 keV and an electron beam produce the same diffraction pattern from a crystal. Calculate the kinetic energy of the electrons in eV. (mₑ = 9.11 × 10^-31 kg, c = 3.00 × 10^8 m s^-1, e = 1.60 × 10^-19 C)
+**Q1108.** An X-ray beam of photon energy 8.0 keV and an electron beam produce the same diffraction pattern from a crystal. Calculate the kinetic energy of the electrons in eV. (mₑ = 9.11 × 10^-31 kg, c = 3.00 × 10^8 m s^-1, e = 1.60 × 10^-19 C)
 <!-- id: physics-7-2-12 -->
 
 *Written answer*
 
-**Q1107.** A 0.16 kg cricket ball is bowled at 40 m s^-1. Its de Broglie wavelength is approximately: (h = 6.63 × 10^-34 J s)
+**Q1109.** A 0.16 kg cricket ball is bowled at 40 m s^-1. Its de Broglie wavelength is approximately: (h = 6.63 × 10^-34 J s)
 <!-- id: physics-7-2-13 -->
 
 - A. 4.1 × 10^-33 m
@@ -8001,7 +8037,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 9.7 × 10^33 m
 - D. 1.0 × 10^-34 m
 
-**Q1108.** What is the momentum of an electron with a de Broglie wavelength of 0.20 nm? (h = 6.63 × 10^-34 J s)
+**Q1110.** What is the momentum of an electron with a de Broglie wavelength of 0.20 nm? (h = 6.63 × 10^-34 J s)
 <!-- id: physics-7-2-14 -->
 
 - A. 3.3 × 10^-24 kg m s^-1
@@ -8009,7 +8045,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 3.0 × 10^23 kg m s^-1
 - D. 3.3 × 10^-25 kg m s^-1
 
-**Q1109.** What speed must an electron have for its de Broglie wavelength to be 0.50 nm? (h = 6.63 × 10^-34 J s, mₑ = 9.11 × 10^-31 kg)
+**Q1111.** What speed must an electron have for its de Broglie wavelength to be 0.50 nm? (h = 6.63 × 10^-34 J s, mₑ = 9.11 × 10^-31 kg)
 <!-- id: physics-7-2-15 -->
 
 - A. 7.3 × 10^5 m s^-1
@@ -8017,12 +8053,12 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 1.5 × 10^9 m s^-1
 - D. 1.3 × 10^-24 m s^-1
 
-**Q1110.** Explain why an electron microscope can produce images with greater detail than a light microscope.
+**Q1112.** Explain why an electron microscope can produce images with greater detail than a light microscope.
 <!-- id: physics-7-2-16 -->
 
 *Written answer*
 
-**Q1111.** An electron has a de Broglie wavelength of 0.20 nm. What is its kinetic energy in eV? (h = 6.63 × 10^-34 J s, mₑ = 9.11 × 10^-31 kg)
+**Q1113.** An electron has a de Broglie wavelength of 0.20 nm. What is its kinetic energy in eV? (h = 6.63 × 10^-34 J s, mₑ = 9.11 × 10^-31 kg)
 <!-- id: physics-7-2-17 -->
 
 - A. 6200 eV
@@ -8030,7 +8066,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 38 eV
 - D. 3.3 eV
 
-**Q1112.** For a beam of electrons to show noticeable diffraction from a crystal, their de Broglie wavelength should be:
+**Q1114.** For a beam of electrons to show noticeable diffraction from a crystal, their de Broglie wavelength should be:
 <!-- id: physics-7-2-18 -->
 
 - A. much larger than the crystal
@@ -8038,7 +8074,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. exactly equal to the wavelength of visible light
 - D. similar to the spacing between atoms, around 10^-10 m
 
-**Q1113.** In an electron diffraction tube, the accelerating voltage is increased. The diffraction rings:
+**Q1115.** In an electron diffraction tube, the accelerating voltage is increased. The diffraction rings:
 <!-- id: physics-7-2-19 -->
 
 - A. move closer together
@@ -8046,12 +8082,12 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. stay the same size
 - D. become brighter but do not change size
 
-**Q1114.** A neutron (mass 1.67 × 10^-27 kg) has a de Broglie wavelength of 0.10 nm. Calculate its speed. (h = 6.63 × 10^-34 J s)
+**Q1116.** A neutron (mass 1.67 × 10^-27 kg) has a de Broglie wavelength of 0.10 nm. Calculate its speed. (h = 6.63 × 10^-34 J s)
 <!-- id: physics-7-2-20 -->
 
 *Written answer*
 
-**Q1115.** A photon and an electron each have a wavelength of 0.25 nm. Which statement is correct?
+**Q1117.** A photon and an electron each have a wavelength of 0.25 nm. Which statement is correct?
 <!-- id: physics-7-2-21 -->
 
 - A. They have the same energy and the same momentum.
@@ -8059,7 +8095,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. The electron has more momentum and more energy.
 - D. They have the same energy, but the electron has more momentum.
 
-**Q1116.** An X-ray photon has an energy of 5.0 keV. What is its wavelength? (hc = 1.24 × 10^-6 eV m)
+**Q1118.** An X-ray photon has an energy of 5.0 keV. What is its wavelength? (hc = 1.24 × 10^-6 eV m)
 <!-- id: physics-7-2-22 -->
 
 - A. 2.5 nm
@@ -8067,7 +8103,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 0.25 nm
 - D. 250 nm
 
-**Q1117.** Approximately what accelerating voltage gives electrons a de Broglie wavelength of 0.10 nm? (h = 6.63 × 10^-34 J s, mₑ = 9.11 × 10^-31 kg, e = 1.60 × 10^-19 C)
+**Q1119.** Approximately what accelerating voltage gives electrons a de Broglie wavelength of 0.10 nm? (h = 6.63 × 10^-34 J s, mₑ = 9.11 × 10^-31 kg, e = 1.60 × 10^-19 C)
 <!-- id: physics-7-2-23 -->
 
 - A. 12 400 V
@@ -8075,19 +8111,19 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 1.5 V
 - D. 150 V
 
-**Q1118.** Explain why the wave nature of a moving car is never observed.
+**Q1120.** Explain why the wave nature of a moving car is never observed.
 <!-- id: physics-7-2-24 -->
 
 *Written answer*
 
-**Q1119.** The speed of electrons in a diffraction tube is doubled. Describe and explain the change in the diffraction pattern.
+**Q1121.** The speed of electrons in a diffraction tube is doubled. Describe and explain the change in the diffraction pattern.
 <!-- id: physics-7-2-25 -->
 
 *Written answer*
 
 #### Atomic energy levels and spectra
 
-**Q1120.** Hydrogen has energy levels E₁ = −13.6 eV, E₂ = −3.40 eV and E₃ = −1.51 eV. What is the energy of the photon emitted when an electron moves from n = 3 to n = 2?
+**Q1122.** Hydrogen has energy levels E₁ = −13.6 eV, E₂ = −3.40 eV and E₃ = −1.51 eV. What is the energy of the photon emitted when an electron moves from n = 3 to n = 2?
 <!-- id: physics-7-3-1 -->
 
 - A. 1.89 eV
@@ -8095,7 +8131,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 3.40 eV
 - D. 4.91 eV
 
-**Q1121.** In hydrogen, E₂ = −3.40 eV and E₄ = −0.85 eV. What is the wavelength of the photon emitted in the n = 4 to n = 2 transition? (hc = 1.24 × 10^-6 eV m)
+**Q1123.** In hydrogen, E₂ = −3.40 eV and E₄ = −0.85 eV. What is the wavelength of the photon emitted in the n = 4 to n = 2 transition? (hc = 1.24 × 10^-6 eV m)
 <!-- id: physics-7-3-2 -->
 
 - A. 292 nm
@@ -8103,7 +8139,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 365 nm
 - D. 1460 nm
 
-**Q1122.** What is the minimum energy needed to ionise a hydrogen atom in its ground state (E₁ = −13.6 eV)?
+**Q1124.** What is the minimum energy needed to ionise a hydrogen atom in its ground state (E₁ = −13.6 eV)?
 <!-- id: physics-7-3-3 -->
 
 - A. 10.2 eV
@@ -8111,12 +8147,12 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 13.6 eV
 - D. 0 eV
 
-**Q1123.** Calculate the frequency of the photon emitted when an electron in hydrogen moves from n = 3 (−1.51 eV) to n = 1 (−13.6 eV). (h = 4.14 × 10^-15 eV s)
+**Q1125.** Calculate the frequency of the photon emitted when an electron in hydrogen moves from n = 3 (−1.51 eV) to n = 1 (−13.6 eV). (h = 4.14 × 10^-15 eV s)
 <!-- id: physics-7-3-4 -->
 
 *Written answer*
 
-**Q1124.** Hydrogen atoms are excited to the n = 4 level. How many different photon energies can be emitted as they return to the ground state?
+**Q1126.** Hydrogen atoms are excited to the n = 4 level. How many different photon energies can be emitted as they return to the ground state?
 <!-- id: physics-7-3-5 -->
 
 - A. 3
@@ -8124,7 +8160,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 10
 - D. 6
 
-**Q1125.** A photon of energy 11.0 eV passes through hydrogen gas in the ground state (E₁ = −13.6 eV, E₂ = −3.40 eV, E₃ = −1.51 eV). What is most likely to happen?
+**Q1127.** A photon of energy 11.0 eV passes through hydrogen gas in the ground state (E₁ = −13.6 eV, E₂ = −3.40 eV, E₃ = −1.51 eV). What is most likely to happen?
 <!-- id: physics-7-3-6 -->
 
 - A. The photon is not absorbed.
@@ -8132,7 +8168,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. The photon ionises an atom.
 - D. The photon excites an atom to n = 3.
 
-**Q1126.** When white light passes through a cool gas and is then viewed with a spectroscope, the result is:
+**Q1128.** When white light passes through a cool gas and is then viewed with a spectroscope, the result is:
 <!-- id: physics-7-3-7 -->
 
 - A. a series of bright lines on a dark background
@@ -8140,12 +8176,12 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. a continuous spectrum with no gaps
 - D. a single bright line
 
-**Q1127.** Explain why the emission spectrum of a heated gas consists of discrete bright lines rather than a continuous spectrum.
+**Q1129.** Explain why the emission spectrum of a heated gas consists of discrete bright lines rather than a continuous spectrum.
 <!-- id: physics-7-3-8 -->
 
 *Written answer*
 
-**Q1128.** The emission spectrum of a gas consists of discrete lines because:
+**Q1130.** The emission spectrum of a gas consists of discrete lines because:
 <!-- id: physics-7-3-9 -->
 
 - A. photons travel at different speeds
@@ -8153,7 +8189,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. the atoms' electron energy levels are quantised
 - D. electrons emit continuously as they orbit
 
-**Q1129.** Transitions in hydrogen ending on the n = 1 level (E₁ = −13.6 eV, E₂ = −3.40 eV) produce photons in which part of the electromagnetic spectrum?
+**Q1131.** Transitions in hydrogen ending on the n = 1 level (E₁ = −13.6 eV, E₂ = −3.40 eV) produce photons in which part of the electromagnetic spectrum?
 <!-- id: physics-7-3-10 -->
 
 - A. Visible
@@ -8161,7 +8197,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. Radio
 - D. Ultraviolet
 
-**Q1130.** Which hydrogen transition emits the photon of highest frequency? (E₁ = −13.6 eV, E₂ = −3.40 eV, E₃ = −1.51 eV, E₄ = −0.85 eV)
+**Q1132.** Which hydrogen transition emits the photon of highest frequency? (E₁ = −13.6 eV, E₂ = −3.40 eV, E₃ = −1.51 eV, E₄ = −0.85 eV)
 <!-- id: physics-7-3-11 -->
 
 - A. n = 4 to n = 1
@@ -8169,12 +8205,12 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. n = 2 to n = 1
 - D. n = 4 to n = 2
 
-**Q1131.** Explain how an absorption spectrum forms when white light passes through a cool gas.
+**Q1133.** Explain how an absorption spectrum forms when white light passes through a cool gas.
 <!-- id: physics-7-3-12 -->
 
 *Written answer*
 
-**Q1132.** An atom has energy levels of −10.0 eV, −6.0 eV, −4.0 eV and −1.0 eV. Which photon energy could NOT be emitted by this atom?
+**Q1134.** An atom has energy levels of −10.0 eV, −6.0 eV, −4.0 eV and −1.0 eV. Which photon energy could NOT be emitted by this atom?
 <!-- id: physics-7-3-13 -->
 
 - A. 5.0 eV
@@ -8182,7 +8218,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 3.0 eV
 - D. 9.0 eV
 
-**Q1133.** An atom has energy levels of −10.0 eV, −6.0 eV, −4.0 eV and −1.0 eV, and zero energy corresponds to a free electron. What is its ionisation energy from the ground state?
+**Q1135.** An atom has energy levels of −10.0 eV, −6.0 eV, −4.0 eV and −1.0 eV, and zero energy corresponds to a free electron. What is its ionisation energy from the ground state?
 <!-- id: physics-7-3-14 -->
 
 - A. 9.0 eV
@@ -8190,7 +8226,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 10.0 eV
 - D. 21.0 eV
 
-**Q1134.** In de Broglie's explanation of the stable electron orbits in the Bohr model, the circumference of an allowed orbit equals:
+**Q1136.** In de Broglie's explanation of the stable electron orbits in the Bohr model, the circumference of an allowed orbit equals:
 <!-- id: physics-7-3-15 -->
 
 - A. half an electron wavelength
@@ -8198,12 +8234,12 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. the radius of the nucleus
 - D. a whole number of electron wavelengths
 
-**Q1135.** An atom has energy levels E₁ = −8.0 eV, E₂ = −4.5 eV and E₃ = −2.0 eV. Atoms excited to E₃ return to the ground state. List all the photon energies that can be emitted.
+**Q1137.** An atom has energy levels E₁ = −8.0 eV, E₂ = −4.5 eV and E₃ = −2.0 eV. Atoms excited to E₃ return to the ground state. List all the photon energies that can be emitted.
 <!-- id: physics-7-3-16 -->
 
 *Written answer*
 
-**Q1136.** A fluorescent mineral absorbs ultraviolet light and emits visible light. This is best explained by:
+**Q1138.** A fluorescent mineral absorbs ultraviolet light and emits visible light. This is best explained by:
 <!-- id: physics-7-3-17 -->
 
 - A. electrons dropping back to the ground state through intermediate energy levels
@@ -8211,7 +8247,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. the ultraviolet photons slowing down inside the mineral
 - D. the mineral reflecting the ultraviolet light
 
-**Q1137.** A photon of energy 2.0 eV is absorbed by an atom. What is its wavelength? (hc = 1.24 × 10^-6 eV m)
+**Q1139.** A photon of energy 2.0 eV is absorbed by an atom. What is its wavelength? (hc = 1.24 × 10^-6 eV m)
 <!-- id: physics-7-3-18 -->
 
 - A. 248 nm
@@ -8219,7 +8255,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 1240 nm
 - D. 310 nm
 
-**Q1138.** Sodium street lights emit yellow light of wavelength 589 nm. What energy gap in the sodium atom produces this light? (hc = 1.24 × 10^-6 eV m)
+**Q1140.** Sodium street lights emit yellow light of wavelength 589 nm. What energy gap in the sodium atom produces this light? (hc = 1.24 × 10^-6 eV m)
 <!-- id: physics-7-3-19 -->
 
 - A. 0.475 eV
@@ -8227,12 +8263,12 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 2.11 eV
 - D. 3.37 × 10^-19 eV
 
-**Q1139.** A ground-state hydrogen atom (E₁ = −13.6 eV, E₂ = −3.40 eV) can be excited by an electron with 11.0 eV of kinetic energy, but not by a photon of 11.0 eV. Explain why.
+**Q1141.** A ground-state hydrogen atom (E₁ = −13.6 eV, E₂ = −3.40 eV) can be excited by an electron with 11.0 eV of kinetic energy, but not by a photon of 11.0 eV. Explain why.
 <!-- id: physics-7-3-20 -->
 
 *Written answer*
 
-**Q1140.** Atomic energy levels are usually given negative values. This indicates that:
+**Q1142.** Atomic energy levels are usually given negative values. This indicates that:
 <!-- id: physics-7-3-21 -->
 
 - A. the electron has negative kinetic energy
@@ -8240,7 +8276,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. energy is released when an electron is ionised
 - D. the electron is bound to the atom and energy must be supplied to free it
 
-**Q1141.** Dark lines in the spectrum of the Sun can be used to identify elements in its outer atmosphere because:
+**Q1143.** Dark lines in the spectrum of the Sun can be used to identify elements in its outer atmosphere because:
 <!-- id: physics-7-3-22 -->
 
 - A. each element absorbs a unique set of wavelengths matching its energy level differences
@@ -8248,7 +8284,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. hotter elements absorb all visible light
 - D. dark lines show where the Sun emits no light at all
 
-**Q1142.** An electron with kinetic energy 12.5 eV collides with a ground-state hydrogen atom (E₁ = −13.6 eV, E₂ = −3.40 eV, E₃ = −1.51 eV, E₄ = −0.85 eV). What is the highest level the atom can be excited to?
+**Q1144.** An electron with kinetic energy 12.5 eV collides with a ground-state hydrogen atom (E₁ = −13.6 eV, E₂ = −3.40 eV, E₃ = −1.51 eV, E₄ = −0.85 eV). What is the highest level the atom can be excited to?
 <!-- id: physics-7-3-23 -->
 
 - A. n = 2
@@ -8256,19 +8292,19 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. n = 4
 - D. The atom is ionised.
 
-**Q1143.** Calculate the wavelength of the photon emitted in hydrogen's n = 2 to n = 1 transition (E₁ = −13.6 eV, E₂ = −3.40 eV), and state the region of the spectrum. (hc = 1.24 × 10^-6 eV m)
+**Q1145.** Calculate the wavelength of the photon emitted in hydrogen's n = 2 to n = 1 transition (E₁ = −13.6 eV, E₂ = −3.40 eV), and state the region of the spectrum. (hc = 1.24 × 10^-6 eV m)
 <!-- id: physics-7-3-24 -->
 
 *Written answer*
 
-**Q1144.** Use de Broglie's matter-wave idea to explain why electrons in an atom occupy only certain orbits.
+**Q1146.** Use de Broglie's matter-wave idea to explain why electrons in an atom occupy only certain orbits.
 <!-- id: physics-7-3-25 -->
 
 *Written answer*
 
 #### Wave-particle duality of light
 
-**Q1145.** Young's double-slit experiment provided strong evidence that light:
+**Q1147.** Young's double-slit experiment provided strong evidence that light:
 <!-- id: physics-7-4-1 -->
 
 - A. is made of photons
@@ -8276,7 +8312,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. behaves as a wave
 - D. travels instantly
 
-**Q1146.** Which experiment provides the clearest evidence for the particle nature of light?
+**Q1148.** Which experiment provides the clearest evidence for the particle nature of light?
 <!-- id: physics-7-4-2 -->
 
 - A. Young's double-slit experiment
@@ -8284,7 +8320,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. Polarisation of light by a filter
 - D. The photoelectric effect
 
-**Q1147.** Which statement best describes the current understanding of the nature of light?
+**Q1149.** Which statement best describes the current understanding of the nature of light?
 <!-- id: physics-7-4-3 -->
 
 - A. Light shows wave or particle behaviour depending on the experiment, and neither model alone explains all observations.
@@ -8292,12 +8328,12 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. Light is purely a stream of particles, and interference is caused by photons colliding.
 - D. Light behaves as a wave in a vacuum and as a particle in matter.
 
-**Q1148.** Describe what is meant by the wave-particle duality of light, referring to one piece of evidence for each model.
+**Q1150.** Describe what is meant by the wave-particle duality of light, referring to one piece of evidence for each model.
 <!-- id: physics-7-4-4 -->
 
 *Written answer*
 
-**Q1149.** A double-slit experiment is performed with light so dim that only one photon is in the apparatus at a time. Over a long time the screen shows:
+**Q1151.** A double-slit experiment is performed with light so dim that only one photon is in the apparatus at a time. Over a long time the screen shows:
 <!-- id: physics-7-4-5 -->
 
 - A. two bright bands opposite the slits
@@ -8305,7 +8341,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. a uniform glow with no pattern
 - D. no detection, because single photons cannot interfere
 
-**Q1150.** Newton's particle model and Huygens' wave model made different predictions about light entering water. Experiment showed that light:
+**Q1152.** Newton's particle model and Huygens' wave model made different predictions about light entering water. Experiment showed that light:
 <!-- id: physics-7-4-6 -->
 
 - A. speeds up in water, supporting the particle model
@@ -8313,7 +8349,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. slows down in water, supporting the wave model
 - D. speeds up in water, supporting the wave model
 
-**Q1151.** In a double-slit experiment, light of wavelength 600 nm passes through slits 0.30 mm apart onto a screen 2.0 m away. What is the fringe spacing?
+**Q1153.** In a double-slit experiment, light of wavelength 600 nm passes through slits 0.30 mm apart onto a screen 2.0 m away. What is the fringe spacing?
 <!-- id: physics-7-4-7 -->
 
 - A. 0.40 mm
@@ -8321,12 +8357,12 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 9.0 × 10^-11 m
 - D. 4.0 mm
 
-**Q1152.** Explain how a double-slit experiment performed one photon at a time supports the idea of wave-particle duality.
+**Q1154.** Explain how a double-slit experiment performed one photon at a time supports the idea of wave-particle duality.
 <!-- id: physics-7-4-8 -->
 
 *Written answer*
 
-**Q1153.** In a double-slit pattern, what is the path difference from the two slits to the second dark band from the centre?
+**Q1155.** In a double-slit pattern, what is the path difference from the two slits to the second dark band from the centre?
 <!-- id: physics-7-4-9 -->
 
 - A. 1.5λ
@@ -8334,7 +8370,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. λ
 - D. 0.5λ
 
-**Q1154.** Diffraction of a wave through a gap is most noticeable when:
+**Q1156.** Diffraction of a wave through a gap is most noticeable when:
 <!-- id: physics-7-4-10 -->
 
 - A. the gap is much larger than the wavelength
@@ -8342,7 +8378,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. the wave has a very high frequency
 - D. the wave has a very large amplitude
 
-**Q1155.** Solar sails can propel a spacecraft using sunlight. This works because photons:
+**Q1157.** Solar sails can propel a spacecraft using sunlight. This works because photons:
 <!-- id: physics-7-4-11 -->
 
 - A. have rest mass that pushes the sail
@@ -8350,12 +8386,12 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. carry momentum, which is transferred to the sail when they reflect
 - D. create a magnetic field around the sail
 
-**Q1156.** A green laser (532 nm) shines on two slits 0.25 mm apart, and the pattern forms on a wall 1.5 m away. Calculate the fringe spacing.
+**Q1158.** A green laser (532 nm) shines on two slits 0.25 mm apart, and the pattern forms on a wall 1.5 m away. Calculate the fringe spacing.
 <!-- id: physics-7-4-12 -->
 
 *Written answer*
 
-**Q1157.** A single slit produces a diffraction pattern on a screen. The slit is made narrower. The central bright band:
+**Q1159.** A single slit produces a diffraction pattern on a screen. The slit is made narrower. The central bright band:
 <!-- id: physics-7-4-13 -->
 
 - A. becomes narrower
@@ -8363,7 +8399,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. disappears
 - D. becomes wider
 
-**Q1158.** In the equation E = hf, which quantities describe a particle property and a wave property of light respectively?
+**Q1160.** In the equation E = hf, which quantities describe a particle property and a wave property of light respectively?
 <!-- id: physics-7-4-14 -->
 
 - A. E (photon energy) and f (frequency)
@@ -8371,7 +8407,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. h and E
 - D. h and f
 
-**Q1159.** In a double-slit experiment, the distance from the slits to the screen is doubled. The fringe spacing:
+**Q1161.** In a double-slit experiment, the distance from the slits to the screen is doubled. The fringe spacing:
 <!-- id: physics-7-4-15 -->
 
 - A. halves
@@ -8379,12 +8415,12 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. quadruples
 - D. is unchanged
 
-**Q1160.** Explain why the results of Young's double-slit experiment could not be explained by Newton's particle model of light.
+**Q1162.** Explain why the results of Young's double-slit experiment could not be explained by Newton's particle model of light.
 <!-- id: physics-7-4-16 -->
 
 *Written answer*
 
-**Q1161.** Red laser light is replaced with blue laser light in a double-slit experiment, with everything else unchanged. The fringes:
+**Q1163.** Red laser light is replaced with blue laser light in a double-slit experiment, with everything else unchanged. The fringes:
 <!-- id: physics-7-4-17 -->
 
 - A. move further apart
@@ -8392,7 +8428,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. move closer together
 - D. change only in brightness
 
-**Q1162.** Which observation from Young's double-slit experiment cannot be explained by a simple particle model of light?
+**Q1164.** Which observation from Young's double-slit experiment cannot be explained by a simple particle model of light?
 <!-- id: physics-7-4-18 -->
 
 - A. Light travels in straight lines to the slits
@@ -8400,7 +8436,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. Light carries energy to the screen
 - D. Dark bands appear where light from both slits arrives
 
-**Q1163.** Using the wave model of light, which result would be predicted for the photoelectric effect?
+**Q1165.** Using the wave model of light, which result would be predicted for the photoelectric effect?
 <!-- id: physics-7-4-19 -->
 
 - A. Light of any frequency should eventually eject electrons if it is intense enough.
@@ -8408,12 +8444,12 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. Electrons should be emitted instantly even in dim light.
 - D. Maximum kinetic energy should depend only on frequency.
 
-**Q1164.** Using the photon model, explain why a more intense beam of light of the same colour delivers more energy each second.
+**Q1166.** Using the photon model, explain why a more intense beam of light of the same colour delivers more energy each second.
 <!-- id: physics-7-4-20 -->
 
 *Written answer*
 
-**Q1165.** What is the momentum of a photon with energy 2.0 eV? (e = 1.60 × 10^-19 C, c = 3.00 × 10^8 m s^-1)
+**Q1167.** What is the momentum of a photon with energy 2.0 eV? (e = 1.60 × 10^-19 C, c = 3.00 × 10^8 m s^-1)
 <!-- id: physics-7-4-21 -->
 
 - A. 6.7 × 10^-9 kg m s^-1
@@ -8421,7 +8457,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 3.2 × 10^-19 kg m s^-1
 - D. 9.6 × 10^-11 kg m s^-1
 
-**Q1166.** A double-slit pattern has a fringe spacing of 3.0 mm with slits 0.40 mm apart and a screen 2.0 m away. What is the wavelength of the light?
+**Q1168.** A double-slit pattern has a fringe spacing of 3.0 mm with slits 0.40 mm apart and a screen 2.0 m away. What is the wavelength of the light?
 <!-- id: physics-7-4-22 -->
 
 - A. 150 nm
@@ -8429,7 +8465,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 600 nm
 - D. 267 nm
 
-**Q1167.** Electrons fired one at a time through a double slit produce an interference pattern on a detector. This shows that:
+**Q1169.** Electrons fired one at a time through a double slit produce an interference pattern on a detector. This shows that:
 <!-- id: physics-7-4-23 -->
 
 - A. electrons are actually photons
@@ -8437,12 +8473,12 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. the slits emit their own light
 - D. matter, as well as light, displays wave-particle duality
 
-**Q1168.** At a point P on a screen, the path difference from two slits is 1.2 μm. The light has a wavelength of 480 nm. Is P on a bright or dark band? Justify your answer.
+**Q1170.** At a point P on a screen, the path difference from two slits is 1.2 μm. The light has a wavelength of 480 nm. Is P on a bright or dark band? Justify your answer.
 <!-- id: physics-7-4-24 -->
 
 *Written answer*
 
-**Q1169.** Explain how electron diffraction and the photoelectric effect together show that wave-particle duality applies to both light and matter.
+**Q1171.** Explain how electron diffraction and the photoelectric effect together show that wave-particle duality applies to both light and matter.
 <!-- id: physics-7-4-25 -->
 
 *Written answer*
@@ -8451,7 +8487,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 
 #### Experimental design and variables
 
-**Q1170.** A student investigates how the length of a pendulum affects its period. What is the independent variable?
+**Q1172.** A student investigates how the length of a pendulum affects its period. What is the independent variable?
 <!-- id: physics-8-1-1 -->
 
 - A. The length of the pendulum
@@ -8459,7 +8495,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. The mass of the pendulum bob
 - D. The amplitude of the swing
 
-**Q1171.** In an investigation of how the length of a pendulum affects its period, what is the dependent variable?
+**Q1173.** In an investigation of how the length of a pendulum affects its period, what is the dependent variable?
 <!-- id: physics-8-1-2 -->
 
 - A. The length of the string
@@ -8467,7 +8503,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. The number of swings timed
 - D. The gravitational field strength
 
-**Q1172.** A student investigates how the voltage across a resistor affects the current through it. Which is a controlled variable?
+**Q1174.** A student investigates how the voltage across a resistor affects the current through it. Which is a controlled variable?
 <!-- id: physics-8-1-3 -->
 
 - A. The current through the resistor
@@ -8475,7 +8511,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. The temperature of the resistor
 - D. The ammeter reading
 
-**Q1173.** Why must controlled variables be kept constant during an experiment?
+**Q1175.** Why must controlled variables be kept constant during an experiment?
 <!-- id: physics-8-1-4 -->
 
 - A. To increase the resolution of the measuring instruments
@@ -8483,7 +8519,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. To guarantee that the hypothesis is supported
 - D. So that any change in the dependent variable can be attributed to the independent variable
 
-**Q1174.** Which is the best hypothesis for an investigation of how drop height affects the bounce height of a tennis ball?
+**Q1176.** Which is the best hypothesis for an investigation of how drop height affects the bounce height of a tennis ball?
 <!-- id: physics-8-1-5 -->
 
 - A. If the drop height increases, then the bounce height will increase proportionally, because a constant fraction of the ball's energy is lost in each bounce
@@ -8491,7 +8527,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. Bounce height depends on many different factors
 - D. Drop height is the independent variable and bounce height is the dependent variable
 
-**Q1175.** In VCE Physics, what does the term 'validity' of an investigation refer to?
+**Q1177.** In VCE Physics, what does the term 'validity' of an investigation refer to?
 <!-- id: physics-8-1-6 -->
 
 - A. The closeness of agreement between repeated measurements
@@ -8499,7 +8535,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. The closeness of a measurement to the true value
 - D. The smallest change in a quantity that an instrument can detect
 
-**Q1176.** Which statement best describes 'repeatability'?
+**Q1178.** Which statement best describes 'repeatability'?
 <!-- id: physics-8-1-7 -->
 
 - A. The closeness of agreement between results obtained by different people using different equipment
@@ -8507,7 +8543,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. The closeness of agreement between successive measurements made by the same person, with the same method and equipment, under the same conditions
 - D. The number of significant figures given by an instrument
 
-**Q1177.** A Year 12 class in Ballarat obtains a value for g that closely agrees with a value obtained by a class in Geelong using different equipment. This agreement demonstrates good:
+**Q1179.** A Year 12 class in Ballarat obtains a value for g that closely agrees with a value obtained by a class in Geelong using different equipment. This agreement demonstrates good:
 <!-- id: physics-8-1-8 -->
 
 - A. repeatability
@@ -8515,7 +8551,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. validity of the controlled variables
 - D. reproducibility
 
-**Q1178.** A student investigates how the mass of a stack of paper coffee filters affects their terminal velocity. Which action best improves the validity of the investigation?
+**Q1180.** A student investigates how the mass of a stack of paper coffee filters affects their terminal velocity. Which action best improves the validity of the investigation?
 <!-- id: physics-8-1-9 -->
 
 - A. Dropping every stack from the same height in the same draught-free room
@@ -8523,7 +8559,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. Recording times to more decimal places than the stopwatch displays
 - D. Changing both the number of filters and their shape between trials
 
-**Q1179.** Between trials, a student changes both the length of a pendulum and the mass of its bob. What is the main problem with this design?
+**Q1181.** Between trials, a student changes both the length of a pendulum and the mass of its bob. What is the main problem with this design?
 <!-- id: physics-8-1-10 -->
 
 - A. The period cannot be measured if the mass changes
@@ -8531,7 +8567,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. Changing the mass always introduces a systematic error
 - D. The experiment will become more precise but less accurate
 
-**Q1180.** Which is the most appropriate risk control when using a laser to investigate double-slit interference?
+**Q1182.** Which is the most appropriate risk control when using a laser to investigate double-slit interference?
 <!-- id: physics-8-1-11 -->
 
 - A. Wear ordinary sunglasses so the beam can be viewed directly
@@ -8539,7 +8575,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. Use a low-power (Class 2) laser and never look directly into the beam or its reflections
 - D. Use the most powerful laser available to make the fringes clearer
 
-**Q1181.** Which of the following is a qualitative observation?
+**Q1183.** Which of the following is a qualitative observation?
 <!-- id: physics-8-1-12 -->
 
 - A. The current was 2.4 A
@@ -8547,7 +8583,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. The wire was 45.0 cm long
 - D. The wire became noticeably warm to the touch
 
-**Q1182.** A student measures the period of a pendulum for lengths of 0.40 m, 0.42 m and 0.44 m only. Which change would best improve the design?
+**Q1184.** A student measures the period of a pendulum for lengths of 0.40 m, 0.42 m and 0.44 m only. Which change would best improve the design?
 <!-- id: physics-8-1-13 -->
 
 - A. Use at least five lengths spread over a wider range, such as 0.20 m to 1.20 m
@@ -8555,7 +8591,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. Use a heavier bob for each length
 - D. Measure the lengths to the nearest centimetre instead of the nearest millimetre
 
-**Q1183.** Why do students usually time 10 complete oscillations of a pendulum rather than a single oscillation?
+**Q1185.** Why do students usually time 10 complete oscillations of a pendulum rather than a single oscillation?
 <!-- id: physics-8-1-14 -->
 
 - A. It removes any systematic error caused by a faulty stopwatch
@@ -8563,7 +8599,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. It improves the accuracy of the length measurement
 - D. It increases the period of the pendulum
 
-**Q1184.** Which of the following is secondary data?
+**Q1186.** Which of the following is secondary data?
 <!-- id: physics-8-1-15 -->
 
 - A. Times recorded by the student using a stopwatch
@@ -8571,7 +8607,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. Values of g at different latitudes taken from a published scientific database
 - D. Distances measured by the student with a metre rule
 
-**Q1185.** A student investigates whether the strength of a magnet depends on its temperature, using a magnetic field sensor. Which variable is most important to control?
+**Q1187.** A student investigates whether the strength of a magnet depends on its temperature, using a magnetic field sensor. Which variable is most important to control?
 <!-- id: physics-8-1-16 -->
 
 - A. The temperature of the magnet
@@ -8579,7 +8615,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. The colour of the magnet
 - D. The distance between the magnet and the sensor
 
-**Q1186.** The aim of an experiment is 'to determine how the angle of an incline affects the acceleration of a trolley'. What is the dependent variable?
+**Q1188.** The aim of an experiment is 'to determine how the angle of an incline affects the acceleration of a trolley'. What is the dependent variable?
 <!-- id: physics-8-1-17 -->
 
 - A. The acceleration of the trolley
@@ -8587,7 +8623,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. The mass of the trolley
 - D. The length of the incline
 
-**Q1187.** A student wants to test whether the resistance of a nichrome wire is proportional to its length. Which design is most appropriate?
+**Q1189.** A student wants to test whether the resistance of a nichrome wire is proportional to its length. Which design is most appropriate?
 <!-- id: physics-8-1-18 -->
 
 - A. Measure the resistance of five wires made of different metals
@@ -8595,44 +8631,44 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. Measure the resistance of one length of wire many times
 - D. Vary the current through one fixed length of wire
 
-**Q1188.** A student drops a bar magnet through coils with different numbers of turns and records the peak induced EMF. Identify the independent variable, the dependent variable and two controlled variables.
+**Q1190.** A student drops a bar magnet through coils with different numbers of turns and records the peak induced EMF. Identify the independent variable, the dependent variable and two controlled variables.
 <!-- id: physics-8-1-19 -->
 
 *Written answer*
 
-**Q1189.** Write a suitable hypothesis for an investigation into how the angle of an incline affects the acceleration of a trolley rolling down it.
+**Q1191.** Write a suitable hypothesis for an investigation into how the angle of an incline affects the acceleration of a trolley rolling down it.
 <!-- id: physics-8-1-20 -->
 
 *Written answer*
 
-**Q1190.** Explain why a student should take repeated measurements in an investigation, and state one limitation of doing so.
+**Q1192.** Explain why a student should take repeated measurements in an investigation, and state one limitation of doing so.
 <!-- id: physics-8-1-21 -->
 
 *Written answer*
 
-**Q1191.** Explain the difference between repeatability and reproducibility.
+**Q1193.** Explain the difference between repeatability and reproducibility.
 <!-- id: physics-8-1-22 -->
 
 *Written answer*
 
-**Q1192.** A student estimates the speed of sound by clapping once in front of a wall 20 m away and timing the echo with a stopwatch. Suggest two improvements to the method.
+**Q1194.** A student estimates the speed of sound by clapping once in front of a wall 20 m away and timing the echo with a stopwatch. Suggest two improvements to the method.
 <!-- id: physics-8-1-23 -->
 
 *Written answer*
 
-**Q1193.** Why should an investigation use at least five well-spread values of the independent variable?
+**Q1195.** Why should an investigation use at least five well-spread values of the independent variable?
 <!-- id: physics-8-1-24 -->
 
 *Written answer*
 
-**Q1194.** Define a controlled variable and explain what happens to the conclusion if an important controlled variable is not kept constant.
+**Q1196.** Define a controlled variable and explain what happens to the conclusion if an important controlled variable is not kept constant.
 <!-- id: physics-8-1-25 -->
 
 *Written answer*
 
 #### Accuracy, precision and uncertainty
 
-**Q1195.** In VCE Physics, what does 'accuracy' describe?
+**Q1197.** In VCE Physics, what does 'accuracy' describe?
 <!-- id: physics-8-2-1 -->
 
 - A. How close a measurement is to the true value
@@ -8640,7 +8676,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. The smallest division on the measuring scale
 - D. The number of significant figures recorded
 
-**Q1196.** In VCE Physics, what does 'precision' describe?
+**Q1198.** In VCE Physics, what does 'precision' describe?
 <!-- id: physics-8-2-2 -->
 
 - A. How close a measurement is to the true value
@@ -8648,7 +8684,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. The size of the systematic error
 - D. The range of the independent variable
 
-**Q1197.** A student obtains values for g of 9.52, 9.53, 9.51 and 9.52 m/s². The accepted value is 9.80 m/s². The results are best described as:
+**Q1199.** A student obtains values for g of 9.52, 9.53, 9.51 and 9.52 m/s². The accepted value is 9.80 m/s². The results are best described as:
 <!-- id: physics-8-2-3 -->
 
 - A. accurate but not precise
@@ -8656,7 +8692,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. precise but not accurate
 - D. neither accurate nor precise
 
-**Q1198.** A student obtains values for g of 9.2, 10.4, 9.6 and 10.0 m/s². The accepted value is 9.80 m/s². The results are best described as:
+**Q1200.** A student obtains values for g of 9.2, 10.4, 9.6 and 10.0 m/s². The accepted value is 9.80 m/s². The results are best described as:
 <!-- id: physics-8-2-4 -->
 
 - A. precise but not accurate
@@ -8664,7 +8700,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. neither accurate nor precise
 - D. accurate but not precise
 
-**Q1199.** What is the resolution of a metre rule marked in millimetres?
+**Q1201.** What is the resolution of a metre rule marked in millimetres?
 <!-- id: physics-8-2-5 -->
 
 - A. 1 mm
@@ -8672,7 +8708,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 0.1 mm
 - D. 1 cm
 
-**Q1200.** Using the convention of half the smallest scale division, what is the uncertainty in a single reading from an analogue ruler graduated in millimetres?
+**Q1202.** Using the convention of half the smallest scale division, what is the uncertainty in a single reading from an analogue ruler graduated in millimetres?
 <!-- id: physics-8-2-6 -->
 
 - A. ±1 mm
@@ -8680,7 +8716,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. ±0.1 mm
 - D. ±0.05 mm
 
-**Q1201.** A digital voltmeter reads 3.47 V. Using the convention that the uncertainty of a digital meter equals its resolution, the reading should be recorded as:
+**Q1203.** A digital voltmeter reads 3.47 V. Using the convention that the uncertainty of a digital meter equals its resolution, the reading should be recorded as:
 <!-- id: physics-8-2-7 -->
 
 - A. 3.47 ± 0.1 V
@@ -8688,7 +8724,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 3.47 ± 0.01 V
 - D. 3.47 ± 0.001 V
 
-**Q1202.** A length is measured as 2.50 ± 0.05 m. What is the percentage uncertainty?
+**Q1204.** A length is measured as 2.50 ± 0.05 m. What is the percentage uncertainty?
 <!-- id: physics-8-2-8 -->
 
 - A. 5%
@@ -8696,7 +8732,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 20%
 - D. 2%
 
-**Q1203.** A rectangle is measured as 4.0 ± 0.1 cm long and 2.0 ± 0.1 cm wide. What is its area with absolute uncertainty?
+**Q1205.** A rectangle is measured as 4.0 ± 0.1 cm long and 2.0 ± 0.1 cm wide. What is its area with absolute uncertainty?
 <!-- id: physics-8-2-9 -->
 
 - A. 8.0 ± 0.6 cm²
@@ -8704,7 +8740,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 8.0 ± 0.3 cm²
 - D. 8.0 ± 0.01 cm²
 
-**Q1204.** Two lengths, 12.0 ± 0.2 cm and 8.0 ± 0.1 cm, are added. What is the total length?
+**Q1206.** Two lengths, 12.0 ± 0.2 cm and 8.0 ± 0.1 cm, are added. What is the total length?
 <!-- id: physics-8-2-10 -->
 
 - A. 20.0 ± 0.1 cm
@@ -8712,7 +8748,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 20.0 ± 0.2 cm
 - D. 20.0 ± 0.02 cm
 
-**Q1205.** Water starts at 20.0 ± 0.5 °C and is heated to 35.0 ± 0.5 °C. What is the temperature change?
+**Q1207.** Water starts at 20.0 ± 0.5 °C and is heated to 35.0 ± 0.5 °C. What is the temperature change?
 <!-- id: physics-8-2-11 -->
 
 - A. 15.0 ± 0.5 °C
@@ -8720,7 +8756,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 15.0 ± 1.0 °C
 - D. 15.0 ± 0.25 °C
 
-**Q1206.** A speed is measured as 3.0 ± 0.1 m/s. What is the percentage uncertainty in v²?
+**Q1208.** A speed is measured as 3.0 ± 0.1 m/s. What is the percentage uncertainty in v²?
 <!-- id: physics-8-2-12 -->
 
 - A. 3.3%
@@ -8728,7 +8764,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 0.67%
 - D. 6.7%
 
-**Q1207.** A 2.00 ± 0.02 kg cart moves at 4.0 ± 0.2 m/s. What is its kinetic energy with percentage uncertainty?
+**Q1209.** A 2.00 ± 0.02 kg cart moves at 4.0 ± 0.2 m/s. What is its kinetic energy with percentage uncertainty?
 <!-- id: physics-8-2-13 -->
 
 - A. 16 J ± 11%
@@ -8736,7 +8772,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 16 J ± 10%
 - D. 32 J ± 11%
 
-**Q1208.** The time for 10 oscillations of a pendulum is 15.6 ± 0.2 s. What is the period?
+**Q1210.** The time for 10 oscillations of a pendulum is 15.6 ± 0.2 s. What is the period?
 <!-- id: physics-8-2-14 -->
 
 - A. 1.56 ± 0.2 s
@@ -8744,7 +8780,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 1.56 ± 0.002 s
 - D. 15.6 ± 0.02 s
 
-**Q1209.** A voltmeter reads 12.0 V and an ammeter reads 0.35 A. The resistance should be reported as:
+**Q1211.** A voltmeter reads 12.0 V and an ammeter reads 0.35 A. The resistance should be reported as:
 <!-- id: physics-8-2-15 -->
 
 - A. 34.3 Ω
@@ -8752,7 +8788,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 34 Ω
 - D. 30 Ω
 
-**Q1210.** Which instrument choice would most reduce the uncertainty when measuring the diameter of a thin copper wire?
+**Q1212.** Which instrument choice would most reduce the uncertainty when measuring the diameter of a thin copper wire?
 <!-- id: physics-8-2-16 -->
 
 - A. A metre rule
@@ -8760,7 +8796,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. A tape measure
 - D. A micrometer screw gauge
 
-**Q1211.** A runner covers 100.0 ± 0.5 m in 12.5 ± 0.1 s. What is the average speed with absolute uncertainty?
+**Q1213.** A runner covers 100.0 ± 0.5 m in 12.5 ± 0.1 s. What is the average speed with absolute uncertainty?
 <!-- id: physics-8-2-17 -->
 
 - A. 8.0 ± 0.1 m/s
@@ -8768,7 +8804,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 8.0 ± 0.5 m/s
 - D. 8.0 ± 0.01 m/s
 
-**Q1212.** Which statement best describes the 'true value' of a quantity?
+**Q1214.** Which statement best describes the 'true value' of a quantity?
 <!-- id: physics-8-2-18 -->
 
 - A. The mean of the student's measurements
@@ -8776,44 +8812,44 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. The largest value recorded in a set of trials
 - D. The value displayed on the most expensive instrument
 
-**Q1213.** Explain the difference between accuracy and precision, using an example.
+**Q1215.** Explain the difference between accuracy and precision, using an example.
 <!-- id: physics-8-2-19 -->
 
 *Written answer*
 
-**Q1214.** A spring's extension is measured five times: 4.2, 4.5, 4.3, 4.4 and 4.6 cm. Find the mean extension and estimate its uncertainty using half the range.
+**Q1216.** A spring's extension is measured five times: 4.2, 4.5, 4.3, 4.4 and 4.6 cm. Find the mean extension and estimate its uncertainty using half the range.
 <!-- id: physics-8-2-20 -->
 
 *Written answer*
 
-**Q1215.** A pendulum of length 0.800 ± 0.005 m has a period of 1.80 ± 0.02 s. Using g = 4π²L/T², find g and its absolute uncertainty.
+**Q1217.** A pendulum of length 0.800 ± 0.005 m has a period of 1.80 ± 0.02 s. Using g = 4π²L/T², find g and its absolute uncertainty.
 <!-- id: physics-8-2-21 -->
 
 *Written answer*
 
-**Q1216.** A resistor has 6.0 ± 0.1 V across it and 0.50 ± 0.02 A through it. Find its resistance with absolute uncertainty.
+**Q1218.** A resistor has 6.0 ± 0.1 V across it and 0.50 ± 0.02 A through it. Find its resistance with absolute uncertainty.
 <!-- id: physics-8-2-22 -->
 
 *Written answer*
 
-**Q1217.** A metal cube has sides of 2.00 ± 0.02 cm and a mass of 21.6 ± 0.1 g. Find its density with absolute uncertainty.
+**Q1219.** A metal cube has sides of 2.00 ± 0.02 cm and a mass of 21.6 ± 0.1 g. Find its density with absolute uncertainty.
 <!-- id: physics-8-2-23 -->
 
 *Written answer*
 
-**Q1218.** Explain why recording a calculated result with too many significant figures is misleading.
+**Q1220.** Explain why recording a calculated result with too many significant figures is misleading.
 <!-- id: physics-8-2-24 -->
 
 *Written answer*
 
-**Q1219.** A student's reaction time introduces an uncertainty of ±0.2 s in any stopwatch timing. Compare the percentage uncertainty in the period when timing one 1.5 s oscillation with timing 20 oscillations.
+**Q1221.** A student's reaction time introduces an uncertainty of ±0.2 s in any stopwatch timing. Compare the percentage uncertainty in the period when timing one 1.5 s oscillation with timing 20 oscillations.
 <!-- id: physics-8-2-25 -->
 
 *Written answer*
 
 #### Random and systematic errors
 
-**Q1220.** Which statement best describes random error?
+**Q1222.** Which statement best describes random error?
 <!-- id: physics-8-3-1 -->
 
 - A. Unpredictable variations that scatter readings either side of the true value
@@ -8821,7 +8857,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. An error caused by misreading a scale once
 - D. An error that can be removed by calibrating the instrument
 
-**Q1221.** Which statement best describes systematic error?
+**Q1223.** Which statement best describes systematic error?
 <!-- id: physics-8-3-2 -->
 
 - A. An error that scatters readings randomly above and below the true value
@@ -8829,7 +8865,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. An error that is removed by taking more readings
 - D. An error that only affects the precision of results
 
-**Q1222.** An electronic balance reads 0.3 g with nothing on the pan. This is an example of:
+**Q1224.** An electronic balance reads 0.3 g with nothing on the pan. This is an example of:
 <!-- id: physics-8-3-3 -->
 
 - A. a random error
@@ -8837,7 +8873,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. a systematic (zero) error
 - D. a resolution limit
 
-**Q1223.** A student's reaction time varies slightly each time they start and stop a stopwatch. This mainly introduces:
+**Q1225.** A student's reaction time varies slightly each time they start and stop a stopwatch. This mainly introduces:
 <!-- id: physics-8-3-4 -->
 
 - A. systematic error
@@ -8845,7 +8881,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. a calibration error
 - D. random error
 
-**Q1224.** Averaging many repeated measurements reduces the effect of:
+**Q1226.** Averaging many repeated measurements reduces the effect of:
 <!-- id: physics-8-3-5 -->
 
 - A. random errors only
@@ -8853,7 +8889,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. both random and systematic errors equally
 - D. neither random nor systematic errors
 
-**Q1225.** A student records a length of 25 cm when the scale actually read 2.5 cm. According to VCE Physics terminology, this is best described as:
+**Q1227.** A student records a length of 25 cm when the scale actually read 2.5 cm. According to VCE Physics terminology, this is best described as:
 <!-- id: physics-8-3-6 -->
 
 - A. a random error that is reduced by averaging
@@ -8861,7 +8897,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. a systematic error caused by the instrument
 - D. an uncertainty due to the instrument's resolution
 
-**Q1226.** A student always reads a ruler from the same angle above the pointer, so every reading is shifted the same way. This is:
+**Q1228.** A student always reads a ruler from the same angle above the pointer, so every reading is shifted the same way. This is:
 <!-- id: physics-8-3-7 -->
 
 - A. a random error due to parallax
@@ -8869,7 +8905,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. a systematic error due to parallax
 - D. an outlier
 
-**Q1227.** The first 2 mm of a metre rule has been worn away, and a student measures lengths starting from the worn end. What is the effect?
+**Q1229.** The first 2 mm of a metre rule has been worn away, and a student measures lengths starting from the worn end. What is the effect?
 <!-- id: physics-8-3-8 -->
 
 - A. Every reading is 2 mm too small, a systematic error
@@ -8877,7 +8913,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. There is no effect because the scale is still marked in millimetres
 - D. Every reading is 2 mm too large, a systematic error
 
-**Q1228.** A graph of extension against force for a spring is expected to pass through the origin but has a non-zero intercept. This most likely indicates:
+**Q1230.** A graph of extension against force for a spring is expected to pass through the origin but has a non-zero intercept. This most likely indicates:
 <!-- id: physics-8-3-9 -->
 
 - A. a systematic error
@@ -8885,7 +8921,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. that the spring obeys Hooke's law exactly
 - D. that more data points are needed to reduce precision
 
-**Q1229.** One measurement in a set of repeated trials is far from the others. What is the most appropriate response?
+**Q1231.** One measurement in a set of repeated trials is far from the others. What is the most appropriate response?
 <!-- id: physics-8-3-10 -->
 
 - A. Always include it so the data are not manipulated
@@ -8893,7 +8929,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. Delete it without comment
 - D. Change it to match the mean of the other values
 
-**Q1230.** Which action reduces systematic error?
+**Q1232.** Which action reduces systematic error?
 <!-- id: physics-8-3-11 -->
 
 - A. Taking more repeated readings
@@ -8901,7 +8937,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. Calibrating the instrument against a known standard
 - D. Recording more decimal places
 
-**Q1231.** In a free-fall experiment, air resistance on a light ball causes the measured g to be:
+**Q1233.** In a free-fall experiment, air resistance on a light ball causes the measured g to be:
 <!-- id: physics-8-3-12 -->
 
 - A. consistently higher than the true value, a systematic error
@@ -8909,7 +8945,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. unaffected because air resistance is negligible for all objects
 - D. consistently lower than the true value, a systematic error
 
-**Q1232.** The reading on a voltmeter fluctuates slightly up and down because of electrical noise in the circuit. This is:
+**Q1234.** The reading on a voltmeter fluctuates slightly up and down because of electrical noise in the circuit. This is:
 <!-- id: physics-8-3-13 -->
 
 - A. random error
@@ -8917,7 +8953,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. a zero error
 - D. a mistake
 
-**Q1233.** A stopwatch runs 2% fast, so every time it records is 2% too long. Which statement about the results is correct?
+**Q1235.** A stopwatch runs 2% fast, so every time it records is 2% too long. Which statement about the results is correct?
 <!-- id: physics-8-3-14 -->
 
 - A. The results will be imprecise but accurate
@@ -8925,7 +8961,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. The results will be both accurate and precise
 - D. Averaging more trials will remove the error
 
-**Q1234.** Increasing the number of trials from 3 to 10 will most likely:
+**Q1236.** Increasing the number of trials from 3 to 10 will most likely:
 <!-- id: physics-8-3-15 -->
 
 - A. remove all systematic errors
@@ -8933,7 +8969,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. reduce the effect of random errors on the mean, but not change any systematic error
 - D. increase the resolution of the instrument
 
-**Q1235.** A thermometer reads 1.5 °C too high at all temperatures. It is used to find the temperature change of water in a specific heat capacity experiment. What is the effect on the calculated temperature change?
+**Q1237.** A thermometer reads 1.5 °C too high at all temperatures. It is used to find the temperature change of water in a specific heat capacity experiment. What is the effect on the calculated temperature change?
 <!-- id: physics-8-3-16 -->
 
 - A. The temperature change will be 1.5 °C too high
@@ -8941,7 +8977,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. The temperature change will be 1.5 °C too low
 - D. No effect, because the offset cancels when the initial temperature is subtracted from the final
 
-**Q1236.** A light gate calculates speed as card length ÷ time. The card length is entered as 5.0 cm when it is actually 4.0 cm. What is the effect on the calculated speeds?
+**Q1238.** A light gate calculates speed as card length ÷ time. The card length is entered as 5.0 cm when it is actually 4.0 cm. What is the effect on the calculated speeds?
 <!-- id: physics-8-3-17 -->
 
 - A. All speeds are 25% too high, a systematic error
@@ -8949,7 +8985,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. Speeds are randomly too high or too low
 - D. There is no effect because time is measured accurately
 
-**Q1237.** Which pairing is correct?
+**Q1239.** Which pairing is correct?
 <!-- id: physics-8-3-18 -->
 
 - A. Random errors mainly affect accuracy; systematic errors mainly affect precision
@@ -8957,44 +8993,44 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. Both mainly affect resolution
 - D. Neither affects accuracy
 
-**Q1238.** Distinguish between random and systematic errors, giving an example of each.
+**Q1240.** Distinguish between random and systematic errors, giving an example of each.
 <!-- id: physics-8-3-19 -->
 
 *Written answer*
 
-**Q1239.** A student measures g with a pendulum as 9.42 ± 0.05 m/s². The accepted value is 9.80 m/s². Comment on the result.
+**Q1241.** A student measures g with a pendulum as 9.42 ± 0.05 m/s². The accepted value is 9.80 m/s². Comment on the result.
 <!-- id: physics-8-3-20 -->
 
 *Written answer*
 
-**Q1240.** Explain why repeating measurements and averaging does not reduce systematic error.
+**Q1242.** Explain why repeating measurements and averaging does not reduce systematic error.
 <!-- id: physics-8-3-21 -->
 
 *Written answer*
 
-**Q1241.** A micrometer reads +0.03 mm when its jaws are fully closed. It then reads 1.27 mm when measuring a wire. What is the true diameter of the wire?
+**Q1243.** A micrometer reads +0.03 mm when its jaws are fully closed. It then reads 1.27 mm when measuring a wire. What is the true diameter of the wire?
 <!-- id: physics-8-3-22 -->
 
 *Written answer*
 
-**Q1242.** Five timings of a trolley down a ramp are 2.31, 2.28, 2.35, 3.10 and 2.30 s. Identify the outlier and find the mean of the remaining values.
+**Q1244.** Five timings of a trolley down a ramp are 2.31, 2.28, 2.35, 3.10 and 2.30 s. Identify the outlier and find the mean of the remaining values.
 <!-- id: physics-8-3-23 -->
 
 *Written answer*
 
-**Q1243.** Why is 'human error' not an acceptable explanation for discrepancies in a VCE Physics practical report?
+**Q1245.** Why is 'human error' not an acceptable explanation for discrepancies in a VCE Physics practical report?
 <!-- id: physics-8-3-24 -->
 
 *Written answer*
 
-**Q1244.** A student predicts a trolley's acceleration down a ramp using a = g sin θ but ignores friction. Identify the type of error and how the measured acceleration compares with the prediction.
+**Q1246.** A student predicts a trolley's acceleration down a ramp using a = g sin θ but ignores friction. Identify the type of error and how the measured acceleration compares with the prediction.
 <!-- id: physics-8-3-25 -->
 
 *Written answer*
 
 #### Graphing and linearisation
 
-**Q1245.** When graphing experimental data, which variable is conventionally plotted on the horizontal (x) axis?
+**Q1247.** When graphing experimental data, which variable is conventionally plotted on the horizontal (x) axis?
 <!-- id: physics-8-4-1 -->
 
 - A. The independent variable
@@ -9002,7 +9038,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. The controlled variable
 - D. The variable with the larger uncertainty
 
-**Q1246.** The period of a pendulum is given by T = 2π√(L/g). Which graph will give a straight line through the origin?
+**Q1248.** The period of a pendulum is given by T = 2π√(L/g). Which graph will give a straight line through the origin?
 <!-- id: physics-8-4-2 -->
 
 - A. T against L
@@ -9010,7 +9046,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. T against L²
 - D. √T against L
 
-**Q1247.** A graph of T² against L for a pendulum has a gradient of 4.0 s²/m. What is the value of g?
+**Q1249.** A graph of T² against L for a pendulum has a gradient of 4.0 s²/m. What is the value of g?
 <!-- id: physics-8-4-3 -->
 
 - A. 2.5 m/s²
@@ -9018,7 +9054,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 9.9 m/s²
 - D. 39 m/s²
 
-**Q1248.** The intensity I of light from a point source is thought to follow I = k/r². Which graph should be plotted to test this?
+**Q1250.** The intensity I of light from a point source is thought to follow I = k/r². Which graph should be plotted to test this?
 <!-- id: physics-8-4-4 -->
 
 - A. I against r²
@@ -9026,7 +9062,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. I against 1/r
 - D. I against 1/r²
 
-**Q1249.** For an object in uniform circular motion with fixed mass and radius, F = mv²/r. Which graph gives a straight line, and what is its gradient?
+**Q1251.** For an object in uniform circular motion with fixed mass and radius, F = mv²/r. Which graph gives a straight line, and what is its gradient?
 <!-- id: physics-8-4-5 -->
 
 - A. F against v², gradient m/r
@@ -9034,7 +9070,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. F against v², gradient r/m
 - D. F against 1/v², gradient mr
 
-**Q1250.** A graph of current (y-axis) against voltage (x-axis) for a resistor has a gradient of 0.040 A/V. What is the resistance?
+**Q1252.** A graph of current (y-axis) against voltage (x-axis) for a resistor has a gradient of 0.040 A/V. What is the resistance?
 <!-- id: physics-8-4-6 -->
 
 - A. 0.040 Ω
@@ -9042,7 +9078,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 4.0 Ω
 - D. 2.5 Ω
 
-**Q1251.** Which best describes a line of best fit for linear data?
+**Q1253.** Which best describes a line of best fit for linear data?
 <!-- id: physics-8-4-7 -->
 
 - A. A line joining each data point to the next
@@ -9050,7 +9086,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. A straight line with points scattered roughly evenly on either side, not necessarily passing through every point or the origin
 - D. A line that must always pass through the origin
 
-**Q1252.** Theory predicts that a graph should pass through the origin, but the line of best fit has a clear non-zero intercept. This most likely indicates:
+**Q1254.** Theory predicts that a graph should pass through the origin, but the line of best fit has a clear non-zero intercept. This most likely indicates:
 <!-- id: physics-8-4-8 -->
 
 - A. only random errors in the measurements
@@ -9058,7 +9094,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. that the gradient is zero
 - D. a systematic error in the measurements
 
-**Q1253.** For the photoelectric effect, a graph of maximum kinetic energy of photoelectrons against frequency of light is a straight line. What does the x-intercept represent?
+**Q1255.** For the photoelectric effect, a graph of maximum kinetic energy of photoelectrons against frequency of light is a straight line. What does the x-intercept represent?
 <!-- id: physics-8-4-9 -->
 
 - A. The threshold frequency
@@ -9066,7 +9102,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. The work function
 - D. The stopping voltage
 
-**Q1254.** A trolley accelerates uniformly from rest. A graph of displacement s against t² has a gradient of 1.5 m/s². What is the acceleration?
+**Q1256.** A trolley accelerates uniformly from rest. A graph of displacement s against t² has a gradient of 1.5 m/s². What is the acceleration?
 <!-- id: physics-8-4-10 -->
 
 - A. 1.5 m/s²
@@ -9074,7 +9110,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 0.75 m/s²
 - D. 2.25 m/s²
 
-**Q1255.** According to de Broglie, λ = h/p. Which graph gives a straight line with gradient equal to Planck's constant?
+**Q1257.** According to de Broglie, λ = h/p. Which graph gives a straight line with gradient equal to Planck's constant?
 <!-- id: physics-8-4-11 -->
 
 - A. λ against p
@@ -9082,7 +9118,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. λ against 1/p
 - D. λ against p²
 
-**Q1256.** What does the area under a force–extension graph for a spring represent?
+**Q1258.** What does the area under a force–extension graph for a spring represent?
 <!-- id: physics-8-4-12 -->
 
 - A. The spring constant
@@ -9090,7 +9126,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. The power delivered to the spring
 - D. The elastic potential energy stored in the spring
 
-**Q1257.** What is the purpose of error bars on a graph?
+**Q1259.** What is the purpose of error bars on a graph?
 <!-- id: physics-8-4-13 -->
 
 - A. To show the uncertainty in each plotted value
@@ -9098,7 +9134,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. To show which points are outliers
 - D. To show the gradient of the line
 
-**Q1258.** Students draw the steepest and least steep lines that still pass through all the error bars on a graph. What is this used for?
+**Q1260.** Students draw the steepest and least steep lines that still pass through all the error bars on a graph. What is this used for?
 <!-- id: physics-8-4-14 -->
 
 - A. Finding the mean of the data
@@ -9106,7 +9142,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. Removing systematic errors
 - D. Identifying the independent variable
 
-**Q1259.** A line of best fit passes through the points (0.10, 0.45) and (0.50, 2.05). What is its gradient?
+**Q1261.** A line of best fit passes through the points (0.10, 0.45) and (0.50, 2.05). What is its gradient?
 <!-- id: physics-8-4-15 -->
 
 - A. 4.5
@@ -9114,7 +9150,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 4.0
 - D. 0.25
 
-**Q1260.** For satellites orbiting the same planet, T² = (4π²/GM)r³. Which graph is linear?
+**Q1262.** For satellites orbiting the same planet, T² = (4π²/GM)r³. Which graph is linear?
 <!-- id: physics-8-4-16 -->
 
 - A. T against r³
@@ -9122,7 +9158,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. T against r
 - D. T² against r³
 
-**Q1261.** A graph of T² against r³ for moons of a planet has a gradient of 9.9 × 10⁻¹⁴ s²/m³. Given G = 6.67 × 10⁻¹¹ N m² kg⁻², what is the mass of the planet?
+**Q1263.** A graph of T² against r³ for moons of a planet has a gradient of 9.9 × 10⁻¹⁴ s²/m³. Given G = 6.67 × 10⁻¹¹ N m² kg⁻², what is the mass of the planet?
 <!-- id: physics-8-4-17 -->
 
 - A. 6.0 × 10²⁴ kg
@@ -9130,7 +9166,7 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. 9.5 × 10²³ kg
 - D. 5.9 × 10⁻² kg
 
-**Q1262.** What does the area under an acceleration–time graph represent?
+**Q1264.** What does the area under an acceleration–time graph represent?
 <!-- id: physics-8-4-18 -->
 
 - A. The displacement
@@ -9138,44 +9174,44 @@ A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, they ac
 - C. The change in acceleration
 - D. The net force
 
-**Q1263.** The period of a mass on a spring is T = 2π√(m/k). Describe how to linearise this relationship to find k from a graph.
+**Q1265.** The period of a mass on a spring is T = 2π√(m/k). Describe how to linearise this relationship to find k from a graph.
 <!-- id: physics-8-4-19 -->
 
 *Written answer*
 
-**Q1264.** A graph of T² against mass m for a mass–spring system has a gradient of 0.20 s²/kg. Calculate the spring constant k.
+**Q1266.** A graph of T² against mass m for a mass–spring system has a gradient of 0.20 s²/kg. Calculate the spring constant k.
 <!-- id: physics-8-4-20 -->
 
 *Written answer*
 
-**Q1265.** A student suspects that sound intensity I from a speaker on a sports oval is inversely proportional to the square of the distance r. Describe how a graph could test this.
+**Q1267.** A student suspects that sound intensity I from a speaker on a sports oval is inversely proportional to the square of the distance r. Describe how a graph could test this.
 <!-- id: physics-8-4-21 -->
 
 *Written answer*
 
-**Q1266.** From a graph, the steepest line through the error bars has a gradient of 5.2 and the least steep line has a gradient of 4.6. State the gradient with its uncertainty.
+**Q1268.** From a graph, the steepest line through the error bars has a gradient of 5.2 and the least steep line has a gradient of 4.6. State the gradient with its uncertainty.
 <!-- id: physics-8-4-22 -->
 
 *Written answer*
 
-**Q1267.** A graph of maximum kinetic energy of photoelectrons against frequency has an x-intercept of 5.5 × 10¹⁴ Hz. Calculate the work function of the metal in eV (h = 4.14 × 10⁻¹⁵ eV s).
+**Q1269.** A graph of maximum kinetic energy of photoelectrons against frequency has an x-intercept of 5.5 × 10¹⁴ Hz. Calculate the work function of the metal in eV (h = 4.14 × 10⁻¹⁵ eV s).
 <!-- id: physics-8-4-23 -->
 
 *Written answer*
 
-**Q1268.** Why do physicists linearise data so that it produces a straight-line graph?
+**Q1270.** Why do physicists linearise data so that it produces a straight-line graph?
 <!-- id: physics-8-4-24 -->
 
 *Written answer*
 
-**Q1269.** A ball rolls from rest down a ramp. A graph of distance d against t² has a gradient of 0.60 m/s². Find the ball's acceleration.
+**Q1271.** A ball rolls from rest down a ramp. A graph of distance d against t² has a gradient of 0.60 m/s². Find the ball's acceleration.
 <!-- id: physics-8-4-25 -->
 
 *Written answer*
 
 ### Exam-style questions (mixed topics)
 
-**Q1270.** Satellites in orbit
+**Q1272.** Satellites in orbit
 <!-- id: physics-x1 -->
 *Multi-part question · 11 marks · Original question in the style of the VCE Physics exam, Section B*
 
@@ -9197,7 +9233,7 @@ The satellites send data to the ground using radio waves of frequency 1.50 GHz.
 
 **f.** Calculate the wavelength of these radio waves. Use c = 3.00 × 10⁸ m s⁻¹. *(1 mark)*
 
-**Q1271.** Electrons: accelerated, turned and diffracted
+**Q1273.** Electrons: accelerated, turned and diffracted
 <!-- id: physics-x2 -->
 *Multi-part question · 13 marks · Original question in the style of the VCE Physics exam, Section B*
 
@@ -9220,3 +9256,45 @@ Electrons with this speed are then aimed at a thin crystal, where they produce a
 **f.i.** Calculate the de Broglie wavelength of the electrons. *(2 marks)*
 
 **f.ii.** X-rays produce the same diffraction pattern from this crystal. Calculate the energy of one of these X-ray photons, in keV. *(2 marks)*
+
+**Q1274.** From generator to town
+<!-- id: physics-x3 -->
+*Multi-part question · 10 marks · Original question in the style of the VCE Physics exam, Section B*
+
+A coil of 200 turns, each of area 0.050 m², sits in a uniform magnetic field of 0.40 T. It is rotated from a position where its plane is perpendicular to the field to a position where its plane is parallel to the field, in 0.025 s.
+
+**a.** Calculate the change in magnetic flux through one turn of the coil. *(1 mark)*
+
+**b.** Calculate the average EMF induced in the coil. *(2 marks)*
+
+**c.** State Lenz's law as it applies to the current induced in the coil. *(1 mark)*
+
+A power station supplies 250 kW to a town at a transmission voltage of 5.00 kV RMS. The transmission lines have a total resistance of 4.0 Ω.
+
+**d.** Calculate the current in the transmission lines. *(1 mark)*
+
+**e.** Calculate the power lost in the transmission lines. *(2 marks)*
+
+**f.** The voltage is stepped up to 50.0 kV before transmission. Calculate the new power loss, and explain why it is so much smaller. *(2 marks)*
+
+**g.** Calculate the peak voltage corresponding to 5.00 kV RMS. *(1 mark)*
+
+**Q1275.** Green light: waves and photons
+<!-- id: physics-x4 -->
+*Multi-part question · 10 marks · Original question in the style of the VCE Physics exam, Section B*
+
+Green light of wavelength 532 nm passes through two narrow slits 0.250 mm apart and forms an interference pattern on a screen 2.00 m away.
+
+**a.** Calculate the distance between adjacent bright fringes on the screen. *(2 marks)*
+
+**b.** Explain why a dark fringe forms at some points on the screen. *(2 marks)*
+
+**c.** Describe the effect on the fringe spacing of using red light instead. *(1 mark)*
+
+The same light shines on a metal surface with a work function of 2.10 eV. Use h = 4.14 × 10⁻¹⁵ eV s and c = 3.00 × 10⁸ m s⁻¹.
+
+**d.** Calculate the energy of one photon of this light, in eV. *(2 marks)*
+
+**e.** Calculate the maximum kinetic energy of the emitted photoelectrons. *(1 mark)*
+
+**f.** The intensity of the light is doubled. Explain the effect on the number of photoelectrons and on their maximum kinetic energy. *(2 marks)*

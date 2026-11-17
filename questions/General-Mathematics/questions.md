@@ -5872,3 +5872,57 @@ At the fair, each hour 80% of visitors in the food area stay there and 20% move 
 **f.** Find the number of visitors in each area after one hour. *(1 mark)*
 
 **g.** In the long term, how many of the 200 visitors are in the food area? *(1 mark)*
+
+**Q803.** A running club's times, members and savings
+<!-- id: general-x3 -->
+*Multi-part question · 10 marks · Technology-active (CAS) · Original question in the style of VCAA General Mathematics Exam 2*
+
+The 5 km times of a running club's members are approximately normally distributed with a mean of 28 minutes and a standard deviation of 3 minutes.
+
+**a.** Find the standardised score (\(z\)-score) of a runner whose time is 22 minutes. *(1 mark)*
+
+**b.** Using the 68–95–99.7% rule, find the percentage of runners slower than 31 minutes. *(1 mark)*
+
+**c.** Using the 68–95–99.7% rule, find the percentage of runners with times between 22 and 31 minutes. *(2 marks)*
+
+The club's membership varies by season. The seasonal indices are shown below.
+
+| Season | Summer | Autumn | Winter | Spring |
+| --- | --- | --- | --- | --- |
+| Seasonal index | 1.15 | 1.05 | 0.80 | ? |
+
+**d.** Find the seasonal index for spring. *(1 mark)*
+
+**e.** The club had 96 members in winter. Find the deseasonalised number of members. *(1 mark)*
+
+**f.** Interpret the summer seasonal index of 1.15. *(1 mark)*
+
+The club invests $5000 in an account that pays interest of 4.2% per annum, compounding monthly. It adds $200 to the account at the end of each month.
+
+**g.** Find the value of the investment after 3 years, correct to the nearest cent. *(2 marks)*
+
+**h.** How much interest does the account earn over the 3 years? *(1 mark)*
+
+**Q804.** A delivery business: routes, prices and customers
+<!-- id: general-x4 -->
+*Multi-part question · 10 marks · Technology-active (CAS) · Original question in the style of VCAA General Mathematics Exam 2*
+
+A delivery company serves five towns, A, B, C, D and E. The roads between them and their lengths (in km) are: A–B 5, A–C 3, B–C 1, B–D 4, C–D 7, C–E 8, D–E 2.
+
+**a.** Find the shortest route from A to E and its length. *(2 marks)*
+
+**b.** Find the total length of a minimum spanning tree for this network. *(2 marks)*
+
+**c.** Explain why the network has an Euler trail but not an Euler circuit. *(1 mark)*
+
+The company charges \(s\) dollars to deliver a small parcel and \(l\) dollars to deliver a large parcel. Delivering 3 small and 2 large parcels costs $34; delivering 1 small and 4 large parcels costs $38. This can be written as \(\begin{bmatrix} 3 & 2 \\ 1 & 4 \end{bmatrix}\begin{bmatrix} s \\ l \end{bmatrix} = \begin{bmatrix} 34 \\ 38 \end{bmatrix}\).
+
+**d.** Find the determinant of the coefficient matrix. *(1 mark)*
+
+**e.** Use the inverse matrix to find \(s\) and \(l\). *(2 marks)*
+
+Customers choose between two delivery companies, Fast (F) and Swift (S). Each month, 90% of Fast's customers stay and 10% switch to Swift; 80% of Swift's customers stay and 20% switch to Fast. Initially Fast has 600 customers and Swift has 400. \[T = \begin{bmatrix} 0.9 & 0.2 \\ 0.1 & 0.8 \end{bmatrix}, \quad S_0 = \begin{bmatrix} 600 \\ 400 \end{bmatrix}\]
+
+**f.** Find the number of customers each company has after one month. *(1 mark)*
+
+**g.** In the long term, how many customers will Fast have, to the nearest whole number? *(1 mark)*
