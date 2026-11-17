@@ -65,7 +65,7 @@
   color-scheme: dark;
 }
 * { box-sizing: border-box; }
-html { background: var(--outer); }
+html { background: var(--outer); overflow-y: auto; } /* a non-visible root overflow stops body's overflow:clip propagating to the viewport, where it becomes hidden and blocks scrolling */
 body { margin: clamp(8px, 2vw, 24px); border-radius: var(--frame-r); background: var(--bg); overflow: clip; min-height: calc(100vh - 2 * clamp(8px, 2vw, 24px)); color: var(--ink); font-family: var(--font); font-size: 16px; line-height: 1.6; -webkit-font-smoothing: antialiased; display: flex; flex-direction: column; }
 .display { font-family: var(--font-display); font-weight: 600; letter-spacing: 0; }
 .call { font-family: var(--font-display); font-size: 0.8rem; font-weight: 700; letter-spacing: .04em; text-transform: uppercase; color: var(--grass-ink); font-variant-numeric: tabular-nums; }
