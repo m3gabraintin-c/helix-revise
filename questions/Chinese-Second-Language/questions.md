@@ -78,9 +78,38 @@ Read the article, then answer the questions in English.
 
 **e.** List two other things experts suggest we do to protect the environment. *(2 marks)*
 
+**Q4.** Challenge: shared bikes (newspaper article)
+<!-- id: vce-chinese-sl34-ra-c1 -->
+*Challenge question*
+*Multi-part question · 10 marks · Original challenge text in the style of the VCE Chinese Second Language exam, Section 2 Part A (answer in English)*
+
+Read the article, then answer the questions in English.
+
+共享单车：方便还是麻烦？
+
+这几年，在中国的很多城市，街上到处都能看到五颜六色的共享单车。用手机扫一下二维码就能骑走，到了目的地以后，停在路边就行。骑一次只要一块五，比坐出租车便宜多了。
+
+很多上班族说，从地铁站到公司还有一公里多，走路太慢，坐车又太贵，骑共享单车正合适。而且，骑车不但能锻炼身体，还不会污染空气。
+
+可是，共享单车也带来了不少问题。有的人把车停在人行道上，甚至停在小区门口，让行人和汽车都很难通过。还有一些车被人弄坏了，没有人修理，只好扔在路边。
+
+为了解决这些问题，从今年三月开始，市政府规定：共享单车必须停在画了白线的停车区里，否则每次要多付五块钱。另外，十二岁以下的孩子不可以骑共享单车。
+
+我觉得，共享单车本来是一个好主意，问题不在车，而在人。如果每个人都能遵守规定，共享单车会让我们的城市变得更好。
+
+**a.** How do people use a shared bike, and how much does one ride cost? *(2 marks)*
+
+**b.** Why do many office workers find shared bikes useful? Give two reasons. *(2 marks)*
+
+**c.** Describe two problems caused by shared bikes. *(2 marks)*
+
+**d.** What do the new rules require? *(2 marks)*
+
+**e.** What is the writer's opinion of shared bikes? Support your answer with evidence from the text. *(2 marks)*
+
 #### Reading: answer in Chinese
 
-**Q4.** A letter from Xiaoli about Spring Festival
+**Q5.** A letter from Xiaoli about Spring Festival
 <!-- id: vce-chinese-sl34-rb1 -->
 *Multi-part question · 9 marks · Original text in the style of the VCE Chinese Second Language exam, Section 2 Part B (answer in Chinese)*
 
@@ -108,7 +137,7 @@ Read the article, then answer the questions in English.
 
 **e.** 小丽问了马克什么问题？她希望马克做什么？ *(2 marks)*
 
-**Q5.** Shopping online: for and against (article)
+**Q6.** Shopping online: for and against (article)
 <!-- id: vce-chinese-sl34-rb2 -->
 *Multi-part question · 7 marks · Original text in the style of the VCE Chinese Second Language exam, Section 2 Part B (answer in Chinese)*
 
@@ -130,7 +159,7 @@ Read the article, then answer the questions in English.
 
 **e.** 作者建议我们在网上买东西以前做什么？ *(1 mark)*
 
-**Q6.** Li Hua changes his habits (story)
+**Q7.** Li Hua changes his habits (story)
 <!-- id: vce-chinese-sl34-rb3 -->
 *Multi-part question · 7 marks · Original text in the style of the VCE Chinese Second Language exam, Section 2 Part B (answer in Chinese)*
 
@@ -152,11 +181,40 @@ Read the article, then answer the questions in English.
 
 **e.** 李华觉得改变习惯难不难？ *(1 mark)*
 
+**Q8.** Challenge: Jack's email (to go or not to go?)
+<!-- id: vce-chinese-sl34-rb-c1 -->
+*Challenge question*
+*Multi-part question · 11 marks · Original challenge text in the style of the VCE Chinese Second Language exam, Section 2 Part B (answer in Chinese)*
+
+阅读下面的电子邮件，然后用中文回答问题。
+
+大卫：
+
+你好！最近我遇到了一个难题，想听听你的意见。
+
+我们学校和上海的一所中学有交换项目，明年可以去上海学习一个学期。老师说我的中文进步很快，鼓励我报名。我当然很想去，因为在上海每天都要说中文，我的口语一定会提高得更快。我还可以住在中国家庭里，了解他们的生活。
+
+可是，我也有一些担心。第一，去一个学期，回来以后要补很多功课，特别是数学和化学，十二年级的功课本来就很紧张。第二，我爸爸妈妈觉得费用太高了，机票、学费加上生活费，差不多要一万澳元。第三，我从来没有离开家那么长时间，怕会想家。
+
+我姐姐说，这样的机会不是每年都有，就算功课紧张一点儿，也值得去。可是我的好朋友觉得，等高中毕业以后再去中国也不晚。
+
+你觉得我应该怎么办？请早点儿回信。你的朋友 杰克
+
+**a.** 杰克的学校有什么项目？ *(2 marks)*
+
+**b.** 杰克为什么想去上海？请写出两个原因。 *(2 marks)*
+
+**c.** 杰克有哪些担心？请写出三个。 *(3 marks)*
+
+**d.** 杰克的姐姐和好朋友的看法有什么不同？ *(2 marks)*
+
+**e.** 如果你是大卫，你会给杰克什么建议？为什么？ *(2 marks)*
+
 ### Writing in Chinese
 
 #### Personal and imaginative writing
 
-**Q7.** Journal: my first day on exchange in China
+**Q9.** Journal: my first day on exchange in China
 <!-- id: vce-chinese-sl34-w1 -->
 *Multi-part question · 10 marks · Original task in the style of the VCE Chinese Second Language exam, Section 3 (writing in Chinese)*
 
@@ -164,7 +222,7 @@ Read the article, then answer the questions in English.
 
 **a.** Write the journal entry. *(10 marks)*
 
-**Q8.** Story: the day I got lost
+**Q10.** Story: the day I got lost
 <!-- id: vce-chinese-sl34-w2 -->
 *Multi-part question · 10 marks · Original task in the style of the VCE Chinese Second Language exam, Section 3 (writing in Chinese)*
 
@@ -172,9 +230,18 @@ Read the article, then answer the questions in English.
 
 **a.** Write the story. *(10 marks)*
 
+**Q11.** Challenge: a letter hidden in an old book (imaginative)
+<!-- id: vce-chinese-sl34-wa-c1 -->
+*Challenge question*
+*Multi-part question · 10 marks · Original challenge task in the style of the VCE Chinese Second Language exam, Section 3 (writing in Chinese)*
+
+你在图书馆借了一本很旧的书，在书里发现了一封五十年前写的信。写一个故事，写200–300字。(You borrow a very old library book and find a letter written fifty years ago inside it. Write a story of 200–300 characters.)
+
+**a.** Write the story. *(10 marks)*
+
 #### Persuasive and informative writing
 
-**Q9.** Persuasive letter: keep Chinese at our school
+**Q12.** Persuasive letter: keep Chinese at our school
 <!-- id: vce-chinese-sl34-w3 -->
 *Multi-part question · 10 marks · Original task in the style of the VCE Chinese Second Language exam, Section 3 (writing in Chinese)*
 
@@ -182,7 +249,7 @@ Read the article, then answer the questions in English.
 
 **a.** Write the letter. *(10 marks)*
 
-**Q10.** Informative article: a club at our school
+**Q13.** Informative article: a club at our school
 <!-- id: vce-chinese-sl34-w4 -->
 *Multi-part question · 10 marks · Original task in the style of the VCE Chinese Second Language exam, Section 3 (writing in Chinese)*
 
@@ -190,108 +257,205 @@ Read the article, then answer the questions in English.
 
 **a.** Write the article. *(10 marks)*
 
+**Q14.** Challenge: phones at school (persuasive article)
+<!-- id: vce-chinese-sl34-wb-c1 -->
+*Challenge question*
+*Multi-part question · 10 marks · Original challenge task in the style of the VCE Chinese Second Language exam, Section 3 (writing in Chinese)*
+
+学校杂志请学生写文章：高中生应不应该在学校用手机？请写一篇说服性文章，表达你的看法，并回应反对的意见。写200–300字。(The school magazine wants articles on whether senior students should use phones at school. Write a persuasive article that states your view and answers the opposing view, in 200–300 characters.)
+
+**a.** Write the article. *(10 marks)*
+
 ### Oral exam: conversation (GC)
 
 #### Conversation: family, friends and interests
 
-**Q11.** 请你介绍一下你的家庭。 (Please tell us about your family.)
+**Q15.** 请你介绍一下你的家庭。 (Please tell us about your family.)
 <!-- id: vce-chinese-sl34-gc1 -->
 
 *Written answer*
 
-**Q12.** 你跟家人的关系怎么样？ (How do you get along with your family?)
+**Q16.** 你跟家人的关系怎么样？ (How do you get along with your family?)
 <!-- id: vce-chinese-sl34-gc2 -->
 
 *Written answer*
 
-**Q13.** 你最好的朋友是谁？他/她是个什么样的人？ (Who is your best friend, and what are they like?)
+**Q17.** 你最好的朋友是谁？他/她是个什么样的人？ (Who is your best friend, and what are they like?)
 <!-- id: vce-chinese-sl34-gc3 -->
 
 *Written answer*
 
-**Q14.** 你平时有什么爱好？ (What are your hobbies?)
+**Q18.** 你平时有什么爱好？ (What are your hobbies?)
 <!-- id: vce-chinese-sl34-gc4 -->
 
 *Written answer*
 
-**Q15.** 周末你一般做什么？ (What do you usually do on weekends?)
+**Q19.** 周末你一般做什么？ (What do you usually do on weekends?)
 <!-- id: vce-chinese-sl34-gc5 -->
 
 *Written answer*
 
-**Q16.** 你喜欢运动吗？你喜欢什么运动？ (Do you like sport? Which sports do you like?)
+**Q20.** 你喜欢运动吗？你喜欢什么运动？ (Do you like sport? Which sports do you like?)
 <!-- id: vce-chinese-sl34-gc6 -->
 
 *Written answer*
 
-**Q17.** 你最喜欢的节日是什么？你们怎么庆祝？ (What is your favourite festival, and how do you celebrate it?)
+**Q21.** 你最喜欢的节日是什么？你们怎么庆祝？ (What is your favourite festival, and how do you celebrate it?)
 <!-- id: vce-chinese-sl34-gc7 -->
 
 *Written answer*
 
-**Q18.** 你去过中国或者别的国家吗？说说你的旅行经历。 (Have you been to China or another country? Tell us about it.)
+**Q22.** 你去过中国或者别的国家吗？说说你的旅行经历。 (Have you been to China or another country? Tell us about it.)
 <!-- id: vce-chinese-sl34-gc8 -->
 
 *Written answer*
 
-**Q19.** 你每天花多少时间上网？上网有什么好处和坏处？ (How much time do you spend online, and what are the pros and cons?)
+**Q23.** 你每天花多少时间上网？上网有什么好处和坏处？ (How much time do you spend online, and what are the pros and cons?)
 <!-- id: vce-chinese-sl34-gc9 -->
 
 *Written answer*
 
-**Q20.** 你打过工吗？你从打工中学到了什么？ (Have you had a part-time job? What did you learn from it?)
+**Q24.** 你打过工吗？你从打工中学到了什么？ (Have you had a part-time job? What did you learn from it?)
 <!-- id: vce-chinese-sl34-gc10 -->
+
+*Written answer*
+
+**Q25.** 你觉得网络让家人的关系更近了还是更远了？为什么？ (Do you think the internet has brought families closer or pushed them apart? Why?)
+<!-- id: vce-chinese-sl34-gc-c1 -->
+*Challenge question*
 
 *Written answer*
 
 #### Conversation: school, learning Chinese and the future
 
-**Q21.** 你今年学哪些科目？你最喜欢哪一门？为什么？ (Which subjects are you taking, and which is your favourite?)
+**Q26.** 你今年学哪些科目？你最喜欢哪一门？为什么？ (Which subjects are you taking, and which is your favourite?)
 <!-- id: vce-chinese-sl34-gc11 -->
 
 *Written answer*
 
-**Q22.** 你为什么学中文？ (Why do you study Chinese?)
+**Q27.** 你为什么学中文？ (Why do you study Chinese?)
 <!-- id: vce-chinese-sl34-gc12 -->
 
 *Written answer*
 
-**Q23.** 学中文的时候，你觉得什么最难？你怎么解决这个问题？ (What is hardest about learning Chinese, and how do you deal with it?)
+**Q28.** 学中文的时候，你觉得什么最难？你怎么解决这个问题？ (What is hardest about learning Chinese, and how do you deal with it?)
 <!-- id: vce-chinese-sl34-gc13 -->
 
 *Written answer*
 
-**Q24.** 请你介绍一下你的学校。 (Please tell us about your school.)
+**Q29.** 请你介绍一下你的学校。 (Please tell us about your school.)
 <!-- id: vce-chinese-sl34-gc14 -->
 
 *Written answer*
 
-**Q25.** 十二年级的学习压力大吗？你怎么减轻压力？ (Is Year 12 stressful? How do you manage stress?)
+**Q30.** 十二年级的学习压力大吗？你怎么减轻压力？ (Is Year 12 stressful? How do you manage stress?)
 <!-- id: vce-chinese-sl34-gc15 -->
 
 *Written answer*
 
-**Q26.** 你参加了哪些课外活动？ (What extracurricular activities do you do?)
+**Q31.** 你参加了哪些课外活动？ (What extracurricular activities do you do?)
 <!-- id: vce-chinese-sl34-gc16 -->
 
 *Written answer*
 
-**Q27.** 你毕业以后打算做什么？ (What do you plan to do after you finish school?)
+**Q32.** 你毕业以后打算做什么？ (What do you plan to do after you finish school?)
 <!-- id: vce-chinese-sl34-gc17 -->
 
 *Written answer*
 
-**Q28.** 你将来想做什么工作？为什么？ (What job would you like in the future, and why?)
+**Q33.** 你将来想做什么工作？为什么？ (What job would you like in the future, and why?)
 <!-- id: vce-chinese-sl34-gc18 -->
 
 *Written answer*
 
-**Q29.** 你觉得学中文对你的将来有什么帮助？ (How will learning Chinese help you in the future?)
+**Q34.** 你觉得学中文对你的将来有什么帮助？ (How will learning Chinese help you in the future?)
 <!-- id: vce-chinese-sl34-gc19 -->
 
 *Written answer*
 
-**Q30.** 如果有机会去中国，你最想做什么？ (If you had the chance to go to China, what would you most like to do?)
+**Q35.** 如果有机会去中国，你最想做什么？ (If you had the chance to go to China, what would you most like to do?)
 <!-- id: vce-chinese-sl34-gc20 -->
+
+*Written answer*
+
+**Q36.** 如果你可以改变学校的一件事，你会改变什么？为什么？ (If you could change one thing about your school, what would it be and why?)
+<!-- id: vce-chinese-sl34-gc-c2 -->
+*Challenge question*
+
+*Written answer*
+
+### Challenge questions
+
+#### Challenge set
+
+**Q37.** 你认为学习中文对你将来有什么帮助？请举例说明。 (How will learning Chinese help you in the future? Give examples.)
+<!-- id: vce-chinese-sl34-challenge-1 -->
+*Challenge question*
+
+*Written answer*
+
+**Q38.** 你觉得澳大利亚的学生和中国的学生在学习方面有什么不同？ (How do you think students in Australia and in China differ in their studies?)
+<!-- id: vce-chinese-sl34-challenge-2 -->
+*Challenge question*
+
+*Written answer*
+
+**Q39.** 有人说“读万卷书，不如行万里路”。你同意吗？为什么？ (Some say 'travelling ten thousand miles is better than reading ten thousand books'. Do you agree?)
+<!-- id: vce-chinese-sl34-challenge-3 -->
+*Challenge question*
+
+*Written answer*
+
+**Q40.** 你最难忘的一次经历是什么？这次经历对你有什么影响？ (What is your most memorable experience, and how did it affect you?)
+<!-- id: vce-chinese-sl34-challenge-4 -->
+*Challenge question*
+
+*Written answer*
+
+**Q41.** Choose the best word: 这个问题太难了，我想了半天也没想___。
+<!-- id: vce-chinese-sl34-challenge-5 -->
+*Challenge question*
+
+- A. 起来
+- B. 出来
+- C. 下去
+- D. 过来
+
+**Q42.** Which sentence uses 把 correctly?
+<!-- id: vce-chinese-sl34-challenge-6 -->
+*Challenge question*
+
+- A. 请你把交作业给老师。
+- B. 请你把作业交给老师。
+- C. 请你交把作业给老师。
+- D. 请你把作业老师交给。
+
+**Q43.** Choose the best word: 你去___中国吗？——去过，我小时候去过一次。
+<!-- id: vce-chinese-sl34-challenge-7 -->
+*Challenge question*
+
+- A. 了
+- B. 着
+- C. 在
+- D. 过
+
+**Q44.** Choose the correct measure word: 我昨天买了一___新电脑。
+<!-- id: vce-chinese-sl34-challenge-8 -->
+*Challenge question*
+
+- A. 张
+- B. 本
+- C. 台
+- D. 条
+
+**Q45.** Translate into Chinese: ‘Learning Chinese is not only useful but also very interesting.’
+<!-- id: vce-chinese-sl34-challenge-9 -->
+*Challenge question*
+
+*Written answer*
+
+**Q46.** Rewrite this opening so it suits a formal letter to a principal: 你好，我想跟你说一件事。
+<!-- id: vce-chinese-sl34-challenge-10 -->
+*Challenge question*
 
 *Written answer*

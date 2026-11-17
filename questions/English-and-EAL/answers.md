@@ -48,73 +48,88 @@ Explanation: St John claims divine authority for his own wishes. Brontë contras
 
 Explanation: Jane is the subject of the sentence: she married him, not 'he married me'. The direct address to the reader reminds us that Jane controls her own story.
 
+**A9.** In Chapter 23, freedom is a declaration: Jane claims an independent will and equality with Rochester while confessing her love. In Chapter 27, freedom becomes a costly choice: she leaves the man she loves rather than become his mistress, because her self-respect and principles matter more than her happiness. Freedom moves from words to sacrifice.
+<!-- id: vce-english34-jane-eyre-qc1 -->
+
+Explanation: Strong answers compare the context of each line (a proposal she thinks is cruel; a proposal she knows is wrong) and show development, not repetition.
+
 #### Characters, themes and values
 
-**A9.** D. She fought back when John Reed attacked her
+**A10.** D. She fought back when John Reed attacked her
 <!-- id: vce-english34-jane-eyre-i1 -->
 
 Explanation: After John Reed throws a book at her and she fights back, Mrs Reed has her locked in the red-room, where Jane becomes terrified and faints.
 
-**A10.** D. Helen Burns
+**A11.** D. Helen Burns
 <!-- id: vce-english34-jane-eyre-i2 -->
 
 Explanation: Helen Burns accepts punishment with Christian patience. Jane admires her but cannot share her passive acceptance.
 
-**A11.** D. Rochester is already married to Bertha Mason, and Jane will not become his mistress
+**A12.** D. Rochester is already married to Bertha Mason, and Jane will not become his mistress
 <!-- id: vce-english34-jane-eyre-i3 -->
 
 Explanation: When the wedding is stopped (Chapters 26–27), Jane learns of Bertha. She still loves Rochester but leaves rather than compromise her principles.
 
-**A12.** C. Jane has inherited money of her own and Rochester has been humbled by the fire
+**A13.** C. Jane has inherited money of her own and Rochester has been humbled by the fire
 <!-- id: vce-english34-jane-eyre-i4 -->
 
 Explanation: Her uncle's legacy gives Jane independence, and Rochester's injuries in the fire at Thornfield reduce his power. They meet on equal terms.
 
-**A13.** Bertha is the hidden first wife confined in Thornfield's attic. In plot terms she is the obstacle to Jane's marriage; in Gothic terms she is the source of the mysterious laughter and the fire. Many readers see her as a dark double of Jane, showing what rage and confinement can do to a woman, and as a figure who exposes Rochester's past and the way women could be shut away.
+**A14.** Bertha is the hidden first wife confined in Thornfield's attic. In plot terms she is the obstacle to Jane's marriage; in Gothic terms she is the source of the mysterious laughter and the fire. Many readers see her as a dark double of Jane, showing what rage and confinement can do to a woman, and as a figure who exposes Rochester's past and the way women could be shut away.
 <!-- id: vce-english34-jane-eyre-i5 -->
 
 Explanation: Strong answers move beyond 'the madwoman in the attic' to consider what Bertha represents: confinement, suppressed anger, and the costs of a marriage arranged for money.
 
-**A14.** Mr Brocklehurst preaches humility and self-denial to the girls while his own family live in luxury, so Lowood exposes religious hypocrisy and cruelty towards poor children. Helen Burns and Miss Temple show genuine faith and kindness instead, so Brontë separates true Christianity from the institution's abuse of it.
+**A15.** Mr Brocklehurst preaches humility and self-denial to the girls while his own family live in luxury, so Lowood exposes religious hypocrisy and cruelty towards poor children. Helen Burns and Miss Temple show genuine faith and kindness instead, so Brontë separates true Christianity from the institution's abuse of it.
 <!-- id: vce-english34-jane-eyre-i6 -->
 
 Explanation: Use the contrast between Brocklehurst and Helen/Miss Temple. Brontë criticises how religion is used, not religion itself.
 
-**A15.** Rochester offers passionate love but tries to bind Jane in a marriage that would be illegal and immoral, which would make her his mistress. St John offers a lawful marriage of duty but without love, demanding that Jane suppress her feelings. Jane rejects both because each would require her to give up part of herself.
+**A16.** Rochester offers passionate love but tries to bind Jane in a marriage that would be illegal and immoral, which would make her his mistress. St John offers a lawful marriage of duty but without love, demanding that Jane suppress her feelings. Jane rejects both because each would require her to give up part of herself.
 <!-- id: vce-english34-jane-eyre-i7 -->
 
 Explanation: This contrast is the backbone of many Section A essays: passion versus duty, feeling versus principle.
 
+**A17.** The reading: Bertha embodies the rage and passion Jane learns to contain. Young Jane's fury at John Reed and her imprisonment in the red-room echo Bertha's confinement in the attic, and Bertha tearing Jane's wedding veil acts out Jane's unspoken fears about the marriage. Limitation: it turns Bertha into a symbol of Jane's mind and ignores her as a Creole woman from Jamaica whose own story is never told, a gap postcolonial critics and Jean Rhys's Wide Sargasso Sea address.
+<!-- id: vce-english34-jane-eyre-ic1 -->
+
+Explanation: Name the critical reading (associated with Gilbert and Gubar's The Madwoman in the Attic) and give evidence for it before limiting it.
+
 #### Structure, style and techniques
 
-**A16.** C. First person, by an adult Jane looking back on her life
+**A18.** C. First person, by an adult Jane looking back on her life
 <!-- id: vce-english34-jane-eyre-c1 -->
 
 Explanation: The novel is subtitled 'An Autobiography'. The older Jane narrates and sometimes comments on her younger self, which lets Brontë combine intense feeling with reflection.
 
-**A17.** B. Foreshadowing through pathetic fallacy
+**A19.** B. Foreshadowing through pathetic fallacy
 <!-- id: vce-english34-jane-eyre-c2 -->
 
 Explanation: Nature mirrors the coming disaster: the split tree foreshadows the separation of Jane and Rochester when the wedding is stopped.
 
-**A18.** C. A bildungsroman (a novel of growth)
+**A20.** C. A bildungsroman (a novel of growth)
 <!-- id: vce-english34-jane-eyre-c3 -->
 
 Explanation: Each setting marks a stage in Jane's development from abused child to independent woman, the defining feature of a bildungsroman.
 
-**A19.** They create intimacy and make the reader a confidant, so we share Jane's judgements. They also remind us that Jane is the author of her own story, which reinforces her control and independence.
+**A21.** They create intimacy and make the reader a confidant, so we share Jane's judgements. They also remind us that Jane is the author of her own story, which reinforces her control and independence.
 <!-- id: vce-english34-jane-eyre-c4 -->
 
 Explanation: Name the technique (direct address), then its effect on the reader, then its link to the novel's ideas.
 
-**A20.** The red-room, where Mr Reed died, is cold, silent and blood-coloured. Jane's imprisonment there represents her powerlessness and the injustice of her life at Gateshead, and its Gothic terror introduces the novel's pattern of confinement that Jane must escape (later echoed by Bertha's attic).
+**A22.** The red-room, where Mr Reed died, is cold, silent and blood-coloured. Jane's imprisonment there represents her powerlessness and the injustice of her life at Gateshead, and its Gothic terror introduces the novel's pattern of confinement that Jane must escape (later echoed by Bertha's attic).
 <!-- id: vce-english34-jane-eyre-c5 -->
 
 Explanation: Link the room's details (colour, death, locked door) to ideas: confinement, injustice, the threat to Jane's sanity and spirit.
 
+**A23.** The older narrator can judge her younger self, combining intense feeling with reflection, so we trust her account. Direct address makes the reader a confidant, drawing us into her moral choices and on to her side. It also shows Jane controlling her own story, fitting the subtitle ‘An Autobiography’ and the novel's concern with a woman's voice.
+<!-- id: vce-english34-jane-eyre-cc1 -->
+
+Explanation: Link the technique to its effect on the reader and to an idea in the text.
+
 #### Practice essays
 
-**A21.** Essay: Jane refuses to be owned
+**A24.** Essay: Jane refuses to be owned
 <!-- id: vce-english34-jane-eyre-e1 -->
 *Multi-part question · 13 marks*
 
@@ -150,7 +165,7 @@ Common mistake: Agreeing with the topic without testing it. The best essays qual
 
 Topic: Practice essays (vce-english34-jane-eyre-essays)
 
-**A22.** Essay plan: settings and Jane's growth
+**A25.** Essay plan: settings and Jane's growth
 <!-- id: vce-english34-jane-eyre-e2 -->
 *Multi-part question · 3 marks*
 
@@ -163,117 +178,137 @@ Common mistake: Describing each place without linking it to Jane's development. 
 
 Topic: Practice essays (vce-english34-jane-eyre-essays)
 
+**A26.** Contention: Rochester's injuries and Jane's inheritance do rebalance power, but Brontë presents the ending as a union of equals that Jane has earned through her own choices, not a triumph over a weakened man. (1) Rochester's blindness and lost hand reverse their earlier inequality, so the topic has some force. (2) Yet Jane's independence comes first from her inheritance, her new family and her refusal of St John, before she returns. (3) Brontë frames their marriage as mutual dependence and companionship, which complicates any reading of Jane's happiness as a victory.
+<!-- id: vce-english34-jane-eyre-ec1 -->
+
+Explanation: This topic contains an assumption to test. Agreeing completely, or retelling the ending, misses the ‘to what extent’ demand.
+
 ### Twelfth Night (William Shakespeare)
 
 #### Key quotes
 
-**A23.** Orsino, in the opening line of the play (Act 1, Scene 1). He asks for 'excess' of music so that, 'surfeiting, / The appetite may sicken and so die', which shows that he is in love with the idea of love and enjoys his own melancholy.
+**A27.** Orsino, in the opening line of the play (Act 1, Scene 1). He asks for 'excess' of music so that, 'surfeiting, / The appetite may sicken and so die', which shows that he is in love with the idea of love and enjoys his own melancholy.
 <!-- id: vce-english34-twelfth-night-q1 -->
 
 Explanation: The metaphor of love as appetite and music as food sets up Orsino as self-indulgent and changeable, important for essays on the nature of love.
 
-**A24.** Viola, in Act 1, Scene 2, after the shipwreck. Alone in Illyria and believing her brother drowned, she asks the Captain to help disguise her so that she can serve Orsino.
+**A28.** Viola, in Act 1, Scene 2, after the shipwreck. Alone in Illyria and believing her brother drowned, she asks the Captain to help disguise her so that she can serve Orsino.
 <!-- id: vce-english34-twelfth-night-q2 -->
 
 Explanation: The line launches the disguise plot. Concealment gives Viola safety and freedom of action, but it also traps her: she cannot reveal her love for Orsino.
 
-**A25.** In Act 1, Scene 5, Viola (as Cesario) describes how she would woo Olivia if she were Orsino. The speech is so passionate that Olivia falls in love with Cesario.
+**A29.** In Act 1, Scene 5, Viola (as Cesario) describes how she would woo Olivia if she were Orsino. The speech is so passionate that Olivia falls in love with Cesario.
 <!-- id: vce-english34-twelfth-night-q3 -->
 
 Explanation: The irony: Viola's heartfelt words come from her own love for Orsino, and they win Olivia for 'Cesario' instead of for him. The willow is a traditional symbol of unrequited love.
 
-**A26.** Olivia, in Act 1, Scene 5, after Malvolio sneers at Feste. It identifies Malvolio's flaw, his vanity and self-importance, which Maria later exploits with the forged letter.
+**A30.** Olivia, in Act 1, Scene 5, after Malvolio sneers at Feste. It identifies Malvolio's flaw, his vanity and self-importance, which Maria later exploits with the forged letter.
 <!-- id: vce-english34-twelfth-night-q4 -->
 
 Explanation: Use it to show that Malvolio's downfall comes from his own character, which complicates how much sympathy the audience feels for him later.
 
-**A27.** In Act 2, Scene 2, Viola realises that Olivia loves Cesario, while Viola loves Orsino, who loves Olivia. She cannot fix the love triangle while she is in disguise, so she leaves it to time.
+**A31.** In Act 2, Scene 2, Viola realises that Olivia loves Cesario, while Viola loves Orsino, who loves Olivia. She cannot fix the love triangle while she is in disguise, so she leaves it to time.
 <!-- id: vce-english34-twelfth-night-q5 -->
 
 Explanation: The apostrophe to time and the knot metaphor capture the tangled plot; the rhyming couplet ends the scene neatly even as the problem remains unresolved.
 
-**A28.** Sir Toby Belch says it to Malvolio in Act 2, Scene 3, when Malvolio tries to stop the late-night revelry. It sets festivity and pleasure against Malvolio's puritanical disapproval.
+**A32.** Sir Toby Belch says it to Malvolio in Act 2, Scene 3, when Malvolio tries to stop the late-night revelry. It sets festivity and pleasure against Malvolio's puritanical disapproval.
 <!-- id: vce-english34-twelfth-night-q6 -->
 
 Explanation: This clash gives the revellers their motive to trick Malvolio and expresses the play's festive spirit (the title refers to the last night of Christmas celebrations).
 
-**A29.** It is part of the letter Maria forges in Olivia's handwriting, which Malvolio reads in Act 2, Scene 5 while the others watch from hiding. It flatters his ambition and convinces him that Olivia loves him.
+**A33.** It is part of the letter Maria forges in Olivia's handwriting, which Malvolio reads in Act 2, Scene 5 while the others watch from hiding. It flatters his ambition and convinces him that Olivia loves him.
 <!-- id: vce-english34-twelfth-night-q7 -->
 
 Explanation: The tricolon is persuasive, and the dramatic irony is strong: the audience knows the letter is fake while Malvolio believes he is about to rise above his station.
 
-**A30.** Malvolio, as he storms out in the final scene (Act 5, Scene 1), after learning he was tricked and humiliated. It is a discordant note in the happy ending.
+**A34.** Malvolio, as he storms out in the final scene (Act 5, Scene 1), after learning he was tricked and humiliated. It is a discordant note in the happy ending.
 <!-- id: vce-english34-twelfth-night-q8 -->
 
 Explanation: Malvolio's exit unsettles the comic resolution and invites the audience to question how cruel the joke was. Pair it with Feste's 'whirligig of time brings in his revenges'.
 
+**A35.** In 1.2 the disguise is Viola's choice and gives her safety and freedom to act in Illyria. By 2.2 the same disguise traps her: she loves Orsino, Olivia loves ‘Cesario’, and she cannot reveal herself. She moves from taking control to handing her fate to time, showing how disguise both empowers and constrains.
+<!-- id: vce-english34-twelfth-night-qc1 -->
+
+Explanation: Show the change between the scenes and connect it to the play's interest in identity and the limits of control.
+
 #### Characters, themes and values
 
-**A31.** D. She is shipwrecked alone in Illyria and wants protection and a place in Orsino's service
+**A36.** D. She is shipwrecked alone in Illyria and wants protection and a place in Orsino's service
 <!-- id: vce-english34-twelfth-night-i1 -->
 
 Explanation: Viola is alone in a strange country after the shipwreck, and the disguise as Cesario lets her serve Orsino safely.
 
-**A32.** B. Maria
+**A37.** B. Maria
 <!-- id: vce-english34-twelfth-night-i2 -->
 
 Explanation: Maria imitates Olivia's handwriting; Sir Toby, Sir Andrew and Fabian watch Malvolio read it.
 
-**A33.** C. Viola and Sebastian appear together in the final scene
+**A38.** C. Viola and Sebastian appear together in the final scene
 <!-- id: vce-english34-twelfth-night-i3 -->
 
 Explanation: When the twins stand on stage together in Act 5, Scene 1, everyone realises the mistake: Olivia has married Sebastian, and Orsino turns to Viola.
 
-**A34.** B. A wise fool who exposes other characters' folly
+**A39.** B. A wise fool who exposes other characters' folly
 <!-- id: vce-english34-twelfth-night-i4 -->
 
 Explanation: Feste moves between the households, mocks pretension and sings songs about time and love that comment on the action.
 
-**A35.** Almost every lover is deluded: Orsino loves an idea of Olivia, Olivia falls for a woman in disguise, Malvolio believes a forged letter, and Sir Andrew hopes for Olivia with no chance. Love makes characters act against reason, which is both comic and, for Viola, painful.
+**A40.** Almost every lover is deluded: Orsino loves an idea of Olivia, Olivia falls for a woman in disguise, Malvolio believes a forged letter, and Sir Andrew hopes for Olivia with no chance. Love makes characters act against reason, which is both comic and, for Viola, painful.
 <!-- id: vce-english34-twelfth-night-i5 -->
 
 Explanation: A good answer contrasts self-indulgent love (Orsino, early Olivia) with Viola's patient, selfless love, which the play rewards.
 
-**A36.** At first he is a pompous killjoy and his gulling seems deserved and funny. But when he is locked in a dark room and told he is mad (Act 4, Scene 2), the joke becomes cruel, and his final threat of revenge leaves the audience uneasy about how he has been treated.
+**A41.** At first he is a pompous killjoy and his gulling seems deserved and funny. But when he is locked in a dark room and told he is mad (Act 4, Scene 2), the joke becomes cruel, and his final threat of revenge leaves the audience uneasy about how he has been treated.
 <!-- id: vce-english34-twelfth-night-i6 -->
 
 Explanation: Many productions play him for sympathy at the end. Mention how the comedy darkens as the trick goes too far.
 
-**A37.** Both plots are about deception and self-deception. The main plot's disguise is innocent and leads to love; the subplot's trick is deliberate and leads to humiliation. The subplot also brings festivity and disorder, contrasting with the romantic melancholy of Orsino's court.
+**A42.** Both plots are about deception and self-deception. The main plot's disguise is innocent and leads to love; the subplot's trick is deliberate and leads to humiliation. The subplot also brings festivity and disorder, contrasting with the romantic melancholy of Orsino's court.
 <!-- id: vce-english34-twelfth-night-i7 -->
 
 Explanation: Name a parallel (deception, foolish suitors) and a contrast (motive and outcome).
 
+**A43.** The letter scene is comic: Malvolio's vanity and ambition make his gulling feel deserved. The dark-room scene, where Feste as Sir Topas torments him while he insists he is sane, moves towards cruelty. In the final scene Olivia acknowledges he has been badly wronged, and his exit vowing revenge leaves a discordant note, so many audiences end with sympathy as well as laughter.
+<!-- id: vce-english34-twelfth-night-ic1 -->
+
+Explanation: A strong answer tracks a change across scenes rather than choosing one label.
+
 #### Structure, style and techniques
 
-**A38.** D. Dramatic irony
+**A44.** D. Dramatic irony
 <!-- id: vce-english34-twelfth-night-c1 -->
 
 Explanation: The audience knows more than the characters, which creates both comedy and tension.
 
-**A39.** D. The nobles in romantic scenes mostly speak verse; the comic characters mostly speak prose
+**A45.** D. The nobles in romantic scenes mostly speak verse; the comic characters mostly speak prose
 <!-- id: vce-english34-twelfth-night-c2 -->
 
 Explanation: Shakespeare shifts between verse and prose to mark status, mood and seriousness; switches between them are worth noticing.
 
-**A40.** B. The last night of the Christmas festivities, a time of revelry and turning order upside down
+**A46.** B. The last night of the Christmas festivities, a time of revelry and turning order upside down
 <!-- id: vce-english34-twelfth-night-c3 -->
 
 Explanation: Twelfth Night festivities involved feasting, disguise and role reversal, the spirit of the play's misrule.
 
-**A41.** Spoken to Olivia, it is literally true (Viola is not a man) and the audience hears both meanings, creating dramatic irony. It also sums up the play's interest in identity: characters are not what they seem, and disguise reveals hidden desires.
+**A47.** Spoken to Olivia, it is literally true (Viola is not a man) and the audience hears both meanings, creating dramatic irony. It also sums up the play's interest in identity: characters are not what they seem, and disguise reveals hidden desires.
 <!-- id: vce-english34-twelfth-night-c4 -->
 
 Explanation: A short, paradoxical line is easy to embed. Explain the double meaning, then link it to the theme of identity.
 
-**A42.** Feste's reference to 'the whirligig of time' bringing 'his revenges' and his closing song bring a note of melancholy and realism after the weddings. They remind the audience that festivity ends and time moves on, which keeps the comedy from feeling simply happy.
+**A48.** Feste's reference to 'the whirligig of time' bringing 'his revenges' and his closing song bring a note of melancholy and realism after the weddings. They remind the audience that festivity ends and time moves on, which keeps the comedy from feeling simply happy.
 <!-- id: vce-english34-twelfth-night-c5 -->
 
 Explanation: Discuss mood and tone: the ending is bittersweet. Link to Malvolio's exit and Antonio, who is left alone.
 
+**A49.** A. Dramatic irony: the audience sees Sir Toby, Sir Andrew and Fabian hiding and commenting while Malvolio misreads the letter
+<!-- id: vce-english34-twelfth-night-cc1 -->
+
+Explanation: We know what Malvolio does not, and the hidden watchers' interruptions heighten the laughter at his self-deception.
+
 #### Practice essays
 
-**A43.** Essay: disguise reveals as much as it conceals
+**A50.** Essay: disguise reveals as much as it conceals
 <!-- id: vce-english34-twelfth-night-e1 -->
 *Multi-part question · 13 marks*
 
@@ -309,7 +344,7 @@ Common mistake: Treating disguise as only a plot device. Show what it reveals ab
 
 Topic: Practice essays (vce-english34-twelfth-night-essays)
 
-**A44.** Essay plan: Malvolio, fool or victim?
+**A51.** Essay plan: Malvolio, fool or victim?
 <!-- id: vce-english34-twelfth-night-e2 -->
 *Multi-part question · 3 marks*
 
@@ -322,117 +357,137 @@ Common mistake: Choosing one side without considering the other. 'To what extent
 
 Topic: Practice essays (vce-english34-twelfth-night-essays)
 
+**A52.** Contention: the comic ending pairs the lovers, but Shakespeare undercuts its harmony, suggesting that desire is rarely fulfilled cleanly. (1) The marriages rest on mistaken identity and sudden shifts of feeling: Olivia marries Sebastian believing him Cesario, and Orsino turns quickly to Viola. (2) Several characters are left outside the celebration: Malvolio humiliated, Antonio unresolved and Sir Andrew rejected. (3) Feste's melancholy closing song reminds the audience that the festive world gives way to ordinary life.
+<!-- id: vce-english34-twelfth-night-ec1 -->
+
+Explanation: ‘Exactly’ is the key word: test it rather than arguing that everyone is miserable.
+
 ### My Brilliant Career (Miles Franklin)
 
 #### Key quotes
 
-**A45.** In the Introduction, which Sybylla addresses to 'My dear fellow Australians'. She declares that her story is a real 'yarn' about hardship, not a romantic novel.
+**A53.** In the Introduction, which Sybylla addresses to 'My dear fellow Australians'. She declares that her story is a real 'yarn' about hardship, not a romantic novel.
 <!-- id: vce-english34-my-brilliant-career-q1 -->
 
 Explanation: It warns readers not to expect a conventional romance ending, which prepares for Sybylla's refusal of Harold. The musical metaphor ('faced the music…to the tune of hardship') gives her voice its sardonic energy.
 
-**A46.** In Chapter 5, during the drought at Possum Gully, as she faces endless drudgery on the dairy farm at fifteen. 'Brilliant career' is bitterly ironic: her future looks like nothing but weariness.
+**A54.** In Chapter 5, during the drought at Possum Gully, as she faces endless drudgery on the dairy farm at fifteen. 'Brilliant career' is bitterly ironic: her future looks like nothing but weariness.
 <!-- id: vce-english34-my-brilliant-career-q2 -->
 
 Explanation: This is where the novel's title comes from, so the title itself is ironic. The dashes and repetition convey frustration and despair.
 
-**A47.** In Chapter 7, Sybylla explains why her grandmother wants to bring her to Caddagat: to find her a husband. It shows the expectation that marriage is a woman's only destiny.
+**A55.** In Chapter 7, Sybylla explains why her grandmother wants to bring her to Caddagat: to find her a husband. It shows the expectation that marriage is a woman's only destiny.
 <!-- id: vce-english34-my-brilliant-career-q3 -->
 
 Explanation: 'Proper sphere' echoes the idea of 'separate spheres' for men and women. Sybylla's ironic tone ('the good old school') distances her from this view.
 
-**A48.** Sarcastic. In Chapter 7 she notes that, because she is considered plain, she will be given more time to find a husband. She mocks the way women are treated as goods to be traded.
+**A56.** Sarcastic. In Chapter 7 she notes that, because she is considered plain, she will be given more time to find a husband. She mocks the way women are treated as goods to be traded.
 <!-- id: vce-english34-my-brilliant-career-q4 -->
 
 Explanation: The commercial metaphor ('article', 'market') exposes marriage as an economic transaction; 'sweet thought!' is heavy sarcasm.
 
-**A49.** Sybylla states, in Chapter 7, her deep aversion to marriage as a trap that is unfair to women. It explains why, despite her feelings for Harold Beecham, she ultimately refuses to marry him.
+**A57.** Sybylla states, in Chapter 7, her deep aversion to marriage as a trap that is unfair to women. It explains why, despite her feelings for Harold Beecham, she ultimately refuses to marry him.
 <!-- id: vce-english34-my-brilliant-career-q5 -->
 
 Explanation: Link her personal view to Franklin's wider critique of women's limited choices in 1890s rural Australia.
 
-**A50.** In Chapter 25, after Harold has lost his fortune. She agrees to marry him when she turns twenty-one, showing loyalty and compassion: she offers herself when he is poor, not when he was rich.
+**A58.** In Chapter 25, after Harold has lost his fortune. She agrees to marry him when she turns twenty-one, showing loyalty and compassion: she offers herself when he is poor, not when he was rich.
 <!-- id: vce-english34-my-brilliant-career-q6 -->
 
 Explanation: It complicates her later refusal. Her promise is driven by sympathy and a sense of fairness, not romantic desire, and the hesitant dashes show her uncertainty.
 
-**A51.** In Chapter 38, the final chapter. Sybylla celebrates her Australian identity and her bond with the bush and its working people.
+**A59.** In Chapter 38, the final chapter. Sybylla celebrates her Australian identity and her bond with the bush and its working people.
 <!-- id: vce-english34-my-brilliant-career-q7 -->
 
 Explanation: It reflects the nationalism of the 1890s and the period before Federation. Contrast it with her frustration at bush life elsewhere: Franklin shows both love and anger for the bush.
 
-**A52.** In the final chapter, Sybylla identifies with ordinary bush people while protesting her limited place as a woman. The repeated 'I am only' and the dash before 'woman' show both humility and bitterness.
+**A60.** In the final chapter, Sybylla identifies with ordinary bush people while protesting her limited place as a woman. The repeated 'I am only' and the dash before 'woman' show both humility and bitterness.
 <!-- id: vce-english34-my-brilliant-career-q8 -->
 
 Explanation: The dash dramatises the climax: being a woman is presented as the final limitation. Useful for essays on gender and identity.
 
+**A61.** In Chapter 5 ‘brilliant career’ is bitter irony: her ambitions are crushed by drudgery and drought. At the end she still has no career in the usual sense, but she claims a voice and an identity with ordinary bush people. The novel itself, her outspoken account, becomes the ‘career’ that society denied her.
+<!-- id: vce-english34-my-brilliant-career-qc1 -->
+
+Explanation: Recognise the irony in both lines and how the ending reframes it.
+
 #### Characters, themes and values
 
-**A53.** A. Her father's financial ruin pushes them into a hard life on a small dairy farm
+**A62.** A. Her father's financial ruin pushes them into a hard life on a small dairy farm
 <!-- id: vce-english34-my-brilliant-career-i1 -->
 
 Explanation: Dick Melvyn's failed stock dealing and drinking reduce the family to poverty and relentless farm work at Possum Gully.
 
-**A54.** D. At her grandmother's home, Caddagat
+**A63.** D. At her grandmother's home, Caddagat
 <!-- id: vce-english34-my-brilliant-career-i2 -->
 
 Explanation: Caddagat offers culture, music, books and company, everything Possum Gully lacks.
 
-**A55.** C. To pay off a debt her father owes
+**A64.** C. To pay off a debt her father owes
 <!-- id: vce-english34-my-brilliant-career-i3 -->
 
 Explanation: She becomes the M'Swats' governess at Barney's Gap to help with her father's debt, and finds the work miserable.
 
-**A56.** C. Sybylla refuses Harold Beecham and stays at Possum Gully, writing her story
+**A65.** C. Sybylla refuses Harold Beecham and stays at Possum Gully, writing her story
 <!-- id: vce-english34-my-brilliant-career-i4 -->
 
 Explanation: Franklin rejects the expected romantic ending: Sybylla turns Harold down, and the 'brilliant career' remains unfulfilled.
 
-**A57.** She fears marriage would trap her and end her ambitions; she feels she is not suited to be a conventional wife; and she believes she would make Harold unhappy. Her refusal is an assertion of independence, even though it leaves her future uncertain.
+**A66.** She fears marriage would trap her and end her ambitions; she feels she is not suited to be a conventional wife; and she believes she would make Harold unhappy. Her refusal is an assertion of independence, even though it leaves her future uncertain.
 <!-- id: vce-english34-my-brilliant-career-i5 -->
 
 Explanation: Use her views on marriage from Chapter 7. Avoid saying she simply doesn't love him; the novel makes her feelings more complicated.
 
-**A58.** Ambivalently. The bush is a source of beauty, pride and national identity (as in the final chapter), but it is also a place of drought, poverty and endless labour that crushes ambition, especially for women.
+**A67.** Ambivalently. The bush is a source of beauty, pride and national identity (as in the final chapter), but it is also a place of drought, poverty and endless labour that crushes ambition, especially for women.
 <!-- id: vce-english34-my-brilliant-career-i6 -->
 
 Explanation: Contrast Caddagat with Possum Gully and Barney's Gap, and note the 'brilliant career' irony.
 
-**A59.** She believes she is ugly, which makes her insecure and defensive. Her family treat beauty as a woman's main asset in the marriage market, so her plainness makes her feel worthless and fuels her bitterness about women's value being judged by appearance.
+**A68.** She believes she is ugly, which makes her insecure and defensive. Her family treat beauty as a woman's main asset in the marriage market, so her plainness makes her feel worthless and fuels her bitterness about women's value being judged by appearance.
 <!-- id: vce-english34-my-brilliant-career-i7 -->
 
 Explanation: Use 'But I was plain' and 'not a valuable article in the marriage market' (both Chapter 7).
 
+**A69.** She sees marriage as a trap that is unfair to women, doubts she could make him happy, and wants freedom and a life of her own mind. It is both: she keeps her independence and integrity, but she returns to hardship and loneliness, and the novel lets readers feel the cost of that choice in a society that offers women few alternatives.
+<!-- id: vce-english34-my-brilliant-career-ic1 -->
+
+Explanation: Balance her reasons with Franklin's presentation of the consequences.
+
 #### Structure, style and techniques
 
-**A60.** D. Sybylla Melvyn, in the first person
+**A70.** D. Sybylla Melvyn, in the first person
 <!-- id: vce-english34-my-brilliant-career-c1 -->
 
 Explanation: Sybylla's confiding, emotional, often sarcastic first-person voice is the novel's defining feature.
 
-**A61.** D. Ironic, because Sybylla's life seems to offer no career at all
+**A71.** D. Ironic, because Sybylla's life seems to offer no career at all
 <!-- id: vce-english34-my-brilliant-career-c2 -->
 
 Explanation: The phrase first appears in Chapter 5 as bitter irony about a life of drudgery.
 
-**A62.** C. It challenges readers' expectations of a conventional romantic ending
+**A72.** C. It challenges readers' expectations of a conventional romantic ending
 <!-- id: vce-english34-my-brilliant-career-c3 -->
 
 Explanation: Franklin sets up a novel that deliberately frustrates the marriage plot.
 
-**A63.** Sybylla's sarcasm ('sweet thought!') and self-mockery make her lively and rebellious, and they expose the absurdity of the expectations placed on her. The humour also hides pain: her jokes about being ugly or unmarriageable reveal insecurity.
+**A73.** Sybylla's sarcasm ('sweet thought!') and self-mockery make her lively and rebellious, and they expose the absurdity of the expectations placed on her. The humour also hides pain: her jokes about being ugly or unmarriageable reveal insecurity.
 <!-- id: vce-english34-my-brilliant-career-c4 -->
 
 Explanation: Pick one or two examples, name the technique and link it to her character and the novel's critique.
 
-**A64.** They create an urgent, spoken voice full of emotion, as if Sybylla is talking directly to us. They convey frustration, despair and passion, and make the novel feel like a confession rather than a polished story.
+**A74.** They create an urgent, spoken voice full of emotion, as if Sybylla is talking directly to us. They convey frustration, despair and passion, and make the novel feel like a confession rather than a polished story.
 <!-- id: vce-english34-my-brilliant-career-c5 -->
 
 Explanation: Connect form to purpose: the 'real yarn' of the Introduction is told in a raw, impulsive voice.
 
+**A75.** A. Present the novel as an anti-romance and align readers with Sybylla's frank, ironic view of women's lives
+<!-- id: vce-english34-my-brilliant-career-cc1 -->
+
+Explanation: From the Introduction onwards she tells us this is ‘not a romance’, and her irony invites readers to question marriage and gender roles.
+
 #### Practice essays
 
-**A65.** Essay: Sybylla's independence
+**A76.** Essay: Sybylla's independence
 <!-- id: vce-english34-my-brilliant-career-e1 -->
 *Multi-part question · 13 marks*
 
@@ -468,7 +523,7 @@ Common mistake: Blaming Sybylla alone. Franklin directs much of the criticism at
 
 Topic: Practice essays (vce-english34-my-brilliant-career-essays)
 
-**A66.** Essay plan: the limits placed on women
+**A77.** Essay plan: the limits placed on women
 <!-- id: vce-english34-my-brilliant-career-e2 -->
 *Multi-part question · 3 marks*
 
@@ -481,107 +536,127 @@ Common mistake: Discussing only Sybylla. Include other women in the novel, such 
 
 Topic: Practice essays (vce-english34-my-brilliant-career-essays)
 
+**A78.** Contention: Sybylla's self-doubt and restlessness shape her choices, but Franklin shows that her inner conflict grows from the narrow roles her society allows women. (1) Her contempt for her own looks and moods leads her to push away those who care for her. (2) Yet poverty, drought and class trap her at Possum Gully and Barney's Gap, not her personality. (3) Her refusal of marriage is presented as resistance to a social system rather than self-sabotage.
+<!-- id: vce-english34-my-brilliant-career-ec1 -->
+
+Explanation: Concede the topic's truth, then shift the blame to context with evidence.
+
 ### The Memory Police (Yoko Ogawa)
 
 #### Key quotes
 
-**A67.** In Chapter 1, as the narrator recalls things that once existed on the island. The plain list of ordinary objects shows how many small things have been lost, and how each loss is treated as simply a fact.
+**A79.** In Chapter 1, as the narrator recalls things that once existed on the island. The plain list of ordinary objects shows how many small things have been lost, and how each loss is treated as simply a fact.
 <!-- id: vce-english34-memory-police-q1 -->
 
 Explanation: Asyndetic listing makes the losses feel cumulative and casual at the same time, which is unsettling. Useful for essays on loss and the normalising of oppression. Checked against published quote collections; confirm the page in your own edition before relying on it in an essay.
 
-**A68.** From Chapter 1: as a child, the narrator heard stories from her mother about things that had disappeared. Perfume survives only as a story, and the narrator has to imagine what it was.
+**A80.** From Chapter 1: as a child, the narrator heard stories from her mother about things that had disappeared. Perfume survives only as a story, and the narrator has to imagine what it was.
 <!-- id: vce-english34-memory-police-q2 -->
 
 Explanation: It shows memory being passed on through storytelling, and the mother's quiet resistance to the disappearances. Checked against published quote collections; confirm the page in your own edition before relying on it in an essay.
 
-**A69.** That memory is resilient: even when objects are taken away, something of them may survive in people's hearts. It offers hope against the regime's attempt to erase the past.
+**A81.** That memory is resilient: even when objects are taken away, something of them may survive in people's hearts. It offers hope against the regime's attempt to erase the past.
 <!-- id: vce-english34-memory-police-q3 -->
 
 Explanation: Contrast it with the narrator's growing sense of emptiness. The novel tests whether memory really can survive systematic loss. Checked against published quote collections; confirm the page in your own edition before relying on it in an essay. Also check who says it in your edition.
 
-**A70.** The narrator suggests that as the island loses things, the people lose part of themselves: their inner lives become thinner and emptier along with their world.
+**A82.** The narrator suggests that as the island loses things, the people lose part of themselves: their inner lives become thinner and emptier along with their world.
 <!-- id: vce-english34-memory-police-q4 -->
 
 Explanation: The metaphor of hearts 'diluted' and 'full of holes' links physical loss to emotional loss, a central idea for essays on identity. Checked against published quote collections; confirm the page in your own edition before relying on it in an essay.
 
-**A71.** The narrator accepts her own emptiness. The disappearances have hollowed out her inner life, and she resigns herself to it rather than resisting.
+**A83.** The narrator accepts her own emptiness. The disappearances have hollowed out her inner life, and she resigns herself to it rather than resisting.
 <!-- id: vce-english34-memory-police-q5 -->
 
 Explanation: The resigned tone shows how oppression works through acceptance. Compare it with characters who still hold on to their memories. Checked against published quote collections; confirm the page in your own edition before relying on it in an essay.
 
-**A72.** The narrator's own novel is about a typist who loses her voice. The idea that losing your voice means losing your sense of self mirrors the islanders, who lose words, objects and memories and with them their identities.
+**A84.** The narrator's own novel is about a typist who loses her voice. The idea that losing your voice means losing your sense of self mirrors the islanders, who lose words, objects and memories and with them their identities.
 <!-- id: vce-english34-memory-police-q6 -->
 
 Explanation: The embedded story reflects the main plot. Use it to discuss voice, control and the power of language. Checked against published quote collections; confirm the page in your own edition before relying on it in an essay.
 
+**A85.** The first offers hope: memory survives in the heart even when objects vanish. The second shows the narrator's resignation as disappearances empty her. Together they set up the novel's central tension between resilience and erosion, leaving the reader to ask whether memory can survive when the people who hold it give up.
+<!-- id: vce-english34-memory-police-qc1 -->
+
+Explanation: Focus on the contrast between hope and resignation, and on what the heart imagery shares.
+
 #### Characters, themes and values
 
-**A73.** C. People lose their memory and feeling for it, and get rid of any remaining examples
+**A86.** C. People lose their memory and feeling for it, and get rid of any remaining examples
 <!-- id: vce-english34-memory-police-i1 -->
 
 Explanation: A disappearance is a loss of meaning and memory: people wake knowing something is gone and dispose of what remains. The Memory Police enforce this.
 
-**A74.** B. He is one of the few people who keep their memories, so the Memory Police would take him
+**A87.** B. He is one of the few people who keep their memories, so the Memory Police would take him
 <!-- id: vce-english34-memory-police-i2 -->
 
 Explanation: R, her editor, can still remember disappeared things, which makes him a target. The narrator and the old man hide him.
 
-**A75.** D. Novelist
+**A88.** D. Novelist
 <!-- id: vce-english34-memory-police-i3 -->
 
 Explanation: She is a novelist; her mother was a sculptor, and her friend the old man once worked on the ferry. Her writing becomes a way of holding on to meaning.
 
-**A76.** C. Dystopian fiction
+**A89.** C. Dystopian fiction
 <!-- id: vce-english34-memory-police-i4 -->
 
 Explanation: It imagines an oppressive society that controls memory, though Ogawa's dreamlike, understated style makes it unlike many dystopias.
 
-**A77.** They enforce the disappearances, searching houses and taking away anyone who remembers. Their power works through fear and through people's willingness to accept losses, so control comes as much from compliance as from force.
+**A90.** They enforce the disappearances, searching houses and taking away anyone who remembers. Their power works through fear and through people's willingness to accept losses, so control comes as much from compliance as from force.
 <!-- id: vce-english34-memory-police-i5 -->
 
 Explanation: Discuss surveillance, raids and the quiet acceptance of the islanders. Ogawa rarely explains the regime, which makes it more frightening.
 
-**A78.** The old man is a steady, gentle companion who helps her hide R. Their friendship shows kindness and care surviving under oppression, and it gives the novel much of its emotional warmth.
+**A91.** The old man is a steady, gentle companion who helps her hide R. Their friendship shows kindness and care surviving under oppression, and it gives the novel much of its emotional warmth.
 <!-- id: vce-english34-memory-police-i6 -->
 
 Explanation: Use him to argue that human connection is a form of resistance, even when memory fails.
 
-**A79.** As the disappearances spread to parts of people's bodies, the narrator gradually fades away completely, while R, who remembers, leaves his hiding place. The ending suggests that without memory a person cannot survive, but that memory itself, held by someone, endures.
+**A92.** As the disappearances spread to parts of people's bodies, the narrator gradually fades away completely, while R, who remembers, leaves his hiding place. The ending suggests that without memory a person cannot survive, but that memory itself, held by someone, endures.
 <!-- id: vce-english34-memory-police-i7 -->
 
 Explanation: Endings are rich for essays. Avoid over-claiming a single 'message'; the ending is ambiguous and haunting.
 
+**A93.** Unlike R, she loses the memories themselves, so she cannot miss what has gone. The regime makes each loss feel normal, and she adapts to survive. Ogawa seems more interested in quiet complicity and adaptation under authoritarian control than in heroic rebellion, yet the narrator's hiding of R and her writing are small, real acts of resistance.
+<!-- id: vce-english34-memory-police-ic1 -->
+
+Explanation: Avoid judging the narrator as simply weak; explain the conditions that shape her.
+
 #### Structure, style and techniques
 
-**A80.** A. An unnamed first-person narrator
+**A94.** A. An unnamed first-person narrator
 <!-- id: vce-english34-memory-police-c1 -->
 
 Explanation: The unnamed narrator's limited perspective keeps the regime mysterious and makes the losses personal.
 
-**A81.** C. A story within a story (embedded narrative)
+**A95.** C. A story within a story (embedded narrative)
 <!-- id: vce-english34-memory-police-c2 -->
 
 Explanation: The narrator's novel runs alongside the main plot and reflects its ideas about control and loss.
 
-**A82.** A. It makes the losses feel normalised, which is more unsettling
+**A96.** A. It makes the losses feel normalised, which is more unsettling
 <!-- id: vce-english34-memory-police-c3 -->
 
 Explanation: The flat tone mirrors the islanders' acceptance, so the reader feels the horror the characters cannot.
 
-**A83.** The island is isolated and unnamed, so it feels both specific and universal. Its isolation means there is no escape and no outside help, which intensifies the sense of control, and its vagueness lets readers apply the story to many societies.
+**A97.** The island is isolated and unnamed, so it feels both specific and universal. Its isolation means there is no escape and no outside help, which intensifies the sense of control, and its vagueness lets readers apply the story to many societies.
 <!-- id: vce-english34-memory-police-c4 -->
 
 Explanation: Link setting to ideas: isolation, surveillance, universality.
 
-**A84.** Leaving the cause unexplained makes the regime feel arbitrary and absolute, like a natural law the characters cannot question. It shifts the focus from politics to the experience of loss, and invites readers to bring their own interpretations.
+**A98.** Leaving the cause unexplained makes the regime feel arbitrary and absolute, like a natural law the characters cannot question. It shifts the focus from politics to the experience of loss, and invites readers to bring their own interpretations.
 <!-- id: vce-english34-memory-police-c5 -->
 
 Explanation: Silence and ambiguity are deliberate authorial choices; discuss their effect on the reader.
 
+**A99.** C. Make the story feel like an allegory of any society under surveillance, and mirror the loss of identity
+<!-- id: vce-english34-memory-police-cc1 -->
+
+Explanation: Namelessness universalises the story and echoes the way the regime strips people of what makes them individual.
+
 #### Practice essays
 
-**A85.** Essay: losing memories means losing oneself
+**A100.** Essay: losing memories means losing oneself
 <!-- id: vce-english34-memory-police-e1 -->
 *Multi-part question · 13 marks*
 
@@ -617,7 +692,7 @@ Common mistake: Arguing the novel has a single clear message. Its ambiguity is p
 
 Topic: Practice essays (vce-english34-memory-police-essays)
 
-**A86.** Essay plan: the novel within the novel
+**A101.** Essay plan: the novel within the novel
 <!-- id: vce-english34-memory-police-e2 -->
 *Multi-part question · 3 marks*
 
@@ -630,117 +705,137 @@ Common mistake: Summarising the typist's story without linking it to the main pl
 
 Topic: Practice essays (vce-english34-memory-police-essays)
 
+**A102.** Contention: the narrator's fate is bleak, but Ogawa suggests that quiet resistance matters even when it cannot defeat the regime. (1) The disappearances seem unstoppable, and the narrator herself finally vanishes. (2) Yet R survives, and objects and memories hidden in the secret room keep the past alive. (3) The novel-within-the-novel shows writing as a way of preserving a self, so the act of telling is a form of resistance.
+<!-- id: vce-english34-memory-police-ec1 -->
+
+Explanation: ‘Futile’ is absolute; test it with evidence of what survives.
+
 ### Educated (Tara Westover)
 
 #### Key quotes
 
-**A87.** The family's preparation for the end of the world at the new millennium (Y2K), which her father was certain would bring disaster. When nothing happens, the short, flat sentence deflates his prophecy.
+**A103.** The family's preparation for the end of the world at the new millennium (Y2K), which her father was certain would bring disaster. When nothing happens, the short, flat sentence deflates his prophecy.
 <!-- id: vce-english34-educated-q1 -->
 
 Explanation: The biblical language ('God', 'flood') reflects her father's worldview, while the brevity quietly exposes how wrong he was. Checked against published quote collections; confirm the page in your own edition before relying on it in an essay.
 
-**A88.** Tara's father, in Chapter 10, while driving dangerously through the night. He trusts that faith will protect the family, which reveals his reckless certainty and the danger it puts his children in.
+**A104.** Tara's father, in Chapter 10, while driving dangerously through the night. He trusts that faith will protect the family, which reveals his reckless certainty and the danger it puts his children in.
 <!-- id: vce-english34-educated-q2 -->
 
 Explanation: This is one of several near-fatal car accidents. The line shows faith used to justify risk. Checked against published quote collections; confirm the page in your own edition before relying on it in an essay.
 
-**A89.** As she teaches herself at home, Tara realises that persevering with difficult texts, even before she understands them, is the key skill behind learning.
+**A105.** As she teaches herself at home, Tara realises that persevering with difficult texts, even before she understands them, is the key skill behind learning.
 <!-- id: vce-english34-educated-q3 -->
 
 Explanation: Useful for essays on education as a process of self-discipline and endurance, not just schooling. Checked against published quote collections; confirm the page in your own edition before relying on it in an essay.
 
-**A90.** That poverty limits learning: when you are struggling to survive, you cannot afford to wonder and explore. It reflects her early years at university, when money worries crowded out everything else.
+**A106.** That poverty limits learning: when you are struggling to survive, you cannot afford to wonder and explore. It reflects her early years at university, when money worries crowded out everything else.
 <!-- id: vce-english34-educated-q4 -->
 
 Explanation: Link it to the next quote about money; Westover shows that education depends on material conditions as well as will. Checked against published quote collections; confirm the page in your own edition before relying on it in an essay.
 
-**A91.** Once she has some financial support at university, she is no longer consumed by worry about money and can focus on learning.
+**A107.** Once she has some financial support at university, she is no longer consumed by worry about money and can focus on learning.
 <!-- id: vce-english34-educated-q5 -->
 
 Explanation: Pairs with 'Curiosity is a luxury…'. Use both to argue that education requires security as well as courage. Checked against published quote collections; confirm the page in your own edition before relying on it in an essay.
 
-**A92.** Tara realises that others, especially her father, had defined her story and her identity, and that she has the right to interpret her own life.
+**A108.** Tara realises that others, especially her father, had defined her story and her identity, and that she has the right to interpret her own life.
 <!-- id: vce-english34-educated-q6 -->
 
 Explanation: The tricolon 'forceful, emphatic, absolute' captures the authority of the voices that shaped her. Central for essays on voice, memory and self-authorship. Checked against published quote collections; confirm the page in your own edition before relying on it in an essay.
 
-**A93.** She has changed so much that she is no longer the child her father shaped, yet she cannot deny that he raised that child. It expresses both separation from her family and an inescapable connection to it.
+**A109.** She has changed so much that she is no longer the child her father shaped, yet she cannot deny that he raised that child. It expresses both separation from her family and an inescapable connection to it.
 <!-- id: vce-english34-educated-q7 -->
 
 Explanation: The chiasmus-like reversal (child/father, father/child) holds two truths in balance: transformation and continuity. Checked against published quote collections; confirm the page in your own edition before relying on it in an essay.
 
-**A94.** In the memoir's final lines. Tara acknowledges that her family might see her change as betrayal, but she names it education: the making of a new self.
+**A110.** In the memoir's final lines. Tara acknowledges that her family might see her change as betrayal, but she names it education: the making of a new self.
 <!-- id: vce-english34-educated-q8 -->
 
 Explanation: The list moves from positive to negative words, showing the different ways her change can be judged, before she claims the final word. Ideal for conclusions. Checked against published quote collections; confirm the page in your own edition before relying on it in an essay.
 
+**A111.** At first others, especially her father, define her identity with forceful, absolute voices. By the end she names her own transformation, choosing ‘education’ over the family's words such as ‘betrayal’. She moves from being narrated to narrating, and the memoir itself is the proof.
+<!-- id: vce-english34-educated-qc1 -->
+
+Explanation: Notice that both lines are about who has the right to tell the story.
+
 #### Characters, themes and values
 
-**A95.** A. Her father distrusted the government and public education
+**A112.** A. Her father distrusted the government and public education
 <!-- id: vce-english34-educated-i1 -->
 
 Explanation: Her father's survivalist beliefs led him to keep his children out of school and away from doctors and government records.
 
-**A96.** A. Her brother Tyler
+**A113.** A. Her brother Tyler
 <!-- id: vce-english34-educated-i2 -->
 
 Explanation: Tyler had left for college himself and urged Tara to study for the ACT so she could leave too.
 
-**A97.** A. Brigham Young University
+**A114.** A. Brigham Young University
 <!-- id: vce-english34-educated-i3 -->
 
 Explanation: She enrolled at BYU, later studied at Cambridge (where she completed a PhD) and spent time at Harvard.
 
-**A98.** D. Her refusal to accept their version of events, especially about her brother Shawn's violence
+**A115.** D. Her refusal to accept their version of events, especially about her brother Shawn's violence
 <!-- id: vce-english34-educated-i4 -->
 
 Explanation: When Tara insists on the truth of Shawn's abuse, her parents side with him, which leads to her estrangement.
 
-**A99.** As a painful conflict. Education teaches Tara to question her father's beliefs and to trust her own memories, but doing so is seen by her family as betrayal. She gains a new self but loses much of her family.
+**A116.** As a painful conflict. Education teaches Tara to question her father's beliefs and to trust her own memories, but doing so is seen by her family as betrayal. She gains a new self but loses much of her family.
 <!-- id: vce-english34-educated-i5 -->
 
 Explanation: Use the final lines ('Falsity. Betrayal. I call it an education.') and her account of the estrangement.
 
-**A100.** Westover repeatedly questions her own memories and compares them with her siblings' accounts, sometimes in footnotes. She shows that memory is unreliable and that owning your memories is part of owning your identity, especially when your family insists on a different story.
+**A117.** Westover repeatedly questions her own memories and compares them with her siblings' accounts, sometimes in footnotes. She shows that memory is unreliable and that owning your memories is part of owning your identity, especially when your family insists on a different story.
 <!-- id: vce-english34-educated-i6 -->
 
 Explanation: Mention her honesty about uncertainty, which makes the memoir more trustworthy.
 
-**A101.** With complexity. He is dangerous, controlling and possibly unwell, putting his children in harm's way through his beliefs; yet he is also charismatic and loving in his way. Westover tries to understand him rather than simply condemn him.
+**A118.** With complexity. He is dangerous, controlling and possibly unwell, putting his children in harm's way through his beliefs; yet he is also charismatic and loving in his way. Westover tries to understand him rather than simply condemn him.
 <!-- id: vce-english34-educated-i7 -->
 
 Explanation: Avoid one-sided readings; the memoir's power comes from her mixed feelings.
 
+**A119.** She shows his fear, his beliefs and his skill, and she comes to consider whether mental illness shaped his behaviour, so he is complex rather than evil. Her line that he is ‘the father who raised her’ keeps the bond alive. This complexity makes her break from her family more painful and more convincing.
+<!-- id: vce-english34-educated-ic1 -->
+
+Explanation: Use evidence of balance, then explain why it strengthens the memoir.
+
 #### Structure, style and techniques
 
-**A102.** C. A memoir
+**A120.** C. A memoir
 <!-- id: vce-english34-educated-c1 -->
 
 Explanation: It is Westover's own account of her life, which raises questions about memory and truth that she addresses directly.
 
-**A103.** A. To acknowledge the unreliability of memory and show honesty
+**A121.** A. To acknowledge the unreliability of memory and show honesty
 <!-- id: vce-english34-educated-c2 -->
 
 Explanation: The footnotes show she is aware that memory is fallible, which builds the reader's trust.
 
-**A104.** D. Tara's journey of transformation away from her family's world
+**A122.** D. Tara's journey of transformation away from her family's world
 <!-- id: vce-english34-educated-c3 -->
 
 Explanation: Like a bildungsroman, the structure traces her growth, with each move taking her further from home.
 
-**A105.** The mountain is described with beauty and power, and it stands for home, her father's world and the strength of her roots. Its presence across the memoir shows how deeply her identity is tied to the place even as she leaves it.
+**A123.** The mountain is described with beauty and power, and it stands for home, her father's world and the strength of her roots. Its presence across the memoir shows how deeply her identity is tied to the place even as she leaves it.
 <!-- id: vce-english34-educated-c4 -->
 
 Explanation: Discuss how the landscape carries both love and danger, and how she returns to it in memory.
 
-**A106.** The restraint makes the events more disturbing and credible, as she reports rather than dramatises. It also shows the adult narrator's distance and reflection, contrasting with the child who lived through them.
+**A124.** The restraint makes the events more disturbing and credible, as she reports rather than dramatises. It also shows the adult narrator's distance and reflection, contrasting with the child who lived through them.
 <!-- id: vce-english34-educated-c5 -->
 
 Explanation: Compare the older narrator's perspective with the child's experience.
 
+**A125.** A. Acknowledge that memory is unreliable, which builds credibility and reinforces the question of whose version counts
+<!-- id: vce-english34-educated-cc1 -->
+
+Explanation: By admitting other versions, she earns trust and connects her method to the memoir's ideas about authority and truth.
+
 #### Practice essays
 
-**A107.** Essay: education and the courage to question
+**A126.** Essay: education and the courage to question
 <!-- id: vce-english34-educated-e1 -->
 *Multi-part question · 13 marks*
 
@@ -776,7 +871,7 @@ Common mistake: Presenting her father as a simple villain. The courage lies in q
 
 Topic: Practice essays (vce-english34-educated-essays)
 
-**A108.** Essay plan: a story of loss as well as discovery
+**A127.** Essay plan: a story of loss as well as discovery
 <!-- id: vce-english34-educated-e2 -->
 *Multi-part question · 3 marks*
 
@@ -789,53 +884,63 @@ Common mistake: Arguing only one side. 'To what extent' asks you to weigh loss a
 
 Topic: Practice essays (vce-english34-educated-essays)
 
+**A128.** Contention: Westover shows that education costs her family, home and certainty, but she presents that cost as the price of becoming herself, imposed by her family's demand for loyalty rather than by learning. (1) Her education leads to estrangement and grief, so the cost is real. (2) The cost comes from a family that treats independent thought as betrayal. (3) Westover frames education as self-making, and by the end she accepts the loss as part of who she has become.
+<!-- id: vce-english34-educated-ec1 -->
+
+Explanation: Weigh the cost honestly before arguing about who imposes it.
+
 ### Analysing argument (Section C)
 
 #### Persuasive techniques
 
-**A109.** D. Inclusive language
+**A129.** D. Inclusive language
 <!-- id: vce-english34-arg-t1 -->
 
 Explanation: 'Us' and 'every one of us' position readers as part of a shared group, so they feel the issue is theirs too.
 
-**A110.** A. Rhetorical question
+**A130.** A. Rhetorical question
 <!-- id: vce-english34-arg-t2 -->
 
 Explanation: The question has an obvious answer ('no'), so readers are led to agree with the writer's conclusion.
 
-**A111.** B. An anecdote, to make the issue personal and arouse sympathy
+**A131.** B. An anecdote, to make the issue personal and arouse sympathy
 <!-- id: vce-english34-arg-t3 -->
 
 Explanation: A brief personal story makes an abstract issue concrete and emotional.
 
-**A112.** A. Evidence: a statistic from an authoritative source
+**A132.** A. Evidence: a statistic from an authoritative source
 <!-- id: vce-english34-arg-t4 -->
 
 Explanation: Statistics and authoritative sources make an argument seem objective and credible.
 
-**A113.** D. Acknowledging and rebutting an opposing view
+**A133.** D. Acknowledging and rebutting an opposing view
 <!-- id: vce-english34-arg-t5 -->
 
 Explanation: Raising a counter-argument and answering it makes the writer seem fair while weakening the other side.
 
-**A114.** A. Appeal to fear and emotive metaphor
+**A134.** A. Appeal to fear and emotive metaphor
 <!-- id: vce-english34-arg-t6 -->
 
 Explanation: The violent image ('heart…ripped out') and the warning of consequences aim to alarm readers into action.
 
-**A115.** Because Section C rewards analysis of how language is intended to persuade a particular audience. You need to explain the effect: what the technique is likely to make readers think or feel, and how that supports the writer's contention.
+**A135.** Because Section C rewards analysis of how language is intended to persuade a particular audience. You need to explain the effect: what the technique is likely to make readers think or feel, and how that supports the writer's contention.
 <!-- id: vce-english34-arg-t7 -->
 
 Explanation: A strong sentence follows the pattern: what the writer does → how (language, evidence) → intended effect on readers → link to contention.
 
-**A116.** The context (the issue and what prompted the piece), the writer and form (for example, a letter to the editor), the intended audience, the writer's contention, and the overall tone. It does not give your own opinion on the issue.
+**A136.** The context (the issue and what prompted the piece), the writer and form (for example, a letter to the editor), the intended audience, the writer's contention, and the overall tone. It does not give your own opinion on the issue.
 <!-- id: vce-english34-arg-t8 -->
 
 Explanation: Keep your own view out of the analysis; you are analysing how the writer tries to persuade, not whether they are right.
 
+**A137.** C. Simile and statistics, creating a sense of constant, wasteful loss and urgency
+<!-- id: vce-english34-arg-tc1 -->
+
+Explanation: The tap image makes the cost feel continuous and avoidable; the figure makes it concrete. Both push readers to demand action.
+
 #### Practice analyses
 
-**A117.** Letter to the editor: “Our library is a lifeline”
+**A138.** Letter to the editor: “Our library is a lifeline”
 <!-- id: vce-english34-arg-p1 -->
 *Multi-part question · 15 marks*
 
@@ -887,7 +992,7 @@ Common mistake: Listing techniques one by one in separate paragraphs with no sen
 
 Topic: Practice analyses (vce-english34-argument-practice)
 
-**A118.** Speech: “Give our streets back to people”
+**A139.** Speech: “Give our streets back to people”
 <!-- id: vce-english34-arg-p2 -->
 *Multi-part question · 6 marks*
 
@@ -916,3 +1021,62 @@ Topic: Practice analyses (vce-english34-argument-practice)
 Common mistake: Organising the plan by technique (one paragraph on anecdotes, one on statistics). Follow how the argument unfolds.
 
 Topic: Practice analyses (vce-english34-argument-practice)
+
+**A140.** Identifying only names the technique. Analysis explains how specific words work on a particular audience and support the contention. Example: by comparing delay to a ‘tap left running’, the writer makes the cost seem constant and wasteful, positioning taxpayers to see inaction as irresponsible and to support urgent funding.
+<!-- id: vce-english34-arg-pc1 -->
+
+Explanation: Name the language, the audience, the intended effect and the link to the writer's contention.
+
+### Challenge questions
+
+#### Challenge set
+
+**A141.** D. The ideas about people and society that the text suggests the author holds, endorses or criticises
+<!-- id: vce-english34-challenge-1 -->
+
+Explanation: Views and values are inferred from how the author constructs the text, not just from what characters say.
+
+**A142.** B. A short embedded quotation, followed by analysis of a key word and a link to the contention
+<!-- id: vce-english34-challenge-2 -->
+
+Explanation: Brief, embedded quotations leave room for analysis, which is where marks are earned.
+
+**A143.** For example: ‘Brontë uses the orchard proposal to show that Jane will accept love only as Rochester's equal, never as his possession.’
+<!-- id: vce-english34-challenge-3 -->
+
+Explanation: A topic sentence makes a claim about the author's purpose, not a statement of plot.
+
+**A144.** C. Appear fair and reasonable, which makes the rebuttal more convincing
+<!-- id: vce-english34-challenge-4 -->
+
+Explanation: Acknowledging the opposing view builds credibility (ethos) before the writer dismantles it.
+
+**A145.** A. Explain how the shift in tone moves readers from sympathy to a sense of obligation
+<!-- id: vce-english34-challenge-5 -->
+
+Explanation: Analysing the progression of an argument (how it builds) is a mark of higher-level Section C responses.
+
+**A146.** An image can reinforce the contention emotionally or make an abstract issue concrete. For example, a photo of a fenced-off, empty playground beside an article calling for park funding makes the loss visible and invites parents' sympathy.
+<!-- id: vce-english34-challenge-6 -->
+
+Explanation: Link the visual's details (framing, focus, colour) to the written contention and the audience.
+
+**A147.** Helen embodies patient endurance and Christian forgiveness, in contrast with young Jane's rebellion against injustice. Her death at Lowood exposes the cruelty of Brocklehurst's regime. Jane learns from her but does not copy her: Brontë suggests faith and self-respect can coexist with resistance.
+<!-- id: vce-english34-challenge-7 -->
+
+Explanation: Minor characters are constructed to test or contrast the protagonist's values.
+
+**A148.** A. Unpack the key terms and test the absolute word ‘everyone’, for example against Viola's steady love
+<!-- id: vce-english34-challenge-8 -->
+
+Explanation: Absolute words in a topic invite a qualified contention.
+
+**A149.** Malvolio's self-deception about Olivia's love mirrors the self-deception of Orsino and Olivia. The forged letter is another form of disguise and misreading. The subplot exaggerates the main plot's follies, and its harsher ending exposes what the romantic plot glosses over.
+<!-- id: vce-english34-challenge-9 -->
+
+Explanation: Show parallels, then show what the difference in tone adds.
+
+**A150.** The writer might use emotive anecdotes and inclusive language (‘our children’) to stir parents' concern, while using statistics, cost arguments and appeals to responsibility to pressure the council to act.
+<!-- id: vce-english34-challenge-10 -->
+
+Explanation: Name each audience, the language aimed at them, and the intended response.

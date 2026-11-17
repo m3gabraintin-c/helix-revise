@@ -149,9 +149,58 @@ Common mistake: Repeating 'use fewer plastic bags'. The question asks for other 
 
 Topic: Reading: answer in English (vce-chinese-sl34-reading-english)
 
+**A4.** Challenge: shared bikes (newspaper article)
+<!-- id: vce-chinese-sl34-ra-c1 -->
+*Multi-part question · 10 marks*
+
+**a.** Scan the QR code with a phone to unlock it and ride away; one ride costs 1.5 yuan. *(2 marks)*
+
+1. 扫一下二维码就能骑走: scan the QR code with a phone, then ride. *(1 mark)*
+2. 一块五: 1.5 yuan per ride, much cheaper than a taxi. *(1 mark)*
+
+Common mistake: Reading 一块五 as 15 or 1.05. 一块五 is short for 一块五毛, 1.5 yuan.
+
+Topic: Reading: answer in English (vce-chinese-sl34-reading-english)
+
+**b.** It is more than a kilometre from the metro to their office: walking is too slow and taxis too expensive. Riding is also exercise and does not pollute the air. *(2 marks)*
+
+1. The distance problem: walking too slow, taxis too expensive (走路太慢，坐车又太贵). *(1 mark)*
+2. A further benefit: exercise and no air pollution (不但…还…). *(1 mark)*
+
+Common mistake: Giving only 'it is cheap'. The question asks why office workers in particular find them useful.
+
+Topic: Reading: answer in English (vce-chinese-sl34-reading-english)
+
+**c.** Bikes are parked on footpaths and at the entrances of housing estates, blocking people and cars; damaged bikes are left on the roadside unrepaired. *(2 marks)*
+
+1. Bad parking blocks pedestrians and cars (人行道, 小区门口). *(1 mark)*
+2. Broken bikes are not repaired and are dumped (弄坏了, 扔在路边). *(1 mark)*
+
+Common mistake: Translating 小区 as 'small area'. It means a housing estate or residential complex.
+
+Topic: Reading: answer in English (vce-chinese-sl34-reading-english)
+
+**d.** Bikes must be parked inside white-line parking zones, otherwise riders pay 5 yuan extra each time; children under 12 may not ride them. *(2 marks)*
+
+1. Park in marked zones or pay an extra 5 yuan each time (否则 = otherwise). *(1 mark)*
+2. No riders under 12 (十二岁以下). *(1 mark)*
+
+Common mistake: Saying children must be over 12 to park, or that 12-year-olds are banned. 十二岁以下 means under twelve.
+
+Topic: Reading: answer in English (vce-chinese-sl34-reading-english)
+
+**e.** Positive overall: the writer thinks they are a good idea and blames users, not the bikes, for the problems, hoping that if everyone follows the rules the city will improve. *(2 marks)*
+
+1. Opinion: positive, the bikes are a good idea (本来是一个好主意). *(1 mark)*
+2. Evidence: 问题不在车，而在人, the problem is people, not the bikes, plus the hopeful conditional ending. *(1 mark)*
+
+Common mistake: Calling the writer negative because of the problems paragraph. Read the conclusion: 不在…而在… shifts the blame to people.
+
+Topic: Reading: answer in English (vce-chinese-sl34-reading-english)
+
 #### Reading: answer in Chinese
 
-**A4.** A letter from Xiaoli about Spring Festival
+**A5.** A letter from Xiaoli about Spring Festival
 <!-- id: vce-chinese-sl34-rb1 -->
 *Multi-part question · 9 marks*
 
@@ -199,7 +248,7 @@ Common mistake: 只回答一半。这道题有两个问题，“问了什么”�
 
 Topic: Reading: answer in Chinese (vce-chinese-sl34-reading-chinese)
 
-**A5.** Shopping online: for and against (article)
+**A6.** Shopping online: for and against (article)
 <!-- id: vce-chinese-sl34-rb2 -->
 *Multi-part question · 7 marks*
 
@@ -245,7 +294,7 @@ Common mistake: 回答“不要在网上买东西”。作者没有反对网上�
 
 Topic: Reading: answer in Chinese (vce-chinese-sl34-reading-chinese)
 
-**A6.** Li Hua changes his habits (story)
+**A7.** Li Hua changes his habits (story)
 <!-- id: vce-chinese-sl34-rb3 -->
 *Multi-part question · 7 marks*
 
@@ -291,11 +340,61 @@ Common mistake: 只回答“难”或者“不难”。他的看法有两部分�
 
 Topic: Reading: answer in Chinese (vce-chinese-sl34-reading-chinese)
 
+**A8.** Challenge: Jack's email (to go or not to go?)
+<!-- id: vce-chinese-sl34-rb-c1 -->
+*Multi-part question · 11 marks*
+
+**a.** 杰克的学校和上海的一所中学有交换项目，明年可以去上海学习一个学期。 *(2 marks)*
+
+1. 和上海的一所中学有交换项目。 *(1 mark)*
+2. 可以去上海学习一个学期（时间：明年）。 *(1 mark)*
+
+Common mistake: 只写“交换项目”，没有说去哪里、去多久。
+
+Topic: Reading: answer in Chinese (vce-chinese-sl34-reading-chinese)
+
+**b.** 因为在上海每天都要说中文，他的口语会提高得更快；他还可以住在中国家庭里，了解他们的生活。 *(2 marks)*
+
+1. 每天说中文，口语提高得更快。 *(1 mark)*
+2. 住在中国家庭里，了解中国人的生活。 *(1 mark)*
+
+Common mistake: 写“老师让他去”。老师只是鼓励他，题目问的是他自己为什么想去。
+
+Topic: Reading: answer in Chinese (vce-chinese-sl34-reading-chinese)
+
+**c.** 第一，回来以后要补很多功课，特别是数学和化学，十二年级功课本来就很紧张。第二，费用太高，差不多要一万澳元。第三，他从来没有离开家那么长时间，怕会想家。 *(3 marks)*
+
+1. 功课：回来要补数学、化学等功课。 *(1 mark)*
+2. 费用：机票、学费和生活费差不多一万澳元。 *(1 mark)*
+3. 想家：从来没有离开家那么长时间。 *(1 mark)*
+
+Common mistake: 照抄原文整段。要用自己的话简单地写出三个要点。
+
+Topic: Reading: answer in Chinese (vce-chinese-sl34-reading-chinese)
+
+**d.** 姐姐觉得机会难得，就算功课紧张一点儿也值得去；好朋友觉得可以等高中毕业以后再去中国。 *(2 marks)*
+
+1. 姐姐：机会不是每年都有，值得去。 *(1 mark)*
+2. 好朋友：毕业以后再去也不晚。 *(1 mark)*
+
+Common mistake: 把“就算…也…”理解成“因为…所以…”。就算…也… 表示让步：even if…, still…
+
+Topic: Reading: answer in Chinese (vce-chinese-sl34-reading-chinese)
+
+**e.** 例如：我会建议他去，因为这样的机会很难得，每天说中文可以让他的口语进步很快。至于功课，他可以提前跟老师商量，在上海也用网上课程复习数学和化学。 *(2 marks)*
+
+1. 提出一个明确的建议。 *(1 mark)*
+2. 用邮件里的内容说明理由，或者回应他的一个担心。 *(1 mark)*
+
+Common mistake: 只写“去”或“不去”，没有理由。
+
+Topic: Reading: answer in Chinese (vce-chinese-sl34-reading-chinese)
+
 ### Writing in Chinese
 
 #### Personal and imaginative writing
 
-**A7.** Journal: my first day on exchange in China
+**A9.** Journal: my first day on exchange in China
 <!-- id: vce-chinese-sl34-w1 -->
 *Multi-part question · 10 marks*
 
@@ -321,7 +420,7 @@ Common mistake: Listing events with no feelings or reflection, or writing a lett
 
 Topic: Personal and imaginative writing (vce-chinese-sl34-writing-personal-imaginative)
 
-**A8.** Story: the day I got lost
+**A10.** Story: the day I got lost
 <!-- id: vce-chinese-sl34-w2 -->
 *Multi-part question · 10 marks*
 
@@ -347,9 +446,37 @@ Common mistake: Telling the events as a list (first… then… then…) with no 
 
 Topic: Personal and imaginative writing (vce-chinese-sl34-writing-personal-imaginative)
 
+**A11.** Challenge: a letter hidden in an old book (imaginative)
+<!-- id: vce-chinese-sl34-wa-c1 -->
+*Multi-part question · 10 marks*
+
+**a.** An imaginative narrative of 200–300 characters with a clear setting, a discovery, a turning point and an ending, told in the past with vivid details and feelings. *(10 marks)*
+
+Sample response:
+
+> 那是一个下雨的星期六下午，我在学校图书馆借了一本很旧的中文小说。
+>
+> 回到家以后，我打开书，一个黄色的信封从书里掉了出来。信封上写着：“给小梅，一九七五年五月。”我好奇极了，小心地把信打开。
+>
+> 信是一个叫建国的年轻人写的。他说他马上要去很远的地方工作，可能好几年都不能回来。他希望小梅等他，还说每年春天都会在学校门口的那棵大树下想她。
+>
+> 看完信，我心里很难过：小梅收到这封信了吗？他们后来见面了吗？
+>
+> 第二天，我把信拿给图书馆的王老师看。没想到，王老师看了以后，眼睛一下子红了。她轻轻地说：“小梅是我妈妈。”
+>
+> 原来，这封信五十年来一直夹在书里，小梅从来没有看到过。那天下午，我和王老师一起去了学校门口的那棵大树下。树还在，春天也又来了。
+
+1. Content: an engaging story with a setting, the discovery of the letter, a turning point and a satisfying ending, with details of feelings and actions. *(4 marks)*
+2. Text type: the conventions of the text type (title, opening, paragraphing, closing) and a structure that suits the purpose. *(2 marks)*
+3. Language: accurate and varied vocabulary and grammar, linking words and complements used correctly, and few errors in characters. *(4 marks)*
+
+Common mistake: Writing a list of events with no turning point, or switching between past and present. Use time markers (那天, 第二天, 没想到, 原来) and 了 or 过 consistently.
+
+Topic: Personal and imaginative writing (vce-chinese-sl34-writing-personal-imaginative)
+
 #### Persuasive and informative writing
 
-**A9.** Persuasive letter: keep Chinese at our school
+**A12.** Persuasive letter: keep Chinese at our school
 <!-- id: vce-chinese-sl34-w3 -->
 *Multi-part question · 10 marks*
 
@@ -379,7 +506,7 @@ Common mistake: Using 你 instead of 您 for a principal, or forgetting the form
 
 Topic: Persuasive and informative writing (vce-chinese-sl34-writing-persuasive-informative)
 
-**A10.** Informative article: a club at our school
+**A13.** Informative article: a club at our school
 <!-- id: vce-chinese-sl34-w4 -->
 *Multi-part question · 10 marks*
 
@@ -405,108 +532,202 @@ Common mistake: Writing about your own feelings only, like a diary. An informati
 
 Topic: Persuasive and informative writing (vce-chinese-sl34-writing-persuasive-informative)
 
+**A14.** Challenge: phones at school (persuasive article)
+<!-- id: vce-chinese-sl34-wb-c1 -->
+*Multi-part question · 10 marks*
+
+**a.** A persuasive magazine article of 200–300 characters with a title, a clear position, at least two reasons with examples, a response to the opposing view, and a conclusion. *(10 marks)*
+
+Sample response:
+
+> 手机不是敌人
+>
+> 最近，学校正在讨论是不是应该禁止学生在学校用手机。我认为，与其完全禁止，不如教学生正确地使用手机。
+>
+> 首先，手机是很有用的学习工具。上课的时候，我们可以用手机查生词、看新闻，还能用软件练习中文发音。
+>
+> 其次，手机让学生和家人保持联系。比如，放学以后有课外活动，学生可以马上告诉父母什么时候回家，父母也比较放心。
+>
+> 当然，有人担心学生上课玩游戏、看视频，影响学习。这个担心是有道理的，但是禁止并不能解决问题。学校可以规定上课的时候把手机放在书包里，只有老师同意才能用。
+>
+> 总之，手机本身不是问题，问题是怎么用。希望学校能制定合理的规定，而不是一禁了之。
+>
+> 十一年级　李安娜
+
+1. Content: a clear position, at least two reasons with examples, and a direct response to the opposing view (rebuttal). *(4 marks)*
+2. Text type: the conventions of the text type (title, opening, paragraphing, closing) and a structure that suits the purpose. *(2 marks)*
+3. Language: accurate and varied vocabulary and grammar, linking words and complements used correctly, and few errors in characters. *(4 marks)*
+
+Common mistake: Ignoring the other side. A challenging persuasive task rewards acknowledging an opposing view (当然…但是…) and answering it.
+
+Topic: Persuasive and informative writing (vce-chinese-sl34-writing-persuasive-informative)
+
 ### Oral exam: conversation (GC)
 
 #### Conversation: family, friends and interests
 
-**A11.** 我家有四口人：爸爸、妈妈、哥哥和我。爸爸是工程师，妈妈是护士。我哥哥今年二十岁，在墨尔本大学学医。周末我们一家人常常一起去海边散步，有时候也一起做饭。
+**A15.** 我家有四口人：爸爸、妈妈、哥哥和我。爸爸是工程师，妈妈是护士。我哥哥今年二十岁，在墨尔本大学学医。周末我们一家人常常一起去海边散步，有时候也一起做饭。
 <!-- id: vce-chinese-sl34-gc1 -->
 
 Explanation: Useful structures: 我家有…口人; 在…学…; 常常 / 有时候. In the exam the assessors will follow up on what you say, so add a detail you are happy to talk about. Possible follow-up: 你跟哥哥的关系怎么样？
 
-**A12.** 我跟家人的关系很好。我最喜欢跟妈妈聊天，因为她很会听我说话。我跟哥哥小时候常常吵架，可是现在他上大学了，我们反而更亲近了。他常常帮我复习数学。
+**A16.** 我跟家人的关系很好。我最喜欢跟妈妈聊天，因为她很会听我说话。我跟哥哥小时候常常吵架，可是现在他上大学了，我们反而更亲近了。他常常帮我复习数学。
 <!-- id: vce-chinese-sl34-gc2 -->
 
 Explanation: Useful structures: 跟…的关系很好; 因为…; 反而 (on the contrary); 帮我… Tip: give a reason and an example, not just 很好.
 
-**A13.** 我最好的朋友叫莎拉，我们从七年级就认识了。她很幽默，也很热心，每次我不开心的时候，她都会想办法让我笑。我们都喜欢打网球，所以每个星期六下午一起去打球。
+**A17.** 我最好的朋友叫莎拉，我们从七年级就认识了。她很幽默，也很热心，每次我不开心的时候，她都会想办法让我笑。我们都喜欢打网球，所以每个星期六下午一起去打球。
 <!-- id: vce-chinese-sl34-gc3 -->
 
 Explanation: Useful structures: 我们从…就认识了; 每次…的时候，…都…; 想办法. Describe personality (幽默, 热心, 细心) with an example.
 
-**A14.** 我的爱好是画画和听音乐。我从小就喜欢画画，现在我每个星期都会画一两幅画。画画让我觉得很放松，特别是学习压力大的时候。我也喜欢听流行音乐，最近在听一些中文歌。
+**A18.** 我的爱好是画画和听音乐。我从小就喜欢画画，现在我每个星期都会画一两幅画。画画让我觉得很放松，特别是学习压力大的时候。我也喜欢听流行音乐，最近在听一些中文歌。
 <!-- id: vce-chinese-sl34-gc4 -->
 
 Explanation: Useful structures: 我的爱好是…; 从小就…; 让我觉得…; 特别是…的时候. Linking a hobby to Chinese (中文歌) invites a natural follow-up.
 
-**A15.** 周末我一般先睡个懒觉，然后去超市打工。星期六下午我常常跟朋友一起去打网球。星期天我会在家复习功课，晚上跟家人一起吃饭、看电视。
+**A19.** 周末我一般先睡个懒觉，然后去超市打工。星期六下午我常常跟朋友一起去打网球。星期天我会在家复习功课，晚上跟家人一起吃饭、看电视。
 <!-- id: vce-chinese-sl34-gc5 -->
 
 Explanation: Useful structures: 先…然后…; 睡懒觉; 打工; 复习功课. Use time words (星期六下午, 晚上) to organise your answer.
 
-**A16.** 我很喜欢运动，特别是游泳和篮球。我每个星期去游泳两次，每次游一个小时。我觉得运动不但对身体好，而且可以减轻学习压力。
+**A20.** 我很喜欢运动，特别是游泳和篮球。我每个星期去游泳两次，每次游一个小时。我觉得运动不但对身体好，而且可以减轻学习压力。
 <!-- id: vce-chinese-sl34-gc6 -->
 
 Explanation: Useful structures: 特别是…; 每个星期…两次; 不但…而且…; 减轻压力. Frequency and duration (两次, 一个小时) show accurate grammar.
 
-**A17.** 我最喜欢的节日是春节。每年春节，我们全家都会去奶奶家吃团圆饭，一起包饺子。长辈会给我们红包，红包里有压岁钱。我们还会去唐人街看舞狮表演，非常热闹。
+**A21.** 我最喜欢的节日是春节。每年春节，我们全家都会去奶奶家吃团圆饭，一起包饺子。长辈会给我们红包，红包里有压岁钱。我们还会去唐人街看舞狮表演，非常热闹。
 <!-- id: vce-chinese-sl34-gc7 -->
 
 Explanation: Useful vocabulary: 团圆饭, 包饺子, 红包, 压岁钱, 舞狮, 热闹. Talking about a cultural experience links naturally to learning Chinese.
 
-**A18.** 前年夏天，我跟父母去了上海和北京。在北京，我们爬了长城，我觉得长城又长又壮观。在上海，我们晚上去外滩看夜景，非常漂亮。这次旅行让我更想把中文学好，因为我希望下次能自己跟当地人聊天。
+**A22.** 前年夏天，我跟父母去了上海和北京。在北京，我们爬了长城，我觉得长城又长又壮观。在上海，我们晚上去外滩看夜景，非常漂亮。这次旅行让我更想把中文学好，因为我希望下次能自己跟当地人聊天。
 <!-- id: vce-chinese-sl34-gc8 -->
 
 Explanation: Useful structures: 去过 (experience); 又…又…; 让我更想…; 希望下次能… Past experiences show a range of tenses and aspect (了, 过).
 
-**A19.** 我每天大概花两个小时上网，主要是查资料和跟朋友聊天。上网的好处是很方便，可以很快找到需要的信息。坏处是很容易浪费时间，而且看屏幕太久对眼睛不好，所以我考试前会少用手机。
+**A23.** 我每天大概花两个小时上网，主要是查资料和跟朋友聊天。上网的好处是很方便，可以很快找到需要的信息。坏处是很容易浪费时间，而且看屏幕太久对眼睛不好，所以我考试前会少用手机。
 <!-- id: vce-chinese-sl34-gc9 -->
 
 Explanation: Useful structures: 花…时间…; 好处是…，坏处是…; 而且; 所以. Giving both sides and your own habit shows you can discuss, not just list.
 
-**A20.** 我在一家面包店打过工，每个星期六工作六个小时。打工让我学会了怎么跟顾客沟通，也让我知道了挣钱不容易。现在我花钱的时候会更小心。
+**A24.** 我在一家面包店打过工，每个星期六工作六个小时。打工让我学会了怎么跟顾客沟通，也让我知道了挣钱不容易。现在我花钱的时候会更小心。
 <!-- id: vce-chinese-sl34-gc10 -->
 
 Explanation: Useful structures: 打过工; 让我学会了…; 知道了…不容易; 会更… Reflecting on what you learned is a strong way to end an answer.
 
+**A25.** 我觉得两方面都有。一方面，网络让我们跟住在国外的亲戚联系更方便了。比如，我常常跟在北京的外婆视频聊天，她可以看到我长高了。另一方面，有时候我们一家人坐在一起吃饭，每个人却都在看手机，谁也不说话。所以我觉得，网络本身没有好坏，关键在于我们怎么用。我们家现在有一个规定：吃饭的时候不看手机。
+<!-- id: vce-chinese-sl34-gc-c1 -->
+
+Explanation: Useful structures: 一方面…另一方面…; 比如; 却; 关键在于. Tip: an opinion question rewards a balanced view, an example from your own life and a conclusion. Possible follow-up: 你们家的规定有用吗？
+
 #### Conversation: school, learning Chinese and the future
 
-**A21.** 我今年学英语、数学、化学、心理学和中文。我最喜欢的科目是心理学，因为它让我了解人的想法和行为，而且老师上课很有意思。不过化学对我来说比较难，我需要多花时间复习。
+**A26.** 我今年学英语、数学、化学、心理学和中文。我最喜欢的科目是心理学，因为它让我了解人的想法和行为，而且老师上课很有意思。不过化学对我来说比较难，我需要多花时间复习。
 <!-- id: vce-chinese-sl34-gc11 -->
 
 Explanation: Useful structures: 我最喜欢的科目是…; 因为…而且…; 对我来说比较难. Naming a subject you find hard gives the assessors something to follow up.
 
-**A22.** 我学中文有几个原因。第一，我小时候去过中国，对中国文化很感兴趣。第二，我觉得中文很有用，将来可能对我的工作有帮助。第三，我有很多会说中文的朋友，我希望能跟他们用中文聊天。
+**A27.** 我学中文有几个原因。第一，我小时候去过中国，对中国文化很感兴趣。第二，我觉得中文很有用，将来可能对我的工作有帮助。第三，我有很多会说中文的朋友，我希望能跟他们用中文聊天。
 <!-- id: vce-chinese-sl34-gc12 -->
 
 Explanation: Useful structures: 有几个原因; 第一/第二/第三; 对…感兴趣; 对…有帮助. Numbered reasons make a clear, well-organised answer.
 
-**A23.** 我觉得汉字最难，因为很多字看起来差不多，很容易写错。为了解决这个问题，我每天都会用手机应用程序练习写字，还会把容易写错的字写在小卡片上，有空的时候就复习。
+**A28.** 我觉得汉字最难，因为很多字看起来差不多，很容易写错。为了解决这个问题，我每天都会用手机应用程序练习写字，还会把容易写错的字写在小卡片上，有空的时候就复习。
 <!-- id: vce-chinese-sl34-gc13 -->
 
 Explanation: Useful structures: 我觉得…最难; 看起来差不多; 为了…; 有空的时候就… Always pair a difficulty with what you do about it.
 
-**A24.** 我的学校在墨尔本东区，是一所男女同校的公立学校，有一千多个学生。我们学校的设备很好，有很大的图书馆和体育馆。我最喜欢学校的音乐活动，每年都有很精彩的音乐会。
+**A29.** 我的学校在墨尔本东区，是一所男女同校的公立学校，有一千多个学生。我们学校的设备很好，有很大的图书馆和体育馆。我最喜欢学校的音乐活动，每年都有很精彩的音乐会。
 <!-- id: vce-chinese-sl34-gc14 -->
 
 Explanation: Useful vocabulary: 男女同校, 公立/私立学校, 设备, 图书馆, 体育馆, 音乐会. Measure word: 一所学校.
 
-**A25.** 十二年级的压力确实很大，因为作业多，考试也多。为了减轻压力，我每天都会做一些运动，比如跑步或者游泳。我也会安排好时间，早点儿睡觉。遇到困难的时候，我会跟家人或者老师聊一聊。
+**A30.** 十二年级的压力确实很大，因为作业多，考试也多。为了减轻压力，我每天都会做一些运动，比如跑步或者游泳。我也会安排好时间，早点儿睡觉。遇到困难的时候，我会跟家人或者老师聊一聊。
 <!-- id: vce-chinese-sl34-gc15 -->
 
 Explanation: Useful structures: 确实; 为了减轻压力; 安排好时间; 遇到困难的时候. A range of strategies shows varied vocabulary.
 
-**A26.** 我参加了学校的辩论队和篮球队。辩论让我变得更自信，说话也更有条理。打篮球让我学会了团队合作。虽然课外活动占用了一些时间，但是我觉得很值得。
+**A31.** 我参加了学校的辩论队和篮球队。辩论让我变得更自信，说话也更有条理。打篮球让我学会了团队合作。虽然课外活动占用了一些时间，但是我觉得很值得。
 <!-- id: vce-chinese-sl34-gc16 -->
 
 Explanation: Useful structures: 参加了…; 让我变得更…; 虽然…但是…; 很值得. Say what each activity taught you.
 
-**A27.** 我毕业以后打算先休息一年，去打工和旅行，然后上大学学商业。我希望能在大学继续学中文，因为将来我想在跟中国有关系的公司工作。
+**A32.** 我毕业以后打算先休息一年，去打工和旅行，然后上大学学商业。我希望能在大学继续学中文，因为将来我想在跟中国有关系的公司工作。
 <!-- id: vce-chinese-sl34-gc17 -->
 
 Explanation: Useful structures: 打算; 先…然后…; 继续; 跟…有关系. Connecting your plans back to Chinese keeps the conversation flowing.
 
-**A28.** 我将来想当老师，因为我很喜欢跟小孩子在一起，而且我觉得教育非常重要。我的妈妈也是老师，她常常告诉我，看到学生进步是最快乐的事情。
+**A33.** 我将来想当老师，因为我很喜欢跟小孩子在一起，而且我觉得教育非常重要。我的妈妈也是老师，她常常告诉我，看到学生进步是最快乐的事情。
 <!-- id: vce-chinese-sl34-gc18 -->
 
 Explanation: Useful structures: 想当…; 跟…在一起; 我觉得…非常重要; 最快乐的事情. Give a personal reason, such as a family member's influence.
 
-**A29.** 我觉得学中文对我的将来有很大的帮助。现在中国和澳大利亚的关系很密切，很多公司需要会说中文的员工。另外，会说中文也能让我去中国旅行或者工作的时候更方便，更容易了解当地的文化。
+**A34.** 我觉得学中文对我的将来有很大的帮助。现在中国和澳大利亚的关系很密切，很多公司需要会说中文的员工。另外，会说中文也能让我去中国旅行或者工作的时候更方便，更容易了解当地的文化。
 <!-- id: vce-chinese-sl34-gc19 -->
 
 Explanation: Useful structures: 对…有很大的帮助; 关系很密切; 另外; 更容易… Two developed reasons are better than a long list.
 
-**A30.** 如果有机会去中国，我最想去西安看兵马俑，因为我对中国历史很感兴趣。我也想尝一尝各地的小吃，比如四川的火锅。最重要的是，我想多跟当地人用中文聊天，提高我的口语。
+**A35.** 如果有机会去中国，我最想去西安看兵马俑，因为我对中国历史很感兴趣。我也想尝一尝各地的小吃，比如四川的火锅。最重要的是，我想多跟当地人用中文聊天，提高我的口语。
 <!-- id: vce-chinese-sl34-gc20 -->
 
 Explanation: Useful structures: 如果…，我最想…; 尝一尝; 比如; 最重要的是. Hypotheticals (如果) show you can handle more complex grammar.
+
+**A36.** 如果我可以改变一件事，我会让学校早上晚一点儿开始上课。听说青少年需要更多睡眠，可是我们每天八点半就要上课，很多同学第一节课都很累，没办法集中精神。如果九点半上课，大家会更有精神，学习效果也会更好。当然，这样放学也会晚一点儿，可是我觉得这是值得的。
+<!-- id: vce-chinese-sl34-gc-c2 -->
+
+Explanation: Useful structures: 如果…就/会…; 没办法…; 当然…可是…. Tip: a hypothetical question tests 如果 sentences; give a reason and deal with a possible problem. Possible follow-up: 你觉得老师们会同意吗？
+
+### Challenge questions
+
+#### Challenge set
+
+**A37.** 我认为学习中文对我的将来帮助很大。第一，我以后想当律师，墨尔本有很多说中文的客户，会说中文的话，我可以更好地帮助他们。第二，我打算大学的时候去中国做交换生，如果中文好，我就能更快地适应那里的生活。另外，学中文也让我交了很多新朋友。
+<!-- id: vce-chinese-sl34-challenge-1 -->
+
+Explanation: Useful structures: 第一…第二…另外…; 会说中文的话; 如果…就…. Tip: link the language to a specific plan, not just 'it is useful'. Possible follow-up: 你为什么想当律师？
+
+**A38.** 我从一个中国交换生那里听说，中国的高中生每天上课的时间比我们长，晚上还要上晚自习，考试的压力也很大。我们这里的学生一般下午三点半就放学了，有更多时间参加体育和音乐活动。不过，我觉得每个学生都不一样，不能说哪种方式一定更好。两种方式都有优点，比如中国学生很努力，我们的学生比较会独立思考。
+<!-- id: vce-chinese-sl34-challenge-2 -->
+
+Explanation: Useful structures: 从…那里听说; 比…长; 不过; 不能说…. Tip: compare carefully and avoid sweeping generalisations; say where your information comes from. Possible follow-up: 你更喜欢哪种学习方式？
+
+**A39.** 我基本同意。书上的知识很重要，可是去别的地方亲眼看一看，感受会更深。比如，我在书上读过很多关于长城的介绍，可是去年真的爬上长城的时候，才知道它有多么雄伟。不过，我觉得读书和旅行应该结合起来：先读书了解历史，旅行的时候才能看懂更多。
+<!-- id: vce-chinese-sl34-challenge-3 -->
+
+Explanation: Useful structures: 我基本同意; 亲眼; 才知道; 应该结合起来. Tip: a qualified answer (基本同意…不过…) with a personal example is stronger than a simple yes.
+
+**A40.** 我最难忘的经历是去年在一家养老院做志愿者。每个星期六我都去陪老人聊天、下棋。一开始我很紧张，不知道说什么，可是后来一位张奶奶教我包饺子，我们成了好朋友。这次经历让我学会了耐心，也让我明白，有时候陪伴比礼物更重要。
+<!-- id: vce-chinese-sl34-challenge-4 -->
+
+Explanation: Useful structures: 一开始…后来…; 让我学会了…; 让我明白…. Tip: the second half of the question (影响) needs a reflection, not just more events. Possible follow-up: 你现在还去养老院吗？
+
+**A41.** B. 出来
+<!-- id: vce-chinese-sl34-challenge-5 -->
+
+Explanation: 想出来 means to come up with (an answer or idea). 想起来 means to recall something you once knew; 想下去 means to keep thinking.
+
+**A42.** B. 请你把作业交给老师。
+<!-- id: vce-chinese-sl34-challenge-6 -->
+
+Explanation: Pattern: subject + 把 + object + verb + other element (here 给老师). 把 comes before the object, and the verb follows the object.
+
+**A43.** D. 过
+<!-- id: vce-chinese-sl34-challenge-7 -->
+
+Explanation: The reply 去过 shows the question is about experience, so 过 is needed: 你去过中国吗？
+
+**A44.** C. 台
+<!-- id: vce-chinese-sl34-challenge-8 -->
+
+Explanation: 台 is used for machines and appliances (电脑, 电视). 张 is for flat things, 本 for books and 条 for long, thin things.
+
+**A45.** 学中文不但很有用，而且很有意思。
+<!-- id: vce-chinese-sl34-challenge-9 -->
+
+Explanation: 不但…而且… links two qualities of the same subject; put the subject before 不但.
+
+**A46.** 尊敬的校长：您好！我想向您反映一件事。
+<!-- id: vce-chinese-sl34-challenge-10 -->
+
+Explanation: Use 尊敬的… as the greeting, 您 instead of 你, and the more formal 向您反映 (raise with you) instead of 跟你说.
