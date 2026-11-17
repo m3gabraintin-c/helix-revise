@@ -202,6 +202,7 @@ details.faq p { margin-top: 8px; font-size: 0.875rem; color: var(--muted); }
 .qmeta .chip { border: 1.5px solid var(--ink); border-radius: var(--r-pill); padding: 2px 10px; background: transparent; color: var(--ink); }
 .qmeta .chip-h { background: var(--accent-soft); color: var(--ink); }
 .qmeta .chip-c { background: var(--ink); color: var(--bg); font-weight: 600; }
+.qmeta .chip-diff { letter-spacing: .08em; text-transform: none; white-space: nowrap; }
 .qprompt { font-size: 1.2rem; font-weight: 600; line-height: 1.45; margin-bottom: 20px; }
 /* Question info: a collapsed panel under each question with its topic, marks, time, exam relevance, prerequisites and type. */
 details.qinfo { margin: -8px 0 20px; border: 1px solid var(--line-soft); border-radius: var(--r-sm); background: var(--surface-2); font-size: 0.875rem; }
@@ -415,6 +416,14 @@ const DATA = {"S":[["methods","Mathematical Methods","VCE · Units 3 & 4","VCE �
   const subCount = Object.keys(subBySlug).length;
 
   // ---- helpers ----
+  // DIFF (from scripts/build_difficulty.py): id -> [stars 1-5, est. % correct, confidence h|m|l]
+  const diffOf = id => (typeof DIFF !== "undefined" && DIFF[id]) || null;
+  const diffChip = d => {
+    if (!d) return "";
+    const est = d[2] === "l", conf = { h: "high", m: "medium", l: "low" }[d[2]];
+    const label = `Difficulty ${d[0]} of 5. About ${d[1]}% of students get this right${est ? " (estimate: no close VCAA data)" : ""}.`;
+    return `<span class="chip chip-diff" role="img" aria-label="${label}" title="${label} Confidence: ${conf}.">${"★".repeat(d[0])}${"☆".repeat(5 - d[0])}<span aria-hidden="true"> ~${d[1]}%${est ? " est." : ""}</span></span>`;
+  };
   const esc = s => String(s).replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
   // Visible question text goes through txt(): escaped, with runs of Chinese characters (and CJK punctuation)
   // wrapped in lang="zh-Hans" so screen readers read them in Chinese. Attributes and textarea values keep esc().
@@ -749,7 +758,7 @@ const DATA = {"S":[["methods","Mathematical Methods","VCE · Units 3 & 4","VCE �
       const after = answered ? `<div class="stack" data-focus="after" style="margin-top:20px;align-items:flex-start">${q.type === "mcq" ? `<p class="verdict ${res.got ? "ok" : "no"}">${res.got ? "Correct!" : `Not quite. The answer is ${String.fromCharCode(65 + q.answer)}.`}</p>${q.explanation ? `<p class="small muted">${txt(q.explanation)}</p>` : ""}` : `<p class="verdict">${res.got ? "Marked as got it." : "Marked as missed."}</p>`}${logLine(q)}<button class="btn btn-primary" id="next">${nextLabel()}</button></div>` : "";
       const kind = q.type === "mcq" ? "Multiple choice" : q.type === "multi" ? `Multi-part · ${marksTxt(q.marks)}` : "Written · self-mark";
       host.innerHTML = `<div class="stack" style="gap:20px"><div class="dots" aria-hidden="true">${dots}</div>
-        <div class="qcard"><div class="qmeta"><span>Question ${i + 1} of ${order.length}</span>${challenge.has(q.id) ? '<span class="chip chip-c">Challenge</span>' : ""}${q.higherOnly ? '<span class="chip chip-h">Higher</span>' : ""}<span class="chip">${kind}</span>${q.tech ? `<span class="chip">${esc(TECH[q.tech] || q.tech)}</span>` : ""}</div>
+        <div class="qcard"><div class="qmeta"><span>Question ${i + 1} of ${order.length}</span>${challenge.has(q.id) ? '<span class="chip chip-c">Challenge</span>' : ""}${q.higherOnly ? '<span class="chip chip-h">Higher</span>' : ""}<span class="chip">${kind}</span>${q.tech ? `<span class="chip">${esc(TECH[q.tech] || q.tech)}</span>` : ""}${diffChip(diffOf(q.id))}</div>
         <h2 class="qprompt" data-focus="prompt">${txt(q.type === "multi" ? q.title : q.prompt)}</h2>${q.type === "multi" ? "" : qinfoHtml(q)}${body}${after}</div></div>`;
       host.querySelectorAll(".opt").forEach(b => b.onclick = () => { const k = +b.dataset.k, g = k === q.answer ? 1 : 0; picked = k; logResult(q, null, g, 1, { pick: k, draft: "" }); record(g); });
       const $ = id => host.querySelector("#" + id);
