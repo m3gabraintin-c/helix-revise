@@ -5885,3 +5885,126 @@ Explanation:
 <!-- id: psych34a3-ev-8 -->
 
 Explanation:
+
+### Exam-style questions (mixed topics)
+
+**A1149.** Exam stress and a breathing study
+<!-- id: vce-psych34-x1 -->
+*Multi-part question · 11 marks*
+
+**a.** The sympathetic nervous system (part of the autonomic nervous system). It activates the fight-flight-freeze response, increasing heart rate to deliver more oxygen and glucose to the muscles so the body is ready to respond to a threat. *(2 marks)*
+
+1. Sympathetic nervous system, a division of the autonomic nervous system. *(1 mark)*
+2. It prepares the body to respond to a perceived threat (fight-flight-freeze), for example by increasing heart rate so more oxygen and glucose reach the muscles. *(1 mark)*
+
+Common mistake: Naming the somatic nervous system. Heart rate and sweating are not under voluntary control, so they are autonomic.
+
+Topic: Divisions of the nervous system (vce-psych34-divisions-of-the-nervous-system)
+
+**b.** In primary appraisal, a person judges whether a situation is relevant to them and whether it is stressful. Mia judges the exam as stressful, most likely as a threat (possible future harm, such as failing). *(2 marks)*
+
+1. Primary appraisal is the evaluation of whether a situation is irrelevant, benign–positive or stressful. *(1 mark)*
+2. Mia appraises the exam as stressful, most likely as a threat of future harm or loss. *(1 mark)*
+
+Common mistake: Describing secondary appraisal. Judging whether you have the resources to cope comes after primary appraisal.
+
+Topic: Transactional model of stress and coping (vce-psych34-transactional-model-of-stress-and-coping)
+
+**c.** In the resistance stage, cortisol stays high to help the body cope with the stressor. Prolonged cortisol suppresses the immune system, so Mia is more vulnerable to infection; if stress continues into the exhaustion stage, her resistance is lower still. *(2 marks)*
+
+1. During the resistance stage, cortisol is released and stays at a high level. *(1 mark)*
+2. Prolonged high cortisol suppresses the immune system, making Mia more susceptible to illness such as a cold, especially if she reaches the exhaustion stage. *(1 mark)*
+
+Common mistake: Saying cortisol is released mainly in the alarm reaction. Its sustained effect on immunity comes in the resistance stage.
+
+Topic: Stress responses and the GAS (vce-psych34-stress-responses-and-the-gas)
+
+**d.** For example: making a study timetable, doing practice exams, or asking her teacher about the topics she finds hard. *(1 mark)*
+
+1. An approach strategy deals directly with the stressor, for example making a study plan or asking her teacher for help with difficult topics. *(1 mark)*
+
+Common mistake: Giving an avoidance strategy, such as avoiding thinking about the exam. Approach strategies confront the source of stress.
+
+Topic: Coping strategies and flexibility (vce-psych34-coping-strategies-and-flexibility)
+
+**e.** Whether students did 10 minutes of slow breathing or 10 minutes of quiet reading before the test. *(1 mark)*
+
+1. The variable the researcher manipulated: the activity before the test (slow breathing or quiet reading). *(1 mark)*
+
+Common mistake: Naming the anxiety rating. That is the dependent variable, which is measured.
+
+Topic: Experimental design and variables (vce-psych34-experimental-design-and-variables)
+
+**f.** Between-subjects (independent groups) design *(1 mark)*
+
+1. Each student was in only one condition, so this is a between-subjects design. *(1 mark)*
+
+Common mistake: Calling it a within-subjects design. In a within-subjects design every participant would do both activities.
+
+Topic: Experimental design and variables (vce-psych34-experimental-design-and-variables)
+
+**g.** For example, how anxious each student usually is. Random allocation gives every student an equal chance of being in either group, so students with high and low usual anxiety are likely to be spread evenly, and a difference between the groups is more likely to be caused by the independent variable. *(2 marks)*
+
+1. An extraneous variable such as students' usual (trait) anxiety, sleep the night before, or how well they had prepared for the test. *(1 mark)*
+2. Random allocation spreads such participant characteristics evenly between the groups, so they are less likely to explain a difference in anxiety ratings. *(1 mark)*
+
+Common mistake: Confusing random allocation with random sampling. Random sampling is about who is chosen from the population; random allocation is about which group they join.
+
+Topic: Experimental design and variables (vce-psych34-experimental-design-and-variables)
+
+**A1150.** Late nights, memory and a nervous bell
+<!-- id: vce-psych34-x2 -->
+*Multi-part question · 11 marks*
+
+**a.** Sensory memory holds a large amount of incoming sensory information very briefly (for visual information, about 0.2–0.4 seconds). Only information Liam pays attention to is transferred to short-term memory; the rest decays. *(2 marks)*
+
+1. Sensory memory has an unlimited capacity but a very short duration, about 0.2–0.4 seconds for visual (iconic) information. *(1 mark)*
+2. Information that is attended to passes to short-term memory; unattended information is lost. *(1 mark)*
+
+Common mistake: Saying all of the information moves on to short-term memory. Attention decides what is transferred.
+
+Topic: Atkinson-Shiffrin multi-store model (vce-psych34-atkinson-shiffrin-multi-store-model)
+
+**b.** About 5 to 9 items (7 ± 2), for about 18 to 30 seconds without rehearsal *(1 mark)*
+
+1. Capacity about 7 ± 2 items; duration about 18–30 seconds unless the information is rehearsed. *(1 mark)*
+
+Common mistake: Giving only one of the two, or mixing up capacity (how much) with duration (how long).
+
+Topic: Atkinson-Shiffrin multi-store model (vce-psych34-atkinson-shiffrin-multi-store-model)
+
+**c.** The hippocampus encodes and consolidates new explicit (declarative) memories, such as facts Liam studies, and helps transfer them to long-term storage in the neocortex. *(2 marks)*
+
+1. The hippocampus is involved in encoding and consolidating new explicit memories. *(1 mark)*
+2. It transfers those memories to the neocortex for long-term storage (it is not where they are permanently stored). *(1 mark)*
+
+Common mistake: Saying the hippocampus stores all long-term memories. Explicit memories are stored across the neocortex.
+
+Topic: Brain regions in memory (vce-psych34-brain-regions-in-memory)
+
+**d.** Any two, for example: poorer concentration and attention (cognitive); poorer memory for what he studies (cognitive); irritability or mood swings (affective); more intense emotional reactions (affective). *(2 marks)*
+
+1. One effect, for example a cognitive effect: difficulty concentrating or slower thinking. *(1 mark)*
+2. A second effect, for example an affective effect: irritability, low mood or bigger emotional reactions. *(1 mark)*
+
+Common mistake: Describing effects of total sleep deprivation, such as hallucinations. Liam is getting some sleep each night, so his deprivation is partial.
+
+Topic: Sleep deprivation (vce-psych34-sleep-deprivation)
+
+**e.** Bright (especially blue) light from the screen is detected by the eyes and signalled to the suprachiasmatic nucleus, which reduces the release of melatonin from the pineal gland. Less melatonin means Liam feels less sleepy, so sleep onset is delayed. *(2 marks)*
+
+1. Light from the screen acts as a zeitgeber: it is detected by the eyes and signalled to the suprachiasmatic nucleus. *(1 mark)*
+2. The SCN reduces melatonin secretion from the pineal gland, so sleepiness is delayed. *(1 mark)*
+
+Common mistake: Saying the phone makes Liam produce more melatonin. Light suppresses melatonin.
+
+Topic: Sleep hygiene and zeitgebers (vce-psych34-sleep-hygiene-and-zeitgebers)
+
+**f.** Neutral stimulus: the exam bell before conditioning. Conditioned response: the nervousness Liam now feels when he hears the bell. *(2 marks)*
+
+1. Neutral stimulus: the bell, which before conditioning did not cause nervousness. *(1 mark)*
+2. Conditioned response: nervousness in response to the bell alone, after the bell was repeatedly paired with sitting exams. *(1 mark)*
+
+Common mistake: Naming the exam as the conditioned stimulus. The exam is the unconditioned stimulus; the bell becomes the conditioned stimulus.
+
+Topic: Classical conditioning (vce-psych34-classical-conditioning)

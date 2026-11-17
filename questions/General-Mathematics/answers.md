@@ -4083,3 +4083,144 @@ Explanation: Must mention zero duration and its role in showing dependencies.
 <!-- id: general-8-4-25 -->
 
 Explanation: C's LST is day 6, so A's LST is 6 − 5 = 1; A's EST is 0, so float = 1.
+
+### Exam-style questions (mixed topics)
+
+**A801.** A café's hot drinks and a coffee machine loan
+<!-- id: general-x1 -->
+*Multi-part question · 9 marks*
+
+**a.** Maximum temperature *(1 mark)*
+
+1. The café is using temperature to explain or predict sales, so maximum temperature is the explanatory variable and hot drinks sold is the response variable. *(1 mark)*
+
+Common mistake: Choosing the variable you are trying to predict. That is the response variable.
+
+Topic: Scatterplots, association and correlation (general-2-1)
+
+**b.** hot drinks sold = 239.82 − 5.77 × maximum temperature *(2 marks)*
+
+1. With CAS, a linear regression of \(y\) on \(x\) gives intercept \(a \approx 239.82\) and slope \(b \approx -5.77\). *(1 mark)*
+2. Write it with the variable names: hot drinks sold = 239.82 − 5.77 × maximum temperature. *(1 mark)*
+
+Common mistake: Swapping the variables in the calculator, which regresses temperature on sales and gives a different line.
+
+Topic: Least squares regression line (general-2-2)
+
+**c.** On average, the number of hot drinks sold decreases by about 5.77 for each 1 °C increase in maximum temperature. *(1 mark)*
+
+1. The slope is the average change in the response variable for a one-unit increase in the explanatory variable: on average, sales fall by about 5.77 drinks for each 1 °C rise in maximum temperature. *(1 mark)*
+
+Common mistake: Leaving out 'on average', or saying sales 'are 5.77'. The slope describes an average change per degree.
+
+Topic: Least squares regression line (general-2-2)
+
+**d.** 99.7%: 99.7% of the variation in the number of hot drinks sold is explained by the variation in maximum temperature. *(1 mark)*
+
+1. \(r^2 = (-0.9984)^2 \approx 0.997\), so 99.7% of the variation in hot drinks sold is explained by the variation in maximum temperature. *(1 mark)*
+
+Common mistake: Saying 99.7% of the drinks are explained by temperature. The coefficient of determination is about the variation in the response variable.
+
+Topic: Residuals and coefficient of determination (general-2-3)
+
+**e.** −2.3 *(1 mark)*
+
+1. Predicted value: 239.82 − 5.77 × 15 = 153.27. Residual = actual − predicted = 151 − 153.27 ≈ −2.3. *(1 mark)*
+
+Common mistake: Calculating predicted − actual. A residual is always actual value minus predicted value.
+
+Topic: Residuals and coefficient of determination (general-2-3)
+
+**f.i.** \(V_0 = 12\,000\), \(V_{n+1} = 1.0055\,V_n - 500\) *(1 mark)*
+
+1. The monthly interest rate is 6.6% ÷ 12 = 0.55%, so each month the balance is multiplied by 1.0055 and then reduced by the $500 repayment: \(V_0 = 12\,000\), \(V_{n+1} = 1.0055\,V_n - 500\). *(1 mark)*
+
+Common mistake: Using 1.066 as the multiplier. The annual rate must be divided by 12 because interest compounds monthly.
+
+Topic: First-order linear recurrence relations (general-4-1)
+
+**f.ii.** $11 129.61 *(1 mark)*
+
+1. \(V_1 = 1.0055 \times 12\,000 - 500 = 11\,566\); \(V_2 = 1.0055 \times 11\,566 - 500 = 11\,129.61\), so the balance is $11 129.61. *(1 mark)*
+
+Common mistake: Subtracting the repayment before adding the interest. In this loan, interest is added to the balance and then the repayment is made.
+
+Topic: First-order linear recurrence relations (general-4-1)
+
+**f.iii.** 26 repayments (25 of $500 and a smaller final repayment) *(1 mark)*
+
+1. With the finance solver (PV = 12 000, PMT = −500, I% = 6.6, compounding 12 times a year), N ≈ 25.8. So 26 repayments are needed, the last one smaller than $500 (about $405). *(1 mark)*
+
+Common mistake: Rounding 25.8 down to 25. After 25 repayments about $403 is still owed, so a 26th repayment is needed.
+
+Topic: Reducible loans and amortisation (general-5-2)
+
+**A802.** Planning a school fair
+<!-- id: general-x2 -->
+*Multi-part question · 10 marks*
+
+**a.** 8 days *(1 mark)*
+
+1. G can start only when C, D and F have all finished. Their earliest finish times are 2 + 2 = 4, 2 + 4 + 2 = 8 and 2 + 4 + 1 = 7 days, so G's earliest start time is 8 days. *(1 mark)*
+
+Common mistake: Taking the smallest finish time (4 days). An activity must wait for all of its immediate predecessors, so use the largest.
+
+Topic: Critical path analysis (general-8-4)
+
+**b.** Critical path A–B–D–G; minimum completion time 9 days *(2 marks)*
+
+1. The paths through the network are A–B–D–G (2 + 4 + 2 + 1 = 9 days), A–C–G (5 days) and A–E–F–G (8 days). *(1 mark)*
+2. The longest path is the critical path: A–B–D–G, so the project takes at least 9 days. *(1 mark)*
+
+Common mistake: Choosing the shortest path. The critical path is the longest one, because every path must be finished.
+
+Topic: Critical path analysis (general-8-4)
+
+**c.** 4 days *(1 mark)*
+
+1. Latest start time of C = 8 − 2 = 6 days (it must finish by G's start at day 8). Its earliest start time is 2 days, so its float is 6 − 2 = 4 days. *(1 mark)*
+
+Common mistake: Forgetting to subtract C's duration when finding its latest start time. Latest start time = latest finish time − duration.
+
+Topic: Critical path analysis (general-8-4)
+
+**d.** 8 days *(1 mark)*
+
+1. A–B–D–G now takes 8 days, but A–E–F–G also takes 8 days, so the minimum completion time is 8 days (both paths are now critical). *(1 mark)*
+
+Common mistake: Assuming the project gets 1 day shorter in every case. Check the other paths: once A–B–D–G drops to 8 days, A–E–F–G (8 days) limits the project.
+
+Topic: Critical path analysis (general-8-4)
+
+**e.i.** \(1 \times 2\) *(1 mark)*
+
+1. \(P\) is \(1 \times 3\) and \(N\) is \(3 \times 2\). The inner numbers match, and the outer numbers give the order of the product: \(1 \times 2\). *(1 mark)*
+
+Common mistake: Writing \(3 \times 3\) or \(1 \times 3\). The order of a product is (rows of the first) × (columns of the second).
+
+Topic: Matrix arithmetic and order (general-6-1)
+
+**e.ii.** \(PN = \begin{bmatrix} 1280 & 1600 \end{bmatrix}\): ticket revenue of $1280 on Saturday and $1600 on Sunday. *(2 marks)*
+
+1. \(PN = \begin{bmatrix} 5 \times 120 + 3 \times 200 + 2 \times 40 & 5 \times 150 + 3 \times 260 + 2 \times 35 \end{bmatrix} = \begin{bmatrix} 1280 & 1600 \end{bmatrix}\). *(1 mark)*
+2. Each element is price × number sold, summed over the ticket types: the total ticket revenue, $1280 on Saturday and $1600 on Sunday. *(1 mark)*
+
+Common mistake: Multiplying element by element. Matrix multiplication multiplies each row of \(P\) by each column of \(N\) and adds the results.
+
+Topic: Matrix arithmetic and order (general-6-1)
+
+**f.** 110 in the food area and 90 in the games area *(1 mark)*
+
+1. \(S_1 = TS_0 = \begin{bmatrix} 0.8 \times 100 + 0.3 \times 100 \\ 0.2 \times 100 + 0.7 \times 100 \end{bmatrix} = \begin{bmatrix} 110 \\ 90 \end{bmatrix}\). *(1 mark)*
+
+Common mistake: Reading the transition matrix by rows instead of columns. Each column shows where the people from one area go.
+
+Topic: Transition matrices and state matrices (general-7-1)
+
+**g.** 120 *(1 mark)*
+
+1. In the steady state the numbers moving each way balance: \(0.2F = 0.3G\) with \(F + G = 200\), so \(0.2F = 0.3(200 - F)\), giving \(F = 120\). (Or find \(T^n S_0\) for a large \(n\).) *(1 mark)*
+
+Common mistake: Assuming the visitors end up split equally. The long-term split depends on the transition rates, not on the starting numbers.
+
+Topic: Steady state and long-term behaviour (general-7-2)

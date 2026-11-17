@@ -8210,3 +8210,45 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 <!-- id: bio34a3-hev-8 -->
 
 *Written answer*
+
+### Exam-style questions (mixed topics)
+
+**Q1172.** Human insulin, from gene to bacteria
+<!-- id: vce-bio34-x1 -->
+*Multi-part question · 11 marks · Original question in the style of the VCE Biology exam, Section B*
+
+Insulin is a protein hormone made by beta cells in the pancreas. The insulin gene is transcribed and translated, and the protein is then processed and exported from the cell.
+
+**a.** Describe two differences between the structure of DNA and the structure of mRNA. *(2 marks)*
+
+**b.** Part of the template strand of a gene reads 3′ TAC GGA TTC 5′. Write the mRNA sequence transcribed from it, and the amino acids it codes for. Use these codons: AUG = Met, CCU = Pro, AAG = Lys. *(2 marks)*
+
+**c.** Insulin is exported from the cell. Describe the path the insulin protein takes from the ribosome to the outside of the cell. *(2 marks)*
+
+To make human insulin in bacteria, a DNA copy of the insulin gene is made from insulin mRNA (complementary DNA, or cDNA). It is inserted into a plasmid that carries a gene for resistance to the antibiotic ampicillin.
+
+**d.** Explain why the cDNA copy is used instead of the insulin gene taken directly from human DNA. *(1 mark)*
+
+**e.** Explain why the plasmid and the cDNA are cut with the same restriction enzyme, and name the enzyme that joins them together. *(2 marks)*
+
+**f.** After transformation, the bacteria are grown on agar containing ampicillin. Explain why only some bacteria form colonies, and why growing on ampicillin does not prove that a colony contains the insulin gene. *(2 marks)*
+
+**Q1173.** A new virus: immunity, vaccines and resistance
+<!-- id: vce-bio34-x2 -->
+*Multi-part question · 11 marks · Original question in the style of the VCE Biology exam, Section B*
+
+A newly identified respiratory virus has a protein, called S, on its outer surface. People infected for the first time take about a week to recover.
+
+**a.** Explain how the S protein causes B cells that recognise it to multiply. *(2 marks)*
+
+**b.** Describe two ways antibodies against S help to remove the virus. *(2 marks)*
+
+**c.** Explain why cytotoxic T cells are needed to clear an infection that is already established. *(2 marks)*
+
+A vaccine containing harmless copies of the S protein is developed.
+
+**d.** Explain how this vaccine gives long-term protection against the virus. *(2 marks)*
+
+An antiviral drug blocks one of the virus's enzymes. A few years after the drug comes into wide use, a strain of the virus that is resistant to the drug has become common.
+
+**e.** Explain how the resistant strain became common. *(3 marks)*

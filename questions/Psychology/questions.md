@@ -8057,3 +8057,47 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 <!-- id: psych34a3-ev-8 -->
 
 *Written answer*
+
+### Exam-style questions (mixed topics)
+
+**Q1149.** Exam stress and a breathing study
+<!-- id: vce-psych34-x1 -->
+*Multi-part question · 11 marks · Original question in the style of the VCE Psychology exam, Section B*
+
+Mia has her first VCE exam in two weeks. Whenever she thinks about it, her heart races and her palms sweat.
+
+**a.** Identify the division of the nervous system responsible for Mia's racing heart, and explain its role in this response. *(2 marks)*
+
+**b.** Using Lazarus and Folkman's transactional model of stress and coping, describe the primary appraisal Mia is making. *(2 marks)*
+
+**c.** Mia's stress continues for several weeks. Using Selye's General Adaptation Syndrome, explain why she is more likely to catch a cold during this time. *(2 marks)*
+
+**d.** Give one approach strategy Mia could use to cope with her exam stress. *(1 mark)*
+
+A researcher tested whether 10 minutes of slow breathing before a test reduces anxiety. Sixty Year 12 students were randomly allocated to a group that did slow breathing or a group that read quietly for 10 minutes. Each student then rated their anxiety on a scale from 1 to 10.
+
+**e.** Identify the independent variable in this experiment. *(1 mark)*
+
+**f.** Name the experimental design used. *(1 mark)*
+
+**g.** Identify one extraneous variable, and explain how random allocation helps to control it. *(2 marks)*
+
+**Q1150.** Late nights, memory and a nervous bell
+<!-- id: vce-psych34-x2 -->
+*Multi-part question · 11 marks · Original question in the style of the VCE Psychology exam, Section B*
+
+Liam is studying for his exams. After a week of going to bed at about 2 am and getting up at 7 am for school, he is struggling to remember what he studied.
+
+**a.** According to the Atkinson–Shiffrin multi-store model, explain what happens to information on Liam's notes once it reaches his sensory memory. *(2 marks)*
+
+**b.** State the capacity and duration of short-term memory. *(1 mark)*
+
+**c.** Explain the role of the hippocampus in forming Liam's explicit memories of what he studied. *(2 marks)*
+
+**d.** Liam has built up a sleep debt. Describe two likely effects of partial sleep deprivation on his functioning. *(2 marks)*
+
+**e.** Liam uses his phone in bed until 2 am. Explain how this could delay the time he feels sleepy, referring to melatonin. *(2 marks)*
+
+At school, a bell rings at the start of every exam. The bell used to mean nothing to Liam, but now he feels nervous whenever he hears it, even outside exam time.
+
+**f.** Using the three-phase model of classical conditioning, identify the neutral stimulus and the conditioned response in this example. *(2 marks)*

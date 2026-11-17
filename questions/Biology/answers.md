@@ -6008,3 +6008,112 @@ Explanation:
 <!-- id: bio34a3-hev-8 -->
 
 Explanation:
+
+### Exam-style questions (mixed topics)
+
+**A1172.** Human insulin, from gene to bacteria
+<!-- id: vce-bio34-x1 -->
+*Multi-part question · 11 marks*
+
+**a.** Any two: DNA is double-stranded and mRNA is single-stranded; DNA contains deoxyribose and mRNA contains ribose; DNA contains thymine and mRNA contains uracil instead. *(2 marks)*
+
+1. First difference, for example: DNA is double-stranded, while mRNA is single-stranded. *(1 mark)*
+2. Second difference, for example: DNA nucleotides contain the sugar deoxyribose and the base thymine, while mRNA nucleotides contain ribose and uracil. *(1 mark)*
+
+Common mistake: Giving differences in function or location (such as 'DNA stays in the nucleus'). The question asks about structure.
+
+Topic: Nucleic acid structure (vce-bio34-nucleic-acid-structure)
+
+**b.** mRNA: 5′ AUG CCU AAG 3′; amino acids: Met–Pro–Lys *(2 marks)*
+
+1. The mRNA is complementary to the template strand, with U in place of T: 3′ TAC GGA TTC 5′ gives 5′ AUG CCU AAG 3′. *(1 mark)*
+2. Read the codons in order from the 5′ end: AUG = Met, CCU = Pro, AAG = Lys, so Met–Pro–Lys. *(1 mark)*
+
+Common mistake: Writing T in the mRNA, or copying the template strand instead of pairing with it. mRNA contains uracil and is complementary to the template strand.
+
+Topic: Translation and the genetic code (vce-bio34-translation-and-the-genetic-code)
+
+**c.** It is made by ribosomes on the rough endoplasmic reticulum and enters the RER, travels in a transport vesicle to the Golgi apparatus where it is modified and packaged, then leaves in a secretory vesicle that fuses with the plasma membrane and releases it by exocytosis. *(2 marks)*
+
+1. Ribosomes on the rough endoplasmic reticulum make the protein, which moves through the RER and then in a vesicle to the Golgi apparatus, where it is modified and packaged. *(1 mark)*
+2. A secretory vesicle from the Golgi apparatus moves to the plasma membrane, fuses with it and releases insulin by exocytosis. *(1 mark)*
+
+Common mistake: Leaving out the vesicles or the order of organelles. Proteins move between the RER, the Golgi and the membrane inside vesicles.
+
+Topic: Protein secretory pathway (vce-bio34-protein-secretory-pathway)
+
+**d.** The human gene contains introns. Bacteria cannot remove introns, but cDNA is made from mature mRNA, so it has no introns and the bacteria can express it correctly. *(1 mark)*
+
+1. Human genes contain introns, which are removed from pre-mRNA by splicing. Bacteria cannot splice, but cDNA is copied from mature mRNA, so it has no introns. *(1 mark)*
+
+Common mistake: Saying bacteria 'cannot read human DNA'. The genetic code is universal; the problem is the introns.
+
+Topic: Transcription and RNA processing (vce-bio34-transcription-and-rna-processing)
+
+**e.** The same enzyme gives both pieces complementary sticky ends, which base-pair with each other. DNA ligase then joins the sugar–phosphate backbones. *(2 marks)*
+
+1. Cutting both with the same restriction enzyme produces complementary sticky ends, so the cDNA and the plasmid can base-pair at the cut site. *(1 mark)*
+2. DNA ligase joins the sugar–phosphate backbones, sealing the gene into the plasmid. *(1 mark)*
+
+Common mistake: Naming DNA polymerase. Ligase joins existing fragments; polymerase builds a new strand from nucleotides.
+
+Topic: Enzymes for DNA manipulation (vce-bio34-enzymes-for-dna-manipulation)
+
+**f.** Only bacteria that took up a plasmid have the ampicillin-resistance gene and survive. But a plasmid that closed up again without the insulin gene also gives resistance, so the colonies must be screened further (for example with a second marker gene or PCR). *(2 marks)*
+
+1. Transformation is inefficient: only bacteria that took up a plasmid carry the ampicillin-resistance gene, so only they survive and form colonies. *(1 mark)*
+2. Plasmids that rejoined without the insert also carry the resistance gene, so a resistant colony may not contain the insulin gene; further screening is needed. *(1 mark)*
+
+Common mistake: Assuming every resistant colony has the recombinant plasmid. Resistance only shows that a plasmid was taken up.
+
+Topic: Recombinant plasmids and transformation (vce-bio34-recombinant-plasmids-and-transformation)
+
+**A1173.** A new virus: immunity, vaccines and resistance
+<!-- id: vce-bio34-x2 -->
+*Multi-part question · 11 marks*
+
+**a.** S is an antigen: it is non-self and triggers an immune response. The few naive B cells whose receptors are complementary to S bind it (clonal selection) and, with cytokines from activated helper T cells, divide to form many identical plasma and memory B cells (clonal expansion). *(2 marks)*
+
+1. S acts as an antigen. Only the B cells with receptors (membrane-bound antibodies) complementary to S bind it, which selects them (clonal selection). *(1 mark)*
+2. Helped by cytokines from activated helper T cells, the selected B cells divide into clones of plasma cells and memory B cells (clonal expansion). *(1 mark)*
+
+Common mistake: Saying B cells 'make the right antibody' after meeting the antigen. The specific B cells already exist; the antigen selects them.
+
+Topic: Humoral immunity (vce-bio34-humoral-immunity)
+
+**b.** Any two: neutralisation (antibodies block S so the virus cannot attach to and enter host cells); agglutination (clumping virus particles together); opsonisation (marking virus particles for phagocytosis); activating complement proteins. *(2 marks)*
+
+1. First way, for example: neutralisation, where antibodies bind S and stop the virus attaching to host cells. *(1 mark)*
+2. Second way, for example: agglutination or opsonisation, which clumps or tags virus particles so phagocytes engulf them more easily. *(1 mark)*
+
+Common mistake: Saying antibodies 'kill' or 'destroy' the virus. Antibodies bind and mark it; other parts of the immune system remove it.
+
+Topic: Humoral immunity (vce-bio34-humoral-immunity)
+
+**c.** Viruses replicate inside host cells, where antibodies cannot reach them. Infected cells display viral antigens on MHC class I markers; cytotoxic T cells recognise these and cause the infected cells to die (apoptosis), stopping the virus multiplying. *(2 marks)*
+
+1. Once inside host cells, the virus is out of reach of antibodies. *(1 mark)*
+2. Infected cells present viral antigen on MHC class I markers; cytotoxic T cells recognise them and induce apoptosis in those cells. *(1 mark)*
+
+Common mistake: Saying cytotoxic T cells attack free virus particles. They target infected body cells.
+
+Topic: Cell-mediated immunity (vce-bio34-cell-mediated-immunity)
+
+**d.** The vaccine triggers a primary immune response that produces memory B and T cells specific to S (artificial active immunity). On later exposure to the virus, the memory cells give a faster and larger secondary response, so the virus is removed before it causes disease. *(2 marks)*
+
+1. The vaccine's S protein triggers a primary response, producing memory B cells and memory T cells specific to S. *(1 mark)*
+2. If the virus is met later, memory cells produce a faster, stronger secondary response that clears it before symptoms develop. *(1 mark)*
+
+Common mistake: Saying the vaccine gives the person antibodies. Antibodies from a vaccine fade; long-term protection comes from memory cells.
+
+Topic: Types of immunity and vaccination (vce-bio34-types-of-immunity-and-vaccination)
+
+**e.** A random mutation in the gene for the enzyme had already produced resistant virus particles before the drug was used. The drug acted as a selection pressure: it stopped susceptible particles replicating, while resistant ones survived and replicated. Over many generations the resistance allele became more frequent in the virus population. *(3 marks)*
+
+1. Variation: a random mutation in the viral gene for the enzyme produced resistant virus particles. The mutation was already present; the drug did not cause it. *(1 mark)*
+2. Selection: the drug stopped susceptible particles replicating, but resistant particles survived and replicated, passing on the resistance allele. *(1 mark)*
+3. Over many generations, the frequency of the resistance allele increased until the resistant strain was common. *(1 mark)*
+
+Common mistake: Saying the virus 'became resistant because of the drug' or 'adapted to the drug'. Resistance comes from a random mutation that the drug then selects for.
+
+Topic: Antibiotic and antiviral resistance (vce-bio34-antibiotic-and-antiviral-resistance)

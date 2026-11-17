@@ -5811,3 +5811,64 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 <!-- id: general-8-4-25 -->
 
 *Written answer*
+
+### Exam-style questions (mixed topics)
+
+**Q801.** A café's hot drinks and a coffee machine loan
+<!-- id: general-x1 -->
+*Multi-part question · 9 marks · Technology-active (CAS) · Original question in the style of VCAA General Mathematics Exam 2*
+
+A café recorded the maximum temperature, \(x\) °C, and the number of hot drinks sold, \(y\), on eight winter days.
+
+| Maximum temperature (°C) | 10 | 12 | 13 | 15 | 16 | 18 | 19 | 21 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Hot drinks sold | 182 | 170 | 166 | 151 | 149 | 137 | 130 | 118 |
+
+**a.** Name the explanatory variable. *(1 mark)*
+
+**b.** Find the equation of the least squares line for these data. Round the intercept and slope to two decimal places. *(2 marks)*
+
+**c.** Interpret the slope of the least squares line in this context. *(1 mark)*
+
+**d.** The correlation coefficient is \(r = -0.9984\). Find the coefficient of determination as a percentage, correct to one decimal place, and interpret it. *(1 mark)*
+
+**e.** Find the residual for the day with a maximum temperature of 15 °C, correct to one decimal place. *(1 mark)*
+
+The café borrows $12 000 to buy a coffee machine. Interest is charged at 6.6% per annum, compounding monthly, and the café repays $500 each month. Let \(V_n\) be the balance of the loan, in dollars, after \(n\) monthly repayments.
+
+**f.i.** Write a recurrence relation for \(V_n\). *(1 mark)*
+
+**f.ii.** Find the balance of the loan after two repayments, correct to the nearest cent. *(1 mark)*
+
+**f.iii.** How many monthly repayments are needed to repay the loan in full? *(1 mark)*
+
+**Q802.** Planning a school fair
+<!-- id: general-x2 -->
+*Multi-part question · 10 marks · Technology-active (CAS) · Original question in the style of VCAA General Mathematics Exam 2*
+
+A school is planning a fair. The activities, their durations and their immediate predecessors are shown below.
+
+| Activity | A | B | C | D | E | F | G |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Duration (days) | 2 | 4 | 2 | 2 | 4 | 1 | 1 |
+| Immediate predecessors | – | A | A | B | A | E | C, D, F |
+
+**a.** Find the earliest start time of activity G. *(1 mark)*
+
+**b.** Write down the critical path and the minimum time needed to complete the project. *(2 marks)*
+
+**c.** Find the float time of activity C. *(1 mark)*
+
+**d.** Activity B is shortened from 4 days to 3 days. Find the new minimum completion time. *(1 mark)*
+
+Tickets cost $5 for adults, $3 for children and $2 for concessions. The matrices below show the ticket prices and the numbers of tickets sold on Saturday and Sunday. \[P = \begin{bmatrix} 5 & 3 & 2 \end{bmatrix} \qquad N = \begin{bmatrix} 120 & 150 \\ 200 & 260 \\ 40 & 35 \end{bmatrix}\] The rows of \(N\) are adults, children and concessions; the columns are Saturday and Sunday.
+
+**e.i.** State the order of the matrix \(PN\). *(1 mark)*
+
+**e.ii.** Find \(PN\) and explain what its elements represent. *(2 marks)*
+
+At the fair, each hour 80% of visitors in the food area stay there and 20% move to the games area, while 30% of visitors in the games area move to the food area and 70% stay. Initially there are 100 visitors in each area. \[T = \begin{bmatrix} 0.8 & 0.3 \\ 0.2 & 0.7 \end{bmatrix} \qquad S_0 = \begin{bmatrix} 100 \\ 100 \end{bmatrix}\] where the first row and column refer to the food area, and \(S_{n+1} = TS_n\).
+
+**f.** Find the number of visitors in each area after one hour. *(1 mark)*
+
+**g.** In the long term, how many of the 200 visitors are in the food area? *(1 mark)*
