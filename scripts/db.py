@@ -334,12 +334,18 @@ def validate(con, qids=None):
             errs.append(f"subject {sid}: no exam-relevance wording")
         for (sid,) in q("SELECT subject_id FROM relevance_wording WHERE free IS NOT NULL AND subject_id NOT IN (%s)" % ",".join(f"'{m}'" for m in MATHS)):
             errs.append(f"subject {sid}: only maths courses have technology-free wording")
-        for slug, u, a, b in q("""SELECT t.name, a.unit, sj.unit_from, sj.unit_to FROM topic t JOIN area_of_study a ON a.id = t.area_of_study_id
+        # areas of study: a subtopic's own area, or else its topic's (view subtopic_area)
+        for slug, u, a, b in q("""SELECT s.slug, a.unit, sj.unit_from, sj.unit_to FROM subtopic s JOIN subtopic_area sa ON sa.subtopic_id = s.id
+                                  JOIN area_of_study a ON a.id = sa.area_of_study_id JOIN topic t ON t.id = s.topic_id
                                   JOIN study_design d ON d.id = t.study_design_id JOIN subject sj ON sj.id = d.subject_id
                                   WHERE a.unit IS NOT NULL AND (sj.unit_from IS NULL OR a.unit NOT BETWEEN sj.unit_from AND sj.unit_to)"""):
-            errs.append(f"topic {slug}: its area of study is in Unit {u}, outside the subject's units")
-        for (name,) in q("SELECT t.name FROM topic t JOIN area_of_study a ON a.id = t.area_of_study_id WHERE a.study_design_id <> t.study_design_id"):
-            errs.append(f"topic {name}: area of study from another study design")
+            errs.append(f"subtopic {slug}: its area of study is in Unit {u}, outside the subject's units")
+        for (name,) in q("""SELECT s.slug FROM subtopic s JOIN subtopic_area sa ON sa.subtopic_id = s.id JOIN area_of_study a ON a.id = sa.area_of_study_id
+                            JOIN topic t ON t.id = s.topic_id WHERE a.study_design_id <> t.study_design_id"""):
+            errs.append(f"subtopic {name}: area of study from another study design")
+        for (slug,) in q("""SELECT s.slug FROM subtopic s JOIN subtopic_area sa ON sa.subtopic_id = s.id JOIN topic t ON t.id = s.topic_id
+                            JOIN study_design d ON d.id = t.study_design_id WHERE s.kind = 'syllabus' AND d.status = 'current' AND sa.area_of_study_id IS NULL"""):
+            errs.append(f"subtopic {slug}: no area of study")
         for (slug,) in q("""SELECT s.slug FROM subtopic s JOIN topic t ON t.id = s.topic_id JOIN study_design d ON d.id = t.study_design_id
                             WHERE s.kind = 'syllabus' AND d.status <> 'retired' AND s.exam_weight IS NULL"""):
             errs.append(f"subtopic {slug}: no exam-relevance weight")

@@ -71,6 +71,7 @@ CREATE TABLE subtopic (
   exam_weight    INTEGER CHECK (exam_weight BETWEEN 1 AND 3),  -- exam relevance: 3 high, 2 medium, 1 low
   prior_knowledge TEXT NOT NULL DEFAULT '',           -- knowledge needed from outside the site
   format_note    TEXT,                                -- replaces the subject's format wording (English essays, Chinese tasks)
+  area_of_study_id INTEGER REFERENCES area_of_study(id),  -- set when this subtopic's area differs from its topic's
   UNIQUE (topic_id, position),
   CHECK (kind = 'collection' OR exam_weight IS NOT NULL)
 );
@@ -275,8 +276,8 @@ SELECT q.id, q.subject_id, sj.name AS subject_name, sj.label AS subject_label, s
        pt.subtopic_id AS primary_subtopic_id, ps.slug AS primary_slug, ps.name AS primary_name, ps.exam_weight AS primary_weight,
        pt.study_design_id,
        (SELECT group_concat(type_code, ',') FROM (SELECT type_code FROM question_question_type WHERE question_id = q.id ORDER BY position)) AS types,
-       (SELECT count(DISTINCT t.area_of_study_id) FROM question_topic x JOIN subtopic s ON s.id = x.subtopic_id JOIN topic t ON t.id = s.topic_id
-         WHERE x.question_id = q.id) AS area_count,
+       (SELECT count(DISTINCT coalesce(s.area_of_study_id, t.area_of_study_id)) FROM question_topic x JOIN subtopic s ON s.id = x.subtopic_id
+         JOIN topic t ON t.id = s.topic_id WHERE x.question_id = q.id) AS area_count,
        (SELECT count(*) FROM question_topic x WHERE x.question_id = q.id) AS topic_count,
        (SELECT count(*) FROM rubric_criterion r WHERE r.question_id = q.id AND r.needs_review = 1) AS rubric_to_review
 FROM question q
@@ -287,6 +288,11 @@ LEFT JOIN subtopic ps ON ps.id = pt.subtopic_id;
 
 -- Questions whose subtopics span more than one area of study.
 CREATE VIEW integrated_question AS
-SELECT x.question_id, count(DISTINCT t.area_of_study_id) AS areas
+SELECT x.question_id, count(DISTINCT coalesce(s.area_of_study_id, t.area_of_study_id)) AS areas
 FROM question_topic x JOIN subtopic s ON s.id = x.subtopic_id JOIN topic t ON t.id = s.topic_id
-GROUP BY x.question_id HAVING count(DISTINCT t.area_of_study_id) > 1;
+GROUP BY x.question_id HAVING count(DISTINCT coalesce(s.area_of_study_id, t.area_of_study_id)) > 1;
+
+-- The area of study each subtopic belongs to (its own, or else its topic's).
+CREATE VIEW subtopic_area AS
+SELECT s.id AS subtopic_id, coalesce(s.area_of_study_id, t.area_of_study_id) AS area_of_study_id
+FROM subtopic s JOIN topic t ON t.id = s.topic_id;
