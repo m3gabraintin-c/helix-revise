@@ -1,11 +1,11 @@
 # Questions
 
-These files are generated from index.html's DATA; question and answer text is verbatim.
+These files are generated from index.html's DATA; question and answer text is verbatim. Maths is written in LaTeX between \( \) or \[ \], which the website typesets.
 
 - [Biology](Biology/questions.md) — 1171 questions ([answers](Biology/answers.md))
 - [Chemistry](Chemistry/questions.md) — 1823 questions ([answers](Chemistry/answers.md))
 - [General-Mathematics](General-Mathematics/questions.md) — 800 questions ([answers](General-Mathematics/answers.md))
-- [Mathematical-Methods](Mathematical-Methods/questions.md) — 1694 questions ([answers](Mathematical-Methods/answers.md))
+- [Mathematical-Methods](Mathematical-Methods/questions.md) — 1699 questions (5 multi-part) ([answers](Mathematical-Methods/answers.md))
 - [Physics](Physics/questions.md) — 1267 questions ([answers](Physics/answers.md))
 - [Psychology](Psychology/questions.md) — 1148 questions ([answers](Psychology/answers.md))
 - [Specialist-Mathematics](Specialist-Mathematics/questions.md) — 800 questions ([answers](Specialist-Mathematics/answers.md))

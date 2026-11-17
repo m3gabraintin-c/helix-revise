@@ -14,6 +14,15 @@ Topic-by-topic practice quizzes for:
 
 Each subject is split into topics and subtopics. You can quiz one subtopic at a time or use **Build a quiz** to mix several. Progress is stored only in your browser (`localStorage`). Nothing is sent to a server.
 
+Question types:
+
+- **Multiple choice**, marked instantly, with an explanation.
+- **Written**, where you compare your answer with a model answer and its explanation, then mark yourself.
+- **Multi-part** (SAC-style, inside a subtopic quiz): a short context followed by parts a, b, c… Each part has a model answer, a worked solution whose steps show the marks they earn, and a common mistake. You give yourself the marks you earned for each part.
+- **Exam-style** (its own section, `#exam`): long multi-part questions where one context runs through several topics, shown whole on one page. The results show which subtopics lost marks.
+
+Scores are counted in marks: multiple-choice and written questions are worth 1 mark each, multi-part questions the sum of their parts.
+
 ## Question files
 
 `questions/` holds every question as Markdown, one folder per subject (`questions.md` + `answers.md`). It is generated from the `DATA` block in `index.html`, so after editing questions there, regenerate and check it:
@@ -24,13 +33,15 @@ python3 scripts/build_questions.py && python3 scripts/verify.py
 
 ## Running it
 
-No build step and no dependencies. Open `index.html` in a browser, or serve the folder:
+No build step. Open `index.html` in a browser, or serve the folder:
 
 ```bash
 python3 -m http.server 8000
 ```
 
 Then visit http://localhost:8000. Web fonts load from Google Fonts. Without a connection the page falls back to system fonts.
+
+The one third-party script is [KaTeX](https://katex.org/) 0.19.1 (MIT licence), which typesets maths. It loads from the jsDelivr CDN at a pinned version with subresource integrity hashes; to upgrade, change the version and the three `integrity` values together. Without a connection the quizzes still work, but maths shows as raw LaTeX.
 
 ## Hosting
 
@@ -43,6 +54,24 @@ The site targets WCAG 2.1 AA: semantic headings, a skip link, full keyboard use 
 ## Contributing
 
 Corrections and new questions are welcome as [issues](https://github.com/m3gabraintin-c/helix-revise/issues) or pull requests. Edit questions in the `DATA` block of `index.html`, then regenerate `questions/` with the command above.
+
+`DATA.Q` maps each subtopic slug to its questions. Multiple-choice and written questions are positional arrays (see the comment above the data mapping in `index.html`). Multi-part questions are objects with named fields, and they also make up `DATA.X`, the exam-style questions keyed by subject id:
+
+```json
+{"id": "methods-6-3-m1", "type": "multi", "title": "Area between a parabola and a line",
+ "source": "Original SAC-style question", "tech": "free",
+ "pieces": [
+  {"kind": "info", "text": "The graphs of \\(f(x) = 4x - x^2\\) and \\(g(x) = x\\) intersect at two points."},
+  {"kind": "part", "label": "a", "question": "Find the coordinates of the two points of intersection.", "marks": 1,
+   "answer": "\\((0, 0)\\) and \\((3, 3)\\)",
+   "steps": [{"working": "Solve \\(4x - x^2 = x\\) ...", "marks": 0}, {"working": "The points are ...", "marks": 1}],
+   "mistake": "Dividing both sides by \\(x\\), which loses the solution \\(x = 0\\).", "topic": "methods-6-3"}]}
+```
+
+- `tech` is `"free"` (technology-free) or `"active"` (CAS allowed). Info pieces can also carry a `table` (`{"rows": [[...], ...]}`, first cell of each row is its heading) or a `diagram` (`{"svg": "<svg aria-hidden=\"true\" ...>", "alt": "text alternative"}`), and can sit between parts.
+- A part's step marks must add up to its `marks`; the question's total is the sum of its parts. `topic` is the subtopic slug that the part tests, which is how results show where marks were lost.
+- Write maths in LaTeX between `\( \)` (inline) or `\[ \]` (display). `$` is not a maths delimiter, because many questions use it for money. In the JSON every LaTeX backslash must be doubled (`\\frac`, not `\frac`, which JSON reads as a form feed); `scripts/verify.py` reports any string holding a control character.
+- Source labels must not claim a question is a VCAA question. Write original questions; past papers and textbooks may only guide the style.
 
 ## Licence
 
