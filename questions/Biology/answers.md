@@ -908,7 +908,7 @@ Explanation:
 
 Explanation: Moving a substance against its gradient requires energy. Simple diffusion could only move glucose down its gradient.
 
-### Unit 1 AOS 2: Cell division and systems
+### Unit 1 AOS 1–2: Cell division and systems
 
 #### Binary fission
 
@@ -1969,7 +1969,7 @@ Explanation:
 
 Explanation: Specific receptors (on the membrane or inside the cell) determine which cells respond.
 
-### Unit 1 AOS 3: Homeostasis
+### Unit 1 AOS 2: Homeostasis
 
 #### Stimulus-response model and negative feedback
 

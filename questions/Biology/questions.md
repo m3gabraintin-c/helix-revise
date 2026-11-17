@@ -1455,7 +1455,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Continue unchanged
 - D. Reverse by osmosis
 
-### Unit 1 AOS 2: Cell division and systems
+### Unit 1 AOS 1–2: Cell division and systems
 
 #### Binary fission
 
@@ -3148,7 +3148,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Only cells near the gland receive it
 - D. Other cells are too small
 
-### Unit 1 AOS 3: Homeostasis
+### Unit 1 AOS 2: Homeostasis
 
 #### Stimulus-response model and negative feedback
 
