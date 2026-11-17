@@ -306,6 +306,16 @@ details.elmore[open] summary { margin-bottom: 8px; }
 .elfields label { display: flex; flex-direction: column; gap: 6px; font-size: 0.875rem; font-weight: 600; }
 .elfields .subj-sel, .elfields textarea { font-weight: 400; width: 100%; }
 .elfields textarea.ans { min-height: 72px; }
+/* Phones: with four links (Error log added) the nav cannot share a row with the logo, even with the wordmark hidden.
+   Give the brand its own row (wordmark back), put the links on the row below, and drop About (it is in the footer). */
+@media (max-width: 420px) {
+  header.site .wrap { flex-wrap: wrap; row-gap: 2px; }
+  .brand span { position: static; width: auto; height: auto; overflow: visible; clip: auto; }
+  nav.top { width: 100%; justify-content: space-between; }
+  nav.top a[href="#about"] { display: none; }
+}
+/* The sticky header is about 103px tall (one row on desktop, two on phones), so keep jumped-to and focused content below it. */
+html { scroll-padding-top: calc(120px + env(safe-area-inset-top, 0px)); }
 /* Display headings: heavy, soft, tight tracking. */
 .page-h1, .section-h, .topic-title b, .result .big, fieldset.pick .all, .subj b, .prose h2 { letter-spacing: -.02em; }
 .subj .call { color: var(--muted); }
@@ -588,7 +598,7 @@ const DATA = {"S":[["methods","Mathematical Methods","VCE Â· Units 3 & 4","VCE Â
       <div class="pbody"><p class="pq">${esc(p.question)} <span class="pmarks">${marksTxt(p.marks)}</span></p>
         <label class="sr" for="w-${id}">Your working for part ${esc(p.label)}</label>
         <textarea class="ans" id="w-${id}" data-w="${p.n}" placeholder="Your working (optional)">${esc(s.draft)}</textarea>
-        <div class="slot" data-slot="${p.n}">${s.open ? solHtml(q, p, s) : `<button class="btn btn-ghost" data-open="${p.n}">Show solution for part ${esc(p.label)}</button>`}</div></div></section>`; };
+        <div class="slot" data-slot="${p.n}">${s.open ? solHtml(q, p, s) : `<button class="btn btn-ghost" data-open="${p.n}">Show solution<span class="sr-only"> for part ${esc(p.label)}</span></button>`}</div></div></section>`; };
   // Render q's pieces into host and wire them up. hl is the heading level for parts. onChange runs after every reveal or mark.
   function mountMulti(host, q, st, hl, onChange) {
     host.innerHTML = q.pieces.map(p => p.kind === "part" ? partHtml(q, p, st.parts[p.n], hl) : infoHtml(p)).join("");
