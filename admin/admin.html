@@ -201,7 +201,7 @@ function subtopicsTab() {
     <p class="small muted" style="max-width:48rem">Exam relevance, prerequisites and prior knowledge for each subtopic of the current study design. Prerequisites may come from this course or an earlier one, never a later unit; saving is refused if it would create a cycle.</p></div>
     <div style="display:grid;gap:12px;margin-top:12px">${subs.map(x => `<form class="panel" data-id="${x.id}"><h2>${esc(subName(x))} <span class="small muted">${esc(x.slug)}</span></h2>
       <div class="grid2"><label>Exam relevance<select name="exam_weight">${[[3, "High"], [2, "Medium"], [1, "Low"]].map(([v, t]) => opt(v, t, v === x.exam_weight)).join("")}</select></label>
-        <label>Area of study (whole topic)<select name="area_id">${opt("", "Not set")}${areas.map(a => opt(a.id, `${a.code ? a.code + ": " : ""}${a.name}`, a.id === x.area_id)).join("")}</select></label>
+        <label>Area of study<select name="area_id">${opt("", "Not set")}${areas.map(a => opt(a.id, `${a.code ? a.code + ": " : ""}${a.name}`, a.id === x.area_id)).join("")}</select></label>
         <label>Prior knowledge<input name="prior_knowledge" value="${esc(x.prior_knowledge)}"></label>
         <label>Format note (optional)<input name="format_note" value="${esc(x.format_note || "")}"></label></div>
       <label>Prerequisite subtopics (Ctrl/Cmd-click to choose several)<select name="prerequisites" multiple size="5">${META.subjects.filter(s => pool.some(p => p.subject === s.id)).map(s => `<optgroup label="${esc(s.name + " " + s.label.split(" · ").slice(1).join(" · "))}">${pool.filter(p => p.subject === s.id && p.id !== x.id).map(p => opt(p.id, subName(p), x.prerequisites.includes(p.id))).join("")}</optgroup>`).join("")}</select></label>

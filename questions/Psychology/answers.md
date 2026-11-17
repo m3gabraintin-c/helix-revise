@@ -4,7 +4,7 @@ Questions: [questions.md](questions.md). Answer numbers match question numbers.
 
 ## VCE Units 1 & 2
 
-### Unit 1 AOS 1: How does the brain function?
+### Unit 1 AOS 2: How does the brain function?
 
 #### Approaches to understanding the brain
 
@@ -814,7 +814,7 @@ Explanation:
 
 Explanation: Low dopamine disrupts the circuits that control smooth voluntary movement. Bursts of abnormal electrical activity describe epilepsy.
 
-### Unit 1 AOS 2: What influences psychological development?
+### Unit 1 AOS 1: What influences psychological development?
 
 #### Nature, nurture and the biopsychosocial approach
 
@@ -5725,7 +5725,7 @@ Explanation:
 
 Explanation: These knowledge systems are multimodal and relational; frameworks such as 8 Ways highlight story sharing, land links, and non-verbal and community links.
 
-### Unit 3 AOS 3: Memory
+### Unit 3 AOS 2: Memory
 
 #### Atkinson-Shiffrin multi-store model
 

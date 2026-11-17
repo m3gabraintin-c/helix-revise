@@ -34,7 +34,7 @@ def meta():
         s["designs"] = rows("SELECT id, version, title, accredited_from, accredited_to, status, source_url, notes FROM study_design WHERE subject_id=? ORDER BY id", s["id"])
         s["allowed"] = [r["type_code"] for r in rows("SELECT type_code FROM subject_question_type WHERE subject_id=?", s["id"])]
     subtopics = rows("""SELECT s.id, s.slug, s.name, s.kind, s.exam_weight, s.prior_knowledge, s.format_note, t.number AS topic_number, t.name AS topic_name,
-                               t.id AS topic_id, t.area_of_study_id AS area_id, d.id AS design_id, d.subject_id AS subject, d.status AS design_status
+                               t.id AS topic_id, coalesce(s.area_of_study_id, t.area_of_study_id) AS area_id, t.area_of_study_id AS topic_area_id, d.id AS design_id, d.subject_id AS subject, d.status AS design_status
                         FROM subtopic s JOIN topic t ON t.id = s.topic_id JOIN study_design d ON d.id = t.study_design_id ORDER BY d.subject_id, t.number, s.position""")
     pre = {}
     for r in rows("SELECT subtopic_id, prerequisite_id FROM subtopic_prerequisite ORDER BY subtopic_id, position"): pre.setdefault(r["subtopic_id"], []).append(r["prerequisite_id"])
@@ -52,13 +52,13 @@ def search(p):
     if g("subject"): add("o.subject_id = ?", g("subject"))
     if g("unit"):
         u = int(g("unit")); add("""o.unit_from <= ? AND o.unit_to >= ? AND NOT EXISTS (SELECT 1 FROM subtopic s JOIN topic t ON t.id = s.topic_id
-               JOIN area_of_study a ON a.id = t.area_of_study_id WHERE s.id = o.primary_subtopic_id AND a.unit IS NOT NULL AND a.unit <> ?)""", u, u, u)
+               JOIN area_of_study a ON a.id = coalesce(s.area_of_study_id, t.area_of_study_id) WHERE s.id = o.primary_subtopic_id AND a.unit IS NOT NULL AND a.unit <> ?)""", u, u, u)
     if g("design"): add("EXISTS (SELECT 1 FROM question_topic x WHERE x.question_id = o.id AND x.study_design_id = ?)", int(g("design")))
     if g("subtopic"):
         if g("tagged") == "any": add("EXISTS (SELECT 1 FROM question_topic x WHERE x.question_id = o.id AND x.subtopic_id = ?)", int(g("subtopic")))
         else: add("o.primary_subtopic_id = ?", int(g("subtopic")))
     if g("area"): add("""EXISTS (SELECT 1 FROM question_topic x JOIN subtopic s ON s.id = x.subtopic_id JOIN topic t ON t.id = s.topic_id
-                         WHERE x.question_id = o.id AND t.area_of_study_id = ?)""", int(g("area")))
+                         WHERE x.question_id = o.id AND coalesce(s.area_of_study_id, t.area_of_study_id) = ?)""", int(g("area")))
     if g("prerequisite"): add("EXISTS (SELECT 1 FROM subtopic_prerequisite sp WHERE sp.subtopic_id = o.primary_subtopic_id AND sp.prerequisite_id = ?)", int(g("prerequisite")))
     if g("type"): add("EXISTS (SELECT 1 FROM question_question_type y WHERE y.question_id = o.id AND y.type_code = ?)", g("type"))
     if g("format"): add("o.format = ?", g("format"))
@@ -165,7 +165,9 @@ def save_subtopic(sid, body):
             CON.execute("DELETE FROM subtopic_prerequisite WHERE subtopic_id=?", (sid,))
             for k, p in enumerate(body["prerequisites"]): CON.execute("INSERT INTO subtopic_prerequisite VALUES(?,?,?)", (sid, int(p), k))
         if "area_id" in body:
-            CON.execute("UPDATE topic SET area_of_study_id=? WHERE id=(SELECT topic_id FROM subtopic WHERE id=?)", (body["area_id"] or None, sid))
+            # stored on the subtopic only when it differs from its topic's area
+            CON.execute("""UPDATE subtopic SET area_of_study_id = CASE WHEN ? IS (SELECT t.area_of_study_id FROM topic t WHERE t.id = subtopic.topic_id) THEN NULL ELSE ? END
+                           WHERE id=?""", (body["area_id"] or None, body["area_id"] or None, sid))
     return guarded(change)
 
 def save_design(did, body):

@@ -4,7 +4,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 ## VCE Units 1 & 2
 
-### Unit 1 AOS 1: How does the brain function?
+### Unit 1 AOS 2: How does the brain function?
 
 #### Approaches to understanding the brain
 
@@ -1283,7 +1283,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Damage to Broca's area
 - D. Sudden bursts of electrical activity in the cortex
 
-### Unit 1 AOS 2: What influences psychological development?
+### Unit 1 AOS 1: What influences psychological development?
 
 #### Nature, nurture and the biopsychosocial approach
 
@@ -8771,7 +8771,7 @@ Forty Year 11 students were randomly allocated to two groups. Group 1 saw an amb
 - C. Country is relevant only to geography lessons, as a source of facts about landforms
 - D. Country acts as a teacher: knowledge is learned through relationships with land, kin and community
 
-### Unit 3 AOS 3: Memory
+### Unit 3 AOS 2: Memory
 
 #### Atkinson-Shiffrin multi-store model
 
