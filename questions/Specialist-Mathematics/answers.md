@@ -4201,3 +4201,108 @@ Topic: Linear combinations of random variables (specialist-8-1)
 Common mistake: Using the standard deviation 4 instead of the standard error \(\frac{4}{\sqrt{36}}\). The test is about the sample mean, which varies less than single deliveries do.
 
 Topic: Hypothesis testing, p-values and errors (specialist-8-4)
+
+**A803.** Complex numbers, induction and vectors
+<!-- id: specialist-x3 -->
+*Multi-part question · 10 marks*
+
+**a.** \(z = 2\,\text{cis}\left(\frac{\pi}{3}\right)\) *(1 mark)*
+
+1. \(|z| = \sqrt{1 + 3} = 2\) and \(\text{Arg}(z) = \tan^{-1}\sqrt{3} = \frac{\pi}{3}\), so \(z = 2\,\text{cis}\left(\frac{\pi}{3}\right)\). *(1 mark)*
+
+Common mistake: Giving the argument as \(\frac{\pi}{6}\). \(\tan\theta = \frac{\sqrt{3}}{1}\) gives \(\frac{\pi}{3}\).
+
+Topic: Cartesian and polar forms (specialist-2-1)
+
+**b.** \(z^6 = 64\) *(2 marks)*
+
+1. \(z^6 = 2^6\,\text{cis}\left(6 \times \frac{\pi}{3}\right) = 64\,\text{cis}(2\pi)\). *(1 mark)*
+2. \(\text{cis}(2\pi) = 1\), so \(z^6 = 64\). *(1 mark)*
+
+Common mistake: Multiplying the modulus by 6 instead of raising it to the power 6.
+
+Topic: De Moivre's theorem and roots (specialist-2-2)
+
+**c.** \(w = 2\), \(w = -1 + \sqrt{3}\,i\), \(w = -1 - \sqrt{3}\,i\) *(2 marks)*
+
+1. \(8 = 8\,\text{cis}(2k\pi)\), so \(w = 2\,\text{cis}\left(\frac{2k\pi}{3}\right)\) for \(k = 0, \pm 1\). *(1 mark)*
+2. \(w = 2\), \(2\,\text{cis}\left(\pm\frac{2\pi}{3}\right) = -1 \pm \sqrt{3}\,i\). *(1 mark)*
+
+Common mistake: Giving only the real root \(w = 2\). A cubic has three roots in \(\mathbb{C}\), equally spaced around a circle.
+
+Topic: De Moivre's theorem and roots (specialist-2-2)
+
+**d.** The statement holds for \(n = 1\), and if it holds for \(n = k\) it holds for \(n = k + 1\), so by induction it holds for all \(n \in \mathbb{N}\). *(3 marks)*
+
+1. Base case: when \(n = 1\), the left side is 1 and the right side is \(1^2 = 1\), so the statement is true. *(1 mark)*
+2. Inductive step: assume \(1 + 3 + \dots + (2k - 1) = k^2\). Then \(1 + 3 + \dots + (2k - 1) + (2k + 1) = k^2 + 2k + 1 = (k + 1)^2\). *(1 mark)*
+3. Conclusion: the statement is true for \(n = 1\), and true for \(n = k + 1\) whenever it is true for \(n = k\), so it is true for all \(n \in \mathbb{N}\). *(1 mark)*
+
+Common mistake: Leaving out the conclusion, or assuming what you need to prove for \(k + 1\). Show the \(k + 1\) case from the \(k\) case.
+
+Topic: Mathematical induction (specialist-1-4)
+
+**e.** \(\cos\theta = \frac{4}{9}\) *(2 marks)*
+
+1. \(\mathbf{a} \cdot \mathbf{b} = 2 - 2 + 4 = 4\), and \(|\mathbf{a}| = |\mathbf{b}| = 3\). *(1 mark)*
+2. \(\cos\theta = \dfrac{\mathbf{a} \cdot \mathbf{b}}{|\mathbf{a}||\mathbf{b}|} = \dfrac{4}{9}\). *(1 mark)*
+
+Common mistake: Forgetting to divide by the magnitudes, which gives 4 (not a valid cosine).
+
+Topic: Vector algebra and scalar product (specialist-7-1)
+
+**A804.** A crate, a particle and a sample of crates
+<!-- id: specialist-x4 -->
+*Multi-part question · 10 marks*
+
+**a.** 146 N *(2 marks)*
+
+1. Resolve vertically: \(N + 100\sin 30^\circ = 20 \times 9.8\). *(1 mark)*
+2. \(N = 196 - 50 = 146\) N. *(1 mark)*
+
+Common mistake: Taking \(N = mg = 196\) N. The rope's upward component reduces the normal force.
+
+Topic: Friction, inclined planes and equilibrium (specialist-6-3)
+
+**b.** 2.14 m/s² *(2 marks)*
+
+1. Net horizontal force: \(100\cos 30^\circ - 0.3 \times 146 \approx 86.60 - 43.80 = 42.80\) N. *(1 mark)*
+2. \(a = \dfrac{42.80}{20} \approx 2.14\) m/s². *(1 mark)*
+
+Common mistake: Using friction \(0.3 \times 196\) N instead of \(0.3 \times 146\) N.
+
+Topic: Newton's laws and connected particles (specialist-6-2)
+
+**c.** 3.61 m/s *(2 marks)*
+
+1. \(\dot{\mathbf{r}}(t) = 3\,\mathbf{i} + (4 - 2t)\,\mathbf{j}\), so \(\dot{\mathbf{r}}(1) = 3\,\mathbf{i} + 2\,\mathbf{j}\). *(1 mark)*
+2. Speed \(= \sqrt{3^2 + 2^2} = \sqrt{13} \approx 3.61\) m/s. *(1 mark)*
+
+Common mistake: Giving the velocity vector as the answer. Speed is the magnitude of the velocity.
+
+Topic: Vector calculus and particle motion (specialist-7-4)
+
+**d.** \(t = 2\) *(1 mark)*
+
+1. The motion is parallel to the \(x\)-axis when the \(\mathbf{j}\)-component of velocity is zero: \(4 - 2t = 0\), so \(t = 2\). *(1 mark)*
+
+Common mistake: Setting the \(\mathbf{j}\)-component of position to zero. Direction of motion depends on velocity.
+
+Topic: Vector calculus and particle motion (specialist-7-4)
+
+**e.** \((20.03, 20.77)\) *(2 marks)*
+
+1. \(\bar{x} \pm 1.96\dfrac{\sigma}{\sqrt{n}} = 20.4 \pm 1.96 \times \dfrac{1.2}{\sqrt{40}} \approx 20.4 \pm 0.372\). *(1 mark)*
+2. The interval is approximately \((20.03, 20.77)\) kg. *(1 mark)*
+
+Common mistake: Using \(\sigma = 1.2\) without dividing by \(\sqrt{40}\). The interval is for the mean, so use the standard error.
+
+Topic: Confidence intervals for the mean (specialist-8-3)
+
+**f.** No: 20 kg is not inside the interval, which suggests the true mean is greater than 20 kg. *(1 mark)*
+
+1. The claimed mean, 20 kg, lies outside \((20.03, 20.77)\), so the sample suggests the mean mass is more than 20 kg. *(1 mark)*
+
+Common mistake: Saying the claim is proven false. A confidence interval gives evidence, not certainty.
+
+Topic: Confidence intervals for the mean (specialist-8-3)

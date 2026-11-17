@@ -4995,714 +4995,826 @@ Common mistake: Saying the burette should be rinsed with water. That leaves wate
 
 Topic: Volumetric analysis and titration (vce-chem12-volumetric-analysis-and-titration)
 
+**A964.** Hydrocarbons and plastics
+<!-- id: vce-chem12-x3 -->
+*Multi-part question · 10 marks*
+
+**a.** It has a carbon–carbon double bond, which can open to form single bonds to other monomers. *(1 mark)*
+
+1. Ethene is unsaturated: its C=C double bond can break open so that monomers join in a chain. *(1 mark)*
+
+Common mistake: Saying it is because ethene is small. The key feature is the double bond.
+
+Topic: Hydrocarbons and IUPAC naming (vce-chem12-hydrocarbons-and-iupac-naming)
+
+**b.** Addition polymerisation; the repeating unit is –CH₂–CH₂–. *(2 marks)*
+
+1. Addition polymerisation (no small molecule is lost). *(1 mark)*
+2. Repeating unit: –CH₂–CH₂–. *(1 mark)*
+
+Common mistake: Calling it condensation polymerisation. No water or other small molecule is produced.
+
+Topic: Addition polymers (vce-chem12-addition-polymers)
+
+**c.** Thermoplastics have no cross-links; their chains are held by intermolecular forces, so they soften and can be remoulded. Thermosets have covalent cross-links, so they do not soften and char instead. *(2 marks)*
+
+1. Thermoplastic: chains held together only by weak intermolecular forces, so they soften and melt when heated and can be reshaped and recycled. *(1 mark)*
+2. Thermoset: chains joined by strong covalent cross-links, so they do not melt when heated (they decompose instead). *(1 mark)*
+
+Common mistake: Saying thermosets have stronger intermolecular forces. The difference is covalent cross-linking.
+
+Topic: Thermoplastics, thermosets and the circular economy (vce-chem12-thermoplastics-thermosets-and-the-circular-economy)
+
+**d.** CH₂ *(2 marks)*
+
+1. In 100 g: n(C) = 85.7 ÷ 12.0 = 7.14 mol; n(H) = 14.3 ÷ 1.0 = 14.3 mol. *(1 mark)*
+2. Ratio C : H = 7.14 : 14.3 = 1 : 2, so the empirical formula is CH₂. *(1 mark)*
+
+Common mistake: Using the percentages as the mole ratio without dividing by molar mass.
+
+Topic: Percentage composition and empirical formulas (vce-chem12-percentage-composition-and-empirical-formulas)
+
+**e.** C₄H₈; for example but-1-ene *(2 marks)*
+
+1. M(CH₂) = 14.0, and 56.0 ÷ 14.0 = 4, so the molecular formula is C₄H₈. *(1 mark)*
+2. A possible isomer: but-1-ene (but-2-ene or methylpropene are also correct). *(1 mark)*
+
+Common mistake: Naming butane. Butane is C₄H₁₀; C₄H₈ has a double bond (or a ring).
+
+Topic: Hydrocarbons and IUPAC naming (vce-chem12-hydrocarbons-and-iupac-naming)
+
+**f.** For example, designing products to be reused or recycled so that plastic stays in use instead of going to landfill. *(1 mark)*
+
+1. Keeping materials in use: design for reuse and recycling, collect and reprocess plastics, or use renewable feedstocks. *(1 mark)*
+
+Common mistake: Describing burning plastic for energy. A circular economy aims to keep materials in use.
+
+Topic: Thermoplastics, thermosets and the circular economy (vce-chem12-thermoplastics-thermosets-and-the-circular-economy)
+
+**A965.** Sulfate in fertiliser and a displacement reaction
+<!-- id: vce-chem12-x4 -->
+*Multi-part question · 10 marks*
+
+**a.** Ba²⁺(aq) + SO₄²⁻(aq) → BaSO₄(s) *(1 mark)*
+
+1. Ba²⁺(aq) + SO₄²⁻(aq) → BaSO₄(s). *(1 mark)*
+
+Common mistake: Including spectator ions such as Cl⁻ in an ionic equation.
+
+Topic: Solubility and precipitation reactions (vce-chem12-solubility-and-precipitation-reactions)
+
+**b.** 30.6% *(3 marks)*
+
+1. n(BaSO₄) = 1.86 ÷ 233.4 = 7.97 × 10⁻³ mol, which equals n(SO₄²⁻). *(1 mark)*
+2. m(SO₄²⁻) = 7.97 × 10⁻³ × 96.1 = 0.766 g. *(1 mark)*
+3. % sulfate = 0.766 ÷ 2.50 × 100% = 30.6%. *(1 mark)*
+
+Common mistake: Dividing the mass of precipitate by the mass of fertiliser (1.86 ÷ 2.50). The precipitate is BaSO₄, not sulfate alone.
+
+Topic: Gravimetric analysis (vce-chem12-gravimetric-analysis)
+
+**c.** Washing removes soluble impurities that would add mass; drying to constant mass makes sure all the water has gone, so the mass is BaSO₄ only. *(2 marks)*
+
+1. Washing removes soluble ions (impurities) from the surface of the precipitate. *(1 mark)*
+2. Heating until the mass no longer changes ensures all water has been removed. *(1 mark)*
+
+Common mistake: Saying it is dried only once. Without reaching constant mass you cannot be sure all the water is gone.
+
+Topic: Gravimetric analysis (vce-chem12-gravimetric-analysis)
+
+**d.** Zn(s) + Cu²⁺(aq) → Zn²⁺(aq) + Cu(s); a brown/pink solid forms on the zinc and the blue colour fades. *(2 marks)*
+
+1. Zn(s) + Cu²⁺(aq) → Zn²⁺(aq) + Cu(s). *(1 mark)*
+2. Observations: brown copper deposits on the zinc, and the blue solution becomes paler. *(1 mark)*
+
+Common mistake: Writing Cu(s) + Zn²⁺(aq) as the reactants. The more reactive metal, zinc, displaces copper.
+
+Topic: Reactivity series and metal displacement (vce-chem12-reactivity-series-and-metal-displacement)
+
+**e.** Copper is less reactive than zinc (a weaker reductant), so it cannot reduce Zn²⁺ ions. *(1 mark)*
+
+1. Copper is below zinc in the reactivity series, so it cannot give electrons to Zn²⁺. *(1 mark)*
+
+Common mistake: Saying copper is too heavy. Reactivity, not mass, decides displacement.
+
+Topic: Reactivity series and metal displacement (vce-chem12-reactivity-series-and-metal-displacement)
+
+**f.** 0.635 g *(1 mark)*
+
+1. n(Zn) = 0.654 ÷ 65.4 = 0.0100 mol = n(Cu); m(Cu) = 0.0100 × 63.5 = 0.635 g. *(1 mark)*
+
+Common mistake: Assuming the same mass of copper forms. Use moles: 1 mol Zn gives 1 mol Cu.
+
+Topic: Stoichiometry and limiting reactants (vce-chem12-stoichiometry-and-limiting-reactants)
+
 ## VCE Units 3 & 4
 
 ### Fuels & thermochemistry
 
 #### Fossil fuels and biofuels
 
-**A964.** A. Biogas produced by anaerobic digestion of food waste
+**A966.** A. Biogas produced by anaerobic digestion of food waste
 <!-- id: chem-1-1-1 -->
 
 Explanation: Biogas comes from biomass that can be replaced within a human lifetime; the others are fossil fuels formed over millions of years.
 
-**A965.** B. C₆H₁₂O₆(aq) → 2C₂H₅OH(aq) + 2CO₂(g)
+**A967.** B. C₆H₁₂O₆(aq) → 2C₂H₅OH(aq) + 2CO₂(g)
 <!-- id: chem-1-1-2 -->
 
 Explanation: Anaerobic fermentation converts glucose into ethanol and carbon dioxide; the second equation is cellular respiration and the others are unbalanced.
 
-**A966.** C. reacting a triglyceride with methanol in the presence of a strong base catalyst
+**A968.** C. reacting a triglyceride with methanol in the presence of a strong base catalyst
 <!-- id: chem-1-1-3 -->
 
 Explanation: Transesterification of plant oils or animal fats with methanol, catalysed by KOH or NaOH, produces fatty acid methyl esters (biodiesel).
 
-**A967.** Fossil fuels are burnt to power farm machinery, make fertilisers, transport the crop and heat the distillation process, so the total CO₂ released exceeds the CO₂ absorbed by the crop during photosynthesis.
+**A969.** Fossil fuels are burnt to power farm machinery, make fertilisers, transport the crop and heat the distillation process, so the total CO₂ released exceeds the CO₂ absorbed by the crop during photosynthesis.
 <!-- id: chem-1-1-4 -->
 
 Explanation: Award marks for identifying at least one fossil-fuel energy input in the production chain and linking it to net CO₂ emissions.
 
-**A968.** D. Glycerol
+**A970.** D. Glycerol
 <!-- id: chem-1-1-5 -->
 
 Explanation: Each triglyceride releases its glycerol backbone (propane-1,2,3-triol) as the fatty acid chains are converted into methyl esters.
 
-**A969.** A. methane
+**A971.** A. methane
 <!-- id: chem-1-1-6 -->
 
 Explanation: Biogas is typically 50–70% methane, with most of the remainder being carbon dioxide.
 
-**A970.** B. are generally larger and contain polar ester groups, giving stronger intermolecular forces
+**A972.** B. are generally larger and contain polar ester groups, giving stronger intermolecular forces
 <!-- id: chem-1-1-7 -->
 
 Explanation: Long-chain fatty acid methyl esters have strong dispersion forces plus dipole–dipole attractions from the ester group; esters have no O–H so cannot hydrogen bond to each other.
 
-**A971.** Fatty acid methyl esters (biodiesel) and glycerol; the methyl esters are the biodiesel fuel.
+**A973.** Fatty acid methyl esters (biodiesel) and glycerol; the methyl esters are the biodiesel fuel.
 <!-- id: chem-1-1-8 -->
 
 Explanation: Glycerol is a by-product; both products must be named.
 
-**A972.** C. the oxygen atoms in its ester groups can form hydrogen bonds with water molecules
+**A974.** C. the oxygen atoms in its ester groups can form hydrogen bonds with water molecules
 <!-- id: chem-1-1-9 -->
 
 Explanation: The lone pairs on ester oxygen atoms accept hydrogen bonds from water, making biodiesel hygroscopic; petrodiesel alkanes cannot do this.
 
-**A973.** D. the CO₂ released when it burns is approximately equal to the CO₂ absorbed by the crop during photosynthesis
+**A975.** D. the CO₂ released when it burns is approximately equal to the CO₂ absorbed by the crop during photosynthesis
 <!-- id: chem-1-1-10 -->
 
 Explanation: In the idealised model, CO₂ taken up by photosynthesis balances the CO₂ released in fermentation and combustion.
 
-**A974.** A. It formed from plant material compressed and heated over millions of years
+**A976.** A. It formed from plant material compressed and heated over millions of years
 <!-- id: chem-1-1-11 -->
 
 Explanation: Coal is a fossil fuel formed from ancient plant matter under heat and pressure over geological time, so it is non-renewable.
 
-**A975.** Biodiesel contains ester functional groups whose oxygen atoms can accept hydrogen bonds from water molecules, so it attracts and absorbs water. Petrodiesel consists of non-polar hydrocarbons that cannot hydrogen bond with water.
+**A977.** Biodiesel contains ester functional groups whose oxygen atoms can accept hydrogen bonds from water molecules, so it attracts and absorbs water. Petrodiesel consists of non-polar hydrocarbons that cannot hydrogen bond with water.
 <!-- id: chem-1-1-12 -->
 
 Explanation: Link the ester oxygen atoms to hydrogen bonding with water; mention that alkanes cannot.
 
-**A976.** B. Liquefied petroleum gas (LPG)
+**A978.** B. Liquefied petroleum gas (LPG)
 <!-- id: chem-1-1-13 -->
 
 Explanation: LPG (mainly propane and butane) is obtained from natural gas processing and crude oil refining, both fossil sources.
 
-**A977.** C. Wheat straw left after harvest
+**A979.** C. Wheat straw left after harvest
 <!-- id: chem-1-1-14 -->
 
 Explanation: Crop residues like straw are lignocellulosic waste not used as human food, so using them avoids the food-versus-fuel conflict.
 
-**A978.** D. a lower energy content per gram
+**A980.** D. a lower energy content per gram
 <!-- id: chem-1-1-15 -->
 
 Explanation: Biodiesel molecules are already partly oxidised (they contain oxygen), so they release less energy per gram (about 37–38 kJ g⁻¹ compared with about 45 kJ g⁻¹).
 
-**A979.** Advantage: ethanol is renewable and can lower net greenhouse emissions (it also burns more cleanly). Disadvantage: ethanol releases less energy per gram than petrol, so fuel consumption increases (or it absorbs water, or crops compete with food).
+**A981.** Advantage: ethanol is renewable and can lower net greenhouse emissions (it also burns more cleanly). Disadvantage: ethanol releases less energy per gram than petrol, so fuel consumption increases (or it absorbs water, or crops compete with food).
 <!-- id: chem-1-1-16 -->
 
 Explanation: Any valid advantage and any valid disadvantage, each clearly explained.
 
-**A980.** A. they form over millions of years, far more slowly than they are consumed
+**A982.** A. they form over millions of years, far more slowly than they are consumed
 <!-- id: chem-1-1-17 -->
 
 Explanation: Renewability depends on the rate of replenishment; crude oil cannot be replaced within a human timescale.
 
-**A981.** B. Yeast, anaerobic conditions, about 30–40 °C
+**A983.** B. Yeast, anaerobic conditions, about 30–40 °C
 <!-- id: chem-1-1-18 -->
 
 Explanation: Yeast enzymes ferment sugars in the absence of oxygen; temperatures that are too high denature the enzymes.
 
-**A982.** C. fractional distillation
+**A984.** C. fractional distillation
 <!-- id: chem-1-1-19 -->
 
 Explanation: Ethanol (b.p. 78 °C) and water (b.p. 100 °C) are miscible liquids with different boiling points, so they are separated by fractional distillation.
 
-**A983.** A renewable fuel can be replaced by natural processes within a relatively short (human) timescale, e.g. biogas from a Gippsland dairy farm. A non-renewable fuel is used faster than it can be replaced, taking millions of years to form, e.g. Latrobe Valley brown coal.
+**A985.** A renewable fuel can be replaced by natural processes within a relatively short (human) timescale, e.g. biogas from a Gippsland dairy farm. A non-renewable fuel is used faster than it can be replaced, taking millions of years to form, e.g. Latrobe Valley brown coal.
 <!-- id: chem-1-1-20 -->
 
 Explanation: The key idea is the rate of replenishment compared with the rate of use.
 
-**A984.** D. It contains a significant proportion of carbon dioxide, which lowers its energy content per kilogram compared with pure methane
+**A986.** D. It contains a significant proportion of carbon dioxide, which lowers its energy content per kilogram compared with pure methane
 <!-- id: chem-1-1-21 -->
 
 Explanation: Non-combustible CO₂ makes up much of biogas, diluting the methane and reducing the energy released per kilogram of gas.
 
-**A985.** A. 3
+**A987.** A. 3
 <!-- id: chem-1-1-22 -->
 
 Explanation: Each of the three ester linkages reacts with one methanol molecule, forming three methyl ester molecules and one glycerol molecule.
 
-**A986.** B. hydrocarbons such as long-chain alkanes
+**A988.** B. hydrocarbons such as long-chain alkanes
 <!-- id: chem-1-1-23 -->
 
 Explanation: Petrodiesel is a crude oil fraction made up largely of alkanes of about C₁₄–C₂₀; fatty acid methyl esters are biodiesel.
 
-**A987.** The gas is biogas, mainly methane, produced by anaerobic bacteria digesting manure. The manure is continuously replaced by the cows' feed, which is regrown each season, so the fuel source is replenished within a short timescale.
+**A989.** The gas is biogas, mainly methane, produced by anaerobic bacteria digesting manure. The manure is continuously replaced by the cows' feed, which is regrown each season, so the fuel source is replenished within a short timescale.
 <!-- id: chem-1-1-24 -->
 
 Explanation: Must identify biomass origin and rapid replenishment.
 
-**A988.** Ethanol has a polar O–H group that forms hydrogen bonds with water molecules, so it is miscible. Octane is non-polar and has only dispersion forces, which cannot compete with the hydrogen bonding between water molecules, so it does not dissolve.
+**A990.** Ethanol has a polar O–H group that forms hydrogen bonds with water molecules, so it is miscible. Octane is non-polar and has only dispersion forces, which cannot compete with the hydrogen bonding between water molecules, so it does not dissolve.
 <!-- id: chem-1-1-25 -->
 
 Explanation: Refer to hydrogen bonding for ethanol and dispersion forces only for octane.
 
-**A989.** C. The plant material used to make bioethanol can be regrown on a human timescale, whereas petrol comes from crude oil formed over millions of years.
+**A991.** C. The plant material used to make bioethanol can be regrown on a human timescale, whereas petrol comes from crude oil formed over millions of years.
 <!-- id: chem34a1-ffb-1 -->
 
 Explanation: A renewable resource is replenished at a rate comparable to its use; crops regrow within a season or a few years. Bioethanol still releases CO₂ when it burns, and its energy content per gram (about 29.6 kJ g⁻¹) is lower than that of petrol.
 
-**A990.** B. transesterification.
+**A992.** B. transesterification.
 <!-- id: chem34a1-ffb-2 -->
 
 Explanation: Triglycerides react with methanol to form fatty acid methyl esters (biodiesel) and glycerol; swapping the alcohol part of an ester is transesterification. Fermentation produces ethanol and anaerobic digestion produces biogas.
 
-**A991.** A. methane.
+**A993.** A. methane.
 <!-- id: chem34a1-ffb-3 -->
 
 Explanation: Anaerobic digestion of organic waste produces biogas, which is mostly methane (with CO₂). Ethanol comes from yeast fermentation of sugars, not from digestion of manure.
 
-**A992.** B. contain ester groups that add dipole–dipole attractions between molecules.
+**A994.** B. contain ester groups that add dipole–dipole attractions between molecules.
 <!-- id: chem34a1-ffb-4 -->
 
 Explanation: The ester functional group is polar, so biodiesel molecules experience dipole–dipole attractions in addition to dispersion forces, which raises viscosity and cloud point. Esters have no O–H group, so they cannot hydrogen bond with each other.
 
-**A993.** D. Bioethanol absorbs water from the air, which can cause corrosion and phase separation in fuel tanks.
+**A995.** D. Bioethanol absorbs water from the air, which can cause corrosion and phase separation in fuel tanks.
 <!-- id: chem34a1-ffb-5 -->
 
 Explanation: Ethanol is hygroscopic because its hydroxyl group hydrogen bonds with water, which can lead to corrosion and separation in blends. Ethanol actually burns more cleanly than petrol and is commonly blended with it as E10.
 
-**A994.** C₆H₁₂O₆(aq) → 2C₂H₅OH(aq) + 2CO₂(g); the reaction is catalysed by enzymes in yeast (anaerobic conditions).
+**A996.** C₆H₁₂O₆(aq) → 2C₂H₅OH(aq) + 2CO₂(g); the reaction is catalysed by enzymes in yeast (anaerobic conditions).
 <!-- id: chem34a1-ffb-6 -->
 
 Explanation:
 
-**A995.** The CO₂ released when a biofuel burns was absorbed from the atmosphere by the plants during photosynthesis, so in theory there is no net increase in atmospheric CO₂; however, fossil fuels are used in farming, fertiliser production, harvesting, transport and processing (e.g. distillation), so there is a net release of CO₂; land clearing for crops can also release CO₂.
+**A997.** The CO₂ released when a biofuel burns was absorbed from the atmosphere by the plants during photosynthesis, so in theory there is no net increase in atmospheric CO₂; however, fossil fuels are used in farming, fertiliser production, harvesting, transport and processing (e.g. distillation), so there is a net release of CO₂; land clearing for crops can also release CO₂.
 <!-- id: chem34a1-ffb-7 -->
 
 Explanation:
 
-**A996.** They formed from the remains of ancient plants and marine organisms buried and subjected to heat and pressure over millions of years; they are used far faster than they are formed, so supplies cannot be replenished on a human timescale.
+**A998.** They formed from the remains of ancient plants and marine organisms buried and subjected to heat and pressure over millions of years; they are used far faster than they are formed, so supplies cannot be replenished on a human timescale.
 <!-- id: chem34a1-ffb-8 -->
 
 Explanation:
 
 #### Combustion and thermochemical equations
 
-**A997.** A. CH₄(g) + 2O₂(g) → CO₂(g) + 2H₂O(l)
+**A999.** A. CH₄(g) + 2O₂(g) → CO₂(g) + 2H₂O(l)
 <!-- id: chem-1-2-1 -->
 
 Explanation: Complete combustion in excess oxygen produces only carbon dioxide and water; the other equations show incomplete combustion or impossible products.
 
-**A998.** B. 25
+**A1000.** B. 25
 <!-- id: chem-1-2-2 -->
 
 Explanation: Oxygen atoms on the right: 16 × 2 + 18 × 1 = 50, so 25 O₂ molecules are needed.
 
-**A999.** C. carbon monoxide, soot and water
+**A1001.** C. carbon monoxide, soot and water
 <!-- id: chem-1-2-3 -->
 
 Explanation: With limited oxygen, carbon is only partly oxidised, forming CO and/or elemental carbon (soot) along with water.
 
-**A1000.** C₂H₅OH(l) + 3O₂(g) → 2CO₂(g) + 3H₂O(l)   ΔH = −1364 kJ mol⁻¹
+**A1002.** C₂H₅OH(l) + 3O₂(g) → 2CO₂(g) + 3H₂O(l)   ΔH = −1364 kJ mol⁻¹
 <!-- id: chem-1-2-4 -->
 
 Explanation: Check balancing (O: 1 + 6 = 4 + 3), states, the negative sign and units.
 
-**A1001.** D. binds strongly to haemoglobin, reducing oxygen transport in the blood
+**A1003.** D. binds strongly to haemoglobin, reducing oxygen transport in the blood
 <!-- id: chem-1-2-5 -->
 
 Explanation: CO binds to haemoglobin far more strongly than O₂, starving tissues of oxygen; it is also colourless and odourless.
 
-**A1002.** A. −1780 kJ mol⁻¹
+**A1004.** A. −1780 kJ mol⁻¹
 <!-- id: chem-1-2-6 -->
 
 Explanation: Doubling all coefficients doubles the enthalpy change: 2 × (−890) = −1780 kJ mol⁻¹.
 
-**A1003.** B. +890 kJ mol⁻¹
+**A1005.** B. +890 kJ mol⁻¹
 <!-- id: chem-1-2-7 -->
 
 Explanation: Reversing a reaction reverses the sign of ΔH but keeps the magnitude.
 
-**A1004.** 2H₂(g) + O₂(g) → 2H₂O(l)   ΔH = −572 kJ mol⁻¹
+**A1006.** 2H₂(g) + O₂(g) → 2H₂O(l)   ΔH = −572 kJ mol⁻¹
 <!-- id: chem-1-2-8 -->
 
 Explanation: ΔH must be doubled to match the 2 mol of H₂ in the equation.
 
-**A1005.** C. The products have lower enthalpy than the reactants and ΔH is negative
+**A1007.** C. The products have lower enthalpy than the reactants and ΔH is negative
 <!-- id: chem-1-2-9 -->
 
 Explanation: Energy is released to the surroundings, so H(products) < H(reactants) and ΔH = H(products) − H(reactants) < 0.
 
-**A1006.** D. Photosynthesis
+**A1008.** D. Photosynthesis
 <!-- id: chem-1-2-10 -->
 
 Explanation: Photosynthesis absorbs light energy to build glucose from CO₂ and water; the others release energy.
 
-**A1007.** A. 2C₄H₁₀(g) + 13O₂(g) → 8CO₂(g) + 10H₂O(l)   ΔH = −5752 kJ mol⁻¹
+**A1009.** A. 2C₄H₁₀(g) + 13O₂(g) → 8CO₂(g) + 10H₂O(l)   ΔH = −5752 kJ mol⁻¹
 <!-- id: chem-1-2-11 -->
 
 Explanation: The equation shows 2 mol of butane, so ΔH = 2 × (−2876) = −5752 kJ mol⁻¹; combustion is exothermic.
 
-**A1008.** ΔH = H(products) − H(reactants). In an exothermic reaction energy is released to the surroundings, so the products have less enthalpy than the reactants and ΔH is negative.
+**A1010.** ΔH = H(products) − H(reactants). In an exothermic reaction energy is released to the surroundings, so the products have less enthalpy than the reactants and ΔH is negative.
 <!-- id: chem-1-2-12 -->
 
 Explanation: Refer to the definition of ΔH and energy released to the surroundings.
 
-**A1009.** B. greater than the activation energy of the forward reaction
+**A1011.** B. greater than the activation energy of the forward reaction
 <!-- id: chem-1-2-13 -->
 
 Explanation: Ea(reverse) = Ea(forward) + |ΔH|, so for an exothermic reaction the reverse barrier is larger.
 
-**A1010.** C. 200 kJ mol⁻¹
+**A1012.** C. 200 kJ mol⁻¹
 <!-- id: chem-1-2-14 -->
 
 Explanation: Ea(reverse) = Ea(forward) − ΔH = 120 − (−80) = 200 kJ mol⁻¹.
 
-**A1011.** D. 20 kJ mol⁻¹
+**A1013.** D. 20 kJ mol⁻¹
 <!-- id: chem-1-2-15 -->
 
 Explanation: Ea(reverse) = Ea(forward) − ΔH = 50 − 30 = 20 kJ mol⁻¹.
 
-**A1012.** ΔH = +4440 kJ mol⁻¹
+**A1014.** ΔH = +4440 kJ mol⁻¹
 <!-- id: chem-1-2-16 -->
 
 Explanation: The reaction is reversed (sign changes) and doubled: −(2 × −2220) = +4440 kJ mol⁻¹.
 
-**A1013.** A. condensing water vapour to liquid releases additional energy
+**A1015.** A. condensing water vapour to liquid releases additional energy
 <!-- id: chem-1-2-17 -->
 
 Explanation: H₂O(g) → H₂O(l) is exothermic, so forming liquid water releases extra energy, making ΔH more negative.
 
-**A1014.** B. The energy absorbed breaking bonds in the reactants is less than the energy released forming bonds in the products
+**A1016.** B. The energy absorbed breaking bonds in the reactants is less than the energy released forming bonds in the products
 <!-- id: chem-1-2-18 -->
 
 Explanation: Bond breaking is endothermic and bond forming is exothermic; combustion is exothermic overall because more energy is released than absorbed.
 
-**A1015.** C. 10 mol
+**A1017.** C. 10 mol
 <!-- id: chem-1-2-19 -->
 
 Explanation: The mole ratio O₂ : C₃H₈ is 5 : 1, so 2.0 × 5 = 10 mol of O₂.
 
-**A1016.** With limited oxygen, incomplete combustion occurs. Products include carbon monoxide, carbon (soot) and water, along with less carbon dioxide; less energy is released per mole of fuel.
+**A1018.** With limited oxygen, incomplete combustion occurs. Products include carbon monoxide, carbon (soot) and water, along with less carbon dioxide; less energy is released per mole of fuel.
 <!-- id: chem-1-2-20 -->
 
 Explanation: Must name incomplete combustion and CO and/or soot as products.
 
-**A1017.** D. 132 g
+**A1019.** D. 132 g
 <!-- id: chem-1-2-21 -->
 
 Explanation: 1 mol C₃H₈ produces 3 mol CO₂; 3 × 44.0 = 132 g.
 
-**A1018.** A. 49.6 L
+**A1020.** A. 49.6 L
 <!-- id: chem-1-2-22 -->
 
 Explanation: 0.500 mol C₄H₁₀ produces 4 × 0.500 = 2.00 mol CO₂; 2.00 × 24.8 = 49.6 L.
 
-**A1019.** B. 2CH₄(g) + 3O₂(g) → 2CO(g) + 4H₂O(l)
+**A1021.** B. 2CH₄(g) + 3O₂(g) → 2CO(g) + 4H₂O(l)
 <!-- id: chem-1-2-23 -->
 
 Explanation: Checking atoms: 2 C, 8 H and 6 O on each side; each of the other equations has unequal numbers of oxygen atoms.
 
-**A1020.** ΔH = −890 + 2(+44) = −802 kJ mol⁻¹
+**A1022.** ΔH = −890 + 2(+44) = −802 kJ mol⁻¹
 <!-- id: chem-1-2-24 -->
 
 Explanation: Two moles of water must be vaporised, absorbing 88 kJ, so less energy is released overall.
 
-**A1021.** C₅H₁₂(l) + 8O₂(g) → 5CO₂(g) + 6H₂O(l); the mole ratio CO₂ : C₅H₁₂ is 5 : 1.
+**A1023.** C₅H₁₂(l) + 8O₂(g) → 5CO₂(g) + 6H₂O(l); the mole ratio CO₂ : C₅H₁₂ is 5 : 1.
 <!-- id: chem-1-2-25 -->
 
 Explanation: Check: O atoms on the right = 10 + 6 = 16 = 8 O₂.
 
-**A1022.** A. C₃H₈(g) + 5O₂(g) → 3CO₂(g) + 4H₂O(l)  ΔH = −2220 kJ mol⁻¹
+**A1024.** A. C₃H₈(g) + 5O₂(g) → 3CO₂(g) + 4H₂O(l)  ΔH = −2220 kJ mol⁻¹
 <!-- id: chem34a1-cte-1 -->
 
 Explanation: Complete combustion forms CO₂ and, at SLC, liquid water; combustion is exothermic so ΔH is negative. Doubling the coefficients would require ΔH to double to −4440 kJ mol⁻¹.
 
-**A1023.** C. −5464 kJ
+**A1025.** C. −5464 kJ
 <!-- id: chem34a1-cte-2 -->
 
 Explanation: The ΔH value applies to the mole amounts in the equation as written (2 mol octane), so 1 mol releases half: −10 928 ÷ 2 = −5464 kJ.
 
-**A1024.** B. releases less energy per mole of methane and can produce carbon monoxide and soot.
+**A1026.** B. releases less energy per mole of methane and can produce carbon monoxide and soot.
 <!-- id: chem34a1-cte-3 -->
 
 Explanation: In incomplete combustion carbon is only partially oxidised to CO or C, so less energy is released per mole of fuel, and toxic CO and soot are produced.
 
-**A1025.** D. +572 kJ mol⁻¹
+**A1027.** D. +572 kJ mol⁻¹
 <!-- id: chem34a1-cte-4 -->
 
 Explanation: Reversing the equation changes the sign (+286) and doubling the coefficients doubles the value: +572 kJ mol⁻¹.
 
-**A1026.** A. C₂H₅OH(l) + 2O₂(g) → 2CO(g) + 3H₂O(l)
+**A1028.** A. C₂H₅OH(l) + 2O₂(g) → 2CO(g) + 3H₂O(l)
 <!-- id: chem34a1-cte-5 -->
 
 Explanation: Products contain 2 + 3 = 5 O atoms; ethanol supplies 1, so 4 O atoms (2 O₂) are needed. Option D is not balanced for oxygen (7 O atoms on the right).
 
-**A1027.** 2C₄H₁₀(g) + 13O₂(g) → 8CO₂(g) + 10H₂O(l) ΔH = −5748 kJ mol⁻¹ (or C₄H₁₀(g) + 13/2 O₂(g) → 4CO₂(g) + 5H₂O(l) ΔH = −2874 kJ mol⁻¹); correct formulas, balancing and states; ΔH sign and value consistent with the coefficients.
+**A1029.** 2C₄H₁₀(g) + 13O₂(g) → 8CO₂(g) + 10H₂O(l) ΔH = −5748 kJ mol⁻¹ (or C₄H₁₀(g) + 13/2 O₂(g) → 4CO₂(g) + 5H₂O(l) ΔH = −2874 kJ mol⁻¹); correct formulas, balancing and states; ΔH sign and value consistent with the coefficients.
 <!-- id: chem34a1-cte-6 -->
 
 Explanation:
 
-**A1028.** n(CH₃OH) = 80.0 ÷ 32.0 = 2.50 mol; energy = 2.50 × 726 = 1815 kJ ≈ 1.82 × 10³ kJ released.
+**A1030.** n(CH₃OH) = 80.0 ÷ 32.0 = 2.50 mol; energy = 2.50 × 726 = 1815 kJ ≈ 1.82 × 10³ kJ released.
 <!-- id: chem34a1-cte-7 -->
 
 Explanation:
 
-**A1029.** At SLC (25 °C, 100 kPa) water is a liquid, so the standard value refers to liquid water; if water were formed as a gas, less energy would be released because energy is absorbed when water vaporises, so |ΔH| would be smaller (less negative).
+**A1031.** At SLC (25 °C, 100 kPa) water is a liquid, so the standard value refers to liquid water; if water were formed as a gas, less energy would be released because energy is absorbed when water vaporises, so |ΔH| would be smaller (less negative).
 <!-- id: chem34a1-cte-8 -->
 
 Explanation:
 
 #### Enthalpy and fuel energy calculations
 
-**A1030.** A. 1780 kJ
+**A1032.** A. 1780 kJ
 <!-- id: chem-1-3-1 -->
 
 Explanation: n = 32.0 / 16.0 = 2.00 mol; energy = 2.00 × 890 = 1780 kJ.
 
-**A1031.** B. 29.7 kJ g⁻¹
+**A1033.** B. 29.7 kJ g⁻¹
 <!-- id: chem-1-3-2 -->
 
 Explanation: 1364 / 46.0 = 29.7 kJ g⁻¹.
 
-**A1032.** C. 47.9 MJ
+**A1034.** C. 47.9 MJ
 <!-- id: chem-1-3-3 -->
 
 Explanation: n = 1000 / 114.0 = 8.77 mol; energy = 8.77 × 5464 = 4.79 × 10⁴ kJ = 47.9 MJ.
 
-**A1033.** 2220 / 44.0 = 50.5 kJ g⁻¹
+**A1035.** 2220 / 44.0 = 50.5 kJ g⁻¹
 <!-- id: chem-1-3-4 -->
 
 Explanation: Divide molar enthalpy by molar mass; give 3 significant figures.
 
-**A1034.** D. 40.0 g
+**A1036.** D. 40.0 g
 <!-- id: chem-1-3-5 -->
 
 Explanation: n = 2225 / 890 = 2.50 mol; m = 2.50 × 16.0 = 40.0 g.
 
-**A1035.** A. 12.4 L
+**A1037.** A. 12.4 L
 <!-- id: chem-1-3-6 -->
 
 Explanation: n = 445 / 890 = 0.500 mol; V = 0.500 × 24.8 = 12.4 L.
 
-**A1036.** B. 895 kJ
+**A1038.** B. 895 kJ
 <!-- id: chem-1-3-7 -->
 
 Explanation: n = 10.0 / 24.8 = 0.403 mol; energy = 0.403 × 2220 = 895 kJ (991 kJ would result from wrongly using 22.4 L mol⁻¹).
 
-**A1037.** n(C₂H₅OH) = 1000 / 1364 = 0.733 mol; n(CO₂) = 2 × 0.733 = 1.47 mol; m = 1.47 × 44.0 = 64.5 g
+**A1039.** n(C₂H₅OH) = 1000 / 1364 = 0.733 mol; n(CO₂) = 2 × 0.733 = 1.47 mol; m = 1.47 × 44.0 = 64.5 g
 <!-- id: chem-1-3-8 -->
 
 Explanation: Remember the 2 : 1 mole ratio of CO₂ to ethanol.
 
-**A1038.** C. Hydrogen
+**A1040.** C. Hydrogen
 <!-- id: chem-1-3-9 -->
 
 Explanation: Per gram: H₂ 286/2.0 = 143; CH₄ 890/16.0 = 55.6; C₂H₅OH 1364/46.0 = 29.7; C₈H₁₈ 5464/114.0 = 47.9 kJ g⁻¹.
 
-**A1039.** D. Methane
+**A1041.** D. Methane
 <!-- id: chem-1-3-10 -->
 
 Explanation: Energy per mol CO₂: CH₄ 890/1 = 890; C₃H₈ 2220/3 = 740; C₂H₅OH 1364/2 = 682; C₈H₁₈ 5464/8 = 683 kJ.
 
-**A1040.** A. 148 kJ
+**A1042.** A. 148 kJ
 <!-- id: chem-1-3-11 -->
 
 Explanation: n = 5.00 / 46.0 = 0.109 mol; energy = 0.109 × 1364 = 148 kJ.
 
-**A1041.** n = 10 000 / 890 = 11.2 mol; V = 11.2 × 24.8 = 279 L
+**A1043.** n = 10 000 / 890 = 11.2 mol; V = 11.2 × 24.8 = 279 L
 <!-- id: chem-1-3-12 -->
 
 Explanation: Convert MJ to kJ first: 10.0 MJ = 10 000 kJ.
 
-**A1042.** B. −2.88 × 10³ kJ mol⁻¹
+**A1044.** B. −2.88 × 10³ kJ mol⁻¹
 <!-- id: chem-1-3-13 -->
 
 Explanation: 49.6 kJ g⁻¹ × 58.0 g mol⁻¹ = 2877 kJ mol⁻¹, released, so ΔH = −2.88 × 10³ kJ mol⁻¹.
 
-**A1043.** C. 1.51 × 10⁶ kJ
+**A1045.** C. 1.51 × 10⁶ kJ
 <!-- id: chem-1-3-14 -->
 
 Explanation: m = 45 000 mL × 0.700 = 31 500 g; n = 31 500 / 114.0 = 276 mol; energy = 276 × 5464 = 1.51 × 10⁶ kJ.
 
-**A1044.** D. 197 kJ
+**A1046.** D. 197 kJ
 <!-- id: chem-1-3-15 -->
 
 Explanation: n = 6.0 / 12.0 = 0.50 mol; energy = 0.50 × 394 = 197 kJ.
 
-**A1045.** n = 9000 / 44.0 = 205 mol; energy = 205 × 2220 = 4.5 × 10⁵ kJ = 4.5 × 10² MJ (about 454 MJ)
+**A1047.** n = 9000 / 44.0 = 205 mol; energy = 205 × 2220 = 4.5 × 10⁵ kJ = 4.5 × 10² MJ (about 454 MJ)
 <!-- id: chem-1-3-16 -->
 
 Explanation: Convert kg to g and kJ to MJ; 2 significant figures matches the 9.0 kg data.
 
-**A1046.** A. 3.28 × 10⁷ kJ
+**A1048.** A. 3.28 × 10⁷ kJ
 <!-- id: chem-1-3-17 -->
 
 Explanation: 1.00 tonne = 1.00 × 10⁶ g; n = 10⁶ / 12.0 = 8.33 × 10⁴ mol; energy = 8.33 × 10⁴ × 394 = 3.28 × 10⁷ kJ.
 
-**A1047.** B. 49.4 g
+**A1049.** B. 49.4 g
 <!-- id: chem-1-3-18 -->
 
 Explanation: n(CH₄) = 1000 / 890 = 1.12 mol, giving 1.12 mol CO₂; m = 1.12 × 44.0 = 49.4 g.
 
-**A1048.** C. 1.37 × 10³ kJ
+**A1050.** C. 1.37 × 10³ kJ
 <!-- id: chem-1-3-19 -->
 
 Explanation: Energy = 0.250 × 5464 = 1366 kJ ≈ 1.37 × 10³ kJ.
 
-**A1049.** Energy from 1.00 g octane = (1.00 / 114.0) × 5464 = 47.9 kJ; ethanol releases 1364 / 46.0 = 29.7 kJ g⁻¹, so mass = 47.9 / 29.7 = 1.62 g
+**A1051.** Energy from 1.00 g octane = (1.00 / 114.0) × 5464 = 47.9 kJ; ethanol releases 1364 / 46.0 = 29.7 kJ g⁻¹, so mass = 47.9 / 29.7 = 1.62 g
 <!-- id: chem-1-3-20 -->
 
 Explanation: Shows why E10 vehicles use slightly more fuel per kilometre.
 
-**A1050.** D. −5464 kJ mol⁻¹
+**A1052.** D. −5464 kJ mol⁻¹
 <!-- id: chem-1-3-21 -->
 
 Explanation: ΔH in the equation is for 2 mol of octane, so per mole it is −10 928 / 2 = −5464 kJ mol⁻¹.
 
-**A1051.** A. 2.15 × 10³ kJ
+**A1053.** A. 2.15 × 10³ kJ
 <!-- id: chem-1-3-22 -->
 
 Explanation: V(CH₄) = 60.0 L; n = 60.0 / 24.8 = 2.42 mol; energy = 2.42 × 890 = 2.15 × 10³ kJ (CO₂ does not burn).
 
-**A1052.** B. 2.00 kg
+**A1054.** B. 2.00 kg
 <!-- id: chem-1-3-23 -->
 
 Explanation: n = 2.86 × 10⁵ / 286 = 1000 mol; m = 1000 × 2.0 = 2000 g = 2.00 kg.
 
-**A1053.** n = 1000 / 286 = 3.50 mol; m = 3.50 × 2.0 = 6.99 g (about 7.0 g)
+**A1055.** n = 1000 / 286 = 3.50 mol; m = 3.50 × 2.0 = 6.99 g (about 7.0 g)
 <!-- id: chem-1-3-24 -->
 
 Explanation: Use M(H₂) = 2.0 g mol⁻¹, not 1.0.
 
-**A1054.** Vehicles carry fuel by mass (and volume), so the energy per gram tells how much energy is available for a given mass of fuel carried. Molar values ignore that molecules of different fuels have very different masses.
+**A1056.** Vehicles carry fuel by mass (and volume), so the energy per gram tells how much energy is available for a given mass of fuel carried. Molar values ignore that molecules of different fuels have very different masses.
 <!-- id: chem-1-3-25 -->
 
 Explanation: Link to the practical limitation of fuel mass and storage in vehicles.
 
-**A1055.** B. the products are at a lower enthalpy than the reactants and ΔH is negative.
+**A1057.** B. the products are at a lower enthalpy than the reactants and ΔH is negative.
 <!-- id: chem34a1-eep-1 -->
 
 Explanation: An exothermic reaction releases energy to the surroundings, so the products have lower enthalpy and ΔH < 0. All reactions, including exothermic ones, have an activation energy.
 
-**A1056.** A. 180 kJ mol⁻¹ and +90 kJ mol⁻¹
+**A1058.** A. 180 kJ mol⁻¹ and +90 kJ mol⁻¹
 <!-- id: chem34a1-eep-2 -->
 
 Explanation: Ea = 230 − 50 = 180 kJ mol⁻¹; ΔH = H(products) − H(reactants) = 140 − 50 = +90 kJ mol⁻¹, so the reaction is endothermic.
 
-**A1057.** C. 90 kJ mol⁻¹
+**A1059.** C. 90 kJ mol⁻¹
 <!-- id: chem34a1-eep-3 -->
 
 Explanation: The reverse reaction starts from the products: Ea(reverse) = 230 − 140 = 90 kJ mol⁻¹.
 
-**A1058.** D. The process is endothermic; the system absorbs energy from the surroundings, so ΔH is positive.
+**A1060.** D. The process is endothermic; the system absorbs energy from the surroundings, so ΔH is positive.
 <!-- id: chem34a1-eep-4 -->
 
 Explanation: The temperature of the surroundings (the water and your hand) falls because the dissolving process absorbs energy, so it is endothermic with ΔH > 0.
 
-**A1059.** B. endothermic and exothermic.
+**A1061.** B. endothermic and exothermic.
 <!-- id: chem34a1-eep-5 -->
 
 Explanation: Energy must be absorbed to break bonds (endothermic) and is released when new bonds form (exothermic). An overall reaction is exothermic when more energy is released forming bonds than absorbed breaking them.
 
-**A1060.** Axes: enthalpy (vertical) against reaction progress (horizontal); reactants CH₄(g) + 2O₂(g) on a higher level, products CO₂(g) + 2H₂O(l) 890 kJ mol⁻¹ lower, with a hump between labelled transition state; Ea arrow from reactants to top of hump (250 kJ mol⁻¹) and ΔH arrow from reactants down to products; Ea(reverse) = 250 + 890 = 1140 kJ mol⁻¹.
+**A1062.** Axes: enthalpy (vertical) against reaction progress (horizontal); reactants CH₄(g) + 2O₂(g) on a higher level, products CO₂(g) + 2H₂O(l) 890 kJ mol⁻¹ lower, with a hump between labelled transition state; Ea arrow from reactants to top of hump (250 kJ mol⁻¹) and ΔH arrow from reactants down to products; Ea(reverse) = 250 + 890 = 1140 kJ mol⁻¹.
 <!-- id: chem34a1-eep-6 -->
 
 Explanation:
 
-**A1061.** The reaction has a high activation energy, so at room temperature very few collisions between CH₄ and O₂ have enough energy to break the reactant bonds; a spark or flame provides enough energy to overcome Ea, after which the energy released sustains the reaction.
+**A1063.** The reaction has a high activation energy, so at room temperature very few collisions between CH₄ and O₂ have enough energy to break the reactant bonds; a spark or flame provides enough energy to overcome Ea, after which the energy released sustains the reaction.
 <!-- id: chem34a1-eep-7 -->
 
 Explanation:
 
-**A1062.** Energy absorbed breaking bonds = 2(436) + 498 = 1370 kJ; energy released forming bonds = 4 × 463 = 1852 kJ; ΔH = 1370 − 1852 = −482 kJ mol⁻¹ (exothermic).
+**A1064.** Energy absorbed breaking bonds = 2(436) + 498 = 1370 kJ; energy released forming bonds = 4 × 463 = 1852 kJ; ΔH = 1370 − 1852 = −482 kJ mol⁻¹ (exothermic).
 <!-- id: chem34a1-eep-8 -->
 
 Explanation:
 
-**A1063.** B. 16.9 L
+**A1065.** B. 16.9 L
 <!-- id: chem34a1-gse-1 -->
 
 Explanation: n(C₃H₈) = 10.0 ÷ 44.0 = 0.227 mol; C₃H₈ : CO₂ = 1 : 3, so n(CO₂) = 0.682 mol; V = 0.682 × 24.8 = 16.9 L.
 
-**A1064.** D. 1.79 × 10³ kJ
+**A1066.** D. 1.79 × 10³ kJ
 <!-- id: chem34a1-gse-2 -->
 
 Explanation: n(CH₄) = 50.0 ÷ 24.8 = 2.02 mol; energy = 2.02 × 890 = 1.79 × 10³ kJ.
 
-**A1065.** A. 0.117 mol
+**A1067.** A. 0.117 mol
 <!-- id: chem34a1-gse-3 -->
 
 Explanation: n = PV ÷ RT = (150 × 2.00) ÷ (8.31 × 308) = 0.117 mol. Temperature must be in kelvin (35 + 273 = 308 K); using 35 gives 1.03 mol.
 
-**A1066.** C. 21.7 L
+**A1068.** C. 21.7 L
 <!-- id: chem34a1-gse-4 -->
 
 Explanation: For gases at the same temperature and pressure, volume ratios equal mole ratios: V(O₂) = 6.20 × 7/2 = 21.7 L.
 
-**A1067.** C. 1.62 kg
+**A1069.** C. 1.62 kg
 <!-- id: chem34a1-gse-5 -->
 
 Explanation: Energy from octane = 1000 × 47.9 = 47 900 kJ; mass of ethanol = 47 900 ÷ 29.6 = 1618 g ≈ 1.62 kg.
 
-**A1068.** n(C₃H₈) = 450 ÷ 44.0 = 10.2 mol; (a) energy = 10.2 × 2220 = 2.27 × 10⁴ kJ; (b) n(CO₂) = 3 × 10.2 = 30.7 mol, V = 30.7 × 24.8 = 761 L (7.61 × 10² L).
+**A1070.** n(C₃H₈) = 450 ÷ 44.0 = 10.2 mol; (a) energy = 10.2 × 2220 = 2.27 × 10⁴ kJ; (b) n(CO₂) = 3 × 10.2 = 30.7 mol, V = 30.7 × 24.8 = 761 L (7.61 × 10² L).
 <!-- id: chem34a1-gse-6 -->
 
 Explanation:
 
-**A1069.** n(CH₄) = 5.00 ÷ 24.8 = 0.202 mol; energy released = 0.202 × 890 = 179 kJ; energy transferred = 0.650 × 179 = 117 kJ.
+**A1071.** n(CH₄) = 5.00 ÷ 24.8 = 0.202 mol; energy released = 0.202 × 890 = 179 kJ; energy transferred = 0.650 × 179 = 117 kJ.
 <!-- id: chem34a1-gse-7 -->
 
 Explanation:
 
-**A1070.** H₂: (1 ÷ 24.8) × 286 = 11.5 kJ L⁻¹; CH₄: (1 ÷ 24.8) × 890 = 35.9 kJ L⁻¹; hydrogen releases about one-third the energy per litre, so it must be compressed to high pressure or liquefied at very low temperature to store useful amounts, which costs energy and needs strong tanks.
+**A1072.** H₂: (1 ÷ 24.8) × 286 = 11.5 kJ L⁻¹; CH₄: (1 ÷ 24.8) × 890 = 35.9 kJ L⁻¹; hydrogen releases about one-third the energy per litre, so it must be compressed to high pressure or liquefied at very low temperature to store useful amounts, which costs energy and needs strong tanks.
 <!-- id: chem34a1-gse-8 -->
 
 Explanation:
 
 #### Calorimetry and specific heat capacity
 
-**A1071.** A. 62.7 kJ
+**A1073.** A. 62.7 kJ
 <!-- id: chem-1-4-1 -->
 
 Explanation: q = mcΔT = 250 × 4.18 × 60.0 = 62 700 J = 62.7 kJ.
 
-**A1072.** B. raise the temperature of 1 g of the substance by 1 °C
+**A1074.** B. raise the temperature of 1 g of the substance by 1 °C
 <!-- id: chem-1-4-2 -->
 
 Explanation: Specific heat capacity is measured per gram per degree, in J g⁻¹ °C⁻¹; the energy per degree for the whole calorimeter is the calibration factor.
 
-**A1073.** C. extensive hydrogen bonding between molecules absorbs energy before the molecules move faster
+**A1075.** C. extensive hydrogen bonding between molecules absorbs energy before the molecules move faster
 <!-- id: chem-1-4-3 -->
 
 Explanation: Much of the added energy goes into disrupting hydrogen bonds rather than increasing the kinetic energy of the molecules, so temperature rises slowly.
 
-**A1074.** E = VIt = 5.00 × 3.00 × 120 = 1800 J; CF = 1800 / 0.750 = 2.40 × 10³ J °C⁻¹ (2.40 kJ °C⁻¹)
+**A1076.** E = VIt = 5.00 × 3.00 × 120 = 1800 J; CF = 1800 / 0.750 = 2.40 × 10³ J °C⁻¹ (2.40 kJ °C⁻¹)
 <!-- id: chem-1-4-4 -->
 
 Explanation: Include units; time must be in seconds.
 
-**A1075.** D. 2.00 × 10³ J °C⁻¹
+**A1077.** D. 2.00 × 10³ J °C⁻¹
 <!-- id: chem-1-4-5 -->
 
 Explanation: E = VIt = 6.00 × 2.50 × 180 = 2700 J; CF = 2700 / 1.35 = 2.00 × 10³ J °C⁻¹.
 
-**A1076.** A. 14.7 kJ
+**A1078.** A. 14.7 kJ
 <!-- id: chem-1-4-6 -->
 
 Explanation: q = CF × ΔT = 3.50 × 4.20 = 14.7 kJ.
 
-**A1077.** B. −1.00 × 10³ kJ mol⁻¹
+**A1079.** B. −1.00 × 10³ kJ mol⁻¹
 <!-- id: chem-1-4-7 -->
 
 Explanation: q = 200 × 4.18 × 12.0 = 10 032 J = 10.0 kJ; n = 0.460 / 46.0 = 0.0100 mol; ΔH = −10.0 / 0.0100 = −1.00 × 10³ kJ mol⁻¹.
 
-**A1078.** q = 4.25 × 6.80 = 28.9 kJ; n = 1.15 / 46.0 = 0.0250 mol; ΔH = −28.9 / 0.0250 = −1.16 × 10³ kJ mol⁻¹
+**A1080.** q = 4.25 × 6.80 = 28.9 kJ; n = 1.15 / 46.0 = 0.0250 mol; ΔH = −28.9 / 0.0250 = −1.16 × 10³ kJ mol⁻¹
 <!-- id: chem-1-4-8 -->
 
 Explanation: Negative sign required as combustion is exothermic.
 
-**A1079.** C. significant heat is lost to the surroundings rather than absorbed by the water
+**A1081.** C. significant heat is lost to the surroundings rather than absorbed by the water
 <!-- id: chem-1-4-9 -->
 
 Explanation: In open spirit-burner setups much of the heat escapes to the air and the can, and combustion may be incomplete, so less energy is measured.
 
-**A1080.** D. Using a draught shield and insulating lid around the can
+**A1082.** D. Using a draught shield and insulating lid around the can
 <!-- id: chem-1-4-10 -->
 
 Explanation: A draught shield and lid reduce heat loss to the surroundings, so more of the energy released is transferred to the water.
 
-**A1081.** A. +25.9 kJ mol⁻¹
+**A1083.** A. +25.9 kJ mol⁻¹
 <!-- id: chem-1-4-11 -->
 
 Explanation: q = 100 × 4.18 × 3.10 = 1296 J; n = 4.00 / 80.0 = 0.0500 mol; ΔH = +1.296 / 0.0500 = +25.9 kJ mol⁻¹ (positive because temperature fell).
 
-**A1082.** q = mcΔT accounts only for energy absorbed by the water, whereas the calibration factor includes the energy absorbed by the container, stirrer, thermometer and any other parts of the calorimeter, as well as typical heat losses under the same conditions.
+**A1084.** q = mcΔT accounts only for energy absorbed by the water, whereas the calibration factor includes the energy absorbed by the container, stirrer, thermometer and any other parts of the calorimeter, as well as typical heat losses under the same conditions.
 <!-- id: chem-1-4-12 -->
 
 Explanation: Key idea: the calibration factor measures the whole system, not just the water.
 
-**A1083.** B. 2.39 °C
+**A1085.** B. 2.39 °C
 <!-- id: chem-1-4-13 -->
 
 Explanation: ΔT = q / (mc) = 5000 / (500 × 4.18) = 2.39 °C.
 
-**A1084.** C. The ethanol has the larger temperature increase
+**A1086.** C. The ethanol has the larger temperature increase
 <!-- id: chem-1-4-14 -->
 
 Explanation: ΔT = q / (mc), so the liquid with the smaller specific heat capacity (ethanol) has the larger temperature rise.
 
-**A1085.** D. burns the sample in a sealed steel vessel with excess oxygen
+**A1087.** D. burns the sample in a sealed steel vessel with excess oxygen
 <!-- id: chem-1-4-15 -->
 
 Explanation: The sealed, oxygen-filled 'bomb' ensures complete combustion and minimal heat loss; it still requires calibration.
 
-**A1086.** Heat lost to the surroundings and the metal can, and incomplete combustion (soot on the can). Both mean less energy reaches the water, so the calculated heat of combustion is lower than the true value. Evaporation of ethanol from the wick before weighing would also make the calculated value too low.
+**A1088.** Heat lost to the surroundings and the metal can, and incomplete combustion (soot on the can). Both mean less energy reaches the water, so the calculated heat of combustion is lower than the true value. Evaporation of ethanol from the wick before weighing would also make the calculated value too low.
 <!-- id: chem-1-4-16 -->
 
 Explanation: Any two valid errors, each with its effect (value too low).
 
-**A1087.** A. determine how much energy is needed to raise the temperature of the whole calorimeter and its contents by 1 °C
+**A1089.** A. determine how much energy is needed to raise the temperature of the whole calorimeter and its contents by 1 °C
 <!-- id: chem-1-4-17 -->
 
 Explanation: The calibration factor accounts for energy absorbed by the water, container, stirrer and thermometer together.
 
-**A1088.** B. 0.450 J g⁻¹ °C⁻¹
+**A1090.** B. 0.450 J g⁻¹ °C⁻¹
 <!-- id: chem-1-4-18 -->
 
 Explanation: c = q / (mΔT) = 450 / (50.0 × 20.0) = 0.450 J g⁻¹ °C⁻¹.
 
-**A1089.** C. −725 kJ mol⁻¹
+**A1091.** C. −725 kJ mol⁻¹
 <!-- id: chem-1-4-19 -->
 
 Explanation: q = 9.80 × 0.740 = 7.25 kJ; n = 0.320 / 32.0 = 0.0100 mol; ΔH = −7.25 / 0.0100 = −725 kJ mol⁻¹.
 
-**A1090.** q = 100 × 4.18 × 6.70 = 2.80 × 10³ J = 2.80 kJ; n(H₂O) = 0.0500 mol; ΔH = −2.80 / 0.0500 = −56.0 kJ mol⁻¹
+**A1092.** q = 100 × 4.18 × 6.70 = 2.80 × 10³ J = 2.80 kJ; n(H₂O) = 0.0500 mol; ΔH = −2.80 / 0.0500 = −56.0 kJ mol⁻¹
 <!-- id: chem-1-4-20 -->
 
 Explanation: n(HCl) = 1.00 × 0.0500 = 0.0500 mol; temperature rise means ΔH is negative.
 
-**A1091.** D. 5.02 kJ g⁻¹
+**A1093.** D. 5.02 kJ g⁻¹
 <!-- id: chem-1-4-21 -->
 
 Explanation: q = 100 × 4.18 × 24.0 = 10 032 J = 10.0 kJ; per gram = 10.0 / 2.00 = 5.02 kJ g⁻¹.
 
-**A1092.** A. The reaction is exothermic and ΔH is negative
+**A1094.** A. The reaction is exothermic and ΔH is negative
 <!-- id: chem-1-4-22 -->
 
 Explanation: A temperature rise means energy was released by the reaction into the solution, so the reaction is exothermic with ΔH < 0.
 
-**A1093.** B. 60.1%
+**A1095.** B. 60.1%
 <!-- id: chem-1-4-23 -->
 
 Explanation: Efficiency = 820 / 1364 × 100 = 60.1%.
 
-**A1094.** Energy released = (0.200 / 16.0) × 890 = 11.1 kJ; absorbed = 0.700 × 11.1 = 7.79 kJ; ΔT = 7790 / (300 × 4.18) = 6.21 °C
+**A1096.** Energy released = (0.200 / 16.0) × 890 = 11.1 kJ; absorbed = 0.700 × 11.1 = 7.79 kJ; ΔT = 7790 / (300 × 4.18) = 6.21 °C
 <!-- id: chem-1-4-24 -->
 
 Explanation: Apply the efficiency before using ΔT = q / (mc).
 
-**A1095.** The lid reduces heat loss (or gain) to the surroundings by convection and evaporation. The stirrer ensures the solution has a uniform temperature so the thermometer reads the true temperature change.
+**A1097.** The lid reduces heat loss (or gain) to the surroundings by convection and evaporation. The stirrer ensures the solution has a uniform temperature so the thermometer reads the true temperature change.
 <!-- id: chem-1-4-25 -->
 
 Explanation: One clear purpose for each piece of equipment.
 
-**A1096.** B. 1440 J °C⁻¹
+**A1098.** B. 1440 J °C⁻¹
 <!-- id: chem34a1-cal-1 -->
 
 Explanation: E = VIt = 6.00 × 2.50 × 120 = 1800 J; CF = E ÷ ΔT = 1800 ÷ 1.25 = 1440 J °C⁻¹ (1.44 kJ °C⁻¹). 1800 J is the energy, not the calibration factor.
 
-**A1097.** A. It accounts for energy absorbed by the calorimeter itself (container, thermometer, stirrer) and some heat loss.
+**A1099.** A. It accounts for energy absorbed by the calorimeter itself (container, thermometer, stirrer) and some heat loss.
 <!-- id: chem34a1-cal-2 -->
 
 Explanation: The calibration factor measures the energy needed to raise the temperature of the whole calorimeter and its contents by 1 °C, so it includes the apparatus, not just the water.
 
-**A1098.** C. −1.07 × 10³ kJ mol⁻¹
+**A1100.** C. −1.07 × 10³ kJ mol⁻¹
 <!-- id: chem34a1-cal-3 -->
 
 Explanation: q = 150.0 × 4.18 × 18.5 = 11.6 kJ; n = 0.500 ÷ 46.0 = 0.01087 mol; ΔH = −11.6 ÷ 0.01087 = −1.07 × 10³ kJ mol⁻¹. −1364 kJ mol⁻¹ is the data book value; the experimental value is smaller because of heat loss.
 
-**A1099.** C. Heat was lost to the surroundings and the can, and some combustion was incomplete.
+**A1101.** C. Heat was lost to the surroundings and the can, and some combustion was incomplete.
 <!-- id: chem34a1-cal-4 -->
 
 Explanation: Spirit burner calorimeters are poorly insulated, so much of the energy heats the air and the can rather than the water; soot formation shows incomplete combustion. These are systematic errors that always lower the result.
 
-**A1100.** A. 41.7
+**A1102.** A. 41.7
 <!-- id: chem34a1-cal-5 -->
 
 Explanation: Energy = 8.62 × 5.80 = 50.0 kJ; per gram = 50.0 ÷ 1.20 = 41.7 kJ g⁻¹.
 
-**A1101.** Energy released = 420 × 13.6 = 5712 J = 5.71 kJ; n(H₂O) = n(H⁺) = 0.1000 L × 1.00 M = 0.100 mol; ΔH = −5.71 ÷ 0.100 = −57.1 kJ mol⁻¹ (negative sign because exothermic).
+**A1103.** Energy released = 420 × 13.6 = 5712 J = 5.71 kJ; n(H₂O) = n(H⁺) = 0.1000 L × 1.00 M = 0.100 mol; ΔH = −5.71 ÷ 0.100 = −57.1 kJ mol⁻¹ (negative sign because exothermic).
 <!-- id: chem34a1-cal-6 -->
 
 Explanation:
 
-**A1102.** The calibration factor is the energy needed to raise the temperature of the calorimeter and its contents by 1 °C; changing the volume of water changes the total heat capacity, so the old calibration factor no longer applies.
+**A1104.** The calibration factor is the energy needed to raise the temperature of the calorimeter and its contents by 1 °C; changing the volume of water changes the total heat capacity, so the old calibration factor no longer applies.
 <!-- id: chem34a1-cal-7 -->
 
 Explanation:
 
-**A1103.** Extrapolate the cooling section of the graph back to the time the reaction (or heating) began and take ΔT as the difference between this extrapolated temperature and the initial temperature; this corrects for heat lost to the surroundings while the temperature was rising.
+**A1105.** Extrapolate the cooling section of the graph back to the time the reaction (or heating) began and take ΔT as the difference between this extrapolated temperature and the initial temperature; this corrects for heat lost to the surroundings while the temperature was rising.
 <!-- id: chem34a1-cal-8 -->
 
 Explanation:
@@ -5711,168 +5823,168 @@ Explanation:
 
 #### Electrochemical series
 
-**A1104.** D. Ag⁺(aq)
+**A1106.** D. Ag⁺(aq)
 <!-- id: chem34a1-ecs-1 -->
 
 Explanation: The strongest oxidising agent is the species on the left-hand side with the highest E° value. Ag⁺/Ag (+0.80 V) is higher than Cu²⁺/Cu (+0.34 V). Zn(s) is a reducing agent.
 
-**A1105.** B. Pb²⁺(aq)
+**A1107.** B. Pb²⁺(aq)
 <!-- id: chem34a1-ecs-2 -->
 
 Explanation: A reaction occurs when the oxidising agent is higher on the series than the reducing agent. Pb²⁺/Pb (−0.13 V) is above Ni²⁺/Ni (−0.25 V), so Ni reduces Pb²⁺. Zn²⁺, Mg²⁺ and Al³⁺ are all below Ni²⁺.
 
-**A1106.** A. Copper
+**A1108.** A. Copper
 <!-- id: chem34a1-ecs-3 -->
 
 Explanation: Cu²⁺/Cu (+0.34 V) lies above 2H⁺/H₂ (0.00 V), so H⁺ cannot oxidise copper. Iron, zinc and magnesium all lie below H⁺ and release hydrogen gas.
 
-**A1107.** B. the series predicts only whether a reaction is thermodynamically possible, not its rate; conditions may also differ from standard.
+**A1109.** B. the series predicts only whether a reaction is thermodynamically possible, not its rate; conditions may also differ from standard.
 <!-- id: chem34a1-ecs-4 -->
 
 Explanation: The electrochemical series is based on standard conditions and says nothing about rate; a predicted reaction may be too slow to observe, and non-standard concentrations or temperatures shift potentials.
 
-**A1108.** A. Fe²⁺(aq) + 2e⁻ → Fe(s) and Fe²⁺(aq) → Fe³⁺(aq) + e⁻
+**A1110.** A. Fe²⁺(aq) + 2e⁻ → Fe(s) and Fe²⁺(aq) → Fe³⁺(aq) + e⁻
 <!-- id: chem34a1-ecs-5 -->
 
 Explanation: As an oxidising agent Fe²⁺ gains electrons (reduced to Fe); as a reducing agent it loses an electron (oxidised to Fe³⁺). The other options do not show Fe²⁺ itself in both roles.
 
-**A1109.** Blue colour fades and a brown/pink solid (copper) forms; zinc dissolves and the mixture warms; oxidation: Zn(s) → Zn²⁺(aq) + 2e⁻; reduction: Cu²⁺(aq) + 2e⁻ → Cu(s); overall: Zn(s) + Cu²⁺(aq) → Zn²⁺(aq) + Cu(s).
+**A1111.** Blue colour fades and a brown/pink solid (copper) forms; zinc dissolves and the mixture warms; oxidation: Zn(s) → Zn²⁺(aq) + 2e⁻; reduction: Cu²⁺(aq) + 2e⁻ → Cu(s); overall: Zn(s) + Cu²⁺(aq) → Zn²⁺(aq) + Cu(s).
 <!-- id: chem34a1-ecs-6 -->
 
 Explanation:
 
-**A1110.** Y < X < Z; X reduces Y²⁺ so X is a stronger reducing agent than Y; Z reduces X²⁺ so Z is stronger than X; consistent with Y not reducing Z²⁺.
+**A1112.** Y < X < Z; X reduces Y²⁺ so X is a stronger reducing agent than Y; Z reduces X²⁺ so Z is stronger than X; consistent with Y not reducing Z²⁺.
 <!-- id: chem34a1-ecs-7 -->
 
 Explanation:
 
-**A1111.** Br₂ is above I⁻ in the series (+1.09 V > +0.54 V), so Br₂ is a stronger oxidising agent than I₂ and reacts: Br₂(aq) + 2I⁻(aq) → 2Br⁻(aq) + I₂(aq); Br₂ is below Cl₂ (+1.09 V < +1.36 V), so it is not strong enough to oxidise Cl⁻.
+**A1113.** Br₂ is above I⁻ in the series (+1.09 V > +0.54 V), so Br₂ is a stronger oxidising agent than I₂ and reacts: Br₂(aq) + 2I⁻(aq) → 2Br⁻(aq) + I₂(aq); Br₂ is below Cl₂ (+1.09 V < +1.36 V), so it is not strong enough to oxidise Cl⁻.
 <!-- id: chem34a1-ecs-8 -->
 
 Explanation:
 
 #### Galvanic cells
 
-**A1112.** D. copper, 1.10 V
+**A1114.** D. copper, 1.10 V
 <!-- id: chem34a1-gc-1 -->
 
 Explanation: Cu²⁺ is the stronger oxidising agent and is reduced at the copper electrode, so copper is the cathode; E°cell = 0.34 − (−0.76) = 1.10 V.
 
-**A1113.** B. from the anode to the cathode through the external circuit.
+**A1115.** B. from the anode to the cathode through the external circuit.
 <!-- id: chem34a1-gc-2 -->
 
 Explanation: Oxidation at the anode releases electrons, which flow through the wire to the cathode. The salt bridge carries ions, never electrons.
 
-**A1114.** A. K⁺ ions move toward the cathode half-cell and NO₃⁻ ions move toward the anode half-cell.
+**A1116.** A. K⁺ ions move toward the cathode half-cell and NO₃⁻ ions move toward the anode half-cell.
 <!-- id: chem34a1-gc-3 -->
 
 Explanation: At the cathode positive ions are consumed (or negative ions formed), so cations migrate there to maintain electrical neutrality; anions move toward the anode where positive ions are being produced.
 
-**A1115.** C. 2Ag⁺(aq) + Ni(s) → 2Ag(s) + Ni²⁺(aq)
+**A1117.** C. 2Ag⁺(aq) + Ni(s) → 2Ag(s) + Ni²⁺(aq)
 <!-- id: chem34a1-gc-4 -->
 
 Explanation: Ag⁺ (+0.80 V) is reduced and Ni (−0.25 V) is oxidised; balancing electrons requires 2Ag⁺. Option B is not balanced for charge.
 
-**A1116.** D. conditions were non-standard, e.g. the solutions were not 1.0 M or the temperature was not 25 °C.
+**A1118.** D. conditions were non-standard, e.g. the solutions were not 1.0 M or the temperature was not 25 °C.
 <!-- id: chem34a1-gc-5 -->
 
 Explanation: E° values apply only under standard conditions (1 M, 25 °C, 100 kPa); real measurements differ because of concentration, temperature and internal resistance. The predicted value is −0.13 − (−0.44) = 0.31 V.
 
-**A1117.** Anode: magnesium, negative electrode; anode: Mg(s) → Mg²⁺(aq) + 2e⁻; cathode (carbon, positive): Fe³⁺(aq) + e⁻ → Fe²⁺(aq); E°cell = 0.77 − (−2.37) = 3.14 V.
+**A1119.** Anode: magnesium, negative electrode; anode: Mg(s) → Mg²⁺(aq) + 2e⁻; cathode (carbon, positive): Fe³⁺(aq) + e⁻ → Fe²⁺(aq); E°cell = 0.77 − (−2.37) = 3.14 V.
 <!-- id: chem34a1-gc-6 -->
 
 Explanation:
 
-**A1118.** If mixed, electrons would transfer directly between the reactants and the chemical energy would be released as heat; separating them forces electrons to travel through an external circuit, so chemical energy is converted into electrical energy.
+**A1120.** If mixed, electrons would transfer directly between the reactants and the chemical energy would be released as heat; separating them forces electrons to travel through an external circuit, so chemical energy is converted into electrical energy.
 <!-- id: chem34a1-gc-7 -->
 
 Explanation:
 
-**A1119.** The zinc anode loses mass because Zn is oxidised to Zn²⁺ which goes into solution; the copper cathode gains mass because Cu²⁺ is reduced and deposited as Cu; the blue colour of the Cu²⁺ solution fades as Cu²⁺ concentration decreases.
+**A1121.** The zinc anode loses mass because Zn is oxidised to Zn²⁺ which goes into solution; the copper cathode gains mass because Cu²⁺ is reduced and deposited as Cu; the blue colour of the Cu²⁺ solution fades as Cu²⁺ concentration decreases.
 <!-- id: chem34a1-gc-8 -->
 
 Explanation:
 
 #### Fuel cells
 
-**A1120.** C. O₂(g) + 4H⁺(aq) + 4e⁻ → 2H₂O(l)
+**A1122.** C. O₂(g) + 4H⁺(aq) + 4e⁻ → 2H₂O(l)
 <!-- id: chem34a1-fc-1 -->
 
 Explanation: Oxygen is reduced at the cathode; in acid, H⁺ is available, so O₂ + 4H⁺ + 4e⁻ → 2H₂O. Option B applies to an alkaline electrolyte, and option A is the anode reaction.
 
-**A1121.** D. Reactants are supplied continuously from outside the cell, so it does not run flat while fuel is supplied.
+**A1123.** D. Reactants are supplied continuously from outside the cell, so it does not run flat while fuel is supplied.
 <!-- id: chem34a1-fc-2 -->
 
 Explanation: Both types are galvanic and convert chemical to electrical energy via redox, but fuel cells receive a continuous external supply of fuel and oxidant, whereas a battery contains a fixed amount of reactants.
 
-**A1122.** A. H₂(g) + 2OH⁻(aq) → 2H₂O(l) + 2e⁻
+**A1124.** A. H₂(g) + 2OH⁻(aq) → 2H₂O(l) + 2e⁻
 <!-- id: chem34a1-fc-3 -->
 
 Explanation: Hydrogen is oxidised at the anode; in an alkaline electrolyte, OH⁻ ions combine with the H⁺ formed to give water. Option D is a reduction.
 
-**A1123.** A. increase the surface area for reaction and lower the activation energy, increasing the rate of the electrode reactions.
+**A1125.** A. increase the surface area for reaction and lower the activation energy, increasing the rate of the electrode reactions.
 <!-- id: chem34a1-fc-4 -->
 
 Explanation: Porous electrodes allow gases, electrolyte and electrode to meet over a large surface area, and catalysts speed up the reactions. Catalysts do not change the thermodynamic cell voltage.
 
-**A1124.** B. CH₃OH(l) + H₂O(l) → CO₂(g) + 6H⁺(aq) + 6e⁻
+**A1126.** B. CH₃OH(l) + H₂O(l) → CO₂(g) + 6H⁺(aq) + 6e⁻
 <!-- id: chem34a1-fc-5 -->
 
 Explanation: Methanol is oxidised at the anode. Balance C, then O with H₂O, then H with H⁺, then charge with electrons: CH₃OH + H₂O → CO₂ + 6H⁺ + 6e⁻. Option D is not balanced for O or H.
 
-**A1125.** Advantages: higher energy efficiency because chemical energy converts directly to electrical energy (avoiding heat → mechanical → electrical steps); only product is water, so no CO₂ or other pollutants at point of use; quiet with no moving parts; disadvantage: hydrogen is expensive and difficult to store/transport, catalysts such as platinum are costly, or most hydrogen is currently made from fossil fuels.
+**A1127.** Advantages: higher energy efficiency because chemical energy converts directly to electrical energy (avoiding heat → mechanical → electrical steps); only product is water, so no CO₂ or other pollutants at point of use; quiet with no moving parts; disadvantage: hydrogen is expensive and difficult to store/transport, catalysts such as platinum are costly, or most hydrogen is currently made from fossil fuels.
 <!-- id: chem34a1-fc-6 -->
 
 Explanation:
 
-**A1126.** Anode: CH₄(g) + 2H₂O(l) → CO₂(g) + 8H⁺(aq) + 8e⁻; cathode: O₂(g) + 4H⁺(aq) + 4e⁻ → 2H₂O(l) (×2); overall: CH₄(g) + 2O₂(g) → CO₂(g) + 2H₂O(l).
+**A1128.** Anode: CH₄(g) + 2H₂O(l) → CO₂(g) + 8H⁺(aq) + 8e⁻; cathode: O₂(g) + 4H⁺(aq) + 4e⁻ → 2H₂O(l) (×2); overall: CH₄(g) + 2O₂(g) → CO₂(g) + 2H₂O(l).
 <!-- id: chem34a1-fc-7 -->
 
 Explanation:
 
-**A1127.** H⁺ ions are produced at the anode (H₂ → 2H⁺ + 2e⁻) and consumed at the cathode (O₂ + 4H⁺ + 4e⁻ → 2H₂O), so they migrate through the electrolyte from anode to cathode; this completes the circuit and maintains charge balance as electrons flow externally.
+**A1129.** H⁺ ions are produced at the anode (H₂ → 2H⁺ + 2e⁻) and consumed at the cathode (O₂ + 4H⁺ + 4e⁻ → 2H₂O), so they migrate through the electrolyte from anode to cathode; this completes the circuit and maintains charge balance as electrons flow externally.
 <!-- id: chem34a1-fc-8 -->
 
 Explanation:
 
 #### Green hydrogen and sustainable energy
 
-**A1128.** C. green hydrogen.
+**A1130.** C. green hydrogen.
 <!-- id: chem34a1-ghs-1 -->
 
 Explanation: Green hydrogen comes from electrolysis powered by renewable energy. Grey hydrogen is made from natural gas by steam methane reforming without carbon capture; blue hydrogen uses the same process with carbon capture and storage.
 
-**A1129.** A. CH₄(g) + H₂O(g) → CO(g) + 3H₂(g)
+**A1131.** A. CH₄(g) + H₂O(g) → CO(g) + 3H₂(g)
 <!-- id: chem34a1-ghs-2 -->
 
 Explanation: Methane reacts with steam at high temperature over a nickel catalyst to form carbon monoxide and hydrogen; the CO is often converted to CO₂ by a further water–gas shift reaction, so the process emits CO₂.
 
-**A1130.** B. Use of renewable feedstocks and energy
+**A1132.** B. Use of renewable feedstocks and energy
 <!-- id: chem34a1-ghs-3 -->
 
 Explanation: Solar energy and water are renewable, replacing finite fossil fuels. The other principles relate to product breakdown, catalyst use and process monitoring.
 
-**A1131.** D. green hydrogen is currently more expensive to produce and needs large amounts of renewable electricity.
+**A1133.** D. green hydrogen is currently more expensive to produce and needs large amounts of renewable electricity.
 <!-- id: chem34a1-ghs-4 -->
 
 Explanation: Hydrogen is identical whichever way it is made; the difference is the emissions from production. Electrolysers and renewable electricity currently make green hydrogen costlier than reforming natural gas.
 
-**A1132.** A. is a liquid under mild pressure and stores more hydrogen per litre than compressed hydrogen gas.
+**A1134.** A. is a liquid under mild pressure and stores more hydrogen per litre than compressed hydrogen gas.
 <!-- id: chem34a1-ghs-5 -->
 
 Explanation: Ammonia liquefies at about −33 °C or under moderate pressure, making transport easier than hydrogen (boiling point −253 °C). Ammonia is toxic, so it is not 'safe' in that sense, and it contains no carbon.
 
-**A1133.** Water is electrolysed using electricity from renewable sources such as solar or wind; 2H₂O(l) → 2H₂(g) + O₂(g); the process uses renewable energy and an abundant feedstock (water), produces no CO₂, and using the hydrogen in a fuel cell regenerates water, so the cycle does not deplete resources or add greenhouse gases.
+**A1135.** Water is electrolysed using electricity from renewable sources such as solar or wind; 2H₂O(l) → 2H₂(g) + O₂(g); the process uses renewable energy and an abundant feedstock (water), produces no CO₂, and using the hydrogen in a fuel cell regenerates water, so the cycle does not deplete resources or add greenhouse gases.
 <!-- id: chem34a1-ghs-6 -->
 
 Explanation:
 
-**A1134.** An energy source occurs naturally and can be harvested directly, e.g. solar energy from the Sun; an energy carrier stores and transports energy produced from a source, e.g. hydrogen must be manufactured (by electrolysis using solar power) and releases that energy later in a fuel cell.
+**A1136.** An energy source occurs naturally and can be harvested directly, e.g. solar energy from the Sun; an energy carrier stores and transports energy produced from a source, e.g. hydrogen must be manufactured (by electrolysis using solar power) and releases that energy later in a fuel cell.
 <!-- id: chem34a1-ghs-7 -->
 
 Explanation:
 
-**A1135.** Blue hydrogen lowers CO₂ emissions compared with grey hydrogen because much of the CO₂ is captured and stored underground; however, it still relies on a finite fossil fuel (natural gas), capture is not 100% efficient and methane leaks during extraction add greenhouse gases; therefore it is less sustainable than green hydrogen, though it may be a transitional option while renewable capacity grows.
+**A1137.** Blue hydrogen lowers CO₂ emissions compared with grey hydrogen because much of the CO₂ is captured and stored underground; however, it still relies on a finite fossil fuel (natural gas), capture is not 100% efficient and methane leaks during extraction add greenhouse gases; therefore it is less sustainable than green hydrogen, though it may be a transitional option while renewable capacity grows.
 <!-- id: chem34a1-ghs-8 -->
 
 Explanation:
@@ -5881,708 +5993,708 @@ Explanation:
 
 #### Collision theory and reaction rates
 
-**A1136.** B. The particles must collide with energy at least equal to the activation energy and with the correct orientation
+**A1138.** B. The particles must collide with energy at least equal to the activation energy and with the correct orientation
 <!-- id: chem-3-1-1 -->
 
 Explanation: A successful collision requires both sufficient energy (≥ Ea) to break bonds and an orientation that allows the reacting parts of the particles to come into contact.
 
-**A1137.** B. there are more acid particles per unit volume, so the frequency of collisions increases
+**A1139.** B. there are more acid particles per unit volume, so the frequency of collisions increases
 <!-- id: chem-3-1-2 -->
 
 Explanation: Increasing concentration increases the number of collisions per second; it does not change particle energies or the activation energy.
 
-**A1138.** D. has a larger surface area, increasing the frequency of collisions with acid particles
+**A1140.** D. has a larger surface area, increasing the frequency of collisions with acid particles
 <!-- id: chem-3-1-3 -->
 
 Explanation: Smaller particles expose more surface for collisions; the same mass gives the same amount of CO₂ and Ea is unchanged.
 
-**A1139.** The 2 M acid has more H⁺ ions per unit volume, so collisions between H⁺ and the CaCO₃ surface occur more frequently. With more collisions per second, there are more successful collisions per second (the proportion of successful collisions is unchanged), so the rate is greater.
+**A1141.** The 2 M acid has more H⁺ ions per unit volume, so collisions between H⁺ and the CaCO₃ surface occur more frequently. With more collisions per second, there are more successful collisions per second (the proportion of successful collisions is unchanged), so the rate is greater.
 <!-- id: chem-3-1-4 -->
 
 Explanation: Full marks require linking concentration to collision frequency and to the number of successful collisions per unit time.
 
-**A1140.** D. the frequency of collisions between reactant particles increases
+**A1142.** D. the frequency of collisions between reactant particles increases
 <!-- id: chem-3-1-5 -->
 
 Explanation: Halving the volume doubles the concentration (partial pressure) of each gas, so particles collide more often.
 
-**A1141.** C. a much greater proportion of collisions have energy equal to or greater than the activation energy
+**A1143.** C. a much greater proportion of collisions have energy equal to or greater than the activation energy
 <!-- id: chem-3-1-6 -->
 
 Explanation: The fraction of particles with energy ≥ Ea increases sharply with temperature; the collision frequency increases only by a few per cent.
 
-**A1142.** A. Using larger lumps of zinc of the same total mass
+**A1144.** A. Using larger lumps of zinc of the same total mass
 <!-- id: chem-3-1-7 -->
 
 Explanation: Larger lumps reduce the surface area exposed to the acid, which lowers the collision frequency and slows the reaction.
 
-**A1143.** At higher temperature particles have greater average kinetic energy, so collisions are slightly more frequent. More importantly, a much larger proportion of collisions now have energy equal to or greater than the activation energy, so the number of successful collisions per second increases greatly.
+**A1145.** At higher temperature particles have greater average kinetic energy, so collisions are slightly more frequent. More importantly, a much larger proportion of collisions now have energy equal to or greater than the activation energy, so the number of successful collisions per second increases greatly.
 <!-- id: chem-3-1-8 -->
 
 Explanation: Students must identify the increased proportion of collisions with E ≥ Ea as the dominant factor.
 
-**A1144.** B. The decrease in mass of the flask and contents over time
+**A1146.** B. The decrease in mass of the flask and contents over time
 <!-- id: chem-3-1-9 -->
 
 Explanation: CO₂ gas escapes from the open flask, so the mass decreases at a rate that reflects the reaction rate.
 
-**A1145.** B. the minimum energy colliding particles need for the collision to result in a reaction
+**A1147.** B. the minimum energy colliding particles need for the collision to result in a reaction
 <!-- id: chem-3-1-10 -->
 
 Explanation: Ea is the energy barrier between reactants and the transition state that must be overcome in a collision.
 
-**A1146.** A. 170 kJ mol⁻¹
+**A1148.** A. 170 kJ mol⁻¹
 <!-- id: chem-3-1-11 -->
 
 Explanation: For an exothermic reaction, Ea(reverse) = Ea(forward) + |ΔH| = 50 + 120 = 170 kJ mol⁻¹.
 
-**A1147.** Ea(reverse) = Ea(forward) + |ΔH| = 185 + 92 = 277 kJ mol⁻¹.
+**A1149.** Ea(reverse) = Ea(forward) + |ΔH| = 185 + 92 = 277 kJ mol⁻¹.
 <!-- id: chem-3-1-12 -->
 
 Explanation: For an exothermic reaction the products sit lower than the reactants, so the reverse barrier is larger by |ΔH|.
 
-**A1148.** D. 50 kJ mol⁻¹
+**A1150.** D. 50 kJ mol⁻¹
 <!-- id: chem-3-1-13 -->
 
 Explanation: For an endothermic reaction the products are higher in energy, so Ea(reverse) = Ea(forward) − ΔH = 90 − 40 = 50 kJ mol⁻¹.
 
-**A1149.** B. the concentration of acid and the surface area of magnesium decrease, so collisions become less frequent
+**A1151.** B. the concentration of acid and the surface area of magnesium decrease, so collisions become less frequent
 <!-- id: chem-3-1-14 -->
 
 Explanation: As reactants are consumed, there are fewer reactant particles available to collide per unit time, so the rate falls.
 
-**A1150.** C. No change, because the concentrations of the reactant gases are unchanged
+**A1152.** C. No change, because the concentrations of the reactant gases are unchanged
 <!-- id: chem-3-1-15 -->
 
 Explanation: At constant volume, adding an inert gas does not change the number of reactant particles per unit volume, so the frequency of reactant collisions is unchanged.
 
-**A1151.** n(CaCO₃) = 1.00 ÷ 100.1 = 9.99 × 10⁻³ mol = n(CO₂). Average rate = 9.99 × 10⁻³ ÷ 120 = 8.33 × 10⁻⁵ mol s⁻¹.
+**A1153.** n(CaCO₃) = 1.00 ÷ 100.1 = 9.99 × 10⁻³ mol = n(CO₂). Average rate = 9.99 × 10⁻³ ÷ 120 = 8.33 × 10⁻⁵ mol s⁻¹.
 <!-- id: chem-3-1-16 -->
 
 Explanation: CaCO₃ + 2HCl → CaCl₂ + H₂O + CO₂ gives a 1:1 mole ratio of CaCO₃ to CO₂.
 
-**A1152.** D. 45.9 mL
+**A1154.** D. 45.9 mL
 <!-- id: chem-3-1-17 -->
 
 Explanation: n(Mg) = 0.0450 ÷ 24.3 = 1.85 × 10⁻³ mol = n(H₂); V = 1.85 × 10⁻³ × 24.8 = 0.0459 L = 45.9 mL.
 
-**A1153.** C. 1.33 mL s⁻¹
+**A1155.** C. 1.33 mL s⁻¹
 <!-- id: chem-3-1-18 -->
 
 Explanation: Average rate = total volume ÷ total time = 80.0 mL ÷ 60 s = 1.33 mL s⁻¹.
 
-**A1154.** A. fewer collisions between reacting particles have energy equal to or greater than the activation energy
+**A1156.** A. fewer collisions between reacting particles have energy equal to or greater than the activation energy
 <!-- id: chem-3-1-19 -->
 
 Explanation: Lowering temperature reduces particle kinetic energies, so a smaller fraction of collisions are successful (and collisions are also slightly less frequent).
 
-**A1155.** 1) Collect the hydrogen gas in a gas syringe (or inverted measuring cylinder) and record its volume at regular time intervals. 2) Measure the pH (or conductivity) of the solution over time as H⁺ is consumed, or time how long the magnesium takes to disappear completely.
+**A1157.** 1) Collect the hydrogen gas in a gas syringe (or inverted measuring cylinder) and record its volume at regular time intervals. 2) Measure the pH (or conductivity) of the solution over time as H⁺ is consumed, or time how long the magnesium takes to disappear completely.
 <!-- id: chem-3-1-20 -->
 
 Explanation: Any two valid methods that track a reactant or product over time are acceptable; mass loss is possible but small because H₂ is very light.
 
-**A1156.** A. has an extremely large surface area in contact with oxygen
+**A1158.** A. has an extremely large surface area in contact with oxygen
 <!-- id: chem-3-1-21 -->
 
 Explanation: Fine dispersion exposes an enormous surface area to oxygen, so the collision frequency and hence rate of combustion become extremely high.
 
-**A1157.** C. Increasing the temperature
+**A1159.** C. Increasing the temperature
 <!-- id: chem-3-1-22 -->
 
 Explanation: Higher temperature makes particles move faster (more collisions) and gives more of them energy ≥ Ea; concentration and surface area only affect frequency.
 
-**A1158.** A. the particles collided with an orientation that did not allow the required bonds to break and form
+**A1160.** A. the particles collided with an orientation that did not allow the required bonds to break and form
 <!-- id: chem-3-1-23 -->
 
 Explanation: Even energetic collisions are unsuccessful if the reacting atoms are not aligned correctly at the moment of collision.
 
-**A1159.** Initially reactant concentrations are highest, so collision frequency and rate are greatest (steep slope). As magnesium and acid are used up, collisions become less frequent and the rate falls (flatter slope). The line becomes horizontal when the limiting reactant is fully consumed and no more gas is produced.
+**A1161.** Initially reactant concentrations are highest, so collision frequency and rate are greatest (steep slope). As magnesium and acid are used up, collisions become less frequent and the rate falls (flatter slope). The line becomes horizontal when the limiting reactant is fully consumed and no more gas is produced.
 <!-- id: chem-3-1-24 -->
 
 Explanation: The gradient at any point represents the rate of reaction.
 
-**A1160.** Heating does not change the activation energy. It increases the average kinetic energy of particles, so collisions are more frequent and a greater proportion of collisions have energy equal to or greater than the (unchanged) activation energy.
+**A1162.** Heating does not change the activation energy. It increases the average kinetic energy of particles, so collisions are more frequent and a greater proportion of collisions have energy equal to or greater than the (unchanged) activation energy.
 <!-- id: chem-3-1-25 -->
 
 Explanation: Only a catalyst lowers the activation energy, by providing an alternative pathway.
 
-**A1161.** A. collide with energy equal to or greater than the activation energy and with the correct orientation.
+**A1163.** A. collide with energy equal to or greater than the activation energy and with the correct orientation.
 <!-- id: chem34a1-ctr-1 -->
 
 Explanation: Collisions must be both sufficiently energetic (≥ Ea) and correctly oriented to break bonds and form new ones; most collisions do not meet both conditions.
 
-**A1162.** B. Using a larger volume of the same concentration of acid
+**A1164.** B. Using a larger volume of the same concentration of acid
 <!-- id: chem34a1-ctr-2 -->
 
 Explanation: Rate depends on concentration, not total volume; a larger volume of the same acid does not change the frequency of collisions per unit area. Powdering increases surface area; higher concentration and temperature increase collision frequency and energy.
 
-**A1163.** D. a much greater proportion of collisions have energy equal to or greater than the activation energy.
+**A1165.** D. a much greater proportion of collisions have energy equal to or greater than the activation energy.
 <!-- id: chem34a1-ctr-3 -->
 
 Explanation: Higher temperature slightly increases collision frequency, but the major effect is that a significantly larger fraction of particles have energy ≥ Ea. Temperature does not change Ea.
 
-**A1164.** A. is greatest at the start and decreases to zero as reactants are used up.
+**A1166.** A. is greatest at the start and decreases to zero as reactants are used up.
 <!-- id: chem34a1-ctr-4 -->
 
 Explanation: The rate is greatest initially when reactant concentration is highest; as HCl is consumed and CaCO₃ surface shrinks, the rate decreases until the limiting reactant is used and the curve levels off.
 
-**A1165.** C. the concentration of gas particles increases, so collisions occur more frequently.
+**A1167.** C. the concentration of gas particles increases, so collisions occur more frequently.
 <!-- id: chem34a1-ctr-5 -->
 
 Explanation: Compressing a gas increases the number of particles per unit volume, so collision frequency increases. Ea is unchanged.
 
-**A1166.** Coal dust has a much larger surface area exposed to oxygen than a lump of the same mass; this greatly increases the frequency of collisions between carbon and O₂ molecules, so the reaction rate is so high that energy is released almost instantly, producing an explosion.
+**A1168.** Coal dust has a much larger surface area exposed to oxygen than a lump of the same mass; this greatly increases the frequency of collisions between carbon and O₂ molecules, so the reaction rate is so high that energy is released almost instantly, producing an explosion.
 <!-- id: chem34a1-ctr-6 -->
 
 Explanation:
 
-**A1167.** Experiment 2 has a steeper initial gradient (faster rate) because the higher HCl concentration increases collision frequency; it levels off sooner; it reaches the same final volume of H₂ because magnesium is the limiting reactant and the same amount is used in both.
+**A1169.** Experiment 2 has a steeper initial gradient (faster rate) because the higher HCl concentration increases collision frequency; it levels off sooner; it reaches the same final volume of H₂ because magnesium is the limiting reactant and the same amount is used in both.
 <!-- id: chem34a1-ctr-7 -->
 
 Explanation:
 
-**A1168.** Spoilage involves chemical (enzyme-catalysed and microbial) reactions; at lower temperature particles have less kinetic energy, so fewer collisions have energy ≥ activation energy and collisions are less frequent, so the rate of spoilage reactions decreases.
+**A1170.** Spoilage involves chemical (enzyme-catalysed and microbial) reactions; at lower temperature particles have less kinetic energy, so fewer collisions have energy ≥ activation energy and collisions are less frequent, so the rate of spoilage reactions decreases.
 <!-- id: chem34a1-ctr-8 -->
 
 Explanation:
 
 #### Maxwell–Boltzmann distributions and catalysts
 
-**A1169.** B. the total number of particles in the sample
+**A1171.** B. the total number of particles in the sample
 <!-- id: chem-3-2-1 -->
 
 Explanation: The curve plots the number of particles at each kinetic energy, so the area under it equals the total number of particles.
 
-**A1170.** C. flattens and broadens, with the peak moving to higher energy and the area unchanged
+**A1172.** C. flattens and broadens, with the peak moving to higher energy and the area unchanged
 <!-- id: chem-3-2-2 -->
 
 Explanation: At higher temperature more particles have high kinetic energies; the number of particles (area) is unchanged, so the peak must be lower.
 
-**A1171.** A. the number of particles with enough energy to react on collision
+**A1173.** A. the number of particles with enough energy to react on collision
 <!-- id: chem-3-2-3 -->
 
 Explanation: Only particles with kinetic energy ≥ Ea can react when they collide with correct orientation.
 
-**A1172.** The curve becomes flatter and broader, the peak shifts to a higher kinetic energy and is lower, and the total area stays the same. A greater area now lies beyond the activation energy, so more particles have energy ≥ Ea; more collisions are successful per second and the rate increases.
+**A1174.** The curve becomes flatter and broader, the peak shifts to a higher kinetic energy and is lower, and the total area stays the same. A greater area now lies beyond the activation energy, so more particles have energy ≥ Ea; more collisions are successful per second and the rate increases.
 <!-- id: chem-3-2-4 -->
 
 Explanation: Award marks for: peak shift right and lower, same area, larger area beyond Ea, link to more successful collisions.
 
-**A1173.** C. The curve is unchanged, but the activation energy is lower, so a larger area lies beyond it
+**A1175.** C. The curve is unchanged, but the activation energy is lower, so a larger area lies beyond it
 <!-- id: chem-3-2-5 -->
 
 Explanation: A catalyst does not change the energy distribution of particles; it provides a lower-Ea pathway, so more particles have sufficient energy.
 
-**A1174.** D. providing an alternative reaction pathway with a lower activation energy
+**A1176.** D. providing an alternative reaction pathway with a lower activation energy
 <!-- id: chem-3-2-6 -->
 
 Explanation: The catalysed pathway has a lower energy barrier, so a greater proportion of collisions are successful.
 
-**A1175.** C. ΔH is unchanged
+**A1177.** C. ΔH is unchanged
 <!-- id: chem-3-2-7 -->
 
 Explanation: The reactants and products have the same energies with or without the catalyst; only the activation energy changes.
 
-**A1176.** The catalyst provides an alternative pathway with a lower activation energy. The distribution curve itself is unchanged, but the Ea line moves to lower energy, so a larger proportion of particles have energy ≥ Ea and the frequency of successful collisions increases.
+**A1178.** The catalyst provides an alternative pathway with a lower activation energy. The distribution curve itself is unchanged, but the Ea line moves to lower energy, so a larger proportion of particles have energy ≥ Ea and the frequency of successful collisions increases.
 <!-- id: chem-3-2-8 -->
 
 Explanation: A common error is to say the curve shifts; for a catalyst only the position of Ea changes.
 
-**A1177.** C. The rates of the forward and reverse reactions increase equally and the equilibrium position does not change
+**A1179.** C. The rates of the forward and reverse reactions increase equally and the equilibrium position does not change
 <!-- id: chem-3-2-9 -->
 
 Explanation: A catalyst lowers the activation energies of both forward and reverse reactions, so it does not alter the equilibrium position or K.
 
-**A1178.** A. heterogeneous catalysts, because they are solids and the reactants are gases
+**A1180.** A. heterogeneous catalysts, because they are solids and the reactants are gases
 <!-- id: chem-3-2-10 -->
 
 Explanation: A heterogeneous catalyst is in a different phase from the reactants; the gases adsorb onto the solid metal surface.
 
-**A1179.** B. the enzyme denatures, changing the shape of its active site
+**A1181.** B. the enzyme denatures, changing the shape of its active site
 <!-- id: chem-3-2-11 -->
 
 Explanation: High temperatures disrupt the bonds that maintain the enzyme's tertiary structure, so substrates no longer fit the active site.
 
-**A1180.** A homogeneous catalyst is in the same phase as the reactants, e.g. concentrated H₂SO₄ in the esterification of ethanoic acid and ethanol. A heterogeneous catalyst is in a different phase from the reactants, e.g. solid iron catalysing the gaseous Haber process (or Pt/Pd/Rh in a catalytic converter).
+**A1182.** A homogeneous catalyst is in the same phase as the reactants, e.g. concentrated H₂SO₄ in the esterification of ethanoic acid and ethanol. A heterogeneous catalyst is in a different phase from the reactants, e.g. solid iron catalysing the gaseous Haber process (or Pt/Pd/Rh in a catalytic converter).
 <!-- id: chem-3-2-12 -->
 
 Explanation: Both a correct definition and a correct example are needed for each type.
 
-**A1181.** B. The total area under the curve
+**A1183.** B. The total area under the curve
 <!-- id: chem-3-2-13 -->
 
 Explanation: The area represents the number of particles, which is constant for a fixed amount of gas.
 
-**A1182.** C. a taller peak at a lower kinetic energy
+**A1184.** C. a taller peak at a lower kinetic energy
 <!-- id: chem-3-2-14 -->
 
 Explanation: At lower temperature particle energies are concentrated around a lower value, giving a taller, narrower peak with the same area.
 
-**A1183.** A. increases, because the catalyst also lowers the activation energy of the reverse reaction
+**A1185.** A. increases, because the catalyst also lowers the activation energy of the reverse reaction
 <!-- id: chem-3-2-15 -->
 
 Explanation: The catalysed pathway is shared by both directions, so both Ea values are lowered by the same amount.
 
-**A1184.** A catalyst lowers the activation energy of both the forward and reverse reactions by the same amount, so both rates increase equally. Equilibrium is reached sooner, but the equilibrium position and the value of K are unchanged, so the yield is the same.
+**A1186.** A catalyst lowers the activation energy of both the forward and reverse reactions by the same amount, so both rates increase equally. Equilibrium is reached sooner, but the equilibrium position and the value of K are unchanged, so the yield is the same.
 <!-- id: chem-3-2-16 -->
 
 Explanation: The key idea is that both directions are sped up equally.
 
-**A1185.** B. Concentrated sulfuric acid in the liquid-phase reaction between ethanoic acid and ethanol
+**A1187.** B. Concentrated sulfuric acid in the liquid-phase reaction between ethanoic acid and ethanol
 <!-- id: chem-3-2-17 -->
 
 Explanation: In esterification the H₂SO₄ catalyst is in the same (liquid) phase as the reactants; the others are solids catalysing gas reactions.
 
-**A1186.** D. Reactant molecules adsorb onto the catalyst surface, weakening their bonds and allowing reaction at lower energy
+**A1188.** D. Reactant molecules adsorb onto the catalyst surface, weakening their bonds and allowing reaction at lower energy
 <!-- id: chem-3-2-18 -->
 
 Explanation: Adsorption onto active sites weakens bonds and brings reactants together, then products desorb and the catalyst is regenerated.
 
-**A1187.** B. a larger surface area provides more active sites for reactant molecules to adsorb onto
+**A1189.** B. a larger surface area provides more active sites for reactant molecules to adsorb onto
 <!-- id: chem-3-2-19 -->
 
 Explanation: Heterogeneous catalysts act at their surfaces, so increasing surface area increases the catalysed rate.
 
-**A1188.** The poison binds strongly to the active sites on the metal catalyst surface and is not released. This blocks reactant molecules from adsorbing, so the catalyst's effectiveness decreases permanently.
+**A1190.** The poison binds strongly to the active sites on the metal catalyst surface and is not released. This blocks reactant molecules from adsorbing, so the catalyst's effectiveness decreases permanently.
 <!-- id: chem-3-2-20 -->
 
 Explanation: Catalyst poisoning reduces the number of available active sites.
 
-**A1189.** D. It has a lower peak, but the reactants and products are at the same energy levels
+**A1191.** D. It has a lower peak, but the reactants and products are at the same energy levels
 <!-- id: chem-3-2-21 -->
 
 Explanation: A catalyst lowers only the activation energy; ΔH is unchanged so reactant and product levels stay the same.
 
-**A1190.** A. 80 kJ mol⁻¹
+**A1192.** A. 80 kJ mol⁻¹
 <!-- id: chem-3-2-22 -->
 
 Explanation: Ea(reverse, catalysed) = Ea(forward, catalysed) + |ΔH| = 50 + 30 = 80 kJ mol⁻¹.
 
-**A1191.** D. a large relative increase in the number of particles in the high-energy tail beyond the activation energy
+**A1193.** D. a large relative increase in the number of particles in the high-energy tail beyond the activation energy
 <!-- id: chem-3-2-23 -->
 
 Explanation: Because Ea lies in the tail of the distribution, a small shift in the curve greatly increases the area beyond Ea.
 
-**A1192.** Ea(reverse, catalysed) = 140 + 196 = 336 kJ mol⁻¹.
+**A1194.** Ea(reverse, catalysed) = 140 + 196 = 336 kJ mol⁻¹.
 <!-- id: chem-3-2-24 -->
 
 Explanation: For an exothermic reaction the reverse barrier equals the forward barrier plus |ΔH|.
 
-**A1193.** Very few particles have zero (or near-zero) kinetic energy, so the curve begins at the origin. A small number of particles have very high energies, and there is no fixed maximum energy, so the curve tails off towards the axis without reaching it.
+**A1195.** Very few particles have zero (or near-zero) kinetic energy, so the curve begins at the origin. A small number of particles have very high energies, and there is no fixed maximum energy, so the curve tails off towards the axis without reaching it.
 <!-- id: chem-3-2-25 -->
 
 Explanation: The asymmetric shape reflects random collisions transferring energy between particles.
 
-**A1194.** C. the number of particles with energy equal to or greater than the activation energy.
+**A1196.** C. the number of particles with energy equal to or greater than the activation energy.
 <!-- id: chem34a1-mbc-1 -->
 
 Explanation: The total area represents all particles; the area beyond Ea is the fraction with enough energy to react on collision.
 
-**A1195.** B. flattens and broadens, with the peak shifting to higher energy, while the total area stays the same.
+**A1197.** B. flattens and broadens, with the peak shifting to higher energy, while the total area stays the same.
 <!-- id: chem34a1-mbc-2 -->
 
 Explanation: At higher temperature the average kinetic energy increases and the energies spread out; the number of particles is unchanged, so the area under the curve is constant.
 
-**A1196.** D. providing an alternative reaction pathway with a lower activation energy.
+**A1198.** D. providing an alternative reaction pathway with a lower activation energy.
 <!-- id: chem34a1-mbc-3 -->
 
 Explanation: A catalyst lowers Ea by providing a different mechanism, so on the Maxwell–Boltzmann curve the Ea line moves left and more particles have sufficient energy. The curve itself and ΔH are unchanged.
 
-**A1197.** C. It increases the rates of both forward and reverse reactions by lowering the activation energy of each.
+**A1199.** C. It increases the rates of both forward and reverse reactions by lowering the activation energy of each.
 <!-- id: chem34a1-mbc-4 -->
 
 Explanation: The catalysed pathway is shared by both directions, so Ea is lowered for forward and reverse reactions equally (by the same amount). A catalyst is regenerated and does not change ΔH.
 
-**A1198.** A. heterogeneous catalysts that provide a surface where gas molecules adsorb and react.
+**A1200.** A. heterogeneous catalysts that provide a surface where gas molecules adsorb and react.
 <!-- id: chem34a1-mbc-5 -->
 
 Explanation: The solid metals are in a different phase from the gaseous reactants, so they are heterogeneous catalysts; gases adsorb onto the surface, bonds weaken, and products desorb.
 
-**A1199.** Axes: number of particles (vertical) against kinetic energy (horizontal); curve starts at origin, rises to a peak and has a long tail that approaches but never reaches zero; the T₂ curve is lower and broader with its peak shifted to the right, with the same area; with Ea marked, the area to the right of Ea is much larger at T₂, so a greater proportion of collisions are successful and the rate increases.
+**A1201.** Axes: number of particles (vertical) against kinetic energy (horizontal); curve starts at origin, rises to a peak and has a long tail that approaches but never reaches zero; the T₂ curve is lower and broader with its peak shifted to the right, with the same area; with Ea marked, the area to the right of Ea is much larger at T₂, so a greater proportion of collisions are successful and the rate increases.
 <!-- id: chem34a1-mbc-6 -->
 
 Explanation:
 
-**A1200.** A catalyst lowers the activation energy, so the Ea line moves to the left and the area under the curve beyond Ea increases, meaning more particles can react; the curve depends only on temperature (the energy distribution of the particles), which a catalyst does not change.
+**A1202.** A catalyst lowers the activation energy, so the Ea line moves to the left and the area under the curve beyond Ea increases, meaning more particles can react; the curve depends only on temperature (the energy distribution of the particles), which a catalyst does not change.
 <!-- id: chem34a1-mbc-7 -->
 
 Explanation:
 
-**A1201.** MnO₂ is a catalyst that provides an alternative pathway with lower activation energy, so more collisions are successful and O₂ is produced rapidly (bubbling); because it is regenerated at the end of the reaction, its mass is unchanged; it is a heterogeneous catalyst (solid catalyst with aqueous reactant).
+**A1203.** MnO₂ is a catalyst that provides an alternative pathway with lower activation energy, so more collisions are successful and O₂ is produced rapidly (bubbling); because it is regenerated at the end of the reaction, its mass is unchanged; it is a heterogeneous catalyst (solid catalyst with aqueous reactant).
 <!-- id: chem34a1-mbc-8 -->
 
 Explanation:
 
 #### Equilibrium constants and calculations
 
-**A1202.** B. Kc = [NH₃]² / ([N₂][H₂]³)
+**A1204.** B. Kc = [NH₃]² / ([N₂][H₂]³)
 <!-- id: chem-3-3-1 -->
 
 Explanation: Kc = products over reactants, each concentration raised to the power of its coefficient in the balanced equation.
 
-**A1203.** B. M⁻²
+**A1205.** B. M⁻²
 <!-- id: chem-3-3-2 -->
 
 Explanation: Units = M² ÷ (M × M³) = M⁻².
 
-**A1204.** C. 1/K
+**A1206.** C. 1/K
 <!-- id: chem-3-3-3 -->
 
 Explanation: Reversing an equation inverts the equilibrium expression, so the new constant is the reciprocal.
 
-**A1205.** Kc = [NO₂]² / ([NO]²[O₂]); units M⁻¹.
+**A1207.** Kc = [NO₂]² / ([NO]²[O₂]); units M⁻¹.
 <!-- id: chem-3-3-4 -->
 
 Explanation: Units: M² ÷ (M² × M) = M⁻¹.
 
-**A1206.** D. √K
+**A1208.** D. √K
 <!-- id: chem-3-3-5 -->
 
 Explanation: Halving all coefficients halves every power in the expression, so the new constant is K^(1/2).
 
-**A1207.** C. At equilibrium the mixture consists almost entirely of products
+**A1209.** C. At equilibrium the mixture consists almost entirely of products
 <!-- id: chem-3-3-6 -->
 
 Explanation: A very large K means the equilibrium position lies far to the right; K says nothing about rate.
 
-**A1208.** B. 49.0
+**A1210.** B. 49.0
 <!-- id: chem-3-3-7 -->
 
 Explanation: Kc = [HI]² / ([H₂][I₂]) = 0.490 ÷ 0.0100 = 49.0.
 
-**A1209.** Initial [H₂] = [I₂] = 0.100 M. (2x)² ÷ (0.100 − x)² = 64.0, so 2x ÷ (0.100 − x) = 8.00, giving 10x = 0.800 and x = 0.0800. [HI] = 2x = 0.160 M.
+**A1211.** Initial [H₂] = [I₂] = 0.100 M. (2x)² ÷ (0.100 − x)² = 64.0, so 2x ÷ (0.100 − x) = 8.00, giving 10x = 0.800 and x = 0.0800. [HI] = 2x = 0.160 M.
 <!-- id: chem-3-3-8 -->
 
 Explanation: Check: (0.160)² ÷ (0.0200)² = 0.0256 ÷ 0.000400 = 64.0.
 
-**A1210.** A. The net reaction proceeds in the forward direction until Q = K
+**A1212.** A. The net reaction proceeds in the forward direction until Q = K
 <!-- id: chem-3-3-9 -->
 
 Explanation: Q < K means the ratio of products to reactants is too small, so more products form.
 
-**A1211.** D. Q = 8.0 × 10⁻⁴, so the net reaction proceeds forward, producing more NO₂
+**A1213.** D. Q = 8.0 × 10⁻⁴, so the net reaction proceeds forward, producing more NO₂
 <!-- id: chem-3-3-10 -->
 
 Explanation: Q = (0.020)² ÷ 0.50 = 8.0 × 10⁻⁴, which is less than Kc, so the forward reaction is favoured.
 
-**A1212.** D. Changing the temperature
+**A1214.** D. Changing the temperature
 <!-- id: chem-3-3-11 -->
 
 Explanation: K depends only on temperature for a given equation; other changes shift the position but leave K unchanged.
 
-**A1213.** Q = (0.50)² ÷ ((0.10)² × 0.050) = 0.25 ÷ 0.00050 = 500 M⁻¹. Q > Kc, so the mixture is not at equilibrium and the net reaction proceeds in the reverse direction (forming more SO₂ and O₂).
+**A1215.** Q = (0.50)² ÷ ((0.10)² × 0.050) = 0.25 ÷ 0.00050 = 500 M⁻¹. Q > Kc, so the mixture is not at equilibrium and the net reaction proceeds in the reverse direction (forming more SO₂ and O₂).
 <!-- id: chem-3-3-12 -->
 
 Explanation: When Q > K there are too many products relative to reactants.
 
-**A1214.** A. It decreases
+**A1216.** A. It decreases
 <!-- id: chem-3-3-13 -->
 
 Explanation: Raising the temperature favours the endothermic (reverse) direction, lowering the product-to-reactant ratio and therefore Kc.
 
-**A1215.** A. 0.10 M
+**A1217.** A. 0.10 M
 <!-- id: chem-3-3-14 -->
 
 Explanation: At equilibrium [PCl₅] = 1.60 M and [PCl₃] = [Cl₂] = 0.40 M; Kc = (0.40 × 0.40) ÷ 1.60 = 0.10 M.
 
-**A1216.** D. 0.0579 M⁻²
+**A1218.** D. 0.0579 M⁻²
 <!-- id: chem-3-3-15 -->
 
 Explanation: At equilibrium n(N₂) = 0.800, n(H₂) = 2.40, n(NH₃) = 0.400 mol, so concentrations are 0.400, 1.20 and 0.200 M; Kc = 0.0400 ÷ (0.400 × 1.728) = 0.0579 M⁻².
 
-**A1217.** Adding reactant makes Q smaller than K, so the forward reaction is temporarily favoured. Concentrations then adjust until the ratio of products to reactants again equals K. K depends only on temperature, which has not changed.
+**A1219.** Adding reactant makes Q smaller than K, so the forward reaction is temporarily favoured. Concentrations then adjust until the ratio of products to reactants again equals K. K depends only on temperature, which has not changed.
 <!-- id: chem-3-3-16 -->
 
 Explanation: Distinguish between the equilibrium position (which shifts) and the equilibrium constant (which does not).
 
-**A1218.** A. 0.80 M
+**A1220.** A. 0.80 M
 <!-- id: chem-3-3-17 -->
 
 Explanation: Kc = x ÷ (1.00 − x) = 4.0, so x = 4.0 − 4.0x, giving 5.0x = 4.0 and x = 0.80 M.
 
-**A1219.** C. 1.6 × 10⁵ M²
+**A1221.** C. 1.6 × 10⁵ M²
 <!-- id: chem-3-3-18 -->
 
 Explanation: Reversing gives 1/K = 400; doubling the coefficients squares this: 400² = 1.6 × 10⁵ M².
 
-**A1220.** C. No units
+**A1222.** C. No units
 <!-- id: chem-3-3-19 -->
 
 Explanation: There are two concentration terms on top and two on the bottom, so the units cancel.
 
-**A1221.** Reversing gives 1/2.0 = 0.50 M; doubling the coefficients squares this: (0.50)² = 0.25 M².
+**A1223.** Reversing gives 1/2.0 = 0.50 M; doubling the coefficients squares this: (0.50)² = 0.25 M².
 <!-- id: chem-3-3-20 -->
 
 Explanation: Units: [A]²[B]² ÷ [C]² = M⁴ ÷ M² = M².
 
-**A1222.** D. The rates of the forward and reverse reactions are equal and non-zero
+**A1224.** D. The rates of the forward and reverse reactions are equal and non-zero
 <!-- id: chem-3-3-21 -->
 
 Explanation: At dynamic equilibrium both reactions continue at equal rates, so concentrations stay constant (but are not necessarily equal).
 
-**A1223.** B. 217 M⁻¹
+**A1225.** B. 217 M⁻¹
 <!-- id: chem-3-3-22 -->
 
 Explanation: Reversing the equation gives the reciprocal: 1 ÷ (4.6 × 10⁻³) = 217 M⁻¹.
 
-**A1224.** C. PCl₅(g) ⇌ PCl₃(g) + Cl₂(g)
+**A1226.** C. PCl₅(g) ⇌ PCl₃(g) + Cl₂(g)
 <!-- id: chem-3-3-23 -->
 
 Explanation: For PCl₅ decomposition, units = (M × M) ÷ M = M; the others give no units, M⁻¹ and M⁻² respectively.
 
-**A1225.** In a closed system, the forward and reverse reactions continue to occur at equal rates, so there is no net change in the concentrations of reactants and products, even though particles are still reacting.
+**A1227.** In a closed system, the forward and reverse reactions continue to occur at equal rates, so there is no net change in the concentrations of reactants and products, even though particles are still reacting.
 <!-- id: chem-3-3-24 -->
 
 Explanation: Both 'equal rates' and 'reactions still occurring' must be stated.
 
-**A1226.** NO₂ reacted = 2 × 0.200 = 0.400 mol, so 0.400 mol NO₂ remains. [NO₂] = 0.200 M and [N₂O₄] = 0.100 M. Kc = 0.100 ÷ (0.200)² = 2.50 M⁻¹.
+**A1228.** NO₂ reacted = 2 × 0.200 = 0.400 mol, so 0.400 mol NO₂ remains. [NO₂] = 0.200 M and [N₂O₄] = 0.100 M. Kc = 0.100 ÷ (0.200)² = 2.50 M⁻¹.
 <!-- id: chem-3-3-25 -->
 
 Explanation: Remember to use the 2:1 mole ratio and convert moles to concentrations before substituting.
 
-**A1227.** B. [NH₃]²/([N₂][H₂]³)
+**A1229.** B. [NH₃]²/([N₂][H₂]³)
 <!-- id: chem34a2-eq-1 -->
 
 Explanation: K is products over reactants, each concentration raised to the power of its coefficient in the balanced equation: [NH₃]²/([N₂][H₂]³). The inverse expression is K for the reverse reaction, and coefficients are never used as multipliers or sums.
 
-**A1228.** D. M⁻¹ (L mol⁻¹)
+**A1230.** D. M⁻¹ (L mol⁻¹)
 <!-- id: chem34a2-eq-2 -->
 
 Explanation: K = [SO₃]²/([SO₂]²[O₂]), so the units are M²/(M² × M) = M⁻¹, i.e. L mol⁻¹. K only has no units when total moles of gas are equal on both sides.
 
-**A1229.** A. 0.0625
+**A1231.** A. 0.0625
 <!-- id: chem34a2-eq-3 -->
 
 Explanation: Reversing the equation inverts K (1/4.0 = 0.25), and doubling the coefficients squares it: (0.25)² = 0.0625. 0.25 only accounts for the reversal; 16 only accounts for doubling.
 
-**A1230.** C. The net reaction will proceed in the forward direction until Q increases to K.
+**A1232.** C. The net reaction will proceed in the forward direction until Q increases to K.
 <!-- id: chem34a2-eq-4 -->
 
 Explanation: Q < K means there are relatively too few products, so the forward reaction is favoured until Q rises to equal K. K is fixed at a given temperature; only Q changes.
 
-**A1231.** B. At equilibrium, the mixture contains mainly products.
+**A1233.** B. At equilibrium, the mixture contains mainly products.
 <!-- id: chem34a2-eq-5 -->
 
 Explanation: A very large K means the equilibrium position lies far to the right, so products dominate. K gives no information about rate (kinetics) or the sign of ΔH.
 
-**A1232.** n(H₂) reacted = n(I₂) reacted = 0.780/2 = 0.390 mol, so 0.110 mol of each remains; equilibrium concentrations: [H₂] = [I₂] = 0.110/2.00 = 0.0550 M, [HI] = 0.780/2.00 = 0.390 M; K = [HI]²/([H₂][I₂]) = 0.390²/(0.0550 × 0.0550) = 50.3 (no units, as the mole totals on each side are equal).
+**A1234.** n(H₂) reacted = n(I₂) reacted = 0.780/2 = 0.390 mol, so 0.110 mol of each remains; equilibrium concentrations: [H₂] = [I₂] = 0.110/2.00 = 0.0550 M, [HI] = 0.780/2.00 = 0.390 M; K = [HI]²/([H₂][I₂]) = 0.390²/(0.0550 × 0.0550) = 50.3 (no units, as the mole totals on each side are equal).
 <!-- id: chem34a2-eq-6 -->
 
 Explanation:
 
-**A1233.** Q = [N₂O₄]/[NO₂]² = 0.50/(0.20)² = 12.5 M⁻¹; Q > K (12.5 > 6.0), so the system is not at equilibrium; net reverse reaction occurs, so [NO₂] increases (and [N₂O₄] decreases) until Q = K.
+**A1235.** Q = [N₂O₄]/[NO₂]² = 0.50/(0.20)² = 12.5 M⁻¹; Q > K (12.5 > 6.0), so the system is not at equilibrium; net reverse reaction occurs, so [NO₂] increases (and [N₂O₄] decreases) until Q = K.
 <!-- id: chem34a2-eq-7 -->
 
 Explanation:
 
-**A1234.** In a closed system the forward and reverse reactions continue to occur at equal rates, so the concentrations of reactants and products stay constant (no net change), even though particles are still reacting; only a change in temperature changes the value of K.
+**A1236.** In a closed system the forward and reverse reactions continue to occur at equal rates, so the concentrations of reactants and products stay constant (no net change), even though particles are still reacting; only a change in temperature changes the value of K.
 <!-- id: chem34a2-eq-8 -->
 
 Explanation:
 
 #### Le Chatelier's principle and yield optimisation
 
-**A1235.** D. The equilibrium shifts to the right, because there are fewer gas particles on the product side
+**A1237.** D. The equilibrium shifts to the right, because there are fewer gas particles on the product side
 <!-- id: chem-3-4-1 -->
 
 Explanation: Increasing pressure favours the side with fewer moles of gas (2 vs 4), partially opposing the increase.
 
-**A1236.** C. The rate increases but the equilibrium yield of ammonia decreases
+**A1238.** C. The rate increases but the equilibrium yield of ammonia decreases
 <!-- id: chem-3-4-2 -->
 
 Explanation: Higher temperature speeds up both reactions but favours the endothermic reverse reaction, reducing the yield.
 
-**A1237.** D. a moderate temperature gives an acceptable yield at a fast enough rate (a compromise)
+**A1239.** D. a moderate temperature gives an acceptable yield at a fast enough rate (a compromise)
 <!-- id: chem-3-4-3 -->
 
 Explanation: At low temperatures the rate is uneconomically slow; ~450 °C balances rate against yield.
 
-**A1238.** Increasing pressure (by decreasing volume) increases the concentration of all gases. The system partially opposes this by shifting to the side with fewer gas particles; there are 4 mol of gas on the left and 2 mol on the right, so the equilibrium shifts right, increasing the yield of ammonia.
+**A1240.** Increasing pressure (by decreasing volume) increases the concentration of all gases. The system partially opposes this by shifting to the side with fewer gas particles; there are 4 mol of gas on the left and 2 mol on the right, so the equilibrium shifts right, increasing the yield of ammonia.
 <!-- id: chem-3-4-4 -->
 
 Explanation: Reference to the mole ratio of gas particles (4:2) is required.
 
-**A1239.** C. It does not change
+**A1241.** C. It does not change
 <!-- id: chem-3-4-5 -->
 
 Explanation: A catalyst increases forward and reverse rates equally, so the equilibrium position is unaffected.
 
-**A1240.** D. It does not shift
+**A1242.** D. It does not shift
 <!-- id: chem-3-4-6 -->
 
 Explanation: At constant volume the concentrations (partial pressures) of the reacting gases are unchanged, so Q still equals K.
 
-**A1241.** D. shift the equilibrium to the right, increasing the overall conversion of reactants
+**A1243.** D. shift the equilibrium to the right, increasing the overall conversion of reactants
 <!-- id: chem-3-4-7 -->
 
 Explanation: Removing a product lowers Q below K, so the forward reaction is favoured to replace it.
 
-**A1242.** Because the reaction is exothermic, lower temperatures give a higher equilibrium yield. However, at low temperatures the rate is too slow to be economical. About 450 °C (with an iron catalyst) is a compromise that gives an acceptable yield at a fast enough rate.
+**A1244.** Because the reaction is exothermic, lower temperatures give a higher equilibrium yield. However, at low temperatures the rate is too slow to be economical. About 450 °C (with an iron catalyst) is a compromise that gives an acceptable yield at a fast enough rate.
 <!-- id: chem-3-4-8 -->
 
 Explanation: Both the yield argument and the rate argument must be addressed.
 
-**A1243.** A. The solution becomes a deeper red
+**A1245.** A. The solution becomes a deeper red
 <!-- id: chem-3-4-9 -->
 
 Explanation: Adding SCN⁻ shifts the equilibrium right, forming more red FeSCN²⁺.
 
-**A1244.** A. The red colour becomes paler
+**A1246.** A. The red colour becomes paler
 <!-- id: chem-3-4-10 -->
 
 Explanation: Removing SCN⁻ as a precipitate shifts the equilibrium left, reducing the concentration of FeSCN²⁺.
 
-**A1245.** C. The mixture becomes darker brown
+**A1247.** C. The mixture becomes darker brown
 <!-- id: chem-3-4-11 -->
 
 Explanation: Heating favours the endothermic reverse reaction, producing more brown NO₂.
 
-**A1246.** The colour immediately becomes darker because [NO₂] increases when the volume decreases. The system then shifts right, towards fewer gas particles, converting some NO₂ to N₂O₄, so the colour lightens. The final colour is still darker than the original because [NO₂] is only partially restored.
+**A1248.** The colour immediately becomes darker because [NO₂] increases when the volume decreases. The system then shifts right, towards fewer gas particles, converting some NO₂ to N₂O₄, so the colour lightens. The final colour is still darker than the original because [NO₂] is only partially restored.
 <!-- id: chem-3-4-12 -->
 
 Explanation: Both the immediate effect and the subsequent shift must be explained.
 
-**A1247.** D. The colour darkens immediately, then lightens somewhat but remains darker than originally
+**A1249.** D. The colour darkens immediately, then lightens somewhat but remains darker than originally
 <!-- id: chem-3-4-13 -->
 
 Explanation: Compression instantly doubles [NO₂]; the system then shifts right (fewer gas particles), partially but not fully reducing [NO₂].
 
-**A1248.** B. No shift occurs, because there are equal numbers of gas particles on each side
+**A1250.** B. No shift occurs, because there are equal numbers of gas particles on each side
 <!-- id: chem-3-4-14 -->
 
 Explanation: With 2 mol of gas on each side, changing volume changes Q and K by the same factor, so there is no net shift.
 
-**A1249.** A. Low temperature and high pressure
+**A1251.** A. Low temperature and high pressure
 <!-- id: chem-3-4-15 -->
 
 Explanation: The forward reaction is exothermic and reduces the number of gas particles (3 → 2).
 
-**A1250.** Kc increases and the yield of hydrogen increases. The forward reaction is endothermic, so increasing temperature favours the forward direction to partially absorb the added heat, increasing the product concentrations relative to reactants.
+**A1252.** Kc increases and the yield of hydrogen increases. The forward reaction is endothermic, so increasing temperature favours the forward direction to partially absorb the added heat, increasing the product concentrations relative to reactants.
 <!-- id: chem-3-4-16 -->
 
 Explanation: Temperature is the only factor that changes K.
 
-**A1251.** C. the conversion to SO₃ is already very high at low pressure, so the extra cost of high pressure is not justified
+**A1253.** C. the conversion to SO₃ is already very high at low pressure, so the extra cost of high pressure is not justified
 <!-- id: chem-3-4-17 -->
 
 Explanation: Conversions of about 99% are achieved at modest pressure, so expensive high-pressure equipment is unnecessary.
 
-**A1252.** A. It shifts to the left, the side with more dissolved particles
+**A1254.** A. It shifts to the left, the side with more dissolved particles
 <!-- id: chem-3-4-18 -->
 
 Explanation: Dilution lowers the total concentration of particles; the system partially opposes this by favouring the side with more particles (Q > K after dilution).
 
-**A1253.** A. It is lower
+**A1255.** A. It is lower
 <!-- id: chem-3-4-19 -->
 
 Explanation: The added H₂ shifts the equilibrium right, consuming some N₂ to form NH₃.
 
-**A1254.** A catalyst speeds up the forward and reverse reactions equally, so the equilibrium position and yield are unchanged. However, equilibrium is reached much faster, and a reasonable rate can be achieved at a lower temperature, where the equilibrium yield is higher, saving time and energy costs.
+**A1256.** A catalyst speeds up the forward and reverse reactions equally, so the equilibrium position and yield are unchanged. However, equilibrium is reached much faster, and a reasonable rate can be achieved at a lower temperature, where the equilibrium yield is higher, saving time and energy costs.
 <!-- id: chem-3-4-20 -->
 
 Explanation: Award a mark for the rate benefit and one for enabling lower operating temperature.
 
-**A1255.** B. High temperature and low pressure
+**A1257.** B. High temperature and low pressure
 <!-- id: chem-3-4-21 -->
 
 Explanation: The forward reaction is endothermic and increases the number of gas particles (2 → 4).
 
-**A1256.** B. If an equilibrium system is subjected to a change, the system adjusts to partially oppose the effect of that change
+**A1258.** B. If an equilibrium system is subjected to a change, the system adjusts to partially oppose the effect of that change
 <!-- id: chem-3-4-22 -->
 
 Explanation: The system shifts to partially counteract the change; it cannot fully restore the original conditions.
 
-**A1257.** B. The value of K has increased and the yield of products is greater
+**A1259.** B. The value of K has increased and the yield of products is greater
 <!-- id: chem-3-4-23 -->
 
 Explanation: Raising temperature favours the endothermic forward direction, increasing both the product concentrations and K.
 
-**A1258.** 1) Use an excess of ethanol (or ethanoic acid): increasing a reactant concentration shifts the equilibrium right. 2) Remove a product as it forms, e.g. by distilling off the ester or using concentrated H₂SO₄ to absorb water: lowering product concentration shifts the equilibrium right.
+**A1260.** 1) Use an excess of ethanol (or ethanoic acid): increasing a reactant concentration shifts the equilibrium right. 2) Remove a product as it forms, e.g. by distilling off the ester or using concentrated H₂SO₄ to absorb water: lowering product concentration shifts the equilibrium right.
 <!-- id: chem-3-4-24 -->
 
 Explanation: Any two valid methods with a Le Chatelier explanation are acceptable; a catalyst alone does not increase yield.
 
-**A1259.** [O₂] is higher than originally (but lower than immediately after the addition); [SO₂] is lower; [SO₃] is higher; Kc is unchanged because the temperature is constant.
+**A1261.** [O₂] is higher than originally (but lower than immediately after the addition); [SO₂] is lower; [SO₃] is higher; Kc is unchanged because the temperature is constant.
 <!-- id: chem-3-4-25 -->
 
 Explanation: The system only partially opposes the addition of O₂, so [O₂] remains above its original value.
 
-**A1260.** B. The mixture becomes browner and the value of K increases.
+**A1262.** B. The mixture becomes browner and the value of K increases.
 <!-- id: chem34a2-lc-1 -->
 
 Explanation: Increasing temperature favours the endothermic (forward) direction to partially absorb the added energy, producing more brown NO₂. For an endothermic reaction, K increases with temperature, so K does change.
 
-**A1261.** D. The forward and reverse rates increase equally, so the position does not change.
+**A1263.** D. The forward and reverse rates increase equally, so the position does not change.
 <!-- id: chem34a2-lc-2 -->
 
 Explanation: A catalyst lowers the activation energy for both the forward and reverse reactions by the same amount, so both rates increase equally. Equilibrium is reached faster, but the position and K are unchanged.
 
-**A1262.** A. The colour becomes darker and the equilibrium position does not shift.
+**A1264.** A. The colour becomes darker and the equilibrium position does not shift.
 <!-- id: chem34a2-lc-3 -->
 
 Explanation: Halving the volume doubles every concentration, so [I₂] increases and the colour darkens. Both sides have 2 mol of gas, so Q still equals K and there is no shift.
 
-**A1263.** C. The equilibrium position does not change.
+**A1265.** C. The equilibrium position does not change.
 <!-- id: chem34a2-lc-4 -->
 
 Explanation: At constant volume, adding an inert gas does not change the concentrations (partial pressures) of the reacting species, so Q stays equal to K and nothing shifts. A total pressure rise alone is not a disturbance to the equilibrium.
 
-**A1264.** B. Some SO₃ was added to the vessel.
+**A1266.** B. Some SO₃ was added to the vessel.
 <!-- id: chem34a2-lc-5 -->
 
 Explanation: Only [SO₃] shows an instantaneous jump, which indicates SO₃ was added. A volume change would make all concentrations jump at once; a temperature change produces only gradual changes; a catalyst causes no change at all once at equilibrium.
 
-**A1265.** Decreasing volume increases the concentrations of all gases (increases pressure); by Le Chatelier's principle the system partially opposes this by shifting to the side with fewer gas particles, i.e. forward (3 mol → 1 mol); so the yield of methanol increases; K is unchanged because temperature is constant.
+**A1267.** Decreasing volume increases the concentrations of all gases (increases pressure); by Le Chatelier's principle the system partially opposes this by shifting to the side with fewer gas particles, i.e. forward (3 mol → 1 mol); so the yield of methanol increases; K is unchanged because temperature is constant.
 <!-- id: chem34a2-lc-6 -->
 
 Explanation:
 
-**A1266.** Dilution halves every concentration, so Q = [FeSCN²⁺]/([Fe³⁺][SCN⁻]) becomes (½)/(½ × ½) = 2 × the original value, i.e. Q > K; the net reverse reaction occurs (towards the side with more particles in solution) until Q = K; the solution becomes paler red, both due to dilution and to some FeSCN²⁺ converting back to Fe³⁺ and SCN⁻.
+**A1268.** Dilution halves every concentration, so Q = [FeSCN²⁺]/([Fe³⁺][SCN⁻]) becomes (½)/(½ × ½) = 2 × the original value, i.e. Q > K; the net reverse reaction occurs (towards the side with more particles in solution) until Q = K; the solution becomes paler red, both due to dilution and to some FeSCN²⁺ converting back to Fe³⁺ and SCN⁻.
 <!-- id: chem34a2-lc-7 -->
 
 Explanation:
 
-**A1267.** There is no sudden vertical jump in any concentration at the moment of change; [NH₃] gradually decreases while [N₂] and [H₂] gradually increase (the changes in N₂ : H₂ : NH₃ are in the ratio 1 : 3 : 2) until new constant (horizontal) values are reached; K decreases because the reverse (endothermic) reaction is favoured at higher temperature.
+**A1269.** There is no sudden vertical jump in any concentration at the moment of change; [NH₃] gradually decreases while [N₂] and [H₂] gradually increase (the changes in N₂ : H₂ : NH₃ are in the ratio 1 : 3 : 2) until new constant (horizontal) values are reached; K decreases because the reverse (endothermic) reaction is favoured at higher temperature.
 <!-- id: chem34a2-lc-8 -->
 
 Explanation:
 
-**A1268.** C. Lower temperatures would give a higher yield, but the rate would be too slow to be economical.
+**A1270.** C. Lower temperatures would give a higher yield, but the rate would be too slow to be economical.
 <!-- id: chem34a2-ind-1 -->
 
 Explanation: Because the forward reaction is exothermic, lower temperatures favour a higher equilibrium yield. However, fewer particles would have energy ≥ Ea, so the rate would be uneconomically slow; ~400–450 °C is a compromise between rate and yield.
 
-**A1269.** A. It increases the rate of reaction without changing the equilibrium yield.
+**A1271.** A. It increases the rate of reaction without changing the equilibrium yield.
 <!-- id: chem34a2-ind-2 -->
 
 Explanation: A catalyst provides an alternative pathway with lower activation energy, so equilibrium is reached faster. It does not alter ΔH, K or the equilibrium yield.
 
-**A1270.** B. It increases the overall conversion of N₂ and H₂ into ammonia.
+**A1272.** B. It increases the overall conversion of N₂ and H₂ into ammonia.
 <!-- id: chem34a2-ind-3 -->
 
 Explanation: Removing NH₃ and recycling unreacted gases means reactants pass through the reactor repeatedly, so nearly all N₂ and H₂ are eventually converted. K depends only on temperature and is not changed.
 
-**A1271.** D. Conversion is already very high (about 99%) at low pressure, so the extra cost of high-pressure equipment is not justified.
+**A1273.** D. Conversion is already very high (about 99%) at low pressure, so the extra cost of high-pressure equipment is not justified.
 <!-- id: chem34a2-ind-4 -->
 
 Explanation: Le Chatelier's principle predicts higher pressure would increase yield, but with a V₂O₅ catalyst, moderate temperature and multiple catalyst beds the conversion is already near-complete, so the cost and safety risks of high pressure are not worthwhile.
 
-**A1272.** C. Rate increases; equilibrium yield decreases.
+**A1274.** C. Rate increases; equilibrium yield decreases.
 <!-- id: chem34a2-ind-5 -->
 
 Explanation: Higher temperature increases the proportion of successful collisions, so rate increases. For an exothermic forward reaction, higher temperature favours the reverse reaction, so K and the equilibrium yield decrease.
 
-**A1273.** Lower temperature would favour a higher equilibrium yield (exothermic forward reaction) but the rate would be too slow, so a moderate temperature with a catalyst gives an acceptable rate; high pressure increases both rate (more frequent collisions) and yield (shift to fewer gas particles, 3 mol → 1 mol); pressure is not raised further because of the energy cost of compression and the cost and safety risk of stronger equipment.
+**A1275.** Lower temperature would favour a higher equilibrium yield (exothermic forward reaction) but the rate would be too slow, so a moderate temperature with a catalyst gives an acceptable rate; high pressure increases both rate (more frequent collisions) and yield (shift to fewer gas particles, 3 mol → 1 mol); pressure is not raised further because of the energy cost of compression and the cost and safety risk of stronger equipment.
 <!-- id: chem34a2-ind-6 -->
 
 Explanation:
 
-**A1274.** n(N₂) = 10.0 × 10⁶ g / 28.0 g mol⁻¹ = 3.57 × 10⁵ mol; n(NH₃) theoretical = 2 × 3.57 × 10⁵ = 7.14 × 10⁵ mol, mass = 7.14 × 10⁵ × 17.0 = 1.21 × 10⁷ g (12.1 t); percentage yield = 2.50/12.1 × 100 = 20.6%.
+**A1276.** n(N₂) = 10.0 × 10⁶ g / 28.0 g mol⁻¹ = 3.57 × 10⁵ mol; n(NH₃) theoretical = 2 × 3.57 × 10⁵ = 7.14 × 10⁵ mol, mass = 7.14 × 10⁵ × 17.0 = 1.21 × 10⁷ g (12.1 t); percentage yield = 2.50/12.1 × 100 = 20.6%.
 <!-- id: chem34a2-ind-7 -->
 
 Explanation:
 
-**A1275.** A catalyst lowers the activation energy, so an acceptable rate can be reached at a lower temperature; this means less energy (often from fossil fuels) is needed for heating, reducing costs and CO₂ emissions; a catalyst is also not consumed, so it can be reused.
+**A1277.** A catalyst lowers the activation energy, so an acceptable rate can be reached at a lower temperature; this means less energy (often from fossil fuels) is needed for heating, reducing costs and CO₂ emissions; a catalyst is also not consumed, so it can be reused.
 <!-- id: chem34a2-ind-8 -->
 
 Explanation:
@@ -6591,628 +6703,628 @@ Explanation:
 
 #### Electrolytic cell design and products
 
-**A1276.** A. anode, which is connected to the positive terminal of the power supply
+**A1278.** A. anode, which is connected to the positive terminal of the power supply
 <!-- id: chem-4-1-1 -->
 
 Explanation: Oxidation always occurs at the anode; in an electrolytic cell the anode is the positive electrode because the power supply draws electrons away from it.
 
-**A1277.** B. Electrical energy to chemical energy
+**A1279.** B. Electrical energy to chemical energy
 <!-- id: chem-4-1-2 -->
 
 Explanation: An external power supply forces a non-spontaneous reaction to occur, storing electrical energy as chemical energy in the products.
 
-**A1278.** C. sodium liquid
+**A1280.** C. sodium liquid
 <!-- id: chem-4-1-3 -->
 
 Explanation: With no water present, the only species that can be reduced is Na⁺, giving Na(l) at the cathode.
 
-**A1279.** Anode: 2Br⁻(l) → Br₂(g) + 2e⁻. Cathode: K⁺(l) + e⁻ → K(l).
+**A1281.** Anode: 2Br⁻(l) → Br₂(g) + 2e⁻. Cathode: K⁺(l) + e⁻ → K(l).
 <!-- id: chem-4-1-4 -->
 
 Explanation: Only K⁺ and Br⁻ are present in the melt; states should be (l) for the ions in the melt.
 
-**A1280.** D. chlorine gas
+**A1282.** D. chlorine gas
 <!-- id: chem-4-1-5 -->
 
 Explanation: Cl⁻ is the only species available to be oxidised in the melt: 2Cl⁻ → Cl₂ + 2e⁻.
 
-**A1281.** A. Hydrogen gas and hydroxide ions
+**A1283.** A. Hydrogen gas and hydroxide ions
 <!-- id: chem-4-1-6 -->
 
 Explanation: Water (E° = −0.83 V) is a far stronger oxidant than Na⁺ (E° = −2.71 V), so 2H₂O + 2e⁻ → H₂ + 2OH⁻ occurs.
 
-**A1282.** B. 2 : 1
+**A1284.** B. 2 : 1
 <!-- id: chem-4-1-7 -->
 
 Explanation: Water is electrolysed: 2H₂O → 2H₂ + O₂, so hydrogen (cathode) and oxygen (anode) form in a 2 : 1 mole and volume ratio.
 
-**A1283.** Water is a stronger oxidant than Na⁺ (E° −0.83 V compared with −2.71 V), so water is reduced at the cathode to H₂ and OH⁻ instead of Na⁺ being reduced to Na.
+**A1285.** Water is a stronger oxidant than Na⁺ (E° −0.83 V compared with −2.71 V), so water is reduced at the cathode to H₂ and OH⁻ instead of Na⁺ being reduced to Na.
 <!-- id: chem-4-1-8 -->
 
 Explanation: Refer to relative oxidant strengths using the electrochemical series.
 
-**A1284.** C. The blue colour fades and the solution becomes more acidic
+**A1286.** C. The blue colour fades and the solution becomes more acidic
 <!-- id: chem-4-1-9 -->
 
 Explanation: Cu²⁺ is removed as copper at the cathode (colour fades) while water is oxidised at the anode producing O₂ and H⁺ (pH falls).
 
-**A1285.** D. The anode is oxidised to Cu²⁺ and the concentration of Cu²⁺ in solution stays approximately constant
+**A1287.** D. The anode is oxidised to Cu²⁺ and the concentration of Cu²⁺ in solution stays approximately constant
 <!-- id: chem-4-1-10 -->
 
 Explanation: Copper metal is a stronger reductant than water, so the anode dissolves at the same rate Cu²⁺ is deposited at the cathode.
 
-**A1286.** A. the high Cl⁻ concentration and the large overpotential for O₂ formation favour oxidation of Cl⁻
+**A1288.** A. the high Cl⁻ concentration and the large overpotential for O₂ formation favour oxidation of Cl⁻
 <!-- id: chem-4-1-11 -->
 
 Explanation: Under standard conditions water (1.23 V) would be oxidised before Cl⁻ (1.36 V), but high [Cl⁻] and the overpotential for O₂ make Cl₂ the main product.
 
-**A1287.** 2H₂O(l) → 2H₂(g) + O₂(g)
+**A1289.** 2H₂O(l) → 2H₂(g) + O₂(g)
 <!-- id: chem-4-1-12 -->
 
 Explanation: Cathode: 4H⁺ + 4e⁻ → 2H₂; anode: 2H₂O → O₂ + 4H⁺ + 4e⁻; H⁺ cancels, leaving decomposition of water.
 
-**A1288.** B. iodine and hydrogen
+**A1290.** B. iodine and hydrogen
 <!-- id: chem-4-1-13 -->
 
 Explanation: I⁻ (E° 0.54 V) is a stronger reductant than water (1.23 V) so it is oxidised to I₂; water is reduced to H₂ in preference to K⁺.
 
-**A1289.** C. water would be reduced in preference to Al³⁺
+**A1291.** C. water would be reduced in preference to Al³⁺
 <!-- id: chem-4-1-14 -->
 
 Explanation: Al³⁺ (E° = −1.66 V) is a much weaker oxidant than water (−0.83 V), so in water only H₂ would form at the cathode.
 
-**A1290.** D. 0.89 V
+**A1292.** D. 0.89 V
 <!-- id: chem-4-1-15 -->
 
 Explanation: Minimum voltage = E°(anode reaction couple) − E°(cathode reaction couple) = 1.23 − 0.34 = 0.89 V.
 
-**A1291.** 2Ni²⁺(aq) + 2H₂O(l) → 2Ni(s) + O₂(g) + 4H⁺(aq)
+**A1293.** 2Ni²⁺(aq) + 2H₂O(l) → 2Ni(s) + O₂(g) + 4H⁺(aq)
 <!-- id: chem-4-1-16 -->
 
 Explanation: Ni²⁺ (−0.23 V) is a stronger oxidant than water (−0.83 V), so Ni deposits; sulfate is not oxidised so water is oxidised to O₂.
 
-**A1292.** A. from the anode to the positive terminal of the power supply, and from the negative terminal to the cathode
+**A1294.** A. from the anode to the positive terminal of the power supply, and from the negative terminal to the cathode
 <!-- id: chem-4-1-17 -->
 
 Explanation: Electrons are released at the anode, pumped by the power supply and delivered to the cathode; ions, not electrons, carry charge through the electrolyte.
 
-**A1293.** B. cathode, which is negative
+**A1295.** B. cathode, which is negative
 <!-- id: chem-4-1-18 -->
 
 Explanation: Positive ions are attracted to the negative electrode, which in an electrolytic cell is the cathode where reduction occurs.
 
-**A1294.** C. silver at the cathode and oxygen at the anode
+**A1296.** C. silver at the cathode and oxygen at the anode
 <!-- id: chem-4-1-19 -->
 
 Explanation: Ag⁺ (0.80 V) is a stronger oxidant than water so silver deposits; NO₃⁻ is not oxidised, so water is oxidised to O₂.
 
-**A1295.** 0.54 − (−0.83) = 1.37 V
+**A1297.** 0.54 − (−0.83) = 1.37 V
 <!-- id: chem-4-1-20 -->
 
 Explanation: The applied voltage must at least equal the difference between the oxidation and reduction couples; in practice more is needed because of resistance and overpotential.
 
-**A1296.** D. increases
+**A1298.** D. increases
 <!-- id: chem-4-1-21 -->
 
 Explanation: Reduction of water at the cathode produces OH⁻ ions, raising the local pH.
 
-**A1297.** A. lower the melting point of the electrolyte and reduce energy costs
+**A1299.** A. lower the melting point of the electrolyte and reduce energy costs
 <!-- id: chem-4-1-22 -->
 
 Explanation: The NaCl/CaCl₂ mixture melts at about 600 °C rather than 801 °C, saving energy.
 
-**A1298.** B. they would react together to re-form sodium chloride
+**A1300.** B. they would react together to re-form sodium chloride
 <!-- id: chem-4-1-23 -->
 
 Explanation: Sodium is a powerful reductant and chlorine a powerful oxidant; if they mix they react vigorously, reversing the electrolysis.
 
-**A1299.** The reaction in an electrolytic cell is non-spontaneous (the strongest oxidant present lies below the strongest reductant in the electrochemical series), so electrical energy must be supplied to force electrons from the anode to the cathode.
+**A1301.** The reaction in an electrolytic cell is non-spontaneous (the strongest oxidant present lies below the strongest reductant in the electrochemical series), so electrical energy must be supplied to force electrons from the anode to the cathode.
 <!-- id: chem-4-1-24 -->
 
 Explanation: Mention non-spontaneity and that the supply drives electron flow.
 
-**A1300.** They are inert: they conduct electricity but do not react themselves, so the products depend only on the species in the electrolyte.
+**A1302.** They are inert: they conduct electricity but do not react themselves, so the products depend only on the species in the electrolyte.
 <!-- id: chem-4-1-25 -->
 
 Explanation: A reactive anode, such as copper, would itself be oxidised and change the products.
 
-**A1301.** A. Oxidation occurs at the anode, which is the positive electrode.
+**A1303.** A. Oxidation occurs at the anode, which is the positive electrode.
 <!-- id: chem34a2-ely-1 -->
 
 Explanation: In all cells oxidation occurs at the anode. In an electrolytic cell the anode is connected to the positive terminal of the power supply, which draws electrons away from it. (In a galvanic cell the anode is negative.)
 
-**A1302.** B. Cathode: Na(l); anode: Cl₂(g)
+**A1304.** B. Cathode: Na(l); anode: Cl₂(g)
 <!-- id: chem34a2-ely-2 -->
 
 Explanation: In the molten salt the only species are Na⁺ and Cl⁻ (no water). Na⁺ is reduced at the cathode: Na⁺(l) + e⁻ → Na(l); Cl⁻ is oxidised at the anode: 2Cl⁻(l) → Cl₂(g) + 2e⁻.
 
-**A1303.** D. H₂(g) at the cathode and O₂(g) at the anode, in a 2 : 1 volume ratio
+**A1305.** D. H₂(g) at the cathode and O₂(g) at the anode, in a 2 : 1 volume ratio
 <!-- id: chem34a2-ely-3 -->
 
 Explanation: Water is a stronger oxidant than Na⁺ (−0.83 V vs −2.71 V), so 2H₂O + 2e⁻ → H₂ + 2OH⁻ at the cathode. SO₄²⁻ is not oxidised; water is: 2H₂O → O₂ + 4H⁺ + 4e⁻. Balancing electrons gives 2 H₂ : 1 O₂.
 
-**A1304.** C. The anode loses mass, the cathode gains mass, and [Cu²⁺] stays approximately constant.
+**A1306.** C. The anode loses mass, the cathode gains mass, and [Cu²⁺] stays approximately constant.
 <!-- id: chem34a2-ely-4 -->
 
 Explanation: Cu(s) is a stronger reductant than water, so the copper anode is oxidised: Cu → Cu²⁺ + 2e⁻. Cu²⁺ is reduced at the cathode. Cu²⁺ enters and leaves at the same rate, so its concentration stays about constant (the basis of copper refining).
 
-**A1305.** B. An electrolytic cell uses electrical energy to drive a non-spontaneous redox reaction.
+**A1307.** B. An electrolytic cell uses electrical energy to drive a non-spontaneous redox reaction.
 <!-- id: chem34a2-ely-5 -->
 
 Explanation: An electrolytic cell converts electrical energy into chemical energy, forcing a reaction that would not occur spontaneously. A galvanic cell does the reverse. Electrolytic cells often have a single electrolyte container with no salt bridge, and their cathode is negative while a galvanic cathode is positive.
 
-**A1306.** Cathode: 2H₂O(l) + 2e⁻ → H₂(g) + 2OH⁻(aq) (water, −0.83 V, is a stronger oxidant than K⁺, −2.93 V); anode: 2I⁻(aq) → I₂(aq) + 2e⁻ (I⁻ is a stronger reductant than H₂O, since I₂/I⁻ at +0.54 V is below O₂/H₂O at +1.23 V); overall: 2I⁻(aq) + 2H₂O(l) → I₂(aq) + H₂(g) + 2OH⁻(aq); observations: bubbles of colourless gas at the cathode (pH rises there), brown/yellow colour forming around the anode.
+**A1308.** Cathode: 2H₂O(l) + 2e⁻ → H₂(g) + 2OH⁻(aq) (water, −0.83 V, is a stronger oxidant than K⁺, −2.93 V); anode: 2I⁻(aq) → I₂(aq) + 2e⁻ (I⁻ is a stronger reductant than H₂O, since I₂/I⁻ at +0.54 V is below O₂/H₂O at +1.23 V); overall: 2I⁻(aq) + 2H₂O(l) → I₂(aq) + H₂(g) + 2OH⁻(aq); observations: bubbles of colourless gas at the cathode (pH rises there), brown/yellow colour forming around the anode.
 <!-- id: chem34a2-ely-6 -->
 
 Explanation:
 
-**A1307.** In aqueous solution water is a much stronger oxidant than Na⁺ (E° −0.83 V vs −2.71 V), so water would be reduced to H₂ at the cathode instead of Na⁺; in addition, any sodium formed would react vigorously with water; in molten NaCl there is no water, so Na⁺ is the only species that can be reduced.
+**A1309.** In aqueous solution water is a much stronger oxidant than Na⁺ (E° −0.83 V vs −2.71 V), so water would be reduced to H₂ at the cathode instead of Na⁺; in addition, any sodium formed would react vigorously with water; in molten NaCl there is no water, so Na⁺ is the only species that can be reduced.
 <!-- id: chem34a2-ely-7 -->
 
 Explanation:
 
-**A1308.** The spoon is the cathode, connected to the negative terminal; a silver anode is connected to the positive terminal, with AgNO₃(aq) (a solution of Ag⁺) as the electrolyte; cathode: Ag⁺(aq) + e⁻ → Ag(s); anode: Ag(s) → Ag⁺(aq) + e⁻, which replaces the Ag⁺ removed so [Ag⁺] stays constant.
+**A1310.** The spoon is the cathode, connected to the negative terminal; a silver anode is connected to the positive terminal, with AgNO₃(aq) (a solution of Ag⁺) as the electrolyte; cathode: Ag⁺(aq) + e⁻ → Ag(s); anode: Ag(s) → Ag⁺(aq) + e⁻, which replaces the Ag⁺ removed so [Ag⁺] stays constant.
 <!-- id: chem34a2-ely-8 -->
 
 Explanation:
 
 #### Faraday's laws and calculations
 
-**A1309.** A. 1.20 × 10³ C
+**A1311.** A. 1.20 × 10³ C
 <!-- id: chem-4-2-1 -->
 
 Explanation: Q = It = 2.00 × 600 = 1200 C; forgetting to convert minutes to seconds gives 20.0 C.
 
-**A1310.** B. 0.100 mol
+**A1312.** B. 0.100 mol
 <!-- id: chem-4-2-2 -->
 
 Explanation: n(e⁻) = Q/F = 9650/96 500 = 0.100 mol.
 
-**A1311.** C. 6.35 g
+**A1313.** C. 6.35 g
 <!-- id: chem-4-2-3 -->
 
 Explanation: Cu²⁺ + 2e⁻ → Cu, so n(Cu) = 0.100 mol and m = 0.100 × 63.5 = 6.35 g.
 
-**A1312.** Q = 1.50 × 2700 = 4050 C; n(e⁻) = 4050/96 500 = 0.04197 mol; n(Ni) = 0.02098 mol; m = 0.02098 × 58.7 = 1.23 g.
+**A1314.** Q = 1.50 × 2700 = 4050 C; n(e⁻) = 4050/96 500 = 0.04197 mol; n(Ni) = 0.02098 mol; m = 0.02098 × 58.7 = 1.23 g.
 <!-- id: chem-4-2-4 -->
 
 Explanation: Award marks for Q, mol e⁻, mole ratio 2:1 and final mass to 3 sig figs.
 
-**A1313.** D. 20.1 g
+**A1315.** D. 20.1 g
 <!-- id: chem-4-2-5 -->
 
 Explanation: Q = 5.00 × 3600 = 18 000 C; n(e⁻) = 0.1865 mol = n(Ag); m = 0.1865 × 107.9 = 20.1 g.
 
-**A1314.** A. directly proportional to the quantity of charge passed
+**A1316.** A. directly proportional to the quantity of charge passed
 <!-- id: chem-4-2-6 -->
 
 Explanation: m ∝ Q (= It); more charge delivers more electrons and so more product.
 
-**A1315.** B. 0.10 mol
+**A1317.** B. 0.10 mol
 <!-- id: chem-4-2-7 -->
 
 Explanation: The same charge passes through both: 0.20 mol e⁻ deposits 0.20 mol Ag⁺ → Ag but only 0.10 mol Cu²⁺ → Cu.
 
-**A1316.** n(Ag) = 5.00/107.9 = 0.04634 mol = n(e⁻); Q = 0.04634 × 96 500 = 4472 C; t = 4472/0.750 = 5963 s = 99.4 min.
+**A1318.** n(Ag) = 5.00/107.9 = 0.04634 mol = n(e⁻); Q = 0.04634 × 96 500 = 4472 C; t = 4472/0.750 = 5963 s = 99.4 min.
 <!-- id: chem-4-2-8 -->
 
 Explanation: Ag⁺ needs one electron per atom; remember to convert seconds to minutes.
 
-**A1317.** C. 32.8 min
+**A1319.** C. 32.8 min
 <!-- id: chem-4-2-9 -->
 
 Explanation: n(Zn) = 2.00/65.4 = 0.0306 mol; n(e⁻) = 0.0612 mol; Q = 5902 C; t = 5902/3.00 = 1967 s = 32.8 min.
 
-**A1318.** D. 1.07 × 10⁷ C
+**A1320.** D. 1.07 × 10⁷ C
 <!-- id: chem-4-2-10 -->
 
 Explanation: n(Al) = 1000/27.0 = 37.0 mol; n(e⁻) = 111 mol; Q = 111 × 96 500 = 1.07 × 10⁷ C.
 
-**A1319.** A. 0.248 L
+**A1321.** A. 0.248 L
 <!-- id: chem-4-2-11 -->
 
 Explanation: Q = 1930 C; n(e⁻) = 0.0200 mol; n(Cl₂) = 0.0100 mol; V = 0.0100 × 24.8 = 0.248 L.
 
-**A1320.** Q = 3.00 × 1200 = 3600 C; n(e⁻) = 0.03731 mol; n(O₂) = 0.03731/4 = 0.009326 mol; V = 0.009326 × 24.8 = 0.231 L.
+**A1322.** Q = 3.00 × 1200 = 3600 C; n(e⁻) = 0.03731 mol; n(O₂) = 0.03731/4 = 0.009326 mol; V = 0.009326 × 24.8 = 0.231 L.
 <!-- id: chem-4-2-12 -->
 
 Explanation: Four electrons are released per O₂ molecule: 2H₂O → O₂ + 4H⁺ + 4e⁻.
 
-**A1321.** B. +3
+**A1323.** B. +3
 <!-- id: chem-4-2-13 -->
 
 Explanation: n(e⁻) = 1930/96 500 = 0.0200 mol; n(metal) = 0.347/52.0 = 0.00667 mol; ratio 0.0200/0.00667 = 3.
 
-**A1322.** C. the charge carried by one mole of electrons
+**A1324.** C. the charge carried by one mole of electrons
 <!-- id: chem-4-2-14 -->
 
 Explanation: F = N_A × e = 6.02 × 10²³ × 1.60 × 10⁻¹⁹ ≈ 96 500 C mol⁻¹.
 
-**A1323.** D. stay the same
+**A1325.** D. stay the same
 <!-- id: chem-4-2-15 -->
 
 Explanation: Q = It is unchanged (2I × t/2 = It), so the mass deposited is unchanged.
 
-**A1324.** Q = 150 000 × 86 400 = 1.296 × 10¹⁰ C; n(e⁻) = 1.343 × 10⁵ mol; n(Al) = 4.48 × 10⁴ mol; m = 4.48 × 10⁴ × 27.0 = 1.21 × 10⁶ g = 1.21 t.
+**A1326.** Q = 150 000 × 86 400 = 1.296 × 10¹⁰ C; n(e⁻) = 1.343 × 10⁵ mol; n(Al) = 4.48 × 10⁴ mol; m = 4.48 × 10⁴ × 27.0 = 1.21 × 10⁶ g = 1.21 t.
 <!-- id: chem-4-2-16 -->
 
 Explanation: Al³⁺ + 3e⁻ → Al; check conversion of hours to seconds and grams to tonnes.
 
-**A1325.** A. The charge passed through each cell
+**A1327.** A. The charge passed through each cell
 <!-- id: chem-4-2-17 -->
 
 Explanation: Series connection means the same current flows for the same time through each cell, so Q is identical; product amounts depend on ion charge.
 
-**A1326.** B. 0.100 mol
+**A1328.** B. 0.100 mol
 <!-- id: chem-4-2-18 -->
 
 Explanation: 2H₂O → O₂ + 4H⁺ + 4e⁻, so n(O₂) = 0.400/4 = 0.100 mol.
 
-**A1327.** C. 1.07 A
+**A1329.** C. 1.07 A
 <!-- id: chem-4-2-19 -->
 
 Explanation: n(Cu) = 0.0100 mol; n(e⁻) = 0.0200 mol; Q = 1930 C; I = 1930/1800 = 1.07 A.
 
-**A1328.** For the same quantity of charge, the amount (mol) of substance produced is inversely proportional to the charge on the ion. E.g. 1 mol of electrons deposits 1 mol Ag from Ag⁺ but only 0.5 mol Cu from Cu²⁺.
+**A1330.** For the same quantity of charge, the amount (mol) of substance produced is inversely proportional to the charge on the ion. E.g. 1 mol of electrons deposits 1 mol Ag from Ag⁺ but only 0.5 mol Cu from Cu²⁺.
 <!-- id: chem-4-2-20 -->
 
 Explanation: Any correct pair of ions with different charges is acceptable.
 
-**A1329.** D. 6.24 × 10¹⁸
+**A1331.** D. 6.24 × 10¹⁸
 <!-- id: chem-4-2-21 -->
 
 Explanation: Number of electrons = 1.00/(1.602 × 10⁻¹⁹) = 6.24 × 10¹⁸.
 
-**A1330.** A. 90%
+**A1332.** A. 90%
 <!-- id: chem-4-2-22 -->
 
 Explanation: Theoretical: Q = 7200 C, n(e⁻) = 0.0746 mol, n(Cu) = 0.0373 mol, m = 2.37 g; efficiency = 2.13/2.37 × 100 = 90%.
 
-**A1331.** B. 9.65 × 10³ C
+**A1333.** B. 9.65 × 10³ C
 <!-- id: chem-4-2-23 -->
 
 Explanation: 2H₂O + 2e⁻ → H₂ + 2OH⁻, so n(e⁻) = 0.100 mol and Q = 0.100 × 96 500 = 9650 C.
 
-**A1332.** n(e⁻) = 1930/96 500 = 0.0200 mol; n(Sn) = 1.187/118.7 = 0.0100 mol; ratio 2:1, so the ion is Sn²⁺.
+**A1334.** n(e⁻) = 1930/96 500 = 0.0200 mol; n(Sn) = 1.187/118.7 = 0.0100 mol; ratio 2:1, so the ion is Sn²⁺.
 <!-- id: chem-4-2-24 -->
 
 Explanation: Mole ratio of electrons to metal gives the ion's charge.
 
-**A1333.** n(Ag) = 1.079/107.9 = 0.0100 mol = n(e⁻); n(Cu) = 0.00500 mol; m(Cu) = 0.00500 × 63.5 = 0.318 g.
+**A1335.** n(Ag) = 1.079/107.9 = 0.0100 mol = n(e⁻); n(Cu) = 0.00500 mol; m(Cu) = 0.00500 × 63.5 = 0.318 g.
 <!-- id: chem-4-2-25 -->
 
 Explanation: The same charge passes through both cells; Cu²⁺ needs two electrons per atom.
 
-**A1334.** C. 1.20 × 10³ C
+**A1336.** C. 1.20 × 10³ C
 <!-- id: chem34a2-far-1 -->
 
 Explanation: Q = It = 2.00 A × (10.0 × 60) s = 1.20 × 10³ C. 20.0 C results from forgetting to convert minutes to seconds; 1.24 × 10⁻² is the amount of electrons in mol, not the charge.
 
-**A1335.** B. 6.35 g
+**A1337.** B. 6.35 g
 <!-- id: chem34a2-far-2 -->
 
 Explanation: Cu²⁺(aq) + 2e⁻ → Cu(s), so n(Cu) = 0.200/2 = 0.100 mol and m = 0.100 × 63.5 = 6.35 g. 12.7 g wrongly assumes one electron per Cu.
 
-**A1336.** A. 0.318 g
+**A1338.** A. 0.318 g
 <!-- id: chem34a2-far-3 -->
 
 Explanation: The same charge passes through both cells. n(Ag) = 1.08/107.9 = 0.0100 mol, so n(e⁻) = 0.0100 mol; n(Cu) = 0.0100/2 = 0.00500 mol; m = 0.00500 × 63.5 = 0.318 g. 0.635 g ignores the 2+ charge on copper.
 
-**A1337.** C. To deposit one mole of a metal, the number of moles of electrons required equals the charge on the metal ion.
+**A1339.** C. To deposit one mole of a metal, the number of moles of electrons required equals the charge on the metal ion.
 <!-- id: chem34a2-far-4 -->
 
 Explanation: Faraday's second law: for a given quantity of electricity, the amount of substance produced depends on the number of electrons in the half-equation (the ion's charge). One mole of M³⁺ needs 3 mol of electrons. The first law relates amount of product to the quantity of charge.
 
-**A1338.** C. 1.45 × 10⁴ s
+**A1340.** C. 1.45 × 10⁴ s
 <!-- id: chem34a2-far-5 -->
 
 Explanation: n(e⁻) = 3 × 0.500 = 1.50 mol; Q = 1.50 × 96 500 = 1.45 × 10⁵ C; t = Q/I = 1.45 × 10⁵ / 10.0 = 1.45 × 10⁴ s. 4.83 × 10³ s ignores the factor of 3.
 
-**A1339.** Q = It = 3.50 × (45.0 × 60) = 9.45 × 10³ C; n(e⁻) = 9450/96 500 = 0.0979 mol; n(Cr) = 0.0979/3 = 0.0326 mol (Cr³⁺ + 3e⁻ → Cr); m(Cr) = 0.0326 × 52.0 = 1.70 g.
+**A1341.** Q = It = 3.50 × (45.0 × 60) = 9.45 × 10³ C; n(e⁻) = 9450/96 500 = 0.0979 mol; n(Cr) = 0.0979/3 = 0.0326 mol (Cr³⁺ + 3e⁻ → Cr); m(Cr) = 0.0326 × 52.0 = 1.70 g.
 <!-- id: chem34a2-far-6 -->
 
 Explanation:
 
-**A1340.** Q = 0.500 × 1930 = 965 C; n(e⁻) = 965/96 500 = 0.0100 mol; n(Ni) = 0.300/58.7 = 0.00511 mol; ratio n(e⁻) : n(Ni) = 0.0100/0.00511 ≈ 2, so the ion is Ni²⁺.
+**A1342.** Q = 0.500 × 1930 = 965 C; n(e⁻) = 965/96 500 = 0.0100 mol; n(Ni) = 0.300/58.7 = 0.00511 mol; ratio n(e⁻) : n(Ni) = 0.0100/0.00511 ≈ 2, so the ion is Ni²⁺.
 <!-- id: chem34a2-far-7 -->
 
 Explanation:
 
-**A1341.** Q = 5.00 × (2.00 × 3600) = 3.60 × 10⁴ C; n(e⁻) = 36 000/96 500 = 0.373 mol; 2Cl⁻ → Cl₂ + 2e⁻ so n(Cl₂) = 0.373/2 = 0.187 mol; V = 0.187 × 24.8 = 4.63 L.
+**A1343.** Q = 5.00 × (2.00 × 3600) = 3.60 × 10⁴ C; n(e⁻) = 36 000/96 500 = 0.373 mol; 2Cl⁻ → Cl₂ + 2e⁻ so n(Cl₂) = 0.373/2 = 0.187 mol; V = 0.187 × 24.8 = 4.63 L.
 <!-- id: chem34a2-far-8 -->
 
 Explanation:
 
 #### Rechargeable (secondary) cells
 
-**A1342.** A. an electrolytic cell
+**A1344.** A. an electrolytic cell
 <!-- id: chem-4-3-1 -->
 
 Explanation: Recharging uses an external power supply to drive the non-spontaneous reverse reaction, which is the definition of an electrolytic cell.
 
-**A1343.** B. The discharge products remain in contact with the electrodes so the reaction can be reversed
+**A1345.** B. The discharge products remain in contact with the electrodes so the reaction can be reversed
 <!-- id: chem-4-3-2 -->
 
 Explanation: If products drift away or escape, the reverse reaction cannot regenerate the original reactants at the electrodes.
 
-**A1344.** C. becomes the cathode and is connected to the negative terminal of the charger
+**A1346.** C. becomes the cathode and is connected to the negative terminal of the charger
 <!-- id: chem-4-3-3 -->
 
 Explanation: On recharge the reaction is reversed, so reduction now occurs at that electrode; it is connected to the negative terminal, keeping its negative polarity.
 
-**A1345.** Pb(s) + PbO₂(s) + 4H⁺(aq) + 2SO₄²⁻(aq) → 2PbSO₄(s) + 2H₂O(l)
+**A1347.** Pb(s) + PbO₂(s) + 4H⁺(aq) + 2SO₄²⁻(aq) → 2PbSO₄(s) + 2H₂O(l)
 <!-- id: chem-4-3-4 -->
 
 Explanation: Add the anode and cathode half-equations; 2H₂SO₄ in place of 4H⁺ + 2SO₄²⁻ is acceptable.
 
-**A1346.** D. Pb(s) + SO₄²⁻(aq) → PbSO₄(s) + 2e⁻
+**A1348.** D. Pb(s) + SO₄²⁻(aq) → PbSO₄(s) + 2e⁻
 <!-- id: chem-4-3-5 -->
 
 Explanation: Lead metal is oxidised to insoluble PbSO₄ that stays on the electrode.
 
-**A1347.** A. PbO₂(s) + SO₄²⁻(aq) + 4H⁺(aq) + 2e⁻ → PbSO₄(s) + 2H₂O(l)
+**A1349.** A. PbO₂(s) + SO₄²⁻(aq) + 4H⁺(aq) + 2e⁻ → PbSO₄(s) + 2H₂O(l)
 <!-- id: chem-4-3-6 -->
 
 Explanation: Pb in PbO₂ (+4) is reduced to Pb in PbSO₄ (+2) at the positive electrode.
 
-**A1348.** B. decreases because sulfuric acid is consumed and water is produced
+**A1350.** B. decreases because sulfuric acid is consumed and water is produced
 <!-- id: chem-4-3-7 -->
 
 Explanation: The overall discharge reaction uses H⁺ and SO₄²⁻ and produces water, so the electrolyte becomes less dense.
 
-**A1349.** PbSO₄ is insoluble and stays attached to the electrodes, so when current is reversed it can be oxidised back to PbO₂ at one electrode and reduced back to Pb at the other.
+**A1351.** PbSO₄ is insoluble and stays attached to the electrodes, so when current is reversed it can be oxidised back to PbO₂ at one electrode and reduced back to Pb at the other.
 <!-- id: chem-4-3-8 -->
 
 Explanation: Key idea: products remain in contact with the electrodes.
 
-**A1350.** C. from the graphite electrode to the metal oxide electrode
+**A1352.** C. from the graphite electrode to the metal oxide electrode
 <!-- id: chem-4-3-9 -->
 
 Explanation: During discharge Li is oxidised at the graphite anode and Li⁺ travels through the electrolyte to the metal oxide cathode.
 
-**A1351.** D. LiC₆ → Li⁺ + C₆ + e⁻
+**A1353.** D. LiC₆ → Li⁺ + C₆ + e⁻
 <!-- id: chem-4-3-10 -->
 
 Explanation: Lithium stored in graphite is oxidised to Li⁺, releasing electrons into the external circuit.
 
-**A1352.** A. has a low molar mass and a very low reduction potential, giving a high voltage and energy density
+**A1354.** A. has a low molar mass and a very low reduction potential, giving a high voltage and energy density
 <!-- id: chem-4-3-11 -->
 
 Explanation: Li⁺/Li has E° = −3.04 V and Li is the lightest metal, so cells deliver high energy per kilogram.
 
-**A1353.** Li⁺ + C₆ + e⁻ → LiC₆
+**A1355.** Li⁺ + C₆ + e⁻ → LiC₆
 <!-- id: chem-4-3-12 -->
 
 Explanation: On recharge, Li⁺ ions are reduced and inserted back into the graphite electrode, which is now the cathode.
 
-**A1354.** B. lithium reacts with water
+**A1356.** B. lithium reacts with water
 <!-- id: chem-4-3-13 -->
 
 Explanation: Lithium is a very strong reductant and reacts vigorously with water, producing H₂.
 
-**A1355.** C. the positive electrode of the battery, which becomes the anode during recharging
+**A1357.** C. the positive electrode of the battery, which becomes the anode during recharging
 <!-- id: chem-4-3-14 -->
 
 Explanation: Like terminals are connected so the charger forces electrons out of the positive electrode, oxidising the discharge product there.
 
-**A1356.** D. side reactions and physical changes to the electrodes reduce the amount of reactant that can be regenerated
+**A1358.** D. side reactions and physical changes to the electrodes reduce the amount of reactant that can be regenerated
 <!-- id: chem-4-3-15 -->
 
 Explanation: Examples include large PbSO₄ crystals forming (sulfation), dendrite growth and electrode material breaking down.
 
-**A1357.** The recharge reaction is non-spontaneous, so the applied voltage must exceed the cell's EMF to push electrons in the reverse direction and also overcome internal resistance.
+**A1359.** The recharge reaction is non-spontaneous, so the applied voltage must exceed the cell's EMF to push electrons in the reverse direction and also overcome internal resistance.
 <!-- id: chem-4-3-16 -->
 
 Explanation: Mention reversing the spontaneous reaction and resistance/overpotential losses.
 
-**A1358.** A. hydrogen and oxygen
+**A1360.** A. hydrogen and oxygen
 <!-- id: chem-4-3-17 -->
 
 Explanation: Once PbSO₄ is used up, the applied voltage electrolyses water in the electrolyte, giving H₂ at the cathode and O₂ at the anode.
 
-**A1359.** B. MH + OH⁻ → M + H₂O + e⁻
+**A1361.** B. MH + OH⁻ → M + H₂O + e⁻
 <!-- id: chem-4-3-18 -->
 
 Explanation: The metal hydride is oxidised in the alkaline electrolyte; NiOOH is reduced at the cathode.
 
-**A1360.** C. 2PbSO₄ + 2H₂O → Pb + PbO₂ + 4H⁺ + 2SO₄²⁻
+**A1362.** C. 2PbSO₄ + 2H₂O → Pb + PbO₂ + 4H⁺ + 2SO₄²⁻
 <!-- id: chem-4-3-19 -->
 
 Explanation: Recharging is the reverse of discharge, regenerating Pb, PbO₂ and sulfuric acid.
 
-**A1361.** The polarity of each electrode stays the same (negative stays negative), but the labels swap: the negative electrode is the anode on discharge and the cathode on recharge, and the positive electrode is the cathode on discharge and the anode on recharge.
+**A1363.** The polarity of each electrode stays the same (negative stays negative), but the labels swap: the negative electrode is the anode on discharge and the cathode on recharge, and the positive electrode is the cathode on discharge and the anode on recharge.
 <!-- id: chem-4-3-20 -->
 
 Explanation: Anode is always the site of oxidation; polarity is fixed by how the charger is connected.
 
-**A1362.** D. Cobalt, from the +4 to the +3 oxidation state
+**A1364.** D. Cobalt, from the +4 to the +3 oxidation state
 <!-- id: chem-4-3-21 -->
 
 Explanation: Li⁺ + CoO₂ + e⁻ → LiCoO₂: cobalt's oxidation number falls from +4 to +3; Li stays +1.
 
-**A1363.** A. Alkaline zinc–manganese dioxide cell
+**A1365.** A. Alkaline zinc–manganese dioxide cell
 <!-- id: chem-4-3-22 -->
 
 Explanation: Standard alkaline cells are designed for single use; the others are common secondary cells.
 
-**A1364.** B. +4 to +2
+**A1366.** B. +4 to +2
 <!-- id: chem-4-3-23 -->
 
 Explanation: PbO₂ (Pb +4) is reduced to PbSO₄ (Pb +2).
 
-**A1365.** Six cells of about 2 V each are connected in series, so their voltages add to about 12 V.
+**A1367.** Six cells of about 2 V each are connected in series, so their voltages add to about 12 V.
 <!-- id: chem-4-3-24 -->
 
 Explanation: Voltages add for cells in series.
 
-**A1366.** Advantage: high energy density and low mass give a long driving range and many recharge cycles. Disadvantage: risk of thermal runaway/fire, high cost, or environmental impacts of mining lithium and cobalt.
+**A1368.** Advantage: high energy density and low mass give a long driving range and many recharge cycles. Disadvantage: risk of thermal runaway/fire, high cost, or environmental impacts of mining lithium and cobalt.
 <!-- id: chem-4-3-25 -->
 
 Explanation: Any one valid advantage and disadvantage.
 
-**A1367.** B. The electrode that was the anode during discharge becomes the cathode.
+**A1369.** B. The electrode that was the anode during discharge becomes the cathode.
 <!-- id: chem34a2-bat-1 -->
 
 Explanation: During recharging the cell operates as an electrolytic cell and the discharge reaction is reversed. The electrode that was oxidised (anode) on discharge is now reduced (cathode). The charger's negative terminal connects to the cell's negative electrode, and the polarities themselves stay the same.
 
-**A1368.** C. The discharge product PbSO₄(s) stays in contact with the electrodes, so it can be converted back into reactants.
+**A1370.** C. The discharge product PbSO₄(s) stays in contact with the electrodes, so it can be converted back into reactants.
 <!-- id: chem34a2-bat-2 -->
 
 Explanation: For a cell to be recharged, its discharge products must stay in contact with the electrodes so the reaction can be reversed. In the lead–acid battery solid PbSO₄ forms on both electrodes. If products diffused or escaped as gas, recharging would not regenerate the reactants.
 
-**A1369.** D. Its sulfuric acid concentration and density decrease.
+**A1371.** D. Its sulfuric acid concentration and density decrease.
 <!-- id: chem34a2-bat-3 -->
 
 Explanation: H⁺ and SO₄²⁻ are consumed and water is produced, so [H₂SO₄] falls, the pH rises, and the density of the electrolyte decreases. PbSO₄ is an insoluble white solid, so Pb²⁺ does not build up in solution.
 
-**A1370.** A. Li⁺ ions move from the graphite anode through the electrolyte to the metal oxide cathode.
+**A1372.** A. Li⁺ ions move from the graphite anode through the electrolyte to the metal oxide cathode.
 <!-- id: chem34a2-bat-4 -->
 
 Explanation: On discharge, lithium in the graphite is oxidised (LiC₆ → C₆ + Li⁺ + e⁻), and Li⁺ travels through the non-aqueous electrolyte to the cathode, where it is inserted into the metal oxide. Electrons travel through the external circuit, not ions. The direction reverses on recharge.
 
-**A1371.** B. Side reactions and physical degradation of the electrodes mean that not all products are reconverted into reactants.
+**A1373.** B. Side reactions and physical degradation of the electrodes mean that not all products are reconverted into reactants.
 <!-- id: chem34a2-bat-5 -->
 
 Explanation: Over many cycles, unwanted side reactions (e.g. electrolyte breakdown) and changes to the electrode structure (e.g. crystals forming, cracking) mean that some material can no longer take part in the reversible reaction, so capacity falls.
 
-**A1372.** (a) C₆(s) + Li⁺ + e⁻ → LiC₆(s); (b) the negative terminal of the charger; during recharge reduction occurs at the graphite electrode (it is the cathode), so it must be supplied with electrons from the negative terminal (it remains the negative electrode of the cell).
+**A1374.** (a) C₆(s) + Li⁺ + e⁻ → LiC₆(s); (b) the negative terminal of the charger; during recharge reduction occurs at the graphite electrode (it is the cathode), so it must be supplied with electrons from the negative terminal (it remains the negative electrode of the cell).
 <!-- id: chem34a2-bat-6 -->
 
 Explanation:
 
-**A1373.** 2PbSO₄(s) + 2H₂O(l) → Pb(s) + PbO₂(s) + 4H⁺(aq) + 2SO₄²⁻(aq); PbSO₄ at the positive electrode is oxidised (Pb from +2 to +4 in PbO₂); PbSO₄ at the negative electrode is reduced (Pb from +2 to 0).
+**A1375.** 2PbSO₄(s) + 2H₂O(l) → Pb(s) + PbO₂(s) + 4H⁺(aq) + 2SO₄²⁻(aq); PbSO₄ at the positive electrode is oxidised (Pb from +2 to +4 in PbO₂); PbSO₄ at the negative electrode is reduced (Pb from +2 to 0).
 <!-- id: chem34a2-bat-7 -->
 
 Explanation:
 
-**A1374.** Lithium is a very strong reductant (Li⁺/Li E° = −3.04 V) and would react with water to produce H₂ gas, and water would be reduced/oxidised in preference at the high cell voltage; safety concern: the organic electrolyte is flammable, so overcharging, damage or overheating can lead to thermal runaway and fire.
+**A1376.** Lithium is a very strong reductant (Li⁺/Li E° = −3.04 V) and would react with water to produce H₂ gas, and water would be reduced/oxidised in preference at the high cell voltage; safety concern: the organic electrolyte is flammable, so overcharging, damage or overheating can lead to thermal runaway and fire.
 <!-- id: chem34a2-bat-8 -->
 
 Explanation:
 
 #### Electroplating and comparing cell types
 
-**A1375.** A. the cathode, connected to the negative terminal
+**A1377.** A. the cathode, connected to the negative terminal
 <!-- id: chem-4-4-1 -->
 
 Explanation: Ag⁺ ions are reduced to silver on the object, so the object must be the cathode (negative electrode).
 
-**A1376.** B. pure silver
+**A1378.** B. pure silver
 <!-- id: chem-4-4-2 -->
 
 Explanation: A silver anode is oxidised to Ag⁺, replacing the ions deposited at the cathode.
 
-**A1377.** C. silver ions, such as silver nitrate
+**A1379.** C. silver ions, such as silver nitrate
 <!-- id: chem-4-4-3 -->
 
 Explanation: The electrolyte must contain the ions of the metal to be deposited.
 
-**A1378.** The spoon is the cathode (negative terminal) and a nickel bar is the anode (positive terminal), both in NiSO₄(aq), connected to a DC supply. Cathode: Ni²⁺ + 2e⁻ → Ni; anode: Ni → Ni²⁺ + 2e⁻.
+**A1380.** The spoon is the cathode (negative terminal) and a nickel bar is the anode (positive terminal), both in NiSO₄(aq), connected to a DC supply. Cathode: Ni²⁺ + 2e⁻ → Ni; anode: Ni → Ni²⁺ + 2e⁻.
 <!-- id: chem-4-4-4 -->
 
 Explanation: Must identify object as cathode, nickel anode, Ni²⁺ electrolyte and both half-equations.
 
-**A1379.** D. remains approximately constant
+**A1381.** D. remains approximately constant
 <!-- id: chem-4-4-5 -->
 
 Explanation: Copper dissolves from the anode at the same rate as it is deposited at the cathode.
 
-**A1380.** A. fall to the bottom of the cell as anode sludge
+**A1382.** A. fall to the bottom of the cell as anode sludge
 <!-- id: chem-4-4-6 -->
 
 Explanation: Ag and Au are weaker reductants than Cu so they are not oxidised; they drop off as the anode dissolves.
 
-**A1381.** B. are oxidised to Zn²⁺ but are not reduced at the cathode
+**A1383.** B. are oxidised to Zn²⁺ but are not reduced at the cathode
 <!-- id: chem-4-4-7 -->
 
 Explanation: Zn is a stronger reductant than Cu so it is oxidised, but Zn²⁺ is a weaker oxidant than Cu²⁺ so it stays in solution.
 
-**A1382.** Q = 0.200 × 900 = 180 C; n(e⁻) = 180/96 500 = 1.865 × 10⁻³ mol = n(Au); m = 1.865 × 10⁻³ × 197.0 = 0.367 g.
+**A1384.** Q = 0.200 × 900 = 180 C; n(e⁻) = 180/96 500 = 1.865 × 10⁻³ mol = n(Au); m = 1.865 × 10⁻³ × 197.0 = 0.367 g.
 <!-- id: chem-4-4-8 -->
 
 Explanation: Au⁺ + e⁻ → Au, a 1:1 ratio.
 
-**A1383.** C. The anode is negative in a galvanic cell and positive in an electrolytic cell
+**A1385.** C. The anode is negative in a galvanic cell and positive in an electrolytic cell
 <!-- id: chem-4-4-9 -->
 
 Explanation: Oxidation occurs at the anode in both, but polarity depends on whether electrons are released spontaneously or withdrawn by a power supply.
 
-**A1384.** D. Galvanic cell reactions are spontaneous; electrolytic cell reactions are non-spontaneous
+**A1386.** D. Galvanic cell reactions are spontaneous; electrolytic cell reactions are non-spontaneous
 <!-- id: chem-4-4-10 -->
 
 Explanation: Galvanic cells release energy from a spontaneous redox reaction; electrolytic cells need energy input.
 
-**A1385.** A. reduction occurs at the cathode
+**A1387.** A. reduction occurs at the cathode
 <!-- id: chem-4-4-11 -->
 
 Explanation: In every electrochemical cell, oxidation is at the anode and reduction is at the cathode.
 
-**A1386.** Galvanic: chemical → electrical energy, anode negative. Electrolytic: electrical → chemical energy, anode positive.
+**A1388.** Galvanic: chemical → electrical energy, anode negative. Electrolytic: electrical → chemical energy, anode positive.
 <!-- id: chem-4-4-12 -->
 
 Explanation: Both points are needed for full marks.
 
-**A1387.** B. chemical energy to electrical energy
+**A1389.** B. chemical energy to electrical energy
 <!-- id: chem-4-4-13 -->
 
 Explanation: A galvanic cell converts the chemical energy of a spontaneous redox reaction into electrical energy.
 
-**A1388.** C. In a galvanic cell the half-cells are separated to stop direct reaction, so a salt bridge completes the circuit; electrolytic electrodes usually share one electrolyte
+**A1390.** C. In a galvanic cell the half-cells are separated to stop direct reaction, so a salt bridge completes the circuit; electrolytic electrodes usually share one electrolyte
 <!-- id: chem-4-4-14 -->
 
 Explanation: Separating the oxidant and reductant in a galvanic cell forces electrons through the wire; the salt bridge balances charge.
 
-**A1389.** D. Cr³⁺(aq) + 3e⁻ → Cr(s)
+**A1391.** D. Cr³⁺(aq) + 3e⁻ → Cr(s)
 <!-- id: chem-4-4-15 -->
 
 Explanation: The object is the cathode, where chromium ions are reduced to chromium metal.
 
-**A1390.** Only Cu²⁺, the strongest oxidant present, is reduced at the cathode; more reactive impurities such as Zn and Fe remain in solution as ions, and less reactive Ag and Au fall as sludge.
+**A1392.** Only Cu²⁺, the strongest oxidant present, is reduced at the cathode; more reactive impurities such as Zn and Fe remain in solution as ions, and less reactive Ag and Au fall as sludge.
 <!-- id: chem-4-4-16 -->
 
 Explanation: Refer to relative oxidant/reductant strengths.
 
-**A1391.** A. ensure the plated metal adheres evenly to the surface
+**A1393.** A. ensure the plated metal adheres evenly to the surface
 <!-- id: chem-4-4-17 -->
 
 Explanation: Grease or oxide layers prevent a uniform, well-bonded coating forming.
 
-**A1392.** B. They are equal
+**A1394.** B. They are equal
 <!-- id: chem-4-4-18 -->
 
 Explanation: The same number of electrons flow at each electrode, so equal moles (and mass) of silver dissolve and deposit.
 
-**A1393.** C. greater than the difference between the E° values of the couples involved
+**A1395.** C. greater than the difference between the E° values of the couples involved
 <!-- id: chem-4-4-19 -->
 
 Explanation: The reaction is non-spontaneous, so at least the E° difference (plus overpotential and resistance losses) must be supplied.
 
-**A1394.** Water rather than copper would be oxidised at the anode, producing O₂ and H⁺, so Cu²⁺ would not be replenished; its concentration would fall and the solution would become acidic, slowing and changing plating.
+**A1396.** Water rather than copper would be oxidised at the anode, producing O₂ and H⁺, so Cu²⁺ would not be replenished; its concentration would fall and the solution would become acidic, slowing and changing plating.
 <!-- id: chem-4-4-20 -->
 
 Explanation: A copper anode maintains [Cu²⁺].
 
-**A1395.** D. zinc is a stronger reductant than iron and is oxidised in preference
+**A1397.** D. zinc is a stronger reductant than iron and is oxidised in preference
 <!-- id: chem-4-4-21 -->
 
 Explanation: Zinc acts as a sacrificial anode, being oxidised instead of iron.
 
-**A1396.** A. Increasing the current
+**A1398.** A. Increasing the current
 <!-- id: chem-4-4-22 -->
 
 Explanation: Rate of deposition is proportional to current, since mass ∝ It.
 
-**A1397.** B. anode
+**A1399.** B. anode
 <!-- id: chem-4-4-23 -->
 
 Explanation: Anions move towards the anode to balance the positive charge building up from oxidation (or the electron loss) there.
 
-**A1398.** Q = 3600 C; n(Ag) = 3600/96 500 = 0.03731 mol; m = 4.03 g; V = 4.03/10.5 = 0.3834 cm³; thickness = 0.3834/50.0 = 7.67 × 10⁻³ cm = 76.7 µm.
+**A1400.** Q = 3600 C; n(Ag) = 3600/96 500 = 0.03731 mol; m = 4.03 g; V = 4.03/10.5 = 0.3834 cm³; thickness = 0.3834/50.0 = 7.67 × 10⁻³ cm = 76.7 µm.
 <!-- id: chem-4-4-24 -->
 
 Explanation: 1 cm = 10⁴ µm.
 
-**A1399.** Galvanic cathode is positive; electrolytic cathode is negative. In a galvanic cell electrons are consumed spontaneously at the cathode leaving it relatively positive; in an electrolytic cell the power supply pushes electrons onto the cathode, making it negative.
+**A1401.** Galvanic cathode is positive; electrolytic cathode is negative. In a galvanic cell electrons are consumed spontaneously at the cathode leaving it relatively positive; in an electrolytic cell the power supply pushes electrons onto the cathode, making it negative.
 <!-- id: chem-4-4-25 -->
 
 Explanation: Reduction occurs at the cathode in both cells.
@@ -7221,710 +7333,710 @@ Explanation: Reduction occurs at the cathode in both cells.
 
 #### IUPAC naming and functional groups
 
-**A1400.** A. propan-1-ol
+**A1402.** A. propan-1-ol
 <!-- id: chem-5-1-1 -->
 
 Explanation: Three-carbon chain (prop-) with an –OH on carbon 1 gives propan-1-ol.
 
-**A1401.** B. propan-2-ol
+**A1403.** B. propan-2-ol
 <!-- id: chem-5-1-2 -->
 
 Explanation: The longest chain has three carbons and the –OH is on the middle carbon, carbon 2.
 
-**A1402.** C. propanoic acid
+**A1404.** C. propanoic acid
 <!-- id: chem-5-1-3 -->
 
 Explanation: The carboxyl carbon is counted in the chain, giving three carbons: propanoic acid.
 
-**A1403.** D. propanal
+**A1405.** D. propanal
 <!-- id: chem-5-1-4 -->
 
 Explanation: A –CHO group at the end of a three-carbon chain is an aldehyde, propanal.
 
-**A1404.** A. butan-2-one
+**A1406.** A. butan-2-one
 <!-- id: chem-5-1-5 -->
 
 Explanation: Four carbons with a C=O on carbon 2 (not at the chain end) is the ketone butan-2-one.
 
-**A1405.** B. but-2-ene
+**A1407.** B. but-2-ene
 <!-- id: chem-5-1-6 -->
 
 Explanation: Four carbons with the double bond starting at carbon 2 is but-2-ene.
 
-**A1406.** C. 2-methylbutane
+**A1408.** C. 2-methylbutane
 <!-- id: chem-5-1-7 -->
 
 Explanation: The longest chain is four carbons with a methyl branch; numbering from the nearer end gives locant 2.
 
-**A1407.** D. 1-chlorobutane
+**A1409.** D. 1-chlorobutane
 <!-- id: chem-5-1-8 -->
 
 Explanation: A four-carbon chain with Cl on the end carbon; lowest locant is 1.
 
-**A1408.** A. ethanamine
+**A1410.** A. ethanamine
 <!-- id: chem-5-1-9 -->
 
 Explanation: A two-carbon chain bearing an amino (–NH₂) group is the amine ethanamine.
 
-**A1409.** B. ethanamide
+**A1411.** B. ethanamide
 <!-- id: chem-5-1-10 -->
 
 Explanation: The –CONH₂ amide group includes the carbonyl carbon, so the two-carbon amide is ethanamide.
 
-**A1410.** C. ethyl ethanoate
+**A1412.** C. ethyl ethanoate
 <!-- id: chem-5-1-11 -->
 
 Explanation: CH₃COO– is the ethanoate part (from ethanoic acid) and –CH₂CH₃ is the ethyl part (from ethanol).
 
-**A1411.** D. hydroxyl group (–OH)
+**A1413.** D. hydroxyl group (–OH)
 <!-- id: chem-5-1-12 -->
 
 Explanation: Alcohols contain an –OH group bonded to a saturated carbon atom.
 
-**A1412.** A. propanone
+**A1414.** A. propanone
 <!-- id: chem-5-1-13 -->
 
 Explanation: Propanone, CH₃COCH₃, is a ketone containing C=O; the others have no carbonyl group.
 
-**A1413.** B. secondary
+**A1415.** B. secondary
 <!-- id: chem-5-1-14 -->
 
 Explanation: The carbon bearing the –OH is bonded to two other carbon atoms, making it a secondary alcohol.
 
-**A1414.** C. tertiary
+**A1416.** C. tertiary
 <!-- id: chem-5-1-15 -->
 
 Explanation: The –OH carbon is bonded to three other carbon atoms, so it is a tertiary alcohol.
 
-**A1415.** D. 2-methylbutan-1-ol
+**A1417.** D. 2-methylbutan-1-ol
 <!-- id: chem-5-1-16 -->
 
 Explanation: The longest chain containing the –OH carbon has four carbons; numbering from the –OH end puts the methyl on carbon 2.
 
-**A1416.** A. CₙH₂ₙ₊₂
+**A1418.** A. CₙH₂ₙ₊₂
 <!-- id: chem-5-1-17 -->
 
 Explanation: Alkanes are saturated hydrocarbons with general formula CₙH₂ₙ₊₂, e.g. C₃H₈.
 
-**A1417.** B. 2-chlorobutane
+**A1419.** B. 2-chlorobutane
 <!-- id: chem-5-1-18 -->
 
 Explanation: Four-carbon chain with Cl on carbon 2; numbering from the nearer end gives 2 rather than 3.
 
-**A1418.** Pentan-1-ol.
+**A1420.** Pentan-1-ol.
 <!-- id: chem-5-1-19 -->
 
 Explanation: Five-carbon chain (pent-) with –OH on carbon 1.
 
-**A1419.** CH₃CH₂CH(CH₃)CH₂CH₃
+**A1421.** CH₃CH₂CH(CH₃)CH₂CH₃
 <!-- id: chem-5-1-20 -->
 
 Explanation: A five-carbon chain with a methyl branch on the middle (third) carbon.
 
-**A1420.** The chain should be numbered from the end nearer the branch to give the lowest locant, so the correct name is 2-methylbutane.
+**A1422.** The chain should be numbered from the end nearer the branch to give the lowest locant, so the correct name is 2-methylbutane.
 <!-- id: chem-5-1-21 -->
 
 Explanation: IUPAC rules require the lowest possible locants for substituents.
 
-**A1421.** Methyl methanoate.
+**A1423.** Methyl methanoate.
 <!-- id: chem-5-1-22 -->
 
 Explanation: HCOO– comes from methanoic acid and –CH₃ from methanol; the alkyl (alcohol) part is named first.
 
-**A1422.** Hydroxyl (–OH) and carboxyl (–COOH) groups; IUPAC name 2-hydroxypropanoic acid.
+**A1424.** Hydroxyl (–OH) and carboxyl (–COOH) groups; IUPAC name 2-hydroxypropanoic acid.
 <!-- id: chem-5-1-23 -->
 
 Explanation: The carboxyl carbon is carbon 1, so the –OH is on carbon 2 of a three-carbon acid.
 
-**A1423.** C₇H₁₆O (C₇H₁₅OH).
+**A1425.** C₇H₁₆O (C₇H₁₅OH).
 <!-- id: chem-5-1-24 -->
 
 Explanation: Alcohols follow CₙH₂ₙ₊₁OH; with n = 7 this is C₇H₁₅OH.
 
-**A1424.** Ethanol molecules form hydrogen bonds between their –OH groups as well as dispersion forces, whereas propane has only weak dispersion forces; more energy is needed to separate ethanol molecules.
+**A1426.** Ethanol molecules form hydrogen bonds between their –OH groups as well as dispersion forces, whereas propane has only weak dispersion forces; more energy is needed to separate ethanol molecules.
 <!-- id: chem-5-1-25 -->
 
 Explanation: Molar masses are similar, so dispersion forces are similar; the difference is due to hydrogen bonding.
 
-**A1425.** B. 2-methylbutane
+**A1427.** B. 2-methylbutane
 <!-- id: chem34a2-nom-1 -->
 
 Explanation: The longest carbon chain has 4 carbons (butane), with a methyl branch on carbon 2 when numbered to give the lowest locant. '3-methylbutane' numbers from the wrong end; '2-ethylpropane' does not use the longest chain.
 
-**A1426.** D. Butan-2-ol
+**A1428.** D. Butan-2-ol
 <!-- id: chem34a2-nom-2 -->
 
 Explanation: The parent chain has 4 carbons and the –OH is on carbon 2 when numbered to give it the lowest locant, so butan-2-ol. Numbering from the other end gives the incorrect butan-3-ol.
 
-**A1427.** A. Ethyl ethanoate
+**A1429.** A. Ethyl ethanoate
 <!-- id: chem34a2-nom-3 -->
 
 Explanation: The acid-derived part, CH₃COO–, has 2 carbons (ethanoate); the alcohol-derived part, –CH₂CH₃, is ethyl. The ester is named alkyl (from the alcohol) then alkanoate (from the acid): ethyl ethanoate.
 
-**A1428.** B. Propan-2-amine
+**A1430.** B. Propan-2-amine
 <!-- id: chem34a2-nom-4 -->
 
 Explanation: The amine group is on the middle carbon of a 3-carbon chain, so propan-2-amine. Propan-1-amine would be CH₃CH₂CH₂NH₂.
 
-**A1429.** C. 2-methylbut-2-ene
+**A1431.** C. 2-methylbut-2-ene
 <!-- id: chem34a2-nom-5 -->
 
 Explanation: The longest chain containing the double bond has 4 carbons. Numbering from the right gives the double bond locant 2 either way, so the tie is broken by giving the methyl group the lowest locant (2): 2-methylbut-2-ene.
 
-**A1430.** (a) CH₃CH₂CH(CH₃)CH₂COOH (carbon 1 is the carboxyl carbon, methyl on carbon 3); (b) CH₂ClCHClCH₃.
+**A1432.** (a) CH₃CH₂CH(CH₃)CH₂COOH (carbon 1 is the carboxyl carbon, methyl on carbon 3); (b) CH₂ClCHClCH₃.
 <!-- id: chem34a2-nom-6 -->
 
 Explanation:
 
-**A1431.** The name does not use the longest carbon chain: an ethyl group on carbon 2 of butane extends the main chain to 5 carbons; drawing it as CH₃CH(CH₂CH₃)CH₂CH₃ shows the longest chain is 5 carbons with a methyl on carbon 3, so the correct name is 3-methylpentane.
+**A1433.** The name does not use the longest carbon chain: an ethyl group on carbon 2 of butane extends the main chain to 5 carbons; drawing it as CH₃CH(CH₂CH₃)CH₂CH₃ shows the longest chain is 5 carbons with a methyl on carbon 3, so the correct name is 3-methylpentane.
 <!-- id: chem34a2-nom-7 -->
 
 Explanation:
 
-**A1432.** Propyl butanoate; CH₃CH₂CH₂COOCH₂CH₂CH₃.
+**A1434.** Propyl butanoate; CH₃CH₂CH₂COOCH₂CH₂CH₃.
 <!-- id: chem34a2-nom-8 -->
 
 Explanation:
 
 #### Structural and stereoisomers
 
-**A1433.** C. 2
+**A1435.** C. 2
 <!-- id: chem-5-2-1 -->
 
 Explanation: Butane and 2-methylpropane are the only two arrangements of four carbons.
 
-**A1434.** D. 3
+**A1436.** D. 3
 <!-- id: chem-5-2-2 -->
 
 Explanation: Pentane, 2-methylbutane and 2,2-dimethylpropane.
 
-**A1435.** A. 5
+**A1437.** A. 5
 <!-- id: chem-5-2-3 -->
 
 Explanation: Hexane, 2-methylpentane, 3-methylpentane, 2,2-dimethylbutane and 2,3-dimethylbutane.
 
-**A1436.** B. butan-1-ol and 2-methylpropan-2-ol
+**A1438.** B. butan-1-ol and 2-methylpropan-2-ol
 <!-- id: chem-5-2-4 -->
 
 Explanation: Both are C₄H₁₀O but with different arrangements of atoms; the other pairs have different molecular formulas.
 
-**A1437.** C. butanoic acid
+**A1439.** C. butanoic acid
 <!-- id: chem-5-2-5 -->
 
 Explanation: Butanoic acid, CH₃CH₂CH₂COOH, is also C₄H₈O₂.
 
-**A1438.** D. propanone
+**A1440.** D. propanone
 <!-- id: chem-5-2-6 -->
 
 Explanation: Propanal and propanone both have the formula C₃H₆O.
 
-**A1439.** A. 2
+**A1441.** A. 2
 <!-- id: chem-5-2-7 -->
 
 Explanation: 1-chloropropane and 2-chloropropane.
 
-**A1440.** B. 4
+**A1442.** B. 4
 <!-- id: chem-5-2-8 -->
 
 Explanation: 1-bromobutane, 2-bromobutane, 1-bromo-2-methylpropane and 2-bromo-2-methylpropane.
 
-**A1441.** C. the same molecular formula but different structural formulas
+**A1443.** C. the same molecular formula but different structural formulas
 <!-- id: chem-5-2-9 -->
 
 Explanation: Isomers share a molecular formula; structural isomers differ in how the atoms are bonded.
 
-**A1442.** D. chain isomers
+**A1444.** D. chain isomers
 <!-- id: chem-5-2-10 -->
 
 Explanation: Both are C₅H₁₂ and differ only in the branching of the carbon chain.
 
-**A1443.** A. positional isomers
+**A1445.** A. positional isomers
 <!-- id: chem-5-2-11 -->
 
 Explanation: Same carbon chain and functional group, but the –OH is in a different position.
 
-**A1444.** B. functional group isomers
+**A1446.** B. functional group isomers
 <!-- id: chem-5-2-12 -->
 
 Explanation: Both are C₃H₆O, but one is an aldehyde and the other a ketone.
 
-**A1445.** C. 2-methylpropan-2-ol
+**A1447.** C. 2-methylpropan-2-ol
 <!-- id: chem-5-2-13 -->
 
 Explanation: In 2-methylpropan-2-ol the –OH carbon is bonded to three other carbons.
 
-**A1446.** D. 4
+**A1448.** D. 4
 <!-- id: chem-5-2-14 -->
 
 Explanation: Butan-1-ol, butan-2-ol, 2-methylpropan-1-ol and 2-methylpropan-2-ol.
 
-**A1447.** A. 2,2-dimethylpropane
+**A1449.** A. 2,2-dimethylpropane
 <!-- id: chem-5-2-15 -->
 
 Explanation: The most branched, compact isomer has the smallest contact area and weakest dispersion forces.
 
-**A1448.** B. 3
+**A1450.** B. 3
 <!-- id: chem-5-2-16 -->
 
 Explanation: But-1-ene, but-2-ene and 2-methylpropene.
 
-**A1449.** C. 2-methylhexane
+**A1451.** C. 2-methylhexane
 <!-- id: chem-5-2-17 -->
 
 Explanation: 2-Methylhexane has seven carbons (C₇H₁₆), so it is not C₆H₁₄.
 
-**A1450.** D. 2
+**A1452.** D. 2
 <!-- id: chem-5-2-18 -->
 
 Explanation: Butanoic acid and 2-methylpropanoic acid.
 
-**A1451.** Pentane, 2-methylbutane and 2,2-dimethylpropane.
+**A1453.** Pentane, 2-methylbutane and 2,2-dimethylpropane.
 <!-- id: chem-5-2-19 -->
 
 Explanation: All three are C₅H₁₂ with different degrees of branching.
 
-**A1452.** Methyl ethanoate (CH₃COOCH₃) and ethyl methanoate (HCOOCH₂CH₃).
+**A1454.** Methyl ethanoate (CH₃COOCH₃) and ethyl methanoate (HCOOCH₂CH₃).
 <!-- id: chem-5-2-20 -->
 
 Explanation: Propanoic acid is also C₃H₆O₂ but is a carboxylic acid, not an ester.
 
-**A1453.** Pentane is an unbranched chain, so its molecules have a larger surface area of contact and stronger dispersion forces; the compact, branched 2,2-dimethylpropane has weaker dispersion forces.
+**A1455.** Pentane is an unbranched chain, so its molecules have a larger surface area of contact and stronger dispersion forces; the compact, branched 2,2-dimethylpropane has weaker dispersion forces.
 <!-- id: chem-5-2-21 -->
 
 Explanation: Award the mark only if dispersion forces are linked to molecular shape/contact area.
 
-**A1454.** CH₃CH₂CH₂OH, propan-1-ol; CH₃CH(OH)CH₃, propan-2-ol.
+**A1456.** CH₃CH₂CH₂OH, propan-1-ol; CH₃CH(OH)CH₃, propan-2-ol.
 <!-- id: chem-5-2-22 -->
 
 Explanation: These are positional isomers.
 
-**A1455.** They have different molecular formulas: but-1-ene is C₄H₈ and butane is C₄H₁₀.
+**A1457.** They have different molecular formulas: but-1-ene is C₄H₈ and butane is C₄H₁₀.
 <!-- id: chem-5-2-23 -->
 
 Explanation: Isomers must have the same molecular formula.
 
-**A1456.** 3-Chloropentane.
+**A1458.** 3-Chloropentane.
 <!-- id: chem-5-2-24 -->
 
 Explanation: The middle carbon of a five-carbon chain is carbon 3.
 
-**A1457.** Butan-2-one (butanone), CH₃COCH₂CH₃.
+**A1459.** Butan-2-one (butanone), CH₃COCH₂CH₃.
 <!-- id: chem-5-2-25 -->
 
 Explanation: It is the only ketone with four carbons; a C=O on carbon 2 is the only possible ketone position.
 
-**A1458.** D. 2
+**A1460.** D. 2
 <!-- id: chem34a2-iso-1 -->
 
 Explanation: There are two: butane (straight chain) and 2-methylpropane (branched). Bending a chain or drawing it differently on paper does not create a new isomer.
 
-**A1459.** A. But-2-ene
+**A1461.** A. But-2-ene
 <!-- id: chem34a2-iso-2 -->
 
 Explanation: Cis–trans isomerism needs restricted rotation about C=C and two different groups on each carbon of the double bond. In but-2-ene each double-bond carbon has H and CH₃. But-1-ene and 2-methylpropene each have one carbon bearing two identical groups.
 
-**A1460.** B. Butan-2-ol
+**A1462.** B. Butan-2-ol
 <!-- id: chem34a2-iso-3 -->
 
 Explanation: In butan-2-ol, carbon 2 is bonded to four different groups: H, OH, CH₃ and CH₂CH₃. In propan-2-ol carbon 2 has two identical CH₃ groups, so it is not chiral.
 
-**A1461.** C. Their interaction with plane-polarised light or with other chiral molecules, such as enzymes
+**A1463.** C. Their interaction with plane-polarised light or with other chiral molecules, such as enzymes
 <!-- id: chem34a2-iso-4 -->
 
 Explanation: Enantiomers are non-superimposable mirror images with identical physical properties in a non-chiral environment. They rotate plane-polarised light in opposite directions and can interact differently with chiral biological molecules such as enzymes and receptors.
 
-**A1462.** B. 2
+**A1464.** B. 2
 <!-- id: chem34a2-iso-5 -->
 
 Explanation: Chlorine can be on an end carbon (1-chloropropane) or the middle carbon (2-chloropropane). 3-chloropropane is the same molecule as 1-chloropropane.
 
-**A1463.** There is no rotation about a carbon–carbon double bond, so groups attached to the double-bond carbons are fixed in position; in but-2-ene each double-bond carbon has two different groups (H and CH₃), so the CH₃ groups can be on the same side (cis) or opposite sides (trans); in propene one double-bond carbon has two identical H atoms, so swapping them gives the same molecule and no cis–trans isomers exist.
+**A1465.** There is no rotation about a carbon–carbon double bond, so groups attached to the double-bond carbons are fixed in position; in but-2-ene each double-bond carbon has two different groups (H and CH₃), so the CH₃ groups can be on the same side (cis) or opposite sides (trans); in propene one double-bond carbon has two identical H atoms, so swapping them gives the same molecule and no cis–trans isomers exist.
 <!-- id: chem34a2-iso-6 -->
 
 Explanation:
 
-**A1464.** Butan-1-ol, butan-2-ol, 2-methylpropan-1-ol and 2-methylpropan-2-ol; butan-2-ol is chiral because carbon 2 is bonded to four different groups (H, OH, CH₃, C₂H₅).
+**A1466.** Butan-1-ol, butan-2-ol, 2-methylpropan-1-ol and 2-methylpropan-2-ol; butan-2-ol is chiral because carbon 2 is bonded to four different groups (H, OH, CH₃, C₂H₅).
 <!-- id: chem34a2-iso-7 -->
 
 Explanation:
 
-**A1465.** Biological receptors and enzymes are themselves chiral, so only one enantiomer may fit the active site and produce the desired effect; the other enantiomer may be inactive (wasting material) or cause harmful side effects, as in the case of thalidomide.
+**A1467.** Biological receptors and enzymes are themselves chiral, so only one enantiomer may fit the active site and produce the desired effect; the other enantiomer may be inactive (wasting material) or cause harmful side effects, as in the case of thalidomide.
 <!-- id: chem34a2-iso-8 -->
 
 Explanation:
 
 #### Addition, substitution, oxidation, condensation, hydrolysis
 
-**A1466.** A. ethanol
+**A1468.** A. ethanol
 <!-- id: chem-5-3-1 -->
 
 Explanation: Addition of H₂O across the C=C double bond produces ethanol.
 
-**A1467.** B. addition
+**A1469.** B. addition
 <!-- id: chem-5-3-2 -->
 
 Explanation: Br₂ adds across the double bond to form 1,2-dibromoethane.
 
-**A1468.** C. 2-chloropropane
+**A1470.** C. 2-chloropropane
 <!-- id: chem-5-3-3 -->
 
 Explanation: HCl adds across the C=C, giving a chloropropane (2-chloropropane and/or 1-chloropropane).
 
-**A1469.** D. nickel
+**A1471.** D. nickel
 <!-- id: chem-5-3-4 -->
 
 Explanation: Hydrogenation of alkenes uses a metal catalyst such as Ni, Pt or Pd.
 
-**A1470.** A. substitution
+**A1472.** A. substitution
 <!-- id: chem-5-3-5 -->
 
 Explanation: The –Cl atom is replaced by an –OH group.
 
-**A1471.** B. ethanamine
+**A1473.** B. ethanamine
 <!-- id: chem-5-3-6 -->
 
 Explanation: NH₃ substitutes for the Cl atom, producing ethanamine (CH₃CH₂NH₂) and HCl.
 
-**A1472.** C. propanoic acid
+**A1474.** C. propanoic acid
 <!-- id: chem-5-3-7 -->
 
 Explanation: A primary alcohol is fully oxidised under reflux, via propanal, to the carboxylic acid.
 
-**A1473.** D. propanone
+**A1475.** D. propanone
 <!-- id: chem-5-3-8 -->
 
 Explanation: Secondary alcohols are oxidised to ketones.
 
-**A1474.** A. no reaction occurs and the solution stays orange
+**A1476.** A. no reaction occurs and the solution stays orange
 <!-- id: chem-5-3-9 -->
 
 Explanation: Tertiary alcohols have no H on the –OH carbon, so they are not oxidised by dichromate.
 
-**A1475.** B. orange to green
+**A1477.** B. orange to green
 <!-- id: chem-5-3-10 -->
 
 Explanation: Orange Cr₂O₇²⁻ is reduced to green Cr³⁺.
 
-**A1476.** C. purple to colourless
+**A1478.** C. purple to colourless
 <!-- id: chem-5-3-11 -->
 
 Explanation: Purple MnO₄⁻ is reduced to almost colourless Mn²⁺.
 
-**A1477.** D. condensation (esterification)
+**A1479.** D. condensation (esterification)
 <!-- id: chem-5-3-12 -->
 
 Explanation: Two molecules join to form an ester with the loss of a water molecule.
 
-**A1478.** A. catalyst
+**A1480.** A. catalyst
 <!-- id: chem-5-3-13 -->
 
 Explanation: H₂SO₄ speeds up the reaction without being consumed (it also absorbs water).
 
-**A1479.** B. ethanoic acid and methanamine
+**A1481.** B. ethanoic acid and methanamine
 <!-- id: chem-5-3-14 -->
 
 Explanation: Hydrolysis breaks the C–N amide bond, giving the carboxylic acid and the amine.
 
-**A1480.** C. two molecules join together with the loss of a small molecule such as water
+**A1482.** C. two molecules join together with the loss of a small molecule such as water
 <!-- id: chem-5-3-15 -->
 
 Explanation: Esterification and amide formation are examples of condensation.
 
-**A1481.** D. water
+**A1483.** D. water
 <!-- id: chem-5-3-16 -->
 
 Explanation: –OH from the acid and H from the alcohol combine as H₂O.
 
-**A1482.** A. sodium ethanoate and ethanol
+**A1484.** A. sodium ethanoate and ethanol
 <!-- id: chem-5-3-17 -->
 
 Explanation: Base hydrolysis gives the alcohol and the salt of the carboxylic acid.
 
-**A1483.** B. substitution
+**A1485.** B. substitution
 <!-- id: chem-5-3-18 -->
 
 Explanation: A hydrogen atom on the alkane is replaced by a chlorine atom.
 
-**A1484.** C₂H₄(g) + H₂O(g) → CH₃CH₂OH(g); phosphoric acid (H₃PO₄) catalyst; addition reaction.
+**A1486.** C₂H₄(g) + H₂O(g) → CH₃CH₂OH(g); phosphoric acid (H₃PO₄) catalyst; addition reaction.
 <!-- id: chem-5-3-19 -->
 
 Explanation: States are optional for the equation mark; the catalyst and reaction type must be given.
 
-**A1485.** CH₃CH₂CH₂Br + NaOH → CH₃CH₂CH₂OH + NaBr (or CH₃CH₂CH₂Br + OH⁻ → CH₃CH₂CH₂OH + Br⁻).
+**A1487.** CH₃CH₂CH₂Br + NaOH → CH₃CH₂CH₂OH + NaBr (or CH₃CH₂CH₂Br + OH⁻ → CH₃CH₂CH₂OH + Br⁻).
 <!-- id: chem-5-3-20 -->
 
 Explanation: This is a substitution producing propan-1-ol.
 
-**A1486.** Alkenes are unsaturated, containing a C=C double bond that can open to bond to added atoms; alkanes are saturated with only single bonds, so they can only undergo substitution.
+**A1488.** Alkenes are unsaturated, containing a C=C double bond that can open to bond to added atoms; alkanes are saturated with only single bonds, so they can only undergo substitution.
 <!-- id: chem-5-3-21 -->
 
 Explanation: Reference to the C=C double bond/unsaturation is essential.
 
-**A1487.** Distilling the ethanal off as it forms (limited oxidant) stops further oxidation, giving ethanal; heating under reflux with excess oxidant oxidises it fully to ethanoic acid.
+**A1489.** Distilling the ethanal off as it forms (limited oxidant) stops further oxidation, giving ethanal; heating under reflux with excess oxidant oxidises it fully to ethanoic acid.
 <!-- id: chem-5-3-22 -->
 
 Explanation: Ethanal is an intermediate in the oxidation of a primary alcohol.
 
-**A1488.** 100%, because it is an addition reaction in which all reactant atoms end up in the single desired product.
+**A1490.** 100%, because it is an addition reaction in which all reactant atoms end up in the single desired product.
 <!-- id: chem-5-3-23 -->
 
 Explanation: Atom economy = mass of desired product ÷ total mass of reactants × 100.
 
-**A1489.** Atom economy = 46.0 ÷ (64.5 + 40.0) × 100 = 46.0 ÷ 104.5 × 100 ≈ 44.0%.
+**A1491.** Atom economy = 46.0 ÷ (64.5 + 40.0) × 100 = 46.0 ÷ 104.5 × 100 ≈ 44.0%.
 <!-- id: chem-5-3-24 -->
 
 Explanation: The NaCl by-product lowers the atom economy compared with hydration of ethene.
 
-**A1490.** Add bromine water: hexene rapidly decolourises it (orange/brown to colourless) by addition across the C=C; hexane does not decolourise it quickly.
+**A1492.** Add bromine water: hexene rapidly decolourises it (orange/brown to colourless) by addition across the C=C; hexane does not decolourise it quickly.
 <!-- id: chem-5-3-25 -->
 
 Explanation: Alkanes only react with bromine slowly in UV light.
 
-**A1491.** C. Ethanol; addition
+**A1493.** C. Ethanol; addition
 <!-- id: chem34a2-rxn-1 -->
 
 Explanation: H₂O adds across the C=C double bond (hydration), giving CH₃CH₂OH. It is an addition reaction because two reactants join to form one product and the double bond is lost.
 
-**A1492.** A. CH₃CH₂Cl(l) + OH⁻(aq) → CH₃CH₂OH(aq) + Cl⁻(aq)
+**A1494.** A. CH₃CH₂Cl(l) + OH⁻(aq) → CH₃CH₂OH(aq) + Cl⁻(aq)
 <!-- id: chem34a2-rxn-2 -->
 
 Explanation: In the first reaction the Cl atom of chloroethane is replaced by an –OH group. The two alkene reactions are additions, and the last is combustion.
 
-**A1493.** B. The solution changes from orange to green; propanoic acid forms.
+**A1495.** B. The solution changes from orange to green; propanoic acid forms.
 <!-- id: chem34a2-rxn-3 -->
 
 Explanation: Cr₂O₇²⁻ (orange) is reduced to Cr³⁺ (green) as the primary alcohol is oxidised to the carboxylic acid CH₃CH₂COOH. The purple-to-colourless change is seen with acidified permanganate, and propene is not an oxidation product.
 
-**A1494.** D. It is a condensation reaction catalysed by concentrated H₂SO₄, and water is a by-product.
+**A1496.** D. It is a condensation reaction catalysed by concentrated H₂SO₄, and water is a by-product.
 <!-- id: chem34a2-rxn-4 -->
 
 Explanation: Esterification joins the acid and alcohol with the loss of a small molecule (H₂O), so it is a condensation reaction. It is reversible and catalysed by concentrated sulfuric acid under heat (reflux).
 
-**A1495.** A. C₂H₆(g) + Cl₂(g) → C₂H₅Cl(g) + HCl(g)
+**A1497.** A. C₂H₆(g) + Cl₂(g) → C₂H₅Cl(g) + HCl(g)
 <!-- id: chem34a2-rxn-5 -->
 
 Explanation: Alkanes are saturated, so they undergo substitution, not addition: one H atom is replaced by Cl, with HCl as the other product. C₂H₆Cl₂ is not possible because carbon cannot form more than four bonds.
 
-**A1496.** CH₃COOH(l) + CH₃OH(l) ⇌ CH₃COOCH₃(l) + H₂O(l); product is methyl ethanoate; conditions: a few drops of concentrated H₂SO₄ as a catalyst and heating under reflux.
+**A1498.** CH₃COOH(l) + CH₃OH(l) ⇌ CH₃COOCH₃(l) + H₂O(l); product is methyl ethanoate; conditions: a few drops of concentrated H₂SO₄ as a catalyst and heating under reflux.
 <!-- id: chem34a2-rxn-6 -->
 
 Explanation:
 
-**A1497.** CH₃CH₂Cl + NH₃ → CH₃CH₂NH₂ + HCl; the product is ethanamine; this is a substitution reaction (the Cl atom is replaced by –NH₂).
+**A1499.** CH₃CH₂Cl + NH₃ → CH₃CH₂NH₂ + HCl; the product is ethanamine; this is a substitution reaction (the Cl atom is replaced by –NH₂).
 <!-- id: chem34a2-rxn-7 -->
 
 Explanation:
 
-**A1498.** Propene decolourises the orange/brown bromine water quickly; Br₂ adds across the C=C double bond: CH₂=CHCH₃ + Br₂ → CH₂BrCHBrCH₃ (1,2-dibromopropane); propane is saturated and does not react (without UV light), so the orange colour remains.
+**A1500.** Propene decolourises the orange/brown bromine water quickly; Br₂ adds across the C=C double bond: CH₂=CHCH₃ + Br₂ → CH₂BrCHBrCH₃ (1,2-dibromopropane); propane is saturated and does not react (without UV light), so the orange colour remains.
 <!-- id: chem34a2-rxn-8 -->
 
 Explanation:
 
 #### Reaction pathways, esters and yield
 
-**A1499.** C. react with steam (H₃PO₄ catalyst), then heat under reflux with acidified K₂Cr₂O₇
+**A1501.** C. react with steam (H₃PO₄ catalyst), then heat under reflux with acidified K₂Cr₂O₇
 <!-- id: chem-5-4-1 -->
 
 Explanation: Hydration gives ethanol, which is oxidised to ethanoic acid.
 
-**A1500.** D. ethanol and propanoic acid
+**A1502.** D. ethanol and propanoic acid
 <!-- id: chem-5-4-2 -->
 
 Explanation: The '-ethyl' part comes from the alcohol and 'propanoate' from the carboxylic acid.
 
-**A1501.** A. methyl butanoate
+**A1503.** A. methyl butanoate
 <!-- id: chem-5-4-3 -->
 
 Explanation: The alcohol gives the alkyl name (methyl) and the acid gives the -oate name (butanoate).
 
-**A1502.** B. propan-1-ol and ethanoic acid
+**A1504.** B. propan-1-ol and ethanoic acid
 <!-- id: chem-5-4-4 -->
 
 Explanation: The propyl group comes from propan-1-ol and the ethanoate from ethanoic acid.
 
-**A1503.** C. C₄H₈O₂
+**A1505.** C. C₄H₈O₂
 <!-- id: chem-5-4-5 -->
 
 Explanation: CH₃COOCH₂CH₃ contains 4 C, 8 H and 2 O atoms.
 
-**A1504.** D. heat with NaOH(aq), then heat under reflux with acidified KMnO₄
+**A1506.** D. heat with NaOH(aq), then heat under reflux with acidified KMnO₄
 <!-- id: chem-5-4-6 -->
 
 Explanation: Substitution gives ethanol, which is then oxidised to ethanoic acid.
 
-**A1505.** A. add HCl, then react the chloroethane with NH₃
+**A1507.** A. add HCl, then react the chloroethane with NH₃
 <!-- id: chem-5-4-7 -->
 
 Explanation: Addition gives chloroethane; substitution of Cl by NH₃ gives ethanamine.
 
-**A1506.** B. ester molecules cannot form hydrogen bonds with each other, whereas carboxylic acid molecules can
+**A1508.** B. ester molecules cannot form hydrogen bonds with each other, whereas carboxylic acid molecules can
 <!-- id: chem-5-4-8 -->
 
 Explanation: Esters lack an O–H group, so only dipole–dipole and dispersion forces act between their molecules.
 
-**A1507.** C. 80.1%
+**A1509.** C. 80.1%
 <!-- id: chem-5-4-9 -->
 
 Explanation: n(acid) = 0.200 mol, theoretical mass = 0.200 × 88.0 = 17.6 g; 14.1 ÷ 17.6 × 100 = 80.1%.
 
-**A1508.** D. 60%
+**A1510.** D. 60%
 <!-- id: chem-5-4-10 -->
 
 Explanation: Overall yield = 0.80 × 0.75 × 100 = 60%.
 
-**A1509.** A. fatty acid methyl esters and glycerol
+**A1511.** A. fatty acid methyl esters and glycerol
 <!-- id: chem-5-4-11 -->
 
 Explanation: Transesterification swaps glycerol for methanol, forming methyl esters (biodiesel) and glycerol.
 
-**A1510.** B. ethanoic acid with a concentrated H₂SO₄ catalyst
+**A1512.** B. ethanoic acid with a concentrated H₂SO₄ catalyst
 <!-- id: chem-5-4-12 -->
 
 Explanation: Esterification of ethanol with ethanoic acid produces ethyl ethanoate.
 
-**A1511.** C. methanol and propanoic acid
+**A1513.** C. methanol and propanoic acid
 <!-- id: chem-5-4-13 -->
 
 Explanation: Hydrolysis reverses esterification, giving back the alcohol and carboxylic acid.
 
-**A1512.** D. –COO– (ester linkage)
+**A1514.** D. –COO– (ester linkage)
 <!-- id: chem-5-4-14 -->
 
 Explanation: Esters contain a carbonyl carbon bonded to an oxygen that links to an alkyl group.
 
-**A1513.** A. propyl propanoate
+**A1515.** A. propyl propanoate
 <!-- id: chem-5-4-15 -->
 
 Explanation: CH₃CH₂COO– is propanoate and –CH₂CH₂CH₃ is propyl.
 
-**A1514.** B. propanone
+**A1516.** B. propanone
 <!-- id: chem-5-4-16 -->
 
 Explanation: Substitution gives propan-2-ol, a secondary alcohol, which oxidises to the ketone propanone.
 
-**A1515.** C. 83.0%
+**A1517.** C. 83.0%
 <!-- id: chem-5-4-17 -->
 
 Explanation: 88.0 ÷ (60.0 + 46.0) × 100 = 88.0 ÷ 106.0 × 100 = 83.0%.
 
-**A1516.** D. pentan-1-ol and ethanoic acid
+**A1518.** D. pentan-1-ol and ethanoic acid
 <!-- id: chem-5-4-18 -->
 
 Explanation: The pentyl group comes from pentan-1-ol and the ethanoate from ethanoic acid.
 
-**A1517.** 1) Ethene + steam with H₃PO₄ catalyst → ethanol. 2) Oxidise some ethanol with acidified K₂Cr₂O₇ (or KMnO₄) under reflux → ethanoic acid. 3) React ethanol with ethanoic acid using concentrated H₂SO₄ catalyst → ethyl ethanoate + water.
+**A1519.** 1) Ethene + steam with H₃PO₄ catalyst → ethanol. 2) Oxidise some ethanol with acidified K₂Cr₂O₇ (or KMnO₄) under reflux → ethanoic acid. 3) React ethanol with ethanoic acid using concentrated H₂SO₄ catalyst → ethyl ethanoate + water.
 <!-- id: chem-5-4-19 -->
 
 Explanation: Both the alcohol and acid parts can be made from the ethanol produced in step 1.
 
-**A1518.** CH₃COOH + CH₃OH ⇌ CH₃COOCH₃ + H₂O (concentrated H₂SO₄ catalyst).
+**A1520.** CH₃COOH + CH₃OH ⇌ CH₃COOCH₃ + H₂O (concentrated H₂SO₄ catalyst).
 <!-- id: chem-5-4-20 -->
 
 Explanation: Esterification is a reversible condensation reaction.
 
-**A1519.** n(ethanol) = 23.0 ÷ 46.0 = 0.500 mol; theoretical mass = 0.500 × 88.0 = 44.0 g; actual = 0.650 × 44.0 = 28.6 g.
+**A1521.** n(ethanol) = 23.0 ÷ 46.0 = 0.500 mol; theoretical mass = 0.500 × 88.0 = 44.0 g; actual = 0.650 × 44.0 = 28.6 g.
 <!-- id: chem-5-4-21 -->
 
 Explanation: The mole ratio of ethanol to ester is 1:1.
 
-**A1520.** Ethyl propanoate; hydrolysis gives propanoic acid and ethanol.
+**A1522.** Ethyl propanoate; hydrolysis gives propanoic acid and ethanol.
 <!-- id: chem-5-4-22 -->
 
 Explanation: Hydrolysis breaks the ester linkage, adding water.
 
-**A1521.** 1) Heat with NaOH(aq) (substitution) → ethanol. 2) Heat under reflux with acidified K₂Cr₂O₇ or KMnO₄ (oxidation) → ethanoic acid.
+**A1523.** 1) Heat with NaOH(aq) (substitution) → ethanol. 2) Heat under reflux with acidified K₂Cr₂O₇ or KMnO₄ (oxidation) → ethanoic acid.
 <!-- id: chem-5-4-23 -->
 
 Explanation: Both reagents and the intermediate (ethanol) should be stated.
 
-**A1522.** Ethyl methanoate, HCOOCH₂CH₃.
+**A1524.** Ethyl methanoate, HCOOCH₂CH₃.
 <!-- id: chem-5-4-24 -->
 
 Explanation: Ethyl from ethanol; methanoate from methanoic acid.
 
-**A1523.** Overall yield = 0.90 × 0.80 × 0.75 × 100 = 54%.
+**A1525.** Overall yield = 0.90 × 0.80 × 0.75 × 100 = 54%.
 <!-- id: chem-5-4-25 -->
 
 Explanation: Multiply the fractional yields of each step.
 
-**A1524.** B. Step 1: H₂O(g)/H₃PO₄; Step 2: H⁺/Cr₂O₇²⁻
+**A1526.** B. Step 1: H₂O(g)/H₃PO₄; Step 2: H⁺/Cr₂O₇²⁻
 <!-- id: chem34a2-syn-1 -->
 
 Explanation: Hydration of ethene gives ethanol, and acidified dichromate then oxidises the primary alcohol to ethanoic acid. The reverse order fails because dichromate does not convert ethene to an alcohol. HCl then NaOH only gives ethanol.
 
-**A1525.** C. 100%
+**A1527.** C. 100%
 <!-- id: chem34a2-syn-2 -->
 
 Explanation: Atom economy = (molar mass of desired product / total molar mass of reactants) × 100. All atoms in the reactants end up in ethanol (28.0 + 18.0 = 46.0), so atom economy is 100%. Atom economy is independent of percentage yield.
 
-**A1526.** A. 44.0%
+**A1528.** A. 44.0%
 <!-- id: chem34a2-syn-3 -->
 
 Explanation: Atom economy = 46.0/(64.5 + 40.0) × 100 = 46.0/104.5 × 100 = 44.0%. 71.3% uses only chloroethane as the reactant mass; the NaCl by-product represents wasted atoms.
 
-**A1527.** D. 50%
+**A1529.** D. 50%
 <!-- id: chem34a2-syn-4 -->
 
 Explanation: Overall yield is the product of the step yields: 0.80 × 0.70 × 0.90 = 0.504, about 50%. The yields are multiplied, not averaged or added.
 
-**A1528.** B. The reaction is close to completion, but most of the reactant atoms end up in by-products.
+**A1530.** B. The reaction is close to completion, but most of the reactant atoms end up in by-products.
 <!-- id: chem34a2-syn-5 -->
 
 Explanation: Percentage yield compares actual with theoretical product. Atom economy measures what fraction of the reactant mass can ever become the desired product. A process can run almost to completion yet still produce mostly unwanted by-products.
 
-**A1529.** n(CH₃COOH) = 12.0/60.0 = 0.200 mol; 1 : 1 ratio, so theoretical n(CH₃COOCH₂CH₃) = 0.200 mol, mass = 0.200 × 88.0 = 17.6 g; percentage yield = 11.0/17.6 × 100 = 62.5%.
+**A1531.** n(CH₃COOH) = 12.0/60.0 = 0.200 mol; 1 : 1 ratio, so theoretical n(CH₃COOCH₂CH₃) = 0.200 mol, mass = 0.200 × 88.0 = 17.6 g; percentage yield = 11.0/17.6 × 100 = 62.5%.
 <!-- id: chem34a2-syn-6 -->
 
 Explanation:
 
-**A1530.** Step 1: ethene + steam with H₃PO₄ catalyst (about 300 °C) → ethanol; step 2: oxidise part of the ethanol with acidified K₂Cr₂O₇ (or KMnO₄), heated, → ethanoic acid; step 3: react ethanoic acid with the remaining ethanol, heated under reflux with concentrated H₂SO₄ as a catalyst → ethyl ethanoate + water.
+**A1532.** Step 1: ethene + steam with H₃PO₄ catalyst (about 300 °C) → ethanol; step 2: oxidise part of the ethanol with acidified K₂Cr₂O₇ (or KMnO₄), heated, → ethanoic acid; step 3: react ethanoic acid with the remaining ethanol, heated under reflux with concentrated H₂SO₄ as a catalyst → ethyl ethanoate + water.
 <!-- id: chem34a2-syn-7 -->
 
 Explanation:
 
-**A1531.** Molar masses: CH₃COOH 60.0, C₂H₅OH 46.0, ester 88.0 g mol⁻¹; atom economy = 88.0/(60.0 + 46.0) × 100 = 83.0%; yield could be increased by using an excess of one reactant (e.g. ethanol) or by removing the ester or water as it forms, shifting the equilibrium to the right.
+**A1533.** Molar masses: CH₃COOH 60.0, C₂H₅OH 46.0, ester 88.0 g mol⁻¹; atom economy = 88.0/(60.0 + 46.0) × 100 = 83.0%; yield could be increased by using an excess of one reactant (e.g. ethanol) or by removing the ester or water as it forms, shifting the equilibrium to the right.
 <!-- id: chem34a2-syn-8 -->
 
 Explanation:
 
 #### Physical properties of organic compounds
 
-**A1532.** D. Ethanoic acid, CH₃COOH
+**A1534.** D. Ethanoic acid, CH₃COOH
 <!-- id: chem34a2-phys-1 -->
 
 Explanation: All have similar molar masses (58–60 g mol⁻¹). Ethanoic acid forms two hydrogen bonds between pairs of molecules (dimers) via both the C=O and O–H, giving stronger intermolecular forces than propan-1-ol. The ester cannot hydrogen bond between its own molecules, and butane has only dispersion forces.
 
-**A1533.** B. Longer molecules have more electrons and greater surface area, so dispersion forces are stronger.
+**A1535.** B. Longer molecules have more electrons and greater surface area, so dispersion forces are stronger.
 <!-- id: chem34a2-phys-2 -->
 
 Explanation: Alkanes are non-polar, so their only intermolecular forces are dispersion forces, which strengthen as molecular size and contact area increase. Boiling does not break covalent bonds.
 
-**A1534.** C. The compact, branched shape of 2,2-dimethylpropane gives less surface contact, so its dispersion forces are weaker.
+**A1536.** C. The compact, branched shape of 2,2-dimethylpropane gives less surface contact, so its dispersion forces are weaker.
 <!-- id: chem34a2-phys-3 -->
 
 Explanation: Isomers have the same molar mass. The straight-chain pentane molecules can lie close together over a large area, giving stronger dispersion forces. The near-spherical branched isomer has a smaller contact area.
 
-**A1535.** A. The longer non-polar hydrocarbon chain disrupts hydrogen bonding with water and cannot itself interact strongly with water.
+**A1537.** A. The longer non-polar hydrocarbon chain disrupts hydrogen bonding with water and cannot itself interact strongly with water.
 <!-- id: chem34a2-phys-4 -->
 
 Explanation: Each alcohol has one –OH group that can hydrogen bond with water, but as the non-polar alkyl chain lengthens, an increasing part of the molecule only has dispersion forces, which do not compensate for disrupting water's hydrogen-bond network.
 
-**A1536.** D. Viscosity increases; flash point increases.
+**A1538.** D. Viscosity increases; flash point increases.
 <!-- id: chem34a2-phys-5 -->
 
 Explanation: Longer chains have stronger dispersion forces and can tangle, so they flow less easily (higher viscosity). They are also less volatile, so a higher temperature is needed before enough vapour forms to ignite (higher flash point).
 
-**A1537.** The two molecules have similar molar masses, so their dispersion forces are of similar strength; ethanol has an –OH group (H bonded to highly electronegative O), so hydrogen bonds form between ethanol molecules; propane is non-polar with only dispersion forces, so much less energy is needed to separate its molecules, giving a much lower boiling point.
+**A1539.** The two molecules have similar molar masses, so their dispersion forces are of similar strength; ethanol has an –OH group (H bonded to highly electronegative O), so hydrogen bonds form between ethanol molecules; propane is non-polar with only dispersion forces, so much less energy is needed to separate its molecules, giving a much lower boiling point.
 <!-- id: chem34a2-phys-6 -->
 
 Explanation:
 
-**A1538.** Propanoic acid has an O–H group, so it can form hydrogen bonds between its molecules (including dimers); methyl ethanoate has no H atom bonded to O, so it cannot form hydrogen bonds between its own molecules and has only weaker dipole–dipole and dispersion forces, which need less energy to overcome.
+**A1540.** Propanoic acid has an O–H group, so it can form hydrogen bonds between its molecules (including dimers); methyl ethanoate has no H atom bonded to O, so it cannot form hydrogen bonds between its own molecules and has only weaker dipole–dipole and dispersion forces, which need less energy to overcome.
 <!-- id: chem34a2-phys-7 -->
 
 Explanation:
 
-**A1539.** Both the amine (N–H) and the alcohol (O–H) can form hydrogen bonds between molecules, whereas butane has only dispersion forces, so they boil higher; N is less electronegative than O, so the N–H bond is less polar and the hydrogen bonds in the amine are weaker; therefore less energy is needed to separate amine molecules than alcohol molecules.
+**A1541.** Both the amine (N–H) and the alcohol (O–H) can form hydrogen bonds between molecules, whereas butane has only dispersion forces, so they boil higher; N is less electronegative than O, so the N–H bond is less polar and the hydrogen bonds in the amine are weaker; therefore less energy is needed to separate amine molecules than alcohol molecules.
 <!-- id: chem34a2-phys-8 -->
 
 Explanation:
@@ -7933,708 +8045,708 @@ Explanation:
 
 #### Mass spectrometry
 
-**A1540.** A. the ion formed when a whole molecule loses one electron
+**A1542.** A. the ion formed when a whole molecule loses one electron
 <!-- id: chem-6-1-1 -->
 
 Explanation: The molecular ion is the intact molecule minus one electron, so its m/z equals the molecular mass of the compound.
 
-**A1541.** B. produced by the most abundant ion, assigned a relative intensity of 100%
+**A1543.** B. produced by the most abundant ion, assigned a relative intensity of 100%
 <!-- id: chem-6-1-2 -->
 
 Explanation: The base peak is the tallest peak; all other intensities are expressed relative to it. It is not necessarily the molecular ion.
 
-**A1542.** C. chlorine exists naturally as ³⁵Cl and ³⁷Cl in about a 3:1 ratio
+**A1544.** C. chlorine exists naturally as ³⁵Cl and ³⁷Cl in about a 3:1 ratio
 <!-- id: chem-6-1-3 -->
 
 Explanation: The M and M+2 peaks reflect the two natural isotopes of chlorine, ³⁵Cl (about 75%) and ³⁷Cl (about 25%).
 
-**A1543.** D. m/z 108 and 110 of almost equal height
+**A1545.** D. m/z 108 and 110 of almost equal height
 <!-- id: chem-6-1-4 -->
 
 Explanation: C₂H₅ has mass 29, so with ⁷⁹Br and ⁸¹Br (roughly 1:1 abundance) the molecular ions appear at 108 and 110 with similar heights.
 
-**A1544.** A. CH₃⁺
+**A1546.** A. CH₃⁺
 <!-- id: chem-6-1-5 -->
 
 Explanation: CH₃⁺ has mass 12 + 3 = 15. OH⁺ is 17 and CH₂⁺ is 14.
 
-**A1545.** B. a methyl group (CH₃)
+**A1547.** B. a methyl group (CH₃)
 <!-- id: chem-6-1-6 -->
 
 Explanation: A mass loss of 15 corresponds to CH₃ (12 + 3). Loss of OH would be 17, H₂O 18 and C₂H₅ 29.
 
-**A1546.** C. 46
+**A1548.** C. 46
 <!-- id: chem-6-1-7 -->
 
 Explanation: C₂H₆O: 2(12) + 6(1) + 16 = 46. The peak at 31 is the CH₂OH⁺ fragment.
 
-**A1547.** D. CH₂OH⁺
+**A1549.** D. CH₂OH⁺
 <!-- id: chem-6-1-8 -->
 
 Explanation: CH₂OH⁺ has mass 12 + 2 + 16 + 1 = 31 and forms when the C–C bond next to the CH₂OH group breaks.
 
-**A1548.** A. C₃H₇⁺ formed by loss of a CH₃ radical
+**A1550.** A. C₃H₇⁺ formed by loss of a CH₃ radical
 <!-- id: chem-6-1-9 -->
 
 Explanation: 58 − 15 = 43, which corresponds to C₃H₇⁺ (36 + 7) after a methyl radical breaks away.
 
-**A1549.** B. only ions are accelerated, deflected and detected; neutral radicals are not
+**A1551.** B. only ions are accelerated, deflected and detected; neutral radicals are not
 <!-- id: chem-6-1-10 -->
 
 Explanation: The instrument manipulates charged particles. Neutral radicals formed during fragmentation are not accelerated or deflected, so they are never detected.
 
-**A1550.** C. CH₃CO⁺
+**A1552.** C. CH₃CO⁺
 <!-- id: chem-6-1-11 -->
 
 Explanation: Loss of a methyl radical from the molecular ion (58 − 15) gives the acylium ion CH₃CO⁺, mass 12 + 3 + 12 + 16 = 43.
 
-**A1551.** D. the presence of the ¹³C isotope
+**A1553.** D. the presence of the ¹³C isotope
 <!-- id: chem-6-1-12 -->
 
 Explanation: About 1.1% of carbon atoms are ¹³C, so a small fraction of molecules have a mass one unit higher than the main molecular ion.
 
-**A1552.** A. propan-1-ol
+**A1554.** A. propan-1-ol
 <!-- id: chem-6-1-13 -->
 
 Explanation: Propan-1-ol, C₃H₈O, has M = 36 + 8 + 16 = 60. Propanal and butane are 58; ethyl ethanoate is 88.
 
-**A1553.** B. pentan-3-one
+**A1555.** B. pentan-3-one
 <!-- id: chem-6-1-14 -->
 
 Explanation: Pentan-3-one (CH₃CH₂COCH₂CH₃) loses an ethyl radical (29) to give CH₃CH₂CO⁺ at m/z 57. Pentan-2-one gives CH₃CO⁺ at 43 instead; propanone and butanone have different M values.
 
-**A1554.** C. [CH₃CH₂OH]⁺ → CH₂OH⁺ + CH₃•
+**A1556.** C. [CH₃CH₂OH]⁺ → CH₂OH⁺ + CH₃•
 <!-- id: chem-6-1-15 -->
 
 Explanation: The molecular ion splits into one cation and one neutral radical; charge is conserved, so only one fragment carries the positive charge.
 
-**A1555.** D. COOH⁺
+**A1557.** D. COOH⁺
 <!-- id: chem-6-1-16 -->
 
 Explanation: COOH⁺ has mass 12 + 32 + 1 = 45. C₂H₅⁺ is 29, CH₂OH⁺ is 31 and CH₃CO⁺ is 43.
 
-**A1556.** A. propanoic acid
+**A1558.** A. propanoic acid
 <!-- id: chem-6-1-17 -->
 
 Explanation: Propanoic acid (C₂H₅COOH) has M = 74 and splits into COOH⁺ (45) and C₂H₅⁺ (29). The other compounds have molecular masses of 60, 60 and 88.
 
-**A1557.** B. isomers have the same molecular formula and therefore the same molecular ion m/z
+**A1559.** B. isomers have the same molecular formula and therefore the same molecular ion m/z
 <!-- id: chem-6-1-18 -->
 
 Explanation: Structural isomers share a molecular formula, so M⁺ is the same (60 here). Differences only show up in the fragmentation pattern.
 
-**A1558.** The molecular ion is unstable and fragments readily before it reaches the detector, so very few intact molecular ions are detected.
+**A1560.** The molecular ion is unstable and fragments readily before it reaches the detector, so very few intact molecular ions are detected.
 <!-- id: chem-6-1-19 -->
 
 Explanation: Credit the idea that M⁺ breaks apart quickly into more stable fragment ions and radicals.
 
-**A1559.** m/z = 3(12) + 7(1) = 43. It would be expected in the spectrum of butane (or propan-1-ol, 1-chloropropane, etc.).
+**A1561.** m/z = 3(12) + 7(1) = 43. It would be expected in the spectrum of butane (or propan-1-ol, 1-chloropropane, etc.).
 <!-- id: chem-6-1-20 -->
 
 Explanation: Any compound that contains a propyl group and could lose the rest of the molecule is acceptable.
 
-**A1560.** C₂H₅⁺ (CH₃CH₂⁺). [CH₃CH₂CH₃]⁺ → CH₃CH₂⁺ + CH₃•
+**A1562.** C₂H₅⁺ (CH₃CH₂⁺). [CH₃CH₂CH₃]⁺ → CH₃CH₂⁺ + CH₃•
 <!-- id: chem-6-1-21 -->
 
 Explanation: 44 − 15 = 29. The equation must show the fragment cation and a neutral methyl radical.
 
-**A1561.** m/z 64 and 66 in about a 3:1 ratio, because chlorine occurs naturally as ³⁵Cl (about 75%) and ³⁷Cl (about 25%).
+**A1563.** m/z 64 and 66 in about a 3:1 ratio, because chlorine occurs naturally as ³⁵Cl (about 75%) and ³⁷Cl (about 25%).
 <!-- id: chem-6-1-22 -->
 
 Explanation: C₂H₅ = 29; 29 + 35 = 64 and 29 + 37 = 66.
 
-**A1562.** The ion is CHO⁺ (m/z 29), formed when the molecular ion (m/z 44) loses a methyl radical, CH₃• (mass 15).
+**A1564.** The ion is CHO⁺ (m/z 29), formed when the molecular ion (m/z 44) loses a methyl radical, CH₃• (mass 15).
 <!-- id: chem-6-1-23 -->
 
 Explanation: 44 − 15 = 29; CHO⁺ = 12 + 1 + 16 = 29.
 
-**A1563.** m/z 57: CH₃CH₂CO⁺ (loss of CH₃•, 72 − 15). m/z 43: CH₃CO⁺ (loss of C₂H₅•, 72 − 29).
+**A1565.** m/z 57: CH₃CH₂CO⁺ (loss of CH₃•, 72 − 15). m/z 43: CH₃CO⁺ (loss of C₂H₅•, 72 − 29).
 <!-- id: chem-6-1-24 -->
 
 Explanation: Both are acylium ions from breaking a C–C bond either side of the carbonyl group.
 
-**A1564.** The sample is vaporised and ionised (an electron is knocked off to form positive ions, some of which fragment). The ions are accelerated, then deflected by a magnetic field according to their mass-to-charge ratio, and detected; the detector records relative abundance against m/z.
+**A1566.** The sample is vaporised and ionised (an electron is knocked off to form positive ions, some of which fragment). The ions are accelerated, then deflected by a magnetic field according to their mass-to-charge ratio, and detected; the detector records relative abundance against m/z.
 <!-- id: chem-6-1-25 -->
 
 Explanation: Award for vaporisation/ionisation, acceleration, deflection by m/z and detection.
 
-**A1565.** B. corresponds to the whole molecule that has lost one electron
+**A1567.** B. corresponds to the whole molecule that has lost one electron
 <!-- id: chem34a3-ms-1 -->
 
 Explanation: The molecular ion forms when the intact molecule loses one electron, so its m/z equals the relative molecular mass. The tallest peak is the base peak, which is often a fragment, not M⁺. A small M+1 peak arises from ¹³C, but that is a separate peak.
 
-**A1566.** C. chloroethane
+**A1568.** C. chloroethane
 <!-- id: chem34a3-ms-2 -->
 
 Explanation: Chlorine occurs as ³⁵Cl and ³⁷Cl in about a 3 : 1 ratio, giving M and M+2 peaks in that ratio. C₂H₅³⁵Cl has M = 24 + 5 + 35 = 64. Chloromethane would give peaks at 50 and 52; bromomethane would give peaks at 94 and 96 in a 1 : 1 ratio.
 
-**A1567.** A. CH₃CO⁺
+**A1569.** A. CH₃CO⁺
 <!-- id: chem34a3-ms-3 -->
 
 Explanation: Only charged species are deflected and detected, so the peak must be a cation. CH₃CO⁺ has m/z = 12 + 3 + 12 + 16 = 43. CH₃CO• is a neutral radical and is not detected; C₂H₅⁺ is at 29 and CH₃CH₂CO⁺ is at 57.
 
-**A1568.** C. the presence of molecules containing one ¹³C atom
+**A1570.** C. the presence of molecules containing one ¹³C atom
 <!-- id: chem34a3-ms-4 -->
 
 Explanation: About 1.1% of carbon atoms are ¹³C, so a small fraction of molecular ions has a mass 1 unit higher, producing a small M+1 peak. It is not evidence of an impurity, and there is no species of mass 94 in ethanol.
 
-**A1569.** B. ethanoic acid
+**A1571.** B. ethanoic acid
 <!-- id: chem34a3-ms-5 -->
 
 Explanation: Ethanoic acid, CH₃COOH, has M = 60. Loss of CH₃ gives COOH⁺ (m/z = 45) and the CH₃⁺ fragment gives m/z = 15. Propan-1-ol also has M = 60 but would be expected to show a strong peak at 31 (CH₂OH⁺) rather than 45 as COOH⁺; propanal has M = 58.
 
-**A1570.** The molecular ion is the whole molecule with one electron removed (charge 1+), so its m/z equals its mass, which is the relative molecular mass (the lost electron has negligible mass); the molecular ion may be unstable and fragment almost completely before reaching the detector, so the M⁺ peak is small or missing.
+**A1572.** The molecular ion is the whole molecule with one electron removed (charge 1+), so its m/z equals its mass, which is the relative molecular mass (the lost electron has negligible mass); the molecular ion may be unstable and fragment almost completely before reaching the detector, so the M⁺ peak is small or missing.
 <!-- id: chem34a3-ms-6 -->
 
 Explanation:
 
-**A1571.** (a) Peaks at m/z = 108 (CH₃CH₂⁷⁹Br⁺) and m/z = 110 (CH₃CH₂⁸¹Br⁺); approximately equal heights (1 : 1) because the two isotopes are about equally abundant; (b) m/z = 29 is CH₃CH₂⁺ (C₂H₅⁺), formed by loss of a Br atom from the molecular ion.
+**A1573.** (a) Peaks at m/z = 108 (CH₃CH₂⁷⁹Br⁺) and m/z = 110 (CH₃CH₂⁸¹Br⁺); approximately equal heights (1 : 1) because the two isotopes are about equally abundant; (b) m/z = 29 is CH₃CH₂⁺ (C₂H₅⁺), formed by loss of a Br atom from the molecular ion.
 <!-- id: chem34a3-ms-7 -->
 
 Explanation:
 
-**A1572.** Propanone, CH₃COCH₃ (M = 58); the base peak at 43 is CH₃CO⁺ formed by loss of a CH₃ group (58 − 15 = 43); the peak at 15 is CH₃⁺; the absence of a peak at 29 (C₂H₅⁺ or CHO⁺) argues against propanal, CH₃CH₂CHO, which has the same molar mass.
+**A1574.** Propanone, CH₃COCH₃ (M = 58); the base peak at 43 is CH₃CO⁺ formed by loss of a CH₃ group (58 − 15 = 43); the peak at 15 is CH₃⁺; the absence of a peak at 29 (C₂H₅⁺ or CHO⁺) argues against propanal, CH₃CH₂CHO, which has the same molar mass.
 <!-- id: chem34a3-ms-8 -->
 
 Explanation:
 
 #### Infrared spectroscopy
 
-**A1573.** C. an O–H bond in an alcohol
+**A1575.** C. an O–H bond in an alcohol
 <!-- id: chem-6-2-1 -->
 
 Explanation: The O–H stretch of alcohols appears around 3200–3600 cm⁻¹ and is broadened by hydrogen bonding.
 
-**A1574.** D. causes a change in the dipole moment of the molecule
+**A1576.** D. causes a change in the dipole moment of the molecule
 <!-- id: chem-6-2-2 -->
 
 Explanation: IR activity requires the vibration to change the molecular dipole; that change lets the bond interact with the oscillating electric field of IR radiation.
 
-**A1575.** A. a C=O bond
+**A1577.** A. a C=O bond
 <!-- id: chem-6-2-3 -->
 
 Explanation: Carbonyl (C=O) stretches absorb strongly in the 1670–1750 cm⁻¹ range.
 
-**A1576.** B. ethanoic acid shows a C=O absorption near 1700 cm⁻¹ and a very broad O–H absorption around 2500–3000 cm⁻¹
+**A1578.** B. ethanoic acid shows a C=O absorption near 1700 cm⁻¹ and a very broad O–H absorption around 2500–3000 cm⁻¹
 <!-- id: chem-6-2-4 -->
 
 Explanation: Carboxylic acids contain both C=O and an O–H that absorbs very broadly at lower wavenumber than an alcohol O–H. Ethanol has no C=O.
 
-**A1577.** C. confirming the identity of a compound by matching against a reference spectrum
+**A1579.** C. confirming the identity of a compound by matching against a reference spectrum
 <!-- id: chem-6-2-5 -->
 
 Explanation: The fingerprint region contains many overlapping absorptions unique to each molecule, so it is compared with database spectra.
 
-**A1578.** D. higher energy radiation
+**A1580.** D. higher energy radiation
 <!-- id: chem-6-2-6 -->
 
 Explanation: Wavenumber is 1/λ, so a larger wavenumber means shorter wavelength, higher frequency and higher energy.
 
-**A1579.** A. increase the vibrational energy of its bonds
+**A1581.** A. increase the vibrational energy of its bonds
 <!-- id: chem-6-2-7 -->
 
 Explanation: IR photons match the energy gaps between quantised vibrational levels, causing bonds to stretch and bend more strongly.
 
-**A1580.** B. a new strong absorption appears near 1700 cm⁻¹ and the O–H band becomes very broad around 2500–3000 cm⁻¹
+**A1582.** B. a new strong absorption appears near 1700 cm⁻¹ and the O–H band becomes very broad around 2500–3000 cm⁻¹
 <!-- id: chem-6-2-8 -->
 
 Explanation: Propanoic acid contains a C=O group and a carboxylic acid O–H, which produce these characteristic absorptions.
 
-**A1581.** C. N₂
+**A1583.** C. N₂
 <!-- id: chem-6-2-9 -->
 
 Explanation: The N≡N stretch in a symmetric diatomic molecule produces no change in dipole moment, so N₂ is IR inactive. CO₂ absorbs through its asymmetric stretch and bending.
 
-**A1582.** D. propene
+**A1584.** D. propene
 <!-- id: chem-6-2-10 -->
 
 Explanation: The 1650 cm⁻¹ peak suggests C=C and the others are C–H. The absence of O–H and C=O bands rules out the other options.
 
-**A1583.** A. both show C=O near 1700 cm⁻¹, but only butanoic acid shows a broad O–H absorption at 2500–3000 cm⁻¹
+**A1585.** A. both show C=O near 1700 cm⁻¹, but only butanoic acid shows a broad O–H absorption at 2500–3000 cm⁻¹
 <!-- id: chem-6-2-11 -->
 
 Explanation: Esters and carboxylic acids both contain C=O, but only acids have an O–H group.
 
-**A1584.** B. an N–H bond
+**A1586.** B. an N–H bond
 <!-- id: chem-6-2-12 -->
 
 Explanation: N–H stretches in amines and amides absorb at about 3350–3500 cm⁻¹.
 
-**A1585.** C. a downward dip where less radiation is transmitted
+**A1587.** C. a downward dip where less radiation is transmitted
 <!-- id: chem-6-2-13 -->
 
 Explanation: Absorbed radiation is not transmitted, so transmittance falls and the absorption appears as a trough.
 
-**A1586.** D. the double bond is stronger, so it vibrates at a higher frequency
+**A1588.** D. the double bond is stronger, so it vibrates at a higher frequency
 <!-- id: chem-6-2-14 -->
 
 Explanation: Stronger bonds behave like stiffer springs and vibrate at higher frequencies, so they absorb higher-energy IR radiation.
 
-**A1587.** A. propanone shows a strong absorption near 1700 cm⁻¹ and no broad band at 3200–3600 cm⁻¹
+**A1589.** A. propanone shows a strong absorption near 1700 cm⁻¹ and no broad band at 3200–3600 cm⁻¹
 <!-- id: chem-6-2-15 -->
 
 Explanation: Propanone is a ketone (C=O present, no O–H), while propan-2-ol is an alcohol (O–H present, no C=O).
 
-**A1588.** B. compare their fingerprint regions with reference spectra
+**A1590.** B. compare their fingerprint regions with reference spectra
 <!-- id: chem-6-2-16 -->
 
 Explanation: The two isomers contain the same functional groups, but their fingerprint regions differ and can be matched to known spectra.
 
-**A1589.** C. C–H bonds
+**A1591.** C. C–H bonds
 <!-- id: chem-6-2-17 -->
 
 Explanation: Almost every organic molecule contains C–H bonds, which stretch at about 2850–3300 cm⁻¹.
 
-**A1590.** D. new broad O–H absorptions from ethanol and ethanoic acid
+**A1592.** D. new broad O–H absorptions from ethanol and ethanoic acid
 <!-- id: chem-6-2-18 -->
 
 Explanation: Hydrolysis produces ethanol and ethanoic acid, which both contain O–H groups. Ethanoic acid still has a C=O.
 
-**A1591.** Carboxylic acid molecules form strong hydrogen bonds with each other (often as dimers). This gives a range of O–H bond strengths, so the O–H absorbs over a wide range of wavenumbers (about 2500–3000 cm⁻¹).
+**A1593.** Carboxylic acid molecules form strong hydrogen bonds with each other (often as dimers). This gives a range of O–H bond strengths, so the O–H absorbs over a wide range of wavenumbers (about 2500–3000 cm⁻¹).
 <!-- id: chem-6-2-19 -->
 
 Explanation: The key idea is that hydrogen bonding produces a spread of O–H vibrational energies.
 
-**A1592.** Butan-1-ol shows a broad O–H absorption at about 3200–3600 cm⁻¹ and no C=O peak. Butanal shows a strong, sharp C=O absorption at about 1700 cm⁻¹ and no broad O–H band.
+**A1594.** Butan-1-ol shows a broad O–H absorption at about 3200–3600 cm⁻¹ and no C=O peak. Butanal shows a strong, sharp C=O absorption at about 1700 cm⁻¹ and no broad O–H band.
 <!-- id: chem-6-2-20 -->
 
 Explanation: Both functional-group differences should be stated.
 
-**A1593.** Although the molecule has no overall dipole, its asymmetric stretching and bending vibrations create a temporary change in dipole moment, so those vibrations absorb IR radiation.
+**A1595.** Although the molecule has no overall dipole, its asymmetric stretching and bending vibrations create a temporary change in dipole moment, so those vibrations absorb IR radiation.
 <!-- id: chem-6-2-21 -->
 
 Explanation: IR activity depends on a change in dipole during the vibration, not on a permanent dipole.
 
-**A1594.** The region below about 1500 cm⁻¹ contains complex absorptions from bending and skeletal vibrations that are unique to each compound. Matching a sample's fingerprint region to a reference spectrum confirms its identity.
+**A1596.** The region below about 1500 cm⁻¹ contains complex absorptions from bending and skeletal vibrations that are unique to each compound. Matching a sample's fingerprint region to a reference spectrum confirms its identity.
 <!-- id: chem-6-2-22 -->
 
 Explanation: Mention that the pattern is unique and is compared with a database or known spectrum.
 
-**A1595.** Propanone forms. A strong C=O absorption appears at about 1700 cm⁻¹ and the broad alcohol O–H absorption at 3200–3600 cm⁻¹ disappears.
+**A1597.** Propanone forms. A strong C=O absorption appears at about 1700 cm⁻¹ and the broad alcohol O–H absorption at 3200–3600 cm⁻¹ disappears.
 <!-- id: chem-6-2-23 -->
 
 Explanation: A secondary alcohol is oxidised to a ketone, which cannot be oxidised further to an acid.
 
-**A1596.** IR mainly identifies the functional groups present; it does not give the molecular mass, the number of carbon atoms or how the carbon skeleton is arranged, so isomers can be hard to tell apart.
+**A1598.** IR mainly identifies the functional groups present; it does not give the molecular mass, the number of carbon atoms or how the carbon skeleton is arranged, so isomers can be hard to tell apart.
 <!-- id: chem-6-2-24 -->
 
 Explanation: Any valid limitation is acceptable, for example that it cannot give molecular mass or connectivity.
 
-**A1597.** Vibrational energy levels are quantised. A bond absorbs only photons whose energy exactly matches the gap between its vibrational levels, and that gap depends on bond strength and the masses of the atoms.
+**A1599.** Vibrational energy levels are quantised. A bond absorbs only photons whose energy exactly matches the gap between its vibrational levels, and that gap depends on bond strength and the masses of the atoms.
 <!-- id: chem-6-2-25 -->
 
 Explanation: Link quantised energy levels to specific absorption wavenumbers.
 
-**A1598.** B. bonds to vibrate with greater energy (stretching or bending)
+**A1600.** B. bonds to vibrate with greater energy (stretching or bending)
 <!-- id: chem34a3-ir-1 -->
 
 Explanation: IR radiation has the right energy to increase the vibrational energy of bonds. Electron transitions need UV–visible radiation, spin flips relate to NMR (radio waves), and ionisation is used in mass spectrometry.
 
-**A1599.** C. butanoic acid
+**A1601.** C. butanoic acid
 <!-- id: chem34a3-ir-2 -->
 
 Explanation: A very broad O–H band spanning roughly 2500–3300 cm⁻¹ is typical of the hydrogen-bonded O–H in carboxylic acids, and the absorption near 1710 cm⁻¹ is a C=O stretch. Butanal has C=O but no O–H; butan-1-ol has a broad O–H centred higher (about 3200–3600 cm⁻¹) and no C=O.
 
-**A1600.** B. A C=O band appears near 1730 cm⁻¹ while a broad band near 3200–3600 cm⁻¹ is still present
+**A1602.** B. A C=O band appears near 1730 cm⁻¹ while a broad band near 3200–3600 cm⁻¹ is still present
 <!-- id: chem34a3-ir-3 -->
 
 Explanation: Formation of the aldehyde introduces a C=O absorption; remaining alcohol still shows its broad O–H stretch. If the O–H band disappeared completely, all the alcohol would have reacted (assuming no acid formed).
 
-**A1601.** B. its complex pattern of absorptions is unique to a particular compound
+**A1603.** B. its complex pattern of absorptions is unique to a particular compound
 <!-- id: chem34a3-ir-4 -->
 
 Explanation: The fingerprint region contains many overlapping bending and single-bond absorptions; the overall pattern is characteristic of one compound and can be matched against a reference spectrum. O–H and C=O absorb above 1500 cm⁻¹.
 
-**A1602.** C. pentan-2-one and pentan-3-one
+**A1604.** C. pentan-2-one and pentan-3-one
 <!-- id: chem34a3-ir-5 -->
 
 Explanation: Pentan-2-one and pentan-3-one are both ketones with the same functional groups (C=O and C–H), so their absorptions above 1500 cm⁻¹ are nearly identical; they differ only in the fingerprint region. Each of the other pairs differs in the presence of O–H and/or C=O.
 
-**A1603.** Propan-1-ol: broad O–H (alcohol) absorption around 3200–3600 cm⁻¹ and no C=O absorption; propanal: strong C=O absorption around 1700–1740 cm⁻¹ and no broad O–H band; propanoic acid: both a C=O absorption near 1700 cm⁻¹ and a very broad O–H (acid) absorption from about 2500–3300 cm⁻¹ overlapping the C–H region.
+**A1605.** Propan-1-ol: broad O–H (alcohol) absorption around 3200–3600 cm⁻¹ and no C=O absorption; propanal: strong C=O absorption around 1700–1740 cm⁻¹ and no broad O–H band; propanoic acid: both a C=O absorption near 1700 cm⁻¹ and a very broad O–H (acid) absorption from about 2500–3300 cm⁻¹ overlapping the C–H region.
 <!-- id: chem34a3-ir-6 -->
 
 Explanation:
 
-**A1604.** Alcohol molecules are hydrogen bonded to each other in the liquid; the strength of these hydrogen bonds varies between molecules, so O–H bonds vibrate over a range of frequencies (wavenumbers), producing a broad absorption band.
+**A1606.** Alcohol molecules are hydrogen bonded to each other in the liquid; the strength of these hydrogen bonds varies between molecules, so O–H bonds vibrate over a range of frequencies (wavenumbers), producing a broad absorption band.
 <!-- id: chem34a3-ir-7 -->
 
 Explanation:
 
-**A1605.** The student is correct: the ester has no O–H group, so a pure sample shows no broad O–H absorption (a band there would indicate unreacted ethanol, ethanoic acid or water); a strong C=O absorption around 1735–1750 cm⁻¹ should be present (C–O and C–H absorptions are also acceptable).
+**A1607.** The student is correct: the ester has no O–H group, so a pure sample shows no broad O–H absorption (a band there would indicate unreacted ethanol, ethanoic acid or water); a strong C=O absorption around 1735–1750 cm⁻¹ should be present (C–O and C–H absorptions are also acceptable).
 <!-- id: chem34a3-ir-8 -->
 
 Explanation:
 
 #### ¹H and ¹³C NMR spectroscopy
 
-**A1606.** A. gives a single strong signal from 12 equivalent hydrogens and is chemically inert
+**A1608.** A. gives a single strong signal from 12 equivalent hydrogens and is chemically inert
 <!-- id: chem-6-3-1 -->
 
 Explanation: TMS, Si(CH₃)₄, has 12 equivalent ¹H (and 4 equivalent ¹³C), is unreactive and volatile, and its signal is defined as 0 ppm.
 
-**A1607.** B. 3
+**A1609.** B. 3
 <!-- id: chem-6-3-2 -->
 
 Explanation: The CH₃, CH₂ and OH hydrogens are each in a different environment.
 
-**A1608.** C. triplet
+**A1610.** C. triplet
 <!-- id: chem-6-3-3 -->
 
 Explanation: The CH₃ hydrogens have 2 neighbouring H on the adjacent carbon, so by the n + 1 rule they give 2 + 1 = 3 peaks.
 
-**A1609.** D. 2
+**A1611.** D. 2
 <!-- id: chem-6-3-4 -->
 
 Explanation: The two CH₃ carbons are equivalent by symmetry, and the CH carbon is different, giving two carbon environments.
 
-**A1610.** A. 4
+**A1612.** A. 4
 <!-- id: chem-6-3-5 -->
 
 Explanation: Every carbon is in a different environment: CH₃ next to C=O, the C=O carbon, the CH₂ and the terminal CH₃.
 
-**A1611.** B. 3 : 2 : 3
+**A1613.** B. 3 : 2 : 3
 <!-- id: chem-6-3-6 -->
 
 Explanation: There are three environments: CH₃ attached to C=O (3H), OCH₂ (2H) and the terminal CH₃ (3H).
 
-**A1612.** C. they contain no ¹H atoms, so they produce no interfering signals
+**A1614.** C. they contain no ¹H atoms, so they produce no interfering signals
 <!-- id: chem-6-3-7 -->
 
 Explanation: Replacing H with deuterium stops the solvent producing a large ¹H signal that would swamp the sample's peaks.
 
-**A1613.** D. propanone, CH₃COCH₃
+**A1615.** D. propanone, CH₃COCH₃
 <!-- id: chem-6-3-8 -->
 
 Explanation: The two CH₃ groups in propanone are equivalent, so all six hydrogens share one environment.
 
-**A1614.** A. doublet with a relative area of 9
+**A1616.** A. doublet with a relative area of 9
 <!-- id: chem-6-3-9 -->
 
 Explanation: The nine equivalent CH₃ hydrogens each have 1 neighbouring H (on the CH), giving 1 + 1 = 2 peaks, a doublet.
 
-**A1615.** B. deshielded, as electron density is drawn away from them
+**A1617.** B. deshielded, as electron density is drawn away from them
 <!-- id: chem-6-3-10 -->
 
 Explanation: Less electron density around the nucleus means less shielding from the applied field, so the signal moves downfield to a higher ppm.
 
-**A1616.** C. an aldehyde group (–CHO)
+**A1618.** C. an aldehyde group (–CHO)
 <!-- id: chem-6-3-11 -->
 
 Explanation: Aldehyde hydrogens are strongly deshielded and appear at about 9.4–10 ppm.
 
-**A1617.** D. 3
+**A1619.** D. 3
 <!-- id: chem-6-3-12 -->
 
 Explanation: Symmetry makes the two CH₃ carbons equivalent and the two CH₂ carbons equivalent, and the C=O carbon is unique.
 
-**A1618.** A. sextet
+**A1620.** A. sextet
 <!-- id: chem-6-3-13 -->
 
 Explanation: The middle CH₂ has 3 + 2 = 5 neighbouring hydrogens, so the n + 1 rule gives 6 peaks.
 
-**A1619.** B. singlet, because the O–H proton exchanges rapidly and does not split
+**A1621.** B. singlet, because the O–H proton exchanges rapidly and does not split
 <!-- id: chem-6-3-14 -->
 
 Explanation: Rapid exchange of the hydroxyl proton between molecules means it normally neither splits nor is split by neighbouring hydrogens.
 
-**A1620.** C. radio waves
+**A1622.** C. radio waves
 <!-- id: chem-6-3-15 -->
 
 Explanation: In a strong magnetic field, nuclei with spin absorb low-energy radiofrequency radiation as they flip between spin states.
 
-**A1621.** D. propan-1-ol gives 3 peaks and propan-2-ol gives 2 peaks
+**A1623.** D. propan-1-ol gives 3 peaks and propan-2-ol gives 2 peaks
 <!-- id: chem-6-3-16 -->
 
 Explanation: All three carbons in propan-1-ol are different, but propan-2-ol has two equivalent CH₃ carbons.
 
-**A1622.** A. ethanoic acid
+**A1624.** A. ethanoic acid
 <!-- id: chem-6-3-17 -->
 
 Explanation: The singlet at 11.5 ppm is typical of a carboxylic acid –COOH hydrogen, and the 3H singlet is a CH₃ next to C=O. Methyl methanoate's HCOO hydrogen would appear near 8 ppm.
 
-**A1623.** B. 3
+**A1625.** B. 3
 <!-- id: chem-6-3-18 -->
 
 Explanation: The environments are CH₃ of the ethyl group, CH₂ next to C=O, and the OCH₃.
 
-**A1624.** Two signals: the CH₃ signal is a triplet (area 3) and the CH₂ signal is a quartet (area 2), with the CH₂ at the higher chemical shift because it is next to Cl.
+**A1626.** Two signals: the CH₃ signal is a triplet (area 3) and the CH₂ signal is a quartet (area 2), with the CH₂ at the higher chemical shift because it is next to Cl.
 <!-- id: chem-6-3-19 -->
 
 Explanation: Apply n + 1: CH₃ has 2 neighbours and CH₂ has 3 neighbours.
 
-**A1625.** Any two of: it gives one strong signal because all 12 H (and 4 C) are equivalent; its signal sits away from most organic signals (defined as 0 ppm); it is chemically inert; it is volatile, so it is easily removed; it is non-toxic.
+**A1627.** Any two of: it gives one strong signal because all 12 H (and 4 C) are equivalent; its signal sits away from most organic signals (defined as 0 ppm); it is chemically inert; it is volatile, so it is easily removed; it is non-toxic.
 <!-- id: chem-6-3-20 -->
 
 Explanation: Award one mark for each valid reason.
 
-**A1626.** Four peaks. Each of the four carbon atoms is in a different chemical environment because the molecule has no symmetry that makes any two carbons equivalent.
+**A1628.** Four peaks. Each of the four carbon atoms is in a different chemical environment because the molecule has no symmetry that makes any two carbons equivalent.
 <!-- id: chem-6-3-21 -->
 
 Explanation: The two CH₃ groups differ: one is bonded to CH(OH), the other to CH₂.
 
-**A1627.** An ethyl group (–CH₂CH₃). The CH₃ is split into a triplet by the 2 neighbouring CH₂ hydrogens, and the CH₂ is split into a quartet by the 3 neighbouring CH₃ hydrogens.
+**A1629.** An ethyl group (–CH₂CH₃). The CH₃ is split into a triplet by the 2 neighbouring CH₂ hydrogens, and the CH₂ is split into a quartet by the 3 neighbouring CH₃ hydrogens.
 <!-- id: chem-6-3-22 -->
 
 Explanation: Link each splitting to the n + 1 rule.
 
-**A1628.** Propanone, CH₃COCH₃. All six hydrogens are equivalent (two identical CH₃ groups on either side of the C=O) and have no non-equivalent neighbouring hydrogens, so they give one singlet.
+**A1630.** Propanone, CH₃COCH₃. All six hydrogens are equivalent (two identical CH₃ groups on either side of the C=O) and have no non-equivalent neighbouring hydrogens, so they give one singlet.
 <!-- id: chem-6-3-23 -->
 
 Explanation: Propanal would give three signals.
 
-**A1629.** Propan-2-ol, CH₃CH(OH)CH₃. ¹H NMR: a doublet (6H) for the two equivalent CH₃ groups, a septet (1H) for the CH, and a singlet (1H) for the OH.
+**A1631.** Propan-2-ol, CH₃CH(OH)CH₃. ¹H NMR: a doublet (6H) for the two equivalent CH₃ groups, a septet (1H) for the CH, and a singlet (1H) for the OH.
 <!-- id: chem-6-3-24 -->
 
 Explanation: CH₃ groups have 1 neighbour (doublet); the CH has 6 neighbours (7 peaks); OH is treated as a singlet.
 
-**A1630.** The area under each signal is proportional to the number of hydrogen atoms in that environment. The area ratio therefore shows how many H are in each environment, for example 3 : 2 suggests CH₃ and CH₂ groups.
+**A1632.** The area under each signal is proportional to the number of hydrogen atoms in that environment. The area ratio therefore shows how many H are in each environment, for example 3 : 2 suggests CH₃ and CH₂ groups.
 <!-- id: chem-6-3-25 -->
 
 Explanation: Mention that relative areas (integration) give the relative number of H in each environment.
 
-**A1631.** C. Its signal appears at a higher chemical shift than most organic compounds
+**A1633.** C. Its signal appears at a higher chemical shift than most organic compounds
 <!-- id: chem34a3-nmr-1 -->
 
 Explanation: TMS is defined as 0 ppm and its signal appears at a lower chemical shift (more upfield) than almost all organic protons and carbons, so it does not overlap their signals. The other three statements are genuine reasons for using TMS.
 
-**A1632.** B. 3
+**A1634.** B. 3
 <!-- id: chem34a3-nmr-2 -->
 
 Explanation: The molecule is symmetrical about the C=O carbon. The two CH₃ carbons are equivalent, the two CH₂ carbons are equivalent, and the C=O carbon is unique, giving 3 carbon environments.
 
-**A1633.** D. sextet
+**A1635.** D. sextet
 <!-- id: chem34a3-nmr-3 -->
 
 Explanation: The middle CH₂ has 3 + 2 = 5 hydrogens on neighbouring carbons. By the n + 1 rule it is split into 6 lines, a sextet.
 
-**A1634.** B. ethanoic acid
+**A1636.** B. ethanoic acid
 <!-- id: chem34a3-nmr-4 -->
 
 Explanation: Ethanoic acid, CH₃COOH, has two H environments: CH₃ (3H, singlet near 2.1 ppm, no neighbouring H) and COOH (1H, singlet at about 9–13 ppm). Methyl methanoate, HCOOCH₃, also gives two singlets but in a 1 : 3 ratio with the methyl at about 3.7 ppm and the HCOO proton near 8 ppm, not 11.5 ppm.
 
-**A1635.** B. relative number of hydrogen atoms in each environment
+**A1637.** B. relative number of hydrogen atoms in each environment
 <!-- id: chem34a3-nmr-5 -->
 
 Explanation: Peak area (integration) is proportional to the number of hydrogen atoms producing that signal. The number of neighbouring hydrogens is shown by splitting, and electronegative neighbours affect chemical shift.
 
-**A1636.** Three signals (three H environments); CH₃: triplet (split by 2 H on CH₂), relative area 3, about 1.2 ppm; CH₂: quartet (split by 3 H on CH₃), relative area 2, about 3.6 ppm (shifted downfield by the O); OH: singlet, relative area 1, variable shift (about 2–5 ppm).
+**A1638.** Three signals (three H environments); CH₃: triplet (split by 2 H on CH₂), relative area 3, about 1.2 ppm; CH₂: quartet (split by 3 H on CH₃), relative area 2, about 3.6 ppm (shifted downfield by the O); OH: singlet, relative area 1, variable shift (about 2–5 ppm).
 <!-- id: chem34a3-nmr-6 -->
 
 Explanation:
 
-**A1637.** Ethyl ethanoate has a CH₃ singlet near 2.0 ppm (CH₃ next to C=O), whereas methyl propanoate has a CH₃ singlet near 3.7 ppm (CH₃ bonded to O); in ethyl ethanoate the CH₂ quartet is near 4.1 ppm (CH₂ bonded to O), whereas in methyl propanoate the CH₂ quartet is near 2.3 ppm (CH₂ next to C=O). Both show a triplet/quartet/singlet pattern with areas 3 : 2 : 3, so chemical shift is the key difference.
+**A1639.** Ethyl ethanoate has a CH₃ singlet near 2.0 ppm (CH₃ next to C=O), whereas methyl propanoate has a CH₃ singlet near 3.7 ppm (CH₃ bonded to O); in ethyl ethanoate the CH₂ quartet is near 4.1 ppm (CH₂ bonded to O), whereas in methyl propanoate the CH₂ quartet is near 2.3 ppm (CH₂ next to C=O). Both show a triplet/quartet/singlet pattern with areas 3 : 2 : 3, so chemical shift is the key difference.
 <!-- id: chem34a3-nmr-7 -->
 
 Explanation:
 
-**A1638.** Propan-2-ol, CH₃CH(OH)CH₃; two ¹³C peaks show two carbon environments (the two equivalent CH₃ carbons and the CH carbon), whereas propan-1-ol would give three; the doublet with area 6 arises from 6 equivalent CH₃ hydrogens split by the single H on the adjacent CH carbon (n + 1 = 2).
+**A1640.** Propan-2-ol, CH₃CH(OH)CH₃; two ¹³C peaks show two carbon environments (the two equivalent CH₃ carbons and the CH carbon), whereas propan-1-ol would give three; the doublet with area 6 arises from 6 equivalent CH₃ hydrogens split by the single H on the adjacent CH carbon (n + 1 = 2).
 <!-- id: chem34a3-nmr-8 -->
 
 Explanation:
 
 #### HPLC and volumetric analysis
 
-**A1639.** C. differ in how strongly they adsorb to the stationary phase relative to how well they dissolve in the mobile phase
+**A1641.** C. differ in how strongly they adsorb to the stationary phase relative to how well they dissolve in the mobile phase
 <!-- id: chem-6-4-1 -->
 
 Explanation: Components that are more strongly attracted to the stationary phase move more slowly and elute later.
 
-**A1640.** D. travel from the point of injection to the detector
+**A1642.** D. travel from the point of injection to the detector
 <!-- id: chem-6-4-2 -->
 
 Explanation: Retention time runs from injection until the component's peak reaches the detector. It is characteristic of a substance under fixed conditions.
 
-**A1641.** A. the most polar component
+**A1643.** A. the most polar component
 <!-- id: chem-6-4-3 -->
 
 Explanation: Polar molecules are attracted more to the polar mobile phase than to the non-polar stationary phase, so they pass through the column fastest.
 
-**A1642.** B. the peak area compared with a calibration curve made from standards
+**A1644.** B. the peak area compared with a calibration curve made from standards
 <!-- id: chem-6-4-4 -->
 
 Explanation: Peak area is proportional to the amount of a component; standards of known concentration are used to build a calibration curve.
 
-**A1643.** C. decrease
+**A1645.** C. decrease
 <!-- id: chem-6-4-5 -->
 
 Explanation: A faster mobile phase carries all the components through the column more quickly.
 
-**A1644.** D. run a caffeine standard under identical conditions and compare retention times
+**A1646.** D. run a caffeine standard under identical conditions and compare retention times
 <!-- id: chem-6-4-6 -->
 
 Explanation: A component is identified when its retention time matches that of a known standard run under the same conditions.
 
-**A1645.** A. 0.0800 M
+**A1647.** A. 0.0800 M
 <!-- id: chem-6-4-7 -->
 
 Explanation: n(NaOH) = 0.100 × 0.02000 = 0.00200 mol = n(HCl). c(HCl) = 0.00200 ÷ 0.02500 = 0.0800 M.
 
-**A1646.** B. greater than 7, so phenolphthalein is a suitable indicator
+**A1648.** B. greater than 7, so phenolphthalein is a suitable indicator
 <!-- id: chem-6-4-8 -->
 
 Explanation: The ethanoate ion formed is a weak base, so the solution at equivalence is slightly basic. Phenolphthalein changes colour in a basic range.
 
-**A1647.** C. anhydrous sodium carbonate
+**A1649.** C. anhydrous sodium carbonate
 <!-- id: chem-6-4-9 -->
 
 Explanation: Anhydrous Na₂CO₃ is pure, stable and not hygroscopic once dried. NaOH absorbs water and CO₂, and HCl is volatile, so neither has a precisely known concentration.
 
-**A1648.** D. the solution it will contain
+**A1650.** D. the solution it will contain
 <!-- id: chem-6-4-10 -->
 
 Explanation: Rinsing with the titrant stops any water or residue diluting it, so its concentration stays as stated.
 
-**A1649.** A. 0.108 M
+**A1651.** A. 0.108 M
 <!-- id: chem-6-4-11 -->
 
 Explanation: n(Na₂CO₃) = 0.0500 × 0.02000 = 1.000 × 10⁻³ mol, so n(HCl) = 2.000 × 10⁻³ mol. c = 2.000 × 10⁻³ ÷ 0.01850 = 0.108 M.
 
-**A1650.** B. 0.0600 M
+**A1652.** B. 0.0600 M
 <!-- id: chem-6-4-12 -->
 
 Explanation: n(MnO₄⁻) = 0.0200 × 0.01500 = 3.00 × 10⁻⁴ mol, so n(Fe²⁺) = 5 × 3.00 × 10⁻⁴ = 1.50 × 10⁻³ mol. c = 1.50 × 10⁻³ ÷ 0.02500 = 0.0600 M.
 
-**A1651.** C. no effect, because the number of moles in the aliquot is unchanged
+**A1653.** C. no effect, because the number of moles in the aliquot is unchanged
 <!-- id: chem-6-4-13 -->
 
 Explanation: The amount (in mol) of analyte transferred by the pipette is unchanged, so the same volume of titrant is needed.
 
-**A1652.** D. too high, because the diluted NaOH gives a larger titre
+**A1654.** D. too high, because the diluted NaOH gives a larger titre
 <!-- id: chem-6-4-14 -->
 
 Explanation: Diluted NaOH contains fewer moles per mL, so more is needed. Using the stated concentration with this larger titre overestimates the moles of acid.
 
-**A1653.** A. 0.10 mL
+**A1655.** A. 0.10 mL
 <!-- id: chem-6-4-15 -->
 
 Explanation: Concordant titres lie within about 0.10 mL of each other; only these are averaged.
 
-**A1654.** B. 1.10 M
+**A1656.** B. 1.10 M
 <!-- id: chem-6-4-16 -->
 
 Explanation: Dilution factor = 250.0 ÷ 20.00 = 12.5, so the original concentration is 0.0880 × 12.5 = 1.10 M.
 
-**A1655.** C. the indicator changes colour
+**A1657.** C. the indicator changes colour
 <!-- id: chem-6-4-17 -->
 
 Explanation: The equivalence point is where reactants are in stoichiometric amounts; the end point is the observed colour change, ideally very close to it.
 
-**A1656.** D. methyl orange, because the equivalence point is acidic
+**A1658.** D. methyl orange, because the equivalence point is acidic
 <!-- id: chem-6-4-18 -->
 
 Explanation: The ammonium ion formed is a weak acid, so the equivalence point pH is below 7. Methyl orange changes colour in an acidic range.
 
-**A1657.** c = (4200 ÷ 3000) × 20.0 = 28.0 mg/L
+**A1659.** c = (4200 ÷ 3000) × 20.0 = 28.0 mg/L
 <!-- id: chem-6-4-19 -->
 
 Explanation: Because the calibration is linear through the origin, concentration scales directly with peak area.
 
-**A1658.** n(NaOH) = 0.1000 × 0.02150 = 2.150 × 10⁻³ mol = n(CH₃COOH). Diluted c = 2.150 × 10⁻³ ÷ 0.02500 = 0.0860 M; original c = 0.0860 × 10 = 0.860 M. Mass in 100 mL = 0.0860 mol × 60.05 = 5.16 g, so 5.16% (w/v).
+**A1660.** n(NaOH) = 0.1000 × 0.02150 = 2.150 × 10⁻³ mol = n(CH₃COOH). Diluted c = 2.150 × 10⁻³ ÷ 0.02500 = 0.0860 M; original c = 0.0860 × 10 = 0.860 M. Mass in 100 mL = 0.0860 mol × 60.05 = 5.16 g, so 5.16% (w/v).
 <!-- id: chem-6-4-20 -->
 
 Explanation: Check the 1:1 ratio, the dilution factor of 10, and conversion to grams per 100 mL.
 
-**A1659.** Solid NaOH is hygroscopic (it absorbs water from the air) and reacts with atmospheric CO₂. Its mass therefore does not reflect the true amount of NaOH, so a solution of accurately known concentration cannot be made by weighing it.
+**A1661.** Solid NaOH is hygroscopic (it absorbs water from the air) and reacts with atmospheric CO₂. Its mass therefore does not reflect the true amount of NaOH, so a solution of accurately known concentration cannot be made by weighing it.
 <!-- id: chem-6-4-21 -->
 
 Explanation: Mention absorption of water and/or CO₂.
 
-**A1660.** Each compound has a different balance of attraction to the stationary phase and solubility in the mobile phase (for example, due to differences in polarity). The compound more strongly adsorbed to the stationary phase moves more slowly and has a longer retention time.
+**A1662.** Each compound has a different balance of attraction to the stationary phase and solubility in the mobile phase (for example, due to differences in polarity). The compound more strongly adsorbed to the stationary phase moves more slowly and has a longer retention time.
 <!-- id: chem-6-4-22 -->
 
 Explanation: Answers must refer to both stationary and mobile phase interactions.
 
-**A1661.** The water left in the pipette dilutes the aliquot, so it contains fewer moles of analyte. The titre is smaller, and the calculated concentration is lower than the true value.
+**A1663.** The water left in the pipette dilutes the aliquot, so it contains fewer moles of analyte. The titre is smaller, and the calculated concentration is lower than the true value.
 <!-- id: chem-6-4-23 -->
 
 Explanation: Link fewer moles to a smaller titre and an underestimated result.
 
-**A1662.** n(MnO₄⁻) = 0.0150 × 0.01240 = 1.86 × 10⁻⁴ mol; n(Fe²⁺) = 5 × 1.86 × 10⁻⁴ = 9.30 × 10⁻⁴ mol; m = 9.30 × 10⁻⁴ × 55.85 = 0.0519 g = 51.9 mg.
+**A1664.** n(MnO₄⁻) = 0.0150 × 0.01240 = 1.86 × 10⁻⁴ mol; n(Fe²⁺) = 5 × 1.86 × 10⁻⁴ = 9.30 × 10⁻⁴ mol; m = 9.30 × 10⁻⁴ × 55.85 = 0.0519 g = 51.9 mg.
 <!-- id: chem-6-4-24 -->
 
 Explanation: The 1 : 5 mole ratio is the key step; KMnO₄ acts as its own indicator (the first permanent pink colour).
 
-**A1663.** Small particles give the stationary phase a very large surface area, which improves separation and resolution. They also pack tightly and resist flow, so high pressure is needed to push the mobile phase through the column at a useful rate.
+**A1665.** Small particles give the stationary phase a very large surface area, which improves separation and resolution. They also pack tightly and resist flow, so high pressure is needed to push the mobile phase through the column at a useful rate.
 <!-- id: chem-6-4-25 -->
 
 Explanation: Credit both the surface area/resolution idea and the pressure requirement.
 
-**A1664.** B. 0.45
+**A1666.** B. 0.45
 <!-- id: chem34a3-chr-1 -->
 
 Explanation: Rf = distance travelled by component ÷ distance travelled by solvent front = 3.6 ÷ 8.0 = 0.45. Rf values must lie between 0 and 1, which rules out 2.2.
 
-**A1665.** C. ethanoic acid
+**A1667.** C. ethanoic acid
 <!-- id: chem34a3-chr-2 -->
 
 Explanation: Ethanoic acid is the most polar (small, with a highly polar COOH group), so it is least attracted to the non-polar stationary phase and most soluble in the polar mobile phase. It therefore elutes first. The longer, less polar molecules adsorb more strongly and are retained longer.
 
-**A1666.** C. Components separate because of differences in their relative attraction to the stationary and mobile phases
+**A1668.** C. Components separate because of differences in their relative attraction to the stationary and mobile phases
 <!-- id: chem34a3-chr-3 -->
 
 Explanation: Separation depends on the balance between adsorption to the stationary phase and solubility in (desorption into) the mobile phase. Strongly adsorbed components move more slowly. The relative polarity of the phases can be chosen either way.
 
-**A1667.** C. 500 mg L⁻¹
+**A1669.** C. 500 mg L⁻¹
 <!-- id: chem34a3-chr-4 -->
 
 Explanation: The calibration is linear at 75 area units per mg L⁻¹, so an area of 3750 corresponds to 50 mg L⁻¹ in the diluted sample. Multiplying by the dilution factor of 10 gives 500 mg L⁻¹ in the original cola. 50 mg L⁻¹ forgets the dilution.
 
-**A1668.** A. decreases, because the compound is now more soluble in the mobile phase
+**A1670.** A. decreases, because the compound is now more soluble in the mobile phase
 <!-- id: chem34a3-chr-5 -->
 
 Explanation: A less polar mobile phase dissolves a non-polar compound better, so it spends more time in the mobile phase and less adsorbed on the non-polar stationary phase, eluting sooner. The stationary phase itself is unchanged.
 
-**A1669.** (a) Retention time is used for qualitative identification: a component is identified by comparing its retention time with that of a known standard run under identical conditions (same column, mobile phase, flow rate, temperature); (b) peak area is proportional to the amount/concentration of the component; it is used quantitatively by comparing with a calibration curve made from standards of known concentration.
+**A1671.** (a) Retention time is used for qualitative identification: a component is identified by comparing its retention time with that of a known standard run under identical conditions (same column, mobile phase, flow rate, temperature); (b) peak area is proportional to the amount/concentration of the component; it is used quantitatively by comparing with a calibration curve made from standards of known concentration.
 <!-- id: chem34a3-chr-6 -->
 
 Explanation:
 
-**A1670.** Different compounds can have the same (or very similar) retention time under a given set of conditions, so a match is not proof of identity; confirmation could be obtained by spiking the sample with the standard and checking that only the single peak increases (no new peak), by repeating with a different column or mobile phase, or by coupling HPLC to a mass spectrometer.
+**A1672.** Different compounds can have the same (or very similar) retention time under a given set of conditions, so a match is not proof of identity; confirmation could be obtained by spiking the sample with the standard and checking that only the single peak increases (no new peak), by repeating with a different column or mobile phase, or by coupling HPLC to a mass spectrometer.
 <!-- id: chem34a3-chr-7 -->
 
 Explanation:
 
-**A1671.** Concentration in original drink = 12.4 × (50.0 ÷ 10.0) = 62.0 mg L⁻¹; mass in 0.600 L = 62.0 × 0.600 = 37.2 mg.
+**A1673.** Concentration in original drink = 12.4 × (50.0 ÷ 10.0) = 62.0 mg L⁻¹; mass in 0.600 L = 62.0 × 0.600 = 37.2 mg.
 <!-- id: chem34a3-chr-8 -->
 
 Explanation:
 
-**A1672.** C. 0.875 mol L⁻¹
+**A1674.** C. 0.875 mol L⁻¹
 <!-- id: chem34a3-vol-1 -->
 
 Explanation: n(NaOH) = 0.100 × 0.01750 = 1.750 × 10⁻³ mol = n(CH₃COOH) in 20.00 mL. Concentration of diluted solution = 1.750 × 10⁻³ ÷ 0.02000 = 0.0875 mol L⁻¹. The vinegar was diluted 10-fold, so the original is 0.875 mol L⁻¹. 0.0875 mol L⁻¹ ignores the dilution.
 
-**A1673.** C. phenolphthalein (colour change pH 8.3–10.0)
+**A1675.** C. phenolphthalein (colour change pH 8.3–10.0)
 <!-- id: chem34a3-vol-2 -->
 
 Explanation: At equivalence the solution contains ethanoate ions, which are weakly basic, so the equivalence point pH is above 7 (about 8–9). Phenolphthalein changes colour in this range. The other indicators would change colour before equivalence is reached.
 
-**A1674.** D. 1.14 mol L⁻¹
+**A1676.** D. 1.14 mol L⁻¹
 <!-- id: chem34a3-vol-3 -->
 
 Explanation: n(Cr₂O₇²⁻) = 0.0500 × 0.01520 = 7.60 × 10⁻⁴ mol; n(ethanol) = 3/2 × 7.60 × 10⁻⁴ = 1.14 × 10⁻³ mol in the aliquot, so 1.14 × 10⁻² mol in 100.0 mL, which came from 10.00 mL of wine: 1.14 × 10⁻² ÷ 0.01000 = 1.14 mol L⁻¹. 0.507 uses the inverted ratio 2/3.
 
-**A1675.** A. too high, because the titrant is diluted and a larger titre is needed
+**A1677.** A. too high, because the titrant is diluted and a larger titre is needed
 <!-- id: chem34a3-vol-4 -->
 
 Explanation: Residual water dilutes the titrant, so more volume is needed to deliver the required number of moles. Calculations use the labelled (higher) concentration, so the moles of titrant and hence analyte are overestimated.
 
-**A1676.** B. starch; the first permanent blue-black colour
+**A1678.** B. starch; the first permanent blue-black colour
 <!-- id: chem34a3-vol-5 -->
 
 Explanation: While vitamin C is present, added iodine is reduced to colourless iodide. Once all the vitamin C has reacted, excess I₂ forms a blue-black complex with starch, marking the endpoint. Acid–base indicators are not suited to this redox titration.
 
-**A1677.** n(I₂) = 0.0250 × 0.02270 = 5.675 × 10⁻⁴ mol = n(vitamin C) in 20.00 mL; n in 100.0 mL = 5.675 × 10⁻⁴ × (100.0 ÷ 20.00) = 2.838 × 10⁻³ mol; m = 2.838 × 10⁻³ × 176.0 = 0.499 g (3 significant figures, limited by 0.0250 mol L⁻¹).
+**A1679.** n(I₂) = 0.0250 × 0.02270 = 5.675 × 10⁻⁴ mol = n(vitamin C) in 20.00 mL; n in 100.0 mL = 5.675 × 10⁻⁴ × (100.0 ÷ 20.00) = 2.838 × 10⁻³ mol; m = 2.838 × 10⁻³ × 176.0 = 0.499 g (3 significant figures, limited by 0.0250 mol L⁻¹).
 <!-- id: chem34a3-vol-6 -->
 
 Explanation:
 
-**A1678.** Concordant titres are titres that agree closely with each other, typically within 0.10 mL; averaging only concordant titres excludes the rough/trial titre and any outliers, which reduces the effect of random errors and improves the precision (and reliability) of the result.
+**A1680.** Concordant titres are titres that agree closely with each other, typically within 0.10 mL; averaging only concordant titres excludes the rough/trial titre and any outliers, which reduces the effect of random errors and improves the precision (and reliability) of the result.
 <!-- id: chem34a3-vol-7 -->
 
 Explanation:
 
-**A1679.** n(NaOH) = 0.115 × 0.02465 = 2.835 × 10⁻³ mol = n(acid) (1 : 1 for a monoprotic acid); M = 0.250 ÷ 2.835 × 10⁻³ = 88.2 g mol⁻¹; this matches butanoic acid, CH₃CH₂CH₂COOH (88.0 g mol⁻¹).
+**A1681.** n(NaOH) = 0.115 × 0.02465 = 2.835 × 10⁻³ mol = n(acid) (1 : 1 for a monoprotic acid); M = 0.250 ÷ 2.835 × 10⁻³ = 88.2 g mol⁻¹; this matches butanoic acid, CH₃CH₂CH₂COOH (88.0 g mol⁻¹).
 <!-- id: chem34a3-vol-8 -->
 
 Explanation:
@@ -8643,668 +8755,668 @@ Explanation:
 
 #### Proteins and amino acids
 
-**A1680.** A. Amino and carboxyl
+**A1682.** A. Amino and carboxyl
 <!-- id: chem-7-1-1 -->
 
 Explanation: Each 2-amino acid has an amino (–NH₂) group and a carboxyl (–COOH) group bonded to the same carbon atom.
 
-**A1681.** B. peptide (amide) bond
+**A1683.** B. peptide (amide) bond
 <!-- id: chem-7-1-2 -->
 
 Explanation: The –COOH of one amino acid reacts with the –NH₂ of another, releasing water and forming a –CONH– amide (peptide) link.
 
-**A1682.** C. 149
+**A1684.** C. 149
 <!-- id: chem-7-1-3 -->
 
 Explanation: Each peptide bond releases one water molecule and a chain of n residues has n − 1 peptide bonds, so 149.
 
-**A1683.** D. 132.0 g mol⁻¹
+**A1685.** D. 132.0 g mol⁻¹
 <!-- id: chem-7-1-4 -->
 
 Explanation: 2 × 75.0 − 18.0 (one water lost in condensation) = 132.0 g mol⁻¹.
 
-**A1684.** A. Primary
+**A1686.** A. Primary
 <!-- id: chem-7-1-5 -->
 
 Explanation: Primary structure is the order of amino acid residues, held together by covalent peptide bonds.
 
-**A1685.** B. hydrogen bonds between C=O and N–H groups of the polypeptide backbone
+**A1687.** B. hydrogen bonds between C=O and N–H groups of the polypeptide backbone
 <!-- id: chem-7-1-6 -->
 
 Explanation: Secondary structure results from regular hydrogen bonding between backbone carbonyl oxygen and amide hydrogen atoms.
 
-**A1686.** C. Cysteine
+**A1688.** C. Cysteine
 <!-- id: chem-7-1-7 -->
 
 Explanation: Cysteine has a –CH₂SH side chain; two –SH groups can be oxidised to form a covalent –S–S– bridge.
 
-**A1687.** D. The association of two or more polypeptide chains into one functional protein
+**A1689.** D. The association of two or more polypeptide chains into one functional protein
 <!-- id: chem-7-1-8 -->
 
 Explanation: Quaternary structure exists only in proteins made of more than one polypeptide subunit, such as haemoglobin with four chains.
 
-**A1688.** A. Peptide bonds
+**A1690.** A. Peptide bonds
 <!-- id: chem-7-1-9 -->
 
 Explanation: Denaturation disrupts secondary, tertiary and quaternary structure, but the covalent peptide bonds of the primary structure are not broken.
 
-**A1689.** B. Glycine
+**A1691.** B. Glycine
 <!-- id: chem-7-1-10 -->
 
 Explanation: Glycine's side chain is H, so its central carbon has two identical H atoms and is not a stereocentre.
 
-**A1690.** C. cannot be made by the body in sufficient amounts and must be obtained from the diet
+**A1692.** C. cannot be made by the body in sufficient amounts and must be obtained from the diet
 <!-- id: chem-7-1-11 -->
 
 Explanation: Humans cannot synthesise nine amino acids (or enough of them), so these must come from dietary protein.
 
-**A1691.** D. an ionic interaction between –NH₃⁺ and –COO⁻
+**A1693.** D. an ionic interaction between –NH₃⁺ and –COO⁻
 <!-- id: chem-7-1-12 -->
 
 Explanation: At pH 7.4 lysine's amino group is protonated and aspartic acid's carboxyl is deprotonated, so the oppositely charged groups attract (a salt bridge).
 
-**A1692.** A. –NH₃⁺
+**A1694.** A. –NH₃⁺
 <!-- id: chem-7-1-13 -->
 
 Explanation: The amino group is basic, so at low pH it accepts H⁺ to become –NH₃⁺.
 
-**A1693.** B. 2
+**A1695.** B. 2
 <!-- id: chem-7-1-14 -->
 
 Explanation: Gly-Ala and Ala-Gly are different because the free amino (N-terminal) and carboxyl (C-terminal) ends differ.
 
-**A1694.** C. 6
+**A1696.** C. 6
 <!-- id: chem-7-1-15 -->
 
 Explanation: The three amino acids can be arranged in 3 × 2 × 1 = 6 different sequences.
 
-**A1695.** D. amino acids
+**A1697.** D. amino acids
 <!-- id: chem-7-1-16 -->
 
 Explanation: Hydrolysis breaks every peptide bond, releasing the individual amino acid monomers.
 
-**A1696.** A. in the interior of the protein, interacting with other non-polar side chains via dispersion forces
+**A1698.** A. in the interior of the protein, interacting with other non-polar side chains via dispersion forces
 <!-- id: chem-7-1-17 -->
 
 Explanation: Hydrophobic side chains are buried away from water in the core of globular proteins, held by dispersion forces.
 
-**A1697.** B. It has a free amino group at one end and a free carboxyl group at the other end
+**A1699.** B. It has a free amino group at one end and a free carboxyl group at the other end
 <!-- id: chem-7-1-18 -->
 
 Explanation: The chain begins with an N-terminal –NH₂ and ends with a C-terminal –COOH because each internal pair has been used in a peptide bond.
 
-**A1698.** H₂NCH₂CONHCH(CH₃)COOH (water is also produced).
+**A1700.** H₂NCH₂CONHCH(CH₃)COOH (water is also produced).
 <!-- id: chem-7-1-19 -->
 
 Explanation: Glycine's –COOH and alanine's –NH₂ combine to form the –CONH– peptide link, leaving glycine's amino group and alanine's carboxyl group free.
 
-**A1699.** The extra kinetic energy disrupts the hydrogen bonds, ionic interactions and dispersion forces that maintain the secondary and tertiary structure, so the protein unfolds (denatures). Its specific 3D shape (e.g. active site) is lost, so it can no longer function, even though the peptide bonds remain.
+**A1701.** The extra kinetic energy disrupts the hydrogen bonds, ionic interactions and dispersion forces that maintain the secondary and tertiary structure, so the protein unfolds (denatures). Its specific 3D shape (e.g. active site) is lost, so it can no longer function, even though the peptide bonds remain.
 <!-- id: chem-7-1-20 -->
 
 Explanation: Mark for: weak bonds/interactions broken, change in 3D shape, primary structure unchanged.
 
-**A1700.** Secondary structure is the local folding of the backbone into α-helices or β-pleated sheets, held by hydrogen bonds between backbone C=O and N–H groups. Tertiary structure is the overall 3D folding of the whole chain, held by interactions between side chains (hydrogen bonds, ionic interactions, dispersion forces and covalent disulfide bridges).
+**A1702.** Secondary structure is the local folding of the backbone into α-helices or β-pleated sheets, held by hydrogen bonds between backbone C=O and N–H groups. Tertiary structure is the overall 3D folding of the whole chain, held by interactions between side chains (hydrogen bonds, ionic interactions, dispersion forces and covalent disulfide bridges).
 <!-- id: chem-7-1-21 -->
 
 Explanation: Key distinction: backbone interactions (secondary) versus side-chain (R group) interactions (tertiary).
 
-**A1701.** C₃H₇NO₂ (alanine).
+**A1703.** C₃H₇NO₂ (alanine).
 <!-- id: chem-7-1-22 -->
 
 Explanation: Dipeptide + H₂O = C₅H₁₂N₂O₄; subtracting glycine C₂H₅NO₂ leaves C₃H₇NO₂.
 
-**A1702.** Many individual plant proteins are low in one or more essential amino acids (e.g. grains are low in lysine, legumes in methionine). Combining complementary proteins ensures all essential amino acids, which the body cannot synthesise, are obtained in sufficient amounts.
+**A1704.** Many individual plant proteins are low in one or more essential amino acids (e.g. grains are low in lysine, legumes in methionine). Combining complementary proteins ensures all essential amino acids, which the body cannot synthesise, are obtained in sufficient amounts.
 <!-- id: chem-7-1-23 -->
 
 Explanation: Must link variety to obtaining all essential amino acids.
 
-**A1703.** Lowering the pH protonates –COO⁻ side chains to –COOH, changing the charges on R groups. This disrupts the ionic interactions and hydrogen bonds that hold the tertiary structure, so the proteins unfold and clump together (coagulate).
+**A1705.** Lowering the pH protonates –COO⁻ side chains to –COOH, changing the charges on R groups. This disrupts the ionic interactions and hydrogen bonds that hold the tertiary structure, so the proteins unfold and clump together (coagulate).
 <!-- id: chem-7-1-24 -->
 
 Explanation: Award marks for change in charge on side chains and disruption of tertiary structure.
 
-**A1704.** 900 g
+**A1706.** 900 g
 <!-- id: chem-7-1-25 -->
 
 Explanation: 51 residues have 50 peptide bonds, so 50 mol H₂O × 18.0 g mol⁻¹ = 900 g.
 
-**A1705.** C. H₃N⁺CH₂COOH
+**A1707.** C. H₃N⁺CH₂COOH
 <!-- id: chem34a3-prot-1 -->
 
 Explanation: At low pH there is a high concentration of H⁺, so both the amine group (protonated to –NH₃⁺) and the carboxyl group (remaining –COOH) are protonated. The zwitterion H₃N⁺CH₂COO⁻ predominates near the isoelectric point, and H₂NCH₂COO⁻ at high pH.
 
-**A1706.** B. hydrogen bonds between C=O and N–H groups of the polypeptide backbone
+**A1708.** B. hydrogen bonds between C=O and N–H groups of the polypeptide backbone
 <!-- id: chem34a3-prot-2 -->
 
 Explanation: Secondary structure results from hydrogen bonding between backbone carbonyl oxygens and amide hydrogens. Peptide bonds define the primary structure; disulfide bridges and ionic interactions between R groups contribute to tertiary structure.
 
-**A1707.** A. primary
+**A1709.** A. primary
 <!-- id: chem34a3-prot-3 -->
 
 Explanation: Denaturation disrupts the weaker interactions (hydrogen bonds, ionic interactions, dispersion forces) that maintain secondary, tertiary and quaternary structure. The covalent peptide bonds of the primary structure remain intact.
 
-**A1708.** B. providing an alternative reaction pathway with a lower activation energy
+**A1710.** B. providing an alternative reaction pathway with a lower activation energy
 <!-- id: chem34a3-prot-4 -->
 
 Explanation: Enzymes are biological catalysts: they provide an alternative pathway with lower activation energy, so a greater proportion of collisions are successful. They do not change ΔH or the position of equilibrium.
 
-**A1709.** B. 6
+**A1711.** B. 6
 <!-- id: chem34a3-prot-5 -->
 
 Explanation: Each sequence is a different primary structure, and a tripeptide has distinct N-terminal and C-terminal ends. The number of arrangements of three different units is 3 × 2 × 1 = 6. 27 would apply if each amino acid could be used more than once.
 
-**A1710.** Changing the pH alters the concentration of H⁺, which changes the charges on acidic and basic R groups (e.g. –COOH/–COO⁻ and –NH₂/–NH₃⁺) in the enzyme; this disrupts ionic interactions and hydrogen bonds that maintain the tertiary structure, changing the shape of the active site; the substrate can no longer bind as effectively (and charged groups involved in catalysis may be altered), so activity decreases; large changes cause denaturation.
+**A1712.** Changing the pH alters the concentration of H⁺, which changes the charges on acidic and basic R groups (e.g. –COOH/–COO⁻ and –NH₂/–NH₃⁺) in the enzyme; this disrupts ionic interactions and hydrogen bonds that maintain the tertiary structure, changing the shape of the active site; the substrate can no longer bind as effectively (and charged groups involved in catalysis may be altered), so activity decreases; large changes cause denaturation.
 <!-- id: chem34a3-prot-6 -->
 
 Explanation:
 
-**A1711.** A coenzyme is a non-protein organic molecule that binds to an enzyme (often at or near the active site) and is required for the enzyme to catalyse its reaction, frequently by carrying electrons, atoms or groups; without enough of the vitamin, the coenzyme cannot be made, so the enzymes that depend on it are less active and those reactions proceed more slowly.
+**A1713.** A coenzyme is a non-protein organic molecule that binds to an enzyme (often at or near the active site) and is required for the enzyme to catalyse its reaction, frequently by carrying electrons, atoms or groups; without enough of the vitamin, the coenzyme cannot be made, so the enzymes that depend on it are less active and those reactions proceed more slowly.
 <!-- id: chem34a3-prot-7 -->
 
 Explanation:
 
-**A1712.** H₂NCH₂CONHCH(CH₃)COOH, i.e. glycine is at the N-terminal end: the –COOH of glycine and the –NH₂ of alanine join to form –CO–NH–; it is a condensation reaction releasing one H₂O molecule; the bond formed is a peptide (amide) bond.
+**A1714.** H₂NCH₂CONHCH(CH₃)COOH, i.e. glycine is at the N-terminal end: the –COOH of glycine and the –NH₂ of alanine join to form –CO–NH–; it is a condensation reaction releasing one H₂O molecule; the bond formed is a peptide (amide) bond.
 <!-- id: chem34a3-prot-8 -->
 
 Explanation:
 
 #### Carbohydrates, fats and oils
 
-**A1713.** C. structural isomers
+**A1715.** C. structural isomers
 <!-- id: chem-7-2-1 -->
 
 Explanation: They have the same molecular formula but different arrangements of atoms (glucose is an aldose, fructose a ketose).
 
-**A1714.** D. glucose and fructose
+**A1716.** D. glucose and fructose
 <!-- id: chem-7-2-2 -->
 
 Explanation: Sucrose is a disaccharide of one glucose and one fructose unit.
 
-**A1715.** A. glucose and galactose
+**A1717.** A. glucose and galactose
 <!-- id: chem-7-2-3 -->
 
 Explanation: Lactose hydrolyses into glucose and galactose.
 
-**A1716.** B. 342.0 g mol⁻¹
+**A1718.** B. 342.0 g mol⁻¹
 <!-- id: chem-7-2-4 -->
 
 Explanation: 2 × 180.0 − 18.0 (one water released) = 342.0 g mol⁻¹.
 
-**A1717.** C. glycosidic (ether) linkage
+**A1719.** C. glycosidic (ether) linkage
 <!-- id: chem-7-2-5 -->
 
 Explanation: Condensation between two –OH groups forms a C–O–C glycosidic link.
 
-**A1718.** D. Glycogen
+**A1720.** D. Glycogen
 <!-- id: chem-7-2-6 -->
 
 Explanation: Glycogen is a highly branched polymer of glucose stored in animal liver and muscle tissue.
 
-**A1719.** A. they lack an enzyme that can hydrolyse the β-glycosidic links between its glucose units
+**A1721.** A. they lack an enzyme that can hydrolyse the β-glycosidic links between its glucose units
 <!-- id: chem-7-2-7 -->
 
 Explanation: Human amylases only hydrolyse α-glycosidic links; we have no cellulase for the β links in cellulose.
 
-**A1720.** B. is branched, so it is hydrolysed more quickly and tends to give a higher glycaemic index
+**A1722.** B. is branched, so it is hydrolysed more quickly and tends to give a higher glycaemic index
 <!-- id: chem-7-2-8 -->
 
 Explanation: Branching gives many chain ends for amylase to attack, so glucose is released faster.
 
-**A1721.** C. causes a rapid rise in blood glucose level after it is eaten
+**A1723.** C. causes a rapid rise in blood glucose level after it is eaten
 <!-- id: chem-7-2-9 -->
 
 Explanation: GI measures how quickly a carbohydrate food raises blood glucose; high-GI foods are digested and absorbed rapidly.
 
-**A1722.** D. glycerol and three fatty acids
+**A1724.** D. glycerol and three fatty acids
 <!-- id: chem-7-2-10 -->
 
 Explanation: Each of glycerol's three –OH groups reacts with the –COOH of a fatty acid.
 
-**A1723.** A. Ester
+**A1725.** A. Ester
 <!-- id: chem-7-2-11 -->
 
 Explanation: A carboxylic acid reacting with an alcohol forms an ester (–COO–) group.
 
-**A1724.** B. 2
+**A1726.** B. 2
 <!-- id: chem-7-2-12 -->
 
 Explanation: A saturated C₁₈ fatty acid is C₁₈H₃₆O₂; it has 4 fewer H atoms, so 2 C=C double bonds.
 
-**A1725.** C. straight saturated chains pack closely together, giving stronger dispersion forces between molecules
+**A1727.** C. straight saturated chains pack closely together, giving stronger dispersion forces between molecules
 <!-- id: chem-7-2-13 -->
 
 Explanation: Cis double bonds in oleic acid put kinks in the chains, preventing close packing and weakening dispersion forces.
 
-**A1726.** D. the first C=C double bond is on the third carbon from the methyl (–CH₃) end of the chain
+**A1728.** D. the first C=C double bond is on the third carbon from the methyl (–CH₃) end of the chain
 <!-- id: chem-7-2-14 -->
 
 Explanation: The omega numbering counts from the methyl end, so omega-3 means the first double bond starts at carbon 3 from that end.
 
-**A1727.** A. reaction of oxygen at C=C double bonds in unsaturated fatty acid chains
+**A1729.** A. reaction of oxygen at C=C double bonds in unsaturated fatty acid chains
 <!-- id: chem-7-2-15 -->
 
 Explanation: Oxygen attacks the C=C double bonds, producing smaller volatile compounds such as aldehydes that smell and taste rancid.
 
-**A1728.** B. C₅₇H₁₁₀O₆
+**A1730.** B. C₅₇H₁₁₀O₆
 <!-- id: chem-7-2-16 -->
 
 Explanation: C₃H₈O₃ + 3 C₁₈H₃₆O₂ − 3 H₂O = C₅₇H₁₁₀O₆.
 
-**A1729.** C. 6
+**A1731.** C. 6
 <!-- id: chem-7-2-17 -->
 
 Explanation: Each linoleic acid chain has 2 C=C bonds, so the triglyceride has 6, and one I₂ adds across each.
 
-**A1730.** D. 3
+**A1732.** D. 3
 <!-- id: chem-7-2-18 -->
 
 Explanation: There are three ester links and each hydrolysis uses one water molecule.
 
-**A1731.** Glucose is a small molecule with five –OH groups that form many hydrogen bonds with water. A triglyceride is a large molecule dominated by long non-polar hydrocarbon chains that can only form dispersion forces, so it cannot form enough attractions with water to dissolve.
+**A1733.** Glucose is a small molecule with five –OH groups that form many hydrogen bonds with water. A triglyceride is a large molecule dominated by long non-polar hydrocarbon chains that can only form dispersion forces, so it cannot form enough attractions with water to dissolve.
 <!-- id: chem-7-2-19 -->
 
 Explanation: Refer to hydrogen bonding (glucose) versus mainly non-polar chains (triglyceride).
 
-**A1732.** (a) Glucose. (b) Glycerol and three fatty acids.
+**A1734.** (a) Glucose. (b) Glycerol and three fatty acids.
 <!-- id: chem-7-2-20 -->
 
 Explanation: Starch is a polymer of α-glucose; triglycerides are esters of glycerol and fatty acids.
 
-**A1733.** The cis C=C double bonds in unsaturated chains create kinks, so the molecules cannot pack closely. This weakens the dispersion forces between molecules, so less energy is needed to separate them and the melting point is lower.
+**A1735.** The cis C=C double bonds in unsaturated chains create kinks, so the molecules cannot pack closely. This weakens the dispersion forces between molecules, so less energy is needed to separate them and the melting point is lower.
 <!-- id: chem-7-2-21 -->
 
 Explanation: Link structure (kinks) → packing → strength of dispersion forces → melting point.
 
-**A1734.** 36.0 g
+**A1736.** 36.0 g
 <!-- id: chem-7-2-22 -->
 
 Explanation: M(maltose) = 342.0 g mol⁻¹, so n = 0.100 mol; this gives 0.200 mol glucose × 180.0 = 36.0 g.
 
-**A1735.** Antioxidants are preferentially oxidised (they react with oxygen or free radicals more readily than the C=C bonds in the unsaturated fats), so the oils in the nuts are protected from oxidation and rancid-smelling breakdown products form more slowly.
+**A1737.** Antioxidants are preferentially oxidised (they react with oxygen or free radicals more readily than the C=C bonds in the unsaturated fats), so the oils in the nuts are protected from oxidation and rancid-smelling breakdown products form more slowly.
 <!-- id: chem-7-2-23 -->
 
 Explanation: The antioxidant is oxidised instead of the unsaturated fatty acid chains.
 
-**A1736.** Both are polymers of α-glucose. Amylose is unbranched (α-1,4 links only), while amylopectin is branched (α-1,4 and α-1,6 links). Foods high in amylose have a lower GI because the unbranched chains coil tightly and are hydrolysed more slowly.
+**A1738.** Both are polymers of α-glucose. Amylose is unbranched (α-1,4 links only), while amylopectin is branched (α-1,4 and α-1,6 links). Foods high in amylose have a lower GI because the unbranched chains coil tightly and are hydrolysed more slowly.
 <!-- id: chem-7-2-24 -->
 
 Explanation: Must state branching difference and that high amylose gives lower GI.
 
-**A1737.** 3 C=C double bonds; polyunsaturated.
+**A1739.** 3 C=C double bonds; polyunsaturated.
 <!-- id: chem-7-2-25 -->
 
 Explanation: A saturated C₁₈ acid is C₁₈H₃₆O₂; it has 6 fewer H atoms, i.e. 3 C=C, and more than one double bond means polyunsaturated.
 
-**A1738.** C. glucose and fructose
+**A1740.** C. glucose and fructose
 <!-- id: chem34a3-carb-1 -->
 
 Explanation: Sucrose is formed by a condensation reaction between glucose and fructose. Maltose is glucose + glucose and lactose is glucose + galactose.
 
-**A1739.** B. 2C₆H₁₂O₆ → C₁₂H₂₂O₁₁ + H₂O
+**A1741.** B. 2C₆H₁₂O₆ → C₁₂H₂₂O₁₁ + H₂O
 <!-- id: chem34a3-carb-2 -->
 
 Explanation: Two glucose molecules join by a condensation reaction forming a glycosidic link and releasing one water molecule, so maltose is C₁₂H₂₂O₁₁.
 
-**A1740.** B. cellulose is made from β-glucose, and humans lack an enzyme that hydrolyses its glycosidic links
+**A1742.** B. cellulose is made from β-glucose, and humans lack an enzyme that hydrolyses its glycosidic links
 <!-- id: chem34a3-carb-3 -->
 
 Explanation: Cellulose is a polymer of β-glucose, while starch is made of α-glucose. Human digestive enzymes (amylases) are specific to the α-glycosidic links in starch, and humans do not produce cellulase. Cellulose is insoluble, not too soluble.
 
-**A1741.** C. is branched, with α(1→6) links at branch points as well as α(1→4) links
+**A1743.** C. is branched, with α(1→6) links at branch points as well as α(1→4) links
 <!-- id: chem34a3-carb-4 -->
 
 Explanation: Amylopectin is branched: chains of α(1→4)-linked glucose with α(1→6) links at branch points. Amylose is the unbranched, helical component. The many chain ends make amylopectin hydrolyse faster, giving a higher glycaemic index.
 
-**A1742.** B. 499
+**A1744.** B. 499
 <!-- id: chem34a3-carb-5 -->
 
 Explanation: An unbranched chain of 500 units contains 499 glycosidic links. Hydrolysis of each link uses one water molecule, so 499 water molecules are needed.
 
-**A1743.** Glycogen is more highly branched than starch (amylopectin), with α(1→6) branch points occurring more frequently; the many branch ends provide many sites where enzymes can hydrolyse glucose units at the same time, allowing rapid release of glucose when needed.
+**A1745.** Glycogen is more highly branched than starch (amylopectin), with α(1→6) branch points occurring more frequently; the many branch ends provide many sites where enzymes can hydrolyse glucose units at the same time, allowing rapid release of glucose when needed.
 <!-- id: chem34a3-carb-6 -->
 
 Explanation:
 
-**A1744.** Because aspartame is about 200 times sweeter, only a tiny mass is needed to achieve the same sweetness; although it releases a similar amount of energy per gram to sucrose (it is a dipeptide derivative, around 17 kJ g⁻¹), the very small mass contributes negligible energy to the drink.
+**A1746.** Because aspartame is about 200 times sweeter, only a tiny mass is needed to achieve the same sweetness; although it releases a similar amount of energy per gram to sucrose (it is a dipeptide derivative, around 17 kJ g⁻¹), the very small mass contributes negligible energy to the drink.
 <!-- id: chem34a3-carb-7 -->
 
 Explanation:
 
-**A1745.** Amylose is unbranched and coils tightly into a helix, so it has fewer exposed chain ends for amylase enzymes to act on and is hydrolysed more slowly; glucose is therefore released into the bloodstream more slowly, giving a smaller, slower rise in blood glucose (lower GI); a benefit is better blood-glucose control (e.g. for people with diabetes) or feeling full for longer / more sustained energy release.
+**A1747.** Amylose is unbranched and coils tightly into a helix, so it has fewer exposed chain ends for amylase enzymes to act on and is hydrolysed more slowly; glucose is therefore released into the bloodstream more slowly, giving a smaller, slower rise in blood glucose (lower GI); a benefit is better blood-glucose control (e.g. for people with diabetes) or feeling full for longer / more sustained energy release.
 <!-- id: chem34a3-carb-8 -->
 
 Explanation:
 
-**A1746.** B. three water molecules
+**A1748.** B. three water molecules
 <!-- id: chem34a3-fat-1 -->
 
 Explanation: Each of the three –OH groups of glycerol reacts with the –COOH of a fatty acid in a condensation reaction forming an ester link and releasing one water molecule, giving three water molecules in total.
 
-**A1747.** B. 2
+**A1749.** B. 2
 <!-- id: chem34a3-fat-2 -->
 
 Explanation: A saturated C₁₈ fatty acid is C₁₇H₃₅COOH (stearic acid). Linoleic acid has 4 fewer hydrogens, and each C=C removes 2 hydrogens, so it has 2 double bonds.
 
-**A1748.** B. cis-unsaturated fatty acid chains, whose kinks prevent close packing and weaken dispersion forces
+**A1750.** B. cis-unsaturated fatty acid chains, whose kinks prevent close packing and weaken dispersion forces
 <!-- id: chem34a3-fat-3 -->
 
 Explanation: Cis double bonds introduce kinks in the hydrocarbon chains, so molecules cannot pack closely. The dispersion forces between them are weaker, giving lower melting points. Longer and saturated chains would raise the melting point.
 
-**A1749.** C. vitamin D
+**A1751.** C. vitamin D
 <!-- id: chem34a3-fat-4 -->
 
 Explanation: Vitamin D is a largely non-polar molecule with only one –OH group, so it dissolves in fats and is stored in fatty tissue. Vitamin C and the B vitamins have many polar groups capable of hydrogen bonding with water, so they are water-soluble and must be consumed regularly.
 
-**A1750.** C. 9 mol
+**A1752.** C. 9 mol
 <!-- id: chem34a3-fat-5 -->
 
 Explanation: Linolenic acid has 3 C=C double bonds (C₁₇H₂₉COOH is 6 H short of C₁₇H₃₅COOH). The triglyceride has 3 chains × 3 C=C = 9 double bonds, each requiring 1 mol of H₂.
 
-**A1751.** An omega-3 fatty acid is an unsaturated fatty acid whose first carbon–carbon double bond is located at the third carbon counting from the methyl (omega) end of the chain; it is essential because the human body cannot synthesise it (cannot insert a double bond at that position), so it must be obtained from food (e.g. fish, flaxseed).
+**A1753.** An omega-3 fatty acid is an unsaturated fatty acid whose first carbon–carbon double bond is located at the third carbon counting from the methyl (omega) end of the chain; it is essential because the human body cannot synthesise it (cannot insert a double bond at that position), so it must be obtained from food (e.g. fish, flaxseed).
 <!-- id: chem34a3-fat-6 -->
 
 Explanation:
 
-**A1752.** Oxidative rancidity occurs when oxygen reacts at carbon–carbon double bonds, breaking the chains into smaller, unpleasant-smelling aldehydes, ketones and acids; polyunsaturated oils have more C=C bonds, so they oxidise more readily than saturated fats; manufacturers add antioxidants (e.g. vitamin E/tocopherols), store in airtight, opaque or nitrogen-flushed containers, or refrigerate to slow oxidation.
+**A1754.** Oxidative rancidity occurs when oxygen reacts at carbon–carbon double bonds, breaking the chains into smaller, unpleasant-smelling aldehydes, ketones and acids; polyunsaturated oils have more C=C bonds, so they oxidise more readily than saturated fats; manufacturers add antioxidants (e.g. vitamin E/tocopherols), store in airtight, opaque or nitrogen-flushed containers, or refrigerate to slow oxidation.
 <!-- id: chem34a3-fat-7 -->
 
 Explanation:
 
-**A1753.** Vitamin C's many –OH groups form hydrogen bonds with water, making it water-soluble; vitamin A is largely non-polar, so it interacts by dispersion forces with fats and is fat-soluble rather than water-soluble; consequence: vitamin C is not stored and excess is excreted, so it must be consumed regularly, whereas vitamin A is stored in body fat/liver and excessive intake can accumulate to toxic levels.
+**A1755.** Vitamin C's many –OH groups form hydrogen bonds with water, making it water-soluble; vitamin A is largely non-polar, so it interacts by dispersion forces with fats and is fat-soluble rather than water-soluble; consequence: vitamin C is not stored and excess is excreted, so it must be consumed regularly, whereas vitamin A is stored in body fat/liver and excessive intake can accumulate to toxic levels.
 <!-- id: chem34a3-fat-8 -->
 
 Explanation:
 
 #### Enzymes and vitamins
 
-**A1754.** A. providing an alternative reaction pathway with a lower activation energy
+**A1756.** A. providing an alternative reaction pathway with a lower activation energy
 <!-- id: chem-7-3-1 -->
 
 Explanation: Like all catalysts, enzymes lower activation energy without changing ΔH and are not consumed.
 
-**A1755.** B. the region where the substrate binds and the reaction is catalysed
+**A1757.** B. the region where the substrate binds and the reaction is catalysed
 <!-- id: chem-7-3-2 -->
 
 Explanation: The active site is a specifically shaped pocket formed by the tertiary structure, into which the substrate fits.
 
-**A1756.** C. the active site changes shape slightly when the substrate binds, improving the fit
+**A1758.** C. the active site changes shape slightly when the substrate binds, improving the fit
 <!-- id: chem-7-3-3 -->
 
 Explanation: In induced fit, binding causes a small conformational change that strains the substrate's bonds and assists the reaction.
 
-**A1757.** D. decrease, because the enzyme denatures and its active site loses its shape
+**A1759.** D. decrease, because the enzyme denatures and its active site loses its shape
 <!-- id: chem-7-3-4 -->
 
 Explanation: Above the optimum temperature the weak interactions holding the tertiary structure break and the enzyme denatures.
 
-**A1758.** A. decrease, because the change in pH alters the charges on side chains and the shape of the active site
+**A1760.** A. decrease, because the change in pH alters the charges on side chains and the shape of the active site
 <!-- id: chem-7-3-5 -->
 
 Explanation: Changing pH changes the ionisation of R groups, disrupting ionic interactions and hydrogen bonds that shape the active site.
 
-**A1759.** B. the complementary shape and chemical properties of the active site and the substrate
+**A1761.** B. the complementary shape and chemical properties of the active site and the substrate
 <!-- id: chem-7-3-6 -->
 
 Explanation: Only a substrate whose shape and functional groups match the active site can bind and react.
 
-**A1760.** C. a non-protein organic molecule, often derived from a vitamin, that an enzyme needs to function
+**A1762.** C. a non-protein organic molecule, often derived from a vitamin, that an enzyme needs to function
 <!-- id: chem-7-3-7 -->
 
 Explanation: Coenzymes are small organic cofactors, e.g. many B vitamins act as coenzyme precursors.
 
-**A1761.** D. an inorganic cofactor
+**A1763.** D. an inorganic cofactor
 <!-- id: chem-7-3-8 -->
 
 Explanation: Metal ions that enzymes require for activity are inorganic cofactors; coenzymes are organic.
 
-**A1762.** A. binds to the active site and prevents the substrate from binding
+**A1764.** A. binds to the active site and prevents the substrate from binding
 <!-- id: chem-7-3-9 -->
 
 Explanation: A competitive inhibitor resembles the substrate and competes for the same active site.
 
-**A1763.** B. work more slowly because there are fewer successful collisions, but are not permanently denatured
+**A1765.** B. work more slowly because there are fewer successful collisions, but are not permanently denatured
 <!-- id: chem-7-3-10 -->
 
 Explanation: Low temperature reduces kinetic energy and collision frequency; activity largely returns when warmed.
 
-**A1764.** C. A, D, E and K
+**A1766.** C. A, D, E and K
 <!-- id: chem-7-3-11 -->
 
 Explanation: Vitamins A, D, E and K are largely non-polar and dissolve in fats; B and C are water-soluble.
 
-**A1765.** D. it has several hydroxyl groups that form hydrogen bonds with water
+**A1767.** D. it has several hydroxyl groups that form hydrogen bonds with water
 <!-- id: chem-7-3-12 -->
 
 Explanation: Its small molecule carries multiple –OH groups (and C=O groups), allowing extensive hydrogen bonding with water.
 
-**A1766.** A. its molecule is mostly non-polar hydrocarbon with only one hydroxyl group
+**A1768.** A. its molecule is mostly non-polar hydrocarbon with only one hydroxyl group
 <!-- id: chem-7-3-13 -->
 
 Explanation: The single –OH group is insufficient to overcome the large non-polar ring and chain structure, so it dissolves in fats, not water.
 
-**A1767.** B. Vitamin C is water-soluble, is not stored in large amounts and the excess is excreted in urine, whereas vitamin A is stored in fatty tissue
+**A1769.** B. Vitamin C is water-soluble, is not stored in large amounts and the excess is excreted in urine, whereas vitamin A is stored in fatty tissue
 <!-- id: chem-7-3-14 -->
 
 Explanation: Water-soluble vitamins are not stored significantly, so a regular dietary supply is needed.
 
-**A1768.** C. the body cannot synthesise them, or cannot synthesise enough, yet they are needed for normal function
+**A1770.** C. the body cannot synthesise them, or cannot synthesise enough, yet they are needed for normal function
 <!-- id: chem-7-3-15 -->
 
 Explanation: Vitamins are needed in small amounts, often as coenzymes, but most cannot be made by the body.
 
-**A1769.** D. the skin is exposed to ultraviolet light from the sun
+**A1771.** D. the skin is exposed to ultraviolet light from the sun
 <!-- id: chem-7-3-16 -->
 
 Explanation: UV-B radiation converts a cholesterol derivative in the skin into vitamin D, so sun exposure is a major source.
 
-**A1770.** A. is water-soluble, so it leaches into the cooking water, and it is also broken down by heat
+**A1772.** A. is water-soluble, so it leaches into the cooking water, and it is also broken down by heat
 <!-- id: chem-7-3-17 -->
 
 Explanation: Water-soluble, heat-sensitive vitamin C is lost both by dissolving and by decomposition; steaming retains more.
 
-**A1771.** B. insufficient lactase enzyme to hydrolyse lactose in the small intestine
+**A1773.** B. insufficient lactase enzyme to hydrolyse lactose in the small intestine
 <!-- id: chem-7-3-18 -->
 
 Explanation: Without enough lactase, undigested lactose passes to the large intestine, where bacteria ferment it, causing symptoms.
 
-**A1772.** Amylase's active site has a shape and chemical environment complementary to the α-glycosidic links in starch. Cellulose has β-glycosidic links, giving a different 3D shape that does not fit the active site, so amylase cannot bind and hydrolyse it.
+**A1774.** Amylase's active site has a shape and chemical environment complementary to the α-glycosidic links in starch. Cellulose has β-glycosidic links, giving a different 3D shape that does not fit the active site, so amylase cannot bind and hydrolyse it.
 <!-- id: chem-7-3-19 -->
 
 Explanation: Must refer to the active site being complementary only to α-linkages.
 
-**A1773.** From 20 °C to 37 °C, particles have more kinetic energy, so enzyme–substrate collisions are more frequent and energetic, increasing rate. Above about 45 °C the hydrogen bonds and other interactions holding the tertiary structure break, so the enzyme denatures, the active site changes shape and activity falls.
+**A1775.** From 20 °C to 37 °C, particles have more kinetic energy, so enzyme–substrate collisions are more frequent and energetic, increasing rate. Above about 45 °C the hydrogen bonds and other interactions holding the tertiary structure break, so the enzyme denatures, the active site changes shape and activity falls.
 <!-- id: chem-7-3-20 -->
 
 Explanation: Two parts: collision theory below optimum; denaturation above.
 
-**A1774.** A cofactor is a non-protein component needed for enzyme activity; inorganic cofactors are metal ions such as Mg²⁺ or Zn²⁺. A coenzyme is an organic cofactor, often derived from a vitamin, such as NAD⁺ (from niacin, vitamin B3).
+**A1776.** A cofactor is a non-protein component needed for enzyme activity; inorganic cofactors are metal ions such as Mg²⁺ or Zn²⁺. A coenzyme is an organic cofactor, often derived from a vitamin, such as NAD⁺ (from niacin, vitamin B3).
 <!-- id: chem-7-3-21 -->
 
 Explanation: Coenzymes are a type of cofactor; the key difference is organic versus inorganic.
 
-**A1775.** Vitamin C is water-soluble, so excess dissolves in blood and is excreted in urine. Vitamins A and D are fat-soluble, so excess is stored in the liver and fatty tissue and can accumulate to toxic levels.
+**A1777.** Vitamin C is water-soluble, so excess dissolves in blood and is excreted in urine. Vitamins A and D are fat-soluble, so excess is stored in the liver and fatty tissue and can accumulate to toxic levels.
 <!-- id: chem-7-3-22 -->
 
 Explanation: Link solubility to excretion versus storage.
 
-**A1776.** The statement is incorrect. Denaturation disrupts the secondary and tertiary (and quaternary) structure by breaking weak interactions, but the covalent peptide bonds of the primary structure are not broken. Breaking the protein into amino acids would require hydrolysis.
+**A1778.** The statement is incorrect. Denaturation disrupts the secondary and tertiary (and quaternary) structure by breaking weak interactions, but the covalent peptide bonds of the primary structure are not broken. Breaking the protein into amino acids would require hydrolysis.
 <!-- id: chem-7-3-23 -->
 
 Explanation: Distinguish denaturation from hydrolysis.
 
-**A1777.** Vitamin D is mostly non-polar, so it forms dispersion forces with the non-polar hydrocarbon chains of triglycerides in fat tissue. It cannot form enough hydrogen bonds with water to dissolve in blood plasma, so it dissolves in and is stored in fat.
+**A1779.** Vitamin D is mostly non-polar, so it forms dispersion forces with the non-polar hydrocarbon chains of triglycerides in fat tissue. It cannot form enough hydrogen bonds with water to dissolve in blood plasma, so it dissolves in and is stored in fat.
 <!-- id: chem-7-3-24 -->
 
 Explanation: 'Like dissolves like': non-polar vitamin with non-polar fat.
 
-**A1778.** Bromelain in fresh pineapple catalyses hydrolysis of peptide bonds in gelatine, breaking it into smaller peptides that cannot form a gel. Heating during canning denatures bromelain, so its active site is lost and it can no longer hydrolyse the gelatine.
+**A1780.** Bromelain in fresh pineapple catalyses hydrolysis of peptide bonds in gelatine, breaking it into smaller peptides that cannot form a gel. Heating during canning denatures bromelain, so its active site is lost and it can no longer hydrolyse the gelatine.
 <!-- id: chem-7-3-25 -->
 
 Explanation: Mark for: protease hydrolyses gelatine; heat denatures the enzyme.
 
 #### Food energy and digestion
 
-**A1779.** C. 37 kJ
+**A1781.** C. 37 kJ
 <!-- id: chem-7-4-1 -->
 
 Explanation: Fats and oils release about 37 kJ g⁻¹, compared with about 16 kJ g⁻¹ for carbohydrate and 17 kJ g⁻¹ for protein.
 
-**A1780.** D. 556 kJ
+**A1782.** D. 556 kJ
 <!-- id: chem-7-4-2 -->
 
 Explanation: 20.0 × 16 + 5.0 × 37 + 3.0 × 17 = 320 + 185 + 51 = 556 kJ.
 
-**A1781.** A. 7.52 kJ
+**A1783.** A. 7.52 kJ
 <!-- id: chem-7-4-3 -->
 
 Explanation: q = mcΔT = 150 × 4.18 × 12.0 = 7524 J = 7.52 kJ.
 
-**A1782.** B. 1.00 kJ °C⁻¹
+**A1784.** B. 1.00 kJ °C⁻¹
 <!-- id: chem-7-4-4 -->
 
 Explanation: E = VIt = 6.00 × 2.50 × 90.0 = 1350 J; CF = 1350 ÷ 1.35 = 1000 J °C⁻¹ = 1.00 kJ °C⁻¹.
 
-**A1783.** C. 10.2 kJ g⁻¹
+**A1785.** C. 10.2 kJ g⁻¹
 <!-- id: chem-7-4-5 -->
 
 Explanation: q = 850 × 4.80 = 4080 J = 4.08 kJ; 4.08 ÷ 0.400 = 10.2 kJ g⁻¹.
 
-**A1784.** D. are less oxidised, containing proportionally more C–H bonds and fewer oxygen atoms
+**A1786.** D. are less oxidised, containing proportionally more C–H bonds and fewer oxygen atoms
 <!-- id: chem-7-4-6 -->
 
 Explanation: Carbohydrates already contain a lot of oxygen (partly oxidised), so less energy is released when they are oxidised to CO₂ and H₂O.
 
-**A1785.** A. 15.6 kJ g⁻¹
+**A1787.** A. 15.6 kJ g⁻¹
 <!-- id: chem-7-4-7 -->
 
 Explanation: 2805 ÷ 180.0 = 15.6 kJ g⁻¹.
 
-**A1786.** B. heat is lost to the surrounding air and the food may not combust completely
+**A1788.** B. heat is lost to the surrounding air and the food may not combust completely
 <!-- id: chem-7-4-8 -->
 
 Explanation: Not all the heat released reaches the water, and incomplete combustion releases less energy than expected.
 
-**A1787.** C. determine the energy needed to raise the temperature of the whole calorimeter by 1 °C
+**A1789.** C. determine the energy needed to raise the temperature of the whole calorimeter by 1 °C
 <!-- id: chem-7-4-9 -->
 
 Explanation: The calibration factor accounts for all parts of the calorimeter, not just the water, giving a more accurate energy value.
 
-**A1788.** D. mouth, catalysed by salivary amylase
+**A1790.** D. mouth, catalysed by salivary amylase
 <!-- id: chem-7-4-10 -->
 
 Explanation: Salivary amylase starts hydrolysing starch into maltose and shorter chains while food is chewed.
 
-**A1789.** A. stomach, catalysed by pepsin
+**A1791.** A. stomach, catalysed by pepsin
 <!-- id: chem-7-4-11 -->
 
 Explanation: Pepsin, active in the acidic stomach, begins hydrolysing peptide bonds.
 
-**A1790.** B. emulsify fats into small droplets, increasing the surface area for lipase to act on
+**A1792.** B. emulsify fats into small droplets, increasing the surface area for lipase to act on
 <!-- id: chem-7-4-12 -->
 
 Explanation: Bile is not an enzyme; it physically disperses fat so lipase can hydrolyse it faster.
 
-**A1791.** C. fatty acids and glycerol (including monoglycerides)
+**A1793.** C. fatty acids and glycerol (including monoglycerides)
 <!-- id: chem-7-4-13 -->
 
 Explanation: Lipase hydrolyses triglycerides into fatty acids, glycerol and monoglycerides, which are absorbed.
 
-**A1792.** D. Hydrolysis
+**A1794.** D. Hydrolysis
 <!-- id: chem-7-4-14 -->
 
 Explanation: Digestive enzymes break glycosidic, peptide and ester bonds by adding water.
 
-**A1793.** A. carbon dioxide and water
+**A1795.** A. carbon dioxide and water
 <!-- id: chem-7-4-15 -->
 
 Explanation: C₆H₁₂O₆ + 6O₂ → 6CO₂ + 6H₂O, releasing energy for the body.
 
-**A1794.** B. 17.2%
+**A1796.** B. 17.2%
 <!-- id: chem-7-4-16 -->
 
 Explanation: (1500 ÷ 8700) × 100 = 17.2%.
 
-**A1795.** C. 10.0 g
+**A1797.** C. 10.0 g
 <!-- id: chem-7-4-17 -->
 
 Explanation: 370 ÷ 37 = 10.0 g.
 
-**A1796.** D. 71%
+**A1798.** D. 71%
 <!-- id: chem-7-4-18 -->
 
 Explanation: Energy released = (0.50 ÷ 46.0) × 1360 = 14.8 kJ; water absorbs 100 × 4.18 × 25.0 = 10.45 kJ; 10.45 ÷ 14.8 × 100 ≈ 71%.
 
-**A1797.** 9.41 kJ g⁻¹
+**A1799.** 9.41 kJ g⁻¹
 <!-- id: chem-7-4-19 -->
 
 Explanation: q = 250 × 4.18 × 18.0 = 18 810 J = 18.8 kJ; 18.81 ÷ 2.00 = 9.41 kJ g⁻¹.
 
-**A1798.** 3.60 kJ g⁻¹
+**A1800.** 3.60 kJ g⁻¹
 <!-- id: chem-7-4-20 -->
 
 Explanation: E = 5.00 × 3.00 × 180 = 2700 J; CF = 2700 ÷ 2.25 = 1200 J °C⁻¹; q = 1200 × 3.60 = 4320 J = 4.32 kJ; 4.32 ÷ 1.20 = 3.60 kJ g⁻¹.
 
-**A1799.** Heat is lost to the surroundings (air, the can and the clamp), and the food may burn incompletely, leaving soot or unburnt residue, so the water absorbs less energy than the food contains. Improvements include using a bomb calorimeter or insulating/shielding the apparatus and calibrating it electrically.
+**A1801.** Heat is lost to the surroundings (air, the can and the clamp), and the food may burn incompletely, leaving soot or unburnt residue, so the water absorbs less energy than the food contains. Improvements include using a bomb calorimeter or insulating/shielding the apparatus and calibrating it electrically.
 <!-- id: chem-7-4-21 -->
 
 Explanation: Any valid source of heat loss plus a matching improvement.
 
-**A1800.** In the small intestine, bile emulsifies the fat and the enzyme lipase (from the pancreas) catalyses hydrolysis of the three ester bonds. The products are glycerol and fatty acids (often absorbed as monoglycerides and fatty acids).
+**A1802.** In the small intestine, bile emulsifies the fat and the enzyme lipase (from the pancreas) catalyses hydrolysis of the three ester bonds. The products are glycerol and fatty acids (often absorbed as monoglycerides and fatty acids).
 <!-- id: chem-7-4-22 -->
 
 Explanation: Must identify lipase, small intestine, hydrolysis of ester links and the products.
 
-**A1801.** Fat releases about 37 kJ g⁻¹ compared with about 16 kJ g⁻¹ for carbohydrate, because it is less oxidised. Fat is also stored without water (it is non-polar), whereas glycogen is stored hydrated, so fat stores far more energy per unit mass.
+**A1803.** Fat releases about 37 kJ g⁻¹ compared with about 16 kJ g⁻¹ for carbohydrate, because it is less oxidised. Fat is also stored without water (it is non-polar), whereas glycogen is stored hydrated, so fat stores far more energy per unit mass.
 <!-- id: chem-7-4-23 -->
 
 Explanation: Mention higher energy per gram and/or lack of associated water.
 
-**A1802.** 326 kJ
+**A1804.** 326 kJ
 <!-- id: chem-7-4-24 -->
 
 Explanation: 14.4 × 16 = 230.4 kJ; 1.2 × 37 = 44.4 kJ; 3.0 × 17 = 51 kJ; total = 325.8 ≈ 326 kJ.
 
-**A1803.** Humans lack the enzyme cellulase needed to hydrolyse the β-glycosidic links in cellulose, so it cannot be broken down into glucose and absorbed. It passes through the digestive tract largely unchanged, though it aids digestive health.
+**A1805.** Humans lack the enzyme cellulase needed to hydrolyse the β-glycosidic links in cellulose, so it cannot be broken down into glucose and absorbed. It passes through the digestive tract largely unchanged, though it aids digestive health.
 <!-- id: chem-7-4-25 -->
 
 Explanation: Key point: no enzyme for β-linkages, so no glucose is released.
 
-**A1804.** B. 527 kJ
+**A1806.** B. 527 kJ
 <!-- id: chem34a3-en-1 -->
 
 Explanation: Energy = 6.0 × 17 + 15.0 × 16 + 5.0 × 37 = 102 + 240 + 185 = 527 kJ. Fat provides more than twice as much energy per gram as carbohydrate or protein.
 
-**A1805.** C. 2.50 kJ °C⁻¹
+**A1807.** C. 2.50 kJ °C⁻¹
 <!-- id: chem34a3-en-2 -->
 
 Explanation: E = VIt = 5.00 × 2.00 × 120 = 1200 J. Calibration factor = E ÷ ΔT = 1200 ÷ 0.480 = 2500 J °C⁻¹ = 2.50 kJ °C⁻¹.
 
-**A1806.** A. 12.5 kJ
+**A1808.** A. 12.5 kJ
 <!-- id: chem34a3-en-3 -->
 
 Explanation: q = mcΔT = 200 × 4.18 × 15.0 = 12 540 J = 12.5 kJ (3 significant figures). Using the final temperature (35.0 °C) instead of ΔT would give 29.3 kJ.
 
-**A1807.** B. Heat is lost to the surroundings and combustion may be incomplete
+**A1809.** B. Heat is lost to the surroundings and combustion may be incomplete
 <!-- id: chem34a3-en-4 -->
 
 Explanation: In an open spirit burner much of the heat escapes to the air and the container rather than entering the water, and incomplete combustion (soot, CO) releases less energy. Both make the measured energy per mole smaller than the true value.
 
-**A1808.** B. 15.6 kJ g⁻¹
+**A1810.** B. 15.6 kJ g⁻¹
 <!-- id: chem34a3-en-5 -->
 
 Explanation: Energy per gram = 2803 ÷ 180.0 = 15.6 kJ g⁻¹, consistent with the value of about 16 kJ g⁻¹ used for carbohydrates.
 
-**A1809.** Energy released = 2.50 × 6.40 = 16.0 kJ; energy content = 16.0 ÷ 1.20 = 13.3 kJ g⁻¹.
+**A1811.** Energy released = 2.50 × 6.40 = 16.0 kJ; energy content = 16.0 ÷ 1.20 = 13.3 kJ g⁻¹.
 <!-- id: chem34a3-en-6 -->
 
 Explanation:
 
-**A1810.** q = 200 × 4.18 × 15.0 = 12 540 J = 12.54 kJ; n(ethanol) = 0.850 ÷ 46.0 = 1.848 × 10⁻² mol; ΔH = −12.54 ÷ 1.848 × 10⁻² = −679 kJ mol⁻¹; much less negative than −1364 kJ mol⁻¹ because heat is lost to the surroundings/container (and combustion may be incomplete), so not all the energy released is absorbed by the water.
+**A1812.** q = 200 × 4.18 × 15.0 = 12 540 J = 12.54 kJ; n(ethanol) = 0.850 ÷ 46.0 = 1.848 × 10⁻² mol; ΔH = −12.54 ÷ 1.848 × 10⁻² = −679 kJ mol⁻¹; much less negative than −1364 kJ mol⁻¹ because heat is lost to the surroundings/container (and combustion may be incomplete), so not all the energy released is absorbed by the water.
 <!-- id: chem34a3-en-7 -->
 
 Explanation:
 
-**A1811.** Fats consist mostly of long hydrocarbon chains with many C–H bonds and very little oxygen, so they are in a much less oxidised (more reduced) state than carbohydrates, which already contain many C–O/O–H groups; oxidising fats to CO₂ and H₂O therefore forms many more strong C=O and O–H bonds per gram, releasing more energy (about 37 kJ g⁻¹ versus 16 kJ g⁻¹).
+**A1813.** Fats consist mostly of long hydrocarbon chains with many C–H bonds and very little oxygen, so they are in a much less oxidised (more reduced) state than carbohydrates, which already contain many C–O/O–H groups; oxidising fats to CO₂ and H₂O therefore forms many more strong C=O and O–H bonds per gram, releasing more energy (about 37 kJ g⁻¹ versus 16 kJ g⁻¹).
 <!-- id: chem34a3-en-8 -->
 
 Explanation:
@@ -9313,515 +9425,515 @@ Explanation:
 
 #### Green chemistry principles
 
-**A1812.** A. It is better to prevent waste from forming than to treat or clean it up after it has formed.
+**A1814.** A. It is better to prevent waste from forming than to treat or clean it up after it has formed.
 <!-- id: chem-8-1-1 -->
 
 Explanation: Prevention is the first green chemistry principle: avoiding waste is preferable to treating it afterwards.
 
-**A1813.** B. Use of safer solvents and auxiliaries
+**A1815.** B. Use of safer solvents and auxiliaries
 <!-- id: chem-8-1-2 -->
 
 Explanation: Supercritical CO₂ is non-toxic and easily removed, replacing a hazardous chlorinated solvent.
 
-**A1814.** C. They lower activation energy, allowing reactions at lower temperatures and are not consumed, reducing energy use and waste.
+**A1816.** C. They lower activation energy, allowing reactions at lower temperatures and are not consumed, reducing energy use and waste.
 <!-- id: chem-8-1-3 -->
 
 Explanation: Catalysts provide an alternative pathway of lower activation energy and are regenerated, so they save energy and are not waste; they do not change equilibrium position.
 
-**A1815.** Preventing waste avoids the need for extra treatment processes, which themselves use energy, materials and money and can still produce hazardous residues. It also removes the risk of waste escaping into the environment.
+**A1817.** Preventing waste avoids the need for extra treatment processes, which themselves use energy, materials and money and can still produce hazardous residues. It also removes the risk of waste escaping into the environment.
 <!-- id: chem-8-1-4 -->
 
 Explanation: Mention cost/energy of treatment and environmental risk.
 
-**A1816.** D. Use of renewable feedstocks
+**A1818.** D. Use of renewable feedstocks
 <!-- id: chem-8-1-5 -->
 
 Explanation: Sugar cane is a renewable biological feedstock, whereas ethene from crude oil is non-renewable.
 
-**A1817.** A. Choosing a catalyst that allows a process to run at ambient temperature and pressure
+**A1819.** A. Choosing a catalyst that allows a process to run at ambient temperature and pressure
 <!-- id: chem-8-1-6 -->
 
 Explanation: Energy requirements should be minimised; running at ambient conditions avoids heating and compression.
 
-**A1818.** B. Design for degradation
+**A1820.** B. Design for degradation
 <!-- id: chem-8-1-7 -->
 
 Explanation: Products should be designed to break down into harmless substances after use rather than persisting in the environment.
 
-**A1819.** Catalysis: the enzyme speeds up the reaction without being consumed, reducing waste. Design for energy efficiency: the reaction proceeds at low temperature and atmospheric pressure, so less energy is needed. (Use of renewable feedstocks also accepted if a plant sugar is the substrate.)
+**A1821.** Catalysis: the enzyme speeds up the reaction without being consumed, reducing waste. Design for energy efficiency: the reaction proceeds at low temperature and atmospheric pressure, so less energy is needed. (Use of renewable feedstocks also accepted if a plant sugar is the substrate.)
 <!-- id: chem-8-1-8 -->
 
 Explanation: Two correctly named principles, each linked to the enzyme process.
 
-**A1820.** C. monitoring a process continuously during production so that formation of hazardous substances can be detected and controlled immediately.
+**A1822.** C. monitoring a process continuously during production so that formation of hazardous substances can be detected and controlled immediately.
 <!-- id: chem-8-1-9 -->
 
 Explanation: In-process monitoring allows conditions to be adjusted before hazardous by-products build up.
 
-**A1821.** D. Generating a toxic reactant in small amounts as needed rather than storing large quantities of it
+**A1823.** D. Generating a toxic reactant in small amounts as needed rather than storing large quantities of it
 <!-- id: chem-8-1-10 -->
 
 Explanation: Minimising the amount and hazard of substances on site reduces the risk of explosions, fires and releases.
 
-**A1822.** A. avoiding unnecessary protecting groups or temporary modifications, as these steps require extra reagents and generate waste.
+**A1824.** A. avoiding unnecessary protecting groups or temporary modifications, as these steps require extra reagents and generate waste.
 <!-- id: chem-8-1-11 -->
 
 Explanation: Each blocking/protecting step uses extra reagents and creates waste, so they should be avoided where possible.
 
-**A1823.** Advantage: it is non-toxic and non-flammable and can be removed simply by releasing pressure, leaving no solvent residue. Disadvantage: high pressures are needed, requiring energy and specialised equipment (and CO₂ is a greenhouse gas if released).
+**A1825.** Advantage: it is non-toxic and non-flammable and can be removed simply by releasing pressure, leaving no solvent residue. Disadvantage: high pressures are needed, requiring energy and specialised equipment (and CO₂ is a greenhouse gas if released).
 <!-- id: chem-8-1-12 -->
 
 Explanation: One valid advantage and one valid disadvantage.
 
-**A1824.** B. Replacing a catalysed route at 40 °C with an uncatalysed route at 400 °C
+**A1826.** B. Replacing a catalysed route at 40 °C with an uncatalysed route at 400 °C
 <!-- id: chem-8-1-13 -->
 
 Explanation: Raising the temperature without a catalyst greatly increases energy use, contrary to design for energy efficiency.
 
-**A1825.** C. Use of renewable feedstocks
+**A1827.** C. Use of renewable feedstocks
 <!-- id: chem-8-1-14 -->
 
 Explanation: Waste cooking oil is a renewable, plant-derived feedstock, replacing petroleum-derived diesel.
 
-**A1826.** D. It is non-toxic, non-flammable, cheap and abundant.
+**A1828.** D. It is non-toxic, non-flammable, cheap and abundant.
 <!-- id: chem-8-1-15 -->
 
 Explanation: Water is safe and abundant; its main drawbacks are poor solubility of some organics and high energy to evaporate.
 
-**A1827.** A renewable feedstock can be replaced by natural processes within a human timescale, e.g. sugar cane or vegetable oils. A non-renewable feedstock is used faster than it forms, e.g. crude oil or natural gas.
+**A1829.** A renewable feedstock can be replaced by natural processes within a human timescale, e.g. sugar cane or vegetable oils. A non-renewable feedstock is used faster than it forms, e.g. crude oil or natural gas.
 <!-- id: chem-8-1-16 -->
 
 Explanation: Definition plus an example of each.
 
-**A1828.** A. Green chemistry aims to reduce or eliminate the use and generation of hazardous substances across the whole life cycle of a product.
+**A1830.** A. Green chemistry aims to reduce or eliminate the use and generation of hazardous substances across the whole life cycle of a product.
 <!-- id: chem-8-1-17 -->
 
 Explanation: Green chemistry considers design, manufacture, use and disposal, aiming to minimise hazards throughout.
 
-**A1829.** B. developing a pesticide that is effective against the target insect but has low toxicity to bees and mammals.
+**A1831.** B. developing a pesticide that is effective against the target insect but has low toxicity to bees and mammals.
 <!-- id: chem-8-1-18 -->
 
 Explanation: Safer chemicals keep their function while minimising toxicity to people and non-target organisms.
 
-**A1830.** C. the energy input comes from a renewable source and no carbon dioxide is produced in the process.
+**A1832.** C. the energy input comes from a renewable source and no carbon dioxide is produced in the process.
 <!-- id: chem-8-1-19 -->
 
 Explanation: Green hydrogen uses renewable electricity, avoiding the CO₂ produced in steam reforming of methane; electrolysis of water has only 11.1% atom economy for H₂.
 
-**A1831.** Continuous monitoring during a reaction detects changes such as rising temperature or formation of unwanted by-products as they occur, so operators can adjust conditions immediately. This prevents large amounts of hazardous waste forming or being released.
+**A1833.** Continuous monitoring during a reaction detects changes such as rising temperature or formation of unwanted by-products as they occur, so operators can adjust conditions immediately. This prevents large amounts of hazardous waste forming or being released.
 <!-- id: chem-8-1-20 -->
 
 Explanation: Must link monitoring during the process to preventing hazardous products.
 
-**A1832.** D. catalysts are used in small amounts and regenerated, whereas stoichiometric reagents are consumed and become waste.
+**A1834.** D. catalysts are used in small amounts and regenerated, whereas stoichiometric reagents are consumed and become waste.
 <!-- id: chem-8-1-21 -->
 
 Explanation: A catalyst is not consumed, so it does not add to waste; a stoichiometric reagent ends up as by-product.
 
-**A1833.** A. The reaction N₂ + 3H₂ → 2NH₃ has 100% atom economy and unreacted gases are recycled.
+**A1835.** A. The reaction N₂ + 3H₂ → 2NH₃ has 100% atom economy and unreacted gases are recycled.
 <!-- id: chem-8-1-22 -->
 
 Explanation: All reactant atoms end up in ammonia, and recycling unreacted gases reduces waste; using natural gas and high pressure are less green.
 
-**A1834.** B. Producing polymers such as PLA that can be broken down by microorganisms under composting conditions
+**A1836.** B. Producing polymers such as PLA that can be broken down by microorganisms under composting conditions
 <!-- id: chem-8-1-23 -->
 
 Explanation: Biodegradable polymers break down into harmless products after use rather than persisting for centuries.
 
-**A1835.** Replace the solvent with a safer one such as water or supercritical CO₂ (safer solvents), and minimise the quantity stored by generating or ordering it as needed (inherently safer chemistry for accident prevention).
+**A1837.** Replace the solvent with a safer one such as water or supercritical CO₂ (safer solvents), and minimise the quantity stored by generating or ordering it as needed (inherently safer chemistry for accident prevention).
 <!-- id: chem-8-1-24 -->
 
 Explanation: Any two valid changes linked to principles.
 
-**A1836.** Steam reforming uses a non-renewable fossil fuel feedstock, needs high temperatures (often from burning fossil fuels) and produces carbon monoxide/carbon dioxide. Solar-powered electrolysis uses a renewable energy source and water, and produces only oxygen as a by-product.
+**A1838.** Steam reforming uses a non-renewable fossil fuel feedstock, needs high temperatures (often from burning fossil fuels) and produces carbon monoxide/carbon dioxide. Solar-powered electrolysis uses a renewable energy source and water, and produces only oxygen as a by-product.
 <!-- id: chem-8-1-25 -->
 
 Explanation: Compare feedstock, energy source and by-products.
 
 #### Atom economy calculations
 
-**A1837.** C. (molar mass of desired product ÷ total molar mass of all reactants) × 100, using coefficients from the balanced equation
+**A1839.** C. (molar mass of desired product ÷ total molar mass of all reactants) × 100, using coefficients from the balanced equation
 <!-- id: chem-8-2-1 -->
 
 Explanation: Atom economy uses the balanced equation and measures the fraction of reactant mass ending up in the desired product.
 
-**A1838.** D. 51.1%
+**A1840.** D. 51.1%
 <!-- id: chem-8-2-2 -->
 
 Explanation: AE = (2 × 46.0) ÷ 180.0 × 100 = 51.1%. 25.6% forgets the coefficient of 2; 48.9% is the CO₂ fraction.
 
-**A1839.** A. 100%
+**A1841.** A. 100%
 <!-- id: chem-8-2-3 -->
 
 Explanation: Addition reactions have only one product, so all reactant atoms end up in ethanol: (46.0 ÷ (28.0 + 18.0)) × 100 = 100%.
 
-**A1840.** AE = 50.5 ÷ (16.0 + 71.0) × 100 = 50.5 ÷ 87.0 × 100 = 58.0%
+**A1842.** AE = 50.5 ÷ (16.0 + 71.0) × 100 = 50.5 ÷ 87.0 × 100 = 58.0%
 <!-- id: chem-8-2-4 -->
 
 Explanation: Use the balanced equation; total reactant mass in the denominator.
 
-**A1841.** B. Addition reaction
+**A1843.** B. Addition reaction
 <!-- id: chem-8-2-5 -->
 
 Explanation: In an addition reaction all reactant atoms combine into one product; substitution, condensation and elimination all form by-products.
 
-**A1842.** C. 17.6%
+**A1844.** C. 17.6%
 <!-- id: chem-8-2-6 -->
 
 Explanation: AE = (3 × 2.0) ÷ (16.0 + 18.0) × 100 = 6.0 ÷ 34.0 × 100 = 17.6%. 5.9% forgets the coefficient 3.
 
-**A1843.** D. 56.0%
+**A1845.** D. 56.0%
 <!-- id: chem-8-2-7 -->
 
 Explanation: AE = 56.1 ÷ 100.1 × 100 = 56.0%; the remaining 44.0% of the mass is lost as CO₂.
 
-**A1844.** With anhydride: 180.0 ÷ 240.0 × 100 = 75.0%. With ethanoic acid: 180.0 ÷ 198.0 × 100 = 90.9%. The ethanoic acid route has the higher atom economy.
+**A1846.** With anhydride: 180.0 ÷ 240.0 × 100 = 75.0%. With ethanoic acid: 180.0 ÷ 198.0 × 100 = 90.9%. The ethanoic acid route has the higher atom economy.
 <!-- id: chem-8-2-8 -->
 
 Explanation: Both calculations plus a conclusion. (In practice the acid route is slow and has low yield.)
 
-**A1845.** A. 45.8%
+**A1847.** A. 45.8%
 <!-- id: chem-8-2-9 -->
 
 Explanation: AE = (2 × 55.8) ÷ (159.6 + 3 × 28.0) × 100 = 111.6 ÷ 243.6 × 100 = 45.8%. 69.9% ignores CO in the denominator.
 
-**A1846.** B. 83.0%
+**A1848.** B. 83.0%
 <!-- id: chem-8-2-10 -->
 
 Explanation: AE = 88.0 ÷ (60.0 + 46.0) × 100 = 88.0 ÷ 106.0 × 100 = 83.0%; water is the by-product.
 
-**A1847.** C. 100% and 63.9%
+**A1849.** C. 100% and 63.9%
 <!-- id: chem-8-2-11 -->
 
 Explanation: Route 1 is addition (100%). Route 2: 64.5 ÷ (30.0 + 71.0) × 100 = 63.9%.
 
-**A1848.** Atom economy is calculated only from the balanced equation and molar masses, assuming complete reaction, so it shows the maximum fraction of reactant atoms that can end up in the product. Percentage yield compares the mass of product actually obtained with the theoretical maximum, so it requires experimental data.
+**A1850.** Atom economy is calculated only from the balanced equation and molar masses, assuming complete reaction, so it shows the maximum fraction of reactant atoms that can end up in the product. Percentage yield compares the mass of product actually obtained with the theoretical maximum, so it requires experimental data.
 <!-- id: chem-8-2-12 -->
 
 Explanation: Contrast equation-based vs measured.
 
-**A1849.** D. 98.7%
+**A1851.** D. 98.7%
 <!-- id: chem-8-2-13 -->
 
 Explanation: AE = (2 × 40.0 + 71.0) ÷ (2 × 58.5 + 2 × 18.0) × 100 = 151.0 ÷ 153.0 × 100 = 98.7%. 52.3% counts NaOH alone.
 
-**A1850.** A. 11.1%
+**A1852.** A. 11.1%
 <!-- id: chem-8-2-14 -->
 
 Explanation: AE = (2 × 2.0) ÷ (2 × 18.0) × 100 = 4.0 ÷ 36.0 × 100 = 11.1%; most of the mass ends up as oxygen.
 
-**A1851.** B. Finding a use for, and selling, the by-product
+**A1853.** B. Finding a use for, and selling, the by-product
 <!-- id: chem-8-2-15 -->
 
 Explanation: If a by-product becomes a useful co-product, it is counted in the numerator, increasing effective atom economy; temperature, pressure and catalysts do not change the balanced equation.
 
-**A1852.** If CO₂ is also a useful product, its mass is included in the numerator, so the effective atom economy rises from 51.1% (ethanol only) to 100%, because all the mass of the reactant ends up in useful products.
+**A1854.** If CO₂ is also a useful product, its mass is included in the numerator, so the effective atom economy rises from 51.1% (ethanol only) to 100%, because all the mass of the reactant ends up in useful products.
 <!-- id: chem-8-2-16 -->
 
 Explanation: Show change from 51.1% to 100%.
 
-**A1853.** C. 75.0%
+**A1855.** C. 75.0%
 <!-- id: chem-8-2-17 -->
 
 Explanation: AE = 180.0 ÷ (138.0 + 102.0) × 100 = 180.0 ÷ 240.0 × 100 = 75.0%.
 
-**A1854.** D. 77.9%
+**A1856.** D. 77.9%
 <!-- id: chem-8-2-18 -->
 
 Explanation: AE = 63.5 ÷ (79.5 + 2.0) × 100 = 63.5 ÷ 81.5 × 100 = 77.9%. 79.9% ignores H₂ in the denominator.
 
-**A1855.** A. 60.9%
+**A1857.** A. 60.9%
 <!-- id: chem-8-2-19 -->
 
 Explanation: AE = 28.0 ÷ 46.0 × 100 = 60.9%; water is the by-product of this elimination reaction.
 
-**A1856.** AE = 28.0 ÷ 30.0 × 100 = 93.3%
+**A1858.** AE = 28.0 ÷ 30.0 × 100 = 93.3%
 <!-- id: chem-8-2-20 -->
 
 Explanation: Only one reactant, so the denominator is 30.0 g/mol.
 
-**A1857.** B. A reaction can have a high percentage yield but a low atom economy.
+**A1859.** B. A reaction can have a high percentage yield but a low atom economy.
 <!-- id: chem-8-2-21 -->
 
 Explanation: Atom economy is theoretical, from the balanced equation; yield is experimental. They are independent, so a high-yield reaction may still waste many atoms as by-products.
 
-**A1858.** C. Its atom economy is 100%, but its greenness also depends on the source of feedstocks and energy, e.g. syngas from natural gas.
+**A1860.** C. Its atom economy is 100%, but its greenness also depends on the source of feedstocks and energy, e.g. syngas from natural gas.
 <!-- id: chem-8-2-22 -->
 
 Explanation: Atom economy is only one measure; feedstock source, energy use, catalysts and conditions also matter.
 
-**A1859.** D. 52.2%
+**A1861.** D. 52.2%
 <!-- id: chem-8-2-23 -->
 
 Explanation: AE = (2 × 55.8) ÷ (159.6 + 2 × 27.0) × 100 = 111.6 ÷ 213.6 × 100 = 52.2%.
 
-**A1860.** In addition polymerisation all monomer atoms are incorporated into the polymer, giving 100% atom economy. In condensation polymerisation a small molecule such as water is eliminated each time a link forms, so some reactant mass is lost as by-product and atom economy is less than 100%.
+**A1862.** In addition polymerisation all monomer atoms are incorporated into the polymer, giving 100% atom economy. In condensation polymerisation a small molecule such as water is eliminated each time a link forms, so some reactant mass is lost as by-product and atom economy is less than 100%.
 <!-- id: chem-8-2-24 -->
 
 Explanation: Identify the by-product in condensation.
 
-**A1861.** AE = (2 × 40.0) ÷ (2 × 58.5 + 2 × 18.0) × 100 = 80.0 ÷ 153.0 × 100 = 52.3%
+**A1863.** AE = (2 × 40.0) ÷ (2 × 58.5 + 2 × 18.0) × 100 = 80.0 ÷ 153.0 × 100 = 52.3%
 <!-- id: chem-8-2-25 -->
 
 Explanation: Coefficients must be included in both numerator and denominator.
 
 #### Percentage yield calculations
 
-**A1862.** A. (actual mass of product ÷ theoretical mass of product) × 100
+**A1864.** A. (actual mass of product ÷ theoretical mass of product) × 100
 <!-- id: chem-8-3-1 -->
 
 Explanation: Percentage yield compares the mass actually obtained to the maximum possible from the limiting reactant.
 
-**A1863.** B. 82.2%
+**A1865.** B. 82.2%
 <!-- id: chem-8-3-2 -->
 
 Explanation: Theoretical: 10.0 ÷ 180.0 = 0.0556 mol glucose → 0.111 mol ethanol × 46.0 = 5.11 g. Yield = 4.20 ÷ 5.11 × 100 = 82.2%. 164% forgets the 2:1 ratio.
 
-**A1864.** C. 15.0%
+**A1866.** C. 15.0%
 <!-- id: chem-8-3-3 -->
 
 Explanation: n(N₂) = 1000 mol → 2000 mol NH₃ theoretical = 34.0 kg. Yield = 5.10 ÷ 34.0 × 100 = 15.0%. 30.0% ignores the 1:2 ratio.
 
-**A1865.** Overall yield = 0.85 × 0.60 × 100 = 51%. Fewer steps means less product lost overall, fewer reagents and solvents used and less waste and energy consumed.
+**A1867.** Overall yield = 0.85 × 0.60 × 100 = 51%. Fewer steps means less product lost overall, fewer reagents and solvents used and less waste and energy consumed.
 <!-- id: chem-8-3-4 -->
 
 Explanation: Correct multiplication plus a green chemistry link.
 
-**A1866.** D. 65.0%
+**A1868.** D. 65.0%
 <!-- id: chem-8-3-5 -->
 
 Explanation: n(acid) = 0.100 mol → 0.100 mol ester = 8.80 g theoretical. Yield = 5.72 ÷ 8.80 × 100 = 65.0%. 83.0% is the atom economy.
 
-**A1867.** A. 75.0%
+**A1869.** A. 75.0%
 <!-- id: chem-8-3-6 -->
 
 Explanation: n(acid) = 0.200 mol, n(ethanol) = 0.150 mol, so ethanol is limiting: theoretical = 0.150 × 88.0 = 13.2 g. Yield = 9.90 ÷ 13.2 × 100 = 75.0%. 56.3% wrongly uses the acid.
 
-**A1868.** B. 50.4%
+**A1870.** B. 50.4%
 <!-- id: chem-8-3-7 -->
 
 Explanation: Overall yield = 0.90 × 0.80 × 0.70 × 100 = 50.4%; step yields multiply rather than average.
 
-**A1869.** Any two of: the reaction reaches equilibrium and does not go to completion; side reactions form unwanted products; product is lost during separation and purification (e.g. filtration, distillation); reactants are impure.
+**A1871.** Any two of: the reaction reaches equilibrium and does not go to completion; side reactions form unwanted products; product is lost during separation and purification (e.g. filtration, distillation); reactants are impure.
 <!-- id: chem-8-3-8 -->
 
 Explanation: Two distinct valid reasons.
 
-**A1870.** C. the product was not fully dried and still contained solvent.
+**A1872.** C. the product was not fully dried and still contained solvent.
 <!-- id: chem-8-3-9 -->
 
 Explanation: A yield above 100% means the measured mass includes something other than pure product, such as water or impurities; the other options lower the yield.
 
-**A1871.** D. Recording the mass of a product that is still damp
+**A1873.** D. Recording the mass of a product that is still damp
 <!-- id: chem-8-3-10 -->
 
 Explanation: Damp product adds mass and raises the apparent yield; the others reduce the amount of pure product collected.
 
-**A1872.** A. 89.9%
+**A1874.** A. 89.9%
 <!-- id: chem-8-3-11 -->
 
 Explanation: Theoretical CaO = (50.0 ÷ 100.1) × 56.1 = 28.0 g. Yield = 25.2 ÷ 28.0 × 100 = 89.9%. 50.4% divides by the reactant mass.
 
-**A1873.** High atom economy means the reaction itself produces little by-product, while high yield means most of the possible product is actually obtained. Improving both minimises wasted raw materials and waste disposal, lowering cost and environmental impact.
+**A1875.** High atom economy means the reaction itself produces little by-product, while high yield means most of the possible product is actually obtained. Improving both minimises wasted raw materials and waste disposal, lowering cost and environmental impact.
 <!-- id: chem-8-3-12 -->
 
 Explanation: Must distinguish the two and link to waste/cost.
 
-**A1874.** B. 75.0%
+**A1876.** B. 75.0%
 <!-- id: chem-8-3-13 -->
 
 Explanation: n = 2.76 ÷ 138.0 = 0.0200 mol → theoretical aspirin = 3.60 g. Yield = 2.70 ÷ 3.60 × 100 = 75.0%.
 
-**A1875.** C. 75.0%
+**A1877.** C. 75.0%
 <!-- id: chem-8-3-14 -->
 
 Explanation: n(CO) = 2000 mol → 2000 mol CH₃OH = 64.0 kg. Yield = 48.0 ÷ 64.0 × 100 = 75.0%. 85.7% is product mass divided by reactant mass.
 
-**A1876.** D. 17.5 g
+**A1878.** D. 17.5 g
 <!-- id: chem-8-3-15 -->
 
 Explanation: Theoretical ethanol needed = 23.0 ÷ 0.800 = 28.75 g = 0.625 mol, so ethene = 0.625 × 28.0 = 17.5 g. 14.0 g ignores the yield; 11.2 g multiplies by 0.8.
 
-**A1877.** Theoretical ester = 0.250 × 88.0 = 22.0 g. Yield = 15.4 ÷ 22.0 × 100 = 70.0%.
+**A1879.** Theoretical ester = 0.250 × 88.0 = 22.0 g. Yield = 15.4 ÷ 22.0 × 100 = 70.0%.
 <!-- id: chem-8-3-16 -->
 
 Explanation: 1:1 mole ratio; use moles of the limiting reactant.
 
-**A1878.** A. 97.0%
+**A1880.** A. 97.0%
 <!-- id: chem-8-3-17 -->
 
 Explanation: n(SO₂) = 2.00 mol → 2.00 mol SO₃ = 160.2 g. Yield = 155.4 ÷ 160.2 × 100 = 97.0%.
 
-**A1879.** B. 106 g
+**A1881.** B. 106 g
 <!-- id: chem-8-3-18 -->
 
 Explanation: Theoretical CaO = (200 ÷ 100.1) × 56.1 = 112.1 g; × 0.950 = 106.5 g. 112 g ignores the yield; 118 g divides by 0.95.
 
-**A1880.** C. It does not change the equilibrium yield, but the maximum yield is reached in less time.
+**A1882.** C. It does not change the equilibrium yield, but the maximum yield is reached in less time.
 <!-- id: chem-8-3-19 -->
 
 Explanation: Catalysts speed up forward and reverse reactions equally, so equilibrium position, and therefore equilibrium yield, is unchanged.
 
-**A1881.** Only about 15% conversion occurs in a single pass because the reaction reaches equilibrium. Recycling the unreacted gases back to the reactor means they eventually react, giving an overall yield of about 98% and reducing waste of feedstock.
+**A1883.** Only about 15% conversion occurs in a single pass because the reaction reaches equilibrium. Recycling the unreacted gases back to the reactor means they eventually react, giving an overall yield of about 98% and reducing waste of feedstock.
 <!-- id: chem-8-3-20 -->
 
 Explanation: Link single-pass equilibrium yield to overall yield.
 
-**A1882.** D. Lowering the temperature
+**A1884.** D. Lowering the temperature
 <!-- id: chem-8-3-21 -->
 
 Explanation: Lowering temperature favours the exothermic forward reaction; a catalyst and an inert gas at constant volume do not shift the equilibrium; decreasing pressure favours the side with more gas particles (the reactants).
 
-**A1883.** A. 84.9%
+**A1885.** A. 84.9%
 <!-- id: chem-8-3-22 -->
 
 Explanation: n(Fe₂O₃) = 0.100 mol → 0.200 mol Fe = 11.19 g. Yield = 9.50 ÷ 11.19 × 100 = 84.9%. 42.4% forgets the 1:2 ratio.
 
-**A1884.** B. In theory every reactant atom could end up in the product, but in practice only 40% of the maximum product mass was obtained.
+**A1886.** B. In theory every reactant atom could end up in the product, but in practice only 40% of the maximum product mass was obtained.
 <!-- id: chem-8-3-23 -->
 
 Explanation: 100% atom economy means no by-products in the equation; a 40% yield reflects incomplete reaction, losses or side reactions in practice.
 
-**A1885.** Theoretical aspirin needed = 5.00 ÷ 0.700 = 7.14 g = 0.0397 mol. Mass of salicylic acid = 0.0397 × 138.0 = 5.48 g.
+**A1887.** Theoretical aspirin needed = 5.00 ÷ 0.700 = 7.14 g = 0.0397 mol. Mass of salicylic acid = 0.0397 × 138.0 = 5.48 g.
 <!-- id: chem-8-3-24 -->
 
 Explanation: Divide by the yield fraction before converting to moles.
 
-**A1886.** Mass cannot be created, so the mass of pure product cannot exceed the theoretical maximum from the limiting reactant. A yield over 100% means the product contains extra mass, e.g. residual water/solvent from incomplete drying or impurities.
+**A1888.** Mass cannot be created, so the mass of pure product cannot exceed the theoretical maximum from the limiting reactant. A yield over 100% means the product contains extra mass, e.g. residual water/solvent from incomplete drying or impurities.
 <!-- id: chem-8-3-25 -->
 
 Explanation: Conservation of mass plus a valid cause.
 
 #### Circular economy and sustainability
 
-**A1887.** C. An economy in which materials are kept in use for as long as possible through reuse, repair, remanufacture and recycling, with waste designed out
+**A1889.** C. An economy in which materials are kept in use for as long as possible through reuse, repair, remanufacture and recycling, with waste designed out
 <!-- id: chem-8-4-1 -->
 
 Explanation: A circular economy designs out waste and keeps resources circulating, in contrast to the linear 'take–make–dispose' model.
 
-**A1888.** D. take, make, use, dispose
+**A1890.** D. take, make, use, dispose
 <!-- id: chem-8-4-2 -->
 
 Explanation: In a linear economy resources are extracted, made into products, used and then discarded as waste.
 
-**A1889.** A. Collecting bottles through the Victorian container deposit scheme and reprocessing them into new food-grade bottles
+**A1891.** A. Collecting bottles through the Victorian container deposit scheme and reprocessing them into new food-grade bottles
 <!-- id: chem-8-4-3 -->
 
 Explanation: Collecting and reprocessing bottles into new bottles keeps the material in use and avoids waste.
 
-**A1890.** A linear economy follows a take–make–use–dispose model in which resources are extracted, made into products and discarded as waste. A circular economy designs out waste and keeps materials in use for as long as possible through reuse, repair and recycling, with materials recovered at the end of a product's life.
+**A1892.** A linear economy follows a take–make–use–dispose model in which resources are extracted, made into products and discarded as waste. A circular economy designs out waste and keeps materials in use for as long as possible through reuse, repair and recycling, with materials recovered at the end of a product's life.
 <!-- id: chem-8-4-4 -->
 
 Explanation: Must describe both models.
 
-**A1891.** B. The material is permanently lost and the carbon is released as CO₂, so new raw materials are needed for future plastics.
+**A1893.** B. The material is permanently lost and the carbon is released as CO₂, so new raw materials are needed for future plastics.
 <!-- id: chem-8-4-5 -->
 
 Explanation: Energy recovery captures some value, but the material leaves the economy, unlike recycling which retains it.
 
-**A1892.** C. They soften on heating and can be remoulded, because there are only weak forces between chains and no cross-links.
+**A1894.** C. They soften on heating and can be remoulded, because there are only weak forces between chains and no cross-links.
 <!-- id: chem-8-4-6 -->
 
 Explanation: Thermoplastics lack cross-links so they can be melted and reshaped; thermosets have covalent cross-links and char instead of melting.
 
-**A1893.** D. broken down into monomers or small molecules that can be used to make new polymers or chemicals.
+**A1895.** D. broken down into monomers or small molecules that can be used to make new polymers or chemicals.
 <!-- id: chem-8-4-7 -->
 
 Explanation: Chemical recycling depolymerises or cracks polymers into feedstock molecules, allowing high-quality new materials.
 
-**A1894.** Advantage: it is made from a renewable feedstock and is close to carbon neutral, since the CO₂ released on combustion was absorbed during plant growth. Disadvantage: growing sugar cane uses land, water and fertiliser that may compete with food crops, and processing (e.g. distillation) requires energy.
+**A1896.** Advantage: it is made from a renewable feedstock and is close to carbon neutral, since the CO₂ released on combustion was absorbed during plant growth. Disadvantage: growing sugar cane uses land, water and fertiliser that may compete with food crops, and processing (e.g. distillation) requires energy.
 <!-- id: chem-8-4-8 -->
 
 Explanation: One valid advantage and one valid disadvantage.
 
-**A1895.** A. The carbon released on combustion was recently absorbed from the atmosphere by the canola plants, so net CO₂ emissions are lower.
+**A1897.** A. The carbon released on combustion was recently absorbed from the atmosphere by the canola plants, so net CO₂ emissions are lower.
 <!-- id: chem-8-4-9 -->
 
 Explanation: Biofuels are close to carbon neutral over their life cycle, although farming, processing and transport still produce some emissions.
 
-**A1896.** B. land and water used for fuel crops may compete with food production.
+**A1898.** B. land and water used for fuel crops may compete with food production.
 <!-- id: chem-8-4-10 -->
 
 Explanation: Using arable land for fuel crops can increase food prices and lead to land clearing, which is a sustainability trade-off.
 
-**A1897.** C. Using waste heat and by-product CO₂ from one factory to warm greenhouses at a neighbouring business
+**A1899.** C. Using waste heat and by-product CO₂ from one factory to warm greenhouses at a neighbouring business
 <!-- id: chem-8-4-11 -->
 
 Explanation: In industrial symbiosis, the waste or by-products of one industry become the inputs of another.
 
-**A1898.** Thermosetting polymers have strong covalent cross-links between chains, so they do not soften or melt when heated and cannot be remoulded; they decompose instead. Thermoplastics have only weak intermolecular forces between chains and can be melted and reshaped.
+**A1900.** Thermosetting polymers have strong covalent cross-links between chains, so they do not soften or melt when heated and cannot be remoulded; they decompose instead. Thermoplastics have only weak intermolecular forces between chains and can be melted and reshaped.
 <!-- id: chem-8-4-12 -->
 
 Explanation: Refer to cross-links and behaviour on heating.
 
-**A1899.** D. Avoid/reduce, reuse, recycle, recover energy, dispose
+**A1901.** D. Avoid/reduce, reuse, recycle, recover energy, dispose
 <!-- id: chem-8-4-13 -->
 
 Explanation: Avoiding waste is best, followed by reuse and recycling; energy recovery and landfill are least preferred.
 
-**A1900.** A. Life cycle assessment
+**A1902.** A. Life cycle assessment
 <!-- id: chem-8-4-14 -->
 
 Explanation: A life cycle assessment (cradle-to-grave) evaluates energy, materials and emissions at every stage of a product's life.
 
-**A1901.** B. it removes the need to use natural gas as the hydrogen source, eliminating CO₂ released in steam reforming.
+**A1903.** B. it removes the need to use natural gas as the hydrogen source, eliminating CO₂ released in steam reforming.
 <!-- id: chem-8-4-15 -->
 
 Explanation: Most hydrogen for ammonia comes from steam reforming of methane, which emits CO₂; electrolytic hydrogen from renewable power avoids this.
 
-**A1902.** The by-products, which would otherwise be waste, become inputs for other industries. This keeps materials in use, reduces waste going to landfill or the atmosphere, and reduces the need for new raw materials (industrial symbiosis).
+**A1904.** The by-products, which would otherwise be waste, become inputs for other industries. This keeps materials in use, reduces waste going to landfill or the atmosphere, and reduces the need for new raw materials (industrial symbiosis).
 <!-- id: chem-8-4-16 -->
 
 Explanation: Link by-products becoming resources.
 
-**A1903.** C. A mobile phone designed with screws instead of glue, so its battery and metals can be easily separated for recycling
+**A1905.** C. A mobile phone designed with screws instead of glue, so its battery and metals can be easily separated for recycling
 <!-- id: chem-8-4-17 -->
 
 Explanation: Products that can be easily taken apart allow components and materials to be reused or recovered.
 
-**A1904.** D. It is made from a renewable feedstock and can biodegrade under industrial composting conditions.
+**A1906.** D. It is made from a renewable feedstock and can biodegrade under industrial composting conditions.
 <!-- id: chem-8-4-18 -->
 
 Explanation: PLA is a bio-derived polyester that breaks down in industrial compost, but degrades slowly in normal environments.
 
-**A1905.** A. Polymer chains are shortened and contaminants build up each cycle, so quality decreases (downcycling).
+**A1907.** A. Polymer chains are shortened and contaminants build up each cycle, so quality decreases (downcycling).
 <!-- id: chem-8-4-19 -->
 
 Explanation: Repeated melting degrades polymer chains, so recycled plastic is often used in lower-grade products.
 
-**A1906.** An LCA assesses the environmental impacts, such as energy use, raw materials, emissions and waste, at every stage of a product's life: raw material extraction, manufacture, transport, use and end-of-life disposal or recycling. It allows products or processes to be compared and identifies the stages where impacts can be reduced.
+**A1908.** An LCA assesses the environmental impacts, such as energy use, raw materials, emissions and waste, at every stage of a product's life: raw material extraction, manufacture, transport, use and end-of-life disposal or recycling. It allows products or processes to be compared and identifies the stages where impacts can be reduced.
 <!-- id: chem-8-4-20 -->
 
 Explanation: Stages listed plus a purpose.
 
-**A1907.** B. keeps a valuable, finite resource in use and reduces the environmental impacts of mining.
+**A1909.** B. keeps a valuable, finite resource in use and reduces the environmental impacts of mining.
 <!-- id: chem-8-4-21 -->
 
 Explanation: Urban mining of e-waste recovers finite metals and reduces waste, land disturbance and energy from ore processing.
 
-**A1908.** C. Development that meets the needs of the present without compromising the ability of future generations to meet their own needs
+**A1910.** C. Development that meets the needs of the present without compromising the ability of future generations to meet their own needs
 <!-- id: chem-8-4-22 -->
 
 Explanation: This is the widely used Brundtland definition of sustainable development.
 
-**A1909.** D. Electricity from solar and wind farms
+**A1911.** D. Electricity from solar and wind farms
 <!-- id: chem-8-4-23 -->
 
 Explanation: Aluminium smelting uses huge amounts of electricity; renewable sources greatly reduce its greenhouse gas emissions.
 
-**A1910.** Currently hydrogen is mostly produced from natural gas by steam reforming, a non-renewable feedstock that releases CO₂. Electrolysis of water using solar or wind electricity uses renewable energy and water, producing only O₂ as a by-product, so greenhouse gas emissions and fossil-fuel use are greatly reduced.
+**A1912.** Currently hydrogen is mostly produced from natural gas by steam reforming, a non-renewable feedstock that releases CO₂. Electrolysis of water using solar or wind electricity uses renewable energy and water, producing only O₂ as a by-product, so greenhouse gas emissions and fossil-fuel use are greatly reduced.
 <!-- id: chem-8-4-24 -->
 
 Explanation: Compare hydrogen sources and emissions.
 
-**A1911.** Reducing avoids using materials and creating waste in the first place, and reusing keeps a product in use without reprocessing. Recycling still requires energy, collection and processing, and often loses some material quality, so it has a greater environmental impact than reducing or reusing.
+**A1913.** Reducing avoids using materials and creating waste in the first place, and reusing keeps a product in use without reprocessing. Recycling still requires energy, collection and processing, and often loses some material quality, so it has a greater environmental impact than reducing or reusing.
 <!-- id: chem-8-4-25 -->
 
 Explanation: Link to energy and resource use.
 
 ### Exam-style questions (mixed topics)
 
-**A1912.** Ethanol as a fuel
+**A1914.** Ethanol as a fuel
 <!-- id: chem-x1 -->
 *Multi-part question · 13 marks*
 
@@ -9887,7 +9999,7 @@ Common mistake: Using one mole of ethanol (46.0 g) instead of the two moles in t
 
 Topic: Atom economy calculations (chem-8-2)
 
-**A1913.** Green hydrogen: making it and using it
+**A1915.** Green hydrogen: making it and using it
 <!-- id: chem-x2 -->
 *Multi-part question · 12 marks*
 
@@ -9951,3 +10063,115 @@ Topic: Equilibrium constants and calculations (chem-3-3)
 Common mistake: Saying the yield rises because the reaction gets faster. A higher temperature means equilibrium is reached sooner, but for an exothermic reaction the equilibrium yield is lower.
 
 Topic: Le Chatelier's principle and yield optimisation (chem-3-4)
+
+**A1916.** Identifying an acid and making an ester
+<!-- id: chem-x3 -->
+*Multi-part question · 10 marks*
+
+**a.** A carboxylic acid group (–COOH). *(2 marks)*
+
+1. The very broad absorption at 2500–3300 cm⁻¹ is the O–H of a carboxylic acid. *(1 mark)*
+2. The sharp absorption near 1710 cm⁻¹ is a C=O bond, which together with the O–H indicates –COOH. *(1 mark)*
+
+Common mistake: Identifying an alcohol from the O–H. An alcohol O–H is broad but at 3200–3600 cm⁻¹, and there would be no C=O peak.
+
+Topic: Infrared spectroscopy (chem-6-2)
+
+**b.** Propanoic acid *(1 mark)*
+
+1. A three-carbon carboxylic acid, CH₃CH₂COOH: propanoic acid. *(1 mark)*
+
+Common mistake: Naming it ethanoic acid. The carbon in the –COOH group counts, so there are three carbons.
+
+Topic: IUPAC naming and functional groups (chem-5-1)
+
+**c.** 74 *(1 mark)*
+
+1. M(C₃H₆O₂) = 3 × 12.0 + 6 × 1.0 + 2 × 16.0 = 74.0, so the molecular ion appears at m/z = 74. *(1 mark)*
+
+Common mistake: Choosing the base peak (the tallest). The molecular ion is the peak for the whole molecule.
+
+Topic: Mass spectrometry (chem-6-1)
+
+**d.** Three environments; the CH₃ signal is a triplet. *(2 marks)*
+
+1. Three environments: CH₃, CH₂ and COOH. *(1 mark)*
+2. The CH₃ is next to a CH₂ with 2 hydrogens, so by the n + 1 rule it is split into a triplet. *(1 mark)*
+
+Common mistake: Counting the neighbouring hydrogens as 3. The n + 1 rule counts hydrogens on the adjacent carbon (the CH₂).
+
+Topic: ¹H and ¹³C NMR spectroscopy (chem-6-3)
+
+**e.** CH₃CH₂COOH + CH₃OH ⇌ CH₃CH₂COOCH₃ + H₂O; methyl propanoate *(2 marks)*
+
+1. CH₃CH₂COOH + CH₃OH ⇌ CH₃CH₂COOCH₃ + H₂O. *(1 mark)*
+2. The ester is methyl propanoate (methyl from the alcohol, propanoate from the acid). *(1 mark)*
+
+Common mistake: Naming it propyl methanoate, the other way round. The alcohol gives the first word.
+
+Topic: Reaction pathways, esters and yield (chem-5-4)
+
+**f.** 70.0% *(2 marks)*
+
+1. n(X) = 7.40 ÷ 74.0 = 0.100 mol, so the theoretical mass of ester = 0.100 × 88.0 = 8.80 g. *(1 mark)*
+2. Percentage yield = 6.16 ÷ 8.80 × 100% = 70.0%. *(1 mark)*
+
+Common mistake: Dividing the mass of ester by the mass of acid (6.16 ÷ 7.40). Compare actual and theoretical masses of the same product.
+
+Topic: Percentage yield calculations (chem-8-3)
+
+**A1917.** A lead–acid battery and a catalyst
+<!-- id: chem-x4 -->
+*Multi-part question · 10 marks*
+
+**a.** Pb(s) + SO₄²⁻(aq) → PbSO₄(s) + 2e⁻ *(2 marks)*
+
+1. Oxidation occurs at the anode: lead is oxidised from 0 to +2. *(1 mark)*
+2. Pb(s) + SO₄²⁻(aq) → PbSO₄(s) + 2e⁻. *(1 mark)*
+
+Common mistake: Writing Pb²⁺(aq) as the product. In this cell the lead(II) forms solid PbSO₄ on the electrode.
+
+Topic: Rechargeable (secondary) cells (chem-4-3)
+
+**b.** An electrolytic cell; an external power supply forces the non-spontaneous reverse reaction. *(1 mark)*
+
+1. During recharging it is an electrolytic cell: electrical energy from the alternator drives the reverse, non-spontaneous reaction. *(1 mark)*
+
+Common mistake: Saying it is still a galvanic cell. A galvanic cell produces electricity; recharging uses electricity.
+
+Topic: Rechargeable (secondary) cells (chem-4-3)
+
+**c.** So that it is in contact with the electrodes and can be converted back into Pb and PbO₂ when the battery is recharged. *(1 mark)*
+
+1. The product must remain at the electrodes to be reconverted to the reactants during recharging; if it fell off, the cell could not be recharged. *(1 mark)*
+
+Common mistake: Saying it stops the battery overheating. The point is that secondary cells need their products available for the reverse reaction.
+
+Topic: Rechargeable (secondary) cells (chem-4-3)
+
+**d.** 0.0933 mol *(2 marks)*
+
+1. Q = It = 5.00 × 30.0 × 60 = 9000 C. *(1 mark)*
+2. n(e⁻) = Q ÷ F = 9000 ÷ 96 500 = 0.0933 mol. *(1 mark)*
+
+Common mistake: Using 30.0 as the time. Convert minutes to seconds.
+
+Topic: Faraday's laws and calculations (chem-4-2)
+
+**e.** 9.66 g *(2 marks)*
+
+1. From the half-equation, n(Pb) = ½ n(e⁻) = 0.04663 mol. *(1 mark)*
+2. m(Pb) = 0.04663 × 207.2 = 9.66 g. *(1 mark)*
+
+Common mistake: Using n(Pb) = n(e⁻). Each Pb atom loses two electrons.
+
+Topic: Faraday's laws and calculations (chem-4-2)
+
+**f.** It provides an alternative reaction pathway with a lower activation energy, so a greater proportion of collisions have enough energy to react. *(2 marks)*
+
+1. The catalyst provides an alternative pathway with a lower activation energy. *(1 mark)*
+2. A greater proportion of particles now have energy greater than or equal to the activation energy, so more collisions are successful per second. *(1 mark)*
+
+Common mistake: Saying the catalyst makes particles move faster or collide more often. Only temperature increases particle energy; a catalyst lowers the energy barrier.
+
+Topic: Maxwell–Boltzmann distributions and catalysts (chem-3-2)

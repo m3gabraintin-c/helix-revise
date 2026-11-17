@@ -4802,258 +4802,363 @@ Common mistake: Saying the guinea pigs turned black in order to blend in. Indivi
 
 Topic: Structural, physiological and behavioural adaptations (vce-bio12-structural-physiological-and-behavioural-adaptations)
 
+**A925.** Cells that divide, specialise and die
+<!-- id: vce-bio12-x3 -->
+*Multi-part question · 10 marks*
+
+**a.** The cell grows, makes organelles and proteins, and replicates its DNA (S phase), preparing to divide. *(2 marks)*
+
+1. The cell grows and produces organelles and proteins (G1 and G2). *(1 mark)*
+2. DNA is replicated during the S phase, so each chromosome consists of two sister chromatids. *(1 mark)*
+
+Common mistake: Calling interphase a resting phase. The cell is very active, especially in copying its DNA.
+
+Topic: The eukaryotic cell cycle and mitosis (vce-bio12-the-eukaryotic-cell-cycle-and-mitosis)
+
+**b.** Prophase, metaphase, anaphase, telophase. In metaphase, chromosomes line up along the equator of the cell, attached to spindle fibres. *(2 marks)*
+
+1. Order: prophase, metaphase, anaphase, telophase. *(1 mark)*
+2. Metaphase: chromosomes line up along the cell's equator, with spindle fibres attached at the centromeres. *(1 mark)*
+
+Common mistake: Describing anaphase (chromatids separating) as metaphase.
+
+Topic: The eukaryotic cell cycle and mitosis (vce-bio12-the-eukaryotic-cell-cycle-and-mitosis)
+
+**c.** Apoptosis removes damaged or abnormal cells by programmed death. If the signals fail, damaged cells survive and keep dividing, forming a tumour. *(2 marks)*
+
+1. Apoptosis is programmed cell death that removes damaged or unneeded cells. *(1 mark)*
+2. If apoptosis fails, abnormal cells survive and divide uncontrollably, which can form a tumour (cancer). *(1 mark)*
+
+Common mistake: Saying cancer cells die more often. Cancer involves cells that avoid death and keep dividing.
+
+Topic: Apoptosis and cancer (vce-bio12-apoptosis-and-cancer)
+
+**d.** Embryonic stem cells are pluripotent (can become almost any cell type) and come from early embryos; adult stem cells are multipotent (limited to related cell types) and are found in tissues such as bone marrow. *(2 marks)*
+
+1. Embryonic stem cells: pluripotent, from early embryos. *(1 mark)*
+2. Adult stem cells: multipotent, found in tissues such as bone marrow, giving rise to a limited range of cells. *(1 mark)*
+
+Common mistake: Describing only one type. A comparison needs both.
+
+Topic: Stem cells and specialisation (vce-bio12-stem-cells-and-specialisation)
+
+**e.** 64 *(1 mark)*
+
+1. 2 hours = 6 divisions, so the number of cells is 2⁶ = 64. *(1 mark)*
+
+Common mistake: Adding instead of doubling (1 + 6 = 7). Each division doubles the number of cells.
+
+Topic: Binary fission (vce-bio12-binary-fission)
+
+**f.** Bacteria have no nucleus and usually a single circular chromosome, so there is no need for the stages of mitosis or a spindle. *(1 mark)*
+
+1. Prokaryotes have a single circular chromosome and no nucleus, so the DNA is simply copied and separated as the cell splits. *(1 mark)*
+
+Common mistake: Saying bacteria have no DNA. They have DNA, just not inside a nucleus.
+
+Topic: Binary fission (vce-bio12-binary-fission)
+
+**A926.** Staying warm and staying hydrated
+<!-- id: vce-bio12-x4 -->
+*Multi-part question · 10 marks*
+
+**a.** Stimulus: falling body temperature. Receptors: thermoreceptors in the skin. Control centre: the hypothalamus. Effectors: skeletal muscles (shivering) and arterioles in the skin (vasoconstriction). Response: heat is produced and conserved, so body temperature rises back to normal. *(3 marks)*
+
+1. Stimulus (drop in temperature) detected by thermoreceptors in the skin. *(1 mark)*
+2. The hypothalamus, the control centre, sends signals to effectors. *(1 mark)*
+3. Effectors respond: skeletal muscles shiver to produce heat, and skin arterioles constrict to reduce heat loss. *(1 mark)*
+
+Common mistake: Naming the brain as the receptor. Receptors detect the stimulus; the hypothalamus processes it.
+
+Topic: Thermoregulation (vce-bio12-thermoregulation)
+
+**b.** Less blood flows through capillaries near the skin surface, so less heat is lost to the surroundings. *(1 mark)*
+
+1. Narrowed arterioles send less warm blood to the skin surface, reducing heat loss by radiation and conduction. *(1 mark)*
+
+Common mistake: Saying the blood vessels move away from the skin. They narrow; they do not move.
+
+Topic: Thermoregulation (vce-bio12-thermoregulation)
+
+**c.** Ectotherms rely on external heat to control body temperature. Basking is an action that raises the lizard's body temperature so it can become active. *(2 marks)*
+
+1. An ectotherm gains most of its heat from the environment rather than from metabolism. *(1 mark)*
+2. Basking is a behaviour (an action), and it warms the lizard so that its enzymes and muscles work efficiently. *(1 mark)*
+
+Common mistake: Calling it a structural adaptation. Structural adaptations are physical features; basking is a behaviour.
+
+Topic: Structural, physiological and behavioural adaptations (vce-bio12-structural-physiological-and-behavioural-adaptations)
+
+**d.** Osmoreceptors in the hypothalamus detect the high solute concentration of the blood; the posterior pituitary releases ADH, which makes the kidney's collecting ducts more permeable to water, so more water is reabsorbed and less, more concentrated urine is produced. *(2 marks)*
+
+1. Dehydration raises blood solute concentration, detected by osmoreceptors in the hypothalamus, and the posterior pituitary releases ADH. *(1 mark)*
+2. ADH increases the permeability of the collecting ducts to water, so more water is reabsorbed into the blood and urine is concentrated. *(1 mark)*
+
+Common mistake: Saying ADH increases urine production. ADH reduces it by increasing reabsorption.
+
+Topic: Water balance (vce-bio12-water-balance)
+
+**e.** For example: a thick waxy cuticle; sunken or fewer stomata; small or needle-like leaves. *(2 marks)*
+
+1. First adaptation, for example a thick, waxy cuticle that reduces evaporation. *(1 mark)*
+2. Second adaptation, for example sunken stomata, fewer stomata, or reduced leaf surface area. *(1 mark)*
+
+Common mistake: Describing behavioural or physiological responses. The question asks for structural features.
+
+Topic: Adaptations to Australian environments (vce-bio12-adaptations-to-australian-environments)
+
 ## VCE Units 3 & 4
 
 ### Unit 3 AOS 1: Nucleic acids and proteins
 
 #### Nucleic acid structure
 
-**A925.** B. A phosphate group, a deoxyribose sugar and a nitrogenous base
+**A927.** B. A phosphate group, a deoxyribose sugar and a nitrogenous base
 <!-- id: bio34a1-nas-1 -->
 
 Explanation: A DNA nucleotide consists of a phosphate group, the pentose sugar deoxyribose and one of four nitrogenous bases (A, T, C or G). Ribose is the sugar in RNA nucleotides, not DNA.
 
-**A926.** B. 28%
+**A928.** B. 28%
 <!-- id: bio34a1-nas-2 -->
 
 Explanation: By complementary base pairing, G = C = 22%, so G + C = 44%. The remaining 56% is A + T, and since A = T, thymine is 28%. 56% is the combined A + T value, not thymine alone.
 
-**A927.** C. phosphodiester bonds between the sugar of one nucleotide and the phosphate of the next.
+**A929.** C. phosphodiester bonds between the sugar of one nucleotide and the phosphate of the next.
 <!-- id: bio34a1-nas-3 -->
 
 Explanation: The sugar-phosphate backbone is held together by covalent phosphodiester bonds linking the 3′ carbon of one sugar to the 5′ phosphate of the next nucleotide. Hydrogen bonds join the two strands to each other, not nucleotides within a strand.
 
-**A928.** A. The base uracil
+**A930.** A. The base uracil
 <!-- id: bio34a1-nas-4 -->
 
 Explanation: RNA contains uracil in place of thymine. Both DNA and RNA have a sugar-phosphate backbone, contain cytosine and are built in the 5′ to 3′ direction.
 
-**A929.** D. Fragment X separates into single strands at a higher temperature because G–C pairs form three hydrogen bonds.
+**A931.** D. Fragment X separates into single strands at a higher temperature because G–C pairs form three hydrogen bonds.
 <!-- id: bio34a1-nas-5 -->
 
 Explanation: G–C pairs are held by three hydrogen bonds while A–T pairs are held by two, so DNA rich in G–C needs more energy (a higher temperature) to separate. Length is equal here, so base composition decides it.
 
-**A930.** The two strands run in opposite directions; one strand runs 5′ to 3′ while its complementary strand runs 3′ to 5′ (the 5′ phosphate end of one strand lies opposite the 3′ hydroxyl end of the other).
+**A932.** The two strands run in opposite directions; one strand runs 5′ to 3′ while its complementary strand runs 3′ to 5′ (the 5′ phosphate end of one strand lies opposite the 3′ hydroxyl end of the other).
 <!-- id: bio34a1-nas-6 -->
 
 Explanation:
 
-**A931.** Complementary strand: 3′-TACGGCAA-5′ (equivalently written 5′-AACGGCAT-3′); the strands are held together by hydrogen bonds between complementary bases.
+**A933.** Complementary strand: 3′-TACGGCAA-5′ (equivalently written 5′-AACGGCAT-3′); the strands are held together by hydrogen bonds between complementary bases.
 <!-- id: bio34a1-nas-7 -->
 
 Explanation:
 
-**A932.** Both are single-stranded RNA polymers made of ribonucleotides containing ribose and A, U, C, G; mRNA is a linear molecule that carries a copy of the genetic instructions (codons) from the DNA to the ribosome; tRNA folds into a cloverleaf shape held by internal base pairing, carries an anticodon at one end and a specific amino acid at the 3′ end, delivering amino acids to the ribosome during translation.
+**A934.** Both are single-stranded RNA polymers made of ribonucleotides containing ribose and A, U, C, G; mRNA is a linear molecule that carries a copy of the genetic instructions (codons) from the DNA to the ribosome; tRNA folds into a cloverleaf shape held by internal base pairing, carries an anticodon at one end and a specific amino acid at the 3′ end, delivering amino acids to the ribosome during translation.
 <!-- id: bio34a1-nas-8 -->
 
 Explanation:
 
 #### Transcription and RNA processing
 
-**A933.** B. binds to the promoter and synthesises RNA in the 5′ to 3′ direction using the template strand.
+**A935.** B. binds to the promoter and synthesises RNA in the 5′ to 3′ direction using the template strand.
 <!-- id: bio34a1-trp-1 -->
 
 Explanation: RNA polymerase binds to the promoter upstream of the gene, unwinds the DNA and adds complementary ribonucleotides to the 3′ end of the growing RNA, reading the template strand 3′ to 5′. Start codons are recognised by ribosomes in translation, not by RNA polymerase.
 
-**A934.** C. 5′-AUGCCUAAG-3′
+**A936.** C. 5′-AUGCCUAAG-3′
 <!-- id: bio34a1-trp-2 -->
 
 Explanation: mRNA is complementary and antiparallel to the template strand, with U replacing T: template 3′-TACGGATTC-5′ gives mRNA 5′-AUGCCUAAG-3′. Option A contains thymine, so it is DNA, not RNA.
 
-**A935.** A. Addition of a poly-A tail
+**A937.** A. Addition of a poly-A tail
 <!-- id: bio34a1-trp-3 -->
 
 Explanation: A poly-A tail (a long chain of adenine nucleotides) is added to the 3′ end. The methyl-guanine cap is added to the 5′ end, not the 3′ end. Splicing removes introns, not exons.
 
-**A936.** D. It may contain different combinations of exons in different cells due to alternative splicing.
+**A938.** D. It may contain different combinations of exons in different cells due to alternative splicing.
 <!-- id: bio34a1-trp-4 -->
 
 Explanation: Introns are removed and exons are joined. Through alternative splicing, some exons may be included or excluded, so one gene can produce several mature mRNAs and therefore several proteins. Removing introns usually makes the mature mRNA much shorter than the gene.
 
-**A937.** B. introns, which make up most of the gene, were removed from the pre-mRNA during splicing.
+**A939.** B. introns, which make up most of the gene, were removed from the pre-mRNA during splicing.
 <!-- id: bio34a1-trp-5 -->
 
 Explanation: Eukaryotic genes often contain long introns that are transcribed into pre-mRNA and then spliced out, leaving only the exons in mature mRNA. Translation occurs in the cytoplasm, not before export, and only the template strand is ever transcribed.
 
-**A938.** A 5′ methyl-guanine (methylated G) cap is added to the 5′ end, which protects the mRNA and helps ribosome attachment; a poly-A tail is added to the 3′ end, which protects the mRNA from degradation and aids export; introns are removed and exons are joined together by spliceosomes (splicing).
+**A940.** A 5′ methyl-guanine (methylated G) cap is added to the 5′ end, which protects the mRNA and helps ribosome attachment; a poly-A tail is added to the 3′ end, which protects the mRNA from degradation and aids export; introns are removed and exons are joined together by spliceosomes (splicing).
 <!-- id: bio34a1-trp-6 -->
 
 Explanation:
 
-**A939.** During splicing, different combinations of exons from the same pre-mRNA can be retained or removed; this produces different mature mRNAs from one gene, each translated into a different polypeptide, so the number of proteins exceeds the number of genes.
+**A941.** During splicing, different combinations of exons from the same pre-mRNA can be retained or removed; this produces different mature mRNAs from one gene, each translated into a different polypeptide, so the number of proteins exceeds the number of genes.
 <!-- id: bio34a1-trp-7 -->
 
 Explanation:
 
-**A940.** Prokaryotes lack a membrane-bound nucleus, so ribosomes can access mRNA as soon as it is made (eukaryotes separate transcription in the nucleus from translation in the cytoplasm); as a consequence, prokaryotic mRNA generally does not undergo splicing, capping and tailing, whereas eukaryotic pre-mRNA is processed in the nucleus before export.
+**A942.** Prokaryotes lack a membrane-bound nucleus, so ribosomes can access mRNA as soon as it is made (eukaryotes separate transcription in the nucleus from translation in the cytoplasm); as a consequence, prokaryotic mRNA generally does not undergo splicing, capping and tailing, whereas eukaryotic pre-mRNA is processed in the nucleus before export.
 <!-- id: bio34a1-trp-8 -->
 
 Explanation:
 
 #### Translation and the genetic code
 
-**A941.** C. most amino acids are coded for by more than one codon.
+**A943.** C. most amino acids are coded for by more than one codon.
 <!-- id: bio34a1-tgc-1 -->
 
 Explanation: Degeneracy (redundancy) means that more than one codon can specify the same amino acid, e.g. GGU, GGC, GGA and GGG all code for glycine. Option B describes universality, and the code is non-overlapping.
 
-**A942.** A. 5′-AUG-3′
+**A944.** A. 5′-AUG-3′
 <!-- id: bio34a1-tgc-2 -->
 
 Explanation: The anticodon pairs complementarily and antiparallel with the codon: 3′-UAC-5′ pairs with 5′-AUG-3′, the start codon for methionine. ATG contains thymine, which is not found in mRNA.
 
-**A943.** D. 299
+**A945.** D. 299
 <!-- id: bio34a1-tgc-3 -->
 
 Explanation: 900 nucleotides = 300 codons. The final codon is a stop codon, which does not code for an amino acid, leaving 299 amino acids (the start codon AUG codes for methionine and is counted).
 
-**A944.** B. Peptide bonds form between adjacent amino acids delivered by tRNA.
+**A946.** B. Peptide bonds form between adjacent amino acids delivered by tRNA.
 <!-- id: bio34a1-tgc-4 -->
 
 Explanation: tRNAs bring specific amino acids to the ribosome, where anticodons pair with mRNA codons and peptide bonds form between adjacent amino acids by condensation. The ribosome reads mRNA 5′ to 3′, and splicing happens in the nucleus.
 
-**A945.** D. Translation stops early, producing a shortened, likely non-functional polypeptide.
+**A947.** D. Translation stops early, producing a shortened, likely non-functional polypeptide.
 <!-- id: bio34a1-tgc-5 -->
 
 Explanation: UAA is a stop codon, so this is a nonsense mutation that terminates translation early. A substitution does not shift the reading frame, which is what an insertion or deletion would do.
 
-**A946.** Each tRNA molecule binds (is charged with) a specific amino acid at its 3′ end; it carries this amino acid to the ribosome; its anticodon pairs complementarily with the matching mRNA codon, ensuring amino acids are added in the order specified by the mRNA.
+**A948.** Each tRNA molecule binds (is charged with) a specific amino acid at its 3′ end; it carries this amino acid to the ribosome; its anticodon pairs complementarily with the matching mRNA codon, ensuring amino acids are added in the order specified by the mRNA.
 <!-- id: bio34a1-tgc-6 -->
 
 Explanation:
 
-**A947.** Met–Ala–Trp–Lys; UGA is a stop codon, which has no matching tRNA, so a release factor binds instead and translation terminates, releasing the polypeptide.
+**A949.** Met–Ala–Trp–Lys; UGA is a stop codon, which has no matching tRNA, so a release factor binds instead and translation terminates, releasing the polypeptide.
 <!-- id: bio34a1-tgc-7 -->
 
 Explanation:
 
-**A948.** The genetic code is universal; the same codons code for the same amino acids in almost all organisms, so bacterial ribosomes and tRNAs translate the jellyfish codons into the same amino acid sequence.
+**A950.** The genetic code is universal; the same codons code for the same amino acids in almost all organisms, so bacterial ribosomes and tRNAs translate the jellyfish codons into the same amino acid sequence.
 <!-- id: bio34a1-tgc-8 -->
 
 Explanation:
 
 #### Gene regulation and the trp operon
 
-**A949.** A. corepressor that binds to the repressor protein, allowing it to bind the operator.
+**A951.** A. corepressor that binds to the repressor protein, allowing it to bind the operator.
 <!-- id: bio34a1-gro-1 -->
 
 Explanation: When tryptophan levels are high, tryptophan binds to the inactive repressor, changing its shape so that it binds the operator and blocks RNA polymerase. Removing a repressor in response to a molecule describes an inducible operon such as lac, not trp.
 
-**A950.** B. Regulatory genes code for proteins such as repressors that control the expression of structural genes.
+**A952.** B. Regulatory genes code for proteins such as repressors that control the expression of structural genes.
 <!-- id: bio34a1-gro-2 -->
 
 Explanation: Regulatory genes (such as trpR) code for proteins that switch other genes on or off. Structural genes (such as trpE–trpA) code for proteins with other cell functions, such as enzymes. Regulatory genes are transcribed to produce their proteins.
 
-**A951.** C. the structural genes continue to be transcribed even though tryptophan is abundant.
+**A953.** C. the structural genes continue to be transcribed even though tryptophan is abundant.
 <!-- id: bio34a1-gro-3 -->
 
 Explanation: Without bound tryptophan, the repressor stays inactive and cannot bind the operator, so RNA polymerase continues to transcribe the structural genes (attenuation may reduce, but not fully stop, transcription). The repressor could only bind the operator when tryptophan is bound.
 
-**A952.** D. the ribosome moves quickly through the leader sequence, allowing a terminator hairpin (regions 3–4) to form so transcription stops.
+**A954.** D. the ribosome moves quickly through the leader sequence, allowing a terminator hairpin (regions 3–4) to form so transcription stops.
 <!-- id: bio34a1-gro-4 -->
 
 Explanation: With plenty of tryptophan-carrying tRNA, the ribosome passes the two trp codons rapidly and covers region 2, so regions 3 and 4 pair to form a terminator hairpin and RNA polymerase detaches. Stalling and antiterminator formation occur when tryptophan is low.
 
-**A953.** A. the added tryptophan acted as a corepressor and also enabled attenuation, both reducing transcription of the structural genes.
+**A955.** A. the added tryptophan acted as a corepressor and also enabled attenuation, both reducing transcription of the structural genes.
 <!-- id: bio34a1-gro-5 -->
 
 Explanation: Added tryptophan binds the repressor so it blocks the operator, and high tryptophan also causes early termination by attenuation; both reduce transcription quickly. Genes are not deleted and the repressor is a protein coded by trpR, not made from tryptophan.
 
-**A954.** When tryptophan is low, no tryptophan binds to the repressor (coded by trpR), so the repressor stays inactive and cannot bind to the operator; RNA polymerase can therefore bind to the promoter and transcribe the structural genes that code for the enzymes that synthesise tryptophan.
+**A956.** When tryptophan is low, no tryptophan binds to the repressor (coded by trpR), so the repressor stays inactive and cannot bind to the operator; RNA polymerase can therefore bind to the promoter and transcribe the structural genes that code for the enzymes that synthesise tryptophan.
 <!-- id: bio34a1-gro-6 -->
 
 Explanation:
 
-**A955.** Making tryptophan-synthesis enzymes requires energy and resources (ATP, amino acids, nucleotides); by switching off the operon when tryptophan is already available, the bacterium avoids wasting resources and can direct them to other processes such as growth and reproduction.
+**A957.** Making tryptophan-synthesis enzymes requires energy and resources (ATP, amino acids, nucleotides); by switching off the operon when tryptophan is already available, the bacterium avoids wasting resources and can direct them to other processes such as growth and reproduction.
 <!-- id: bio34a1-gro-7 -->
 
 Explanation:
 
-**A956.** Transcription and translation are coupled in bacteria, so a ribosome begins translating the leader (trpL) sequence while it is being transcribed; when tryptophan (and tRNA carrying tryptophan) is abundant, the ribosome moves quickly past the trp codons in region 1 and covers region 2; this allows regions 3 and 4 to pair, forming a terminator hairpin loop that causes RNA polymerase to detach before the structural genes are transcribed.
+**A958.** Transcription and translation are coupled in bacteria, so a ribosome begins translating the leader (trpL) sequence while it is being transcribed; when tryptophan (and tRNA carrying tryptophan) is abundant, the ribosome moves quickly past the trp codons in region 1 and covers region 2; this allows regions 3 and 4 to pair, forming a terminator hairpin loop that causes RNA polymerase to detach before the structural genes are transcribed.
 <!-- id: bio34a1-gro-8 -->
 
 Explanation:
 
 #### Protein structure and the proteome
 
-**A957.** C. the sequence of amino acids in the polypeptide chain.
+**A959.** C. the sequence of amino acids in the polypeptide chain.
 <!-- id: bio34a1-psp-1 -->
 
 Explanation: Primary structure is the linear sequence of amino acids joined by peptide bonds. α-helices and β-pleated sheets are secondary structure, 3D shape is tertiary structure and multiple polypeptides is quaternary structure.
 
-**A958.** B. Hydrogen bonds between atoms of the polypeptide backbone
+**A960.** B. Hydrogen bonds between atoms of the polypeptide backbone
 <!-- id: bio34a1-psp-2 -->
 
 Explanation: α-helices and β-pleated sheets are stabilised by hydrogen bonds between the C=O and N–H groups of the backbone. Disulfide bridges and other R-group interactions are mainly associated with tertiary structure.
 
-**A959.** D. Quaternary
+**A961.** D. Quaternary
 <!-- id: bio34a1-psp-3 -->
 
 Explanation: Quaternary structure is the association of two or more polypeptide chains into one functional protein. Myoglobin is a single polypeptide, so its highest level is tertiary structure.
 
-**A960.** A. the complete set of proteins expressed by a cell, tissue or organism at a particular time.
+**A962.** A. the complete set of proteins expressed by a cell, tissue or organism at a particular time.
 <!-- id: bio34a1-psp-4 -->
 
 Explanation: The proteome is the full set of proteins expressed by a cell, tissue or organism at a given time under given conditions. The complete set of genes is the genome. Unlike the genome, the proteome varies between cell types and over time.
 
-**A961.** C. The bacterial enzyme has more stabilising bonds (such as disulfide bridges and ionic bonds) maintaining its tertiary structure.
+**A963.** C. The bacterial enzyme has more stabilising bonds (such as disulfide bridges and ionic bonds) maintaining its tertiary structure.
 <!-- id: bio34a1-psp-5 -->
 
 Explanation: Heat disrupts the weaker bonds that hold tertiary structure, changing the active site (denaturation). Extra stabilising interactions help the bacterial enzyme keep its shape. Peptide bonds are not broken by denaturation, and the genetic code is universal.
 
-**A962.** A condensation reaction occurs between the carboxyl group of one amino acid and the amino group of the next; a molecule of water is released and a covalent peptide bond (C–N) forms between them.
+**A964.** A condensation reaction occurs between the carboxyl group of one amino acid and the amino group of the next; a molecule of water is released and a covalent peptide bond (C–N) forms between them.
 <!-- id: bio34a1-psp-6 -->
 
 Explanation:
 
-**A963.** The change alters the primary structure of the polypeptide; this changes the interactions between R groups (e.g. hydrophobic interactions, ionic bonds) and therefore the way the polypeptide folds into its tertiary structure; if the shape of the active site changes, the substrate may no longer be complementary, so enzyme activity is reduced or lost.
+**A965.** The change alters the primary structure of the polypeptide; this changes the interactions between R groups (e.g. hydrophobic interactions, ionic bonds) and therefore the way the polypeptide folds into its tertiary structure; if the shape of the active site changes, the substrate may no longer be complementary, so enzyme activity is reduced or lost.
 <!-- id: bio34a1-psp-7 -->
 
 Explanation:
 
-**A964.** Different genes are switched on (expressed) or off in different cell types due to gene regulation; in addition, alternative splicing and post-translational modification can differ between cells, so each cell type produces a different set of proteins.
+**A966.** Different genes are switched on (expressed) or off in different cell types due to gene regulation; in addition, alternative splicing and post-translational modification can differ between cells, so each cell type produces a different set of proteins.
 <!-- id: bio34a1-psp-8 -->
 
 Explanation:
 
 #### Protein secretory pathway
 
-**A965.** B. Rough endoplasmic reticulum → transport vesicle → Golgi apparatus → secretory vesicle → plasma membrane
+**A967.** B. Rough endoplasmic reticulum → transport vesicle → Golgi apparatus → secretory vesicle → plasma membrane
 <!-- id: bio34a1-sec-1 -->
 
 Explanation: Secreted proteins are made by ribosomes on the rough ER, enter the ER lumen, travel in transport vesicles to the Golgi apparatus for modification and packaging, and leave in secretory vesicles that fuse with the plasma membrane (exocytosis).
 
-**A966.** C. modify, sort and package proteins into vesicles.
+**A968.** C. modify, sort and package proteins into vesicles.
 <!-- id: bio34a1-sec-2 -->
 
 Explanation: The Golgi apparatus receives proteins from the rough ER, modifies them (for example by adding carbohydrate groups), sorts them and packages them into vesicles. Polypeptide synthesis happens at ribosomes, and ATP comes mainly from mitochondria.
 
-**A967.** A. exocytosis.
+**A969.** A. exocytosis.
 <!-- id: bio34a1-sec-3 -->
 
 Explanation: Exocytosis releases vesicle contents to the outside as the vesicle membrane fuses with the plasma membrane. Endocytosis and phagocytosis bring material into the cell.
 
-**A968.** D. Rough ER, then Golgi apparatus, then secretory vesicles, then outside the cell
+**A970.** D. Rough ER, then Golgi apparatus, then secretory vesicles, then outside the cell
 <!-- id: bio34a1-sec-4 -->
 
 Explanation: The labelled amino acid is built into proteins at ribosomes on the rough ER first, then moves to the Golgi, then into secretory vesicles, and finally outside the cell. Proteins are not made in the nucleus.
 
-**A969.** A. the secreted protein accumulates in the rough ER and is not secreted.
+**A971.** A. the secreted protein accumulates in the rough ER and is not secreted.
 <!-- id: bio34a1-sec-5 -->
 
 Explanation: Without vesicles to carry proteins from the rough ER to the Golgi, the protein builds up in the ER and does not reach the plasma membrane. Transcription in the nucleus is not affected by vesicle transport.
 
-**A970.** Ribosomes attached to the rough ER translate the mRNA, and the growing polypeptide enters the ER lumen; within the ER the polypeptide is folded and may be modified, then packaged into transport vesicles that carry it to the Golgi apparatus.
+**A972.** Ribosomes attached to the rough ER translate the mRNA, and the growing polypeptide enters the ER lumen; within the ER the polypeptide is folded and may be modified, then packaged into transport vesicles that carry it to the Golgi apparatus.
 <!-- id: bio34a1-sec-6 -->
 
 Explanation:
 
-**A971.** Extensive rough ER provides many ribosomes and space to synthesise and fold large amounts of protein for secretion; many mitochondria supply ATP needed for protein synthesis and for vesicle transport and exocytosis.
+**A973.** Extensive rough ER provides many ribosomes and space to synthesise and fold large amounts of protein for secretion; many mitochondria supply ATP needed for protein synthesis and for vesicle transport and exocytosis.
 <!-- id: bio34a1-sec-7 -->
 
 Explanation:
 
-**A972.** The gene is transcribed into mRNA in the nucleus, which is processed and exported to the cytoplasm; the mRNA is translated by ribosomes on the rough ER and the polypeptide enters the ER lumen where it folds, then travels in a transport vesicle to the Golgi apparatus; the Golgi modifies and packages the protein into a secretory vesicle, which moves to and fuses with the plasma membrane, releasing the protein by exocytosis.
+**A974.** The gene is transcribed into mRNA in the nucleus, which is processed and exported to the cytoplasm; the mRNA is translated by ribosomes on the rough ER and the polypeptide enters the ER lumen where it folds, then travels in a transport vesicle to the Golgi apparatus; the Golgi modifies and packages the protein into a secretory vesicle, which moves to and fuses with the plasma membrane, releasing the protein by exocytosis.
 <!-- id: bio34a1-sec-8 -->
 
 Explanation:
@@ -5062,210 +5167,210 @@ Explanation:
 
 #### Enzymes for DNA manipulation
 
-**A973.** B. sticky ends with single-stranded 5′-AATT overhangs.
+**A975.** B. sticky ends with single-stranded 5′-AATT overhangs.
 <!-- id: bio34a1-edm-1 -->
 
 Explanation: Cutting G^AATTC on both antiparallel strands leaves staggered cuts with complementary 5′-AATT single-stranded overhangs (sticky ends). Blunt ends occur when both strands are cut at the same position, e.g. SmaI.
 
-**A974.** C. Reverse transcriptase
+**A976.** C. Reverse transcriptase
 <!-- id: bio34a1-edm-2 -->
 
 Explanation: Reverse transcriptase synthesises complementary DNA (cDNA) from an mRNA template. Since mature mRNA has had its introns removed, the cDNA lacks introns, which is useful for expressing human genes in bacteria.
 
-**A975.** D. join DNA fragments by forming phosphodiester bonds in the sugar-phosphate backbone.
+**A977.** D. join DNA fragments by forming phosphodiester bonds in the sugar-phosphate backbone.
 <!-- id: bio34a1-edm-3 -->
 
 Explanation: DNA ligase catalyses formation of phosphodiester bonds between adjacent nucleotides, sealing the backbone of joined fragments. Cutting at recognition sites is done by restriction enzymes; copying is done by DNA polymerase.
 
-**A976.** A. Linear: 4 fragments; circular: 3 fragments
+**A978.** A. Linear: 4 fragments; circular: 3 fragments
 <!-- id: bio34a1-edm-4 -->
 
 Explanation: Cutting a linear molecule n times produces n + 1 fragments (4), whereas cutting a circular molecule n times produces n fragments (3), because there are no free ends to begin with.
 
-**A977.** B. Using the same enzyme produces complementary sticky ends that can base pair with each other.
+**A979.** B. Using the same enzyme produces complementary sticky ends that can base pair with each other.
 <!-- id: bio34a1-edm-5 -->
 
 Explanation: Cutting both with the same restriction enzyme produces complementary sticky ends, so the gene and plasmid ends can base pair by hydrogen bonding before ligase seals the backbone. Restriction enzymes do not join DNA.
 
-**A978.** DNA polymerase synthesises a new DNA strand by adding free nucleotides one at a time, complementary to a template strand, to the 3′ end of a growing strand/primer; DNA ligase joins two existing DNA fragments together by forming a phosphodiester bond between them, and does not use a template.
+**A980.** DNA polymerase synthesises a new DNA strand by adding free nucleotides one at a time, complementary to a template strand, to the 3′ end of a growing strand/primer; DNA ligase joins two existing DNA fragments together by forming a phosphodiester bond between them, and does not use a template.
 <!-- id: bio34a1-edm-6 -->
 
 Explanation:
 
-**A979.** Restriction enzymes evolved as a defence against bacteriophages, cutting invading viral DNA at specific recognition sites; the bacteria's own DNA is protected because its recognition sites are chemically modified (methylated), so the enzyme cannot cut them.
+**A981.** Restriction enzymes evolved as a defence against bacteriophages, cutting invading viral DNA at specific recognition sites; the bacteria's own DNA is protected because its recognition sites are chemically modified (methylated), so the enzyme cannot cut them.
 <!-- id: bio34a1-edm-7 -->
 
 Explanation:
 
-**A980.** Probability = (1/4)⁶ = 1/4096, so on average once every 4096 bp; a four-base-pair site has a probability of (1/4)⁴ = 1/256, occurring once every 256 bp on average; it therefore occurs more often, cutting the DNA at more sites and producing more, smaller fragments.
+**A982.** Probability = (1/4)⁶ = 1/4096, so on average once every 4096 bp; a four-base-pair site has a probability of (1/4)⁴ = 1/256, occurring once every 256 bp on average; it therefore occurs more often, cutting the DNA at more sites and producing more, smaller fragments.
 <!-- id: bio34a1-edm-8 -->
 
 Explanation:
 
 #### CRISPR-Cas9
 
-**A981.** C. provide an adaptive defence against bacteriophages by recognising and cutting viral DNA.
+**A983.** C. provide an adaptive defence against bacteriophages by recognising and cutting viral DNA.
 <!-- id: bio34a1-cas-1 -->
 
 Explanation: CRISPR-Cas is a bacterial immune system: fragments of phage DNA are stored as spacers in the CRISPR array, and on reinfection the transcribed crRNA guides Cas9 to cut the matching viral DNA. It is not involved in operon regulation or conjugation.
 
-**A982.** D. base pair with a complementary target DNA sequence and direct Cas9 to that site.
+**A984.** D. base pair with a complementary target DNA sequence and direct Cas9 to that site.
 <!-- id: bio34a1-cas-2 -->
 
 Explanation: The sgRNA contains a spacer sequence (about 20 nucleotides) complementary to the target DNA and binds Cas9, guiding it to the correct location. Cas9 is the endonuclease that cuts DNA; repair is done by the cell.
 
-**A983.** A. protospacer adjacent motif (PAM).
+**A985.** A. protospacer adjacent motif (PAM).
 <!-- id: bio34a1-cas-3 -->
 
 Explanation: Cas9 must recognise a PAM (5′-NGG-3′ for S. pyogenes Cas9) adjacent to the target before it cuts. This prevents bacteria from cutting the spacers in their own CRISPR array, which lack PAMs.
 
-**A984.** B. small insertions or deletions that can shift the reading frame and knock out the gene.
+**A986.** B. small insertions or deletions that can shift the reading frame and knock out the gene.
 <!-- id: bio34a1-cas-4 -->
 
 Explanation: NHEJ joins broken ends without a template and is error-prone, often adding or deleting a few nucleotides. These indels can cause a frameshift and a non-functional protein (a gene knockout). Precise insertion requires homology-directed repair with a template.
 
-**A985.** D. Cas9 will not cut the target, even though the sgRNA is complementary, because no PAM is present.
+**A987.** D. Cas9 will not cut the target, even though the sgRNA is complementary, because no PAM is present.
 <!-- id: bio34a1-cas-5 -->
 
 Explanation: Cas9 requires a PAM adjacent to the target sequence to cut. Without one, no double-stranded break is made at that site. Cas9 does not cut randomly; it is directed by sgRNA complementarity plus the PAM.
 
-**A986.** When a bacteriophage injects its DNA, Cas proteins (Cas1 and Cas2) cut out a short segment of the viral DNA; this segment is inserted as a new spacer into the bacterium's CRISPR array between repeat sequences; on a later infection the array is transcribed into crRNA, which guides Cas9 to the matching viral DNA so it is cut and destroyed.
+**A988.** When a bacteriophage injects its DNA, Cas proteins (Cas1 and Cas2) cut out a short segment of the viral DNA; this segment is inserted as a new spacer into the bacterium's CRISPR array between repeat sequences; on a later infection the array is transcribed into crRNA, which guides Cas9 to the matching viral DNA so it is cut and destroyed.
 <!-- id: bio34a1-cas-6 -->
 
 Explanation:
 
-**A987.** After Cas9 makes a double-stranded break at the target site, scientists supply a DNA template containing the desired sequence flanked by regions homologous to either side of the break; the cell uses homology-directed repair to copy the template into the break, inserting the corrected sequence.
+**A989.** After Cas9 makes a double-stranded break at the target site, scientists supply a DNA template containing the desired sequence flanked by regions homologous to either side of the break; the cell uses homology-directed repair to copy the template into the break, inserting the corrected sequence.
 <!-- id: bio34a1-cas-7 -->
 
 Explanation:
 
-**A988.** Advantage: it is cheaper, faster and more precise/easily targeted, since only the sgRNA sequence needs to be changed to target a new gene; concern: off-target cuts could cause harmful mutations, and edits to embryos are heritable (germline) and passed on to future generations without their consent.
+**A990.** Advantage: it is cheaper, faster and more precise/easily targeted, since only the sgRNA sequence needs to be changed to target a new gene; concern: off-target cuts could cause harmful mutations, and edits to embryos are heritable (germline) and passed on to future generations without their consent.
 <!-- id: bio34a1-cas-8 -->
 
 Explanation:
 
 #### PCR and gel electrophoresis
 
-**A989.** C. Denaturation 95 °C; annealing 55 °C; extension 72 °C
+**A991.** C. Denaturation 95 °C; annealing 55 °C; extension 72 °C
 <!-- id: bio34a1-pcr-1 -->
 
 Explanation: DNA strands separate at about 95 °C, primers anneal at about 50–65 °C (e.g. 55 °C), and Taq polymerase extends the primers at its optimum of about 72 °C.
 
-**A990.** A. is stable at the high temperatures used to denature DNA.
+**A992.** A. is stable at the high temperatures used to denature DNA.
 <!-- id: bio34a1-pcr-2 -->
 
 Explanation: Taq polymerase comes from the thermophilic bacterium Thermus aquaticus, so it does not denature at around 95 °C and is not destroyed in each cycle. It still requires primers.
 
-**A991.** D. 5120
+**A993.** D. 5120
 <!-- id: bio34a1-pcr-3 -->
 
 Explanation: Copies = initial × 2ⁿ = 5 × 2¹⁰ = 5 × 1024 = 5120. 1024 is the result from a single starting copy.
 
-**A992.** B. the phosphate groups in the DNA backbone are negatively charged.
+**A994.** B. the phosphate groups in the DNA backbone are negatively charged.
 <!-- id: bio34a1-pcr-4 -->
 
 Explanation: DNA carries a negative charge from its phosphate groups, so it migrates towards the positive electrode (anode). Fragment size affects speed through the gel matrix, not the direction of movement.
 
-**A993.** C. 200 bp
+**A995.** C. 200 bp
 <!-- id: bio34a1-pcr-5 -->
 
 Explanation: Smaller fragments travel further through the gel. A band between the 300 bp and 100 bp markers is between those sizes, so about 200 bp. 400 bp would lie between the 300 and 500 bp bands.
 
-**A994.** Primers are short single-stranded DNA sequences complementary to the ends of the target region, providing a 3′ end from which DNA polymerase can begin adding nucleotides; two primers are needed because each binds to a different strand (forward and reverse) at opposite ends of the target, so both strands are copied and the region between them is amplified.
+**A996.** Primers are short single-stranded DNA sequences complementary to the ends of the target region, providing a 3′ end from which DNA polymerase can begin adding nucleotides; two primers are needed because each binds to a different strand (forward and reverse) at opposite ends of the target, so both strands are copied and the region between them is amplified.
 <!-- id: bio34a1-pcr-6 -->
 
 Explanation:
 
-**A995.** PCR with primers flanking specific STR loci is used to amplify these regions from the small amounts of DNA in each sample; because individuals have different numbers of repeats, the amplified fragments differ in length; the fragments are separated by size using gel electrophoresis and the banding patterns of the crime scene sample and suspect are compared (matching bands at all loci indicate a match).
+**A997.** PCR with primers flanking specific STR loci is used to amplify these regions from the small amounts of DNA in each sample; because individuals have different numbers of repeats, the amplified fragments differ in length; the fragments are separated by size using gel electrophoresis and the banding patterns of the crime scene sample and suspect are compared (matching bands at all loci indicate a match).
 <!-- id: bio34a1-pcr-7 -->
 
 Explanation:
 
-**A996.** Without a ladder of known fragment sizes, the sizes of the sample fragments cannot be determined (only their relative positions); a negative control (PCR reaction with no template DNA) should also be run to check that reagents are not contaminated with DNA.
+**A998.** Without a ladder of known fragment sizes, the sizes of the sample fragments cannot be determined (only their relative positions); a negative control (PCR reaction with no template DNA) should also be run to check that reagents are not contaminated with DNA.
 <!-- id: bio34a1-pcr-8 -->
 
 Explanation:
 
 #### Recombinant plasmids and transformation
 
-**A997.** D. are small circular DNA molecules that replicate independently and can carry inserted genes.
+**A999.** D. are small circular DNA molecules that replicate independently and can carry inserted genes.
 <!-- id: bio34a1-rpt-1 -->
 
 Explanation: Plasmids are small, circular, double-stranded DNA molecules with their own origin of replication, so they copy independently of the chromosome and can carry a gene of interest into a host cell.
 
-**A998.** A. Treating cells with calcium chloride and applying a heat shock
+**A1000.** A. Treating cells with calcium chloride and applying a heat shock
 <!-- id: bio34a1-rpt-2 -->
 
 Explanation: Calcium chloride treatment followed by a brief heat shock (e.g. 42 °C) makes the bacterial membrane more permeable to plasmids. Electroporation is another method. Restriction enzymes cut DNA, not cells.
 
-**A999.** B. have taken up a plasmid, which may or may not contain the gene of interest.
+**A1001.** B. have taken up a plasmid, which may or may not contain the gene of interest.
 <!-- id: bio34a1-rpt-3 -->
 
 Explanation: Only bacteria containing a plasmid (with its ampicillin-resistance gene) survive. Both recombinant and non-recombinant plasmids carry the resistance gene, so a second marker (e.g. lacZ) is needed to identify colonies with the insert.
 
-**A1000.** C. took up a recombinant plasmid in which the insert disrupted lacZ.
+**A1002.** C. took up a recombinant plasmid in which the insert disrupted lacZ.
 <!-- id: bio34a1-rpt-4 -->
 
 Explanation: Inserting the gene into lacZ disrupts it, so no functional β-galactosidase is made and X-gal is not broken down into a blue product, leaving white colonies. Blue colonies contain plasmids without the insert. Bacteria with no plasmid do not grow on ampicillin.
 
-**A1001.** D. The human gene contains introns, and bacteria cannot remove introns from mRNA.
+**A1003.** D. The human gene contains introns, and bacteria cannot remove introns from mRNA.
 <!-- id: bio34a1-rpt-5 -->
 
 Explanation: Bacteria lack the spliceosomes needed to remove introns, so a genomic eukaryotic gene would be translated incorrectly. cDNA (from mature mRNA) or synthetic DNA lacks introns. The genetic code is universal, so the codons themselves are not the problem.
 
-**A1002.** The gene of interest and the plasmid are cut with the same restriction enzyme to produce complementary sticky ends; the gene and plasmid are mixed so their sticky ends base pair by hydrogen bonding; DNA ligase is added to form phosphodiester bonds, sealing the gene into the plasmid to form a recombinant plasmid.
+**A1004.** The gene of interest and the plasmid are cut with the same restriction enzyme to produce complementary sticky ends; the gene and plasmid are mixed so their sticky ends base pair by hydrogen bonding; DNA ligase is added to form phosphodiester bonds, sealing the gene into the plasmid to form a recombinant plasmid.
 <!-- id: bio34a1-rpt-6 -->
 
 Explanation:
 
-**A1003.** Transformation is inefficient because plasmids must cross the cell membrane and wall, which only happens in a small fraction of cells even after heat shock or electroporation; a selectable marker such as an antibiotic-resistance gene on the plasmid allows only transformed bacteria to grow on agar containing that antibiotic.
+**A1005.** Transformation is inefficient because plasmids must cross the cell membrane and wall, which only happens in a small fraction of cells even after heat shock or electroporation; a selectable marker such as an antibiotic-resistance gene on the plasmid allows only transformed bacteria to grow on agar containing that antibiotic.
 <!-- id: bio34a1-rpt-7 -->
 
 Explanation:
 
-**A1004.** Any two: the gene was inserted in the reverse orientation relative to the promoter, so it is not transcribed correctly; the plasmid lacks a bacterial promoter or ribosome binding site upstream of the gene; the gene contains introns that bacteria cannot remove; the protein is degraded by bacterial proteases or requires post-translational modification the bacteria cannot perform.
+**A1006.** Any two: the gene was inserted in the reverse orientation relative to the promoter, so it is not transcribed correctly; the plasmid lacks a bacterial promoter or ribosome binding site upstream of the gene; the gene contains introns that bacteria cannot remove; the protein is degraded by bacterial proteases or requires post-translational modification the bacteria cannot perform.
 <!-- id: bio34a1-rpt-8 -->
 
 Explanation:
 
 #### GMOs and transgenic organisms in agriculture
 
-**A1005.** A. A transgenic organism contains a gene that has been transferred from a different species.
+**A1007.** A. A transgenic organism contains a gene that has been transferred from a different species.
 <!-- id: bio34a1-gmo-1 -->
 
 Explanation: All transgenic organisms are GMOs, but a GMO is only transgenic if it contains DNA from another species. Switching off an organism's own gene (e.g. with CRISPR) produces a GMO that is not transgenic.
 
-**A1006.** B. produces a protein that is toxic to certain caterpillar pests, reducing the need for insecticide sprays.
+**A1008.** B. produces a protein that is toxic to certain caterpillar pests, reducing the need for insecticide sprays.
 <!-- id: bio34a1-gmo-2 -->
 
 Explanation: The Bt gene codes for a Cry protein that is toxic to particular insect larvae such as the cotton bollworm, so growers spray less insecticide. Glyphosate tolerance is a different trait found in herbicide-tolerant crops such as some canola.
 
-**A1007.** C. synthesise β-carotene, a precursor of vitamin A.
+**A1009.** C. synthesise β-carotene, a precursor of vitamin A.
 <!-- id: bio34a1-gmo-3 -->
 
 Explanation: Genes from daffodil (or maize) and a soil bacterium were inserted so that rice endosperm produces β-carotene, which the body converts to vitamin A. Herbicide resistance and salt tolerance are different traits.
 
-**A1008.** D. naturally transfers a section of DNA from its Ti plasmid into the plant cell's genome.
+**A1010.** D. naturally transfers a section of DNA from its Ti plasmid into the plant cell's genome.
 <!-- id: bio34a1-gmo-4 -->
 
 Explanation: Agrobacterium transfers T-DNA from its Ti plasmid into plant chromosomes. Scientists replace tumour-causing genes in the T-DNA with the gene of interest so it is integrated into the plant genome.
 
-**A1009.** A. repeated spraying selected for ryegrass plants that carried variations giving glyphosate resistance, which survived and reproduced.
+**A1011.** A. repeated spraying selected for ryegrass plants that carried variations giving glyphosate resistance, which survived and reproduced.
 <!-- id: bio34a1-gmo-5 -->
 
 Explanation: Glyphosate acts as a selection pressure: resistant ryegrass individuals survive and reproduce, so resistance increases in the population over time. Organisms do not change their genes deliberately, and gene flow to every weed plant is very unlikely.
 
-**A1010.** The gene of interest (with a marker gene) is inserted into the T-DNA region of a Ti plasmid, replacing the tumour-causing genes, using restriction enzymes and ligase; the recombinant plasmid is put into Agrobacterium, which is used to infect plant cells or tissue, transferring the T-DNA into the plant genome; transformed cells are selected (e.g. on antibiotic or herbicide media) and grown by tissue culture into whole plants that carry the gene.
+**A1012.** The gene of interest (with a marker gene) is inserted into the T-DNA region of a Ti plasmid, replacing the tumour-causing genes, using restriction enzymes and ligase; the recombinant plasmid is put into Agrobacterium, which is used to infect plant cells or tissue, transferring the T-DNA into the plant genome; transformed cells are selected (e.g. on antibiotic or herbicide media) and grown by tissue culture into whole plants that carry the gene.
 <!-- id: bio34a1-gmo-6 -->
 
 Explanation:
 
-**A1011.** Benefit: reduced use of broad-spectrum insecticide sprays, protecting non-target insects and reducing costs while increasing yield; risk: target pests may evolve resistance to the Bt toxin through natural selection (managed using refuge crops), or the transgene may spread to related wild plants by cross-pollination.
+**A1013.** Benefit: reduced use of broad-spectrum insecticide sprays, protecting non-target insects and reducing costs while increasing yield; risk: target pests may evolve resistance to the Bt toxin through natural selection (managed using refuge crops), or the transgene may spread to related wild plants by cross-pollination.
 <!-- id: bio34a1-gmo-7 -->
 
 Explanation:
 
-**A1012.** For: GM crops can increase yields, resist pests or drought, or improve nutrition (e.g. Golden Rice), helping feed growing populations; against: patented GM seed may need to be bought each season, increasing costs and dependence of farmers on a few large companies, and some consumers and export markets reject GM products.
+**A1014.** For: GM crops can increase yields, resist pests or drought, or improve nutrition (e.g. Golden Rice), helping feed growing populations; against: patented GM seed may need to be bought each season, increasing costs and dependence of farmers on a few large companies, and some consumers and export markets reject GM products.
 <!-- id: bio34a1-gmo-8 -->
 
 Explanation:
@@ -5274,294 +5379,294 @@ Explanation:
 
 #### Enzymes and coenzymes
 
-**A1013.** D. The active site changes shape slightly as the substrate binds, forming a tighter enzyme–substrate complex
+**A1015.** D. The active site changes shape slightly as the substrate binds, forming a tighter enzyme–substrate complex
 <!-- id: bio34a2-enz-1 -->
 
 Explanation: In the induced fit model the active site is complementary but flexible, moulding around the substrate as it binds. The rigid, exact-match idea describes the older lock-and-key model, and enzymes are not consumed or permanently changed.
 
-**A1014.** A. lowering the activation energy of the reaction
+**A1016.** A. lowering the activation energy of the reaction
 <!-- id: bio34a2-enz-2 -->
 
 Explanation: Enzymes are biological catalysts that provide an alternative pathway with a lower activation energy. They do not supply energy and do not change the final position of equilibrium; they only speed up attainment of it.
 
-**A1015.** C. NADP⁺ → NADPH, produced in the light-dependent stage of photosynthesis
+**A1017.** C. NADP⁺ → NADPH, produced in the light-dependent stage of photosynthesis
 <!-- id: bio34a2-enz-3 -->
 
 Explanation: NADP⁺ accepts electrons and a proton to become NADPH in the light-dependent stage, and NADPH is unloaded in the Calvin cycle. NADH is made in cellular respiration, not the light-independent stage, and the Calvin cycle uses ATP rather than producing it.
 
-**A1016.** B. a non-protein organic molecule that assists an enzyme, often by carrying electrons, protons or chemical groups between reactions
+**A1018.** B. a non-protein organic molecule that assists an enzyme, often by carrying electrons, protons or chemical groups between reactions
 <!-- id: bio34a2-enz-4 -->
 
 Explanation: Coenzymes are organic, non-protein molecules (e.g. NAD⁺, NADP⁺, FAD, ATP/ADP) that bind temporarily and shuttle electrons, protons or phosphate groups between reactions. Inorganic helpers such as Mg²⁺ are cofactors but not coenzymes.
 
-**A1017.** D. B
+**A1019.** D. B
 <!-- id: bio34a2-enz-5 -->
 
 Explanation: E2 converts B into C. Without functional E2, B cannot be converted, so B builds up while C and D are depleted. A still converts to B because E1 is functional.
 
-**A1018.** Enzymes are proteins whose tertiary structure is determined by the sequence of amino acids (primary structure); folding produces an active site with a specific three-dimensional shape and chemical properties (charge, hydrophobicity); only a substrate with a complementary shape and chemistry can bind to the active site to form an enzyme–substrate complex, so each enzyme is specific to one substrate/reaction.
+**A1020.** Enzymes are proteins whose tertiary structure is determined by the sequence of amino acids (primary structure); folding produces an active site with a specific three-dimensional shape and chemical properties (charge, hydrophobicity); only a substrate with a complementary shape and chemistry can bind to the active site to form an enzyme–substrate complex, so each enzyme is specific to one substrate/reaction.
 <!-- id: bio34a2-enz-6 -->
 
 Explanation:
 
-**A1019.** Energy released from catabolic reactions such as cellular respiration is used to add an inorganic phosphate (Pi) to ADP, forming ATP; ATP diffuses to sites where energy is needed; hydrolysis of ATP to ADP + Pi releases energy that drives anabolic or energy-requiring processes such as active transport, muscle contraction or protein synthesis; ADP + Pi are then recycled back to respiration to be reloaded.
+**A1021.** Energy released from catabolic reactions such as cellular respiration is used to add an inorganic phosphate (Pi) to ADP, forming ATP; ATP diffuses to sites where energy is needed; hydrolysis of ATP to ADP + Pi releases energy that drives anabolic or energy-requiring processes such as active transport, muscle contraction or protein synthesis; ADP + Pi are then recycled back to respiration to be reloaded.
 <!-- id: bio34a2-enz-7 -->
 
 Explanation:
 
-**A1020.** Unloaded coenzymes (NAD⁺) accept electrons and hydrogen ions released during glycolysis and the Krebs cycle, becoming loaded (NADH); loaded NADH carries these electrons and protons to the electron transport chain on the inner mitochondrial membrane, where it is unloaded (returning to NAD⁺) and the energy is used to produce ATP.
+**A1022.** Unloaded coenzymes (NAD⁺) accept electrons and hydrogen ions released during glycolysis and the Krebs cycle, becoming loaded (NADH); loaded NADH carries these electrons and protons to the electron transport chain on the inner mitochondrial membrane, where it is unloaded (returning to NAD⁺) and the energy is used to produce ATP.
 <!-- id: bio34a2-enz-8 -->
 
 Explanation:
 
 #### Factors affecting enzymes and inhibition
 
-**A1021.** C. non-competitive inhibitor
+**A1023.** C. non-competitive inhibitor
 <!-- id: bio34a2-inh-1 -->
 
 Explanation: Binding at a site other than the active site (an allosteric site) and altering active site shape is non-competitive inhibition. Competitive inhibitors and substrate analogues bind the active site itself.
 
-**A1022.** A. the enzyme was denatured, permanently changing the shape of its active site
+**A1024.** A. the enzyme was denatured, permanently changing the shape of its active site
 <!-- id: bio34a2-inh-2 -->
 
 Explanation: High temperatures break the hydrogen bonds and other interactions holding the tertiary structure, denaturing the enzyme. The change is irreversible here, so cooling does not restore activity. Peptide bonds (primary structure) are not broken by denaturation.
 
-**A1023.** D. Enzyme concentration (all active sites were occupied)
+**A1025.** D. Enzyme concentration (all active sites were occupied)
 <!-- id: bio34a2-inh-3 -->
 
 Explanation: At the plateau all active sites are saturated, so adding substrate has no effect; the rate is limited by the number of enzyme molecules. Adding more enzyme provides more active sites and raises the maximum rate, confirming enzyme concentration was limiting.
 
-**A1024.** B. increasing the concentration of substrate
+**A1026.** B. increasing the concentration of substrate
 <!-- id: bio34a2-inh-4 -->
 
 Explanation: Competitive inhibitors compete with the substrate for the active site. Raising substrate concentration increases the likelihood that substrate, rather than inhibitor, occupies the active site. This does not overcome non-competitive inhibition.
 
-**A1025.** C. the change in pH alters the charges on amino acid R groups, disrupting the bonds that maintain the active site shape
+**A1027.** C. the change in pH alters the charges on amino acid R groups, disrupting the bonds that maintain the active site shape
 <!-- id: bio34a2-inh-5 -->
 
 Explanation: Changes in pH alter the ionisation of R groups, disrupting ionic and hydrogen bonds that hold the tertiary structure, so the active site loses its complementary shape. Each enzyme has an optimum pH matched to its environment.
 
-**A1026.** An irreversible inhibitor forms strong (often covalent) bonds with the enzyme, permanently inactivating it; a reversible inhibitor binds with weak bonds and can detach, so enzyme activity can be restored; because the insect's acetylcholinesterase is permanently inactivated, enzyme activity cannot recover (new enzyme must be synthesised), so nerve function fails and the insect dies.
+**A1028.** An irreversible inhibitor forms strong (often covalent) bonds with the enzyme, permanently inactivating it; a reversible inhibitor binds with weak bonds and can detach, so enzyme activity can be restored; because the insect's acetylcholinesterase is permanently inactivated, enzyme activity cannot recover (new enzyme must be synthesised), so nerve function fails and the insect dies.
 <!-- id: bio34a2-inh-6 -->
 
 Explanation:
 
-**A1027.** At 10 °C the enzyme and substrate molecules have low kinetic energy, so there are fewer successful collisions between substrate and active site and fewer enzyme–substrate complexes form per unit time, giving low activity; the enzyme is not denatured at 10 °C, so activity would increase if warmed; at 60 °C heat disrupts the hydrogen bonds maintaining tertiary structure, so the enzyme denatures, the active site loses its shape and substrate can no longer bind, so activity is near zero.
+**A1029.** At 10 °C the enzyme and substrate molecules have low kinetic energy, so there are fewer successful collisions between substrate and active site and fewer enzyme–substrate complexes form per unit time, giving low activity; the enzyme is not denatured at 10 °C, so activity would increase if warmed; at 60 °C heat disrupts the hydrogen bonds maintaining tertiary structure, so the enzyme denatures, the active site loses its shape and substrate can no longer bind, so activity is near zero.
 <!-- id: bio34a2-inh-7 -->
 
 Explanation:
 
-**A1028.** The final product of a pathway binds to (often allosterically inhibits) an enzyme early in the pathway, reducing its activity when product levels are high; this prevents over-production of the product and avoids wasting substrate and energy, with the pathway resuming when product levels fall.
+**A1030.** The final product of a pathway binds to (often allosterically inhibits) an enzyme early in the pathway, reducing its activity when product levels are high; this prevents over-production of the product and avoids wasting substrate and energy, with the pathway resuming when product levels fall.
 <!-- id: bio34a2-inh-8 -->
 
 Explanation:
 
 #### Photosynthesis
 
-**A1029.** A. thylakoid membranes of the chloroplast
+**A1031.** A. thylakoid membranes of the chloroplast
 <!-- id: bio34a2-ps-1 -->
 
 Explanation: Chlorophyll and the electron transport proteins of the light-dependent stage are embedded in the thylakoid membranes (stacked into grana). The stroma is the site of the light-independent stage (Calvin cycle).
 
-**A1030.** D. Inputs: CO₂, NADPH, ATP. Outputs: glucose, NADP⁺, ADP + Pi
+**A1032.** D. Inputs: CO₂, NADPH, ATP. Outputs: glucose, NADP⁺, ADP + Pi
 <!-- id: bio34a2-ps-2 -->
 
 Explanation: The Calvin cycle fixes CO₂ using energy from ATP and electrons/protons from NADPH, producing glucose and returning NADP⁺ and ADP + Pi to the light-dependent stage. The option with H₂O, NADP⁺ and ADP + Pi as inputs describes the light-dependent stage.
 
-**A1031.** D. Oxygen gas released from the leaf
+**A1033.** D. Oxygen gas released from the leaf
 <!-- id: bio34a2-ps-3 -->
 
 Explanation: In the light-dependent stage, water is split (photolysis) to provide electrons and H⁺; the oxygen atoms from water are released as O₂. The oxygen atoms in glucose come from CO₂.
 
-**A1032.** A. the supply of ATP and NADPH from the light-dependent stage stops
+**A1034.** A. the supply of ATP and NADPH from the light-dependent stage stops
 <!-- id: bio34a2-ps-4 -->
 
 Explanation: The Calvin cycle does not use light directly, but it depends on ATP and NADPH from the light-dependent stage. In darkness these are no longer produced, so the light-independent reactions slow and stop once existing supplies are used.
 
-**A1033.** C. CO₂ concentration
+**A1035.** C. CO₂ concentration
 <!-- id: bio34a2-ps-5 -->
 
 Explanation: At the plateau, increasing light has no effect, so light is not limiting. Because adding CO₂ increased the rate, CO₂ concentration was the factor limiting the Calvin cycle at that point.
 
-**A1034.** Rubisco is the enzyme in the stroma that catalyses carbon fixation, combining CO₂ with a 5-carbon compound (RuBP) at the start of the Calvin cycle; like other enzymes it has an optimum temperature; below the optimum, fewer successful collisions occur so the rate is slower, and above the optimum the enzyme begins to denature (and binds O₂ more readily), reducing the rate of carbon fixation.
+**A1036.** Rubisco is the enzyme in the stroma that catalyses carbon fixation, combining CO₂ with a 5-carbon compound (RuBP) at the start of the Calvin cycle; like other enzymes it has an optimum temperature; below the optimum, fewer successful collisions occur so the rate is slower, and above the optimum the enzyme begins to denature (and binds O₂ more readily), reducing the rate of carbon fixation.
 <!-- id: bio34a2-ps-6 -->
 
 Explanation:
 
-**A1035.** 6CO₂ + 12H₂O → C₆H₁₂O₆ + 6O₂ + 6H₂O (in the presence of light and chlorophyll; 6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂ also accepted); water is split in the light-dependent stage in the thylakoid membranes (grana); carbon dioxide is fixed in the light-independent stage (Calvin cycle) in the stroma.
+**A1037.** 6CO₂ + 12H₂O → C₆H₁₂O₆ + 6O₂ + 6H₂O (in the presence of light and chlorophyll; 6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂ also accepted); water is split in the light-dependent stage in the thylakoid membranes (grana); carbon dioxide is fixed in the light-independent stage (Calvin cycle) in the stroma.
 <!-- id: bio34a2-ps-7 -->
 
 Explanation:
 
-**A1036.** The light-dependent stage produces ATP and NADPH, which are required to power and reduce CO₂ in the light-independent stage; the light-independent stage regenerates ADP + Pi and NADP⁺, which must return to the thylakoids for the light-dependent stage to continue, so neither stage can continue for long without the other.
+**A1038.** The light-dependent stage produces ATP and NADPH, which are required to power and reduce CO₂ in the light-independent stage; the light-independent stage regenerates ADP + Pi and NADP⁺, which must return to the thylakoids for the light-dependent stage to continue, so neither stage can continue for long without the other.
 <!-- id: bio34a2-ps-8 -->
 
 Explanation:
 
 #### C3, C4 and CAM plants
 
-**A1037.** B. rubisco binds oxygen instead of carbon dioxide, reducing the efficiency of carbon fixation
+**A1039.** B. rubisco binds oxygen instead of carbon dioxide, reducing the efficiency of carbon fixation
 <!-- id: bio34a2-c4-1 -->
 
 Explanation: Rubisco can bind O₂ as well as CO₂. When O₂ binds, energy and fixed carbon are wasted and CO₂ is released, lowering photosynthetic efficiency. PEP carboxylase does not bind O₂, which is why C4 plants use it.
 
-**A1038.** D. spatially separating initial CO₂ fixation in mesophyll cells from the Calvin cycle in bundle sheath cells
+**A1040.** D. spatially separating initial CO₂ fixation in mesophyll cells from the Calvin cycle in bundle sheath cells
 <!-- id: bio34a2-c4-2 -->
 
 Explanation: In C4 plants PEP carboxylase fixes CO₂ into a 4-carbon compound in mesophyll cells; this is moved to bundle sheath cells, where CO₂ is released at high concentration around rubisco. Separating stages in time (night/day) describes CAM plants.
 
-**A1039.** C. CO₂ is fixed into a 4-carbon acid at night and released to rubisco for the Calvin cycle during the day
+**A1041.** C. CO₂ is fixed into a 4-carbon acid at night and released to rubisco for the Calvin cycle during the day
 <!-- id: bio34a2-c4-3 -->
 
 Explanation: Pineapple is a CAM plant. At night, PEP carboxylase fixes CO₂ into organic acids (malate) stored in vacuoles. During the day, with stomata closed, CO₂ is released internally and enters the Calvin cycle, which needs ATP and NADPH from light.
 
-**A1040.** A. A hot, arid desert with very low water availability
+**A1042.** A. A hot, arid desert with very low water availability
 <!-- id: bio34a2-c4-4 -->
 
 Explanation: CAM plants keep stomata closed during the hot day, greatly reducing water loss while still fixing carbon. This trade-off is most beneficial in hot, dry environments. In cool, moist conditions C3 plants are generally more efficient.
 
-**A1041.** D. at lower temperatures photorespiration in C3 plants is low, so the extra ATP cost of the C4 pathway is not offset
+**A1043.** D. at lower temperatures photorespiration in C3 plants is low, so the extra ATP cost of the C4 pathway is not offset
 <!-- id: bio34a2-c4-5 -->
 
 Explanation: Concentrating CO₂ in C4 plants costs extra ATP. When it is cool, rubisco binds O₂ less often and stomata can stay open, so C3 plants lose little to photorespiration and avoid this energy cost.
 
-**A1042.** In hot, dry conditions C3 plants close their stomata to reduce water loss by transpiration; this prevents CO₂ from diffusing into the leaf while O₂ produced by the light-dependent stage builds up, so the ratio of O₂ to CO₂ around rubisco increases; rubisco therefore binds O₂ more often (and its affinity for O₂ relative to CO₂ increases at higher temperatures), increasing photorespiration and reducing glucose production.
+**A1044.** In hot, dry conditions C3 plants close their stomata to reduce water loss by transpiration; this prevents CO₂ from diffusing into the leaf while O₂ produced by the light-dependent stage builds up, so the ratio of O₂ to CO₂ around rubisco increases; rubisco therefore binds O₂ more often (and its affinity for O₂ relative to CO₂ increases at higher temperatures), increasing photorespiration and reducing glucose production.
 <!-- id: bio34a2-c4-6 -->
 
 Explanation:
 
-**A1043.** Similarity: both first fix CO₂ using PEP carboxylase (which does not bind O₂) into a 4-carbon compound, later releasing CO₂ to rubisco for the Calvin cycle; difference: C4 plants separate the two steps spatially (mesophyll and bundle sheath cells) during the day, whereas CAM plants separate them in time (CO₂ fixed at night, Calvin cycle during the day) within the same cell.
+**A1045.** Similarity: both first fix CO₂ using PEP carboxylase (which does not bind O₂) into a 4-carbon compound, later releasing CO₂ to rubisco for the Calvin cycle; difference: C4 plants separate the two steps spatially (mesophyll and bundle sheath cells) during the day, whereas CAM plants separate them in time (CO₂ fixed at night, Calvin cycle during the day) within the same cell.
 <!-- id: bio34a2-c4-7 -->
 
 Explanation:
 
-**A1044.** Recommend the C4 crop; in hot, sunny, dry conditions stomata may partially close, and a C3 crop would suffer high photorespiration, reducing yield; the C4 crop concentrates CO₂ around rubisco in bundle sheath cells, so photorespiration is minimised and it can photosynthesise efficiently with stomata only partly open, giving higher yield and better water use efficiency.
+**A1046.** Recommend the C4 crop; in hot, sunny, dry conditions stomata may partially close, and a C3 crop would suffer high photorespiration, reducing yield; the C4 crop concentrates CO₂ around rubisco in bundle sheath cells, so photorespiration is minimised and it can photosynthesise efficiently with stomata only partly open, giving higher yield and better water use efficiency.
 <!-- id: bio34a2-c4-8 -->
 
 Explanation:
 
 #### Cellular respiration
 
-**A1045.** B. cytosol
+**A1047.** B. cytosol
 <!-- id: bio34a2-cr-1 -->
 
 Explanation: Glycolysis occurs in the cytosol and does not need oxygen. The Krebs cycle occurs in the mitochondrial matrix and the electron transport chain on the inner mitochondrial membrane (cristae).
 
-**A1046.** C. 2 pyruvate, 2 ATP and 2 NADH
+**A1048.** C. 2 pyruvate, 2 ATP and 2 NADH
 <!-- id: bio34a2-cr-2 -->
 
 Explanation: Glycolysis splits glucose into 2 pyruvate, producing a net 2 ATP (4 made, 2 used) and 2 NADH. CO₂ is released in the link reaction and Krebs cycle, not glycolysis.
 
-**A1047.** A. is the final electron acceptor at the end of the electron transport chain, combining with electrons and H⁺ to form water
+**A1049.** A. is the final electron acceptor at the end of the electron transport chain, combining with electrons and H⁺ to form water
 <!-- id: bio34a2-cr-3 -->
 
 Explanation: At the end of the electron transport chain, O₂ accepts electrons and H⁺ to form H₂O. Without O₂ the chain stops, NADH cannot be unloaded and most ATP production ceases. The CO₂ released in the Krebs cycle comes from the carbon skeletons of the fuel molecules.
 
-**A1048.** D. The concentration of NADH would increase and ATP production would fall sharply
+**A1050.** D. The concentration of NADH would increase and ATP production would fall sharply
 <!-- id: bio34a2-cr-4 -->
 
 Explanation: If the chain is blocked, NADH and FADH₂ cannot be unloaded, so NADH accumulates and NAD⁺ is depleted. The electron transport chain produces most ATP, so ATP levels fall sharply. Glycolysis does not need oxygen directly.
 
-**A1049.** D. Electron transport chain, on the inner mitochondrial membrane (cristae)
+**A1051.** D. Electron transport chain, on the inner mitochondrial membrane (cristae)
 <!-- id: bio34a2-cr-5 -->
 
 Explanation: Glycolysis and the Krebs cycle each produce only 2 ATP per glucose. The electron transport chain on the cristae uses energy from loaded coenzymes to produce the large majority of ATP (approximately 26–34 ATP).
 
-**A1050.** Location: mitochondrial matrix; inputs: acetyl CoA (derived from 2 pyruvate), NAD⁺, FAD, ADP + Pi; outputs: CO₂ (released as waste), 2 ATP, loaded coenzymes NADH and FADH₂ (which carry electrons and H⁺ to the electron transport chain).
+**A1052.** Location: mitochondrial matrix; inputs: acetyl CoA (derived from 2 pyruvate), NAD⁺, FAD, ADP + Pi; outputs: CO₂ (released as waste), 2 ATP, loaded coenzymes NADH and FADH₂ (which carry electrons and H⁺ to the electron transport chain).
 <!-- id: bio34a2-cr-6 -->
 
 Explanation:
 
-**A1051.** More mitochondria means more sites for the Krebs cycle and electron transport chain (more cristae surface area), so the rate of aerobic respiration increases; more ATP can be produced aerobically to supply energy for muscle contraction during sustained exercise, reducing reliance on anaerobic respiration and lactate build-up.
+**A1053.** More mitochondria means more sites for the Krebs cycle and electron transport chain (more cristae surface area), so the rate of aerobic respiration increases; more ATP can be produced aerobically to supply energy for muscle contraction during sustained exercise, reducing reliance on anaerobic respiration and lactate build-up.
 <!-- id: bio34a2-cr-7 -->
 
 Explanation:
 
-**A1052.** The electron transport chain proteins and ATP synthase are embedded in the inner mitochondrial membrane; folding into cristae greatly increases the surface area of this membrane, so more electron transport chains and ATP synthase enzymes are present and more ATP can be produced per mitochondrion.
+**A1054.** The electron transport chain proteins and ATP synthase are embedded in the inner mitochondrial membrane; folding into cristae greatly increases the surface area of this membrane, so more electron transport chains and ATP synthase enzymes are present and more ATP can be produced per mitochondrion.
 <!-- id: bio34a2-cr-8 -->
 
 Explanation:
 
 #### Anaerobic respiration and fermentation
 
-**A1053.** A. lactate (lactic acid) and 2 ATP
+**A1055.** A. lactate (lactic acid) and 2 ATP
 <!-- id: bio34a2-an-1 -->
 
 Explanation: Anaerobic respiration in animals converts glucose to lactate, with a net yield of 2 ATP from glycolysis. Ethanol and CO₂ are the products in yeast (alcoholic fermentation). No CO₂ is produced in lactic acid fermentation.
 
-**A1054.** C. regenerate NAD⁺ so that glycolysis can continue
+**A1056.** C. regenerate NAD⁺ so that glycolysis can continue
 <!-- id: bio34a2-an-2 -->
 
 Explanation: Glycolysis requires NAD⁺. Without oxygen the electron transport chain cannot unload NADH, so pyruvate is reduced to lactate or ethanol, unloading NADH back to NAD⁺. No extra ATP is made in this step.
 
-**A1055.** B. cytosol
+**A1057.** B. cytosol
 <!-- id: bio34a2-an-3 -->
 
 Explanation: Both glycolysis and the fermentation step that produces ethanol and CO₂ occur in the cytosol. Mitochondria are not used because the Krebs cycle and electron transport chain depend on oxygen.
 
-**A1056.** D. respiring anaerobically, producing ethanol and CO₂
+**A1058.** D. respiring anaerobically, producing ethanol and CO₂
 <!-- id: bio34a2-an-4 -->
 
 Explanation: Once O₂ is used up, yeast switches to anaerobic respiration (alcoholic fermentation), which still releases CO₂ along with ethanol. Lactate is produced by animal cells and some bacteria, not yeast.
 
-**A1057.** C. produces much less ATP because glucose is only partially broken down
+**A1059.** C. produces much less ATP because glucose is only partially broken down
 <!-- id: bio34a2-an-5 -->
 
 Explanation: Anaerobic respiration yields only 2 ATP per glucose because much of the chemical energy remains in lactate or ethanol. Aerobic respiration fully oxidises glucose to CO₂ and H₂O, producing far more ATP.
 
-**A1058.** Yeast breaks down glucose by glycolysis in the cytosol into 2 pyruvate, producing 2 ATP and 2 NADH; in the absence of oxygen pyruvate is converted into ethanol and CO₂, which regenerates NAD⁺ so glycolysis can continue; advantage: it is a renewable fuel, and the CO₂ released when it burns was recently absorbed by the crop during photosynthesis, so net CO₂ emissions can be lower than for fossil fuels.
+**A1060.** Yeast breaks down glucose by glycolysis in the cytosol into 2 pyruvate, producing 2 ATP and 2 NADH; in the absence of oxygen pyruvate is converted into ethanol and CO₂, which regenerates NAD⁺ so glycolysis can continue; advantage: it is a renewable fuel, and the CO₂ released when it burns was recently absorbed by the crop during photosynthesis, so net CO₂ emissions can be lower than for fossil fuels.
 <!-- id: bio34a2-an-6 -->
 
 Explanation:
 
-**A1059.** Anaerobic respiration produces only 2 ATP per glucose, which cannot meet a high energy demand for long and rapidly uses up glucose; lactate (and associated H⁺) builds up in the muscle, lowering pH, which affects enzyme function and contributes to fatigue, so oxygen is needed to recover.
+**A1061.** Anaerobic respiration produces only 2 ATP per glucose, which cannot meet a high energy demand for long and rapidly uses up glucose; lactate (and associated H⁺) builds up in the muscle, lowering pH, which affects enzyme function and contributes to fatigue, so oxygen is needed to recover.
 <!-- id: bio34a2-an-7 -->
 
 Explanation:
 
-**A1060.** Dough rises due to CO₂ released by yeast respiration (including fermentation); at 30 °C, closer to the optimum temperature of yeast enzymes, molecules have more kinetic energy and enzyme–substrate collisions are more frequent, so the rate of respiration and CO₂ production is faster than at 15 °C.
+**A1062.** Dough rises due to CO₂ released by yeast respiration (including fermentation); at 30 °C, closer to the optimum temperature of yeast enzymes, molecules have more kinetic energy and enzyme–substrate collisions are more frequent, so the rate of respiration and CO₂ production is faster than at 15 °C.
 <!-- id: bio34a2-an-8 -->
 
 Explanation:
 
 #### Biotechnology to improve yield
 
-**A1061.** A. Rubisco with a reduced tendency to bind O₂ relative to CO₂
+**A1063.** A. Rubisco with a reduced tendency to bind O₂ relative to CO₂
 <!-- id: bio34a2-bt-1 -->
 
 Explanation: Reducing rubisco's tendency to bind O₂ would lower photorespiration, so more carbon is fixed into glucose, increasing growth and yield. Increased O₂ binding would worsen photorespiration.
 
-**A1062.** D. direct Cas9 to a specific target DNA sequence by complementary base pairing
+**A1064.** D. direct Cas9 to a specific target DNA sequence by complementary base pairing
 <!-- id: bio34a2-bt-2 -->
 
 Explanation: The guide RNA has a sequence complementary to the target DNA, directing Cas9 to the correct site. Cas9 is the endonuclease that makes the double-stranded cut, adjacent to a PAM sequence.
 
-**A1063.** B. Inserting genes for the C4 pathway enzymes and bundle sheath anatomy so CO₂ is concentrated around rubisco
+**A1065.** B. Inserting genes for the C4 pathway enzymes and bundle sheath anatomy so CO₂ is concentrated around rubisco
 <!-- id: bio34a2-bt-3 -->
 
 Explanation: Research projects aim to engineer C4-like features into rice so CO₂ is concentrated around rubisco, reducing photorespiration and increasing photosynthetic efficiency. The other options would reduce photosynthesis.
 
-**A1064.** C. does not compete directly with food production for crops
+**A1066.** C. does not compete directly with food production for crops
 <!-- id: bio34a2-bt-4 -->
 
 Explanation: Using agricultural waste and non-food biomass avoids diverting food crops (and the land they need) to fuel production. All bioethanol releases CO₂ when burned, and breaking down cellulose requires enzymes (cellulases) before fermentation.
 
-**A1065.** A. yeast can only ferment simple sugars such as glucose, and cellulose is a polysaccharide
+**A1067.** A. yeast can only ferment simple sugars such as glucose, and cellulose is a polysaccharide
 <!-- id: bio34a2-bt-5 -->
 
 Explanation: Cellulose is a polymer of glucose. Yeast lacks cellulases, so enzymes (or other pretreatments) must hydrolyse cellulose into glucose that yeast can take up and ferment to ethanol and CO₂.
 
-**A1066.** A guide RNA complementary to the target gene is designed and delivered with Cas9 into plant cells; Cas9 is guided to the target sequence (next to a PAM) and makes a double-stranded cut; the cell repairs the break by non-homologous end joining, often introducing insertions/deletions that disable the gene; e.g. knocking out a gene that makes the plant susceptible to a disease, or a gene that limits grain size/number, could increase yield.
+**A1068.** A guide RNA complementary to the target gene is designed and delivered with Cas9 into plant cells; Cas9 is guided to the target sequence (next to a PAM) and makes a double-stranded cut; the cell repairs the break by non-homologous end joining, often introducing insertions/deletions that disable the gene; e.g. knocking out a gene that makes the plant susceptible to a disease, or a gene that limits grain size/number, could increase yield.
 <!-- id: bio34a2-bt-6 -->
 
 Explanation:
 
-**A1067.** Factor: photorespiration / the inefficiency of rubisco, which binds O₂ as well as CO₂; approach: gene editing (e.g. CRISPR-Cas9) or genetic modification to produce a rubisco with greater specificity for CO₂, or insert a CO₂-concentrating mechanism (e.g. C4 pathway genes); this would increase the rate of carbon fixation in the Calvin cycle, producing more glucose for growth and increasing yield.
+**A1069.** Factor: photorespiration / the inefficiency of rubisco, which binds O₂ as well as CO₂; approach: gene editing (e.g. CRISPR-Cas9) or genetic modification to produce a rubisco with greater specificity for CO₂, or insert a CO₂-concentrating mechanism (e.g. C4 pathway genes); this would increase the rate of carbon fixation in the Calvin cycle, producing more glucose for growth and increasing yield.
 <!-- id: bio34a2-bt-7 -->
 
 Explanation:
 
-**A1068.** Advantage: it is renewable and the CO₂ released was recently absorbed during photosynthesis, so it can reduce net greenhouse gas emissions compared with fossil fuels; disadvantage: growing sugarcane for fuel uses land, water and fertiliser that could be used for food production, and processing requires energy inputs that reduce the net benefit.
+**A1070.** Advantage: it is renewable and the CO₂ released was recently absorbed during photosynthesis, so it can reduce net greenhouse gas emissions compared with fossil fuels; disadvantage: growing sugarcane for fuel uses land, water and fertiliser that could be used for food production, and processing requires energy inputs that reduce the net benefit.
 <!-- id: bio34a2-bt-8 -->
 
 Explanation:
@@ -5570,294 +5675,294 @@ Explanation:
 
 #### Pathogens and physical and chemical barriers
 
-**A1069.** D. A prion
+**A1071.** D. A prion
 <!-- id: bio34a2-pb-1 -->
 
 Explanation: Prions are misfolded proteins and viruses are also non-cellular. Bacteria, fungi and protozoa are cellular pathogens.
 
-**A1070.** D. chemical barrier that breaks down bacterial cell walls
+**A1072.** D. chemical barrier that breaks down bacterial cell walls
 <!-- id: bio34a2-pb-2 -->
 
 Explanation: Lysozyme is an enzyme that hydrolyses peptidoglycan in bacterial cell walls, making it a chemical barrier in the first line of defence. Physical barriers include skin and mucus; microbiological barriers are normal flora.
 
-**A1071.** A. killed many of the normal bacterial flora that usually outcompete fungi
+**A1073.** A. killed many of the normal bacterial flora that usually outcompete fungi
 <!-- id: bio34a2-pb-3 -->
 
 Explanation: Normal flora act as a microbiological barrier by competing for space and nutrients. Antibiotics kill bacteria but not fungi, so removing the normal flora allows fungi such as Candida to overgrow.
 
-**A1072.** C. A waxy cuticle on the leaf surface
+**A1074.** C. A waxy cuticle on the leaf surface
 <!-- id: bio34a2-pb-4 -->
 
 Explanation: The waxy cuticle physically blocks pathogens and prevents water films that help fungal spores germinate. Saponins, chitinases and hydrogen peroxide are chemical defences.
 
-**A1073.** B. Pathogens trapped in mucus are less effectively moved out of the airways, increasing the risk of respiratory infection
+**A1075.** B. Pathogens trapped in mucus are less effectively moved out of the airways, increasing the risk of respiratory infection
 <!-- id: bio34a2-pb-5 -->
 
 Explanation: Mucus traps pathogens and cilia sweep the mucus up and out of the airways (the mucociliary escalator). Damaged cilia mean mucus and trapped pathogens accumulate, increasing infection risk.
 
-**A1074.** A pathogen is an agent that causes disease, e.g. the influenza virus or the bacterium Mycobacterium tuberculosis; an antigen is a molecule (often a protein or glycoprotein) that is recognised by the immune system and can trigger an immune response, e.g. the haemagglutinin protein on the surface of the influenza virus.
+**A1076.** A pathogen is an agent that causes disease, e.g. the influenza virus or the bacterium Mycobacterium tuberculosis; an antigen is a molecule (often a protein or glycoprotein) that is recognised by the immune system and can trigger an immune response, e.g. the haemagglutinin protein on the surface of the influenza virus.
 <!-- id: bio34a2-pb-6 -->
 
 Explanation:
 
-**A1075.** Physical: thick bark or a waxy cuticle that blocks entry of fungal hyphae, and/or thick cellulose cell walls that are hard to penetrate; chemical: production of antimicrobial/antifungal compounds such as essential oils, or enzymes such as chitinase that break down fungal cell walls (any two, with at least a correct description of each).
+**A1077.** Physical: thick bark or a waxy cuticle that blocks entry of fungal hyphae, and/or thick cellulose cell walls that are hard to penetrate; chemical: production of antimicrobial/antifungal compounds such as essential oils, or enzymes such as chitinase that break down fungal cell walls (any two, with at least a correct description of each).
 <!-- id: bio34a2-pb-7 -->
 
 Explanation:
 
-**A1076.** Gastric juice contains hydrochloric acid giving a pH of about 1.5–3.5; this low pH denatures proteins (including enzymes) of many ingested microorganisms, killing them before they can reach and colonise the intestines.
+**A1078.** Gastric juice contains hydrochloric acid giving a pH of about 1.5–3.5; this low pH denatures proteins (including enzymes) of many ingested microorganisms, killing them before they can reach and colonise the intestines.
 <!-- id: bio34a2-pb-8 -->
 
 Explanation:
 
 #### Innate immunity
 
-**A1077.** D. It is non-specific, responds rapidly and does not produce immunological memory
+**A1079.** D. It is non-specific, responds rapidly and does not produce immunological memory
 <!-- id: bio34a2-inn-1 -->
 
 Explanation: The innate response (second line of defence) responds to general features shared by many pathogens, acts within minutes to hours and does not create memory. Specificity and memory are features of adaptive immunity carried out by lymphocytes.
 
-**A1078.** C. cause vasodilation and increased permeability of capillaries
+**A1080.** C. cause vasodilation and increased permeability of capillaries
 <!-- id: bio34a2-inn-2 -->
 
 Explanation: Histamine causes vasodilation (redness, heat) and increased capillary permeability, allowing fluid, complement proteins and phagocytes to move into the infected tissue (swelling). Natural killer cells and cytotoxic T cells release perforin.
 
-**A1079.** A. cells that have abnormal or reduced MHC class I markers, such as virus-infected or cancerous cells
+**A1081.** A. cells that have abnormal or reduced MHC class I markers, such as virus-infected or cancerous cells
 <!-- id: bio34a2-inn-3 -->
 
 Explanation: NK cells detect cells with reduced or abnormal MHC I (common in virus-infected and cancer cells) and induce apoptosis by releasing perforin and granzymes. They are part of innate immunity and do not need prior sensitisation.
 
-**A1080.** D. virus-infected cells, and they signal neighbouring cells to increase their resistance to viral replication
+**A1082.** D. virus-infected cells, and they signal neighbouring cells to increase their resistance to viral replication
 <!-- id: bio34a2-inn-4 -->
 
 Explanation: Interferons are cytokines released by virus-infected host cells. They signal neighbouring uninfected cells to produce antiviral proteins, slowing the spread of the virus. They are not antibodies.
 
-**A1081.** B. Higher temperature can slow bacterial reproduction and speed up some immune processes such as phagocytosis
+**A1083.** B. Higher temperature can slow bacterial reproduction and speed up some immune processes such as phagocytosis
 <!-- id: bio34a2-inn-5 -->
 
 Explanation: A moderate fever, triggered by chemicals acting on the hypothalamus, creates conditions less favourable for many pathogens to reproduce and enhances some immune responses. Very high fevers can be harmful, but 39 °C does not denature most human enzymes.
 
-**A1082.** The neutrophil is attracted to the infection site by chemical signals (chemotaxis) and recognises the pathogen (e.g. via receptors that bind pathogen surface molecules or complement/antibody); it engulfs the pathogen by extending its membrane around it, forming a phagosome (endocytosis); the phagosome fuses with a lysosome and hydrolytic enzymes digest the pathogen, with waste removed by exocytosis.
+**A1084.** The neutrophil is attracted to the infection site by chemical signals (chemotaxis) and recognises the pathogen (e.g. via receptors that bind pathogen surface molecules or complement/antibody); it engulfs the pathogen by extending its membrane around it, forming a phagosome (endocytosis); the phagosome fuses with a lysosome and hydrolytic enzymes digest the pathogen, with waste removed by exocytosis.
 <!-- id: bio34a2-inn-6 -->
 
 Explanation:
 
-**A1083.** Damaged cells and mast cells release histamine and other chemicals; histamine causes vasodilation, increasing blood flow (redness and heat), and increases capillary permeability so fluid leaks into tissue (swelling, pressing on nerves to cause pain); increased permeability allows phagocytes (neutrophils, macrophages) and complement proteins to move into the tissue and destroy pathogens, with clotting factors helping to wall off the area.
+**A1085.** Damaged cells and mast cells release histamine and other chemicals; histamine causes vasodilation, increasing blood flow (redness and heat), and increases capillary permeability so fluid leaks into tissue (swelling, pressing on nerves to cause pain); increased permeability allows phagocytes (neutrophils, macrophages) and complement proteins to move into the tissue and destroy pathogens, with clotting factors helping to wall off the area.
 <!-- id: bio34a2-inn-7 -->
 
 Explanation:
 
-**A1084.** Complement proteins can form a membrane attack complex that creates pores in the bacterial membrane, causing lysis; they can coat (opsonise) bacteria, making them easier for phagocytes to recognise and engulf; they also act as chemical signals that attract phagocytes to the site (any two).
+**A1086.** Complement proteins can form a membrane attack complex that creates pores in the bacterial membrane, causing lysis; they can coat (opsonise) bacteria, making them easier for phagocytes to recognise and engulf; they also act as chemical signals that attract phagocytes to the site (any two).
 <!-- id: bio34a2-inn-8 -->
 
 Explanation:
 
 #### Antigen presentation and the lymphatic system
 
-**A1085.** C. all nucleated body cells
+**A1087.** C. all nucleated body cells
 <!-- id: bio34a2-ap-1 -->
 
 Explanation: MHC I markers are present on all nucleated cells and display fragments of proteins made inside the cell (self or, if infected, viral peptides). MHC II is restricted to antigen-presenting cells such as dendritic cells, macrophages and B cells. Mature red blood cells lack a nucleus and MHC I.
 
-**A1086.** A. present antigen fragments on MHC II to T helper cells with complementary receptors
+**A1088.** A. present antigen fragments on MHC II to T helper cells with complementary receptors
 <!-- id: bio34a2-ap-2 -->
 
 Explanation: Dendritic cells are antigen-presenting cells that carry antigen through lymphatic vessels to lymph nodes, where many naive T cells are concentrated. There, a T helper cell with a complementary receptor binds the MHC II–antigen complex and is activated.
 
-**A1087.** D. Returning excess tissue fluid to the blood and providing sites where lymphocytes encounter antigens
+**A1089.** D. Returning excess tissue fluid to the blood and providing sites where lymphocytes encounter antigens
 <!-- id: bio34a2-ap-3 -->
 
 Explanation: The lymphatic system collects excess tissue fluid (lymph) and returns it to the bloodstream, and its lymph nodes and spleen are secondary lymphoid tissues where lymphocytes are activated. It has no pump and does not make red blood cells.
 
-**A1088.** D. lymphocytes in the nodes are undergoing clonal expansion after encountering antigen
+**A1090.** D. lymphocytes in the nodes are undergoing clonal expansion after encountering antigen
 <!-- id: bio34a2-ap-4 -->
 
 Explanation: When lymphocytes with receptors complementary to an antigen are activated in a lymph node, they proliferate rapidly (clonal expansion), increasing the size of the node. Swollen nodes are a sign that the adaptive response is under way.
 
-**A1089.** A. B cells in the bone marrow; T cells in the thymus
+**A1091.** A. B cells in the bone marrow; T cells in the thymus
 <!-- id: bio34a2-ap-5 -->
 
 Explanation: Both B and T cells originate from stem cells in bone marrow. B cells mature in the bone marrow, while T cells migrate to and mature in the thymus. Both are primary lymphoid organs.
 
-**A1090.** MHC I is found on all nucleated cells, whereas MHC II is found only on antigen-presenting cells (dendritic cells, macrophages, B cells); MHC I presents peptides from proteins made inside the cell (endogenous, e.g. viral proteins in an infected cell), which are recognised by cytotoxic T cells; MHC II presents peptides from material engulfed from outside the cell (exogenous, e.g. phagocytosed bacteria), which are recognised by T helper cells.
+**A1092.** MHC I is found on all nucleated cells, whereas MHC II is found only on antigen-presenting cells (dendritic cells, macrophages, B cells); MHC I presents peptides from proteins made inside the cell (endogenous, e.g. viral proteins in an infected cell), which are recognised by cytotoxic T cells; MHC II presents peptides from material engulfed from outside the cell (exogenous, e.g. phagocytosed bacteria), which are recognised by T helper cells.
 <!-- id: bio34a2-ap-6 -->
 
 Explanation:
 
-**A1091.** Cells of the donor organ carry MHC markers (self-markers) that differ from those of the recipient; the recipient's immune system recognises the donor MHC as non-self/foreign (antigens), activating T cells (and antibodies) that attack and destroy the transplanted tissue.
+**A1093.** Cells of the donor organ carry MHC markers (self-markers) that differ from those of the recipient; the recipient's immune system recognises the donor MHC as non-self/foreign (antigens), activating T cells (and antibodies) that attack and destroy the transplanted tissue.
 <!-- id: bio34a2-ap-7 -->
 
 Explanation:
 
-**A1092.** Bacteria and/or antigen-presenting cells such as dendritic cells that have engulfed the bacteria travel in lymph through lymphatic vessels; they reach a nearby lymph node, where the dendritic cell presents antigen on MHC II to T helper cells, and B cells encounter antigen; lymphocytes with complementary receptors are selected and undergo clonal expansion in the node, after which effector cells and antibodies leave via lymph and blood to the site of infection.
+**A1094.** Bacteria and/or antigen-presenting cells such as dendritic cells that have engulfed the bacteria travel in lymph through lymphatic vessels; they reach a nearby lymph node, where the dendritic cell presents antigen on MHC II to T helper cells, and B cells encounter antigen; lymphocytes with complementary receptors are selected and undergo clonal expansion in the node, after which effector cells and antibodies leave via lymph and blood to the site of infection.
 <!-- id: bio34a2-ap-8 -->
 
 Explanation:
 
 #### Humoral immunity
 
-**A1093.** C. pathogens and antigens in extracellular fluids such as blood and lymph
+**A1095.** C. pathogens and antigens in extracellular fluids such as blood and lymph
 <!-- id: bio34a2-hum-1 -->
 
 Explanation: The humoral response produces antibodies that circulate in body fluids and act on extracellular pathogens and toxins. Infected and cancerous cells are targeted by cell-mediated immunity (cytotoxic T cells).
 
-**A1094.** B. a T helper cell recognises the antigen presented on the B cell's MHC II and releases cytokines
+**A1096.** B. a T helper cell recognises the antigen presented on the B cell's MHC II and releases cytokines
 <!-- id: bio34a2-hum-2 -->
 
 Explanation: The B cell internalises the antigen and presents fragments on MHC II. A T helper cell with a complementary receptor binds and releases cytokines (e.g. interleukins), stimulating the B cell to undergo clonal expansion and differentiation.
 
-**A1095.** D. variable region at the tips of the heavy and light chains
+**A1097.** D. variable region at the tips of the heavy and light chains
 <!-- id: bio34a2-hum-3 -->
 
 Explanation: Each antibody has two antigen-binding sites formed by the variable regions of a heavy and a light chain. Differences in amino acid sequence here give each antibody its specificity. The constant region determines the antibody class and its interactions with other immune components.
 
-**A1096.** C. neutralisation
+**A1098.** C. neutralisation
 <!-- id: bio34a2-hum-4 -->
 
 Explanation: Neutralisation occurs when antibodies cover the parts of a pathogen or toxin needed to bind host cells. Agglutination is the clumping of pathogens by antibodies; opsonisation is coating pathogens to enhance phagocytosis.
 
-**A1097.** A. memory B cells produced during the first exposure rapidly differentiating into plasma cells
+**A1099.** A. memory B cells produced during the first exposure rapidly differentiating into plasma cells
 <!-- id: bio34a2-hum-5 -->
 
 Explanation: During the primary response, clonal expansion produces memory B cells as well as plasma cells. On re-exposure, the larger population of memory B cells responds quickly, differentiating into plasma cells that produce more antibody, sooner.
 
-**A1098.** A naive B cell with B cell receptors (membrane-bound antibodies) complementary to the antigen binds it (clonal selection) and presents antigen fragments on MHC II; a T helper cell that has been activated against the same antigen binds the B cell and releases cytokines; the B cell is stimulated to undergo clonal expansion (rapid mitosis), producing many identical cells; these differentiate into plasma cells, which secrete large quantities of specific antibodies, and memory B cells, which persist and provide a faster secondary response.
+**A1100.** A naive B cell with B cell receptors (membrane-bound antibodies) complementary to the antigen binds it (clonal selection) and presents antigen fragments on MHC II; a T helper cell that has been activated against the same antigen binds the B cell and releases cytokines; the B cell is stimulated to undergo clonal expansion (rapid mitosis), producing many identical cells; these differentiate into plasma cells, which secrete large quantities of specific antibodies, and memory B cells, which persist and provide a faster secondary response.
 <!-- id: bio34a2-hum-6 -->
 
 Explanation:
 
-**A1099.** Agglutination: each antibody has (at least) two binding sites, so antibodies bind several bacteria at once, clumping them together so they cannot spread and are more easily engulfed by phagocytes; opsonisation: antibodies coat the bacteria and phagocytes recognise the constant region of bound antibodies, which increases the rate of phagocytosis.
+**A1101.** Agglutination: each antibody has (at least) two binding sites, so antibodies bind several bacteria at once, clumping them together so they cannot spread and are more easily engulfed by phagocytes; opsonisation: antibodies coat the bacteria and phagocytes recognise the constant region of bound antibodies, which increases the rate of phagocytosis.
 <!-- id: bio34a2-hum-7 -->
 
 Explanation:
 
-**A1100.** Antibodies are specific: the variable region of each antibody has a shape complementary to one specific antigen (epitope); antigens on the chickenpox virus have a different shape from measles antigens, so measles antibodies cannot bind to them, and no memory cells specific for chickenpox exist.
+**A1102.** Antibodies are specific: the variable region of each antibody has a shape complementary to one specific antigen (epitope); antigens on the chickenpox virus have a different shape from measles antigens, so measles antibodies cannot bind to them, and no memory cells specific for chickenpox exist.
 <!-- id: bio34a2-hum-8 -->
 
 Explanation:
 
 #### Cell-mediated immunity
 
-**A1101.** B. Cytotoxic T cell
+**A1103.** B. Cytotoxic T cell
 <!-- id: bio34a3-cmi-1 -->
 
 Explanation: Cytotoxic T cells recognise antigen presented on MHC I of infected cells and induce apoptosis. Plasma cells secrete antibodies (humoral immunity) and helper T cells coordinate the response but do not kill infected cells themselves.
 
-**A1102.** C. viral antigen fragments on MHC class I markers.
+**A1104.** C. viral antigen fragments on MHC class I markers.
 <!-- id: bio34a3-cmi-2 -->
 
 Explanation: Almost all nucleated cells display endogenous (internal) antigen fragments on MHC I, which is recognised by the T cell receptor and CD8 of cytotoxic T cells. MHC II is found on professional antigen-presenting cells and is recognised by helper T cells.
 
-**A1103.** A. undergo apoptosis.
+**A1105.** A. undergo apoptosis.
 <!-- id: bio34a3-cmi-3 -->
 
 Explanation: Perforin forms pores in the target cell membrane, allowing granzymes to enter and activate caspases, which trigger apoptosis (programmed cell death). Interferon is released by infected cells, not as a result of granzyme action.
 
-**A1104.** B. Neither clonal expansion of B cells nor activation of cytotoxic T cells occurs effectively.
+**A1106.** B. Neither clonal expansion of B cells nor activation of cytotoxic T cells occurs effectively.
 <!-- id: bio34a3-cmi-4 -->
 
 Explanation: Helper T cells release cytokines (interleukins) that stimulate clonal expansion and differentiation of both selected B cells and cytotoxic T cells, so both arms of adaptive immunity are weakened (as in advanced HIV infection). Innate barriers and MHC expression are not dependent on helper T cells.
 
-**A1105.** D. memory T cells.
+**A1107.** D. memory T cells.
 <!-- id: bio34a3-cmi-5 -->
 
 Explanation: Memory T cells are produced during clonal expansion and persist long-term, enabling a faster, larger secondary response. Plasma cells are antibody-secreting B cell derivatives and naive T cells have not yet encountered their antigen.
 
-**A1106.** Dendritic cell presents viral antigen on MHC II to a helper T cell with a complementary T cell receptor (and antigen on MHC I to a naive cytotoxic T cell with a complementary receptor); the activated helper T cell releases cytokines/interleukins; cytokines stimulate clonal selection and clonal expansion of the specific cytotoxic T cells (and production of memory T cells); cytotoxic T cells leave the lymph node, travel to the infection site, bind infected cells displaying the antigen on MHC I and release perforin and granzymes, causing apoptosis.
+**A1108.** Dendritic cell presents viral antigen on MHC II to a helper T cell with a complementary T cell receptor (and antigen on MHC I to a naive cytotoxic T cell with a complementary receptor); the activated helper T cell releases cytokines/interleukins; cytokines stimulate clonal selection and clonal expansion of the specific cytotoxic T cells (and production of memory T cells); cytotoxic T cells leave the lymph node, travel to the infection site, bind infected cells displaying the antigen on MHC I and release perforin and granzymes, causing apoptosis.
 <!-- id: bio34a3-cmi-6 -->
 
 Explanation:
 
-**A1107.** Antibodies are found in body fluids (plasma, lymph) and can only bind antigens/pathogens outside cells, so they cannot reach viruses replicating inside cells; cytotoxic T cells recognise viral antigen displayed on MHC I of infected cells and destroy the whole infected cell, removing the site of viral replication.
+**A1109.** Antibodies are found in body fluids (plasma, lymph) and can only bind antigens/pathogens outside cells, so they cannot reach viruses replicating inside cells; cytotoxic T cells recognise viral antigen displayed on MHC I of infected cells and destroy the whole infected cell, removing the site of viral replication.
 <!-- id: bio34a3-cmi-7 -->
 
 Explanation:
 
-**A1108.** Donor cells display MHC markers that differ from the recipient's (non-self); recipient cytotoxic T cells (activated with help from helper T cells) would recognise these as foreign and destroy the transplanted tissue, causing rejection; suppressing T cells reduces rejection but increases the risk of infections (or certain cancers) because the recipient's adaptive immune response is weakened.
+**A1110.** Donor cells display MHC markers that differ from the recipient's (non-self); recipient cytotoxic T cells (activated with help from helper T cells) would recognise these as foreign and destroy the transplanted tissue, causing rejection; suppressing T cells reduces rejection but increases the risk of infections (or certain cancers) because the recipient's adaptive immune response is weakened.
 <!-- id: bio34a3-cmi-8 -->
 
 Explanation:
 
 #### Types of immunity and vaccination
 
-**A1109.** B. natural passive immunity.
+**A1111.** B. natural passive immunity.
 <!-- id: bio34a3-tiv-1 -->
 
 Explanation: The antibodies are received naturally (not by medical intervention) and made by another individual, so it is natural passive immunity. Active immunity requires the person's own B cells to make antibodies and memory cells.
 
-**A1110.** C. It provides immediate but short-term protection.
+**A1112.** C. It provides immediate but short-term protection.
 <!-- id: bio34a3-tiv-2 -->
 
 Explanation: Antivenom contains pre-made antibodies, giving artificial passive immunity: it acts immediately but no memory cells are formed, and the antibodies are broken down within weeks. The bushwalker's own B cells are not involved.
 
-**A1111.** A. To trigger a secondary response that produces more memory cells and a higher antibody level.
+**A1113.** A. To trigger a secondary response that produces more memory cells and a higher antibody level.
 <!-- id: bio34a3-tiv-3 -->
 
 Explanation: A booster exposes memory cells to the antigen again, producing a faster, larger secondary response with higher antibody titres and more memory cells, extending protection. Vaccines produce active, not passive, immunity.
 
-**A1112.** D. causing the recipient's cells to translate a viral antigen, which then stimulates an adaptive immune response.
+**A1114.** D. causing the recipient's cells to translate a viral antigen, which then stimulates an adaptive immune response.
 <!-- id: bio34a3-tiv-4 -->
 
 Explanation: mRNA in lipid nanoparticles enters cells and is translated into a viral protein (antigen), which is presented to lymphocytes, stimulating antibody production and memory cells. mRNA does not enter the nucleus or integrate into DNA, and it is not an attenuated or passive vaccine.
 
-**A1113.** B. the chain of transmission is broken, as most contacts cannot become infected.
+**A1115.** B. the chain of transmission is broken, as most contacts cannot become infected.
 <!-- id: bio34a3-tiv-5 -->
 
 Explanation: This is herd immunity: when a high proportion of the population is immune, the pathogen cannot spread efficiently, protecting those who cannot be vaccinated. Antibodies are not transferred by casual contact.
 
-**A1114.** Active immunity: the individual's own immune system is exposed to an antigen and produces antibodies (via plasma cells) and memory cells; protection is long-lasting because of memory cells (but takes time to develop); passive immunity: antibodies made by another organism are received, giving immediate protection; it is short-lived because no memory cells are made and the antibodies are degraded.
+**A1116.** Active immunity: the individual's own immune system is exposed to an antigen and produces antibodies (via plasma cells) and memory cells; protection is long-lasting because of memory cells (but takes time to develop); passive immunity: antibodies made by another organism are received, giving immediate protection; it is short-lived because no memory cells are made and the antibodies are degraded.
 <!-- id: bio34a3-tiv-6 -->
 
 Explanation:
 
-**A1115.** The first dose triggered a primary response: naive B cells had to undergo clonal selection and expansion, so there was a lag and a small peak; memory B cells (and memory helper T cells) were produced during the primary response; at the booster, these memory cells recognised the antigen and rapidly differentiated into many plasma cells, producing a faster and much larger secondary response.
+**A1117.** The first dose triggered a primary response: naive B cells had to undergo clonal selection and expansion, so there was a lag and a small peak; memory B cells (and memory helper T cells) were produced during the primary response; at the booster, these memory cells recognised the antigen and rapidly differentiated into many plasma cells, producing a faster and much larger secondary response.
 <!-- id: bio34a3-tiv-7 -->
 
 Explanation:
 
-**A1116.** If fewer people are immune than the threshold, an infected person is likely to contact enough susceptible people that each case leads to more than one new case; the pathogen can then spread through clusters of susceptible (unvaccinated or non-responding) individuals, causing an outbreak.
+**A1118.** If fewer people are immune than the threshold, an infected person is likely to contact enough susceptible people that each case leads to more than one new case; the pathogen can then spread through clusters of susceptible (unvaccinated or non-responding) individuals, causing an outbreak.
 <!-- id: bio34a3-tiv-8 -->
 
 Explanation:
 
 #### Emerging diseases and immunotherapy
 
-**A1117.** B. Measles returning to a region after vaccination rates fall
+**A1119.** B. Measles returning to a region after vaccination rates fall
 <!-- id: bio34a3-edi-1 -->
 
 Explanation: A re-emerging disease is a known disease that had declined but is increasing again, e.g. measles after falling vaccination rates. A new coronavirus jumping species is an emerging disease; genetic and lifestyle conditions are not infectious diseases.
 
-**A1118.** A. International air travel
+**A1120.** A. International air travel
 <!-- id: bio34a3-edi-2 -->
 
 Explanation: Air travel allows infected people to move between continents within the incubation period, spreading the pathogen rapidly, as occurred with COVID-19. The other options reduce disease spread.
 
-**A1119.** C. fusing a specific plasma (B) cell with a myeloma (cancer) cell to form a hybridoma that is cloned.
+**A1121.** C. fusing a specific plasma (B) cell with a myeloma (cancer) cell to form a hybridoma that is cloned.
 <!-- id: bio34a3-edi-3 -->
 
 Explanation: A hybridoma combines the ability of a plasma cell to make one specific antibody with the ability of a myeloma cell to divide indefinitely; clones produce identical (monoclonal) antibodies. Pooled donor antibodies would be polyclonal.
 
-**A1120.** B. prevents PD-L1 from binding, so cytotoxic T cells remain active against the cancer cells.
+**A1122.** B. prevents PD-L1 from binding, so cytotoxic T cells remain active against the cancer cells.
 <!-- id: bio34a3-edi-4 -->
 
 Explanation: This is a checkpoint inhibitor: blocking PD-1 stops the cancer cell's PD-L1 from inactivating the T cell, so the patient's cytotoxic T cells can recognise and destroy the cancer. The antibody targets PD-1 on T cells, not PD-L1 on cancer cells, and does not itself kill cells.
 
-**A1121.** C. partner with Traditional Owners, gain free, prior and informed consent and share benefits.
+**A1123.** C. partner with Traditional Owners, gain free, prior and informed consent and share benefits.
 <!-- id: bio34a3-edi-5 -->
 
 Explanation: Ethical research respects Indigenous cultural and intellectual property, involving genuine partnership, informed consent and benefit-sharing with the communities who hold the knowledge.
 
-**A1122.** Factor 1: international travel/globalisation; infected people (including asymptomatic carriers) moved between countries before detection, seeding new outbreaks; factor 2: high population density/urbanisation or a lack of prior immunity in the population; crowded conditions increase contact rates for airborne/droplet spread, and with no existing immunity (novel virus) almost everyone was susceptible. (Accept also asymptomatic transmission, long incubation period.)
+**A1124.** Factor 1: international travel/globalisation; infected people (including asymptomatic carriers) moved between countries before detection, seeding new outbreaks; factor 2: high population density/urbanisation or a lack of prior immunity in the population; crowded conditions increase contact rates for airborne/droplet spread, and with no existing immunity (novel virus) almost everyone was susceptible. (Accept also asymptomatic transmission, long incubation period.)
 <!-- id: bio34a3-edi-6 -->
 
 Explanation:
 
-**A1123.** The monoclonal antibody is specific/complementary to the antigen (e.g. HER2) on the cancer cell, so it binds only cancer cells and not healthy cells; binding may block the receptor and stop signals that stimulate uncontrolled division; it can also tag the cell for destruction by immune cells (e.g. NK cells/phagocytes), or carry an attached drug/radioactive substance directly to the cancer cell.
+**A1125.** The monoclonal antibody is specific/complementary to the antigen (e.g. HER2) on the cancer cell, so it binds only cancer cells and not healthy cells; binding may block the receptor and stop signals that stimulate uncontrolled division; it can also tag the cell for destruction by immune cells (e.g. NK cells/phagocytes), or carry an attached drug/radioactive substance directly to the cancer cell.
 <!-- id: bio34a3-edi-7 -->
 
 Explanation:
 
-**A1124.** A pathogen that normally infects animals (reservoir host) is transmitted to humans through close contact, e.g. habitat destruction, wildlife trade or farming; mutation(s) may allow the pathogen to bind human cells and spread from human to human, and because humans have no prior immunity it can spread rapidly.
+**A1126.** A pathogen that normally infects animals (reservoir host) is transmitted to humans through close contact, e.g. habitat destruction, wildlife trade or farming; mutation(s) may allow the pathogen to bind human cells and spread from human to human, and because humans have no prior immunity it can spread rapidly.
 <!-- id: bio34a3-edi-8 -->
 
 Explanation:
@@ -5866,301 +5971,301 @@ Explanation:
 
 #### Mutations, gene flow and genetic drift
 
-**A1125.** A. Mutation
+**A1127.** A. Mutation
 <!-- id: bio34a3-mgd-1 -->
 
 Explanation: Mutation changes DNA sequences and creates new alleles. Gene flow can introduce alleles that are new to a particular population, but they already existed elsewhere; drift and selection only change existing allele frequencies.
 
-**A1126.** C. causes a frameshift that alters every codon downstream.
+**A1128.** C. causes a frameshift that alters every codon downstream.
 <!-- id: bio34a3-mgd-2 -->
 
 Explanation: Deleting one base shifts the reading frame, so all downstream codons are changed, often producing a non-functional protein or an early stop codon. A substitution affects at most one codon.
 
-**A1127.** C. a bottleneck effect.
+**A1129.** C. a bottleneck effect.
 <!-- id: bio34a3-mgd-3 -->
 
 Explanation: A bottleneck occurs when a population is drastically reduced, so the surviving gene pool is a small, random sample of the original, reducing diversity. The founder effect involves a small group colonising a new area.
 
-**A1128.** B. A population of 25 rock-wallabies isolated on an island
+**A1130.** B. A population of 25 rock-wallabies isolated on an island
 <!-- id: bio34a3-mgd-4 -->
 
 Explanation: Genetic drift is random change in allele frequency and has the greatest effect in small, isolated populations, where chance events strongly change the proportions of alleles passed on. Gene flow counteracts drift.
 
-**A1129.** D. gene flow, which makes the gene pools of the two populations more similar.
+**A1131.** D. gene flow, which makes the gene pools of the two populations more similar.
 <!-- id: bio34a3-mgd-5 -->
 
 Explanation: Movement of alleles between populations via gametes (pollen) is gene flow; it tends to make populations more genetically similar. No new mutation occurs in this process.
 
-**A1130.** Founder effect: a small group of individuals leaves a population to colonise a new area, so the new population's gene pool reflects only the founders' alleles; bottleneck effect: a large population is drastically reduced in size by a chance event (e.g. bushfire, disease), and survivors carry only a subset of alleles; similarity: both are forms of genetic drift that reduce genetic diversity and can change allele frequencies by chance.
+**A1132.** Founder effect: a small group of individuals leaves a population to colonise a new area, so the new population's gene pool reflects only the founders' alleles; bottleneck effect: a large population is drastically reduced in size by a chance event (e.g. bushfire, disease), and survivors carry only a subset of alleles; similarity: both are forms of genetic drift that reduce genetic diversity and can change allele frequencies by chance.
 <!-- id: bio34a3-mgd-6 -->
 
 Explanation:
 
-**A1131.** Genetic drift (a bottleneck effect); because the deaths were random rather than related to phenotype, the 20 survivors happened by chance to carry fewer B alleles, so the allele frequency changed without selection.
+**A1133.** Genetic drift (a bottleneck effect); because the deaths were random rather than related to phenotype, the 20 survivors happened by chance to carry fewer B alleles, so the allele frequency changed without selection.
 <!-- id: bio34a3-mgd-7 -->
 
 Explanation:
 
-**A1132.** A somatic mutation occurs in a body cell and is not passed to offspring, so it cannot change the population's gene pool; a germline mutation occurs in cells that produce gametes and can be inherited, introducing a new allele into the gene pool on which evolutionary mechanisms can act.
+**A1134.** A somatic mutation occurs in a body cell and is not passed to offspring, so it cannot change the population's gene pool; a germline mutation occurs in cells that produce gametes and can be inherited, introducing a new allele into the gene pool on which evolutionary mechanisms can act.
 <!-- id: bio34a3-mgd-8 -->
 
 Explanation:
 
 #### Natural selection and selective breeding
 
-**A1133.** C. Individuals deliberately changing their traits to suit the environment
+**A1135.** C. Individuals deliberately changing their traits to suit the environment
 <!-- id: bio34a3-nss-1 -->
 
 Explanation: Natural selection acts on existing heritable variation; individuals cannot choose to acquire inherited traits. Variation, a selection pressure and differential reproduction are all required.
 
-**A1134.** B. longer-legged toads disperse faster, reach new areas first and breed with other fast toads.
+**A1136.** B. longer-legged toads disperse faster, reach new areas first and breed with other fast toads.
 <!-- id: bio34a3-nss-2 -->
 
 Explanation: At the front, toads with heritable longer legs travel further and arrive first, so they breed together and pass on the alleles, increasing their frequency (spatial sorting/selection). Acquired characteristics are not inherited, and mutations do not arise in response to need.
 
-**A1135.** A. involves humans choosing which individuals reproduce, often reducing genetic diversity.
+**A1137.** A. involves humans choosing which individuals reproduce, often reducing genetic diversity.
 <!-- id: bio34a3-nss-3 -->
 
 Explanation: In selective breeding, humans are the selecting agent and breed individuals with desired traits, which increases desired allele frequencies but narrows the gene pool, reducing diversity.
 
-**A1136.** D. predation by birds that see contrasting moths more easily.
+**A1138.** D. predation by birds that see contrasting moths more easily.
 <!-- id: bio34a3-nss-4 -->
 
 Explanation: The selection pressure is the environmental factor that affects survival: birds preferentially eat moths that contrast with the bark. The dark colour is the advantageous phenotype, not the pressure.
 
-**A1137.** C. Plants are genetically very similar, so the whole crop may be vulnerable to a single new disease.
+**A1139.** C. Plants are genetically very similar, so the whole crop may be vulnerable to a single new disease.
 <!-- id: bio34a3-nss-5 -->
 
 Explanation: Selective breeding narrows genetic diversity; with uniform genotypes, a pathogen able to infect one plant can infect most of the crop, risking total crop failure.
 
-**A1138.** Variation: snails in the population vary in shell thickness due to different alleles (arising from mutation); selection pressure: crabs crush and eat thin-shelled snails more easily; selective advantage: thick-shelled snails are more likely to survive and reproduce; inheritance: they pass the thick-shell alleles to offspring, so over many generations the frequency of the thick-shell allele/phenotype increases in the population.
+**A1140.** Variation: snails in the population vary in shell thickness due to different alleles (arising from mutation); selection pressure: crabs crush and eat thin-shelled snails more easily; selective advantage: thick-shelled snails are more likely to survive and reproduce; inheritance: they pass the thick-shell alleles to offspring, so over many generations the frequency of the thick-shell allele/phenotype increases in the population.
 <!-- id: bio34a3-nss-6 -->
 
 Explanation:
 
-**A1139.** Humans apply a strong, consistent and deliberate selection pressure, allowing only individuals with the desired trait to breed each generation; in natural selection, pressures vary and individuals without the advantageous trait still often reproduce, so allele frequencies change more slowly.
+**A1141.** Humans apply a strong, consistent and deliberate selection pressure, allowing only individuals with the desired trait to breed each generation; in natural selection, pressures vary and individuals without the advantageous trait still often reproduce, so allele frequencies change more slowly.
 <!-- id: bio34a3-nss-7 -->
 
 Explanation:
 
-**A1140.** Genetic diversity decreases because only a few sheep with particular alleles are used for breeding (and inbreeding increases); consequence: the flock has a reduced ability to adapt to environmental change/disease, or recessive harmful conditions become more common due to increased homozygosity.
+**A1142.** Genetic diversity decreases because only a few sheep with particular alleles are used for breeding (and inbreeding increases); consequence: the flock has a reduced ability to adapt to environmental change/disease, or recessive harmful conditions become more common due to increased homozygosity.
 <!-- id: bio34a3-nss-8 -->
 
 Explanation:
 
 #### Antibiotic and antiviral resistance
 
-**A1141.** C. Resistant bacteria already present survive the antibiotic and reproduce, increasing the frequency of resistance.
+**A1143.** C. Resistant bacteria already present survive the antibiotic and reproduce, increasing the frequency of resistance.
 <!-- id: bio34a3-aar-1 -->
 
 Explanation: Resistance alleles arise by random mutation (or are acquired by horizontal gene transfer) before exposure; the antibiotic acts as a selection pressure, killing susceptible bacteria. Bacteria, not patients, become resistant.
 
-**A1142.** B. transfer of plasmids by conjugation.
+**A1144.** B. transfer of plasmids by conjugation.
 <!-- id: bio34a3-aar-2 -->
 
 Explanation: Horizontal gene transfer via plasmids (conjugation) spreads resistance genes between bacteria. Binary fission passes genes only to daughter cells (vertical transfer), and bacteria do not undergo meiosis.
 
-**A1143.** A. It allows the more-resistant bacteria that survived early doses to multiply.
+**A1145.** A. It allows the more-resistant bacteria that survived early doses to multiply.
 <!-- id: bio34a3-aar-3 -->
 
 Explanation: Early doses kill the most susceptible bacteria; stopping early leaves those with partial resistance alive to reproduce, so resistance alleles increase in frequency.
 
-**A1144.** D. increase, as the drug selects for viruses with the mutation.
+**A1146.** D. increase, as the drug selects for viruses with the mutation.
 <!-- id: bio34a3-aar-4 -->
 
 Explanation: The drug is a selection pressure: susceptible viruses are inhibited while resistant variants replicate and spread, increasing their frequency. Viruses evolve rapidly because of high mutation rates and short replication times.
 
-**A1145.** C. Prescribing antibiotics only for bacterial infections, using narrow-spectrum drugs where possible
+**A1147.** C. Prescribing antibiotics only for bacterial infections, using narrow-spectrum drugs where possible
 <!-- id: bio34a3-aar-5 -->
 
 Explanation: Reducing unnecessary use lowers the selection pressure for resistance. Antibiotics are ineffective against viruses, and routine use in livestock and relying on one drug increase selection for resistance.
 
-**A1146.** Variation: some bacteria possess a resistance allele/gene that arose by random mutation or was acquired by plasmid transfer; selection pressure: methicillin use kills susceptible bacteria; resistant bacteria survive and reproduce rapidly by binary fission, passing on the resistance gene (and may share it by conjugation); over many generations the frequency of resistant bacteria increases until most of the population is resistant.
+**A1148.** Variation: some bacteria possess a resistance allele/gene that arose by random mutation or was acquired by plasmid transfer; selection pressure: methicillin use kills susceptible bacteria; resistant bacteria survive and reproduce rapidly by binary fission, passing on the resistance gene (and may share it by conjugation); over many generations the frequency of resistant bacteria increases until most of the population is resistant.
 <!-- id: bio34a3-aar-6 -->
 
 Explanation:
 
-**A1147.** For a virus to survive, it would need resistance mutations to all three drugs at once, which is extremely unlikely; so combination therapy reduces the chance that resistant variants survive and are selected, slowing the evolution of resistance.
+**A1149.** For a virus to survive, it would need resistance mutations to all three drugs at once, which is extremely unlikely; so combination therapy reduces the chance that resistant variants survive and are selected, slowing the evolution of resistance.
 <!-- id: bio34a3-aar-7 -->
 
 Explanation:
 
-**A1148.** Bacteria have very short generation times (can divide every 20–30 minutes) and huge population sizes, so mutations arise frequently and selection acts over many generations quickly; humans have long generation times and fewer offspring, so changes in allele frequency take much longer.
+**A1150.** Bacteria have very short generation times (can divide every 20–30 minutes) and huge population sizes, so mutations arise frequently and selection acts over many generations quickly; humans have long generation times and fewer offspring, so changes in allele frequency take much longer.
 <!-- id: bio34a3-aar-8 -->
 
 Explanation:
 
 #### Speciation
 
-**A1149.** D. can interbreed under natural conditions to produce viable, fertile offspring.
+**A1151.** D. can interbreed under natural conditions to produce viable, fertile offspring.
 <!-- id: bio34a3-spe-1 -->
 
 Explanation: The biological species concept is based on reproductive compatibility producing viable, fertile offspring. Similar appearance and shared habitat are not sufficient, and individuals within a species have different DNA sequences.
 
-**A1150.** A. Geographical isolation → different selection pressures and genetic drift → genetic divergence → reproductive isolation
+**A1152.** A. Geographical isolation → different selection pressures and genetic drift → genetic divergence → reproductive isolation
 <!-- id: bio34a3-spe-2 -->
 
 Explanation: A geographical barrier prevents gene flow; each population experiences different selection pressures, mutations and drift, so gene pools diverge until the populations can no longer interbreed even if brought together.
 
-**A1151.** B. are separate species, as their hybrid offspring are not fertile.
+**A1153.** B. are separate species, as their hybrid offspring are not fertile.
 <!-- id: bio34a3-spe-3 -->
 
 Explanation: Mules are infertile, so horses and donkeys cannot produce fertile offspring and are separate species (post-zygotic isolation). Their ability to hybridise reflects a relatively recent common ancestor.
 
-**A1152.** C. temporal (seasonal) reproductive isolation.
+**A1154.** C. temporal (seasonal) reproductive isolation.
 <!-- id: bio34a3-spe-4 -->
 
 Explanation: Breeding at different times prevents interbreeding even though the populations share a habitat; this is a pre-zygotic temporal isolating mechanism, which can lead to sympatric speciation.
 
-**A1153.** D. a polyploid plant cannot produce fertile offspring with the parent species, so it is instantly reproductively isolated.
+**A1155.** D. a polyploid plant cannot produce fertile offspring with the parent species, so it is instantly reproductively isolated.
 <!-- id: bio34a3-spe-5 -->
 
 Explanation: A polyploid (e.g. tetraploid) crossed with a diploid parent produces triploid offspring that are usually sterile because chromosomes cannot pair in meiosis, so the polyploid is reproductively isolated in the same location.
 
-**A1154.** Rising sea level created a geographical barrier, so gene flow between island and mainland populations stopped; the island population faced different selection pressures (e.g. climate, food, predators) and natural selection favoured different alleles; random mutations and genetic drift (small island population) further changed allele frequencies; over many generations the gene pools diverged so much that the populations would be reproductively isolated (unable to produce fertile offspring) if reunited, meaning a new species had formed (allopatric speciation).
+**A1156.** Rising sea level created a geographical barrier, so gene flow between island and mainland populations stopped; the island population faced different selection pressures (e.g. climate, food, predators) and natural selection favoured different alleles; random mutations and genetic drift (small island population) further changed allele frequencies; over many generations the gene pools diverged so much that the populations would be reproductively isolated (unable to produce fertile offspring) if reunited, meaning a new species had formed (allopatric speciation).
 <!-- id: bio34a3-spe-6 -->
 
 Explanation:
 
-**A1155.** Allopatric speciation occurs when populations are separated by a geographical barrier that prevents gene flow; sympatric speciation occurs within the same geographical area, where reproductive isolation arises without a physical barrier (e.g. by polyploidy, behavioural or temporal isolation).
+**A1157.** Allopatric speciation occurs when populations are separated by a geographical barrier that prevents gene flow; sympatric speciation occurs within the same geographical area, where reproductive isolation arises without a physical barrier (e.g. by polyploidy, behavioural or temporal isolation).
 <!-- id: bio34a3-spe-7 -->
 
 Explanation:
 
-**A1156.** Observe (or allow) the two populations to interbreed under natural conditions; if they do not mate or their offspring are not viable/fertile (e.g. test whether hybrid offspring can produce their own offspring), they are reproductively isolated and are separate species; if fertile offspring are produced, speciation has not occurred.
+**A1158.** Observe (or allow) the two populations to interbreed under natural conditions; if they do not mate or their offspring are not viable/fertile (e.g. test whether hybrid offspring can produce their own offspring), they are reproductively isolated and are separate species; if fertile offspring are produced, speciation has not occurred.
 <!-- id: bio34a3-spe-8 -->
 
 Explanation:
 
 #### Fossil record and dating
 
-**A1157.** B. Rapid burial in fine sediment with low oxygen
+**A1159.** B. Rapid burial in fine sediment with low oxygen
 <!-- id: bio34a3-frd-1 -->
 
 Explanation: Rapid burial in fine sediment (e.g. mud, volcanic ash) in anoxic conditions protects remains from scavengers, decomposers and oxygen, allowing mineralisation. Oxygen and decomposers break remains down.
 
-**A1158.** B. Fossil X is older than fossil Y.
+**A1160.** B. Fossil X is older than fossil Y.
 <!-- id: bio34a3-frd-2 -->
 
 Explanation: The law of superposition states that, in undisturbed strata, lower layers were deposited earlier and are older. This is relative dating, which gives order but not an absolute age.
 
-**A1159.** C. 17 190 years.
+**A1161.** C. 17 190 years.
 <!-- id: bio34a3-frd-3 -->
 
 Explanation: One-eighth remaining = (1/2)³, so three half-lives have passed: 3 × 5730 = 17 190 years. Two half-lives (11 460 years) would leave one-quarter.
 
-**A1160.** C. the half-life of carbon-14 is too short, so almost no carbon-14 would remain.
+**A1162.** C. the half-life of carbon-14 is too short, so almost no carbon-14 would remain.
 <!-- id: bio34a3-frd-4 -->
 
 Explanation: Carbon-14 is useful up to about 50 000 years; after that too little remains to measure. Older fossils are dated by measuring isotopes with long half-lives (e.g. potassium-40 → argon-40) in volcanic layers above and below the fossil.
 
-**A1161.** A. they are formed by cyanobacteria, and fossil stromatolites are among the oldest evidence of life (about 3.5 billion years).
+**A1163.** A. they are formed by cyanobacteria, and fossil stromatolites are among the oldest evidence of life (about 3.5 billion years).
 <!-- id: bio34a3-frd-5 -->
 
 Explanation: Stromatolites are layered structures built by cyanobacterial mats trapping sediment; fossil examples from the Pilbara are about 3.5 billion years old, and living Shark Bay stromatolites help scientists interpret them.
 
-**A1162.** Fossilisation requires rare conditions (rapid burial, low oxygen), so most organisms decompose or are scavenged without forming fossils; soft-bodied organisms rarely fossilise; and many fossils are destroyed by erosion or geological activity, or have not yet been discovered. (Any two.)
+**A1164.** Fossilisation requires rare conditions (rapid burial, low oxygen), so most organisms decompose or are scavenged without forming fossils; soft-bodied organisms rarely fossilise; and many fossils are destroyed by erosion or geological activity, or have not yet been discovered. (Any two.)
 <!-- id: bio34a3-frd-6 -->
 
 Explanation:
 
-**A1163.** The volcanic ash layers were dated by absolute (radiometric) dating, e.g. potassium-argon dating, which measures the ratio of a parent isotope to its stable daughter product and uses the known half-life; sedimentary rock itself cannot easily be dated this way; by superposition, the fossil is younger than the lower layer and older than the upper layer, so it is between 3.2 and 3.6 million years old.
+**A1165.** The volcanic ash layers were dated by absolute (radiometric) dating, e.g. potassium-argon dating, which measures the ratio of a parent isotope to its stable daughter product and uses the known half-life; sedimentary rock itself cannot easily be dated this way; by superposition, the fossil is younger than the lower layer and older than the upper layer, so it is between 3.2 and 3.6 million years old.
 <!-- id: bio34a3-frd-7 -->
 
 Explanation:
 
-**A1164.** An index fossil is from a species that was widespread geographically but existed for a relatively short period of time; if the same index fossil is found in rock layers at both sites, the layers can be inferred to be of similar age (relative dating/correlation).
+**A1166.** An index fossil is from a species that was widespread geographically but existed for a relatively short period of time; if the same index fossil is found in rock layers at both sites, the layers can be inferred to be of similar age (relative dating/correlation).
 <!-- id: bio34a3-frd-8 -->
 
 Explanation:
 
 #### Evidence of relatedness and phylogenetic trees
 
-**A1165.** C. homologous structures, showing divergent evolution from a common ancestor.
+**A1167.** C. homologous structures, showing divergent evolution from a common ancestor.
 <!-- id: bio34a3-erp-1 -->
 
 Explanation: Homologous structures share the same underlying structure inherited from a common ancestor but have been modified for different functions (divergent evolution). Analogous structures have similar functions but different origins.
 
-**A1166.** B. analogous structures.
+**A1168.** B. analogous structures.
 <!-- id: bio34a3-erp-2 -->
 
 Explanation: Bird and insect wings both enable flight but have entirely different structures and evolutionary origins, so they are analogous, resulting from convergent evolution under similar selection pressures.
 
-**A1167.** C. Humans share a more recent common ancestor with the rhesus monkey than with any of the other species listed.
+**A1169.** C. Humans share a more recent common ancestor with the rhesus monkey than with any of the other species listed.
 <!-- id: bio34a3-erp-3 -->
 
 Explanation: The fewer amino acid differences, the more recent the common ancestor. Rhesus monkey has only 1 difference. The data compare each species with humans, so they do not show how kangaroos relate to dogs.
 
-**A1168.** B. a common ancestor from which two or more lineages diverged.
+**A1170.** B. a common ancestor from which two or more lineages diverged.
 <!-- id: bio34a3-erp-4 -->
 
 Explanation: Each node (branch point) represents a hypothetical common ancestor where lineages split. The tips of branches represent the taxa being compared.
 
-**A1169.** D. DNA comparisons detect all changes, including silent mutations and non-coding regions that do not alter amino acids.
+**A1171.** D. DNA comparisons detect all changes, including silent mutations and non-coding regions that do not alter amino acids.
 <!-- id: bio34a3-erp-5 -->
 
 Explanation: Because the genetic code is degenerate, some DNA changes do not change the amino acid sequence; DNA also includes non-coding regions. DNA comparisons therefore reveal more differences and give finer resolution of relatedness.
 
-**A1170.** Vestigial structures are reduced structures that have little or no function in the organism but were functional in its ancestors; example: the human coccyx (tailbone), or pelvic bones in whales/pythons; they provide evidence that the species shares a common ancestor with organisms in which the structure is functional, having been retained from that ancestor but reduced through evolution as it lost its selective advantage.
+**A1172.** Vestigial structures are reduced structures that have little or no function in the organism but were functional in its ancestors; example: the human coccyx (tailbone), or pelvic bones in whales/pythons; they provide evidence that the species shares a common ancestor with organisms in which the structure is functional, having been retained from that ancestor but reduced through evolution as it lost its selective advantage.
 <!-- id: bio34a3-erp-6 -->
 
 Explanation:
 
-**A1171.** P and Q are most closely related (2 differences) and share the most recent common ancestor; R and S are more closely related to each other (4 differences) than to P or Q, forming a second group; the two groups (P+Q and R+S) diverged from an earlier common ancestor, at the base of the tree.
+**A1173.** P and Q are most closely related (2 differences) and share the most recent common ancestor; R and S are more closely related to each other (4 differences) than to P or Q, forming a second group; the two groups (P+Q and R+S) diverged from an earlier common ancestor, at the base of the tree.
 <!-- id: bio34a3-erp-7 -->
 
 Explanation:
 
-**A1172.** The number of DNA (or amino acid) differences between two species is counted; dividing by the known mutation rate (calibrated using fossils of known age) estimates the time since they shared a common ancestor; limitation: mutation rates can vary between genes, species and over time (e.g. due to generation time or selection), so estimates may be inaccurate.
+**A1174.** The number of DNA (or amino acid) differences between two species is counted; dividing by the known mutation rate (calibrated using fossils of known age) estimates the time since they shared a common ancestor; limitation: mutation rates can vary between genes, species and over time (e.g. due to generation time or selection), so estimates may be inaccurate.
 <!-- id: bio34a3-erp-8 -->
 
 Explanation:
 
 #### Human evolution
 
-**A1173.** B. A foramen magnum positioned centrally underneath the skull
+**A1175.** B. A foramen magnum positioned centrally underneath the skull
 <!-- id: bio34a3-hev-1 -->
 
 Explanation: A centrally placed foramen magnum allows the skull to balance on top of a vertical spine, indicating bipedalism. In quadrupedal apes it is positioned further back. The other features relate to diet or general morphology.
 
-**A1174.** C. short, broad and bowl-shaped, supporting the internal organs and attachment of walking muscles.
+**A1176.** C. short, broad and bowl-shaped, supporting the internal organs and attachment of walking muscles.
 <!-- id: bio34a3-hev-2 -->
 
 Explanation: The human pelvis is short and bowl-shaped, supporting abdominal organs during upright posture and positioning muscles for efficient bipedal walking. Chimpanzees have a long, narrow pelvis suited to quadrupedal locomotion.
 
-**A1175.** B. Homo sapiens interbred with Neanderthals and Denisovans after migrating out of Africa.
+**A1177.** B. Homo sapiens interbred with Neanderthals and Denisovans after migrating out of Africa.
 <!-- id: bio34a3-hev-3 -->
 
 Explanation: Shared DNA segments indicate interbreeding (gene flow) between Homo sapiens and archaic hominins in Eurasia after the out-of-Africa migration. Homo sapiens evolved in Africa, not from Neanderthals.
 
-**A1176.** C. 65 000 years.
+**A1178.** C. 65 000 years.
 <!-- id: bio34a3-hev-4 -->
 
 Explanation: Artefacts at Madjedbebe have been dated to around 65 000 years ago, supporting the long, continuous presence of Aboriginal peoples in Australia. Homo sapiens has existed for only about 300 000 years.
 
-**A1177.** D. modern humans and extinct species more closely related to humans than to chimpanzees.
+**A1179.** D. modern humans and extinct species more closely related to humans than to chimpanzees.
 <!-- id: bio34a3-hev-5 -->
 
 Explanation: Hominins are the group consisting of modern humans and extinct relatives on the human lineage after its split from the chimpanzee lineage (e.g. Australopithecus, Homo erectus). Hominids include all great apes.
 
-**A1178.** Valgus angle: the femurs angle inwards towards the knees, placing the feet under the body's centre of gravity for balance when walking; short, broad, bowl-shaped pelvis: supports the internal organs and provides attachment for muscles that stabilise the body on one leg during walking; (also accept S-shaped spine, which positions the centre of gravity over the hips and absorbs shock; or arched foot and non-opposable big toe in line with other toes, which act as a lever and absorb shock).
+**A1180.** Valgus angle: the femurs angle inwards towards the knees, placing the feet under the body's centre of gravity for balance when walking; short, broad, bowl-shaped pelvis: supports the internal organs and provides attachment for muscles that stabilise the body on one leg during walking; (also accept S-shaped spine, which positions the centre of gravity over the hips and absorbs shock; or arched foot and non-opposable big toe in line with other toes, which act as a lever and absorb shock).
 <!-- id: bio34a3-hev-6 -->
 
 Explanation:
 
-**A1179.** mtDNA is inherited only through the maternal line and does not recombine, so changes accumulate only by mutation at a relatively constant rate; African populations show the greatest mtDNA diversity, indicating they are the oldest (more time to accumulate mutations); non-African populations carry a subset of African lineages, and molecular clock estimates trace all modern mtDNA to a common female ancestor in Africa, supporting a recent African origin and later migration.
+**A1181.** mtDNA is inherited only through the maternal line and does not recombine, so changes accumulate only by mutation at a relatively constant rate; African populations show the greatest mtDNA diversity, indicating they are the oldest (more time to accumulate mutations); non-African populations carry a subset of African lineages, and molecular clock estimates trace all modern mtDNA to a common female ancestor in Africa, supporting a recent African origin and later migration.
 <!-- id: bio34a3-hev-7 -->
 
 Explanation:
 
-**A1180.** Scientific models are based on available evidence, and the fossil record is incomplete; a new species with an unexpected combination of features (small brain and body, yet recent age and tool use) shows that several hominin species co-existed and that the human family tree is more branched than previously thought, so models must be revised.
+**A1182.** Scientific models are based on available evidence, and the fossil record is incomplete; a new species with an unexpected combination of features (small brain and body, yet recent age and tool use) shows that several hominin species co-existed and that the human family tree is more branched than previously thought, so models must be revised.
 <!-- id: bio34a3-hev-8 -->
 
 Explanation:
 
 ### Exam-style questions (mixed topics)
 
-**A1181.** Human insulin, from gene to bacteria
+**A1183.** Human insulin, from gene to bacteria
 <!-- id: vce-bio34-x1 -->
 *Multi-part question · 11 marks*
 
@@ -6217,7 +6322,7 @@ Common mistake: Assuming every resistant colony has the recombinant plasmid. Res
 
 Topic: Recombinant plasmids and transformation (vce-bio34-recombinant-plasmids-and-transformation)
 
-**A1182.** A new virus: immunity, vaccines and resistance
+**A1184.** A new virus: immunity, vaccines and resistance
 <!-- id: vce-bio34-x2 -->
 *Multi-part question · 11 marks*
 
@@ -6266,3 +6371,108 @@ Topic: Types of immunity and vaccination (vce-bio34-types-of-immunity-and-vaccin
 Common mistake: Saying the virus 'became resistant because of the drug' or 'adapted to the drug'. Resistance comes from a random mutation that the drug then selects for.
 
 Topic: Antibiotic and antiviral resistance (vce-bio34-antibiotic-and-antiviral-resistance)
+
+**A1185.** Photosynthesis, Rubisco and a gene-edited crop
+<!-- id: vce-bio34-x3 -->
+*Multi-part question · 11 marks*
+
+**a.** In the stroma of the chloroplast; it uses ATP and NADPH. *(2 marks)*
+
+1. Location: the stroma of the chloroplast. *(1 mark)*
+2. Inputs from the light-dependent stage: ATP and NADPH. *(1 mark)*
+
+Common mistake: Naming the thylakoid membranes (grana). They are the site of the light-dependent stage.
+
+Topic: Photosynthesis (vce-bio34-photosynthesis)
+
+**b.** Stomata close to save water, so CO₂ falls and O₂ builds up inside the leaf; Rubisco then binds O₂ more often (photorespiration), so less carbon is fixed. *(2 marks)*
+
+1. The plant closes its stomata to reduce water loss, so CO₂ cannot enter and O₂ accumulates in the leaf. *(1 mark)*
+2. With a higher O₂ to CO₂ ratio, Rubisco binds O₂ more often, increasing photorespiration and reducing carbon fixation. *(1 mark)*
+
+Common mistake: Saying only that the enzyme denatures. The main effect at moderate heat is stomatal closure and photorespiration.
+
+Topic: Factors affecting enzymes and inhibition (vce-bio34-factors-affecting-enzymes-and-inhibition)
+
+**c.** They first fix CO₂ into a 4-carbon compound in mesophyll cells, then release it in bundle-sheath cells, keeping CO₂ concentration high around Rubisco. *(2 marks)*
+
+1. In mesophyll cells, CO₂ is first fixed by an enzyme that does not bind O₂, forming a 4-carbon compound. *(1 mark)*
+2. This compound is moved to bundle-sheath cells and releases CO₂ there, so Rubisco is surrounded by high CO₂ and rarely binds O₂. *(1 mark)*
+
+Common mistake: Describing CAM plants, which separate the steps in time (night and day), not in space.
+
+Topic: C3, C4 and CAM plants (vce-bio34-c3-c4-and-cam-plants)
+
+**d.** The guide RNA is complementary to the target DNA and leads Cas9 to it; Cas9 then cuts both strands of the DNA at that site. *(2 marks)*
+
+1. The guide RNA has a sequence complementary to the target gene, so it binds there and directs Cas9 to the correct site (next to a PAM sequence). *(1 mark)*
+2. Cas9 is an endonuclease that cuts both strands of the DNA at the target site. *(1 mark)*
+
+Common mistake: Saying Cas9 finds the gene by itself. The guide RNA provides the specificity.
+
+Topic: CRISPR-Cas9 (vce-bio34-crispr-cas9)
+
+**e.** When the cell repairs the break, bases are often inserted or deleted, which can knock out the gene; or a supplied DNA template can be inserted. *(1 mark)*
+
+1. The cell repairs the double-strand break; errors in repair add or remove bases (disrupting the gene), or scientists supply a template so a new sequence is inserted. *(1 mark)*
+
+Common mistake: Saying Cas9 inserts the new gene. Cas9 only cuts; the cell's repair process makes the change.
+
+Topic: CRISPR-Cas9 (vce-bio34-crispr-cas9)
+
+**f.** Benefit: higher, more reliable yields in dry conditions. Concern: for example, effects on ecosystems or reduced genetic diversity if one variety is grown widely. *(2 marks)*
+
+1. A benefit, such as more reliable food production in drought, using less irrigation water. *(1 mark)*
+2. A concern, such as reduced genetic diversity, unknown ecological effects, or unequal access for farmers. *(1 mark)*
+
+Common mistake: Giving vague answers such as 'it is unnatural'. Name a specific biological, social or ethical issue.
+
+Topic: Biotechnology to improve yield (vce-bio34-biotechnology-to-improve-yield)
+
+**A1186.** Birds on two islands
+<!-- id: vce-bio34-x4 -->
+*Multi-part question · 9 marks*
+
+**a.** The water was a geographical barrier that stopped gene flow. Different selection pressures, mutations and genetic drift changed allele frequencies differently on each island. Over time the populations became reproductively isolated, forming separate species (allopatric speciation). *(3 marks)*
+
+1. A geographical barrier (the sea) separated the populations, so there was no gene flow between them. *(1 mark)*
+2. Different selection pressures (for example different seeds), new mutations and genetic drift changed allele frequencies differently in each population. *(1 mark)*
+3. Over many generations the populations became reproductively isolated, so they could no longer interbreed: separate species. *(1 mark)*
+
+Common mistake: Saying the birds changed in order to adapt to each island. Variation arises randomly; selection acts on it.
+
+Topic: Speciation (vce-bio34-speciation)
+
+**b.** A bottleneck effect (a type of genetic drift): the survivors carry only some of the original alleles, so genetic diversity falls and allele frequencies change by chance. *(2 marks)*
+
+1. Bottleneck effect, a form of genetic drift. *(1 mark)*
+2. The small surviving population carries only a random sample of alleles, so genetic diversity decreases and allele frequencies shift by chance, not by selection. *(1 mark)*
+
+Common mistake: Calling it natural selection. The storm killed birds at random, regardless of their traits.
+
+Topic: Mutations, gene flow and genetic drift (vce-bio34-mutations-gene-flow-and-genetic-drift)
+
+**c.i.** A and B *(1 mark)*
+
+1. A and B have the fewest differences (4), so they share the most recent common ancestor. *(1 mark)*
+
+Common mistake: Choosing the pair with the most differences.
+
+Topic: Evidence of relatedness and phylogenetic trees (vce-bio34-evidence-of-relatedness-and-phylogenetic-trees)
+
+**c.ii.** Mutations accumulate at a roughly constant rate, so more differences mean more time since the species shared a common ancestor (a molecular clock). *(1 mark)*
+
+1. If mutations build up at an approximately constant rate, the number of differences acts as a molecular clock: more differences means a longer time since divergence. *(1 mark)*
+
+Common mistake: Saying more differences mean the species are more advanced.
+
+Topic: Evidence of relatedness and phylogenetic trees (vce-bio34-evidence-of-relatedness-and-phylogenetic-trees)
+
+**d.** Between 2.1 and 2.4 million years old; the ash layers are dated by absolute (radiometric) dating, and the fossil's position between them uses relative dating (the law of superposition). *(2 marks)*
+
+1. The fossil is between 2.1 and 2.4 million years old. *(1 mark)*
+2. The ash layers are dated by radiometric (absolute) dating; the fossil's age comes from its position between them (relative dating, superposition). *(1 mark)*
+
+Common mistake: Saying the fossil itself was radiometrically dated. Here its age comes from the layers around it.
+
+Topic: Fossil record and dating (vce-bio34-fossil-record-and-dating)

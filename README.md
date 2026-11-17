@@ -8,7 +8,7 @@ A free, independent revision site, built as a single self-contained HTML page.
 
 Topic-by-topic practice quizzes for:
 
-- **VCE Units 3 & 4:** Mathematical Methods, General Mathematics, Specialist Mathematics, Chemistry, Physics, Biology, Psychology
+- **VCE Units 3 & 4:** Mathematical Methods, General Mathematics, Specialist Mathematics, Chemistry, Physics, Biology, Psychology, English and EAL, Chinese Second Language
 - **VCE Units 1 & 2:** Chemistry, Biology, Psychology, Mathematical Methods, Physics
 - **GCSE (Edexcel, Triple Higher):** Biology
 
@@ -19,7 +19,7 @@ Question types:
 - **Multiple choice**, marked instantly, with an explanation.
 - **Written**, where you compare your answer with a model answer and its explanation, then mark yourself.
 - **Multi-part** (SAC-style, inside a subtopic quiz): a short context followed by parts a, b, c… Each part has a model answer, a worked solution whose steps show the marks they earn, and a common mistake. You give yourself the marks you earned for each part.
-- **Exam-style** (listed at the bottom of each subject page): long multi-part questions where one context runs through several topics, like the extended-response section of a VCE exam. Each opens on its own page (`#x-<id>`), and **Full exam-style test** (`#test-<subject>`) puts all of a subject's exam-style questions on one page. The results show marks by question and which subtopics lost marks. Every VCE subject (Units 1 & 2 and Units 3 & 4) has at least two; Units 3 & 4 Mathematical Methods has three. GCSE Biology has none, so its page has no exam-style section.
+- **Exam-style** (listed at the bottom of each subject page): long multi-part questions where one context runs through several topics, like the extended-response section of a VCE exam. Each opens on its own page (`#x-<id>`), and **Full exam-style test** (`#test-<subject>`) puts all of a subject's exam-style questions on one page. The results show marks by question and which subtopics lost marks. Every VCE maths and science subject, plus Biology and Psychology (Units 1 & 2 and Units 3 & 4), has four; Units 3 & 4 Mathematical Methods has five. English and EAL and Chinese Second Language keep their long tasks (essays, argument analysis, reading passages, writing tasks) inside their subtopics instead. GCSE Biology has none, so its page has no exam-style section.
 
 Scores are counted in marks: multiple-choice and written questions are worth 1 mark each, multi-part questions the sum of their parts.
 
@@ -73,7 +73,10 @@ Corrections and new questions are welcome as [issues](https://github.com/m3gabra
 - `tech` is `"free"` (technology-free) or `"active"` (CAS allowed). Leave it out for subjects without that split, such as Chemistry and Physics. Info pieces can also carry a `table` (`{"rows": [[...], ...]}`, first cell of each row is its heading) or a `diagram` (`{"svg": "<svg aria-hidden=\"true\" ...>", "alt": "text alternative"}`), and can sit between parts.
 - A part's step marks must add up to its `marks`; the question's total is the sum of its parts. `topic` is the subtopic slug that the part tests, which is how results show where marks were lost.
 - Write maths in LaTeX between `\( \)` (inline) or `\[ \]` (display). `$` is not a maths delimiter, because many questions use it for money. In the JSON every LaTeX backslash must be doubled (`\\frac`, not `\frac`, which JSON reads as a form feed); `scripts/verify.py` reports any string holding a control character.
+- A part can also have `sample`, a list of paragraphs shown as a "Sample response" (used for essays and writing tasks); its steps are then headed "Marking guide". A question can set `steps_label` (for example `"Marking points"`) to replace the default "Worked solution" heading, as English and Chinese do.
+- Chinese text needs no markup: the page wraps runs of Chinese characters in `lang="zh-Hans"` so screen readers pronounce them correctly.
 - Source labels must not claim a question is a VCAA question. Write original questions; past papers and textbooks may only guide the style.
+- English quotations must be exact. Quotes from *Jane Eyre*, *Twelfth Night* and *My Brilliant Career* were checked word for word against the Project Gutenberg texts; quotes from in-copyright texts are kept short and few, were checked against published quote collections, and their cards ask students to confirm the page in their own edition.
 
 ## Licence
 
