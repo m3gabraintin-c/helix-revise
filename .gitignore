@@ -13,3 +13,8 @@
 node_modules/
 .env
 *.log
+
+# Question database: built locally from db/schema.sql + db/data.sql
+db/helix.sqlite
+db/helix.sqlite-journal
+__pycache__/
