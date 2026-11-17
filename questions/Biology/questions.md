@@ -5975,9 +5975,30 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 *Written answer*
 
+**Q859.** Some desert shrubs have silvery, hairy leaves. The hairs reflect sunlight and trap a layer of humid air against the leaf surface. These features are best classified as
+<!-- id: bio12a3-aus-29 -->
+
+- A. physiological
+- B. reproductive
+- C. structural
+- D. behavioural
+
+**Q860.** The greater bilby of arid central Australia has large ears with many blood vessels close to the skin. The main function of these ears is most likely to
+<!-- id: bio12a3-aus-30 -->
+
+- A. lose body heat from the blood vessels in the ears, helping the bilby regulate its body temperature
+- B. detect predators from a long distance, as the ears of an owl do
+- C. store water in the blood vessels of the ears during dry periods
+- D. display the ears to attract mates, as in many other mammals
+
+**Q861.** Explain how torpor helps the mountain pygmy-possum survive alpine winters when food is scarce. (2 marks)
+<!-- id: bio12a3-aus-31 -->
+
+*Written answer*
+
 #### Interdependencies and keystone species
 
-**Q859.** A keystone species is best defined as a species that
+**Q862.** A keystone species is best defined as a species that
 <!-- id: bio12a3-inter-1 -->
 
 - A. is the most abundant species in an ecosystem
@@ -5985,7 +6006,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. is always the top predator in a food web
 - D. is found only in one ecosystem
 
-**Q860.** Clownfish live among the stinging tentacles of sea anemones, gaining protection, while the anemone gains nutrients from clownfish waste and protection from some predators. This relationship is an example of
+**Q863.** Clownfish live among the stinging tentacles of sea anemones, gaining protection, while the anemone gains nutrients from clownfish waste and protection from some predators. This relationship is an example of
 <!-- id: bio12a3-inter-2 -->
 
 - A. parasitism
@@ -5993,7 +6014,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. mutualism
 - D. amensalism
 
-**Q861.** In south-eastern Australian kelp forests, removing a predator of sea urchins led to a large increase in sea urchin numbers and the loss of most kelp. This chain of effects is best described as
+**Q864.** In south-eastern Australian kelp forests, removing a predator of sea urchins led to a large increase in sea urchin numbers and the loss of most kelp. This chain of effects is best described as
 <!-- id: bio12a3-inter-3 -->
 
 - A. a trophic cascade
@@ -6001,7 +6022,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. primary succession
 - D. biomagnification
 
-**Q862.** Mistletoe attaches to eucalypt branches and extracts water and nutrients from the host. The relationship between mistletoe and its host is
+**Q865.** Mistletoe attaches to eucalypt branches and extracts water and nutrients from the host. The relationship between mistletoe and its host is
 <!-- id: bio12a3-inter-4 -->
 
 - A. mutualism
@@ -6009,7 +6030,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. parasitism
 - D. predation of a herbivore
 
-**Q863.** Dingoes have been suggested as a keystone species in parts of arid Australia. In areas where dingoes are controlled, red fox and feral cat numbers increase and small native mammal numbers decline. Which explanation best fits these observations?
+**Q866.** Dingoes have been suggested as a keystone species in parts of arid Australia. In areas where dingoes are controlled, red fox and feral cat numbers increase and small native mammal numbers decline. Which explanation best fits these observations?
 <!-- id: bio12a3-inter-5 -->
 
 - A. Dingoes compete with small native mammals for food
@@ -6017,22 +6038,22 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Foxes and cats are prey of small native mammals
 - D. Dingoes spread disease to foxes and cats only when their numbers are low
 
-**Q864.** Describe the difference between interspecific and intraspecific competition, and give an example of each in an Australian ecosystem. (3 marks)
+**Q867.** Describe the difference between interspecific and intraspecific competition, and give an example of each in an Australian ecosystem. (3 marks)
 <!-- id: bio12a3-inter-6 -->
 
 *Written answer*
 
-**Q865.** Flying foxes (fruit bats) feed on the nectar and fruit of many native trees. Explain why flying foxes could be considered a keystone species in Australian forests. (3 marks)
+**Q868.** Flying foxes (fruit bats) feed on the nectar and fruit of many native trees. Explain why flying foxes could be considered a keystone species in Australian forests. (3 marks)
 <!-- id: bio12a3-inter-7 -->
 
 *Written answer*
 
-**Q866.** A food web contains the following feeding relationships: grass → grasshopper → magpie; grass → kangaroo → dingo; grasshopper → skink → kookaburra. Predict and explain the effect on the skink population if a disease greatly reduced the grasshopper population. (2 marks)
+**Q869.** A food web contains the following feeding relationships: grass → grasshopper → magpie; grass → kangaroo → dingo; grasshopper → skink → kookaburra. Predict and explain the effect on the skink population if a disease greatly reduced the grasshopper population. (2 marks)
 <!-- id: bio12a3-inter-8 -->
 
 *Written answer*
 
-**Q867.** Barnacles attach to the skin of a whale and filter plankton from the water that passes the whale. The whale is neither helped nor harmed by the barnacles. This relationship is best described as
+**Q870.** Barnacles attach to the skin of a whale and filter plankton from the water that passes the whale. The whale is neither helped nor harmed by the barnacles. This relationship is best described as
 <!-- id: bio12a3-inter-9 -->
 
 - A. parasitism
@@ -6040,7 +6061,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. mutualism
 - D. competition
 
-**Q868.** A eucalypt releases chemicals from its leaves that stop seeds of other plant species from germinating in the soil beneath it. The eucalypt gains nothing and is not affected by this. The relationship is an example of
+**Q871.** A eucalypt releases chemicals from its leaves that stop seeds of other plant species from germinating in the soil beneath it. The eucalypt gains nothing and is not affected by this. The relationship is an example of
 <!-- id: bio12a3-inter-10 -->
 
 - A. mutualism
@@ -6048,7 +6069,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. amensalism
 - D. commensalism
 
-**Q869.** Lichens are made of a fungus and an alga living closely together. The fungus supplies water and minerals, and the alga supplies sugars made by photosynthesis. Both partners gain from the relationship. This relationship is best described as
+**Q872.** Lichens are made of a fungus and an alga living closely together. The fungus supplies water and minerals, and the alga supplies sugars made by photosynthesis. Both partners gain from the relationship. This relationship is best described as
 <!-- id: bio12a3-inter-11 -->
 
 - A. parasitism
@@ -6056,7 +6077,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. competition
 - D. mutualism
 
-**Q870.** A fan-tailed cuckoo lays its eggs in the nest of a thornbill. The cuckoo chick is raised by the thornbill parents, who feed it at the expense of their own young. This relationship is best described as
+**Q873.** A fan-tailed cuckoo lays its eggs in the nest of a thornbill. The cuckoo chick is raised by the thornbill parents, who feed it at the expense of their own young. This relationship is best described as
 <!-- id: bio12a3-inter-12 -->
 
 - A. parasitism
@@ -6064,7 +6085,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. commensalism
 - D. mutualism
 
-**Q871.** A powerful owl hunts and eats ringtail possums, killing each one it catches. The relationship between the owl and the possum is best described as
+**Q874.** A powerful owl hunts and eats ringtail possums, killing each one it catches. The relationship between the owl and the possum is best described as
 <!-- id: bio12a3-inter-13 -->
 
 - A. commensalism
@@ -6072,7 +6093,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. mutualism
 - D. parasitism
 
-**Q872.** Which statement best distinguishes an indicator species from a keystone species?
+**Q875.** Which statement best distinguishes an indicator species from a keystone species?
 <!-- id: bio12a3-inter-14 -->
 
 - A. An indicator species is always rare, while a keystone species is always common
@@ -6080,7 +6101,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. The presence or absence of an indicator species reflects environmental conditions, while a keystone species has a large effect on community structure relative to its abundance
 - D. An indicator species can live in only one ecosystem, while a keystone species is found in many
 
-**Q873.** Which example best describes an ecosystem engineer?
+**Q876.** Which example best describes an ecosystem engineer?
 <!-- id: bio12a3-inter-15 -->
 
 - A. a koala that feeds on eucalypt leaves
@@ -6088,7 +6109,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. a fig tree that is the most abundant plant in a rainforest
 - D. a wombat whose burrows provide shelter for many other species
 
-**Q874.** Which organism is a decomposer?
+**Q877.** Which organism is a decomposer?
 <!-- id: bio12a3-inter-16 -->
 
 - A. a fungus breaking down a fallen eucalypt log
@@ -6096,7 +6117,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. a koala feeding on eucalypt leaves
 - D. a dingo hunting a kangaroo
 
-**Q875.** The competitive exclusion principle predicts that two species with identical niches
+**Q878.** The competitive exclusion principle predicts that two species with identical niches
 <!-- id: bio12a3-inter-17 -->
 
 - A. will always evolve to use different niches
@@ -6104,7 +6125,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. cannot coexist indefinitely in the same place, and one is eventually eliminated
 - D. will coexist in equal numbers
 
-**Q876.** Two bird species feed on the same insect prey in a eucalypt woodland. Over time they are observed feeding in different parts of the trees, with one feeding on the bark and the other in the canopy. This most likely reflects
+**Q879.** Two bird species feed on the same insect prey in a eucalypt woodland. Over time they are observed feeding in different parts of the trees, with one feeding on the bark and the other in the canopy. This most likely reflects
 <!-- id: bio12a3-inter-18 -->
 
 - A. interspecific competition that has caused one species to become extinct
@@ -6112,7 +6133,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. a trophic cascade caused by a predator
 - D. reduced competition through resource partitioning
 
-**Q877.** In a grassland, grass captures 20 000 kJ of energy. Grasshoppers eat the grass, and lizards eat the grasshoppers. Using the 10% energy transfer rule between each trophic level, how much energy is available to the lizards?
+**Q880.** In a grassland, grass captures 20 000 kJ of energy. Grasshoppers eat the grass, and lizards eat the grasshoppers. Using the 10% energy transfer rule between each trophic level, how much energy is available to the lizards?
 <!-- id: bio12a3-inter-19 -->
 
 - A. 200 kJ
@@ -6120,7 +6141,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 20 kJ
 - D. 10 000 kJ
 
-**Q878.** A rainbow lorikeet feeds on nectar and pollen from flowering eucalypts. In the food chain eucalypt → rainbow lorikeet, the lorikeet is best classified as a
+**Q881.** A rainbow lorikeet feeds on nectar and pollen from flowering eucalypts. In the food chain eucalypt → rainbow lorikeet, the lorikeet is best classified as a
 <!-- id: bio12a3-inter-20 -->
 
 - A. producer
@@ -6128,7 +6149,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. secondary consumer
 - D. decomposer
 
-**Q879.** In the notation used for species interactions, a relationship shown as (+/0) means
+**Q882.** In the notation used for species interactions, a relationship shown as (+/0) means
 <!-- id: bio12a3-inter-21 -->
 
 - A. one species benefits and the other is harmed
@@ -6136,54 +6157,62 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. one species benefits and the other is unaffected
 - D. both species benefit
 
-**Q880.** Define the term trophic level. (1 mark)
+**Q883.** Define the term trophic level. (1 mark)
 <!-- id: bio12a3-inter-22 -->
 
 *Written answer*
 
-**Q881.** Explain why food chains rarely have more than four or five trophic levels. (2 marks)
+**Q884.** Explain why food chains rarely have more than four or five trophic levels. (2 marks)
 <!-- id: bio12a3-inter-23 -->
 
 *Written answer*
 
-**Q882.** Describe how mycorrhizal fungi and eucalypts are interdependent. (2 marks)
+**Q885.** Describe how mycorrhizal fungi and eucalypts are interdependent. (2 marks)
 <!-- id: bio12a3-inter-24 -->
 
 *Written answer*
 
-**Q883.** Explain why a common and widespread species is not necessarily a keystone species. (2 marks)
+**Q886.** Explain why a common and widespread species is not necessarily a keystone species. (2 marks)
 <!-- id: bio12a3-inter-25 -->
 
 *Written answer*
 
-**Q884.** Explain the difference between predation and parasitism. (2 marks)
+**Q887.** Explain the difference between predation and parasitism. (2 marks)
 <!-- id: bio12a3-inter-26 -->
 
 *Written answer*
 
-**Q885.** Cane toads have toxic skin secretions. Predict and explain the effect of cane toads on a native predator, the northern quoll, and on a prey species of the quoll. (3 marks)
+**Q888.** Cane toads have toxic skin secretions. Predict and explain the effect of cane toads on a native predator, the northern quoll, and on a prey species of the quoll. (3 marks)
 <!-- id: bio12a3-inter-27 -->
 
 *Written answer*
 
-**Q886.** Termites build mounds and tunnels in the soil of many Australian ecosystems. Explain how termites can act as ecosystem engineers, and describe one effect this has on other species. (3 marks)
+**Q889.** Termites build mounds and tunnels in the soil of many Australian ecosystems. Explain how termites can act as ecosystem engineers, and describe one effect this has on other species. (3 marks)
 <!-- id: bio12a3-inter-28 -->
 
 *Written answer*
 
-**Q887.** Algae in a pond capture 60 000 kJ of energy. Water fleas eat the algae, small fish eat the water fleas, and a kingfisher eats the small fish. Using the 10% energy transfer rule, calculate the energy available to the kingfisher. Show your working. (3 marks)
+**Q890.** Algae in a pond capture 60 000 kJ of energy. Water fleas eat the algae, small fish eat the water fleas, and a kingfisher eats the small fish. Using the 10% energy transfer rule, calculate the energy available to the kingfisher. Show your working. (3 marks)
 <!-- id: bio12a3-inter-29 -->
 
 *Written answer*
 
-**Q888.** A disease kills most of the seagrass in a meadow that provides food and shelter for dugongs, green turtles, juvenile fish and prawns. Explain the effects of this loss on at least three populations in the meadow, and describe one flow-on effect on the wider ecosystem. (4 marks)
+**Q891.** A disease kills most of the seagrass in a meadow that provides food and shelter for dugongs, green turtles, juvenile fish and prawns. Explain the effects of this loss on at least three populations in the meadow, and describe one flow-on effect on the wider ecosystem. (4 marks)
 <!-- id: bio12a3-inter-30 -->
 
 *Written answer*
 
+**Q892.** Fig trees in Australian rainforests depend on fig wasps for pollination. Each wasp species lays its eggs only inside the flowers of one fig species, and the developing wasps are housed in the fig, which also depends on the wasps to carry its pollen. This relationship is best described as
+<!-- id: bio12a3-inter-31 -->
+
+- A. parasitism, because the wasp lays its eggs inside the fig flowers
+- B. commensalism, because the wasp benefits and the fig is unaffected
+- C. predation, because the wasp eats the seeds inside the fig
+- D. mutualism, because the wasp and the fig both benefit and depend on each other to reproduce
+
 #### Aboriginal and Torres Strait Islander ecological knowledge
 
-**Q889.** Cultural burning practised by many Aboriginal communities typically involves
+**Q893.** Cultural burning practised by many Aboriginal communities typically involves
 <!-- id: bio12a3-ik-1 -->
 
 - A. large, intense fires lit in the hottest, driest part of summer
@@ -6191,7 +6220,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. burning only after every tree in an area has died
 - D. fires lit only to clear land permanently for agriculture
 
-**Q890.** Which is the most likely ecological benefit of a mosaic of patches burnt at different times?
+**Q894.** Which is the most likely ecological benefit of a mosaic of patches burnt at different times?
 <!-- id: bio12a3-ik-2 -->
 
 - A. It removes all habitat for small mammals
@@ -6199,7 +6228,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. It prevents any plant from flowering
 - D. It increases the likelihood of large, uncontrollable wildfires
 
-**Q891.** Seasonal calendars developed by Aboriginal and Torres Strait Islander peoples, such as those of the Gulumoerrgin (Larrakia) people around Darwin, are based on
+**Q895.** Seasonal calendars developed by Aboriginal and Torres Strait Islander peoples, such as those of the Gulumoerrgin (Larrakia) people around Darwin, are based on
 <!-- id: bio12a3-ik-3 -->
 
 - A. the four European seasons of spring, summer, autumn and winter
@@ -6207,7 +6236,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. the phases of the moon only
 - D. randomly assigned periods of equal length
 
-**Q892.** Fish traps such as those at Budj Bim in south-west Victoria, built by the Gunditjmara people, show that Aboriginal peoples
+**Q896.** Fish traps such as those at Budj Bim in south-west Victoria, built by the Gunditjmara people, show that Aboriginal peoples
 <!-- id: bio12a3-ik-4 -->
 
 - A. relied only on chance encounters to catch eels
@@ -6215,7 +6244,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. introduced eels from overseas
 - D. drained wetlands to farm crops
 
-**Q893.** Which statement best describes how Aboriginal and Torres Strait Islander knowledge can contribute to modern ecological management?
+**Q897.** Which statement best describes how Aboriginal and Torres Strait Islander knowledge can contribute to modern ecological management?
 <!-- id: bio12a3-ik-5 -->
 
 - A. It is only of historical interest and not relevant today
@@ -6223,22 +6252,22 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Working with Traditional Owners combines long-term, place-based knowledge with scientific methods, for example in ranger programs and fire management
 - D. It can be used without consultation once recorded in books
 
-**Q894.** Explain how cultural burning can reduce the impact of large bushfires and support biodiversity. (3 marks)
+**Q898.** Explain how cultural burning can reduce the impact of large bushfires and support biodiversity. (3 marks)
 <!-- id: bio12a3-ik-6 -->
 
 *Written answer*
 
-**Q895.** Give an example of how Aboriginal or Torres Strait Islander peoples use observations of one species to indicate the timing of a change in another species or in the environment, and explain why such indicators are biologically reliable. (2 marks)
+**Q899.** Give an example of how Aboriginal or Torres Strait Islander peoples use observations of one species to indicate the timing of a change in another species or in the environment, and explain why such indicators are biologically reliable. (2 marks)
 <!-- id: bio12a3-ik-7 -->
 
 *Written answer*
 
-**Q896.** Torres Strait Islander communities manage the harvest of dugong and green turtles. Suggest two ways that traditional knowledge and practices can contribute to the sustainable use of these species. (2 marks)
+**Q900.** Torres Strait Islander communities manage the harvest of dugong and green turtles. Suggest two ways that traditional knowledge and practices can contribute to the sustainable use of these species. (2 marks)
 <!-- id: bio12a3-ik-8 -->
 
 *Written answer*
 
-**Q897.** Traditional Ecological Knowledge held by Aboriginal and Torres Strait Islander peoples is best described as
+**Q901.** Traditional Ecological Knowledge held by Aboriginal and Torres Strait Islander peoples is best described as
 <!-- id: bio12a3-ik-9 -->
 
 - A. knowledge built over many generations through close observation of particular places and passed on through language, stories and practice
@@ -6246,7 +6275,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. knowledge limited to spiritual beliefs, with no practical ecological content
 - D. a fixed list of plant and animal names recorded by early European explorers
 
-**Q898.** Many savanna Traditional Owners burn early in the dry season rather than late in it, mainly because early, cooler burns
+**Q902.** Many savanna Traditional Owners burn early in the dry season rather than late in it, mainly because early, cooler burns
 <!-- id: bio12a3-ik-10 -->
 
 - A. produce the hottest fires, which clear the ground most thoroughly
@@ -6254,7 +6283,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. are the only type of fire that will spread through dry grass
 - D. allow fire to spread into closed forest so that new growth appears
 
-**Q899.** Some cycad seeds are toxic if eaten raw. Aboriginal peoples in northern Australia prepared them by soaking or leaching the seeds in water before eating them. The main purpose of this step was to
+**Q903.** Some cycad seeds are toxic if eaten raw. Aboriginal peoples in northern Australia prepared them by soaking or leaching the seeds in water before eating them. The main purpose of this step was to
 <!-- id: bio12a3-ik-11 -->
 
 - A. ferment the sugars so the seeds taste sweeter
@@ -6262,7 +6291,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. remove water-soluble toxins before the seed was eaten
 - D. reduce the protein content so the seed would store for longer
 
-**Q900.** An Indigenous Protected Area is best described as
+**Q904.** An Indigenous Protected Area is best described as
 <!-- id: bio12a3-ik-12 -->
 
 - A. land that the federal government leases to Traditional Owners for grazing
@@ -6270,7 +6299,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. a commercial fishing zone that Aboriginal people may use only for ceremonies
 - D. land or sea country that Traditional Owners have voluntarily dedicated for conservation, managed under their own plans and knowledge
 
-**Q901.** When gathering seed from a native grass or bush food, Traditional Owners often leave some of the seed on the plant. Why does this practice support sustainable use?
+**Q905.** When gathering seed from a native grass or bush food, Traditional Owners often leave some of the seed on the plant. Why does this practice support sustainable use?
 <!-- id: bio12a3-ik-13 -->
 
 - A. the remaining seed allows the plant population to regenerate and still feeds wildlife
@@ -6278,7 +6307,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. seed left on the plant always rots, so harvesting everything prevents waste
 - D. harvested plants produce more seed each year because of the damage
 
-**Q902.** In many Aboriginal kinship systems, particular plants and animals are linked to certain people, which can lead to
+**Q906.** In many Aboriginal kinship systems, particular plants and animals are linked to certain people, which can lead to
 <!-- id: bio12a3-ik-14 -->
 
 - A. a rule that every species must be eaten at least once each year
@@ -6286,7 +6315,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. the belief that species can be bought and sold within families
 - D. the view that people should never intervene, because species always look after themselves
 
-**Q903.** Some Aboriginal groups managed food plants such as yams not only by collecting them but by tending the plots. Which practice best illustrates this?
+**Q907.** Some Aboriginal groups managed food plants such as yams not only by collecting them but by tending the plots. Which practice best illustrates this?
 <!-- id: bio12a3-ik-15 -->
 
 - A. digging up every tuber in a patch and leaving no plant material behind
@@ -6294,7 +6323,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. replanting parts of the tuber and returning later, so the patch can supply food in future seasons
 - D. importing non-native crops to replace the native yams
 
-**Q904.** Many Australian plants have seeds or buds that respond to fire. How can a patchy, cool burn increase the abundance of such species?
+**Q908.** Many Australian plants have seeds or buds that respond to fire. How can a patchy, cool burn increase the abundance of such species?
 <!-- id: bio12a3-ik-16 -->
 
 - A. fire kills every seed in the soil, so the species must regrow only from roots
@@ -6302,7 +6331,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. fire permanently removes all competing plants, so the species never face competition again
 - D. heat and smoke can trigger germination or resprouting, and reduced competition gives these species room to grow
 
-**Q905.** Why do many Traditional Owners keep fire out of rainforest margins during burning?
+**Q909.** Why do many Traditional Owners keep fire out of rainforest margins during burning?
 <!-- id: bio12a3-ik-17 -->
 
 - A. rainforest is fire-resistant and benefits from hot, intense fire
@@ -6310,7 +6339,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. rainforest plants produce oils that make fire spread faster into the forest
 - D. rainforest trees need fire to open their seed pods
 
-**Q906.** In arid Australia, people can locate water by observing seed-eating birds such as finches and pigeons. Why is this an effective indicator?
+**Q910.** In arid Australia, people can locate water by observing seed-eating birds such as finches and pigeons. Why is this an effective indicator?
 <!-- id: bio12a3-ik-18 -->
 
 - A. the birds store water in their crops and release it near the surface
@@ -6318,7 +6347,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. the birds only nest near water, so any nest reveals a nearby spring
 - D. the birds feed only on water plants that grow in standing water
 
-**Q907.** Traditional Owners can find the nest of a native stingless bee (sugarbag) in a hollow tree by
+**Q911.** Traditional Owners can find the nest of a native stingless bee (sugarbag) in a hollow tree by
 <!-- id: bio12a3-ik-19 -->
 
 - A. listening for buzzing from inside tree trunks, mainly at night
@@ -6326,7 +6355,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. watching the foraging bees and following their flight lines back to the hollow
 - D. assuming the nest is in the closest tree to the nearest flower
 
-**Q908.** A tracker wants to judge how recently an animal passed through sandy ground. Which evidence is most useful?
+**Q912.** A tracker wants to judge how recently an animal passed through sandy ground. Which evidence is most useful?
 <!-- id: bio12a3-ik-20 -->
 
 - A. whether the edges of the print are sharp or crumbled, and whether wind, rain or dew has altered it
@@ -6334,7 +6363,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. the colour of the soil inside the print
 - D. the total number of tracks in the area, since more tracks always mean a more recent visit
 
-**Q909.** When scientists want to publish Aboriginal or Torres Strait Islander knowledge about a species, why is consent from the knowledge holders important?
+**Q913.** When scientists want to publish Aboriginal or Torres Strait Islander knowledge about a species, why is consent from the knowledge holders important?
 <!-- id: bio12a3-ik-21 -->
 
 - A. the knowledge belongs to the people who hold it, and some may be culturally restricted or sacred
@@ -6342,7 +6371,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. scientific journals will not publish any knowledge that comes from oral sources
 - D. consent is needed only for knowledge about animals, not plants
 
-**Q910.** Coastal Aboriginal communities often plan shellfish gathering around the lowest tides. What is the main ecological reason for this?
+**Q914.** Coastal Aboriginal communities often plan shellfish gathering around the lowest tides. What is the main ecological reason for this?
 <!-- id: bio12a3-ik-22 -->
 
 - A. high tides push shellfish into shallow water where they are easily caught
@@ -6350,28 +6379,46 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. shellfish only breed during high tides, so low tides are the safe time to harvest them
 - D. the lowest tides expose intertidal shellfish that are otherwise underwater and hard to reach
 
-**Q911.** Define the term 'Caring for Country' in the context of Aboriginal and Torres Strait Islander land management. (1 mark)
+**Q915.** Define the term 'Caring for Country' in the context of Aboriginal and Torres Strait Islander land management. (1 mark)
 <!-- id: bio12a3-ik-23 -->
 
 *Written answer*
 
-**Q912.** Explain why ecological knowledge built up over many generations in one place can be valuable for managing that place. (2 marks)
+**Q916.** Explain why ecological knowledge built up over many generations in one place can be valuable for managing that place. (2 marks)
 <!-- id: bio12a3-ik-24 -->
 
 *Written answer*
 
-**Q913.** A ranger team plans to reintroduce cultural burning on a property where dense shrubs have built up after decades without fire. Outline three steps the team could take to plan the burns safely and sustainably. (3 marks)
+**Q917.** A ranger team plans to reintroduce cultural burning on a property where dense shrubs have built up after decades without fire. Outline three steps the team could take to plan the burns safely and sustainably. (3 marks)
 <!-- id: bio12a3-ik-25 -->
 
 *Written answer*
 
-**Q914.** Explain why the Sea Country approach involves Torres Strait Islander and Aboriginal people in marine management rather than relying only on scientists. (2 marks)
+**Q918.** Explain why the Sea Country approach involves Torres Strait Islander and Aboriginal people in marine management rather than relying only on scientists. (2 marks)
 <!-- id: bio12a3-ik-26 -->
 
 *Written answer*
 
-**Q915.** Discuss how cultural burning can help reduce greenhouse gas emissions from northern Australian savannas. (4 marks)
+**Q919.** Discuss how cultural burning can help reduce greenhouse gas emissions from northern Australian savannas. (4 marks)
 <!-- id: bio12a3-ik-27 -->
+
+*Written answer*
+
+**Q920.** In arid Australia, people dug soaks in the sand of dry creek beds to reach water. The soaks worked because
+<!-- id: bio12a3-ik-28 -->
+
+- A. dew condensing on the sand overnight collected in the hollow
+- B. rain falling on the sand was stored there for several years
+- C. underground water flows beneath the dry creek bed, close enough to the surface to reach by digging
+- D. seasonal floodwater filled the hollow and never drained away
+
+**Q921.** Explain why cultural burners often light fires so that they move into the wind (backing fire) rather than with it. (2 marks)
+<!-- id: bio12a3-ik-29 -->
+
+*Written answer*
+
+**Q922.** Explain how stone fish traps on the Barwon River at Brewarrina could catch fish while leaving many fish free to continue upstream. (2 marks)
+<!-- id: bio12a3-ik-30 -->
 
 *Written answer*
 
@@ -6381,7 +6428,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 #### Nucleic acid structure
 
-**Q916.** Which combination correctly describes the components of a single DNA nucleotide?
+**Q923.** Which combination correctly describes the components of a single DNA nucleotide?
 <!-- id: bio34a1-nas-1 -->
 
 - A. A phosphate group, a ribose sugar and a nitrogenous base
@@ -6389,7 +6436,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. An amino group, a deoxyribose sugar and a carboxyl group
 - D. Two phosphate groups, a deoxyribose sugar and uracil
 
-**Q917.** A sample of double-stranded DNA from a native Australian frog contains 22% guanine. What percentage of the bases in this sample are thymine?
+**Q924.** A sample of double-stranded DNA from a native Australian frog contains 22% guanine. What percentage of the bases in this sample are thymine?
 <!-- id: bio34a1-nas-2 -->
 
 - A. 22%
@@ -6397,7 +6444,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 44%
 - D. 56%
 
-**Q918.** Adjacent nucleotides within one strand of DNA are joined by
+**Q925.** Adjacent nucleotides within one strand of DNA are joined by
 <!-- id: bio34a1-nas-3 -->
 
 - A. hydrogen bonds between complementary bases.
@@ -6405,7 +6452,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. phosphodiester bonds between the sugar of one nucleotide and the phosphate of the next.
 - D. disulfide bridges between nitrogenous bases.
 
-**Q919.** Which feature is found in RNA but not in DNA?
+**Q926.** Which feature is found in RNA but not in DNA?
 <!-- id: bio34a1-nas-4 -->
 
 - A. The base uracil
@@ -6413,7 +6460,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. The base cytosine
 - D. Nucleotides joined in a 5′ to 3′ direction
 
-**Q920.** Two DNA fragments are the same length. Fragment X has 60% G–C base pairs and fragment Y has 35% G–C base pairs. When both are heated, which outcome is most likely?
+**Q927.** Two DNA fragments are the same length. Fragment X has 60% G–C base pairs and fragment Y has 35% G–C base pairs. When both are heated, which outcome is most likely?
 <!-- id: bio34a1-nas-5 -->
 
 - A. Fragment Y separates into single strands at a higher temperature because it has more base pairs.
@@ -6421,24 +6468,24 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Fragment Y separates at a higher temperature because A–T pairs form three hydrogen bonds.
 - D. Fragment X separates into single strands at a higher temperature because G–C pairs form three hydrogen bonds.
 
-**Q921.** Explain what is meant by the statement that the two strands of a DNA molecule are 'antiparallel'. (2 marks)
+**Q928.** Explain what is meant by the statement that the two strands of a DNA molecule are 'antiparallel'. (2 marks)
 <!-- id: bio34a1-nas-6 -->
 
 *Written answer*
 
-**Q922.** One strand of a DNA segment reads 5′-ATGCCGTT-3′. Write the complementary DNA strand, labelling its 5′ and 3′ ends, and state the type of bond that holds the two strands together. (2 marks)
+**Q929.** One strand of a DNA segment reads 5′-ATGCCGTT-3′. Write the complementary DNA strand, labelling its 5′ and 3′ ends, and state the type of bond that holds the two strands together. (2 marks)
 <!-- id: bio34a1-nas-7 -->
 
 *Written answer*
 
-**Q923.** Compare the structure and role of mRNA and tRNA. (3 marks)
+**Q930.** Compare the structure and role of mRNA and tRNA. (3 marks)
 <!-- id: bio34a1-nas-8 -->
 
 *Written answer*
 
 #### Transcription and RNA processing
 
-**Q924.** During transcription in a eukaryotic cell, RNA polymerase
+**Q931.** During transcription in a eukaryotic cell, RNA polymerase
 <!-- id: bio34a1-trp-1 -->
 
 - A. binds to the start codon and reads the coding strand 5′ to 3′.
@@ -6446,7 +6493,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. joins Okazaki fragments to form a continuous pre-mRNA strand.
 - D. requires a primer before it can add the first ribonucleotide.
 
-**Q925.** The template strand of a DNA segment reads 3′-TACGGATTC-5′. What is the sequence of the mRNA transcribed from it?
+**Q932.** The template strand of a DNA segment reads 3′-TACGGATTC-5′. What is the sequence of the mRNA transcribed from it?
 <!-- id: bio34a1-trp-2 -->
 
 - A. 5′-ATGCCTAAG-3′
@@ -6454,7 +6501,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 5′-AUGCCUAAG-3′
 - D. 5′-UACGGAUUC-3′
 
-**Q926.** Which modification of pre-mRNA protects the mRNA from degradation at its 3′ end and helps its export from the nucleus?
+**Q933.** Which modification of pre-mRNA protects the mRNA from degradation at its 3′ end and helps its export from the nucleus?
 <!-- id: bio34a1-trp-3 -->
 
 - A. Addition of a poly-A tail
@@ -6462,7 +6509,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Removal of exons by the spliceosome
 - D. Addition of a signal peptide
 
-**Q927.** A gene contains 4 exons and 3 introns. Which statement about the mature mRNA produced from this gene is correct?
+**Q934.** A gene contains 4 exons and 3 introns. Which statement about the mature mRNA produced from this gene is correct?
 <!-- id: bio34a1-trp-4 -->
 
 - A. It contains the 3 introns only, because exons are removed during splicing.
@@ -6470,7 +6517,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. It can only ever contain all 4 exons in the same order.
 - D. It may contain different combinations of exons in different cells due to alternative splicing.
 
-**Q928.** Researchers compare the length of a human gene in the genome with the length of its mature mRNA in the cytoplasm. The gene is 18 000 nucleotides long but the mature mRNA is 2400 nucleotides long. The best explanation is that
+**Q935.** Researchers compare the length of a human gene in the genome with the length of its mature mRNA in the cytoplasm. The gene is 18 000 nucleotides long but the mature mRNA is 2400 nucleotides long. The best explanation is that
 <!-- id: bio34a1-trp-5 -->
 
 - A. transcription stopped early because of a mutation in the promoter.
@@ -6478,24 +6525,24 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. the mRNA was partially translated before it left the nucleus.
 - D. only the coding strand was transcribed.
 
-**Q929.** Outline the three main processing steps that convert pre-mRNA into mature mRNA in a eukaryotic cell. (3 marks)
+**Q936.** Outline the three main processing steps that convert pre-mRNA into mature mRNA in a eukaryotic cell. (3 marks)
 <!-- id: bio34a1-trp-6 -->
 
 *Written answer*
 
-**Q930.** Explain how alternative splicing allows the human genome of about 20 000 protein-coding genes to produce a much larger number of different proteins. (2 marks)
+**Q937.** Explain how alternative splicing allows the human genome of about 20 000 protein-coding genes to produce a much larger number of different proteins. (2 marks)
 <!-- id: bio34a1-trp-7 -->
 
 *Written answer*
 
-**Q931.** Transcription occurs in the nucleus of a eukaryotic cell, whereas in a prokaryote transcription and translation occur together in the cytoplasm. Give one structural reason for this difference and one consequence for RNA processing. (2 marks)
+**Q938.** Transcription occurs in the nucleus of a eukaryotic cell, whereas in a prokaryote transcription and translation occur together in the cytoplasm. Give one structural reason for this difference and one consequence for RNA processing. (2 marks)
 <!-- id: bio34a1-trp-8 -->
 
 *Written answer*
 
 #### Translation and the genetic code
 
-**Q932.** The genetic code is described as 'degenerate'. This means that
+**Q939.** The genetic code is described as 'degenerate'. This means that
 <!-- id: bio34a1-tgc-1 -->
 
 - A. a single codon can code for more than one amino acid.
@@ -6503,7 +6550,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. most amino acids are coded for by more than one codon.
 - D. codons overlap so that one base can belong to two codons.
 
-**Q933.** A tRNA molecule carries the anticodon 3′-UAC-5′. Which mRNA codon does it pair with?
+**Q940.** A tRNA molecule carries the anticodon 3′-UAC-5′. Which mRNA codon does it pair with?
 <!-- id: bio34a1-tgc-2 -->
 
 - A. 5′-AUG-3′
@@ -6511,7 +6558,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 5′-CAU-3′
 - D. 5′-ATG-3′
 
-**Q934.** A mature mRNA has 900 nucleotides between and including the start codon and the stop codon. What is the maximum number of amino acids in the polypeptide produced?
+**Q941.** A mature mRNA has 900 nucleotides between and including the start codon and the stop codon. What is the maximum number of amino acids in the polypeptide produced?
 <!-- id: bio34a1-tgc-3 -->
 
 - A. 900
@@ -6519,7 +6566,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 301
 - D. 299
 
-**Q935.** During translation, which event occurs at the ribosome?
+**Q942.** During translation, which event occurs at the ribosome?
 <!-- id: bio34a1-tgc-4 -->
 
 - A. RNA polymerase adds amino acids to the growing chain.
@@ -6527,7 +6574,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Introns are removed from mRNA as it passes through the ribosome.
 - D. The mRNA is read 3′ to 5′ until a start codon is reached.
 
-**Q936.** A point mutation changes an mRNA codon from UAU (tyrosine) to UAA. What is the most likely effect on the polypeptide?
+**Q943.** A point mutation changes an mRNA codon from UAU (tyrosine) to UAA. What is the most likely effect on the polypeptide?
 <!-- id: bio34a1-tgc-5 -->
 
 - A. No effect, because the genetic code is degenerate.
@@ -6535,24 +6582,24 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. All amino acids after the mutation are changed because the reading frame shifts.
 - D. Translation stops early, producing a shortened, likely non-functional polypeptide.
 
-**Q937.** Describe the role of tRNA in translation. (3 marks)
+**Q944.** Describe the role of tRNA in translation. (3 marks)
 <!-- id: bio34a1-tgc-6 -->
 
 *Written answer*
 
-**Q938.** A section of mRNA reads 5′-AUG GCU UGG AAA UGA-3′. Using the codons AUG = Met, GCU = Ala, UGG = Trp, AAA = Lys and UGA = stop, state the polypeptide produced and explain why UGA does not add an amino acid. (2 marks)
+**Q945.** A section of mRNA reads 5′-AUG GCU UGG AAA UGA-3′. Using the codons AUG = Met, GCU = Ala, UGG = Trp, AAA = Lys and UGA = stop, state the polypeptide produced and explain why UGA does not add an amino acid. (2 marks)
 <!-- id: bio34a1-tgc-7 -->
 
 *Written answer*
 
-**Q939.** Scientists insert a jellyfish gene into a bacterium and the bacterium produces the same jellyfish protein. Identify the property of the genetic code that makes this possible and explain your answer. (2 marks)
+**Q946.** Scientists insert a jellyfish gene into a bacterium and the bacterium produces the same jellyfish protein. Identify the property of the genetic code that makes this possible and explain your answer. (2 marks)
 <!-- id: bio34a1-tgc-8 -->
 
 *Written answer*
 
 #### Gene regulation and the trp operon
 
-**Q940.** In the trp operon of Escherichia coli, the role of tryptophan when it is abundant is to act as a
+**Q947.** In the trp operon of Escherichia coli, the role of tryptophan when it is abundant is to act as a
 <!-- id: bio34a1-gro-1 -->
 
 - A. corepressor that binds to the repressor protein, allowing it to bind the operator.
@@ -6560,7 +6607,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. transcription factor that recruits RNA polymerase to the promoter.
 - D. structural gene product that is part of the enzyme pathway.
 
-**Q941.** Which statement correctly distinguishes regulatory genes from structural genes?
+**Q948.** Which statement correctly distinguishes regulatory genes from structural genes?
 <!-- id: bio34a1-gro-2 -->
 
 - A. Structural genes code for proteins that control the expression of regulatory genes.
@@ -6568,7 +6615,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Regulatory genes are never transcribed, whereas structural genes are always transcribed.
 - D. Structural genes are found only in eukaryotes.
 
-**Q942.** A mutation in E. coli alters the trp repressor so that it can no longer bind tryptophan. In a medium high in tryptophan, the most likely result is that
+**Q949.** A mutation in E. coli alters the trp repressor so that it can no longer bind tryptophan. In a medium high in tryptophan, the most likely result is that
 <!-- id: bio34a1-gro-3 -->
 
 - A. the structural genes are never transcribed.
@@ -6576,7 +6623,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. the structural genes continue to be transcribed even though tryptophan is abundant.
 - D. attenuation stops working, so transcription of the leader region cannot begin.
 
-**Q943.** In attenuation of the trp operon, when tryptophan levels are high,
+**Q950.** In attenuation of the trp operon, when tryptophan levels are high,
 <!-- id: bio34a1-gro-4 -->
 
 - A. the ribosome stalls at the trp codons of the leader sequence and an antiterminator loop forms.
@@ -6584,7 +6631,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. RNA polymerase cannot bind to the promoter.
 - D. the ribosome moves quickly through the leader sequence, allowing a terminator hairpin (regions 3–4) to form so transcription stops.
 
-**Q944.** Researchers measured the rate of trpE mRNA production in E. coli. Cells were grown without tryptophan for 30 minutes, then tryptophan was added. The rate was high for the first 30 minutes and then dropped to near zero within a few minutes. The best explanation is that
+**Q951.** Researchers measured the rate of trpE mRNA production in E. coli. Cells were grown without tryptophan for 30 minutes, then tryptophan was added. The rate was high for the first 30 minutes and then dropped to near zero within a few minutes. The best explanation is that
 <!-- id: bio34a1-gro-5 -->
 
 - A. the added tryptophan acted as a corepressor and also enabled attenuation, both reducing transcription of the structural genes.
@@ -6592,24 +6639,24 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. the structural genes were deleted from the chromosome.
 - D. the cells used up all of their RNA polymerase in the first 30 minutes.
 
-**Q945.** Describe how the trp repressor controls transcription of the trp operon when tryptophan levels in the cell are low. (2 marks)
+**Q952.** Describe how the trp repressor controls transcription of the trp operon when tryptophan levels in the cell are low. (2 marks)
 <!-- id: bio34a1-gro-6 -->
 
 *Written answer*
 
-**Q946.** Explain the advantage to E. coli of regulating the trp operon rather than expressing the structural genes continuously. (2 marks)
+**Q953.** Explain the advantage to E. coli of regulating the trp operon rather than expressing the structural genes continuously. (2 marks)
 <!-- id: bio34a1-gro-7 -->
 
 *Written answer*
 
-**Q947.** Explain how attenuation reduces transcription of the trp operon when tryptophan is abundant, even if some RNA polymerase molecules have already begun transcribing. (3 marks)
+**Q954.** Explain how attenuation reduces transcription of the trp operon when tryptophan is abundant, even if some RNA polymerase molecules have already begun transcribing. (3 marks)
 <!-- id: bio34a1-gro-8 -->
 
 *Written answer*
 
 #### Protein structure and the proteome
 
-**Q948.** The primary structure of a protein is
+**Q955.** The primary structure of a protein is
 <!-- id: bio34a1-psp-1 -->
 
 - A. the folding of the chain into α-helices and β-pleated sheets.
@@ -6617,7 +6664,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. the sequence of amino acids in the polypeptide chain.
 - D. the arrangement of two or more polypeptides together.
 
-**Q949.** Which bonds or interactions are mainly responsible for maintaining the secondary structure of a protein?
+**Q956.** Which bonds or interactions are mainly responsible for maintaining the secondary structure of a protein?
 <!-- id: bio34a1-psp-2 -->
 
 - A. Peptide bonds between R groups
@@ -6625,7 +6672,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Disulfide bridges between cysteine R groups only
 - D. Phosphodiester bonds between amino acids
 
-**Q950.** Haemoglobin is made of four polypeptide chains, each containing a haem group. Which level of protein structure does haemoglobin possess that a single-chain protein like myoglobin does not?
+**Q957.** Haemoglobin is made of four polypeptide chains, each containing a haem group. Which level of protein structure does haemoglobin possess that a single-chain protein like myoglobin does not?
 <!-- id: bio34a1-psp-3 -->
 
 - A. Primary
@@ -6633,7 +6680,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Tertiary
 - D. Quaternary
 
-**Q951.** The term 'proteome' refers to
+**Q958.** The term 'proteome' refers to
 <!-- id: bio34a1-psp-4 -->
 
 - A. the complete set of proteins expressed by a cell, tissue or organism at a particular time.
@@ -6641,7 +6688,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. all the amino acids available in a cell.
 - D. the region of the ribosome where proteins are made.
 
-**Q952.** An enzyme from a hot-spring bacterium retains its activity at 85 °C, but a similar enzyme from a human loses its activity at that temperature. Which is the most likely explanation?
+**Q959.** An enzyme from a hot-spring bacterium retains its activity at 85 °C, but a similar enzyme from a human loses its activity at that temperature. Which is the most likely explanation?
 <!-- id: bio34a1-psp-5 -->
 
 - A. The bacterial enzyme has no tertiary structure.
@@ -6649,24 +6696,24 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. The bacterial enzyme has more stabilising bonds (such as disulfide bridges and ionic bonds) maintaining its tertiary structure.
 - D. The human enzyme lacks peptide bonds at high temperature.
 
-**Q953.** Describe how a peptide bond is formed between two amino acids. (2 marks)
+**Q960.** Describe how a peptide bond is formed between two amino acids. (2 marks)
 <!-- id: bio34a1-psp-6 -->
 
 *Written answer*
 
-**Q954.** A single-base substitution in a gene changes one amino acid in an enzyme from a hydrophobic amino acid to a charged amino acid. Explain how this could affect the function of the enzyme. (3 marks)
+**Q961.** A single-base substitution in a gene changes one amino acid in an enzyme from a hydrophobic amino acid to a charged amino acid. Explain how this could affect the function of the enzyme. (3 marks)
 <!-- id: bio34a1-psp-7 -->
 
 *Written answer*
 
-**Q955.** Liver cells and skin cells in the same person contain the same genome but have different proteomes. Explain why. (2 marks)
+**Q962.** Liver cells and skin cells in the same person contain the same genome but have different proteomes. Explain why. (2 marks)
 <!-- id: bio34a1-psp-8 -->
 
 *Written answer*
 
 #### Protein secretory pathway
 
-**Q956.** Which sequence correctly shows the path taken by a protein that is secreted from a pancreatic cell?
+**Q963.** Which sequence correctly shows the path taken by a protein that is secreted from a pancreatic cell?
 <!-- id: bio34a1-sec-1 -->
 
 - A. Free ribosome → Golgi apparatus → rough endoplasmic reticulum → lysosome → plasma membrane
@@ -6674,7 +6721,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Nucleus → smooth endoplasmic reticulum → mitochondrion → plasma membrane
 - D. Golgi apparatus → rough endoplasmic reticulum → secretory vesicle → plasma membrane
 
-**Q957.** The main role of the Golgi apparatus in the secretory pathway is to
+**Q964.** The main role of the Golgi apparatus in the secretory pathway is to
 <!-- id: bio34a1-sec-2 -->
 
 - A. synthesise polypeptides from mRNA.
@@ -6682,7 +6729,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. modify, sort and package proteins into vesicles.
 - D. transcribe genes coding for secreted proteins.
 
-**Q958.** The process by which a secretory vesicle fuses with the plasma membrane and releases its contents outside the cell is called
+**Q965.** The process by which a secretory vesicle fuses with the plasma membrane and releases its contents outside the cell is called
 <!-- id: bio34a1-sec-3 -->
 
 - A. exocytosis.
@@ -6690,7 +6737,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. phagocytosis.
 - D. facilitated diffusion.
 
-**Q959.** Researchers add a radioactively labelled amino acid to cultured antibody-secreting plasma cells for 5 minutes, then track the radioactivity. Which order of appearance of the label is expected over the next hour?
+**Q966.** Researchers add a radioactively labelled amino acid to cultured antibody-secreting plasma cells for 5 minutes, then track the radioactivity. Which order of appearance of the label is expected over the next hour?
 <!-- id: bio34a1-sec-4 -->
 
 - A. Golgi apparatus, then rough ER, then outside the cell
@@ -6698,7 +6745,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Mitochondria, then Golgi apparatus, then secretory vesicles
 - D. Rough ER, then Golgi apparatus, then secretory vesicles, then outside the cell
 
-**Q960.** A cell has a mutation that prevents transport vesicles from budding off the rough endoplasmic reticulum. The most likely consequence is that
+**Q967.** A cell has a mutation that prevents transport vesicles from budding off the rough endoplasmic reticulum. The most likely consequence is that
 <!-- id: bio34a1-sec-5 -->
 
 - A. the secreted protein accumulates in the rough ER and is not secreted.
@@ -6706,17 +6753,17 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. the protein is translated by free ribosomes instead.
 - D. the cell cannot transcribe the gene for the protein.
 
-**Q961.** Describe the role of the rough endoplasmic reticulum in the production of a protein hormone such as insulin. (2 marks)
+**Q968.** Describe the role of the rough endoplasmic reticulum in the production of a protein hormone such as insulin. (2 marks)
 <!-- id: bio34a1-sec-6 -->
 
 *Written answer*
 
-**Q962.** Cells that secrete large amounts of digestive enzymes, such as those in the pancreas, have large amounts of rough ER and many mitochondria. Explain why each feature is useful to these cells. (2 marks)
+**Q969.** Cells that secrete large amounts of digestive enzymes, such as those in the pancreas, have large amounts of rough ER and many mitochondria. Explain why each feature is useful to these cells. (2 marks)
 <!-- id: bio34a1-sec-7 -->
 
 *Written answer*
 
-**Q963.** Outline the steps involved in the export of a protein from a cell, beginning with transcription of the gene. (3 marks)
+**Q970.** Outline the steps involved in the export of a protein from a cell, beginning with transcription of the gene. (3 marks)
 <!-- id: bio34a1-sec-8 -->
 
 *Written answer*
@@ -6725,7 +6772,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 #### Enzymes for DNA manipulation
 
-**Q964.** The restriction enzyme EcoRI recognises the sequence 5′-GAATTC-3′ and cuts between G and A on each strand. The type of ends produced are
+**Q971.** The restriction enzyme EcoRI recognises the sequence 5′-GAATTC-3′ and cuts between G and A on each strand. The type of ends produced are
 <!-- id: bio34a1-edm-1 -->
 
 - A. blunt ends with no overhanging nucleotides.
@@ -6733,7 +6780,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. sticky ends with single-stranded 3′-GC overhangs.
 - D. ends that cannot be joined by DNA ligase.
 
-**Q965.** Which enzyme would a scientist use to produce DNA without introns from the mature mRNA of a human gene?
+**Q972.** Which enzyme would a scientist use to produce DNA without introns from the mature mRNA of a human gene?
 <!-- id: bio34a1-edm-2 -->
 
 - A. DNA ligase
@@ -6741,7 +6788,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Reverse transcriptase
 - D. RNA polymerase
 
-**Q966.** The role of DNA ligase in gene cloning is to
+**Q973.** The role of DNA ligase in gene cloning is to
 <!-- id: bio34a1-edm-3 -->
 
 - A. cut DNA at specific recognition sites.
@@ -6749,7 +6796,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. copy DNA by adding nucleotides to a primer.
 - D. join DNA fragments by forming phosphodiester bonds in the sugar-phosphate backbone.
 
-**Q967.** A linear DNA molecule is cut with a restriction enzyme that has 3 recognition sites in the molecule. A circular plasmid is cut with an enzyme that also has 3 recognition sites. How many fragments are produced from each?
+**Q974.** A linear DNA molecule is cut with a restriction enzyme that has 3 recognition sites in the molecule. A circular plasmid is cut with an enzyme that also has 3 recognition sites. How many fragments are produced from each?
 <!-- id: bio34a1-edm-4 -->
 
 - A. Linear: 4 fragments; circular: 3 fragments
@@ -6757,7 +6804,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Linear: 3 fragments; circular: 3 fragments
 - D. Linear: 4 fragments; circular: 4 fragments
 
-**Q968.** A scientist wants to insert a gene into a plasmid. The gene is flanked by BamHI sites, and the plasmid has one BamHI site. Why should both be cut with BamHI?
+**Q975.** A scientist wants to insert a gene into a plasmid. The gene is flanked by BamHI sites, and the plasmid has one BamHI site. Why should both be cut with BamHI?
 <!-- id: bio34a1-edm-5 -->
 
 - A. BamHI also acts as a ligase to join the fragments.
@@ -6765,24 +6812,24 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. BamHI cuts only plasmid DNA, so the gene is not damaged.
 - D. BamHI produces blunt ends that are joined more efficiently than sticky ends.
 
-**Q969.** Distinguish between DNA polymerase and DNA ligase in terms of their function. (2 marks)
+**Q976.** Distinguish between DNA polymerase and DNA ligase in terms of their function. (2 marks)
 <!-- id: bio34a1-edm-6 -->
 
 *Written answer*
 
-**Q970.** Explain why restriction enzymes evolved in bacteria and why the bacteria's own DNA is not cut by them. (2 marks)
+**Q977.** Explain why restriction enzymes evolved in bacteria and why the bacteria's own DNA is not cut by them. (2 marks)
 <!-- id: bio34a1-edm-7 -->
 
 *Written answer*
 
-**Q971.** A restriction enzyme recognises a specific six-base-pair sequence. Assuming bases occur randomly and equally, calculate how often, on average, this sequence would be expected to occur in DNA, and explain why an enzyme with a four-base-pair recognition site cuts DNA into smaller fragments. (3 marks)
+**Q978.** A restriction enzyme recognises a specific six-base-pair sequence. Assuming bases occur randomly and equally, calculate how often, on average, this sequence would be expected to occur in DNA, and explain why an enzyme with a four-base-pair recognition site cuts DNA into smaller fragments. (3 marks)
 <!-- id: bio34a1-edm-8 -->
 
 *Written answer*
 
 #### CRISPR-Cas9
 
-**Q972.** In bacteria, the natural role of the CRISPR-Cas system is to
+**Q979.** In bacteria, the natural role of the CRISPR-Cas system is to
 <!-- id: bio34a1-cas-1 -->
 
 - A. repair DNA damaged by ultraviolet radiation.
@@ -6790,7 +6837,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. provide an adaptive defence against bacteriophages by recognising and cutting viral DNA.
 - D. transfer plasmids between bacterial cells.
 
-**Q973.** In CRISPR-Cas9 gene editing, the function of the synthetic guide RNA (sgRNA) is to
+**Q980.** In CRISPR-Cas9 gene editing, the function of the synthetic guide RNA (sgRNA) is to
 <!-- id: bio34a1-cas-2 -->
 
 - A. cut both strands of the target DNA.
@@ -6798,7 +6845,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. act as a template for homology-directed repair.
 - D. base pair with a complementary target DNA sequence and direct Cas9 to that site.
 
-**Q974.** Cas9 from Streptococcus pyogenes will only cut a target sequence if it is located immediately next to a short sequence such as 5′-NGG-3′. This short sequence is called the
+**Q981.** Cas9 from Streptococcus pyogenes will only cut a target sequence if it is located immediately next to a short sequence such as 5′-NGG-3′. This short sequence is called the
 <!-- id: bio34a1-cas-3 -->
 
 - A. protospacer adjacent motif (PAM).
@@ -6806,7 +6853,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. operator.
 - D. recognition site of EcoRI.
 
-**Q975.** After Cas9 creates a double-stranded break in a gene, the cell repairs it by non-homologous end joining (NHEJ). This most often results in
+**Q982.** After Cas9 creates a double-stranded break in a gene, the cell repairs it by non-homologous end joining (NHEJ). This most often results in
 <!-- id: bio34a1-cas-4 -->
 
 - A. the precise insertion of a new gene supplied by the scientist.
@@ -6814,7 +6861,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. removal of all introns from the gene.
 - D. duplication of the entire chromosome.
 
-**Q976.** Researchers want to use CRISPR-Cas9 to disable a gene in a pest species of invasive cane toad. They design an sgRNA, but sequencing shows the target region has no 5′-NGG-3′ sequence nearby. What is the most likely result if they proceed with S. pyogenes Cas9?
+**Q983.** Researchers want to use CRISPR-Cas9 to disable a gene in a pest species of invasive cane toad. They design an sgRNA, but sequencing shows the target region has no 5′-NGG-3′ sequence nearby. What is the most likely result if they proceed with S. pyogenes Cas9?
 <!-- id: bio34a1-cas-5 -->
 
 - A. Cas9 will cut the DNA at a random location instead.
@@ -6822,24 +6869,24 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. The sgRNA will be converted into DNA and inserted into the genome.
 - D. Cas9 will not cut the target, even though the sgRNA is complementary, because no PAM is present.
 
-**Q977.** Describe how a bacterium acquires a 'memory' of a bacteriophage infection using the CRISPR system. (3 marks)
+**Q984.** Describe how a bacterium acquires a 'memory' of a bacteriophage infection using the CRISPR system. (3 marks)
 <!-- id: bio34a1-cas-6 -->
 
 *Written answer*
 
-**Q978.** Explain how CRISPR-Cas9 can be used to insert a corrected sequence into a gene rather than simply knocking it out. (2 marks)
+**Q985.** Explain how CRISPR-Cas9 can be used to insert a corrected sequence into a gene rather than simply knocking it out. (2 marks)
 <!-- id: bio34a1-cas-7 -->
 
 *Written answer*
 
-**Q979.** Give one advantage of CRISPR-Cas9 over earlier gene editing methods and one ethical or practical concern about using it to edit human embryos. (2 marks)
+**Q986.** Give one advantage of CRISPR-Cas9 over earlier gene editing methods and one ethical or practical concern about using it to edit human embryos. (2 marks)
 <!-- id: bio34a1-cas-8 -->
 
 *Written answer*
 
 #### PCR and gel electrophoresis
 
-**Q980.** Which option correctly matches each step of PCR with its approximate temperature?
+**Q987.** Which option correctly matches each step of PCR with its approximate temperature?
 <!-- id: bio34a1-pcr-1 -->
 
 - A. Denaturation 72 °C; annealing 95 °C; extension 55 °C
@@ -6847,7 +6894,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Denaturation 95 °C; annealing 55 °C; extension 72 °C
 - D. Denaturation 37 °C; annealing 55 °C; extension 95 °C
 
-**Q981.** Taq polymerase is used in PCR rather than human DNA polymerase because Taq polymerase
+**Q988.** Taq polymerase is used in PCR rather than human DNA polymerase because Taq polymerase
 <!-- id: bio34a1-pcr-2 -->
 
 - A. is stable at the high temperatures used to denature DNA.
@@ -6855,7 +6902,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. can copy RNA as well as DNA.
 - D. joins Okazaki fragments together.
 
-**Q982.** A forensic scientist starts PCR with 5 copies of a target DNA sequence. Assuming the amount doubles every cycle, how many copies are present after 10 cycles?
+**Q989.** A forensic scientist starts PCR with 5 copies of a target DNA sequence. Assuming the amount doubles every cycle, how many copies are present after 10 cycles?
 <!-- id: bio34a1-pcr-3 -->
 
 - A. 50
@@ -6863,7 +6910,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 2560
 - D. 5120
 
-**Q983.** In gel electrophoresis, DNA fragments move towards the positive electrode because
+**Q990.** In gel electrophoresis, DNA fragments move towards the positive electrode because
 <!-- id: bio34a1-pcr-4 -->
 
 - A. the agarose gel is positively charged.
@@ -6871,7 +6918,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. the nitrogenous bases are positively charged.
 - D. smaller fragments are attracted more strongly by the anode.
 
-**Q984.** A DNA ladder with bands of 100, 300, 500 and 1000 bp is run beside a sample. The sample band travels further than the 300 bp band but not as far as the 100 bp band. The size of the sample fragment is approximately
+**Q991.** A DNA ladder with bands of 100, 300, 500 and 1000 bp is run beside a sample. The sample band travels further than the 300 bp band but not as far as the 100 bp band. The size of the sample fragment is approximately
 <!-- id: bio34a1-pcr-5 -->
 
 - A. 50 bp
@@ -6879,24 +6926,24 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 200 bp
 - D. 700 bp
 
-**Q985.** Explain the role of primers in PCR and why two different primers are needed. (2 marks)
+**Q992.** Explain the role of primers in PCR and why two different primers are needed. (2 marks)
 <!-- id: bio34a1-pcr-6 -->
 
 *Written answer*
 
-**Q986.** DNA profiling can be used to identify a suspect from a blood sample at a crime scene. Explain how PCR and gel electrophoresis are used together to compare short tandem repeats (STRs) from the crime scene and a suspect. (3 marks)
+**Q993.** DNA profiling can be used to identify a suspect from a blood sample at a crime scene. Explain how PCR and gel electrophoresis are used together to compare short tandem repeats (STRs) from the crime scene and a suspect. (3 marks)
 <!-- id: bio34a1-pcr-7 -->
 
 *Written answer*
 
-**Q987.** A student runs a gel but forgets to add a DNA ladder. State why this is a problem and identify one other control that should be included when running PCR products on a gel. (2 marks)
+**Q994.** A student runs a gel but forgets to add a DNA ladder. State why this is a problem and identify one other control that should be included when running PCR products on a gel. (2 marks)
 <!-- id: bio34a1-pcr-8 -->
 
 *Written answer*
 
 #### Recombinant plasmids and transformation
 
-**Q988.** Bacterial plasmids are useful as vectors in gene cloning because they
+**Q995.** Bacterial plasmids are useful as vectors in gene cloning because they
 <!-- id: bio34a1-rpt-1 -->
 
 - A. are linear molecules that integrate into the bacterial chromosome.
@@ -6904,7 +6951,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. are found only in eukaryotic cells.
 - D. are small circular DNA molecules that replicate independently and can carry inserted genes.
 
-**Q989.** Which method is commonly used to make bacterial cells take up recombinant plasmids?
+**Q996.** Which method is commonly used to make bacterial cells take up recombinant plasmids?
 <!-- id: bio34a1-rpt-2 -->
 
 - A. Treating cells with calcium chloride and applying a heat shock
@@ -6912,7 +6959,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Exposing cells to ultraviolet light
 - D. Adding reverse transcriptase to the culture
 
-**Q990.** After transformation, bacteria are spread onto agar containing ampicillin. The plasmid used carries an ampicillin-resistance gene. Bacterial colonies that grow are those that
+**Q997.** After transformation, bacteria are spread onto agar containing ampicillin. The plasmid used carries an ampicillin-resistance gene. Bacterial colonies that grow are those that
 <!-- id: bio34a1-rpt-3 -->
 
 - A. contain the human gene of interest, regardless of whether they took up a plasmid.
@@ -6920,7 +6967,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. have not taken up any plasmid.
 - D. have produced the human protein.
 
-**Q991.** A plasmid contains the lacZ gene, which contains the restriction site where the gene of interest is inserted. On agar containing X-gal and ampicillin, white colonies indicate bacteria that
+**Q998.** A plasmid contains the lacZ gene, which contains the restriction site where the gene of interest is inserted. On agar containing X-gal and ampicillin, white colonies indicate bacteria that
 <!-- id: bio34a1-rpt-4 -->
 
 - A. did not take up any plasmid.
@@ -6928,7 +6975,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. took up a recombinant plasmid in which the insert disrupted lacZ.
 - D. are resistant to X-gal.
 
-**Q992.** Human insulin was first produced in E. coli by inserting the genes for the A and B chains separately, using cDNA or synthetic DNA rather than the human genomic gene. Why was the genomic gene unsuitable?
+**Q999.** Human insulin was first produced in E. coli by inserting the genes for the A and B chains separately, using cDNA or synthetic DNA rather than the human genomic gene. Why was the genomic gene unsuitable?
 <!-- id: bio34a1-rpt-5 -->
 
 - A. Bacteria cannot read the human genetic code.
@@ -6936,24 +6983,24 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Bacteria do not have ribosomes.
 - D. The human gene contains introns, and bacteria cannot remove introns from mRNA.
 
-**Q993.** Outline the steps used to make a recombinant plasmid containing a human gene. (3 marks)
+**Q1000.** Outline the steps used to make a recombinant plasmid containing a human gene. (3 marks)
 <!-- id: bio34a1-rpt-6 -->
 
 *Written answer*
 
-**Q994.** Explain why only a small proportion of bacteria take up a plasmid during transformation, and how scientists identify those that have. (2 marks)
+**Q1001.** Explain why only a small proportion of bacteria take up a plasmid during transformation, and how scientists identify those that have. (2 marks)
 <!-- id: bio34a1-rpt-7 -->
 
 *Written answer*
 
-**Q995.** A recombinant plasmid has a gene inserted in the correct position, but no protein is produced by the transformed bacteria. Suggest two possible reasons. (2 marks)
+**Q1002.** A recombinant plasmid has a gene inserted in the correct position, but no protein is produced by the transformed bacteria. Suggest two possible reasons. (2 marks)
 <!-- id: bio34a1-rpt-8 -->
 
 *Written answer*
 
 #### GMOs and transgenic organisms in agriculture
 
-**Q996.** Which statement best distinguishes a transgenic organism from other genetically modified organisms?
+**Q1003.** Which statement best distinguishes a transgenic organism from other genetically modified organisms?
 <!-- id: bio34a1-gmo-1 -->
 
 - A. A transgenic organism contains a gene that has been transferred from a different species.
@@ -6961,7 +7008,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. A transgenic organism has been produced by selective breeding.
 - D. A transgenic organism is any organism grown in a laboratory.
 
-**Q997.** Bt cotton, widely grown in Australia, has been modified to contain a gene from the bacterium Bacillus thuringiensis. The benefit of this gene is that the plant
+**Q1004.** Bt cotton, widely grown in Australia, has been modified to contain a gene from the bacterium Bacillus thuringiensis. The benefit of this gene is that the plant
 <!-- id: bio34a1-gmo-2 -->
 
 - A. is tolerant to the herbicide glyphosate.
@@ -6969,7 +7016,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. fixes its own atmospheric nitrogen.
 - D. produces β-carotene in its fibres.
 
-**Q998.** Golden Rice was engineered to address vitamin A deficiency. The rice contains genes that allow the endosperm to
+**Q1005.** Golden Rice was engineered to address vitamin A deficiency. The rice contains genes that allow the endosperm to
 <!-- id: bio34a1-gmo-3 -->
 
 - A. produce insulin.
@@ -6977,7 +7024,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. synthesise β-carotene, a precursor of vitamin A.
 - D. grow in saline soil.
 
-**Q999.** Agrobacterium tumefaciens is used to produce transgenic plants because it
+**Q1006.** Agrobacterium tumefaciens is used to produce transgenic plants because it
 <!-- id: bio34a1-gmo-4 -->
 
 - A. naturally destroys plant viruses.
@@ -6985,7 +7032,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. reproduces only inside plant seeds.
 - D. naturally transfers a section of DNA from its Ti plasmid into the plant cell's genome.
 
-**Q1000.** A farmer has grown glyphosate-tolerant canola and sprayed glyphosate on the same paddock every year for ten years. Glyphosate is now much less effective at controlling ryegrass weeds in that paddock. The best explanation is that
+**Q1007.** A farmer has grown glyphosate-tolerant canola and sprayed glyphosate on the same paddock every year for ten years. Glyphosate is now much less effective at controlling ryegrass weeds in that paddock. The best explanation is that
 <!-- id: bio34a1-gmo-5 -->
 
 - A. repeated spraying selected for ryegrass plants that carried variations giving glyphosate resistance, which survived and reproduced.
@@ -6993,17 +7040,17 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. the ryegrass deliberately changed its genes in response to the herbicide.
 - D. glyphosate breaks down faster in older soil.
 
-**Q1001.** Describe how a transgenic plant could be produced using Agrobacterium tumefaciens. (3 marks)
+**Q1008.** Describe how a transgenic plant could be produced using Agrobacterium tumefaciens. (3 marks)
 <!-- id: bio34a1-gmo-6 -->
 
 *Written answer*
 
-**Q1002.** Discuss one biological benefit and one biological risk of growing Bt crops in Australia. (2 marks)
+**Q1009.** Discuss one biological benefit and one biological risk of growing Bt crops in Australia. (2 marks)
 <!-- id: bio34a1-gmo-7 -->
 
 *Written answer*
 
-**Q1003.** Some people argue that genetically modified crops are essential for food security, while others oppose them. Give one social or economic argument for and one against the use of GM crops. (2 marks)
+**Q1010.** Some people argue that genetically modified crops are essential for food security, while others oppose them. Give one social or economic argument for and one against the use of GM crops. (2 marks)
 <!-- id: bio34a1-gmo-8 -->
 
 *Written answer*
@@ -7012,7 +7059,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 #### Enzymes and coenzymes
 
-**Q1004.** Which statement best describes the induced fit model of enzyme action?
+**Q1011.** Which statement best describes the induced fit model of enzyme action?
 <!-- id: bio34a2-enz-1 -->
 
 - A. The active site is a rigid shape that exactly matches the substrate before binding
@@ -7020,7 +7067,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. The substrate changes the primary structure of the enzyme so that it can bind
 - D. The active site changes shape slightly as the substrate binds, forming a tighter enzyme–substrate complex
 
-**Q1005.** Enzymes increase the rate of a biochemical reaction by
+**Q1012.** Enzymes increase the rate of a biochemical reaction by
 <!-- id: bio34a2-enz-2 -->
 
 - A. lowering the activation energy of the reaction
@@ -7028,7 +7075,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. increasing the activation energy of the reaction
 - D. shifting the equilibrium so that more product forms
 
-**Q1006.** Which coenzyme is correctly matched to its loaded form and the pathway in which the loaded form is produced?
+**Q1013.** Which coenzyme is correctly matched to its loaded form and the pathway in which the loaded form is produced?
 <!-- id: bio34a2-enz-3 -->
 
 - A. ADP → ATP, produced only in the Calvin cycle
@@ -7036,7 +7083,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. NADP⁺ → NADPH, produced in the light-dependent stage of photosynthesis
 - D. NADPH → NADP⁺, produced in glycolysis
 
-**Q1007.** A student describes a coenzyme as 'a protein that binds permanently to an enzyme's active site'. The best correction is that a coenzyme is
+**Q1014.** A student describes a coenzyme as 'a protein that binds permanently to an enzyme's active site'. The best correction is that a coenzyme is
 <!-- id: bio34a2-enz-4 -->
 
 - A. an inorganic ion that changes the shape of the substrate
@@ -7044,7 +7091,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. the product of an enzyme-catalysed reaction that inhibits further activity
 - D. a second enzyme that works on the same substrate
 
-**Q1008.** In a metabolic pathway A → B → C → D, each step is catalysed by a different enzyme (E1, E2, E3). A mutation results in a non-functional E2. Which molecule would be expected to accumulate in the cell?
+**Q1015.** In a metabolic pathway A → B → C → D, each step is catalysed by a different enzyme (E1, E2, E3). A mutation results in a non-functional E2. Which molecule would be expected to accumulate in the cell?
 <!-- id: bio34a2-enz-5 -->
 
 - A. A
@@ -7052,24 +7099,24 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. D
 - D. B
 
-**Q1009.** Explain why each enzyme usually catalyses only one specific reaction. Refer to protein structure in your answer. (3 marks)
+**Q1016.** Explain why each enzyme usually catalyses only one specific reaction. Refer to protein structure in your answer. (3 marks)
 <!-- id: bio34a2-enz-6 -->
 
 *Written answer*
 
-**Q1010.** ATP is often described as the 'energy currency' of the cell. Describe how the ATP/ADP cycle couples energy-releasing and energy-requiring reactions in a cell. (3 marks)
+**Q1017.** ATP is often described as the 'energy currency' of the cell. Describe how the ATP/ADP cycle couples energy-releasing and energy-requiring reactions in a cell. (3 marks)
 <!-- id: bio34a2-enz-7 -->
 
 *Written answer*
 
-**Q1011.** Distinguish between the roles of loaded and unloaded coenzymes, using NADH and NAD⁺ in cellular respiration as an example. (2 marks)
+**Q1018.** Distinguish between the roles of loaded and unloaded coenzymes, using NADH and NAD⁺ in cellular respiration as an example. (2 marks)
 <!-- id: bio34a2-enz-8 -->
 
 *Written answer*
 
 #### Factors affecting enzymes and inhibition
 
-**Q1012.** A drug binds to a site on an enzyme other than the active site, changing the shape of the active site so the substrate can no longer bind. This drug is acting as a
+**Q1019.** A drug binds to a site on an enzyme other than the active site, changing the shape of the active site so the substrate can no longer bind. This drug is acting as a
 <!-- id: bio34a2-inh-1 -->
 
 - A. competitive inhibitor
@@ -7077,7 +7124,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. non-competitive inhibitor
 - D. substrate analogue
 
-**Q1013.** An enzyme from a hot-spring bacterium has an optimum temperature of 75 °C. When the enzyme is incubated at 95 °C for 30 minutes and then cooled to 75 °C, it shows almost no activity. The most likely explanation is that at 95 °C
+**Q1020.** An enzyme from a hot-spring bacterium has an optimum temperature of 75 °C. When the enzyme is incubated at 95 °C for 30 minutes and then cooled to 75 °C, it shows almost no activity. The most likely explanation is that at 95 °C
 <!-- id: bio34a2-inh-2 -->
 
 - A. the enzyme was denatured, permanently changing the shape of its active site
@@ -7085,7 +7132,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. the enzyme's primary structure was broken into individual amino acids
 - D. the enzyme became inactive temporarily and needs more time to recover
 
-**Q1014.** In an experiment, the rate of an enzyme-catalysed reaction increases as substrate concentration increases, then plateaus. Adding more enzyme raises the plateau. What limited the reaction rate at the plateau before extra enzyme was added?
+**Q1021.** In an experiment, the rate of an enzyme-catalysed reaction increases as substrate concentration increases, then plateaus. Adding more enzyme raises the plateau. What limited the reaction rate at the plateau before extra enzyme was added?
 <!-- id: bio34a2-inh-3 -->
 
 - A. Substrate concentration
@@ -7093,7 +7140,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. pH of the solution
 - D. Enzyme concentration (all active sites were occupied)
 
-**Q1015.** The effect of a competitive inhibitor on an enzyme can be reduced by
+**Q1022.** The effect of a competitive inhibitor on an enzyme can be reduced by
 <!-- id: bio34a2-inh-4 -->
 
 - A. decreasing the concentration of substrate
@@ -7101,7 +7148,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. lowering the temperature to 4 °C
 - D. adding a non-competitive inhibitor
 
-**Q1016.** Pepsin works in the stomach at about pH 2, while trypsin works in the small intestine at about pH 8. If pepsin is moved into a solution at pH 8, its activity drops sharply because
+**Q1023.** Pepsin works in the stomach at about pH 2, while trypsin works in the small intestine at about pH 8. If pepsin is moved into a solution at pH 8, its activity drops sharply because
 <!-- id: bio34a2-inh-5 -->
 
 - A. pepsin is digested by the alkaline solution
@@ -7109,24 +7156,24 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. the change in pH alters the charges on amino acid R groups, disrupting the bonds that maintain the active site shape
 - D. the substrate denatures at pH 8 but the enzyme is unaffected
 
-**Q1017.** Some pesticides act as irreversible inhibitors of acetylcholinesterase, an enzyme needed for normal nerve function in insects. Explain how an irreversible inhibitor differs from a reversible inhibitor and why irreversible inhibition is effective as a pesticide. (3 marks)
+**Q1024.** Some pesticides act as irreversible inhibitors of acetylcholinesterase, an enzyme needed for normal nerve function in insects. Explain how an irreversible inhibitor differs from a reversible inhibitor and why irreversible inhibition is effective as a pesticide. (3 marks)
 <!-- id: bio34a2-inh-6 -->
 
 *Written answer*
 
-**Q1018.** A student measured the activity of catalase (which breaks down hydrogen peroxide into water and oxygen) from potato at 10 °C, 25 °C, 37 °C and 60 °C by measuring the volume of oxygen produced in 2 minutes. Activity was highest at 37 °C and almost zero at 60 °C. Explain the results at 10 °C and at 60 °C. (3 marks)
+**Q1025.** A student measured the activity of catalase (which breaks down hydrogen peroxide into water and oxygen) from potato at 10 °C, 25 °C, 37 °C and 60 °C by measuring the volume of oxygen produced in 2 minutes. Activity was highest at 37 °C and almost zero at 60 °C. Explain the results at 10 °C and at 60 °C. (3 marks)
 <!-- id: bio34a2-inh-7 -->
 
 *Written answer*
 
-**Q1019.** Many metabolic pathways are regulated by end-product inhibition. Describe how this works and explain one benefit to the cell. (2 marks)
+**Q1026.** Many metabolic pathways are regulated by end-product inhibition. Describe how this works and explain one benefit to the cell. (2 marks)
 <!-- id: bio34a2-inh-8 -->
 
 *Written answer*
 
 #### Photosynthesis
 
-**Q1020.** The light-dependent stage of photosynthesis occurs in the
+**Q1027.** The light-dependent stage of photosynthesis occurs in the
 <!-- id: bio34a2-ps-1 -->
 
 - A. thylakoid membranes of the chloroplast
@@ -7134,7 +7181,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. inner membrane of the mitochondrion
 - D. cytosol of the mesophyll cell
 
-**Q1021.** Which row correctly shows the inputs and outputs of the light-independent stage (Calvin cycle)?
+**Q1028.** Which row correctly shows the inputs and outputs of the light-independent stage (Calvin cycle)?
 <!-- id: bio34a2-ps-2 -->
 
 - A. Inputs: H₂O, NADP⁺, ADP + Pi. Outputs: O₂, NADPH, ATP
@@ -7142,7 +7189,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Inputs: glucose, O₂. Outputs: CO₂, H₂O, ATP
 - D. Inputs: CO₂, NADPH, ATP. Outputs: glucose, NADP⁺, ADP + Pi
 
-**Q1022.** A scientist supplies a plant with water containing the oxygen isotope ¹⁸O. In which product of photosynthesis would the ¹⁸O first be detected?
+**Q1029.** A scientist supplies a plant with water containing the oxygen isotope ¹⁸O. In which product of photosynthesis would the ¹⁸O first be detected?
 <!-- id: bio34a2-ps-3 -->
 
 - A. Glucose
@@ -7150,7 +7197,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Carbon dioxide
 - D. Oxygen gas released from the leaf
 
-**Q1023.** A plant is moved from bright light into darkness. In the first few minutes, the rate of the Calvin cycle falls mainly because
+**Q1030.** A plant is moved from bright light into darkness. In the first few minutes, the rate of the Calvin cycle falls mainly because
 <!-- id: bio34a2-ps-4 -->
 
 - A. the supply of ATP and NADPH from the light-dependent stage stops
@@ -7158,7 +7205,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. rubisco is denatured in the dark
 - D. glucose accumulates and inhibits rubisco
 
-**Q1024.** A graph shows the rate of photosynthesis of a wheat plant increasing with light intensity until it plateaus at a high light intensity. Raising CO₂ concentration at this high light intensity causes the rate to increase further. What was the limiting factor at the plateau?
+**Q1031.** A graph shows the rate of photosynthesis of a wheat plant increasing with light intensity until it plateaus at a high light intensity. Raising CO₂ concentration at this high light intensity causes the rate to increase further. What was the limiting factor at the plateau?
 <!-- id: bio34a2-ps-5 -->
 
 - A. Light intensity
@@ -7166,24 +7213,24 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. CO₂ concentration
 - D. Chlorophyll concentration
 
-**Q1025.** Describe the role of rubisco in photosynthesis and explain why its activity is affected by temperature. (3 marks)
+**Q1032.** Describe the role of rubisco in photosynthesis and explain why its activity is affected by temperature. (3 marks)
 <!-- id: bio34a2-ps-6 -->
 
 *Written answer*
 
-**Q1026.** Write a balanced overall equation for photosynthesis in plants, and name where in the chloroplast each of the reactants is used. (3 marks)
+**Q1033.** Write a balanced overall equation for photosynthesis in plants, and name where in the chloroplast each of the reactants is used. (3 marks)
 <!-- id: bio34a2-ps-7 -->
 
 *Written answer*
 
-**Q1027.** Explain why the light-dependent and light-independent stages of photosynthesis are described as interdependent. (2 marks)
+**Q1034.** Explain why the light-dependent and light-independent stages of photosynthesis are described as interdependent. (2 marks)
 <!-- id: bio34a2-ps-8 -->
 
 *Written answer*
 
 #### C3, C4 and CAM plants
 
-**Q1028.** Photorespiration in C3 plants occurs when
+**Q1035.** Photorespiration in C3 plants occurs when
 <!-- id: bio34a2-c4-1 -->
 
 - A. chlorophyll absorbs too much light and is damaged
@@ -7191,7 +7238,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. the plant respires faster than it photosynthesises at night
 - D. PEP carboxylase binds oxygen in the bundle sheath cells
 
-**Q1029.** C4 plants such as maize and kangaroo grass reduce photorespiration by
+**Q1036.** C4 plants such as maize and kangaroo grass reduce photorespiration by
 <!-- id: bio34a2-c4-2 -->
 
 - A. opening their stomata only at night
@@ -7199,7 +7246,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. producing a form of rubisco that cannot bind oxygen
 - D. spatially separating initial CO₂ fixation in mesophyll cells from the Calvin cycle in bundle sheath cells
 
-**Q1030.** A pineapple plant has its stomata open at night and closed during the day. Which statement correctly describes carbon fixation in this plant?
+**Q1037.** A pineapple plant has its stomata open at night and closed during the day. Which statement correctly describes carbon fixation in this plant?
 <!-- id: bio34a2-c4-3 -->
 
 - A. CO₂ is fixed by rubisco at night and stored as glucose
@@ -7207,7 +7254,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. CO₂ is fixed into a 4-carbon acid at night and released to rubisco for the Calvin cycle during the day
 - D. The Calvin cycle runs only at night when the stomata are open
 
-**Q1031.** In which environment would a CAM plant be expected to have the greatest advantage over a C3 plant?
+**Q1038.** In which environment would a CAM plant be expected to have the greatest advantage over a C3 plant?
 <!-- id: bio34a2-c4-4 -->
 
 - A. A hot, arid desert with very low water availability
@@ -7215,7 +7262,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. A temperate pasture with regular rainfall
 - D. A freshwater pond
 
-**Q1032.** Researchers grew a C3 plant and a C4 plant at 35 °C under bright light. The C4 plant had a much higher rate of photosynthesis. Under cool conditions (15 °C) the C3 plant performed slightly better. The best explanation for the result at 15 °C is that
+**Q1039.** Researchers grew a C3 plant and a C4 plant at 35 °C under bright light. The C4 plant had a much higher rate of photosynthesis. Under cool conditions (15 °C) the C3 plant performed slightly better. The best explanation for the result at 15 °C is that
 <!-- id: bio34a2-c4-5 -->
 
 - A. C4 plants cannot photosynthesise below 20 °C
@@ -7223,24 +7270,24 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. C3 plants have more chloroplasts at low temperatures
 - D. at lower temperatures photorespiration in C3 plants is low, so the extra ATP cost of the C4 pathway is not offset
 
-**Q1033.** Explain why hot, dry conditions increase the rate of photorespiration in C3 plants. (3 marks)
+**Q1040.** Explain why hot, dry conditions increase the rate of photorespiration in C3 plants. (3 marks)
 <!-- id: bio34a2-c4-6 -->
 
 *Written answer*
 
-**Q1034.** Compare C4 and CAM plants by describing one similarity and one difference in how they minimise photorespiration. (2 marks)
+**Q1041.** Compare C4 and CAM plants by describing one similarity and one difference in how they minimise photorespiration. (2 marks)
 <!-- id: bio34a2-c4-7 -->
 
 *Written answer*
 
-**Q1035.** A farmer in northern Australia is choosing between a C3 crop and a C4 crop for a hot, sunny region with limited irrigation. Recommend a crop type and justify your choice. (3 marks)
+**Q1042.** A farmer in northern Australia is choosing between a C3 crop and a C4 crop for a hot, sunny region with limited irrigation. Recommend a crop type and justify your choice. (3 marks)
 <!-- id: bio34a2-c4-8 -->
 
 *Written answer*
 
 #### Cellular respiration
 
-**Q1036.** Glycolysis occurs in the
+**Q1043.** Glycolysis occurs in the
 <!-- id: bio34a2-cr-1 -->
 
 - A. mitochondrial matrix
@@ -7248,7 +7295,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. inner mitochondrial membrane
 - D. stroma
 
-**Q1037.** Which of the following is the net yield of glycolysis per molecule of glucose?
+**Q1044.** Which of the following is the net yield of glycolysis per molecule of glucose?
 <!-- id: bio34a2-cr-2 -->
 
 - A. 6 CO₂, 2 ATP and 6 NADH
@@ -7256,7 +7303,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 2 pyruvate, 2 ATP and 2 NADH
 - D. 2 lactate, 2 ATP and 2 NAD⁺
 
-**Q1038.** Oxygen is required in aerobic cellular respiration because it
+**Q1045.** Oxygen is required in aerobic cellular respiration because it
 <!-- id: bio34a2-cr-3 -->
 
 - A. is the final electron acceptor at the end of the electron transport chain, combining with electrons and H⁺ to form water
@@ -7264,7 +7311,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. combines with carbon to form CO₂ in the Krebs cycle
 - D. is a coenzyme that carries electrons from the Krebs cycle
 
-**Q1039.** A poison blocks the electron transport chain in mitochondria. Which of the following would occur first in an affected cell?
+**Q1046.** A poison blocks the electron transport chain in mitochondria. Which of the following would occur first in an affected cell?
 <!-- id: bio34a2-cr-4 -->
 
 - A. The concentration of NAD⁺ in the mitochondrial matrix would increase
@@ -7272,7 +7319,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Glycolysis would stop immediately because it requires oxygen
 - D. The concentration of NADH would increase and ATP production would fall sharply
 
-**Q1040.** Which stage of aerobic cellular respiration produces the most ATP per glucose molecule, and where does it occur?
+**Q1047.** Which stage of aerobic cellular respiration produces the most ATP per glucose molecule, and where does it occur?
 <!-- id: bio34a2-cr-5 -->
 
 - A. Glycolysis, in the cytosol
@@ -7280,24 +7327,24 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Krebs cycle, on the outer mitochondrial membrane
 - D. Electron transport chain, on the inner mitochondrial membrane (cristae)
 
-**Q1041.** Outline the Krebs cycle by stating its location, inputs and outputs per glucose molecule. (3 marks)
+**Q1048.** Outline the Krebs cycle by stating its location, inputs and outputs per glucose molecule. (3 marks)
 <!-- id: bio34a2-cr-6 -->
 
 *Written answer*
 
-**Q1042.** Muscle cells of an athlete in training have more mitochondria than those of an untrained person. Explain how this structural difference benefits the athlete during sustained exercise. (2 marks)
+**Q1049.** Muscle cells of an athlete in training have more mitochondria than those of an untrained person. Explain how this structural difference benefits the athlete during sustained exercise. (2 marks)
 <!-- id: bio34a2-cr-7 -->
 
 *Written answer*
 
-**Q1043.** Explain why the folding of the inner mitochondrial membrane into cristae increases the cell's capacity to produce ATP. (2 marks)
+**Q1050.** Explain why the folding of the inner mitochondrial membrane into cristae increases the cell's capacity to produce ATP. (2 marks)
 <!-- id: bio34a2-cr-8 -->
 
 *Written answer*
 
 #### Anaerobic respiration and fermentation
 
-**Q1044.** During intense sprinting, human muscle cells carry out anaerobic respiration. The products of this pathway are
+**Q1051.** During intense sprinting, human muscle cells carry out anaerobic respiration. The products of this pathway are
 <!-- id: bio34a2-an-1 -->
 
 - A. lactate (lactic acid) and 2 ATP
@@ -7305,7 +7352,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. CO₂, H₂O and about 30 ATP
 - D. pyruvate, O₂ and 2 ATP
 
-**Q1045.** The main purpose of converting pyruvate to lactate or ethanol during anaerobic respiration is to
+**Q1052.** The main purpose of converting pyruvate to lactate or ethanol during anaerobic respiration is to
 <!-- id: bio34a2-an-2 -->
 
 - A. produce additional ATP after glycolysis
@@ -7313,7 +7360,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. regenerate NAD⁺ so that glycolysis can continue
 - D. remove oxygen from the cell
 
-**Q1046.** Anaerobic respiration in yeast occurs in the
+**Q1053.** Anaerobic respiration in yeast occurs in the
 <!-- id: bio34a2-an-3 -->
 
 - A. mitochondrial matrix
@@ -7321,7 +7368,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. cristae
 - D. nucleus
 
-**Q1047.** Yeast is placed in a sealed flask containing glucose solution. A CO₂ sensor shows CO₂ being produced throughout the experiment, while an O₂ sensor shows O₂ falling to zero after 20 minutes. After 20 minutes, the yeast is
+**Q1054.** Yeast is placed in a sealed flask containing glucose solution. A CO₂ sensor shows CO₂ being produced throughout the experiment, while an O₂ sensor shows O₂ falling to zero after 20 minutes. After 20 minutes, the yeast is
 <!-- id: bio34a2-an-4 -->
 
 - A. no longer respiring
@@ -7329,7 +7376,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. respiring anaerobically, producing lactate
 - D. respiring anaerobically, producing ethanol and CO₂
 
-**Q1048.** Compared with aerobic respiration, anaerobic respiration of one glucose molecule
+**Q1055.** Compared with aerobic respiration, anaerobic respiration of one glucose molecule
 <!-- id: bio34a2-an-5 -->
 
 - A. produces the same amount of ATP but more CO₂
@@ -7337,24 +7384,24 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. produces much less ATP because glucose is only partially broken down
 - D. requires mitochondria to produce ATP
 
-**Q1049.** Bioethanol can be produced by fermenting plant material such as sugarcane. Describe the biological process by which yeast produces ethanol and identify one advantage of bioethanol as a fuel. (3 marks)
+**Q1056.** Bioethanol can be produced by fermenting plant material such as sugarcane. Describe the biological process by which yeast produces ethanol and identify one advantage of bioethanol as a fuel. (3 marks)
 <!-- id: bio34a2-an-6 -->
 
 *Written answer*
 
-**Q1050.** Explain why a sprinter cannot rely on anaerobic respiration for an extended period of time. (2 marks)
+**Q1057.** Explain why a sprinter cannot rely on anaerobic respiration for an extended period of time. (2 marks)
 <!-- id: bio34a2-an-7 -->
 
 *Written answer*
 
-**Q1051.** A baker notices bread dough rises faster at 30 °C than at 15 °C. Explain this observation. (2 marks)
+**Q1058.** A baker notices bread dough rises faster at 30 °C than at 15 °C. Explain this observation. (2 marks)
 <!-- id: bio34a2-an-8 -->
 
 *Written answer*
 
 #### Biotechnology to improve yield
 
-**Q1052.** Scientists aim to use CRISPR-Cas9 to edit the gene for a subunit of rubisco in a C3 crop. Which outcome would most directly improve crop yield?
+**Q1059.** Scientists aim to use CRISPR-Cas9 to edit the gene for a subunit of rubisco in a C3 crop. Which outcome would most directly improve crop yield?
 <!-- id: bio34a2-bt-1 -->
 
 - A. Rubisco with a reduced tendency to bind O₂ relative to CO₂
@@ -7362,7 +7409,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Rubisco that is active only at night
 - D. Rubisco that can no longer bind CO₂
 
-**Q1053.** In CRISPR-Cas9 gene editing, the role of the guide RNA (sgRNA) is to
+**Q1060.** In CRISPR-Cas9 gene editing, the role of the guide RNA (sgRNA) is to
 <!-- id: bio34a2-bt-2 -->
 
 - A. cut both strands of the DNA
@@ -7370,7 +7417,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. act as the template for DNA repair
 - D. direct Cas9 to a specific target DNA sequence by complementary base pairing
 
-**Q1054.** Which of the following describes an approach to improve the yield of a C3 crop such as rice?
+**Q1061.** Which of the following describes an approach to improve the yield of a C3 crop such as rice?
 <!-- id: bio34a2-bt-3 -->
 
 - A. Removing all chlorophyll genes to reduce light absorption
@@ -7378,7 +7425,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Inserting genes that keep stomata permanently closed
 - D. Knocking out the gene for rubisco
 
-**Q1055.** Second-generation biofuels are made from non-food plant material such as crop stems and woodchips. A key advantage of this approach over first-generation bioethanol made from corn grain is that it
+**Q1062.** Second-generation biofuels are made from non-food plant material such as crop stems and woodchips. A key advantage of this approach over first-generation bioethanol made from corn grain is that it
 <!-- id: bio34a2-bt-4 -->
 
 - A. releases no CO₂ when burned
@@ -7386,7 +7433,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. does not compete directly with food production for crops
 - D. produces petrol rather than ethanol
 
-**Q1056.** Before yeast can ferment cellulose-rich plant waste into ethanol, the cellulose must first be broken down. This is necessary because
+**Q1063.** Before yeast can ferment cellulose-rich plant waste into ethanol, the cellulose must first be broken down. This is necessary because
 <!-- id: bio34a2-bt-5 -->
 
 - A. yeast can only ferment simple sugars such as glucose, and cellulose is a polysaccharide
@@ -7394,17 +7441,17 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. cellulose contains no carbon
 - D. yeast respires only aerobically
 
-**Q1057.** Describe how CRISPR-Cas9 could be used to knock out a gene in a crop plant, and suggest one way this could improve yield. (3 marks)
+**Q1064.** Describe how CRISPR-Cas9 could be used to knock out a gene in a crop plant, and suggest one way this could improve yield. (3 marks)
 <!-- id: bio34a2-bt-6 -->
 
 *Written answer*
 
-**Q1058.** Scientists are investigating ways to increase the efficiency of photosynthesis in crops to feed a growing population. Identify one factor that limits photosynthesis in C3 crops and explain how a biotechnological approach could address it. (3 marks)
+**Q1065.** Scientists are investigating ways to increase the efficiency of photosynthesis in crops to feed a growing population. Identify one factor that limits photosynthesis in C3 crops and explain how a biotechnological approach could address it. (3 marks)
 <!-- id: bio34a2-bt-7 -->
 
 *Written answer*
 
-**Q1059.** Evaluate the use of sugarcane-based bioethanol as an alternative to petrol in Australia, giving one advantage and one disadvantage. (2 marks)
+**Q1066.** Evaluate the use of sugarcane-based bioethanol as an alternative to petrol in Australia, giving one advantage and one disadvantage. (2 marks)
 <!-- id: bio34a2-bt-8 -->
 
 *Written answer*
@@ -7413,7 +7460,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 #### Pathogens and physical and chemical barriers
 
-**Q1060.** Which of the following is a non-cellular pathogen?
+**Q1067.** Which of the following is a non-cellular pathogen?
 <!-- id: bio34a2-pb-1 -->
 
 - A. Plasmodium falciparum (a protozoan)
@@ -7421,7 +7468,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Candida albicans (a fungus)
 - D. A prion
 
-**Q1061.** Lysozyme is found in tears and saliva. It is classified as a
+**Q1068.** Lysozyme is found in tears and saliva. It is classified as a
 <!-- id: bio34a2-pb-2 -->
 
 - A. physical barrier that traps pathogens
@@ -7429,7 +7476,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. microbiological barrier that outcompetes pathogens
 - D. chemical barrier that breaks down bacterial cell walls
 
-**Q1062.** A patient takes a long course of broad-spectrum antibiotics and then develops a fungal infection in the mouth. The most likely explanation is that the antibiotics
+**Q1069.** A patient takes a long course of broad-spectrum antibiotics and then develops a fungal infection in the mouth. The most likely explanation is that the antibiotics
 <!-- id: bio34a2-pb-3 -->
 
 - A. killed many of the normal bacterial flora that usually outcompete fungi
@@ -7437,7 +7484,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. destroyed the mucous membranes of the mouth
 - D. acted as an antigen that triggered an allergic reaction
 
-**Q1063.** Which of the following is a physical barrier in plants against pathogen entry?
+**Q1070.** Which of the following is a physical barrier in plants against pathogen entry?
 <!-- id: bio34a2-pb-4 -->
 
 - A. Production of chitinase enzymes
@@ -7445,7 +7492,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. A waxy cuticle on the leaf surface
 - D. Release of hydrogen peroxide at the infection site
 
-**Q1064.** Cells lining the human trachea have cilia and secrete mucus. Smoking damages the cilia. Which effect would be expected in a smoker?
+**Q1071.** Cells lining the human trachea have cilia and secrete mucus. Smoking damages the cilia. Which effect would be expected in a smoker?
 <!-- id: bio34a2-pb-5 -->
 
 - A. Increased stomach acid production
@@ -7453,24 +7500,24 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Increased production of lysozyme in tears
 - D. Fewer pathogens able to enter the respiratory tract
 
-**Q1065.** Distinguish between a pathogen and an antigen, and give an example of each. (2 marks)
+**Q1072.** Distinguish between a pathogen and an antigen, and give an example of each. (2 marks)
 <!-- id: bio34a2-pb-6 -->
 
 *Written answer*
 
-**Q1066.** Describe two physical or chemical barriers a eucalyptus tree could use to prevent infection by a fungal pathogen. (2 marks)
+**Q1073.** Describe two physical or chemical barriers a eucalyptus tree could use to prevent infection by a fungal pathogen. (2 marks)
 <!-- id: bio34a2-pb-7 -->
 
 *Written answer*
 
-**Q1067.** Explain how the acidic environment of the stomach acts as a barrier to infection. (2 marks)
+**Q1074.** Explain how the acidic environment of the stomach acts as a barrier to infection. (2 marks)
 <!-- id: bio34a2-pb-8 -->
 
 *Written answer*
 
 #### Innate immunity
 
-**Q1068.** Which statement best describes the innate immune response?
+**Q1075.** Which statement best describes the innate immune response?
 <!-- id: bio34a2-inn-1 -->
 
 - A. It is specific to particular antigens and produces memory cells
@@ -7478,7 +7525,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. It is carried out only by B and T lymphocytes
 - D. It is non-specific, responds rapidly and does not produce immunological memory
 
-**Q1069.** Mast cells release histamine during an inflammatory response. The effect of histamine is to
+**Q1076.** Mast cells release histamine during an inflammatory response. The effect of histamine is to
 <!-- id: bio34a2-inn-2 -->
 
 - A. engulf and digest bacteria
@@ -7486,7 +7533,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. cause vasodilation and increased permeability of capillaries
 - D. kill virus-infected cells by releasing perforin
 
-**Q1070.** Natural killer (NK) cells are able to recognise and destroy
+**Q1077.** Natural killer (NK) cells are able to recognise and destroy
 <!-- id: bio34a2-inn-3 -->
 
 - A. cells that have abnormal or reduced MHC class I markers, such as virus-infected or cancerous cells
@@ -7494,7 +7541,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. antibodies bound to antigens
 - D. only cells displaying MHC class II with antigen
 
-**Q1071.** Interferons are produced by
+**Q1078.** Interferons are produced by
 <!-- id: bio34a2-inn-4 -->
 
 - A. bacteria to protect themselves from viruses
@@ -7502,7 +7549,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. plasma cells to bind to viruses
 - D. virus-infected cells, and they signal neighbouring cells to increase their resistance to viral replication
 
-**Q1072.** A child's body temperature rises to 39 °C during a bacterial infection. Which statement best explains how fever helps fight infection?
+**Q1079.** A child's body temperature rises to 39 °C during a bacterial infection. Which statement best explains how fever helps fight infection?
 <!-- id: bio34a2-inn-5 -->
 
 - A. Higher temperature denatures all of the child's own enzymes
@@ -7510,24 +7557,24 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Fever directly produces antibodies
 - D. Fever causes the skin to become impermeable to bacteria
 
-**Q1073.** Describe the process of phagocytosis by a neutrophil. (3 marks)
+**Q1080.** Describe the process of phagocytosis by a neutrophil. (3 marks)
 <!-- id: bio34a2-inn-6 -->
 
 *Written answer*
 
-**Q1074.** A person steps on a rusty nail and the area becomes red, hot, swollen and painful. Explain how the inflammatory response produces these signs and how it helps clear the infection. (3 marks)
+**Q1081.** A person steps on a rusty nail and the area becomes red, hot, swollen and painful. Explain how the inflammatory response produces these signs and how it helps clear the infection. (3 marks)
 <!-- id: bio34a2-inn-7 -->
 
 *Written answer*
 
-**Q1075.** Describe two ways the complement system helps to defend against bacterial infection. (2 marks)
+**Q1082.** Describe two ways the complement system helps to defend against bacterial infection. (2 marks)
 <!-- id: bio34a2-inn-8 -->
 
 *Written answer*
 
 #### Antigen presentation and the lymphatic system
 
-**Q1076.** MHC class I markers are found on
+**Q1083.** MHC class I markers are found on
 <!-- id: bio34a2-ap-1 -->
 
 - A. only antigen-presenting cells such as dendritic cells
@@ -7535,7 +7582,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. all nucleated body cells
 - D. bacterial cells only
 
-**Q1077.** After engulfing a pathogen in the skin, a dendritic cell travels to the nearest lymph node. The main purpose of this migration is to
+**Q1084.** After engulfing a pathogen in the skin, a dendritic cell travels to the nearest lymph node. The main purpose of this migration is to
 <!-- id: bio34a2-ap-2 -->
 
 - A. present antigen fragments on MHC II to T helper cells with complementary receptors
@@ -7543,7 +7590,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. destroy the lymph node's B cells
 - D. release histamine into the lymph
 
-**Q1078.** Which of the following is a function of the lymphatic system?
+**Q1085.** Which of the following is a function of the lymphatic system?
 <!-- id: bio34a2-ap-3 -->
 
 - A. Pumping blood around the body
@@ -7551,7 +7598,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Producing red blood cells in the lymph nodes
 - D. Returning excess tissue fluid to the blood and providing sites where lymphocytes encounter antigens
 
-**Q1079.** During an infection, a patient's lymph nodes in the neck become swollen and tender. This is most likely because
+**Q1086.** During an infection, a patient's lymph nodes in the neck become swollen and tender. This is most likely because
 <!-- id: bio34a2-ap-4 -->
 
 - A. the lymph nodes are being destroyed by the pathogen
@@ -7559,7 +7606,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. red blood cells are accumulating in the nodes
 - D. lymphocytes in the nodes are undergoing clonal expansion after encountering antigen
 
-**Q1080.** Where do B lymphocytes and T lymphocytes respectively mature?
+**Q1087.** Where do B lymphocytes and T lymphocytes respectively mature?
 <!-- id: bio34a2-ap-5 -->
 
 - A. B cells in the bone marrow; T cells in the thymus
@@ -7567,24 +7614,24 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. B cells in the thymus; T cells in the bone marrow
 - D. Both mature in the lymph nodes
 
-**Q1081.** Compare MHC class I and MHC class II markers in terms of the cells that carry them and the source of the antigens they present. (3 marks)
+**Q1088.** Compare MHC class I and MHC class II markers in terms of the cells that carry them and the source of the antigens they present. (3 marks)
 <!-- id: bio34a2-ap-6 -->
 
 *Written answer*
 
-**Q1082.** Explain why tissues from an unrelated donor are often rejected after an organ transplant. (2 marks)
+**Q1089.** Explain why tissues from an unrelated donor are often rejected after an organ transplant. (2 marks)
 <!-- id: bio34a2-ap-7 -->
 
 *Written answer*
 
-**Q1083.** Describe the role of the lymphatic system in the initiation of an adaptive immune response to bacteria entering a cut in the hand. (3 marks)
+**Q1090.** Describe the role of the lymphatic system in the initiation of an adaptive immune response to bacteria entering a cut in the hand. (3 marks)
 <!-- id: bio34a2-ap-8 -->
 
 *Written answer*
 
 #### Humoral immunity
 
-**Q1084.** Humoral immunity is primarily directed against
+**Q1091.** Humoral immunity is primarily directed against
 <!-- id: bio34a2-hum-1 -->
 
 - A. viruses replicating inside host cells
@@ -7592,7 +7639,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. pathogens and antigens in extracellular fluids such as blood and lymph
 - D. transplanted tissue only
 
-**Q1085.** During the humoral response, a B cell that has bound its specific antigen is fully activated when
+**Q1092.** During the humoral response, a B cell that has bound its specific antigen is fully activated when
 <!-- id: bio34a2-hum-2 -->
 
 - A. it is engulfed by a macrophage
@@ -7600,7 +7647,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. it binds to an MHC I marker on an infected cell
 - D. a mast cell releases histamine
 
-**Q1086.** The part of an antibody that binds to a specific antigen is the
+**Q1093.** The part of an antibody that binds to a specific antigen is the
 <!-- id: bio34a2-hum-3 -->
 
 - A. constant region of the heavy chain
@@ -7608,7 +7655,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. disulfide bridge between the heavy chains
 - D. variable region at the tips of the heavy and light chains
 
-**Q1087.** Antibodies bind to the spike proteins of a virus, preventing the virus from attaching to receptors on host cells. This mode of action is called
+**Q1094.** Antibodies bind to the spike proteins of a virus, preventing the virus from attaching to receptors on host cells. This mode of action is called
 <!-- id: bio34a2-hum-4 -->
 
 - A. agglutination
@@ -7616,7 +7663,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. neutralisation
 - D. lysis
 
-**Q1088.** A graph shows antibody concentration after a first and second exposure to the same antigen. Compared with the primary response, the secondary response is faster and produces a much higher antibody concentration. This is mainly due to
+**Q1095.** A graph shows antibody concentration after a first and second exposure to the same antigen. Compared with the primary response, the secondary response is faster and produces a much higher antibody concentration. This is mainly due to
 <!-- id: bio34a2-hum-5 -->
 
 - A. memory B cells produced during the first exposure rapidly differentiating into plasma cells
@@ -7624,24 +7671,24 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. the antigen becoming weaker over time
 - D. antibodies from the first response remaining at high levels indefinitely
 
-**Q1089.** Outline the sequence of events in the humoral immune response, from a naive B cell encountering an antigen to the production of antibodies. (4 marks)
+**Q1096.** Outline the sequence of events in the humoral immune response, from a naive B cell encountering an antigen to the production of antibodies. (4 marks)
 <!-- id: bio34a2-hum-6 -->
 
 *Written answer*
 
-**Q1090.** Describe how antibodies can promote the destruction of bacteria by agglutination and opsonisation. (2 marks)
+**Q1097.** Describe how antibodies can promote the destruction of bacteria by agglutination and opsonisation. (2 marks)
 <!-- id: bio34a2-hum-7 -->
 
 *Written answer*
 
-**Q1091.** Explain why the antibodies produced against the measles virus do not protect against the chickenpox virus. (2 marks)
+**Q1098.** Explain why the antibodies produced against the measles virus do not protect against the chickenpox virus. (2 marks)
 <!-- id: bio34a2-hum-8 -->
 
 *Written answer*
 
 #### Cell-mediated immunity
 
-**Q1092.** Which cell directly destroys a virus-infected body cell during cell-mediated immunity?
+**Q1099.** Which cell directly destroys a virus-infected body cell during cell-mediated immunity?
 <!-- id: bio34a3-cmi-1 -->
 
 - A. Plasma cell
@@ -7649,7 +7696,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Helper T cell
 - D. Mast cell
 
-**Q1093.** A cytotoxic T cell recognises an infected cell because the infected cell displays
+**Q1100.** A cytotoxic T cell recognises an infected cell because the infected cell displays
 <!-- id: bio34a3-cmi-2 -->
 
 - A. viral antigen fragments on MHC class II markers.
@@ -7657,7 +7704,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. viral antigen fragments on MHC class I markers.
 - D. complement proteins in its cytosol.
 
-**Q1094.** Perforin and granzymes released by a cytotoxic T cell cause the target cell to
+**Q1101.** Perforin and granzymes released by a cytotoxic T cell cause the target cell to
 <!-- id: bio34a3-cmi-3 -->
 
 - A. undergo apoptosis.
@@ -7665,7 +7712,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. secrete interferon.
 - D. differentiate into a memory cell.
 
-**Q1095.** A patient has a condition in which very few helper T cells are produced. Which outcome is most likely?
+**Q1102.** A patient has a condition in which very few helper T cells are produced. Which outcome is most likely?
 <!-- id: bio34a3-cmi-4 -->
 
 - A. Only cell-mediated immunity is impaired; antibody production is normal.
@@ -7673,7 +7720,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Innate barriers such as skin and mucus stop functioning.
 - D. The patient's cells stop expressing MHC I markers.
 
-**Q1096.** Following an infection, a small number of cytotoxic T cells persist for years and produce a faster response if the same antigen is encountered again. These cells are
+**Q1103.** Following an infection, a small number of cytotoxic T cells persist for years and produce a faster response if the same antigen is encountered again. These cells are
 <!-- id: bio34a3-cmi-5 -->
 
 - A. regulatory T cells.
@@ -7681,24 +7728,24 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. plasma cells.
 - D. memory T cells.
 
-**Q1097.** Outline the sequence of events from the presentation of a viral antigen by a dendritic cell in a lymph node to the destruction of infected body cells by cytotoxic T cells. (4 marks)
+**Q1104.** Outline the sequence of events from the presentation of a viral antigen by a dendritic cell in a lymph node to the destruction of infected body cells by cytotoxic T cells. (4 marks)
 <!-- id: bio34a3-cmi-6 -->
 
 *Written answer*
 
-**Q1098.** Explain why cell-mediated immunity, rather than humoral immunity, is required to eliminate a virus once it is inside host cells. (2 marks)
+**Q1105.** Explain why cell-mediated immunity, rather than humoral immunity, is required to eliminate a virus once it is inside host cells. (2 marks)
 <!-- id: bio34a3-cmi-7 -->
 
 *Written answer*
 
-**Q1099.** Organ transplant recipients are given drugs that suppress T cell activity. Explain why these drugs are needed and identify one risk of taking them. (3 marks)
+**Q1106.** Organ transplant recipients are given drugs that suppress T cell activity. Explain why these drugs are needed and identify one risk of taking them. (3 marks)
 <!-- id: bio34a3-cmi-8 -->
 
 *Written answer*
 
 #### Types of immunity and vaccination
 
-**Q1100.** A newborn receives antibodies from its mother through breast milk. This is an example of
+**Q1107.** A newborn receives antibodies from its mother through breast milk. This is an example of
 <!-- id: bio34a3-tiv-1 -->
 
 - A. natural active immunity.
@@ -7706,7 +7753,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. artificial passive immunity.
 - D. artificial active immunity.
 
-**Q1101.** A bushwalker bitten by an eastern brown snake is given antivenom. Which statement about this treatment is correct?
+**Q1108.** A bushwalker bitten by an eastern brown snake is given antivenom. Which statement about this treatment is correct?
 <!-- id: bio34a3-tiv-2 -->
 
 - A. It provides long-lasting protection because memory B cells are produced.
@@ -7714,7 +7761,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. It provides immediate but short-term protection.
 - D. It is an example of artificial active immunity.
 
-**Q1102.** Which of the following best explains why a second dose (booster) of a vaccine is often given?
+**Q1109.** Which of the following best explains why a second dose (booster) of a vaccine is often given?
 <!-- id: bio34a3-tiv-3 -->
 
 - A. To trigger a secondary response that produces more memory cells and a higher antibody level.
@@ -7722,7 +7769,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. To activate the innate immune system for the first time.
 - D. To reduce the number of memory cells so that autoimmunity is avoided.
 
-**Q1103.** An mRNA vaccine against a virus works by
+**Q1110.** An mRNA vaccine against a virus works by
 <!-- id: bio34a3-tiv-4 -->
 
 - A. inserting viral genes into the recipient's chromosomes.
@@ -7730,7 +7777,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. supplying ready-made antibodies against the viral spike protein.
 - D. causing the recipient's cells to translate a viral antigen, which then stimulates an adaptive immune response.
 
-**Q1104.** In a town, 95% of people are vaccinated against measles. An unvaccinated infant in the town is unlikely to catch measles mainly because
+**Q1111.** In a town, 95% of people are vaccinated against measles. An unvaccinated infant in the town is unlikely to catch measles mainly because
 <!-- id: bio34a3-tiv-5 -->
 
 - A. the infant has natural active immunity from birth.
@@ -7738,24 +7785,24 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. the measles virus cannot infect infants.
 - D. vaccinated people pass antibodies to unvaccinated people by contact.
 
-**Q1105.** Distinguish between active and passive immunity, referring to the duration of protection in each. (3 marks)
+**Q1112.** Distinguish between active and passive immunity, referring to the duration of protection in each. (3 marks)
 <!-- id: bio34a3-tiv-6 -->
 
 *Written answer*
 
-**Q1106.** A graph shows antibody concentration in a person's blood over 60 days. A vaccine was given on day 0 and a booster on day 30. Antibody levels peaked at a low level around day 12 and then declined; after day 30 they rose more quickly to a peak about ten times higher. Explain the difference between the two responses. (3 marks)
+**Q1113.** A graph shows antibody concentration in a person's blood over 60 days. A vaccine was given on day 0 and a booster on day 30. Antibody levels peaked at a low level around day 12 and then declined; after day 30 they rose more quickly to a peak about ten times higher. Explain the difference between the two responses. (3 marks)
 <!-- id: bio34a3-tiv-7 -->
 
 *Written answer*
 
-**Q1107.** Explain why vaccination rates below the herd immunity threshold can lead to an outbreak, even though most people are vaccinated. (2 marks)
+**Q1114.** Explain why vaccination rates below the herd immunity threshold can lead to an outbreak, even though most people are vaccinated. (2 marks)
 <!-- id: bio34a3-tiv-8 -->
 
 *Written answer*
 
 #### Emerging diseases and immunotherapy
 
-**Q1108.** Which of the following is an example of a re-emerging disease?
+**Q1115.** Which of the following is an example of a re-emerging disease?
 <!-- id: bio34a3-edi-1 -->
 
 - A. A disease caused by a newly identified coronavirus that jumped from bats to humans
@@ -7763,7 +7810,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. A genetic disorder caused by a new point mutation
 - D. Type 2 diabetes increasing with age
 
-**Q1109.** Which factor most directly increases the speed at which a new infectious disease spreads between countries?
+**Q1116.** Which factor most directly increases the speed at which a new infectious disease spreads between countries?
 <!-- id: bio34a3-edi-2 -->
 
 - A. International air travel
@@ -7771,7 +7818,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Higher vaccination coverage
 - D. Antibiotic stewardship programs
 
-**Q1110.** Monoclonal antibodies are produced by
+**Q1117.** Monoclonal antibodies are produced by
 <!-- id: bio34a3-edi-3 -->
 
 - A. injecting a patient with weakened pathogens.
@@ -7779,7 +7826,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. fusing a specific plasma (B) cell with a myeloma (cancer) cell to form a hybridoma that is cloned.
 - D. inserting antibody genes into memory T cells.
 
-**Q1111.** Some cancer cells display the protein PD-L1, which binds to PD-1 on cytotoxic T cells and switches them off. A monoclonal antibody that binds PD-1 is used as a treatment. This works because the antibody
+**Q1118.** Some cancer cells display the protein PD-L1, which binds to PD-1 on cytotoxic T cells and switches them off. A monoclonal antibody that binds PD-1 is used as a treatment. This works because the antibody
 <!-- id: bio34a3-edi-4 -->
 
 - A. kills the cancer cells directly by causing apoptosis.
@@ -7787,7 +7834,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. binds PD-L1 and marks cancer cells for destruction by complement.
 - D. stimulates B cells to produce antibodies against PD-1.
 
-**Q1112.** Aboriginal and Torres Strait Islander peoples have long used plants such as the gumby gumby (Pittosporum angustifolium) for medicinal purposes. The most appropriate way for researchers to investigate such plants for new drugs is to
+**Q1119.** Aboriginal and Torres Strait Islander peoples have long used plants such as the gumby gumby (Pittosporum angustifolium) for medicinal purposes. The most appropriate way for researchers to investigate such plants for new drugs is to
 <!-- id: bio34a3-edi-5 -->
 
 - A. collect plants from Country without consultation, as plants are a public resource.
@@ -7795,17 +7842,17 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. partner with Traditional Owners, gain free, prior and informed consent and share benefits.
 - D. rely solely on written colonial records of plant use.
 
-**Q1113.** Identify two factors that contributed to the rapid global spread of COVID-19 and explain how each increased transmission. (4 marks)
+**Q1120.** Identify two factors that contributed to the rapid global spread of COVID-19 and explain how each increased transmission. (4 marks)
 <!-- id: bio34a3-edi-6 -->
 
 *Written answer*
 
-**Q1114.** Explain how a monoclonal antibody that binds a protein found only on the surface of breast cancer cells can be used to treat the cancer. (3 marks)
+**Q1121.** Explain how a monoclonal antibody that binds a protein found only on the surface of breast cancer cells can be used to treat the cancer. (3 marks)
 <!-- id: bio34a3-edi-7 -->
 
 *Written answer*
 
-**Q1115.** Explain how a zoonotic pathogen can become an emerging human disease. (2 marks)
+**Q1122.** Explain how a zoonotic pathogen can become an emerging human disease. (2 marks)
 <!-- id: bio34a3-edi-8 -->
 
 *Written answer*
@@ -7814,7 +7861,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 #### Mutations, gene flow and genetic drift
 
-**Q1116.** Which of the following is the only source of entirely new alleles in a population?
+**Q1123.** Which of the following is the only source of entirely new alleles in a population?
 <!-- id: bio34a3-mgd-1 -->
 
 - A. Mutation
@@ -7822,7 +7869,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Genetic drift
 - D. Natural selection
 
-**Q1117.** A deletion of a single nucleotide near the start of a gene is likely to have a greater effect than a substitution because it
+**Q1124.** A deletion of a single nucleotide near the start of a gene is likely to have a greater effect than a substitution because it
 <!-- id: bio34a3-mgd-2 -->
 
 - A. changes only one amino acid.
@@ -7830,7 +7877,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. causes a frameshift that alters every codon downstream.
 - D. removes the promoter from the gene.
 
-**Q1118.** Tasmanian devil populations have extremely low genetic diversity, which is thought to have resulted from population crashes thousands of years ago. This is best described as
+**Q1125.** Tasmanian devil populations have extremely low genetic diversity, which is thought to have resulted from population crashes thousands of years ago. This is best described as
 <!-- id: bio34a3-mgd-3 -->
 
 - A. the founder effect.
@@ -7838,7 +7885,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. a bottleneck effect.
 - D. artificial selection.
 
-**Q1119.** Which population is most likely to experience large changes in allele frequency due to genetic drift?
+**Q1126.** Which population is most likely to experience large changes in allele frequency due to genetic drift?
 <!-- id: bio34a3-mgd-4 -->
 
 - A. A population of 10 000 frogs with frequent migration
@@ -7846,7 +7893,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. A population of 50 000 mosquitoes
 - D. A population of 5000 grasses with wind-borne pollen from other populations
 
-**Q1120.** Pollen from genetically modified canola is carried by wind into a neighbouring population of wild canola, where it fertilises some plants. The effect on the wild population is
+**Q1127.** Pollen from genetically modified canola is carried by wind into a neighbouring population of wild canola, where it fertilises some plants. The effect on the wild population is
 <!-- id: bio34a3-mgd-5 -->
 
 - A. genetic drift, which increases genetic differences between the populations.
@@ -7854,24 +7901,24 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. mutation, which creates new alleles in the GM crop.
 - D. gene flow, which makes the gene pools of the two populations more similar.
 
-**Q1121.** Distinguish between the founder effect and the bottleneck effect, and state one similarity. (3 marks)
+**Q1128.** Distinguish between the founder effect and the bottleneck effect, and state one similarity. (3 marks)
 <!-- id: bio34a3-mgd-6 -->
 
 *Written answer*
 
-**Q1122.** A population of 200 skinks has an allele frequency of 0.4 for allele B. After a flood kills 180 skinks at random, the frequency of B in the survivors is 0.15. Identify the mechanism responsible and explain why the change occurred. (2 marks)
+**Q1129.** A population of 200 skinks has an allele frequency of 0.4 for allele B. After a flood kills 180 skinks at random, the frequency of B in the survivors is 0.15. Identify the mechanism responsible and explain why the change occurred. (2 marks)
 <!-- id: bio34a3-mgd-7 -->
 
 *Written answer*
 
-**Q1123.** Explain how a mutation in a somatic cell differs from a mutation in a germline cell in its significance for the evolution of a population. (2 marks)
+**Q1130.** Explain how a mutation in a somatic cell differs from a mutation in a germline cell in its significance for the evolution of a population. (2 marks)
 <!-- id: bio34a3-mgd-8 -->
 
 *Written answer*
 
 #### Natural selection and selective breeding
 
-**Q1124.** Which of the following is NOT a requirement for evolution by natural selection?
+**Q1131.** Which of the following is NOT a requirement for evolution by natural selection?
 <!-- id: bio34a3-nss-1 -->
 
 - A. Heritable variation in a trait within the population
@@ -7879,7 +7926,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Individuals deliberately changing their traits to suit the environment
 - D. Differential survival and reproduction
 
-**Q1125.** Cane toads at the invasion front in northern Australia have longer legs than toads in long-established populations. The most likely explanation is that
+**Q1132.** Cane toads at the invasion front in northern Australia have longer legs than toads in long-established populations. The most likely explanation is that
 <!-- id: bio34a3-nss-2 -->
 
 - A. toads stretch their legs while travelling, and this is passed to offspring.
@@ -7887,7 +7934,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. longer legs arose by mutation because toads needed to move faster.
 - D. genetic drift always increases leg length in amphibians.
 
-**Q1126.** Compared with natural selection, selective breeding of dairy cattle
+**Q1133.** Compared with natural selection, selective breeding of dairy cattle
 <!-- id: bio34a3-nss-3 -->
 
 - A. involves humans choosing which individuals reproduce, often reducing genetic diversity.
@@ -7895,7 +7942,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. does not change allele frequencies in the population.
 - D. relies on random mutations being caused by the farmer.
 
-**Q1127.** A population of moths contains dark and light forms. After a fire blackens tree bark, the frequency of the dark allele increases over several generations. The selection pressure is
+**Q1134.** A population of moths contains dark and light forms. After a fire blackens tree bark, the frequency of the dark allele increases over several generations. The selection pressure is
 <!-- id: bio34a3-nss-4 -->
 
 - A. the mutation producing dark colour.
@@ -7903,7 +7950,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. the reduced genetic diversity.
 - D. predation by birds that see contrasting moths more easily.
 
-**Q1128.** Which is a likely disadvantage of a crop variety produced by many generations of selective breeding?
+**Q1135.** Which is a likely disadvantage of a crop variety produced by many generations of selective breeding?
 <!-- id: bio34a3-nss-5 -->
 
 - A. It always produces a lower yield.
@@ -7911,24 +7958,24 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Plants are genetically very similar, so the whole crop may be vulnerable to a single new disease.
 - D. It contains more alleles than the wild type.
 
-**Q1129.** Using the example of a population of algae-eating snails in which some individuals have thicker shells, explain how natural selection could increase the frequency of thick shells after crabs are introduced as predators. (4 marks)
+**Q1136.** Using the example of a population of algae-eating snails in which some individuals have thicker shells, explain how natural selection could increase the frequency of thick shells after crabs are introduced as predators. (4 marks)
 <!-- id: bio34a3-nss-6 -->
 
 *Written answer*
 
-**Q1130.** Explain why selective breeding can produce large phenotypic changes in a species in far fewer generations than natural selection usually does. (2 marks)
+**Q1137.** Explain why selective breeding can produce large phenotypic changes in a species in far fewer generations than natural selection usually does. (2 marks)
 <!-- id: bio34a3-nss-7 -->
 
 *Written answer*
 
-**Q1131.** A farmer breeds sheep for fine wool for 30 generations. Describe the likely effect on the genetic diversity of the flock and explain one consequence. (2 marks)
+**Q1138.** A farmer breeds sheep for fine wool for 30 generations. Describe the likely effect on the genetic diversity of the flock and explain one consequence. (2 marks)
 <!-- id: bio34a3-nss-8 -->
 
 *Written answer*
 
 #### Antibiotic and antiviral resistance
 
-**Q1132.** Which statement correctly describes the development of antibiotic resistance in a bacterial population?
+**Q1139.** Which statement correctly describes the development of antibiotic resistance in a bacterial population?
 <!-- id: bio34a3-aar-1 -->
 
 - A. Bacteria develop resistance because they are exposed to the antibiotic and need to survive.
@@ -7936,7 +7983,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Resistant bacteria already present survive the antibiotic and reproduce, increasing the frequency of resistance.
 - D. Patients become resistant to the antibiotic after repeated use.
 
-**Q1133.** Bacteria can rapidly share resistance genes with other bacteria, including other species, through
+**Q1140.** Bacteria can rapidly share resistance genes with other bacteria, including other species, through
 <!-- id: bio34a3-aar-2 -->
 
 - A. meiosis.
@@ -7944,7 +7991,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. binary fission.
 - D. antigen presentation.
 
-**Q1134.** Why does failing to complete a prescribed course of antibiotics contribute to resistance?
+**Q1141.** Why does failing to complete a prescribed course of antibiotics contribute to resistance?
 <!-- id: bio34a3-aar-3 -->
 
 - A. It allows the more-resistant bacteria that survived early doses to multiply.
@@ -7952,7 +7999,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. It converts the antibiotic into a mutagen.
 - D. It increases gene flow between the patient and other people.
 
-**Q1135.** Influenza viruses with a mutation in the neuraminidase gene are not inhibited by the antiviral drug oseltamivir (Tamiflu). In a hospital where oseltamivir is widely used, the proportion of resistant viruses would be expected to
+**Q1142.** Influenza viruses with a mutation in the neuraminidase gene are not inhibited by the antiviral drug oseltamivir (Tamiflu). In a hospital where oseltamivir is widely used, the proportion of resistant viruses would be expected to
 <!-- id: bio34a3-aar-4 -->
 
 - A. decrease, as the drug destroys the mutated gene.
@@ -7960,7 +8007,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. decrease, because viruses cannot mutate.
 - D. increase, as the drug selects for viruses with the mutation.
 
-**Q1136.** Which practice would be most effective in slowing the evolution of antibiotic resistance in Australia?
+**Q1143.** Which practice would be most effective in slowing the evolution of antibiotic resistance in Australia?
 <!-- id: bio34a3-aar-5 -->
 
 - A. Prescribing antibiotics for viral colds as a precaution
@@ -7968,24 +8015,24 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Prescribing antibiotics only for bacterial infections, using narrow-spectrum drugs where possible
 - D. Using a single antibiotic for all infections
 
-**Q1137.** Explain how a population of Staphylococcus aureus in a hospital could become resistant to methicillin (MRSA) over time. (4 marks)
+**Q1144.** Explain how a population of Staphylococcus aureus in a hospital could become resistant to methicillin (MRSA) over time. (4 marks)
 <!-- id: bio34a3-aar-6 -->
 
 *Written answer*
 
-**Q1138.** HIV is treated with a combination of three antiviral drugs that act on different targets rather than one drug. Explain why. (2 marks)
+**Q1145.** HIV is treated with a combination of three antiviral drugs that act on different targets rather than one drug. Explain why. (2 marks)
 <!-- id: bio34a3-aar-7 -->
 
 *Written answer*
 
-**Q1139.** Explain why antibiotic resistance can evolve in bacteria within months, whereas changes in human populations take thousands of years. (2 marks)
+**Q1146.** Explain why antibiotic resistance can evolve in bacteria within months, whereas changes in human populations take thousands of years. (2 marks)
 <!-- id: bio34a3-aar-8 -->
 
 *Written answer*
 
 #### Speciation
 
-**Q1140.** According to the biological species concept, two organisms belong to the same species if they
+**Q1147.** According to the biological species concept, two organisms belong to the same species if they
 <!-- id: bio34a3-spe-1 -->
 
 - A. look very similar.
@@ -7993,7 +8040,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. have exactly the same DNA sequence.
 - D. can interbreed under natural conditions to produce viable, fertile offspring.
 
-**Q1141.** Which sequence correctly describes allopatric speciation?
+**Q1148.** Which sequence correctly describes allopatric speciation?
 <!-- id: bio34a3-spe-2 -->
 
 - A. Geographical isolation → different selection pressures and genetic drift → genetic divergence → reproductive isolation
@@ -8001,7 +8048,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Mutation → gene flow → interbreeding → new species
 - D. Polyploidy → hybridisation → geographical isolation → new species
 
-**Q1142.** A horse and a donkey can mate to produce a mule, which is sterile. This shows that horses and donkeys
+**Q1149.** A horse and a donkey can mate to produce a mule, which is sterile. This shows that horses and donkeys
 <!-- id: bio34a3-spe-3 -->
 
 - A. are the same species, as they can mate.
@@ -8009,7 +8056,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. are undergoing sympatric speciation right now.
 - D. have no shared ancestor.
 
-**Q1143.** Two populations of frogs live in the same pond, but one breeds in early spring and the other in late summer. This is an example of
+**Q1150.** Two populations of frogs live in the same pond, but one breeds in early spring and the other in late summer. This is an example of
 <!-- id: bio34a3-spe-4 -->
 
 - A. geographical isolation.
@@ -8017,7 +8064,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. temporal (seasonal) reproductive isolation.
 - D. hybrid sterility.
 
-**Q1144.** Sympatric speciation in plants often occurs through polyploidy because
+**Q1151.** Sympatric speciation in plants often occurs through polyploidy because
 <!-- id: bio34a3-spe-5 -->
 
 - A. polyploid plants are geographically separated from the parent population.
@@ -8025,24 +8072,24 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. polyploid plants always have lower fitness and die out.
 - D. a polyploid plant cannot produce fertile offspring with the parent species, so it is instantly reproductively isolated.
 
-**Q1145.** Around 10 000 years ago, rising sea levels separated Kangaroo Island from mainland South Australia. Explain how this could lead to the formation of a new species of wallaby on the island. (4 marks)
+**Q1152.** Around 10 000 years ago, rising sea levels separated Kangaroo Island from mainland South Australia. Explain how this could lead to the formation of a new species of wallaby on the island. (4 marks)
 <!-- id: bio34a3-spe-6 -->
 
 *Written answer*
 
-**Q1146.** Distinguish between allopatric and sympatric speciation. (2 marks)
+**Q1153.** Distinguish between allopatric and sympatric speciation. (2 marks)
 <!-- id: bio34a3-spe-7 -->
 
 *Written answer*
 
-**Q1147.** Two populations of birds separated for 50 000 years are reunited. Describe an experiment or observation that would determine whether speciation has occurred. (2 marks)
+**Q1154.** Two populations of birds separated for 50 000 years are reunited. Describe an experiment or observation that would determine whether speciation has occurred. (2 marks)
 <!-- id: bio34a3-spe-8 -->
 
 *Written answer*
 
 #### Fossil record and dating
 
-**Q1148.** Which conditions most favour the formation of a fossil?
+**Q1155.** Which conditions most favour the formation of a fossil?
 <!-- id: bio34a3-frd-1 -->
 
 - A. Exposure to oxygen and scavengers on the ground surface
@@ -8050,7 +8097,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Slow decomposition in warm, moist soil with many bacteria
 - D. Remains left in a fast-flowing river bed of coarse gravel
 
-**Q1149.** In an undisturbed sequence of sedimentary rock layers, fossil X is found in a lower layer than fossil Y. Which conclusion is valid?
+**Q1156.** In an undisturbed sequence of sedimentary rock layers, fossil X is found in a lower layer than fossil Y. Which conclusion is valid?
 <!-- id: bio34a3-frd-2 -->
 
 - A. Fossil X is younger than fossil Y.
@@ -8058,7 +8105,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Fossil X is exactly twice the age of fossil Y.
 - D. Fossil X and fossil Y must be the same species.
 
-**Q1150.** Carbon-14 has a half-life of about 5730 years. A bone sample contains one-eighth of the carbon-14 expected in living tissue. The approximate age of the bone is
+**Q1157.** Carbon-14 has a half-life of about 5730 years. A bone sample contains one-eighth of the carbon-14 expected in living tissue. The approximate age of the bone is
 <!-- id: bio34a3-frd-3 -->
 
 - A. 5730 years.
@@ -8066,7 +8113,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 17 190 years.
 - D. 45 840 years.
 
-**Q1151.** Carbon-14 dating would NOT be suitable for determining the age of a 65-million-year-old dinosaur fossil because
+**Q1158.** Carbon-14 dating would NOT be suitable for determining the age of a 65-million-year-old dinosaur fossil because
 <!-- id: bio34a3-frd-4 -->
 
 - A. dinosaurs did not contain carbon.
@@ -8074,7 +8121,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. the half-life of carbon-14 is too short, so almost no carbon-14 would remain.
 - D. carbon-14 dating only works for plants.
 
-**Q1152.** Stromatolites at Shark Bay, Western Australia, are significant in the fossil record because
+**Q1159.** Stromatolites at Shark Bay, Western Australia, are significant in the fossil record because
 <!-- id: bio34a3-frd-5 -->
 
 - A. they are formed by cyanobacteria, and fossil stromatolites are among the oldest evidence of life (about 3.5 billion years).
@@ -8082,24 +8129,24 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. they show the transition from fish to amphibians.
 - D. they are index fossils for the Jurassic period.
 
-**Q1153.** Explain why the fossil record is incomplete. Give two reasons. (2 marks)
+**Q1160.** Explain why the fossil record is incomplete. Give two reasons. (2 marks)
 <!-- id: bio34a3-frd-6 -->
 
 *Written answer*
 
-**Q1154.** A fossil is found in a sedimentary layer between two volcanic ash layers. The ash layer above is dated at 3.2 million years and the ash layer below at 3.6 million years. Explain how these dates were obtained and what they tell us about the fossil. (3 marks)
+**Q1161.** A fossil is found in a sedimentary layer between two volcanic ash layers. The ash layer above is dated at 3.2 million years and the ash layer below at 3.6 million years. Explain how these dates were obtained and what they tell us about the fossil. (3 marks)
 <!-- id: bio34a3-frd-7 -->
 
 *Written answer*
 
-**Q1155.** Define an index fossil and explain how it can be used to compare the ages of rock layers at two distant sites. (2 marks)
+**Q1162.** Define an index fossil and explain how it can be used to compare the ages of rock layers at two distant sites. (2 marks)
 <!-- id: bio34a3-frd-8 -->
 
 *Written answer*
 
 #### Evidence of relatedness and phylogenetic trees
 
-**Q1156.** The forelimbs of a human, a bat and a whale have the same arrangement of bones but different functions. These are
+**Q1163.** The forelimbs of a human, a bat and a whale have the same arrangement of bones but different functions. These are
 <!-- id: bio34a3-erp-1 -->
 
 - A. analogous structures, showing convergent evolution.
@@ -8107,7 +8154,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. homologous structures, showing divergent evolution from a common ancestor.
 - D. analogous structures, showing a common ancestor.
 
-**Q1157.** The wings of a bird and the wings of an insect are best described as
+**Q1164.** The wings of a bird and the wings of an insect are best described as
 <!-- id: bio34a3-erp-2 -->
 
 - A. homologous structures.
@@ -8115,7 +8162,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. vestigial structures.
 - D. transitional structures.
 
-**Q1158.** The table shows the number of amino acid differences in cytochrome c between humans and four other species: rhesus monkey 1, dog 11, kangaroo 10, yeast 44. Which conclusion is best supported?
+**Q1165.** The table shows the number of amino acid differences in cytochrome c between humans and four other species: rhesus monkey 1, dog 11, kangaroo 10, yeast 44. Which conclusion is best supported?
 <!-- id: bio34a3-erp-3 -->
 
 - A. Humans are most closely related to yeast.
@@ -8123,7 +8170,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Humans share a more recent common ancestor with the rhesus monkey than with any of the other species listed.
 - D. Dogs and kangaroos are the same species.
 
-**Q1159.** On a phylogenetic tree, a node represents
+**Q1166.** On a phylogenetic tree, a node represents
 <!-- id: bio34a3-erp-4 -->
 
 - A. a species that is now extinct with no descendants.
@@ -8131,7 +8178,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. the present-day species being compared.
 - D. the number of mutations in a gene.
 
-**Q1160.** Why are comparisons of DNA sequences generally more reliable than comparisons of amino acid sequences for determining relatedness?
+**Q1167.** Why are comparisons of DNA sequences generally more reliable than comparisons of amino acid sequences for determining relatedness?
 <!-- id: bio34a3-erp-5 -->
 
 - A. DNA sequences can be compared only in living species.
@@ -8139,24 +8186,24 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Proteins contain more information than genes.
 - D. DNA comparisons detect all changes, including silent mutations and non-coding regions that do not alter amino acids.
 
-**Q1161.** Explain what vestigial structures are and why they provide evidence for evolution. Use an example. (3 marks)
+**Q1168.** Explain what vestigial structures are and why they provide evidence for evolution. Use an example. (3 marks)
 <!-- id: bio34a3-erp-6 -->
 
 *Written answer*
 
-**Q1162.** A segment of a gene has the following number of base differences between four species: P–Q 2, P–R 8, P–S 9, Q–R 8, Q–S 9, R–S 4. Describe the phylogenetic tree these data support. (3 marks)
+**Q1169.** A segment of a gene has the following number of base differences between four species: P–Q 2, P–R 8, P–S 9, Q–R 8, Q–S 9, R–S 4. Describe the phylogenetic tree these data support. (3 marks)
 <!-- id: bio34a3-erp-7 -->
 
 *Written answer*
 
-**Q1163.** The molecular clock assumes that mutations accumulate at a constant rate. Explain how this can be used to estimate when two species diverged, and state one limitation. (3 marks)
+**Q1170.** The molecular clock assumes that mutations accumulate at a constant rate. Explain how this can be used to estimate when two species diverged, and state one limitation. (3 marks)
 <!-- id: bio34a3-erp-8 -->
 
 *Written answer*
 
 #### Human evolution
 
-**Q1164.** Which feature of the skull most clearly indicates that a hominin walked upright (bipedal)?
+**Q1171.** Which feature of the skull most clearly indicates that a hominin walked upright (bipedal)?
 <!-- id: bio34a3-hev-1 -->
 
 - A. A large brow ridge
@@ -8164,7 +8211,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. A protruding jaw (prognathism)
 - D. Large canine teeth
 
-**Q1165.** Compared with the pelvis of a chimpanzee, the pelvis of a modern human is
+**Q1172.** Compared with the pelvis of a chimpanzee, the pelvis of a modern human is
 <!-- id: bio34a3-hev-2 -->
 
 - A. long and narrow, to support knuckle-walking.
@@ -8172,7 +8219,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. short, broad and bowl-shaped, supporting the internal organs and attachment of walking muscles.
 - D. fused with the femur.
 
-**Q1166.** Analysis of DNA shows that many living people outside Africa carry about 1–2% Neanderthal DNA, and some populations (e.g. in Papua New Guinea and among Aboriginal Australians) also carry Denisovan DNA. This indicates that
+**Q1173.** Analysis of DNA shows that many living people outside Africa carry about 1–2% Neanderthal DNA, and some populations (e.g. in Papua New Guinea and among Aboriginal Australians) also carry Denisovan DNA. This indicates that
 <!-- id: bio34a3-hev-3 -->
 
 - A. Homo sapiens evolved from Neanderthals in Europe.
@@ -8180,7 +8227,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Neanderthals are the direct ancestors of Denisovans only.
 - D. Denisovans evolved in Australia.
 
-**Q1167.** Archaeological evidence from Madjedbebe rock shelter in Arnhem Land suggests that people have lived in Australia for at least about
+**Q1174.** Archaeological evidence from Madjedbebe rock shelter in Arnhem Land suggests that people have lived in Australia for at least about
 <!-- id: bio34a3-hev-4 -->
 
 - A. 5000 years.
@@ -8188,7 +8235,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 65 000 years.
 - D. 2 million years.
 
-**Q1168.** The term 'hominin' refers to
+**Q1175.** The term 'hominin' refers to
 <!-- id: bio34a3-hev-5 -->
 
 - A. all primates, including lemurs and monkeys.
@@ -8196,17 +8243,17 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. only the species Homo sapiens.
 - D. modern humans and extinct species more closely related to humans than to chimpanzees.
 
-**Q1169.** Describe two skeletal features, other than the skull, that indicate a fossil hominin was bipedal, and explain how each is an adaptation for walking upright. (4 marks)
+**Q1176.** Describe two skeletal features, other than the skull, that indicate a fossil hominin was bipedal, and explain how each is an adaptation for walking upright. (4 marks)
 <!-- id: bio34a3-hev-6 -->
 
 *Written answer*
 
-**Q1170.** Explain how mitochondrial DNA (mtDNA) evidence has been used to support the 'Out of Africa' model of human origins. (3 marks)
+**Q1177.** Explain how mitochondrial DNA (mtDNA) evidence has been used to support the 'Out of Africa' model of human origins. (3 marks)
 <!-- id: bio34a3-hev-7 -->
 
 *Written answer*
 
-**Q1171.** Explain why new fossil discoveries, such as Homo floresiensis on the island of Flores, can change scientists' understanding of human evolution. (2 marks)
+**Q1178.** Explain why new fossil discoveries, such as Homo floresiensis on the island of Flores, can change scientists' understanding of human evolution. (2 marks)
 <!-- id: bio34a3-hev-8 -->
 
 *Written answer*
