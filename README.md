@@ -24,6 +24,17 @@ Question types:
 
 Scores are counted in marks: multiple-choice and written questions are worth 1 mark each, multi-part questions the sum of their parts.
 
+**Question info**: under every question a collapsible panel gives six things:
+
+- **Topic**: the subtopic the question tests, linked to its quiz, and its topic. Exam-style questions list every subtopic their parts test.
+- **Marks**: the marks it would be worth in an exam. This is 1 for multiple choice and the sum of the parts for multi-part questions. For written questions it is an estimate, taken from the "(n marks)" in the prompt where there is one; they still score 1 mark on the site. Chinese conversation questions are marked as a whole.
+- **Estimated time**: roughly the exam's pace per mark, plus reading time for long stimulus material.
+- **Exam relevance**: how often the subtopic comes up (High, Medium or Low) and how close the question is to the exam's format, for example "Multiple choice, as in Exam 2 Section A". For Units 1 & 2, which have no external exam, it says how central the subtopic is and how much Units 3 & 4 build on it.
+- **Prerequisites**: earlier subtopics, linked, sometimes from the Units 1 & 2 subject, plus any outside knowledge needed.
+- **Question type**: one or more of recall, conceptual, calculation, application, data analysis, evaluation, proof, investigation design, text analysis, extended writing, reading comprehension, language use and speaking.
+
+Marks, times and relevance are estimates, not predictions. Question types were tagged by rules and checked by sampling, so a few may be debatable; corrections are welcome.
+
 **Error log** (`#errors`): every question, or part of a multi-part question, where you lose marks is saved automatically (this can be switched off). For each entry you can record why you lost marks and a note to yourself, practise the open entries again as a quiz, and tick them off as resolved. Questions you got right can be added by hand. The log lives in `localStorage` under `helix-errors-v1`.
 
 ## Question files
@@ -76,6 +87,12 @@ Corrections and new questions are welcome as [issues](https://github.com/m3gabra
 - Write maths in LaTeX between `\( \)` (inline) or `\[ \]` (display). `$` is not a maths delimiter, because many questions use it for money. In the JSON every LaTeX backslash must be doubled (`\\frac`, not `\frac`, which JSON reads as a form feed); `scripts/verify.py` reports any string holding a control character.
 - A part can also have `sample`, a list of paragraphs shown as a "Sample response" (used for essays and writing tasks); its steps are then headed "Marking guide". A question can set `steps_label` (for example `"Marking points"`) to replace the default "Worked solution" heading, as English and Chinese do.
 - `DATA.C` lists the ids of the challenge questions. The quiz, exam-style and full-test pages tag those questions "Challenge", and `questions.md` marks them with *Challenge question*. `scripts/verify.py` checks that every listed id exists and that the marks in `questions.md` match the list.
+- Question info lives in three maps:
+  - `DATA.M` maps each subtopic slug to `[weight, [prerequisite slugs], "prior knowledge", "format note"?]`. The weight is 3 (high), 2 (medium) or 1 (low). The optional format note replaces the subject's wording for the question format, as the English essay subtopics do.
+  - `DATA.T` maps each question id to `[type or [types], exam marks, minutes]`. The types are the codes in `QTYPES` in `index.html`. Challenge-set questions add a fourth element: the subtopic slug they test, or the name of a syllabus area that has no subtopic.
+  - `DATA.E` maps each subject id to `{"w": [low, medium, high], "mcq", "short", "multi", "free"?}`, how that subject words exam relevance.
+
+  A new question needs an entry in `DATA.T`, and a new subtopic an entry in `DATA.M`. `scripts/verify.py` checks all three maps and the *Info* line that `questions.md` prints under each question.
 - Vary the position of the correct option in multiple-choice questions, and keep distractors about as long and detailed as the answer, so the answer is not given away by its position or length.
 - Chinese text needs no markup: the page wraps runs of Chinese characters in `lang="zh-Hans"` so screen readers pronounce them correctly.
 - Source labels must not claim a question is a VCAA question. Write original questions; past papers and textbooks may only guide the style.

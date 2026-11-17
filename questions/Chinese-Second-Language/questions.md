@@ -8,8 +8,11 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 #### Reading: answer in English
 
+*Exam relevance: High (comes up in most exams) · Prerequisites: Vocabulary for everyday topics*
+
 **Q1.** A summer Chinese camp (advertisement)
 <!-- id: vce-chinese-sl34-ra1 -->
+*Info: Reading comprehension · 7 marks · about 16 min · Exam relevance: High (comes up in most exams); reading task, as in the written exam (answers in English)*
 *Multi-part question · 7 marks · Original text in the style of the VCE Chinese Second Language exam, Section 2 Part A (answer in English)*
 
 Read the advertisement, then answer the questions in English.
@@ -38,6 +41,7 @@ Read the advertisement, then answer the questions in English.
 
 **Q2.** My part-time job (blog post)
 <!-- id: vce-chinese-sl34-ra2 -->
+*Info: Reading comprehension · 9 marks · about 20 min · Exam relevance: High (comes up in most exams); reading task, as in the written exam (answers in English)*
 *Multi-part question · 9 marks · Original text in the style of the VCE Chinese Second Language exam, Section 2 Part A (answer in English)*
 
 Read the blog post, then answer the questions in English.
@@ -58,6 +62,7 @@ Read the blog post, then answer the questions in English.
 
 **Q3.** Fewer plastic bags (article)
 <!-- id: vce-chinese-sl34-ra3 -->
+*Info: Reading comprehension · 8 marks · about 18 min · Exam relevance: High (comes up in most exams); reading task, as in the written exam (answers in English)*
 *Multi-part question · 8 marks · Original text in the style of the VCE Chinese Second Language exam, Section 2 Part A (answer in English)*
 
 Read the article, then answer the questions in English.
@@ -81,6 +86,7 @@ Read the article, then answer the questions in English.
 **Q4.** Challenge: shared bikes (newspaper article)
 <!-- id: vce-chinese-sl34-ra-c1 -->
 *Challenge question*
+*Info: Reading comprehension · 10 marks · about 25 min · Exam relevance: High (comes up in most exams); reading task, as in the written exam (answers in English); harder than most exam questions*
 *Multi-part question · 10 marks · Original challenge text in the style of the VCE Chinese Second Language exam, Section 2 Part A (answer in English)*
 
 Read the article, then answer the questions in English.
@@ -109,8 +115,11 @@ Read the article, then answer the questions in English.
 
 #### Reading: answer in Chinese
 
+*Exam relevance: High (comes up in most exams) · Prerequisites: Reading: answer in English; Writing short answers in characters*
+
 **Q5.** A letter from Xiaoli about Spring Festival
 <!-- id: vce-chinese-sl34-rb1 -->
+*Info: Reading comprehension · 9 marks · about 20 min · Exam relevance: High (comes up in most exams); reading task, as in the written exam (answers in Chinese)*
 *Multi-part question · 9 marks · Original text in the style of the VCE Chinese Second Language exam, Section 2 Part B (answer in Chinese)*
 
 阅读下面的信，然后用中文回答问题。
@@ -139,6 +148,7 @@ Read the article, then answer the questions in English.
 
 **Q6.** Shopping online: for and against (article)
 <!-- id: vce-chinese-sl34-rb2 -->
+*Info: Reading comprehension · 7 marks · about 16 min · Exam relevance: High (comes up in most exams); reading task, as in the written exam (answers in Chinese)*
 *Multi-part question · 7 marks · Original text in the style of the VCE Chinese Second Language exam, Section 2 Part B (answer in Chinese)*
 
 阅读下面的文章，然后用中文回答问题。
@@ -161,6 +171,7 @@ Read the article, then answer the questions in English.
 
 **Q7.** Li Hua changes his habits (story)
 <!-- id: vce-chinese-sl34-rb3 -->
+*Info: Reading comprehension · 7 marks · about 16 min · Exam relevance: High (comes up in most exams); reading task, as in the written exam (answers in Chinese)*
 *Multi-part question · 7 marks · Original text in the style of the VCE Chinese Second Language exam, Section 2 Part B (answer in Chinese)*
 
 阅读下面的短文，然后用中文回答问题。
@@ -184,6 +195,7 @@ Read the article, then answer the questions in English.
 **Q8.** Challenge: Jack's email (to go or not to go?)
 <!-- id: vce-chinese-sl34-rb-c1 -->
 *Challenge question*
+*Info: Reading comprehension · 11 marks · about 25 min · Exam relevance: High (comes up in most exams); reading task, as in the written exam (answers in Chinese); harder than most exam questions*
 *Multi-part question · 11 marks · Original challenge text in the style of the VCE Chinese Second Language exam, Section 2 Part B (answer in Chinese)*
 
 阅读下面的电子邮件，然后用中文回答问题。
@@ -214,8 +226,11 @@ Read the article, then answer the questions in English.
 
 #### Personal and imaginative writing
 
+*Exam relevance: High (comes up in most exams) · Prerequisites: Writing in characters; text types such as journals and stories*
+
 **Q9.** Journal: my first day on exchange in China
 <!-- id: vce-chinese-sl34-w1 -->
+*Info: Extended writing · 10 marks · about 35 min · Exam relevance: High (comes up in most exams); writing task, as in the written exam*
 *Multi-part question · 10 marks · Original task in the style of the VCE Chinese Second Language exam, Section 3 (writing in Chinese)*
 
 你参加了学校去中国的交流活动。请写一篇日记，记录你在中国的第一天。写200–300字。(You are on a school exchange to China. Write a journal entry about your first day there, in 200–300 characters.)
@@ -224,6 +239,7 @@ Read the article, then answer the questions in English.
 
 **Q10.** Story: the day I got lost
 <!-- id: vce-chinese-sl34-w2 -->
+*Info: Extended writing · 10 marks · about 35 min · Exam relevance: High (comes up in most exams); writing task, as in the written exam*
 *Multi-part question · 10 marks · Original task in the style of the VCE Chinese Second Language exam, Section 3 (writing in Chinese)*
 
 请以《一次难忘的迷路经历》为题，写一个故事。写200–300字。(Write a story titled 'A time I got lost that I will never forget', in 200–300 characters.)
@@ -233,6 +249,7 @@ Read the article, then answer the questions in English.
 **Q11.** Challenge: a letter hidden in an old book (imaginative)
 <!-- id: vce-chinese-sl34-wa-c1 -->
 *Challenge question*
+*Info: Extended writing · 10 marks · about 35 min · Exam relevance: High (comes up in most exams); writing task, as in the written exam; harder than most exam questions*
 *Multi-part question · 10 marks · Original challenge task in the style of the VCE Chinese Second Language exam, Section 3 (writing in Chinese)*
 
 你在图书馆借了一本很旧的书，在书里发现了一封五十年前写的信。写一个故事，写200–300字。(You borrow a very old library book and find a letter written fifty years ago inside it. Write a story of 200–300 characters.)
@@ -241,8 +258,11 @@ Read the article, then answer the questions in English.
 
 #### Persuasive and informative writing
 
+*Exam relevance: High (comes up in most exams) · Prerequisites: Personal and imaginative writing; Text types such as letters and articles*
+
 **Q12.** Persuasive letter: keep Chinese at our school
 <!-- id: vce-chinese-sl34-w3 -->
+*Info: Extended writing · 10 marks · about 35 min · Exam relevance: High (comes up in most exams); writing task, as in the written exam*
 *Multi-part question · 10 marks · Original task in the style of the VCE Chinese Second Language exam, Section 3 (writing in Chinese)*
 
 你的学校打算明年取消中文课。请给校长写一封信，说服他保留中文课。写200–300字。(Your school plans to stop teaching Chinese next year. Write a letter to the principal persuading them to keep it, in 200–300 characters.)
@@ -251,6 +271,7 @@ Read the article, then answer the questions in English.
 
 **Q13.** Informative article: a club at our school
 <!-- id: vce-chinese-sl34-w4 -->
+*Info: Extended writing · 10 marks · about 35 min · Exam relevance: High (comes up in most exams); writing task, as in the written exam*
 *Multi-part question · 10 marks · Original task in the style of the VCE Chinese Second Language exam, Section 3 (writing in Chinese)*
 
 请为学校网站写一篇文章，介绍你们学校的一个课外活动。写200–300字。(Write an article for the school website introducing one of your school's extracurricular activities, in 200–300 characters.)
@@ -260,6 +281,7 @@ Read the article, then answer the questions in English.
 **Q14.** Challenge: phones at school (persuasive article)
 <!-- id: vce-chinese-sl34-wb-c1 -->
 *Challenge question*
+*Info: Extended writing · 10 marks · about 35 min · Exam relevance: High (comes up in most exams); writing task, as in the written exam; harder than most exam questions*
 *Multi-part question · 10 marks · Original challenge task in the style of the VCE Chinese Second Language exam, Section 3 (writing in Chinese)*
 
 学校杂志请学生写文章：高中生应不应该在学校用手机？请写一篇说服性文章，表达你的看法，并回应反对的意见。写200–300字。(The school magazine wants articles on whether senior students should use phones at school. Write a persuasive article that states your view and answers the opposing view, in 200–300 characters.)
@@ -270,117 +292,143 @@ Read the article, then answer the questions in English.
 
 #### Conversation: family, friends and interests
 
+*Exam relevance: High (comes up in most exams) · Prerequisites: Talking about yourself in full sentences*
+
 **Q15.** 请你介绍一下你的家庭。 (Please tell us about your family.)
 <!-- id: vce-chinese-sl34-gc1 -->
+*Info: Speaking · marked as part of the conversation · about 1 min · Exam relevance: High (comes up in most exams); conversation question, as in the oral exam*
 
 *Written answer*
 
 **Q16.** 你跟家人的关系怎么样？ (How do you get along with your family?)
 <!-- id: vce-chinese-sl34-gc2 -->
+*Info: Speaking · marked as part of the conversation · about 1 min · Exam relevance: High (comes up in most exams); conversation question, as in the oral exam*
 
 *Written answer*
 
 **Q17.** 你最好的朋友是谁？他/她是个什么样的人？ (Who is your best friend, and what are they like?)
 <!-- id: vce-chinese-sl34-gc3 -->
+*Info: Speaking · marked as part of the conversation · about 1 min · Exam relevance: High (comes up in most exams); conversation question, as in the oral exam*
 
 *Written answer*
 
 **Q18.** 你平时有什么爱好？ (What are your hobbies?)
 <!-- id: vce-chinese-sl34-gc4 -->
+*Info: Speaking · marked as part of the conversation · about 1 min · Exam relevance: High (comes up in most exams); conversation question, as in the oral exam*
 
 *Written answer*
 
 **Q19.** 周末你一般做什么？ (What do you usually do on weekends?)
 <!-- id: vce-chinese-sl34-gc5 -->
+*Info: Speaking · marked as part of the conversation · about 1 min · Exam relevance: High (comes up in most exams); conversation question, as in the oral exam*
 
 *Written answer*
 
 **Q20.** 你喜欢运动吗？你喜欢什么运动？ (Do you like sport? Which sports do you like?)
 <!-- id: vce-chinese-sl34-gc6 -->
+*Info: Speaking · marked as part of the conversation · about 1 min · Exam relevance: High (comes up in most exams); conversation question, as in the oral exam*
 
 *Written answer*
 
 **Q21.** 你最喜欢的节日是什么？你们怎么庆祝？ (What is your favourite festival, and how do you celebrate it?)
 <!-- id: vce-chinese-sl34-gc7 -->
+*Info: Speaking · marked as part of the conversation · about 1 min · Exam relevance: High (comes up in most exams); conversation question, as in the oral exam*
 
 *Written answer*
 
 **Q22.** 你去过中国或者别的国家吗？说说你的旅行经历。 (Have you been to China or another country? Tell us about it.)
 <!-- id: vce-chinese-sl34-gc8 -->
+*Info: Speaking · marked as part of the conversation · about 1 min · Exam relevance: High (comes up in most exams); conversation question, as in the oral exam*
 
 *Written answer*
 
 **Q23.** 你每天花多少时间上网？上网有什么好处和坏处？ (How much time do you spend online, and what are the pros and cons?)
 <!-- id: vce-chinese-sl34-gc9 -->
+*Info: Speaking · marked as part of the conversation · about 1 min · Exam relevance: High (comes up in most exams); conversation question, as in the oral exam*
 
 *Written answer*
 
 **Q24.** 你打过工吗？你从打工中学到了什么？ (Have you had a part-time job? What did you learn from it?)
 <!-- id: vce-chinese-sl34-gc10 -->
+*Info: Speaking · marked as part of the conversation · about 1 min · Exam relevance: High (comes up in most exams); conversation question, as in the oral exam*
 
 *Written answer*
 
 **Q25.** 你觉得网络让家人的关系更近了还是更远了？为什么？ (Do you think the internet has brought families closer or pushed them apart? Why?)
 <!-- id: vce-chinese-sl34-gc-c1 -->
 *Challenge question*
+*Info: Speaking · marked as part of the conversation · about 1 min · Exam relevance: High (comes up in most exams); conversation question, as in the oral exam; harder than most exam questions*
 
 *Written answer*
 
 #### Conversation: school, learning Chinese and the future
 
+*Exam relevance: High (comes up in most exams) · Prerequisites: Conversation: family, friends and interests*
+
 **Q26.** 你今年学哪些科目？你最喜欢哪一门？为什么？ (Which subjects are you taking, and which is your favourite?)
 <!-- id: vce-chinese-sl34-gc11 -->
+*Info: Speaking · marked as part of the conversation · about 1 min · Exam relevance: High (comes up in most exams); conversation question, as in the oral exam*
 
 *Written answer*
 
 **Q27.** 你为什么学中文？ (Why do you study Chinese?)
 <!-- id: vce-chinese-sl34-gc12 -->
+*Info: Speaking · marked as part of the conversation · about 1 min · Exam relevance: High (comes up in most exams); conversation question, as in the oral exam*
 
 *Written answer*
 
 **Q28.** 学中文的时候，你觉得什么最难？你怎么解决这个问题？ (What is hardest about learning Chinese, and how do you deal with it?)
 <!-- id: vce-chinese-sl34-gc13 -->
+*Info: Speaking · marked as part of the conversation · about 1 min · Exam relevance: High (comes up in most exams); conversation question, as in the oral exam*
 
 *Written answer*
 
 **Q29.** 请你介绍一下你的学校。 (Please tell us about your school.)
 <!-- id: vce-chinese-sl34-gc14 -->
+*Info: Speaking · marked as part of the conversation · about 1 min · Exam relevance: High (comes up in most exams); conversation question, as in the oral exam*
 
 *Written answer*
 
 **Q30.** 十二年级的学习压力大吗？你怎么减轻压力？ (Is Year 12 stressful? How do you manage stress?)
 <!-- id: vce-chinese-sl34-gc15 -->
+*Info: Speaking · marked as part of the conversation · about 1 min · Exam relevance: High (comes up in most exams); conversation question, as in the oral exam*
 
 *Written answer*
 
 **Q31.** 你参加了哪些课外活动？ (What extracurricular activities do you do?)
 <!-- id: vce-chinese-sl34-gc16 -->
+*Info: Speaking · marked as part of the conversation · about 1 min · Exam relevance: High (comes up in most exams); conversation question, as in the oral exam*
 
 *Written answer*
 
 **Q32.** 你毕业以后打算做什么？ (What do you plan to do after you finish school?)
 <!-- id: vce-chinese-sl34-gc17 -->
+*Info: Speaking · marked as part of the conversation · about 1 min · Exam relevance: High (comes up in most exams); conversation question, as in the oral exam*
 
 *Written answer*
 
 **Q33.** 你将来想做什么工作？为什么？ (What job would you like in the future, and why?)
 <!-- id: vce-chinese-sl34-gc18 -->
+*Info: Speaking · marked as part of the conversation · about 1 min · Exam relevance: High (comes up in most exams); conversation question, as in the oral exam*
 
 *Written answer*
 
 **Q34.** 你觉得学中文对你的将来有什么帮助？ (How will learning Chinese help you in the future?)
 <!-- id: vce-chinese-sl34-gc19 -->
+*Info: Speaking · marked as part of the conversation · about 1 min · Exam relevance: High (comes up in most exams); conversation question, as in the oral exam*
 
 *Written answer*
 
 **Q35.** 如果有机会去中国，你最想做什么？ (If you had the chance to go to China, what would you most like to do?)
 <!-- id: vce-chinese-sl34-gc20 -->
+*Info: Speaking · marked as part of the conversation · about 1 min · Exam relevance: High (comes up in most exams); conversation question, as in the oral exam*
 
 *Written answer*
 
 **Q36.** 如果你可以改变学校的一件事，你会改变什么？为什么？ (If you could change one thing about your school, what would it be and why?)
 <!-- id: vce-chinese-sl34-gc-c2 -->
 *Challenge question*
+*Info: Speaking · marked as part of the conversation · about 1 min · Exam relevance: High (comes up in most exams); conversation question, as in the oral exam; harder than most exam questions*
 
 *Written answer*
 
@@ -391,30 +439,35 @@ Read the article, then answer the questions in English.
 **Q37.** 你认为学习中文对你将来有什么帮助？请举例说明。 (How will learning Chinese help you in the future? Give examples.)
 <!-- id: vce-chinese-sl34-challenge-1 -->
 *Challenge question*
+*Info: Speaking · marked as part of the conversation · about 1 min · Exam relevance: High (comes up in most exams); conversation question, as in the oral exam; harder than most exam questions · Topic: Conversation: school, learning Chinese and the future*
 
 *Written answer*
 
 **Q38.** 你觉得澳大利亚的学生和中国的学生在学习方面有什么不同？ (How do you think students in Australia and in China differ in their studies?)
 <!-- id: vce-chinese-sl34-challenge-2 -->
 *Challenge question*
+*Info: Speaking · marked as part of the conversation · about 1.5 min · Exam relevance: High (comes up in most exams); conversation question, as in the oral exam; harder than most exam questions · Topic: Conversation: school, learning Chinese and the future*
 
 *Written answer*
 
 **Q39.** 有人说“读万卷书，不如行万里路”。你同意吗？为什么？ (Some say 'travelling ten thousand miles is better than reading ten thousand books'. Do you agree?)
 <!-- id: vce-chinese-sl34-challenge-3 -->
 *Challenge question*
+*Info: Speaking · marked as part of the conversation · about 1 min · Exam relevance: High (comes up in most exams); conversation question, as in the oral exam; harder than most exam questions · Topic: Conversation: school, learning Chinese and the future*
 
 *Written answer*
 
 **Q40.** 你最难忘的一次经历是什么？这次经历对你有什么影响？ (What is your most memorable experience, and how did it affect you?)
 <!-- id: vce-chinese-sl34-challenge-4 -->
 *Challenge question*
+*Info: Speaking · marked as part of the conversation · about 1 min · Exam relevance: High (comes up in most exams); conversation question, as in the oral exam; harder than most exam questions · Topic: Conversation: family, friends and interests*
 
 *Written answer*
 
 **Q41.** Choose the best word: 这个问题太难了，我想了半天也没想___。
 <!-- id: vce-chinese-sl34-challenge-5 -->
 *Challenge question*
+*Info: Language use · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); writing task, as in the written exam; harder than most exam questions · Topic: Personal and imaginative writing*
 
 - A. 起来
 - B. 出来
@@ -424,6 +477,7 @@ Read the article, then answer the questions in English.
 **Q42.** Which sentence uses 把 correctly?
 <!-- id: vce-chinese-sl34-challenge-6 -->
 *Challenge question*
+*Info: Language use · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); writing task, as in the written exam; harder than most exam questions · Topic: Personal and imaginative writing*
 
 - A. 请你把交作业给老师。
 - B. 请你把作业交给老师。
@@ -433,6 +487,7 @@ Read the article, then answer the questions in English.
 **Q43.** Choose the best word: 你去___中国吗？——去过，我小时候去过一次。
 <!-- id: vce-chinese-sl34-challenge-7 -->
 *Challenge question*
+*Info: Language use · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); writing task, as in the written exam; harder than most exam questions · Topic: Personal and imaginative writing*
 
 - A. 了
 - B. 着
@@ -442,6 +497,7 @@ Read the article, then answer the questions in English.
 **Q44.** Choose the correct measure word: 我昨天买了一___新电脑。
 <!-- id: vce-chinese-sl34-challenge-8 -->
 *Challenge question*
+*Info: Language use · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); writing task, as in the written exam; harder than most exam questions · Topic: Personal and imaginative writing*
 
 - A. 张
 - B. 本
@@ -451,11 +507,13 @@ Read the article, then answer the questions in English.
 **Q45.** Translate into Chinese: ‘Learning Chinese is not only useful but also very interesting.’
 <!-- id: vce-chinese-sl34-challenge-9 -->
 *Challenge question*
+*Info: Language use · about 1 mark · about 2 min · Exam relevance: High (comes up in most exams); writing task, as in the written exam; harder than most exam questions · Topic: Personal and imaginative writing*
 
 *Written answer*
 
 **Q46.** Rewrite this opening so it suits a formal letter to a principal: 你好，我想跟你说一件事。
 <!-- id: vce-chinese-sl34-challenge-10 -->
 *Challenge question*
+*Info: Extended writing · about 1 mark · about 2.5 min · Exam relevance: High (comes up in most exams); writing task, as in the written exam; harder than most exam questions · Topic: Persuasive and informative writing*
 
 *Written answer*
