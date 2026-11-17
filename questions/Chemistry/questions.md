@@ -6792,13 +6792,55 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 *Written answer*
 
+### Exam-style questions (mixed topics)
+
+**Q962.** Magnesium: atoms, bonds and reactions
+<!-- id: vce-chem12-x1 -->
+*Multi-part question · 10 marks · Original question in the style of a Units 1 & 2 end-of-semester exam*
+
+Magnesium, Mg, has atomic number 12. Use M(Mg) = 24.3 g mol⁻¹ and M(O) = 16.0 g mol⁻¹.
+
+**a.** Write the electronic configuration of a magnesium atom using subshell notation. *(1 mark)*
+
+**b.** Magnesium burns in oxygen to form magnesium oxide, MgO. Explain, in terms of electrons, how the ions in MgO form, and why magnesium oxide has a very high melting point. *(2 marks)*
+
+**c.** Calculate the mass of magnesium oxide formed when 4.86 g of magnesium burns completely: 2Mg(s) + O₂(g) → 2MgO(s). *(2 marks)*
+
+Another 4.86 g sample of magnesium is added to excess dilute hydrochloric acid. The magnesium dissolves and bubbles of hydrogen gas form.
+
+**d.** Write a balanced equation, including states, for the reaction. *(1 mark)*
+
+**e.** Identify the species that is oxidised, and write the half-equation for its oxidation. *(2 marks)*
+
+**f.** Calculate the volume of hydrogen gas produced at SLC (25 °C and 100 kPa). The molar volume of a gas at SLC is 24.8 L mol⁻¹. *(2 marks)*
+
+**Q963.** Water, acids and a titration
+<!-- id: vce-chem12-x2 -->
+*Multi-part question · 10 marks · Original question in the style of a Units 1 & 2 end-of-semester exam*
+
+A student is investigating the chemistry of water samples.
+
+**a.** Water (H₂O, molar mass 18.0 g mol⁻¹) boils at 100 °C, while hydrogen sulfide (H₂S, molar mass 34.1 g mol⁻¹) boils at −60 °C. Explain this difference in terms of intermolecular forces. *(2 marks)*
+
+**b.** A river water sample has a pH of 6.0 at 25 °C. Calculate the concentration of H₃O⁺ ions, and state whether the sample is acidic, neutral or basic. *(2 marks)*
+
+**c.** A 10.0 mL sample of 0.500 M hydrochloric acid is diluted with water to a total volume of 250.0 mL. Calculate the concentration and the pH of the diluted acid. *(2 marks)*
+
+To find the concentration of a sodium hydroxide solution, the student titrated 20.00 mL aliquots of it with 0.0200 M hydrochloric acid. The average titre was 18.40 mL.
+
+**d.** Write a balanced equation for the reaction between hydrochloric acid and sodium hydroxide. *(1 mark)*
+
+**e.** Calculate the concentration of the sodium hydroxide solution. *(2 marks)*
+
+**f.** State what the burette should be rinsed with just before it is filled, and why. *(1 mark)*
+
 ## VCE Units 3 & 4
 
 ### Fuels & thermochemistry
 
 #### Fossil fuels and biofuels
 
-**Q962.** Which of the following fuels is renewable?
+**Q964.** Which of the following fuels is renewable?
 <!-- id: chem-1-1-1 -->
 
 - A. Biogas produced by anaerobic digestion of food waste
@@ -6806,7 +6848,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Brown coal from the Latrobe Valley
 - D. Petrodiesel
 
-**Q963.** Which equation correctly represents the fermentation of glucose by yeast?
+**Q965.** Which equation correctly represents the fermentation of glucose by yeast?
 <!-- id: chem-1-1-2 -->
 
 - A. C₆H₁₂O₆(aq) + 6O₂(g) → 6CO₂(g) + 6H₂O(l)
@@ -6814,7 +6856,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. C₆H₁₂O₆(aq) → 3C₂H₅OH(aq)
 - D. C₆H₁₂O₆(aq) → 2C₂H₅OH(aq) + 2O₂(g)
 
-**Q964.** Biodiesel is produced industrially by
+**Q966.** Biodiesel is produced industrially by
 <!-- id: chem-1-1-3 -->
 
 - A. fermenting glucose with yeast under anaerobic conditions
@@ -6822,12 +6864,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. reacting a triglyceride with methanol in the presence of a strong base catalyst
 - D. anaerobic digestion of animal manure
 
-**Q965.** Explain why bioethanol produced from sugar cane is not completely carbon neutral in practice.
+**Q967.** Explain why bioethanol produced from sugar cane is not completely carbon neutral in practice.
 <!-- id: chem-1-1-4 -->
 
 *Written answer*
 
-**Q966.** Which by-product is formed alongside biodiesel during transesterification of a triglyceride?
+**Q968.** Which by-product is formed alongside biodiesel during transesterification of a triglyceride?
 <!-- id: chem-1-1-5 -->
 
 - A. Ethanol
@@ -6835,7 +6877,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Methane
 - D. Glycerol
 
-**Q967.** The main combustible component of biogas is
+**Q969.** The main combustible component of biogas is
 <!-- id: chem-1-1-6 -->
 
 - A. methane
@@ -6843,7 +6885,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. ethanol
 - D. carbon monoxide
 
-**Q968.** Biodiesel is more viscous than petrodiesel mainly because biodiesel molecules
+**Q970.** Biodiesel is more viscous than petrodiesel mainly because biodiesel molecules
 <!-- id: chem-1-1-7 -->
 
 - A. form hydrogen bonds with each other through O–H groups
@@ -6851,12 +6893,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. contain ionic bonds
 - D. have a lower molar mass
 
-**Q969.** Name the two products formed when a triglyceride reacts with methanol in the presence of KOH, and state which one is used as the fuel.
+**Q971.** Name the two products formed when a triglyceride reacts with methanol in the presence of KOH, and state which one is used as the fuel.
 <!-- id: chem-1-1-8 -->
 
 *Written answer*
 
-**Q970.** Biodiesel absorbs water from the atmosphere more readily than petrodiesel because
+**Q972.** Biodiesel absorbs water from the atmosphere more readily than petrodiesel because
 <!-- id: chem-1-1-9 -->
 
 - A. it contains O–H groups that hydrogen bond with each other
@@ -6864,7 +6906,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. the oxygen atoms in its ester groups can form hydrogen bonds with water molecules
 - D. it has a lower boiling point
 
-**Q971.** Bioethanol is sometimes described as 'carbon neutral' because
+**Q973.** Bioethanol is sometimes described as 'carbon neutral' because
 <!-- id: chem-1-1-10 -->
 
 - A. burning ethanol produces no carbon dioxide
@@ -6872,7 +6914,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. fermentation absorbs carbon dioxide from the air
 - D. the CO₂ released when it burns is approximately equal to the CO₂ absorbed by the crop during photosynthesis
 
-**Q972.** Which statement about coal is correct?
+**Q974.** Which statement about coal is correct?
 <!-- id: chem-1-1-11 -->
 
 - A. It formed from plant material compressed and heated over millions of years
@@ -6880,12 +6922,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. It is mainly composed of methane
 - D. It forms from the fermentation of sugars
 
-**Q973.** Explain why biodiesel is more hygroscopic than petrodiesel.
+**Q975.** Explain why biodiesel is more hygroscopic than petrodiesel.
 <!-- id: chem-1-1-12 -->
 
 *Written answer*
 
-**Q974.** Which of the following is a fossil fuel?
+**Q976.** Which of the following is a fossil fuel?
 <!-- id: chem-1-1-13 -->
 
 - A. Bioethanol
@@ -6893,7 +6935,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Biodiesel
 - D. Biogas
 
-**Q975.** A Victorian company wants to produce bioethanol without competing with food production. Which feedstock is most suitable?
+**Q977.** A Victorian company wants to produce bioethanol without competing with food production. Which feedstock is most suitable?
 <!-- id: chem-1-1-14 -->
 
 - A. Wheat grain
@@ -6901,7 +6943,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Wheat straw left after harvest
 - D. Corn grain
 
-**Q976.** Compared with petrodiesel, biodiesel typically has
+**Q978.** Compared with petrodiesel, biodiesel typically has
 <!-- id: chem-1-1-15 -->
 
 - A. a higher energy content per gram
@@ -6909,12 +6951,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. a lower viscosity
 - D. a lower energy content per gram
 
-**Q977.** Give one advantage and one disadvantage of using E10 (10% ethanol) instead of regular unleaded petrol.
+**Q979.** Give one advantage and one disadvantage of using E10 (10% ethanol) instead of regular unleaded petrol.
 <!-- id: chem-1-1-16 -->
 
 *Written answer*
 
-**Q978.** The best reason crude-oil-derived fuels are classified as non-renewable is that
+**Q980.** The best reason crude-oil-derived fuels are classified as non-renewable is that
 <!-- id: chem-1-1-17 -->
 
 - A. they form over millions of years, far more slowly than they are consumed
@@ -6922,7 +6964,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. they are liquids at room temperature
 - D. they contain sulfur impurities
 
-**Q979.** Which set of conditions is used to produce ethanol by fermentation?
+**Q981.** Which set of conditions is used to produce ethanol by fermentation?
 <!-- id: chem-1-1-18 -->
 
 - A. Yeast, plentiful oxygen, 100 °C
@@ -6930,7 +6972,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Nickel catalyst, high pressure, 200 °C
 - D. Concentrated sulfuric acid, 300 °C
 
-**Q980.** Ethanol is separated from the fermentation mixture by
+**Q982.** Ethanol is separated from the fermentation mixture by
 <!-- id: chem-1-1-19 -->
 
 - A. filtration
@@ -6938,12 +6980,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. fractional distillation
 - D. electrolysis
 
-**Q981.** Distinguish between a renewable and a non-renewable fuel, using one Australian example of each.
+**Q983.** Distinguish between a renewable and a non-renewable fuel, using one Australian example of each.
 <!-- id: chem-1-1-20 -->
 
 *Written answer*
 
-**Q982.** Which statement about biogas is correct?
+**Q984.** Which statement about biogas is correct?
 <!-- id: chem-1-1-21 -->
 
 - A. It is produced by aerobic decomposition of waste
@@ -6951,7 +6993,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. It is classified as a fossil fuel
 - D. It contains a significant proportion of carbon dioxide, which lowers its energy content per kilogram compared with pure methane
 
-**Q983.** In complete transesterification, one triglyceride molecule reacts with how many methanol molecules?
+**Q985.** In complete transesterification, one triglyceride molecule reacts with how many methanol molecules?
 <!-- id: chem-1-1-22 -->
 
 - A. 3
@@ -6959,7 +7001,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 2
 - D. 6
 
-**Q984.** Petrodiesel is composed mainly of
+**Q986.** Petrodiesel is composed mainly of
 <!-- id: chem-1-1-23 -->
 
 - A. fatty acid methyl esters
@@ -6967,17 +7009,17 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. alcohols
 - D. carbohydrates
 
-**Q985.** A dairy farm in northern Victoria captures gas from its manure ponds to run a generator. Explain why this gas is classified as a renewable fuel.
+**Q987.** A dairy farm in northern Victoria captures gas from its manure ponds to run a generator. Explain why this gas is classified as a renewable fuel.
 <!-- id: chem-1-1-24 -->
 
 *Written answer*
 
-**Q986.** Explain, in terms of intermolecular forces, why ethanol mixes completely with water but octane does not.
+**Q988.** Explain, in terms of intermolecular forces, why ethanol mixes completely with water but octane does not.
 <!-- id: chem-1-1-25 -->
 
 *Written answer*
 
-**Q987.** Which statement best explains why bioethanol is classified as a renewable fuel while petrol is not?
+**Q989.** Which statement best explains why bioethanol is classified as a renewable fuel while petrol is not?
 <!-- id: chem34a1-ffb-1 -->
 
 - A. Bioethanol releases no carbon dioxide when it burns.
@@ -6985,7 +7027,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. The plant material used to make bioethanol can be regrown on a human timescale, whereas petrol comes from crude oil formed over millions of years.
 - D. Bioethanol is produced by fractional distillation, which uses less energy than refining.
 
-**Q988.** Biodiesel is produced from vegetable oils by a reaction with methanol in the presence of a catalyst such as KOH. This reaction is called
+**Q990.** Biodiesel is produced from vegetable oils by a reaction with methanol in the presence of a catalyst such as KOH. This reaction is called
 <!-- id: chem34a1-ffb-2 -->
 
 - A. fermentation.
@@ -6993,7 +7035,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. anaerobic digestion.
 - D. cracking.
 
-**Q989.** A dairy farm in Gippsland collects cow manure in a sealed tank where bacteria break it down without oxygen. The main combustible product is
+**Q991.** A dairy farm in Gippsland collects cow manure in a sealed tank where bacteria break it down without oxygen. The main combustible product is
 <!-- id: chem34a1-ffb-3 -->
 
 - A. methane.
@@ -7001,7 +7043,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. hydrogen.
 - D. carbon monoxide.
 
-**Q990.** Compared with petrodiesel of similar chain length, biodiesel tends to be more viscous and to gel at higher temperatures. The best explanation is that biodiesel molecules
+**Q992.** Compared with petrodiesel of similar chain length, biodiesel tends to be more viscous and to gel at higher temperatures. The best explanation is that biodiesel molecules
 <!-- id: chem34a1-ffb-4 -->
 
 - A. are non-polar and form only weak dispersion forces.
@@ -7009,7 +7051,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. form hydrogen bonds with each other through O–H groups.
 - D. are much smaller than petrodiesel molecules.
 
-**Q991.** Which of the following is a disadvantage of bioethanol compared with petrol as a transport fuel?
+**Q993.** Which of the following is a disadvantage of bioethanol compared with petrol as a transport fuel?
 <!-- id: chem34a1-ffb-5 -->
 
 - A. Bioethanol produces more soot when it burns.
@@ -7017,24 +7059,24 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Bioethanol is non-renewable.
 - D. Bioethanol absorbs water from the air, which can cause corrosion and phase separation in fuel tanks.
 
-**Q992.** Write a balanced equation, including states, for the production of ethanol by the fermentation of glucose, and name the organism that catalyses it. (2 marks)
+**Q994.** Write a balanced equation, including states, for the production of ethanol by the fermentation of glucose, and name the organism that catalyses it. (2 marks)
 <!-- id: chem34a1-ffb-6 -->
 
 *Written answer*
 
-**Q993.** Some people describe biofuels as 'carbon neutral'. Explain the reasoning behind this claim and give one reason why it is not entirely accurate. (3 marks)
+**Q995.** Some people describe biofuels as 'carbon neutral'. Explain the reasoning behind this claim and give one reason why it is not entirely accurate. (3 marks)
 <!-- id: chem34a1-ffb-7 -->
 
 *Written answer*
 
-**Q994.** Coal, crude oil and natural gas are fossil fuels. Describe how they formed and explain why this makes them non-renewable. (2 marks)
+**Q996.** Coal, crude oil and natural gas are fossil fuels. Describe how they formed and explain why this makes them non-renewable. (2 marks)
 <!-- id: chem34a1-ffb-8 -->
 
 *Written answer*
 
 #### Combustion and thermochemical equations
 
-**Q995.** Which equation represents the complete combustion of methane?
+**Q997.** Which equation represents the complete combustion of methane?
 <!-- id: chem-1-2-1 -->
 
 - A. CH₄(g) + 2O₂(g) → CO₂(g) + 2H₂O(l)
@@ -7042,7 +7084,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 2CH₄(g) + 3O₂(g) → 2CO(g) + 4H₂O(l)
 - D. CH₄(g) + O₂(g) → C(s) + 2H₂O(l)
 
-**Q996.** In the balanced equation for the complete combustion of octane, 2C₈H₁₈ + xO₂ → 16CO₂ + 18H₂O, the value of x is
+**Q998.** In the balanced equation for the complete combustion of octane, 2C₈H₁₈ + xO₂ → 16CO₂ + 18H₂O, the value of x is
 <!-- id: chem-1-2-2 -->
 
 - A. 12.5
@@ -7050,7 +7092,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 17
 - D. 50
 
-**Q997.** Incomplete combustion of a hydrocarbon fuel in a poorly ventilated room is most likely to produce
+**Q999.** Incomplete combustion of a hydrocarbon fuel in a poorly ventilated room is most likely to produce
 <!-- id: chem-1-2-3 -->
 
 - A. carbon dioxide and hydrogen gas
@@ -7058,12 +7100,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. carbon monoxide, soot and water
 - D. methane and oxygen
 
-**Q998.** Write a balanced thermochemical equation, including states at SLC, for the complete combustion of ethanol. The molar heat of combustion of ethanol is 1364 kJ mol⁻¹.
+**Q1000.** Write a balanced thermochemical equation, including states at SLC, for the complete combustion of ethanol. The molar heat of combustion of ethanol is 1364 kJ mol⁻¹.
 <!-- id: chem-1-2-4 -->
 
 *Written answer*
 
-**Q999.** Carbon monoxide from a faulty gas heater is dangerous mainly because it
+**Q1001.** Carbon monoxide from a faulty gas heater is dangerous mainly because it
 <!-- id: chem-1-2-5 -->
 
 - A. is a strong acid that burns the lungs
@@ -7071,7 +7113,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. reacts with water in the body to form methane
 - D. binds strongly to haemoglobin, reducing oxygen transport in the blood
 
-**Q1000.** Given CH₄(g) + 2O₂(g) → CO₂(g) + 2H₂O(l), ΔH = −890 kJ mol⁻¹, what is ΔH for 2CH₄(g) + 4O₂(g) → 2CO₂(g) + 4H₂O(l)?
+**Q1002.** Given CH₄(g) + 2O₂(g) → CO₂(g) + 2H₂O(l), ΔH = −890 kJ mol⁻¹, what is ΔH for 2CH₄(g) + 4O₂(g) → 2CO₂(g) + 4H₂O(l)?
 <!-- id: chem-1-2-6 -->
 
 - A. −1780 kJ mol⁻¹
@@ -7079,7 +7121,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. −445 kJ mol⁻¹
 - D. +1780 kJ mol⁻¹
 
-**Q1001.** Given CH₄(g) + 2O₂(g) → CO₂(g) + 2H₂O(l), ΔH = −890 kJ mol⁻¹, what is ΔH for CO₂(g) + 2H₂O(l) → CH₄(g) + 2O₂(g)?
+**Q1003.** Given CH₄(g) + 2O₂(g) → CO₂(g) + 2H₂O(l), ΔH = −890 kJ mol⁻¹, what is ΔH for CO₂(g) + 2H₂O(l) → CH₄(g) + 2O₂(g)?
 <!-- id: chem-1-2-7 -->
 
 - A. −890 kJ mol⁻¹
@@ -7087,12 +7129,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. +445 kJ mol⁻¹
 - D. −1780 kJ mol⁻¹
 
-**Q1002.** The molar heat of combustion of hydrogen is 286 kJ mol⁻¹. Write the thermochemical equation for the combustion of 2 mol of hydrogen gas at SLC.
+**Q1004.** The molar heat of combustion of hydrogen is 286 kJ mol⁻¹. Write the thermochemical equation for the combustion of 2 mol of hydrogen gas at SLC.
 <!-- id: chem-1-2-8 -->
 
 *Written answer*
 
-**Q1003.** For an exothermic reaction, which statement is correct?
+**Q1005.** For an exothermic reaction, which statement is correct?
 <!-- id: chem-1-2-9 -->
 
 - A. The products have higher enthalpy than the reactants and ΔH is positive
@@ -7100,7 +7142,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. The products have lower enthalpy than the reactants and ΔH is negative
 - D. The reactants and products have equal enthalpy
 
-**Q1004.** Which of the following processes is endothermic?
+**Q1006.** Which of the following processes is endothermic?
 <!-- id: chem-1-2-10 -->
 
 - A. Combustion of ethanol
@@ -7108,7 +7150,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Combustion of hydrogen
 - D. Photosynthesis
 
-**Q1005.** The molar heat of combustion of butane is 2876 kJ mol⁻¹. Which thermochemical equation is correct?
+**Q1007.** The molar heat of combustion of butane is 2876 kJ mol⁻¹. Which thermochemical equation is correct?
 <!-- id: chem-1-2-11 -->
 
 - A. 2C₄H₁₀(g) + 13O₂(g) → 8CO₂(g) + 10H₂O(l)   ΔH = −5752 kJ mol⁻¹
@@ -7116,12 +7158,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. C₄H₁₀(g) + 13O₂(g) → 4CO₂(g) + 5H₂O(l)   ΔH = −2876 kJ mol⁻¹
 - D. 2C₄H₁₀(g) + 13O₂(g) → 8CO₂(g) + 10H₂O(l)   ΔH = +5752 kJ mol⁻¹
 
-**Q1006.** Explain why ΔH for an exothermic reaction is given a negative sign.
+**Q1008.** Explain why ΔH for an exothermic reaction is given a negative sign.
 <!-- id: chem-1-2-12 -->
 
 *Written answer*
 
-**Q1007.** For an exothermic reaction, the activation energy of the reverse reaction is
+**Q1009.** For an exothermic reaction, the activation energy of the reverse reaction is
 <!-- id: chem-1-2-13 -->
 
 - A. less than the activation energy of the forward reaction
@@ -7129,7 +7171,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. equal to the activation energy of the forward reaction
 - D. equal to ΔH of the forward reaction
 
-**Q1008.** A reaction has a forward activation energy of 120 kJ mol⁻¹ and ΔH = −80 kJ mol⁻¹. The activation energy of the reverse reaction is
+**Q1010.** A reaction has a forward activation energy of 120 kJ mol⁻¹ and ΔH = −80 kJ mol⁻¹. The activation energy of the reverse reaction is
 <!-- id: chem-1-2-14 -->
 
 - A. 40 kJ mol⁻¹
@@ -7137,7 +7179,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 200 kJ mol⁻¹
 - D. 120 kJ mol⁻¹
 
-**Q1009.** A reaction has a forward activation energy of 50 kJ mol⁻¹ and ΔH = +30 kJ mol⁻¹. The activation energy of the reverse reaction is
+**Q1011.** A reaction has a forward activation energy of 50 kJ mol⁻¹ and ΔH = +30 kJ mol⁻¹. The activation energy of the reverse reaction is
 <!-- id: chem-1-2-15 -->
 
 - A. 80 kJ mol⁻¹
@@ -7145,12 +7187,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 50 kJ mol⁻¹
 - D. 20 kJ mol⁻¹
 
-**Q1010.** Given C₃H₈(g) + 5O₂(g) → 3CO₂(g) + 4H₂O(l), ΔH = −2220 kJ mol⁻¹, determine ΔH for 6CO₂(g) + 8H₂O(l) → 2C₃H₈(g) + 10O₂(g).
+**Q1012.** Given C₃H₈(g) + 5O₂(g) → 3CO₂(g) + 4H₂O(l), ΔH = −2220 kJ mol⁻¹, determine ΔH for 6CO₂(g) + 8H₂O(l) → 2C₃H₈(g) + 10O₂(g).
 <!-- id: chem-1-2-16 -->
 
 *Written answer*
 
-**Q1011.** The enthalpy change for the combustion of methane is more negative when the water product is liquid rather than gaseous because
+**Q1013.** The enthalpy change for the combustion of methane is more negative when the water product is liquid rather than gaseous because
 <!-- id: chem-1-2-17 -->
 
 - A. condensing water vapour to liquid releases additional energy
@@ -7158,7 +7200,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. more oxygen is consumed when liquid water forms
 - D. gaseous water cannot be formed by combustion
 
-**Q1012.** Which statement best describes the energy changes during the combustion of a fuel?
+**Q1014.** Which statement best describes the energy changes during the combustion of a fuel?
 <!-- id: chem-1-2-18 -->
 
 - A. The energy absorbed breaking bonds is greater than the energy released forming bonds
@@ -7166,7 +7208,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Bond breaking releases energy and bond forming absorbs energy
 - D. No bonds are broken; energy comes only from forming new bonds
 
-**Q1013.** Propane burns according to C₃H₈(g) + 5O₂(g) → 3CO₂(g) + 4H₂O(l). How many moles of oxygen are needed to completely burn 2.0 mol of propane?
+**Q1015.** Propane burns according to C₃H₈(g) + 5O₂(g) → 3CO₂(g) + 4H₂O(l). How many moles of oxygen are needed to completely burn 2.0 mol of propane?
 <!-- id: chem-1-2-19 -->
 
 - A. 5.0 mol
@@ -7174,12 +7216,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 10 mol
 - D. 7.0 mol
 
-**Q1014.** A gas heater in a Ballarat house is operating with a blocked air vent. Explain what type of combustion is likely to occur and name the possible products.
+**Q1016.** A gas heater in a Ballarat house is operating with a blocked air vent. Explain what type of combustion is likely to occur and name the possible products.
 <!-- id: chem-1-2-20 -->
 
 *Written answer*
 
-**Q1015.** What mass of carbon dioxide is produced by the complete combustion of 1.00 mol of propane, C₃H₈?
+**Q1017.** What mass of carbon dioxide is produced by the complete combustion of 1.00 mol of propane, C₃H₈?
 <!-- id: chem-1-2-21 -->
 
 - A. 44.0 g
@@ -7187,7 +7229,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 176 g
 - D. 132 g
 
-**Q1016.** What volume of CO₂, measured at SLC (25 °C, 100 kPa, molar volume 24.8 L mol⁻¹), is produced by the complete combustion of 0.500 mol of butane, C₄H₁₀?
+**Q1018.** What volume of CO₂, measured at SLC (25 °C, 100 kPa, molar volume 24.8 L mol⁻¹), is produced by the complete combustion of 0.500 mol of butane, C₄H₁₀?
 <!-- id: chem-1-2-22 -->
 
 - A. 49.6 L
@@ -7195,7 +7237,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 24.8 L
 - D. 99.2 L
 
-**Q1017.** Which balanced equation represents the incomplete combustion of methane to form carbon monoxide?
+**Q1019.** Which balanced equation represents the incomplete combustion of methane to form carbon monoxide?
 <!-- id: chem-1-2-23 -->
 
 - A. CH₄(g) + O₂(g) → CO(g) + 2H₂O(l)
@@ -7203,17 +7245,17 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. CH₄(g) + 2O₂(g) → CO(g) + 2H₂O(l)
 - D. 2CH₄(g) + O₂(g) → 2C(s) + 4H₂O(l)
 
-**Q1018.** Given CH₄(g) + 2O₂(g) → CO₂(g) + 2H₂O(l), ΔH = −890 kJ mol⁻¹ and H₂O(l) → H₂O(g), ΔH = +44 kJ mol⁻¹, calculate ΔH for the combustion of methane when water is produced as a gas.
+**Q1020.** Given CH₄(g) + 2O₂(g) → CO₂(g) + 2H₂O(l), ΔH = −890 kJ mol⁻¹ and H₂O(l) → H₂O(g), ΔH = +44 kJ mol⁻¹, calculate ΔH for the combustion of methane when water is produced as a gas.
 <!-- id: chem-1-2-24 -->
 
 *Written answer*
 
-**Q1019.** Balance the equation for the complete combustion of pentane, C₅H₁₂, and state the mole ratio of CO₂ produced to pentane consumed.
+**Q1021.** Balance the equation for the complete combustion of pentane, C₅H₁₂, and state the mole ratio of CO₂ produced to pentane consumed.
 <!-- id: chem-1-2-25 -->
 
 *Written answer*
 
-**Q1020.** Which equation correctly represents the complete combustion of propane at SLC?
+**Q1022.** Which equation correctly represents the complete combustion of propane at SLC?
 <!-- id: chem34a1-cte-1 -->
 
 - A. C₃H₈(g) + 5O₂(g) → 3CO₂(g) + 4H₂O(l)  ΔH = −2220 kJ mol⁻¹
@@ -7221,7 +7263,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. C₃H₈(g) + 3O₂(g) → 3CO(g) + 4H₂O(l)  ΔH = −2220 kJ mol⁻¹
 - D. 2C₃H₈(g) + 10O₂(g) → 6CO₂(g) + 8H₂O(l)  ΔH = −2220 kJ mol⁻¹
 
-**Q1021.** For the reaction 2C₈H₁₈(l) + 25O₂(g) → 16CO₂(g) + 18H₂O(l) ΔH = −10 928 kJ mol⁻¹, the enthalpy change when 1.00 mol of octane burns completely is
+**Q1023.** For the reaction 2C₈H₁₈(l) + 25O₂(g) → 16CO₂(g) + 18H₂O(l) ΔH = −10 928 kJ mol⁻¹, the enthalpy change when 1.00 mol of octane burns completely is
 <!-- id: chem34a1-cte-2 -->
 
 - A. −10 928 kJ
@@ -7229,7 +7271,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. −5464 kJ
 - D. +5464 kJ
 
-**Q1022.** A gas heater in a poorly ventilated room burns methane with a limited supply of oxygen. Compared with complete combustion, incomplete combustion
+**Q1024.** A gas heater in a poorly ventilated room burns methane with a limited supply of oxygen. Compared with complete combustion, incomplete combustion
 <!-- id: chem34a1-cte-3 -->
 
 - A. releases more energy per mole of methane and produces only CO₂.
@@ -7237,7 +7279,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. releases the same energy but produces hydrogen gas.
 - D. is endothermic because oxygen must be absorbed.
 
-**Q1023.** Given H₂(g) + ½O₂(g) → H₂O(l) ΔH = −286 kJ mol⁻¹, what is ΔH for 2H₂O(l) → 2H₂(g) + O₂(g)?
+**Q1025.** Given H₂(g) + ½O₂(g) → H₂O(l) ΔH = −286 kJ mol⁻¹, what is ΔH for 2H₂O(l) → 2H₂(g) + O₂(g)?
 <!-- id: chem34a1-cte-4 -->
 
 - A. −572 kJ mol⁻¹
@@ -7245,7 +7287,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. +286 kJ mol⁻¹
 - D. +572 kJ mol⁻¹
 
-**Q1024.** Which balanced equation correctly shows the incomplete combustion of ethanol producing carbon monoxide?
+**Q1026.** Which balanced equation correctly shows the incomplete combustion of ethanol producing carbon monoxide?
 <!-- id: chem34a1-cte-5 -->
 
 - A. C₂H₅OH(l) + 2O₂(g) → 2CO(g) + 3H₂O(l)
@@ -7253,24 +7295,24 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. C₂H₅OH(l) + O₂(g) → 2CO(g) + 3H₂O(l)
 - D. C₂H₅OH(l) + 2O₂(g) → 2CO₂(g) + 3H₂O(l)
 
-**Q1025.** Write a balanced thermochemical equation, including states, for the complete combustion of butane at SLC. ΔcH(butane) = −2874 kJ mol⁻¹. (2 marks)
+**Q1027.** Write a balanced thermochemical equation, including states, for the complete combustion of butane at SLC. ΔcH(butane) = −2874 kJ mol⁻¹. (2 marks)
 <!-- id: chem34a1-cte-6 -->
 
 *Written answer*
 
-**Q1026.** Methanol (CH₃OH) burns with ΔcH = −726 kJ mol⁻¹. Calculate the energy released when 80.0 g of methanol burns completely. (2 marks)
+**Q1028.** Methanol (CH₃OH) burns with ΔcH = −726 kJ mol⁻¹. Calculate the energy released when 80.0 g of methanol burns completely. (2 marks)
 <!-- id: chem34a1-cte-7 -->
 
 *Written answer*
 
-**Q1027.** Explain why the heat of combustion values in the VCAA data book are quoted with water in the liquid state, and predict how the magnitude of ΔH would change if the water product were gaseous. (2 marks)
+**Q1029.** Explain why the heat of combustion values in the VCAA data book are quoted with water in the liquid state, and predict how the magnitude of ΔH would change if the water product were gaseous. (2 marks)
 <!-- id: chem34a1-cte-8 -->
 
 *Written answer*
 
 #### Enthalpy and fuel energy calculations
 
-**Q1028.** Methane has ΔcH = −890 kJ mol⁻¹ (M = 16.0 g mol⁻¹). How much energy is released by the complete combustion of 32.0 g of methane?
+**Q1030.** Methane has ΔcH = −890 kJ mol⁻¹ (M = 16.0 g mol⁻¹). How much energy is released by the complete combustion of 32.0 g of methane?
 <!-- id: chem-1-3-1 -->
 
 - A. 1780 kJ
@@ -7278,7 +7320,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 445 kJ
 - D. 2.85 × 10⁴ kJ
 
-**Q1029.** Ethanol has a molar heat of combustion of 1364 kJ mol⁻¹ and M = 46.0 g mol⁻¹. Its heat of combustion per gram is
+**Q1031.** Ethanol has a molar heat of combustion of 1364 kJ mol⁻¹ and M = 46.0 g mol⁻¹. Its heat of combustion per gram is
 <!-- id: chem-1-3-2 -->
 
 - A. 0.0337 kJ g⁻¹
@@ -7286,7 +7328,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 6.27 × 10⁴ kJ g⁻¹
 - D. 1364 kJ g⁻¹
 
-**Q1030.** Octane has ΔcH = −5464 kJ mol⁻¹ (M = 114.0 g mol⁻¹). How much energy is released by burning 1.00 kg of octane?
+**Q1032.** Octane has ΔcH = −5464 kJ mol⁻¹ (M = 114.0 g mol⁻¹). How much energy is released by burning 1.00 kg of octane?
 <!-- id: chem-1-3-3 -->
 
 - A. 5.46 MJ
@@ -7294,12 +7336,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 47.9 MJ
 - D. 0.0479 MJ
 
-**Q1031.** Calculate the heat of combustion of propane in kJ g⁻¹, given ΔcH = −2220 kJ mol⁻¹ and M(C₃H₈) = 44.0 g mol⁻¹.
+**Q1033.** Calculate the heat of combustion of propane in kJ g⁻¹, given ΔcH = −2220 kJ mol⁻¹ and M(C₃H₈) = 44.0 g mol⁻¹.
 <!-- id: chem-1-3-4 -->
 
 *Written answer*
 
-**Q1032.** What mass of methane (ΔcH = −890 kJ mol⁻¹, M = 16.0 g mol⁻¹) must be burnt to release 2225 kJ of energy?
+**Q1034.** What mass of methane (ΔcH = −890 kJ mol⁻¹, M = 16.0 g mol⁻¹) must be burnt to release 2225 kJ of energy?
 <!-- id: chem-1-3-5 -->
 
 - A. 2.50 g
@@ -7307,7 +7349,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 139 g
 - D. 40.0 g
 
-**Q1033.** What volume of methane at SLC (24.8 L mol⁻¹) must be burnt to release 445 kJ of energy? ΔcH(CH₄) = −890 kJ mol⁻¹.
+**Q1035.** What volume of methane at SLC (24.8 L mol⁻¹) must be burnt to release 445 kJ of energy? ΔcH(CH₄) = −890 kJ mol⁻¹.
 <!-- id: chem-1-3-6 -->
 
 - A. 12.4 L
@@ -7315,7 +7357,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 11.2 L
 - D. 49.6 L
 
-**Q1034.** Propane has ΔcH = −2220 kJ mol⁻¹. How much energy is released when 10.0 L of propane, measured at SLC (24.8 L mol⁻¹), is burnt completely?
+**Q1036.** Propane has ΔcH = −2220 kJ mol⁻¹. How much energy is released when 10.0 L of propane, measured at SLC (24.8 L mol⁻¹), is burnt completely?
 <!-- id: chem-1-3-7 -->
 
 - A. 991 kJ
@@ -7323,12 +7365,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 505 kJ
 - D. 2.22 × 10⁴ kJ
 
-**Q1035.** Calculate the mass of CO₂ released per megajoule of energy produced by burning ethanol (ΔcH = −1364 kJ mol⁻¹).
+**Q1037.** Calculate the mass of CO₂ released per megajoule of energy produced by burning ethanol (ΔcH = −1364 kJ mol⁻¹).
 <!-- id: chem-1-3-8 -->
 
 *Written answer*
 
-**Q1036.** Given molar heats of combustion: H₂ 286, CH₄ 890, C₂H₅OH 1364 and C₈H₁₈ 5464 kJ mol⁻¹, which fuel releases the most energy per gram?
+**Q1038.** Given molar heats of combustion: H₂ 286, CH₄ 890, C₂H₅OH 1364 and C₈H₁₈ 5464 kJ mol⁻¹, which fuel releases the most energy per gram?
 <!-- id: chem-1-3-9 -->
 
 - A. Methane
@@ -7336,7 +7378,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Hydrogen
 - D. Octane
 
-**Q1037.** Given molar heats of combustion: CH₄ 890, C₃H₈ 2220, C₂H₅OH 1364 and C₈H₁₈ 5464 kJ mol⁻¹, which fuel releases the most energy per mole of CO₂ produced?
+**Q1039.** Given molar heats of combustion: CH₄ 890, C₃H₈ 2220, C₂H₅OH 1364 and C₈H₁₈ 5464 kJ mol⁻¹, which fuel releases the most energy per mole of CO₂ produced?
 <!-- id: chem-1-3-10 -->
 
 - A. Propane
@@ -7344,7 +7386,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Octane
 - D. Methane
 
-**Q1038.** How much energy is released by the complete combustion of 5.00 g of ethanol (ΔcH = −1364 kJ mol⁻¹, M = 46.0 g mol⁻¹)?
+**Q1040.** How much energy is released by the complete combustion of 5.00 g of ethanol (ΔcH = −1364 kJ mol⁻¹, M = 46.0 g mol⁻¹)?
 <!-- id: chem-1-3-11 -->
 
 - A. 148 kJ
@@ -7352,12 +7394,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 29.7 kJ
 - D. 1.25 × 10⁴ kJ
 
-**Q1039.** Calculate the volume of methane, measured at SLC (24.8 L mol⁻¹), that must be burnt to provide 10.0 MJ of energy. ΔcH(CH₄) = −890 kJ mol⁻¹.
+**Q1041.** Calculate the volume of methane, measured at SLC (24.8 L mol⁻¹), that must be burnt to provide 10.0 MJ of energy. ΔcH(CH₄) = −890 kJ mol⁻¹.
 <!-- id: chem-1-3-12 -->
 
 *Written answer*
 
-**Q1040.** Butane (M = 58.0 g mol⁻¹) releases 49.6 kJ of energy per gram on complete combustion. Its molar enthalpy of combustion is
+**Q1042.** Butane (M = 58.0 g mol⁻¹) releases 49.6 kJ of energy per gram on complete combustion. Its molar enthalpy of combustion is
 <!-- id: chem-1-3-13 -->
 
 - A. −49.6 kJ mol⁻¹
@@ -7365,7 +7407,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. −0.855 kJ mol⁻¹
 - D. +2.88 × 10³ kJ mol⁻¹
 
-**Q1041.** A car's 45.0 L petrol tank is filled with fuel modelled as octane (density 0.700 g mL⁻¹, M = 114.0 g mol⁻¹, ΔcH = −5464 kJ mol⁻¹). The energy available from a full tank is closest to
+**Q1043.** A car's 45.0 L petrol tank is filled with fuel modelled as octane (density 0.700 g mL⁻¹, M = 114.0 g mol⁻¹, ΔcH = −5464 kJ mol⁻¹). The energy available from a full tank is closest to
 <!-- id: chem-1-3-14 -->
 
 - A. 2.16 × 10⁶ kJ
@@ -7373,7 +7415,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 1.51 × 10⁶ kJ
 - D. 1.72 × 10⁸ kJ
 
-**Q1042.** C(s) + O₂(g) → CO₂(g), ΔH = −394 kJ mol⁻¹. How much energy is released by burning 6.0 g of carbon?
+**Q1044.** C(s) + O₂(g) → CO₂(g), ΔH = −394 kJ mol⁻¹. How much energy is released by burning 6.0 g of carbon?
 <!-- id: chem-1-3-15 -->
 
 - A. 394 kJ
@@ -7381,12 +7423,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 65.7 kJ
 - D. 197 kJ
 
-**Q1043.** A 9.0 kg barbecue gas cylinder contains propane (M = 44.0 g mol⁻¹, ΔcH = −2220 kJ mol⁻¹). Calculate the energy, in MJ, released by complete combustion of all the propane.
+**Q1045.** A 9.0 kg barbecue gas cylinder contains propane (M = 44.0 g mol⁻¹, ΔcH = −2220 kJ mol⁻¹). Calculate the energy, in MJ, released by complete combustion of all the propane.
 <!-- id: chem-1-3-16 -->
 
 *Written answer*
 
-**Q1044.** Brown coal is modelled as pure carbon (ΔcH = −394 kJ mol⁻¹). How much energy is released by burning 1.00 tonne of this coal?
+**Q1046.** Brown coal is modelled as pure carbon (ΔcH = −394 kJ mol⁻¹). How much energy is released by burning 1.00 tonne of this coal?
 <!-- id: chem-1-3-17 -->
 
 - A. 3.28 × 10⁷ kJ
@@ -7394,7 +7436,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 3.28 × 10⁴ kJ
 - D. 4.73 × 10³ kJ
 
-**Q1045.** What mass of CO₂ is released per megajoule of energy obtained from burning methane (ΔcH = −890 kJ mol⁻¹)?
+**Q1047.** What mass of CO₂ is released per megajoule of energy obtained from burning methane (ΔcH = −890 kJ mol⁻¹)?
 <!-- id: chem-1-3-18 -->
 
 - A. 44.0 g
@@ -7402,7 +7444,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 20.2 g
 - D. 3.92 × 10⁴ g
 
-**Q1046.** How much energy is released when 0.250 mol of octane (ΔcH = −5464 kJ mol⁻¹) burns completely?
+**Q1048.** How much energy is released when 0.250 mol of octane (ΔcH = −5464 kJ mol⁻¹) burns completely?
 <!-- id: chem-1-3-19 -->
 
 - A. 2.19 × 10⁴ kJ
@@ -7410,12 +7452,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 1.37 × 10³ kJ
 - D. 2.73 × 10³ kJ
 
-**Q1047.** What mass of ethanol (ΔcH = −1364 kJ mol⁻¹, M = 46.0) releases the same energy as 1.00 g of octane (ΔcH = −5464 kJ mol⁻¹, M = 114.0)?
+**Q1049.** What mass of ethanol (ΔcH = −1364 kJ mol⁻¹, M = 46.0) releases the same energy as 1.00 g of octane (ΔcH = −5464 kJ mol⁻¹, M = 114.0)?
 <!-- id: chem-1-3-20 -->
 
 *Written answer*
 
-**Q1048.** For 2C₈H₁₈(l) + 25O₂(g) → 16CO₂(g) + 18H₂O(l), ΔH = −10 928 kJ mol⁻¹. The molar enthalpy of combustion of octane is
+**Q1050.** For 2C₈H₁₈(l) + 25O₂(g) → 16CO₂(g) + 18H₂O(l), ΔH = −10 928 kJ mol⁻¹. The molar enthalpy of combustion of octane is
 <!-- id: chem-1-3-21 -->
 
 - A. −10 928 kJ mol⁻¹
@@ -7423,7 +7465,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. −21 856 kJ mol⁻¹
 - D. −5464 kJ mol⁻¹
 
-**Q1049.** A sample of biogas is 60.0% methane by volume, the rest being CO₂. How much energy is released when 100 L of this biogas at SLC (24.8 L mol⁻¹) burns completely? ΔcH(CH₄) = −890 kJ mol⁻¹.
+**Q1051.** A sample of biogas is 60.0% methane by volume, the rest being CO₂. How much energy is released when 100 L of this biogas at SLC (24.8 L mol⁻¹) burns completely? ΔcH(CH₄) = −890 kJ mol⁻¹.
 <!-- id: chem-1-3-22 -->
 
 - A. 2.15 × 10³ kJ
@@ -7431,7 +7473,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 1.44 × 10³ kJ
 - D. 2.38 × 10³ kJ
 
-**Q1050.** A hydrogen fuel cell bus in Melbourne needs 2.86 × 10⁵ kJ of energy. Assuming ΔcH(H₂) = −286 kJ mol⁻¹ and 100% efficiency, what mass of hydrogen is required?
+**Q1052.** A hydrogen fuel cell bus in Melbourne needs 2.86 × 10⁵ kJ of energy. Assuming ΔcH(H₂) = −286 kJ mol⁻¹ and 100% efficiency, what mass of hydrogen is required?
 <!-- id: chem-1-3-23 -->
 
 - A. 1.00 kg
@@ -7439,17 +7481,17 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 286 g
 - D. 1.00 × 10³ kg
 
-**Q1051.** Calculate the mass of hydrogen gas that must be burnt to release 1.00 MJ of energy. ΔcH(H₂) = −286 kJ mol⁻¹.
+**Q1053.** Calculate the mass of hydrogen gas that must be burnt to release 1.00 MJ of energy. ΔcH(H₂) = −286 kJ mol⁻¹.
 <!-- id: chem-1-3-24 -->
 
 *Written answer*
 
-**Q1052.** Explain why the energy released per gram (or per kilogram) is often more useful than the energy per mole when comparing fuels for vehicles.
+**Q1054.** Explain why the energy released per gram (or per kilogram) is often more useful than the energy per mole when comparing fuels for vehicles.
 <!-- id: chem-1-3-25 -->
 
 *Written answer*
 
-**Q1053.** In an energy profile diagram for an exothermic reaction,
+**Q1055.** In an energy profile diagram for an exothermic reaction,
 <!-- id: chem34a1-eep-1 -->
 
 - A. the products are at a higher enthalpy than the reactants.
@@ -7457,7 +7499,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. there is no activation energy.
 - D. the activation energy equals ΔH.
 
-**Q1054.** An energy profile shows reactants at 50 kJ mol⁻¹, the transition state at 230 kJ mol⁻¹ and products at 140 kJ mol⁻¹. The activation energy for the forward reaction and ΔH are respectively
+**Q1056.** An energy profile shows reactants at 50 kJ mol⁻¹, the transition state at 230 kJ mol⁻¹ and products at 140 kJ mol⁻¹. The activation energy for the forward reaction and ΔH are respectively
 <!-- id: chem34a1-eep-2 -->
 
 - A. 180 kJ mol⁻¹ and +90 kJ mol⁻¹
@@ -7465,7 +7507,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 230 kJ mol⁻¹ and +140 kJ mol⁻¹
 - D. 180 kJ mol⁻¹ and −90 kJ mol⁻¹
 
-**Q1055.** For the reaction in which reactants are at 50 kJ mol⁻¹, the transition state at 230 kJ mol⁻¹ and products at 140 kJ mol⁻¹, the activation energy of the reverse reaction is
+**Q1057.** For the reaction in which reactants are at 50 kJ mol⁻¹, the transition state at 230 kJ mol⁻¹ and products at 140 kJ mol⁻¹, the activation energy of the reverse reaction is
 <!-- id: chem34a1-eep-3 -->
 
 - A. 180 kJ mol⁻¹
@@ -7473,7 +7515,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 90 kJ mol⁻¹
 - D. 140 kJ mol⁻¹
 
-**Q1056.** A cold pack contains ammonium nitrate that dissolves in water and the pack becomes cold. Which statement is correct?
+**Q1058.** A cold pack contains ammonium nitrate that dissolves in water and the pack becomes cold. Which statement is correct?
 <!-- id: chem34a1-eep-4 -->
 
 - A. The process is exothermic because heat leaves the pack.
@@ -7481,7 +7523,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. The process has a negative ΔH because the temperature falls.
 - D. The process is endothermic; the system absorbs energy from the surroundings, so ΔH is positive.
 
-**Q1057.** Breaking chemical bonds in reactants and forming bonds in products are, respectively,
+**Q1059.** Breaking chemical bonds in reactants and forming bonds in products are, respectively,
 <!-- id: chem34a1-eep-5 -->
 
 - A. exothermic and endothermic.
@@ -7489,22 +7531,22 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. both exothermic.
 - D. both endothermic.
 
-**Q1058.** Sketch (describe in words) a labelled energy profile for the complete combustion of methane, ΔH = −890 kJ mol⁻¹, assuming an activation energy of 250 kJ mol⁻¹. State the activation energy of the reverse reaction. (3 marks)
+**Q1060.** Sketch (describe in words) a labelled energy profile for the complete combustion of methane, ΔH = −890 kJ mol⁻¹, assuming an activation energy of 250 kJ mol⁻¹. State the activation energy of the reverse reaction. (3 marks)
 <!-- id: chem34a1-eep-6 -->
 
 *Written answer*
 
-**Q1059.** Methane burns very exothermically, yet a mixture of methane and air can sit unreacted at room temperature indefinitely. Explain this using the concept of activation energy. (2 marks)
+**Q1061.** Methane burns very exothermically, yet a mixture of methane and air can sit unreacted at room temperature indefinitely. Explain this using the concept of activation energy. (2 marks)
 <!-- id: chem34a1-eep-7 -->
 
 *Written answer*
 
-**Q1060.** Hydrogen and oxygen react: 2H₂(g) + O₂(g) → 2H₂O(g). Bond energies: H–H 436 kJ mol⁻¹, O=O 498 kJ mol⁻¹, O–H 463 kJ mol⁻¹. Estimate ΔH for this reaction. (3 marks)
+**Q1062.** Hydrogen and oxygen react: 2H₂(g) + O₂(g) → 2H₂O(g). Bond energies: H–H 436 kJ mol⁻¹, O=O 498 kJ mol⁻¹, O–H 463 kJ mol⁻¹. Estimate ΔH for this reaction. (3 marks)
 <!-- id: chem34a1-eep-8 -->
 
 *Written answer*
 
-**Q1061.** What volume of carbon dioxide at SLC is produced when 10.0 g of propane (M = 44.0 g mol⁻¹) burns completely?
+**Q1063.** What volume of carbon dioxide at SLC is produced when 10.0 g of propane (M = 44.0 g mol⁻¹) burns completely?
 <!-- id: chem34a1-gse-1 -->
 
 - A. 5.64 L
@@ -7512,7 +7554,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 22.7 L
 - D. 248 L
 
-**Q1062.** How much energy is released when 50.0 L of methane at SLC burns completely? (ΔcH = −890 kJ mol⁻¹)
+**Q1064.** How much energy is released when 50.0 L of methane at SLC burns completely? (ΔcH = −890 kJ mol⁻¹)
 <!-- id: chem34a1-gse-2 -->
 
 - A. 4.45 × 10⁴ kJ
@@ -7520,7 +7562,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 890 kJ
 - D. 1.79 × 10³ kJ
 
-**Q1063.** A 2.00 L gas cylinder holds hydrogen at 150 kPa and 35 °C. The amount of hydrogen in the cylinder is
+**Q1065.** A 2.00 L gas cylinder holds hydrogen at 150 kPa and 35 °C. The amount of hydrogen in the cylinder is
 <!-- id: chem34a1-gse-3 -->
 
 - A. 0.117 mol
@@ -7528,7 +7570,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 0.0806 mol
 - D. 8.57 mol
 
-**Q1064.** At SLC, what volume of oxygen is needed to completely burn 6.20 L of ethane? 2C₂H₆(g) + 7O₂(g) → 4CO₂(g) + 6H₂O(l)
+**Q1066.** At SLC, what volume of oxygen is needed to completely burn 6.20 L of ethane? 2C₂H₆(g) + 7O₂(g) → 4CO₂(g) + 6H₂O(l)
 <!-- id: chem34a1-gse-4 -->
 
 - A. 6.20 L
@@ -7536,7 +7578,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 21.7 L
 - D. 43.4 L
 
-**Q1065.** Ethanol releases 29.6 kJ g⁻¹ and octane releases 47.9 kJ g⁻¹. What mass of ethanol releases the same energy as 1.00 kg of octane?
+**Q1067.** Ethanol releases 29.6 kJ g⁻¹ and octane releases 47.9 kJ g⁻¹. What mass of ethanol releases the same energy as 1.00 kg of octane?
 <!-- id: chem34a1-gse-5 -->
 
 - A. 618 g
@@ -7544,24 +7586,24 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 1.62 kg
 - D. 1.42 kg
 
-**Q1066.** A household barbecue uses 450 g of propane per hour (ΔcH = −2220 kJ mol⁻¹). Calculate (a) the energy released per hour and (b) the volume of CO₂ produced per hour at SLC. (3 marks)
+**Q1068.** A household barbecue uses 450 g of propane per hour (ΔcH = −2220 kJ mol⁻¹). Calculate (a) the energy released per hour and (b) the volume of CO₂ produced per hour at SLC. (3 marks)
 <!-- id: chem34a1-gse-6 -->
 
 *Written answer*
 
-**Q1067.** A gas sample of methane occupies 5.00 L at 25 °C and 100 kPa. It is burnt in a water heater that is 65.0% efficient at transferring energy to water. Calculate the energy transferred to the water. (ΔcH(CH₄) = −890 kJ mol⁻¹) (3 marks)
+**Q1069.** A gas sample of methane occupies 5.00 L at 25 °C and 100 kPa. It is burnt in a water heater that is 65.0% efficient at transferring energy to water. Calculate the energy transferred to the water. (ΔcH(CH₄) = −890 kJ mol⁻¹) (3 marks)
 <!-- id: chem34a1-gse-7 -->
 
 *Written answer*
 
-**Q1068.** Hydrogen (ΔcH = −286 kJ mol⁻¹) and methane (ΔcH = −890 kJ mol⁻¹) are compared as fuels. Calculate the energy released per litre of each gas at SLC and comment on one implication for storing hydrogen. (3 marks)
+**Q1070.** Hydrogen (ΔcH = −286 kJ mol⁻¹) and methane (ΔcH = −890 kJ mol⁻¹) are compared as fuels. Calculate the energy released per litre of each gas at SLC and comment on one implication for storing hydrogen. (3 marks)
 <!-- id: chem34a1-gse-8 -->
 
 *Written answer*
 
 #### Calorimetry and specific heat capacity
 
-**Q1069.** How much energy is needed to heat 250 g of water from 20.0 °C to 80.0 °C? (c = 4.18 J g⁻¹ °C⁻¹)
+**Q1071.** How much energy is needed to heat 250 g of water from 20.0 °C to 80.0 °C? (c = 4.18 J g⁻¹ °C⁻¹)
 <!-- id: chem-1-4-1 -->
 
 - A. 62.7 kJ
@@ -7569,7 +7611,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 20.9 kJ
 - D. 15.0 kJ
 
-**Q1070.** The specific heat capacity of a substance is the energy required to
+**Q1072.** The specific heat capacity of a substance is the energy required to
 <!-- id: chem-1-4-2 -->
 
 - A. raise the temperature of 1 mol of the substance by 1 °C
@@ -7577,7 +7619,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. melt 1 g of the substance
 - D. raise the temperature of the whole calorimeter by 1 °C
 
-**Q1071.** Water has an unusually high specific heat capacity mainly because
+**Q1073.** Water has an unusually high specific heat capacity mainly because
 <!-- id: chem-1-4-3 -->
 
 - A. water molecules are very large
@@ -7585,12 +7627,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. extensive hydrogen bonding between molecules absorbs energy before the molecules move faster
 - D. water molecules are non-polar
 
-**Q1072.** A calorimeter is calibrated with a heater operating at 5.00 V and 3.00 A for 120 s. The temperature rises by 0.750 °C. Calculate the calibration factor.
+**Q1074.** A calorimeter is calibrated with a heater operating at 5.00 V and 3.00 A for 120 s. The temperature rises by 0.750 °C. Calculate the calibration factor.
 <!-- id: chem-1-4-4 -->
 
 *Written answer*
 
-**Q1073.** A calorimeter is calibrated by passing a current of 2.50 A at 6.00 V for 180 s, and the temperature rises by 1.35 °C. The calibration factor is
+**Q1075.** A calorimeter is calibrated by passing a current of 2.50 A at 6.00 V for 180 s, and the temperature rises by 1.35 °C. The calibration factor is
 <!-- id: chem-1-4-5 -->
 
 - A. 3.65 × 10³ J °C⁻¹
@@ -7598,7 +7640,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 15.0 J °C⁻¹
 - D. 2.00 × 10³ J °C⁻¹
 
-**Q1074.** A calorimeter has a calibration factor of 3.50 kJ °C⁻¹. A reaction raises its temperature by 4.20 °C. The energy released by the reaction is
+**Q1076.** A calorimeter has a calibration factor of 3.50 kJ °C⁻¹. A reaction raises its temperature by 4.20 °C. The energy released by the reaction is
 <!-- id: chem-1-4-6 -->
 
 - A. 14.7 kJ
@@ -7606,7 +7648,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 1.20 kJ
 - D. 7.70 kJ
 
-**Q1075.** In a spirit-burner experiment, burning 0.460 g of ethanol (M = 46.0 g mol⁻¹) heats 200 g of water by 12.0 °C. Ignoring heat losses, the experimental molar enthalpy of combustion of ethanol is
+**Q1077.** In a spirit-burner experiment, burning 0.460 g of ethanol (M = 46.0 g mol⁻¹) heats 200 g of water by 12.0 °C. Ignoring heat losses, the experimental molar enthalpy of combustion of ethanol is
 <!-- id: chem-1-4-7 -->
 
 - A. −10.0 kJ mol⁻¹
@@ -7614,12 +7656,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. −21.8 kJ mol⁻¹
 - D. −1.36 × 10³ kJ mol⁻¹
 
-**Q1076.** Burning 1.15 g of ethanol (M = 46.0 g mol⁻¹) in a calorimeter with a calibration factor of 4.25 kJ °C⁻¹ raises the temperature by 6.80 °C. Calculate the experimental molar enthalpy of combustion of ethanol.
+**Q1078.** Burning 1.15 g of ethanol (M = 46.0 g mol⁻¹) in a calorimeter with a calibration factor of 4.25 kJ °C⁻¹ raises the temperature by 6.80 °C. Calculate the experimental molar enthalpy of combustion of ethanol.
 <!-- id: chem-1-4-8 -->
 
 *Written answer*
 
-**Q1077.** A student's experimental value for the heat of combustion of ethanol using a spirit burner and a metal can of water is much lower than the data book value. The most likely reason is
+**Q1079.** A student's experimental value for the heat of combustion of ethanol using a spirit burner and a metal can of water is much lower than the data book value. The most likely reason is
 <!-- id: chem-1-4-9 -->
 
 - A. the water had too high a specific heat capacity
@@ -7627,7 +7669,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. significant heat is lost to the surroundings rather than absorbed by the water
 - D. the thermometer read the temperature too high
 
-**Q1078.** Which change would most improve the accuracy of a spirit-burner experiment to determine the heat of combustion of a fuel?
+**Q1080.** Which change would most improve the accuracy of a spirit-burner experiment to determine the heat of combustion of a fuel?
 <!-- id: chem-1-4-10 -->
 
 - A. Using a larger flame placed further from the can
@@ -7635,7 +7677,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Measuring the mass of the burner only before burning
 - D. Using a draught shield and insulating lid around the can
 
-**Q1079.** When 4.00 g of ammonium nitrate (M = 80.0 g mol⁻¹) dissolves in 100 g of water, the temperature falls by 3.10 °C. Assuming c = 4.18 J g⁻¹ °C⁻¹ for the solution, ΔH for dissolving ammonium nitrate is
+**Q1081.** When 4.00 g of ammonium nitrate (M = 80.0 g mol⁻¹) dissolves in 100 g of water, the temperature falls by 3.10 °C. Assuming c = 4.18 J g⁻¹ °C⁻¹ for the solution, ΔH for dissolving ammonium nitrate is
 <!-- id: chem-1-4-11 -->
 
 - A. +25.9 kJ mol⁻¹
@@ -7643,12 +7685,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. +1.30 kJ mol⁻¹
 - D. +0.324 kJ mol⁻¹
 
-**Q1080.** Explain why using an electrically determined calibration factor gives a more accurate result than using q = mcΔT with only the mass of water.
+**Q1082.** Explain why using an electrically determined calibration factor gives a more accurate result than using q = mcΔT with only the mass of water.
 <!-- id: chem-1-4-12 -->
 
 *Written answer*
 
-**Q1081.** If 5.00 kJ of energy is absorbed by 500 g of water, the temperature rise is (c = 4.18 J g⁻¹ °C⁻¹)
+**Q1083.** If 5.00 kJ of energy is absorbed by 500 g of water, the temperature rise is (c = 4.18 J g⁻¹ °C⁻¹)
 <!-- id: chem-1-4-13 -->
 
 - A. 0.418 °C
@@ -7656,7 +7698,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 10.0 °C
 - D. 2.39 × 10⁻³ °C
 
-**Q1082.** Equal masses of water (c = 4.18 J g⁻¹ °C⁻¹) and ethanol (c = 2.44 J g⁻¹ °C⁻¹) each absorb the same amount of energy. Which statement is correct?
+**Q1084.** Equal masses of water (c = 4.18 J g⁻¹ °C⁻¹) and ethanol (c = 2.44 J g⁻¹ °C⁻¹) each absorb the same amount of energy. Which statement is correct?
 <!-- id: chem-1-4-14 -->
 
 - A. The water has the larger temperature increase
@@ -7664,7 +7706,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. The ethanol has the larger temperature increase
 - D. Neither changes temperature because the energy is used in bonding
 
-**Q1083.** A bomb calorimeter differs from a simple solution calorimeter because a bomb calorimeter
+**Q1085.** A bomb calorimeter differs from a simple solution calorimeter because a bomb calorimeter
 <!-- id: chem-1-4-15 -->
 
 - A. is open to the atmosphere
@@ -7672,12 +7714,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. does not need to be calibrated
 - D. burns the sample in a sealed steel vessel with excess oxygen
 
-**Q1084.** Identify two sources of error in a spirit-burner experiment to measure the heat of combustion of ethanol, and state the effect of each on the calculated value.
+**Q1086.** Identify two sources of error in a spirit-burner experiment to measure the heat of combustion of ethanol, and state the effect of each on the calculated value.
 <!-- id: chem-1-4-16 -->
 
 *Written answer*
 
-**Q1085.** The main purpose of electrically calibrating a calorimeter is to
+**Q1087.** The main purpose of electrically calibrating a calorimeter is to
 <!-- id: chem-1-4-17 -->
 
 - A. determine how much energy is needed to raise the temperature of the whole calorimeter and its contents by 1 °C
@@ -7685,7 +7727,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. remove the need to measure temperature changes
 - D. speed up the chemical reaction
 
-**Q1086.** A 50.0 g block of metal absorbs 450 J of energy and its temperature rises by 20.0 °C. The specific heat capacity of the metal is
+**Q1088.** A 50.0 g block of metal absorbs 450 J of energy and its temperature rises by 20.0 °C. The specific heat capacity of the metal is
 <!-- id: chem-1-4-18 -->
 
 - A. 2.22 J g⁻¹ °C⁻¹
@@ -7693,7 +7735,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 1.13 J g⁻¹ °C⁻¹
 - D. 4.18 J g⁻¹ °C⁻¹
 
-**Q1087.** A bomb calorimeter with a calibration factor of 9.80 kJ °C⁻¹ is used to burn 0.320 g of methanol (M = 32.0 g mol⁻¹). The temperature rises by 0.740 °C. The experimental ΔcH of methanol is
+**Q1089.** A bomb calorimeter with a calibration factor of 9.80 kJ °C⁻¹ is used to burn 0.320 g of methanol (M = 32.0 g mol⁻¹). The temperature rises by 0.740 °C. The experimental ΔcH of methanol is
 <!-- id: chem-1-4-19 -->
 
 - A. −7.25 kJ mol⁻¹
@@ -7701,12 +7743,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. −725 kJ mol⁻¹
 - D. −13.2 kJ mol⁻¹
 
-**Q1088.** 50.0 mL of 1.00 M HCl is mixed with 50.0 mL of 1.00 M NaOH in a polystyrene cup and the temperature rises by 6.70 °C. Assuming the solution has a mass of 100 g and c = 4.18 J g⁻¹ °C⁻¹, calculate ΔH for the neutralisation per mole of water formed.
+**Q1090.** 50.0 mL of 1.00 M HCl is mixed with 50.0 mL of 1.00 M NaOH in a polystyrene cup and the temperature rises by 6.70 °C. Assuming the solution has a mass of 100 g and c = 4.18 J g⁻¹ °C⁻¹, calculate ΔH for the neutralisation per mole of water formed.
 <!-- id: chem-1-4-20 -->
 
 *Written answer*
 
-**Q1089.** A 2.00 g sample of a muesli bar is burnt and heats 100 g of water by 24.0 °C. Ignoring heat losses, the energy content of the bar is
+**Q1091.** A 2.00 g sample of a muesli bar is burnt and heats 100 g of water by 24.0 °C. Ignoring heat losses, the energy content of the bar is
 <!-- id: chem-1-4-21 -->
 
 - A. 10.0 kJ g⁻¹
@@ -7714,7 +7756,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 0.502 kJ g⁻¹
 - D. 5.02 kJ g⁻¹
 
-**Q1090.** In a solution calorimeter, the temperature of the solution rises during a reaction. Which statement is correct?
+**Q1092.** In a solution calorimeter, the temperature of the solution rises during a reaction. Which statement is correct?
 <!-- id: chem-1-4-22 -->
 
 - A. The reaction is exothermic and ΔH is negative
@@ -7722,7 +7764,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. The reaction is exothermic and ΔH is positive
 - D. The reaction is endothermic and ΔH is positive
 
-**Q1091.** A student's experiment gives the heat of combustion of ethanol as 820 kJ mol⁻¹, whereas the accepted value is 1364 kJ mol⁻¹. The percentage of the energy released that was captured by the water is closest to
+**Q1093.** A student's experiment gives the heat of combustion of ethanol as 820 kJ mol⁻¹, whereas the accepted value is 1364 kJ mol⁻¹. The percentage of the energy released that was captured by the water is closest to
 <!-- id: chem-1-4-23 -->
 
 - A. 39.9%
@@ -7730,17 +7772,17 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 166%
 - D. 82.0%
 
-**Q1092.** 0.200 g of methane (M = 16.0 g mol⁻¹, ΔcH = −890 kJ mol⁻¹) is burnt under a beaker containing 300 g of water. If only 70.0% of the energy released is absorbed by the water, calculate the temperature rise of the water.
+**Q1094.** 0.200 g of methane (M = 16.0 g mol⁻¹, ΔcH = −890 kJ mol⁻¹) is burnt under a beaker containing 300 g of water. If only 70.0% of the energy released is absorbed by the water, calculate the temperature rise of the water.
 <!-- id: chem-1-4-24 -->
 
 *Written answer*
 
-**Q1093.** Explain why a lid and a stirrer are used in a simple polystyrene-cup calorimeter.
+**Q1095.** Explain why a lid and a stirrer are used in a simple polystyrene-cup calorimeter.
 <!-- id: chem-1-4-25 -->
 
 *Written answer*
 
-**Q1094.** A solution calorimeter is calibrated by passing a current of 2.50 A at 6.00 V for 120 s. The temperature rises by 1.25 °C. The calibration factor is
+**Q1096.** A solution calorimeter is calibrated by passing a current of 2.50 A at 6.00 V for 120 s. The temperature rises by 1.25 °C. The calibration factor is
 <!-- id: chem34a1-cal-1 -->
 
 - A. 1.44 J °C⁻¹
@@ -7748,7 +7790,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 2250 J °C⁻¹
 - D. 1800 J °C⁻¹
 
-**Q1095.** Why is electrical calibration of a calorimeter preferred over simply using mass × 4.18 × ΔT?
+**Q1097.** Why is electrical calibration of a calorimeter preferred over simply using mass × 4.18 × ΔT?
 <!-- id: chem34a1-cal-2 -->
 
 - A. It accounts for energy absorbed by the calorimeter itself (container, thermometer, stirrer) and some heat loss.
@@ -7756,7 +7798,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. It removes the need to measure temperature.
 - D. It increases the specific heat capacity of water.
 
-**Q1096.** A student burns 0.500 g of ethanol in a spirit burner under a can holding 150.0 g of water, and the water temperature rises by 18.5 °C. The experimental heat of combustion of ethanol (M = 46.0 g mol⁻¹) is closest to
+**Q1098.** A student burns 0.500 g of ethanol in a spirit burner under a can holding 150.0 g of water, and the water temperature rises by 18.5 °C. The experimental heat of combustion of ethanol (M = 46.0 g mol⁻¹) is closest to
 <!-- id: chem34a1-cal-3 -->
 
 - A. −11.6 kJ mol⁻¹
@@ -7764,7 +7806,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. −1.07 × 10³ kJ mol⁻¹
 - D. −1.36 × 10³ kJ mol⁻¹
 
-**Q1097.** In a spirit burner experiment the experimental heat of combustion is much less than the data book value. Which is the most likely cause?
+**Q1099.** In a spirit burner experiment the experimental heat of combustion is much less than the data book value. Which is the most likely cause?
 <!-- id: chem34a1-cal-4 -->
 
 - A. The thermometer was read too quickly.
@@ -7772,7 +7814,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Heat was lost to the surroundings and the can, and some combustion was incomplete.
 - D. The water had a higher specific heat capacity than 4.18 J g⁻¹ °C⁻¹.
 
-**Q1098.** A bomb calorimeter has a calibration factor of 8.62 kJ °C⁻¹. When 1.20 g of a fuel is burnt, the temperature rises by 5.80 °C. The heat of combustion of the fuel in kJ g⁻¹ is
+**Q1100.** A bomb calorimeter has a calibration factor of 8.62 kJ °C⁻¹. When 1.20 g of a fuel is burnt, the temperature rises by 5.80 °C. The heat of combustion of the fuel in kJ g⁻¹ is
 <!-- id: chem34a1-cal-5 -->
 
 - A. 41.7
@@ -7780,17 +7822,17 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 60.0
 - D. 8.62
 
-**Q1099.** A calorimeter with a calibration factor of 420 J °C⁻¹ contains 100.0 mL of 1.00 M HCl. 100.0 mL of 1.00 M NaOH is added and the temperature rises by 13.6 °C. Calculate ΔH for H⁺(aq) + OH⁻(aq) → H₂O(l). (3 marks)
+**Q1101.** A calorimeter with a calibration factor of 420 J °C⁻¹ contains 100.0 mL of 1.00 M HCl. 100.0 mL of 1.00 M NaOH is added and the temperature rises by 13.6 °C. Calculate ΔH for H⁺(aq) + OH⁻(aq) → H₂O(l). (3 marks)
 <!-- id: chem34a1-cal-6 -->
 
 *Written answer*
 
-**Q1100.** Explain why the calibration factor must be redetermined if the volume of water in a solution calorimeter is changed. (2 marks)
+**Q1102.** Explain why the calibration factor must be redetermined if the volume of water in a solution calorimeter is changed. (2 marks)
 <!-- id: chem34a1-cal-7 -->
 
 *Written answer*
 
-**Q1101.** A student's temperature–time graph for a calorimetry experiment shows the temperature peaking and then slowly falling. Describe how the student should determine ΔT and why. (2 marks)
+**Q1103.** A student's temperature–time graph for a calorimetry experiment shows the temperature peaking and then slowly falling. Describe how the student should determine ΔT and why. (2 marks)
 <!-- id: chem34a1-cal-8 -->
 
 *Written answer*
@@ -7799,7 +7841,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 #### Electrochemical series
 
-**Q1102.** Using the electrochemical series, which species is the strongest oxidising agent?
+**Q1104.** Using the electrochemical series, which species is the strongest oxidising agent?
 <!-- id: chem34a1-ecs-1 -->
 
 - A. Li⁺(aq)
@@ -7807,7 +7849,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Zn(s)
 - D. Ag⁺(aq)
 
-**Q1103.** A strip of nickel is placed in each of the following 1.0 M solutions. In which will a reaction occur?
+**Q1105.** A strip of nickel is placed in each of the following 1.0 M solutions. In which will a reaction occur?
 <!-- id: chem34a1-ecs-2 -->
 
 - A. Zn²⁺(aq)
@@ -7815,7 +7857,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Mg²⁺(aq)
 - D. Al³⁺(aq)
 
-**Q1104.** Which metal would NOT react with 1.0 M hydrochloric acid at SLC?
+**Q1106.** Which metal would NOT react with 1.0 M hydrochloric acid at SLC?
 <!-- id: chem34a1-ecs-3 -->
 
 - A. Copper
@@ -7823,7 +7865,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Zinc
 - D. Magnesium
 
-**Q1105.** A predicted reaction using the electrochemical series may not be observed in practice because
+**Q1107.** A predicted reaction using the electrochemical series may not be observed in practice because
 <!-- id: chem34a1-ecs-4 -->
 
 - A. E° values change sign at higher temperatures.
@@ -7831,7 +7873,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. the series applies only to reactions involving gases.
 - D. reactions between metals and ions never occur in solution.
 
-**Q1106.** Iron(II) ions can act as both an oxidising agent and a reducing agent. Which pair of half-equations shows this?
+**Q1108.** Iron(II) ions can act as both an oxidising agent and a reducing agent. Which pair of half-equations shows this?
 <!-- id: chem34a1-ecs-5 -->
 
 - A. Fe²⁺(aq) + 2e⁻ → Fe(s) and Fe²⁺(aq) → Fe³⁺(aq) + e⁻
@@ -7839,24 +7881,24 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Fe(s) → Fe²⁺(aq) + 2e⁻ and Fe(s) → Fe³⁺(aq) + 3e⁻
 - D. Fe²⁺(aq) + 2e⁻ → Fe(s) and Fe³⁺(aq) + e⁻ → Fe²⁺(aq)
 
-**Q1107.** A student adds zinc powder to a blue copper(II) sulfate solution. Predict what is observed, and write the oxidation and reduction half-equations and the overall equation. (3 marks)
+**Q1109.** A student adds zinc powder to a blue copper(II) sulfate solution. Predict what is observed, and write the oxidation and reduction half-equations and the overall equation. (3 marks)
 <!-- id: chem34a1-ecs-6 -->
 
 *Written answer*
 
-**Q1108.** Three metals X, Y and Z are tested. X displaces Y from a solution of Y²⁺ ions; Z displaces X from a solution of X²⁺ ions; Y does not react with Z²⁺ ions. List the metals in order of increasing strength as reducing agents and justify. (2 marks)
+**Q1110.** Three metals X, Y and Z are tested. X displaces Y from a solution of Y²⁺ ions; Z displaces X from a solution of X²⁺ ions; Y does not react with Z²⁺ ions. List the metals in order of increasing strength as reducing agents and justify. (2 marks)
 <!-- id: chem34a1-ecs-7 -->
 
 *Written answer*
 
-**Q1109.** Explain why bromine water can oxidise iodide ions but cannot oxidise chloride ions. Refer to E° values (Cl₂/Cl⁻ +1.36 V, Br₂/Br⁻ +1.09 V, I₂/I⁻ +0.54 V). (2 marks)
+**Q1111.** Explain why bromine water can oxidise iodide ions but cannot oxidise chloride ions. Refer to E° values (Cl₂/Cl⁻ +1.36 V, Br₂/Br⁻ +1.09 V, I₂/I⁻ +0.54 V). (2 marks)
 <!-- id: chem34a1-ecs-8 -->
 
 *Written answer*
 
 #### Galvanic cells
 
-**Q1110.** In a galvanic cell made from a Zn/Zn²⁺ half-cell and a Cu/Cu²⁺ half-cell under standard conditions, the cathode and the maximum cell voltage are
+**Q1112.** In a galvanic cell made from a Zn/Zn²⁺ half-cell and a Cu/Cu²⁺ half-cell under standard conditions, the cathode and the maximum cell voltage are
 <!-- id: chem34a1-gc-1 -->
 
 - A. zinc, 1.10 V
@@ -7864,7 +7906,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. copper, 0.42 V
 - D. copper, 1.10 V
 
-**Q1111.** In a galvanic cell, electrons flow
+**Q1113.** In a galvanic cell, electrons flow
 <!-- id: chem34a1-gc-2 -->
 
 - A. from the cathode to the anode through the salt bridge.
@@ -7872,7 +7914,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. from the cathode to the anode through the external circuit.
 - D. from the anode to the cathode through the salt bridge.
 
-**Q1112.** A salt bridge soaked in KNO₃(aq) connects the half-cells of a galvanic cell. During operation,
+**Q1114.** A salt bridge soaked in KNO₃(aq) connects the half-cells of a galvanic cell. During operation,
 <!-- id: chem34a1-gc-3 -->
 
 - A. K⁺ ions move toward the cathode half-cell and NO₃⁻ ions move toward the anode half-cell.
@@ -7880,7 +7922,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. electrons travel through the salt bridge.
 - D. the salt bridge supplies electrons to the cathode.
 
-**Q1113.** A galvanic cell is built from an Ag/Ag⁺ half-cell and a Ni/Ni²⁺ half-cell. Which overall equation represents the cell reaction?
+**Q1115.** A galvanic cell is built from an Ag/Ag⁺ half-cell and a Ni/Ni²⁺ half-cell. Which overall equation represents the cell reaction?
 <!-- id: chem34a1-gc-4 -->
 
 - A. Ni²⁺(aq) + 2Ag(s) → Ni(s) + 2Ag⁺(aq)
@@ -7888,7 +7930,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 2Ag⁺(aq) + Ni(s) → 2Ag(s) + Ni²⁺(aq)
 - D. Ni(s) + Ag(s) → Ni²⁺(aq) + Ag⁺(aq)
 
-**Q1114.** A student builds a cell with Pb/Pb²⁺ and Fe/Fe²⁺ half-cells and measures 0.28 V instead of the predicted 0.31 V. The most likely reason is
+**Q1116.** A student builds a cell with Pb/Pb²⁺ and Fe/Fe²⁺ half-cells and measures 0.28 V instead of the predicted 0.31 V. The most likely reason is
 <!-- id: chem34a1-gc-5 -->
 
 - A. the cell is producing electricity in the wrong direction.
@@ -7896,24 +7938,24 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. the salt bridge is carrying electrons.
 - D. conditions were non-standard, e.g. the solutions were not 1.0 M or the temperature was not 25 °C.
 
-**Q1115.** A galvanic cell is built from a Mg/Mg²⁺ half-cell and an inert carbon electrode in a Fe³⁺/Fe²⁺ solution. Identify the anode and its polarity, write the half-equation at each electrode, and calculate the standard cell potential. (Mg²⁺/Mg −2.37 V; Fe³⁺/Fe²⁺ +0.77 V) (4 marks)
+**Q1117.** A galvanic cell is built from a Mg/Mg²⁺ half-cell and an inert carbon electrode in a Fe³⁺/Fe²⁺ solution. Identify the anode and its polarity, write the half-equation at each electrode, and calculate the standard cell potential. (Mg²⁺/Mg −2.37 V; Fe³⁺/Fe²⁺ +0.77 V) (4 marks)
 <!-- id: chem34a1-gc-6 -->
 
 *Written answer*
 
-**Q1116.** Explain why the oxidising and reducing agents in a galvanic cell must be kept in separate half-cells. (2 marks)
+**Q1118.** Explain why the oxidising and reducing agents in a galvanic cell must be kept in separate half-cells. (2 marks)
 <!-- id: chem34a1-gc-7 -->
 
 *Written answer*
 
-**Q1117.** Over time in a Zn/Cu galvanic cell, describe what happens to the mass of each electrode and to the colour of the copper(II) sulfate solution. Explain. (3 marks)
+**Q1119.** Over time in a Zn/Cu galvanic cell, describe what happens to the mass of each electrode and to the colour of the copper(II) sulfate solution. Explain. (3 marks)
 <!-- id: chem34a1-gc-8 -->
 
 *Written answer*
 
 #### Fuel cells
 
-**Q1118.** In a hydrogen–oxygen fuel cell with an acidic electrolyte, the half-equation at the cathode is
+**Q1120.** In a hydrogen–oxygen fuel cell with an acidic electrolyte, the half-equation at the cathode is
 <!-- id: chem34a1-fc-1 -->
 
 - A. H₂(g) → 2H⁺(aq) + 2e⁻
@@ -7921,7 +7963,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. O₂(g) + 4H⁺(aq) + 4e⁻ → 2H₂O(l)
 - D. 2H₂O(l) → O₂(g) + 4H⁺(aq) + 4e⁻
 
-**Q1119.** Which feature distinguishes a fuel cell from a primary galvanic cell (non-rechargeable battery)?
+**Q1121.** Which feature distinguishes a fuel cell from a primary galvanic cell (non-rechargeable battery)?
 <!-- id: chem34a1-fc-2 -->
 
 - A. Fuel cells produce electricity from a redox reaction.
@@ -7929,7 +7971,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Fuel cells convert chemical energy into electrical energy.
 - D. Reactants are supplied continuously from outside the cell, so it does not run flat while fuel is supplied.
 
-**Q1120.** In an alkaline hydrogen fuel cell, the anode half-equation is
+**Q1122.** In an alkaline hydrogen fuel cell, the anode half-equation is
 <!-- id: chem34a1-fc-3 -->
 
 - A. H₂(g) + 2OH⁻(aq) → 2H₂O(l) + 2e⁻
@@ -7937,7 +7979,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. O₂(g) + 2H₂O(l) + 4e⁻ → 4OH⁻(aq)
 - D. 2H₂O(l) + 2e⁻ → H₂(g) + 2OH⁻(aq)
 
-**Q1121.** Fuel cell electrodes are usually porous and coated with a catalyst such as platinum. The main purpose is to
+**Q1123.** Fuel cell electrodes are usually porous and coated with a catalyst such as platinum. The main purpose is to
 <!-- id: chem34a1-fc-4 -->
 
 - A. increase the surface area for reaction and lower the activation energy, increasing the rate of the electrode reactions.
@@ -7945,7 +7987,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. prevent the electrolyte from conducting ions.
 - D. store hydrogen inside the electrode.
 
-**Q1122.** A direct methanol fuel cell with an acidic electrolyte has the overall reaction 2CH₃OH(l) + 3O₂(g) → 2CO₂(g) + 4H₂O(l). The anode half-equation is
+**Q1124.** A direct methanol fuel cell with an acidic electrolyte has the overall reaction 2CH₃OH(l) + 3O₂(g) → 2CO₂(g) + 4H₂O(l). The anode half-equation is
 <!-- id: chem34a1-fc-5 -->
 
 - A. CH₃OH(l) + 6H⁺(aq) + 6e⁻ → CO₂(g) + 5H₂O(l)
@@ -7953,24 +7995,24 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. O₂(g) + 4H⁺(aq) + 4e⁻ → 2H₂O(l)
 - D. CH₃OH(l) → CO₂(g) + 4H⁺(aq) + 4e⁻
 
-**Q1123.** Compare a hydrogen fuel cell with a coal-fired power station for producing electricity. Give two advantages and one disadvantage of the fuel cell. (3 marks)
+**Q1125.** Compare a hydrogen fuel cell with a coal-fired power station for producing electricity. Give two advantages and one disadvantage of the fuel cell. (3 marks)
 <!-- id: chem34a1-fc-6 -->
 
 *Written answer*
 
-**Q1124.** Write the anode and cathode half-equations for a methane fuel cell operating with an acidic electrolyte, and the overall equation. (3 marks)
+**Q1126.** Write the anode and cathode half-equations for a methane fuel cell operating with an acidic electrolyte, and the overall equation. (3 marks)
 <!-- id: chem34a1-fc-7 -->
 
 *Written answer*
 
-**Q1125.** In an acidic hydrogen fuel cell, explain the direction of movement of H⁺ ions through the electrolyte and why this is necessary. (2 marks)
+**Q1127.** In an acidic hydrogen fuel cell, explain the direction of movement of H⁺ ions through the electrolyte and why this is necessary. (2 marks)
 <!-- id: chem34a1-fc-8 -->
 
 *Written answer*
 
 #### Green hydrogen and sustainable energy
 
-**Q1126.** Hydrogen produced by the electrolysis of water using electricity from solar or wind farms is described as
+**Q1128.** Hydrogen produced by the electrolysis of water using electricity from solar or wind farms is described as
 <!-- id: chem34a1-ghs-1 -->
 
 - A. grey hydrogen.
@@ -7978,7 +8020,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. green hydrogen.
 - D. brown hydrogen.
 
-**Q1127.** Most hydrogen produced today comes from steam methane reforming. Which equation represents the main reforming reaction?
+**Q1129.** Most hydrogen produced today comes from steam methane reforming. Which equation represents the main reforming reaction?
 <!-- id: chem34a1-ghs-2 -->
 
 - A. CH₄(g) + H₂O(g) → CO(g) + 3H₂(g)
@@ -7986,7 +8028,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. CH₄(g) + 2O₂(g) → CO₂(g) + 2H₂O(g)
 - D. C(s) + O₂(g) → CO₂(g)
 
-**Q1128.** Which green chemistry principle is best demonstrated by replacing a coal-fired power station with a solar farm that powers an electrolyser?
+**Q1130.** Which green chemistry principle is best demonstrated by replacing a coal-fired power station with a solar farm that powers an electrolyser?
 <!-- id: chem34a1-ghs-3 -->
 
 - A. Design for degradation
@@ -7994,7 +8036,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Catalysis
 - D. Real-time analysis for pollution prevention
 
-**Q1129.** A disadvantage of green hydrogen compared with grey hydrogen at present is that
+**Q1131.** A disadvantage of green hydrogen compared with grey hydrogen at present is that
 <!-- id: chem34a1-ghs-4 -->
 
 - A. green hydrogen releases CO₂ when used in a fuel cell.
@@ -8002,7 +8044,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. green hydrogen cannot be used in fuel cells.
 - D. green hydrogen is currently more expensive to produce and needs large amounts of renewable electricity.
 
-**Q1130.** Australian projects plan to export hydrogen by converting it into ammonia. A key reason is that ammonia
+**Q1132.** Australian projects plan to export hydrogen by converting it into ammonia. A key reason is that ammonia
 <!-- id: chem34a1-ghs-5 -->
 
 - A. is a liquid under mild pressure and stores more hydrogen per litre than compressed hydrogen gas.
@@ -8010,17 +8052,17 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. releases CO₂ when converted back to hydrogen.
 - D. has a lower boiling point than hydrogen.
 
-**Q1131.** Describe how green hydrogen is produced and write the overall equation for the process. Explain why this hydrogen can be described as a sustainable energy carrier. (3 marks)
+**Q1133.** Describe how green hydrogen is produced and write the overall equation for the process. Explain why this hydrogen can be described as a sustainable energy carrier. (3 marks)
 <!-- id: chem34a1-ghs-6 -->
 
 *Written answer*
 
-**Q1132.** Explain the difference between an energy source and an energy carrier, using hydrogen and solar energy as examples. (2 marks)
+**Q1134.** Explain the difference between an energy source and an energy carrier, using hydrogen and solar energy as examples. (2 marks)
 <!-- id: chem34a1-ghs-7 -->
 
 *Written answer*
 
-**Q1133.** Steam methane reforming with carbon capture and storage produces 'blue' hydrogen. Evaluate whether blue hydrogen is a sustainable alternative to green hydrogen. (3 marks)
+**Q1135.** Steam methane reforming with carbon capture and storage produces 'blue' hydrogen. Evaluate whether blue hydrogen is a sustainable alternative to green hydrogen. (3 marks)
 <!-- id: chem34a1-ghs-8 -->
 
 *Written answer*
@@ -8029,7 +8071,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 #### Collision theory and reaction rates
 
-**Q1134.** According to collision theory, which conditions must be met for a collision between reactant particles to result in a reaction?
+**Q1136.** According to collision theory, which conditions must be met for a collision between reactant particles to result in a reaction?
 <!-- id: chem-3-1-1 -->
 
 - A. The particles must collide with the correct orientation, regardless of their energy
@@ -8037,7 +8079,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. The particles must collide with energy exactly equal to the enthalpy change of the reaction
 - D. The particles must collide at least twice before bonds can break
 
-**Q1135.** A student reacts magnesium ribbon with 0.50 M and then 2.0 M hydrochloric acid at the same temperature. The main reason the 2.0 M acid reacts faster is that:
+**Q1137.** A student reacts magnesium ribbon with 0.50 M and then 2.0 M hydrochloric acid at the same temperature. The main reason the 2.0 M acid reacts faster is that:
 <!-- id: chem-3-1-2 -->
 
 - A. the activation energy of the reaction is lowered at higher concentration
@@ -8045,7 +8087,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. a greater proportion of collisions have energy equal to or greater than the activation energy
 - D. each acid particle has a higher average kinetic energy
 
-**Q1136.** Powdered calcium carbonate reacts faster with dilute hydrochloric acid than the same mass of marble chips because the powder:
+**Q1138.** Powdered calcium carbonate reacts faster with dilute hydrochloric acid than the same mass of marble chips because the powder:
 <!-- id: chem-3-1-3 -->
 
 - A. has a lower activation energy for the reaction
@@ -8053,12 +8095,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. raises the temperature of the acid before reacting
 - D. has a larger surface area, increasing the frequency of collisions with acid particles
 
-**Q1137.** Using collision theory, explain why marble chips react faster with 2 M hydrochloric acid than with 1 M hydrochloric acid at the same temperature.
+**Q1139.** Using collision theory, explain why marble chips react faster with 2 M hydrochloric acid than with 1 M hydrochloric acid at the same temperature.
 <!-- id: chem-3-1-4 -->
 
 *Written answer*
 
-**Q1138.** The volume of a sealed vessel containing a gaseous reaction mixture is halved at constant temperature. The rate of reaction increases mainly because:
+**Q1140.** The volume of a sealed vessel containing a gaseous reaction mixture is halved at constant temperature. The rate of reaction increases mainly because:
 <!-- id: chem-3-1-5 -->
 
 - A. the activation energy of the reaction decreases
@@ -8066,7 +8108,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. the orientation of every collision becomes favourable
 - D. the frequency of collisions between reactant particles increases
 
-**Q1139.** A 10 °C rise in temperature often roughly doubles the rate of a reaction. The main reason for this large increase is that:
+**Q1141.** A 10 °C rise in temperature often roughly doubles the rate of a reaction. The main reason for this large increase is that:
 <!-- id: chem-3-1-6 -->
 
 - A. the frequency of collisions doubles
@@ -8074,7 +8116,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. a much greater proportion of collisions have energy equal to or greater than the activation energy
 - D. the enthalpy change of the reaction becomes more negative
 
-**Q1140.** Which change would NOT increase the rate of reaction between zinc and dilute sulfuric acid?
+**Q1142.** Which change would NOT increase the rate of reaction between zinc and dilute sulfuric acid?
 <!-- id: chem-3-1-7 -->
 
 - A. Using larger lumps of zinc of the same total mass
@@ -8082,12 +8124,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Using zinc powder instead of granules
 - D. Using a more concentrated sulfuric acid solution
 
-**Q1141.** Explain why increasing temperature increases reaction rate by much more than the increase in collision frequency alone would predict.
+**Q1143.** Explain why increasing temperature increases reaction rate by much more than the increase in collision frequency alone would predict.
 <!-- id: chem-3-1-8 -->
 
 *Written answer*
 
-**Q1142.** Calcium carbonate reacts with hydrochloric acid in an open conical flask sitting on an electronic balance. Which measurement is most suitable for following the rate of this reaction?
+**Q1144.** Calcium carbonate reacts with hydrochloric acid in an open conical flask sitting on an electronic balance. Which measurement is most suitable for following the rate of this reaction?
 <!-- id: chem-3-1-9 -->
 
 - A. The increase in mass of the flask as carbon dioxide forms
@@ -8095,7 +8137,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. The melting point of the calcium chloride produced
 - D. The total volume of the conical flask
 
-**Q1143.** The activation energy of a reaction is best described as:
+**Q1145.** The activation energy of a reaction is best described as:
 <!-- id: chem-3-1-10 -->
 
 - A. the energy released when products form
@@ -8103,7 +8145,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. the difference in energy between reactants and products
 - D. the average kinetic energy of the reactant particles
 
-**Q1144.** An exothermic reaction has a forward activation energy of 50 kJ mol⁻¹ and ΔH = −120 kJ mol⁻¹. What is the activation energy of the reverse reaction?
+**Q1146.** An exothermic reaction has a forward activation energy of 50 kJ mol⁻¹ and ΔH = −120 kJ mol⁻¹. What is the activation energy of the reverse reaction?
 <!-- id: chem-3-1-11 -->
 
 - A. 170 kJ mol⁻¹
@@ -8111,12 +8153,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 120 kJ mol⁻¹
 - D. 50 kJ mol⁻¹
 
-**Q1145.** The forward activation energy of a reaction is 185 kJ mol⁻¹ and ΔH = −92 kJ mol⁻¹. Calculate the activation energy of the reverse reaction.
+**Q1147.** The forward activation energy of a reaction is 185 kJ mol⁻¹ and ΔH = −92 kJ mol⁻¹. Calculate the activation energy of the reverse reaction.
 <!-- id: chem-3-1-12 -->
 
 *Written answer*
 
-**Q1146.** An endothermic reaction has ΔH = +40 kJ mol⁻¹ and a forward activation energy of 90 kJ mol⁻¹. What is the activation energy of the reverse reaction?
+**Q1148.** An endothermic reaction has ΔH = +40 kJ mol⁻¹ and a forward activation energy of 90 kJ mol⁻¹. What is the activation energy of the reverse reaction?
 <!-- id: chem-3-1-13 -->
 
 - A. 130 kJ mol⁻¹
@@ -8124,7 +8166,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 90 kJ mol⁻¹
 - D. 50 kJ mol⁻¹
 
-**Q1147.** The rate at which hydrogen gas is produced when magnesium reacts with excess hydrochloric acid slows down as the reaction proceeds. The best explanation is that:
+**Q1149.** The rate at which hydrogen gas is produced when magnesium reacts with excess hydrochloric acid slows down as the reaction proceeds. The best explanation is that:
 <!-- id: chem-3-1-14 -->
 
 - A. the activation energy increases as products form
@@ -8132,7 +8174,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. the catalyst in the mixture is used up
 - D. the reaction becomes endothermic as it proceeds
 
-**Q1148.** Argon gas is injected into a sealed rigid vessel containing a gaseous reaction mixture at constant temperature. What is the effect on the rate of reaction?
+**Q1150.** Argon gas is injected into a sealed rigid vessel containing a gaseous reaction mixture at constant temperature. What is the effect on the rate of reaction?
 <!-- id: chem-3-1-15 -->
 
 - A. The rate increases because the total pressure has increased
@@ -8140,12 +8182,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. No change, because the concentrations of the reactant gases are unchanged
 - D. The rate increases because argon reacts with the reactants
 
-**Q1149.** A 1.00 g marble chip (CaCO₃) reacts completely with excess hydrochloric acid in 120 s. Calculate the average rate of CO₂ production in mol s⁻¹.
+**Q1151.** A 1.00 g marble chip (CaCO₃) reacts completely with excess hydrochloric acid in 120 s. Calculate the average rate of CO₂ production in mol s⁻¹.
 <!-- id: chem-3-1-16 -->
 
 *Written answer*
 
-**Q1150.** A 0.0450 g sample of magnesium reacts completely with excess hydrochloric acid at SLC (25 °C, 100 kPa). What volume of hydrogen gas is produced? (Molar volume at SLC = 24.8 L mol⁻¹)
+**Q1152.** A 0.0450 g sample of magnesium reacts completely with excess hydrochloric acid at SLC (25 °C, 100 kPa). What volume of hydrogen gas is produced? (Molar volume at SLC = 24.8 L mol⁻¹)
 <!-- id: chem-3-1-17 -->
 
 - A. 41.5 mL
@@ -8153,7 +8195,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 91.9 mL
 - D. 45.9 mL
 
-**Q1151.** In a reaction producing carbon dioxide, 60.0 mL of gas is collected in the first 30 s and a further 20.0 mL in the next 30 s. What is the average rate of gas production over the first 60 s?
+**Q1153.** In a reaction producing carbon dioxide, 60.0 mL of gas is collected in the first 30 s and a further 20.0 mL in the next 30 s. What is the average rate of gas production over the first 60 s?
 <!-- id: chem-3-1-18 -->
 
 - A. 2.00 mL s⁻¹
@@ -8161,7 +8203,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 1.33 mL s⁻¹
 - D. 1.00 mL s⁻¹
 
-**Q1152.** Milk stored in a refrigerator at 4 °C spoils more slowly than milk left on a kitchen bench in a Melbourne summer. The best explanation is that at the lower temperature:
+**Q1154.** Milk stored in a refrigerator at 4 °C spoils more slowly than milk left on a kitchen bench in a Melbourne summer. The best explanation is that at the lower temperature:
 <!-- id: chem-3-1-19 -->
 
 - A. fewer collisions between reacting particles have energy equal to or greater than the activation energy
@@ -8169,12 +8211,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. the spoilage reactions become endothermic
 - D. the reacting particles collide with the correct orientation less often because they are larger
 
-**Q1153.** Describe two experimental methods that could be used to measure the rate of reaction between magnesium ribbon and hydrochloric acid.
+**Q1155.** Describe two experimental methods that could be used to measure the rate of reaction between magnesium ribbon and hydrochloric acid.
 <!-- id: chem-3-1-20 -->
 
 *Written answer*
 
-**Q1154.** Fine flour dust suspended in the air of a grain silo can explode if ignited, while a bag of flour burns slowly. This is mainly because the dust:
+**Q1156.** Fine flour dust suspended in the air of a grain silo can explode if ignited, while a bag of flour burns slowly. This is mainly because the dust:
 <!-- id: chem-3-1-21 -->
 
 - A. has an extremely large surface area in contact with oxygen
@@ -8182,7 +8224,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. contains a catalyst that bagged flour does not
 - D. has a higher activation energy than bagged flour
 
-**Q1155.** Which change increases BOTH the frequency of collisions and the proportion of collisions that have energy equal to or greater than the activation energy?
+**Q1157.** Which change increases BOTH the frequency of collisions and the proportion of collisions that have energy equal to or greater than the activation energy?
 <!-- id: chem-3-1-22 -->
 
 - A. Increasing the concentration of a reactant
@@ -8190,7 +8232,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Increasing the temperature
 - D. Increasing the surface area of a solid reactant
 
-**Q1156.** Many collisions between reactant particles that have energy greater than the activation energy still do not produce products. The most likely reason is that:
+**Q1158.** Many collisions between reactant particles that have energy greater than the activation energy still do not produce products. The most likely reason is that:
 <!-- id: chem-3-1-23 -->
 
 - A. the particles collided with an orientation that did not allow the required bonds to break and form
@@ -8198,17 +8240,17 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. the enthalpy change of the reaction is positive
 - D. the activation energy changes during each collision
 
-**Q1157.** A graph of volume of hydrogen collected against time for magnesium reacting with hydrochloric acid is steep at first, then becomes flatter and finally horizontal. Explain this shape.
+**Q1159.** A graph of volume of hydrogen collected against time for magnesium reacting with hydrochloric acid is steep at first, then becomes flatter and finally horizontal. Explain this shape.
 <!-- id: chem-3-1-24 -->
 
 *Written answer*
 
-**Q1158.** A student writes: 'Heating a reaction mixture increases the rate because it lowers the activation energy.' Correct this statement.
+**Q1160.** A student writes: 'Heating a reaction mixture increases the rate because it lowers the activation energy.' Correct this statement.
 <!-- id: chem-3-1-25 -->
 
 *Written answer*
 
-**Q1159.** According to collision theory, for a reaction to occur, reactant particles must
+**Q1161.** According to collision theory, for a reaction to occur, reactant particles must
 <!-- id: chem34a1-ctr-1 -->
 
 - A. collide with energy equal to or greater than the activation energy and with the correct orientation.
@@ -8216,7 +8258,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. be in the same physical state.
 - D. be at a temperature above 100 °C.
 
-**Q1160.** Marble chips (CaCO₃) react with hydrochloric acid. Which change would NOT increase the initial rate of reaction?
+**Q1162.** Marble chips (CaCO₃) react with hydrochloric acid. Which change would NOT increase the initial rate of reaction?
 <!-- id: chem34a1-ctr-2 -->
 
 - A. Using powdered marble instead of chips
@@ -8224,7 +8266,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Increasing the acid concentration
 - D. Warming the acid
 
-**Q1161.** Increasing the temperature by 10 °C often roughly doubles the rate of a reaction. The main reason is that
+**Q1163.** Increasing the temperature by 10 °C often roughly doubles the rate of a reaction. The main reason is that
 <!-- id: chem34a1-ctr-3 -->
 
 - A. the activation energy is halved.
@@ -8232,7 +8274,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. particles become larger and collide more often.
 - D. a much greater proportion of collisions have energy equal to or greater than the activation energy.
 
-**Q1162.** A student measures the mass of a flask as CaCO₃ chips react with excess HCl, and graphs mass lost against time. The gradient of the curve
+**Q1164.** A student measures the mass of a flask as CaCO₃ chips react with excess HCl, and graphs mass lost against time. The gradient of the curve
 <!-- id: chem34a1-ctr-4 -->
 
 - A. is greatest at the start and decreases to zero as reactants are used up.
@@ -8240,7 +8282,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. remains constant until the reaction stops suddenly.
 - D. increases throughout because products catalyse the reaction.
 
-**Q1163.** Increasing the pressure of a gaseous reaction mixture by reducing its volume increases the rate because
+**Q1165.** Increasing the pressure of a gaseous reaction mixture by reducing its volume increases the rate because
 <!-- id: chem34a1-ctr-5 -->
 
 - A. the activation energy decreases.
@@ -8248,24 +8290,24 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. the concentration of gas particles increases, so collisions occur more frequently.
 - D. the orientation of collisions becomes correct.
 
-**Q1164.** Coal dust in an underground mine can explode, while a lump of coal burns slowly. Explain this using collision theory. (2 marks)
+**Q1166.** Coal dust in an underground mine can explode, while a lump of coal burns slowly. Explain this using collision theory. (2 marks)
 <!-- id: chem34a1-ctr-6 -->
 
 *Written answer*
 
-**Q1165.** Two experiments react 1.0 g magnesium ribbon with excess HCl: Experiment 1 uses 1.0 M HCl, Experiment 2 uses 2.0 M HCl. Describe how a graph of H₂ volume against time for Experiment 2 would compare with Experiment 1, and explain. (3 marks)
+**Q1167.** Two experiments react 1.0 g magnesium ribbon with excess HCl: Experiment 1 uses 1.0 M HCl, Experiment 2 uses 2.0 M HCl. Describe how a graph of H₂ volume against time for Experiment 2 would compare with Experiment 1, and explain. (3 marks)
 <!-- id: chem34a1-ctr-7 -->
 
 *Written answer*
 
-**Q1166.** Explain why food stored in a refrigerator spoils more slowly than food left on the bench. (2 marks)
+**Q1168.** Explain why food stored in a refrigerator spoils more slowly than food left on the bench. (2 marks)
 <!-- id: chem34a1-ctr-8 -->
 
 *Written answer*
 
 #### Maxwell–Boltzmann distributions and catalysts
 
-**Q1167.** In a Maxwell–Boltzmann distribution curve for a gas, the total area under the curve represents:
+**Q1169.** In a Maxwell–Boltzmann distribution curve for a gas, the total area under the curve represents:
 <!-- id: chem-3-2-1 -->
 
 - A. the total energy released by the reaction
@@ -8273,7 +8315,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. the activation energy of the reaction
 - D. the number of particles with energy greater than the activation energy
 
-**Q1168.** When the temperature of a gas sample is increased, its Maxwell–Boltzmann distribution curve:
+**Q1170.** When the temperature of a gas sample is increased, its Maxwell–Boltzmann distribution curve:
 <!-- id: chem-3-2-2 -->
 
 - A. becomes taller and narrower, with the peak moving to lower energy
@@ -8281,7 +8323,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. flattens and broadens, with the peak moving to higher energy and the area unchanged
 - D. stays the same, but the activation energy line moves to the left
 
-**Q1169.** On a Maxwell–Boltzmann distribution, the area under the curve to the right of the activation energy line represents:
+**Q1171.** On a Maxwell–Boltzmann distribution, the area under the curve to the right of the activation energy line represents:
 <!-- id: chem-3-2-3 -->
 
 - A. the number of particles with enough energy to react on collision
@@ -8289,12 +8331,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. the enthalpy change of the reaction
 - D. the number of particles with the most probable energy
 
-**Q1170.** Describe how the Maxwell–Boltzmann distribution of a gas changes when the temperature is increased from 25 °C to 50 °C, and explain the effect on reaction rate.
+**Q1172.** Describe how the Maxwell–Boltzmann distribution of a gas changes when the temperature is increased from 25 °C to 50 °C, and explain the effect on reaction rate.
 <!-- id: chem-3-2-4 -->
 
 *Written answer*
 
-**Q1171.** How is the Maxwell–Boltzmann distribution of a reaction mixture affected when a catalyst is added at constant temperature?
+**Q1173.** How is the Maxwell–Boltzmann distribution of a reaction mixture affected when a catalyst is added at constant temperature?
 <!-- id: chem-3-2-5 -->
 
 - A. The curve shifts to higher energies and the activation energy is unchanged
@@ -8302,7 +8344,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. The curve is unchanged, but the activation energy is lower, so a larger area lies beyond it
 - D. The curve and the activation energy are both unchanged
 
-**Q1172.** A catalyst increases the rate of a reaction by:
+**Q1174.** A catalyst increases the rate of a reaction by:
 <!-- id: chem-3-2-6 -->
 
 - A. increasing the kinetic energy of the reactant particles
@@ -8310,7 +8352,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. increasing the concentration of the reactants
 - D. providing an alternative reaction pathway with a lower activation energy
 
-**Q1173.** What effect does adding a catalyst have on the enthalpy change, ΔH, of a reaction?
+**Q1175.** What effect does adding a catalyst have on the enthalpy change, ΔH, of a reaction?
 <!-- id: chem-3-2-7 -->
 
 - A. ΔH becomes more negative
@@ -8318,12 +8360,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. ΔH is unchanged
 - D. ΔH becomes zero
 
-**Q1174.** With reference to a Maxwell–Boltzmann distribution, explain how a catalyst increases the rate of a reaction.
+**Q1176.** With reference to a Maxwell–Boltzmann distribution, explain how a catalyst increases the rate of a reaction.
 <!-- id: chem-3-2-8 -->
 
 *Written answer*
 
-**Q1175.** A catalyst is added to a reaction mixture that is already at equilibrium. Which statement is correct?
+**Q1177.** A catalyst is added to a reaction mixture that is already at equilibrium. Which statement is correct?
 <!-- id: chem-3-2-9 -->
 
 - A. The equilibrium shifts to the right, increasing the yield
@@ -8331,7 +8373,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. The rates of the forward and reverse reactions increase equally and the equilibrium position does not change
 - D. Only the forward reaction rate increases
 
-**Q1176.** The platinum, palladium and rhodium in a car's catalytic converter are best described as:
+**Q1178.** The platinum, palladium and rhodium in a car's catalytic converter are best described as:
 <!-- id: chem-3-2-10 -->
 
 - A. heterogeneous catalysts, because they are solids and the reactants are gases
@@ -8339,7 +8381,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. reactants that are consumed as exhaust gases pass over them
 - D. inhibitors that slow the formation of carbon monoxide
 
-**Q1177.** The rate of an enzyme-catalysed reaction falls sharply when the temperature is raised well above about 40 °C. The best explanation is that:
+**Q1179.** The rate of an enzyme-catalysed reaction falls sharply when the temperature is raised well above about 40 °C. The best explanation is that:
 <!-- id: chem-3-2-11 -->
 
 - A. the activation energy of the reaction increases
@@ -8347,12 +8389,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. the reactant particles have less kinetic energy
 - D. the reaction becomes endothermic at high temperature
 
-**Q1178.** Distinguish between a homogeneous and a heterogeneous catalyst, giving an example of each.
+**Q1180.** Distinguish between a homogeneous and a heterogeneous catalyst, giving an example of each.
 <!-- id: chem-3-2-12 -->
 
 *Written answer*
 
-**Q1179.** Which feature of the Maxwell–Boltzmann distribution of a fixed amount of gas does NOT change when the temperature increases?
+**Q1181.** Which feature of the Maxwell–Boltzmann distribution of a fixed amount of gas does NOT change when the temperature increases?
 <!-- id: chem-3-2-13 -->
 
 - A. The height of the peak
@@ -8360,7 +8402,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. The position of the most probable kinetic energy
 - D. The proportion of particles with energy above the activation energy
 
-**Q1180.** Compared with the distribution at 50 °C, the Maxwell–Boltzmann distribution of the same gas sample at 10 °C has:
+**Q1182.** Compared with the distribution at 50 °C, the Maxwell–Boltzmann distribution of the same gas sample at 10 °C has:
 <!-- id: chem-3-2-14 -->
 
 - A. a lower peak at a higher kinetic energy
@@ -8368,7 +8410,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. a taller peak at a lower kinetic energy
 - D. a smaller total area under the curve
 
-**Q1181.** When a catalyst is added to a reversible reaction, the rate of the reverse reaction:
+**Q1183.** When a catalyst is added to a reversible reaction, the rate of the reverse reaction:
 <!-- id: chem-3-2-15 -->
 
 - A. increases, because the catalyst also lowers the activation energy of the reverse reaction
@@ -8376,12 +8418,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. is unchanged, because the catalyst only affects the forward reaction
 - D. becomes zero, because the reaction goes to completion
 
-**Q1182.** Explain why adding a catalyst to a reversible reaction does not change the equilibrium yield of product.
+**Q1184.** Explain why adding a catalyst to a reversible reaction does not change the equilibrium yield of product.
 <!-- id: chem-3-2-16 -->
 
 *Written answer*
 
-**Q1183.** Which of the following is an example of a homogeneous catalyst?
+**Q1185.** Which of the following is an example of a homogeneous catalyst?
 <!-- id: chem-3-2-17 -->
 
 - A. Iron in the Haber process
@@ -8389,7 +8431,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Vanadium(V) oxide in the contact process
 - D. Platinum in a car's catalytic converter
 
-**Q1184.** Which statement best describes how a heterogeneous catalyst such as iron works in the Haber process?
+**Q1186.** Which statement best describes how a heterogeneous catalyst such as iron works in the Haber process?
 <!-- id: chem-3-2-18 -->
 
 - A. The catalyst reacts permanently with nitrogen to form iron nitride as the product
@@ -8397,7 +8439,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. The catalyst dissolves in the gases to form a single phase
 - D. Reactant molecules adsorb onto the catalyst surface, weakening their bonds and allowing reaction at lower energy
 
-**Q1185.** The iron catalyst used in the Haber process is finely divided or porous. This is because:
+**Q1187.** The iron catalyst used in the Haber process is finely divided or porous. This is because:
 <!-- id: chem-3-2-19 -->
 
 - A. finely divided iron has a higher activation energy
@@ -8405,12 +8447,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. finely divided iron shifts the equilibrium towards ammonia
 - D. finely divided iron absorbs heat, making the reaction endothermic
 
-**Q1186.** Small amounts of lead or sulfur compounds in exhaust gases can 'poison' a catalytic converter. Explain what this means.
+**Q1188.** Small amounts of lead or sulfur compounds in exhaust gases can 'poison' a catalytic converter. Explain what this means.
 <!-- id: chem-3-2-20 -->
 
 *Written answer*
 
-**Q1187.** On an energy profile diagram, how does the pathway for a catalysed reaction compare with the uncatalysed pathway?
+**Q1189.** On an energy profile diagram, how does the pathway for a catalysed reaction compare with the uncatalysed pathway?
 <!-- id: chem-3-2-21 -->
 
 - A. It has a higher peak, with the products at a lower energy
@@ -8418,7 +8460,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. It has a lower peak, with the products at a lower energy
 - D. It has a lower peak, but the reactants and products are at the same energy levels
 
-**Q1188.** A catalyst lowers the forward activation energy of an exothermic reaction from 80 kJ mol⁻¹ to 50 kJ mol⁻¹. ΔH for the reaction is −30 kJ mol⁻¹. What is the activation energy of the catalysed reverse reaction?
+**Q1190.** A catalyst lowers the forward activation energy of an exothermic reaction from 80 kJ mol⁻¹ to 50 kJ mol⁻¹. ΔH for the reaction is −30 kJ mol⁻¹. What is the activation energy of the catalysed reverse reaction?
 <!-- id: chem-3-2-22 -->
 
 - A. 80 kJ mol⁻¹
@@ -8426,7 +8468,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 20 kJ mol⁻¹
 - D. 50 kJ mol⁻¹
 
-**Q1189.** Raising the temperature of a gas from 25 °C to 35 °C increases the average kinetic energy of its particles by only about 3%, yet the reaction rate may double. Using the Maxwell–Boltzmann distribution, this is explained by:
+**Q1191.** Raising the temperature of a gas from 25 °C to 35 °C increases the average kinetic energy of its particles by only about 3%, yet the reaction rate may double. Using the Maxwell–Boltzmann distribution, this is explained by:
 <!-- id: chem-3-2-23 -->
 
 - A. the activation energy line moving to a lower energy
@@ -8434,17 +8476,17 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. the peak of the curve becoming taller
 - D. a large relative increase in the number of particles in the high-energy tail beyond the activation energy
 
-**Q1190.** The uncatalysed oxidation of sulfur dioxide has Ea = 240 kJ mol⁻¹; with a V₂O₅ catalyst Ea = 140 kJ mol⁻¹. ΔH for 2SO₂(g) + O₂(g) → 2SO₃(g) is −196 kJ mol⁻¹. Calculate the activation energy of the catalysed reverse reaction.
+**Q1192.** The uncatalysed oxidation of sulfur dioxide has Ea = 240 kJ mol⁻¹; with a V₂O₅ catalyst Ea = 140 kJ mol⁻¹. ΔH for 2SO₂(g) + O₂(g) → 2SO₃(g) is −196 kJ mol⁻¹. Calculate the activation energy of the catalysed reverse reaction.
 <!-- id: chem-3-2-24 -->
 
 *Written answer*
 
-**Q1191.** Explain why a Maxwell–Boltzmann distribution curve starts at the origin and approaches, but never touches, the energy axis at high energies.
+**Q1193.** Explain why a Maxwell–Boltzmann distribution curve starts at the origin and approaches, but never touches, the energy axis at high energies.
 <!-- id: chem-3-2-25 -->
 
 *Written answer*
 
-**Q1192.** On a Maxwell–Boltzmann distribution curve, the area under the curve to the right of the activation energy represents
+**Q1194.** On a Maxwell–Boltzmann distribution curve, the area under the curve to the right of the activation energy represents
 <!-- id: chem34a1-mbc-1 -->
 
 - A. the total number of particles in the sample.
@@ -8452,7 +8494,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. the number of particles with energy equal to or greater than the activation energy.
 - D. the average kinetic energy of the particles.
 
-**Q1193.** When the temperature of a gas sample is increased, its Maxwell–Boltzmann curve
+**Q1195.** When the temperature of a gas sample is increased, its Maxwell–Boltzmann curve
 <!-- id: chem34a1-mbc-2 -->
 
 - A. becomes taller and narrower, with the peak shifting left.
@@ -8460,7 +8502,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. shifts to the right with the total area increasing.
 - D. stays the same but the activation energy decreases.
 
-**Q1194.** A catalyst increases the rate of a reaction by
+**Q1196.** A catalyst increases the rate of a reaction by
 <!-- id: chem34a1-mbc-3 -->
 
 - A. increasing the average kinetic energy of the reactant particles.
@@ -8468,7 +8510,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. shifting the Maxwell–Boltzmann curve to higher energies.
 - D. providing an alternative reaction pathway with a lower activation energy.
 
-**Q1195.** Which statement about a catalyst in a reversible reaction is correct?
+**Q1197.** Which statement about a catalyst in a reversible reaction is correct?
 <!-- id: chem34a1-mbc-4 -->
 
 - A. It increases the rate of the forward reaction only.
@@ -8476,7 +8518,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. It increases the rates of both forward and reverse reactions by lowering the activation energy of each.
 - D. It is consumed during the reaction.
 
-**Q1196.** Platinum and rhodium in a car's catalytic converter speed up the conversion of CO and NO into CO₂ and N₂. These metals are best described as
+**Q1198.** Platinum and rhodium in a car's catalytic converter speed up the conversion of CO and NO into CO₂ and N₂. These metals are best described as
 <!-- id: chem34a1-mbc-5 -->
 
 - A. heterogeneous catalysts that provide a surface where gas molecules adsorb and react.
@@ -8484,24 +8526,24 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. reactants that are slowly used up.
 - D. enzymes that denature at high temperature.
 
-**Q1197.** Describe (in words) a Maxwell–Boltzmann distribution for a gas at temperature T₁ and the same gas at a higher temperature T₂. Use it to explain why reaction rate increases with temperature. (3 marks)
+**Q1199.** Describe (in words) a Maxwell–Boltzmann distribution for a gas at temperature T₁ and the same gas at a higher temperature T₂. Use it to explain why reaction rate increases with temperature. (3 marks)
 <!-- id: chem34a1-mbc-6 -->
 
 *Written answer*
 
-**Q1198.** On a Maxwell–Boltzmann distribution, show how adding a catalyst changes the proportion of particles able to react. Explain why the curve itself does not change. (2 marks)
+**Q1200.** On a Maxwell–Boltzmann distribution, show how adding a catalyst changes the proportion of particles able to react. Explain why the curve itself does not change. (2 marks)
 <!-- id: chem34a1-mbc-7 -->
 
 *Written answer*
 
-**Q1199.** Hydrogen peroxide decomposes slowly: 2H₂O₂(aq) → 2H₂O(l) + O₂(g). Adding manganese(IV) oxide powder causes rapid bubbling, and the MnO₂ can be recovered unchanged in mass. Explain these observations and identify the type of catalyst. (3 marks)
+**Q1201.** Hydrogen peroxide decomposes slowly: 2H₂O₂(aq) → 2H₂O(l) + O₂(g). Adding manganese(IV) oxide powder causes rapid bubbling, and the MnO₂ can be recovered unchanged in mass. Explain these observations and identify the type of catalyst. (3 marks)
 <!-- id: chem34a1-mbc-8 -->
 
 *Written answer*
 
 #### Equilibrium constants and calculations
 
-**Q1200.** Which is the correct equilibrium expression for N₂(g) + 3H₂(g) ⇌ 2NH₃(g)?
+**Q1202.** Which is the correct equilibrium expression for N₂(g) + 3H₂(g) ⇌ 2NH₃(g)?
 <!-- id: chem-3-3-1 -->
 
 - A. Kc = [N₂][H₂]³ / [NH₃]²
@@ -8509,7 +8551,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Kc = 2[NH₃] / ([N₂] × 3[H₂])
 - D. Kc = [NH₃] / ([N₂][H₂])
 
-**Q1201.** What are the units of Kc for N₂(g) + 3H₂(g) ⇌ 2NH₃(g)?
+**Q1203.** What are the units of Kc for N₂(g) + 3H₂(g) ⇌ 2NH₃(g)?
 <!-- id: chem-3-3-2 -->
 
 - A. M²
@@ -8517,7 +8559,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. M⁻¹
 - D. no units
 
-**Q1202.** For 2SO₂(g) + O₂(g) ⇌ 2SO₃(g), the equilibrium constant is K. What is the equilibrium constant for 2SO₃(g) ⇌ 2SO₂(g) + O₂(g) at the same temperature?
+**Q1204.** For 2SO₂(g) + O₂(g) ⇌ 2SO₃(g), the equilibrium constant is K. What is the equilibrium constant for 2SO₃(g) ⇌ 2SO₂(g) + O₂(g) at the same temperature?
 <!-- id: chem-3-3-3 -->
 
 - A. K
@@ -8525,12 +8567,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 1/K
 - D. K²
 
-**Q1203.** Write the equilibrium expression, including units, for 2NO(g) + O₂(g) ⇌ 2NO₂(g).
+**Q1205.** Write the equilibrium expression, including units, for 2NO(g) + O₂(g) ⇌ 2NO₂(g).
 <!-- id: chem-3-3-4 -->
 
 *Written answer*
 
-**Q1204.** For 2SO₂(g) + O₂(g) ⇌ 2SO₃(g), the equilibrium constant is K. What is the equilibrium constant for SO₂(g) + ½O₂(g) ⇌ SO₃(g) at the same temperature?
+**Q1206.** For 2SO₂(g) + O₂(g) ⇌ 2SO₃(g), the equilibrium constant is K. What is the equilibrium constant for SO₂(g) + ½O₂(g) ⇌ SO₃(g) at the same temperature?
 <!-- id: chem-3-3-5 -->
 
 - A. K/2
@@ -8538,7 +8580,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. K²
 - D. √K
 
-**Q1205.** A reaction has Kc = 1 × 10²⁰ at 25 °C. Which statement is correct?
+**Q1207.** A reaction has Kc = 1 × 10²⁰ at 25 °C. Which statement is correct?
 <!-- id: chem-3-3-6 -->
 
 - A. The reaction must occur very rapidly
@@ -8546,7 +8588,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. At equilibrium the mixture consists almost entirely of products
 - D. The reaction is endothermic
 
-**Q1206.** At 450 °C, an equilibrium mixture for H₂(g) + I₂(g) ⇌ 2HI(g) contains [H₂] = 0.100 M, [I₂] = 0.100 M and [HI] = 0.700 M. What is the value of Kc?
+**Q1208.** At 450 °C, an equilibrium mixture for H₂(g) + I₂(g) ⇌ 2HI(g) contains [H₂] = 0.100 M, [I₂] = 0.100 M and [HI] = 0.700 M. What is the value of Kc?
 <!-- id: chem-3-3-7 -->
 
 - A. 70.0
@@ -8554,12 +8596,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 7.00
 - D. 0.0204
 
-**Q1207.** 0.500 mol of H₂ and 0.500 mol of I₂ are placed in a 5.00 L vessel. Kc for H₂(g) + I₂(g) ⇌ 2HI(g) is 64.0 at this temperature. Calculate the equilibrium concentration of HI.
+**Q1209.** 0.500 mol of H₂ and 0.500 mol of I₂ are placed in a 5.00 L vessel. Kc for H₂(g) + I₂(g) ⇌ 2HI(g) is 64.0 at this temperature. Calculate the equilibrium concentration of HI.
 <!-- id: chem-3-3-8 -->
 
 *Written answer*
 
-**Q1208.** For a reaction mixture that is not at equilibrium, the reaction quotient Q is found to be less than K. What will happen?
+**Q1210.** For a reaction mixture that is not at equilibrium, the reaction quotient Q is found to be less than K. What will happen?
 <!-- id: chem-3-3-9 -->
 
 - A. The net reaction proceeds in the forward direction until Q = K
@@ -8567,7 +8609,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. The value of K decreases until it equals Q
 - D. No change occurs because the system is already at equilibrium
 
-**Q1209.** For N₂O₄(g) ⇌ 2NO₂(g), Kc = 4.6 × 10⁻³ M at 25 °C. A mixture at 25 °C has [N₂O₄] = 0.50 M and [NO₂] = 0.020 M. Which statement is correct?
+**Q1211.** For N₂O₄(g) ⇌ 2NO₂(g), Kc = 4.6 × 10⁻³ M at 25 °C. A mixture at 25 °C has [N₂O₄] = 0.50 M and [NO₂] = 0.020 M. Which statement is correct?
 <!-- id: chem-3-3-10 -->
 
 - A. Q = 0.040, so the net reaction proceeds in reverse, producing more N₂O₄
@@ -8575,7 +8617,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Q = Kc, so the mixture is at equilibrium
 - D. Q = 8.0 × 10⁻⁴, so the net reaction proceeds forward, producing more NO₂
 
-**Q1210.** Which change will alter the value of the equilibrium constant for a reaction?
+**Q1212.** Which change will alter the value of the equilibrium constant for a reaction?
 <!-- id: chem-3-3-11 -->
 
 - A. Adding a catalyst
@@ -8583,12 +8625,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Decreasing the volume of the container
 - D. Changing the temperature
 
-**Q1211.** For 2SO₂(g) + O₂(g) ⇌ 2SO₃(g), Kc = 280 M⁻¹ at a certain temperature. A mixture contains [SO₂] = 0.10 M, [O₂] = 0.050 M and [SO₃] = 0.50 M. Determine whether the mixture is at equilibrium and, if not, the direction of net reaction.
+**Q1213.** For 2SO₂(g) + O₂(g) ⇌ 2SO₃(g), Kc = 280 M⁻¹ at a certain temperature. A mixture contains [SO₂] = 0.10 M, [O₂] = 0.050 M and [SO₃] = 0.50 M. Determine whether the mixture is at equilibrium and, if not, the direction of net reaction.
 <!-- id: chem-3-3-12 -->
 
 *Written answer*
 
-**Q1212.** The temperature of an exothermic equilibrium reaction is increased. What happens to the value of Kc?
+**Q1214.** The temperature of an exothermic equilibrium reaction is increased. What happens to the value of Kc?
 <!-- id: chem-3-3-13 -->
 
 - A. It decreases
@@ -8596,7 +8638,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. It stays the same
 - D. It becomes negative
 
-**Q1213.** 2.00 mol of PCl₅ is placed in a 1.00 L flask and allowed to reach equilibrium: PCl₅(g) ⇌ PCl₃(g) + Cl₂(g). At equilibrium, 0.40 mol of PCl₃ is present. What is the value of Kc?
+**Q1215.** 2.00 mol of PCl₅ is placed in a 1.00 L flask and allowed to reach equilibrium: PCl₅(g) ⇌ PCl₃(g) + Cl₂(g). At equilibrium, 0.40 mol of PCl₃ is present. What is the value of Kc?
 <!-- id: chem-3-3-14 -->
 
 - A. 0.10 M
@@ -8604,7 +8646,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 0.080 M
 - D. 10 M
 
-**Q1214.** 1.00 mol of N₂ and 3.00 mol of H₂ are placed in a 2.00 L vessel. At equilibrium, 0.400 mol of NH₃ has formed. What is the value of Kc for N₂(g) + 3H₂(g) ⇌ 2NH₃(g)?
+**Q1216.** 1.00 mol of N₂ and 3.00 mol of H₂ are placed in a 2.00 L vessel. At equilibrium, 0.400 mol of NH₃ has formed. What is the value of Kc for N₂(g) + 3H₂(g) ⇌ 2NH₃(g)?
 <!-- id: chem-3-3-15 -->
 
 - A. 0.0145 M⁻²
@@ -8612,12 +8654,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 17.3 M⁻²
 - D. 0.0579 M⁻²
 
-**Q1215.** Explain why the value of Kc does not change when extra reactant is added to an equilibrium mixture at constant temperature.
+**Q1217.** Explain why the value of Kc does not change when extra reactant is added to an equilibrium mixture at constant temperature.
 <!-- id: chem-3-3-16 -->
 
 *Written answer*
 
-**Q1216.** For the reaction X(g) ⇌ Y(g), Kc = 4.0 at a certain temperature. If 1.00 M of X is initially present with no Y, what is the equilibrium concentration of Y?
+**Q1218.** For the reaction X(g) ⇌ Y(g), Kc = 4.0 at a certain temperature. If 1.00 M of X is initially present with no Y, what is the equilibrium concentration of Y?
 <!-- id: chem-3-3-17 -->
 
 - A. 0.80 M
@@ -8625,7 +8667,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 0.25 M
 - D. 0.75 M
 
-**Q1217.** For 2A(g) ⇌ B(g), Kc = 2.5 × 10⁻³ M⁻¹. What is the value of Kc for 2B(g) ⇌ 4A(g) at the same temperature?
+**Q1219.** For 2A(g) ⇌ B(g), Kc = 2.5 × 10⁻³ M⁻¹. What is the value of Kc for 2B(g) ⇌ 4A(g) at the same temperature?
 <!-- id: chem-3-3-18 -->
 
 - A. 400 M
@@ -8633,7 +8675,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 1.6 × 10⁵ M²
 - D. 200 M
 
-**Q1218.** What are the units of Kc for CH₃COOH(l) + C₂H₅OH(l) ⇌ CH₃COOC₂H₅(l) + H₂O(l), treating all species as being in the same solution?
+**Q1220.** What are the units of Kc for CH₃COOH(l) + C₂H₅OH(l) ⇌ CH₃COOC₂H₅(l) + H₂O(l), treating all species as being in the same solution?
 <!-- id: chem-3-3-19 -->
 
 - A. M
@@ -8641,12 +8683,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. No units
 - D. M²
 
-**Q1219.** For A(g) + B(g) ⇌ C(g), Kc = 2.0 M⁻¹. Determine the value and units of Kc for 2C(g) ⇌ 2A(g) + 2B(g) at the same temperature.
+**Q1221.** For A(g) + B(g) ⇌ C(g), Kc = 2.0 M⁻¹. Determine the value and units of Kc for 2C(g) ⇌ 2A(g) + 2B(g) at the same temperature.
 <!-- id: chem-3-3-20 -->
 
 *Written answer*
 
-**Q1220.** Which statement is true for a chemical system at dynamic equilibrium?
+**Q1222.** Which statement is true for a chemical system at dynamic equilibrium?
 <!-- id: chem-3-3-21 -->
 
 - A. The concentrations of reactants and products are equal
@@ -8654,7 +8696,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. The value of Kc is always equal to 1
 - D. The rates of the forward and reverse reactions are equal and non-zero
 
-**Q1221.** At a certain temperature, Kc for N₂O₄(g) ⇌ 2NO₂(g) is 4.6 × 10⁻³ M. What is Kc for 2NO₂(g) ⇌ N₂O₄(g) at the same temperature?
+**Q1223.** At a certain temperature, Kc for N₂O₄(g) ⇌ 2NO₂(g) is 4.6 × 10⁻³ M. What is Kc for 2NO₂(g) ⇌ N₂O₄(g) at the same temperature?
 <!-- id: chem-3-3-22 -->
 
 - A. 4.6 × 10⁻³ M⁻¹
@@ -8662,7 +8704,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 0.068 M⁻¹
 - D. 2.1 × 10⁻⁵ M⁻¹
 
-**Q1222.** For which reaction would the units of Kc be M?
+**Q1224.** For which reaction would the units of Kc be M?
 <!-- id: chem-3-3-23 -->
 
 - A. H₂(g) + I₂(g) ⇌ 2HI(g)
@@ -8670,17 +8712,17 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. PCl₅(g) ⇌ PCl₃(g) + Cl₂(g)
 - D. N₂(g) + 3H₂(g) ⇌ 2NH₃(g)
 
-**Q1223.** Explain what is meant by the term 'dynamic equilibrium'.
+**Q1225.** Explain what is meant by the term 'dynamic equilibrium'.
 <!-- id: chem-3-3-24 -->
 
 *Written answer*
 
-**Q1224.** 0.800 mol of NO₂ is placed in a 2.00 L vessel. At equilibrium for 2NO₂(g) ⇌ N₂O₄(g), 0.200 mol of N₂O₄ is present. Calculate Kc.
+**Q1226.** 0.800 mol of NO₂ is placed in a 2.00 L vessel. At equilibrium for 2NO₂(g) ⇌ N₂O₄(g), 0.200 mol of N₂O₄ is present. Calculate Kc.
 <!-- id: chem-3-3-25 -->
 
 *Written answer*
 
-**Q1225.** Which expression is the equilibrium constant, K, for the reaction N₂(g) + 3H₂(g) ⇌ 2NH₃(g)?
+**Q1227.** Which expression is the equilibrium constant, K, for the reaction N₂(g) + 3H₂(g) ⇌ 2NH₃(g)?
 <!-- id: chem34a2-eq-1 -->
 
 - A. [NH₃]/([N₂][H₂])
@@ -8688,7 +8730,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. ([N₂][H₂]³)/[NH₃]²
 - D. 2[NH₃]/([N₂] + 3[H₂])
 
-**Q1226.** What are the units of K for the reaction 2SO₂(g) + O₂(g) ⇌ 2SO₃(g)?
+**Q1228.** What are the units of K for the reaction 2SO₂(g) + O₂(g) ⇌ 2SO₃(g)?
 <!-- id: chem34a2-eq-2 -->
 
 - A. mol L⁻¹
@@ -8696,7 +8738,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. No units
 - D. M⁻¹ (L mol⁻¹)
 
-**Q1227.** At a particular temperature, K for the reaction A(g) ⇌ B(g) is 4.0. What is the value of K for 2B(g) ⇌ 2A(g) at the same temperature?
+**Q1229.** At a particular temperature, K for the reaction A(g) ⇌ B(g) is 4.0. What is the value of K for 2B(g) ⇌ 2A(g) at the same temperature?
 <!-- id: chem34a2-eq-3 -->
 
 - A. 0.0625
@@ -8704,7 +8746,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. −8.0
 - D. 16
 
-**Q1228.** A reaction mixture in a closed vessel has a reaction quotient Q = 2.5 × 10⁻³, while K at that temperature is 1.8 × 10⁻². Which statement is correct?
+**Q1230.** A reaction mixture in a closed vessel has a reaction quotient Q = 2.5 × 10⁻³, while K at that temperature is 1.8 × 10⁻². Which statement is correct?
 <!-- id: chem34a2-eq-4 -->
 
 - A. The system is at equilibrium.
@@ -8712,7 +8754,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. The net reaction will proceed in the forward direction until Q increases to K.
 - D. K will decrease until it equals Q.
 
-**Q1229.** A reaction has K = 3 × 10¹⁵ at 25 °C. What can be concluded from this value alone?
+**Q1231.** A reaction has K = 3 × 10¹⁵ at 25 °C. What can be concluded from this value alone?
 <!-- id: chem34a2-eq-5 -->
 
 - A. The reaction is very fast at 25 °C.
@@ -8720,24 +8762,24 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. The reaction is strongly endothermic.
 - D. The reaction goes to completion almost instantly once a catalyst is added.
 
-**Q1230.** 0.500 mol of H₂(g) and 0.500 mol of I₂(g) were placed in a sealed 2.00 L vessel at 450 °C. At equilibrium, 0.780 mol of HI(g) was present. H₂(g) + I₂(g) ⇌ 2HI(g). Calculate K at 450 °C. (3 marks)
+**Q1232.** 0.500 mol of H₂(g) and 0.500 mol of I₂(g) were placed in a sealed 2.00 L vessel at 450 °C. At equilibrium, 0.780 mol of HI(g) was present. H₂(g) + I₂(g) ⇌ 2HI(g). Calculate K at 450 °C. (3 marks)
 <!-- id: chem34a2-eq-6 -->
 
 *Written answer*
 
-**Q1231.** For 2NO₂(g) ⇌ N₂O₄(g), K = 6.0 M⁻¹ at a certain temperature. A mixture at this temperature contains [NO₂] = 0.20 M and [N₂O₄] = 0.50 M. Determine whether the mixture is at equilibrium and, if not, predict how [NO₂] will change. (3 marks)
+**Q1233.** For 2NO₂(g) ⇌ N₂O₄(g), K = 6.0 M⁻¹ at a certain temperature. A mixture at this temperature contains [NO₂] = 0.20 M and [N₂O₄] = 0.50 M. Determine whether the mixture is at equilibrium and, if not, predict how [NO₂] will change. (3 marks)
 <!-- id: chem34a2-eq-7 -->
 
 *Written answer*
 
-**Q1232.** Explain what is meant by 'dynamic equilibrium' and state the only factor that changes the value of K for a given reaction. (2 marks)
+**Q1234.** Explain what is meant by 'dynamic equilibrium' and state the only factor that changes the value of K for a given reaction. (2 marks)
 <!-- id: chem34a2-eq-8 -->
 
 *Written answer*
 
 #### Le Chatelier's principle and yield optimisation
 
-**Q1233.** For N₂(g) + 3H₂(g) ⇌ 2NH₃(g), ΔH = −92 kJ mol⁻¹, the volume of the vessel is decreased at constant temperature. How does the system respond?
+**Q1235.** For N₂(g) + 3H₂(g) ⇌ 2NH₃(g), ΔH = −92 kJ mol⁻¹, the volume of the vessel is decreased at constant temperature. How does the system respond?
 <!-- id: chem-3-4-1 -->
 
 - A. The equilibrium shifts to the left, because there are more gas particles on the reactant side
@@ -8745,7 +8787,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. The equilibrium shifts to the right, because the reaction is exothermic
 - D. The equilibrium shifts to the right, because there are fewer gas particles on the product side
 
-**Q1234.** The temperature of an equilibrium mixture of N₂, H₂ and NH₃ (ΔH = −92 kJ mol⁻¹) is increased. Which statement is correct?
+**Q1236.** The temperature of an equilibrium mixture of N₂, H₂ and NH₃ (ΔH = −92 kJ mol⁻¹) is increased. Which statement is correct?
 <!-- id: chem-3-4-2 -->
 
 - A. The rate and the equilibrium yield of ammonia both increase
@@ -8753,7 +8795,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. The rate increases but the equilibrium yield of ammonia decreases
 - D. The rate increases and the yield of ammonia is unchanged
 
-**Q1235.** The Haber process is typically run at about 400–450 °C, even though lower temperatures give a higher equilibrium yield. This is because:
+**Q1237.** The Haber process is typically run at about 400–450 °C, even though lower temperatures give a higher equilibrium yield. This is because:
 <!-- id: chem-3-4-3 -->
 
 - A. the reaction is endothermic, so high temperatures increase yield
@@ -8761,12 +8803,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. ammonia decomposes completely below 400 °C
 - D. a moderate temperature gives an acceptable yield at a fast enough rate (a compromise)
 
-**Q1236.** Using Le Chatelier's principle, explain why increasing pressure increases the equilibrium yield of ammonia in N₂(g) + 3H₂(g) ⇌ 2NH₃(g).
+**Q1238.** Using Le Chatelier's principle, explain why increasing pressure increases the equilibrium yield of ammonia in N₂(g) + 3H₂(g) ⇌ 2NH₃(g).
 <!-- id: chem-3-4-4 -->
 
 *Written answer*
 
-**Q1237.** A catalyst is added to an equilibrium mixture of N₂, H₂ and NH₃. What happens to the amount of ammonia?
+**Q1239.** A catalyst is added to an equilibrium mixture of N₂, H₂ and NH₃. What happens to the amount of ammonia?
 <!-- id: chem-3-4-5 -->
 
 - A. It increases
@@ -8774,7 +8816,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. It does not change
 - D. It increases, then returns to its original amount
 
-**Q1238.** Argon is added to an equilibrium mixture of N₂, H₂ and NH₃ in a rigid sealed vessel at constant temperature. What happens to the equilibrium position?
+**Q1240.** Argon is added to an equilibrium mixture of N₂, H₂ and NH₃ in a rigid sealed vessel at constant temperature. What happens to the equilibrium position?
 <!-- id: chem-3-4-6 -->
 
 - A. It shifts to the right because the total pressure increases
@@ -8782,7 +8824,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. It shifts to the right because argon acts as a catalyst
 - D. It does not shift
 
-**Q1239.** In an industrial ammonia plant, ammonia is continuously removed by condensing it. The effect of this is to:
+**Q1241.** In an industrial ammonia plant, ammonia is continuously removed by condensing it. The effect of this is to:
 <!-- id: chem-3-4-7 -->
 
 - A. shift the equilibrium to the left, regenerating nitrogen and hydrogen
@@ -8790,12 +8832,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. lower the activation energy of the reaction
 - D. shift the equilibrium to the right, increasing the overall conversion of reactants
 
-**Q1240.** The Haber process (ΔH = −92 kJ mol⁻¹) is operated at about 450 °C. Explain this choice in terms of both rate and yield.
+**Q1242.** The Haber process (ΔH = −92 kJ mol⁻¹) is operated at about 450 °C. Explain this choice in terms of both rate and yield.
 <!-- id: chem-3-4-8 -->
 
 *Written answer*
 
-**Q1241.** Fe³⁺(aq) + SCN⁻(aq) ⇌ FeSCN²⁺(aq) is an equilibrium in which FeSCN²⁺ is deep red. A few crystals of KSCN are dissolved in the mixture. What is observed?
+**Q1243.** Fe³⁺(aq) + SCN⁻(aq) ⇌ FeSCN²⁺(aq) is an equilibrium in which FeSCN²⁺ is deep red. A few crystals of KSCN are dissolved in the mixture. What is observed?
 <!-- id: chem-3-4-9 -->
 
 - A. The solution becomes a deeper red
@@ -8803,7 +8845,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. The colour does not change
 - D. The solution becomes colourless
 
-**Q1242.** For Fe³⁺(aq) + SCN⁻(aq) ⇌ FeSCN²⁺(aq) (deep red), a few drops of AgNO₃ solution are added, precipitating AgSCN. What is observed?
+**Q1244.** For Fe³⁺(aq) + SCN⁻(aq) ⇌ FeSCN²⁺(aq) (deep red), a few drops of AgNO₃ solution are added, precipitating AgSCN. What is observed?
 <!-- id: chem-3-4-10 -->
 
 - A. The red colour becomes paler
@@ -8811,7 +8853,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. The colour does not change
 - D. The solution turns blue
 
-**Q1243.** 2NO₂(g) ⇌ N₂O₄(g), ΔH = −57 kJ mol⁻¹. NO₂ is brown and N₂O₄ is colourless. A sealed flask of the equilibrium mixture is placed in hot water. What is observed?
+**Q1245.** 2NO₂(g) ⇌ N₂O₄(g), ΔH = −57 kJ mol⁻¹. NO₂ is brown and N₂O₄ is colourless. A sealed flask of the equilibrium mixture is placed in hot water. What is observed?
 <!-- id: chem-3-4-11 -->
 
 - A. The mixture becomes paler
@@ -8819,12 +8861,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. The mixture becomes darker brown
 - D. The mixture becomes colourless
 
-**Q1244.** A syringe contains an equilibrium mixture of 2NO₂(g) (brown) ⇌ N₂O₄(g) (colourless). The plunger is pushed in and held. Describe and explain the colour changes observed.
+**Q1246.** A syringe contains an equilibrium mixture of 2NO₂(g) (brown) ⇌ N₂O₄(g) (colourless). The plunger is pushed in and held. Describe and explain the colour changes observed.
 <!-- id: chem-3-4-12 -->
 
 *Written answer*
 
-**Q1245.** A gas syringe containing an equilibrium mixture of brown NO₂ and colourless N₂O₄ (2NO₂ ⇌ N₂O₄) is quickly compressed to half its volume. What is observed?
+**Q1247.** A gas syringe containing an equilibrium mixture of brown NO₂ and colourless N₂O₄ (2NO₂ ⇌ N₂O₄) is quickly compressed to half its volume. What is observed?
 <!-- id: chem-3-4-13 -->
 
 - A. The colour lightens immediately and stays lighter than originally
@@ -8832,7 +8874,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. There is no colour change because the number of molecules is unchanged
 - D. The colour darkens immediately, then lightens somewhat but remains darker than originally
 
-**Q1246.** For H₂(g) + I₂(g) ⇌ 2HI(g), the pressure is increased by decreasing the volume. What is the effect on the equilibrium position?
+**Q1248.** For H₂(g) + I₂(g) ⇌ 2HI(g), the pressure is increased by decreasing the volume. What is the effect on the equilibrium position?
 <!-- id: chem-3-4-14 -->
 
 - A. It shifts right, because the products have fewer gas particles
@@ -8840,7 +8882,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. It shifts left, because the reactants have fewer gas particles
 - D. It shifts right, because the reaction is exothermic
 
-**Q1247.** In the contact process, 2SO₂(g) + O₂(g) ⇌ 2SO₃(g), ΔH = −197 kJ mol⁻¹. Which conditions would give the highest equilibrium yield of SO₃?
+**Q1249.** In the contact process, 2SO₂(g) + O₂(g) ⇌ 2SO₃(g), ΔH = −197 kJ mol⁻¹. Which conditions would give the highest equilibrium yield of SO₃?
 <!-- id: chem-3-4-15 -->
 
 - A. Low temperature and high pressure
@@ -8848,12 +8890,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Low temperature and low pressure
 - D. High temperature and low pressure
 
-**Q1248.** For CH₄(g) + H₂O(g) ⇌ CO(g) + 3H₂(g), ΔH = +206 kJ mol⁻¹, predict the effect of increasing the temperature on the value of Kc and on the yield of hydrogen. Explain.
+**Q1250.** For CH₄(g) + H₂O(g) ⇌ CO(g) + 3H₂(g), ΔH = +206 kJ mol⁻¹, predict the effect of increasing the temperature on the value of Kc and on the yield of hydrogen. Explain.
 <!-- id: chem-3-4-16 -->
 
 *Written answer*
 
-**Q1249.** The contact process is usually operated at only slightly above atmospheric pressure, even though high pressure would increase yield. The main reason is that:
+**Q1251.** The contact process is usually operated at only slightly above atmospheric pressure, even though high pressure would increase yield. The main reason is that:
 <!-- id: chem-3-4-17 -->
 
 - A. high pressure would decrease the yield of SO₃
@@ -8861,7 +8903,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. the conversion to SO₃ is already very high at low pressure, so the extra cost of high pressure is not justified
 - D. the reaction cannot occur above atmospheric pressure
 
-**Q1250.** Water is added to dilute an equilibrium mixture of Fe³⁺(aq) + SCN⁻(aq) ⇌ FeSCN²⁺(aq). How does the equilibrium respond?
+**Q1252.** Water is added to dilute an equilibrium mixture of Fe³⁺(aq) + SCN⁻(aq) ⇌ FeSCN²⁺(aq). How does the equilibrium respond?
 <!-- id: chem-3-4-18 -->
 
 - A. It shifts to the left, the side with more dissolved particles
@@ -8869,7 +8911,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. It does not shift, because all species are diluted equally
 - D. It shifts to the right, because water is a product
 
-**Q1251.** Extra H₂ is added to the Haber equilibrium mixture at constant volume and temperature. Once equilibrium is re-established, how does [N₂] compare with its value before the H₂ was added?
+**Q1253.** Extra H₂ is added to the Haber equilibrium mixture at constant volume and temperature. Once equilibrium is re-established, how does [N₂] compare with its value before the H₂ was added?
 <!-- id: chem-3-4-19 -->
 
 - A. It is lower
@@ -8877,12 +8919,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. It is the same
 - D. It is zero
 
-**Q1252.** Explain why adding a catalyst does not increase the yield of an equilibrium reaction, yet catalysts are still essential in industrial processes such as the Haber process.
+**Q1254.** Explain why adding a catalyst does not increase the yield of an equilibrium reaction, yet catalysts are still essential in industrial processes such as the Haber process.
 <!-- id: chem-3-4-20 -->
 
 *Written answer*
 
-**Q1253.** Steam reforming of methane is CH₄(g) + H₂O(g) ⇌ CO(g) + 3H₂(g), ΔH = +206 kJ mol⁻¹. Which conditions favour the highest equilibrium yield of hydrogen?
+**Q1255.** Steam reforming of methane is CH₄(g) + H₂O(g) ⇌ CO(g) + 3H₂(g), ΔH = +206 kJ mol⁻¹. Which conditions favour the highest equilibrium yield of hydrogen?
 <!-- id: chem-3-4-21 -->
 
 - A. Low temperature and high pressure
@@ -8890,7 +8932,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. High temperature and high pressure
 - D. Low temperature and low pressure
 
-**Q1254.** Which statement best expresses Le Chatelier's principle?
+**Q1256.** Which statement best expresses Le Chatelier's principle?
 <!-- id: chem-3-4-22 -->
 
 - A. If an equilibrium system is subjected to a change, the system adjusts to completely reverse that change
@@ -8898,7 +8940,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. An equilibrium system always shifts towards the products when disturbed
 - D. The value of K changes to oppose any change made to an equilibrium system
 
-**Q1255.** The temperature of an equilibrium mixture for an endothermic reaction is increased. Which statement is correct once equilibrium is re-established?
+**Q1257.** The temperature of an equilibrium mixture for an endothermic reaction is increased. Which statement is correct once equilibrium is re-established?
 <!-- id: chem-3-4-23 -->
 
 - A. The value of K has decreased and the yield of products is smaller
@@ -8906,17 +8948,17 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. The value of K is unchanged but the yield of products is greater
 - D. The value of K has increased but the yield of products is smaller
 
-**Q1256.** For the esterification CH₃COOH + C₂H₅OH ⇌ CH₃COOC₂H₅ + H₂O, suggest two ways to increase the yield of ethyl ethanoate and explain each.
+**Q1258.** For the esterification CH₃COOH + C₂H₅OH ⇌ CH₃COOC₂H₅ + H₂O, suggest two ways to increase the yield of ethyl ethanoate and explain each.
 <!-- id: chem-3-4-24 -->
 
 *Written answer*
 
-**Q1257.** Extra O₂ is added at constant volume and temperature to an equilibrium mixture of 2SO₂(g) + O₂(g) ⇌ 2SO₃(g). Describe how [O₂], [SO₂], [SO₃] and Kc compare with their original values once equilibrium is re-established.
+**Q1259.** Extra O₂ is added at constant volume and temperature to an equilibrium mixture of 2SO₂(g) + O₂(g) ⇌ 2SO₃(g). Describe how [O₂], [SO₂], [SO₃] and Kc compare with their original values once equilibrium is re-established.
 <!-- id: chem-3-4-25 -->
 
 *Written answer*
 
-**Q1258.** N₂O₄(g) ⇌ 2NO₂(g), ΔH = +58 kJ mol⁻¹. N₂O₄ is colourless and NO₂ is brown. A sealed syringe of the equilibrium mixture is placed in hot water. Which observation and explanation are correct?
+**Q1260.** N₂O₄(g) ⇌ 2NO₂(g), ΔH = +58 kJ mol⁻¹. N₂O₄ is colourless and NO₂ is brown. A sealed syringe of the equilibrium mixture is placed in hot water. Which observation and explanation are correct?
 <!-- id: chem34a2-lc-1 -->
 
 - A. The mixture becomes paler because the reverse reaction is endothermic.
@@ -8924,7 +8966,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. The mixture becomes browner but the value of K is unchanged.
 - D. No colour change occurs because temperature only affects rate.
 
-**Q1259.** A catalyst is added to a system already at equilibrium. Which statement is correct?
+**Q1261.** A catalyst is added to a system already at equilibrium. Which statement is correct?
 <!-- id: chem34a2-lc-2 -->
 
 - A. The equilibrium position shifts to the right.
@@ -8932,7 +8974,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. The forward rate increases more than the reverse rate.
 - D. The forward and reverse rates increase equally, so the position does not change.
 
-**Q1260.** The volume of a vessel containing H₂(g) + I₂(g) ⇌ 2HI(g) at equilibrium is suddenly halved at constant temperature. I₂ is purple. What is observed?
+**Q1262.** The volume of a vessel containing H₂(g) + I₂(g) ⇌ 2HI(g) at equilibrium is suddenly halved at constant temperature. I₂ is purple. What is observed?
 <!-- id: chem34a2-lc-3 -->
 
 - A. The colour becomes darker and the equilibrium position does not shift.
@@ -8940,7 +8982,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. The colour becomes paler because the reaction shifts right.
 - D. There is no change in colour or concentrations.
 
-**Q1261.** Argon gas is added to an equilibrium mixture of 2SO₂(g) + O₂(g) ⇌ 2SO₃(g) in a rigid, sealed container at constant temperature. What happens?
+**Q1263.** Argon gas is added to an equilibrium mixture of 2SO₂(g) + O₂(g) ⇌ 2SO₃(g) in a rigid, sealed container at constant temperature. What happens?
 <!-- id: chem34a2-lc-4 -->
 
 - A. The equilibrium shifts right because total pressure increased.
@@ -8948,7 +8990,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. The equilibrium position does not change.
 - D. K increases because total pressure increased.
 
-**Q1262.** A concentration–time graph for 2SO₂(g) + O₂(g) ⇌ 2SO₃(g) shows that at time t, [SO₃] jumps up vertically and then gradually decreases, while [SO₂] and [O₂] gradually increase from t until new constant values. What change was made at time t?
+**Q1264.** A concentration–time graph for 2SO₂(g) + O₂(g) ⇌ 2SO₃(g) shows that at time t, [SO₃] jumps up vertically and then gradually decreases, while [SO₂] and [O₂] gradually increase from t until new constant values. What change was made at time t?
 <!-- id: chem34a2-lc-5 -->
 
 - A. The temperature was increased.
@@ -8956,22 +8998,22 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. The volume of the vessel was decreased.
 - D. A catalyst was added.
 
-**Q1263.** Methanol is made by CO(g) + 2H₂(g) ⇌ CH₃OH(g), ΔH = −91 kJ mol⁻¹. Explain the effect of increasing pressure, by decreasing the volume at constant temperature, on the equilibrium yield of methanol and on K. (3 marks)
+**Q1265.** Methanol is made by CO(g) + 2H₂(g) ⇌ CH₃OH(g), ΔH = −91 kJ mol⁻¹. Explain the effect of increasing pressure, by decreasing the volume at constant temperature, on the equilibrium yield of methanol and on K. (3 marks)
 <!-- id: chem34a2-lc-6 -->
 
 *Written answer*
 
-**Q1264.** Fe³⁺(aq) + SCN⁻(aq) ⇌ FeSCN²⁺(aq). FeSCN²⁺ is deep red. Water is added to double the volume of an equilibrium mixture. Using the reaction quotient, explain the direction of the shift and the colour change observed. (3 marks)
+**Q1266.** Fe³⁺(aq) + SCN⁻(aq) ⇌ FeSCN²⁺(aq). FeSCN²⁺ is deep red. Water is added to double the volume of an equilibrium mixture. Using the reaction quotient, explain the direction of the shift and the colour change observed. (3 marks)
 <!-- id: chem34a2-lc-7 -->
 
 *Written answer*
 
-**Q1265.** For the exothermic reaction N₂(g) + 3H₂(g) ⇌ 2NH₃(g), the temperature of an equilibrium mixture is increased at constant volume. Describe the changes you would see on a concentration–time graph for all three species, and state the effect on K. (3 marks)
+**Q1267.** For the exothermic reaction N₂(g) + 3H₂(g) ⇌ 2NH₃(g), the temperature of an equilibrium mixture is increased at constant volume. Describe the changes you would see on a concentration–time graph for all three species, and state the effect on K. (3 marks)
 <!-- id: chem34a2-lc-8 -->
 
 *Written answer*
 
-**Q1266.** The Haber process (N₂(g) + 3H₂(g) ⇌ 2NH₃(g), ΔH = −92 kJ mol⁻¹) operates at about 400–450 °C. Why is a lower temperature not used?
+**Q1268.** The Haber process (N₂(g) + 3H₂(g) ⇌ 2NH₃(g), ΔH = −92 kJ mol⁻¹) operates at about 400–450 °C. Why is a lower temperature not used?
 <!-- id: chem34a2-ind-1 -->
 
 - A. Lower temperatures would decrease the equilibrium yield of ammonia.
@@ -8979,7 +9021,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Lower temperatures would give a higher yield, but the rate would be too slow to be economical.
 - D. Ammonia decomposes at temperatures below 400 °C.
 
-**Q1267.** Which statement best describes the role of the iron catalyst in the Haber process?
+**Q1269.** Which statement best describes the role of the iron catalyst in the Haber process?
 <!-- id: chem34a2-ind-2 -->
 
 - A. It increases the rate of reaction without changing the equilibrium yield.
@@ -8987,7 +9029,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. It increases the value of K.
 - D. It makes the reaction more exothermic.
 
-**Q1268.** In the Haber process, the gas mixture leaving the reactor is cooled so that ammonia condenses and is removed; the unreacted N₂ and H₂ are recycled. What is the main effect of this?
+**Q1270.** In the Haber process, the gas mixture leaving the reactor is cooled so that ammonia condenses and is removed; the unreacted N₂ and H₂ are recycled. What is the main effect of this?
 <!-- id: chem34a2-ind-3 -->
 
 - A. It increases K for the reaction.
@@ -8995,7 +9037,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. It increases the rate by raising the temperature of the reactor.
 - D. It reduces the need for high pressure to zero.
 
-**Q1269.** In the contact process, 2SO₂(g) + O₂(g) ⇌ 2SO₃(g) is exothermic and has fewer gas particles on the product side, yet it is run at only slightly above atmospheric pressure. What is the best reason?
+**Q1271.** In the contact process, 2SO₂(g) + O₂(g) ⇌ 2SO₃(g) is exothermic and has fewer gas particles on the product side, yet it is run at only slightly above atmospheric pressure. What is the best reason?
 <!-- id: chem34a2-ind-4 -->
 
 - A. High pressure would decrease the yield of SO₃.
@@ -9003,7 +9045,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Pressure has no effect on this equilibrium.
 - D. Conversion is already very high (about 99%) at low pressure, so the extra cost of high-pressure equipment is not justified.
 
-**Q1270.** An engineer proposes raising the temperature of an exothermic equilibrium reaction in an industrial reactor. Which pair of effects is expected?
+**Q1272.** An engineer proposes raising the temperature of an exothermic equilibrium reaction in an industrial reactor. Which pair of effects is expected?
 <!-- id: chem34a2-ind-5 -->
 
 - A. Rate increases; equilibrium yield increases.
@@ -9011,17 +9053,17 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Rate increases; equilibrium yield decreases.
 - D. Rate is unchanged; equilibrium yield decreases.
 
-**Q1271.** Methanol is manufactured by CO(g) + 2H₂(g) ⇌ CH₃OH(g), ΔH = −91 kJ mol⁻¹, at about 250 °C and 50–100 atm with a Cu/ZnO catalyst. Explain why these conditions are a compromise. (3 marks)
+**Q1273.** Methanol is manufactured by CO(g) + 2H₂(g) ⇌ CH₃OH(g), ΔH = −91 kJ mol⁻¹, at about 250 °C and 50–100 atm with a Cu/ZnO catalyst. Explain why these conditions are a compromise. (3 marks)
 <!-- id: chem34a2-ind-6 -->
 
 *Written answer*
 
-**Q1272.** A Haber process plant uses 10.0 tonnes of N₂ in excess H₂ and collects 2.50 tonnes of NH₃ in a single pass. Calculate the percentage yield. (3 marks)
+**Q1274.** A Haber process plant uses 10.0 tonnes of N₂ in excess H₂ and collects 2.50 tonnes of NH₃ in a single pass. Calculate the percentage yield. (3 marks)
 <!-- id: chem34a2-ind-7 -->
 
 *Written answer*
 
-**Q1273.** Explain how the use of a catalyst in an industrial process supports the green chemistry principle of energy efficiency. (2 marks)
+**Q1275.** Explain how the use of a catalyst in an industrial process supports the green chemistry principle of energy efficiency. (2 marks)
 <!-- id: chem34a2-ind-8 -->
 
 *Written answer*
@@ -9030,7 +9072,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 #### Electrolytic cell design and products
 
-**Q1274.** In an electrolytic cell, oxidation occurs at the
+**Q1276.** In an electrolytic cell, oxidation occurs at the
 <!-- id: chem-4-1-1 -->
 
 - A. anode, which is connected to the positive terminal of the power supply
@@ -9038,7 +9080,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. anode, which is connected to the negative terminal of the power supply
 - D. cathode, which is connected to the positive terminal of the power supply
 
-**Q1275.** Which energy transformation occurs in an electrolytic cell?
+**Q1277.** Which energy transformation occurs in an electrolytic cell?
 <!-- id: chem-4-1-2 -->
 
 - A. Chemical energy to electrical energy
@@ -9046,7 +9088,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Chemical energy to thermal energy only
 - D. Light energy to chemical energy
 
-**Q1276.** Molten sodium chloride is electrolysed using inert electrodes. The product at the cathode is
+**Q1278.** Molten sodium chloride is electrolysed using inert electrodes. The product at the cathode is
 <!-- id: chem-4-1-3 -->
 
 - A. chlorine gas
@@ -9054,12 +9096,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. sodium liquid
 - D. oxygen gas
 
-**Q1277.** Write the anode and cathode half-equations for the electrolysis of molten potassium bromide.
+**Q1279.** Write the anode and cathode half-equations for the electrolysis of molten potassium bromide.
 <!-- id: chem-4-1-4 -->
 
 *Written answer*
 
-**Q1278.** Molten sodium chloride is electrolysed using inert electrodes. The product at the anode is
+**Q1280.** Molten sodium chloride is electrolysed using inert electrodes. The product at the anode is
 <!-- id: chem-4-1-5 -->
 
 - A. sodium liquid
@@ -9067,7 +9109,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. hydrogen gas
 - D. chlorine gas
 
-**Q1279.** A 1.0 M aqueous sodium chloride solution is electrolysed with inert graphite electrodes. What forms at the cathode?
+**Q1281.** A 1.0 M aqueous sodium chloride solution is electrolysed with inert graphite electrodes. What forms at the cathode?
 <!-- id: chem-4-1-6 -->
 
 - A. Hydrogen gas and hydroxide ions
@@ -9075,7 +9117,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Chlorine gas
 - D. Oxygen gas and hydrogen ions
 
-**Q1280.** Dilute aqueous sodium sulfate is electrolysed with platinum electrodes. The ratio of the volume of gas at the cathode to that at the anode (same conditions) is
+**Q1282.** Dilute aqueous sodium sulfate is electrolysed with platinum electrodes. The ratio of the volume of gas at the cathode to that at the anode (same conditions) is
 <!-- id: chem-4-1-7 -->
 
 - A. 1 : 1
@@ -9083,12 +9125,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 1 : 2
 - D. 4 : 1
 
-**Q1281.** Explain why sodium metal is not produced when dilute aqueous sodium chloride is electrolysed.
+**Q1283.** Explain why sodium metal is not produced when dilute aqueous sodium chloride is electrolysed.
 <!-- id: chem-4-1-8 -->
 
 *Written answer*
 
-**Q1282.** During electrolysis of aqueous copper(II) sulfate with graphite electrodes, which observation is expected over time?
+**Q1284.** During electrolysis of aqueous copper(II) sulfate with graphite electrodes, which observation is expected over time?
 <!-- id: chem-4-1-9 -->
 
 - A. The blue colour deepens and the solution becomes basic
@@ -9096,7 +9138,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. The blue colour fades and the solution becomes more acidic
 - D. A green gas forms at the anode
 
-**Q1283.** Aqueous copper(II) sulfate is electrolysed using copper electrodes. Which statement is correct?
+**Q1285.** Aqueous copper(II) sulfate is electrolysed using copper electrodes. Which statement is correct?
 <!-- id: chem-4-1-10 -->
 
 - A. Oxygen gas forms at the anode and the solution becomes acidic
@@ -9104,7 +9146,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. The concentration of Cu²⁺ decreases steadily
 - D. The anode is oxidised to Cu²⁺ and the concentration of Cu²⁺ in solution stays approximately constant
 
-**Q1284.** In the industrial electrolysis of concentrated brine, chlorine rather than oxygen is the main anode product. This is mainly because
+**Q1286.** In the industrial electrolysis of concentrated brine, chlorine rather than oxygen is the main anode product. This is mainly because
 <!-- id: chem-4-1-11 -->
 
 - A. the high Cl⁻ concentration and the large overpotential for O₂ formation favour oxidation of Cl⁻
@@ -9112,12 +9154,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. oxygen cannot be formed in any aqueous electrolysis
 - D. sodium ions block water from reaching the anode
 
-**Q1285.** Write the overall equation for the electrolysis of dilute sulfuric acid using platinum electrodes.
+**Q1287.** Write the overall equation for the electrolysis of dilute sulfuric acid using platinum electrodes.
 <!-- id: chem-4-1-12 -->
 
 *Written answer*
 
-**Q1286.** Aqueous potassium iodide is electrolysed with inert electrodes. The products at the anode and cathode respectively are
+**Q1288.** Aqueous potassium iodide is electrolysed with inert electrodes. The products at the anode and cathode respectively are
 <!-- id: chem-4-1-13 -->
 
 - A. oxygen and potassium
@@ -9125,7 +9167,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. iodine and potassium
 - D. oxygen and hydrogen
 
-**Q1287.** Aluminium is produced by electrolysing alumina dissolved in molten cryolite rather than an aqueous solution because
+**Q1289.** Aluminium is produced by electrolysing alumina dissolved in molten cryolite rather than an aqueous solution because
 <!-- id: chem-4-1-14 -->
 
 - A. Al³⁺ is a stronger oxidant than water
@@ -9133,7 +9175,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. water would be reduced in preference to Al³⁺
 - D. molten electrolytes do not conduct electricity
 
-**Q1288.** Using standard electrode potentials (Cu²⁺/Cu = +0.34 V, O₂/H₂O = +1.23 V), the theoretical minimum voltage to electrolyse aqueous CuSO₄ with inert electrodes is
+**Q1290.** Using standard electrode potentials (Cu²⁺/Cu = +0.34 V, O₂/H₂O = +1.23 V), the theoretical minimum voltage to electrolyse aqueous CuSO₄ with inert electrodes is
 <!-- id: chem-4-1-15 -->
 
 - A. 1.57 V
@@ -9141,12 +9183,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 1.23 V
 - D. 0.89 V
 
-**Q1289.** Aqueous nickel(II) sulfate is electrolysed with inert electrodes. Write the overall equation.
+**Q1291.** Aqueous nickel(II) sulfate is electrolysed with inert electrodes. Write the overall equation.
 <!-- id: chem-4-1-16 -->
 
 *Written answer*
 
-**Q1290.** In an electrolytic cell, electrons in the external circuit flow
+**Q1292.** In an electrolytic cell, electrons in the external circuit flow
 <!-- id: chem-4-1-17 -->
 
 - A. from the anode to the positive terminal of the power supply, and from the negative terminal to the cathode
@@ -9154,7 +9196,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. from the cathode through the power supply to the anode
 - D. through the electrolyte from anode to cathode
 
-**Q1291.** In an electrolytic cell, cations in the electrolyte migrate towards the
+**Q1293.** In an electrolytic cell, cations in the electrolyte migrate towards the
 <!-- id: chem-4-1-18 -->
 
 - A. anode, which is negative
@@ -9162,7 +9204,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. cathode, which is positive
 - D. anode, which is positive
 
-**Q1292.** Aqueous silver nitrate is electrolysed using platinum electrodes. The products are
+**Q1294.** Aqueous silver nitrate is electrolysed using platinum electrodes. The products are
 <!-- id: chem-4-1-19 -->
 
 - A. hydrogen at the cathode and oxygen at the anode
@@ -9170,12 +9212,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. silver at the cathode and oxygen at the anode
 - D. silver at the anode and oxygen at the cathode
 
-**Q1293.** Using E°(I₂/I⁻) = +0.54 V and E°(H₂O/H₂) = −0.83 V, calculate the minimum theoretical voltage needed to electrolyse aqueous potassium iodide.
+**Q1295.** Using E°(I₂/I⁻) = +0.54 V and E°(H₂O/H₂) = −0.83 V, calculate the minimum theoretical voltage needed to electrolyse aqueous potassium iodide.
 <!-- id: chem-4-1-20 -->
 
 *Written answer*
 
-**Q1294.** During electrolysis of aqueous sodium chloride, the pH of the solution near the cathode
+**Q1296.** During electrolysis of aqueous sodium chloride, the pH of the solution near the cathode
 <!-- id: chem-4-1-21 -->
 
 - A. decreases
@@ -9183,7 +9225,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. first increases and then returns to 7 immediately
 - D. increases
 
-**Q1295.** In the Downs cell for producing sodium from molten NaCl, calcium chloride is added mainly to
+**Q1297.** In the Downs cell for producing sodium from molten NaCl, calcium chloride is added mainly to
 <!-- id: chem-4-1-22 -->
 
 - A. lower the melting point of the electrolyte and reduce energy costs
@@ -9191,7 +9233,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. increase the melting point so sodium does not boil
 - D. provide calcium ions to be reduced instead of sodium
 
-**Q1296.** In the Downs cell, the sodium and chlorine products must be kept separated mainly because
+**Q1298.** In the Downs cell, the sodium and chlorine products must be kept separated mainly because
 <!-- id: chem-4-1-23 -->
 
 - A. chlorine dissolves in liquid sodium without reacting
@@ -9199,17 +9241,17 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. sodium is a gas at the operating temperature
 - D. chlorine would be reduced back to Cl⁻ at the anode
 
-**Q1297.** Explain why an electrolytic cell requires an external power supply.
+**Q1299.** Explain why an electrolytic cell requires an external power supply.
 <!-- id: chem-4-1-24 -->
 
 *Written answer*
 
-**Q1298.** Explain why graphite or platinum is often chosen as the electrode material in electrolysis.
+**Q1300.** Explain why graphite or platinum is often chosen as the electrode material in electrolysis.
 <!-- id: chem-4-1-25 -->
 
 *Written answer*
 
-**Q1299.** Which statement about an electrolytic cell is correct?
+**Q1301.** Which statement about an electrolytic cell is correct?
 <!-- id: chem34a2-ely-1 -->
 
 - A. Oxidation occurs at the anode, which is the positive electrode.
@@ -9217,7 +9259,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Reduction occurs at the anode, which is the positive electrode.
 - D. Reduction occurs at the cathode, which is the positive electrode.
 
-**Q1300.** Molten sodium chloride is electrolysed using inert electrodes. What are the products at the cathode and anode?
+**Q1302.** Molten sodium chloride is electrolysed using inert electrodes. What are the products at the cathode and anode?
 <!-- id: chem34a2-ely-2 -->
 
 - A. Cathode: H₂(g); anode: Cl₂(g)
@@ -9225,7 +9267,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Cathode: Cl₂(g); anode: Na(l)
 - D. Cathode: Na(l); anode: O₂(g)
 
-**Q1301.** A 1.0 M Na₂SO₄(aq) solution is electrolysed using platinum electrodes. Which products form?
+**Q1303.** A 1.0 M Na₂SO₄(aq) solution is electrolysed using platinum electrodes. Which products form?
 <!-- id: chem34a2-ely-3 -->
 
 - A. Na(s) at the cathode and SO₂(g) at the anode
@@ -9233,7 +9275,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. H₂(g) at the anode and O₂(g) at the cathode
 - D. H₂(g) at the cathode and O₂(g) at the anode, in a 2 : 1 volume ratio
 
-**Q1302.** CuSO₄(aq) is electrolysed using copper electrodes. Which statement is correct?
+**Q1304.** CuSO₄(aq) is electrolysed using copper electrodes. Which statement is correct?
 <!-- id: chem34a2-ely-4 -->
 
 - A. Oxygen gas forms at the anode and [Cu²⁺] decreases.
@@ -9241,7 +9283,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. The anode loses mass, the cathode gains mass, and [Cu²⁺] stays approximately constant.
 - D. Hydrogen forms at the cathode and the solution becomes basic.
 
-**Q1303.** Which statement correctly compares an electrolytic cell with a galvanic cell?
+**Q1305.** Which statement correctly compares an electrolytic cell with a galvanic cell?
 <!-- id: chem34a2-ely-5 -->
 
 - A. An electrolytic cell converts chemical energy into electrical energy.
@@ -9249,24 +9291,24 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Both cells require a salt bridge to function.
 - D. In both cells the cathode is the negative electrode.
 
-**Q1304.** 1.0 M KI(aq) is electrolysed with inert graphite electrodes. Using the electrochemical series, write the half-equations at each electrode, the overall equation, and one observation at each electrode. (4 marks)
+**Q1306.** 1.0 M KI(aq) is electrolysed with inert graphite electrodes. Using the electrochemical series, write the half-equations at each electrode, the overall equation, and one observation at each electrode. (4 marks)
 <!-- id: chem34a2-ely-6 -->
 
 *Written answer*
 
-**Q1305.** Explain why sodium metal is produced industrially by electrolysis of molten NaCl rather than aqueous NaCl. (2 marks)
+**Q1307.** Explain why sodium metal is produced industrially by electrolysis of molten NaCl rather than aqueous NaCl. (2 marks)
 <!-- id: chem34a2-ely-7 -->
 
 *Written answer*
 
-**Q1306.** A steel spoon is to be electroplated with silver. Describe the setup (electrode materials, polarity and electrolyte) and write the half-equations at each electrode. (3 marks)
+**Q1308.** A steel spoon is to be electroplated with silver. Describe the setup (electrode materials, polarity and electrolyte) and write the half-equations at each electrode. (3 marks)
 <!-- id: chem34a2-ely-8 -->
 
 *Written answer*
 
 #### Faraday's laws and calculations
 
-**Q1307.** A current of 2.00 A flows for 10.0 minutes. The charge passed is
+**Q1309.** A current of 2.00 A flows for 10.0 minutes. The charge passed is
 <!-- id: chem-4-2-1 -->
 
 - A. 1.20 × 10³ C
@@ -9274,7 +9316,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 1.20 × 10² C
 - D. 1.20 × 10⁴ C
 
-**Q1308.** How many moles of electrons are delivered by 9650 C of charge? (F = 96 500 C mol⁻¹)
+**Q1310.** How many moles of electrons are delivered by 9650 C of charge? (F = 96 500 C mol⁻¹)
 <!-- id: chem-4-2-2 -->
 
 - A. 1.00 mol
@@ -9282,7 +9324,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 0.0100 mol
 - D. 10.0 mol
 
-**Q1309.** What mass of copper is deposited from Cu²⁺(aq) by 0.200 mol of electrons?
+**Q1311.** What mass of copper is deposited from Cu²⁺(aq) by 0.200 mol of electrons?
 <!-- id: chem-4-2-3 -->
 
 - A. 12.7 g
@@ -9290,12 +9332,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 6.35 g
 - D. 63.5 g
 
-**Q1310.** Calculate the mass of nickel deposited from Ni²⁺(aq) when a current of 1.50 A flows for 45.0 minutes.
+**Q1312.** Calculate the mass of nickel deposited from Ni²⁺(aq) when a current of 1.50 A flows for 45.0 minutes.
 <!-- id: chem-4-2-4 -->
 
 *Written answer*
 
-**Q1311.** A current of 5.00 A passes through aqueous silver nitrate for 1.00 hour. The mass of silver deposited is closest to
+**Q1313.** A current of 5.00 A passes through aqueous silver nitrate for 1.00 hour. The mass of silver deposited is closest to
 <!-- id: chem-4-2-5 -->
 
 - A. 10.1 g
@@ -9303,7 +9345,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 40.3 g
 - D. 20.1 g
 
-**Q1312.** Faraday's first law of electrolysis states that the amount of substance produced at an electrode is
+**Q1314.** Faraday's first law of electrolysis states that the amount of substance produced at an electrode is
 <!-- id: chem-4-2-6 -->
 
 - A. directly proportional to the quantity of charge passed
@@ -9311,7 +9353,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. directly proportional to the voltage applied
 - D. independent of the time of electrolysis
 
-**Q1313.** Two cells containing AgNO₃(aq) and CuSO₄(aq) are connected in series. If 0.20 mol of silver is deposited, the amount of copper deposited is
+**Q1315.** Two cells containing AgNO₃(aq) and CuSO₄(aq) are connected in series. If 0.20 mol of silver is deposited, the amount of copper deposited is
 <!-- id: chem-4-2-7 -->
 
 - A. 0.20 mol
@@ -9319,12 +9361,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 0.40 mol
 - D. 0.050 mol
 
-**Q1314.** How long, in minutes, is needed to plate 5.00 g of silver from Ag⁺(aq) using a current of 0.750 A?
+**Q1316.** How long, in minutes, is needed to plate 5.00 g of silver from Ag⁺(aq) using a current of 0.750 A?
 <!-- id: chem-4-2-8 -->
 
 *Written answer*
 
-**Q1315.** How long would it take a current of 3.00 A to deposit 2.00 g of zinc from Zn²⁺(aq)?
+**Q1317.** How long would it take a current of 3.00 A to deposit 2.00 g of zinc from Zn²⁺(aq)?
 <!-- id: chem-4-2-9 -->
 
 - A. 16.4 min
@@ -9332,7 +9374,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 32.8 min
 - D. 1.97 min
 
-**Q1316.** The charge required to produce 1.00 kg of aluminium from Al³⁺ is closest to
+**Q1318.** The charge required to produce 1.00 kg of aluminium from Al³⁺ is closest to
 <!-- id: chem-4-2-10 -->
 
 - A. 3.57 × 10⁶ C
@@ -9340,7 +9382,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 1.07 × 10⁴ C
 - D. 1.07 × 10⁷ C
 
-**Q1317.** A current of 2.00 A for 965 s is used to produce chlorine from molten NaCl. The volume of Cl₂ at SLC (24.8 L mol⁻¹) is
+**Q1319.** A current of 2.00 A for 965 s is used to produce chlorine from molten NaCl. The volume of Cl₂ at SLC (24.8 L mol⁻¹) is
 <!-- id: chem-4-2-11 -->
 
 - A. 0.248 L
@@ -9348,12 +9390,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 0.124 L
 - D. 24.8 L
 
-**Q1318.** Calculate the volume of oxygen at SLC (24.8 L mol⁻¹) produced at the anode when water is electrolysed with a current of 3.00 A for 20.0 minutes.
+**Q1320.** Calculate the volume of oxygen at SLC (24.8 L mol⁻¹) produced at the anode when water is electrolysed with a current of 3.00 A for 20.0 minutes.
 <!-- id: chem-4-2-12 -->
 
 *Written answer*
 
-**Q1319.** A charge of 1930 C deposits 0.347 g of a metal with molar mass 52.0 g mol⁻¹. The charge on the metal ion is
+**Q1321.** A charge of 1930 C deposits 0.347 g of a metal with molar mass 52.0 g mol⁻¹. The charge on the metal ion is
 <!-- id: chem-4-2-13 -->
 
 - A. +1
@@ -9361,7 +9403,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. +2
 - D. +4
 
-**Q1320.** The Faraday constant represents
+**Q1322.** The Faraday constant represents
 <!-- id: chem-4-2-14 -->
 
 - A. the charge on a single electron
@@ -9369,7 +9411,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. the charge carried by one mole of electrons
 - D. the number of electrons in one coulomb
 
-**Q1321.** If the current in an electroplating cell is doubled and the time is halved, the mass of metal deposited will
+**Q1323.** If the current in an electroplating cell is doubled and the time is halved, the mass of metal deposited will
 <!-- id: chem-4-2-15 -->
 
 - A. double
@@ -9377,12 +9419,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. increase four times
 - D. stay the same
 
-**Q1322.** An aluminium smelter cell in Portland, Victoria operates at 150 kA for 24.0 hours. Calculate the mass of aluminium produced, in tonnes.
+**Q1324.** An aluminium smelter cell in Portland, Victoria operates at 150 kA for 24.0 hours. Calculate the mass of aluminium produced, in tonnes.
 <!-- id: chem-4-2-16 -->
 
 *Written answer*
 
-**Q1323.** When several electrolytic cells are connected in series, which quantity is the same in every cell?
+**Q1325.** When several electrolytic cells are connected in series, which quantity is the same in every cell?
 <!-- id: chem-4-2-17 -->
 
 - A. The charge passed through each cell
@@ -9390,7 +9432,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. The number of moles of product at each cathode
 - D. The voltage across each cell
 
-**Q1324.** In the electrolysis of water, 0.400 mol of electrons passes through the cell. The amount of oxygen gas produced is
+**Q1326.** In the electrolysis of water, 0.400 mol of electrons passes through the cell. The amount of oxygen gas produced is
 <!-- id: chem-4-2-18 -->
 
 - A. 0.200 mol
@@ -9398,7 +9440,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 0.400 mol
 - D. 0.800 mol
 
-**Q1325.** What current is needed to deposit 0.635 g of copper from Cu²⁺(aq) in 30.0 minutes?
+**Q1327.** What current is needed to deposit 0.635 g of copper from Cu²⁺(aq) in 30.0 minutes?
 <!-- id: chem-4-2-19 -->
 
 - A. 0.536 A
@@ -9406,12 +9448,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 1.07 A
 - D. 64.3 A
 
-**Q1326.** State Faraday's second law and illustrate it with an example.
+**Q1328.** State Faraday's second law and illustrate it with an example.
 <!-- id: chem-4-2-20 -->
 
 *Written answer*
 
-**Q1327.** How many electrons pass a point in a circuit when 1.00 C of charge flows? (e = 1.60 × 10⁻¹⁹ C)
+**Q1329.** How many electrons pass a point in a circuit when 1.00 C of charge flows? (e = 1.60 × 10⁻¹⁹ C)
 <!-- id: chem-4-2-21 -->
 
 - A. 1.60 × 10⁻¹⁹
@@ -9419,7 +9461,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 1.04 × 10⁻⁵
 - D. 6.24 × 10¹⁸
 
-**Q1328.** A current of 2.00 A is passed through CuSO₄(aq) for 1.00 hour, and 2.13 g of copper is actually deposited. The efficiency of the process is closest to
+**Q1330.** A current of 2.00 A is passed through CuSO₄(aq) for 1.00 hour, and 2.13 g of copper is actually deposited. The efficiency of the process is closest to
 <!-- id: chem-4-2-22 -->
 
 - A. 90%
@@ -9427,7 +9469,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 100%
 - D. 111%
 
-**Q1329.** The charge required to produce 0.0500 mol of hydrogen gas by reduction of water is
+**Q1331.** The charge required to produce 0.0500 mol of hydrogen gas by reduction of water is
 <!-- id: chem-4-2-23 -->
 
 - A. 4.83 × 10³ C
@@ -9435,17 +9477,17 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 1.93 × 10⁴ C
 - D. 9.65 × 10⁴ C
 
-**Q1330.** A current of 1.00 A flowing for 1930 s deposits 1.187 g of tin. Determine the charge on the tin ion in the solution.
+**Q1332.** A current of 1.00 A flowing for 1930 s deposits 1.187 g of tin. Determine the charge on the tin ion in the solution.
 <!-- id: chem-4-2-24 -->
 
 *Written answer*
 
-**Q1331.** Cells containing AgNO₃(aq) and CuSO₄(aq) are connected in series. 1.079 g of silver is deposited. Calculate the mass of copper deposited.
+**Q1333.** Cells containing AgNO₃(aq) and CuSO₄(aq) are connected in series. 1.079 g of silver is deposited. Calculate the mass of copper deposited.
 <!-- id: chem-4-2-25 -->
 
 *Written answer*
 
-**Q1332.** A current of 2.00 A flows through an electrolytic cell for 10.0 minutes. How much charge passes through the cell?
+**Q1334.** A current of 2.00 A flows through an electrolytic cell for 10.0 minutes. How much charge passes through the cell?
 <!-- id: chem34a2-far-1 -->
 
 - A. 20.0 C
@@ -9453,7 +9495,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 1.20 × 10³ C
 - D. 1.93 × 10⁵ C
 
-**Q1333.** What mass of copper is deposited at a cathode when 0.200 mol of electrons passes through CuSO₄(aq)?
+**Q1335.** What mass of copper is deposited at a cathode when 0.200 mol of electrons passes through CuSO₄(aq)?
 <!-- id: chem34a2-far-2 -->
 
 - A. 12.7 g
@@ -9461,7 +9503,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 3.18 g
 - D. 0.200 g
 
-**Q1334.** Two cells, one containing AgNO₃(aq) and one containing Cu(NO₃)₂(aq), are connected in series. 1.08 g of silver is deposited in the first cell. What mass of copper is deposited in the second?
+**Q1336.** Two cells, one containing AgNO₃(aq) and one containing Cu(NO₃)₂(aq), are connected in series. 1.08 g of silver is deposited in the first cell. What mass of copper is deposited in the second?
 <!-- id: chem34a2-far-3 -->
 
 - A. 0.318 g
@@ -9469,7 +9511,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 1.08 g
 - D. 1.27 g
 
-**Q1335.** Which statement summarises Faraday's second law of electrolysis?
+**Q1337.** Which statement summarises Faraday's second law of electrolysis?
 <!-- id: chem34a2-far-4 -->
 
 - A. The mass of product is inversely proportional to the current.
@@ -9477,7 +9519,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. To deposit one mole of a metal, the number of moles of electrons required equals the charge on the metal ion.
 - D. Equal masses of different metals are deposited by the same quantity of electricity.
 
-**Q1336.** How long would it take a current of 10.0 A to deposit 0.500 mol of aluminium from molten Al₂O₃ (Al³⁺ + 3e⁻ → Al)?
+**Q1338.** How long would it take a current of 10.0 A to deposit 0.500 mol of aluminium from molten Al₂O₃ (Al³⁺ + 3e⁻ → Al)?
 <!-- id: chem34a2-far-5 -->
 
 - A. 4.83 × 10³ s
@@ -9485,24 +9527,24 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 1.45 × 10⁴ s
 - D. 4.34 × 10⁵ s
 
-**Q1337.** A car part is chromium plated from a solution containing Cr³⁺ ions using a current of 3.50 A for 45.0 minutes. Calculate the mass of chromium deposited. (3 marks)
+**Q1339.** A car part is chromium plated from a solution containing Cr³⁺ ions using a current of 3.50 A for 45.0 minutes. Calculate the mass of chromium deposited. (3 marks)
 <!-- id: chem34a2-far-6 -->
 
 *Written answer*
 
-**Q1338.** A current of 0.500 A was passed through a solution of a nickel salt for 1930 s, depositing 0.300 g of nickel. Use this data to determine the charge on the nickel ion. (3 marks)
+**Q1340.** A current of 0.500 A was passed through a solution of a nickel salt for 1930 s, depositing 0.300 g of nickel. Use this data to determine the charge on the nickel ion. (3 marks)
 <!-- id: chem34a2-far-7 -->
 
 *Written answer*
 
-**Q1339.** Molten NaCl is electrolysed with a current of 5.00 A for 2.00 hours. Calculate the volume of chlorine gas produced, measured at SLC. (3 marks)
+**Q1341.** Molten NaCl is electrolysed with a current of 5.00 A for 2.00 hours. Calculate the volume of chlorine gas produced, measured at SLC. (3 marks)
 <!-- id: chem34a2-far-8 -->
 
 *Written answer*
 
 #### Rechargeable (secondary) cells
 
-**Q1340.** While a secondary cell is being recharged, it operates as
+**Q1342.** While a secondary cell is being recharged, it operates as
 <!-- id: chem-4-3-1 -->
 
 - A. an electrolytic cell
@@ -9510,7 +9552,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. a fuel cell
 - D. a primary cell
 
-**Q1341.** Which property is essential for a cell to be rechargeable?
+**Q1343.** Which property is essential for a cell to be rechargeable?
 <!-- id: chem-4-3-2 -->
 
 - A. The electrolyte must be aqueous
@@ -9518,7 +9560,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. The products must be gases that escape
 - D. The anode must be made of an inert metal
 
-**Q1342.** During recharging, the electrode that acted as the anode during discharge
+**Q1344.** During recharging, the electrode that acted as the anode during discharge
 <!-- id: chem-4-3-3 -->
 
 - A. remains the anode and is connected to the positive terminal
@@ -9526,12 +9568,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. becomes the cathode and is connected to the negative terminal of the charger
 - D. remains the anode and is connected to the negative terminal
 
-**Q1343.** Write the overall equation for the discharge of a lead–acid battery.
+**Q1345.** Write the overall equation for the discharge of a lead–acid battery.
 <!-- id: chem-4-3-4 -->
 
 *Written answer*
 
-**Q1344.** The half-equation at the anode during discharge of a lead–acid battery is
+**Q1346.** The half-equation at the anode during discharge of a lead–acid battery is
 <!-- id: chem-4-3-5 -->
 
 - A. PbO₂(s) + SO₄²⁻(aq) + 4H⁺(aq) + 2e⁻ → PbSO₄(s) + 2H₂O(l)
@@ -9539,7 +9581,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Pb²⁺(aq) + 2e⁻ → Pb(s)
 - D. Pb(s) + SO₄²⁻(aq) → PbSO₄(s) + 2e⁻
 
-**Q1345.** The half-equation at the cathode during discharge of a lead–acid battery is
+**Q1347.** The half-equation at the cathode during discharge of a lead–acid battery is
 <!-- id: chem-4-3-6 -->
 
 - A. PbO₂(s) + SO₄²⁻(aq) + 4H⁺(aq) + 2e⁻ → PbSO₄(s) + 2H₂O(l)
@@ -9547,7 +9589,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 2H⁺(aq) + 2e⁻ → H₂(g)
 - D. PbSO₄(s) + 2H₂O(l) → PbO₂(s) + SO₄²⁻(aq) + 4H⁺(aq) + 2e⁻
 
-**Q1346.** As a car's lead–acid battery discharges, the density of the electrolyte
+**Q1348.** As a car's lead–acid battery discharges, the density of the electrolyte
 <!-- id: chem-4-3-7 -->
 
 - A. increases because water is consumed
@@ -9555,12 +9597,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. stays constant because the reaction is reversible
 - D. increases because PbSO₄ dissolves
 
-**Q1347.** Explain why the PbSO₄ formed during discharge in a lead–acid battery allows the battery to be recharged.
+**Q1349.** Explain why the PbSO₄ formed during discharge in a lead–acid battery allows the battery to be recharged.
 <!-- id: chem-4-3-8 -->
 
 *Written answer*
 
-**Q1348.** When a lithium-ion battery in a mobile phone discharges, lithium ions move
+**Q1350.** When a lithium-ion battery in a mobile phone discharges, lithium ions move
 <!-- id: chem-4-3-9 -->
 
 - A. from the metal oxide electrode to the graphite electrode
@@ -9568,7 +9610,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. from the graphite electrode to the metal oxide electrode
 - D. only within the graphite electrode
 
-**Q1349.** Which half-equation occurs at the negative electrode during discharge of a lithium-ion cell?
+**Q1351.** Which half-equation occurs at the negative electrode during discharge of a lithium-ion cell?
 <!-- id: chem-4-3-10 -->
 
 - A. Li⁺ + C₆ + e⁻ → LiC₆
@@ -9576,7 +9618,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 2Li + 2H₂O → 2LiOH + H₂
 - D. LiC₆ → Li⁺ + C₆ + e⁻
 
-**Q1350.** Lithium is particularly suited to batteries for electric vehicles mainly because it
+**Q1352.** Lithium is particularly suited to batteries for electric vehicles mainly because it
 <!-- id: chem-4-3-11 -->
 
 - A. has a low molar mass and a very low reduction potential, giving a high voltage and energy density
@@ -9584,12 +9626,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. is unreactive with air and water
 - D. has a very high reduction potential, making it a strong oxidant
 
-**Q1351.** Write the half-equation at the graphite electrode while a lithium-ion battery is being recharged.
+**Q1353.** Write the half-equation at the graphite electrode while a lithium-ion battery is being recharged.
 <!-- id: chem-4-3-12 -->
 
 *Written answer*
 
-**Q1352.** The electrolyte in a lithium-ion battery is non-aqueous because
+**Q1354.** The electrolyte in a lithium-ion battery is non-aqueous because
 <!-- id: chem-4-3-13 -->
 
 - A. water would not conduct electricity
@@ -9597,7 +9639,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. lithium salts are insoluble in water
 - D. water would make the battery too heavy
 
-**Q1353.** To recharge a battery, the positive terminal of the charger must be connected to
+**Q1355.** To recharge a battery, the positive terminal of the charger must be connected to
 <!-- id: chem-4-3-14 -->
 
 - A. the negative electrode of the battery, which becomes the anode
@@ -9605,7 +9647,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. the positive electrode of the battery, which becomes the anode during recharging
 - D. either electrode, as polarity does not matter
 
-**Q1354.** A rechargeable battery gradually loses capacity after hundreds of cycles. A likely reason is
+**Q1356.** A rechargeable battery gradually loses capacity after hundreds of cycles. A likely reason is
 <!-- id: chem-4-3-15 -->
 
 - A. the Faraday constant changes with use
@@ -9613,12 +9655,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. the electrolyte becomes a stronger oxidant over time
 - D. side reactions and physical changes to the electrodes reduce the amount of reactant that can be regenerated
 
-**Q1355.** Explain why the charger voltage must be greater than the battery's voltage during recharging.
+**Q1357.** Explain why the charger voltage must be greater than the battery's voltage during recharging.
 <!-- id: chem-4-3-16 -->
 
 *Written answer*
 
-**Q1356.** Overcharging a lead–acid battery can produce gases. These gases are
+**Q1358.** Overcharging a lead–acid battery can produce gases. These gases are
 <!-- id: chem-4-3-17 -->
 
 - A. hydrogen and oxygen
@@ -9626,7 +9668,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. sulfur dioxide and oxygen
 - D. carbon dioxide and hydrogen
 
-**Q1357.** In a nickel–metal hydride (NiMH) cell, the half-equation at the anode during discharge is
+**Q1359.** In a nickel–metal hydride (NiMH) cell, the half-equation at the anode during discharge is
 <!-- id: chem-4-3-18 -->
 
 - A. M + H₂O + e⁻ → MH + OH⁻
@@ -9634,7 +9676,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. NiOOH + H₂O + e⁻ → Ni(OH)₂ + OH⁻
 - D. Ni²⁺ + 2e⁻ → Ni
 
-**Q1358.** Which equation represents the overall reaction when a lead–acid battery is recharged?
+**Q1360.** Which equation represents the overall reaction when a lead–acid battery is recharged?
 <!-- id: chem-4-3-19 -->
 
 - A. Pb + PbO₂ + 4H⁺ + 2SO₄²⁻ → 2PbSO₄ + 2H₂O
@@ -9642,12 +9684,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 2PbSO₄ + 2H₂O → Pb + PbO₂ + 4H⁺ + 2SO₄²⁻
 - D. Pb + SO₄²⁻ → PbSO₄ + 2e⁻
 
-**Q1359.** Explain how the labels anode/cathode and the polarity of each electrode change when a rechargeable battery switches from discharge to recharge.
+**Q1361.** Explain how the labels anode/cathode and the polarity of each electrode change when a rechargeable battery switches from discharge to recharge.
 <!-- id: chem-4-3-20 -->
 
 *Written answer*
 
-**Q1360.** In a lithium-ion cell with a LiCoO₂ cathode, what is reduced at the cathode during discharge?
+**Q1362.** In a lithium-ion cell with a LiCoO₂ cathode, what is reduced at the cathode during discharge?
 <!-- id: chem-4-3-21 -->
 
 - A. Lithium, from +1 to 0
@@ -9655,7 +9697,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Carbon in the graphite
 - D. Cobalt, from the +4 to the +3 oxidation state
 
-**Q1361.** Which of the following is a primary (non-rechargeable) cell?
+**Q1363.** Which of the following is a primary (non-rechargeable) cell?
 <!-- id: chem-4-3-22 -->
 
 - A. Alkaline zinc–manganese dioxide cell
@@ -9663,7 +9705,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Lithium-ion cell
 - D. Nickel–metal hydride cell
 
-**Q1362.** During discharge of a lead–acid battery, the oxidation number of lead at the positive electrode changes from
+**Q1364.** During discharge of a lead–acid battery, the oxidation number of lead at the positive electrode changes from
 <!-- id: chem-4-3-23 -->
 
 - A. 0 to +2
@@ -9671,17 +9713,17 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. +2 to +4
 - D. +2 to 0
 
-**Q1363.** A standard car battery is labelled 12 V. Each lead–acid cell produces about 2 V. Explain how the battery achieves 12 V.
+**Q1365.** A standard car battery is labelled 12 V. Each lead–acid cell produces about 2 V. Explain how the battery achieves 12 V.
 <!-- id: chem-4-3-24 -->
 
 *Written answer*
 
-**Q1364.** Give one advantage and one disadvantage of lithium-ion batteries for electric vehicles in Australia.
+**Q1366.** Give one advantage and one disadvantage of lithium-ion batteries for electric vehicles in Australia.
 <!-- id: chem-4-3-25 -->
 
 *Written answer*
 
-**Q1365.** When a rechargeable (secondary) cell is being recharged, which statement is correct?
+**Q1367.** When a rechargeable (secondary) cell is being recharged, which statement is correct?
 <!-- id: chem34a2-bat-1 -->
 
 - A. It operates as a galvanic cell, and the electrode polarities reverse.
@@ -9689,7 +9731,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. The negative terminal of the charger is connected to the positive electrode of the cell.
 - D. The spontaneous discharge reaction runs faster.
 
-**Q1366.** Why can a lead–acid car battery be recharged, while a standard alkaline cell is not designed to be?
+**Q1368.** Why can a lead–acid car battery be recharged, while a standard alkaline cell is not designed to be?
 <!-- id: chem34a2-bat-2 -->
 
 - A. The lead–acid battery has a higher voltage.
@@ -9697,7 +9739,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. The discharge product PbSO₄(s) stays in contact with the electrodes, so it can be converted back into reactants.
 - D. Lead is a stronger oxidant than zinc.
 
-**Q1367.** Overall discharge reaction of a lead–acid battery: Pb(s) + PbO₂(s) + 4H⁺(aq) + 2SO₄²⁻(aq) → 2PbSO₄(s) + 2H₂O(l). As the battery discharges, what happens to the electrolyte?
+**Q1369.** Overall discharge reaction of a lead–acid battery: Pb(s) + PbO₂(s) + 4H⁺(aq) + 2SO₄²⁻(aq) → 2PbSO₄(s) + 2H₂O(l). As the battery discharges, what happens to the electrolyte?
 <!-- id: chem34a2-bat-3 -->
 
 - A. Its pH decreases and its density increases.
@@ -9705,7 +9747,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. It turns blue as Pb²⁺ ions accumulate.
 - D. Its sulfuric acid concentration and density decrease.
 
-**Q1368.** During discharge of a lithium-ion battery, which describes the movement of lithium ions?
+**Q1370.** During discharge of a lithium-ion battery, which describes the movement of lithium ions?
 <!-- id: chem34a2-bat-4 -->
 
 - A. Li⁺ ions move from the graphite anode through the electrolyte to the metal oxide cathode.
@@ -9713,7 +9755,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Li⁺ ions move through the external circuit with the electrons.
 - D. Li atoms move through the separator to the anode.
 
-**Q1369.** Which factor best explains why a rechargeable battery gradually loses its capacity after many charge–discharge cycles?
+**Q1371.** Which factor best explains why a rechargeable battery gradually loses its capacity after many charge–discharge cycles?
 <!-- id: chem34a2-bat-5 -->
 
 - A. The electrolyte is converted into electrons.
@@ -9721,24 +9763,24 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. The value of E° for each half-cell steadily increases.
 - D. The battery runs as a fuel cell after many cycles.
 
-**Q1370.** A lithium-ion cell discharges according to: anode LiC₆(s) → C₆(s) + Li⁺ + e⁻; cathode CoO₂(s) + Li⁺ + e⁻ → LiCoO₂(s). (a) Write the half-equation occurring at the graphite electrode during recharging. (b) State which terminal of the charger the graphite electrode is connected to, and explain. (3 marks)
+**Q1372.** A lithium-ion cell discharges according to: anode LiC₆(s) → C₆(s) + Li⁺ + e⁻; cathode CoO₂(s) + Li⁺ + e⁻ → LiCoO₂(s). (a) Write the half-equation occurring at the graphite electrode during recharging. (b) State which terminal of the charger the graphite electrode is connected to, and explain. (3 marks)
 <!-- id: chem34a2-bat-6 -->
 
 *Written answer*
 
-**Q1371.** Write the overall equation for recharging a lead–acid battery, and identify the species oxidised and the species reduced during recharging. (3 marks)
+**Q1373.** Write the overall equation for recharging a lead–acid battery, and identify the species oxidised and the species reduced during recharging. (3 marks)
 <!-- id: chem34a2-bat-7 -->
 
 *Written answer*
 
-**Q1372.** Explain why lithium-ion batteries use a non-aqueous electrolyte, and give one safety concern associated with them. (2 marks)
+**Q1374.** Explain why lithium-ion batteries use a non-aqueous electrolyte, and give one safety concern associated with them. (2 marks)
 <!-- id: chem34a2-bat-8 -->
 
 *Written answer*
 
 #### Electroplating and comparing cell types
 
-**Q1373.** To electroplate a brass key with silver, the key should be
+**Q1375.** To electroplate a brass key with silver, the key should be
 <!-- id: chem-4-4-1 -->
 
 - A. the cathode, connected to the negative terminal
@@ -9746,7 +9788,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. the cathode, connected to the positive terminal
 - D. the anode, connected to the negative terminal
 
-**Q1374.** In silver plating, the anode is usually made of
+**Q1376.** In silver plating, the anode is usually made of
 <!-- id: chem-4-4-2 -->
 
 - A. graphite
@@ -9754,7 +9796,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. the object being plated
 - D. platinum
 
-**Q1375.** A suitable electrolyte for silver electroplating is a solution containing
+**Q1377.** A suitable electrolyte for silver electroplating is a solution containing
 <!-- id: chem-4-4-3 -->
 
 - A. sodium chloride
@@ -9762,12 +9804,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. silver ions, such as silver nitrate
 - D. dilute sulfuric acid only
 
-**Q1376.** Describe how a steel spoon could be electroplated with nickel. Include the electrodes, electrolyte and half-equations.
+**Q1378.** Describe how a steel spoon could be electroplated with nickel. Include the electrodes, electrolyte and half-equations.
 <!-- id: chem-4-4-4 -->
 
 *Written answer*
 
-**Q1377.** When an object is copper-plated using a copper anode and CuSO₄(aq) electrolyte, the concentration of Cu²⁺(aq)
+**Q1379.** When an object is copper-plated using a copper anode and CuSO₄(aq) electrolyte, the concentration of Cu²⁺(aq)
 <!-- id: chem-4-4-5 -->
 
 - A. decreases steadily
@@ -9775,7 +9817,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. falls to zero
 - D. remains approximately constant
 
-**Q1378.** In electrolytic refining of copper, silver and gold impurities in the impure anode
+**Q1380.** In electrolytic refining of copper, silver and gold impurities in the impure anode
 <!-- id: chem-4-4-6 -->
 
 - A. fall to the bottom of the cell as anode sludge
@@ -9783,7 +9825,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. are oxidised and remain dissolved in solution
 - D. form gases at the anode
 
-**Q1379.** In copper refining, zinc impurities in the anode
+**Q1381.** In copper refining, zinc impurities in the anode
 <!-- id: chem-4-4-7 -->
 
 - A. fall to the bottom as sludge
@@ -9791,12 +9833,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. are deposited at the cathode with copper
 - D. are reduced to zinc at the anode
 
-**Q1380.** A watch is gold-plated from a solution containing Au(I) ions using 0.200 A for 15.0 minutes. Calculate the mass of gold deposited.
+**Q1382.** A watch is gold-plated from a solution containing Au(I) ions using 0.200 A for 15.0 minutes. Calculate the mass of gold deposited.
 <!-- id: chem-4-4-8 -->
 
 *Written answer*
 
-**Q1381.** Which statement correctly compares the anode in galvanic and electrolytic cells?
+**Q1383.** Which statement correctly compares the anode in galvanic and electrolytic cells?
 <!-- id: chem-4-4-9 -->
 
 - A. The anode is positive in both cells
@@ -9804,7 +9846,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. The anode is negative in a galvanic cell and positive in an electrolytic cell
 - D. The anode is positive in a galvanic cell and negative in an electrolytic cell
 
-**Q1382.** Which statement about spontaneity is correct?
+**Q1384.** Which statement about spontaneity is correct?
 <!-- id: chem-4-4-10 -->
 
 - A. Both types of cell involve spontaneous reactions
@@ -9812,7 +9854,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Neither type of cell involves redox reactions
 - D. Galvanic cell reactions are spontaneous; electrolytic cell reactions are non-spontaneous
 
-**Q1383.** A feature common to both galvanic and electrolytic cells is that
+**Q1385.** A feature common to both galvanic and electrolytic cells is that
 <!-- id: chem-4-4-11 -->
 
 - A. reduction occurs at the cathode
@@ -9820,12 +9862,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. an external power supply is required
 - D. a salt bridge is always required
 
-**Q1384.** Compare galvanic and electrolytic cells in terms of energy conversion and the polarity of the anode.
+**Q1386.** Compare galvanic and electrolytic cells in terms of energy conversion and the polarity of the anode.
 <!-- id: chem-4-4-12 -->
 
 *Written answer*
 
-**Q1385.** The energy transformation in a galvanic cell is
+**Q1387.** The energy transformation in a galvanic cell is
 <!-- id: chem-4-4-13 -->
 
 - A. electrical energy to chemical energy
@@ -9833,7 +9875,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. electrical energy to light energy
 - D. thermal energy to chemical energy
 
-**Q1386.** Why does a typical electrolytic cell not need a salt bridge, whereas a galvanic cell does?
+**Q1388.** Why does a typical electrolytic cell not need a salt bridge, whereas a galvanic cell does?
 <!-- id: chem-4-4-14 -->
 
 - A. Electrolytic cells do not need ions to move
@@ -9841,7 +9883,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. In a galvanic cell the half-cells are separated to stop direct reaction, so a salt bridge completes the circuit; electrolytic electrodes usually share one electrolyte
 - D. Galvanic cells have no electrolyte
 
-**Q1387.** An object is being chrome-plated from a Cr³⁺ solution. The half-equation at the object is
+**Q1389.** An object is being chrome-plated from a Cr³⁺ solution. The half-equation at the object is
 <!-- id: chem-4-4-15 -->
 
 - A. Cr(s) → Cr³⁺(aq) + 3e⁻
@@ -9849,12 +9891,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Cr³⁺(aq) → Cr⁶⁺(aq) + 3e⁻
 - D. Cr³⁺(aq) + 3e⁻ → Cr(s)
 
-**Q1388.** Explain why the copper deposited at the cathode in electrolytic refining is purer than the anode.
+**Q1390.** Explain why the copper deposited at the cathode in electrolytic refining is purer than the anode.
 <!-- id: chem-4-4-16 -->
 
 *Written answer*
 
-**Q1389.** Before nickel plating, the steel object is thoroughly cleaned. The main reason is to
+**Q1391.** Before nickel plating, the steel object is thoroughly cleaned. The main reason is to
 <!-- id: chem-4-4-17 -->
 
 - A. ensure the plated metal adheres evenly to the surface
@@ -9862,7 +9904,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. make the object the anode
 - D. prevent nickel ions forming
 
-**Q1390.** In ideal silver plating using a silver anode, how does the mass lost by the anode compare with the mass gained by the cathode?
+**Q1392.** In ideal silver plating using a silver anode, how does the mass lost by the anode compare with the mass gained by the cathode?
 <!-- id: chem-4-4-18 -->
 
 - A. The anode loses twice the mass gained by the cathode
@@ -9870,7 +9912,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. The cathode gains twice the mass lost by the anode
 - D. The anode does not lose mass
 
-**Q1391.** For the electrolysis of a solution to occur, the applied voltage must be
+**Q1393.** For the electrolysis of a solution to occur, the applied voltage must be
 <!-- id: chem-4-4-19 -->
 
 - A. less than the cell's E° difference
@@ -9878,12 +9920,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. greater than the difference between the E° values of the couples involved
 - D. equal to the Faraday constant
 
-**Q1392.** Explain why an inert graphite anode is not used when copper-plating an object from CuSO₄(aq).
+**Q1394.** Explain why an inert graphite anode is not used when copper-plating an object from CuSO₄(aq).
 <!-- id: chem-4-4-20 -->
 
 *Written answer*
 
-**Q1393.** Steel sheet can be electroplated with zinc. Zinc continues to protect the steel even when the coating is scratched because
+**Q1395.** Steel sheet can be electroplated with zinc. Zinc continues to protect the steel even when the coating is scratched because
 <!-- id: chem-4-4-21 -->
 
 - A. zinc is a weaker reductant than iron
@@ -9891,7 +9933,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. iron is plated over the zinc
 - D. zinc is a stronger reductant than iron and is oxidised in preference
 
-**Q1394.** Which change would increase the rate at which metal is deposited in an electroplating cell (assuming no side reactions)?
+**Q1396.** Which change would increase the rate at which metal is deposited in an electroplating cell (assuming no side reactions)?
 <!-- id: chem-4-4-22 -->
 
 - A. Increasing the current
@@ -9899,7 +9941,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Using a larger anode at the same current
 - D. Adding more water to dilute the electrolyte
 
-**Q1395.** In both galvanic and electrolytic cells, anions in the electrolyte migrate towards the
+**Q1397.** In both galvanic and electrolytic cells, anions in the electrolyte migrate towards the
 <!-- id: chem-4-4-23 -->
 
 - A. cathode
@@ -9907,12 +9949,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. power supply
 - D. salt bridge only in electrolytic cells
 
-**Q1396.** A plate with surface area 50.0 cm² is silver-plated using 2.00 A for 30.0 minutes. Given the density of silver is 10.5 g cm⁻³, calculate the thickness of the silver layer in micrometres.
+**Q1398.** A plate with surface area 50.0 cm² is silver-plated using 2.00 A for 30.0 minutes. Given the density of silver is 10.5 g cm⁻³, calculate the thickness of the silver layer in micrometres.
 <!-- id: chem-4-4-24 -->
 
 *Written answer*
 
-**Q1397.** State the polarity of the cathode in a galvanic cell and in an electrolytic cell, and explain the difference.
+**Q1399.** State the polarity of the cathode in a galvanic cell and in an electrolytic cell, and explain the difference.
 <!-- id: chem-4-4-25 -->
 
 *Written answer*
@@ -9921,7 +9963,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 #### IUPAC naming and functional groups
 
-**Q1398.** What is the IUPAC name of CH₃CH₂CH₂OH?
+**Q1400.** What is the IUPAC name of CH₃CH₂CH₂OH?
 <!-- id: chem-5-1-1 -->
 
 - A. propan-1-ol
@@ -9929,7 +9971,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. propanal
 - D. propanoic acid
 
-**Q1399.** What is the IUPAC name of CH₃CH(OH)CH₃?
+**Q1401.** What is the IUPAC name of CH₃CH(OH)CH₃?
 <!-- id: chem-5-1-2 -->
 
 - A. propan-1-ol
@@ -9937,7 +9979,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. propanone
 - D. 1-methylethanol
 
-**Q1400.** What is the IUPAC name of CH₃CH₂COOH?
+**Q1402.** What is the IUPAC name of CH₃CH₂COOH?
 <!-- id: chem-5-1-3 -->
 
 - A. ethanoic acid
@@ -9945,7 +9987,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. propanoic acid
 - D. propanal
 
-**Q1401.** What is the IUPAC name of CH₃CH₂CHO?
+**Q1403.** What is the IUPAC name of CH₃CH₂CHO?
 <!-- id: chem-5-1-4 -->
 
 - A. propanone
@@ -9953,7 +9995,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. propanoic acid
 - D. propanal
 
-**Q1402.** What is the IUPAC name of CH₃COCH₂CH₃?
+**Q1404.** What is the IUPAC name of CH₃COCH₂CH₃?
 <!-- id: chem-5-1-5 -->
 
 - A. butan-2-one
@@ -9961,7 +10003,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. butan-2-ol
 - D. propanone
 
-**Q1403.** What is the IUPAC name of CH₃CH=CHCH₃?
+**Q1405.** What is the IUPAC name of CH₃CH=CHCH₃?
 <!-- id: chem-5-1-6 -->
 
 - A. but-1-ene
@@ -9969,7 +10011,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. butane
 - D. but-3-ene
 
-**Q1404.** What is the IUPAC name of CH₃CH(CH₃)CH₂CH₃?
+**Q1406.** What is the IUPAC name of CH₃CH(CH₃)CH₂CH₃?
 <!-- id: chem-5-1-7 -->
 
 - A. 3-methylbutane
@@ -9977,7 +10019,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 2-methylbutane
 - D. 2-ethylpropane
 
-**Q1405.** What is the IUPAC name of CH₃CH₂CH₂CH₂Cl?
+**Q1407.** What is the IUPAC name of CH₃CH₂CH₂CH₂Cl?
 <!-- id: chem-5-1-8 -->
 
 - A. 4-chlorobutane
@@ -9985,7 +10027,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 2-chlorobutane
 - D. 1-chlorobutane
 
-**Q1406.** What is the IUPAC name of CH₃CH₂NH₂?
+**Q1408.** What is the IUPAC name of CH₃CH₂NH₂?
 <!-- id: chem-5-1-9 -->
 
 - A. ethanamine
@@ -9993,7 +10035,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. methanamine
 - D. ethylamide
 
-**Q1407.** What is the IUPAC name of CH₃CONH₂?
+**Q1409.** What is the IUPAC name of CH₃CONH₂?
 <!-- id: chem-5-1-10 -->
 
 - A. ethanamine
@@ -10001,7 +10043,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. methanamide
 - D. propanamide
 
-**Q1408.** What is the IUPAC name of CH₃COOCH₂CH₃?
+**Q1410.** What is the IUPAC name of CH₃COOCH₂CH₃?
 <!-- id: chem-5-1-11 -->
 
 - A. methyl propanoate
@@ -10009,7 +10051,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. ethyl ethanoate
 - D. propyl ethanoate
 
-**Q1409.** Which functional group is characteristic of all alcohols?
+**Q1411.** Which functional group is characteristic of all alcohols?
 <!-- id: chem-5-1-12 -->
 
 - A. carboxyl group (–COOH)
@@ -10017,7 +10059,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. amino group (–NH₂)
 - D. hydroxyl group (–OH)
 
-**Q1410.** Which of the following compounds contains a carbonyl (C=O) functional group?
+**Q1412.** Which of the following compounds contains a carbonyl (C=O) functional group?
 <!-- id: chem-5-1-13 -->
 
 - A. propanone
@@ -10025,7 +10067,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. ethene
 - D. chloroethane
 
-**Q1411.** Butan-2-ol, CH₃CH(OH)CH₂CH₃, is classified as which type of alcohol?
+**Q1413.** Butan-2-ol, CH₃CH(OH)CH₂CH₃, is classified as which type of alcohol?
 <!-- id: chem-5-1-14 -->
 
 - A. primary
@@ -10033,7 +10075,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. tertiary
 - D. quaternary
 
-**Q1412.** 2-Methylpropan-2-ol, (CH₃)₃COH, is classified as which type of alcohol?
+**Q1414.** 2-Methylpropan-2-ol, (CH₃)₃COH, is classified as which type of alcohol?
 <!-- id: chem-5-1-15 -->
 
 - A. primary
@@ -10041,7 +10083,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. tertiary
 - D. an aldehyde
 
-**Q1413.** What is the IUPAC name of CH₃CH₂CH(CH₃)CH₂OH?
+**Q1415.** What is the IUPAC name of CH₃CH₂CH(CH₃)CH₂OH?
 <!-- id: chem-5-1-16 -->
 
 - A. 3-methylbutan-1-ol
@@ -10049,7 +10091,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 2-ethylpropan-1-ol
 - D. 2-methylbutan-1-ol
 
-**Q1414.** Which general formula represents the alkane homologous series?
+**Q1416.** Which general formula represents the alkane homologous series?
 <!-- id: chem-5-1-17 -->
 
 - A. CₙH₂ₙ₊₂
@@ -10057,7 +10099,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. CₙH₂ₙ₋₂
 - D. CₙH₂ₙ₊₁OH
 
-**Q1415.** What is the IUPAC name of CH₃CHClCH₂CH₃?
+**Q1417.** What is the IUPAC name of CH₃CHClCH₂CH₃?
 <!-- id: chem-5-1-18 -->
 
 - A. 3-chlorobutane
@@ -10065,42 +10107,42 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 2-chloropropane
 - D. 1-chlorobutane
 
-**Q1416.** Give the IUPAC name of CH₃CH₂CH₂CH₂CH₂OH.
+**Q1418.** Give the IUPAC name of CH₃CH₂CH₂CH₂CH₂OH.
 <!-- id: chem-5-1-19 -->
 
 *Written answer*
 
-**Q1417.** Write the condensed structural formula of 3-methylpentane.
+**Q1419.** Write the condensed structural formula of 3-methylpentane.
 <!-- id: chem-5-1-20 -->
 
 *Written answer*
 
-**Q1418.** A student names a compound '3-methylbutane'. Explain why this name is incorrect and give the correct name.
+**Q1420.** A student names a compound '3-methylbutane'. Explain why this name is incorrect and give the correct name.
 <!-- id: chem-5-1-21 -->
 
 *Written answer*
 
-**Q1419.** Give the IUPAC name of HCOOCH₃.
+**Q1421.** Give the IUPAC name of HCOOCH₃.
 <!-- id: chem-5-1-22 -->
 
 *Written answer*
 
-**Q1420.** Lactic acid, found in sour milk and fatigued muscles, has the formula CH₃CH(OH)COOH. Identify its two functional groups and give its IUPAC name.
+**Q1422.** Lactic acid, found in sour milk and fatigued muscles, has the formula CH₃CH(OH)COOH. Identify its two functional groups and give its IUPAC name.
 <!-- id: chem-5-1-23 -->
 
 *Written answer*
 
-**Q1421.** Give the molecular formula of heptan-1-ol.
+**Q1423.** Give the molecular formula of heptan-1-ol.
 <!-- id: chem-5-1-24 -->
 
 *Written answer*
 
-**Q1422.** Ethanol (M = 46 g/mol) boils at 78 °C, whereas propane (M = 44 g/mol) boils at –42 °C. Explain the difference.
+**Q1424.** Ethanol (M = 46 g/mol) boils at 78 °C, whereas propane (M = 44 g/mol) boils at –42 °C. Explain the difference.
 <!-- id: chem-5-1-25 -->
 
 *Written answer*
 
-**Q1423.** What is the IUPAC name of CH₃CH(CH₃)CH₂CH₃?
+**Q1425.** What is the IUPAC name of CH₃CH(CH₃)CH₂CH₃?
 <!-- id: chem34a2-nom-1 -->
 
 - A. Pentane
@@ -10108,7 +10150,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 3-methylbutane
 - D. 2-ethylpropane
 
-**Q1424.** What is the IUPAC name of CH₃CH₂CH(OH)CH₃?
+**Q1426.** What is the IUPAC name of CH₃CH₂CH(OH)CH₃?
 <!-- id: chem34a2-nom-2 -->
 
 - A. Butan-1-ol
@@ -10116,7 +10158,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 2-hydroxybutane
 - D. Butan-2-ol
 
-**Q1425.** What is the IUPAC name of CH₃COOCH₂CH₃?
+**Q1427.** What is the IUPAC name of CH₃COOCH₂CH₃?
 <!-- id: chem34a2-nom-3 -->
 
 - A. Ethyl ethanoate
@@ -10124,7 +10166,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Propyl methanoate
 - D. Ethyl methanoate
 
-**Q1426.** What is the IUPAC name of CH₃CH(NH₂)CH₃?
+**Q1428.** What is the IUPAC name of CH₃CH(NH₂)CH₃?
 <!-- id: chem34a2-nom-4 -->
 
 - A. Propan-1-amine
@@ -10132,7 +10174,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 2-methylethanamine
 - D. Aminopropane-1
 
-**Q1427.** What is the IUPAC name of CH₃CH=C(CH₃)CH₃?
+**Q1429.** What is the IUPAC name of CH₃CH=C(CH₃)CH₃?
 <!-- id: chem34a2-nom-5 -->
 
 - A. 3-methylbut-2-ene
@@ -10140,24 +10182,24 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 2-methylbut-2-ene
 - D. Pent-2-ene
 
-**Q1428.** Write the semi-structural (condensed) formula for (a) 3-methylpentanoic acid and (b) 1,2-dichloropropane. (2 marks)
+**Q1430.** Write the semi-structural (condensed) formula for (a) 3-methylpentanoic acid and (b) 1,2-dichloropropane. (2 marks)
 <!-- id: chem34a2-nom-6 -->
 
 *Written answer*
 
-**Q1429.** A student named a compound '2-ethylbutane'. Explain why this name is incorrect and give the correct IUPAC name. (2 marks)
+**Q1431.** A student named a compound '2-ethylbutane'. Explain why this name is incorrect and give the correct IUPAC name. (2 marks)
 <!-- id: chem34a2-nom-7 -->
 
 *Written answer*
 
-**Q1430.** Propan-1-ol reacts with butanoic acid. Name the ester produced and write its semi-structural formula. (2 marks)
+**Q1432.** Propan-1-ol reacts with butanoic acid. Name the ester produced and write its semi-structural formula. (2 marks)
 <!-- id: chem34a2-nom-8 -->
 
 *Written answer*
 
 #### Structural and stereoisomers
 
-**Q1431.** How many structural isomers have the molecular formula C₄H₁₀?
+**Q1433.** How many structural isomers have the molecular formula C₄H₁₀?
 <!-- id: chem-5-2-1 -->
 
 - A. 1
@@ -10165,7 +10207,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 2
 - D. 4
 
-**Q1432.** How many structural isomers have the molecular formula C₅H₁₂?
+**Q1434.** How many structural isomers have the molecular formula C₅H₁₂?
 <!-- id: chem-5-2-2 -->
 
 - A. 2
@@ -10173,7 +10215,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 5
 - D. 3
 
-**Q1433.** How many structural isomers have the molecular formula C₆H₁₄?
+**Q1435.** How many structural isomers have the molecular formula C₆H₁₄?
 <!-- id: chem-5-2-3 -->
 
 - A. 5
@@ -10181,7 +10223,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 6
 - D. 3
 
-**Q1434.** Which pair of compounds are structural isomers?
+**Q1436.** Which pair of compounds are structural isomers?
 <!-- id: chem-5-2-4 -->
 
 - A. butan-1-ol and butanal
@@ -10189,7 +10231,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. methanol and ethanol
 - D. propane and propene
 
-**Q1435.** Which compound is a structural isomer of ethyl ethanoate (C₄H₈O₂)?
+**Q1437.** Which compound is a structural isomer of ethyl ethanoate (C₄H₈O₂)?
 <!-- id: chem-5-2-5 -->
 
 - A. butanal
@@ -10197,7 +10239,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. butanoic acid
 - D. propyl ethanoate
 
-**Q1436.** Which compound is a structural isomer of propanal?
+**Q1438.** Which compound is a structural isomer of propanal?
 <!-- id: chem-5-2-6 -->
 
 - A. propan-1-ol
@@ -10205,7 +10247,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. propene
 - D. propanone
 
-**Q1437.** How many structural isomers have the formula C₃H₇Cl?
+**Q1439.** How many structural isomers have the formula C₃H₇Cl?
 <!-- id: chem-5-2-7 -->
 
 - A. 2
@@ -10213,7 +10255,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 3
 - D. 4
 
-**Q1438.** How many structural isomers have the formula C₄H₉Br?
+**Q1440.** How many structural isomers have the formula C₄H₉Br?
 <!-- id: chem-5-2-8 -->
 
 - A. 2
@@ -10221,7 +10263,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 3
 - D. 5
 
-**Q1439.** Structural isomers are compounds that have
+**Q1441.** Structural isomers are compounds that have
 <!-- id: chem-5-2-9 -->
 
 - A. the same structural formula but different molecular formulas
@@ -10229,7 +10271,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. the same molecular formula but different structural formulas
 - D. different molecular formulas but the same molar mass
 
-**Q1440.** Pentane and 2,2-dimethylpropane are best described as
+**Q1442.** Pentane and 2,2-dimethylpropane are best described as
 <!-- id: chem-5-2-10 -->
 
 - A. positional isomers
@@ -10237,7 +10279,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. not isomers
 - D. chain isomers
 
-**Q1441.** Propan-1-ol and propan-2-ol are best described as
+**Q1443.** Propan-1-ol and propan-2-ol are best described as
 <!-- id: chem-5-2-11 -->
 
 - A. positional isomers
@@ -10245,7 +10287,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. functional group isomers
 - D. not isomers
 
-**Q1442.** Propanal and propanone are best described as
+**Q1444.** Propanal and propanone are best described as
 <!-- id: chem-5-2-12 -->
 
 - A. chain isomers
@@ -10253,7 +10295,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. positional isomers
 - D. not isomers
 
-**Q1443.** Which isomer of C₄H₁₀O is a tertiary alcohol?
+**Q1445.** Which isomer of C₄H₁₀O is a tertiary alcohol?
 <!-- id: chem-5-2-13 -->
 
 - A. butan-2-ol
@@ -10261,7 +10303,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 2-methylpropan-2-ol
 - D. 2-methylpropan-1-ol
 
-**Q1444.** How many alcohols have the molecular formula C₄H₁₀O?
+**Q1446.** How many alcohols have the molecular formula C₄H₁₀O?
 <!-- id: chem-5-2-14 -->
 
 - A. 2
@@ -10269,7 +10311,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 5
 - D. 4
 
-**Q1445.** Which isomer of C₅H₁₂ has the lowest boiling point?
+**Q1447.** Which isomer of C₅H₁₂ has the lowest boiling point?
 <!-- id: chem-5-2-15 -->
 
 - A. 2,2-dimethylpropane
@@ -10277,7 +10319,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 2-methylbutane
 - D. They all boil at the same temperature as they have the same molar mass
 
-**Q1446.** Ignoring stereoisomers, how many alkenes have the molecular formula C₄H₈?
+**Q1448.** Ignoring stereoisomers, how many alkenes have the molecular formula C₄H₈?
 <!-- id: chem-5-2-16 -->
 
 - A. 2
@@ -10285,7 +10327,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 4
 - D. 5
 
-**Q1447.** Which compound is NOT a structural isomer of hexane?
+**Q1449.** Which compound is NOT a structural isomer of hexane?
 <!-- id: chem-5-2-17 -->
 
 - A. 2-methylpentane
@@ -10293,7 +10335,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 2-methylhexane
 - D. 2,3-dimethylbutane
 
-**Q1448.** How many carboxylic acids have the molecular formula C₄H₈O₂?
+**Q1450.** How many carboxylic acids have the molecular formula C₄H₈O₂?
 <!-- id: chem-5-2-18 -->
 
 - A. 1
@@ -10301,42 +10343,42 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 4
 - D. 2
 
-**Q1449.** Name the three structural isomers of C₅H₁₂.
+**Q1451.** Name the three structural isomers of C₅H₁₂.
 <!-- id: chem-5-2-19 -->
 
 *Written answer*
 
-**Q1450.** Name the two esters with the molecular formula C₃H₆O₂.
+**Q1452.** Name the two esters with the molecular formula C₃H₆O₂.
 <!-- id: chem-5-2-20 -->
 
 *Written answer*
 
-**Q1451.** Explain why pentane (36 °C) has a higher boiling point than its isomer 2,2-dimethylpropane (10 °C).
+**Q1453.** Explain why pentane (36 °C) has a higher boiling point than its isomer 2,2-dimethylpropane (10 °C).
 <!-- id: chem-5-2-21 -->
 
 *Written answer*
 
-**Q1452.** Give the condensed structural formulas and names of the two alcohols with formula C₃H₈O.
+**Q1454.** Give the condensed structural formulas and names of the two alcohols with formula C₃H₈O.
 <!-- id: chem-5-2-22 -->
 
 *Written answer*
 
-**Q1453.** Explain why but-1-ene and butane are not isomers.
+**Q1455.** Explain why but-1-ene and butane are not isomers.
 <!-- id: chem-5-2-23 -->
 
 *Written answer*
 
-**Q1454.** Give the name of the positional isomer of 1-chloropentane in which the chlorine is on the middle carbon.
+**Q1456.** Give the name of the positional isomer of 1-chloropentane in which the chlorine is on the middle carbon.
 <!-- id: chem-5-2-24 -->
 
 *Written answer*
 
-**Q1455.** Butanal and 2-methylpropanal are two carbonyl compounds with the formula C₄H₈O. Name the ketone that is also an isomer of these.
+**Q1457.** Butanal and 2-methylpropanal are two carbonyl compounds with the formula C₄H₈O. Name the ketone that is also an isomer of these.
 <!-- id: chem-5-2-25 -->
 
 *Written answer*
 
-**Q1456.** How many structural isomers have the molecular formula C₄H₁₀?
+**Q1458.** How many structural isomers have the molecular formula C₄H₁₀?
 <!-- id: chem34a2-iso-1 -->
 
 - A. 1
@@ -10344,7 +10386,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 4
 - D. 2
 
-**Q1457.** Which compound can exist as cis and trans isomers?
+**Q1459.** Which compound can exist as cis and trans isomers?
 <!-- id: chem34a2-iso-2 -->
 
 - A. But-2-ene
@@ -10352,7 +10394,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 2-methylpropene
 - D. Ethene
 
-**Q1458.** Which molecule contains a chiral carbon atom?
+**Q1460.** Which molecule contains a chiral carbon atom?
 <!-- id: chem34a2-iso-3 -->
 
 - A. Propan-2-ol
@@ -10360,7 +10402,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Butan-1-ol
 - D. 2-methylpropan-2-ol
 
-**Q1459.** Two enantiomers of a compound are compared. In which property would they differ?
+**Q1461.** Two enantiomers of a compound are compared. In which property would they differ?
 <!-- id: chem34a2-iso-4 -->
 
 - A. Boiling point
@@ -10368,7 +10410,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Their interaction with plane-polarised light or with other chiral molecules, such as enzymes
 - D. Solubility in water
 
-**Q1460.** How many structural isomers have the formula C₃H₇Cl?
+**Q1462.** How many structural isomers have the formula C₃H₇Cl?
 <!-- id: chem34a2-iso-5 -->
 
 - A. 1
@@ -10376,24 +10418,24 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 3
 - D. 4
 
-**Q1461.** Explain why but-2-ene exists as cis and trans isomers, but propene (CH₂=CHCH₃) does not. (3 marks)
+**Q1463.** Explain why but-2-ene exists as cis and trans isomers, but propene (CH₂=CHCH₃) does not. (3 marks)
 <!-- id: chem34a2-iso-6 -->
 
 *Written answer*
 
-**Q1462.** Name the four structural isomers of C₄H₉OH that are alcohols, and identify which one is chiral. (3 marks)
+**Q1464.** Name the four structural isomers of C₄H₉OH that are alcohols, and identify which one is chiral. (3 marks)
 <!-- id: chem34a2-iso-7 -->
 
 *Written answer*
 
-**Q1463.** Many medicines contain a chiral carbon. Explain why pharmaceutical companies may need to produce a single enantiomer rather than a mixture of both. (2 marks)
+**Q1465.** Many medicines contain a chiral carbon. Explain why pharmaceutical companies may need to produce a single enantiomer rather than a mixture of both. (2 marks)
 <!-- id: chem34a2-iso-8 -->
 
 *Written answer*
 
 #### Addition, substitution, oxidation, condensation, hydrolysis
 
-**Q1464.** Ethene reacts with steam in the presence of a phosphoric acid catalyst. What is the organic product?
+**Q1466.** Ethene reacts with steam in the presence of a phosphoric acid catalyst. What is the organic product?
 <!-- id: chem-5-3-1 -->
 
 - A. ethanol
@@ -10401,7 +10443,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. ethanoic acid
 - D. ethanal
 
-**Q1465.** What type of reaction occurs when ethene reacts with bromine?
+**Q1467.** What type of reaction occurs when ethene reacts with bromine?
 <!-- id: chem-5-3-2 -->
 
 - A. substitution
@@ -10409,7 +10451,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. condensation
 - D. hydrolysis
 
-**Q1466.** Propene reacts with hydrogen chloride. Which of the following is a possible organic product?
+**Q1468.** Propene reacts with hydrogen chloride. Which of the following is a possible organic product?
 <!-- id: chem-5-3-3 -->
 
 - A. 1,2-dichloropropane
@@ -10417,7 +10459,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 2-chloropropane
 - D. propan-2-ol
 
-**Q1467.** Which catalyst is commonly used for the addition of hydrogen to an alkene?
+**Q1469.** Which catalyst is commonly used for the addition of hydrogen to an alkene?
 <!-- id: chem-5-3-4 -->
 
 - A. phosphoric acid
@@ -10425,7 +10467,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. acidified permanganate
 - D. nickel
 
-**Q1468.** Chloroethane reacts with aqueous sodium hydroxide to form ethanol. This reaction is classified as
+**Q1470.** Chloroethane reacts with aqueous sodium hydroxide to form ethanol. This reaction is classified as
 <!-- id: chem-5-3-5 -->
 
 - A. substitution
@@ -10433,7 +10475,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. condensation
 - D. oxidation
 
-**Q1469.** Chloroethane reacts with ammonia. What is the organic product?
+**Q1471.** Chloroethane reacts with ammonia. What is the organic product?
 <!-- id: chem-5-3-6 -->
 
 - A. ethanamide
@@ -10441,7 +10483,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. ethanol
 - D. ethene
 
-**Q1470.** Propan-1-ol is heated under reflux with excess acidified potassium dichromate. What is the final organic product?
+**Q1472.** Propan-1-ol is heated under reflux with excess acidified potassium dichromate. What is the final organic product?
 <!-- id: chem-5-3-7 -->
 
 - A. propanone
@@ -10449,7 +10491,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. propanoic acid
 - D. propene
 
-**Q1471.** Propan-2-ol is heated with acidified potassium permanganate. What is the organic product?
+**Q1473.** Propan-2-ol is heated with acidified potassium permanganate. What is the organic product?
 <!-- id: chem-5-3-8 -->
 
 - A. propanal
@@ -10457,7 +10499,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. no reaction occurs
 - D. propanone
 
-**Q1472.** 2-Methylpropan-2-ol is warmed with acidified potassium dichromate. What is observed?
+**Q1474.** 2-Methylpropan-2-ol is warmed with acidified potassium dichromate. What is observed?
 <!-- id: chem-5-3-9 -->
 
 - A. no reaction occurs and the solution stays orange
@@ -10465,7 +10507,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 2-methylpropanoic acid forms and the solution turns green
 - D. butan-2-one forms and the solution turns green
 
-**Q1473.** When acidified potassium dichromate oxidises an alcohol, the colour change observed is
+**Q1475.** When acidified potassium dichromate oxidises an alcohol, the colour change observed is
 <!-- id: chem-5-3-10 -->
 
 - A. purple to colourless
@@ -10473,7 +10515,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. green to orange
 - D. colourless to purple
 
-**Q1474.** When acidified potassium permanganate oxidises an alcohol, the colour change observed is
+**Q1476.** When acidified potassium permanganate oxidises an alcohol, the colour change observed is
 <!-- id: chem-5-3-11 -->
 
 - A. orange to green
@@ -10481,7 +10523,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. purple to colourless
 - D. green to orange
 
-**Q1475.** Ethanoic acid reacts with ethanol in the presence of concentrated sulfuric acid. This reaction is classified as
+**Q1477.** Ethanoic acid reacts with ethanol in the presence of concentrated sulfuric acid. This reaction is classified as
 <!-- id: chem-5-3-12 -->
 
 - A. addition
@@ -10489,7 +10531,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. hydrolysis
 - D. condensation (esterification)
 
-**Q1476.** What is the main role of concentrated sulfuric acid in an esterification reaction?
+**Q1478.** What is the main role of concentrated sulfuric acid in an esterification reaction?
 <!-- id: chem-5-3-13 -->
 
 - A. catalyst
@@ -10497,7 +10539,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. source of the ester group
 - D. neutralises the carboxylic acid
 
-**Q1477.** N-methylethanamide, CH₃CONHCH₃, is hydrolysed in acidic solution. What are the products?
+**Q1479.** N-methylethanamide, CH₃CONHCH₃, is hydrolysed in acidic solution. What are the products?
 <!-- id: chem-5-3-14 -->
 
 - A. ethanamine and methanoic acid
@@ -10505,7 +10547,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. ethanol and methanamine
 - D. ethanoic acid and methanol
 
-**Q1478.** Which statement best describes a condensation reaction?
+**Q1480.** Which statement best describes a condensation reaction?
 <!-- id: chem-5-3-15 -->
 
 - A. a molecule is split by reaction with water
@@ -10513,7 +10555,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. two molecules join together with the loss of a small molecule such as water
 - D. one atom or group is replaced by another
 
-**Q1479.** What small molecule is eliminated when an ester forms from a carboxylic acid and an alcohol?
+**Q1481.** What small molecule is eliminated when an ester forms from a carboxylic acid and an alcohol?
 <!-- id: chem-5-3-16 -->
 
 - A. hydrogen chloride
@@ -10521,7 +10563,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. carbon dioxide
 - D. water
 
-**Q1480.** Ethyl ethanoate is heated with aqueous sodium hydroxide. What are the products?
+**Q1482.** Ethyl ethanoate is heated with aqueous sodium hydroxide. What are the products?
 <!-- id: chem-5-3-17 -->
 
 - A. sodium ethanoate and ethanol
@@ -10529,7 +10571,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. sodium ethanoate and water
 - D. ethanol and ethane
 
-**Q1481.** Methane reacts with chlorine in UV light to form chloromethane and hydrogen chloride. This reaction is classified as
+**Q1483.** Methane reacts with chlorine in UV light to form chloromethane and hydrogen chloride. This reaction is classified as
 <!-- id: chem-5-3-18 -->
 
 - A. addition
@@ -10537,42 +10579,42 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. condensation
 - D. oxidation
 
-**Q1482.** Write a balanced equation for the reaction of ethene with steam and state the catalyst and reaction type.
+**Q1484.** Write a balanced equation for the reaction of ethene with steam and state the catalyst and reaction type.
 <!-- id: chem-5-3-19 -->
 
 *Written answer*
 
-**Q1483.** Write a balanced equation for the reaction of 1-bromopropane with aqueous sodium hydroxide.
+**Q1485.** Write a balanced equation for the reaction of 1-bromopropane with aqueous sodium hydroxide.
 <!-- id: chem-5-3-20 -->
 
 *Written answer*
 
-**Q1484.** Explain why alkenes undergo addition reactions but alkanes do not.
+**Q1486.** Explain why alkenes undergo addition reactions but alkanes do not.
 <!-- id: chem-5-3-21 -->
 
 *Written answer*
 
-**Q1485.** Explain how the conditions of oxidising ethanol with acidified dichromate determine whether ethanal or ethanoic acid is the main product.
+**Q1487.** Explain how the conditions of oxidising ethanol with acidified dichromate determine whether ethanal or ethanoic acid is the main product.
 <!-- id: chem-5-3-22 -->
 
 *Written answer*
 
-**Q1486.** What is the atom economy for producing ethanol by the hydration of ethene? Explain.
+**Q1488.** What is the atom economy for producing ethanol by the hydration of ethene? Explain.
 <!-- id: chem-5-3-23 -->
 
 *Written answer*
 
-**Q1487.** Calculate the atom economy for producing ethanol from chloroethane and sodium hydroxide: C₂H₅Cl + NaOH → C₂H₅OH + NaCl. (M: C₂H₅Cl 64.5, NaOH 40.0, C₂H₅OH 46.0 g/mol)
+**Q1489.** Calculate the atom economy for producing ethanol from chloroethane and sodium hydroxide: C₂H₅Cl + NaOH → C₂H₅OH + NaCl. (M: C₂H₅Cl 64.5, NaOH 40.0, C₂H₅OH 46.0 g/mol)
 <!-- id: chem-5-3-24 -->
 
 *Written answer*
 
-**Q1488.** Describe a simple chemical test to distinguish hexene from hexane.
+**Q1490.** Describe a simple chemical test to distinguish hexene from hexane.
 <!-- id: chem-5-3-25 -->
 
 *Written answer*
 
-**Q1489.** Ethene reacts with steam at about 300 °C with a phosphoric acid catalyst. What is the product and type of reaction?
+**Q1491.** Ethene reacts with steam at about 300 °C with a phosphoric acid catalyst. What is the product and type of reaction?
 <!-- id: chem34a2-rxn-1 -->
 
 - A. Ethanoic acid; oxidation
@@ -10580,7 +10622,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Ethanol; addition
 - D. Ethanol; substitution
 
-**Q1490.** Which reaction is a substitution reaction?
+**Q1492.** Which reaction is a substitution reaction?
 <!-- id: chem34a2-rxn-2 -->
 
 - A. CH₃CH₂Cl(l) + OH⁻(aq) → CH₃CH₂OH(aq) + Cl⁻(aq)
@@ -10588,7 +10630,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. CH₂=CH₂(g) + Br₂(aq) → CH₂BrCH₂Br(l)
 - D. CH₃CH₂OH(l) + 3O₂(g) → 2CO₂(g) + 3H₂O(g)
 
-**Q1491.** Propan-1-ol is heated with excess acidified potassium dichromate solution. Which observation and product are correct?
+**Q1493.** Propan-1-ol is heated with excess acidified potassium dichromate solution. Which observation and product are correct?
 <!-- id: chem34a2-rxn-3 -->
 
 - A. The solution changes from green to orange; propanoic acid forms.
@@ -10596,7 +10638,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. The solution changes from purple to colourless; propene forms.
 - D. No colour change; propyl propanoate forms.
 
-**Q1492.** Which statement about the formation of an ester from a carboxylic acid and an alcohol is correct?
+**Q1494.** Which statement about the formation of an ester from a carboxylic acid and an alcohol is correct?
 <!-- id: chem34a2-rxn-4 -->
 
 - A. It is an addition reaction that needs UV light.
@@ -10604,7 +10646,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. It requires a strong base such as NaOH as a catalyst.
 - D. It is a condensation reaction catalysed by concentrated H₂SO₄, and water is a by-product.
 
-**Q1493.** Ethane is mixed with chlorine gas and exposed to UV light. Which equation shows the first product formed?
+**Q1495.** Ethane is mixed with chlorine gas and exposed to UV light. Which equation shows the first product formed?
 <!-- id: chem34a2-rxn-5 -->
 
 - A. C₂H₆(g) + Cl₂(g) → C₂H₅Cl(g) + HCl(g)
@@ -10612,24 +10654,24 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. C₂H₆(g) + Cl₂(g) → C₂H₄(g) + 2HCl(g)
 - D. C₂H₆(g) + Cl₂(g) → 2CH₃Cl(g)
 
-**Q1494.** Write a balanced equation, using semi-structural formulas, for the reaction between ethanoic acid and methanol. Name the organic product and state the conditions required. (3 marks)
+**Q1496.** Write a balanced equation, using semi-structural formulas, for the reaction between ethanoic acid and methanol. Name the organic product and state the conditions required. (3 marks)
 <!-- id: chem34a2-rxn-6 -->
 
 *Written answer*
 
-**Q1495.** Chloroethane reacts with ammonia to form an amine. Write the balanced equation, name the organic product and identify the type of reaction. (3 marks)
+**Q1497.** Chloroethane reacts with ammonia to form an amine. Write the balanced equation, name the organic product and identify the type of reaction. (3 marks)
 <!-- id: chem34a2-rxn-7 -->
 
 *Written answer*
 
-**Q1496.** Bromine water is added to propene and to propane in separate test tubes. Describe and explain the observations, including an equation for any reaction. (3 marks)
+**Q1498.** Bromine water is added to propene and to propane in separate test tubes. Describe and explain the observations, including an equation for any reaction. (3 marks)
 <!-- id: chem34a2-rxn-8 -->
 
 *Written answer*
 
 #### Reaction pathways, esters and yield
 
-**Q1497.** Which two-step pathway converts ethene into ethanoic acid?
+**Q1499.** Which two-step pathway converts ethene into ethanoic acid?
 <!-- id: chem-5-4-1 -->
 
 - A. react with HCl, then heat with NaOH(aq)
@@ -10637,7 +10679,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. react with steam (H₃PO₄ catalyst), then heat under reflux with acidified K₂Cr₂O₇
 - D. react with steam (H₃PO₄ catalyst), then heat with concentrated H₂SO₄ and methanol
 
-**Q1498.** Which pair of reactants produces ethyl propanoate?
+**Q1500.** Which pair of reactants produces ethyl propanoate?
 <!-- id: chem-5-4-2 -->
 
 - A. propan-1-ol and ethanoic acid
@@ -10645,7 +10687,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. propan-1-ol and propanoic acid
 - D. ethanol and propanoic acid
 
-**Q1499.** What is the name of the ester formed from methanol and butanoic acid?
+**Q1501.** What is the name of the ester formed from methanol and butanoic acid?
 <!-- id: chem-5-4-3 -->
 
 - A. methyl butanoate
@@ -10653,7 +10695,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. methyl propanoate
 - D. propyl methanoate
 
-**Q1500.** Propyl ethanoate, CH₃COOCH₂CH₂CH₃, is formed from which reactants?
+**Q1502.** Propyl ethanoate, CH₃COOCH₂CH₂CH₃, is formed from which reactants?
 <!-- id: chem-5-4-4 -->
 
 - A. ethanol and propanoic acid
@@ -10661,7 +10703,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. propan-2-ol and ethanoic acid
 - D. propanoic acid and propan-1-ol
 
-**Q1501.** What is the molecular formula of ethyl ethanoate?
+**Q1503.** What is the molecular formula of ethyl ethanoate?
 <!-- id: chem-5-4-5 -->
 
 - A. C₄H₁₀O₂
@@ -10669,7 +10711,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. C₄H₈O₂
 - D. C₄H₈O
 
-**Q1502.** Which pathway converts chloroethane into ethanoic acid?
+**Q1504.** Which pathway converts chloroethane into ethanoic acid?
 <!-- id: chem-5-4-6 -->
 
 - A. heat with NH₃, then heat with acidified KMnO₄
@@ -10677,7 +10719,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. heat with acidified KMnO₄, then heat with NaOH(aq)
 - D. heat with NaOH(aq), then heat under reflux with acidified KMnO₄
 
-**Q1503.** Which two-step pathway produces ethanamine from ethene?
+**Q1505.** Which two-step pathway produces ethanamine from ethene?
 <!-- id: chem-5-4-7 -->
 
 - A. add HCl, then react the chloroethane with NH₃
@@ -10685,7 +10727,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. add H₂, then react the ethane with NH₃
 - D. add HCl, then react the chloroethane with NaOH(aq)
 
-**Q1504.** Why does ethyl ethanoate (77 °C) have a lower boiling point than butanoic acid (164 °C), even though they are isomers?
+**Q1506.** Why does ethyl ethanoate (77 °C) have a lower boiling point than butanoic acid (164 °C), even though they are isomers?
 <!-- id: chem-5-4-8 -->
 
 - A. ethyl ethanoate has a smaller molar mass
@@ -10693,7 +10735,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. ethyl ethanoate has stronger dispersion forces
 - D. esters are ionic compounds
 
-**Q1505.** A student reacted 12.0 g of ethanoic acid (M = 60.0 g/mol) with excess ethanol and obtained 14.1 g of ethyl ethanoate (M = 88.0 g/mol). What is the percentage yield?
+**Q1507.** A student reacted 12.0 g of ethanoic acid (M = 60.0 g/mol) with excess ethanol and obtained 14.1 g of ethyl ethanoate (M = 88.0 g/mol). What is the percentage yield?
 <!-- id: chem-5-4-9 -->
 
 - A. 117.5%
@@ -10701,7 +10743,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 80.1%
 - D. 68.2%
 
-**Q1506.** A two-step synthesis has a yield of 80% for step 1 and 75% for step 2. What is the overall percentage yield?
+**Q1508.** A two-step synthesis has a yield of 80% for step 1 and 75% for step 2. What is the overall percentage yield?
 <!-- id: chem-5-4-10 -->
 
 - A. 155%
@@ -10709,7 +10751,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 5%
 - D. 60%
 
-**Q1507.** Biodiesel is made by reacting a triglyceride (vegetable oil) with methanol using a KOH catalyst. The products are
+**Q1509.** Biodiesel is made by reacting a triglyceride (vegetable oil) with methanol using a KOH catalyst. The products are
 <!-- id: chem-5-4-11 -->
 
 - A. fatty acid methyl esters and glycerol
@@ -10717,7 +10759,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. glycerol and water
 - D. methyl ethanoate and fatty acids
 
-**Q1508.** Which reagents convert ethanol directly into ethyl ethanoate in one step?
+**Q1510.** Which reagents convert ethanol directly into ethyl ethanoate in one step?
 <!-- id: chem-5-4-12 -->
 
 - A. acidified K₂Cr₂O₇ under reflux
@@ -10725,7 +10767,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. NaOH(aq)
 - D. steam with an H₃PO₄ catalyst
 
-**Q1509.** Methyl propanoate is hydrolysed in dilute acid. What are the products?
+**Q1511.** Methyl propanoate is hydrolysed in dilute acid. What are the products?
 <!-- id: chem-5-4-13 -->
 
 - A. propan-1-ol and methanoic acid
@@ -10733,7 +10775,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. methanol and propanoic acid
 - D. ethanol and ethanoic acid
 
-**Q1510.** Which group of atoms is characteristic of an ester?
+**Q1512.** Which group of atoms is characteristic of an ester?
 <!-- id: chem-5-4-14 -->
 
 - A. –COOH
@@ -10741,7 +10783,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. –OH
 - D. –COO– (ester linkage)
 
-**Q1511.** What is the IUPAC name of CH₃CH₂COOCH₂CH₂CH₃?
+**Q1513.** What is the IUPAC name of CH₃CH₂COOCH₂CH₂CH₃?
 <!-- id: chem-5-4-15 -->
 
 - A. propyl propanoate
@@ -10749,7 +10791,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. propyl ethanoate
 - D. propyl butanoate
 
-**Q1512.** 2-Chloropropane is heated with NaOH(aq), and the organic product is then heated with acidified K₂Cr₂O₇. What is the final organic product?
+**Q1514.** 2-Chloropropane is heated with NaOH(aq), and the organic product is then heated with acidified K₂Cr₂O₇. What is the final organic product?
 <!-- id: chem-5-4-16 -->
 
 - A. propanal
@@ -10757,7 +10799,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. propanoic acid
 - D. propan-1-ol
 
-**Q1513.** Calculate the atom economy for making ethyl ethanoate: CH₃COOH + C₂H₅OH → CH₃COOC₂H₅ + H₂O. (M: CH₃COOH 60.0, C₂H₅OH 46.0, CH₃COOC₂H₅ 88.0 g/mol)
+**Q1515.** Calculate the atom economy for making ethyl ethanoate: CH₃COOH + C₂H₅OH → CH₃COOC₂H₅ + H₂O. (M: CH₃COOH 60.0, C₂H₅OH 46.0, CH₃COOC₂H₅ 88.0 g/mol)
 <!-- id: chem-5-4-17 -->
 
 - A. 100%
@@ -10765,7 +10807,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 83.0%
 - D. 120.5%
 
-**Q1514.** Pentyl ethanoate has a banana-like odour. Which reactants form it?
+**Q1516.** Pentyl ethanoate has a banana-like odour. Which reactants form it?
 <!-- id: chem-5-4-18 -->
 
 - A. ethanol and pentanoic acid
@@ -10773,42 +10815,42 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. butan-1-ol and ethanoic acid
 - D. pentan-1-ol and ethanoic acid
 
-**Q1515.** Outline a reaction pathway to make ethyl ethanoate using ethene as the only organic starting material. Give reagents for each step.
+**Q1517.** Outline a reaction pathway to make ethyl ethanoate using ethene as the only organic starting material. Give reagents for each step.
 <!-- id: chem-5-4-19 -->
 
 *Written answer*
 
-**Q1516.** Write a balanced equation for the formation of methyl ethanoate.
+**Q1518.** Write a balanced equation for the formation of methyl ethanoate.
 <!-- id: chem-5-4-20 -->
 
 *Written answer*
 
-**Q1517.** 23.0 g of ethanol (M = 46.0 g/mol) reacts with excess ethanoic acid. If the yield is 65.0%, what mass of ethyl ethanoate (M = 88.0 g/mol) is obtained?
+**Q1519.** 23.0 g of ethanol (M = 46.0 g/mol) reacts with excess ethanoic acid. If the yield is 65.0%, what mass of ethyl ethanoate (M = 88.0 g/mol) is obtained?
 <!-- id: chem-5-4-21 -->
 
 *Written answer*
 
-**Q1518.** Name CH₃CH₂COOCH₂CH₃ and the products of its acid hydrolysis.
+**Q1520.** Name CH₃CH₂COOCH₂CH₃ and the products of its acid hydrolysis.
 <!-- id: chem-5-4-22 -->
 
 *Written answer*
 
-**Q1519.** Give a two-step pathway, with reagents, to convert chloroethane into ethanoic acid.
+**Q1521.** Give a two-step pathway, with reagents, to convert chloroethane into ethanoic acid.
 <!-- id: chem-5-4-23 -->
 
 *Written answer*
 
-**Q1520.** Name the ester formed from ethanol and methanoic acid and give its condensed formula.
+**Q1522.** Name the ester formed from ethanol and methanoic acid and give its condensed formula.
 <!-- id: chem-5-4-24 -->
 
 *Written answer*
 
-**Q1521.** A three-step synthesis has yields of 90%, 80% and 75%. Calculate the overall percentage yield.
+**Q1523.** A three-step synthesis has yields of 90%, 80% and 75%. Calculate the overall percentage yield.
 <!-- id: chem-5-4-25 -->
 
 *Written answer*
 
-**Q1522.** Which reagents would convert ethene into ethanoic acid in two steps?
+**Q1524.** Which reagents would convert ethene into ethanoic acid in two steps?
 <!-- id: chem34a2-syn-1 -->
 
 - A. Step 1: H₂/Ni; Step 2: Cl₂/UV light
@@ -10816,7 +10858,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Step 1: HCl; Step 2: NaOH(aq)
 - D. Step 1: H⁺/Cr₂O₇²⁻; Step 2: H₂O(g)/H₃PO₄
 
-**Q1523.** What is the atom economy for the production of ethanol by the reaction CH₂=CH₂(g) + H₂O(g) → CH₃CH₂OH(g)?
+**Q1525.** What is the atom economy for the production of ethanol by the reaction CH₂=CH₂(g) + H₂O(g) → CH₃CH₂OH(g)?
 <!-- id: chem34a2-syn-2 -->
 
 - A. 50%
@@ -10824,7 +10866,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 100%
 - D. Cannot be determined without the percentage yield
 
-**Q1524.** Ethanol can also be made by CH₃CH₂Cl + NaOH → CH₃CH₂OH + NaCl. What is the atom economy for ethanol? (M: C₂H₅Cl = 64.5, NaOH = 40.0, C₂H₅OH = 46.0 g mol⁻¹)
+**Q1526.** Ethanol can also be made by CH₃CH₂Cl + NaOH → CH₃CH₂OH + NaCl. What is the atom economy for ethanol? (M: C₂H₅Cl = 64.5, NaOH = 40.0, C₂H₅OH = 46.0 g mol⁻¹)
 <!-- id: chem34a2-syn-3 -->
 
 - A. 44.0%
@@ -10832,7 +10874,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 56.0%
 - D. 100%
 
-**Q1525.** A three-step synthesis has step yields of 80%, 70% and 90%. What is the overall percentage yield?
+**Q1527.** A three-step synthesis has step yields of 80%, 70% and 90%. What is the overall percentage yield?
 <!-- id: chem34a2-syn-4 -->
 
 - A. 80%
@@ -10840,7 +10882,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 240%
 - D. 50%
 
-**Q1526.** A reaction has a percentage yield of 95% but an atom economy of 30%. Which statement is correct?
+**Q1528.** A reaction has a percentage yield of 95% but an atom economy of 30%. Which statement is correct?
 <!-- id: chem34a2-syn-5 -->
 
 - A. Most of the reactant atoms end up in the desired product.
@@ -10848,24 +10890,24 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. The yield must be wrong because it cannot be higher than the atom economy.
 - D. The reaction produces no waste.
 
-**Q1527.** 12.0 g of ethanoic acid was heated under reflux with excess ethanol and concentrated H₂SO₄. 11.0 g of ethyl ethanoate was obtained. Calculate the percentage yield. (3 marks)
+**Q1529.** 12.0 g of ethanoic acid was heated under reflux with excess ethanol and concentrated H₂SO₄. 11.0 g of ethyl ethanoate was obtained. Calculate the percentage yield. (3 marks)
 <!-- id: chem34a2-syn-6 -->
 
 *Written answer*
 
-**Q1528.** Outline a synthetic pathway to produce ethyl ethanoate using ethene as the only organic starting material. Include the reagents and conditions for each step. (3 marks)
+**Q1530.** Outline a synthetic pathway to produce ethyl ethanoate using ethene as the only organic starting material. Include the reagents and conditions for each step. (3 marks)
 <!-- id: chem34a2-syn-7 -->
 
 *Written answer*
 
-**Q1529.** Calculate the atom economy for producing ethyl ethanoate by CH₃COOH + CH₃CH₂OH ⇌ CH₃COOCH₂CH₃ + H₂O, and suggest one way the percentage yield of this equilibrium reaction could be increased. (3 marks)
+**Q1531.** Calculate the atom economy for producing ethyl ethanoate by CH₃COOH + CH₃CH₂OH ⇌ CH₃COOCH₂CH₃ + H₂O, and suggest one way the percentage yield of this equilibrium reaction could be increased. (3 marks)
 <!-- id: chem34a2-syn-8 -->
 
 *Written answer*
 
 #### Physical properties of organic compounds
 
-**Q1530.** Which compound has the highest boiling point?
+**Q1532.** Which compound has the highest boiling point?
 <!-- id: chem34a2-phys-1 -->
 
 - A. Butane, C₄H₁₀
@@ -10873,7 +10915,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Propan-1-ol, C₃H₇OH
 - D. Ethanoic acid, CH₃COOH
 
-**Q1531.** Why do boiling points increase from methane to octane in the alkane homologous series?
+**Q1533.** Why do boiling points increase from methane to octane in the alkane homologous series?
 <!-- id: chem34a2-phys-2 -->
 
 - A. Hydrogen bonding increases with chain length.
@@ -10881,7 +10923,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. The C–C covalent bonds become stronger.
 - D. Longer alkanes are more polar.
 
-**Q1532.** Pentane boils at 36 °C and its isomer 2,2-dimethylpropane boils at 10 °C. What is the best explanation?
+**Q1534.** Pentane boils at 36 °C and its isomer 2,2-dimethylpropane boils at 10 °C. What is the best explanation?
 <!-- id: chem34a2-phys-3 -->
 
 - A. 2,2-dimethylpropane has a lower molar mass.
@@ -10889,7 +10931,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. The compact, branched shape of 2,2-dimethylpropane gives less surface contact, so its dispersion forces are weaker.
 - D. Branching makes the C–H bonds weaker.
 
-**Q1533.** Which statement explains why the solubility of alcohols in water decreases from methanol to hexan-1-ol?
+**Q1535.** Which statement explains why the solubility of alcohols in water decreases from methanol to hexan-1-ol?
 <!-- id: chem34a2-phys-4 -->
 
 - A. The longer non-polar hydrocarbon chain disrupts hydrogen bonding with water and cannot itself interact strongly with water.
@@ -10897,7 +10939,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Larger alcohols react with water.
 - D. Larger alcohols have fewer hydrogen atoms.
 
-**Q1534.** Moving from hexane to decane in the alkane series, how do viscosity and flash point change?
+**Q1536.** Moving from hexane to decane in the alkane series, how do viscosity and flash point change?
 <!-- id: chem34a2-phys-5 -->
 
 - A. Viscosity decreases; flash point decreases.
@@ -10905,17 +10947,17 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Viscosity decreases; flash point increases.
 - D. Viscosity increases; flash point increases.
 
-**Q1535.** Ethanol (M = 46 g mol⁻¹) boils at 78 °C, while propane (M = 44 g mol⁻¹) boils at −42 °C. Explain this difference with reference to intermolecular forces. (3 marks)
+**Q1537.** Ethanol (M = 46 g mol⁻¹) boils at 78 °C, while propane (M = 44 g mol⁻¹) boils at −42 °C. Explain this difference with reference to intermolecular forces. (3 marks)
 <!-- id: chem34a2-phys-6 -->
 
 *Written answer*
 
-**Q1536.** Methyl ethanoate (CH₃COOCH₃) and propanoic acid (CH₃CH₂COOH) are isomers. Explain why methyl ethanoate has a much lower boiling point. (2 marks)
+**Q1538.** Methyl ethanoate (CH₃COOCH₃) and propanoic acid (CH₃CH₂COOH) are isomers. Explain why methyl ethanoate has a much lower boiling point. (2 marks)
 <!-- id: chem34a2-phys-7 -->
 
 *Written answer*
 
-**Q1537.** Propan-1-amine (CH₃CH₂CH₂NH₂) boils at 48 °C and propan-1-ol boils at 97 °C. Explain why both have higher boiling points than butane (−1 °C), but the amine boils at a lower temperature than the alcohol. (3 marks)
+**Q1539.** Propan-1-amine (CH₃CH₂CH₂NH₂) boils at 48 °C and propan-1-ol boils at 97 °C. Explain why both have higher boiling points than butane (−1 °C), but the amine boils at a lower temperature than the alcohol. (3 marks)
 <!-- id: chem34a2-phys-8 -->
 
 *Written answer*
@@ -10924,7 +10966,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 #### Mass spectrometry
 
-**Q1538.** In a mass spectrum, the molecular ion peak (M⁺) corresponds to:
+**Q1540.** In a mass spectrum, the molecular ion peak (M⁺) corresponds to:
 <!-- id: chem-6-1-1 -->
 
 - A. the ion formed when a whole molecule loses one electron
@@ -10932,7 +10974,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. the smallest fragment ion produced
 - D. the ion formed when a molecule gains one electron
 
-**Q1539.** The base peak in a mass spectrum is best described as the peak:
+**Q1541.** The base peak in a mass spectrum is best described as the peak:
 <!-- id: chem-6-1-2 -->
 
 - A. with the highest m/z value
@@ -10940,7 +10982,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. due to the molecular ion
 - D. with the lowest m/z value
 
-**Q1540.** The mass spectrum of chloromethane shows peaks at m/z 50 and 52 with relative heights of about 3:1. This is because:
+**Q1542.** The mass spectrum of chloromethane shows peaks at m/z 50 and 52 with relative heights of about 3:1. This is because:
 <!-- id: chem-6-1-3 -->
 
 - A. carbon exists as ¹²C and ¹³C in about a 3:1 ratio
@@ -10948,7 +10990,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. chlorine exists naturally as ³⁵Cl and ³⁷Cl in about a 3:1 ratio
 - D. the m/z 52 peak is a fragment containing two hydrogen atoms more
 
-**Q1541.** The mass spectrum of bromoethane (CH₃CH₂Br) would be expected to show molecular ion peaks at:
+**Q1543.** The mass spectrum of bromoethane (CH₃CH₂Br) would be expected to show molecular ion peaks at:
 <!-- id: chem-6-1-4 -->
 
 - A. m/z 108 and 110 in a 3:1 ratio
@@ -10956,7 +10998,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. m/z 29 and 79 of equal height
 - D. m/z 108 and 110 of almost equal height
 
-**Q1542.** A peak at m/z 15 in the mass spectrum of an organic compound is most likely due to:
+**Q1544.** A peak at m/z 15 in the mass spectrum of an organic compound is most likely due to:
 <!-- id: chem-6-1-5 -->
 
 - A. CH₃⁺
@@ -10964,7 +11006,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. CH₂⁺
 - D. OH⁺
 
-**Q1543.** The difference between the molecular ion peak and a fragment peak is 15 m/z units. This suggests the molecule lost:
+**Q1545.** The difference between the molecular ion peak and a fragment peak is 15 m/z units. This suggests the molecule lost:
 <!-- id: chem-6-1-6 -->
 
 - A. an ethyl group (C₂H₅)
@@ -10972,7 +11014,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. a hydroxyl group (OH)
 - D. a water molecule (H₂O)
 
-**Q1544.** What is the m/z of the molecular ion of ethanol, CH₃CH₂OH?
+**Q1546.** What is the m/z of the molecular ion of ethanol, CH₃CH₂OH?
 <!-- id: chem-6-1-7 -->
 
 - A. 45
@@ -10980,7 +11022,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 46
 - D. 47
 
-**Q1545.** Primary alcohols such as propan-1-ol commonly show a fragment peak at m/z 31. This fragment is:
+**Q1547.** Primary alcohols such as propan-1-ol commonly show a fragment peak at m/z 31. This fragment is:
 <!-- id: chem-6-1-8 -->
 
 - A. CH₃O⁻
@@ -10988,7 +11030,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. CH₃CH₂⁺
 - D. CH₂OH⁺
 
-**Q1546.** In the mass spectrum of butane (M = 58), a large peak at m/z 43 is due to:
+**Q1548.** In the mass spectrum of butane (M = 58), a large peak at m/z 43 is due to:
 <!-- id: chem-6-1-9 -->
 
 - A. C₃H₇⁺ formed by loss of a CH₃ radical
@@ -10996,7 +11038,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. C₄H₁₀⁺ formed by ionisation
 - D. C₃H₇⁺ formed by loss of a CH₄ molecule
 
-**Q1547.** Only positively charged fragments appear in a mass spectrum because:
+**Q1549.** Only positively charged fragments appear in a mass spectrum because:
 <!-- id: chem-6-1-10 -->
 
 - A. neutral fragments are too heavy to be detected
@@ -11004,7 +11046,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. negative ions are destroyed by the magnetic field
 - D. radicals always recombine to reform the molecular ion
 
-**Q1548.** The base peak in the mass spectrum of propanone (CH₃COCH₃) is at m/z 43. The ion responsible is:
+**Q1550.** The base peak in the mass spectrum of propanone (CH₃COCH₃) is at m/z 43. The ion responsible is:
 <!-- id: chem-6-1-11 -->
 
 - A. C₃H₆O⁺
@@ -11012,7 +11054,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. CH₃CO⁺
 - D. C₂H₃⁺
 
-**Q1549.** A small peak at one m/z unit above the molecular ion (the M+1 peak) in organic compounds is mainly due to:
+**Q1551.** A small peak at one m/z unit above the molecular ion (the M+1 peak) in organic compounds is mainly due to:
 <!-- id: chem-6-1-12 -->
 
 - A. the presence of the ³⁷Cl isotope
@@ -11020,7 +11062,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. a doubly charged molecular ion
 - D. the presence of the ¹³C isotope
 
-**Q1550.** An organic compound containing C, H and O shows a molecular ion peak at m/z 60. Which compound could it be?
+**Q1552.** An organic compound containing C, H and O shows a molecular ion peak at m/z 60. Which compound could it be?
 <!-- id: chem-6-1-13 -->
 
 - A. propan-1-ol
@@ -11028,7 +11070,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. butane
 - D. ethyl ethanoate
 
-**Q1551.** A ketone with molecular ion at m/z 86 shows its base peak at m/z 57. Which ketone is most consistent with this?
+**Q1553.** A ketone with molecular ion at m/z 86 shows its base peak at m/z 57. Which ketone is most consistent with this?
 <!-- id: chem-6-1-14 -->
 
 - A. pentan-2-one
@@ -11036,7 +11078,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. propanone
 - D. butanone
 
-**Q1552.** Which equation correctly represents a fragmentation that occurs in a mass spectrometer?
+**Q1554.** Which equation correctly represents a fragmentation that occurs in a mass spectrometer?
 <!-- id: chem-6-1-15 -->
 
 - A. [CH₃CH₂OH]⁺ → CH₂OH⁺ + CH₃⁺
@@ -11044,7 +11086,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. [CH₃CH₂OH]⁺ → CH₂OH⁺ + CH₃•
 - D. [CH₃CH₂OH]⁺ → CH₂OH• + CH₃•
 
-**Q1553.** A peak at m/z 45 in the mass spectrum of an organic acid is most likely due to:
+**Q1555.** A peak at m/z 45 in the mass spectrum of an organic acid is most likely due to:
 <!-- id: chem-6-1-16 -->
 
 - A. C₂H₅⁺
@@ -11052,7 +11094,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. CH₃CO⁺
 - D. COOH⁺
 
-**Q1554.** A compound has a molecular ion at m/z 74 and fragment peaks at m/z 45 and 29. The compound is most likely:
+**Q1556.** A compound has a molecular ion at m/z 74 and fragment peaks at m/z 45 and 29. The compound is most likely:
 <!-- id: chem-6-1-17 -->
 
 - A. propanoic acid
@@ -11060,7 +11102,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. propan-1-ol
 - D. butanoic acid
 
-**Q1555.** Why is it often difficult to distinguish structural isomers such as propan-1-ol and propan-2-ol by their molecular ion peak alone?
+**Q1557.** Why is it often difficult to distinguish structural isomers such as propan-1-ol and propan-2-ol by their molecular ion peak alone?
 <!-- id: chem-6-1-18 -->
 
 - A. isomers never form molecular ions
@@ -11068,42 +11110,42 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. isomers always produce identical fragment patterns
 - D. isomers contain different isotopes
 
-**Q1556.** Explain why the molecular ion peak of some organic compounds, such as certain alcohols, is very small or missing from the mass spectrum.
+**Q1558.** Explain why the molecular ion peak of some organic compounds, such as certain alcohols, is very small or missing from the mass spectrum.
 <!-- id: chem-6-1-19 -->
 
 *Written answer*
 
-**Q1557.** Calculate the m/z value of the fragment ion CH₃CH₂CH₂⁺ and name a compound in whose mass spectrum it would be expected.
+**Q1559.** Calculate the m/z value of the fragment ion CH₃CH₂CH₂⁺ and name a compound in whose mass spectrum it would be expected.
 <!-- id: chem-6-1-20 -->
 
 *Written answer*
 
-**Q1558.** The mass spectrum of propane has a large peak at m/z 29. Identify the ion responsible and write an equation for its formation from the molecular ion.
+**Q1560.** The mass spectrum of propane has a large peak at m/z 29. Identify the ion responsible and write an equation for its formation from the molecular ion.
 <!-- id: chem-6-1-21 -->
 
 *Written answer*
 
-**Q1559.** Chloroethane, C₂H₅Cl, shows two molecular ion peaks. State their m/z values and the approximate ratio of their heights, and explain the pattern.
+**Q1561.** Chloroethane, C₂H₅Cl, shows two molecular ion peaks. State their m/z values and the approximate ratio of their heights, and explain the pattern.
 <!-- id: chem-6-1-22 -->
 
 *Written answer*
 
-**Q1560.** The mass spectrum of ethanal (CH₃CHO) shows a significant peak at m/z 29. Identify the ion and the neutral species lost.
+**Q1562.** The mass spectrum of ethanal (CH₃CHO) shows a significant peak at m/z 29. Identify the ion and the neutral species lost.
 <!-- id: chem-6-1-23 -->
 
 *Written answer*
 
-**Q1561.** The mass spectrum of butanone (CH₃COCH₂CH₃, M = 72) shows peaks at m/z 57 and 43. Identify the ion causing each peak.
+**Q1563.** The mass spectrum of butanone (CH₃COCH₂CH₃, M = 72) shows peaks at m/z 57 and 43. Identify the ion causing each peak.
 <!-- id: chem-6-1-24 -->
 
 *Written answer*
 
-**Q1562.** Outline the main steps that occur inside a mass spectrometer, from the sample entering to the spectrum being produced.
+**Q1564.** Outline the main steps that occur inside a mass spectrometer, from the sample entering to the spectrum being produced.
 <!-- id: chem-6-1-25 -->
 
 *Written answer*
 
-**Q1563.** In the mass spectrum of an organic compound, the molecular ion peak (M⁺) is best described as the peak that
+**Q1565.** In the mass spectrum of an organic compound, the molecular ion peak (M⁺) is best described as the peak that
 <!-- id: chem34a3-ms-1 -->
 
 - A. is always the tallest peak in the spectrum
@@ -11111,7 +11153,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. corresponds to the most stable fragment cation formed
 - D. appears at m/z = 1 more than the molar mass because of ¹³C
 
-**Q1564.** A mass spectrum of a haloalkane shows two molecular ion peaks at m/z = 64 and m/z = 66, with relative heights of about 3 : 1. The compound is most likely
+**Q1566.** A mass spectrum of a haloalkane shows two molecular ion peaks at m/z = 64 and m/z = 66, with relative heights of about 3 : 1. The compound is most likely
 <!-- id: chem34a3-ms-2 -->
 
 - A. bromomethane
@@ -11119,7 +11161,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. chloroethane
 - D. fluoroethane
 
-**Q1565.** The base peak in the mass spectrum of butanone, CH₃COCH₂CH₃, occurs at m/z = 43. Which species is responsible for this peak?
+**Q1567.** The base peak in the mass spectrum of butanone, CH₃COCH₂CH₃, occurs at m/z = 43. Which species is responsible for this peak?
 <!-- id: chem34a3-ms-3 -->
 
 - A. CH₃CO⁺
@@ -11127,7 +11169,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. C₂H₅⁺
 - D. CH₃CH₂CO⁺
 
-**Q1566.** A student notices a very small peak at m/z = 47 in the mass spectrum of ethanol (M = 46). The best explanation for this peak is
+**Q1568.** A student notices a very small peak at m/z = 47 in the mass spectrum of ethanol (M = 46). The best explanation for this peak is
 <!-- id: chem34a3-ms-4 -->
 
 - A. the presence of an impurity with a higher molar mass
@@ -11135,7 +11177,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. the presence of molecules containing one ¹³C atom
 - D. a doubly charged ion of a fragment with mass 94
 
-**Q1567.** An unknown compound has its molecular ion at m/z = 60 and prominent peaks at m/z = 45 and m/z = 15. Which compound is consistent with these data?
+**Q1569.** An unknown compound has its molecular ion at m/z = 60 and prominent peaks at m/z = 45 and m/z = 15. Which compound is consistent with these data?
 <!-- id: chem34a3-ms-5 -->
 
 - A. propan-1-ol
@@ -11143,24 +11185,24 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. methyl methanoate
 - D. propanal
 
-**Q1568.** Explain why the m/z value of the molecular ion peak can be used to find the relative molecular mass of a compound, and state one reason why a molecular ion peak may be very small or absent. (2 marks)
+**Q1570.** Explain why the m/z value of the molecular ion peak can be used to find the relative molecular mass of a compound, and state one reason why a molecular ion peak may be very small or absent. (2 marks)
 <!-- id: chem34a3-ms-6 -->
 
 *Written answer*
 
-**Q1569.** Bromoethane, CH₃CH₂Br, is analysed by mass spectrometry. Bromine exists as ⁷⁹Br and ⁸¹Br in roughly equal amounts. (a) Predict the m/z values and relative heights of the molecular ion peaks. (b) Identify the cation responsible for a peak at m/z = 29. (3 marks)
+**Q1571.** Bromoethane, CH₃CH₂Br, is analysed by mass spectrometry. Bromine exists as ⁷⁹Br and ⁸¹Br in roughly equal amounts. (a) Predict the m/z values and relative heights of the molecular ion peaks. (b) Identify the cation responsible for a peak at m/z = 29. (3 marks)
 <!-- id: chem34a3-ms-7 -->
 
 *Written answer*
 
-**Q1570.** A compound containing only C, H and O has a molecular ion at m/z = 58 and a base peak at m/z = 43. A peak at m/z = 15 is also present, but there is no peak at m/z = 29. Suggest the identity of the compound and justify using the fragments. (3 marks)
+**Q1572.** A compound containing only C, H and O has a molecular ion at m/z = 58 and a base peak at m/z = 43. A peak at m/z = 15 is also present, but there is no peak at m/z = 29. Suggest the identity of the compound and justify using the fragments. (3 marks)
 <!-- id: chem34a3-ms-8 -->
 
 *Written answer*
 
 #### Infrared spectroscopy
 
-**Q1571.** A broad absorption between 3200 and 3600 cm⁻¹ in an infrared spectrum indicates the presence of:
+**Q1573.** A broad absorption between 3200 and 3600 cm⁻¹ in an infrared spectrum indicates the presence of:
 <!-- id: chem-6-2-1 -->
 
 - A. a C=O bond in a ketone
@@ -11168,7 +11210,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. an O–H bond in an alcohol
 - D. a C=C bond in an alkene
 
-**Q1572.** A bond will absorb infrared radiation only if its vibration:
+**Q1574.** A bond will absorb infrared radiation only if its vibration:
 <!-- id: chem-6-2-2 -->
 
 - A. breaks the bond
@@ -11176,7 +11218,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. involves a carbon atom
 - D. causes a change in the dipole moment of the molecule
 
-**Q1573.** A strong, sharp absorption at about 1715 cm⁻¹ is most characteristic of:
+**Q1575.** A strong, sharp absorption at about 1715 cm⁻¹ is most characteristic of:
 <!-- id: chem-6-2-3 -->
 
 - A. a C=O bond
@@ -11184,7 +11226,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. an N–H bond
 - D. a C–O bond
 
-**Q1574.** How can IR spectroscopy distinguish ethanoic acid from ethanol?
+**Q1576.** How can IR spectroscopy distinguish ethanoic acid from ethanol?
 <!-- id: chem-6-2-4 -->
 
 - A. ethanol shows a C=O absorption near 1700 cm⁻¹ but ethanoic acid does not
@@ -11192,7 +11234,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. only ethanol shows C–H absorptions near 3000 cm⁻¹
 - D. ethanoic acid has no O–H absorption at all
 
-**Q1575.** The fingerprint region of an IR spectrum (below about 1500 cm⁻¹) is most useful for:
+**Q1577.** The fingerprint region of an IR spectrum (below about 1500 cm⁻¹) is most useful for:
 <!-- id: chem-6-2-5 -->
 
 - A. identifying O–H groups
@@ -11200,7 +11242,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. confirming the identity of a compound by matching against a reference spectrum
 - D. counting hydrogen environments
 
-**Q1576.** In IR spectroscopy, absorptions are reported as wavenumbers in cm⁻¹. A higher wavenumber corresponds to:
+**Q1578.** In IR spectroscopy, absorptions are reported as wavenumbers in cm⁻¹. A higher wavenumber corresponds to:
 <!-- id: chem-6-2-6 -->
 
 - A. longer wavelength radiation
@@ -11208,7 +11250,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. lower energy radiation
 - D. higher energy radiation
 
-**Q1577.** When an organic molecule absorbs infrared radiation, the energy is used to:
+**Q1579.** When an organic molecule absorbs infrared radiation, the energy is used to:
 <!-- id: chem-6-2-7 -->
 
 - A. increase the vibrational energy of its bonds
@@ -11216,7 +11258,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. change the spin state of its nuclei
 - D. promote electrons to higher energy levels
 
-**Q1578.** Propan-1-ol is oxidised with excess acidified dichromate. Which change in the IR spectrum confirms that propanoic acid has formed?
+**Q1580.** Propan-1-ol is oxidised with excess acidified dichromate. Which change in the IR spectrum confirms that propanoic acid has formed?
 <!-- id: chem-6-2-8 -->
 
 - A. all absorptions above 2500 cm⁻¹ disappear
@@ -11224,7 +11266,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. a new absorption appears around 3350–3500 cm⁻¹ due to N–H
 - D. the C–H absorption near 3000 cm⁻¹ disappears
 
-**Q1579.** Which of these molecules does NOT absorb infrared radiation?
+**Q1581.** Which of these molecules does NOT absorb infrared radiation?
 <!-- id: chem-6-2-9 -->
 
 - A. CO₂
@@ -11232,7 +11274,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. N₂
 - D. CO
 
-**Q1580.** An IR spectrum shows absorptions at about 1650 cm⁻¹ and in the 2850–3300 cm⁻¹ region, with no absorptions above 3300 cm⁻¹ or near 1700 cm⁻¹. The compound is most likely:
+**Q1582.** An IR spectrum shows absorptions at about 1650 cm⁻¹ and in the 2850–3300 cm⁻¹ region, with no absorptions above 3300 cm⁻¹ or near 1700 cm⁻¹. The compound is most likely:
 <!-- id: chem-6-2-10 -->
 
 - A. propan-1-ol
@@ -11240,7 +11282,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. propanoic acid
 - D. propene
 
-**Q1581.** How could IR spectroscopy distinguish ethyl ethanoate from butanoic acid?
+**Q1583.** How could IR spectroscopy distinguish ethyl ethanoate from butanoic acid?
 <!-- id: chem-6-2-11 -->
 
 - A. both show C=O near 1700 cm⁻¹, but only butanoic acid shows a broad O–H absorption at 2500–3000 cm⁻¹
@@ -11248,7 +11290,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. only butanoic acid shows C–H absorptions
 - D. the two compounds would give identical IR spectra
 
-**Q1582.** An absorption in the 3350–3500 cm⁻¹ region in the spectrum of a compound containing nitrogen most likely indicates:
+**Q1584.** An absorption in the 3350–3500 cm⁻¹ region in the spectrum of a compound containing nitrogen most likely indicates:
 <!-- id: chem-6-2-12 -->
 
 - A. a C≡N bond
@@ -11256,7 +11298,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. a C=O bond
 - D. a C–N bond
 
-**Q1583.** On a typical IR spectrum with percentage transmittance on the vertical axis, an absorption appears as:
+**Q1585.** On a typical IR spectrum with percentage transmittance on the vertical axis, an absorption appears as:
 <!-- id: chem-6-2-13 -->
 
 - A. an upward peak where more radiation is transmitted
@@ -11264,7 +11306,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. a downward dip where less radiation is transmitted
 - D. a shift of the whole baseline to the left
 
-**Q1584.** The C=O bond absorbs at a higher wavenumber (about 1700 cm⁻¹) than the C–O bond (about 1000–1300 cm⁻¹) mainly because:
+**Q1586.** The C=O bond absorbs at a higher wavenumber (about 1700 cm⁻¹) than the C–O bond (about 1000–1300 cm⁻¹) mainly because:
 <!-- id: chem-6-2-14 -->
 
 - A. the C=O bond contains heavier atoms
@@ -11272,7 +11314,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. single bonds do not absorb infrared radiation
 - D. the double bond is stronger, so it vibrates at a higher frequency
 
-**Q1585.** How would the IR spectrum of propanone differ from that of propan-2-ol?
+**Q1587.** How would the IR spectrum of propanone differ from that of propan-2-ol?
 <!-- id: chem-6-2-15 -->
 
 - A. propanone shows a strong absorption near 1700 cm⁻¹ and no broad band at 3200–3600 cm⁻¹
@@ -11280,7 +11322,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. propanone shows no C–H absorptions
 - D. the spectra would be identical because both contain three carbon atoms
 
-**Q1586.** Propan-1-ol and propan-2-ol have very similar IR spectra above 1500 cm⁻¹. The best way to tell them apart using IR is to:
+**Q1588.** Propan-1-ol and propan-2-ol have very similar IR spectra above 1500 cm⁻¹. The best way to tell them apart using IR is to:
 <!-- id: chem-6-2-16 -->
 
 - A. look for a C=O absorption
@@ -11288,7 +11330,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. measure the height of the O–H band
 - D. look for an absorption at 2500–3000 cm⁻¹
 
-**Q1587.** Absorptions in the 2850–3300 cm⁻¹ region appear in the IR spectra of almost all organic compounds. They are due to:
+**Q1589.** Absorptions in the 2850–3300 cm⁻¹ region appear in the IR spectra of almost all organic compounds. They are due to:
 <!-- id: chem-6-2-17 -->
 
 - A. C–C bonds
@@ -11296,7 +11338,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. C–H bonds
 - D. O–H bonds in water
 
-**Q1588.** A sample of ethyl ethanoate is hydrolysed completely in acidic solution. Compared with the spectrum of pure ethyl ethanoate, the IR spectrum of the product mixture would show:
+**Q1590.** A sample of ethyl ethanoate is hydrolysed completely in acidic solution. Compared with the spectrum of pure ethyl ethanoate, the IR spectrum of the product mixture would show:
 <!-- id: chem-6-2-18 -->
 
 - A. the loss of all C–H absorptions
@@ -11304,42 +11346,42 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. a new N–H absorption
 - D. new broad O–H absorptions from ethanol and ethanoic acid
 
-**Q1589.** Explain why the O–H absorption in the IR spectrum of a carboxylic acid is very broad.
+**Q1591.** Explain why the O–H absorption in the IR spectrum of a carboxylic acid is very broad.
 <!-- id: chem-6-2-19 -->
 
 *Written answer*
 
-**Q1590.** Describe how IR spectroscopy could be used to distinguish butan-1-ol from butanal.
+**Q1592.** Describe how IR spectroscopy could be used to distinguish butan-1-ol from butanal.
 <!-- id: chem-6-2-20 -->
 
 *Written answer*
 
-**Q1591.** Carbon dioxide is a non-polar molecule, yet it absorbs infrared radiation. Explain why.
+**Q1593.** Carbon dioxide is a non-polar molecule, yet it absorbs infrared radiation. Explain why.
 <!-- id: chem-6-2-21 -->
 
 *Written answer*
 
-**Q1592.** Explain how the fingerprint region of an IR spectrum is used in chemical analysis.
+**Q1594.** Explain how the fingerprint region of an IR spectrum is used in chemical analysis.
 <!-- id: chem-6-2-22 -->
 
 *Written answer*
 
-**Q1593.** Propan-2-ol is heated with acidified potassium dichromate. Name the organic product and describe two changes in the IR spectrum showing the reaction has occurred.
+**Q1595.** Propan-2-ol is heated with acidified potassium dichromate. Name the organic product and describe two changes in the IR spectrum showing the reaction has occurred.
 <!-- id: chem-6-2-23 -->
 
 *Written answer*
 
-**Q1594.** State one limitation of using IR spectroscopy alone to determine the structure of an unknown organic compound.
+**Q1596.** State one limitation of using IR spectroscopy alone to determine the structure of an unknown organic compound.
 <!-- id: chem-6-2-24 -->
 
 *Written answer*
 
-**Q1595.** Explain why a given bond absorbs infrared radiation only at particular wavenumbers rather than across the whole IR range.
+**Q1597.** Explain why a given bond absorbs infrared radiation only at particular wavenumbers rather than across the whole IR range.
 <!-- id: chem-6-2-25 -->
 
 *Written answer*
 
-**Q1596.** Absorption of infrared radiation by an organic molecule causes
+**Q1598.** Absorption of infrared radiation by an organic molecule causes
 <!-- id: chem34a3-ir-1 -->
 
 - A. electrons to move to higher energy levels
@@ -11347,7 +11389,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. nuclei to flip their spin in a magnetic field
 - D. the molecule to ionise and fragment
 
-**Q1597.** An IR spectrum shows a very broad absorption from about 2500 to 3300 cm⁻¹ and a strong, sharp absorption near 1710 cm⁻¹. The compound is most likely
+**Q1599.** An IR spectrum shows a very broad absorption from about 2500 to 3300 cm⁻¹ and a strong, sharp absorption near 1710 cm⁻¹. The compound is most likely
 <!-- id: chem34a3-ir-2 -->
 
 - A. butan-1-ol
@@ -11355,7 +11397,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. butanoic acid
 - D. butan-1-amine
 
-**Q1598.** Propan-1-ol is oxidised by acidified potassium dichromate and the product is analysed by IR. Which change in the spectrum would confirm that some propanal has formed while some propan-1-ol remains?
+**Q1600.** Propan-1-ol is oxidised by acidified potassium dichromate and the product is analysed by IR. Which change in the spectrum would confirm that some propanal has formed while some propan-1-ol remains?
 <!-- id: chem34a3-ir-3 -->
 
 - A. The O–H band disappears and a C=O band appears
@@ -11363,7 +11405,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. A C≡N band appears near 2250 cm⁻¹
 - D. Only the C–H band near 2900 cm⁻¹ is present
 
-**Q1599.** The region of an IR spectrum below about 1500 cm⁻¹ is called the fingerprint region because
+**Q1601.** The region of an IR spectrum below about 1500 cm⁻¹ is called the fingerprint region because
 <!-- id: chem34a3-ir-4 -->
 
 - A. it only contains absorptions from O–H bonds
@@ -11371,7 +11413,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. it is the only region where C=O bonds absorb
 - D. no absorptions occur there for organic compounds
 
-**Q1600.** Which pair of compounds would be most difficult to distinguish using only the absorptions above 1500 cm⁻¹ in their IR spectra?
+**Q1602.** Which pair of compounds would be most difficult to distinguish using only the absorptions above 1500 cm⁻¹ in their IR spectra?
 <!-- id: chem34a3-ir-5 -->
 
 - A. ethanol and ethanoic acid
@@ -11379,24 +11421,24 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. pentan-2-one and pentan-3-one
 - D. ethyl ethanoate and ethanol
 
-**Q1601.** A bottle is labelled either propanal, propan-1-ol or propanoic acid. Describe how IR spectroscopy could identify which compound it contains, referring to specific absorptions. (3 marks)
+**Q1603.** A bottle is labelled either propanal, propan-1-ol or propanoic acid. Describe how IR spectroscopy could identify which compound it contains, referring to specific absorptions. (3 marks)
 <!-- id: chem34a3-ir-6 -->
 
 *Written answer*
 
-**Q1602.** Explain why the O–H absorption in the IR spectrum of a liquid alcohol is broad rather than sharp. (2 marks)
+**Q1604.** Explain why the O–H absorption in the IR spectrum of a liquid alcohol is broad rather than sharp. (2 marks)
 <!-- id: chem34a3-ir-7 -->
 
 *Written answer*
 
-**Q1603.** An ester, ethyl ethanoate, is made from ethanol and ethanoic acid. A student says the IR spectrum of the purified product should contain no absorption between 3200 and 3600 cm⁻¹. Explain whether the student is correct and identify one absorption that should be present. (2 marks)
+**Q1605.** An ester, ethyl ethanoate, is made from ethanol and ethanoic acid. A student says the IR spectrum of the purified product should contain no absorption between 3200 and 3600 cm⁻¹. Explain whether the student is correct and identify one absorption that should be present. (2 marks)
 <!-- id: chem34a3-ir-8 -->
 
 *Written answer*
 
 #### ¹H and ¹³C NMR spectroscopy
 
-**Q1604.** Tetramethylsilane (TMS) is used as the reference in NMR spectroscopy because it:
+**Q1606.** Tetramethylsilane (TMS) is used as the reference in NMR spectroscopy because it:
 <!-- id: chem-6-3-1 -->
 
 - A. gives a single strong signal from 12 equivalent hydrogens and is chemically inert
@@ -11404,7 +11446,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. has many different hydrogen environments to compare with
 - D. reacts with the sample to produce sharper peaks
 
-**Q1605.** How many different hydrogen environments are there in ethanol, CH₃CH₂OH?
+**Q1607.** How many different hydrogen environments are there in ethanol, CH₃CH₂OH?
 <!-- id: chem-6-3-2 -->
 
 - A. 2
@@ -11412,7 +11454,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 6
 - D. 1
 
-**Q1606.** In the high-resolution ¹H NMR spectrum of chloroethane (CH₃CH₂Cl), the CH₃ signal is split into a:
+**Q1608.** In the high-resolution ¹H NMR spectrum of chloroethane (CH₃CH₂Cl), the CH₃ signal is split into a:
 <!-- id: chem-6-3-3 -->
 
 - A. quartet
@@ -11420,7 +11462,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. triplet
 - D. singlet
 
-**Q1607.** How many peaks would appear in the ¹³C NMR spectrum of propan-2-ol, CH₃CH(OH)CH₃?
+**Q1609.** How many peaks would appear in the ¹³C NMR spectrum of propan-2-ol, CH₃CH(OH)CH₃?
 <!-- id: chem-6-3-4 -->
 
 - A. 3
@@ -11428,7 +11470,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 4
 - D. 2
 
-**Q1608.** How many peaks would appear in the ¹³C NMR spectrum of butanone, CH₃COCH₂CH₃?
+**Q1610.** How many peaks would appear in the ¹³C NMR spectrum of butanone, CH₃COCH₂CH₃?
 <!-- id: chem-6-3-5 -->
 
 - A. 4
@@ -11436,7 +11478,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 2
 - D. 5
 
-**Q1609.** What is the ratio of peak areas in the ¹H NMR spectrum of ethyl ethanoate, CH₃COOCH₂CH₃?
+**Q1611.** What is the ratio of peak areas in the ¹H NMR spectrum of ethyl ethanoate, CH₃COOCH₂CH₃?
 <!-- id: chem-6-3-6 -->
 
 - A. 3 : 5
@@ -11444,7 +11486,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 1 : 1 : 1
 - D. 4 : 4
 
-**Q1610.** Deuterated solvents such as CDCl₃ are used in ¹H NMR spectroscopy because:
+**Q1612.** Deuterated solvents such as CDCl₃ are used in ¹H NMR spectroscopy because:
 <!-- id: chem-6-3-7 -->
 
 - A. they react with the sample to make it more soluble
@@ -11452,7 +11494,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. they contain no ¹H atoms, so they produce no interfering signals
 - D. they act as the 0 ppm reference
 
-**Q1611.** Which compound shows only one signal in its ¹H NMR spectrum?
+**Q1613.** Which compound shows only one signal in its ¹H NMR spectrum?
 <!-- id: chem-6-3-8 -->
 
 - A. propanal, CH₃CH₂CHO
@@ -11460,7 +11502,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. ethanol, CH₃CH₂OH
 - D. propanone, CH₃COCH₃
 
-**Q1612.** In the ¹H NMR spectrum of 2-methylpropane, (CH₃)₃CH, the signal for the CH₃ hydrogens is a:
+**Q1614.** In the ¹H NMR spectrum of 2-methylpropane, (CH₃)₃CH, the signal for the CH₃ hydrogens is a:
 <!-- id: chem-6-3-9 -->
 
 - A. doublet with a relative area of 9
@@ -11468,7 +11510,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. doublet with a relative area of 3
 - D. decet with a relative area of 1
 
-**Q1613.** Hydrogen atoms near an electronegative atom such as oxygen or chlorine appear at higher chemical shifts because they are:
+**Q1615.** Hydrogen atoms near an electronegative atom such as oxygen or chlorine appear at higher chemical shifts because they are:
 <!-- id: chem-6-3-10 -->
 
 - A. shielded by extra electron density
@@ -11476,7 +11518,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. not affected by the magnetic field
 - D. coupled to more neighbouring hydrogens
 
-**Q1614.** A ¹H NMR signal at about 9.7 ppm is most likely due to a hydrogen in:
+**Q1616.** A ¹H NMR signal at about 9.7 ppm is most likely due to a hydrogen in:
 <!-- id: chem-6-3-11 -->
 
 - A. an alkane (R–CH₃)
@@ -11484,7 +11526,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. an aldehyde group (–CHO)
 - D. the TMS reference
 
-**Q1615.** How many peaks would appear in the ¹³C NMR spectrum of pentan-3-one, CH₃CH₂COCH₂CH₃?
+**Q1617.** How many peaks would appear in the ¹³C NMR spectrum of pentan-3-one, CH₃CH₂COCH₂CH₃?
 <!-- id: chem-6-3-12 -->
 
 - A. 5
@@ -11492,7 +11534,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 4
 - D. 3
 
-**Q1616.** In the high-resolution ¹H NMR spectrum of 1-chloropropane (CH₃CH₂CH₂Cl), the signal for the middle CH₂ group is a:
+**Q1618.** In the high-resolution ¹H NMR spectrum of 1-chloropropane (CH₃CH₂CH₂Cl), the signal for the middle CH₂ group is a:
 <!-- id: chem-6-3-13 -->
 
 - A. sextet
@@ -11500,7 +11542,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. quartet
 - D. quintet
 
-**Q1617.** In VCE-level ¹H NMR analysis, the signal from the hydrogen of an alcohol O–H group is usually treated as a:
+**Q1619.** In VCE-level ¹H NMR analysis, the signal from the hydrogen of an alcohol O–H group is usually treated as a:
 <!-- id: chem-6-3-14 -->
 
 - A. triplet
@@ -11508,7 +11550,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. quartet
 - D. doublet
 
-**Q1618.** NMR spectroscopy involves the absorption of which type of electromagnetic radiation?
+**Q1620.** NMR spectroscopy involves the absorption of which type of electromagnetic radiation?
 <!-- id: chem-6-3-15 -->
 
 - A. infrared radiation
@@ -11516,7 +11558,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. radio waves
 - D. X-rays
 
-**Q1619.** Which statement correctly describes how ¹³C NMR distinguishes propan-1-ol from propan-2-ol?
+**Q1621.** Which statement correctly describes how ¹³C NMR distinguishes propan-1-ol from propan-2-ol?
 <!-- id: chem-6-3-16 -->
 
 - A. propan-1-ol gives 2 peaks and propan-2-ol gives 3 peaks
@@ -11524,7 +11566,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. both give 1 peak
 - D. propan-1-ol gives 3 peaks and propan-2-ol gives 2 peaks
 
-**Q1620.** A compound with formula C₂H₄O₂ has a ¹H NMR spectrum with two singlets in a 3 : 1 ratio at 2.1 ppm and 11.5 ppm. The compound is:
+**Q1622.** A compound with formula C₂H₄O₂ has a ¹H NMR spectrum with two singlets in a 3 : 1 ratio at 2.1 ppm and 11.5 ppm. The compound is:
 <!-- id: chem-6-3-17 -->
 
 - A. ethanoic acid
@@ -11532,7 +11574,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. ethane-1,2-diol
 - D. ethanal
 
-**Q1621.** How many hydrogen environments are there in methyl propanoate, CH₃CH₂COOCH₃?
+**Q1623.** How many hydrogen environments are there in methyl propanoate, CH₃CH₂COOCH₃?
 <!-- id: chem-6-3-18 -->
 
 - A. 2
@@ -11540,42 +11582,42 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 4
 - D. 8
 
-**Q1622.** Predict the number of signals, their splitting patterns and their relative areas in the high-resolution ¹H NMR spectrum of chloroethane, CH₃CH₂Cl.
+**Q1624.** Predict the number of signals, their splitting patterns and their relative areas in the high-resolution ¹H NMR spectrum of chloroethane, CH₃CH₂Cl.
 <!-- id: chem-6-3-19 -->
 
 *Written answer*
 
-**Q1623.** State two reasons why tetramethylsilane (TMS) is a suitable reference substance for NMR spectroscopy.
+**Q1625.** State two reasons why tetramethylsilane (TMS) is a suitable reference substance for NMR spectroscopy.
 <!-- id: chem-6-3-20 -->
 
 *Written answer*
 
-**Q1624.** How many peaks would be observed in the ¹³C NMR spectrum of butan-2-ol, CH₃CH(OH)CH₂CH₃? Explain.
+**Q1626.** How many peaks would be observed in the ¹³C NMR spectrum of butan-2-ol, CH₃CH(OH)CH₂CH₃? Explain.
 <!-- id: chem-6-3-21 -->
 
 *Written answer*
 
-**Q1625.** A ¹H NMR spectrum shows a triplet with area 3 and a quartet with area 2. What structural feature does this pattern indicate? Explain.
+**Q1627.** A ¹H NMR spectrum shows a triplet with area 3 and a quartet with area 2. What structural feature does this pattern indicate? Explain.
 <!-- id: chem-6-3-22 -->
 
 *Written answer*
 
-**Q1626.** A compound with formula C₃H₆O shows only one signal (a singlet) in its ¹H NMR spectrum. Identify the compound and explain your reasoning.
+**Q1628.** A compound with formula C₃H₆O shows only one signal (a singlet) in its ¹H NMR spectrum. Identify the compound and explain your reasoning.
 <!-- id: chem-6-3-23 -->
 
 *Written answer*
 
-**Q1627.** A compound C₃H₈O shows 2 peaks in its ¹³C NMR spectrum. Identify it and describe its expected high-resolution ¹H NMR spectrum (ignore chemical shift values).
+**Q1629.** A compound C₃H₈O shows 2 peaks in its ¹³C NMR spectrum. Identify it and describe its expected high-resolution ¹H NMR spectrum (ignore chemical shift values).
 <!-- id: chem-6-3-24 -->
 
 *Written answer*
 
-**Q1628.** Explain how the ratio of peak areas in a ¹H NMR spectrum helps determine the structure of an organic compound.
+**Q1630.** Explain how the ratio of peak areas in a ¹H NMR spectrum helps determine the structure of an organic compound.
 <!-- id: chem-6-3-25 -->
 
 *Written answer*
 
-**Q1629.** Tetramethylsilane (TMS) is used as the reference in NMR spectroscopy. Which property is NOT a reason for choosing TMS?
+**Q1631.** Tetramethylsilane (TMS) is used as the reference in NMR spectroscopy. Which property is NOT a reason for choosing TMS?
 <!-- id: chem34a3-nmr-1 -->
 
 - A. All its hydrogen atoms are in the same environment, giving a single peak
@@ -11583,7 +11625,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Its signal appears at a higher chemical shift than most organic compounds
 - D. It gives a strong signal from a small amount
 
-**Q1630.** How many peaks would appear in the ¹³C NMR spectrum of pentan-3-one, CH₃CH₂COCH₂CH₃?
+**Q1632.** How many peaks would appear in the ¹³C NMR spectrum of pentan-3-one, CH₃CH₂COCH₂CH₃?
 <!-- id: chem34a3-nmr-2 -->
 
 - A. 2
@@ -11591,7 +11633,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 4
 - D. 5
 
-**Q1631.** In the high-resolution ¹H NMR spectrum of 1-chloropropane, CH₃CH₂CH₂Cl, the signal for the middle CH₂ group would be split into a
+**Q1633.** In the high-resolution ¹H NMR spectrum of 1-chloropropane, CH₃CH₂CH₂Cl, the signal for the middle CH₂ group would be split into a
 <!-- id: chem34a3-nmr-3 -->
 
 - A. triplet
@@ -11599,7 +11641,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. quintet
 - D. sextet
 
-**Q1632.** A compound with molecular formula C₂H₄O₂ gives a ¹H NMR spectrum with two singlets, at about 2.1 ppm and about 11.5 ppm, in the area ratio 3 : 1. The compound is
+**Q1634.** A compound with molecular formula C₂H₄O₂ gives a ¹H NMR spectrum with two singlets, at about 2.1 ppm and about 11.5 ppm, in the area ratio 3 : 1. The compound is
 <!-- id: chem34a3-nmr-4 -->
 
 - A. methyl methanoate
@@ -11607,7 +11649,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 2-hydroxyethanal
 - D. ethane-1,2-diol
 
-**Q1633.** The relative areas under the peaks in a ¹H NMR spectrum indicate the
+**Q1635.** The relative areas under the peaks in a ¹H NMR spectrum indicate the
 <!-- id: chem34a3-nmr-5 -->
 
 - A. number of neighbouring hydrogen atoms for each environment
@@ -11615,24 +11657,24 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. number of carbon atoms bonded to each hydrogen
 - D. electronegativity of the atoms near each hydrogen
 
-**Q1634.** Predict the high-resolution ¹H NMR spectrum of ethanol, CH₃CH₂OH. For each signal give the splitting pattern and relative peak area. Assume the O–H hydrogen does not couple with other hydrogens. (3 marks)
+**Q1636.** Predict the high-resolution ¹H NMR spectrum of ethanol, CH₃CH₂OH. For each signal give the splitting pattern and relative peak area. Assume the O–H hydrogen does not couple with other hydrogens. (3 marks)
 <!-- id: chem34a3-nmr-6 -->
 
 *Written answer*
 
-**Q1635.** Ethyl ethanoate (CH₃COOCH₂CH₃) and methyl propanoate (CH₃CH₂COOCH₃) are isomers. Describe two differences in their ¹H NMR spectra that would allow them to be distinguished. (2 marks)
+**Q1637.** Ethyl ethanoate (CH₃COOCH₂CH₃) and methyl propanoate (CH₃CH₂COOCH₃) are isomers. Describe two differences in their ¹H NMR spectra that would allow them to be distinguished. (2 marks)
 <!-- id: chem34a3-nmr-7 -->
 
 *Written answer*
 
-**Q1636.** An alcohol with molecular formula C₃H₈O gives a ¹³C NMR spectrum with only two peaks. Its ¹H NMR spectrum contains a doublet with relative area 6. Identify the alcohol and explain the evidence. (3 marks)
+**Q1638.** An alcohol with molecular formula C₃H₈O gives a ¹³C NMR spectrum with only two peaks. Its ¹H NMR spectrum contains a doublet with relative area 6. Identify the alcohol and explain the evidence. (3 marks)
 <!-- id: chem34a3-nmr-8 -->
 
 *Written answer*
 
 #### HPLC and volumetric analysis
 
-**Q1637.** In HPLC, the components of a mixture are separated because they:
+**Q1639.** In HPLC, the components of a mixture are separated because they:
 <!-- id: chem-6-4-1 -->
 
 - A. have different molar masses only
@@ -11640,7 +11682,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. differ in how strongly they adsorb to the stationary phase relative to how well they dissolve in the mobile phase
 - D. absorb different wavelengths of light in the column
 
-**Q1638.** Retention time in HPLC is defined as the time taken for a component to:
+**Q1640.** Retention time in HPLC is defined as the time taken for a component to:
 <!-- id: chem-6-4-2 -->
 
 - A. dissolve in the mobile phase
@@ -11648,7 +11690,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. evaporate from the column
 - D. travel from the point of injection to the detector
 
-**Q1639.** In reversed-phase HPLC the stationary phase is non-polar and the mobile phase is polar. Which component of a mixture would generally have the shortest retention time?
+**Q1641.** In reversed-phase HPLC the stationary phase is non-polar and the mobile phase is polar. Which component of a mixture would generally have the shortest retention time?
 <!-- id: chem-6-4-3 -->
 
 - A. the most polar component
@@ -11656,7 +11698,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. the component with the largest molar mass
 - D. the component present in the highest concentration
 
-**Q1640.** In quantitative HPLC analysis, the concentration of a component is determined from:
+**Q1642.** In quantitative HPLC analysis, the concentration of a component is determined from:
 <!-- id: chem-6-4-4 -->
 
 - A. the retention time compared with standards
@@ -11664,7 +11706,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. the width of the solvent front
 - D. the number of peaks in the chromatogram
 
-**Q1641.** If the flow rate of the mobile phase in an HPLC column is increased with all other conditions unchanged, the retention times of the components will:
+**Q1643.** If the flow rate of the mobile phase in an HPLC column is increased with all other conditions unchanged, the retention times of the components will:
 <!-- id: chem-6-4-5 -->
 
 - A. increase
@@ -11672,7 +11714,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. decrease
 - D. become identical for all components
 
-**Q1642.** An analyst suspects a sports drink contains caffeine. The best way to confirm this using HPLC is to:
+**Q1644.** An analyst suspects a sports drink contains caffeine. The best way to confirm this using HPLC is to:
 <!-- id: chem-6-4-6 -->
 
 - A. measure the height of the largest peak
@@ -11680,7 +11722,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. compare the sample's peak area with the solvent peak
 - D. run a caffeine standard under identical conditions and compare retention times
 
-**Q1643.** A 25.00 mL aliquot of hydrochloric acid is titrated with 0.100 M sodium hydroxide. The average titre is 20.00 mL. What is the concentration of the hydrochloric acid?
+**Q1645.** A 25.00 mL aliquot of hydrochloric acid is titrated with 0.100 M sodium hydroxide. The average titre is 20.00 mL. What is the concentration of the hydrochloric acid?
 <!-- id: chem-6-4-7 -->
 
 - A. 0.0800 M
@@ -11688,7 +11730,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 0.100 M
 - D. 0.0400 M
 
-**Q1644.** When ethanoic acid is titrated with sodium hydroxide, the pH at the equivalence point is:
+**Q1646.** When ethanoic acid is titrated with sodium hydroxide, the pH at the equivalence point is:
 <!-- id: chem-6-4-8 -->
 
 - A. exactly 7, so any indicator is suitable
@@ -11696,7 +11738,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. less than 7, so methyl orange is a suitable indicator
 - D. less than 7, so phenolphthalein is a suitable indicator
 
-**Q1645.** Which substance is suitable for use as a primary standard?
+**Q1647.** Which substance is suitable for use as a primary standard?
 <!-- id: chem-6-4-9 -->
 
 - A. sodium hydroxide pellets
@@ -11704,7 +11746,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. anhydrous sodium carbonate
 - D. potassium permanganate solution left in the light
 
-**Q1646.** Before a titration, the burette should be rinsed with:
+**Q1648.** Before a titration, the burette should be rinsed with:
 <!-- id: chem-6-4-10 -->
 
 - A. deionised water only
@@ -11712,7 +11754,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. ethanol, then allowed to dry
 - D. the solution it will contain
 
-**Q1647.** A 20.00 mL aliquot of 0.0500 M Na₂CO₃ reacts completely with 18.50 mL of HCl: Na₂CO₃ + 2HCl → 2NaCl + H₂O + CO₂. What is the concentration of the HCl?
+**Q1649.** A 20.00 mL aliquot of 0.0500 M Na₂CO₃ reacts completely with 18.50 mL of HCl: Na₂CO₃ + 2HCl → 2NaCl + H₂O + CO₂. What is the concentration of the HCl?
 <!-- id: chem-6-4-11 -->
 
 - A. 0.108 M
@@ -11720,7 +11762,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 0.0925 M
 - D. 0.216 M
 
-**Q1648.** A 25.00 mL aliquot of an Fe²⁺ solution needs 15.00 mL of 0.0200 M KMnO₄ to reach the end point: MnO₄⁻ + 5Fe²⁺ + 8H⁺ → Mn²⁺ + 5Fe³⁺ + 4H₂O. What is the concentration of Fe²⁺?
+**Q1650.** A 25.00 mL aliquot of an Fe²⁺ solution needs 15.00 mL of 0.0200 M KMnO₄ to reach the end point: MnO₄⁻ + 5Fe²⁺ + 8H⁺ → Mn²⁺ + 5Fe³⁺ + 4H₂O. What is the concentration of Fe²⁺?
 <!-- id: chem-6-4-12 -->
 
 - A. 0.0120 M
@@ -11728,7 +11770,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 0.00240 M
 - D. 0.100 M
 
-**Q1649.** A student leaves a few drops of deionised water in the conical flask before adding the aliquot. The effect on the calculated concentration is:
+**Q1651.** A student leaves a few drops of deionised water in the conical flask before adding the aliquot. The effect on the calculated concentration is:
 <!-- id: chem-6-4-13 -->
 
 - A. it is too high, because the solution is diluted
@@ -11736,7 +11778,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. no effect, because the number of moles in the aliquot is unchanged
 - D. it is too high, because the titre is smaller
 
-**Q1650.** A burette is rinsed with deionised water but not with the NaOH solution before an acid is titrated. The calculated concentration of the acid will be:
+**Q1652.** A burette is rinsed with deionised water but not with the NaOH solution before an acid is titrated. The calculated concentration of the acid will be:
 <!-- id: chem-6-4-14 -->
 
 - A. too low, because the diluted NaOH gives a smaller titre
@@ -11744,7 +11786,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. too low, because the indicator changes colour early
 - D. too high, because the diluted NaOH gives a larger titre
 
-**Q1651.** In VCE titrations, titres are usually regarded as concordant if they agree within:
+**Q1653.** In VCE titrations, titres are usually regarded as concordant if they agree within:
 <!-- id: chem-6-4-15 -->
 
 - A. 0.10 mL
@@ -11752,7 +11794,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 0.50 mL
 - D. 5% of the mean
 
-**Q1652.** A 20.00 mL sample of vinegar is diluted to 250.0 mL in a volumetric flask. Titration shows the diluted solution is 0.0880 M ethanoic acid. What is the concentration of ethanoic acid in the original vinegar?
+**Q1654.** A 20.00 mL sample of vinegar is diluted to 250.0 mL in a volumetric flask. Titration shows the diluted solution is 0.0880 M ethanoic acid. What is the concentration of ethanoic acid in the original vinegar?
 <!-- id: chem-6-4-16 -->
 
 - A. 0.00704 M
@@ -11760,7 +11802,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 0.0880 M
 - D. 0.704 M
 
-**Q1653.** The end point of a titration is best described as the point at which:
+**Q1655.** The end point of a titration is best described as the point at which:
 <!-- id: chem-6-4-17 -->
 
 - A. the reactants have reacted in exact stoichiometric proportions
@@ -11768,7 +11810,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. the indicator changes colour
 - D. the burette is empty
 
-**Q1654.** Aqueous ammonia is titrated with hydrochloric acid. The most suitable indicator is:
+**Q1656.** Aqueous ammonia is titrated with hydrochloric acid. The most suitable indicator is:
 <!-- id: chem-6-4-18 -->
 
 - A. phenolphthalein, because the equivalence point is basic
@@ -11776,42 +11818,42 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. no indicator, because the reaction is self-indicating
 - D. methyl orange, because the equivalence point is acidic
 
-**Q1655.** Standard solutions of caffeine give HPLC peak areas directly proportional to concentration, with a 20.0 mg/L standard giving a peak area of 3000 units. A diluted energy-drink sample gives a caffeine peak area of 4200 units. Calculate the caffeine concentration in the diluted sample.
+**Q1657.** Standard solutions of caffeine give HPLC peak areas directly proportional to concentration, with a 20.0 mg/L standard giving a peak area of 3000 units. A diluted energy-drink sample gives a caffeine peak area of 4200 units. Calculate the caffeine concentration in the diluted sample.
 <!-- id: chem-6-4-19 -->
 
 *Written answer*
 
-**Q1656.** A 10.00 mL sample of vinegar was diluted to 100.0 mL. A 25.00 mL aliquot of the diluted solution needed 21.50 mL of 0.1000 M NaOH. Calculate the concentration of ethanoic acid in the original vinegar in % (w/v). M(CH₃COOH) = 60.05 g/mol.
+**Q1658.** A 10.00 mL sample of vinegar was diluted to 100.0 mL. A 25.00 mL aliquot of the diluted solution needed 21.50 mL of 0.1000 M NaOH. Calculate the concentration of ethanoic acid in the original vinegar in % (w/v). M(CH₃COOH) = 60.05 g/mol.
 <!-- id: chem-6-4-20 -->
 
 *Written answer*
 
-**Q1657.** Explain why sodium hydroxide is not suitable as a primary standard.
+**Q1659.** Explain why sodium hydroxide is not suitable as a primary standard.
 <!-- id: chem-6-4-21 -->
 
 *Written answer*
 
-**Q1658.** Explain why two different compounds in a mixture have different retention times in HPLC.
+**Q1660.** Explain why two different compounds in a mixture have different retention times in HPLC.
 <!-- id: chem-6-4-22 -->
 
 *Written answer*
 
-**Q1659.** A student rinses the pipette with deionised water instead of the solution being analysed. Explain the effect on the titre and on the calculated concentration of the analysed solution.
+**Q1661.** A student rinses the pipette with deionised water instead of the solution being analysed. Explain the effect on the titre and on the calculated concentration of the analysed solution.
 <!-- id: chem-6-4-23 -->
 
 *Written answer*
 
-**Q1660.** An iron tablet is dissolved in acid and all its iron is converted to Fe²⁺. The solution needs 12.40 mL of 0.0150 M KMnO₄ to reach the end point (MnO₄⁻ + 5Fe²⁺ + 8H⁺ → Mn²⁺ + 5Fe³⁺ + 4H₂O). Calculate the mass of iron in the tablet in mg. M(Fe) = 55.85 g/mol.
+**Q1662.** An iron tablet is dissolved in acid and all its iron is converted to Fe²⁺. The solution needs 12.40 mL of 0.0150 M KMnO₄ to reach the end point (MnO₄⁻ + 5Fe²⁺ + 8H⁺ → Mn²⁺ + 5Fe³⁺ + 4H₂O). Calculate the mass of iron in the tablet in mg. M(Fe) = 55.85 g/mol.
 <!-- id: chem-6-4-24 -->
 
 *Written answer*
 
-**Q1661.** Explain why HPLC columns are packed with very small particles and why this requires high pressure.
+**Q1663.** Explain why HPLC columns are packed with very small particles and why this requires high pressure.
 <!-- id: chem-6-4-25 -->
 
 *Written answer*
 
-**Q1662.** In a thin-layer chromatogram, a dye spot travels 3.6 cm while the solvent front travels 8.0 cm from the origin. The Rf value of the dye is
+**Q1664.** In a thin-layer chromatogram, a dye spot travels 3.6 cm while the solvent front travels 8.0 cm from the origin. The Rf value of the dye is
 <!-- id: chem34a3-chr-1 -->
 
 - A. 0.36
@@ -11819,7 +11861,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 2.2
 - D. 4.4
 
-**Q1663.** In reversed-phase HPLC, the stationary phase is non-polar and the mobile phase is a polar solvent mixture. Which compound would be expected to have the shortest retention time?
+**Q1665.** In reversed-phase HPLC, the stationary phase is non-polar and the mobile phase is a polar solvent mixture. Which compound would be expected to have the shortest retention time?
 <!-- id: chem34a3-chr-2 -->
 
 - A. hexane
@@ -11827,7 +11869,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. ethanoic acid
 - D. 1-chlorohexane
 
-**Q1664.** Which statement about the separation of components in chromatography is correct?
+**Q1666.** Which statement about the separation of components in chromatography is correct?
 <!-- id: chem34a3-chr-3 -->
 
 - A. Components separate because they have different molar masses only
@@ -11835,7 +11877,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Components separate because of differences in their relative attraction to the stationary and mobile phases
 - D. The mobile phase must always be more polar than the stationary phase
 
-**Q1665.** Caffeine standards of 20, 40, 60 and 80 mg L⁻¹ give HPLC peak areas of 1500, 3000, 4500 and 6000 units. A cola sample, diluted by a factor of 10 before injection, gives a caffeine peak area of 3750. The caffeine concentration in the original cola is
+**Q1667.** Caffeine standards of 20, 40, 60 and 80 mg L⁻¹ give HPLC peak areas of 1500, 3000, 4500 and 6000 units. A cola sample, diluted by a factor of 10 before injection, gives a caffeine peak area of 3750. The caffeine concentration in the original cola is
 <!-- id: chem34a3-chr-4 -->
 
 - A. 50 mg L⁻¹
@@ -11843,7 +11885,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 500 mg L⁻¹
 - D. 375 mg L⁻¹
 
-**Q1666.** An analyst changes the mobile phase in a reversed-phase HPLC run from 80% water to 50% water (with the rest methanol, which is less polar). The most likely effect on the retention time of a moderately non-polar compound is that it
+**Q1668.** An analyst changes the mobile phase in a reversed-phase HPLC run from 80% water to 50% water (with the rest methanol, which is less polar). The most likely effect on the retention time of a moderately non-polar compound is that it
 <!-- id: chem34a3-chr-5 -->
 
 - A. decreases, because the compound is now more soluble in the mobile phase
@@ -11851,22 +11893,22 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. stays the same, because retention time depends only on the column
 - D. increases, because the stationary phase becomes more polar
 
-**Q1667.** State the information that can be obtained from (a) the retention time and (b) the peak area in an HPLC chromatogram, and explain how each is used. (3 marks)
+**Q1669.** State the information that can be obtained from (a) the retention time and (b) the peak area in an HPLC chromatogram, and explain how each is used. (3 marks)
 <!-- id: chem34a3-chr-6 -->
 
 *Written answer*
 
-**Q1668.** A student identifies a pesticide in a water sample because a peak has the same retention time as a pesticide standard. Explain why this alone is not conclusive and suggest how the identification could be confirmed. (2 marks)
+**Q1670.** A student identifies a pesticide in a water sample because a peak has the same retention time as a pesticide standard. Explain why this alone is not conclusive and suggest how the identification could be confirmed. (2 marks)
 <!-- id: chem34a3-chr-7 -->
 
 *Written answer*
 
-**Q1669.** A sports drink is analysed for its vitamin B₃ content using HPLC. 10.0 mL of drink is diluted to 50.0 mL. From the calibration curve, the diluted solution contains 12.4 mg L⁻¹ of vitamin B₃. Calculate the mass of vitamin B₃ in a 600 mL bottle of the drink, in mg. (2 marks)
+**Q1671.** A sports drink is analysed for its vitamin B₃ content using HPLC. 10.0 mL of drink is diluted to 50.0 mL. From the calibration curve, the diluted solution contains 12.4 mg L⁻¹ of vitamin B₃. Calculate the mass of vitamin B₃ in a 600 mL bottle of the drink, in mg. (2 marks)
 <!-- id: chem34a3-chr-8 -->
 
 *Written answer*
 
-**Q1670.** 25.00 mL of vinegar is diluted to 250.0 mL. A 20.00 mL aliquot of the diluted solution requires 17.50 mL of 0.100 mol L⁻¹ NaOH(aq) to reach the endpoint. The concentration of ethanoic acid in the original vinegar is
+**Q1672.** 25.00 mL of vinegar is diluted to 250.0 mL. A 20.00 mL aliquot of the diluted solution requires 17.50 mL of 0.100 mol L⁻¹ NaOH(aq) to reach the endpoint. The concentration of ethanoic acid in the original vinegar is
 <!-- id: chem34a3-vol-1 -->
 
 - A. 0.0875 mol L⁻¹
@@ -11874,7 +11916,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 0.875 mol L⁻¹
 - D. 1.09 mol L⁻¹
 
-**Q1671.** Which indicator is most suitable for titrating ethanoic acid (a weak acid) with sodium hydroxide (a strong base)?
+**Q1673.** Which indicator is most suitable for titrating ethanoic acid (a weak acid) with sodium hydroxide (a strong base)?
 <!-- id: chem34a3-vol-2 -->
 
 - A. methyl orange (colour change pH 3.1–4.4)
@@ -11882,7 +11924,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. phenolphthalein (colour change pH 8.3–10.0)
 - D. methyl red (colour change pH 4.4–6.2)
 
-**Q1672.** Ethanol is oxidised by acidified dichromate according to: 3CH₃CH₂OH(aq) + 2Cr₂O₇²⁻(aq) + 16H⁺(aq) → 3CH₃COOH(aq) + 4Cr³⁺(aq) + 11H₂O(l). A 10.00 mL sample of wine is diluted to 100.0 mL, and a 10.00 mL aliquot reacts with 15.20 mL of 0.0500 mol L⁻¹ K₂Cr₂O₇. The ethanol concentration in the wine is
+**Q1674.** Ethanol is oxidised by acidified dichromate according to: 3CH₃CH₂OH(aq) + 2Cr₂O₇²⁻(aq) + 16H⁺(aq) → 3CH₃COOH(aq) + 4Cr³⁺(aq) + 11H₂O(l). A 10.00 mL sample of wine is diluted to 100.0 mL, and a 10.00 mL aliquot reacts with 15.20 mL of 0.0500 mol L⁻¹ K₂Cr₂O₇. The ethanol concentration in the wine is
 <!-- id: chem34a3-vol-3 -->
 
 - A. 0.507 mol L⁻¹
@@ -11890,7 +11932,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 0.114 mol L⁻¹
 - D. 1.14 mol L⁻¹
 
-**Q1673.** In a titration, the burette is rinsed with deionised water but not with the titrant solution before being filled. The effect on the calculated concentration of the analyte is that it will be
+**Q1675.** In a titration, the burette is rinsed with deionised water but not with the titrant solution before being filled. The effect on the calculated concentration of the analyte is that it will be
 <!-- id: chem34a3-vol-4 -->
 
 - A. too high, because the titrant is diluted and a larger titre is needed
@@ -11898,7 +11940,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. unaffected, because water does not react
 - D. too high, because the aliquot is diluted
 
-**Q1674.** Vitamin C (ascorbic acid, C₆H₈O₆) reacts with iodine in a 1 : 1 mole ratio. Which indicator is commonly used to detect the endpoint, and what is observed?
+**Q1676.** Vitamin C (ascorbic acid, C₆H₈O₆) reacts with iodine in a 1 : 1 mole ratio. Which indicator is commonly used to detect the endpoint, and what is observed?
 <!-- id: chem34a3-vol-5 -->
 
 - A. phenolphthalein; colourless to pink
@@ -11906,17 +11948,17 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. methyl orange; red to yellow
 - D. starch; the blue-black colour disappears as iodine is added
 
-**Q1675.** A vitamin C tablet is dissolved and made up to 100.0 mL in a volumetric flask. 20.00 mL aliquots are titrated with 0.0250 mol L⁻¹ I₂(aq); the average concordant titre is 22.70 mL. Vitamin C (M = 176.0 g mol⁻¹) reacts with I₂ in a 1 : 1 ratio. Calculate the mass of vitamin C in the tablet, in grams, to an appropriate number of significant figures. (3 marks)
+**Q1677.** A vitamin C tablet is dissolved and made up to 100.0 mL in a volumetric flask. 20.00 mL aliquots are titrated with 0.0250 mol L⁻¹ I₂(aq); the average concordant titre is 22.70 mL. Vitamin C (M = 176.0 g mol⁻¹) reacts with I₂ in a 1 : 1 ratio. Calculate the mass of vitamin C in the tablet, in grams, to an appropriate number of significant figures. (3 marks)
 <!-- id: chem34a3-vol-6 -->
 
 *Written answer*
 
-**Q1676.** Explain the meaning of 'concordant titres' and why the average of concordant titres, rather than all titres, is used in the calculation. (2 marks)
+**Q1678.** Explain the meaning of 'concordant titres' and why the average of concordant titres, rather than all titres, is used in the calculation. (2 marks)
 <!-- id: chem34a3-vol-7 -->
 
 *Written answer*
 
-**Q1677.** A 0.250 g sample of an unknown monoprotic carboxylic acid is dissolved in water and titrated with 0.115 mol L⁻¹ NaOH(aq). The titre is 24.65 mL. Calculate the molar mass of the acid and suggest its identity from the following: propanoic acid (74.0 g mol⁻¹), butanoic acid (88.0 g mol⁻¹), benzoic acid (122.0 g mol⁻¹). (3 marks)
+**Q1679.** A 0.250 g sample of an unknown monoprotic carboxylic acid is dissolved in water and titrated with 0.115 mol L⁻¹ NaOH(aq). The titre is 24.65 mL. Calculate the molar mass of the acid and suggest its identity from the following: propanoic acid (74.0 g mol⁻¹), butanoic acid (88.0 g mol⁻¹), benzoic acid (122.0 g mol⁻¹). (3 marks)
 <!-- id: chem34a3-vol-8 -->
 
 *Written answer*
@@ -11925,7 +11967,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 #### Proteins and amino acids
 
-**Q1678.** Which two functional groups are present in every 2-amino acid found in proteins?
+**Q1680.** Which two functional groups are present in every 2-amino acid found in proteins?
 <!-- id: chem-7-1-1 -->
 
 - A. Amino and carboxyl
@@ -11933,7 +11975,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Amino and ester
 - D. Amide and hydroxyl
 
-**Q1679.** The bond formed between two amino acids in a condensation reaction is called a:
+**Q1681.** The bond formed between two amino acids in a condensation reaction is called a:
 <!-- id: chem-7-1-2 -->
 
 - A. ester bond
@@ -11941,7 +11983,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. glycosidic bond
 - D. hydrogen bond
 
-**Q1680.** How many water molecules are released when a single polypeptide chain of 150 amino acid residues is formed?
+**Q1682.** How many water molecules are released when a single polypeptide chain of 150 amino acid residues is formed?
 <!-- id: chem-7-1-3 -->
 
 - A. 150
@@ -11949,7 +11991,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 149
 - D. 75
 
-**Q1681.** Glycine (C₂H₅NO₂, M = 75.0 g mol⁻¹) forms the dipeptide Gly-Gly. What is the molar mass of Gly-Gly?
+**Q1683.** Glycine (C₂H₅NO₂, M = 75.0 g mol⁻¹) forms the dipeptide Gly-Gly. What is the molar mass of Gly-Gly?
 <!-- id: chem-7-1-4 -->
 
 - A. 150.0 g mol⁻¹
@@ -11957,7 +11999,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 114.0 g mol⁻¹
 - D. 132.0 g mol⁻¹
 
-**Q1682.** Which level of protein structure is defined by the sequence of amino acids in a polypeptide chain?
+**Q1684.** Which level of protein structure is defined by the sequence of amino acids in a polypeptide chain?
 <!-- id: chem-7-1-5 -->
 
 - A. Primary
@@ -11965,7 +12007,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Tertiary
 - D. Quaternary
 
-**Q1683.** α-helices and β-pleated sheets in proteins are stabilised mainly by:
+**Q1685.** α-helices and β-pleated sheets in proteins are stabilised mainly by:
 <!-- id: chem-7-1-6 -->
 
 - A. disulfide bridges between cysteine side chains
@@ -11973,7 +12015,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. ionic interactions between charged side chains
 - D. peptide bonds between side chains
 
-**Q1684.** A disulfide bridge in a protein forms between the side chains of which amino acid?
+**Q1686.** A disulfide bridge in a protein forms between the side chains of which amino acid?
 <!-- id: chem-7-1-7 -->
 
 - A. Serine
@@ -11981,7 +12023,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Cysteine
 - D. Lysine
 
-**Q1685.** Which statement best describes the quaternary structure of a protein?
+**Q1687.** Which statement best describes the quaternary structure of a protein?
 <!-- id: chem-7-1-8 -->
 
 - A. The folding of a single polypeptide chain into its overall 3D shape
@@ -11989,7 +12031,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. The sequence of amino acids in the chain
 - D. The association of two or more polypeptide chains into one functional protein
 
-**Q1686.** When egg white is fried, the protein albumin is denatured. Which bonds remain intact?
+**Q1688.** When egg white is fried, the protein albumin is denatured. Which bonds remain intact?
 <!-- id: chem-7-1-9 -->
 
 - A. Peptide bonds
@@ -11997,7 +12039,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Ionic interactions between side chains
 - D. Dispersion forces between non-polar side chains
 
-**Q1687.** Which of the following amino acids is not chiral?
+**Q1689.** Which of the following amino acids is not chiral?
 <!-- id: chem-7-1-10 -->
 
 - A. Alanine
@@ -12005,7 +12047,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Serine
 - D. Cysteine
 
-**Q1688.** An essential amino acid is one that:
+**Q1690.** An essential amino acid is one that:
 <!-- id: chem-7-1-11 -->
 
 - A. is found in every protein in the body
@@ -12013,7 +12055,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. cannot be made by the body in sufficient amounts and must be obtained from the diet
 - D. is made in the liver from glucose
 
-**Q1689.** Lysine has the side chain –(CH₂)₄NH₂ and aspartic acid has –CH₂COOH. At physiological pH (about 7.4) these side chains are most likely to interact through:
+**Q1691.** Lysine has the side chain –(CH₂)₄NH₂ and aspartic acid has –CH₂COOH. At physiological pH (about 7.4) these side chains are most likely to interact through:
 <!-- id: chem-7-1-12 -->
 
 - A. a disulfide bridge
@@ -12021,7 +12063,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. dispersion forces only
 - D. an ionic interaction between –NH₃⁺ and –COO⁻
 
-**Q1690.** In a strongly acidic solution such as pH 1, the amino group of an amino acid is present mainly as:
+**Q1692.** In a strongly acidic solution such as pH 1, the amino group of an amino acid is present mainly as:
 <!-- id: chem-7-1-13 -->
 
 - A. –NH₃⁺
@@ -12029,7 +12071,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. –NO₂
 - D. –NH₂
 
-**Q1691.** How many different dipeptides can be formed from one glycine molecule and one alanine molecule, each used once?
+**Q1693.** How many different dipeptides can be formed from one glycine molecule and one alanine molecule, each used once?
 <!-- id: chem-7-1-14 -->
 
 - A. 1
@@ -12037,7 +12079,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 3
 - D. 4
 
-**Q1692.** How many different tripeptides can be formed using one molecule each of three different amino acids?
+**Q1694.** How many different tripeptides can be formed using one molecule each of three different amino acids?
 <!-- id: chem-7-1-15 -->
 
 - A. 3
@@ -12045,7 +12087,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 6
 - D. 27
 
-**Q1693.** Complete acid hydrolysis of a protein produces:
+**Q1695.** Complete acid hydrolysis of a protein produces:
 <!-- id: chem-7-1-16 -->
 
 - A. glucose and fructose
@@ -12053,7 +12095,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. peptides only, because peptide bonds cannot be hydrolysed
 - D. amino acids
 
-**Q1694.** Valine has the non-polar side chain –CH(CH₃)₂. In a water-soluble globular protein, valine residues are most likely to be found:
+**Q1696.** Valine has the non-polar side chain –CH(CH₃)₂. In a water-soluble globular protein, valine residues are most likely to be found:
 <!-- id: chem-7-1-17 -->
 
 - A. in the interior of the protein, interacting with other non-polar side chains via dispersion forces
@@ -12061,7 +12103,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. forming disulfide bridges with cysteine
 - D. forming ionic bonds with water molecules
 
-**Q1695.** Which statement about a linear polypeptide chain is correct?
+**Q1697.** Which statement about a linear polypeptide chain is correct?
 <!-- id: chem-7-1-18 -->
 
 - A. It has free carboxyl groups at both ends
@@ -12069,42 +12111,42 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. It has no free functional groups at either end
 - D. It has free amino groups at both ends
 
-**Q1696.** Write the semi-structural formula of the dipeptide formed when the carboxyl group of glycine (H₂NCH₂COOH) reacts with the amino group of alanine (H₂NCH(CH₃)COOH).
+**Q1698.** Write the semi-structural formula of the dipeptide formed when the carboxyl group of glycine (H₂NCH₂COOH) reacts with the amino group of alanine (H₂NCH(CH₃)COOH).
 <!-- id: chem-7-1-19 -->
 
 *Written answer*
 
-**Q1697.** Explain why heating an enzyme-containing protein solution to 80 °C causes the protein to lose its biological function.
+**Q1699.** Explain why heating an enzyme-containing protein solution to 80 °C causes the protein to lose its biological function.
 <!-- id: chem-7-1-20 -->
 
 *Written answer*
 
-**Q1698.** Distinguish between the secondary and tertiary structure of a protein, referring to the bonding involved in each.
+**Q1700.** Distinguish between the secondary and tertiary structure of a protein, referring to the bonding involved in each.
 <!-- id: chem-7-1-21 -->
 
 *Written answer*
 
-**Q1699.** A dipeptide with molecular formula C₅H₁₀N₂O₃ is hydrolysed. One product is glycine (C₂H₅NO₂). Determine the molecular formula of the other amino acid.
+**Q1701.** A dipeptide with molecular formula C₅H₁₀N₂O₃ is hydrolysed. One product is glycine (C₂H₅NO₂). Determine the molecular formula of the other amino acid.
 <!-- id: chem-7-1-22 -->
 
 *Written answer*
 
-**Q1700.** Explain why people following a vegan diet are advised to eat a variety of plant protein sources, such as legumes together with grains.
+**Q1702.** Explain why people following a vegan diet are advised to eat a variety of plant protein sources, such as legumes together with grains.
 <!-- id: chem-7-1-23 -->
 
 *Written answer*
 
-**Q1701.** Explain how adding lemon juice (lowering the pH) to milk can cause milk proteins to denature and curdle.
+**Q1703.** Explain how adding lemon juice (lowering the pH) to milk can cause milk proteins to denature and curdle.
 <!-- id: chem-7-1-24 -->
 
 *Written answer*
 
-**Q1702.** Calculate the mass of water needed to completely hydrolyse 1.00 mol of a single-chain polypeptide containing 51 amino acid residues.
+**Q1704.** Calculate the mass of water needed to completely hydrolyse 1.00 mol of a single-chain polypeptide containing 51 amino acid residues.
 <!-- id: chem-7-1-25 -->
 
 *Written answer*
 
-**Q1703.** In a solution of very low pH, the amino acid glycine (H₂NCH₂COOH) exists mainly as
+**Q1705.** In a solution of very low pH, the amino acid glycine (H₂NCH₂COOH) exists mainly as
 <!-- id: chem34a3-prot-1 -->
 
 - A. H₂NCH₂COO⁻
@@ -12112,7 +12154,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. H₃N⁺CH₂COOH
 - D. H₂NCH₂COOH
 
-**Q1704.** The secondary structure of a protein, such as an α-helix or β-pleated sheet, is held together mainly by
+**Q1706.** The secondary structure of a protein, such as an α-helix or β-pleated sheet, is held together mainly by
 <!-- id: chem34a3-prot-2 -->
 
 - A. peptide bonds between adjacent amino acids
@@ -12120,7 +12162,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. disulfide bridges between cysteine side chains
 - D. ionic interactions between charged R groups
 
-**Q1705.** A protein is heated to 80 °C and loses its biological activity. Which level of protein structure is NOT disrupted by this denaturation?
+**Q1707.** A protein is heated to 80 °C and loses its biological activity. Which level of protein structure is NOT disrupted by this denaturation?
 <!-- id: chem34a3-prot-3 -->
 
 - A. primary
@@ -12128,7 +12170,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. tertiary
 - D. quaternary
 
-**Q1706.** An enzyme increases the rate of a reaction in the body by
+**Q1708.** An enzyme increases the rate of a reaction in the body by
 <!-- id: chem34a3-prot-4 -->
 
 - A. increasing the temperature of the reactants
@@ -12136,7 +12178,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. making the reaction more exothermic
 - D. shifting the equilibrium position towards products
 
-**Q1707.** Three different amino acids, X, Y and Z, are each used once to form a tripeptide. How many different tripeptides are possible?
+**Q1709.** Three different amino acids, X, Y and Z, are each used once to form a tripeptide. How many different tripeptides are possible?
 <!-- id: chem34a3-prot-5 -->
 
 - A. 3
@@ -12144,24 +12186,24 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 9
 - D. 27
 
-**Q1708.** Explain, with reference to the active site, why a change in pH can reduce the activity of an enzyme. (3 marks)
+**Q1710.** Explain, with reference to the active site, why a change in pH can reduce the activity of an enzyme. (3 marks)
 <!-- id: chem34a3-prot-6 -->
 
 *Written answer*
 
-**Q1709.** Many water-soluble vitamins act as coenzymes. Explain what a coenzyme is and why a deficiency of such a vitamin could slow certain metabolic reactions. (2 marks)
+**Q1711.** Many water-soluble vitamins act as coenzymes. Explain what a coenzyme is and why a deficiency of such a vitamin could slow certain metabolic reactions. (2 marks)
 <!-- id: chem34a3-prot-7 -->
 
 *Written answer*
 
-**Q1710.** Draw or describe the structure of the dipeptide formed when the amino group of alanine (H₂NCH(CH₃)COOH) reacts with the carboxyl group of glycine (H₂NCH₂COOH). Name the type of reaction and the bond formed. (3 marks)
+**Q1712.** Draw or describe the structure of the dipeptide formed when the amino group of alanine (H₂NCH(CH₃)COOH) reacts with the carboxyl group of glycine (H₂NCH₂COOH). Name the type of reaction and the bond formed. (3 marks)
 <!-- id: chem34a3-prot-8 -->
 
 *Written answer*
 
 #### Carbohydrates, fats and oils
 
-**Q1711.** Glucose and fructose both have the molecular formula C₆H₁₂O₆. They are best described as:
+**Q1713.** Glucose and fructose both have the molecular formula C₆H₁₂O₆. They are best described as:
 <!-- id: chem-7-2-1 -->
 
 - A. the same compound
@@ -12169,7 +12211,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. structural isomers
 - D. disaccharides
 
-**Q1712.** Complete hydrolysis of sucrose produces:
+**Q1714.** Complete hydrolysis of sucrose produces:
 <!-- id: chem-7-2-2 -->
 
 - A. two glucose molecules
@@ -12177,7 +12219,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. fructose and galactose
 - D. glucose and fructose
 
-**Q1713.** Lactose, the sugar found in milk, is a disaccharide made from:
+**Q1715.** Lactose, the sugar found in milk, is a disaccharide made from:
 <!-- id: chem-7-2-3 -->
 
 - A. glucose and galactose
@@ -12185,7 +12227,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. glucose and fructose
 - D. two galactose units
 
-**Q1714.** Two monosaccharide molecules of formula C₆H₁₂O₆ (M = 180.0 g mol⁻¹) join to form a disaccharide. What is the molar mass of the disaccharide?
+**Q1716.** Two monosaccharide molecules of formula C₆H₁₂O₆ (M = 180.0 g mol⁻¹) join to form a disaccharide. What is the molar mass of the disaccharide?
 <!-- id: chem-7-2-4 -->
 
 - A. 360.0 g mol⁻¹
@@ -12193,7 +12235,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 378.0 g mol⁻¹
 - D. 324.0 g mol⁻¹
 
-**Q1715.** The linkage between monosaccharide units in a disaccharide is a:
+**Q1717.** The linkage between monosaccharide units in a disaccharide is a:
 <!-- id: chem-7-2-5 -->
 
 - A. peptide linkage
@@ -12201,7 +12243,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. glycosidic (ether) linkage
 - D. hydrogen bond
 
-**Q1716.** Which polysaccharide is used by animals to store glucose, mainly in the liver and muscles?
+**Q1718.** Which polysaccharide is used by animals to store glucose, mainly in the liver and muscles?
 <!-- id: chem-7-2-6 -->
 
 - A. Amylose
@@ -12209,7 +12251,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Amylopectin
 - D. Glycogen
 
-**Q1717.** Humans cannot use cellulose as an energy source because:
+**Q1719.** Humans cannot use cellulose as an energy source because:
 <!-- id: chem-7-2-7 -->
 
 - A. they lack an enzyme that can hydrolyse the β-glycosidic links between its glucose units
@@ -12217,7 +12259,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. no organism can break down cellulose
 - D. cellulose contains peptide bonds
 
-**Q1718.** Compared with amylose, amylopectin:
+**Q1720.** Compared with amylose, amylopectin:
 <!-- id: chem-7-2-8 -->
 
 - A. is unbranched and digested more slowly
@@ -12225,7 +12267,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. contains β-glycosidic links
 - D. is a polymer of galactose
 
-**Q1719.** A food with a high glycaemic index (GI):
+**Q1721.** A food with a high glycaemic index (GI):
 <!-- id: chem-7-2-9 -->
 
 - A. releases glucose slowly over several hours
@@ -12233,7 +12275,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. causes a rapid rise in blood glucose level after it is eaten
 - D. is always high in dietary fibre
 
-**Q1720.** A triglyceride is formed by the condensation of:
+**Q1722.** A triglyceride is formed by the condensation of:
 <!-- id: chem-7-2-10 -->
 
 - A. glycerol and three amino acids
@@ -12241,7 +12283,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. three glycerol molecules
 - D. glycerol and three fatty acids
 
-**Q1721.** Which functional group links each fatty acid to glycerol in a triglyceride?
+**Q1723.** Which functional group links each fatty acid to glycerol in a triglyceride?
 <!-- id: chem-7-2-11 -->
 
 - A. Ester
@@ -12249,7 +12291,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Amide
 - D. Hydroxyl
 
-**Q1722.** A fatty acid has the molecular formula C₁₈H₃₂O₂. How many C=C double bonds does it contain?
+**Q1724.** A fatty acid has the molecular formula C₁₈H₃₂O₂. How many C=C double bonds does it contain?
 <!-- id: chem-7-2-12 -->
 
 - A. 1
@@ -12257,7 +12299,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 3
 - D. 0
 
-**Q1723.** Tristearin (made from saturated stearic acid) is solid at room temperature, but olive oil (rich in oleic acid) is liquid. The best explanation is that:
+**Q1725.** Tristearin (made from saturated stearic acid) is solid at room temperature, but olive oil (rich in oleic acid) is liquid. The best explanation is that:
 <!-- id: chem-7-2-13 -->
 
 - A. saturated fats form hydrogen bonds between their hydrocarbon chains
@@ -12265,7 +12307,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. straight saturated chains pack closely together, giving stronger dispersion forces between molecules
 - D. oils contain ionic bonds that break easily
 
-**Q1724.** An omega-3 fatty acid is one in which:
+**Q1726.** An omega-3 fatty acid is one in which:
 <!-- id: chem-7-2-14 -->
 
 - A. there are exactly three C=C double bonds
@@ -12273,7 +12315,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. the carboxyl group is on carbon 3
 - D. the first C=C double bond is on the third carbon from the methyl (–CH₃) end of the chain
 
-**Q1725.** Oxidative rancidity of an oil occurs mainly because of:
+**Q1727.** Oxidative rancidity of an oil occurs mainly because of:
 <!-- id: chem-7-2-15 -->
 
 - A. reaction of oxygen at C=C double bonds in unsaturated fatty acid chains
@@ -12281,7 +12323,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. reaction of nitrogen with ester groups
 - D. dehydration of glycerol
 
-**Q1726.** What is the molecular formula of the triglyceride formed from glycerol (C₃H₈O₃) and three molecules of stearic acid (C₁₈H₃₆O₂)?
+**Q1728.** What is the molecular formula of the triglyceride formed from glycerol (C₃H₈O₃) and three molecules of stearic acid (C₁₈H₃₆O₂)?
 <!-- id: chem-7-2-16 -->
 
 - A. C₅₇H₁₁₆O₉
@@ -12289,7 +12331,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. C₅₇H₁₀₄O₆
 - D. C₅₄H₁₁₀O₆
 
-**Q1727.** How many moles of I₂ react by addition with one mole of a triglyceride made from glycerol and three linoleic acid (C₁₈H₃₂O₂) chains?
+**Q1729.** How many moles of I₂ react by addition with one mole of a triglyceride made from glycerol and three linoleic acid (C₁₈H₃₂O₂) chains?
 <!-- id: chem-7-2-17 -->
 
 - A. 3
@@ -12297,7 +12339,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 6
 - D. 9
 
-**Q1728.** How many moles of water are needed to completely hydrolyse one mole of a triglyceride?
+**Q1730.** How many moles of water are needed to completely hydrolyse one mole of a triglyceride?
 <!-- id: chem-7-2-18 -->
 
 - A. 1
@@ -12305,42 +12347,42 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 6
 - D. 3
 
-**Q1729.** Explain why glucose is highly soluble in water, whereas a triglyceride is insoluble.
+**Q1731.** Explain why glucose is highly soluble in water, whereas a triglyceride is insoluble.
 <!-- id: chem-7-2-19 -->
 
 *Written answer*
 
-**Q1730.** Name the products of complete hydrolysis of (a) starch and (b) a triglyceride.
+**Q1732.** Name the products of complete hydrolysis of (a) starch and (b) a triglyceride.
 <!-- id: chem-7-2-20 -->
 
 *Written answer*
 
-**Q1731.** Explain why unsaturated vegetable oils generally have lower melting points than saturated animal fats of similar molar mass.
+**Q1733.** Explain why unsaturated vegetable oils generally have lower melting points than saturated animal fats of similar molar mass.
 <!-- id: chem-7-2-21 -->
 
 *Written answer*
 
-**Q1732.** Maltose (C₁₂H₂₂O₁₁) is a disaccharide of two glucose units. Calculate the mass of glucose (M = 180.0 g mol⁻¹) produced when 34.2 g of maltose is completely hydrolysed.
+**Q1734.** Maltose (C₁₂H₂₂O₁₁) is a disaccharide of two glucose units. Calculate the mass of glucose (M = 180.0 g mol⁻¹) produced when 34.2 g of maltose is completely hydrolysed.
 <!-- id: chem-7-2-22 -->
 
 *Written answer*
 
-**Q1733.** Explain how adding an antioxidant such as vitamin E to packaged nuts slows the development of oxidative rancidity.
+**Q1735.** Explain how adding an antioxidant such as vitamin E to packaged nuts slows the development of oxidative rancidity.
 <!-- id: chem-7-2-23 -->
 
 *Written answer*
 
-**Q1734.** Distinguish between amylose and amylopectin, and state which is likely to give a food a lower glycaemic index.
+**Q1736.** Distinguish between amylose and amylopectin, and state which is likely to give a food a lower glycaemic index.
 <!-- id: chem-7-2-24 -->
 
 *Written answer*
 
-**Q1735.** Linolenic acid has the formula C₁₈H₃₀O₂. Determine the number of C=C double bonds and classify it as saturated, monounsaturated or polyunsaturated.
+**Q1737.** Linolenic acid has the formula C₁₈H₃₀O₂. Determine the number of C=C double bonds and classify it as saturated, monounsaturated or polyunsaturated.
 <!-- id: chem-7-2-25 -->
 
 *Written answer*
 
-**Q1736.** Sucrose is a disaccharide formed from which two monosaccharides?
+**Q1738.** Sucrose is a disaccharide formed from which two monosaccharides?
 <!-- id: chem34a3-carb-1 -->
 
 - A. glucose and glucose
@@ -12348,7 +12390,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. glucose and fructose
 - D. fructose and galactose
 
-**Q1737.** Which equation correctly represents the formation of maltose from glucose?
+**Q1739.** Which equation correctly represents the formation of maltose from glucose?
 <!-- id: chem34a3-carb-2 -->
 
 - A. 2C₆H₁₂O₆ → C₁₂H₂₄O₁₂
@@ -12356,7 +12398,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. C₆H₁₂O₆ + H₂O → C₁₂H₂₂O₁₁
 - D. 2C₆H₁₂O₆ + H₂O → C₁₂H₂₄O₁₃
 
-**Q1738.** Humans can digest starch but not cellulose, even though both are polymers of glucose. The main reason is that
+**Q1740.** Humans can digest starch but not cellulose, even though both are polymers of glucose. The main reason is that
 <!-- id: chem34a3-carb-3 -->
 
 - A. cellulose contains fructose units that cannot be absorbed
@@ -12364,7 +12406,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. starch is a monosaccharide and needs no digestion
 - D. cellulose is too soluble to be acted on by enzymes
 
-**Q1739.** Amylose and amylopectin are both components of starch. Compared with amylose, amylopectin
+**Q1741.** Amylose and amylopectin are both components of starch. Compared with amylose, amylopectin
 <!-- id: chem34a3-carb-4 -->
 
 - A. is a polymer of fructose
@@ -12372,7 +12414,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. is branched, with α(1→6) links at branch points as well as α(1→4) links
 - D. contains β-glycosidic links
 
-**Q1740.** A polysaccharide molecule is made from 500 glucose units joined in a single unbranched chain. How many water molecules are needed to completely hydrolyse it to glucose?
+**Q1742.** A polysaccharide molecule is made from 500 glucose units joined in a single unbranched chain. How many water molecules are needed to completely hydrolyse it to glucose?
 <!-- id: chem34a3-carb-5 -->
 
 - A. 250
@@ -12380,22 +12422,22 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 500
 - D. 501
 
-**Q1741.** Glycogen and starch are both energy-storage polysaccharides. Describe one structural difference between them and explain why glycogen is well suited to rapid release of glucose in animals. (2 marks)
+**Q1743.** Glycogen and starch are both energy-storage polysaccharides. Describe one structural difference between them and explain why glycogen is well suited to rapid release of glucose in animals. (2 marks)
 <!-- id: chem34a3-carb-6 -->
 
 *Written answer*
 
-**Q1742.** Aspartame is an artificial sweetener about 200 times sweeter than sucrose. Explain why a soft drink sweetened with aspartame has a much lower energy content than one sweetened with sucrose to the same sweetness, even though aspartame is metabolised and releases energy. (2 marks)
+**Q1744.** Aspartame is an artificial sweetener about 200 times sweeter than sucrose. Explain why a soft drink sweetened with aspartame has a much lower energy content than one sweetened with sucrose to the same sweetness, even though aspartame is metabolised and releases energy. (2 marks)
 <!-- id: chem34a3-carb-7 -->
 
 *Written answer*
 
-**Q1743.** Foods rich in amylose tend to have a lower glycaemic index (GI) than foods rich in amylopectin. Explain this observation and give one health benefit of low-GI foods. (3 marks)
+**Q1745.** Foods rich in amylose tend to have a lower glycaemic index (GI) than foods rich in amylopectin. Explain this observation and give one health benefit of low-GI foods. (3 marks)
 <!-- id: chem34a3-carb-8 -->
 
 *Written answer*
 
-**Q1744.** A triglyceride is formed when glycerol reacts with three fatty acid molecules. The products of this reaction are the triglyceride and
+**Q1746.** A triglyceride is formed when glycerol reacts with three fatty acid molecules. The products of this reaction are the triglyceride and
 <!-- id: chem34a3-fat-1 -->
 
 - A. one water molecule
@@ -12403,7 +12445,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. three hydrogen molecules
 - D. one ethanol molecule
 
-**Q1745.** Linoleic acid has the formula C₁₇H₃₁COOH. How many carbon–carbon double bonds does one molecule contain?
+**Q1747.** Linoleic acid has the formula C₁₇H₃₁COOH. How many carbon–carbon double bonds does one molecule contain?
 <!-- id: chem34a3-fat-2 -->
 
 - A. 1
@@ -12411,7 +12453,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 3
 - D. 4
 
-**Q1746.** Olive oil is a liquid at room temperature, while butter is a soft solid. The best explanation is that olive oil contains a higher proportion of
+**Q1748.** Olive oil is a liquid at room temperature, while butter is a soft solid. The best explanation is that olive oil contains a higher proportion of
 <!-- id: chem34a3-fat-3 -->
 
 - A. saturated fatty acid chains, which have stronger dispersion forces
@@ -12419,7 +12461,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. glycerol, which forms hydrogen bonds with water
 - D. fatty acids with longer carbon chains
 
-**Q1747.** Which vitamin is fat-soluble and therefore can be stored in body fat?
+**Q1749.** Which vitamin is fat-soluble and therefore can be stored in body fat?
 <!-- id: chem34a3-fat-4 -->
 
 - A. vitamin C
@@ -12427,7 +12469,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. vitamin D
 - D. vitamin B₃
 
-**Q1748.** How many moles of hydrogen gas are needed to completely hydrogenate 1 mol of a triglyceride made from glycerol and three linolenic acid (C₁₇H₂₉COOH) chains?
+**Q1750.** How many moles of hydrogen gas are needed to completely hydrogenate 1 mol of a triglyceride made from glycerol and three linolenic acid (C₁₇H₂₉COOH) chains?
 <!-- id: chem34a3-fat-5 -->
 
 - A. 3 mol
@@ -12435,24 +12477,24 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 9 mol
 - D. 12 mol
 
-**Q1749.** Explain what is meant by an omega-3 fatty acid and give one reason why omega-3 fatty acids are described as 'essential' in the diet. (2 marks)
+**Q1751.** Explain what is meant by an omega-3 fatty acid and give one reason why omega-3 fatty acids are described as 'essential' in the diet. (2 marks)
 <!-- id: chem34a3-fat-6 -->
 
 *Written answer*
 
-**Q1750.** Polyunsaturated oils become rancid more quickly than saturated fats when exposed to air. Explain why, and describe one way food manufacturers slow this process. (3 marks)
+**Q1752.** Polyunsaturated oils become rancid more quickly than saturated fats when exposed to air. Explain why, and describe one way food manufacturers slow this process. (3 marks)
 <!-- id: chem34a3-fat-7 -->
 
 *Written answer*
 
-**Q1751.** Vitamin C contains several –OH groups, whereas vitamin A consists mainly of a long hydrocarbon chain with a single –OH group. Use these structural features to explain the different solubilities of the two vitamins and one dietary consequence. (3 marks)
+**Q1753.** Vitamin C contains several –OH groups, whereas vitamin A consists mainly of a long hydrocarbon chain with a single –OH group. Use these structural features to explain the different solubilities of the two vitamins and one dietary consequence. (3 marks)
 <!-- id: chem34a3-fat-8 -->
 
 *Written answer*
 
 #### Enzymes and vitamins
 
-**Q1752.** Enzymes increase the rate of reactions in the body by:
+**Q1754.** Enzymes increase the rate of reactions in the body by:
 <!-- id: chem-7-3-1 -->
 
 - A. providing an alternative reaction pathway with a lower activation energy
@@ -12460,7 +12502,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. making the reaction more exothermic
 - D. being used up as a reactant
 
-**Q1753.** The active site of an enzyme is:
+**Q1755.** The active site of an enzyme is:
 <!-- id: chem-7-3-2 -->
 
 - A. the place in the cell where the enzyme is made
@@ -12468,7 +12510,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. the C-terminal end of the polypeptide
 - D. a region that forms only at high temperatures
 
-**Q1754.** The induced-fit model of enzyme action proposes that:
+**Q1756.** The induced-fit model of enzyme action proposes that:
 <!-- id: chem-7-3-3 -->
 
 - A. the active site is rigid and an exact match to the substrate
@@ -12476,7 +12518,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. the active site changes shape slightly when the substrate binds, improving the fit
 - D. the substrate changes the enzyme's primary structure
 
-**Q1755.** A typical human enzyme is heated from 37 °C to 70 °C. The rate of the reaction it catalyses will most likely:
+**Q1757.** A typical human enzyme is heated from 37 °C to 70 °C. The rate of the reaction it catalyses will most likely:
 <!-- id: chem-7-3-4 -->
 
 - A. keep increasing, because particles move faster
@@ -12484,7 +12526,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. increase, because the enzyme is converted into more substrate
 - D. decrease, because the enzyme denatures and its active site loses its shape
 
-**Q1756.** Pepsin works best at about pH 2. If pepsin is placed in a solution at pH 8, its activity will:
+**Q1758.** Pepsin works best at about pH 2. If pepsin is placed in a solution at pH 8, its activity will:
 <!-- id: chem-7-3-5 -->
 
 - A. decrease, because the change in pH alters the charges on side chains and the shape of the active site
@@ -12492,7 +12534,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. remain unchanged, because pH does not affect proteins
 - D. increase, because peptide bonds in pepsin break more easily
 
-**Q1757.** The specificity of an enzyme for its substrate mainly arises from:
+**Q1759.** The specificity of an enzyme for its substrate mainly arises from:
 <!-- id: chem-7-3-6 -->
 
 - A. the very large molar mass of the enzyme
@@ -12500,7 +12542,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. carbohydrate groups attached to the enzyme
 - D. the number of peptide bonds in the enzyme
 
-**Q1758.** A coenzyme is best described as:
+**Q1760.** A coenzyme is best described as:
 <!-- id: chem-7-3-7 -->
 
 - A. an inorganic metal ion bound to an enzyme
@@ -12508,7 +12550,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. a non-protein organic molecule, often derived from a vitamin, that an enzyme needs to function
 - D. the substrate of the enzyme
 
-**Q1759.** The Zn²⁺ ion required by the enzyme carbonic anhydrase is an example of:
+**Q1761.** The Zn²⁺ ion required by the enzyme carbonic anhydrase is an example of:
 <!-- id: chem-7-3-8 -->
 
 - A. a coenzyme
@@ -12516,7 +12558,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. a product
 - D. an inorganic cofactor
 
-**Q1760.** A competitive inhibitor reduces the rate of an enzyme-catalysed reaction because it:
+**Q1762.** A competitive inhibitor reduces the rate of an enzyme-catalysed reaction because it:
 <!-- id: chem-7-3-9 -->
 
 - A. binds to the active site and prevents the substrate from binding
@@ -12524,7 +12566,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. raises the activation energy of every reaction in the cell
 - D. is converted into extra substrate
 
-**Q1761.** Food is stored in a refrigerator at 4 °C. The effect of this on the enzymes in the food is that they:
+**Q1763.** Food is stored in a refrigerator at 4 °C. The effect of this on the enzymes in the food is that they:
 <!-- id: chem-7-3-10 -->
 
 - A. are permanently denatured
@@ -12532,7 +12574,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. work faster because cold stabilises their shape
 - D. have their peptide bonds hydrolysed
 
-**Q1762.** Which group of vitamins is fat-soluble?
+**Q1764.** Which group of vitamins is fat-soluble?
 <!-- id: chem-7-3-11 -->
 
 - A. B group and C
@@ -12540,7 +12582,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. A, D, E and K
 - D. B, C and K
 
-**Q1763.** Vitamin C (ascorbic acid) is water-soluble mainly because:
+**Q1765.** Vitamin C (ascorbic acid) is water-soluble mainly because:
 <!-- id: chem-7-3-12 -->
 
 - A. it is a large non-polar ring system
@@ -12548,7 +12590,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. it has a long hydrocarbon chain
 - D. it has several hydroxyl groups that form hydrogen bonds with water
 
-**Q1764.** Vitamin D is fat-soluble because:
+**Q1766.** Vitamin D is fat-soluble because:
 <!-- id: chem-7-3-13 -->
 
 - A. its molecule is mostly non-polar hydrocarbon with only one hydroxyl group
@@ -12556,7 +12598,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. it is an ionic compound
 - D. it is a protein
 
-**Q1765.** Why is it more important to consume vitamin C regularly than vitamin A?
+**Q1767.** Why is it more important to consume vitamin C regularly than vitamin A?
 <!-- id: chem-7-3-14 -->
 
 - A. Vitamin C is fat-soluble and is stored in the liver
@@ -12564,7 +12606,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Vitamin A is water-soluble and is rapidly excreted
 - D. Vitamin C is made in the body from vitamin A
 
-**Q1766.** Vitamins are described as essential in the human diet because:
+**Q1768.** Vitamins are described as essential in the human diet because:
 <!-- id: chem-7-3-15 -->
 
 - A. they provide a large proportion of the body's energy
@@ -12572,7 +12614,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. the body cannot synthesise them, or cannot synthesise enough, yet they are needed for normal function
 - D. they are themselves enzymes
 
-**Q1767.** Humans can synthesise vitamin D when:
+**Q1769.** Humans can synthesise vitamin D when:
 <!-- id: chem-7-3-16 -->
 
 - A. vitamin C is eaten in large amounts
@@ -12580,7 +12622,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. the body is exposed to cold temperatures
 - D. the skin is exposed to ultraviolet light from the sun
 
-**Q1768.** Boiling broccoli in a large volume of water reduces its vitamin C content mainly because vitamin C:
+**Q1770.** Boiling broccoli in a large volume of water reduces its vitamin C content mainly because vitamin C:
 <!-- id: chem-7-3-17 -->
 
 - A. is water-soluble, so it leaches into the cooking water, and it is also broken down by heat
@@ -12588,7 +12630,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. is converted into vitamin D on heating
 - D. evaporates as a gas at 100 °C
 
-**Q1769.** Lactose intolerance is caused by:
+**Q1771.** Lactose intolerance is caused by:
 <!-- id: chem-7-3-18 -->
 
 - A. an excess of salivary amylase
@@ -12596,44 +12638,44 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. an inability to absorb glucose
 - D. an allergy to milk fats
 
-**Q1770.** Use the idea of enzyme specificity to explain why amylase can hydrolyse starch but not cellulose, even though both are polymers of glucose.
+**Q1772.** Use the idea of enzyme specificity to explain why amylase can hydrolyse starch but not cellulose, even though both are polymers of glucose.
 <!-- id: chem-7-3-19 -->
 
 *Written answer*
 
-**Q1771.** Explain why the activity of a human enzyme increases from 20 °C to 37 °C but drops sharply above about 45 °C.
+**Q1773.** Explain why the activity of a human enzyme increases from 20 °C to 37 °C but drops sharply above about 45 °C.
 <!-- id: chem-7-3-20 -->
 
 *Written answer*
 
-**Q1772.** Distinguish between a cofactor and a coenzyme, giving an example of each.
+**Q1774.** Distinguish between a cofactor and a coenzyme, giving an example of each.
 <!-- id: chem-7-3-21 -->
 
 *Written answer*
 
-**Q1773.** Explain why vitamin C toxicity is rare, whereas excessive intake of vitamin A or D can be harmful.
+**Q1775.** Explain why vitamin C toxicity is rare, whereas excessive intake of vitamin A or D can be harmful.
 <!-- id: chem-7-3-22 -->
 
 *Written answer*
 
-**Q1774.** A student states: 'An enzyme denatured by high temperature has been broken down into amino acids.' Evaluate this statement.
+**Q1776.** A student states: 'An enzyme denatured by high temperature has been broken down into amino acids.' Evaluate this statement.
 <!-- id: chem-7-3-23 -->
 
 *Written answer*
 
-**Q1775.** Explain, in terms of intermolecular forces, why vitamin D is stored in the body's adipose (fat) tissue.
+**Q1777.** Explain, in terms of intermolecular forces, why vitamin D is stored in the body's adipose (fat) tissue.
 <!-- id: chem-7-3-24 -->
 
 *Written answer*
 
-**Q1776.** Fresh pineapple contains bromelain, a protease. Explain why fresh pineapple stops gelatine (a protein) from setting, but canned pineapple, which has been heated, does not.
+**Q1778.** Fresh pineapple contains bromelain, a protease. Explain why fresh pineapple stops gelatine (a protein) from setting, but canned pineapple, which has been heated, does not.
 <!-- id: chem-7-3-25 -->
 
 *Written answer*
 
 #### Food energy and digestion
 
-**Q1777.** Using standard food energy values, approximately how much energy is released per gram of fat in the body?
+**Q1779.** Using standard food energy values, approximately how much energy is released per gram of fat in the body?
 <!-- id: chem-7-4-1 -->
 
 - A. 16 kJ
@@ -12641,7 +12683,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 37 kJ
 - D. 4 kJ
 
-**Q1778.** A muesli bar contains 20.0 g carbohydrate, 5.0 g fat and 3.0 g protein. Using 16 kJ g⁻¹, 37 kJ g⁻¹ and 17 kJ g⁻¹ respectively, what is its total energy content?
+**Q1780.** A muesli bar contains 20.0 g carbohydrate, 5.0 g fat and 3.0 g protein. Using 16 kJ g⁻¹, 37 kJ g⁻¹ and 17 kJ g⁻¹ respectively, what is its total energy content?
 <!-- id: chem-7-4-2 -->
 
 - A. 504 kJ
@@ -12649,7 +12691,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 1112 kJ
 - D. 556 kJ
 
-**Q1779.** A 150 g sample of water is heated by burning a food and its temperature rises by 12.0 °C. How much energy did the water absorb? (c = 4.18 J g⁻¹ °C⁻¹)
+**Q1781.** A 150 g sample of water is heated by burning a food and its temperature rises by 12.0 °C. How much energy did the water absorb? (c = 4.18 J g⁻¹ °C⁻¹)
 <!-- id: chem-7-4-3 -->
 
 - A. 7.52 kJ
@@ -12657,7 +12699,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 1.80 kJ
 - D. 75.2 kJ
 
-**Q1780.** A calorimeter is calibrated by passing a current of 2.50 A at 6.00 V for 90.0 s, which raises the temperature by 1.35 °C. What is the calibration factor?
+**Q1782.** A calorimeter is calibrated by passing a current of 2.50 A at 6.00 V for 90.0 s, which raises the temperature by 1.35 °C. What is the calibration factor?
 <!-- id: chem-7-4-4 -->
 
 - A. 1.35 kJ °C⁻¹
@@ -12665,7 +12707,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 1.82 kJ °C⁻¹
 - D. 0.741 kJ °C⁻¹
 
-**Q1781.** A bomb calorimeter has a calibration factor of 850 J °C⁻¹. Burning 0.400 g of peanut raises its temperature by 4.80 °C. What is the energy content of the peanut?
+**Q1783.** A bomb calorimeter has a calibration factor of 850 J °C⁻¹. Burning 0.400 g of peanut raises its temperature by 4.80 °C. What is the energy content of the peanut?
 <!-- id: chem-7-4-5 -->
 
 - A. 4.08 kJ g⁻¹
@@ -12673,7 +12715,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 10.2 kJ g⁻¹
 - D. 177 kJ g⁻¹
 
-**Q1782.** Fats release more energy per gram than carbohydrates when metabolised because fat molecules:
+**Q1784.** Fats release more energy per gram than carbohydrates when metabolised because fat molecules:
 <!-- id: chem-7-4-6 -->
 
 - A. have a higher molar mass
@@ -12681,7 +12723,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. are digested more quickly
 - D. are less oxidised, containing proportionally more C–H bonds and fewer oxygen atoms
 
-**Q1783.** The heat of combustion of glucose (M = 180.0 g mol⁻¹) is 2805 kJ mol⁻¹. How much energy is released per gram of glucose?
+**Q1785.** The heat of combustion of glucose (M = 180.0 g mol⁻¹) is 2805 kJ mol⁻¹. How much energy is released per gram of glucose?
 <!-- id: chem-7-4-7 -->
 
 - A. 15.6 kJ g⁻¹
@@ -12689,7 +12731,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 5.05 × 10⁵ kJ g⁻¹
 - D. 0.0642 kJ g⁻¹
 
-**Q1784.** In a simple 'can' calorimeter experiment, the measured energy content of a food is usually lower than the accepted value. The main reason is:
+**Q1786.** In a simple 'can' calorimeter experiment, the measured energy content of a food is usually lower than the accepted value. The main reason is:
 <!-- id: chem-7-4-8 -->
 
 - A. the water absorbs more energy than the food releases
@@ -12697,7 +12739,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. the food is weighed before burning
 - D. the thermometer reads to 0.1 °C
 
-**Q1785.** The purpose of electrically calibrating a calorimeter before a food is burned in it is to:
+**Q1787.** The purpose of electrically calibrating a calorimeter before a food is burned in it is to:
 <!-- id: chem-7-4-9 -->
 
 - A. measure the mass of the food sample
@@ -12705,7 +12747,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. determine the energy needed to raise the temperature of the whole calorimeter by 1 °C
 - D. cool the water to a known starting temperature
 
-**Q1786.** Chemical digestion of starch begins in the:
+**Q1788.** Chemical digestion of starch begins in the:
 <!-- id: chem-7-4-10 -->
 
 - A. stomach, catalysed by pepsin
@@ -12713,7 +12755,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. large intestine, catalysed by bacteria
 - D. mouth, catalysed by salivary amylase
 
-**Q1787.** Chemical digestion of protein begins in the:
+**Q1789.** Chemical digestion of protein begins in the:
 <!-- id: chem-7-4-11 -->
 
 - A. stomach, catalysed by pepsin
@@ -12721,7 +12763,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. large intestine
 - D. oesophagus
 
-**Q1788.** The role of bile in the digestion of fats is to:
+**Q1790.** The role of bile in the digestion of fats is to:
 <!-- id: chem-7-4-12 -->
 
 - A. hydrolyse the ester bonds in triglycerides
@@ -12729,7 +12771,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. convert fats into glucose
 - D. act as an enzyme that breaks peptide bonds
 
-**Q1789.** The products of fat digestion that are absorbed from the small intestine are mainly:
+**Q1791.** The products of fat digestion that are absorbed from the small intestine are mainly:
 <!-- id: chem-7-4-13 -->
 
 - A. amino acids
@@ -12737,7 +12779,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. fatty acids and glycerol (including monoglycerides)
 - D. disaccharides
 
-**Q1790.** Chemical digestion of carbohydrates, proteins and fats in the body involves which type of reaction?
+**Q1792.** Chemical digestion of carbohydrates, proteins and fats in the body involves which type of reaction?
 <!-- id: chem-7-4-14 -->
 
 - A. Condensation
@@ -12745,7 +12787,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Addition polymerisation
 - D. Hydrolysis
 
-**Q1791.** In aerobic cellular respiration, glucose reacts with oxygen. The products are:
+**Q1793.** In aerobic cellular respiration, glucose reacts with oxygen. The products are:
 <!-- id: chem-7-4-15 -->
 
 - A. carbon dioxide and water
@@ -12753,7 +12795,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. ethanol and carbon dioxide only
 - D. urea and water
 
-**Q1792.** A serve of a breakfast cereal provides 1500 kJ. An adult's average daily energy requirement is 8700 kJ. What percentage of daily energy needs does one serve provide?
+**Q1794.** A serve of a breakfast cereal provides 1500 kJ. An adult's average daily energy requirement is 8700 kJ. What percentage of daily energy needs does one serve provide?
 <!-- id: chem-7-4-16 -->
 
 - A. 5.80%
@@ -12761,7 +12803,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 58.0%
 - D. 1.72%
 
-**Q1793.** A serve of peanut butter provides 370 kJ of energy from fat. What mass of fat is in the serve? (fat: 37 kJ g⁻¹)
+**Q1795.** A serve of peanut butter provides 370 kJ of energy from fat. What mass of fat is in the serve? (fat: 37 kJ g⁻¹)
 <!-- id: chem-7-4-17 -->
 
 - A. 23.1 g
@@ -12769,7 +12811,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 10.0 g
 - D. 0.100 g
 
-**Q1794.** A spirit burner burns 0.50 g of ethanol (M = 46.0 g mol⁻¹, heat of combustion 1360 kJ mol⁻¹), heating 100 g of water by 25.0 °C. What is the approximate efficiency of the energy transfer to the water? (c = 4.18 J g⁻¹ °C⁻¹)
+**Q1796.** A spirit burner burns 0.50 g of ethanol (M = 46.0 g mol⁻¹, heat of combustion 1360 kJ mol⁻¹), heating 100 g of water by 25.0 °C. What is the approximate efficiency of the energy transfer to the water? (c = 4.18 J g⁻¹ °C⁻¹)
 <!-- id: chem-7-4-18 -->
 
 - A. 29%
@@ -12777,42 +12819,42 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 59%
 - D. 71%
 
-**Q1795.** A 2.00 g cracker is burned under a can containing 250 g of water, and the water temperature rises by 18.0 °C. Assuming all the heat is absorbed by the water, calculate the energy content of the cracker in kJ g⁻¹. (c = 4.18 J g⁻¹ °C⁻¹)
+**Q1797.** A 2.00 g cracker is burned under a can containing 250 g of water, and the water temperature rises by 18.0 °C. Assuming all the heat is absorbed by the water, calculate the energy content of the cracker in kJ g⁻¹. (c = 4.18 J g⁻¹ °C⁻¹)
 <!-- id: chem-7-4-19 -->
 
 *Written answer*
 
-**Q1796.** A calorimeter is calibrated using 5.00 V and 3.00 A for 180 s, giving a temperature rise of 2.25 °C. A 1.20 g food sample is then burned and the temperature rises by 3.60 °C. Calculate the energy content of the food in kJ g⁻¹.
+**Q1798.** A calorimeter is calibrated using 5.00 V and 3.00 A for 180 s, giving a temperature rise of 2.25 °C. A 1.20 g food sample is then burned and the temperature rises by 3.60 °C. Calculate the energy content of the food in kJ g⁻¹.
 <!-- id: chem-7-4-20 -->
 
 *Written answer*
 
-**Q1797.** Explain why the energy content of a food measured using a simple can-and-burner apparatus is usually lower than the value on the food label, and suggest one improvement.
+**Q1799.** Explain why the energy content of a food measured using a simple can-and-burner apparatus is usually lower than the value on the food label, and suggest one improvement.
 <!-- id: chem-7-4-21 -->
 
 *Written answer*
 
-**Q1798.** Describe the chemical digestion of a triglyceride, naming the main enzyme, where it occurs and the products formed.
+**Q1800.** Describe the chemical digestion of a triglyceride, naming the main enzyme, where it occurs and the products formed.
 <!-- id: chem-7-4-22 -->
 
 *Written answer*
 
-**Q1799.** Explain why the body stores excess energy mainly as fat rather than as glycogen.
+**Q1801.** Explain why the body stores excess energy mainly as fat rather than as glycogen.
 <!-- id: chem-7-4-23 -->
 
 *Written answer*
 
-**Q1800.** A 30 g slice of toast contains 14.4 g carbohydrate, 1.2 g fat and 3.0 g protein. Using 16, 37 and 17 kJ g⁻¹ respectively, calculate the energy content of the slice.
+**Q1802.** A 30 g slice of toast contains 14.4 g carbohydrate, 1.2 g fat and 3.0 g protein. Using 16, 37 and 17 kJ g⁻¹ respectively, calculate the energy content of the slice.
 <!-- id: chem-7-4-24 -->
 
 *Written answer*
 
-**Q1801.** Explain why dietary fibre such as cellulose provides humans with very little energy even though it is a polymer of glucose.
+**Q1803.** Explain why dietary fibre such as cellulose provides humans with very little energy even though it is a polymer of glucose.
 <!-- id: chem-7-4-25 -->
 
 *Written answer*
 
-**Q1802.** A serving of breakfast cereal contains 6.0 g of protein, 15.0 g of carbohydrate and 5.0 g of fat. Using energy values of 17 kJ g⁻¹ (protein), 16 kJ g⁻¹ (carbohydrate) and 37 kJ g⁻¹ (fat), the energy content of the serving is approximately
+**Q1804.** A serving of breakfast cereal contains 6.0 g of protein, 15.0 g of carbohydrate and 5.0 g of fat. Using energy values of 17 kJ g⁻¹ (protein), 16 kJ g⁻¹ (carbohydrate) and 37 kJ g⁻¹ (fat), the energy content of the serving is approximately
 <!-- id: chem34a3-en-1 -->
 
 - A. 340 kJ
@@ -12820,7 +12862,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 623 kJ
 - D. 1.6 × 10³ kJ
 
-**Q1803.** A bomb calorimeter is calibrated by passing a current of 2.00 A at 5.00 V for 120 s, causing a temperature rise of 0.480 °C. The calibration factor is
+**Q1805.** A bomb calorimeter is calibrated by passing a current of 2.00 A at 5.00 V for 120 s, causing a temperature rise of 0.480 °C. The calibration factor is
 <!-- id: chem34a3-en-2 -->
 
 - A. 0.480 kJ °C⁻¹
@@ -12828,7 +12870,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 2.50 kJ °C⁻¹
 - D. 576 J °C⁻¹
 
-**Q1804.** In a spirit burner experiment, 200 g of water is heated from 20.0 °C to 35.0 °C by burning ethanol. Assuming all the heat is absorbed by the water (c = 4.18 J g⁻¹ °C⁻¹), the energy absorbed is
+**Q1806.** In a spirit burner experiment, 200 g of water is heated from 20.0 °C to 35.0 °C by burning ethanol. Assuming all the heat is absorbed by the water (c = 4.18 J g⁻¹ °C⁻¹), the energy absorbed is
 <!-- id: chem34a3-en-3 -->
 
 - A. 12.5 kJ
@@ -12836,7 +12878,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 836 J
 - D. 29.3 kJ
 
-**Q1805.** The experimentally determined enthalpy of combustion of ethanol from a spirit burner is usually much less negative than the data book value. Which of the following is the most significant reason?
+**Q1807.** The experimentally determined enthalpy of combustion of ethanol from a spirit burner is usually much less negative than the data book value. Which of the following is the most significant reason?
 <!-- id: chem34a3-en-4 -->
 
 - A. The thermometer reads too high
@@ -12844,7 +12886,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. The water absorbs more heat than calculated
 - D. Ethanol has a higher molar mass than assumed
 
-**Q1806.** Glucose has a molar enthalpy of combustion of −2803 kJ mol⁻¹ (M = 180.0 g mol⁻¹). The energy released per gram of glucose is closest to
+**Q1808.** Glucose has a molar enthalpy of combustion of −2803 kJ mol⁻¹ (M = 180.0 g mol⁻¹). The energy released per gram of glucose is closest to
 <!-- id: chem34a3-en-5 -->
 
 - A. 2.80 kJ g⁻¹
@@ -12852,17 +12894,17 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 37.0 kJ g⁻¹
 - D. 504 kJ g⁻¹
 
-**Q1807.** A bomb calorimeter has a calibration factor of 2.50 kJ °C⁻¹. When 1.20 g of a dried food sample is combusted completely, the temperature rises by 6.40 °C. Calculate the energy content of the food in kJ g⁻¹. (2 marks)
+**Q1809.** A bomb calorimeter has a calibration factor of 2.50 kJ °C⁻¹. When 1.20 g of a dried food sample is combusted completely, the temperature rises by 6.40 °C. Calculate the energy content of the food in kJ g⁻¹. (2 marks)
 <!-- id: chem34a3-en-6 -->
 
 *Written answer*
 
-**Q1808.** 0.850 g of ethanol (M = 46.0 g mol⁻¹) is burnt in a spirit burner, raising the temperature of 200 g of water by 15.0 °C (c = 4.18 J g⁻¹ °C⁻¹). Calculate the experimental molar enthalpy of combustion of ethanol and state why it differs from the accepted value of −1364 kJ mol⁻¹. (3 marks)
+**Q1810.** 0.850 g of ethanol (M = 46.0 g mol⁻¹) is burnt in a spirit burner, raising the temperature of 200 g of water by 15.0 °C (c = 4.18 J g⁻¹ °C⁻¹). Calculate the experimental molar enthalpy of combustion of ethanol and state why it differs from the accepted value of −1364 kJ mol⁻¹. (3 marks)
 <!-- id: chem34a3-en-7 -->
 
 *Written answer*
 
-**Q1809.** Explain, in terms of the composition of the molecules, why fats release more than twice as much energy per gram as carbohydrates when fully oxidised. (2 marks)
+**Q1811.** Explain, in terms of the composition of the molecules, why fats release more than twice as much energy per gram as carbohydrates when fully oxidised. (2 marks)
 <!-- id: chem34a3-en-8 -->
 
 *Written answer*
@@ -12871,7 +12913,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 #### Green chemistry principles
 
-**Q1810.** Which statement best describes the green chemistry principle of 'prevention'?
+**Q1812.** Which statement best describes the green chemistry principle of 'prevention'?
 <!-- id: chem-8-1-1 -->
 
 - A. It is better to prevent waste from forming than to treat or clean it up after it has formed.
@@ -12879,7 +12921,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. All waste products should be diluted before release to the environment.
 - D. Pollution controls should be added at the end of a production line.
 
-**Q1811.** A manufacturer replaces dichloromethane with supercritical carbon dioxide as the extraction solvent for decaffeinating coffee. Which green chemistry principle is mainly being applied?
+**Q1813.** A manufacturer replaces dichloromethane with supercritical carbon dioxide as the extraction solvent for decaffeinating coffee. Which green chemistry principle is mainly being applied?
 <!-- id: chem-8-1-2 -->
 
 - A. Design for degradation
@@ -12887,7 +12929,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Use of renewable feedstocks
 - D. Real-time analysis for pollution prevention
 
-**Q1812.** Why are catalysts considered consistent with green chemistry?
+**Q1814.** Why are catalysts considered consistent with green chemistry?
 <!-- id: chem-8-1-3 -->
 
 - A. They shift the equilibrium position towards products, increasing the equilibrium yield.
@@ -12895,12 +12937,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. They lower activation energy, allowing reactions at lower temperatures and are not consumed, reducing energy use and waste.
 - D. They increase the enthalpy change of the reaction, releasing more useful heat.
 
-**Q1813.** Explain why green chemistry focuses on preventing waste rather than treating waste.
+**Q1815.** Explain why green chemistry focuses on preventing waste rather than treating waste.
 <!-- id: chem-8-1-4 -->
 
 *Written answer*
 
-**Q1814.** Producing ethanol by fermenting sugar cane rather than by hydrating ethene from crude oil best illustrates which principle?
+**Q1816.** Producing ethanol by fermenting sugar cane rather than by hydrating ethene from crude oil best illustrates which principle?
 <!-- id: chem-8-1-5 -->
 
 - A. Design for energy efficiency
@@ -12908,7 +12950,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Safer chemical design
 - D. Use of renewable feedstocks
 
-**Q1815.** Which practice best illustrates the principle of 'design for energy efficiency'?
+**Q1817.** Which practice best illustrates the principle of 'design for energy efficiency'?
 <!-- id: chem-8-1-6 -->
 
 - A. Choosing a catalyst that allows a process to run at ambient temperature and pressure
@@ -12916,7 +12958,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Distilling products several times to improve purity
 - D. Using a fossil-fuel feedstock that is cheaper to purchase
 
-**Q1816.** A detergent company redesigns a surfactant so that it is broken down by microorganisms in waterways within days. Which principle does this demonstrate?
+**Q1818.** A detergent company redesigns a surfactant so that it is broken down by microorganisms in waterways within days. Which principle does this demonstrate?
 <!-- id: chem-8-1-7 -->
 
 - A. Prevention of waste
@@ -12924,12 +12966,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Atom economy
 - D. Less hazardous chemical syntheses
 
-**Q1817.** State two green chemistry principles that are applied when an enzyme is used as a catalyst in a fermentation process at 35 °C, and explain each briefly.
+**Q1819.** State two green chemistry principles that are applied when an enzyme is used as a catalyst in a fermentation process at 35 °C, and explain each briefly.
 <!-- id: chem-8-1-8 -->
 
 *Written answer*
 
-**Q1818.** Real-time analysis for pollution prevention refers to:
+**Q1820.** Real-time analysis for pollution prevention refers to:
 <!-- id: chem-8-1-9 -->
 
 - A. testing waste water once a year to meet EPA Victoria requirements.
@@ -12937,7 +12979,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. monitoring a process continuously during production so that formation of hazardous substances can be detected and controlled immediately.
 - D. calculating atom economy before a process is built.
 
-**Q1819.** Which of the following is the best example of 'inherently safer chemistry for accident prevention'?
+**Q1821.** Which of the following is the best example of 'inherently safer chemistry for accident prevention'?
 <!-- id: chem-8-1-10 -->
 
 - A. Storing large stockpiles of chlorine gas to avoid supply interruptions
@@ -12945,7 +12987,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Using a volatile, flammable solvent because it evaporates easily
 - D. Generating a toxic reactant in small amounts as needed rather than storing large quantities of it
 
-**Q1820.** Reducing derivatives in a synthesis means:
+**Q1822.** Reducing derivatives in a synthesis means:
 <!-- id: chem-8-1-11 -->
 
 - A. avoiding unnecessary protecting groups or temporary modifications, as these steps require extra reagents and generate waste.
@@ -12953,12 +12995,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. making as many different products as possible from one reactant.
 - D. converting all products into salts for easier storage.
 
-**Q1821.** Supercritical CO₂ is used as a solvent in some industrial processes. Give one advantage and one disadvantage of its use in terms of green chemistry.
+**Q1823.** Supercritical CO₂ is used as a solvent in some industrial processes. Give one advantage and one disadvantage of its use in terms of green chemistry.
 <!-- id: chem-8-1-12 -->
 
 *Written answer*
 
-**Q1822.** Which change to an industrial process is LEAST consistent with green chemistry principles?
+**Q1824.** Which change to an industrial process is LEAST consistent with green chemistry principles?
 <!-- id: chem-8-1-13 -->
 
 - A. Switching from a stoichiometric oxidising agent to a catalytic process
@@ -12966,7 +13008,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Recycling unreacted gases back into the reactor
 - D. Replacing an organic solvent with water
 
-**Q1823.** A Victorian company converts waste cooking oil from restaurants into biodiesel. Which green chemistry principle is most directly applied?
+**Q1825.** A Victorian company converts waste cooking oil from restaurants into biodiesel. Which green chemistry principle is most directly applied?
 <!-- id: chem-8-1-14 -->
 
 - A. Real-time analysis for pollution prevention
@@ -12974,7 +13016,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Use of renewable feedstocks
 - D. Reduce derivatives
 
-**Q1824.** Why is water often considered a 'green' solvent?
+**Q1826.** Why is water often considered a 'green' solvent?
 <!-- id: chem-8-1-15 -->
 
 - A. It dissolves all organic compounds well.
@@ -12982,12 +13024,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. It evaporates readily, so it needs no energy to remove.
 - D. It is non-toxic, non-flammable, cheap and abundant.
 
-**Q1825.** Explain the difference between a renewable and a non-renewable feedstock, giving a chemical example of each.
+**Q1827.** Explain the difference between a renewable and a non-renewable feedstock, giving a chemical example of each.
 <!-- id: chem-8-1-16 -->
 
 *Written answer*
 
-**Q1826.** Which statement about green chemistry principles is correct?
+**Q1828.** Which statement about green chemistry principles is correct?
 <!-- id: chem-8-1-17 -->
 
 - A. Green chemistry aims to reduce or eliminate the use and generation of hazardous substances across the whole life cycle of a product.
@@ -12995,7 +13037,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Green chemistry requires that all reactions have 100% percentage yield.
 - D. Green chemistry means only using naturally occurring chemicals.
 
-**Q1827.** The principle 'designing safer chemicals' is best demonstrated by:
+**Q1829.** The principle 'designing safer chemicals' is best demonstrated by:
 <!-- id: chem-8-1-18 -->
 
 - A. increasing the concentration of a pesticide so less volume is transported.
@@ -13003,7 +13045,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. storing pesticides in sealed containers.
 - D. manufacturing a pesticide at a lower temperature.
 
-**Q1828.** Hydrogen produced by electrolysis of water using electricity from a Victorian wind farm is described as 'green hydrogen' mainly because:
+**Q1830.** Hydrogen produced by electrolysis of water using electricity from a Victorian wind farm is described as 'green hydrogen' mainly because:
 <!-- id: chem-8-1-19 -->
 
 - A. it has a higher energy content per gram than hydrogen from natural gas.
@@ -13011,12 +13053,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. the energy input comes from a renewable source and no carbon dioxide is produced in the process.
 - D. the hydrogen produced is purer than any other source.
 
-**Q1829.** Explain how real-time analysis can reduce pollution in a chemical plant.
+**Q1831.** Explain how real-time analysis can reduce pollution in a chemical plant.
 <!-- id: chem-8-1-20 -->
 
 *Written answer*
 
-**Q1830.** Catalytic reagents are preferred over stoichiometric reagents because:
+**Q1832.** Catalytic reagents are preferred over stoichiometric reagents because:
 <!-- id: chem-8-1-21 -->
 
 - A. stoichiometric reagents always give lower equilibrium yields.
@@ -13024,7 +13066,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. catalysts are always cheaper than stoichiometric reagents.
 - D. catalysts are used in small amounts and regenerated, whereas stoichiometric reagents are consumed and become waste.
 
-**Q1831.** Which feature of the Haber process is most consistent with green chemistry principles?
+**Q1833.** Which feature of the Haber process is most consistent with green chemistry principles?
 <!-- id: chem-8-1-22 -->
 
 - A. The reaction N₂ + 3H₂ → 2NH₃ has 100% atom economy and unreacted gases are recycled.
@@ -13032,7 +13074,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. The process operates at high pressure, around 200 atm.
 - D. The iron catalyst is replaced after each batch.
 
-**Q1832.** Which of the following best describes 'design for degradation' as applied to plastics?
+**Q1834.** Which of the following best describes 'design for degradation' as applied to plastics?
 <!-- id: chem-8-1-23 -->
 
 - A. Producing polymers with very strong cross-links so they last longer
@@ -13040,19 +13082,19 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Adding stabilisers to stop plastics breaking down in sunlight
 - D. Burning plastic waste to generate electricity
 
-**Q1833.** A chemical plant stores large quantities of a toxic, flammable solvent. Suggest two changes, based on green chemistry principles, that would reduce the risk of a serious accident.
+**Q1835.** A chemical plant stores large quantities of a toxic, flammable solvent. Suggest two changes, based on green chemistry principles, that would reduce the risk of a serious accident.
 <!-- id: chem-8-1-24 -->
 
 *Written answer*
 
-**Q1834.** Explain why producing hydrogen from natural gas by steam reforming (CH₄ + H₂O → CO + 3H₂) is less consistent with green chemistry than producing hydrogen by electrolysis of water powered by solar energy.
+**Q1836.** Explain why producing hydrogen from natural gas by steam reforming (CH₄ + H₂O → CO + 3H₂) is less consistent with green chemistry than producing hydrogen by electrolysis of water powered by solar energy.
 <!-- id: chem-8-1-25 -->
 
 *Written answer*
 
 #### Atom economy calculations
 
-**Q1835.** Atom economy is calculated as:
+**Q1837.** Atom economy is calculated as:
 <!-- id: chem-8-2-1 -->
 
 - A. (actual mass of product ÷ theoretical mass of product) × 100
@@ -13060,7 +13102,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. (molar mass of desired product ÷ total molar mass of all reactants) × 100, using coefficients from the balanced equation
 - D. (moles of product ÷ moles of limiting reactant) × 100
 
-**Q1836.** Ethanol can be made by fermentation: C₆H₁₂O₆ → 2C₂H₅OH + 2CO₂. Given M(C₆H₁₂O₆) = 180.0 g/mol and M(C₂H₅OH) = 46.0 g/mol, the atom economy for ethanol is:
+**Q1838.** Ethanol can be made by fermentation: C₆H₁₂O₆ → 2C₂H₅OH + 2CO₂. Given M(C₆H₁₂O₆) = 180.0 g/mol and M(C₂H₅OH) = 46.0 g/mol, the atom economy for ethanol is:
 <!-- id: chem-8-2-2 -->
 
 - A. 25.6%
@@ -13068,7 +13110,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 100%
 - D. 51.1%
 
-**Q1837.** The atom economy for ethanol made by hydration of ethene, C₂H₄ + H₂O → C₂H₅OH, is:
+**Q1839.** The atom economy for ethanol made by hydration of ethene, C₂H₄ + H₂O → C₂H₅OH, is:
 <!-- id: chem-8-2-3 -->
 
 - A. 100%
@@ -13076,12 +13118,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 39.1%
 - D. 50.0%
 
-**Q1838.** Chloromethane is made by CH₄ + Cl₂ → CH₃Cl + HCl. Calculate the atom economy for chloromethane. M(CH₄) = 16.0, M(Cl₂) = 71.0, M(CH₃Cl) = 50.5 g/mol.
+**Q1840.** Chloromethane is made by CH₄ + Cl₂ → CH₃Cl + HCl. Calculate the atom economy for chloromethane. M(CH₄) = 16.0, M(Cl₂) = 71.0, M(CH₃Cl) = 50.5 g/mol.
 <!-- id: chem-8-2-4 -->
 
 *Written answer*
 
-**Q1839.** Which type of reaction always has an atom economy of 100% for the single product formed?
+**Q1841.** Which type of reaction always has an atom economy of 100% for the single product formed?
 <!-- id: chem-8-2-5 -->
 
 - A. Substitution reaction
@@ -13089,7 +13131,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Condensation reaction
 - D. Elimination reaction
 
-**Q1840.** Hydrogen can be produced by steam reforming: CH₄ + H₂O → CO + 3H₂. Using M(CH₄) = 16.0, M(H₂O) = 18.0 and M(H₂) = 2.0 g/mol, the atom economy for hydrogen is:
+**Q1842.** Hydrogen can be produced by steam reforming: CH₄ + H₂O → CO + 3H₂. Using M(CH₄) = 16.0, M(H₂O) = 18.0 and M(H₂) = 2.0 g/mol, the atom economy for hydrogen is:
 <!-- id: chem-8-2-6 -->
 
 - A. 5.9%
@@ -13097,7 +13139,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 17.6%
 - D. 37.5%
 
-**Q1841.** Lime is made by heating limestone: CaCO₃ → CaO + CO₂. Given M(CaCO₃) = 100.1 g/mol and M(CaO) = 56.1 g/mol, the atom economy for CaO is:
+**Q1843.** Lime is made by heating limestone: CaCO₃ → CaO + CO₂. Given M(CaCO₃) = 100.1 g/mol and M(CaO) = 56.1 g/mol, the atom economy for CaO is:
 <!-- id: chem-8-2-7 -->
 
 - A. 44.0%
@@ -13105,12 +13147,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 100%
 - D. 56.0%
 
-**Q1842.** Aspirin can be made from salicylic acid (M = 138.0 g/mol) using either ethanoic anhydride (M = 102.0 g/mol, by-product ethanoic acid) or ethanoic acid (M = 60.0 g/mol, by-product water). M(aspirin) = 180.0 g/mol. Calculate the atom economy for each route and state which is greener on this basis.
+**Q1844.** Aspirin can be made from salicylic acid (M = 138.0 g/mol) using either ethanoic anhydride (M = 102.0 g/mol, by-product ethanoic acid) or ethanoic acid (M = 60.0 g/mol, by-product water). M(aspirin) = 180.0 g/mol. Calculate the atom economy for each route and state which is greener on this basis.
 <!-- id: chem-8-2-8 -->
 
 *Written answer*
 
-**Q1843.** Iron is extracted in a blast furnace: Fe₂O₃ + 3CO → 2Fe + 3CO₂. Given M(Fe₂O₃) = 159.6, M(CO) = 28.0 and M(Fe) = 55.8 g/mol, the atom economy for iron is:
+**Q1845.** Iron is extracted in a blast furnace: Fe₂O₃ + 3CO → 2Fe + 3CO₂. Given M(Fe₂O₃) = 159.6, M(CO) = 28.0 and M(Fe) = 55.8 g/mol, the atom economy for iron is:
 <!-- id: chem-8-2-9 -->
 
 - A. 45.8%
@@ -13118,7 +13160,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 69.9%
 - D. 59.5%
 
-**Q1844.** Ethyl ethanoate is made by esterification: CH₃COOH + C₂H₅OH → CH₃COOC₂H₅ + H₂O. Given M(CH₃COOH) = 60.0, M(C₂H₅OH) = 46.0 and M(CH₃COOC₂H₅) = 88.0 g/mol, the atom economy for the ester is:
+**Q1846.** Ethyl ethanoate is made by esterification: CH₃COOH + C₂H₅OH → CH₃COOC₂H₅ + H₂O. Given M(CH₃COOH) = 60.0, M(C₂H₅OH) = 46.0 and M(CH₃COOC₂H₅) = 88.0 g/mol, the atom economy for the ester is:
 <!-- id: chem-8-2-10 -->
 
 - A. 17.0%
@@ -13126,7 +13168,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 100%
 - D. 91.7%
 
-**Q1845.** Chloroethane can be made by two routes. Route 1: C₂H₄ + HCl → C₂H₅Cl. Route 2: C₂H₆ + Cl₂ → C₂H₅Cl + HCl. Given M(C₂H₅Cl) = 64.5, M(C₂H₆) = 30.0 and M(Cl₂) = 71.0 g/mol, the atom economies of Routes 1 and 2 respectively are:
+**Q1847.** Chloroethane can be made by two routes. Route 1: C₂H₄ + HCl → C₂H₅Cl. Route 2: C₂H₆ + Cl₂ → C₂H₅Cl + HCl. Given M(C₂H₅Cl) = 64.5, M(C₂H₆) = 30.0 and M(Cl₂) = 71.0 g/mol, the atom economies of Routes 1 and 2 respectively are:
 <!-- id: chem-8-2-11 -->
 
 - A. 63.9% and 100%
@@ -13134,12 +13176,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 100% and 63.9%
 - D. 50.0% and 50.0%
 
-**Q1846.** Explain why atom economy is described as a 'theoretical' measure while percentage yield is an 'experimental' measure.
+**Q1848.** Explain why atom economy is described as a 'theoretical' measure while percentage yield is an 'experimental' measure.
 <!-- id: chem-8-2-12 -->
 
 *Written answer*
 
-**Q1847.** Electrolysis of brine: 2NaCl + 2H₂O → 2NaOH + H₂ + Cl₂. Given M(NaCl) = 58.5, M(H₂O) = 18.0, M(NaOH) = 40.0 and M(Cl₂) = 71.0 g/mol, the atom economy if both NaOH and Cl₂ are considered useful products is:
+**Q1849.** Electrolysis of brine: 2NaCl + 2H₂O → 2NaOH + H₂ + Cl₂. Given M(NaCl) = 58.5, M(H₂O) = 18.0, M(NaOH) = 40.0 and M(Cl₂) = 71.0 g/mol, the atom economy if both NaOH and Cl₂ are considered useful products is:
 <!-- id: chem-8-2-13 -->
 
 - A. 52.3%
@@ -13147,7 +13189,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 100%
 - D. 98.7%
 
-**Q1848.** The atom economy for hydrogen produced by electrolysis of water, 2H₂O → 2H₂ + O₂, is:
+**Q1850.** The atom economy for hydrogen produced by electrolysis of water, 2H₂O → 2H₂ + O₂, is:
 <!-- id: chem-8-2-14 -->
 
 - A. 11.1%
@@ -13155,7 +13197,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 5.6%
 - D. 66.7%
 
-**Q1849.** Which change would increase the effective atom economy of a process?
+**Q1851.** Which change would increase the effective atom economy of a process?
 <!-- id: chem-8-2-15 -->
 
 - A. Increasing the reaction temperature
@@ -13163,12 +13205,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Adding a catalyst
 - D. Increasing the pressure of gaseous reactants
 
-**Q1850.** Explain how selling the CO₂ produced in the fermentation of glucose (C₆H₁₂O₆ → 2C₂H₅OH + 2CO₂) to the beverage industry affects the atom economy of the process.
+**Q1852.** Explain how selling the CO₂ produced in the fermentation of glucose (C₆H₁₂O₆ → 2C₂H₅OH + 2CO₂) to the beverage industry affects the atom economy of the process.
 <!-- id: chem-8-2-16 -->
 
 *Written answer*
 
-**Q1851.** Aspirin (M = 180.0 g/mol) is made from salicylic acid (M = 138.0 g/mol) and ethanoic anhydride (M = 102.0 g/mol), with ethanoic acid (M = 60.0 g/mol) as by-product. The atom economy for aspirin is:
+**Q1853.** Aspirin (M = 180.0 g/mol) is made from salicylic acid (M = 138.0 g/mol) and ethanoic anhydride (M = 102.0 g/mol), with ethanoic acid (M = 60.0 g/mol) as by-product. The atom economy for aspirin is:
 <!-- id: chem-8-2-17 -->
 
 - A. 130.4%
@@ -13176,7 +13218,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 75.0%
 - D. 56.6%
 
-**Q1852.** Copper can be obtained by reducing copper(II) oxide with hydrogen: CuO + H₂ → Cu + H₂O. Given M(CuO) = 79.5, M(H₂) = 2.0 and M(Cu) = 63.5 g/mol, the atom economy for copper is:
+**Q1854.** Copper can be obtained by reducing copper(II) oxide with hydrogen: CuO + H₂ → Cu + H₂O. Given M(CuO) = 79.5, M(H₂) = 2.0 and M(Cu) = 63.5 g/mol, the atom economy for copper is:
 <!-- id: chem-8-2-18 -->
 
 - A. 79.9%
@@ -13184,7 +13226,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 63.5%
 - D. 77.9%
 
-**Q1853.** Ethene can be made by dehydrating ethanol: C₂H₅OH → C₂H₄ + H₂O. Given M(C₂H₅OH) = 46.0 g/mol and M(C₂H₄) = 28.0 g/mol, the atom economy for ethene is:
+**Q1855.** Ethene can be made by dehydrating ethanol: C₂H₅OH → C₂H₄ + H₂O. Given M(C₂H₅OH) = 46.0 g/mol and M(C₂H₄) = 28.0 g/mol, the atom economy for ethene is:
 <!-- id: chem-8-2-19 -->
 
 - A. 60.9%
@@ -13192,12 +13234,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 164%
 - D. 100%
 
-**Q1854.** Ethene can be made by dehydrating ethanol or by cracking ethane (C₂H₆ → C₂H₄ + H₂). Calculate the atom economy for ethene in the cracking reaction. M(C₂H₆) = 30.0, M(C₂H₄) = 28.0 g/mol.
+**Q1856.** Ethene can be made by dehydrating ethanol or by cracking ethane (C₂H₆ → C₂H₄ + H₂). Calculate the atom economy for ethene in the cracking reaction. M(C₂H₆) = 30.0, M(C₂H₄) = 28.0 g/mol.
 <!-- id: chem-8-2-20 -->
 
 *Written answer*
 
-**Q1855.** Which statement about atom economy is correct?
+**Q1857.** Which statement about atom economy is correct?
 <!-- id: chem-8-2-21 -->
 
 - A. Atom economy can be measured experimentally by weighing the product.
@@ -13205,7 +13247,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Atom economy depends on how much reactant is used.
 - D. Atom economy is always equal to percentage yield for a single-step reaction.
 
-**Q1856.** Methanol is produced industrially by CO + 2H₂ → CH₃OH. A student claims this reaction is 'perfectly green'. Which is the best response?
+**Q1858.** Methanol is produced industrially by CO + 2H₂ → CH₃OH. A student claims this reaction is 'perfectly green'. Which is the best response?
 <!-- id: chem-8-2-22 -->
 
 - A. The student is correct because 100% atom economy means no environmental impact.
@@ -13213,7 +13255,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Its atom economy is 100%, but its greenness also depends on the source of feedstocks and energy, e.g. syngas from natural gas.
 - D. The student is correct because methanol is a renewable fuel no matter how it is made.
 
-**Q1857.** Thermite reaction: Fe₂O₃ + 2Al → 2Fe + Al₂O₃. Given M(Fe₂O₃) = 159.6, M(Al) = 27.0 and M(Fe) = 55.8 g/mol, the atom economy for iron is:
+**Q1859.** Thermite reaction: Fe₂O₃ + 2Al → 2Fe + Al₂O₃. Given M(Fe₂O₃) = 159.6, M(Al) = 27.0 and M(Fe) = 55.8 g/mol, the atom economy for iron is:
 <!-- id: chem-8-2-23 -->
 
 - A. 47.8%
@@ -13221,19 +13263,19 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 69.9%
 - D. 52.2%
 
-**Q1858.** Explain why addition polymerisation (e.g. making polyethene from ethene) has a higher atom economy than condensation polymerisation (e.g. making a polyester).
+**Q1860.** Explain why addition polymerisation (e.g. making polyethene from ethene) has a higher atom economy than condensation polymerisation (e.g. making a polyester).
 <!-- id: chem-8-2-24 -->
 
 *Written answer*
 
-**Q1859.** Calculate the atom economy for sodium hydroxide alone in the electrolysis of brine: 2NaCl + 2H₂O → 2NaOH + H₂ + Cl₂. M(NaCl) = 58.5, M(H₂O) = 18.0, M(NaOH) = 40.0 g/mol.
+**Q1861.** Calculate the atom economy for sodium hydroxide alone in the electrolysis of brine: 2NaCl + 2H₂O → 2NaOH + H₂ + Cl₂. M(NaCl) = 58.5, M(H₂O) = 18.0, M(NaOH) = 40.0 g/mol.
 <!-- id: chem-8-2-25 -->
 
 *Written answer*
 
 #### Percentage yield calculations
 
-**Q1860.** Percentage yield is calculated as:
+**Q1862.** Percentage yield is calculated as:
 <!-- id: chem-8-3-1 -->
 
 - A. (actual mass of product ÷ theoretical mass of product) × 100
@@ -13241,7 +13283,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. (theoretical mass of product ÷ actual mass of product) × 100
 - D. (mass of product ÷ total mass of reactants added) × 100
 
-**Q1861.** 10.0 g of glucose is fermented: C₆H₁₂O₆ → 2C₂H₅OH + 2CO₂, producing 4.20 g of ethanol. M(glucose) = 180.0, M(ethanol) = 46.0 g/mol. The percentage yield is:
+**Q1863.** 10.0 g of glucose is fermented: C₆H₁₂O₆ → 2C₂H₅OH + 2CO₂, producing 4.20 g of ethanol. M(glucose) = 180.0, M(ethanol) = 46.0 g/mol. The percentage yield is:
 <!-- id: chem-8-3-2 -->
 
 - A. 42.0%
@@ -13249,7 +13291,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 91.3%
 - D. 164%
 
-**Q1862.** In the Haber process, 28.0 kg of N₂ reacts with excess H₂ (N₂ + 3H₂ → 2NH₃) and 5.10 kg of NH₃ is collected. M(N₂) = 28.0, M(NH₃) = 17.0 g/mol. The percentage yield is:
+**Q1864.** In the Haber process, 28.0 kg of N₂ reacts with excess H₂ (N₂ + 3H₂ → 2NH₃) and 5.10 kg of NH₃ is collected. M(N₂) = 28.0, M(NH₃) = 17.0 g/mol. The percentage yield is:
 <!-- id: chem-8-3-3 -->
 
 - A. 30.0%
@@ -13257,12 +13299,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 15.0%
 - D. 7.5%
 
-**Q1863.** A two-step synthesis has step yields of 85% and 60%. Calculate the overall yield and explain why reducing the number of steps in a synthesis is consistent with green chemistry.
+**Q1865.** A two-step synthesis has step yields of 85% and 60%. Calculate the overall yield and explain why reducing the number of steps in a synthesis is consistent with green chemistry.
 <!-- id: chem-8-3-4 -->
 
 *Written answer*
 
-**Q1864.** 6.00 g of ethanoic acid (M = 60.0 g/mol) reacts with excess ethanol, giving 5.72 g of ethyl ethanoate (M = 88.0 g/mol). The percentage yield is:
+**Q1866.** 6.00 g of ethanoic acid (M = 60.0 g/mol) reacts with excess ethanol, giving 5.72 g of ethyl ethanoate (M = 88.0 g/mol). The percentage yield is:
 <!-- id: chem-8-3-5 -->
 
 - A. 95.3%
@@ -13270,7 +13312,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 83.0%
 - D. 65.0%
 
-**Q1865.** 12.0 g of ethanoic acid (M = 60.0 g/mol) is mixed with 6.90 g of ethanol (M = 46.0 g/mol), and 9.90 g of ethyl ethanoate (M = 88.0 g/mol) is obtained. The percentage yield is:
+**Q1867.** 12.0 g of ethanoic acid (M = 60.0 g/mol) is mixed with 6.90 g of ethanol (M = 46.0 g/mol), and 9.90 g of ethyl ethanoate (M = 88.0 g/mol) is obtained. The percentage yield is:
 <!-- id: chem-8-3-6 -->
 
 - A. 75.0%
@@ -13278,7 +13320,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 52.3%
 - D. 100%
 
-**Q1866.** A synthesis has three steps with yields of 90%, 80% and 70%. The overall percentage yield is:
+**Q1868.** A synthesis has three steps with yields of 90%, 80% and 70%. The overall percentage yield is:
 <!-- id: chem-8-3-7 -->
 
 - A. 80%
@@ -13286,12 +13328,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 240%
 - D. 70%
 
-**Q1867.** Give two reasons why the actual yield of an industrial reaction is usually less than the theoretical yield.
+**Q1869.** Give two reasons why the actual yield of an industrial reaction is usually less than the theoretical yield.
 <!-- id: chem-8-3-8 -->
 
 *Written answer*
 
-**Q1868.** A student calculates a percentage yield of 108% for a crystallised product. The most likely reason is:
+**Q1870.** A student calculates a percentage yield of 108% for a crystallised product. The most likely reason is:
 <!-- id: chem-8-3-9 -->
 
 - A. some product was lost during filtration.
@@ -13299,7 +13341,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. the product was not fully dried and still contained solvent.
 - D. a side reaction produced a by-product.
 
-**Q1869.** Which factor would NOT cause a percentage yield below 100%?
+**Q1871.** Which factor would NOT cause a percentage yield below 100%?
 <!-- id: chem-8-3-10 -->
 
 - A. Loss of product during transfer between containers
@@ -13307,7 +13349,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Competing side reactions forming other products
 - D. Recording the mass of a product that is still damp
 
-**Q1870.** 50.0 g of CaCO₃ (M = 100.1 g/mol) is heated and 25.2 g of CaO (M = 56.1 g/mol) is collected. The percentage yield is:
+**Q1872.** 50.0 g of CaCO₃ (M = 100.1 g/mol) is heated and 25.2 g of CaO (M = 56.1 g/mol) is collected. The percentage yield is:
 <!-- id: chem-8-3-11 -->
 
 - A. 89.9%
@@ -13315,12 +13357,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 56.0%
 - D. 98.4%
 
-**Q1871.** Explain why a chemical engineer would aim to improve both the atom economy and the percentage yield of a process.
+**Q1873.** Explain why a chemical engineer would aim to improve both the atom economy and the percentage yield of a process.
 <!-- id: chem-8-3-12 -->
 
 *Written answer*
 
-**Q1872.** 2.76 g of salicylic acid (M = 138.0 g/mol) gives 2.70 g of aspirin (M = 180.0 g/mol). The 1:1 reaction ratio applies. The percentage yield is:
+**Q1874.** 2.76 g of salicylic acid (M = 138.0 g/mol) gives 2.70 g of aspirin (M = 180.0 g/mol). The 1:1 reaction ratio applies. The percentage yield is:
 <!-- id: chem-8-3-13 -->
 
 - A. 97.8%
@@ -13328,7 +13370,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 102%
 - D. 57.5%
 
-**Q1873.** Methanol is produced by CO + 2H₂ → CH₃OH. 56.0 kg of CO (M = 28.0 g/mol) reacts with excess H₂, and 48.0 kg of CH₃OH (M = 32.0 g/mol) is produced. The percentage yield is:
+**Q1875.** Methanol is produced by CO + 2H₂ → CH₃OH. 56.0 kg of CO (M = 28.0 g/mol) reacts with excess H₂, and 48.0 kg of CH₃OH (M = 32.0 g/mol) is produced. The percentage yield is:
 <!-- id: chem-8-3-14 -->
 
 - A. 85.7%
@@ -13336,7 +13378,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 75.0%
 - D. 150%
 
-**Q1874.** A company needs 23.0 g of ethanol (M = 46.0 g/mol) from C₂H₄ + H₂O → C₂H₅OH, which has an 80.0% yield. The minimum mass of ethene (M = 28.0 g/mol) required is:
+**Q1876.** A company needs 23.0 g of ethanol (M = 46.0 g/mol) from C₂H₄ + H₂O → C₂H₅OH, which has an 80.0% yield. The minimum mass of ethene (M = 28.0 g/mol) required is:
 <!-- id: chem-8-3-15 -->
 
 - A. 14.0 g
@@ -13344,12 +13386,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 28.8 g
 - D. 17.5 g
 
-**Q1875.** In an esterification, 0.250 mol of propanoic acid (M = 74.0 g/mol) reacts with excess methanol to form methyl propanoate (M = 88.0 g/mol). If 15.4 g of ester is collected, calculate the percentage yield.
+**Q1877.** In an esterification, 0.250 mol of propanoic acid (M = 74.0 g/mol) reacts with excess methanol to form methyl propanoate (M = 88.0 g/mol). If 15.4 g of ester is collected, calculate the percentage yield.
 <!-- id: chem-8-3-16 -->
 
 *Written answer*
 
-**Q1876.** In the Contact process, 2SO₂ + O₂ → 2SO₃. 128.2 g of SO₂ (M = 64.1 g/mol) gives 155.4 g of SO₃ (M = 80.1 g/mol). The percentage yield is:
+**Q1878.** In the Contact process, 2SO₂ + O₂ → 2SO₃. 128.2 g of SO₂ (M = 64.1 g/mol) gives 155.4 g of SO₃ (M = 80.1 g/mol). The percentage yield is:
 <!-- id: chem-8-3-17 -->
 
 - A. 97.0%
@@ -13357,7 +13399,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 48.5%
 - D. 121%
 
-**Q1877.** 200 g of CaCO₃ (M = 100.1 g/mol) is decomposed with a 95.0% yield. The mass of CaO (M = 56.1 g/mol) obtained is closest to:
+**Q1879.** 200 g of CaCO₃ (M = 100.1 g/mol) is decomposed with a 95.0% yield. The mass of CaO (M = 56.1 g/mol) obtained is closest to:
 <!-- id: chem-8-3-18 -->
 
 - A. 112 g
@@ -13365,7 +13407,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 190 g
 - D. 118 g
 
-**Q1878.** How does a catalyst affect the percentage yield of an equilibrium reaction once equilibrium is reached?
+**Q1880.** How does a catalyst affect the percentage yield of an equilibrium reaction once equilibrium is reached?
 <!-- id: chem-8-3-19 -->
 
 - A. It increases the equilibrium yield by shifting the equilibrium to the right.
@@ -13373,12 +13415,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. It does not change the equilibrium yield, but the maximum yield is reached in less time.
 - D. It increases the yield only for exothermic reactions.
 
-**Q1879.** Explain why unreacted N₂ and H₂ are recycled in the Haber process, referring to percentage yield.
+**Q1881.** Explain why unreacted N₂ and H₂ are recycled in the Haber process, referring to percentage yield.
 <!-- id: chem-8-3-20 -->
 
 *Written answer*
 
-**Q1880.** For the exothermic reaction N₂ + 3H₂ ⇌ 2NH₃, which change increases the equilibrium yield of ammonia?
+**Q1882.** For the exothermic reaction N₂ + 3H₂ ⇌ 2NH₃, which change increases the equilibrium yield of ammonia?
 <!-- id: chem-8-3-21 -->
 
 - A. Adding an iron catalyst
@@ -13386,7 +13428,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Adding argon at constant volume
 - D. Lowering the temperature
 
-**Q1881.** 16.0 g of Fe₂O₃ (M = 159.6 g/mol) reacts with excess aluminium (Fe₂O₃ + 2Al → 2Fe + Al₂O₃), forming 9.50 g of iron (M = 55.8 g/mol). The percentage yield is closest to:
+**Q1883.** 16.0 g of Fe₂O₃ (M = 159.6 g/mol) reacts with excess aluminium (Fe₂O₃ + 2Al → 2Fe + Al₂O₃), forming 9.50 g of iron (M = 55.8 g/mol). The percentage yield is closest to:
 <!-- id: chem-8-3-22 -->
 
 - A. 84.9%
@@ -13394,7 +13436,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 42.4%
 - D. 170%
 
-**Q1882.** A reaction has a 100% atom economy but only a 40% percentage yield. Which statement is correct?
+**Q1884.** A reaction has a 100% atom economy but only a 40% percentage yield. Which statement is correct?
 <!-- id: chem-8-3-23 -->
 
 - A. 60% of the reactant atoms formed by-products according to the balanced equation.
@@ -13402,19 +13444,19 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. The reaction must be an elimination reaction.
 - D. The reaction is fully green because atom economy is 100%.
 
-**Q1883.** A student needs 5.00 g of aspirin (M = 180.0 g/mol). The reaction of salicylic acid (M = 138.0 g/mol) to aspirin is 1:1 and has a 70.0% yield. Calculate the mass of salicylic acid needed.
+**Q1885.** A student needs 5.00 g of aspirin (M = 180.0 g/mol). The reaction of salicylic acid (M = 138.0 g/mol) to aspirin is 1:1 and has a 70.0% yield. Calculate the mass of salicylic acid needed.
 <!-- id: chem-8-3-24 -->
 
 *Written answer*
 
-**Q1884.** Explain why a percentage yield greater than 100% indicates an experimental error, and give one possible cause.
+**Q1886.** Explain why a percentage yield greater than 100% indicates an experimental error, and give one possible cause.
 <!-- id: chem-8-3-25 -->
 
 *Written answer*
 
 #### Circular economy and sustainability
 
-**Q1885.** Which statement best describes a circular economy?
+**Q1887.** Which statement best describes a circular economy?
 <!-- id: chem-8-4-1 -->
 
 - A. An economy in which raw materials are extracted, made into products and disposed of after use
@@ -13422,7 +13464,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. An economy in which materials are kept in use for as long as possible through reuse, repair, remanufacture and recycling, with waste designed out
 - D. An economy in which all waste is burned to generate electricity
 
-**Q1886.** A linear economy is best described as:
+**Q1888.** A linear economy is best described as:
 <!-- id: chem-8-4-2 -->
 
 - A. reduce, reuse, recycle
@@ -13430,7 +13472,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. design, use, repair, reuse
 - D. take, make, use, dispose
 
-**Q1887.** Which of the following is the best example of a circular economy approach to PET drink bottles?
+**Q1889.** Which of the following is the best example of a circular economy approach to PET drink bottles?
 <!-- id: chem-8-4-3 -->
 
 - A. Collecting bottles through the Victorian container deposit scheme and reprocessing them into new food-grade bottles
@@ -13438,12 +13480,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Making bottles thinner so they weigh less
 - D. Exporting used bottles to other countries
 
-**Q1888.** Explain the difference between a linear economy and a circular economy.
+**Q1890.** Explain the difference between a linear economy and a circular economy.
 <!-- id: chem-8-4-4 -->
 
 *Written answer*
 
-**Q1889.** Why is burning a plastic waste to generate electricity considered less circular than recycling it?
+**Q1891.** Why is burning a plastic waste to generate electricity considered less circular than recycling it?
 <!-- id: chem-8-4-5 -->
 
 - A. Burning produces no useful energy.
@@ -13451,7 +13493,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Recycling releases more CO₂ than burning.
 - D. Burning plastic is not allowed anywhere in Australia.
 
-**Q1890.** Which property makes thermoplastics such as PET easier to recycle than thermosetting polymers?
+**Q1892.** Which property makes thermoplastics such as PET easier to recycle than thermosetting polymers?
 <!-- id: chem-8-4-6 -->
 
 - A. They have strong covalent cross-links between chains.
@@ -13459,7 +13501,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. They soften on heating and can be remoulded, because there are only weak forces between chains and no cross-links.
 - D. They do not melt at any temperature.
 
-**Q1891.** In chemical (feedstock) recycling of plastics, polymers are:
+**Q1893.** In chemical (feedstock) recycling of plastics, polymers are:
 <!-- id: chem-8-4-7 -->
 
 - A. melted and remoulded into a new shape.
@@ -13467,12 +13509,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. burned to generate electricity.
 - D. broken down into monomers or small molecules that can be used to make new polymers or chemicals.
 
-**Q1892.** Give one advantage and one disadvantage of using bioethanol produced from sugar cane as a fuel in terms of sustainability.
+**Q1894.** Give one advantage and one disadvantage of using bioethanol produced from sugar cane as a fuel in terms of sustainability.
 <!-- id: chem-8-4-8 -->
 
 *Written answer*
 
-**Q1893.** Which of the following is a sustainability benefit of producing biodiesel from canola oil compared with diesel from crude oil?
+**Q1895.** Which of the following is a sustainability benefit of producing biodiesel from canola oil compared with diesel from crude oil?
 <!-- id: chem-8-4-9 -->
 
 - A. The carbon released on combustion was recently absorbed from the atmosphere by the canola plants, so net CO₂ emissions are lower.
@@ -13480,7 +13522,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Biodiesel has a higher energy content per kilogram than petrodiesel.
 - D. Growing canola requires no land or water.
 
-**Q1894.** A concern about producing biofuels from food crops such as wheat or sugar cane is that:
+**Q1896.** A concern about producing biofuels from food crops such as wheat or sugar cane is that:
 <!-- id: chem-8-4-10 -->
 
 - A. biofuels cannot be used in vehicles.
@@ -13488,7 +13530,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. they are made from non-renewable feedstocks.
 - D. their combustion releases sulfur dioxide in large amounts.
 
-**Q1895.** Which practice best represents 'industrial symbiosis' in a circular economy?
+**Q1897.** Which practice best represents 'industrial symbiosis' in a circular economy?
 <!-- id: chem-8-4-11 -->
 
 - A. Each factory treating all its own waste on site
@@ -13496,12 +13538,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Using waste heat and by-product CO₂ from one factory to warm greenhouses at a neighbouring business
 - D. Importing raw materials from overseas
 
-**Q1896.** Explain why thermosetting polymers are more difficult to recycle than thermoplastic polymers.
+**Q1898.** Explain why thermosetting polymers are more difficult to recycle than thermoplastic polymers.
 <!-- id: chem-8-4-12 -->
 
 *Written answer*
 
-**Q1897.** Which of the following ranks the waste hierarchy correctly from most preferred to least preferred?
+**Q1899.** Which of the following ranks the waste hierarchy correctly from most preferred to least preferred?
 <!-- id: chem-8-4-13 -->
 
 - A. Recycle, reuse, reduce, dispose, recover energy
@@ -13509,7 +13551,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Reuse, dispose, reduce, recycle, recover energy
 - D. Avoid/reduce, reuse, recycle, recover energy, dispose
 
-**Q1898.** Which term describes the assessment of the environmental impacts of a product from raw material extraction to final disposal?
+**Q1900.** Which term describes the assessment of the environmental impacts of a product from raw material extraction to final disposal?
 <!-- id: chem-8-4-14 -->
 
 - A. Life cycle assessment
@@ -13517,7 +13559,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Percentage yield
 - D. Chromatography
 
-**Q1899.** Green hydrogen can be used to make 'green ammonia' for fertilisers. This improves the sustainability of ammonia production mainly because:
+**Q1901.** Green hydrogen can be used to make 'green ammonia' for fertilisers. This improves the sustainability of ammonia production mainly because:
 <!-- id: chem-8-4-15 -->
 
 - A. it increases the atom economy of the Haber reaction above 100%.
@@ -13525,12 +13567,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. it removes the need for nitrogen.
 - D. it allows ammonia to be produced without a catalyst.
 
-**Q1900.** A Victorian brewery sells the CO₂ released during fermentation to a soft drink manufacturer and sends spent grain to local farmers as cattle feed. Explain how these practices reflect circular economy principles.
+**Q1902.** A Victorian brewery sells the CO₂ released during fermentation to a soft drink manufacturer and sends spent grain to local farmers as cattle feed. Explain how these practices reflect circular economy principles.
 <!-- id: chem-8-4-16 -->
 
 *Written answer*
 
-**Q1901.** Which example best demonstrates 'design for disassembly' in a circular economy?
+**Q1903.** Which example best demonstrates 'design for disassembly' in a circular economy?
 <!-- id: chem-8-4-17 -->
 
 - A. A phone sealed completely in a single plastic case
@@ -13538,7 +13580,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. A mobile phone designed with screws instead of glue, so its battery and metals can be easily separated for recycling
 - D. A phone made with the smallest possible number of recyclable components
 
-**Q1902.** Polylactic acid (PLA) is made from corn starch. Which statement about PLA is correct?
+**Q1904.** Polylactic acid (PLA) is made from corn starch. Which statement about PLA is correct?
 <!-- id: chem-8-4-18 -->
 
 - A. It is made from crude oil and does not biodegrade.
@@ -13546,7 +13588,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. It is a thermosetting polymer with many cross-links.
 - D. It is made from a renewable feedstock and can biodegrade under industrial composting conditions.
 
-**Q1903.** Which is a disadvantage of mechanical recycling of plastics?
+**Q1905.** Which is a disadvantage of mechanical recycling of plastics?
 <!-- id: chem-8-4-19 -->
 
 - A. Polymer chains are shortened and contaminants build up each cycle, so quality decreases (downcycling).
@@ -13554,12 +13596,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. It changes the plastic into a thermosetting polymer.
 - D. It cannot be used for any type of plastic.
 
-**Q1904.** Describe what a life cycle assessment (LCA) of a product involves and why it is useful.
+**Q1906.** Describe what a life cycle assessment (LCA) of a product involves and why it is useful.
 <!-- id: chem-8-4-20 -->
 
 *Written answer*
 
-**Q1905.** Recovering copper from discarded electronic waste rather than mining new ore is consistent with a circular economy because it:
+**Q1907.** Recovering copper from discarded electronic waste rather than mining new ore is consistent with a circular economy because it:
 <!-- id: chem-8-4-21 -->
 
 - A. increases the amount of copper ore in the Earth's crust.
@@ -13567,7 +13609,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. produces copper with a different chemical composition.
 - D. requires no energy at all.
 
-**Q1906.** Which statement best describes 'sustainable development'?
+**Q1908.** Which statement best describes 'sustainable development'?
 <!-- id: chem-8-4-22 -->
 
 - A. Development that maximises current profits regardless of future impacts
@@ -13575,7 +13617,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Development that meets the needs of the present without compromising the ability of future generations to meet their own needs
 - D. Development that only uses renewable energy
 
-**Q1907.** Which of the following is the most sustainable source of energy for running an electrolytic cell to produce aluminium in Australia?
+**Q1909.** Which of the following is the most sustainable source of energy for running an electrolytic cell to produce aluminium in Australia?
 <!-- id: chem-8-4-23 -->
 
 - A. Electricity from brown coal power stations
@@ -13583,19 +13625,19 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Electricity from natural gas power stations
 - D. Electricity from solar and wind farms
 
-**Q1908.** Explain how producing ammonia using hydrogen from renewable-powered electrolysis would improve the sustainability of fertiliser production.
+**Q1910.** Explain how producing ammonia using hydrogen from renewable-powered electrolysis would improve the sustainability of fertiliser production.
 <!-- id: chem-8-4-24 -->
 
 *Written answer*
 
-**Q1909.** Explain why 'reduce' and 'reuse' are placed above 'recycle' in the waste hierarchy.
+**Q1911.** Explain why 'reduce' and 'reuse' are placed above 'recycle' in the waste hierarchy.
 <!-- id: chem-8-4-25 -->
 
 *Written answer*
 
 ### Exam-style questions (mixed topics)
 
-**Q1910.** Ethanol as a fuel
+**Q1912.** Ethanol as a fuel
 <!-- id: chem-x1 -->
 *Multi-part question · 13 marks · Original question in the style of the VCE Chemistry exam, Section B*
 
@@ -13619,7 +13661,7 @@ Ethanol can be oxidised to ethanoic acid, CH₃COOH. Ethanoic acid then reacts w
 
 **f.** Fermentation is represented by C₆H₁₂O₆(aq) → 2C₂H₅OH(aq) + 2CO₂(g). Calculate the percentage atom economy for making ethanol by fermentation. Use M(C₆H₁₂O₆) = 180.0 g mol⁻¹. *(2 marks)*
 
-**Q1911.** Green hydrogen: making it and using it
+**Q1913.** Green hydrogen: making it and using it
 <!-- id: chem-x2 -->
 *Multi-part question · 12 marks · Original question in the style of the VCE Chemistry exam, Section B*
 
