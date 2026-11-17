@@ -953,10 +953,10 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 <!-- id: general-2-1-c1 -->
 *Challenge question*
 
-- A. Cafés cause burglaries
+- A. There is a strong positive linear association, so opening more cafés will cause more burglaries
 - B. There is a strong positive linear association, but cafés do not necessarily cause burglaries
-- C. 85% of burglaries are caused by cafés
-- D. There is no association because r is less than 1
+- C. About 85% of the variation in burglaries is explained by the number of cafés in each suburb
+- D. There is only a moderate positive linear association, because r is less than 0.9
 
 #### Least squares regression line
 
@@ -1330,10 +1330,10 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 <!-- id: general-2-3-c1 -->
 *Challenge question*
 
-- A. The linear model fits well
+- A. The linear model fits well, because the residuals are close to zero
 - B. The relationship is non-linear, so a linear model is not appropriate
-- C. There are no outliers
-- D. The correlation coefficient is close to zero
+- C. There are no outliers, so the linear model can be used safely
+- D. The correlation coefficient is close to zero, so there is no association
 
 #### Data transformations for linearity
 

@@ -716,9 +716,9 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 *Challenge question*
 
 - A. Core charge increases while the number of occupied shells stays the same
-- B. More shells are added
-- C. Electronegativity decreases
-- D. The atoms gain more neutrons
+- B. More shells are added across the period, pulling electrons closer
+- C. Electronegativity decreases across the period, so the atoms shrink
+- D. The atoms gain more neutrons, which pull the electrons inwards
 
 #### Metallic bonding and properties of metals
 
@@ -956,10 +956,10 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 <!-- id: vce-chem12-mb-c1 -->
 *Challenge question*
 
-- A. Has covalent bonds between its atoms
-- B. Has a larger atomic radius
-- C. Has fewer protons than sodium
-- D. Has 2+ cations and two delocalised electrons per atom, giving stronger electrostatic attraction
+- A. Has covalent bonds between its atoms as well as metallic bonding
+- B. Has a larger atomic radius, so its atoms pack together more tightly
+- C. Has fewer protons than sodium, so its electrons are held less strongly
+- D. Has 2+ cations and two delocalised electrons per atom, giving stronger attraction
 
 #### Ionic bonding and ionic compounds
 
@@ -2608,9 +2608,9 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 <!-- id: vce-chem12-cl-c1 -->
 *Challenge question*
 
-- A. There are ions that can move
-- B. The covalent bonds are weaker
-- C. Each carbon is bonded to four others
+- A. There are carbon ions between the layers that move when a voltage is applied
+- B. The covalent bonds are weaker, so electrons break free from them easily
+- C. Each carbon is bonded to four others, which spreads electrons through the lattice
 - D. Each carbon is bonded to three others, leaving one delocalised electron per atom
 
 ### Unit 1 AOS 2: Quantifying and classifying materials
@@ -4193,10 +4193,10 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 <!-- id: vce-chem12-tt-c1 -->
 *Challenge question*
 
-- A. Thermoplastics have stronger covalent bonds
+- A. Thermoplastics have stronger covalent bonds within their chains, so they do not char when heated
 - B. Thermosets have covalent cross-links between chains; thermoplastics have only weak forces between chains
-- C. Thermosets are made from smaller monomers
-- D. Thermoplastics contain ions
+- C. Thermosets are made from smaller monomers, so their chains are too short to flow when melted
+- D. Thermoplastics contain ions between their chains, which become mobile when the plastic is heated
 
 ### Unit 2 AOS 1: Chemicals and water
 
@@ -4418,10 +4418,10 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 <!-- id: vce-chem12-pw-c1 -->
 *Challenge question*
 
-- A. Ice contains air bubbles
-- B. Ice molecules are lighter than liquid water molecules
+- A. Ice contains trapped air bubbles that make it less dense than the liquid water around it
+- B. Water molecules in ice are lighter, because some hydrogen atoms are lost on freezing
 - C. Hydrogen bonds hold the molecules in an open lattice, so they are further apart than in the liquid
-- D. Covalent bonds break when water freezes
+- D. Covalent bonds within each molecule break on freezing, so the molecules spread further apart
 
 #### Solubility and precipitation reactions
 
@@ -4867,10 +4867,10 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 <!-- id: vce-chem12-bl-c1 -->
 *Challenge question*
 
-- A. Its conjugate base is H₃PO₄
+- A. It is amphiprotic: its conjugate base is H₃PO₄ and its conjugate acid is HPO₄²⁻
 - B. It is amphiprotic: its conjugate base is HPO₄²⁻ and its conjugate acid is H₃PO₄
-- C. It can only act as an acid
-- D. Its conjugate acid is HPO₄²⁻
+- C. It can only act as an acid, because it still has two hydrogens it can donate
+- D. It can only act as a base, because it already carries a negative charge
 
 #### pH and strong vs weak acids
 
@@ -7037,9 +7037,9 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 *Challenge question*
 
 - A. CO₂ dissolves to form carbonic acid; the extra H⁺ reacts with carbonate ions, lowering [CO₃²⁻]
-- B. CO₂ reacts directly with the shells to form CaCO₃
-- C. CO₂ raises the pH of seawater
-- D. CO₂ makes seawater colder
+- B. CO₂ reacts directly with calcium ions in seawater, so less calcium is left for building shells
+- C. CO₂ raises the pH of seawater, so calcium carbonate is less likely to precipitate
+- D. CO₂ dissolves and releases extra carbonate ions, which dissolve the existing shells
 
 ### Challenge questions
 
@@ -7064,9 +7064,9 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 <!-- id: vce-chem12-challenge-3 -->
 *Challenge question*
 
-- A. Both are polar
-- B. Both are non-polar
-- C. H₂O is linear and non-polar
+- A. Both are polar, because both contain polar bonds to oxygen
+- B. Both are non-polar, because both are symmetrical molecules
+- C. H₂O is linear, so it is non-polar; CO₂ is bent, so it is polar
 - D. CO₂ is linear, so its dipoles cancel; H₂O is bent, so it is polar
 
 **Q996.** 0.010 mol of AgNO₃ is mixed with 0.015 mol of NaCl in solution. What mass of AgCl (M = 143.4 g/mol) forms?
@@ -7487,10 +7487,10 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 <!-- id: chem-1-1-c1 -->
 *Challenge question*
 
-- A. Burning biodiesel produces no carbon dioxide
-- B. Plants absorb more CO₂ than biodiesel releases
-- C. Biodiesel contains no carbon atoms
-- D. Fossil fuels are used to grow, harvest and transport the crop and to make the methanol used in transesterification
+- A. Burning biodiesel releases more CO₂ than the crop absorbed from the air while it was growing
+- B. Biodiesel releases carbon that was absorbed millions of years ago, just as fossil fuels do
+- C. Biodiesel contains no carbon, so its emissions cannot be balanced by growing new plants
+- D. Fossil fuels are used to grow, harvest and transport the crop and to make the methanol used to process it
 
 #### Combustion and thermochemical equations
 
@@ -8784,9 +8784,9 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 <!-- id: chem-3-1-c1 -->
 *Challenge question*
 
-- A. The activation energy decreases
-- B. Particles become larger and collide more often
-- C. The equilibrium constant increases
+- A. The activation energy decreases, so collisions with less energy are now successful
+- B. Particles collide far more often, because they move much faster at a higher temperature
+- C. The equilibrium constant increases, so the forward reaction is pushed to go faster
 - D. A much larger proportion of collisions have energy equal to or greater than the activation energy
 
 #### Maxwell–Boltzmann distributions and catalysts
@@ -9029,10 +9029,10 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 <!-- id: chem-3-2-c1 -->
 *Challenge question*
 
-- A. Shifting the peak of the curve to the right
-- B. Making the curve taller and narrower
+- A. Shifting the peak of the curve to the right, so that more particles have high energy
+- B. Making the curve taller and narrower, while the activation-energy line stays fixed
 - C. Leaving the curve unchanged and moving the activation-energy line to a lower energy
-- D. Moving the activation-energy line to a higher energy
+- D. Leaving the curve unchanged and moving the activation-energy line to a higher energy
 
 #### Equilibrium constants and calculations
 
@@ -9571,10 +9571,10 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 <!-- id: chem-3-4-c1 -->
 *Challenge question*
 
-- A. Shifts right, because total pressure increases
+- A. Shifts right, because the total pressure increases and the right side has fewer particles
 - B. Does not change, because the concentrations of the reacting gases are unchanged
-- C. Shifts left, because argon dilutes the mixture
-- D. Shifts right, because K increases
+- C. Shifts left, because argon dilutes the mixture and the left side has more particles
+- D. Shifts right, because adding an inert gas increases the value of K
 
 ### Electrolysis & rechargeable cells
 
@@ -10495,10 +10495,10 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 <!-- id: chem-4-4-c1 -->
 *Challenge question*
 
-- A. Ag⁺ ions are not involved in the reactions
+- A. Ag⁺ ions take no part in either reaction; only water is oxidised and reduced
 - B. Silver atoms are oxidised at the anode at the same rate as Ag⁺ ions are reduced at the cathode
-- C. Nitrate ions are reduced to replace the silver
-- D. Water is oxidised at the anode, producing Ag⁺
+- C. Nitrate ions are reduced at the cathode, which releases Ag⁺ ions back into the solution
+- D. Water is oxidised at the anode, and this reaction produces new Ag⁺ ions
 
 ### Organic structure & reactions
 
@@ -13311,10 +13311,10 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 <!-- id: chem-7-3-c1 -->
 *Challenge question*
 
-- A. Vitamin D is ionic
-- B. Vitamin C has a higher molar mass
-- C. Vitamin D forms hydrogen bonds with fats
-- D. Vitamin D is mostly non-polar hydrocarbon with one OH group, while vitamin C has several OH groups that hydrogen bond with water
+- A. Vitamin D is an ionic compound that dissolves in fats; vitamin C is a covalent molecule that dissolves in water
+- B. Vitamin C has a much higher molar mass than vitamin D, so it dissolves more easily in water
+- C. Vitamin D forms hydrogen bonds with fats, while vitamin C forms only dispersion forces with water
+- D. Vitamin D is mostly non-polar hydrocarbon with one OH group; vitamin C has several OH groups that bond with water
 
 #### Food energy and digestion
 
@@ -14352,10 +14352,10 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 <!-- id: chem-challenge-5 -->
 *Challenge question*
 
-- A. H₂O with H₃PO₄; NaOH(aq); methanol with H₂SO₄
+- A. H₂O with an H₃PO₄ catalyst; NaOH(aq); methanol with concentrated H₂SO₄
 - B. NaOH(aq); acidified K₂Cr₂O₇; ethanol with a concentrated H₂SO₄ catalyst
-- C. Cl₂ with UV light; acidified KMnO₄; ethanol
-- D. NaOH(aq); H₂ with Ni catalyst; ethanoic acid
+- C. Cl₂ with UV light; acidified KMnO₄; ethanol with concentrated H₂SO₄
+- D. NaOH(aq); H₂ with a nickel catalyst; ethanoic acid with concentrated H₂SO₄
 
 **Q1995.** A compound C₃H₆O shows a strong IR absorption at 1715 cm⁻¹ and no broad band above 3000 cm⁻¹. Its ¹H NMR spectrum shows a single peak. It is:
 <!-- id: chem-challenge-6 -->
@@ -14385,9 +14385,9 @@ A gas barbecue burns propane, C₃H₈ (M = 44.0 g/mol). A full cylinder holds 2
 <!-- id: chem-challenge-9 -->
 *Challenge question*
 
-- A. Sodium metal from both
-- B. Hydrogen gas from both
-- C. Chlorine gas from both
+- A. Sodium metal from both the molten salt and the solution
+- B. Hydrogen gas from the molten salt; sodium metal from the solution
+- C. Chlorine gas from the molten salt; hydrogen gas from the solution
 - D. Sodium metal from the molten salt; hydrogen gas from the solution
 
 **Q1999.** An enzyme's activity falls sharply above 45 °C and does not recover when it is cooled. Explain this at the molecular level.

@@ -322,10 +322,10 @@ How does Brontë use settings to show Jane's development?
 <!-- id: vce-english34-twelfth-night-cc1 -->
 *Challenge question*
 
-- A. Dramatic irony: the audience sees Sir Toby, Sir Andrew and Fabian hiding and commenting while Malvolio misreads the letter
-- B. A soliloquy in which Malvolio reveals he knows the letter is fake
-- C. Pathetic fallacy, as a storm mirrors Malvolio's mood
-- D. A chorus explaining the trick to the audience
+- A. Dramatic irony: the audience sees Toby, Andrew and Fabian hiding while Malvolio misreads the letter
+- B. Soliloquy: Malvolio reveals to the audience that he knows the letter is a forgery
+- C. Pathetic fallacy: a storm breaks out as Malvolio's hopes rise and then collapse
+- D. A chorus: a narrator steps forward to explain Maria's trick to the audience
 
 #### Practice essays
 
@@ -499,9 +499,9 @@ To what extent is Malvolio a victim rather than a fool?
 *Challenge question*
 
 - A. Present the novel as an anti-romance and align readers with Sybylla's frank, ironic view of women's lives
-- B. Make the story read as a traditional love story
-- C. Hide Sybylla's opinions behind an objective narrator
-- D. Show that the narrator is unreliable about the bush
+- B. Present the novel as a traditional romance, so that readers expect Sybylla to marry for love
+- C. Hide Sybylla's opinions behind an objective narrator, so that readers judge her for themselves
+- D. Show that Sybylla is an unreliable narrator whose account of the bush cannot be trusted
 
 #### Practice essays
 
@@ -664,10 +664,10 @@ How does Franklin present the limits placed on women in rural Australia?
 <!-- id: vce-english34-memory-police-cc1 -->
 *Challenge question*
 
-- A. Hide the setting for a twist ending
-- B. Make the book easier to translate
+- A. Hide the setting, so that the final chapters can reveal it in a twist ending
+- B. Make the book easier to translate by avoiding Japanese names and places
 - C. Make the story feel like an allegory of any society under surveillance, and mirror the loss of identity
-- D. Show that the narrator is lying
+- D. Show that the narrator is lying about who she is and where she lives
 
 #### Practice essays
 
@@ -840,10 +840,10 @@ How does the story of the typist who loses her voice deepen the ideas of The Mem
 <!-- id: vce-english34-educated-cc1 -->
 *Challenge question*
 
-- A. Acknowledge that memory is unreliable, which builds credibility and reinforces the question of whose version counts
-- B. Prove that her family is lying
-- C. Add humour to serious scenes
-- D. Show that she cannot remember her childhood
+- A. Acknowledge that memory is unreliable, which builds credibility and raises the question of whose version counts
+- B. Prove that her family is lying, so that readers accept only Westover's version of events
+- C. Add humour to serious scenes by showing how differently each family member reacts
+- D. Show that she cannot remember her childhood, so the memoir should be read as fiction
 
 #### Practice essays
 
@@ -1004,9 +1004,9 @@ This council has a choice. It can keep thirty parking spaces, or it can keep a g
 <!-- id: vce-english34-challenge-1 -->
 *Challenge question*
 
-- A. The plot events in order
-- B. The opinions of the main character only
-- C. Your personal opinion of the text
+- A. The main events of the plot, in the order in which they happen in the text
+- B. The opinions that the main character states directly to other characters
+- C. Your own opinion of whether the text is enjoyable and well written
 - D. The ideas about people and society that the text suggests the author holds, endorses or criticises
 
 **Q142.** Which is the strongest use of evidence in an analytical paragraph?
@@ -1038,9 +1038,9 @@ This council has a choice. It can keep thirty parking spaces, or it can keep a g
 *Challenge question*
 
 - A. Explain how the shift in tone moves readers from sympathy to a sense of obligation
-- B. List the two tones without comment
-- C. Summarise the anecdote in detail
-- D. Ignore tone and focus only on techniques
+- B. List the two tones used in the piece, then quote one example of each
+- C. Summarise the anecdote in detail, then state the writer's contention
+- D. Set tone aside and identify as many persuasive techniques as possible
 
 **Q146.** Explain how an image placed beside an opinion piece can support the written argument. Give an example.
 <!-- id: vce-english34-challenge-6 -->
@@ -1059,9 +1059,9 @@ This council has a choice. It can keep thirty parking spaces, or it can keep a g
 *Challenge question*
 
 - A. Unpack the key terms and test the absolute word ‘everyone’, for example against Viola's steady love
-- B. Agree fully and list every foolish lover
-- C. Write about Shakespeare's life
-- D. Ignore ‘love’ and write about disguise only
+- B. Agree fully with the topic, then list every foolish lover in the play in order of appearance
+- C. Explain Shakespeare's life and the Elizabethan views of love that influenced the play
+- D. Set aside ‘love’ and write about disguise instead, as the play's real concern
 
 **Q149.** Explain how the Malvolio subplot comments on the main plot of Twelfth Night.
 <!-- id: vce-english34-challenge-9 -->

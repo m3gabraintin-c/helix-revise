@@ -607,7 +607,7 @@ Explanation:
 
 Explanation:
 
-**A120.** C. The amygdala and reward systems develop earlier than the prefrontal cortex, which matures into the mid-20s
+**A120.** C. The amygdala and reward systems develop earlier than the prefrontal cortex, which matures in the mid-20s
 <!-- id: vce-psych12-np-c1 -->
 
 Explanation: Emotional and reward responses are strong while the regions for planning, judgement and impulse control are still developing.
@@ -2018,7 +2018,7 @@ Explanation:
 
 Explanation: Prevalence describes how many people in a population currently have a disorder, expressed as a proportion of the whole population. New cases are described by incidence, agreement between clinicians is reliability, and validity is about whether a test measures what it claims to measure.
 
-**A399.** A. They assume a clear boundary between 'disordered' and 'normal', and diagnostic labels can lead to stigma
+**A399.** A. They assume a clear boundary between 'disordered' and 'normal', and labels can lead to stigma
 <!-- id: vce-psych12-mc-c1 -->
 
 Explanation: Categorical approaches give a yes/no diagnosis; dimensional approaches describe symptoms on a continuum.
@@ -2581,7 +2581,7 @@ Explanation:
 
 Explanation:
 
-**A510.** C. The groups work cooperatively, with equal status, towards a shared goal supported by those in authority
+**A510.** C. The groups work cooperatively, with equal status, towards a shared goal supported by authority
 <!-- id: vce-psych12-sp-c1 -->
 
 Explanation: Contact alone can increase hostility; cooperation and equal status (as in the jigsaw classroom) are needed.
@@ -3954,7 +3954,7 @@ Explanation:
 
 Explanation:
 
-**A781.** C. The illusion results from automatic perceptual processes, such as interpreting the arrowheads as depth cues, that knowledge cannot override
+**A781.** C. The illusion comes from automatic processes, such as reading the arrowheads as depth cues, that knowledge cannot override
 <!-- id: vce-psych12-di-c1 -->
 
 Explanation: One explanation (the carpentered world hypothesis) links it to experience of corners in buildings, which also explains cultural differences.
@@ -4138,7 +4138,7 @@ Explanation:
 
 Explanation:
 
-**A817.** D. It is a correlational study: no variable was manipulated, and other variables or reverse causation could explain the link
+**A817.** D. It is correlational: nothing was manipulated, and other variables or reverse causation could explain the link
 <!-- id: vce-psych12-sm-c1 -->
 
 Explanation: Only a controlled experiment, where the IV is manipulated and other variables controlled, supports cause-and-effect conclusions.
@@ -5248,7 +5248,7 @@ Explanation:
 
 Explanation:
 
-**A979.** C. The sensory neuron synapses with an interneuron in the spinal cord, which activates a motor neuron, while the message travels on to the brain
+**A979.** C. Interneurons in the spinal cord link sensory and motor neurons, so the response starts before the pain message reaches the brain
 <!-- id: vce-psych34-cu-c1 -->
 
 Explanation: In a spinal reflex the response is organised in the spinal cord, so movement begins before the pain signal reaches the somatosensory cortex and is perceived.
@@ -5530,7 +5530,7 @@ Explanation:
 
 Explanation:
 
-**A1033.** D. A student who keeps re-reading notes realises it is not working and switches to practice exams and asking a teacher
+**A1033.** D. A student who finds re-reading notes isn't working switches to practice exams and asking a teacher
 <!-- id: vce-psych34-cf-c1 -->
 
 Explanation: Coping flexibility means recognising when a strategy is ineffective and changing to one that suits the situation (context-specific effectiveness).
@@ -5720,7 +5720,7 @@ Explanation:
 
 Explanation:
 
-**A1069.** D. Country acts as a teacher: knowledge is learned through relationships with land, kin and community, often through story, place and doing
+**A1069.** D. Country acts as a teacher: knowledge is learned through relationships with land, kin and community
 <!-- id: vce-psych34-at-c1 -->
 
 Explanation: These knowledge systems are multimodal and relational; frameworks such as 8 Ways highlight story sharing, land links, and non-verbal and community links.
@@ -5863,7 +5863,7 @@ Explanation:
 
 Explanation:
 
-**A1096.** A. The hippocampus is needed to consolidate explicit memories, while procedural skills rely on other regions such as the cerebellum and basal ganglia
+**A1096.** A. The hippocampus is needed to consolidate explicit memories, while procedural skills rely on other regions
 <!-- id: vce-psych34-br-c1 -->
 
 Explanation: His implicit (procedural) learning was intact but he could not form new explicit memories of the sessions.
@@ -5910,7 +5910,7 @@ Explanation:
 
 Explanation:
 
-**A1105.** B. They cannot voluntarily form mental images, and visual imagery helps people re-experience past events and imagine future ones
+**A1105.** B. They cannot voluntarily form mental images, which help people re-experience past events
 <!-- id: vce-psych34-am-c1 -->
 
 Explanation: Aphantasia affects mental imagery, not general memory. Semantic knowledge about their lives is usually intact.
@@ -6004,7 +6004,7 @@ Explanation:
 
 Explanation:
 
-**A1123.** B. They link information to places on Country through story, song and movement, giving many retrieval cues, and they are rehearsed across generations
+**A1123.** B. They link knowledge to places on Country through story, song and movement, giving many retrieval cues
 <!-- id: vce-psych34-mn-c1 -->
 
 Explanation: Songlines combine the advantages of the method of loci (place-based cues) with narrative, music and repetition.
@@ -6147,7 +6147,7 @@ Explanation:
 
 Explanation:
 
-**A1150.** A. Sleep cycles (about 90 minutes each) are ultradian; there are about 5 in the night, within the circadian sleep–wake cycle
+**A1150.** A. Sleep cycles (about 90 minutes) are ultradian; about 5 occur within the circadian sleep–wake cycle
 <!-- id: vce-psych34-cr-c1 -->
 
 Explanation: Ultradian rhythms are shorter than 24 hours. The sleep–wake cycle, regulated by the SCN and melatonin, is circadian.
@@ -6384,7 +6384,7 @@ Explanation:
 
 Explanation:
 
-**A1195.** B. A person's position can move over time, and someone with a diagnosed disorder can still have periods of high wellbeing
+**A1195.** B. A person's position can move over time, and someone with a disorder can still have high wellbeing
 <!-- id: vce-psych34-mw-c1 -->
 
 Explanation: The continuum (mentally healthy, mental health problems, mental disorders) is fluid. Temporary, situational stress is usually a 'problem', not a disorder.
@@ -6525,7 +6525,7 @@ Explanation:
 
 Explanation:
 
-**A1222.** C. They reduce anxiety by enhancing GABA but do not change the learned fear, and they can cause dependence
+**A1222.** C. They reduce anxiety by enhancing GABA but do not change the learned fear, and can cause dependence
 <!-- id: vce-psych34-pi-c1 -->
 
 Explanation: Benzodiazepines are GABA agonists that relieve symptoms short term. Systematic desensitisation and CBT target the conditioned response and thinking.
@@ -6621,7 +6621,7 @@ Explanation:
 
 Explanation:
 
-**A1240.** D. A confounding variable, because it differs systematically between groups and may have affected the DV
+**A1240.** D. A confounding variable, because it differs systematically between groups and may affect the DV
 <!-- id: vce-psych34-ed-c1 -->
 
 Explanation: An extraneous variable becomes confounding when it varies with the IV, so the results cannot be attributed to caffeine alone. Random allocation helps prevent this.
@@ -6739,7 +6739,7 @@ Explanation: Neither participants nor the researcher who interacts with them kno
 
 Explanation: Half the participants do the conditions in one order and half in the reverse order, so order effects are spread evenly.
 
-**A1262.** C. The amygdala is needed for classically conditioned fear, while the hippocampus supports the explicit memory of the pairing
+**A1262.** C. The amygdala is needed for conditioned fear, while the hippocampus supports explicit memory of the pairing
 <!-- id: vce-psych34-challenge-4 -->
 
 Explanation: Explicit and implicit aspects of the same event depend on different brain regions.

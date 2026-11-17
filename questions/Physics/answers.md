@@ -2242,7 +2242,7 @@ Explanation:
 
 Explanation:
 
-**A439.** C. Detecting a difference between the currents in the active and neutral wires, and cutting the power within milliseconds
+**A439.** C. Detecting a difference between the currents in the active and neutral wires, then cutting the power
 <!-- id: vce-physics12-es-c1 -->
 
 Explanation: A difference means current is leaking, possibly through a person. Fuses and circuit breakers protect wiring from overcurrent instead.

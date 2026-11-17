@@ -664,7 +664,7 @@ Explanation:
 
 Explanation:
 
-**A131.** D. Has 2+ cations and two delocalised electrons per atom, giving stronger electrostatic attraction
+**A131.** D. Has 2+ cations and two delocalised electrons per atom, giving stronger attraction
 <!-- id: vce-chem12-mb-c1 -->
 
 Explanation: Metallic bonding strength depends on the charge of the cations and the number of delocalised electrons.
@@ -5592,7 +5592,7 @@ Explanation:
 
 Explanation:
 
-**A1042.** D. Fossil fuels are used to grow, harvest and transport the crop and to make the methanol used in transesterification
+**A1042.** D. Fossil fuels are used to grow, harvest and transport the crop and to make the methanol used to process it
 <!-- id: chem-1-1-c1 -->
 
 Explanation: The CO₂ released on combustion was absorbed by the crop, but energy from fossil fuels is used along the production chain, so there is a net release.
@@ -9703,7 +9703,7 @@ Explanation: 'Like dissolves like': non-polar vitamin with non-polar fat.
 
 Explanation: Mark for: protease hydrolyses gelatine; heat denatures the enzyme.
 
-**A1851.** D. Vitamin D is mostly non-polar hydrocarbon with one OH group, while vitamin C has several OH groups that hydrogen bond with water
+**A1851.** D. Vitamin D is mostly non-polar hydrocarbon with one OH group; vitamin C has several OH groups that bond with water
 <!-- id: chem-7-3-c1 -->
 
 Explanation: Solubility depends on polarity: like dissolves like.

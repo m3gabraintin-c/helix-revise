@@ -1262,7 +1262,7 @@ Explanation:
 
 Explanation:
 
-**A243.** D. Asexual reproduction increases numbers rapidly in good conditions; sexual reproduction produces variation for surviving changing conditions
+**A243.** D. Asexual reproduction builds numbers fast in good conditions; sexual reproduction gives variation for change
 <!-- id: gcse-bio-sexual-and-asexual-reproduction-c1 -->
 
 Explanation: Each method's advantages suit different conditions.
@@ -1602,7 +1602,7 @@ Explanation:
 
 Explanation:
 
-**A309.** D. Chromosomes and genes had not been discovered, so there was no mechanism to explain his results
+**A309.** D. Genes and chromosomes had not been discovered, so there was no mechanism for his results
 <!-- id: gcse-bio-mendel-s-work-c1 -->
 
 Explanation: His idea of inherited 'units' was only explained decades later.
@@ -2140,7 +2140,7 @@ Explanation:
 
 Explanation:
 
-**A413.** A. Mutation gives variation → antibiotic kills non-resistant bacteria → resistant bacteria survive and reproduce → the resistance allele becomes more common
+**A413.** A. Mutation gives variation → antibiotic kills non-resistant bacteria → resistant ones survive and reproduce → resistance allele becomes more common
 <!-- id: gcse-bio-darwin-and-natural-selection-c1 -->
 
 Explanation: The antibiotic is a selection pressure; it does not cause the mutation.
@@ -2207,10 +2207,10 @@ Explanation:
 
 Explanation:
 
-**A426.** A. Ardi (4.4 million years), Lucy (3.2 million years), Turkana Boy (1.6 million years)
+**A426.** A. Ardi, Lucy, Turkana Boy
 <!-- id: gcse-bio-evidence-for-human-evolution-c1 -->
 
-Explanation: Brain size and upright walking increase across these fossils.
+Explanation: Ardi (Ardipithecus ramidus) is about 4.4 million years old, Lucy (Australopithecus afarensis) about 3.2 million and Turkana Boy (Homo erectus) about 1.6 million. Brain size and upright walking increase across these fossils.
 
 #### Classification
 
@@ -2475,7 +2475,7 @@ Explanation:
 
 Explanation:
 
-**A478.** A. Microorganisms would grow rapidly on the nutrient medium and kill or outcompete the plant tissue
+**A478.** A. Microorganisms would grow on the nutrient medium and kill or outcompete the plant tissue
 <!-- id: gcse-bio-plant-tissue-culture-c1 -->
 
 Explanation: The medium contains sugars and nutrients that microbes also use.
@@ -3152,7 +3152,7 @@ Explanation:
 
 Explanation:
 
-**A609.** C. So neither patients nor doctors know who receives the drug, removing bias in reporting and assessment
+**A609.** C. So neither patients nor doctors know who receives the drug, removing bias
 <!-- id: gcse-bio-developing-new-medicines-c1 -->
 
 Explanation: A placebo group allows the drug's real effect to be measured.
@@ -3975,7 +3975,7 @@ Explanation:
 
 Explanation:
 
-**A768.** C. TSH release from the pituitary is inhibited, so thyroxine levels fall (negative feedback)
+**A768.** C. TSH release from the pituitary is inhibited, so thyroxine levels fall
 <!-- id: gcse-bio-adrenaline-and-thyroxine-c1 -->
 
 Explanation: Negative feedback keeps the metabolic rate steady.
@@ -4434,7 +4434,7 @@ Explanation:
 
 Explanation:
 
-**A857.** C. In type 2 the body still makes insulin but responds poorly, and lifestyle changes can improve this; in type 1 no insulin is made
+**A857.** C. In type 2 the body still makes insulin but responds poorly; in type 1 no insulin is made
 <!-- id: gcse-bio-diabetes-c1 -->
 
 Explanation: Obesity is a major risk factor for type 2.
@@ -5480,7 +5480,7 @@ Explanation:
 
 Explanation:
 
-**A1059.** D. Energy is lost at each trophic level, so far more crops are needed to feed livestock than to feed people directly
+**A1059.** D. Energy is lost at each trophic level, so more crops are needed to feed livestock than people
 <!-- id: gcse-bio-food-security-c1 -->
 
 Explanation: Population growth, pests and climate change also threaten food security.

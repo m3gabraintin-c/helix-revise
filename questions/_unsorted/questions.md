@@ -389,9 +389,9 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 <!-- id: gcse-bio-enzymes-and-the-active-site-c1 -->
 *Challenge question*
 
-- A. Proteins are too large to be digested
-- B. Amylase only works at low pH
-- C. Amylase is denatured by proteins
+- A. Protein molecules are too large to enter any enzyme's active site
+- B. Amylase works only at the low pH found in the stomach
+- C. Proteins denature amylase as soon as they bind to it
 - D. Its active site is not complementary in shape to protein molecules
 
 #### Factors affecting enzyme activity
@@ -995,10 +995,10 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 <!-- id: gcse-bio-active-transport-c1 -->
 *Challenge question*
 
-- A. The ions diffuse away in the water
-- B. Waterlogged soil has no minerals
+- A. The extra water dilutes the minerals, so they diffuse out of the root hair cells instead
+- B. Waterlogged soil contains no mineral ions at all for the roots to absorb
 - C. Less oxygen reaches the roots, so less respiration provides less energy for active transport
-- D. Osmosis stops completely
+- D. Osmosis stops, so mineral ions can no longer be carried into the root hair cells
 
 ### Cells and Control
 
@@ -1196,9 +1196,9 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 <!-- id: gcse-bio-growth-and-percentile-charts-c1 -->
 *Challenge question*
 
-- A. The baby is 25% underweight
-- B. The baby is heavier than 75% of babies
-- C. The baby has grown 25% since birth
+- A. The baby is 25% below the mass it should be for its age
+- B. The baby is heavier than 75% of babies of the same age
+- C. The baby's mass has increased by 25% since it was born
 - D. 25% of babies of the same age are lighter and 75% are heavier
 
 #### Stem cells
@@ -1292,9 +1292,9 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 *Challenge question*
 
 - A. They will not be rejected, although they can form fewer cell types
-- B. They can form any type of cell
-- C. They divide faster than embryonic stem cells
-- D. They carry no risk of any kind
+- B. They can form any type of cell, so they are more versatile
+- C. They divide faster than embryonic cells, so treatment is quicker
+- D. They carry no risk of infection or of forming tumours
 
 #### Neurones and the nervous system
 
@@ -1481,10 +1481,10 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 <!-- id: gcse-bio-synapses-and-reflex-arcs-c1 -->
 *Challenge question*
 
-- A. The gap is too wide
+- A. The synaptic gap is too wide for impulses to travel back towards the first neurone
 - B. Neurotransmitter is released only from the first neurone and receptors are only on the next one
-- C. Electrical impulses jump the gap
-- D. The synapse is insulated by myelin
+- C. Electrical impulses jump the gap, and the myelin sheath blocks them from returning
+- D. Neurotransmitter is destroyed as soon as it reaches the first neurone's membrane
 
 #### Structure of the brain *(Triple only)*
 
@@ -1679,10 +1679,10 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 <!-- id: gcse-bio-the-eye-and-its-defects-c1 -->
 *Challenge question*
 
-- A. Behind the retina, so a convex lens is used
-- B. On the retina, so no lens is needed
+- A. Behind the retina, so a convex (converging) lens is used to correct it
+- B. On the retina but blurred, so a convex lens is used to sharpen the image
 - C. In front of the retina, so a concave (diverging) lens is used to correct it
-- D. In front of the retina, so a convex lens is used
+- D. In front of the retina, so a convex (converging) lens is used to correct it
 
 ### Genetics
 
@@ -1776,10 +1776,10 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 <!-- id: gcse-bio-sexual-and-asexual-reproduction-c1 -->
 *Challenge question*
 
-- A. Sexual reproduction is faster in autumn
-- B. Asexual reproduction needs two parents
-- C. Variation is only useful in summer
-- D. Asexual reproduction increases numbers rapidly in good conditions; sexual reproduction produces variation for surviving changing conditions
+- A. Sexual reproduction is faster in autumn, so it builds up numbers quickly before winter arrives
+- B. Asexual reproduction gives more variation, which is most useful in warm summer conditions
+- C. Sexual reproduction makes identical offspring that are already well adapted to the cold
+- D. Asexual reproduction builds numbers fast in good conditions; sexual reproduction gives variation for change
 
 #### Meiosis
 
@@ -2273,10 +2273,10 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 <!-- id: gcse-bio-mendel-s-work-c1 -->
 *Challenge question*
 
-- A. His experiments used humans
-- B. He never published his results
-- C. His results disagreed with Darwin's exactly
-- D. Chromosomes and genes had not been discovered, so there was no mechanism to explain his results
+- A. His experiments were carried out on humans, so other scientists could not repeat them
+- B. He never published his results, so very few scientists ever learned about his work
+- C. His results contradicted Darwin's theory, which most scientists had already accepted
+- D. Genes and chromosomes had not been discovered, so there was no mechanism for his results
 
 #### Genetic terms
 
@@ -2853,10 +2853,10 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 <!-- id: gcse-bio-variation-c1 -->
 *Challenge question*
 
-- A. Controlled by one gene with two alleles
+- A. Controlled by a single gene that has just two alleles
 - B. Controlled by many genes and also affected by the environment
-- C. Determined only by diet
-- D. Inherited only from the mother
+- C. Determined only by diet and not by any of a person's genes
+- D. Inherited only from the mother, through the egg cell
 
 #### The Human Genome Project
 
@@ -2940,10 +2940,10 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 <!-- id: gcse-bio-the-human-genome-project-c1 -->
 *Challenge question*
 
-- A. It makes all diseases curable
-- B. It changes a person's genes
+- A. It will make every genetic disease curable, so medical research is no longer needed
+- B. Sequencing a person's genome permanently changes some of the genes in their cells
 - C. People could be discriminated against by insurers or employers because of genetic risks
-- D. It is impossible to identify any disease-related genes
+- D. It cannot identify any alleles that are linked to an increased risk of disease
 
 ### Natural Selection and Genetic Modification
 
@@ -3037,10 +3037,10 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 <!-- id: gcse-bio-darwin-and-natural-selection-c1 -->
 *Challenge question*
 
-- A. Mutation gives variation → antibiotic kills non-resistant bacteria → resistant bacteria survive and reproduce → the resistance allele becomes more common
-- B. Antibiotic causes resistance mutations → bacteria learn to survive
-- C. Bacteria choose to become resistant
-- D. All bacteria become resistant at the same time
+- A. Mutation gives variation → antibiotic kills non-resistant bacteria → resistant ones survive and reproduce → resistance allele becomes more common
+- B. Antibiotic causes resistance mutations → mutated bacteria survive → they reproduce → resistance allele becomes more common
+- C. Bacteria are exposed to antibiotic → they adapt during their lifetime → they pass on the acquired resistance → all become resistant
+- D. Antibiotic is used → bacteria choose to change their genes → resistant bacteria divide → the whole population becomes resistant
 
 #### Evidence for human evolution
 
@@ -3132,7 +3132,7 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 <!-- id: gcse-bio-evidence-for-human-evolution-c1 -->
 *Challenge question*
 
-- A. Ardi (4.4 million years), Lucy (3.2 million years), Turkana Boy (1.6 million years)
+- A. Ardi, Lucy, Turkana Boy
 - B. Lucy, Ardi, Turkana Boy
 - C. Turkana Boy, Lucy, Ardi
 - D. Ardi, Turkana Boy, Lucy
@@ -3228,9 +3228,9 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 *Challenge question*
 
 - A. Genetic analysis (RNA sequencing) showed that archaea are very different from bacteria
-- B. Microscopes showed all cells look the same
-- C. Plants and animals were found to be closely related
-- D. Fungi were discovered to be bacteria
+- B. Electron microscopes showed that all prokaryotic cells have the same internal structure
+- C. Genetic analysis showed that plants and animals really belong to the same kingdom
+- D. Fungi were found to be bacteria, so two of the five kingdoms had to be merged
 
 #### Selective breeding
 
@@ -3322,9 +3322,9 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 <!-- id: gcse-bio-selective-breeding-c1 -->
 *Challenge question*
 
-- A. New genes from other species are added
-- B. Offspring are always sterile
-- C. It increases genetic variation
+- A. Genes from other species are added, which can cause unexpected new diseases in the breed
+- B. Offspring of closely related parents are always sterile, so the breed soon dies out
+- C. It increases genetic variation, so the breed's appearance becomes unpredictable
 - D. Inbreeding reduces the gene pool, so harmful recessive alleles are more likely to be expressed
 
 #### Genetic engineering
@@ -3431,9 +3431,9 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 <!-- id: gcse-bio-genetic-engineering-c1 -->
 *Challenge question*
 
-- A. Amylase and lipase
-- B. Ligase to cut and restriction enzymes to join
-- C. Proteases to make the insulin gene
+- A. Ligase to cut DNA leaving sticky ends, and restriction enzymes to join the gene into the plasmid
+- B. Amylase to cut the plasmid open, and lipase to join the insulin gene into the plasmid
+- C. Proteases to cut out the insulin gene, and ligase to make the insulin protein from it
 - D. Restriction enzymes to cut DNA leaving sticky ends, and ligase to join the gene into the plasmid
 
 #### Plant tissue culture *(Triple only)*
@@ -3518,10 +3518,10 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 <!-- id: gcse-bio-plant-tissue-culture-c1 -->
 *Challenge question*
 
-- A. Microorganisms would grow rapidly on the nutrient medium and kill or outcompete the plant tissue
-- B. Plants need sterile soil to grow
-- C. It makes the clones genetically different
-- D. It stops photosynthesis
+- A. Microorganisms would grow on the nutrient medium and kill or outcompete the plant tissue
+- B. Plant tissue needs completely sterile soil before it can grow any roots
+- C. Contamination makes the clones genetically different from the parent plant
+- D. Microorganisms on the tissue would stop it photosynthesising in the light
 
 #### Biological control and GM crops *(Triple only)*
 
@@ -3711,9 +3711,9 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 *Challenge question*
 
 - A. HIV destroys white blood cells, weakening the immune system
-- B. HIV and TB are the same pathogen
-- C. TB is a non-communicable disease
-- D. HIV causes lung damage directly
+- B. HIV and TB are the same pathogen at different stages of infection
+- C. TB is a non-communicable disease that HIV triggers in the lungs
+- D. HIV damages lung tissue directly, letting TB bacteria grow there
 
 #### Pathogens and communicable diseases
 
@@ -3908,10 +3908,10 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 <!-- id: gcse-bio-how-pathogens-spread-c1 -->
 *Challenge question*
 
-- A. Washing hands before meals
-- B. Boiling drinking water
+- A. Washing hands with soap before meals and after using the toilet
+- B. Boiling all drinking water and cooking food thoroughly before eating it
 - C. Using insecticide-treated nets and draining standing water where mosquitoes breed
-- D. Using condoms
+- D. Wearing face masks in crowded places and covering coughs and sneezes
 
 #### Plant diseases and defences *(Triple only)*
 
@@ -4003,10 +4003,10 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 <!-- id: gcse-bio-plant-diseases-and-defences-c1 -->
 *Challenge question*
 
-- A. A waxy cuticle
-- B. Cellulose cell walls
+- A. A thick waxy cuticle on the surface of the leaves
+- B. Strong cellulose cell walls around every cell
 - C. Producing antiseptic or antibacterial substances
-- D. Layers of dead cells in bark
+- D. Layers of dead cells forming bark on the stems
 
 #### Physical and chemical barriers
 
@@ -4195,9 +4195,9 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 *Challenge question*
 
 - A. Flu viruses change their antigens often, so memory lymphocytes no longer recognise them
-- B. Chickenpox is caused by bacteria
-- C. Flu viruses have no antigens
-- D. Memory cells only form after flu
+- B. Chickenpox is caused by bacteria, which the body can remember, but flu is caused by a virus
+- C. Flu viruses have no antigens, so lymphocytes cannot make antibodies against them
+- D. Memory lymphocytes form only after chickenpox, never after an infection with flu
 
 #### Vaccination
 
@@ -4290,10 +4290,10 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 <!-- id: gcse-bio-vaccination-c1 -->
 *Challenge question*
 
-- A. They receive antibodies from vaccinated people
-- B. The pathogen dies out immediately
+- A. Unvaccinated people receive antibodies passed on by vaccinated people
+- B. The pathogen dies out immediately once a few people are vaccinated
 - C. When most people are immune, the pathogen has few hosts to spread through
-- D. Vaccines can be passed on by touch
+- D. The vaccine spreads from vaccinated people to others by touch
 
 #### Antibiotics
 
@@ -4481,10 +4481,10 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 <!-- id: gcse-bio-developing-new-medicines-c1 -->
 *Challenge question*
 
-- A. To test the drug on animals first
-- B. So that the drug is given to healthy volunteers
-- C. So neither patients nor doctors know who receives the drug, removing bias in reporting and assessment
-- D. To make the trial cheaper
+- A. So the drug can be tested on animals and on human cells at the same time
+- B. So the drug is given only to healthy volunteers before any patients
+- C. So neither patients nor doctors know who receives the drug, removing bias
+- D. So the trial costs less, because fewer patients are needed for results
 
 #### Monoclonal antibodies *(Triple only)*
 
@@ -4577,9 +4577,9 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 <!-- id: gcse-bio-monoclonal-antibodies-c1 -->
 *Challenge question*
 
-- A. Tumour cells make antibodies themselves
-- B. Lymphocytes divide too quickly
-- C. It produces many different antibodies
+- A. Tumour cells already make antibodies, so the lymphocytes simply speed this up
+- B. Lymphocytes divide too quickly, so fusing slows them to a controllable rate
+- C. The fused cells make many different antibodies against many antigens at once
 - D. The resulting hybridoma cells divide rapidly and make one specific antibody
 
 #### Non-communicable diseases
@@ -4766,9 +4766,9 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 *Challenge question*
 
 - A. They must be taken long-term and can have side effects such as muscle pain
-- B. They require major surgery
-- C. They cause immediate rejection
-- D. They only work in children
+- B. They require major surgery under a general anaesthetic and a long recovery
+- C. They are often rejected by the immune system soon after they are given
+- D. They only work in children, so most adult patients cannot use them
 
 ### Plant Structures and Their Functions
 
@@ -4871,9 +4871,9 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 *Challenge question*
 
 - A. Energy is transferred from the environment (light) to the chloroplasts
-- B. It releases heat
-- C. It only happens in hot conditions
-- D. It produces oxygen
+- B. It releases heat energy to the surroundings as glucose is made
+- C. It can only happen when the temperature of the leaf is high
+- D. It produces oxygen, which carries energy away from the leaf
 
 #### Limiting factors
 
@@ -5071,9 +5071,9 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 <!-- id: gcse-bio-xylem-phloem-and-root-hair-cells-c1 -->
 *Challenge question*
 
-- A. Both are made of living cells
-- B. Xylem carries sugars; phloem carries water
-- C. Phloem is strengthened with lignin
+- A. Xylem vessels are living, with companion cells; phloem sieve tubes are dead and strengthened with lignin
+- B. Both are made of living cells, but only xylem has companion cells to supply it with energy
+- C. Xylem carries sucrose in both directions; phloem carries water upwards from the roots
 - D. Xylem vessels are dead and strengthened with lignin; phloem sieve tubes are living, with companion cells
 
 #### Transpiration
@@ -5266,9 +5266,9 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 <!-- id: gcse-bio-translocation-c1 -->
 *Challenge question*
 
-- A. Water is moved in the phloem by transpiration
-- B. Sucrose moves only upwards in the xylem
-- C. Translocation needs no energy
+- A. Water is moved upwards in the phloem by transpiration, and the process needs no energy
+- B. Sucrose moves only upwards, in the xylem, pulled by water evaporating from the leaves
+- C. Sucrose is moved in the phloem from the roots to the leaves only, and needs no energy
 - D. Sucrose is moved in the phloem, both up and down the plant, and the process needs energy
 
 #### Plant hormones *(Triple only)*
@@ -5361,10 +5361,10 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 <!-- id: gcse-bio-plant-hormones-c1 -->
 *Challenge question*
 
-- A. Accumulates on the lit side, so the shoot bends away
+- A. Accumulates on the lit side, causing more cell elongation there, so the shoot bends away from the light
 - B. Accumulates on the shaded side, causing more cell elongation there, so the shoot bends towards the light
-- C. Is destroyed by light everywhere
-- D. Stops all cell growth
+- C. Is destroyed by light on both sides, so the shoot stops growing until it is lit evenly
+- D. Accumulates on the shaded side, slowing cell elongation there, so the shoot bends away from the light
 
 #### Plant adaptations *(Triple only)*
 
@@ -5456,10 +5456,10 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 <!-- id: gcse-bio-plant-adaptations-c1 -->
 *Challenge question*
 
-- A. Increase the surface area for transpiration
-- B. Help the leaves absorb water from the air
+- A. Increase the surface area of the leaf, so water vapour diffuses out more slowly
+- B. Help the leaves absorb water vapour from the air to replace the water that is lost
 - C. Trap humid air near the stomata, reducing the concentration gradient for water vapour
-- D. Make photosynthesis faster
+- D. Increase the rate of photosynthesis, so the plant needs less water overall
 
 ### Animal Coordination, Control and Homeostasis
 
@@ -5554,9 +5554,9 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 *Challenge question*
 
 - A. Releases hormones that control other endocrine glands, such as TSH and FSH
-- B. Produces insulin
-- C. Controls all reflexes
-- D. Makes adrenaline
+- B. Produces insulin and glucagon, which control all the other glands
+- C. Controls all reflex actions by sending nerve impulses to the glands
+- D. Makes adrenaline, which switches every other gland on and off
 
 #### Adrenaline and thyroxine
 
@@ -5651,10 +5651,10 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 <!-- id: gcse-bio-adrenaline-and-thyroxine-c1 -->
 *Challenge question*
 
-- A. More TSH is released
-- B. Adrenaline levels fall
-- C. TSH release from the pituitary is inhibited, so thyroxine levels fall (negative feedback)
-- D. The thyroid makes more thyroxine
+- A. More TSH is released by the pituitary, so thyroxine levels rise further
+- B. Adrenaline release is inhibited, so the metabolic rate falls
+- C. TSH release from the pituitary is inhibited, so thyroxine levels fall
+- D. The thyroid makes more thyroxine, so the metabolic rate rises further
 
 #### The menstrual cycle
 
@@ -5925,9 +5925,9 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 *Challenge question*
 
 - A. Causing more FSH and LH to be released, so eggs mature and are released
-- B. Fertilising eggs outside the body
-- C. Blocking oestrogen permanently
-- D. Preventing the uterus lining from thickening
+- B. Fertilising eggs outside the body before they are placed in the uterus
+- C. Blocking oestrogen permanently so that the uterus lining stays thick
+- D. Preventing the uterus lining from thickening so an embryo can implant
 
 #### Homeostasis
 
@@ -6020,9 +6020,9 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 *Challenge question*
 
 - A. Maintaining a constant internal environment despite changes, mostly by negative feedback
-- B. Keeping all body processes as fast as possible
-- C. Changing body temperature to match the surroundings
-- D. Producing as many hormones as possible
+- B. Keeping all body processes running as fast as possible, mostly by positive feedback
+- C. Changing the internal environment to match the external surroundings at all times
+- D. Producing as many hormones as possible so the body can react to any change
 
 #### Thermoregulation *(Triple only)*
 
@@ -6214,10 +6214,10 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 <!-- id: gcse-bio-controlling-blood-glucose-c1 -->
 *Challenge question*
 
-- A. Converting glycogen to glucose
+- A. Causing the liver and muscles to convert stored glycogen back into glucose
 - B. Causing cells to take up glucose and the liver and muscles to convert it to glycogen
-- C. Increasing glucagon release
-- D. Making the kidneys excrete glucose
+- C. Increasing the release of glucagon, which converts glucose into glycogen
+- D. Making the kidneys excrete the extra glucose in the urine after a meal
 
 #### Diabetes
 
@@ -6309,10 +6309,10 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 <!-- id: gcse-bio-diabetes-c1 -->
 *Challenge question*
 
-- A. Type 1 is caused by diet
-- B. Type 2 can never be controlled by medicine
-- C. In type 2 the body still makes insulin but responds poorly, and lifestyle changes can improve this; in type 1 no insulin is made
-- D. Exercise produces insulin
+- A. In type 1 the body still makes insulin but responds poorly; in type 2 no insulin is made
+- B. Type 2 is caused only by diet, while type 1 is caused only by a lack of exercise
+- C. In type 2 the body still makes insulin but responds poorly; in type 1 no insulin is made
+- D. Exercise produces insulin, which replaces the insulin missing in type 2 diabetes
 
 #### The kidneys and osmoregulation *(Triple only)*
 
@@ -6413,10 +6413,10 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 <!-- id: gcse-bio-the-kidneys-and-osmoregulation-c1 -->
 *Challenge question*
 
-- A. Glucose is too large to be filtered
-- B. The liver removes it all
+- A. Glucose molecules are too large to be filtered out of the blood in the glomerulus
+- B. The liver removes all the glucose from the blood before it reaches the kidneys
 - C. All the filtered glucose is selectively reabsorbed back into the blood in the nephron
-- D. ADH destroys glucose
+- D. ADH breaks down the glucose in the collecting duct before the urine is formed
 
 #### Treating kidney failure *(Triple only)*
 
@@ -6501,9 +6501,9 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 *Challenge question*
 
 - A. Has the same glucose concentration as normal blood but contains no urea
-- B. Contains more urea than blood
-- C. Contains no glucose
-- D. Is pure water
+- B. Contains more urea than blood, so urea leaves the blood by active transport
+- C. Contains no glucose, so glucose molecules cannot cross the membrane
+- D. Is pure water, which lets only urea molecules diffuse through it
 
 ### Exchange and Transport in Animals
 
@@ -6589,10 +6589,10 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 <!-- id: gcse-bio-exchange-surfaces-and-the-alveoli-c1 -->
 *Challenge question*
 
-- A. The alveoli become more efficient
+- A. The alveoli become larger, so oxygen diffuses into the blood more quickly
 - B. Surface area for gas exchange falls, so less oxygen diffuses into the blood
-- C. More carbon dioxide is absorbed
-- D. The diffusion distance decreases
+- C. More carbon dioxide diffuses from the air in the alveoli into the blood
+- D. The diffusion distance decreases, because the alveolar walls are thinner
 
 #### Blood and its components
 
@@ -6684,10 +6684,10 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 <!-- id: gcse-bio-blood-and-its-components-c1 -->
 *Challenge question*
 
-- A. They can divide faster
+- A. They can divide faster to replace cells lost in bleeding
 - B. More space for haemoglobin, so more oxygen can be carried
-- C. They can make antibodies
-- D. They live longer
+- C. They can make antibodies against pathogens in the blood
+- D. They can squeeze through capillary walls into the tissues
 
 #### Blood vessels
 
@@ -6771,10 +6771,10 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 <!-- id: gcse-bio-blood-vessels-c1 -->
 *Challenge question*
 
-- A. Arteries carry less blood
-- B. Veins carry oxygenated blood
+- A. Arteries carry less blood, so backflow cannot happen in them
+- B. Veins carry oxygenated blood, which needs valves to keep moving
 - C. Blood in veins is at low pressure, so valves prevent backflow
-- D. Valves increase blood pressure
+- D. Valves raise the blood pressure in veins to match the arteries
 
 #### The heart
 
@@ -6858,9 +6858,9 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 <!-- id: gcse-bio-the-heart-c1 -->
 *Challenge question*
 
-- A. Aorta → left atrium → right ventricle → lungs → vena cava
-- B. Pulmonary vein → right atrium → left ventricle → vena cava
-- C. Vena cava → left atrium → left ventricle → pulmonary artery
+- A. Vena cava → left atrium → left ventricle → pulmonary vein → lungs → pulmonary artery → right atrium → right ventricle → aorta
+- B. Pulmonary vein → right atrium → right ventricle → aorta → body → vena cava → left atrium → left ventricle → pulmonary artery
+- C. Vena cava → right atrium → right ventricle → pulmonary vein → lungs → pulmonary artery → left atrium → left ventricle → aorta
 - D. Vena cava → right atrium → right ventricle → pulmonary artery → lungs → pulmonary vein → left atrium → left ventricle → aorta
 
 #### Aerobic and anaerobic respiration
@@ -6953,10 +6953,10 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 <!-- id: gcse-bio-aerobic-and-anaerobic-respiration-c1 -->
 *Challenge question*
 
-- A. Muscles are still contracting
-- B. Carbon dioxide is no longer produced
+- A. The muscles are still contracting hard and need oxygen for anaerobic respiration
+- B. Carbon dioxide is no longer produced, so breathing must remove the extra oxygen
 - C. Extra oxygen is needed to break down the lactic acid that built up (the oxygen debt)
-- D. Anaerobic respiration is producing oxygen
+- D. Anaerobic respiration keeps producing oxygen, which must be breathed out
 
 #### Cardiac output
 
@@ -7233,9 +7233,9 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 <!-- id: gcse-bio-abiotic-and-biotic-factors-c1 -->
 *Challenge question*
 
-- A. Soil pH
-- B. Temperature
-- C. Light intensity
+- A. A change in the pH of the soil in their habitat
+- B. A rise in the average temperature of the area
+- C. A fall in light intensity under the woodland
 - D. A new disease spreading through the population
 
 #### Interdependence
@@ -7607,10 +7607,10 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 <!-- id: gcse-bio-human-impacts-on-biodiversity-c1 -->
 *Challenge question*
 
-- A. Fish die → fertiliser runoff → algal bloom
+- A. Fertiliser runoff → plants grow → algae die → decomposers release oxygen → fish die
 - B. Fertiliser runoff → algal bloom → light blocked, plants die → decomposers use up oxygen → fish die
-- C. Algal bloom → fertiliser runoff → oxygen rises
-- D. Decomposers die → algae grow → fish thrive
+- C. Algal bloom → fertiliser runoff → plants die → oxygen levels rise → fish die
+- D. Fertiliser runoff → fish die → decomposers use up oxygen → algal bloom → plants die
 
 #### Conservation and biodiversity
 
@@ -7695,9 +7695,9 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 *Challenge question*
 
 - A. They store genetic diversity of plant species that could be lost from the wild
-- B. They make plants grow faster
-- C. They remove invasive species
-- D. They increase pollution tolerance
+- B. They make stored plant species grow faster when they are replanted
+- C. They remove invasive plant species from habitats to protect native ones
+- D. They breed plants that are more tolerant of air pollution in cities
 
 #### Food security *(Triple only)*
 
@@ -7781,10 +7781,10 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 <!-- id: gcse-bio-food-security-c1 -->
 *Challenge question*
 
-- A. Meat contains no protein
-- B. Animals produce oxygen
-- C. Livestock do not need food
-- D. Energy is lost at each trophic level, so far more crops are needed to feed livestock than to feed people directly
+- A. Meat contains less protein than crops, so more food is needed to meet people's needs
+- B. Meat spoils faster than crops, so more of the food produced is wasted before it is eaten
+- C. Livestock farming uses less land than crops, so fewer farms are left growing food
+- D. Energy is lost at each trophic level, so more crops are needed to feed livestock than people
 
 #### The carbon cycle
 
@@ -7972,9 +7972,9 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 *Challenge question*
 
 - A. Desalination (for example by distillation or reverse osmosis)
-- B. Fermentation
-- C. Adding fertiliser
-- D. Freezing it
+- B. Fermenting the seawater with yeast to remove the salt
+- C. Adding fertiliser so that algae absorb the dissolved salt
+- D. Freezing seawater and drinking the liquid that remains
 
 #### The nitrogen cycle
 
@@ -8068,9 +8068,9 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 *Challenge question*
 
 - A. Anaerobic conditions favour denitrifying bacteria, which convert nitrates to nitrogen gas
-- B. Nitrifying bacteria work faster
-- C. Plants absorb too many nitrates
-- D. Lightning adds nitrogen
+- B. Anaerobic conditions favour nitrifying bacteria, which convert nitrates into ammonium ions
+- C. Plants absorb too many nitrates from wet soil, so the soil quickly runs out of them
+- D. Nitrogen-fixing bacteria work faster in water, using up all of the soil's nitrates
 
 #### Decomposition *(Triple only)*
 
@@ -8353,10 +8353,10 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 <!-- id: gcse-bio-cp-using-a-light-microscope-c1 -->
 *Challenge question*
 
-- A. It gives the highest magnification
+- A. It gives the highest magnification, so cells are easiest to find and focus on
 - B. It gives a wider field of view to find the specimen and reduces the risk of damaging the slide
-- C. It improves resolution
-- D. It stains the cells
+- C. It improves the resolution, so the smallest organelles can be seen clearly
+- D. It lets more light through, which stains the cells so they are easier to see
 
 #### CP: pH and amylase activity
 
@@ -8448,10 +8448,10 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 <!-- id: gcse-bio-cp-ph-and-amylase-activity-c1 -->
 *Challenge question*
 
-- A. To stop the iodine reacting
-- B. To change their pH
+- A. So the iodine cannot react with the starch before timing starts
+- B. So the pH of each solution changes to the value being tested
 - C. So they reach the set temperature before the reaction begins
-- D. To denature the enzyme
+- D. So the enzyme is partly denatured before it meets the starch
 
 #### CP: Osmosis in potato
 
@@ -8543,10 +8543,10 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 <!-- id: gcse-bio-cp-osmosis-in-potato-c1 -->
 *Challenge question*
 
-- A. To stop osmosis
-- B. To kill the cells
+- A. To stop osmosis continuing while the cylinders are weighed
+- B. To kill the cells so that their mass no longer changes
 - C. To remove surface solution that would add to the mass
-- D. To increase the mass
+- D. To remove the water from inside the cells before weighing
 
 #### CP: Food tests *(Triple only)*
 
@@ -8902,10 +8902,10 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 <!-- id: gcse-bio-cp-light-intensity-and-photosynthesis-c1 -->
 *Challenge question*
 
-- A. Supply carbon dioxide
+- A. Supply extra carbon dioxide to the pondweed as it photosynthesises
 - B. Absorb heat from the lamp so that temperature does not change
-- C. Increase light intensity
-- D. Measure the oxygen produced
+- C. Focus the light so that the pondweed receives a higher intensity
+- D. Collect the oxygen produced so that its volume can be measured
 
 #### CP: Respiration rate in small organisms
 
@@ -8998,10 +8998,10 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 <!-- id: gcse-bio-cp-respiration-rate-in-small-organisms-c1 -->
 *Challenge question*
 
-- A. They release extra oxygen
+- A. They release extra oxygen as they respire, which pushes the liquid towards them
 - B. They use up oxygen, and the CO₂ they release is absorbed, so the gas volume falls
-- C. Soda lime produces gas
-- D. The temperature rises
+- C. Soda lime releases gas as it absorbs CO₂, which pulls the liquid towards them
+- D. Their respiration warms the air, which contracts and pulls the liquid towards them
 
 #### CP: Sampling with quadrats
 
@@ -9173,9 +9173,9 @@ Reason: GCSE Edexcel Biology, not a VCE subject — needs your decision.
 <!-- id: gcse-bio-cp-temperature-and-decay-c1 -->
 *Challenge question*
 
-- A. Decomposers are killed by cold
-- B. Heat always speeds up decay
-- C. Temperature has no effect on decay
+- A. Decomposers are killed by cold and also by heat, so they only survive near 35 °C
+- B. Heat always speeds up decay, but water evaporates at 70 °C and this stops it
+- C. Decomposers stop feeding at 5 °C and form spores at 70 °C, so nothing is digested
 - D. Decomposer enzymes work slowly in the cold and are denatured at high temperatures
 
 ### Challenge questions

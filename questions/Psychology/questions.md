@@ -557,10 +557,10 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 <!-- id: vce-psych12-sf-c1 -->
 *Challenge question*
 
-- A. Slow, effortful speech with good understanding
+- A. Slow, effortful speech with good understanding of what others say
 - B. Fluent speech that makes little sense, and poor understanding of language
-- C. Loss of vision in both eyes
-- D. Loss of balance and coordination
+- C. Loss of vision in both eyes, although language remains unaffected
+- D. Loss of balance and coordination when walking or reaching
 
 #### Neuroplasticity and adolescent brain development
 
@@ -835,10 +835,10 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 <!-- id: vce-psych12-np-c1 -->
 *Challenge question*
 
-- A. The prefrontal cortex develops before the amygdala
-- B. Adolescents have no synaptic pruning
-- C. The amygdala and reward systems develop earlier than the prefrontal cortex, which matures into the mid-20s
-- D. The cerebellum stops developing at 12
+- A. The prefrontal cortex develops before the amygdala, so their judgement is stronger than their emotions
+- B. Adolescents have no synaptic pruning, so they have too many connections to make clear decisions
+- C. The amygdala and reward systems develop earlier than the prefrontal cortex, which matures in the mid-20s
+- D. The cerebellum stops developing at 12, so adolescents cannot coordinate their decisions
 
 #### Acquired brain injury and neurological disorders
 
@@ -2491,10 +2491,10 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 <!-- id: vce-psych12-ta-c1 -->
 *Challenge question*
 
-- A. Statistics cannot measure intelligence
+- A. Statistics cannot measure intelligence, so IQ scores are not valid data
 - B. Being statistically rare is not the same as being maladaptive or a problem
-- C. Most people have an IQ of 140
-- D. The approach considers only culture
+- C. Most people have an IQ of 140, so the statistical approach is unreliable
+- D. The statistical approach considers only cultural norms, not frequency
 
 #### Mental wellbeing and categorising mental disorders
 
@@ -2772,10 +2772,10 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 <!-- id: vce-psych12-mc-c1 -->
 *Challenge question*
 
-- A. They assume a clear boundary between 'disordered' and 'normal', and diagnostic labels can lead to stigma
-- B. They have no diagnostic criteria
-- C. They are used only for physical illnesses
-- D. They describe disorders on a continuum with no categories
+- A. They assume a clear boundary between 'disordered' and 'normal', and labels can lead to stigma
+- B. They have no diagnostic criteria, so clinicians must diagnose using their own judgement
+- C. They are used only for physical illnesses, so they miss many mental disorders
+- D. They describe disorders on a continuum, so no diagnosis can ever be made
 
 ### Unit 2 AOS 1: Social cognition and social influence
 
@@ -3297,10 +3297,10 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 <!-- id: vce-psych12-ac-c1 -->
 *Challenge question*
 
-- A. Showing an attitude with no affective component
+- A. Showing an attitude that has no affective component at all
 - B. Reducing cognitive dissonance by changing a belief to fit the behaviour
-- C. Showing the fundamental attribution error
-- D. Showing obedience to authority
+- C. Making the fundamental attribution error about his grandfather
+- D. Showing obedience to his grandfather as an authority figure
 
 #### Stereotypes, prejudice and discrimination
 
@@ -3557,10 +3557,10 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 <!-- id: vce-psych12-sp-c1 -->
 *Challenge question*
 
-- A. The groups are simply placed in the same room
-- B. One group has more status than the other
-- C. The groups work cooperatively, with equal status, towards a shared goal supported by those in authority
-- D. The groups compete for a prize
+- A. The groups are simply placed together in the same room for a long period of time
+- B. One group is given more status, so the other group learns to respect it
+- C. The groups work cooperatively, with equal status, towards a shared goal supported by authority
+- D. The groups compete for a prize, so they get to know each other's strengths
 
 #### Heuristics and cognitive biases
 
@@ -3804,9 +3804,9 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 <!-- id: vce-psych12-hb-c1 -->
 *Challenge question*
 
-- A. The anchoring bias
-- B. The false-consensus bias
-- C. Confirmation bias
+- A. The anchoring bias: the first figure heard sets the estimate of risk
+- B. The false-consensus bias: assuming others share the same fear of flying
+- C. The halo effect: one bad feature makes the whole airline seem unsafe
 - D. The availability heuristic: vivid, easily recalled examples seem more common
 
 #### Obedience
@@ -4027,9 +4027,9 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 <!-- id: vce-psych12-ob-c1 -->
 *Challenge question*
 
-- A. The 'learner' was moved to a separate room
-- B. The study was moved to a university building
-- C. The experimenter wore a grey lab coat
+- A. The 'learner' was moved to a separate room, out of the teacher's sight
+- B. The study was run in a university building with an official appearance
+- C. The experimenter wore a grey lab coat and spoke in a firm, calm voice
 - D. The experimenter gave instructions by telephone instead of in person
 
 #### Conformity and group influence
@@ -5014,10 +5014,10 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 <!-- id: vce-psych12-dc-c1 -->
 *Challenge question*
 
-- A. Retinal disparity and convergence
+- A. Retinal disparity, convergence and linear perspective
 - B. Linear perspective, interposition and accommodation
-- C. Retinal disparity only
-- D. None, because depth needs two eyes
+- C. Retinal disparity only, because it uses a single retina
+- D. None at all, because every depth cue needs two eyes
 
 #### Gustatory perception
 
@@ -5257,9 +5257,9 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 *Challenge question*
 
 - A. Flavour depends heavily on smell (olfaction) as well as taste
-- B. Taste buds are in the nose
-- C. A cold destroys all taste receptors
-- D. Saliva production stops
+- B. Taste buds are located in the nose, so they are blocked
+- C. A cold destroys all of the taste receptors on the tongue
+- D. Saliva production stops, so taste molecules cannot dissolve
 
 #### Distortions of perception and illusions
 
@@ -5466,10 +5466,10 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 <!-- id: vce-psych12-di-c1 -->
 *Challenge question*
 
-- A. The lines really are different
-- B. Illusions affect only people with poor eyesight
-- C. The illusion results from automatic perceptual processes, such as interpreting the arrowheads as depth cues, that knowledge cannot override
-- D. The illusion is caused by the retina alone
+- A. The lines really are different lengths, and the ruler used to measure them was inaccurate
+- B. Illusions affect only people with poor eyesight, whose retinas send blurred signals
+- C. The illusion comes from automatic processes, such as reading the arrowheads as depth cues, that knowledge cannot override
+- D. The illusion is caused by the retina alone, before any information reaches the brain
 
 ### Research methods
 
@@ -5720,10 +5720,10 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 <!-- id: vce-psych12-sm-c1 -->
 *Challenge question*
 
-- A. The sample was too large
-- B. Mood cannot be measured
-- C. Correlations are always zero
-- D. It is a correlational study: no variable was manipulated, and other variables or reverse causation could explain the link
+- A. The sample was too large, so small differences in mood appear to be significant
+- B. Mood cannot be measured, so the results cannot support any conclusion at all
+- C. Correlations are always close to zero, so the link found must be due to chance
+- D. It is correlational: nothing was manipulated, and other variables or reverse causation could explain the link
 
 #### Sampling and experimental designs
 
@@ -6141,10 +6141,10 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 <!-- id: vce-psych12-da-c1 -->
 *Challenge question*
 
-- A. All adolescents worldwide
+- A. All adolescents worldwide, because adolescent brains develop in the same way
 - B. Only the population the sample came from, and only if the sample represents it
-- C. All Australians
-- D. Anyone, because the results were significant
+- C. All Australians, because the school was in Australia's second-largest city
+- D. Anyone at all, because the results were found to be statistically significant
 
 #### Ethics in psychological research
 
@@ -6377,10 +6377,10 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 <!-- id: vce-psych12-et-c1 -->
 *Challenge question*
 
-- A. Confidentiality only
+- A. Confidentiality, so that no one outside the study learns about the deception
 - B. Debriefing, so participants learn the true purpose and any harm is addressed
-- C. Paying participants more
-- D. Using a larger sample
+- C. Paying participants more, to compensate them for being deceived
+- D. Using a larger sample, so the deception affects each person less
 
 #### Validity, reliability and errors
 
@@ -6627,10 +6627,10 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 <!-- id: vce-psych12-vr-c1 -->
 *Challenge question*
 
-- A. Accurate but not reliable
-- B. Affected only by random error
+- A. Accurate but not reliable, because of a random error
+- B. Affected only by random error, which averaging will remove
 - C. Reliable (consistent) but not accurate, because of a systematic error
-- D. Both accurate and valid
+- D. Both accurate and valid, because the error is always the same
 
 ### Challenge questions
 
@@ -6959,10 +6959,10 @@ Forty Year 11 students were randomly allocated to two groups. Group 1 saw an amb
 <!-- id: vce-psych34-cu-c1 -->
 *Challenge question*
 
-- A. The brain sends the withdrawal message faster than the pain message
-- B. Motor neurons detect the heat directly
-- C. The sensory neuron synapses with an interneuron in the spinal cord, which activates a motor neuron, while the message travels on to the brain
-- D. The autonomic nervous system controls the arm muscles
+- A. The brain sends the withdrawal message before it has processed the pain, so the movement comes first
+- B. Motor neurons in the hand detect the heat directly and contract the arm muscles
+- C. Interneurons in the spinal cord link sensory and motor neurons, so the response starts before the pain message reaches the brain
+- D. The autonomic nervous system takes over the arm's skeletal muscles in an emergency
 
 #### Neurotransmitters and neuromodulators
 
@@ -7025,9 +7025,9 @@ Forty Year 11 students were randomly allocated to two groups. Group 1 saw an amb
 <!-- id: vce-psych34-nt-c1 -->
 *Challenge question*
 
-- A. Deep relaxation and sleepiness
-- B. Less glutamate release
-- C. Improved memory consolidation
+- A. Deep relaxation and sleepiness, as with benzodiazepines
+- B. Less glutamate release, so neurons fire less readily
+- C. Improved memory consolidation through stronger LTP
 - D. More neural excitation, such as anxiety or even seizures
 
 #### Synaptic plasticity and long-term potentiation
@@ -7355,10 +7355,10 @@ Forty Year 11 students were randomly allocated to two groups. Group 1 saw an amb
 <!-- id: vce-psych34-cf-c1 -->
 *Challenge question*
 
-- A. A student who always uses exercise to cope with any stressor
-- B. A student who avoids thinking about an exam until the night before
-- C. A student who uses the same strategy because it worked last year
-- D. A student who keeps re-reading notes realises it is not working and switches to practice exams and asking a teacher
+- A. A student who always goes for a run to cope, whatever the stressor happens to be
+- B. A student who avoids thinking about an exam until the night before, to stay calm
+- C. A student who keeps using the same strategy because it worked well last year
+- D. A student who finds re-reading notes isn't working switches to practice exams and asking a teacher
 
 ### Unit 3 AOS 2: Learning
 
@@ -7621,10 +7621,10 @@ Forty Year 11 students were randomly allocated to two groups. Group 1 saw an amb
 <!-- id: vce-psych34-at-c1 -->
 *Challenge question*
 
-- A. Country is the location where formal written tests are held
-- B. Learning happens mainly by silently reading texts indoors
-- C. Country is only relevant to geography lessons
-- D. Country acts as a teacher: knowledge is learned through relationships with land, kin and community, often through story, place and doing
+- A. Country is the place where formal written tests are held at the end of each stage of learning
+- B. Learning happens mainly by reading texts silently indoors, away from the distractions of Country
+- C. Country is relevant only to geography lessons, as a source of facts about landforms
+- D. Country acts as a teacher: knowledge is learned through relationships with land, kin and community
 
 ### Unit 3 AOS 3: Memory
 
@@ -7821,10 +7821,10 @@ Forty Year 11 students were randomly allocated to two groups. Group 1 saw an amb
 <!-- id: vce-psych34-br-c1 -->
 *Challenge question*
 
-- A. The hippocampus is needed to consolidate explicit memories, while procedural skills rely on other regions such as the cerebellum and basal ganglia
-- B. The hippocampus stores all long-term memories
-- C. The cerebellum consolidates episodic memories
-- D. Procedural memories are stored in the amygdala
+- A. The hippocampus is needed to consolidate explicit memories, while procedural skills rely on other regions
+- B. The hippocampus stores all long-term memories, so his skills must have come from short-term memory
+- C. The cerebellum consolidates episodic memories, so he should have remembered the practice sessions
+- D. Procedural memories are stored in the amygdala, which also holds his memories of the sessions
 
 #### Autobiographical memory and aphantasia
 
@@ -7887,10 +7887,10 @@ Forty Year 11 students were randomly allocated to two groups. Group 1 saw an amb
 <!-- id: vce-psych34-am-c1 -->
 *Challenge question*
 
-- A. They have no long-term memory
-- B. They cannot voluntarily form mental images, and visual imagery helps people re-experience past events and imagine future ones
-- C. Their hippocampus has been removed
-- D. They cannot remember facts about themselves
+- A. They have no long-term memory, so they cannot store any events from their lives
+- B. They cannot voluntarily form mental images, which help people re-experience past events
+- C. Their hippocampus has been removed, so new memories cannot be consolidated
+- D. They cannot remember any facts about themselves, such as where they grew up
 
 #### Alzheimer's disease
 
@@ -8019,10 +8019,10 @@ Forty Year 11 students were randomly allocated to two groups. Group 1 saw an amb
 <!-- id: vce-psych34-mn-c1 -->
 *Challenge question*
 
-- A. They use the first letters of words as written cues
-- B. They link information to places on Country through story, song and movement, giving many retrieval cues, and they are rehearsed across generations
-- C. They only work for numbers
-- D. They rely on writing information down in sequence
+- A. They use the first letter of each word as a written cue, in the same way as an acronym or acrostic
+- B. They link knowledge to places on Country through story, song and movement, giving many retrieval cues
+- C. They work only for numbers and dates, which are linked to the rhythm of each song
+- D. They rely on writing the information down in sequence before it is sung aloud
 
 ### Unit 4 AOS 1: Sleep
 
@@ -8219,10 +8219,10 @@ Forty Year 11 students were randomly allocated to two groups. Group 1 saw an amb
 <!-- id: vce-psych34-cr-c1 -->
 *Challenge question*
 
-- A. Sleep cycles (about 90 minutes each) are ultradian; there are about 5 in the night, within the circadian sleep–wake cycle
-- B. Each sleep cycle is a circadian rhythm
-- C. There is only one ultradian cycle per night
-- D. The SCN controls each 90-minute cycle by releasing cortisol
+- A. Sleep cycles (about 90 minutes) are ultradian; about 5 occur within the circadian sleep–wake cycle
+- B. Each 90-minute sleep cycle is a circadian rhythm; about 5 occur within one ultradian night
+- C. There is only one ultradian cycle per night, lasting for the whole 8 hours of sleep
+- D. The SCN controls each 90-minute cycle by releasing a pulse of cortisol
 
 #### Sleep across the lifespan
 
@@ -8286,9 +8286,9 @@ Forty Year 11 students were randomly allocated to two groups. Group 1 saw an amb
 *Challenge question*
 
 - A. Melatonin is released later in the evening, delaying their sleep–wake cycle
-- B. They need less sleep than adults
-- C. Their REM sleep proportion is higher than infants'
-- D. Their SCN stops responding to light
+- B. They need less sleep than adults, so they are not tired until later
+- C. Their REM sleep proportion is higher than infants', keeping them awake
+- D. Their SCN stops responding to light, so their rhythm runs freely
 
 #### Sleep deprivation
 
@@ -8417,10 +8417,10 @@ Forty Year 11 students were randomly allocated to two groups. Group 1 saw an amb
 <!-- id: vce-psych34-cd-c1 -->
 *Challenge question*
 
-- A. Late at night, to make the person sleepy
+- A. Late at night, just before bed, to boost melatonin and make the person sleepy
 - B. In the morning, soon after waking, to suppress melatonin and shift the rhythm earlier
-- C. At any time, because timing does not matter
-- D. In the evening, to delay the rhythm further
+- C. At any time of day, because only the total amount of light received matters
+- D. In the evening, to suppress melatonin and shift the rhythm earlier
 
 #### Sleep hygiene and zeitgebers
 
@@ -8483,10 +8483,10 @@ Forty Year 11 students were randomly allocated to two groups. Group 1 saw an amb
 <!-- id: vce-psych34-sh-c1 -->
 *Challenge question*
 
-- A. Phones increase GABA levels
-- B. Blue light increases melatonin
+- A. Phones increase GABA levels in the brain, which keeps the person alert
+- B. Blue light increases melatonin release, which disrupts the sleep cycle
 - C. Blue light acts as a zeitgeber, signalling the SCN to suppress melatonin release
-- D. Screens lower body temperature
+- D. Screens lower body temperature, which signals the brain to stay awake
 
 ### Unit 4 AOS 2: Mental wellbeing
 
@@ -8551,10 +8551,10 @@ Forty Year 11 students were randomly allocated to two groups. Group 1 saw an amb
 <!-- id: vce-psych34-mw-c1 -->
 *Challenge question*
 
-- A. Once diagnosed with a disorder, a person stays at that end of the continuum
-- B. A person's position can move over time, and someone with a diagnosed disorder can still have periods of high wellbeing
-- C. Mental health problems and mental disorders are the same thing
-- D. Feeling stressed before an exam means a person has a mental disorder
+- A. Once diagnosed with a disorder, a person stays at that end of the continuum for life
+- B. A person's position can move over time, and someone with a disorder can still have high wellbeing
+- C. Mental health problems and mental disorders are the same thing, with different names
+- D. Feeling stressed before an exam places a person at the mental disorder end of the continuum
 
 #### Social and emotional wellbeing
 
@@ -8684,9 +8684,9 @@ Forty Year 11 students were randomly allocated to two groups. Group 1 saw an amb
 *Challenge question*
 
 - A. Operant conditioning: avoidance is negatively reinforced by the removal of anxiety
-- B. Classical conditioning: the dog becomes a UCS
-- C. GABA overproduction
-- D. Stigma around seeking treatment
+- B. Classical conditioning: each dog he sees becomes an unconditioned stimulus for relief
+- C. Operant conditioning: avoidance is positively punished by the removal of anxiety
+- D. Biological factors: his brain overproduces GABA each time he sees a dog
 
 #### Specific phobia: evidence-based interventions
 
@@ -8749,10 +8749,10 @@ Forty Year 11 students were randomly allocated to two groups. Group 1 saw an amb
 <!-- id: vce-psych34-pi-c1 -->
 *Challenge question*
 
-- A. They block GABA, which increases anxiety
-- B. They are a psychological intervention
-- C. They reduce anxiety by enhancing GABA but do not change the learned fear, and they can cause dependence
-- D. They work only for social phobias
+- A. They block GABA receptors, which increases anxiety the longer they are taken
+- B. They are a psychological intervention, so they cannot be combined with medication
+- C. They reduce anxiety by enhancing GABA but do not change the learned fear, and can cause dependence
+- D. They work only for social phobias, not for specific phobias such as fear of spiders
 
 #### Protective factors for mental wellbeing
 
@@ -8883,10 +8883,10 @@ Forty Year 11 students were randomly allocated to two groups. Group 1 saw an amb
 <!-- id: vce-psych34-ed-c1 -->
 *Challenge question*
 
-- A. The independent variable
-- B. A controlled variable
-- C. The dependent variable
-- D. A confounding variable, because it differs systematically between groups and may have affected the DV
+- A. The independent variable, because it was different between the two groups
+- B. A controlled variable, because it was kept the same within each group
+- C. The dependent variable, because reaction time was measured in the gamers
+- D. A confounding variable, because it differs systematically between groups and may affect the DV
 
 #### Data, statistics and conclusions
 
@@ -9052,10 +9052,10 @@ Forty Year 11 students were randomly allocated to two groups. Group 1 saw an amb
 <!-- id: vce-psych34-challenge-4 -->
 *Challenge question*
 
-- A. The hippocampus is needed for conditioned fear
-- B. The cerebellum stores the fear response
-- C. The amygdala is needed for classically conditioned fear, while the hippocampus supports the explicit memory of the pairing
-- D. Fear conditioning is a form of explicit memory
+- A. The hippocampus is needed for conditioned fear, while the amygdala supports explicit memory of the pairing
+- B. The cerebellum stores the conditioned fear response, so the amygdala is not involved at all
+- C. The amygdala is needed for conditioned fear, while the hippocampus supports explicit memory of the pairing
+- D. Fear conditioning is a form of explicit memory, so it depends on the hippocampus alone
 
 **Q1263.** Compare the effects of one night of partial sleep deprivation on affective functioning and on cognitive functioning.
 <!-- id: vce-psych34-challenge-5 -->
@@ -9068,18 +9068,18 @@ Forty Year 11 students were randomly allocated to two groups. Group 1 saw an amb
 *Challenge question*
 
 - A. Can affect many neurons at once and alter their responsiveness over a longer period
-- B. Is always inhibitory
-- C. Only acts on one post-synaptic neuron
-- D. Is produced only in the gut
+- B. Is always inhibitory, so it reduces the firing of every neuron that it reaches
+- C. Only acts on one post-synaptic neuron, so its effects are very precise
+- D. Is produced only in the gut, so it reaches the brain through the blood
 
 **Q1265.** Researchers recruit 40 volunteers from their own university's gym to study exercise and stress. The main limitation of this sample is that:
 <!-- id: vce-psych34-challenge-7 -->
 *Challenge question*
 
 - A. It is a convenience sample that may not represent the population of interest
-- B. It is too large
-- C. It removes all extraneous variables
-- D. It is a stratified sample
+- B. It is too large, so differences between participants are hidden by the average
+- C. It removes all extraneous variables, so the results cannot be generalised
+- D. It is a stratified sample, so every subgroup of the population is over-represented
 
 **Q1266.** Explain the difference between stress (a response) and a stressor, and how the transactional model explains why two people respond differently to the same stressor.
 <!-- id: vce-psych34-challenge-8 -->
@@ -9100,9 +9100,9 @@ Forty Year 11 students were randomly allocated to two groups. Group 1 saw an amb
 <!-- id: vce-psych34-challenge-10 -->
 *Challenge question*
 
-- A. Bright light before sleeping during the day
-- B. Eating large meals just before sleep
-- C. Different sleep times every day
+- A. Bright light just before sleeping during the day, to signal to the SCN that sleep should begin
+- B. Eating large meals just before sleep, so that digestion helps the body relax and fall asleep
+- C. Changing sleep times every day, so the body does not settle into any one fixed rhythm
 - D. Bright light during the night shift and dark, blackout conditions when sleeping during the day
 
 ### Exam-style questions (mixed topics)

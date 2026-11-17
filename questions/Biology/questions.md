@@ -448,10 +448,10 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 <!-- id: vce-bio12-pe-c1 -->
 *Challenge question*
 
-- A. A cell wall made of cellulose
+- A. A cell wall made of cellulose surrounding the plasma membrane
 - B. Circular DNA in a nucleoid region and no membrane-bound organelles
-- C. Ribosomes in the cytoplasm
-- D. A plasma membrane made of phospholipids
+- C. Ribosomes free in the cytoplasm as well as on internal membranes
+- D. A plasma membrane made of a phospholipid bilayer with proteins
 
 #### Organelles and their functions
 
@@ -655,10 +655,10 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 <!-- id: vce-bio12-or-c1 -->
 *Challenge question*
 
-- A. Stores large amounts of fat
-- B. Carries out photosynthesis
+- A. Stores large amounts of fat, such as the cells of adipose tissue
+- B. Carries out photosynthesis, such as the palisade cells of a leaf
 - C. Secretes large amounts of protein, such as digestive enzymes or antibodies
-- D. Divides very rapidly
+- D. Divides very rapidly, such as the cells at the tip of a growing root
 
 #### Plasma membrane structure
 
@@ -863,10 +863,10 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 <!-- id: vce-bio12-pm-c1 -->
 *Challenge question*
 
-- A. Too small to be detected by the membrane
-- B. Non-polar and attracted to the tails
+- A. Too small to be detected by the membrane, so it needs a channel protein to guide it
+- B. Non-polar, so it is attracted to the hydrophobic tails and becomes trapped in the membrane
 - C. Large and polar, so it cannot pass between the hydrophobic tails; it needs a carrier protein
-- D. Always moving against its gradient
+- D. Always moving against its gradient, so it can only cross the membrane by active transport
 
 #### Passive transport across membranes
 
@@ -1076,9 +1076,9 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 <!-- id: vce-bio12-pt-c1 -->
 *Challenge question*
 
-- A. Water enters and the cell bursts
-- B. Salt enters by osmosis and the cell swells
-- C. Nothing happens, because the cell wall blocks water
+- A. Water enters by osmosis and the cell swells until the cell wall bursts
+- B. Salt enters by osmosis and the cell swells until it becomes turgid
+- C. Nothing happens, because the cellulose cell wall stops water moving
 - D. Water leaves by osmosis and the cytoplasm pulls away from the cell wall (plasmolysis)
 
 #### Active transport, endocytosis and exocytosis
@@ -1882,10 +1882,10 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 <!-- id: vce-bio12-ap-c1 -->
 *Challenge question*
 
-- A. All cells die immediately
-- B. Cells stop dividing
+- A. All cells with damaged DNA die immediately by necrosis instead
+- B. Cells stop dividing completely, so the tissue can no longer repair itself
 - C. Cells with damaged DNA survive and keep dividing, which can lead to a tumour
-- D. The immune system cannot detect any cells
+- D. The immune system can no longer detect any of the body's own cells
 
 #### Stem cells and specialisation
 
@@ -2289,10 +2289,10 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 <!-- id: vce-bio12-ps-c1 -->
 *Challenge question*
 
-- A. Water stops moving to the leaves immediately
-- B. The leaves wilt within minutes
+- A. Water stops moving to the leaves at once, because the xylem is part of the bark
+- B. The leaves wilt within minutes, because sugars can no longer reach them
 - C. Sugars build up above the ring and the roots starve, although water still moves up the xylem
-- D. Nothing changes, because phloem carries only water
+- D. Nothing changes, because the phloem only carries water and minerals
 
 #### Digestive system
 
@@ -2507,9 +2507,9 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 <!-- id: vce-bio12-dg-c1 -->
 *Challenge question*
 
-- A. Breaks fats into fatty acids and glycerol
-- B. Neutralises lipase
-- C. Absorbs fats into the blood
+- A. Breaks fats into fatty acids and glycerol, which are then absorbed in the ileum
+- B. Neutralises lipase so that it can work in the alkaline small intestine
+- C. Absorbs fats from the gut directly into the blood through the villi
 - D. Emulsifies fats into small droplets, increasing the surface area for lipase to act on
 
 #### Endocrine and excretory systems
@@ -2942,10 +2942,10 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 <!-- id: vce-bio12-sr-c1 -->
 *Challenge question*
 
-- A. Sweating when body temperature rises
+- A. Sweating when body temperature rises, which lowers body temperature back to normal
 - B. Oxytocin increasing uterine contractions during childbirth, which cause more oxytocin release
-- C. Insulin release when blood glucose rises
-- D. ADH release when blood becomes too concentrated
+- C. Insulin release when blood glucose rises, which lowers blood glucose back to normal
+- D. ADH release when the blood becomes concentrated, which increases water reabsorption
 
 #### Thermoregulation
 
@@ -3135,9 +3135,9 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 *Challenge question*
 
 - A. Vasodilation of arterioles supplying the skin
-- B. Shivering
-- C. Hairs standing on end
-- D. Increased metabolic rate
+- B. Shivering of skeletal muscles to produce heat
+- C. Hairs standing on end to trap a layer of air
+- D. An increase in metabolic rate to release heat
 
 #### Blood glucose regulation
 
@@ -3349,10 +3349,10 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 <!-- id: vce-bio12-bg-c1 -->
 *Challenge question*
 
-- A. In type 2, no insulin is ever made
-- B. Type 1 is caused only by diet
-- C. In type 2, body cells respond poorly to insulin; in type 1, the immune system destroys insulin-producing beta cells
-- D. Type 2 is caused by too much glucagon from beta cells
+- A. In type 2, the immune system destroys beta cells; in type 1, body cells respond poorly to insulin
+- B. In type 1, diet is the only cause; in type 2, a lack of exercise is the only cause
+- C. In type 2, body cells respond poorly to insulin; in type 1, the immune system destroys beta cells
+- D. In type 2, beta cells make too much glucagon; in type 1, alpha cells make no insulin
 
 #### Water balance
 
@@ -3546,10 +3546,10 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 <!-- id: vce-bio12-wb-c1 -->
 *Challenge question*
 
-- A. Release less ADH, producing more dilute urine
-- B. Stop the kidneys filtering blood
+- A. Release less ADH, so the collecting ducts reabsorb more water and urine becomes dilute
+- B. Stop the kidneys filtering blood, so no urine is produced until the person drinks
 - C. Release more ADH, so the collecting ducts reabsorb more water and urine becomes concentrated
-- D. Release insulin to retain water
+- D. Release more insulin, which makes the kidneys retain more water and salt
 
 #### Malfunctions of homeostasis
 
@@ -3942,9 +3942,9 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 *Challenge question*
 
 - A. Occupy the same locus on homologous chromosomes but differ in nucleotide sequence
-- B. Are found on different chromosomes
-- C. Always produce identical proteins
-- D. Are two copies of the whole genome
+- B. Occupy different loci on the same chromosome and have identical nucleotide sequences
+- C. Always produce identical proteins, because they are copies of the same gene
+- D. Are two complete copies of the genome, one inherited from each parent
 
 #### Chromosomes and karyotypes
 
@@ -4149,9 +4149,9 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 *Challenge question*
 
 - A. Non-disjunction during meiosis, giving a gamete with an extra chromosome 21
-- B. A point mutation on chromosome 21
-- C. Crossing over between chromosomes 21 and 22
-- D. Mitosis in the zygote with no errors
+- B. A point mutation on chromosome 21 that copied the whole chromosome
+- C. Crossing over between chromosomes 21 and 22 during prophase I
+- D. An error-free mitosis in the zygote that copied chromosome 21 twice
 
 #### Meiosis and variation
 
@@ -4555,10 +4555,10 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 <!-- id: vce-bio12-ge-c1 -->
 *Challenge question*
 
-- A. They have different genotypes
-- B. Height is controlled by one gene only
+- A. Their genotypes are different, because identical twins develop from two separate eggs
+- B. Height is controlled by one gene only, and one twin inherited a different allele
 - C. Their genotypes are the same, but environmental factors such as nutrition affected their phenotypes
-- D. Mutations always occur in twins
+- D. Mutations always occur in twins, so one twin's height genes were changed
 
 #### Monohybrid crosses and test crosses
 
@@ -5413,10 +5413,10 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 <!-- id: vce-bio12-as-c1 -->
 *Challenge question*
 
-- A. Runners create variation and seeds make clones
-- B. Runners quickly colonise a favourable area with clones, while seeds produce variation and spread to new areas
-- C. Both methods produce identical offspring
-- D. Seeds need no pollination
+- A. Runners create variation in a good area, while seeds produce clones that spread further
+- B. Runners quickly colonise a good area with clones, while seeds produce variation and spread further
+- C. Both methods produce identical offspring, so the plant has two ways to make clones
+- D. Seeds need no pollination, so both methods avoid the need for another plant
 
 #### Sexual reproduction and genetic diversity
 
@@ -6261,10 +6261,10 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 <!-- id: vce-bio12-au-c1 -->
 *Challenge question*
 
-- A. Fire kills all seed-eating animals permanently
+- A. Fire kills all seed-eating animals permanently, so every seed survives
 - B. Seeds land on cleared ground with less competition and nutrients from ash
-- C. The seeds need to be cooked to be eaten
-- D. Fire increases soil moisture
+- C. The seeds must be cooked before birds can eat and disperse them
+- D. Fire increases soil moisture, so seedlings never run short of water
 
 #### Interdependencies and keystone species
 
@@ -6705,10 +6705,10 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 <!-- id: vce-bio12-ak-c1 -->
 *Challenge question*
 
-- A. Large hot fires lit at the peak of summer
-- B. Burning the same area every week
-- C. Cool, low-intensity, patchy burns timed by seasonal indicators, which reduce fuel loads and promote new growth
-- D. Fires lit only to clear land for farming
+- A. Large, hot fires lit across whole regions at the peak of summer to clear all the undergrowth
+- B. Burning the same small area every week of the year to keep the ground completely bare
+- C. Cool, low-intensity, patchy burns timed by seasonal indicators, reducing fuel and promoting new growth
+- D. Fires lit only to clear land for growing crops, with no link to the seasons or Country
 
 ### Challenge questions
 
@@ -6725,9 +6725,9 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 *Challenge question*
 
 - A. The solute concentration inside the potato cells is about equal to 0.3 M sucrose
-- B. No water moves at all in any solution
-- C. Sucrose enters the cells in 0.3 M solution
-- D. Potato cells are impermeable to water
+- B. No water moves into or out of the cells at all in any of the solutions
+- C. Sucrose enters the cells in 0.3 M solution, balancing the water that leaves
+- D. Potato cells are impermeable to water, so their mass never changes
 
 **Q957.** Give three differences between mitosis and meiosis.
 <!-- id: vce-bio12-challenge-3 -->
@@ -6763,9 +6763,9 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 <!-- id: vce-bio12-challenge-7 -->
 *Challenge question*
 
-- A. Divide only by meiosis
-- B. Lack DNA
-- C. Have extra mitochondria
+- A. Divide only by meiosis, which has no checkpoints
+- B. Lack DNA, so no signals can stop them dividing
+- C. Have extra mitochondria that drive constant division
 - D. Ignore cell-cycle checkpoints and avoid apoptosis
 
 **Q962.** A colour-blind man (X-linked recessive) and a woman who is a carrier have a child. What is the probability that the child is a colour-blind daughter?
@@ -6781,10 +6781,10 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 <!-- id: vce-bio12-challenge-9 -->
 *Challenge question*
 
-- A. It is always the most common species
-- B. Removing it causes large changes in the ecosystem, even if it is not the most abundant species
-- C. It is always a producer
-- D. Removing it has no effect
+- A. It is always the most common species, so removing it leaves the most empty space
+- B. Removing it causes large changes in the ecosystem, even if it is not the most abundant
+- C. It is always a producer, because every food web depends on its energy
+- D. Removing it has little effect, because other species quickly take its place
 
 **Q964.** Explain the difference between negative and positive feedback, with one example of each.
 <!-- id: vce-bio12-challenge-10 -->
@@ -7365,10 +7365,10 @@ Anna and Ben are both unaffected, but their daughter Chloe has a rare inherited 
 <!-- id: vce-bio34-edm-c1 -->
 *Challenge question*
 
-- A. Only one enzyme would leave blunt ends
+- A. Only one of the two enzymes leaves sticky ends, so the gene can join the plasmid
 - B. The gene can only insert in one orientation and the plasmid cannot rejoin itself
-- C. Two enzymes make the gene shorter
-- D. DNA ligase is not needed
+- C. Using two enzymes makes the gene shorter, so it fits inside the plasmid
+- D. Two different sticky ends mean DNA ligase is not needed to join the fragments
 
 #### CRISPR-Cas9
 
@@ -7697,10 +7697,10 @@ Anna and Ben are both unaffected, but their daughter Chloe has a rare inherited 
 <!-- id: vce-bio34-ec-c1 -->
 *Challenge question*
 
-- A. NADPH is produced in the stroma and used in the thylakoid
-- B. NADP⁺ accepts electrons and H⁺ in the light-dependent stage, and NADPH donates them in the Calvin cycle
-- C. NADP⁺ is an enzyme that fixes carbon dioxide
-- D. NADPH is unloaded in the light-dependent stage
+- A. NADPH is loaded in the stroma during the Calvin cycle and unloaded in the thylakoid membranes
+- B. NADP⁺ accepts electrons and H⁺ in the light-dependent stage; NADPH donates them in the Calvin cycle
+- C. NADP⁺ is an enzyme that fixes carbon dioxide to RuBP in the Calvin cycle in the stroma
+- D. NADPH is unloaded in the light-dependent stage to provide the electrons for splitting water
 
 #### Factors affecting enzymes and inhibition
 
@@ -7896,9 +7896,9 @@ Anna and Ben are both unaffected, but their daughter Chloe has a rare inherited 
 *Challenge question*
 
 - A. C4 plants separate initial CO₂ fixation and the Calvin cycle in space; CAM plants separate them in time
-- B. C4 plants separate them in time; CAM plants in space
-- C. Both stop rubisco binding to CO₂
-- D. Both open their stomata only at midday
+- B. C4 plants separate initial CO₂ fixation and the Calvin cycle in time; CAM plants separate them in space
+- C. Both replace rubisco with an enzyme that cannot bind oxygen, so the Calvin cycle runs without it
+- D. Both open their stomata only at midday, when the CO₂ concentration inside the leaf is highest
 
 #### Cellular respiration
 
@@ -8090,10 +8090,10 @@ Anna and Ben are both unaffected, but their daughter Chloe has a rare inherited 
 <!-- id: vce-bio34-by-c1 -->
 *Challenge question*
 
-- A. Faster cellular respiration
-- B. Rice could photosynthesise without light
+- A. Faster cellular respiration, so more ATP is available for growth
+- B. Rice could photosynthesise at night, without needing any light
 - C. Less photorespiration, so more carbon is fixed per unit of water lost
-- D. Rubisco would no longer be needed
+- D. Rubisco would no longer be needed in the Calvin cycle at all
 
 ### Unit 4 AOS 1: Responding to pathogens
 
@@ -8158,9 +8158,9 @@ Anna and Ben are both unaffected, but their daughter Chloe has a rare inherited 
 <!-- id: vce-bio34-pb-c1 -->
 *Challenge question*
 
-- A. Are the smallest cellular pathogens
-- B. Can only infect plants
-- C. Carry RNA instead of DNA
+- A. Are the smallest cellular pathogens, with a membrane but no nucleus or ribosomes
+- B. Can only infect plants, because they need a cell wall to enter their host cells
+- C. Carry RNA instead of DNA, which they insert into the genome of the host cell
 - D. Contain no nucleic acid; they are misfolded proteins that cause normal proteins to misfold
 
 #### Innate immunity
@@ -8224,10 +8224,10 @@ Anna and Ben are both unaffected, but their daughter Chloe has a rare inherited 
 <!-- id: vce-bio34-ii-c1 -->
 *Challenge question*
 
-- A. Phagocytes release histamine → vessels constrict → antibodies are made
-- B. Mast cells release histamine → blood vessels dilate and become more permeable → phagocytes move into the tissue
-- C. B cells release histamine → vessels dilate → fever starts
-- D. Vessels constrict → mast cells die → complement proteins leave the area
+- A. Phagocytes release histamine → vessels constrict and become less permeable → antibodies move into the tissue
+- B. Mast cells release histamine → vessels dilate and become more permeable → phagocytes move into the tissue
+- C. B cells release histamine → vessels dilate and become more permeable → plasma cells move into the tissue
+- D. Mast cells release antibodies → vessels constrict → complement proteins move out of the tissue
 
 #### Antigen presentation and the lymphatic system
 
@@ -8290,10 +8290,10 @@ Anna and Ben are both unaffected, but their daughter Chloe has a rare inherited 
 <!-- id: vce-bio34-ap-c1 -->
 *Challenge question*
 
-- A. Red blood cells have too much MHC class II
-- B. Cytotoxic T cells cannot enter blood vessels
+- A. Red blood cells display only MHC class II, which cytotoxic T cells ignore
+- B. Cytotoxic T cells cannot enter blood vessels, so they never meet red blood cells
 - C. Mature red blood cells have no nucleus and do not display MHC class I
-- D. Antibodies hide the parasite
+- D. Antibodies coat the parasite inside the cell, hiding it from T cells
 
 #### Humoral immunity
 
@@ -8356,9 +8356,9 @@ Anna and Ben are both unaffected, but their daughter Chloe has a rare inherited 
 <!-- id: vce-bio34-hi-c1 -->
 *Challenge question*
 
-- A. Only innate immunity is affected
-- B. Antibody production increases to compensate
-- C. Only cell-mediated immunity is affected
+- A. Only innate immunity is affected, because helper T cells activate phagocytes
+- B. Antibody production increases to make up for the loss of helper T cells
+- C. Only cell-mediated immunity is affected, while B cells work as normal
 - D. Both antibody production and cytotoxic T cell responses are greatly weakened
 
 #### Cell-mediated immunity
@@ -8552,9 +8552,9 @@ Anna and Ben are both unaffected, but their daughter Chloe has a rare inherited 
 *Challenge question*
 
 - A. Blocking PD-1 so T cells stay active and attack the cancer cells
-- B. Killing the T cells
-- C. Directly digesting cancer DNA
-- D. Giving the patient memory B cells
+- B. Binding to the T cells and destroying them, so they stop attacking
+- C. Entering the cancer cells and directly digesting their DNA
+- D. Giving the patient memory B cells against the cancer antigen
 
 ### Unit 4 AOS 2: Change over time
 
@@ -8686,9 +8686,9 @@ Anna and Ben are both unaffected, but their daughter Chloe has a rare inherited 
 *Challenge question*
 
 - A. Selection for a few traits reduces genetic diversity, so fewer individuals may carry resistance alleles
-- B. Selective breeding causes harmful mutations
-- C. Natural selection stops working on crops
-- D. Bred crops have fewer chromosomes
+- B. Selective breeding causes new harmful mutations, so the crops are weaker against pathogens
+- C. Natural selection stops acting on crops, so they cannot evolve resistance to anything
+- D. Bred crops have fewer chromosomes, so they carry fewer genes for fighting disease
 
 #### Antibiotic and antiviral resistance
 
@@ -9041,9 +9041,9 @@ Anna and Ben are both unaffected, but their daughter Chloe has a rare inherited 
 *Challenge question*
 
 - A. Not restore the maximum rate, because the active site's shape has changed
-- B. Fully restore the maximum rate
-- C. Cause the inhibitor to break down
-- D. Lower the activation energy further
+- B. Fully restore the maximum rate, because substrate outcompetes the inhibitor
+- C. Cause the inhibitor to break down, freeing the allosteric site again
+- D. Lower the activation energy further, partly making up for the inhibitor
 
 **Q1262.** Light intensity is very low. Increasing the carbon dioxide concentration will most likely:
 <!-- id: vce-bio34-challenge-4 -->
@@ -9058,36 +9058,36 @@ Anna and Ben are both unaffected, but their daughter Chloe has a rare inherited 
 <!-- id: vce-bio34-challenge-5 -->
 *Challenge question*
 
-- A. Mitochondria need light to work
-- B. Oxygen inhibits the Krebs cycle
+- A. Mitochondria need light to produce ATP, just as chloroplasts do
+- B. Oxygen inhibits the Krebs cycle whenever glucose is also present
 - C. Glycolysis happens in the cytosol, so mitochondria cannot use glucose directly
-- D. Mitochondria can only use fatty acids
+- D. Mitochondria can only respire fatty acids, not carbohydrates
 
 **Q1264.** A patient receives monoclonal antibodies against a virus. This gives:
 <!-- id: vce-bio34-challenge-6 -->
 *Challenge question*
 
-- A. Artificial active immunity with memory cells
+- A. Artificial active immunity, which is slower but long-lasting with memory cells
 - B. Artificial passive immunity, which is fast but short-lived with no memory cells
-- C. Natural passive immunity
-- D. Natural active immunity
+- C. Natural passive immunity, like the antibodies passed on in breast milk
+- D. Natural active immunity, the same as recovering from the infection itself
 
 **Q1265.** An mRNA vaccine cannot change a person's DNA mainly because:
 <!-- id: vce-bio34-challenge-7 -->
 *Challenge question*
 
-- A. mRNA is too short to be read
-- B. The mRNA stays in the cytoplasm, where it is translated and then broken down, and there is no reverse transcription into DNA
-- C. The mRNA is made of DNA nucleotides
-- D. The vaccine is destroyed in the bloodstream before reaching any cell
+- A. mRNA is too short to be read by ribosomes, so no protein is ever made from it in the cell
+- B. The mRNA stays in the cytoplasm, is translated, then broken down, and is never reverse-transcribed into DNA
+- C. The mRNA is made of DNA nucleotides, which cannot pair with the bases in the cell's own genes
+- D. The vaccine is destroyed in the bloodstream before it reaches any of the body's cells
 
 **Q1266.** Influenza develops resistance to antivirals much faster than mammals evolve new traits. The main reasons are:
 <!-- id: vce-bio34-challenge-8 -->
 *Challenge question*
 
-- A. Viruses choose to change their genes
-- B. Antivirals cause the mutations
-- C. Viruses reproduce sexually
+- A. Viruses choose to change their genes when they detect an antiviral drug
+- B. Antiviral drugs cause the mutations that make the virus resistant
+- C. Viruses reproduce sexually, which mixes their genes every generation
 - D. A very short generation time, huge population sizes and a high mutation rate
 
 **Q1267.** Explain how one base substitution could have no effect, a small effect, or a large effect on a protein.

@@ -2412,7 +2412,7 @@ Explanation:
 
 Explanation:
 
-**A475.** C. In type 2, body cells respond poorly to insulin; in type 1, the immune system destroys insulin-producing beta cells
+**A475.** C. In type 2, body cells respond poorly to insulin; in type 1, the immune system destroys beta cells
 <!-- id: vce-bio12-bg-c1 -->
 
 Explanation: Type 1 is autoimmune, so insulin must be injected. Type 2 involves insulin resistance and is often managed by diet, exercise and medication at first.
@@ -3911,7 +3911,7 @@ Explanation:
 
 Explanation:
 
-**A770.** B. Runners quickly colonise a favourable area with clones, while seeds produce variation and spread to new areas
+**A770.** B. Runners quickly colonise a good area with clones, while seeds produce variation and spread further
 <!-- id: vce-bio12-as-c1 -->
 
 Explanation: Asexual reproduction is fast and needs no mate; sexual reproduction gives genetic diversity, helping populations survive change.
@@ -4843,7 +4843,7 @@ Explanation:
 
 Explanation:
 
-**A954.** C. Cool, low-intensity, patchy burns timed by seasonal indicators, which reduce fuel loads and promote new growth
+**A954.** C. Cool, low-intensity, patchy burns timed by seasonal indicators, reducing fuel and promoting new growth
 <!-- id: vce-bio12-ak-c1 -->
 
 Explanation: Mosaic burning creates a patchwork of habitats and lowers the risk of intense bushfires; it is based on deep knowledge of Country.
@@ -4892,7 +4892,7 @@ Explanation: Mutations in genes that control the cell cycle (proto-oncogenes and
 
 Explanation: XᵇY × XᴮXᵇ. Daughters receive Xᵇ from the father, so half of daughters are XᵇXᵇ. P(daughter) × P(colour-blind | daughter) = 1/2 × 1/2 = 1/4.
 
-**A963.** B. Removing it causes large changes in the ecosystem, even if it is not the most abundant species
+**A963.** B. Removing it causes large changes in the ecosystem, even if it is not the most abundant
 <!-- id: vce-bio12-challenge-9 -->
 
 Explanation: Keystone species are defined by their impact, not their number.
@@ -5791,7 +5791,7 @@ Explanation:
 
 Explanation:
 
-**A1078.** B. NADP⁺ accepts electrons and H⁺ in the light-dependent stage, and NADPH donates them in the Calvin cycle
+**A1078.** B. NADP⁺ accepts electrons and H⁺ in the light-dependent stage; NADPH donates them in the Calvin cycle
 <!-- id: vce-bio34-ec-c1 -->
 
 Explanation: Coenzymes cycle between loaded and unloaded forms, carrying electrons and protons from one stage to the next.
@@ -6169,7 +6169,7 @@ Explanation:
 
 Explanation:
 
-**A1150.** B. Mast cells release histamine → blood vessels dilate and become more permeable → phagocytes move into the tissue
+**A1150.** B. Mast cells release histamine → vessels dilate and become more permeable → phagocytes move into the tissue
 <!-- id: vce-bio34-ii-c1 -->
 
 Explanation: Histamine causes vasodilation (redness, heat) and leaky capillaries (swelling), letting phagocytes and complement reach the site.
@@ -6774,7 +6774,7 @@ Explanation: Mitochondria take up pyruvate, not glucose. Supplying pyruvate woul
 
 Explanation: The patient's immune system did not make the antibodies, so no memory cells form.
 
-**A1265.** B. The mRNA stays in the cytoplasm, where it is translated and then broken down, and there is no reverse transcription into DNA
+**A1265.** B. The mRNA stays in the cytoplasm, is translated, then broken down, and is never reverse-transcribed into DNA
 <!-- id: vce-bio34-challenge-7 -->
 
 Explanation: The mRNA is translated by ribosomes into an antigen, then degraded; it does not enter the nucleus or become DNA.

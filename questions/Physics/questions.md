@@ -955,9 +955,9 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 *Challenge question*
 
 - A. The vacuum stops conduction and convection, and the silvered walls reduce radiation
-- B. The vacuum stops radiation only
-- C. The glass is a good conductor
-- D. Convection currents carry heat back into the drink
+- B. The vacuum stops radiation only, and the glass walls stop conduction
+- C. The glass is a good conductor, so heat spreads evenly and stays in
+- D. Convection currents in the vacuum carry heat back into the drink
 
 #### Thermal radiation and Wien's law
 
@@ -1487,9 +1487,9 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 <!-- id: vce-physics12-cg-c1 -->
 *Challenge question*
 
-- A. Absorb most incoming visible sunlight
-- B. Make a hole in the ozone layer
-- C. Reflect all incoming ultraviolet radiation
+- A. Absorb most of the incoming visible sunlight before it can reach the Earth's surface
+- B. Make a hole in the ozone layer, which lets extra infrared radiation reach the surface
+- C. Reflect all incoming ultraviolet radiation back down, heating the lower atmosphere
 - D. Absorb infrared radiation emitted by the Earth's surface and re-emit some of it back towards the surface
 
 ### Unit 1: Light
@@ -2379,10 +2379,10 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 <!-- id: vce-physics12-ns-c1 -->
 *Challenge question*
 
-- A. Neutrons repel protons
-- B. Neutrons have a positive charge
+- A. Neutrons repel protons, which pushes the protons apart and spreads the charge
+- B. Neutrons have a small positive charge, which balances the electron cloud
 - C. Extra neutrons add strong-force attraction without adding electrostatic repulsion
-- D. Protons are heavier than neutrons
+- D. Protons are heavier than neutrons, so more neutrons are needed to balance them
 
 #### Alpha, beta and gamma radiation
 
@@ -2940,9 +2940,9 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 <!-- id: vce-physics12-ro-c1 -->
 *Challenge question*
 
-- A. The lamp's resistance decreases with voltage
-- B. The lamp obeys Ohm's law
-- C. The current is independent of voltage
+- A. The lamp is non-ohmic: its resistance decreases as the filament heats up
+- B. The lamp obeys Ohm's law, because current always rises with voltage
+- C. The current is independent of voltage once the filament is glowing
 - D. The lamp is non-ohmic: its resistance increases as the filament heats up
 
 #### Series and parallel circuits
@@ -3135,10 +3135,10 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 <!-- id: vce-physics12-es-c1 -->
 *Challenge question*
 
-- A. Melting when the current is too high
-- B. Earthing the neutral wire
-- C. Detecting a difference between the currents in the active and neutral wires, and cutting the power within milliseconds
-- D. Lowering the supply voltage
+- A. Melting a thin wire when the current becomes too high for the wiring in the circuit
+- B. Connecting the neutral wire to earth so that any fault current flows safely away
+- C. Detecting a difference between the currents in the active and neutral wires, then cutting the power
+- D. Lowering the supply voltage whenever someone touches an exposed live part
 
 ### Unit 2: Motion
 
@@ -3576,9 +3576,9 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 <!-- id: vce-physics12-challenge-5 -->
 *Challenge question*
 
-- A. Makes every bulb dimmer
-- B. Decreases the total current
-- C. Increases the total resistance
+- A. Makes every bulb dimmer, because the current is shared more ways
+- B. Decreases the total current, because there are more bulbs to pass through
+- C. Increases the total resistance, because another resistor has been added
 - D. Increases the total current, and each bulb stays equally bright
 
 **Q499.** 1 kWh is equal to:
@@ -8279,9 +8279,9 @@ In a second test, the car moves at 10 m/s and hits a stationary 800 kg car. The 
 *Challenge question*
 
 - A. Some light emerges, because the middle filter passes a component the last filter can transmit
-- B. Still no light emerges, because the outer filters are crossed
-- C. All the original light emerges
-- D. Light emerges only if it is unpolarised
+- B. Still no light emerges, because the first and last filters remain crossed at 90°
+- C. All the original light emerges, because the middle filter cancels out the crossing
+- D. Light emerges only around the middle filter's edges, because light diffracts around it
 
 ### Light & matter
 
@@ -9037,10 +9037,10 @@ In a second test, the car moves at 10 m/s and hits a stationary 800 kg car. The 
 <!-- id: physics-7-4-c1 -->
 *Challenge question*
 
-- A. Light produces an interference pattern through two slits
+- A. Light produces a pattern of bright and dark fringes when it passes through two slits
 - B. Below the threshold frequency, no photoelectrons are emitted however intense the light
-- C. Light diffracts around small obstacles
-- D. Light can be polarised
+- C. Light spreads out (diffracts) when it passes through a gap similar to its wavelength
+- D. Light can be polarised by a filter so that it vibrates in only one plane
 
 ### Practical investigations
 
@@ -9809,10 +9809,10 @@ In a second test, the car moves at 10 m/s and hits a stationary 800 kg car. The 
 <!-- id: physics-challenge-1 -->
 *Challenge question*
 
-- A. There is no gravity in space
-- B. The station's speed cancels gravity
+- A. There is no gravity at 400 km, because Earth's gravitational field ends at the edge of the atmosphere
+- B. The station's high orbital speed creates an outward force that exactly cancels the pull of gravity
 - C. They and the station are in free fall together, though gravity there is still about 90% of its surface value
-- D. They are outside Earth's gravitational field
+- D. They are outside Earth's gravitational field, so only the Moon and the Sun pull on them, weakly
 
 **Q1343.** In a velocity selector, crossed fields of E = 2.0 × 10⁴ V/m and B = 0.10 T let charged particles pass undeflected. Their speed is:
 <!-- id: physics-challenge-2 -->

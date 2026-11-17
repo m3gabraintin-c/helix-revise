@@ -301,7 +301,7 @@ Explanation: A short, paradoxical line is easy to embed. Explain the double mean
 
 Explanation: Discuss mood and tone: the ending is bittersweet. Link to Malvolio's exit and Antonio, who is left alone.
 
-**A49.** A. Dramatic irony: the audience sees Sir Toby, Sir Andrew and Fabian hiding and commenting while Malvolio misreads the letter
+**A49.** A. Dramatic irony: the audience sees Toby, Andrew and Fabian hiding while Malvolio misreads the letter
 <!-- id: vce-english34-twelfth-night-cc1 -->
 
 Explanation: We know what Malvolio does not, and the hidden watchers' interruptions heighten the laughter at his self-deception.
@@ -828,7 +828,7 @@ Explanation: Discuss how the landscape carries both love and danger, and how she
 
 Explanation: Compare the older narrator's perspective with the child's experience.
 
-**A125.** A. Acknowledge that memory is unreliable, which builds credibility and reinforces the question of whose version counts
+**A125.** A. Acknowledge that memory is unreliable, which builds credibility and raises the question of whose version counts
 <!-- id: vce-english34-educated-cc1 -->
 
 Explanation: By admitting other versions, she earns trust and connects her method to the memoir's ideas about authority and truth.
