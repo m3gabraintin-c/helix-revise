@@ -40,6 +40,11 @@ for path, s in strings({"Q": d["Q"], "X": X}, "DATA"):
     if s.count("\\(") != s.count("\\)") or s.count("\\[") != s.count("\\]"): errs.append(f"{path}: unbalanced \\( \\) or \\[ \\]")
 ids = [qid(r) for rows in d["Q"].values() for r in rows] + [qid(r) for rows in X.values() for r in rows]
 if len(ids) != len(set(ids)): errs.append("duplicate question ids across DATA.Q and DATA.X")
+# DATA.C lists the ids of challenge questions (shown with a "Challenge" tag); every id must exist, once.
+CH = d.get("C", [])
+if not isinstance(CH, list) or len(CH) != len(set(CH)): errs.append("DATA.C must be a list of unique question ids")
+elif set(CH) - set(ids): errs.append(f"DATA.C has unknown ids: {sorted(set(CH) - set(ids))[:5]}")
+CH = set(CH) if isinstance(CH, list) else set()
 
 # ---- multi-part question structure ----
 LABEL = re.compile(r"^[a-z](\.[ivx]+)?$")
@@ -172,6 +177,9 @@ for fo in folders:
         f, r = expect.get(id_, (None, None))
         if r is None: errs.append(f"{fo} Q{n}: unknown id {id_}"); continue
         if f != fo: errs.append(f"{fo} Q{n}: {id_} expected in {f}")
+        marked = "*Challenge question*" in body
+        if marked != (id_ in CH): errs.append(f"{fo} Q{n}: challenge marker {'present' if marked else 'missing'} for {id_}")
+        body = [x for x in body if x != "*Challenge question*"]
         if isinstance(r, dict):
             if head != r["title"]: errs.append(f"{fo} Q{n}: title differs")
             if parse_multi_q(body) != multi_q_tokens(r): errs.append(f"{fo} Q{n}: multi-part question text differs")
