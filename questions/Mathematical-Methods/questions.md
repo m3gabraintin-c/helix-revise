@@ -6840,13 +6840,55 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 *Written answer*
 
+### Exam-style questions (mixed topics)
+
+**Q989.** A parabola, a line and a tangent
+<!-- id: vce-methods12-x1 -->
+*Multi-part question · 10 marks · Technology-free · Original question in the style of a Units 1 & 2 end-of-semester exam*
+
+Let \(f(x) = x^2 - 4x + 3\).
+
+**a.** Express \(f(x)\) in turning point form, and state the coordinates of the turning point. *(2 marks)*
+
+**b.** Find the \(x\)-intercepts of the graph of \(y = f(x)\). *(1 mark)*
+
+**c.** Find the equation of the tangent to the graph of \(y = f(x)\) at the point where \(x = 4\). *(2 marks)*
+
+**d.** Find the coordinates of the points where the line \(y = x - 1\) meets the graph of \(y = f(x)\). *(2 marks)*
+
+**e.** The graph of \(y = f(x)\) is translated 2 units to the left and 1 unit up. Find the rule of the image. *(2 marks)*
+
+**f.** Find the average rate of change of \(f\) between \(x = 0\) and \(x = 4\). *(1 mark)*
+
+**Q990.** Growing bacteria and contaminated dishes
+<!-- id: vce-methods12-x2 -->
+*Multi-part question · 12 marks · Technology-free · Original question in the style of a Units 1 & 2 end-of-semester exam*
+
+The number of bacteria in a culture \(t\) hours after an experiment starts is \(N(t) = 500 \times 2^{t/3}\).
+
+**a.** Find the number of bacteria at the start of the experiment. *(1 mark)*
+
+**b.** Find the number of bacteria after 6 hours. *(1 mark)*
+
+**c.** Find how long it takes for the number of bacteria to reach 8000. *(2 marks)*
+
+**d.** The rule can also be written as \(N(t) = 500e^{kt}\). Find the exact value of \(k\). *(2 marks)*
+
+A laboratory has 10 culture dishes. Seven are growing normally and three are contaminated. Two dishes are chosen at random, without replacement.
+
+**e.** Find the probability that both dishes are contaminated. *(2 marks)*
+
+**f.** Find the probability that exactly one of the dishes is contaminated. *(2 marks)*
+
+**g.** Given that at least one of the dishes is contaminated, find the probability that both are contaminated. *(2 marks)*
+
 ## VCE Units 3 & 4
 
 ### Polynomials & transformations
 
 #### Polynomial graphs and key features
 
-**Q989.** For the graph of y = (x − 2)²(x + 3), what happens at x = 2?
+**Q991.** For the graph of y = (x − 2)²(x + 3), what happens at x = 2?
 <!-- id: methods-1-1-1 -->
 
 - A. The graph touches the x-axis and turns
@@ -6854,7 +6896,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. The graph has a stationary point of inflection on the x-axis
 - D. The graph has a vertical asymptote
 
-**Q990.** What are the coordinates of the stationary point of inflection of y = (x + 1)³ − 8?
+**Q992.** What are the coordinates of the stationary point of inflection of y = (x + 1)³ − 8?
 <!-- id: methods-1-1-2 -->
 
 - A. (1, −8)
@@ -6862,7 +6904,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. (−1, 8)
 - D. (1, 8)
 
-**Q991.** What is the y-intercept of y = (x − 1)(x + 2)(x − 3)?
+**Q993.** What is the y-intercept of y = (x − 1)(x + 2)(x − 3)?
 <!-- id: methods-1-1-3 -->
 
 - A. −6
@@ -6870,12 +6912,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 6
 - D. −5
 
-**Q992.** Find the coordinates of the axis intercepts of y = x³ − x² − 6x.
+**Q994.** Find the coordinates of the axis intercepts of y = x³ − x² − 6x.
 <!-- id: methods-1-1-4 -->
 
 *Written answer*
 
-**Q993.** Which statement describes the end behaviour of y = −2x(x − 1)²(x + 4)?
+**Q995.** Which statement describes the end behaviour of y = −2x(x − 1)²(x + 4)?
 <!-- id: methods-1-1-5 -->
 
 - A. y → +∞ as x → ±∞
@@ -6883,7 +6925,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. y → −∞ as x → −∞ and y → +∞ as x → +∞
 - D. y → −∞ as x → ±∞
 
-**Q994.** Which describes the turning point of y = −(x − 3)⁴ + 2?
+**Q996.** Which describes the turning point of y = −(x − 3)⁴ + 2?
 <!-- id: methods-1-1-6 -->
 
 - A. A maximum turning point at (3, 2)
@@ -6891,7 +6933,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. A maximum turning point at (−3, 2)
 - D. A minimum turning point at (−3, 2)
 
-**Q995.** How many x-intercepts does the graph of y = x³ − 4x have?
+**Q997.** How many x-intercepts does the graph of y = x³ − 4x have?
 <!-- id: methods-1-1-7 -->
 
 - A. 1
@@ -6899,12 +6941,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 2
 - D. 0
 
-**Q996.** Find the coordinates and nature of the stationary points of y = x³ − 6x² + 9x + 1.
+**Q998.** Find the coordinates and nature of the stationary points of y = x³ − 6x² + 9x + 1.
 <!-- id: methods-1-1-8 -->
 
 *Written answer*
 
-**Q997.** A quartic graph touches the x-axis at x = −2, crosses it at x = 1 and x = 4, and has y-intercept 16. Which is its rule?
+**Q999.** A quartic graph touches the x-axis at x = −2, crosses it at x = 1 and x = 4, and has y-intercept 16. Which is its rule?
 <!-- id: methods-1-1-9 -->
 
 - A. y = (x − 2)²(x + 1)(x + 4)
@@ -6912,7 +6954,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. y = (x + 2)²(x − 1)(x − 4)
 - D. y = 2(x + 2)²(x − 1)(x − 4)
 
-**Q998.** Where is the local maximum of y = x³ − 3x?
+**Q1000.** Where is the local maximum of y = x³ − 3x?
 <!-- id: methods-1-1-10 -->
 
 - A. (1, −2)
@@ -6920,7 +6962,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. (−1, −2)
 - D. (−1, 2)
 
-**Q999.** What is the range of y = 2(x − 1)² − 5?
+**Q1001.** What is the range of y = 2(x − 1)² − 5?
 <!-- id: methods-1-1-11 -->
 
 - A. [−5, ∞)
@@ -6928,12 +6970,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. [1, ∞)
 - D. (−∞, −5]
 
-**Q1000.** A cubic has x-intercepts at x = −1, 2 and 4, and a y-intercept of 16. Find its rule.
+**Q1002.** A cubic has x-intercepts at x = −1, 2 and 4, and a y-intercept of 16. Find its rule.
 <!-- id: methods-1-1-12 -->
 
 *Written answer*
 
-**Q1001.** What is the solution set of x³ − 4x² ≥ 0?
+**Q1003.** What is the solution set of x³ − 4x² ≥ 0?
 <!-- id: methods-1-1-13 -->
 
 - A. [4, ∞)
@@ -6941,7 +6983,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. [0, 4]
 - D. (−∞, 0] ∪ [4, ∞)
 
-**Q1002.** A cubic of the form y = a(x − h)³ + k has a stationary point of inflection at (2, −1) and passes through (3, 1). Which is its rule?
+**Q1004.** A cubic of the form y = a(x − h)³ + k has a stationary point of inflection at (2, −1) and passes through (3, 1). Which is its rule?
 <!-- id: methods-1-1-14 -->
 
 - A. y = 2(x + 2)³ − 1
@@ -6949,7 +6991,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. y = 2(x − 2)³ − 1
 - D. y = 2(x − 2)³ + 1
 
-**Q1003.** How many real solutions does x⁴ − 5x² + 4 = 0 have?
+**Q1005.** How many real solutions does x⁴ − 5x² + 4 = 0 have?
 <!-- id: methods-1-1-15 -->
 
 - A. 2
@@ -6957,12 +6999,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 1
 - D. 4
 
-**Q1004.** Solve x⁴ − 13x² + 36 = 0 for x ∈ R.
+**Q1006.** Solve x⁴ − 13x² + 36 = 0 for x ∈ R.
 <!-- id: methods-1-1-16 -->
 
 *Written answer*
 
-**Q1005.** What is the average rate of change of f(x) = x³ between x = 1 and x = 3?
+**Q1007.** What is the average rate of change of f(x) = x³ between x = 1 and x = 3?
 <!-- id: methods-1-1-17 -->
 
 - A. 13
@@ -6970,7 +7012,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 12
 - D. 14
 
-**Q1006.** For what value of k does the graph of y = x² − 6x + k touch the x-axis exactly once?
+**Q1008.** For what value of k does the graph of y = x² − 6x + k touch the x-axis exactly once?
 <!-- id: methods-1-1-18 -->
 
 - A. 6
@@ -6978,7 +7020,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 36
 - D. −9
 
-**Q1007.** What are the coordinates of the turning point of y = x² + 4x + 1?
+**Q1009.** What are the coordinates of the turning point of y = x² + 4x + 1?
 <!-- id: methods-1-1-19 -->
 
 - A. (2, −3)
@@ -6986,12 +7028,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. (−2, −3)
 - D. (2, 13)
 
-**Q1008.** Find the values of k for which x³ − 3x + k = 0 has three distinct real solutions.
+**Q1010.** Find the values of k for which x³ − 3x + k = 0 has three distinct real solutions.
 <!-- id: methods-1-1-20 -->
 
 *Written answer*
 
-**Q1009.** Which statement about the graph of y = −x(x − 2)² is true?
+**Q1011.** Which statement about the graph of y = −x(x − 2)² is true?
 <!-- id: methods-1-1-21 -->
 
 - A. y > 0 for 0 < x < 2
@@ -6999,7 +7041,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. y → +∞ as x → +∞
 - D. y < 0 for all x > 0 except x = 2
 
-**Q1010.** What is the solution set of (x − 1)(x + 2)(x − 5) < 0?
+**Q1012.** What is the solution set of (x − 1)(x + 2)(x − 5) < 0?
 <!-- id: methods-1-1-22 -->
 
 - A. (−∞, −2) ∪ (1, 5)
@@ -7007,7 +7049,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. (−2, 5)
 - D. (1, 5)
 
-**Q1011.** What is the maximum number of turning points the graph of a degree 5 polynomial can have?
+**Q1013.** What is the maximum number of turning points the graph of a degree 5 polynomial can have?
 <!-- id: methods-1-1-23 -->
 
 - A. 5
@@ -7015,19 +7057,19 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 3
 - D. 6
 
-**Q1012.** Describe the behaviour of the graph of y = (x − 1)³(x + 2)² at each of its x-intercepts.
+**Q1014.** Describe the behaviour of the graph of y = (x − 1)³(x + 2)² at each of its x-intercepts.
 <!-- id: methods-1-1-24 -->
 
 *Written answer*
 
-**Q1013.** A Bendigo manufacturer makes open boxes from 30 cm × 20 cm sheets of card by cutting a square of side x cm from each corner and folding up the sides. Write the volume V in terms of x and state the domain.
+**Q1015.** A Bendigo manufacturer makes open boxes from 30 cm × 20 cm sheets of card by cutting a square of side x cm from each corner and folding up the sides. Write the volume V in terms of x and state the domain.
 <!-- id: methods-1-1-25 -->
 
 *Written answer*
 
 #### Factor and remainder theorems
 
-**Q1014.** What is the remainder when P(x) = x³ − 2x² + 3x − 5 is divided by x − 2?
+**Q1016.** What is the remainder when P(x) = x³ − 2x² + 3x − 5 is divided by x − 2?
 <!-- id: methods-1-2-1 -->
 
 - A. −27
@@ -7035,7 +7077,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 1
 - D. −1
 
-**Q1015.** Which of the following is a factor of x³ − 7x + 6?
+**Q1017.** Which of the following is a factor of x³ − 7x + 6?
 <!-- id: methods-1-2-2 -->
 
 - A. x + 1
@@ -7043,7 +7085,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. x + 2
 - D. x + 3
 
-**Q1016.** If x + 1 is a factor of 2x³ + kx² − 5x + 2, what is the value of k?
+**Q1018.** If x + 1 is a factor of 2x³ + kx² − 5x + 2, what is the value of k?
 <!-- id: methods-1-2-3 -->
 
 - A. −5
@@ -7051,12 +7093,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. −9
 - D. 1
 
-**Q1017.** Use the factor theorem to show that x − 2 is a factor of P(x) = x³ − 3x² − 6x + 16, and hence factorise P(x) and find all its roots.
+**Q1019.** Use the factor theorem to show that x − 2 is a factor of P(x) = x³ − 3x² − 6x + 16, and hence factorise P(x) and find all its roots.
 <!-- id: methods-1-2-4 -->
 
 *Written answer*
 
-**Q1018.** What is the remainder when 4x³ + x + 2 is divided by 2x − 1?
+**Q1020.** What is the remainder when 4x³ + x + 2 is divided by 2x − 1?
 <!-- id: methods-1-2-5 -->
 
 - A. 1
@@ -7064,7 +7106,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 7
 - D. 36
 
-**Q1019.** Which is the full factorisation of x³ + 2x² − 5x − 6?
+**Q1021.** Which is the full factorisation of x³ + 2x² − 5x − 6?
 <!-- id: methods-1-2-6 -->
 
 - A. (x − 1)(x + 2)(x − 3)
@@ -7072,7 +7114,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. (x + 1)(x − 2)(x + 3)
 - D. (x − 1)(x − 2)(x + 3)
 
-**Q1020.** P(x) = x³ + ax + b is divisible by x − 1 and leaves a remainder of 6 when divided by x + 1. Find a and b.
+**Q1022.** P(x) = x³ + ax + b is divisible by x − 1 and leaves a remainder of 6 when divided by x + 1. Find a and b.
 <!-- id: methods-1-2-7 -->
 
 - A. a = 4, b = −5
@@ -7080,12 +7122,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. a = −4, b = −3
 - D. a = −4, b = 3
 
-**Q1021.** Solve 2x³ − x² − 13x − 6 = 0.
+**Q1023.** Solve 2x³ − x² − 13x − 6 = 0.
 <!-- id: methods-1-2-8 -->
 
 *Written answer*
 
-**Q1022.** What is the quotient when x³ − 8 is divided by x − 2?
+**Q1024.** What is the quotient when x³ − 8 is divided by x − 2?
 <!-- id: methods-1-2-9 -->
 
 - A. x² + 2x + 4
@@ -7093,7 +7135,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. x² + 4
 - D. x² + 4x + 4
 
-**Q1023.** Which statement correctly expresses the division of 2x³ + 3x² − x + 5 by x + 1?
+**Q1025.** Which statement correctly expresses the division of 2x³ + 3x² − x + 5 by x + 1?
 <!-- id: methods-1-2-10 -->
 
 - A. 2x³ + 3x² − x + 5 = (x + 1)(2x² + x − 2) − 7
@@ -7101,7 +7143,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 2x³ + 3x² − x + 5 = (x + 1)(2x² + 5x + 4) + 1
 - D. 2x³ + 3x² − x + 5 = (x + 1)(2x² − x + 2) + 3
 
-**Q1024.** How many real solutions does x³ − x² + x − 1 = 0 have?
+**Q1026.** How many real solutions does x³ − x² + x − 1 = 0 have?
 <!-- id: methods-1-2-11 -->
 
 - A. 3
@@ -7109,12 +7151,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 1
 - D. 0
 
-**Q1025.** P(x) = x³ + ax² + bx + 6. Given x − 1 is a factor of P(x) and the remainder when P(x) is divided by x − 2 is 12, find a and b.
+**Q1027.** P(x) = x³ + ax² + bx + 6. Given x − 1 is a factor of P(x) and the remainder when P(x) is divided by x − 2 is 12, find a and b.
 <!-- id: methods-1-2-12 -->
 
 *Written answer*
 
-**Q1026.** Which of the following could NOT be a rational root of 2x³ − 3x² + 5x − 6 = 0?
+**Q1028.** Which of the following could NOT be a rational root of 2x³ − 3x² + 5x − 6 = 0?
 <!-- id: methods-1-2-13 -->
 
 - A. 3/2
@@ -7122,7 +7164,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 6
 - D. 1/3
 
-**Q1027.** If P(a) = 0 for a polynomial P(x), which statement must be true?
+**Q1029.** If P(a) = 0 for a polynomial P(x), which statement must be true?
 <!-- id: methods-1-2-14 -->
 
 - A. (x − a) is a factor of P(x)
@@ -7130,7 +7172,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. P(x) leaves a remainder of a when divided by x
 - D. P(0) = a
 
-**Q1028.** For what value of a does x³ − ax² + 4 leave a remainder of 0 when divided by x − 2?
+**Q1030.** For what value of a does x³ − ax² + 4 leave a remainder of 0 when divided by x − 2?
 <!-- id: methods-1-2-15 -->
 
 - A. −3
@@ -7138,12 +7180,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 1
 - D. 4
 
-**Q1029.** Find the remainder when 3x⁴ − 2x³ + x − 7 is divided by x + 2.
+**Q1031.** Find the remainder when 3x⁴ − 2x³ + x − 7 is divided by x + 2.
 <!-- id: methods-1-2-16 -->
 
 *Written answer*
 
-**Q1030.** Given that x − 3 is a factor of x³ − 4x² + x + 6, what is the solution set of x³ − 4x² + x + 6 = 0?
+**Q1032.** Given that x − 3 is a factor of x³ − 4x² + x + 6, what is the solution set of x³ − 4x² + x + 6 = 0?
 <!-- id: methods-1-2-17 -->
 
 - A. {1, −2, 3}
@@ -7151,7 +7193,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. {−1, 2, 3}
 - D. {1, 2, 3}
 
-**Q1031.** What is the remainder when x¹⁰⁰ − 1 is divided by x + 1?
+**Q1033.** What is the remainder when x¹⁰⁰ − 1 is divided by x + 1?
 <!-- id: methods-1-2-18 -->
 
 - A. −2
@@ -7159,7 +7201,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 1
 - D. 0
 
-**Q1032.** When a polynomial P(x) is divided by x − 3, the remainder is 5. What is P(3)?
+**Q1034.** When a polynomial P(x) is divided by x − 3, the remainder is 5. What is P(3)?
 <!-- id: methods-1-2-19 -->
 
 - A. 5
@@ -7167,12 +7209,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. −5
 - D. 3
 
-**Q1033.** Divide x³ + 4x² − 3x + 1 by x − 1, stating the quotient and remainder.
+**Q1035.** Divide x³ + 4x² − 3x + 1 by x − 1, stating the quotient and remainder.
 <!-- id: methods-1-2-20 -->
 
 *Written answer*
 
-**Q1034.** Which is the factorisation of x³ + 27?
+**Q1036.** Which is the factorisation of x³ + 27?
 <!-- id: methods-1-2-21 -->
 
 - A. (x + 3)(x² + 3x + 9)
@@ -7180,7 +7222,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. (x − 3)(x² + 3x + 9)
 - D. (x + 3)³
 
-**Q1035.** Which is the full factorisation of x³ − 3x² − 4x + 12?
+**Q1037.** Which is the full factorisation of x³ − 3x² − 4x + 12?
 <!-- id: methods-1-2-22 -->
 
 - A. (x + 3)(x − 2)(x + 2)
@@ -7188,7 +7230,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. (x − 3)(x − 2)(x + 2)
 - D. (x − 3)(x² + 4)
 
-**Q1036.** For every real value of k, which is always a factor of P(x) = x³ + kx² + kx + 1?
+**Q1038.** For every real value of k, which is always a factor of P(x) = x³ + kx² + kx + 1?
 <!-- id: methods-1-2-23 -->
 
 - A. x − 1
@@ -7196,19 +7238,31 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. x − k
 - D. x + 1
 
-**Q1037.** Find m and n such that x² − 1 is a factor of x³ + mx² + nx + 2.
+**Q1039.** Find m and n such that x² − 1 is a factor of x³ + mx² + nx + 2.
 <!-- id: methods-1-2-24 -->
 
 *Written answer*
 
-**Q1038.** Explain why x³ + x + 1 = 0 has no rational solutions.
+**Q1040.** Explain why x³ + x + 1 = 0 has no rational solutions.
 <!-- id: methods-1-2-25 -->
 
 *Written answer*
 
+**Q1041.** Finding unknown coefficients
+<!-- id: methods-1-2-m1 -->
+*Multi-part question · 5 marks · Technology-free · Original SAC-style question*
+
+Let \(p(x) = x^3 + ax^2 - 4x + b\), where \(a\) and \(b\) are real constants. When \(p(x)\) is divided by \(x - 1\) the remainder is \(-6\), and \(x + 2\) is a factor of \(p(x)\).
+
+**a.** Show that \(a = 1\) and \(b = -4\). *(2 marks)*
+
+**b.** Hence express \(p(x)\) as a product of linear factors. *(2 marks)*
+
+**c.** Hence solve \(p(x) \le 0\). *(1 mark)*
+
 #### Dilations, reflections and translations
 
-**Q1039.** The graph of y = x² is translated 3 units to the right and 2 units up. What is the rule of the image?
+**Q1042.** The graph of y = x² is translated 3 units to the right and 2 units up. What is the rule of the image?
 <!-- id: methods-1-3-1 -->
 
 - A. y = (x − 3)² + 2
@@ -7216,7 +7270,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. y = (x − 3)² − 2
 - D. y = (x − 2)² + 3
 
-**Q1040.** Which is the rule of the image of y = f(x) after a dilation by a factor of 2 from the y-axis?
+**Q1043.** Which is the rule of the image of y = f(x) after a dilation by a factor of 2 from the y-axis?
 <!-- id: methods-1-3-2 -->
 
 - A. y = f(2x)
@@ -7224,7 +7278,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. y = 2f(x)
 - D. y = ½f(x)
 
-**Q1041.** The graph of y = √x is dilated by a factor of 3 from the x-axis. What is the rule of the image?
+**Q1044.** The graph of y = √x is dilated by a factor of 3 from the x-axis. What is the rule of the image?
 <!-- id: methods-1-3-3 -->
 
 - A. y = √(3x)
@@ -7232,12 +7286,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. y = 3√x
 - D. y = (1/3)√x
 
-**Q1042.** Describe a sequence of transformations that maps the graph of y = √x onto the graph of y = 3√(2 − x).
+**Q1045.** Describe a sequence of transformations that maps the graph of y = √x onto the graph of y = 3√(2 − x).
 <!-- id: methods-1-3-4 -->
 
 *Written answer*
 
-**Q1043.** What is the rule of the image of y = e^x after a reflection in the y-axis?
+**Q1046.** What is the rule of the image of y = e^x after a reflection in the y-axis?
 <!-- id: methods-1-3-5 -->
 
 - A. y = −e^x
@@ -7245,7 +7299,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. y = log_e(x)
 - D. y = e^(−x)
 
-**Q1044.** The graph of y = 1/x is reflected in the x-axis and then translated 2 units to the left. What is the rule of the image?
+**Q1047.** The graph of y = 1/x is reflected in the x-axis and then translated 2 units to the left. What is the rule of the image?
 <!-- id: methods-1-3-6 -->
 
 - A. y = −1/(x + 2)
@@ -7253,7 +7307,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. y = −1/x + 2
 - D. y = 1/(x + 2)
 
-**Q1045.** What is the rule of the image of y = x³ after a dilation by a factor of ½ from the y-axis?
+**Q1048.** What is the rule of the image of y = x³ after a dilation by a factor of ½ from the y-axis?
 <!-- id: methods-1-3-7 -->
 
 - A. y = ½x³
@@ -7261,12 +7315,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. y = (x/2)³
 - D. y = 2x³
 
-**Q1046.** The graph of y = x³ is dilated by a factor of 2 from the y-axis, then translated 1 unit left and 4 units down. Find the rule of the image.
+**Q1049.** The graph of y = x³ is dilated by a factor of 2 from the y-axis, then translated 1 unit left and 4 units down. Find the rule of the image.
 <!-- id: methods-1-3-8 -->
 
 *Written answer*
 
-**Q1047.** The graph of y = x² is translated 1 unit up and then dilated by a factor of 2 from the x-axis. What is the rule of the image?
+**Q1050.** The graph of y = x² is translated 1 unit up and then dilated by a factor of 2 from the x-axis. What is the rule of the image?
 <!-- id: methods-1-3-9 -->
 
 - A. y = 2x² + 1
@@ -7274,7 +7328,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. y = 2x² + 2
 - D. y = 2(x + 1)²
 
-**Q1048.** Which sequence of transformations maps y = x² onto y = −2(x + 1)² + 3?
+**Q1051.** Which sequence of transformations maps y = x² onto y = −2(x + 1)² + 3?
 <!-- id: methods-1-3-10 -->
 
 - A. A dilation by factor 2 from the x-axis, a reflection in the x-axis, then a translation 1 unit right and 3 units up
@@ -7282,7 +7336,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. A dilation by factor 2 from the y-axis, a reflection in the x-axis, then a translation 1 unit left and 3 units up
 - D. A dilation by factor 2 from the x-axis, a reflection in the x-axis, then a translation 1 unit left and 3 units up
 
-**Q1049.** The graph of y = f(x) has a turning point at (2, 5). Where is the corresponding turning point of y = f(x − 1) − 3?
+**Q1052.** The graph of y = f(x) has a turning point at (2, 5). Where is the corresponding turning point of y = f(x − 1) − 3?
 <!-- id: methods-1-3-11 -->
 
 - A. (3, 2)
@@ -7290,12 +7344,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. (3, 8)
 - D. (1, 8)
 
-**Q1050.** The graph of y = x² is reflected in the x-axis, then translated 3 units up, then dilated by a factor of 2 from the x-axis. Find the rule of the image.
+**Q1053.** The graph of y = x² is reflected in the x-axis, then translated 3 units up, then dilated by a factor of 2 from the x-axis. Find the rule of the image.
 <!-- id: methods-1-3-12 -->
 
 *Written answer*
 
-**Q1051.** The graph of y = f(x) has an x-intercept at (4, 0). What is the corresponding x-intercept of y = f(2x)?
+**Q1054.** The graph of y = f(x) has an x-intercept at (4, 0). What is the corresponding x-intercept of y = f(2x)?
 <!-- id: methods-1-3-13 -->
 
 - A. (8, 0)
@@ -7303,7 +7357,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. (4, 0)
 - D. (−4, 0)
 
-**Q1052.** Let f(x) = √(x − 1). What is the domain of y = f(−x)?
+**Q1055.** Let f(x) = √(x − 1). What is the domain of y = f(−x)?
 <!-- id: methods-1-3-14 -->
 
 - A. [1, ∞)
@@ -7311,7 +7365,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. (−∞, −1]
 - D. [−1, ∞)
 
-**Q1053.** The range of y = f(x) is [0, 4]. What is the range of y = −3f(x) + 1?
+**Q1056.** The range of y = f(x) is [0, 4]. What is the range of y = −3f(x) + 1?
 <!-- id: methods-1-3-15 -->
 
 - A. [1, 13]
@@ -7319,12 +7373,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. [−11, −1]
 - D. [−11, 1]
 
-**Q1054.** The graph of y = f(x) has a turning point at (−1, 4) and a y-intercept at (0, 3). Find the corresponding points on the graph of y = 2f(x + 3) − 1.
+**Q1057.** The graph of y = f(x) has a turning point at (−1, 4) and a y-intercept at (0, 3). Find the corresponding points on the graph of y = 2f(x + 3) − 1.
 <!-- id: methods-1-3-16 -->
 
 *Written answer*
 
-**Q1055.** What are the equations of the asymptotes of y = 2/(x − 3) + 1?
+**Q1058.** What are the equations of the asymptotes of y = 2/(x − 3) + 1?
 <!-- id: methods-1-3-17 -->
 
 - A. x = 3 and y = 1
@@ -7332,7 +7386,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. x = 3 and y = 2
 - D. x = 1 and y = 3
 
-**Q1056.** What is the equation of the vertical asymptote of y = log_e(x + 2) − 1?
+**Q1059.** What is the equation of the vertical asymptote of y = log_e(x + 2) − 1?
 <!-- id: methods-1-3-18 -->
 
 - A. x = 2
@@ -7340,7 +7394,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. x = −1
 - D. x = 0
 
-**Q1057.** Which transformation maps y = sin(x) onto y = sin(2x)?
+**Q1060.** Which transformation maps y = sin(x) onto y = sin(2x)?
 <!-- id: methods-1-3-19 -->
 
 - A. A dilation by a factor of 2 from the y-axis
@@ -7348,12 +7402,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. A dilation by a factor of ½ from the y-axis
 - D. A dilation by a factor of ½ from the x-axis
 
-**Q1058.** Show that the graph of y = (2x)² can be obtained from y = x² by two different single dilations, and name them.
+**Q1061.** Show that the graph of y = (2x)² can be obtained from y = x² by two different single dilations, and name them.
 <!-- id: methods-1-3-20 -->
 
 *Written answer*
 
-**Q1059.** Dilating y = x² by a factor of 3 from the y-axis gives the same graph as dilating y = x² by what factor from the x-axis?
+**Q1062.** Dilating y = x² by a factor of 3 from the y-axis gives the same graph as dilating y = x² by what factor from the x-axis?
 <!-- id: methods-1-3-21 -->
 
 - A. 9
@@ -7361,7 +7415,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 3
 - D. 1/9
 
-**Q1060.** What is the range of y = 1/(x − 1)² − 2?
+**Q1063.** What is the range of y = 1/(x − 1)² − 2?
 <!-- id: methods-1-3-22 -->
 
 - A. (−2, ∞)
@@ -7369,7 +7423,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. (−∞, −2)
 - D. R \ {−2}
 
-**Q1061.** The graph of y = e^x is reflected in the x-axis and then translated 4 units up. What is the range of the image?
+**Q1064.** The graph of y = e^x is reflected in the x-axis and then translated 4 units up. What is the range of the image?
 <!-- id: methods-1-3-23 -->
 
 - A. (4, ∞)
@@ -7377,19 +7431,19 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. (−∞, −4)
 - D. (−4, ∞)
 
-**Q1062.** Describe the transformations that map y = 1/x onto y = 3/(x − 2) + 1, and state the asymptotes of the image.
+**Q1065.** Describe the transformations that map y = 1/x onto y = 3/(x − 2) + 1, and state the asymptotes of the image.
 <!-- id: methods-1-3-24 -->
 
 *Written answer*
 
-**Q1063.** The graph of y = log_e(x) is dilated by a factor of 3 from the y-axis and then reflected in the x-axis. Find the rule of the image and state its domain.
+**Q1066.** The graph of y = log_e(x) is dilated by a factor of 3 from the y-axis and then reflected in the x-axis. Find the rule of the image and state its domain.
 <!-- id: methods-1-3-25 -->
 
 *Written answer*
 
 #### Transformation mapping notation
 
-**Q1064.** Find the image of y = x² under the transformation T(x, y) = (x + 2, 3y).
+**Q1067.** Find the image of y = x² under the transformation T(x, y) = (x + 2, 3y).
 <!-- id: methods-1-4-1 -->
 
 - A. y = 3(x + 2)²
@@ -7397,7 +7451,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. y = 3(x − 2)²
 - D. y = 3x² + 2
 
-**Q1065.** What is the image of the point (3, 4) under T(x, y) = (2x, y − 1)?
+**Q1068.** What is the image of the point (3, 4) under T(x, y) = (2x, y − 1)?
 <!-- id: methods-1-4-2 -->
 
 - A. (1.5, 3)
@@ -7405,7 +7459,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. (5, 3)
 - D. (6, 3)
 
-**Q1066.** Which mapping represents a reflection in the x-axis?
+**Q1069.** Which mapping represents a reflection in the x-axis?
 <!-- id: methods-1-4-3 -->
 
 - A. (x, y) → (x, −y)
@@ -7413,12 +7467,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. (x, y) → (−x, −y)
 - D. (x, y) → (y, x)
 
-**Q1067.** Find the rule of the image of y = x² under T(x, y) = (x/2 − 1, 3y + 2).
+**Q1070.** Find the rule of the image of y = x² under T(x, y) = (x/2 − 1, 3y + 2).
 <!-- id: methods-1-4-4 -->
 
 *Written answer*
 
-**Q1068.** The transformation T(x, y) = (x/2, y) is which of the following?
+**Q1071.** The transformation T(x, y) = (x/2, y) is which of the following?
 <!-- id: methods-1-4-5 -->
 
 - A. A dilation by a factor of 2 from the y-axis
@@ -7426,7 +7480,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. A dilation by a factor of ½ from the x-axis
 - D. A dilation by a factor of 2 from the x-axis
 
-**Q1069.** Find the image of y = √x under T(x, y) = (−x, 2y + 1).
+**Q1072.** Find the image of y = √x under T(x, y) = (−x, 2y + 1).
 <!-- id: methods-1-4-6 -->
 
 - A. y = −2√x + 1
@@ -7434,7 +7488,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. y = 2√(−x) + 1
 - D. y = √(−2x) + 1
 
-**Q1070.** Which transformation maps y = x² onto y = (x − 1)² + 5?
+**Q1073.** Which transformation maps y = x² onto y = (x − 1)² + 5?
 <!-- id: methods-1-4-7 -->
 
 - A. T(x, y) = (x − 1, y + 5)
@@ -7442,12 +7496,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. T(x, y) = (x − 1, y − 5)
 - D. T(x, y) = (x + 1, y + 5)
 
-**Q1071.** Find a transformation T, written as T(x, y) = (…, …), that maps y = √x onto y = 1 − √(x + 3).
+**Q1074.** Find a transformation T, written as T(x, y) = (…, …), that maps y = √x onto y = 1 − √(x + 3).
 <!-- id: methods-1-4-8 -->
 
 *Written answer*
 
-**Q1072.** Under T(x, y) = (3x − 1, −y + 2), which point maps to (5, −4)?
+**Q1075.** Under T(x, y) = (3x − 1, −y + 2), which point maps to (5, −4)?
 <!-- id: methods-1-4-9 -->
 
 - A. (2, 6)
@@ -7455,7 +7509,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. (2, −2)
 - D. (4/3, 6)
 
-**Q1073.** The transformation [x'; y'] = [[2, 0], [0, −1]][x; y] + [0; 3] (rows separated by semicolons) is equivalent to which mapping?
+**Q1076.** The transformation [x'; y'] = [[2, 0], [0, −1]][x; y] + [0; 3] (rows separated by semicolons) is equivalent to which mapping?
 <!-- id: methods-1-4-10 -->
 
 - A. T(x, y) = (2x + 3, −y)
@@ -7463,7 +7517,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. T(x, y) = (−x, 2y + 3)
 - D. T(x, y) = (2x, −(y + 3))
 
-**Q1074.** Find the image of y = e^x under T(x, y) = (x − 3, 2y).
+**Q1077.** Find the image of y = e^x under T(x, y) = (x − 3, 2y).
 <!-- id: methods-1-4-11 -->
 
 - A. y = 2e^(x − 3)
@@ -7471,12 +7525,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. y = 2e^(x + 3)
 - D. y = e^(2x + 3)
 
-**Q1075.** Find a transformation that maps y = 2(x + 1)² − 3 back onto y = x².
+**Q1078.** Find a transformation that maps y = 2(x + 1)² − 3 back onto y = x².
 <!-- id: methods-1-4-12 -->
 
 *Written answer*
 
-**Q1076.** Which transformation maps y = x³ onto y = 8x³?
+**Q1079.** Which transformation maps y = x³ onto y = 8x³?
 <!-- id: methods-1-4-13 -->
 
 - A. T(x, y) = (2x, y)
@@ -7484,7 +7538,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. T(x, y) = (8x, y)
 - D. T(x, y) = (x/2, y)
 
-**Q1077.** Find the image of the line y = 2x + 1 under T(x, y) = (x, 3y).
+**Q1080.** Find the image of the line y = 2x + 1 under T(x, y) = (x, 3y).
 <!-- id: methods-1-4-14 -->
 
 - A. y = 6x + 3
@@ -7492,7 +7546,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. y = (2/3)x + 1/3
 - D. y = 6x + 1
 
-**Q1078.** What is the domain of the image of y = log_e(x) under T(x, y) = (−x, y + 4)?
+**Q1081.** What is the domain of the image of y = log_e(x) under T(x, y) = (−x, y + 4)?
 <!-- id: methods-1-4-15 -->
 
 - A. (0, ∞)
@@ -7500,12 +7554,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. (−4, ∞)
 - D. (−∞, 4)
 
-**Q1079.** A transformation is a dilation by a factor of 2 from the y-axis, then a reflection in the x-axis, then a translation 3 units left. Write it in mapping notation and in matrix form.
+**Q1082.** A transformation is a dilation by a factor of 2 from the y-axis, then a reflection in the x-axis, then a translation 3 units left. Write it in mapping notation and in matrix form.
 <!-- id: methods-1-4-16 -->
 
 *Written answer*
 
-**Q1080.** The point (−1, 2) is a turning point of y = f(x). What is the corresponding turning point after T(x, y) = (2x + 1, y − 3)?
+**Q1083.** The point (−1, 2) is a turning point of y = f(x). What is the corresponding turning point after T(x, y) = (2x + 1, y − 3)?
 <!-- id: methods-1-4-17 -->
 
 - A. (−1, 5)
@@ -7513,7 +7567,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. (−1, −1)
 - D. (−3, −1)
 
-**Q1081.** What is the inverse of the transformation T(x, y) = (2x + 4, y − 1)?
+**Q1084.** What is the inverse of the transformation T(x, y) = (2x + 4, y − 1)?
 <!-- id: methods-1-4-18 -->
 
 - A. T⁻¹(x, y) = ((x + 4)/2, y + 1)
@@ -7521,7 +7575,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. T⁻¹(x, y) = ((x − 4)/2, y − 1)
 - D. T⁻¹(x, y) = ((x − 4)/2, y + 1)
 
-**Q1082.** Find the image of y = 1/x under T(x, y) = (x, −2y).
+**Q1085.** Find the image of y = 1/x under T(x, y) = (x, −2y).
 <!-- id: methods-1-4-19 -->
 
 - A. y = −2/x
@@ -7529,12 +7583,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. y = 2/x
 - D. y = 1/(2x)
 
-**Q1083.** Find the rule and the equation of the horizontal asymptote of the image of y = e^x under T(x, y) = (2x, y + 1).
+**Q1086.** Find the rule and the equation of the horizontal asymptote of the image of y = e^x under T(x, y) = (2x, y + 1).
 <!-- id: methods-1-4-20 -->
 
 *Written answer*
 
-**Q1084.** Which mapping takes the graph of y = f(x) onto the graph of y = f(x + 5) − 2?
+**Q1087.** Which mapping takes the graph of y = f(x) onto the graph of y = f(x + 5) − 2?
 <!-- id: methods-1-4-21 -->
 
 - A. (x, y) → (x + 5, y − 2)
@@ -7542,7 +7596,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. (x, y) → (x − 5, y + 2)
 - D. (x, y) → (x + 5, y + 2)
 
-**Q1085.** What is the period of the image of y = sin(x) under T(x, y) = (3x, y)?
+**Q1088.** What is the period of the image of y = sin(x) under T(x, y) = (3x, y)?
 <!-- id: methods-1-4-22 -->
 
 - A. 2π/3
@@ -7550,7 +7604,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 6π
 - D. 3π
 
-**Q1086.** What are the asymptotes of the image of y = 1/x under T(x, y) = (x + 1, 2y − 3)?
+**Q1089.** What are the asymptotes of the image of y = 1/x under T(x, y) = (x + 1, 2y − 3)?
 <!-- id: methods-1-4-23 -->
 
 - A. x = −1 and y = −3
@@ -7558,12 +7612,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. x = −1 and y = 3
 - D. x = 1 and y = −3
 
-**Q1087.** Compare the images of y = f(x) under T₁(x, y) = (2x + 2, y) and T₂(x, y) = (2(x + 2), y).
+**Q1090.** Compare the images of y = f(x) under T₁(x, y) = (2x + 2, y) and T₂(x, y) = (2(x + 2), y).
 <!-- id: methods-1-4-24 -->
 
 *Written answer*
 
-**Q1088.** Find values of a, b, c and d such that T(x, y) = (ax + b, cy + d) maps y = x³ onto y = 1 − (2x − 4)³.
+**Q1091.** Find values of a, b, c and d such that T(x, y) = (ax + b, cy + d) maps y = x³ onto y = 1 − (2x − 4)³.
 <!-- id: methods-1-4-25 -->
 
 *Written answer*
@@ -7572,7 +7626,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 #### Exponential and logarithmic graphs
 
-**Q1089.** What is the range of f: R → R, f(x) = 2e^(3x) − 5?
+**Q1092.** What is the range of f: R → R, f(x) = 2e^(3x) − 5?
 <!-- id: methods-2-1-1 -->
 
 - A. [−5, ∞)
@@ -7580,7 +7634,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. (−∞, −5)
 - D. R
 
-**Q1090.** What is the equation of the horizontal asymptote of y = 3 − 4e^(−x)?
+**Q1093.** What is the equation of the horizontal asymptote of y = 3 − 4e^(−x)?
 <!-- id: methods-2-1-2 -->
 
 - A. y = 3
@@ -7588,7 +7642,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. y = 0
 - D. y = −3
 
-**Q1091.** What is the maximal domain of f(x) = log_e(2x − 6)?
+**Q1094.** What is the maximal domain of f(x) = log_e(2x − 6)?
 <!-- id: methods-2-1-3 -->
 
 - A. (3, ∞)
@@ -7596,12 +7650,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. [3, ∞)
 - D. (6, ∞)
 
-**Q1092.** Find the rule and domain of the inverse of f: R → R, f(x) = 3e^(x/2) − 1.
+**Q1095.** Find the rule and domain of the inverse of f: R → R, f(x) = 3e^(x/2) − 1.
 <!-- id: methods-2-1-4 -->
 
 *Written answer*
 
-**Q1093.** What is the equation of the vertical asymptote of y = log_e(x + 4) − 2?
+**Q1096.** What is the equation of the vertical asymptote of y = log_e(x + 4) − 2?
 <!-- id: methods-2-1-5 -->
 
 - A. x = 4
@@ -7609,7 +7663,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. x = −2
 - D. y = −2
 
-**Q1094.** Find the inverse of f: R → R, f(x) = e^(2x) + 1.
+**Q1097.** Find the inverse of f: R → R, f(x) = e^(2x) + 1.
 <!-- id: methods-2-1-6 -->
 
 - A. f⁻¹(x) = ½log_e(x) − 1, x > 0
@@ -7617,12 +7671,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. f⁻¹(x) = 2log_e(x − 1), x > 1
 - D. f⁻¹(x) = log_e(2x − 2), x > 1
 
-**Q1095.** For y = 2 − e^x, state the equation of the asymptote, the axis intercepts and the range.
+**Q1098.** For y = 2 − e^x, state the equation of the asymptote, the axis intercepts and the range.
 <!-- id: methods-2-1-7 -->
 
 *Written answer*
 
-**Q1096.** Find the inverse of f: (2, ∞) → R, f(x) = log_e(x − 2) + 3.
+**Q1099.** Find the inverse of f: (2, ∞) → R, f(x) = log_e(x − 2) + 3.
 <!-- id: methods-2-1-8 -->
 
 - A. f⁻¹(x) = e^(x + 3) − 2
@@ -7630,7 +7684,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. f⁻¹(x) = e^x − 1
 - D. f⁻¹(x) = e^(x − 3) + 2
 
-**Q1097.** What are the coordinates of the y-intercept of y = 3e^(2x) − 5?
+**Q1100.** What are the coordinates of the y-intercept of y = 3e^(2x) − 5?
 <!-- id: methods-2-1-9 -->
 
 - A. (0, −2)
@@ -7638,7 +7692,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. (0, −8)
 - D. (0, 3)
 
-**Q1098.** Find the x-intercept of y = log_e(x) + 2.
+**Q1101.** Find the x-intercept of y = log_e(x) + 2.
 <!-- id: methods-2-1-10 -->
 
 - A. x = −2
@@ -7646,12 +7700,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. x = e^(−2)
 - D. x = e²
 
-**Q1099.** For g: (1, ∞) → R, g(x) = log_e(x − 1) + 1, find the x-intercept and the asymptote, and explain why there is no y-intercept.
+**Q1102.** For g: (1, ∞) → R, g(x) = log_e(x − 1) + 1, find the x-intercept and the asymptote, and explain why there is no y-intercept.
 <!-- id: methods-2-1-11 -->
 
 *Written answer*
 
-**Q1100.** Find the x-intercept of y = 2e^x − 6.
+**Q1103.** Find the x-intercept of y = 2e^x − 6.
 <!-- id: methods-2-1-12 -->
 
 - A. x = log_e(2)
@@ -7659,7 +7713,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. x = log_e(3)
 - D. x = 3
 
-**Q1101.** The graph of y = e^x is reflected in the y-axis and then translated 2 units up. The rule of the image is
+**Q1104.** The graph of y = e^x is reflected in the y-axis and then translated 2 units up. The rule of the image is
 <!-- id: methods-2-1-13 -->
 
 - A. y = −e^x − 2
@@ -7667,12 +7721,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. y = −e^x + 2
 - D. y = e^(−x) + 2
 
-**Q1102.** A car's value is modelled by V = 32 000e^(−0.15t) dollars, t years after purchase. Find, correct to two decimal places, how long it takes for the value to halve.
+**Q1105.** A car's value is modelled by V = 32 000e^(−0.15t) dollars, t years after purchase. Find, correct to two decimal places, how long it takes for the value to halve.
 <!-- id: methods-2-1-14 -->
 
 *Written answer*
 
-**Q1103.** The graph of y = log_e(x) is dilated by a factor of 3 from the y-axis. The rule of the image is
+**Q1106.** The graph of y = log_e(x) is dilated by a factor of 3 from the y-axis. The rule of the image is
 <!-- id: methods-2-1-15 -->
 
 - A. y = (1/3)log_e(x)
@@ -7680,7 +7734,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. y = log_e(3x)
 - D. y = 3log_e(x)
 
-**Q1104.** What is the range of f: [0, 2] → R, f(x) = e^x − 1?
+**Q1107.** What is the range of f: [0, 2] → R, f(x) = e^x − 1?
 <!-- id: methods-2-1-16 -->
 
 - A. [1, e²]
@@ -7688,7 +7742,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. [0, e²]
 - D. [0, e² − 1]
 
-**Q1105.** A bacteria population is modelled by N(t) = 500e^(0.2t), where t is in hours. How long does it take the population to reach 2000?
+**Q1108.** A bacteria population is modelled by N(t) = 500e^(0.2t), where t is in hours. How long does it take the population to reach 2000?
 <!-- id: methods-2-1-17 -->
 
 - A. 0.2log_e(4) hours
@@ -7696,12 +7750,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 5log_e(4) hours
 - D. 20 hours
 
-**Q1106.** Describe a sequence of transformations that maps the graph of y = e^x onto the graph of y = 2e^(x − 1) + 3.
+**Q1109.** Describe a sequence of transformations that maps the graph of y = e^x onto the graph of y = 2e^(x − 1) + 3.
 <!-- id: methods-2-1-18 -->
 
 *Written answer*
 
-**Q1107.** A cup of tea cools according to T = 20 + 70e^(−0.05t) °C, where t is in minutes. What temperature does the tea approach in the long term?
+**Q1110.** A cup of tea cools according to T = 20 + 70e^(−0.05t) °C, where t is in minutes. What temperature does the tea approach in the long term?
 <!-- id: methods-2-1-19 -->
 
 - A. 70°C
@@ -7709,7 +7763,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 20°C
 - D. 0°C
 
-**Q1108.** A radioactive mass is modelled by M = 80e^(−kt) grams, t in years. If half the mass remains after 10 years, the value of k is
+**Q1111.** A radioactive mass is modelled by M = 80e^(−kt) grams, t in years. If half the mass remains after 10 years, the value of k is
 <!-- id: methods-2-1-20 -->
 
 - A. 1/20
@@ -7717,12 +7771,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 10log_e(2)
 - D. log_e(10)/2
 
-**Q1109.** The graph of y = a log_e(x) + b passes through (1, 4) and (e, 10). Find a and b.
+**Q1112.** The graph of y = a log_e(x) + b passes through (1, 4) and (e, 10). Find a and b.
 <!-- id: methods-2-1-21 -->
 
 *Written answer*
 
-**Q1110.** The graph of y = ae^(bx) passes through (0, 3) and (1, 3e²). The values of a and b are
+**Q1113.** The graph of y = ae^(bx) passes through (0, 3) and (1, 3e²). The values of a and b are
 <!-- id: methods-2-1-22 -->
 
 - A. a = 3, b = 2
@@ -7730,7 +7784,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. a = 1, b = 3
 - D. a = 3e², b = 1
 
-**Q1111.** The graphs of y = e^x and y = log_e(x) are reflections of each other in the line
+**Q1114.** The graphs of y = e^x and y = log_e(x) are reflections of each other in the line
 <!-- id: methods-2-1-23 -->
 
 - A. y = x
@@ -7738,7 +7792,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. x = 0 (the y-axis)
 - D. y = −x
 
-**Q1112.** What is the maximal domain of f(x) = log_e(4 − x²)?
+**Q1115.** What is the maximal domain of f(x) = log_e(4 − x²)?
 <!-- id: methods-2-1-24 -->
 
 - A. (−∞, −2) ∪ (2, ∞)
@@ -7746,14 +7800,14 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. (0, 2)
 - D. (−2, 2)
 
-**Q1113.** Find the range of h: (0, e²] → R, h(x) = 1 − log_e(x).
+**Q1116.** Find the range of h: (0, e²] → R, h(x) = 1 − log_e(x).
 <!-- id: methods-2-1-25 -->
 
 *Written answer*
 
 #### Log laws and exponential equations
 
-**Q1114.** Evaluate log_2(32).
+**Q1117.** Evaluate log_2(32).
 <!-- id: methods-2-2-1 -->
 
 - A. 16
@@ -7761,7 +7815,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 4
 - D. 5
 
-**Q1115.** log_e(8) − log_e(2) is equal to
+**Q1118.** log_e(8) − log_e(2) is equal to
 <!-- id: methods-2-2-2 -->
 
 - A. log_e(4)
@@ -7769,7 +7823,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. log_e(6)
 - D. log_e(16)
 
-**Q1116.** Evaluate 2log_3(6) − log_3(4).
+**Q1119.** Evaluate 2log_3(6) − log_3(4).
 <!-- id: methods-2-2-3 -->
 
 - A. 2
@@ -7777,12 +7831,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 3
 - D. 1
 
-**Q1117.** Solve 2e^(3x) − 5 = 9 for x, giving an exact answer.
+**Q1120.** Solve 2e^(3x) − 5 = 9 for x, giving an exact answer.
 <!-- id: methods-2-2-4 -->
 
 *Written answer*
 
-**Q1118.** Solve e^(2x) = 7 for x.
+**Q1121.** Solve e^(2x) = 7 for x.
 <!-- id: methods-2-2-5 -->
 
 - A. x = log_e(3.5)
@@ -7790,7 +7844,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. x = 2log_e(7)
 - D. x = e^(7/2)
 
-**Q1119.** Solve 3^x = 10 for x.
+**Q1122.** Solve 3^x = 10 for x.
 <!-- id: methods-2-2-6 -->
 
 - A. x = 10/3
@@ -7798,12 +7852,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. x = log_e(10)/log_e(3)
 - D. x = log_e(3)/log_e(10)
 
-**Q1120.** Solve log_2(x) + log_2(x + 2) = 3.
+**Q1123.** Solve log_2(x) + log_2(x + 2) = 3.
 <!-- id: methods-2-2-7 -->
 
 *Written answer*
 
-**Q1121.** Solve log_2(x + 3) = 4.
+**Q1124.** Solve log_2(x + 3) = 4.
 <!-- id: methods-2-2-8 -->
 
 - A. x = 5
@@ -7811,7 +7865,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. x = 16
 - D. x = 1
 
-**Q1122.** Solve log_e(x) + log_e(x − 3) = log_e(10).
+**Q1125.** Solve log_e(x) + log_e(x − 3) = log_e(10).
 <!-- id: methods-2-2-9 -->
 
 - A. x = 5 or x = −2
@@ -7819,7 +7873,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. x = −2 only
 - D. x = 10/3
 
-**Q1123.** Solve e^(2x) − 5e^x + 6 = 0.
+**Q1126.** Solve e^(2x) − 5e^x + 6 = 0.
 <!-- id: methods-2-2-10 -->
 
 - A. x = 2 or x = 3
@@ -7827,12 +7881,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. x = −log_e(2) or x = −log_e(3)
 - D. x = log_e(2) or x = log_e(3)
 
-**Q1124.** Solve e^x − 6e^(−x) = 1 for x.
+**Q1127.** Solve e^x − 6e^(−x) = 1 for x.
 <!-- id: methods-2-2-11 -->
 
 *Written answer*
 
-**Q1125.** Solve e^(2x) − e^x − 12 = 0.
+**Q1128.** Solve e^(2x) − e^x − 12 = 0.
 <!-- id: methods-2-2-12 -->
 
 - A. x = 4 or x = −3
@@ -7840,7 +7894,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. x = log_e(3) only
 - D. x = log_e(4) or x = log_e(−3)
 
-**Q1126.** For x > 0, e^(3log_e(x)) simplifies to
+**Q1129.** For x > 0, e^(3log_e(x)) simplifies to
 <!-- id: methods-2-2-13 -->
 
 - A. x^(1/3)
@@ -7848,12 +7902,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. x³
 - D. 3x
 
-**Q1127.** Find the exact value of log_e(e²) + log_e(1) − 3log_e(e^(−1)).
+**Q1130.** Find the exact value of log_e(e²) + log_e(1) − 3log_e(e^(−1)).
 <!-- id: methods-2-2-14 -->
 
 *Written answer*
 
-**Q1128.** Evaluate log_e(√e).
+**Q1131.** Evaluate log_e(√e).
 <!-- id: methods-2-2-15 -->
 
 - A. 2
@@ -7861,7 +7915,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. ½
 - D. √e
 
-**Q1129.** If log_a(2) = p and log_a(3) = q, then log_a(12) equals
+**Q1132.** If log_a(2) = p and log_a(3) = q, then log_a(12) equals
 <!-- id: methods-2-2-16 -->
 
 - A. 2pq
@@ -7869,7 +7923,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. p + 2q
 - D. 2p + q
 
-**Q1130.** log_e(x) − 2log_e(y) + log_e(z) can be written as
+**Q1133.** log_e(x) − 2log_e(y) + log_e(z) can be written as
 <!-- id: methods-2-2-17 -->
 
 - A. log_e(xz/y²)
@@ -7877,12 +7931,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. log_e(xz/(2y))
 - D. log_e(x − 2y + z)
 
-**Q1131.** Solve 5^(2x) = 3^(x + 1) for x, giving an exact answer and a value correct to three decimal places.
+**Q1134.** Solve 5^(2x) = 3^(x + 1) for x, giving an exact answer and a value correct to three decimal places.
 <!-- id: methods-2-2-18 -->
 
 *Written answer*
 
-**Q1132.** Solve 2^(x + 1) = 5^x for x.
+**Q1135.** Solve 2^(x + 1) = 5^x for x.
 <!-- id: methods-2-2-19 -->
 
 - A. x = log_e(2)/log_e(2.5)
@@ -7890,7 +7944,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. x = log_e(5)/log_e(2) − 1
 - D. x = log_e(2)/log_e(5)
 
-**Q1133.** Solve log_e(2x − 1) = 3.
+**Q1136.** Solve log_e(2x − 1) = 3.
 <!-- id: methods-2-2-20 -->
 
 - A. x = (e³ + 1)/2
@@ -7898,12 +7952,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. x = 2
 - D. x = e³/2 + 1
 
-**Q1134.** Solve log_e(x + 1) − log_e(x) = log_e(3).
+**Q1137.** Solve log_e(x + 1) − log_e(x) = log_e(3).
 <!-- id: methods-2-2-21 -->
 
 *Written answer*
 
-**Q1135.** Solve 4^x − 3 × 2^x − 4 = 0.
+**Q1138.** Solve 4^x − 3 × 2^x − 4 = 0.
 <!-- id: methods-2-2-22 -->
 
 - A. x = log_2(3)
@@ -7911,7 +7965,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. x = 4
 - D. x = 2
 
-**Q1136.** Solve log_3(x) = −2.
+**Q1139.** Solve log_3(x) = −2.
 <!-- id: methods-2-2-23 -->
 
 - A. x = −6
@@ -7919,7 +7973,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. x = 9
 - D. x = −9
 
-**Q1137.** For x > 0, log_e(1/x²) is equal to
+**Q1140.** For x > 0, log_e(1/x²) is equal to
 <!-- id: methods-2-2-24 -->
 
 - A. 1/(2log_e(x))
@@ -7927,14 +7981,14 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. −2log_e(x)
 - D. ½log_e(x)
 
-**Q1138.** Two towns have populations P = 1200e^(0.04t) and Q = 900e^(0.07t), t years from now. Find when the populations are equal, correct to two decimal places.
+**Q1141.** Two towns have populations P = 1200e^(0.04t) and Q = 900e^(0.07t), t years from now. Find when the populations are equal, correct to two decimal places.
 <!-- id: methods-2-2-25 -->
 
 *Written answer*
 
 #### Circular function graphs and transformations
 
-**Q1139.** What is the period of y = 3sin(2x)?
+**Q1142.** What is the period of y = 3sin(2x)?
 <!-- id: methods-2-3-1 -->
 
 - A. π
@@ -7942,7 +7996,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 3
 - D. π/2
 
-**Q1140.** What is the amplitude of y = −4cos(x/2) + 1?
+**Q1143.** What is the amplitude of y = −4cos(x/2) + 1?
 <!-- id: methods-2-3-2 -->
 
 - A. −4
@@ -7950,7 +8004,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 2
 - D. 4
 
-**Q1141.** What is the period of y = tan(3x)?
+**Q1144.** What is the period of y = tan(3x)?
 <!-- id: methods-2-3-3 -->
 
 - A. 3π
@@ -7958,12 +8012,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. π/3
 - D. π
 
-**Q1142.** State the amplitude, period and range of y = −2cos(3x) + 1.
+**Q1145.** State the amplitude, period and range of y = −2cos(3x) + 1.
 <!-- id: methods-2-3-4 -->
 
 *Written answer*
 
-**Q1143.** What is the range of y = 2sin(x) − 3?
+**Q1146.** What is the range of y = 2sin(x) − 3?
 <!-- id: methods-2-3-5 -->
 
 - A. [−2, 2]
@@ -7971,7 +8025,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. [−3, 2]
 - D. [−5, 1]
 
-**Q1144.** What is the range of y = 5 − 3cos(2x)?
+**Q1147.** What is the range of y = 5 − 3cos(2x)?
 <!-- id: methods-2-3-6 -->
 
 - A. [−3, 3]
@@ -7979,12 +8033,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. [2, 8]
 - D. [−8, −2]
 
-**Q1145.** A function of the form y = a sin(nx) + c, with a > 0 and n > 0, has a maximum of 10, a minimum of 2 and a period of 4. Find a, n and c.
+**Q1148.** A function of the form y = a sin(nx) + c, with a > 0 and n > 0, has a maximum of 10, a minimum of 2 and a period of 4. Find a, n and c.
 <!-- id: methods-2-3-7 -->
 
 *Written answer*
 
-**Q1146.** What is the period of y = 2cos(πx/4)?
+**Q1149.** What is the period of y = 2cos(πx/4)?
 <!-- id: methods-2-3-8 -->
 
 - A. 8
@@ -7992,7 +8046,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. π/8
 - D. 8π
 
-**Q1147.** The vertical asymptotes of y = tan(2x) occur at
+**Q1150.** The vertical asymptotes of y = tan(2x) occur at
 <!-- id: methods-2-3-9 -->
 
 - A. x = π/4 + kπ, k ∈ Z
@@ -8000,7 +8054,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. x = kπ/2, k ∈ Z
 - D. x = π/2 + kπ, k ∈ Z
 
-**Q1148.** For y = 3sin(x − π/4) + 2, what is the smallest x ≥ 0 at which the maximum occurs?
+**Q1151.** For y = 3sin(x − π/4) + 2, what is the smallest x ≥ 0 at which the maximum occurs?
 <!-- id: methods-2-3-10 -->
 
 - A. x = 5π/4
@@ -8008,12 +8062,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. x = π/4
 - D. x = π/2
 
-**Q1149.** Find the x-intercepts of f(x) = 2sin(2x) + 1 for x ∈ [0, π].
+**Q1152.** Find the x-intercepts of f(x) = 2sin(2x) + 1 for x ∈ [0, π].
 <!-- id: methods-2-3-11 -->
 
 *Written answer*
 
-**Q1150.** The water depth at a Port Phillip Bay pier is d(t) = 4 + 1.5cos(πt/6) metres, t hours after midnight. What is the period of the tide?
+**Q1153.** The water depth at a Port Phillip Bay pier is d(t) = 4 + 1.5cos(πt/6) metres, t hours after midnight. What is the period of the tide?
 <!-- id: methods-2-3-12 -->
 
 - A. 24 hours
@@ -8021,7 +8075,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 12 hours
 - D. π/6 hours
 
-**Q1151.** Using d(t) = 4 + 1.5cos(πt/6) metres for the water depth at a pier, what is the minimum depth?
+**Q1154.** Using d(t) = 4 + 1.5cos(πt/6) metres for the water depth at a pier, what is the minimum depth?
 <!-- id: methods-2-3-13 -->
 
 - A. 2.5 m
@@ -8029,12 +8083,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 4 m
 - D. 5.5 m
 
-**Q1152.** State the equations of the vertical asymptotes of y = tan(x/2) for x ∈ [−2π, 2π].
+**Q1155.** State the equations of the vertical asymptotes of y = tan(x/2) for x ∈ [−2π, 2π].
 <!-- id: methods-2-3-14 -->
 
 *Written answer*
 
-**Q1153.** Which function has amplitude 2 and period π?
+**Q1156.** Which function has amplitude 2 and period π?
 <!-- id: methods-2-3-15 -->
 
 - A. y = sin(2x) + 2
@@ -8042,7 +8096,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. y = 2sin(x/2)
 - D. y = ½sin(2x)
 
-**Q1154.** The graph of y = sin(x) is translated π/3 units in the positive x-direction. The rule of the image is
+**Q1157.** The graph of y = sin(x) is translated π/3 units in the positive x-direction. The rule of the image is
 <!-- id: methods-2-3-16 -->
 
 - A. y = sin(x) − π/3
@@ -8050,7 +8104,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. y = sin(3x − π)
 - D. y = sin(x − π/3)
 
-**Q1155.** How many solutions does sin(2x) = 0.5 have for x ∈ [0, 2π]?
+**Q1158.** How many solutions does sin(2x) = 0.5 have for x ∈ [0, 2π]?
 <!-- id: methods-2-3-17 -->
 
 - A. 4
@@ -8058,12 +8112,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 8
 - D. 3
 
-**Q1156.** Describe a sequence of transformations that maps y = sin(x) onto y = 3sin(2(x + π/4)) − 1.
+**Q1159.** Describe a sequence of transformations that maps y = sin(x) onto y = 3sin(2(x + π/4)) − 1.
 <!-- id: methods-2-3-18 -->
 
 *Written answer*
 
-**Q1157.** The function f(x) = a sin(bx) + c, with a > 0, has a maximum value of 7 and a minimum value of 1. The values of a and c are
+**Q1160.** The function f(x) = a sin(bx) + c, with a > 0, has a maximum value of 7 and a minimum value of 1. The values of a and c are
 <!-- id: methods-2-3-19 -->
 
 - A. a = 4, c = 3
@@ -8071,7 +8125,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. a = 3, c = 4
 - D. a = 3, c = 1
 
-**Q1158.** The graph of y = cos(x − π/2) is identical to the graph of
+**Q1161.** The graph of y = cos(x − π/2) is identical to the graph of
 <!-- id: methods-2-3-20 -->
 
 - A. y = −cos(x)
@@ -8079,12 +8133,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. y = −sin(x)
 - D. y = sin(x)
 
-**Q1159.** The temperature in Mildura on a summer day is T(t) = 18 − 6cos(πt/12) °C, t hours after midnight, 0 ≤ t ≤ 24. Find the maximum temperature and when it occurs.
+**Q1162.** The temperature in Mildura on a summer day is T(t) = 18 − 6cos(πt/12) °C, t hours after midnight, 0 ≤ t ≤ 24. Find the maximum temperature and when it occurs.
 <!-- id: methods-2-3-21 -->
 
 *Written answer*
 
-**Q1160.** What is the period of y = 3tan(x/2)?
+**Q1163.** What is the period of y = 3tan(x/2)?
 <!-- id: methods-2-3-22 -->
 
 - A. π/2
@@ -8092,7 +8146,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. π
 - D. 2π
 
-**Q1161.** A Ferris wheel ride at a Melbourne festival has height h(t) = 20 − 18cos(πt/10) metres after t minutes. What is the maximum height?
+**Q1164.** A Ferris wheel ride at a Melbourne festival has height h(t) = 20 − 18cos(πt/10) metres after t minutes. What is the maximum height?
 <!-- id: methods-2-3-23 -->
 
 - A. 38 m
@@ -8100,7 +8154,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 18 m
 - D. 2 m
 
-**Q1162.** For the Ferris wheel with height h(t) = 20 − 18cos(πt/10) metres after t minutes, how long does one full rotation take?
+**Q1165.** For the Ferris wheel with height h(t) = 20 − 18cos(πt/10) metres after t minutes, how long does one full rotation take?
 <!-- id: methods-2-3-24 -->
 
 - A. 40 minutes
@@ -8108,14 +8162,14 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 10 minutes
 - D. π/10 minutes
 
-**Q1163.** A Ferris wheel's height is h(t) = 20 − 18cos(πt/10) metres after t minutes. Find the first time the height is 29 m.
+**Q1166.** A Ferris wheel's height is h(t) = 20 − 18cos(πt/10) metres after t minutes. Find the first time the height is 29 m.
 <!-- id: methods-2-3-25 -->
 
 *Written answer*
 
 #### Exact values and general solutions
 
-**Q1164.** What is the exact value of sin(π/3)?
+**Q1167.** What is the exact value of sin(π/3)?
 <!-- id: methods-2-4-1 -->
 
 - A. 1/√2
@@ -8123,7 +8177,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 1/2
 - D. √3
 
-**Q1165.** What is the exact value of cos(5π/6)?
+**Q1168.** What is the exact value of cos(5π/6)?
 <!-- id: methods-2-4-2 -->
 
 - A. −√3/2
@@ -8131,7 +8185,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 1/2
 - D. −1/2
 
-**Q1166.** What is the exact value of tan(3π/4)?
+**Q1169.** What is the exact value of tan(3π/4)?
 <!-- id: methods-2-4-3 -->
 
 - A. −√3
@@ -8139,12 +8193,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. −1
 - D. 1
 
-**Q1167.** Solve 2sin(2x) = 1 for x ∈ [0, 2π].
+**Q1170.** Solve 2sin(2x) = 1 for x ∈ [0, 2π].
 <!-- id: methods-2-4-4 -->
 
 *Written answer*
 
-**Q1168.** What is the exact value of sin(7π/6)?
+**Q1171.** What is the exact value of sin(7π/6)?
 <!-- id: methods-2-4-5 -->
 
 - A. 1/2
@@ -8152,7 +8206,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. −√3/2
 - D. √3/2
 
-**Q1169.** What is the exact value of cos(−π/4)?
+**Q1172.** What is the exact value of cos(−π/4)?
 <!-- id: methods-2-4-6 -->
 
 - A. √2/2
@@ -8160,12 +8214,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. −1/2
 - D. 1/2
 
-**Q1170.** Find the general solution of cos(3x) = −½.
+**Q1173.** Find the general solution of cos(3x) = −½.
 <!-- id: methods-2-4-7 -->
 
 *Written answer*
 
-**Q1171.** What is the exact value of tan(−π/3)?
+**Q1174.** What is the exact value of tan(−π/3)?
 <!-- id: methods-2-4-8 -->
 
 - A. −√3
@@ -8173,7 +8227,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 1/√3
 - D. −1/√3
 
-**Q1172.** If sin(θ) = 0.6, then sin(π + θ) equals
+**Q1175.** If sin(θ) = 0.6, then sin(π + θ) equals
 <!-- id: methods-2-4-9 -->
 
 - A. 0.8
@@ -8181,7 +8235,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. −0.6
 - D. 0.6
 
-**Q1173.** If cos(θ) = 0.3, then cos(2π − θ) equals
+**Q1176.** If cos(θ) = 0.3, then cos(2π − θ) equals
 <!-- id: methods-2-4-10 -->
 
 - A. 0.3
@@ -8189,12 +8243,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. −0.7
 - D. −0.3
 
-**Q1174.** Solve sin²(x) = ¾ for x ∈ [0, 2π].
+**Q1177.** Solve sin²(x) = ¾ for x ∈ [0, 2π].
 <!-- id: methods-2-4-11 -->
 
 *Written answer*
 
-**Q1175.** If sin(x) = 4/5 and x ∈ (π/2, π), then cos(x) equals
+**Q1178.** If sin(x) = 4/5 and x ∈ (π/2, π), then cos(x) equals
 <!-- id: methods-2-4-12 -->
 
 - A. 5/4
@@ -8202,7 +8256,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. −4/5
 - D. −3/5
 
-**Q1176.** Solve sin(x) = ½ for x ∈ [0, 2π].
+**Q1179.** Solve sin(x) = ½ for x ∈ [0, 2π].
 <!-- id: methods-2-4-13 -->
 
 - A. x = π/3, 2π/3
@@ -8210,12 +8264,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. x = π/6, 5π/6
 - D. x = π/6, 11π/6
 
-**Q1177.** Find the exact value of sin(5π/4) + cos(5π/3).
+**Q1180.** Find the exact value of sin(5π/4) + cos(5π/3).
 <!-- id: methods-2-4-14 -->
 
 *Written answer*
 
-**Q1178.** Solve cos(x) = −½ for x ∈ [0, 2π].
+**Q1181.** Solve cos(x) = −½ for x ∈ [0, 2π].
 <!-- id: methods-2-4-15 -->
 
 - A. x = 2π/3, 5π/3
@@ -8223,7 +8277,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. x = π/3, 5π/3
 - D. x = 4π/3, 5π/3
 
-**Q1179.** Solve tan(x) = √3 for x ∈ [0, 2π].
+**Q1182.** Solve tan(x) = √3 for x ∈ [0, 2π].
 <!-- id: methods-2-4-16 -->
 
 - A. x = π/6, 7π/6
@@ -8231,7 +8285,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. x = π/3, 2π/3
 - D. x = π/3, 4π/3
 
-**Q1180.** The general solution of sin(x) = 0 is
+**Q1183.** The general solution of sin(x) = 0 is
 <!-- id: methods-2-4-17 -->
 
 - A. x = π/2 + kπ, k ∈ Z
@@ -8239,12 +8293,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. x = kπ, k ∈ Z
 - D. x = π/2 + 2kπ, k ∈ Z
 
-**Q1181.** Solve tan(2x) = −1 for x ∈ [0, π].
+**Q1184.** Solve tan(2x) = −1 for x ∈ [0, π].
 <!-- id: methods-2-4-18 -->
 
 *Written answer*
 
-**Q1182.** The general solution of cos(x) = √3/2 is
+**Q1185.** The general solution of cos(x) = √3/2 is
 <!-- id: methods-2-4-19 -->
 
 - A. x = 2kπ ± π/6, k ∈ Z
@@ -8252,7 +8306,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. x = kπ + π/6, k ∈ Z
 - D. x = 2kπ ± π/3, k ∈ Z
 
-**Q1183.** The general solution of tan(x) = 1 is
+**Q1186.** The general solution of tan(x) = 1 is
 <!-- id: methods-2-4-20 -->
 
 - A. x = π/4 + kπ/2, k ∈ Z
@@ -8260,12 +8314,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. x = ±π/4 + 2kπ, k ∈ Z
 - D. x = π/4 + 2kπ, k ∈ Z
 
-**Q1184.** Given cos(θ) = −5/13 and θ ∈ (π, 3π/2), find the exact values of sin(θ) and tan(θ).
+**Q1187.** Given cos(θ) = −5/13 and θ ∈ (π, 3π/2), find the exact values of sin(θ) and tan(θ).
 <!-- id: methods-2-4-21 -->
 
 *Written answer*
 
-**Q1185.** The general solution of sin(2x) = √3/2 is
+**Q1188.** The general solution of sin(2x) = √3/2 is
 <!-- id: methods-2-4-22 -->
 
 - A. x = π/6 + 2kπ or x = π/3 + 2kπ, k ∈ Z
@@ -8273,7 +8327,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. x = π/6 + kπ/2, k ∈ Z
 - D. x = π/3 + 2kπ or x = 2π/3 + 2kπ, k ∈ Z
 
-**Q1186.** Solve 2cos(x) + √2 = 0 for x ∈ [0, 2π].
+**Q1189.** Solve 2cos(x) + √2 = 0 for x ∈ [0, 2π].
 <!-- id: methods-2-4-23 -->
 
 - A. x = π/4, 7π/4
@@ -8281,7 +8335,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. x = 3π/4, 7π/4
 - D. x = 3π/4, 5π/4
 
-**Q1187.** Solve sin(x) = cos(x) for x ∈ [0, 2π].
+**Q1190.** Solve sin(x) = cos(x) for x ∈ [0, 2π].
 <!-- id: methods-2-4-24 -->
 
 - A. x = π/4, 7π/4
@@ -8289,7 +8343,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. x = π/4, 3π/4
 - D. x = π/4, 5π/4
 
-**Q1188.** Find the general solution of √3 sin(x) = cos(x).
+**Q1191.** Find the general solution of √3 sin(x) = cos(x).
 <!-- id: methods-2-4-25 -->
 
 *Written answer*
@@ -8298,7 +8352,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 #### Domain, range and composite functions
 
-**Q1189.** What is the maximal (implied) domain of f(x) = √(4 − 2x)?
+**Q1192.** What is the maximal (implied) domain of f(x) = √(4 − 2x)?
 <!-- id: methods-3-1-1 -->
 
 - A. x ≤ 2
@@ -8306,7 +8360,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. x ≤ 4
 - D. x < 2
 
-**Q1190.** What is the maximal domain of f(x) = log_e(x − 3)?
+**Q1193.** What is the maximal domain of f(x) = log_e(x − 3)?
 <!-- id: methods-3-1-2 -->
 
 - A. [3, ∞)
@@ -8314,7 +8368,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. (−3, ∞)
 - D. (0, ∞)
 
-**Q1191.** What is the range of f: R → R, f(x) = x² − 6x + 11?
+**Q1194.** What is the range of f: R → R, f(x) = x² − 6x + 11?
 <!-- id: methods-3-1-3 -->
 
 - A. [11, ∞)
@@ -8322,12 +8376,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. [2, ∞)
 - D. (2, ∞)
 
-**Q1192.** State the maximal domain and the range of f(x) = √(9 − x²).
+**Q1195.** State the maximal domain and the range of f(x) = √(9 − x²).
 <!-- id: methods-3-1-4 -->
 
 *Written answer*
 
-**Q1193.** What is the range of f: R → R, f(x) = 2e^(−x) + 1?
+**Q1196.** What is the range of f: R → R, f(x) = 2e^(−x) + 1?
 <!-- id: methods-3-1-5 -->
 
 - A. [1, ∞)
@@ -8335,7 +8389,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. R
 - D. (1, ∞)
 
-**Q1194.** What is the maximal domain of f(x) = 1/(x² − 9)?
+**Q1197.** What is the maximal domain of f(x) = 1/(x² − 9)?
 <!-- id: methods-3-1-6 -->
 
 - A. R \ {−3, 3}
@@ -8343,7 +8397,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. R \ {9}
 - D. (−3, 3)
 
-**Q1195.** What is the range of f: [−1, 2] → R, f(x) = x²?
+**Q1198.** What is the range of f: [−1, 2] → R, f(x) = x²?
 <!-- id: methods-3-1-7 -->
 
 - A. [1, 4]
@@ -8351,12 +8405,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. [−1, 4]
 - D. [0, 2]
 
-**Q1196.** Let f(x) = x − 1 and g(x) = x². Find f(g(x)) and g(f(x)) and state whether they are equal.
+**Q1199.** Let f(x) = x − 1 and g(x) = x². Find f(g(x)) and g(f(x)) and state whether they are equal.
 <!-- id: methods-3-1-8 -->
 
 *Written answer*
 
-**Q1197.** If f(x) = x² + 1 and g(x) = 2x − 3, then f(g(x)) is equal to
+**Q1200.** If f(x) = x² + 1 and g(x) = 2x − 3, then f(g(x)) is equal to
 <!-- id: methods-3-1-9 -->
 
 - A. 2x² − 1
@@ -8364,7 +8418,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 4x² − 12x + 10
 - D. 4x² − 12x + 8
 
-**Q1198.** If f(x) = x² + 1 and g(x) = 2x − 3, the value of g(f(2)) is
+**Q1201.** If f(x) = x² + 1 and g(x) = 2x − 3, the value of g(f(2)) is
 <!-- id: methods-3-1-10 -->
 
 - A. 2
@@ -8372,7 +8426,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 10
 - D. 7
 
-**Q1199.** Let f(x) = √x and g(x) = x − 4. The maximal domain of h(x) = f(g(x)) is
+**Q1202.** Let f(x) = √x and g(x) = x − 4. The maximal domain of h(x) = f(g(x)) is
 <!-- id: methods-3-1-11 -->
 
 - A. [4, ∞)
@@ -8380,12 +8434,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. [−4, ∞)
 - D. R
 
-**Q1200.** Let f: [0, ∞) → R, f(x) = √x and g: R → R, g(x) = x + 2. Explain why g(f(x)) is defined, and state its rule, domain and range.
+**Q1203.** Let f: [0, ∞) → R, f(x) = √x and g: R → R, g(x) = x + 2. Explain why g(f(x)) is defined, and state its rule, domain and range.
 <!-- id: methods-3-1-12 -->
 
 *Written answer*
 
-**Q1201.** Let g: (0, ∞) → R, g(x) = log_e(x) and f: D → R, f(x) = x². For g(f(x)) to be defined, which of the following could be D?
+**Q1204.** Let g: (0, ∞) → R, g(x) = log_e(x) and f: D → R, f(x) = x². For g(f(x)) to be defined, which of the following could be D?
 <!-- id: methods-3-1-13 -->
 
 - A. R
@@ -8393,7 +8447,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. [0, ∞)
 - D. (−1, 1)
 
-**Q1202.** If f(x) = e^x and g(x) = x², then g(f(x)) is equal to
+**Q1205.** If f(x) = e^x and g(x) = x², then g(f(x)) is equal to
 <!-- id: methods-3-1-14 -->
 
 - A. e^(x²)
@@ -8401,7 +8455,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. e^(2x)
 - D. e^(x + 2)
 
-**Q1203.** If f(x) = e^x and g(x) = x², both with domain R, what is the range of f(g(x))?
+**Q1206.** If f(x) = e^x and g(x) = x², both with domain R, what is the range of f(g(x))?
 <!-- id: methods-3-1-15 -->
 
 - A. (0, ∞)
@@ -8409,12 +8463,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. (1, ∞)
 - D. [1, ∞)
 
-**Q1204.** Find the maximal domain of f(x) = log_e(5 − x) + √(x + 2).
+**Q1207.** Find the maximal domain of f(x) = log_e(5 − x) + √(x + 2).
 <!-- id: methods-3-1-16 -->
 
 *Written answer*
 
-**Q1205.** What is the maximal domain of f(x) = log_e(x² − 4x)?
+**Q1208.** What is the maximal domain of f(x) = log_e(x² − 4x)?
 <!-- id: methods-3-1-17 -->
 
 - A. (−∞, 0) ∪ (4, ∞)
@@ -8422,7 +8476,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. (4, ∞)
 - D. [0, 4]
 
-**Q1206.** What is the range of f(x) = 3 − √(x + 1) over its maximal domain?
+**Q1209.** What is the range of f(x) = 3 − √(x + 1) over its maximal domain?
 <!-- id: methods-3-1-18 -->
 
 - A. [3, ∞)
@@ -8430,7 +8484,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. (−∞, 1]
 - D. R
 
-**Q1207.** What is the range of f(x) = 1/(x − 2) + 3 over its maximal domain?
+**Q1210.** What is the range of f(x) = 1/(x − 2) + 3 over its maximal domain?
 <!-- id: methods-3-1-19 -->
 
 - A. R \ {2}
@@ -8438,12 +8492,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. R \ {3}
 - D. (3, ∞)
 
-**Q1208.** Express h(x) = (2x + 1)³ as a composite h(x) = f(g(x)), stating the rules for f and g.
+**Q1211.** Express h(x) = (2x + 1)³ as a composite h(x) = f(g(x)), stating the rules for f and g.
 <!-- id: methods-3-1-20 -->
 
 *Written answer*
 
-**Q1209.** If f(x) = 3x − 2, then f(f(x)) is equal to
+**Q1212.** If f(x) = 3x − 2, then f(f(x)) is equal to
 <!-- id: methods-3-1-21 -->
 
 - A. 9x − 4
@@ -8451,7 +8505,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 6x − 4
 - D. 9x − 8
 
-**Q1210.** What is the range of f: (1, e³] → R, f(x) = log_e(x)?
+**Q1213.** What is the range of f: (1, e³] → R, f(x) = log_e(x)?
 <!-- id: methods-3-1-22 -->
 
 - A. (0, 3]
@@ -8459,7 +8513,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. (1, 3]
 - D. (0, e³]
 
-**Q1211.** Which one of the following functions is one-to-one?
+**Q1214.** Which one of the following functions is one-to-one?
 <!-- id: methods-3-1-23 -->
 
 - A. f: R → R, f(x) = x²
@@ -8467,19 +8521,19 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. f: [0, 2π] → R, f(x) = cos(x)
 - D. f: R → R, f(x) = |x|
 
-**Q1212.** Let f(x) = e^(2x) and g: (0, ∞) → R, g(x) = log_e(x). Find the rule, domain and range of f(g(x)).
+**Q1215.** Let f(x) = e^(2x) and g: (0, ∞) → R, g(x) = log_e(x). Find the rule, domain and range of f(g(x)).
 <!-- id: methods-3-1-24 -->
 
 *Written answer*
 
-**Q1213.** Find the range of f: [−3, 1] → R, f(x) = −2(x + 1)² + 5.
+**Q1216.** Find the range of f: [−3, 1] → R, f(x) = −2(x + 1)² + 5.
 <!-- id: methods-3-1-25 -->
 
 *Written answer*
 
 #### Inverse functions
 
-**Q1214.** If f(x) = 3x − 6, then f⁻¹(x) is
+**Q1217.** If f(x) = 3x − 6, then f⁻¹(x) is
 <!-- id: methods-3-2-1 -->
 
 - A. x/3 − 6
@@ -8487,7 +8541,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. (x + 6)/3
 - D. (x − 6)/3
 
-**Q1215.** Let f: R → R, f(x) = e^x + 2. The rule of the inverse function is
+**Q1218.** Let f: R → R, f(x) = e^x + 2. The rule of the inverse function is
 <!-- id: methods-3-2-2 -->
 
 - A. f⁻¹(x) = log_e(x) − 2
@@ -8495,7 +8549,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. f⁻¹(x) = e^(x − 2)
 - D. f⁻¹(x) = log_e(x − 2)
 
-**Q1216.** Let f: (0, ∞) → R, f(x) = log_e(2x). The rule of f⁻¹ is
+**Q1219.** Let f: (0, ∞) → R, f(x) = log_e(2x). The rule of f⁻¹ is
 <!-- id: methods-3-2-3 -->
 
 - A. f⁻¹(x) = e^x/2
@@ -8503,12 +8557,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. f⁻¹(x) = e^(x/2)
 - D. f⁻¹(x) = e^(2x)
 
-**Q1217.** Find the rule and domain of the inverse of f: (−∞, 2] → R, f(x) = (x − 2)².
+**Q1220.** Find the rule and domain of the inverse of f: (−∞, 2] → R, f(x) = (x − 2)².
 <!-- id: methods-3-2-4 -->
 
 *Written answer*
 
-**Q1218.** Let f: [1, ∞) → R, f(x) = (x − 1)². The inverse function is
+**Q1221.** Let f: [1, ∞) → R, f(x) = (x − 1)². The inverse function is
 <!-- id: methods-3-2-5 -->
 
 - A. f⁻¹: [0, ∞) → R, f⁻¹(x) = 1 − √x
@@ -8516,7 +8570,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. f⁻¹: [0, ∞) → R, f⁻¹(x) = √x − 1
 - D. f⁻¹: [−1, ∞) → R, f⁻¹(x) = √(x + 1)
 
-**Q1219.** Let f: (−∞, −2] → R, f(x) = (x + 2)² + 3. The rule for f⁻¹ is
+**Q1222.** Let f: (−∞, −2] → R, f(x) = (x + 2)² + 3. The rule for f⁻¹ is
 <!-- id: methods-3-2-6 -->
 
 - A. f⁻¹(x) = −2 + √(x − 3)
@@ -8524,7 +8578,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. f⁻¹(x) = −2 − √(x − 3)
 - D. f⁻¹(x) = −2 − √(x + 3)
 
-**Q1220.** Let f: [0, 2] → R, f(x) = x² + 1. The domain of f⁻¹ is
+**Q1223.** Let f: [0, 2] → R, f(x) = x² + 1. The domain of f⁻¹ is
 <!-- id: methods-3-2-7 -->
 
 - A. [0, 2]
@@ -8532,12 +8586,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. [1, ∞)
 - D. [1, 5]
 
-**Q1221.** Find the rule and domain of the inverse of f: R → R, f(x) = 3e^(x/2) − 1.
+**Q1224.** Find the rule and domain of the inverse of f: R → R, f(x) = 3e^(x/2) − 1.
 <!-- id: methods-3-2-8 -->
 
 *Written answer*
 
-**Q1222.** The function f(x) = x² will have an inverse function if its domain is restricted. Which is the largest such domain that contains x = −3?
+**Q1225.** The function f(x) = x² will have an inverse function if its domain is restricted. Which is the largest such domain that contains x = −3?
 <!-- id: methods-3-2-9 -->
 
 - A. (−∞, 0]
@@ -8545,7 +8599,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. R
 - D. [0, ∞)
 
-**Q1223.** Let f(x) = 1/(x − 2) + 1, x ≠ 2. The rule for f⁻¹ is
+**Q1226.** Let f(x) = 1/(x − 2) + 1, x ≠ 2. The rule for f⁻¹ is
 <!-- id: methods-3-2-10 -->
 
 - A. f⁻¹(x) = 1/(x + 1) − 2
@@ -8553,7 +8607,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. f⁻¹(x) = 1/(x − 2) + 1
 - D. f⁻¹(x) = 1/(x − 1) − 2
 
-**Q1224.** Let f(x) = 2x³ + 5. The value of f⁻¹(21) is
+**Q1227.** Let f(x) = 2x³ + 5. The value of f⁻¹(21) is
 <!-- id: methods-3-2-11 -->
 
 - A. 8
@@ -8561,12 +8615,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 2
 - D. 13
 
-**Q1225.** Explain why f: R → R, f(x) = x² + 4x has no inverse function, and give the largest domain of the form [a, ∞) for which an inverse exists.
+**Q1228.** Explain why f: R → R, f(x) = x² + 4x has no inverse function, and give the largest domain of the form [a, ∞) for which an inverse exists.
 <!-- id: methods-3-2-12 -->
 
 *Written answer*
 
-**Q1226.** The graph of y = f⁻¹(x) is obtained from the graph of y = f(x) by a reflection in the
+**Q1229.** The graph of y = f⁻¹(x) is obtained from the graph of y = f(x) by a reflection in the
 <!-- id: methods-3-2-13 -->
 
 - A. y-axis
@@ -8574,7 +8628,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. line y = −x
 - D. line y = x
 
-**Q1227.** Let f: (1, ∞) → R, f(x) = log_e(x − 1) + 2. The domain and range of f⁻¹ are
+**Q1230.** Let f: (1, ∞) → R, f(x) = log_e(x − 1) + 2. The domain and range of f⁻¹ are
 <!-- id: methods-3-2-14 -->
 
 - A. domain R, range (1, ∞)
@@ -8582,7 +8636,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. domain R, range (2, ∞)
 - D. domain (2, ∞), range (1, ∞)
 
-**Q1228.** Let f: [−4, ∞) → R, f(x) = √(x + 4). The inverse function is
+**Q1231.** Let f: [−4, ∞) → R, f(x) = √(x + 4). The inverse function is
 <!-- id: methods-3-2-15 -->
 
 - A. f⁻¹: R → R, f⁻¹(x) = x² − 4
@@ -8590,12 +8644,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. f⁻¹: [0, ∞) → R, f⁻¹(x) = x² + 4
 - D. f⁻¹: [0, ∞) → R, f⁻¹(x) = (x − 4)²
 
-**Q1229.** Find the coordinates of all points of intersection of the graphs of f(x) = x³ and y = f⁻¹(x).
+**Q1232.** Find the coordinates of all points of intersection of the graphs of f(x) = x³ and y = f⁻¹(x).
 <!-- id: methods-3-2-16 -->
 
 *Written answer*
 
-**Q1230.** The graphs of f(x) = 2x − 3 and y = f⁻¹(x) intersect at the point
+**Q1233.** The graphs of f(x) = 2x − 3 and y = f⁻¹(x) intersect at the point
 <!-- id: methods-3-2-17 -->
 
 - A. (−3, −3)
@@ -8603,7 +8657,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. (3, 3)
 - D. (0, −3)
 
-**Q1231.** Let f(x) = e^(2x − 1). The rule of f⁻¹ is
+**Q1234.** Let f(x) = e^(2x − 1). The rule of f⁻¹ is
 <!-- id: methods-3-2-18 -->
 
 - A. f⁻¹(x) = (log_e(x) − 1)/2
@@ -8611,7 +8665,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. f⁻¹(x) = 2log_e(x) + 1
 - D. f⁻¹(x) = (log_e(x) + 1)/2
 
-**Q1232.** Which one of the following functions does NOT have an inverse function?
+**Q1235.** Which one of the following functions does NOT have an inverse function?
 <!-- id: methods-3-2-19 -->
 
 - A. f: R → R, f(x) = x² − 2x
@@ -8619,12 +8673,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. f: R → R, f(x) = e^(−x)
 - D. f: [0, ∞) → R, f(x) = √x
 
-**Q1233.** Let f: (−3, ∞) → R, f(x) = log_e(x + 3) − 1. Find f⁻¹ and state its range.
+**Q1236.** Let f: (−3, ∞) → R, f(x) = log_e(x + 3) − 1. Find f⁻¹ and state its range.
 <!-- id: methods-3-2-20 -->
 
 *Written answer*
 
-**Q1234.** Let f(x) = (2x + 1)/(x − 3), x ≠ 3. The rule of f⁻¹ is
+**Q1237.** Let f(x) = (2x + 1)/(x − 3), x ≠ 3. The rule of f⁻¹ is
 <!-- id: methods-3-2-21 -->
 
 - A. f⁻¹(x) = (x − 3)/(2x + 1)
@@ -8632,7 +8686,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. f⁻¹(x) = (3x − 1)/(x + 2)
 - D. f⁻¹(x) = (2x − 1)/(x + 3)
 
-**Q1235.** A linear function f has inverse f⁻¹(x) = 2x − 6. The rule for f is
+**Q1238.** A linear function f has inverse f⁻¹(x) = 2x − 6. The rule for f is
 <!-- id: methods-3-2-22 -->
 
 - A. f(x) = 2x + 6
@@ -8640,7 +8694,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. f(x) = x/2 + 3
 - D. f(x) = (x − 6)/2
 
-**Q1236.** Which one of the following functions is its own inverse?
+**Q1239.** Which one of the following functions is its own inverse?
 <!-- id: methods-3-2-23 -->
 
 - A. f(x) = x − 5
@@ -8648,19 +8702,19 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. f(x) = x + 5
 - D. f(x) = 5 − x
 
-**Q1237.** Let f: (−1, ∞) → R, f(x) = 2/(x + 1). Find the rule and domain of f⁻¹.
+**Q1240.** Let f: (−1, ∞) → R, f(x) = 2/(x + 1). Find the rule and domain of f⁻¹.
 <!-- id: methods-3-2-24 -->
 
 *Written answer*
 
-**Q1238.** Let f: [2, ∞) → R, f(x) = √(2x − 4). Find f⁻¹(3) without finding the rule for f⁻¹.
+**Q1241.** Let f: [2, ∞) → R, f(x) = √(2x − 4). Find f⁻¹(3) without finding the rule for f⁻¹.
 <!-- id: methods-3-2-25 -->
 
 *Written answer*
 
 #### Sum, product and functional equations
 
-**Q1239.** Let f: R → R, f(x) = x² and g: [0, ∞) → R, g(x) = √x. The domain of f + g is
+**Q1242.** Let f: R → R, f(x) = x² and g: [0, ∞) → R, g(x) = √x. The domain of f + g is
 <!-- id: methods-3-3-1 -->
 
 - A. [0, ∞)
@@ -8668,7 +8722,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. (0, ∞)
 - D. R \ {0}
 
-**Q1240.** Let f(x) = log_e(x) and g(x) = √(4 − x), each with its maximal domain. The domain of f + g is
+**Q1243.** Let f(x) = log_e(x) and g(x) = √(4 − x), each with its maximal domain. The domain of f + g is
 <!-- id: methods-3-3-2 -->
 
 - A. (0, 4)
@@ -8676,7 +8730,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. [0, 4]
 - D. (−∞, 4]
 
-**Q1241.** If f(x) = x + 1 and g(x) = x − 1, then (fg)(x) is
+**Q1244.** If f(x) = x + 1 and g(x) = x − 1, then (fg)(x) is
 <!-- id: methods-3-3-3 -->
 
 - A. x² + 1
@@ -8684,12 +8738,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. x² − 1
 - D. x² − 2x + 1
 
-**Q1242.** Let f(x) = √(x + 1) and g(x) = √(3 − x), each with its maximal domain. State the rule and domain of f + g.
+**Q1245.** Let f(x) = √(x + 1) and g(x) = √(3 − x), each with its maximal domain. State the rule and domain of f + g.
 <!-- id: methods-3-3-4 -->
 
 *Written answer*
 
-**Q1243.** If f(x) = 3x and g(x) = x², the value of (f + g)(2) is
+**Q1246.** If f(x) = 3x and g(x) = x², the value of (f + g)(2) is
 <!-- id: methods-3-3-5 -->
 
 - A. 24
@@ -8697,7 +8751,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 16
 - D. 10
 
-**Q1244.** Which one of the following functions satisfies f(x + y) = f(x) + f(y) for all real x and y?
+**Q1247.** Which one of the following functions satisfies f(x + y) = f(x) + f(y) for all real x and y?
 <!-- id: methods-3-3-6 -->
 
 - A. f(x) = 5x
@@ -8705,7 +8759,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. f(x) = x²
 - D. f(x) = e^x
 
-**Q1245.** Which one of the following functions satisfies f(xy) = f(x) + f(y) for all x, y > 0?
+**Q1248.** Which one of the following functions satisfies f(xy) = f(x) + f(y) for all x, y > 0?
 <!-- id: methods-3-3-7 -->
 
 - A. f(x) = e^x
@@ -8713,12 +8767,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. f(x) = x²
 - D. f(x) = 2x
 
-**Q1246.** Show that f(x) = log_e(x) satisfies f(x/y) = f(x) − f(y) for all x, y > 0.
+**Q1249.** Show that f(x) = log_e(x) satisfies f(x/y) = f(x) − f(y) for all x, y > 0.
 <!-- id: methods-3-3-8 -->
 
 *Written answer*
 
-**Q1247.** Which one of the following functions satisfies f(−x) = f(x) for all real x?
+**Q1250.** Which one of the following functions satisfies f(−x) = f(x) for all real x?
 <!-- id: methods-3-3-11 -->
 
 - A. f(x) = x⁴ − 3x²
@@ -8726,12 +8780,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. f(x) = e^x
 - D. f(x) = x² + x
 
-**Q1248.** Find the value of k such that f(x) = e^(kx) satisfies f(x + 1) = 2f(x) for all real x.
+**Q1251.** Find the value of k such that f(x) = e^(kx) satisfies f(x + 1) = 2f(x) for all real x.
 <!-- id: methods-3-3-12 -->
 
 *Written answer*
 
-**Q1249.** Which one of the following functions satisfies f(2x) = [f(x)]² for all real x?
+**Q1252.** Which one of the following functions satisfies f(2x) = [f(x)]² for all real x?
 <!-- id: methods-3-3-14 -->
 
 - A. f(x) = 2x
@@ -8739,7 +8793,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. f(x) = e^x
 - D. f(x) = log_e(x)
 
-**Q1250.** If f(x) = log_e(x), then for a, b > 0, f(a) + f(b) is equal to
+**Q1253.** If f(x) = log_e(x), then for a, b > 0, f(a) + f(b) is equal to
 <!-- id: methods-3-3-15 -->
 
 - A. log_e(a + b)
@@ -8747,12 +8801,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. log_e(a/b)
 - D. log_e(ab)
 
-**Q1251.** Find the value of n such that f(x) = xⁿ satisfies f(2x) = 8f(x) for all real x.
+**Q1254.** Find the value of n such that f(x) = xⁿ satisfies f(2x) = 8f(x) for all real x.
 <!-- id: methods-3-3-16 -->
 
 *Written answer*
 
-**Q1252.** If f(x) = e^x, then f(a)/f(b) is equal to
+**Q1255.** If f(x) = e^x, then f(a)/f(b) is equal to
 <!-- id: methods-3-3-17 -->
 
 - A. f(a − b)
@@ -8760,7 +8814,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. f(b − a)
 - D. f(a/b)
 
-**Q1253.** Let f(x) = x². Which one of the following is true for all real x and y?
+**Q1256.** Let f(x) = x². Which one of the following is true for all real x and y?
 <!-- id: methods-3-3-18 -->
 
 - A. f(x + y) = f(x) + f(y)
@@ -8768,7 +8822,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. f(x − y) = f(x) − f(y)
 - D. f(2x) = 2f(x)
 
-**Q1254.** Let f(x) = x² and g(x) = −x, both with domain R. The range of f + g is
+**Q1257.** Let f(x) = x² and g(x) = −x, both with domain R. The range of f + g is
 <!-- id: methods-3-3-19 -->
 
 - A. [0, ∞)
@@ -8776,12 +8830,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. [−1/4, ∞)
 - D. [1/4, ∞)
 
-**Q1255.** Let f(x) = x² − 1 and g(x) = x + 1, both with domain R. Find (fg)(x) in factorised form and state its x-intercepts.
+**Q1258.** Let f(x) = x² − 1 and g(x) = x + 1, both with domain R. Find (fg)(x) in factorised form and state its x-intercepts.
 <!-- id: methods-3-3-20 -->
 
 *Written answer*
 
-**Q1256.** Let f(x) = 1/x and g(x) = log_e(x + 2), each with its maximal domain. The domain of fg is
+**Q1259.** Let f(x) = 1/x and g(x) = log_e(x + 2), each with its maximal domain. The domain of fg is
 <!-- id: methods-3-3-21 -->
 
 - A. (−2, ∞)
@@ -8789,7 +8843,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. R \ {0}
 - D. (−2, 0) ∪ (0, ∞)
 
-**Q1257.** If f(x) = sin(x) and g(x) = cos(x), then (fg)(x) can be written as
+**Q1260.** If f(x) = sin(x) and g(x) = cos(x), then (fg)(x) can be written as
 <!-- id: methods-3-3-22 -->
 
 - A. (1/2)sin(2x)
@@ -8797,7 +8851,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 2sin(2x)
 - D. sin(x²)
 
-**Q1258.** The function f(x) = 2x + b satisfies f(x + y) = f(x) + f(y) − 3 for all real x and y. The value of b is
+**Q1261.** The function f(x) = 2x + b satisfies f(x + y) = f(x) + f(y) − 3 for all real x and y. The value of b is
 <!-- id: methods-3-3-23 -->
 
 - A. −3
@@ -8805,19 +8859,19 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 0
 - D. 6
 
-**Q1259.** A function f satisfies f(x + y) = f(x) + f(y) for all real x and y. Show that f(0) = 0.
+**Q1262.** A function f satisfies f(x + y) = f(x) + f(y) for all real x and y. Show that f(0) = 0.
 <!-- id: methods-3-3-24 -->
 
 *Written answer*
 
-**Q1260.** Let f(x) = ax² for a real constant a. Determine whether f(x + y) + f(x − y) = 2f(x) + 2f(y) for all real x and y.
+**Q1263.** Let f(x) = ax² for a real constant a. Determine whether f(x + y) + f(x − y) = 2f(x) + 2f(y) for all real x and y.
 <!-- id: methods-3-3-25 -->
 
 *Written answer*
 
 #### Simultaneous equations with parameters
 
-**Q1261.** For which value of k does the system kx + 2y = 4, 2x + y = 1 have no solution?
+**Q1264.** For which value of k does the system kx + 2y = 4, 2x + y = 1 have no solution?
 <!-- id: methods-3-4-1 -->
 
 - A. k = 2
@@ -8825,7 +8879,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. k = 4
 - D. k = −4
 
-**Q1262.** For which value of k does the system x + ky = 3, kx + 4y = 6 have infinitely many solutions?
+**Q1265.** For which value of k does the system x + ky = 3, kx + 4y = 6 have infinitely many solutions?
 <!-- id: methods-3-4-2 -->
 
 - A. k = −2
@@ -8833,7 +8887,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. k = 4
 - D. k = 2
 
-**Q1263.** For which values of k does the system x + ky = 3, kx + 4y = 6 have a unique solution?
+**Q1266.** For which values of k does the system x + ky = 3, kx + 4y = 6 have a unique solution?
 <!-- id: methods-3-4-3 -->
 
 - A. k ∈ R \ {−2, 2}
@@ -8841,12 +8895,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. k ∈ R \ {4}
 - D. k ∈ {−2, 2}
 
-**Q1264.** Find the value(s) of k for which the system 3x + ky = 5, kx + 12y = 10 has infinitely many solutions.
+**Q1267.** Find the value(s) of k for which the system 3x + ky = 5, kx + 12y = 10 has infinitely many solutions.
 <!-- id: methods-3-4-4 -->
 
 *Written answer*
 
-**Q1265.** The lines mx − y = 2 and 3x + y = 5 are parallel when m equals
+**Q1268.** The lines mx − y = 2 and 3x + y = 5 are parallel when m equals
 <!-- id: methods-3-4-5 -->
 
 - A. 3
@@ -8854,7 +8908,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 1/3
 - D. −1/3
 
-**Q1266.** The system x + 2y = a, 2x + 4y = 6 has infinitely many solutions when a equals
+**Q1269.** The system x + 2y = a, 2x + 4y = 6 has infinitely many solutions when a equals
 <!-- id: methods-3-4-6 -->
 
 - A. 6
@@ -8862,7 +8916,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 3
 - D. 1.5
 
-**Q1267.** The system y = (k − 1)x + 4 and 2y = 10x + 8 has infinitely many solutions when k equals
+**Q1270.** The system y = (k − 1)x + 4 and 2y = 10x + 8 has infinitely many solutions when k equals
 <!-- id: methods-3-4-7 -->
 
 - A. 5
@@ -8870,12 +8924,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. −6
 - D. 6
 
-**Q1268.** Solve x + my = 2, 2x + y = 1 for x and y in terms of m, stating any restriction on m.
+**Q1271.** Solve x + my = 2, 2x + y = 1 for x and y in terms of m, stating any restriction on m.
 <!-- id: methods-3-4-8 -->
 
 *Written answer*
 
-**Q1269.** When k = 6, the system 2x + 3y = 7, 4x + ky = 14 has
+**Q1272.** When k = 6, the system 2x + 3y = 7, 4x + ky = 14 has
 <!-- id: methods-3-4-9 -->
 
 - A. infinitely many solutions
@@ -8883,7 +8937,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. exactly one solution
 - D. exactly two solutions
 
-**Q1270.** When k = 5, the solution of the system 2x + 3y = 7, 4x + ky = 14 is
+**Q1273.** When k = 5, the solution of the system 2x + 3y = 7, 4x + ky = 14 is
 <!-- id: methods-3-4-10 -->
 
 - A. x = 0, y = 7/3
@@ -8891,7 +8945,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. x = 2, y = 1
 - D. x = 7, y = −7/3
 
-**Q1271.** Given x + y + z = 6, y + z = 5 and z = 2, the value of x is
+**Q1274.** Given x + y + z = 6, y + z = 5 and z = 2, the value of x is
 <!-- id: methods-3-4-11 -->
 
 - A. 2
@@ -8899,12 +8953,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 1
 - D. 6
 
-**Q1272.** Find the values of k for which the line y = kx − 1 is tangent to the parabola y = x².
+**Q1275.** Find the values of k for which the line y = kx − 1 is tangent to the parabola y = x².
 <!-- id: methods-3-4-12 -->
 
 *Written answer*
 
-**Q1273.** The system kx + 3y = 1, 2x + (k − 1)y = 4 does NOT have a unique solution when
+**Q1276.** The system kx + 3y = 1, 2x + (k − 1)y = 4 does NOT have a unique solution when
 <!-- id: methods-3-4-13 -->
 
 - A. k = 2 or k = −3
@@ -8912,7 +8966,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. k = 0 or k = 1
 - D. k = −2 or k = 3
 
-**Q1274.** When k = 3, the system kx + 3y = 1, 2x + (k − 1)y = 4 has
+**Q1277.** When k = 3, the system kx + 3y = 1, 2x + (k − 1)y = 4 has
 <!-- id: methods-3-4-14 -->
 
 - A. no solution
@@ -8920,7 +8974,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. a unique solution
 - D. exactly two solutions
 
-**Q1275.** The line y = x + k and the parabola y = x² have exactly one point of intersection when k equals
+**Q1278.** The line y = x + k and the parabola y = x² have exactly one point of intersection when k equals
 <!-- id: methods-3-4-15 -->
 
 - A. 1/4
@@ -8928,12 +8982,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. −4
 - D. 0
 
-**Q1276.** Solve the system x + y + z = 6, 2x − y + z = 3, x + 2y − z = 2.
+**Q1279.** Solve the system x + y + z = 6, 2x − y + z = 3, x + 2y − z = 2.
 <!-- id: methods-3-4-16 -->
 
 *Written answer*
 
-**Q1277.** The line y = mx does not intersect the parabola y = x² + 1 when
+**Q1280.** The line y = mx does not intersect the parabola y = x² + 1 when
 <!-- id: methods-3-4-17 -->
 
 - A. m < −2 or m > 2
@@ -8941,7 +8995,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. −2 < m < 2
 - D. m = ±2
 
-**Q1278.** The general solution of the system x + y = 4, 2x + 2y = 8 can be written, for t ∈ R, as
+**Q1281.** The general solution of the system x + y = 4, 2x + 2y = 8 can be written, for t ∈ R, as
 <!-- id: methods-3-4-18 -->
 
 - A. x = t, y = t − 4
@@ -8949,7 +9003,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. x = t, y = 8 − 2t
 - D. x = t, y = 4 − t
 
-**Q1279.** The horizontal line y = k meets the graph of y = x² − 4x + 3 at exactly one point when k equals
+**Q1282.** The horizontal line y = k meets the graph of y = x² − 4x + 3 at exactly one point when k equals
 <!-- id: methods-3-4-19 -->
 
 - A. −1
@@ -8957,12 +9011,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 1
 - D. −4
 
-**Q1280.** The parabola y = ax² + bx + c passes through (0, 3), (1, 4) and (2, 9). Find a, b and c.
+**Q1283.** The parabola y = ax² + bx + c passes through (0, 3), (1, 4) and (2, 9). Find a, b and c.
 <!-- id: methods-3-4-20 -->
 
 *Written answer*
 
-**Q1281.** The system x + y + z = 1, x + 2y + z = 2, 2x + 3y + 2z = k has infinitely many solutions when k equals
+**Q1284.** The system x + y + z = 1, x + 2y + z = 2, 2x + 3y + 2z = k has infinitely many solutions when k equals
 <!-- id: methods-3-4-21 -->
 
 - A. 1
@@ -8970,7 +9024,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 2
 - D. 4
 
-**Q1282.** A Melbourne café sold 30 drinks: coffees at $5 each and teas at $4 each, taking $138 in total. How many coffees were sold?
+**Q1285.** A Melbourne café sold 30 drinks: coffees at $5 each and teas at $4 each, taking $138 in total. How many coffees were sold?
 <!-- id: methods-3-4-22 -->
 
 - A. 12
@@ -8978,7 +9032,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 18
 - D. 15
 
-**Q1283.** When p = 2, the solution set of the system px + 4y = 8, x + py = 4 can be written, for t ∈ R, as
+**Q1286.** When p = 2, the solution set of the system px + 4y = 8, x + py = 4 can be written, for t ∈ R, as
 <!-- id: methods-3-4-23 -->
 
 - A. x = t, y = 4 − 2t
@@ -8986,12 +9040,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. x = 4 + 2t, y = t
 - D. x = 4 − 2t, y = t
 
-**Q1284.** Describe geometrically what it means for a system of two linear equations in x and y to have no solution, and state the condition on the coefficients.
+**Q1287.** Describe geometrically what it means for a system of two linear equations in x and y to have no solution, and state the condition on the coefficients.
 <!-- id: methods-3-4-24 -->
 
 *Written answer*
 
-**Q1285.** For which values of a does the system (a + 1)x + 2y = 3, 3x + ay = 4 have no solution? State when it has a unique solution.
+**Q1288.** For which values of a does the system (a + 1)x + 2y = 3, 3x + ay = 4 have no solution? State when it has a unique solution.
 <!-- id: methods-3-4-25 -->
 
 *Written answer*
@@ -9000,7 +9054,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 #### First principles and differentiability
 
-**Q1286.** Which expression defines f′(x) from first principles?
+**Q1289.** Which expression defines f′(x) from first principles?
 <!-- id: methods-4-1-1 -->
 
 - A. lim(h→0) [f(x + h) − f(x)]/h
@@ -9008,7 +9062,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. lim(h→0) [f(x) − f(x + h)]/h
 - D. lim(h→0) [f(x + h) + f(x)]/h
 
-**Q1287.** For f(x) = x², the difference quotient [f(x + h) − f(x)]/h simplifies (for h ≠ 0) to:
+**Q1290.** For f(x) = x², the difference quotient [f(x + h) − f(x)]/h simplifies (for h ≠ 0) to:
 <!-- id: methods-4-1-2 -->
 
 - A. 2x
@@ -9016,7 +9070,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 2x + h²
 - D. x + h
 
-**Q1288.** For f(x) = 3x² − 5x, the difference quotient [f(x + h) − f(x)]/h simplifies (for h ≠ 0) to:
+**Q1291.** For f(x) = 3x² − 5x, the difference quotient [f(x + h) − f(x)]/h simplifies (for h ≠ 0) to:
 <!-- id: methods-4-1-3 -->
 
 - A. 6x − 5
@@ -9024,7 +9078,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 6x + 3h − 5
 - D. 3x + 6h − 5
 
-**Q1289.** Evaluate lim(h→0) [(2 + h)³ − 8]/h.
+**Q1292.** Evaluate lim(h→0) [(2 + h)³ − 8]/h.
 <!-- id: methods-4-1-4 -->
 
 - A. 8
@@ -9032,7 +9086,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 0
 - D. 12
 
-**Q1290.** For f(x) = 1/x, the difference quotient [f(x + h) − f(x)]/h simplifies (for h ≠ 0) to:
+**Q1293.** For f(x) = 1/x, the difference quotient [f(x + h) − f(x)]/h simplifies (for h ≠ 0) to:
 <!-- id: methods-4-1-5 -->
 
 - A. −1/(x(x + h))
@@ -9040,7 +9094,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. −1/x²
 - D. −h/(x(x + h))
 
-**Q1291.** The average rate of change of f(x) = x³ over the interval [1, 3] is:
+**Q1294.** The average rate of change of f(x) = x³ over the interval [1, 3] is:
 <!-- id: methods-4-1-6 -->
 
 - A. 26
@@ -9048,7 +9102,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 12
 - D. 14
 
-**Q1292.** For f(x) = |x − 2|, which statement is true at x = 2?
+**Q1295.** For f(x) = |x − 2|, which statement is true at x = 2?
 <!-- id: methods-4-1-7 -->
 
 - A. f is differentiable at x = 2 with f′(2) = 0
@@ -9056,7 +9110,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. f is continuous but not differentiable at x = 2
 - D. f′(2) = 1
 
-**Q1293.** If f(x) = 4x^(3/2), then f′(x) equals:
+**Q1296.** If f(x) = 4x^(3/2), then f′(x) equals:
 <!-- id: methods-4-1-8 -->
 
 - A. 6x^(3/2)
@@ -9064,7 +9118,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 4√x
 - D. 6√x
 
-**Q1294.** If y = 2/x³, then dy/dx equals:
+**Q1297.** If y = 2/x³, then dy/dx equals:
 <!-- id: methods-4-1-9 -->
 
 - A. −6/x⁴
@@ -9072,7 +9126,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 6/x⁴
 - D. −2/x⁴
 
-**Q1295.** If y = (x³ − 4x)/(2x) for x ≠ 0, then dy/dx equals:
+**Q1298.** If y = (x³ − 4x)/(2x) for x ≠ 0, then dy/dx equals:
 <!-- id: methods-4-1-10 -->
 
 - A. (3x² − 4)/2
@@ -9080,7 +9134,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. x − 2
 - D. 3x² − 4
 
-**Q1296.** If f(x) = 5x⁴ − 2x + 7, then f′(−1) equals:
+**Q1299.** If f(x) = 5x⁴ − 2x + 7, then f′(−1) equals:
 <!-- id: methods-4-1-11 -->
 
 - A. −18
@@ -9088,7 +9142,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. −22
 - D. 18
 
-**Q1297.** The gradient of y = x³ − 3x is zero when:
+**Q1300.** The gradient of y = x³ − 3x is zero when:
 <!-- id: methods-4-1-12 -->
 
 - A. x = 0 and x = ±√3
@@ -9096,7 +9150,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. x = 1 only
 - D. x = ±1
 
-**Q1298.** f(x) = x² for x < 1 and f(x) = ax + b for x ≥ 1. For f to be differentiable at x = 1, the values of a and b are:
+**Q1301.** f(x) = x² for x < 1 and f(x) = ax + b for x ≥ 1. For f to be differentiable at x = 1, the values of a and b are:
 <!-- id: methods-4-1-13 -->
 
 - A. a = 2, b = −1
@@ -9104,7 +9158,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. a = 2, b = 1
 - D. a = −1, b = 2
 
-**Q1299.** For f(x) = x^(1/3), which statement about x = 0 is correct?
+**Q1302.** For f(x) = x^(1/3), which statement about x = 0 is correct?
 <!-- id: methods-4-1-14 -->
 
 - A. f′(0) = 0
@@ -9112,7 +9166,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. f′(0) = 1/3
 - D. f is not defined at x = 0
 
-**Q1300.** Evaluate lim(h→0) [√(9 + h) − 3]/h.
+**Q1303.** Evaluate lim(h→0) [√(9 + h) − 3]/h.
 <!-- id: methods-4-1-15 -->
 
 - A. 1/3
@@ -9120,7 +9174,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 1/6
 - D. 0
 
-**Q1301.** Evaluate lim(h→0) [sin(π/3 + h) − sin(π/3)]/h.
+**Q1304.** Evaluate lim(h→0) [sin(π/3 + h) − sin(π/3)]/h.
 <!-- id: methods-4-1-16 -->
 
 - A. √3/2
@@ -9128,7 +9182,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 0
 - D. 1/2
 
-**Q1302.** Which of the following functions is NOT differentiable for all real x?
+**Q1305.** Which of the following functions is NOT differentiable for all real x?
 <!-- id: methods-4-1-17 -->
 
 - A. f(x) = |x + 1|
@@ -9136,7 +9190,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. f(x) = e^x
 - D. f(x) = sin(x)
 
-**Q1303.** For f(x) = x², at what value of x does the instantaneous rate of change equal the average rate of change over [1, 3]?
+**Q1306.** For f(x) = x², at what value of x does the instantaneous rate of change equal the average rate of change over [1, 3]?
 <!-- id: methods-4-1-18 -->
 
 - A. x = 4
@@ -9144,44 +9198,44 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. x = 1
 - D. x = 2.5
 
-**Q1304.** Use first principles to find the derivative of f(x) = x² + 4x.
+**Q1307.** Use first principles to find the derivative of f(x) = x² + 4x.
 <!-- id: methods-4-1-19 -->
 
 *Written answer*
 
-**Q1305.** Use first principles to show that the derivative of f(x) = x³ is 3x².
+**Q1308.** Use first principles to show that the derivative of f(x) = x³ is 3x².
 <!-- id: methods-4-1-20 -->
 
 *Written answer*
 
-**Q1306.** State the values of x at which f(x) = |x² − 4| is not differentiable, and explain why.
+**Q1309.** State the values of x at which f(x) = |x² − 4| is not differentiable, and explain why.
 <!-- id: methods-4-1-21 -->
 
 *Written answer*
 
-**Q1307.** If f(x) = x² + kx and f′(3) = 10, find k.
+**Q1310.** If f(x) = x² + kx and f′(3) = 10, find k.
 <!-- id: methods-4-1-22 -->
 
 *Written answer*
 
-**Q1308.** f(x) = ax² for x ≤ 2 and f(x) = 8x − b for x > 2. Find a and b so that f is differentiable at x = 2.
+**Q1311.** f(x) = ax² for x ≤ 2 and f(x) = 8x − b for x > 2. Find a and b so that f is differentiable at x = 2.
 <!-- id: methods-4-1-23 -->
 
 *Written answer*
 
-**Q1309.** Find the coordinates of the points on y = x³ − 6x² + 9x + 1 where the gradient is zero.
+**Q1312.** Find the coordinates of the points on y = x³ − 6x² + 9x + 1 where the gradient is zero.
 <!-- id: methods-4-1-24 -->
 
 *Written answer*
 
-**Q1310.** For f(x) = √x, find the average rate of change over [4, 9] and the instantaneous rate of change at x = 4.
+**Q1313.** For f(x) = √x, find the average rate of change over [4, 9] and the instantaneous rate of change at x = 4.
 <!-- id: methods-4-1-25 -->
 
 *Written answer*
 
 #### Chain, product and quotient rules
 
-**Q1311.** If y = (2x + 1)⁵, then dy/dx equals:
+**Q1314.** If y = (2x + 1)⁵, then dy/dx equals:
 <!-- id: methods-4-2-1 -->
 
 - A. 10(2x + 1)⁴
@@ -9189,7 +9243,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 10(2x + 1)⁵
 - D. 2(2x + 1)⁴
 
-**Q1312.** If y = √(x² + 1), then dy/dx equals:
+**Q1315.** If y = √(x² + 1), then dy/dx equals:
 <!-- id: methods-4-2-2 -->
 
 - A. 1/(2√(x² + 1))
@@ -9197,7 +9251,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 2x/√(x² + 1)
 - D. x√(x² + 1)
 
-**Q1313.** If y = 1/(3x − 2)², then dy/dx equals:
+**Q1316.** If y = 1/(3x − 2)², then dy/dx equals:
 <!-- id: methods-4-2-3 -->
 
 - A. −2/(3x − 2)³
@@ -9205,7 +9259,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. −6/(3x − 2)³
 - D. −6/(3x − 2)²
 
-**Q1314.** The derivative of x²(x − 1)³ is:
+**Q1317.** The derivative of x²(x − 1)³ is:
 <!-- id: methods-4-2-4 -->
 
 - A. 6x(x − 1)²
@@ -9213,7 +9267,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 2x(x − 1)³ − 3x²(x − 1)²
 - D. 2x(x − 1)³ + 3x²(x − 1)²
 
-**Q1315.** The derivative of x/(x + 1) is:
+**Q1318.** The derivative of x/(x + 1) is:
 <!-- id: methods-4-2-5 -->
 
 - A. 1/(x + 1)²
@@ -9221,7 +9275,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. (2x + 1)/(x + 1)²
 - D. x/(x + 1)²
 
-**Q1316.** The derivative of (2x − 1)/(x + 3) is:
+**Q1319.** The derivative of (2x − 1)/(x + 3) is:
 <!-- id: methods-4-2-6 -->
 
 - A. −7/(x + 3)²
@@ -9229,7 +9283,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 5/(x + 3)²
 - D. 2
 
-**Q1317.** f(x) = g(x)h(x), where g(2) = 3, g′(2) = −1, h(2) = 4 and h′(2) = 5. Then f′(2) equals:
+**Q1320.** f(x) = g(x)h(x), where g(2) = 3, g′(2) = −1, h(2) = 4 and h′(2) = 5. Then f′(2) equals:
 <!-- id: methods-4-2-7 -->
 
 - A. −5
@@ -9237,7 +9291,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 11
 - D. 12
 
-**Q1318.** f(x) = g(x²) and g′(4) = 3. Then f′(2) equals:
+**Q1321.** f(x) = g(x²) and g′(4) = 3. Then f′(2) equals:
 <!-- id: methods-4-2-8 -->
 
 - A. 3
@@ -9245,7 +9299,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 6
 - D. 12
 
-**Q1319.** If y = u³ and u = 2x² − 1, then dy/dx at x = 1 equals:
+**Q1322.** If y = u³ and u = 2x² − 1, then dy/dx at x = 1 equals:
 <!-- id: methods-4-2-9 -->
 
 - A. 12
@@ -9253,7 +9307,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 4
 - D. 7
 
-**Q1320.** For y = u/v, where u and v are functions of x, the quotient rule states dy/dx =
+**Q1323.** For y = u/v, where u and v are functions of x, the quotient rule states dy/dx =
 <!-- id: methods-4-2-10 -->
 
 - A. (u·v′ − v·u′)/v²
@@ -9261,7 +9315,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. (v·u′ + u·v′)/v²
 - D. u′/v′
 
-**Q1321.** The derivative of x√(x + 1) simplifies to:
+**Q1324.** The derivative of x√(x + 1) simplifies to:
 <!-- id: methods-4-2-11 -->
 
 - A. 1/(2√(x + 1))
@@ -9269,7 +9323,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. (3x + 2)/(2√(x + 1))
 - D. (x + 2)/(2√(x + 1))
 
-**Q1322.** If f(x) = (x² − 3)⁴, then f′(2) equals:
+**Q1325.** If f(x) = (x² − 3)⁴, then f′(2) equals:
 <!-- id: methods-4-2-12 -->
 
 - A. 4
@@ -9277,7 +9331,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 8
 - D. 16
 
-**Q1323.** f(x) = g(x)/h(x), where g(1) = 2, g′(1) = 3, h(1) = 1 and h′(1) = 4. Then f′(1) equals:
+**Q1326.** f(x) = g(x)/h(x), where g(1) = 2, g′(1) = 3, h(1) = 1 and h′(1) = 4. Then f′(1) equals:
 <!-- id: methods-4-2-13 -->
 
 - A. −5
@@ -9285,7 +9339,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 11
 - D. 3/4
 
-**Q1324.** The derivative of (x² + 1)/x is:
+**Q1327.** The derivative of (x² + 1)/x is:
 <!-- id: methods-4-2-14 -->
 
 - A. (x² + 1)/x²
@@ -9293,7 +9347,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 2x
 - D. (1 − x²)/x²
 
-**Q1325.** If y = (3x + 2)^(−1/2), then dy/dx equals:
+**Q1328.** If y = (3x + 2)^(−1/2), then dy/dx equals:
 <!-- id: methods-4-2-15 -->
 
 - A. −(1/2)(3x + 2)^(−3/2)
@@ -9301,7 +9355,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. −(3/2)(3x + 2)^(−3/2)
 - D. −(3/2)(3x + 2)^(−1/2)
 
-**Q1326.** f(x) = [g(x)]³, where g(0) = 2 and g′(0) = −1. Then f′(0) equals:
+**Q1329.** f(x) = [g(x)]³, where g(0) = 2 and g′(0) = −1. Then f′(0) equals:
 <!-- id: methods-4-2-16 -->
 
 - A. 12
@@ -9309,7 +9363,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. −6
 - D. −12
 
-**Q1327.** Which function requires both the product rule and the chain rule to differentiate?
+**Q1330.** Which function requires both the product rule and the chain rule to differentiate?
 <!-- id: methods-4-2-17 -->
 
 - A. y = x(2x − 1)⁴
@@ -9317,7 +9371,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. y = x² + (2x − 1)
 - D. y = (x + 1)/(x − 1)
 
-**Q1328.** The derivative of (x + 1)²(x − 2) is:
+**Q1331.** The derivative of (x + 1)²(x − 2) is:
 <!-- id: methods-4-2-18 -->
 
 - A. 2(x + 1)
@@ -9325,44 +9379,44 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 3x² + 3
 - D. 3x² − 4x
 
-**Q1329.** Differentiate y = (x² − 5x)⁶.
+**Q1332.** Differentiate y = (x² − 5x)⁶.
 <!-- id: methods-4-2-19 -->
 
 *Written answer*
 
-**Q1330.** Differentiate y = x³/(x − 2), giving your answer in factorised form.
+**Q1333.** Differentiate y = x³/(x − 2), giving your answer in factorised form.
 <!-- id: methods-4-2-20 -->
 
 *Written answer*
 
-**Q1331.** Find the values of x for which the gradient of y = x/(x² + 1) is zero.
+**Q1334.** Find the values of x for which the gradient of y = x/(x² + 1) is zero.
 <!-- id: methods-4-2-21 -->
 
 *Written answer*
 
-**Q1332.** For f(x) = x²√(4 − x), x < 4, find f′(x) and the values of x where f′(x) = 0.
+**Q1335.** For f(x) = x²√(4 − x), x < 4, find f′(x) and the values of x where f′(x) = 0.
 <!-- id: methods-4-2-22 -->
 
 *Written answer*
 
-**Q1333.** h(x) = f(g(x)), where g(1) = 3, g′(1) = 5 and f′(3) = −2. Find h′(1).
+**Q1336.** h(x) = f(g(x)), where g(1) = 3, g′(1) = 5 and f′(3) = −2. Find h′(1).
 <!-- id: methods-4-2-23 -->
 
 *Written answer*
 
-**Q1334.** Use the chain rule to show that the derivative of 1/g(x) is −g′(x)/[g(x)]².
+**Q1337.** Use the chain rule to show that the derivative of 1/g(x) is −g′(x)/[g(x)]².
 <!-- id: methods-4-2-24 -->
 
 *Written answer*
 
-**Q1335.** Differentiate y = (2x + 3)³(x − 1)² and fully factorise the result.
+**Q1338.** Differentiate y = (2x + 3)³(x − 1)² and fully factorise the result.
 <!-- id: methods-4-2-25 -->
 
 *Written answer*
 
 #### Exponential, logarithmic and circular derivatives
 
-**Q1336.** If y = e^(3x), then dy/dx equals:
+**Q1339.** If y = e^(3x), then dy/dx equals:
 <!-- id: methods-4-3-1 -->
 
 - A. 3e^(3x)
@@ -9370,7 +9424,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. (1/3)e^(3x)
 - D. 3xe^(3x)
 
-**Q1337.** If y = log_e(5x), x > 0, then dy/dx equals:
+**Q1340.** If y = log_e(5x), x > 0, then dy/dx equals:
 <!-- id: methods-4-3-2 -->
 
 - A. 5/x
@@ -9378,7 +9432,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 1/(5x)
 - D. log_e(5)/x
 
-**Q1338.** If y = log_e(x² + 1), then dy/dx equals:
+**Q1341.** If y = log_e(x² + 1), then dy/dx equals:
 <!-- id: methods-4-3-3 -->
 
 - A. 1/(x² + 1)
@@ -9386,7 +9440,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 2x/(x² + 1)
 - D. (x² + 1)/(2x)
 
-**Q1339.** If y = sin(2x), then dy/dx equals:
+**Q1342.** If y = sin(2x), then dy/dx equals:
 <!-- id: methods-4-3-4 -->
 
 - A. cos(2x)
@@ -9394,7 +9448,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 2sin(2x)
 - D. 2cos(2x)
 
-**Q1340.** If y = cos(3x), then dy/dx equals:
+**Q1343.** If y = cos(3x), then dy/dx equals:
 <!-- id: methods-4-3-5 -->
 
 - A. −3sin(3x)
@@ -9402,7 +9456,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. −sin(3x)
 - D. −3cos(3x)
 
-**Q1341.** The derivative of tan(x) is:
+**Q1344.** The derivative of tan(x) is:
 <!-- id: methods-4-3-6 -->
 
 - A. −1/sin²(x)
@@ -9410,7 +9464,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. sin(x)/cos(x)
 - D. 1/sin²(x)
 
-**Q1342.** The derivative of xe^x is:
+**Q1345.** The derivative of xe^x is:
 <!-- id: methods-4-3-7 -->
 
 - A. e^x
@@ -9418,7 +9472,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. (x + 1)e^x
 - D. (x − 1)e^x
 
-**Q1343.** If y = e^(x²), then dy/dx equals:
+**Q1346.** If y = e^(x²), then dy/dx equals:
 <!-- id: methods-4-3-8 -->
 
 - A. e^(x²)
@@ -9426,7 +9480,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 2e^(x²)
 - D. 2xe^(x²)
 
-**Q1344.** The derivative of log_e(x)/x, x > 0, is:
+**Q1347.** The derivative of log_e(x)/x, x > 0, is:
 <!-- id: methods-4-3-9 -->
 
 - A. (1 − log_e x)/x²
@@ -9434,7 +9488,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 1/x²
 - D. (1 + log_e x)/x²
 
-**Q1345.** If f(x) = sin²(x), then f′(x) equals:
+**Q1348.** If f(x) = sin²(x), then f′(x) equals:
 <!-- id: methods-4-3-10 -->
 
 - A. 2cos(x)
@@ -9442,7 +9496,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. cos²(x)
 - D. 2sin(x)
 
-**Q1346.** The derivative of e^(−x)sin(x) is:
+**Q1349.** The derivative of e^(−x)sin(x) is:
 <!-- id: methods-4-3-11 -->
 
 - A. e^(−x)(cos x + sin x)
@@ -9450,7 +9504,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. e^(−x)(cos x − sin x)
 - D. e^(−x)(sin x − cos x)
 
-**Q1347.** If f(x) = log_e(cos x), for 0 < x < π/2, then f′(x) equals:
+**Q1350.** If f(x) = log_e(cos x), for 0 < x < π/2, then f′(x) equals:
 <!-- id: methods-4-3-12 -->
 
 - A. tan(x)
@@ -9458,7 +9512,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. −cos(x)/sin(x)
 - D. −tan(x)
 
-**Q1348.** The gradient of y = e^(2x) at x = 0 is:
+**Q1351.** The gradient of y = e^(2x) at x = 0 is:
 <!-- id: methods-4-3-13 -->
 
 - A. 2
@@ -9466,7 +9520,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 0
 - D. e²
 
-**Q1349.** If f(x) = 3sin(πx/2), then f′(1) equals:
+**Q1352.** If f(x) = 3sin(πx/2), then f′(1) equals:
 <!-- id: methods-4-3-14 -->
 
 - A. 3π/2
@@ -9474,7 +9528,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 3
 - D. −3π/2
 
-**Q1350.** For x > 1, the derivative of log_e((x − 1)/(x + 1)) is:
+**Q1353.** For x > 1, the derivative of log_e((x − 1)/(x + 1)) is:
 <!-- id: methods-4-3-15 -->
 
 - A. −2/(x² − 1)
@@ -9482,7 +9536,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 2/(x² − 1)
 - D. 1/(x² − 1)
 
-**Q1351.** If y = tan(2x), the value of dy/dx at x = π/8 is:
+**Q1354.** If y = tan(2x), the value of dy/dx at x = π/8 is:
 <!-- id: methods-4-3-16 -->
 
 - A. 2
@@ -9490,7 +9544,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 8
 - D. 4
 
-**Q1352.** For y = e^x cos(x) with 0 ≤ x ≤ π, dy/dx = 0 when x equals:
+**Q1355.** For y = e^x cos(x) with 0 ≤ x ≤ π, dy/dx = 0 when x equals:
 <!-- id: methods-4-3-17 -->
 
 - A. π/4
@@ -9498,7 +9552,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 3π/4
 - D. 0
 
-**Q1353.** The derivative of log_e(e^(3x) + 1) is:
+**Q1356.** The derivative of log_e(e^(3x) + 1) is:
 <!-- id: methods-4-3-18 -->
 
 - A. e^(3x)/(e^(3x) + 1)
@@ -9506,44 +9560,44 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 1/(e^(3x) + 1)
 - D. 3e^(3x)·log_e(e^(3x) + 1)
 
-**Q1354.** Differentiate y = x²e^(−2x) and find the x-values of its stationary points.
+**Q1357.** Differentiate y = x²e^(−2x) and find the x-values of its stationary points.
 <!-- id: methods-4-3-19 -->
 
 *Written answer*
 
-**Q1355.** For y = log_e(x² − 4x + 5), find dy/dx and the value of x where the gradient is zero.
+**Q1358.** For y = log_e(x² − 4x + 5), find dy/dx and the value of x where the gradient is zero.
 <!-- id: methods-4-3-20 -->
 
 *Written answer*
 
-**Q1356.** If f(x) = x sin(x), find f′(π).
+**Q1359.** If f(x) = x sin(x), find f′(π).
 <!-- id: methods-4-3-21 -->
 
 *Written answer*
 
-**Q1357.** Find the values of k for which y = e^(kx) satisfies d²y/dx² − 5(dy/dx) + 6y = 0.
+**Q1360.** Find the values of k for which y = e^(kx) satisfies d²y/dx² − 5(dy/dx) + 6y = 0.
 <!-- id: methods-4-3-22 -->
 
 *Written answer*
 
-**Q1358.** Differentiate f(x) = cos³(x).
+**Q1361.** Differentiate f(x) = cos³(x).
 <!-- id: methods-4-3-23 -->
 
 *Written answer*
 
-**Q1359.** For f(x) = log_e(√(2x + 1)), find f′(x) and f′(4).
+**Q1362.** For f(x) = log_e(√(2x + 1)), find f′(x) and f′(4).
 <!-- id: methods-4-3-24 -->
 
 *Written answer*
 
-**Q1360.** If y = e^(sin x), find dy/dx and its value at x = 0.
+**Q1363.** If y = e^(sin x), find dy/dx and its value at x = 0.
 <!-- id: methods-4-3-25 -->
 
 *Written answer*
 
 #### Tangents, normals and rates of change
 
-**Q1361.** The equation of the tangent to y = x² at the point (3, 9) is:
+**Q1364.** The equation of the tangent to y = x² at the point (3, 9) is:
 <!-- id: methods-4-4-1 -->
 
 - A. y = 6x − 9
@@ -9551,7 +9605,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. y = 2x + 3
 - D. y = 6x − 27
 
-**Q1362.** The gradient of the normal to y = x³ at x = 1 is:
+**Q1365.** The gradient of the normal to y = x³ at x = 1 is:
 <!-- id: methods-4-4-2 -->
 
 - A. 3
@@ -9559,7 +9613,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 1/3
 - D. −3
 
-**Q1363.** The equation of the normal to y = √x at the point (4, 2) is:
+**Q1366.** The equation of the normal to y = √x at the point (4, 2) is:
 <!-- id: methods-4-4-3 -->
 
 - A. y = (1/4)x + 1
@@ -9567,7 +9621,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. y = −4x + 18
 - D. y = 4x − 14
 
-**Q1364.** The equation of the tangent to y = e^x at x = 0 is:
+**Q1367.** The equation of the tangent to y = e^x at x = 0 is:
 <!-- id: methods-4-4-4 -->
 
 - A. y = x
@@ -9575,7 +9629,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. y = x − 1
 - D. y = x + 1
 
-**Q1365.** The equation of the tangent to y = log_e(x) at x = e is:
+**Q1368.** The equation of the tangent to y = log_e(x) at x = e is:
 <!-- id: methods-4-4-5 -->
 
 - A. y = x/e
@@ -9583,7 +9637,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. y = x − e + 1
 - D. y = x/e − 1
 
-**Q1366.** At which point on y = x² − 4x + 1 is the tangent parallel to the line y = 2x + 5?
+**Q1369.** At which point on y = x² − 4x + 1 is the tangent parallel to the line y = 2x + 5?
 <!-- id: methods-4-4-6 -->
 
 - A. (1, −2)
@@ -9591,7 +9645,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. (3, 4)
 - D. (2, −3)
 
-**Q1367.** The equation of the tangent to y = sin(x) at x = π is:
+**Q1370.** The equation of the tangent to y = sin(x) at x = π is:
 <!-- id: methods-4-4-7 -->
 
 - A. y = x − π
@@ -9599,7 +9653,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. y = −x + π
 - D. y = −x − π
 
-**Q1368.** The radius of a spherical balloon increases at 2 cm/s. Given V = (4/3)πr³, the rate of increase of volume when r = 5 cm is:
+**Q1371.** The radius of a spherical balloon increases at 2 cm/s. Given V = (4/3)πr³, the rate of increase of volume when r = 5 cm is:
 <!-- id: methods-4-4-8 -->
 
 - A. 100π cm³/s
@@ -9607,7 +9661,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. (1000π/3) cm³/s
 - D. 200π cm³/s
 
-**Q1369.** The depth of water at a Port Phillip pier is h(t) = 3 + 2sin(πt/6) metres, t hours after midnight. The rate of change of depth at t = 2 is:
+**Q1372.** The depth of water at a Port Phillip pier is h(t) = 3 + 2sin(πt/6) metres, t hours after midnight. The rate of change of depth at t = 2 is:
 <!-- id: methods-4-4-9 -->
 
 - A. π/6 m/h
@@ -9615,7 +9669,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. √3π/6 m/h
 - D. 1 m/h
 
-**Q1370.** A population of possums is modelled by P(t) = 500e^(0.04t), t in years. The rate of growth at t = 0 is:
+**Q1373.** A population of possums is modelled by P(t) = 500e^(0.04t), t in years. The rate of growth at t = 0 is:
 <!-- id: methods-4-4-10 -->
 
 - A. 500 possums per year
@@ -9623,7 +9677,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 0.04 possums per year
 - D. 520 possums per year
 
-**Q1371.** A particle has displacement x(t) = t³ − 6t² + 9t metres for t ≥ 0. Its velocity is zero when:
+**Q1374.** A particle has displacement x(t) = t³ − 6t² + 9t metres for t ≥ 0. Its velocity is zero when:
 <!-- id: methods-4-4-11 -->
 
 - A. t = 0 and t = 3
@@ -9631,7 +9685,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. t = 1 and t = 3
 - D. t = 2 only
 
-**Q1372.** A particle has displacement x(t) = t³ − 6t² + 9t metres. Its velocity at t = 2 seconds is:
+**Q1375.** A particle has displacement x(t) = t³ − 6t² + 9t metres. Its velocity at t = 2 seconds is:
 <!-- id: methods-4-4-12 -->
 
 - A. 3 m/s
@@ -9639,7 +9693,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 0 m/s
 - D. −3 m/s
 
-**Q1373.** The normal to y = x² at (1, 1) meets the curve again at:
+**Q1376.** The normal to y = x² at (1, 1) meets the curve again at:
 <!-- id: methods-4-4-13 -->
 
 - A. (−3/2, 9/4)
@@ -9647,7 +9701,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. (−1, 1)
 - D. (−2, 4)
 
-**Q1374.** For a circle, A = πr². The rate of change of area with respect to radius when r = 3 cm is:
+**Q1377.** For a circle, A = πr². The rate of change of area with respect to radius when r = 3 cm is:
 <!-- id: methods-4-4-14 -->
 
 - A. 9π cm²/cm
@@ -9655,7 +9709,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 3π cm²/cm
 - D. 2π cm²/cm
 
-**Q1375.** A tangent to y = x³ passes through the point (0, −2). The x-coordinate of the point of tangency is:
+**Q1378.** A tangent to y = x³ passes through the point (0, −2). The x-coordinate of the point of tangency is:
 <!-- id: methods-4-4-15 -->
 
 - A. −1
@@ -9663,7 +9717,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 1
 - D. √2
 
-**Q1376.** A Bendigo bakery's cost of making x loaves is C(x) = 0.02x² + 15x + 400 dollars. The marginal cost C′(100) is:
+**Q1379.** A Bendigo bakery's cost of making x loaves is C(x) = 0.02x² + 15x + 400 dollars. The marginal cost C′(100) is:
 <!-- id: methods-4-4-16 -->
 
 - A. $15 per loaf
@@ -9671,7 +9725,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. $23 per loaf
 - D. $19 per loaf
 
-**Q1377.** The temperature of a coffee is T(t) = 20 + 70e^(−0.1t) °C after t minutes. The rate of change of temperature at t = 10 is:
+**Q1380.** The temperature of a coffee is T(t) = 20 + 70e^(−0.1t) °C after t minutes. The rate of change of temperature at t = 10 is:
 <!-- id: methods-4-4-17 -->
 
 - A. −7e^(−1) °C/min
@@ -9679,7 +9733,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. −70e^(−1) °C/min
 - D. −0.1e^(−1) °C/min
 
-**Q1378.** The equation of the tangent to y = 1/x at x = 2 is:
+**Q1381.** The equation of the tangent to y = 1/x at x = 2 is:
 <!-- id: methods-4-4-18 -->
 
 - A. y = −x/4 + 1/2
@@ -9687,37 +9741,37 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. y = x/4
 - D. y = −x/2 + 3/2
 
-**Q1379.** Find the equations of the tangent and the normal to y = x³ − 2x at x = 1.
+**Q1382.** Find the equations of the tangent and the normal to y = x³ − 2x at x = 1.
 <!-- id: methods-4-4-19 -->
 
 *Written answer*
 
-**Q1380.** The side length of a square tile is increasing at 0.5 cm/s. Find the rate at which its area is increasing when the side length is 8 cm.
+**Q1383.** The side length of a square tile is increasing at 0.5 cm/s. Find the rate at which its area is increasing when the side length is 8 cm.
 <!-- id: methods-4-4-20 -->
 
 *Written answer*
 
-**Q1381.** Find the equation of the tangent to y = 2e^(x − 1) at x = 1.
+**Q1384.** Find the equation of the tangent to y = 2e^(x − 1) at x = 1.
 <!-- id: methods-4-4-21 -->
 
 *Written answer*
 
-**Q1382.** A particle has displacement x(t) = 4t − t² metres. Find the average velocity over [0, 3] and the instantaneous velocity at t = 3.
+**Q1385.** A particle has displacement x(t) = 4t − t² metres. Find the average velocity over [0, 3] and the instantaneous velocity at t = 3.
 <!-- id: methods-4-4-22 -->
 
 *Written answer*
 
-**Q1383.** Find the coordinates of the point on y = x² + 3x − 4 where the tangent is perpendicular to the line y = −x/5 + 2.
+**Q1386.** Find the coordinates of the point on y = x² + 3x − 4 where the tangent is perpendicular to the line y = −x/5 + 2.
 <!-- id: methods-4-4-23 -->
 
 *Written answer*
 
-**Q1384.** Find the equation of the tangent to y = log_e(x) at x = e², and its x-intercept.
+**Q1387.** Find the equation of the tangent to y = log_e(x) at x = e², and its x-intercept.
 <!-- id: methods-4-4-24 -->
 
 *Written answer*
 
-**Q1385.** Water flows into a cylindrical tank of radius 2 m at 0.5 m³/min. Find the rate at which the water level rises.
+**Q1388.** Water flows into a cylindrical tank of radius 2 m at 0.5 m³/min. Find the rate at which the water level rises.
 <!-- id: methods-4-4-25 -->
 
 *Written answer*
@@ -9726,7 +9780,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 #### Stationary points and their nature
 
-**Q1386.** Let f(x) = x³ − 3x. The stationary points of f occur at
+**Q1389.** Let f(x) = x³ − 3x. The stationary points of f occur at
 <!-- id: methods-5-1-1 -->
 
 - A. x = −1 and x = 1
@@ -9734,7 +9788,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. x = 1 only
 - D. x = −√3, x = 0 and x = √3
 
-**Q1387.** Let f(x) = x³ − 3x. The coordinates of the local maximum are
+**Q1390.** Let f(x) = x³ − 3x. The coordinates of the local maximum are
 <!-- id: methods-5-1-2 -->
 
 - A. (1, −2)
@@ -9742,7 +9796,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. (−1, −2)
 - D. (1, 2)
 
-**Q1388.** For y = x⁴ − 4x³, the stationary point at x = 0 is a
+**Q1391.** For y = x⁴ − 4x³, the stationary point at x = 0 is a
 <!-- id: methods-5-1-3 -->
 
 - A. local minimum
@@ -9750,7 +9804,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. stationary point of inflection
 - D. point where the derivative is undefined
 
-**Q1389.** The local minimum value of y = x⁴ − 4x³ is
+**Q1392.** The local minimum value of y = x⁴ − 4x³ is
 <!-- id: methods-5-1-4 -->
 
 - A. 0
@@ -9758,7 +9812,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 27
 - D. −27
 
-**Q1390.** The stationary point of f(x) = xe^(−x) is
+**Q1393.** The stationary point of f(x) = xe^(−x) is
 <!-- id: methods-5-1-5 -->
 
 - A. (1, 1/e)
@@ -9766,7 +9820,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. (0, 0)
 - D. (−1, −e)
 
-**Q1391.** For f(x) = x log_e(x), x > 0, the stationary point occurs at x =
+**Q1394.** For f(x) = x log_e(x), x > 0, the stationary point occurs at x =
 <!-- id: methods-5-1-6 -->
 
 - A. e
@@ -9774,7 +9828,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 1
 - D. e²
 
-**Q1392.** The function f(x) = x²e^x has stationary points at
+**Q1395.** The function f(x) = x²e^x has stationary points at
 <!-- id: methods-5-1-7 -->
 
 - A. x = 0 only
@@ -9782,7 +9836,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. x = 0 and x = −2
 - D. x = −2 only
 
-**Q1393.** A twice-differentiable function has f′(a) = 0 and f″(a) = −5. At x = a the graph of f has a
+**Q1396.** A twice-differentiable function has f′(a) = 0 and f″(a) = −5. At x = a the graph of f has a
 <!-- id: methods-5-1-8 -->
 
 - A. local minimum
@@ -9790,7 +9844,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. non-stationary point of inflection
 - D. local maximum
 
-**Q1394.** For f(x) = x³, the stationary point at the origin is a
+**Q1397.** For f(x) = x³, the stationary point at the origin is a
 <!-- id: methods-5-1-9 -->
 
 - A. stationary point of inflection
@@ -9798,7 +9852,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. local maximum
 - D. point where f is not differentiable
 
-**Q1395.** For y = 2x³ + 3x² − 12x + 1, the local minimum is at
+**Q1398.** For y = 2x³ + 3x² − 12x + 1, the local minimum is at
 <!-- id: methods-5-1-10 -->
 
 - A. (−2, 21)
@@ -9806,7 +9860,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. (1, 6)
 - D. (−2, −6)
 
-**Q1396.** For f(x) = sin(x) + cos(x), 0 ≤ x ≤ 2π, the stationary points occur at
+**Q1399.** For f(x) = sin(x) + cos(x), 0 ≤ x ≤ 2π, the stationary points occur at
 <!-- id: methods-5-1-11 -->
 
 - A. x = 3π/4 and x = 7π/4
@@ -9814,7 +9868,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. x = π/4 and x = 5π/4
 - D. x = π/2 and x = 3π/2
 
-**Q1397.** The maximum value of f(x) = sin(x) + cos(x) is
+**Q1400.** The maximum value of f(x) = sin(x) + cos(x) is
 <!-- id: methods-5-1-12 -->
 
 - A. 2
@@ -9822,7 +9876,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 1/√2
 - D. √2
 
-**Q1398.** The function f(x) = x³ + kx has exactly two stationary points when
+**Q1401.** The function f(x) = x³ + kx has exactly two stationary points when
 <!-- id: methods-5-1-13 -->
 
 - A. k < 0
@@ -9830,7 +9884,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. k ≤ 0
 - D. k ≠ 0
 
-**Q1399.** For f(x) = (x − 2)²(x + 1), the local maximum is at
+**Q1402.** For f(x) = (x − 2)²(x + 1), the local maximum is at
 <!-- id: methods-5-1-14 -->
 
 - A. (2, 0)
@@ -9838,7 +9892,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. (−1, 0)
 - D. (0, −4)
 
-**Q1400.** The function f(x) = e^(2x) − 4x has a stationary point at x =
+**Q1403.** The function f(x) = e^(2x) − 4x has a stationary point at x =
 <!-- id: methods-5-1-15 -->
 
 - A. log_e(2)
@@ -9846,7 +9900,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. ½ log_e(2)
 - D. log_e(½)
 
-**Q1401.** For y = x + 4/x, x > 0, the minimum turning point is
+**Q1404.** For y = x + 4/x, x > 0, the minimum turning point is
 <!-- id: methods-5-1-16 -->
 
 - A. (4, 5)
@@ -9854,7 +9908,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. (−2, −4)
 - D. (2, 4)
 
-**Q1402.** If f′(x) = (x − 1)²(x + 3), then at x = 1 the graph of f has a
+**Q1405.** If f′(x) = (x − 1)²(x + 3), then at x = 1 the graph of f has a
 <!-- id: methods-5-1-17 -->
 
 - A. stationary point of inflection
@@ -9862,7 +9916,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. local minimum
 - D. non-stationary point of inflection
 
-**Q1403.** If f′(x) = (x − 1)²(x + 3), then at x = −3 the graph of f has a
+**Q1406.** If f′(x) = (x − 1)²(x + 3), then at x = −3 the graph of f has a
 <!-- id: methods-5-1-18 -->
 
 - A. local maximum
@@ -9870,44 +9924,44 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. stationary point of inflection
 - D. non-stationary point of inflection
 
-**Q1404.** Find the coordinates and nature of the stationary points of f(x) = x³ − 6x² + 9x + 2.
+**Q1407.** Find the coordinates and nature of the stationary points of f(x) = x³ − 6x² + 9x + 2.
 <!-- id: methods-5-1-19 -->
 
 *Written answer*
 
-**Q1405.** The curve y = x³ + ax² + b has a stationary point at (2, −3). Find a and b.
+**Q1408.** The curve y = x³ + ax² + b has a stationary point at (2, −3). Find a and b.
 <!-- id: methods-5-1-20 -->
 
 *Written answer*
 
-**Q1406.** Show that f(x) = x³ + 3x + 1 has no stationary points.
+**Q1409.** Show that f(x) = x³ + 3x + 1 has no stationary points.
 <!-- id: methods-5-1-21 -->
 
 *Written answer*
 
-**Q1407.** A student claims: 'If f′(a) = 0 and f″(a) = 0 then x = a must be a point of inflection.' Give a counterexample.
+**Q1410.** A student claims: 'If f′(a) = 0 and f″(a) = 0 then x = a must be a point of inflection.' Give a counterexample.
 <!-- id: methods-5-1-22 -->
 
 *Written answer*
 
-**Q1408.** Find the coordinates and nature of the stationary point of f(x) = cos(2x) for 0 < x < π.
+**Q1411.** Find the coordinates and nature of the stationary point of f(x) = cos(2x) for 0 < x < π.
 <!-- id: methods-5-1-23 -->
 
 *Written answer*
 
-**Q1409.** Find the stationary point of y = log_e(x) − x and determine its nature.
+**Q1412.** Find the stationary point of y = log_e(x) − x and determine its nature.
 <!-- id: methods-5-1-24 -->
 
 *Written answer*
 
-**Q1410.** The function f(x) = x³ − 3px has a local minimum at x = 2. Find p and the local minimum value.
+**Q1413.** The function f(x) = x³ − 3px has a local minimum at x = 2. Find p and the local minimum value.
 <!-- id: methods-5-1-25 -->
 
 *Written answer*
 
 #### Optimisation problems
 
-**Q1411.** Two positive numbers have a sum of 20. The maximum value of their product is
+**Q1414.** Two positive numbers have a sum of 20. The maximum value of their product is
 <!-- id: methods-5-2-1 -->
 
 - A. 100
@@ -9915,7 +9969,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 75
 - D. 200
 
-**Q1412.** A rectangle has a perimeter of 40 m. Its maximum possible area is
+**Q1415.** A rectangle has a perimeter of 40 m. Its maximum possible area is
 <!-- id: methods-5-2-2 -->
 
 - A. 96 m²
@@ -9923,7 +9977,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 400 m²
 - D. 80 m²
 
-**Q1413.** A farmer near Echuca has 200 m of fencing to enclose a rectangular paddock against a straight river bank (no fence along the river). The maximum area is
+**Q1416.** A farmer near Echuca has 200 m of fencing to enclose a rectangular paddock against a straight river bank (no fence along the river). The maximum area is
 <!-- id: methods-5-2-3 -->
 
 - A. 2500 m²
@@ -9931,7 +9985,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 5000 m²
 - D. 4000 m²
 
-**Q1414.** An open box is made from a 12 cm by 12 cm sheet by cutting squares of side x cm from each corner. The volume is maximised when x =
+**Q1417.** An open box is made from a 12 cm by 12 cm sheet by cutting squares of side x cm from each corner. The volume is maximised when x =
 <!-- id: methods-5-2-4 -->
 
 - A. 3
@@ -9939,7 +9993,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 4
 - D. 2
 
-**Q1415.** For the open box made from a 12 cm by 12 cm sheet by cutting squares of side x cm from the corners, the maximum volume is
+**Q1418.** For the open box made from a 12 cm by 12 cm sheet by cutting squares of side x cm from the corners, the maximum volume is
 <!-- id: methods-5-2-5 -->
 
 - A. 128 cm³
@@ -9947,7 +10001,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 144 cm³
 - D. 96 cm³
 
-**Q1416.** A business's weekly profit is P(x) = −2x² + 120x − 1000 dollars, where x is the number of units sold. The maximum weekly profit is
+**Q1419.** A business's weekly profit is P(x) = −2x² + 120x − 1000 dollars, where x is the number of units sold. The maximum weekly profit is
 <!-- id: methods-5-2-6 -->
 
 - A. $1000
@@ -9955,7 +10009,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. $1800
 - D. $3600
 
-**Q1417.** For profit P(x) = −2x² + 120x − 1000, the number of units that maximises profit is
+**Q1420.** For profit P(x) = −2x² + 120x − 1000, the number of units that maximises profit is
 <!-- id: methods-5-2-7 -->
 
 - A. 60
@@ -9963,7 +10017,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 30
 - D. 20
 
-**Q1418.** If x + 2y = 12 with x, y > 0, the maximum value of xy is
+**Q1421.** If x + 2y = 12 with x, y > 0, the maximum value of xy is
 <!-- id: methods-5-2-8 -->
 
 - A. 36
@@ -9971,7 +10025,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 24
 - D. 18
 
-**Q1419.** The absolute maximum of f(x) = x³ − 3x on the interval [0, 3] is
+**Q1422.** The absolute maximum of f(x) = x³ − 3x on the interval [0, 3] is
 <!-- id: methods-5-2-9 -->
 
 - A. 18
@@ -9979,7 +10033,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 0
 - D. −2
 
-**Q1420.** The absolute minimum of f(x) = x³ − 3x on the interval [−2, 2] is
+**Q1423.** The absolute minimum of f(x) = x³ − 3x on the interval [−2, 2] is
 <!-- id: methods-5-2-10 -->
 
 - A. −8
@@ -9987,7 +10041,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. −14
 - D. 0
 
-**Q1421.** A closed cylindrical can has volume 16π cm³. The radius that minimises its total surface area is
+**Q1424.** A closed cylindrical can has volume 16π cm³. The radius that minimises its total surface area is
 <!-- id: methods-5-2-11 -->
 
 - A. 4 cm
@@ -9995,7 +10049,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 2 cm
 - D. 1 cm
 
-**Q1422.** The minimum distance from the point (0, 2) to the curve y = x² is
+**Q1425.** The minimum distance from the point (0, 2) to the curve y = x² is
 <!-- id: methods-5-2-12 -->
 
 - A. √2
@@ -10003,7 +10057,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 3/2
 - D. √7/2
 
-**Q1423.** A cricket ball is hit vertically so that its height is h(t) = 20t − 5t² metres after t seconds. Its maximum height is
+**Q1426.** A cricket ball is hit vertically so that its height is h(t) = 20t − 5t² metres after t seconds. Its maximum height is
 <!-- id: methods-5-2-13 -->
 
 - A. 20 m
@@ -10011,7 +10065,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 10 m
 - D. 15 m
 
-**Q1424.** The total cost of a truck trip from Melbourne to Albury is C(v) = 8v + 28 800/v dollars, where v km/h is the average speed. The cost is minimised when v =
+**Q1427.** The total cost of a truck trip from Melbourne to Albury is C(v) = 8v + 28 800/v dollars, where v km/h is the average speed. The cost is minimised when v =
 <!-- id: methods-5-2-14 -->
 
 - A. 50
@@ -10019,7 +10073,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 72
 - D. 80
 
-**Q1425.** A rectangle has its base on the x-axis and its upper corners on y = 12 − x². The maximum area of the rectangle is
+**Q1428.** A rectangle has its base on the x-axis and its upper corners on y = 12 − x². The maximum area of the rectangle is
 <!-- id: methods-5-2-15 -->
 
 - A. 48
@@ -10027,7 +10081,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 32
 - D. 16√2
 
-**Q1426.** To find the absolute maximum of a differentiable function on a closed interval [a, b], you must check
+**Q1429.** To find the absolute maximum of a differentiable function on a closed interval [a, b], you must check
 <!-- id: methods-5-2-16 -->
 
 - A. only the stationary points
@@ -10035,7 +10089,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. only the points where f″(x) = 0
 - D. the stationary points in the interval and the endpoints
 
-**Q1427.** The revenue from selling tickets at a Bendigo festival is R(p) = p(500 − 10p) dollars, where p is the ticket price in dollars. The maximum revenue is
+**Q1430.** The revenue from selling tickets at a Bendigo festival is R(p) = p(500 − 10p) dollars, where p is the ticket price in dollars. The maximum revenue is
 <!-- id: methods-5-2-17 -->
 
 - A. $6250
@@ -10043,7 +10097,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. $2500
 - D. $5000
 
-**Q1428.** Two numbers have a sum of 10. The minimum value of the sum of their squares is
+**Q1431.** Two numbers have a sum of 10. The minimum value of the sum of their squares is
 <!-- id: methods-5-2-18 -->
 
 - A. 25
@@ -10051,44 +10105,44 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 100
 - D. 0
 
-**Q1429.** A rectangular garden bed of area 72 m² is built against a house wall, so fencing is needed on only three sides. Find the dimensions that minimise the length of fencing, and the minimum length.
+**Q1432.** A rectangular garden bed of area 72 m² is built against a house wall, so fencing is needed on only three sides. Find the dimensions that minimise the length of fencing, and the minimum length.
 <!-- id: methods-5-2-19 -->
 
 *Written answer*
 
-**Q1430.** An open-topped box with a square base has volume 32 000 cm³. Find the base length that minimises the surface area, and the minimum surface area.
+**Q1433.** An open-topped box with a square base has volume 32 000 cm³. Find the base length that minimises the surface area, and the minimum surface area.
 <!-- id: methods-5-2-20 -->
 
 *Written answer*
 
-**Q1431.** Find the absolute maximum and minimum values of f(x) = 2x³ − 9x² + 12x on [0, 3].
+**Q1434.** Find the absolute maximum and minimum values of f(x) = 2x³ − 9x² + 12x on [0, 3].
 <!-- id: methods-5-2-21 -->
 
 *Written answer*
 
-**Q1432.** A possum population in a Gippsland reserve is modelled by P(t) = 100 + 30te^(−0.5t), t ≥ 0 years. Find when the population is greatest and the maximum population (nearest whole number).
+**Q1435.** A possum population in a Gippsland reserve is modelled by P(t) = 100 + 30te^(−0.5t), t ≥ 0 years. Find when the population is greatest and the maximum population (nearest whole number).
 <!-- id: methods-5-2-22 -->
 
 *Written answer*
 
-**Q1433.** A rectangle is inscribed in a semicircle of radius 10 cm with one side on the diameter. Find the maximum area of the rectangle.
+**Q1436.** A rectangle is inscribed in a semicircle of radius 10 cm with one side on the diameter. Find the maximum area of the rectangle.
 <!-- id: methods-5-2-23 -->
 
 *Written answer*
 
-**Q1434.** The depth of water in a tank is d(t) = t³ − 12t² + 36t + 10 cm for 0 ≤ t ≤ 8 hours. Find the maximum depth and when it occurs.
+**Q1437.** The depth of water in a tank is d(t) = t³ − 12t² + 36t + 10 cm for 0 ≤ t ≤ 8 hours. Find the maximum depth and when it occurs.
 <!-- id: methods-5-2-24 -->
 
 *Written answer*
 
-**Q1435.** Explain why solving f′(x) = 0 alone may not give the absolute maximum of f on a closed interval.
+**Q1438.** Explain why solving f′(x) = 0 alone may not give the absolute maximum of f on a closed interval.
 <!-- id: methods-5-2-25 -->
 
 *Written answer*
 
 #### Increasing, decreasing and derivative graphs
 
-**Q1436.** The function f(x) = x² − 6x + 5 is strictly decreasing on
+**Q1439.** The function f(x) = x² − 6x + 5 is strictly decreasing on
 <!-- id: methods-5-3-1 -->
 
 - A. (−∞, 3]
@@ -10096,7 +10150,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. (−∞, 5]
 - D. [1, 5]
 
-**Q1437.** The function f(x) = x³ − 12x is strictly increasing on each of the intervals
+**Q1440.** The function f(x) = x³ − 12x is strictly increasing on each of the intervals
 <!-- id: methods-5-3-2 -->
 
 - A. [−2, 2] only
@@ -10104,7 +10158,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. (−∞, −2√3] and [2√3, ∞)
 - D. [2, ∞) only
 
-**Q1438.** The function f(x) = e^(−x²) is strictly increasing on
+**Q1441.** The function f(x) = e^(−x²) is strictly increasing on
 <!-- id: methods-5-3-3 -->
 
 - A. [0, ∞)
@@ -10112,7 +10166,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. (−∞, 0]
 - D. [−1, 1]
 
-**Q1439.** The function f(x) = log_e(x) − 2x, x > 0, is strictly increasing on
+**Q1442.** The function f(x) = log_e(x) − 2x, x > 0, is strictly increasing on
 <!-- id: methods-5-3-4 -->
 
 - A. [1/2, ∞)
@@ -10120,7 +10174,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. [2, ∞)
 - D. (0, 1/2]
 
-**Q1440.** If f′(x) > 0 for all x in (a, b), then
+**Q1443.** If f′(x) > 0 for all x in (a, b), then
 <!-- id: methods-5-3-5 -->
 
 - A. f is strictly increasing on (a, b)
@@ -10128,7 +10182,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. f has a local maximum in (a, b)
 - D. f″(x) > 0 for all x in (a, b)
 
-**Q1441.** The graph of a cubic y = f(x) with positive leading coefficient has turning points at x = −1 and x = 3. The graph of y = f′(x) is
+**Q1444.** The graph of a cubic y = f(x) with positive leading coefficient has turning points at x = −1 and x = 3. The graph of y = f′(x) is
 <!-- id: methods-5-3-6 -->
 
 - A. an inverted parabola with x-intercepts −1 and 3
@@ -10136,7 +10190,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. a straight line with x-intercept 1
 - D. a cubic with x-intercepts −1 and 3
 
-**Q1442.** At a local maximum of y = f(x), the graph of y = f′(x)
+**Q1445.** At a local maximum of y = f(x), the graph of y = f′(x)
 <!-- id: methods-5-3-7 -->
 
 - A. crosses the x-axis from below to above
@@ -10144,7 +10198,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. crosses the x-axis from above to below
 - D. has a turning point above the x-axis
 
-**Q1443.** At a stationary point of inflection of y = f(x), the graph of y = f′(x)
+**Q1446.** At a stationary point of inflection of y = f(x), the graph of y = f′(x)
 <!-- id: methods-5-3-8 -->
 
 - A. crosses the x-axis from above to below
@@ -10152,7 +10206,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. has a vertical asymptote
 - D. touches the x-axis at a turning point
 
-**Q1444.** The graph of the derivative of f(x) = 1/x is
+**Q1447.** The graph of the derivative of f(x) = 1/x is
 <!-- id: methods-5-3-9 -->
 
 - A. entirely below the x-axis, with asymptotes x = 0 and y = 0
@@ -10160,7 +10214,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. a straight line through the origin
 - D. identical to the graph of y = 1/x
 
-**Q1445.** A quadratic function f has a maximum turning point at x = 2. The graph of y = f′(x) is
+**Q1448.** A quadratic function f has a maximum turning point at x = 2. The graph of y = f′(x) is
 <!-- id: methods-5-3-10 -->
 
 - A. a straight line with positive gradient and x-intercept 2
@@ -10168,7 +10222,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. a straight line with negative gradient and y-intercept 2
 - D. the horizontal line y = 2
 
-**Q1446.** For f(x) = sin(x), 0 ≤ x ≤ 2π, the graph of y = f′(x) has x-intercepts at
+**Q1449.** For f(x) = sin(x), 0 ≤ x ≤ 2π, the graph of y = f′(x) has x-intercepts at
 <!-- id: methods-5-3-11 -->
 
 - A. x = 0, π and 2π
@@ -10176,7 +10230,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. x = π/2 and x = 3π/2
 - D. x = π/4 and x = 5π/4
 
-**Q1447.** For f(x) = √x, the graph of y = f′(x) is
+**Q1450.** For f(x) = √x, the graph of y = f′(x) is
 <!-- id: methods-5-3-12 -->
 
 - A. defined for x ≥ 0, always positive and increasing
@@ -10184,7 +10238,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. a straight line
 - D. defined for x > 0, always positive and decreasing
 
-**Q1448.** For f(x) = x³ + 3x² + 3x, which statement is true?
+**Q1451.** For f(x) = x³ + 3x² + 3x, which statement is true?
 <!-- id: methods-5-3-13 -->
 
 - A. f is strictly increasing on R
@@ -10192,7 +10246,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. f has a local minimum at x = −1
 - D. f has two stationary points
 
-**Q1449.** The graph of y = f′(x) is a straight line through (0, −4) and (2, 0). The graph of f has
+**Q1452.** The graph of y = f′(x) is a straight line through (0, −4) and (2, 0). The graph of f has
 <!-- id: methods-5-3-14 -->
 
 - A. a local maximum at x = 2
@@ -10200,7 +10254,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. a local minimum at x = 0
 - D. a stationary point of inflection at x = 2
 
-**Q1450.** If f′(x) = (x + 2)(x − 1)(x − 4), then f is strictly decreasing on
+**Q1453.** If f′(x) = (x + 2)(x − 1)(x − 4), then f is strictly decreasing on
 <!-- id: methods-5-3-15 -->
 
 - A. [−2, 1] and [4, ∞)
@@ -10208,7 +10262,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. (−∞, −2] and [1, 4]
 - D. (−∞, 1]
 
-**Q1451.** The function f(x) = xe^x is strictly decreasing on
+**Q1454.** The function f(x) = xe^x is strictly decreasing on
 <!-- id: methods-5-3-16 -->
 
 - A. [−1, ∞)
@@ -10216,7 +10270,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. [0, ∞)
 - D. (−∞, −1]
 
-**Q1452.** If f is a differentiable even function, then f′ is
+**Q1455.** If f is a differentiable even function, then f′ is
 <!-- id: methods-5-3-18 -->
 
 - A. an even function
@@ -10224,44 +10278,44 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. a constant function
 - D. never odd
 
-**Q1453.** State the intervals on which f(x) = 2x³ − 3x² − 12x + 4 is strictly increasing.
+**Q1456.** State the intervals on which f(x) = 2x³ − 3x² − 12x + 4 is strictly increasing.
 <!-- id: methods-5-3-19 -->
 
 *Written answer*
 
-**Q1454.** Describe the key features of the graph of y = f′(x) for f(x) = x³ − 3x.
+**Q1457.** Describe the key features of the graph of y = f′(x) for f(x) = x³ − 3x.
 <!-- id: methods-5-3-20 -->
 
 *Written answer*
 
-**Q1455.** Show that f(x) = e^x − x is strictly increasing for x ≥ 0.
+**Q1458.** Show that f(x) = e^x − x is strictly increasing for x ≥ 0.
 <!-- id: methods-5-3-21 -->
 
 *Written answer*
 
-**Q1456.** The graph of y = f′(x) is negative for x < 1, zero at x = 1, positive for 1 < x < 5, zero at x = 5 and positive for x > 5. Describe the stationary points of f.
+**Q1459.** The graph of y = f′(x) is negative for x < 1, zero at x = 1, positive for 1 < x < 5, zero at x = 5 and positive for x > 5. Describe the stationary points of f.
 <!-- id: methods-5-3-22 -->
 
 *Written answer*
 
-**Q1457.** A cubic function f has a local maximum at (−2, 5) and a local minimum at (3, −1). State the values of x for which f′(x) < 0.
+**Q1460.** A cubic function f has a local maximum at (−2, 5) and a local minimum at (3, −1). State the values of x for which f′(x) < 0.
 <!-- id: methods-5-3-23 -->
 
 *Written answer*
 
-**Q1458.** For f(x) = x + 2cos(x), 0 ≤ x ≤ 2π, find the interval on which f is strictly decreasing.
+**Q1461.** For f(x) = x + 2cos(x), 0 ≤ x ≤ 2π, find the interval on which f is strictly decreasing.
 <!-- id: methods-5-3-24 -->
 
 *Written answer*
 
-**Q1459.** Find the values of k for which f(x) = x³ + kx² + 3x is strictly increasing for all real x.
+**Q1462.** Find the values of k for which f(x) = x³ + kx² + 3x is strictly increasing for all real x.
 <!-- id: methods-5-3-25 -->
 
 *Written answer*
 
 #### Newton's method
 
-**Q1460.** Newton's method for solving f(x) = 0 uses the iteration
+**Q1463.** Newton's method for solving f(x) = 0 uses the iteration
 <!-- id: methods-5-4-1 -->
 
 - A. x_(n+1) = x_n − f(x_n)/f′(x_n)
@@ -10269,7 +10323,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. x_(n+1) = x_n − f′(x_n)/f(x_n)
 - D. x_(n+1) = f(x_n)/f′(x_n)
 
-**Q1461.** Using Newton's method on f(x) = x² − 5 with x₀ = 2, the value of x₁ is
+**Q1464.** Using Newton's method on f(x) = x² − 5 with x₀ = 2, the value of x₁ is
 <!-- id: methods-5-4-2 -->
 
 - A. 1.75
@@ -10277,7 +10331,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 2.5
 - D. 2.2
 
-**Q1462.** Using Newton's method on f(x) = x³ − 2x − 5 with x₀ = 2, the value of x₁ is
+**Q1465.** Using Newton's method on f(x) = x³ − 2x − 5 with x₀ = 2, the value of x₁ is
 <!-- id: methods-5-4-3 -->
 
 - A. 1.9
@@ -10285,7 +10339,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 2.1
 - D. 2.01
 
-**Q1463.** Newton's method is applied to f(x) = x² − 2 with x₀ = 1. Correct to four decimal places, x₂ is
+**Q1466.** Newton's method is applied to f(x) = x² − 2 with x₀ = 1. Correct to four decimal places, x₂ is
 <!-- id: methods-5-4-4 -->
 
 - A. 1.5000
@@ -10293,7 +10347,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 1.4286
 - D. 1.4167
 
-**Q1464.** Newton's method fails at the first step if the initial value x₀ is
+**Q1467.** Newton's method fails at the first step if the initial value x₀ is
 <!-- id: methods-5-4-5 -->
 
 - A. at a stationary point of f
@@ -10301,7 +10355,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. a negative number
 - D. greater than the root
 
-**Q1465.** Using Newton's method on f(x) = e^x − 3 with x₀ = 1, the exact value of x₁ is
+**Q1468.** Using Newton's method on f(x) = e^x − 3 with x₀ = 1, the exact value of x₁ is
 <!-- id: methods-5-4-6 -->
 
 - A. 1 − 3/e
@@ -10309,7 +10363,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. e/3
 - D. e − 2
 
-**Q1466.** Geometrically, the value x₁ from Newton's method is
+**Q1469.** Geometrically, the value x₁ from Newton's method is
 <!-- id: methods-5-4-7 -->
 
 - A. the y-intercept of the tangent to y = f(x) at x = x₀
@@ -10317,7 +10371,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. the x-intercept of the tangent to y = f(x) at x = x₀
 - D. the midpoint of x₀ and the true root
 
-**Q1467.** Using Newton's method on f(x) = x³ + x − 1 with x₀ = 0, the value of x₁ is
+**Q1470.** Using Newton's method on f(x) = x³ + x − 1 with x₀ = 0, the value of x₁ is
 <!-- id: methods-5-4-8 -->
 
 - A. −1
@@ -10325,7 +10379,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 0
 - D. 1
 
-**Q1468.** Using Newton's method on f(x) = x³ + x − 1 with x₀ = 0 gives x₁ = 1. The value of x₂ is
+**Q1471.** Using Newton's method on f(x) = x³ + x − 1 with x₀ = 0 gives x₁ = 1. The value of x₂ is
 <!-- id: methods-5-4-9 -->
 
 - A. 0.75
@@ -10333,7 +10387,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 1.25
 - D. 0.6823
 
-**Q1469.** Using Newton's method on f(x) = cos(x) − x with x₀ = 0, the value of x₁ is
+**Q1472.** Using Newton's method on f(x) = cos(x) − x with x₀ = 0, the value of x₁ is
 <!-- id: methods-5-4-10 -->
 
 - A. −1
@@ -10341,7 +10395,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 0
 - D. π/2
 
-**Q1470.** Using Newton's method on f(x) = x² − 7 with x₀ = 3, the exact value of x₁ is
+**Q1473.** Using Newton's method on f(x) = x² − 7 with x₀ = 3, the exact value of x₁ is
 <!-- id: methods-5-4-11 -->
 
 - A. 10/3
@@ -10349,7 +10403,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 8/3
 - D. 5/2
 
-**Q1471.** If x₀ is chosen very close to a stationary point of f, Newton's method will typically
+**Q1474.** If x₀ is chosen very close to a stationary point of f, Newton's method will typically
 <!-- id: methods-5-4-12 -->
 
 - A. give x₁ = x₀
@@ -10357,7 +10411,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. give x₁ exactly equal to the root
 - D. give an x₁ far from x₀, because the tangent is nearly horizontal
 
-**Q1472.** Using Newton's method on f(x) = log_e(x) − 1 with x₀ = 2, the exact value of x₁ is
+**Q1475.** Using Newton's method on f(x) = log_e(x) − 1 with x₀ = 2, the exact value of x₁ is
 <!-- id: methods-5-4-13 -->
 
 - A. 4 − 2log_e(2)
@@ -10365,7 +10419,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 2 + log_e(2)
 - D. 2log_e(2)
 
-**Q1473.** If f(x₀) = 0 exactly and f′(x₀) ≠ 0, Newton's method gives x₁ =
+**Q1476.** If f(x₀) = 0 exactly and f′(x₀) ≠ 0, Newton's method gives x₁ =
 <!-- id: methods-5-4-14 -->
 
 - A. 0
@@ -10373,7 +10427,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. an undefined value
 - D. x₀ − 1
 
-**Q1474.** Using Newton's method on f(x) = x³ − x − 1 with x₀ = 1.5, the value of x₁ correct to three decimal places is
+**Q1477.** Using Newton's method on f(x) = x³ − x − 1 with x₀ = 1.5, the value of x₁ correct to three decimal places is
 <!-- id: methods-5-4-15 -->
 
 - A. 1.652
@@ -10381,7 +10435,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 1.348
 - D. 1.325
 
-**Q1475.** To approximate ∛10 using Newton's method, a suitable equation to solve is
+**Q1478.** To approximate ∛10 using Newton's method, a suitable equation to solve is
 <!-- id: methods-5-4-16 -->
 
 - A. x³ + 10 = 0
@@ -10389,7 +10443,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. x − 1000 = 0
 - D. x³ − 10 = 0
 
-**Q1476.** Using Newton's method on f(x) = x² − 2x − 1 with x₀ = 2, the value of x₁ is
+**Q1479.** Using Newton's method on f(x) = x² − 2x − 1 with x₀ = 2, the value of x₁ is
 <!-- id: methods-5-4-17 -->
 
 - A. 2.5
@@ -10397,7 +10451,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 2.25
 - D. 3
 
-**Q1477.** Using Newton's method on f(x) = x³ − 3x + 1 with x₀ = 0, the exact value of x₁ is
+**Q1480.** Using Newton's method on f(x) = x³ − 3x + 1 with x₀ = 0, the exact value of x₁ is
 <!-- id: methods-5-4-18 -->
 
 - A. −1/3
@@ -10405,37 +10459,37 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 3
 - D. −3
 
-**Q1478.** Use Newton's method with x₀ = 2 to find x₁ and x₂ for f(x) = x³ − 3x − 1. Give x₂ correct to four decimal places.
+**Q1481.** Use Newton's method with x₀ = 2 to find x₁ and x₂ for f(x) = x³ − 3x − 1. Give x₂ correct to four decimal places.
 <!-- id: methods-5-4-19 -->
 
 *Written answer*
 
-**Q1479.** Explain why Newton's method cannot be used on f(x) = x³ − 3x + 1 with x₀ = 1.
+**Q1482.** Explain why Newton's method cannot be used on f(x) = x³ − 3x + 1 with x₀ = 1.
 <!-- id: methods-5-4-20 -->
 
 *Written answer*
 
-**Q1480.** Use one step of Newton's method with x₀ = 1 to find the exact value of x₁ for the equation e^x = 3 − x.
+**Q1483.** Use one step of Newton's method with x₀ = 1 to find the exact value of x₁ for the equation e^x = 3 − x.
 <!-- id: methods-5-4-21 -->
 
 *Written answer*
 
-**Q1481.** Use two iterations of Newton's method with x₀ = 3 to approximate √10, giving x₂ to five decimal places.
+**Q1484.** Use two iterations of Newton's method with x₀ = 3 to approximate √10, giving x₂ to five decimal places.
 <!-- id: methods-5-4-22 -->
 
 *Written answer*
 
-**Q1482.** State a suitable rule for deciding when to stop Newton's method when an answer is needed correct to three decimal places.
+**Q1485.** State a suitable rule for deciding when to stop Newton's method when an answer is needed correct to three decimal places.
 <!-- id: methods-5-4-23 -->
 
 *Written answer*
 
-**Q1483.** Find the x-intercept of the tangent to y = x³ − 5 at x = 2, and explain how this relates to Newton's method.
+**Q1486.** Find the x-intercept of the tangent to y = x³ − 5 at x = 2, and explain how this relates to Newton's method.
 <!-- id: methods-5-4-24 -->
 
 *Written answer*
 
-**Q1484.** Apply Newton's method to f(x) = x³ − 2x + 2 with x₀ = 0. Find x₁ and x₂ and comment on the result.
+**Q1487.** Apply Newton's method to f(x) = x³ − 2x + 2 with x₀ = 0. Find x₁ and x₂ and comment on the result.
 <!-- id: methods-5-4-25 -->
 
 *Written answer*
@@ -10444,7 +10498,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 #### Antiderivatives and integration rules
 
-**Q1485.** Find ∫(3x² − 4x + 5) dx.
+**Q1488.** Find ∫(3x² − 4x + 5) dx.
 <!-- id: methods-6-1-1 -->
 
 - A. x³ − 2x² + 5x + c
@@ -10452,7 +10506,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. x³ − 4x² + 5x + c
 - D. x³ − 2x² + c
 
-**Q1486.** An antiderivative of e^(3x) is
+**Q1489.** An antiderivative of e^(3x) is
 <!-- id: methods-6-1-2 -->
 
 - A. 3e^(3x)
@@ -10460,7 +10514,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. e^(3x)
 - D. (1/4)e^(4x)
 
-**Q1487.** For x > 0, ∫ (1/x) dx is
+**Q1490.** For x > 0, ∫ (1/x) dx is
 <!-- id: methods-6-1-3 -->
 
 - A. −1/x² + c
@@ -10468,7 +10522,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. log_e(x) + c
 - D. e^x + c
 
-**Q1488.** For x > −1/2, ∫ 1/(2x + 1) dx is
+**Q1491.** For x > −1/2, ∫ 1/(2x + 1) dx is
 <!-- id: methods-6-1-4 -->
 
 - A. 2log_e(2x + 1) + c
@@ -10476,7 +10530,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. −1/(2x + 1)² + c
 - D. (1/2)log_e(2x + 1) + c
 
-**Q1489.** Find ∫ sin(2x) dx.
+**Q1492.** Find ∫ sin(2x) dx.
 <!-- id: methods-6-1-5 -->
 
 - A. −(1/2)cos(2x) + c
@@ -10484,7 +10538,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. −2cos(2x) + c
 - D. 2cos(2x) + c
 
-**Q1490.** Find ∫ cos(x/3) dx.
+**Q1493.** Find ∫ cos(x/3) dx.
 <!-- id: methods-6-1-6 -->
 
 - A. (1/3)sin(x/3) + c
@@ -10492,7 +10546,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. −3sin(x/3) + c
 - D. −(1/3)sin(x/3) + c
 
-**Q1491.** Find ∫ (2x − 1)⁴ dx.
+**Q1494.** Find ∫ (2x − 1)⁴ dx.
 <!-- id: methods-6-1-7 -->
 
 - A. (1/5)(2x − 1)⁵ + c
@@ -10500,7 +10554,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. (1/10)(2x − 1)⁵ + c
 - D. 8(2x − 1)³ + c
 
-**Q1492.** Find ∫ √x dx.
+**Q1495.** Find ∫ √x dx.
 <!-- id: methods-6-1-8 -->
 
 - A. (3/2)x^(3/2) + c
@@ -10508,7 +10562,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. (2/3)x^(1/2) + c
 - D. (2/3)x^(3/2) + c
 
-**Q1493.** For x ≠ 0, ∫ (1/x²) dx is
+**Q1496.** For x ≠ 0, ∫ (1/x²) dx is
 <!-- id: methods-6-1-9 -->
 
 - A. −1/x + c
@@ -10516,7 +10570,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. −2/x³ + c
 - D. log_e(x²) + c
 
-**Q1494.** Given f′(x) = 6x² − 2 and f(1) = 5, the rule for f(x) is
+**Q1497.** Given f′(x) = 6x² − 2 and f(1) = 5, the rule for f(x) is
 <!-- id: methods-6-1-10 -->
 
 - A. f(x) = 2x³ − 2x + 3
@@ -10524,7 +10578,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. f(x) = 6x³ − 2x + 1
 - D. f(x) = 2x³ − 2x
 
-**Q1495.** Given that d/dx(x log_e(x)) = log_e(x) + 1, ∫ log_e(x) dx for x > 0 is
+**Q1498.** Given that d/dx(x log_e(x)) = log_e(x) + 1, ∫ log_e(x) dx for x > 0 is
 <!-- id: methods-6-1-11 -->
 
 - A. x log_e(x) + c
@@ -10532,7 +10586,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. x log_e(x) − x + c
 - D. x log_e(x) + x + c
 
-**Q1496.** Given that d/dx(x e^x) = e^x + x e^x, ∫ x e^x dx is
+**Q1499.** Given that d/dx(x e^x) = e^x + x e^x, ∫ x e^x dx is
 <!-- id: methods-6-1-12 -->
 
 - A. x e^x + c
@@ -10540,7 +10594,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. x e^x + e^x + c
 - D. x e^x − e^x + c
 
-**Q1497.** Find ∫ (e^x + e^(−x)) dx.
+**Q1500.** Find ∫ (e^x + e^(−x)) dx.
 <!-- id: methods-6-1-13 -->
 
 - A. e^x − e^(−x) + c
@@ -10548,7 +10602,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. −e^x + e^(−x) + c
 - D. 2e^x + c
 
-**Q1498.** For x < 1/2, ∫ 4/(1 − 2x) dx is
+**Q1501.** For x < 1/2, ∫ 4/(1 − 2x) dx is
 <!-- id: methods-6-1-14 -->
 
 - A. 2log_e(1 − 2x) + c
@@ -10556,7 +10610,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. −4log_e(1 − 2x) + c
 - D. −8log_e(1 − 2x) + c
 
-**Q1499.** Which of the following is an antiderivative of 2sin(x)cos(x)?
+**Q1502.** Which of the following is an antiderivative of 2sin(x)cos(x)?
 <!-- id: methods-6-1-15 -->
 
 - A. cos²(x)
@@ -10564,7 +10618,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. sin²(x)
 - D. sin(2x)
 
-**Q1500.** For x > 0, ∫ (x² + 1)/x dx is
+**Q1503.** For x > 0, ∫ (x² + 1)/x dx is
 <!-- id: methods-6-1-16 -->
 
 - A. x + log_e(x) + c
@@ -10572,7 +10626,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. (x³/3 + x)log_e(x) + c
 - D. x²/2 + log_e(x) + c
 
-**Q1501.** Water flows into a Gippsland farm tank at dV/dt = 20 − 2t litres per minute, for 0 ≤ t ≤ 10. The tank initially holds 50 L. The volume after 5 minutes is
+**Q1504.** Water flows into a Gippsland farm tank at dV/dt = 20 − 2t litres per minute, for 0 ≤ t ≤ 10. The tank initially holds 50 L. The volume after 5 minutes is
 <!-- id: methods-6-1-17 -->
 
 - A. 125 L
@@ -10580,7 +10634,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 150 L
 - D. 175 L
 
-**Q1502.** Find ∫ e^(2x + 1) dx.
+**Q1505.** Find ∫ e^(2x + 1) dx.
 <!-- id: methods-6-1-18 -->
 
 - A. 2e^(2x + 1) + c
@@ -10588,44 +10642,44 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. e^(2x + 1) + c
 - D. (1/2)e^(2x) + c
 
-**Q1503.** Find ∫ (4x³ − 6/x²) dx, x ≠ 0.
+**Q1506.** Find ∫ (4x³ − 6/x²) dx, x ≠ 0.
 <!-- id: methods-6-1-19 -->
 
 *Written answer*
 
-**Q1504.** Find an antiderivative of 3cos(2x) − e^(−x).
+**Q1507.** Find an antiderivative of 3cos(2x) − e^(−x).
 <!-- id: methods-6-1-20 -->
 
 *Written answer*
 
-**Q1505.** Given f′(x) = e^(2x) and f(0) = 3, find f(x).
+**Q1508.** Given f′(x) = e^(2x) and f(0) = 3, find f(x).
 <!-- id: methods-6-1-21 -->
 
 *Written answer*
 
-**Q1506.** Differentiate x sin(x), and hence find ∫ x cos(x) dx.
+**Q1509.** Differentiate x sin(x), and hence find ∫ x cos(x) dx.
 <!-- id: methods-6-1-22 -->
 
 *Written answer*
 
-**Q1507.** For x > 2/3, find ∫ 1/(3x − 2) dx.
+**Q1510.** For x > 2/3, find ∫ 1/(3x − 2) dx.
 <!-- id: methods-6-1-23 -->
 
 *Written answer*
 
-**Q1508.** A particle moves in a straight line with velocity v(t) = 3t² − 12 m/s. Its initial position is x(0) = 4 m. Find x(t) and the position at t = 2.
+**Q1511.** A particle moves in a straight line with velocity v(t) = 3t² − 12 m/s. Its initial position is x(0) = 4 m. Find x(t) and the position at t = 2.
 <!-- id: methods-6-1-24 -->
 
 *Written answer*
 
-**Q1509.** Show that log_e(x² + 1) is an antiderivative of 2x/(x² + 1), and hence find ∫ x/(x² + 1) dx.
+**Q1512.** Show that log_e(x² + 1) is an antiderivative of 2x/(x² + 1), and hence find ∫ x/(x² + 1) dx.
 <!-- id: methods-6-1-25 -->
 
 *Written answer*
 
 #### Definite integrals and fundamental theorem
 
-**Q1510.** Evaluate ∫₀² 3x² dx.
+**Q1513.** Evaluate ∫₀² 3x² dx.
 <!-- id: methods-6-2-1 -->
 
 - A. 12
@@ -10633,7 +10687,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 8
 - D. 16
 
-**Q1511.** Evaluate ∫₁³ (2x + 1) dx.
+**Q1514.** Evaluate ∫₁³ (2x + 1) dx.
 <!-- id: methods-6-2-2 -->
 
 - A. 12
@@ -10641,7 +10695,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 7
 - D. 10
 
-**Q1512.** Evaluate ∫₀¹ e^(2x) dx.
+**Q1515.** Evaluate ∫₀¹ e^(2x) dx.
 <!-- id: methods-6-2-3 -->
 
 - A. (e² − 1)/2
@@ -10649,7 +10703,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. e²/2
 - D. 2(e² − 1)
 
-**Q1513.** Evaluate ∫₀^(π/2) cos(x) dx.
+**Q1516.** Evaluate ∫₀^(π/2) cos(x) dx.
 <!-- id: methods-6-2-4 -->
 
 - A. 0
@@ -10657,7 +10711,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. −1
 - D. π/2
 
-**Q1514.** Evaluate ∫₁^e (1/x) dx.
+**Q1517.** Evaluate ∫₁^e (1/x) dx.
 <!-- id: methods-6-2-5 -->
 
 - A. e
@@ -10665,7 +10719,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 1
 - D. 0
 
-**Q1515.** If ∫₁⁴ f(x) dx = 6, then ∫₁⁴ (2f(x) + 1) dx equals
+**Q1518.** If ∫₁⁴ f(x) dx = 6, then ∫₁⁴ (2f(x) + 1) dx equals
 <!-- id: methods-6-2-6 -->
 
 - A. 13
@@ -10673,7 +10727,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 16
 - D. 15
 
-**Q1516.** If ∫₂⁵ f(x) dx = 7, then ∫₅² f(x) dx equals
+**Q1519.** If ∫₂⁵ f(x) dx = 7, then ∫₅² f(x) dx equals
 <!-- id: methods-6-2-7 -->
 
 - A. −7
@@ -10681,7 +10735,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 0
 - D. 1/7
 
-**Q1517.** If ∫₀³ f(x) dx = 4 and ∫₃⁶ f(x) dx = −1, then ∫₀⁶ f(x) dx equals
+**Q1520.** If ∫₀³ f(x) dx = 4 and ∫₃⁶ f(x) dx = −1, then ∫₀⁶ f(x) dx equals
 <!-- id: methods-6-2-8 -->
 
 - A. 5
@@ -10689,7 +10743,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 4
 - D. −1
 
-**Q1518.** Evaluate ∫₀^π sin(x) dx.
+**Q1521.** Evaluate ∫₀^π sin(x) dx.
 <!-- id: methods-6-2-9 -->
 
 - A. 0
@@ -10697,7 +10751,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 2
 - D. 1
 
-**Q1519.** Let F(x) = ∫₁ˣ (t² + 1) dt. Then F′(x) is
+**Q1522.** Let F(x) = ∫₁ˣ (t² + 1) dt. Then F′(x) is
 <!-- id: methods-6-2-10 -->
 
 - A. x³/3 + x
@@ -10705,7 +10759,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. x³/3 + x − 4/3
 - D. x² + 1
 
-**Q1520.** If ∫₀ᵃ 2x dx = 9 and a > 0, then a equals
+**Q1523.** If ∫₀ᵃ 2x dx = 9 and a > 0, then a equals
 <!-- id: methods-6-2-11 -->
 
 - A. 3
@@ -10713,7 +10767,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 4.5
 - D. 81
 
-**Q1521.** If ∫₀ᵏ eˣ dx = 1, then k equals
+**Q1524.** If ∫₀ᵏ eˣ dx = 1, then k equals
 <!-- id: methods-6-2-12 -->
 
 - A. 1
@@ -10721,7 +10775,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. e − 1
 - D. 2
 
-**Q1522.** Evaluate ∫₋₁¹ x³ dx.
+**Q1525.** Evaluate ∫₋₁¹ x³ dx.
 <!-- id: methods-6-2-13 -->
 
 - A. 1/2
@@ -10729,7 +10783,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 0
 - D. 2
 
-**Q1523.** Evaluate ∫₀^(π/4) sin(2x) dx.
+**Q1526.** Evaluate ∫₀^(π/4) sin(2x) dx.
 <!-- id: methods-6-2-14 -->
 
 - A. 1
@@ -10737,7 +10791,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 2
 - D. 1/2
 
-**Q1524.** Evaluate ∫₁² (1/x²) dx.
+**Q1527.** Evaluate ∫₁² (1/x²) dx.
 <!-- id: methods-6-2-15 -->
 
 - A. 1/2
@@ -10745,7 +10799,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 7/4
 - D. 1
 
-**Q1525.** If ∫₀² f(x) dx = 5, then ∫₀² (f(x) − 3x) dx equals
+**Q1528.** If ∫₀² f(x) dx = 5, then ∫₀² (f(x) − 3x) dx equals
 <!-- id: methods-6-2-16 -->
 
 - A. 2
@@ -10753,7 +10807,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 11
 - D. −7
 
-**Q1526.** Evaluate ∫₀⁴ √x dx.
+**Q1529.** Evaluate ∫₀⁴ √x dx.
 <!-- id: methods-6-2-17 -->
 
 - A. 8
@@ -10761,7 +10815,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 16/3
 - D. 32/3
 
-**Q1527.** Given that d/dx log_e(x² + 1) = 2x/(x² + 1), evaluate ∫₀¹ x/(x² + 1) dx.
+**Q1530.** Given that d/dx log_e(x² + 1) = 2x/(x² + 1), evaluate ∫₀¹ x/(x² + 1) dx.
 <!-- id: methods-6-2-18 -->
 
 - A. log_e(2)
@@ -10769,44 +10823,44 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 1/2
 - D. (1/2)log_e(2)
 
-**Q1528.** Evaluate ∫₁² (x³ − 2x) dx.
+**Q1531.** Evaluate ∫₁² (x³ − 2x) dx.
 <!-- id: methods-6-2-19 -->
 
 *Written answer*
 
-**Q1529.** Evaluate ∫₀^(log_e 3) eˣ dx.
+**Q1532.** Evaluate ∫₀^(log_e 3) eˣ dx.
 <!-- id: methods-6-2-20 -->
 
 *Written answer*
 
-**Q1530.** Evaluate ∫₀^(π/6) cos(3x) dx.
+**Q1533.** Evaluate ∫₀^(π/6) cos(3x) dx.
 <!-- id: methods-6-2-21 -->
 
 *Written answer*
 
-**Q1531.** Find the value of k > 1 such that ∫₁ᵏ (1/x) dx = 2.
+**Q1534.** Find the value of k > 1 such that ∫₁ᵏ (1/x) dx = 2.
 <!-- id: methods-6-2-22 -->
 
 *Written answer*
 
-**Q1532.** Given ∫₁⁵ g(x) dx = 8, find (a) ∫₁⁵ (3 − g(x)) dx and (b) ∫₅¹ 2g(x) dx.
+**Q1535.** Given ∫₁⁵ g(x) dx = 8, find (a) ∫₁⁵ (3 − g(x)) dx and (b) ∫₅¹ 2g(x) dx.
 <!-- id: methods-6-2-23 -->
 
 *Written answer*
 
-**Q1533.** Evaluate ∫₀¹ (2x + 1)³ dx.
+**Q1536.** Evaluate ∫₀¹ (2x + 1)³ dx.
 <!-- id: methods-6-2-24 -->
 
 *Written answer*
 
-**Q1534.** Find d/dx ∫₂ˣ √(t³ + 1) dt, and evaluate this derivative at x = 2.
+**Q1537.** Find d/dx ∫₂ˣ √(t³ + 1) dt, and evaluate this derivative at x = 2.
 <!-- id: methods-6-2-25 -->
 
 *Written answer*
 
 #### Area under and between curves
 
-**Q1535.** Find the area between y = x² and the x-axis from x = 0 to x = 3.
+**Q1538.** Find the area between y = x² and the x-axis from x = 0 to x = 3.
 <!-- id: methods-6-3-1 -->
 
 - A. 9
@@ -10814,7 +10868,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 6
 - D. 3
 
-**Q1536.** Find the area of the region enclosed by y = x² − 3x and the x-axis.
+**Q1539.** Find the area of the region enclosed by y = x² − 3x and the x-axis.
 <!-- id: methods-6-3-2 -->
 
 - A. −9/2 square units
@@ -10822,7 +10876,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 9 square units
 - D. 3/2 square units
 
-**Q1537.** Find the total area between y = sin(x) and the x-axis for 0 ≤ x ≤ 2π.
+**Q1540.** Find the total area between y = sin(x) and the x-axis for 0 ≤ x ≤ 2π.
 <!-- id: methods-6-3-3 -->
 
 - A. 0
@@ -10830,7 +10884,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 4
 - D. 2π
 
-**Q1538.** Find the area enclosed between y = x and y = x².
+**Q1541.** Find the area enclosed between y = x and y = x².
 <!-- id: methods-6-3-4 -->
 
 - A. 1/3
@@ -10838,7 +10892,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 5/6
 - D. 1/6
 
-**Q1539.** Find the area enclosed by y = 4 − x² and the x-axis.
+**Q1542.** Find the area enclosed by y = 4 − x² and the x-axis.
 <!-- id: methods-6-3-5 -->
 
 - A. 32/3
@@ -10846,7 +10900,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 8
 - D. 64/3
 
-**Q1540.** Find the area bounded by y = eˣ, the x-axis, x = 0 and x = 2.
+**Q1543.** Find the area bounded by y = eˣ, the x-axis, x = 0 and x = 2.
 <!-- id: methods-6-3-6 -->
 
 - A. e²
@@ -10854,7 +10908,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. e² + 1
 - D. 2e²
 
-**Q1541.** Find the area bounded by y = 1/x, the x-axis, x = 1 and x = 4.
+**Q1544.** Find the area bounded by y = 1/x, the x-axis, x = 1 and x = 4.
 <!-- id: methods-6-3-7 -->
 
 - A. log_e(3)
@@ -10862,7 +10916,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 2log_e(2)
 - D. 4log_e(2)
 
-**Q1542.** Find the total area bounded by y = x³, the x-axis, x = −1 and x = 2.
+**Q1545.** Find the total area bounded by y = x³, the x-axis, x = −1 and x = 2.
 <!-- id: methods-6-3-8 -->
 
 - A. 15/4
@@ -10870,7 +10924,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 17/2
 - D. 17/4
 
-**Q1543.** Which integral gives the area enclosed by y = x² and y = 2x?
+**Q1546.** Which integral gives the area enclosed by y = x² and y = 2x?
 <!-- id: methods-6-3-9 -->
 
 - A. ∫₀² (2x − x²) dx
@@ -10878,7 +10932,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. ∫₀⁴ (2x − x²) dx
 - D. ∫₀² (2x + x²) dx
 
-**Q1544.** Find the area enclosed by y = x² and y = 2x.
+**Q1547.** Find the area enclosed by y = x² and y = 2x.
 <!-- id: methods-6-3-10 -->
 
 - A. −4/3
@@ -10886,7 +10940,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 8/3
 - D. 4
 
-**Q1545.** Find the total area between y = cos(x) and the x-axis for 0 ≤ x ≤ π.
+**Q1548.** Find the total area between y = cos(x) and the x-axis for 0 ≤ x ≤ π.
 <!-- id: methods-6-3-11 -->
 
 - A. 0
@@ -10894,7 +10948,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 2
 - D. π
 
-**Q1546.** Find the area bounded by y = √x, the x-axis and the line x = 9.
+**Q1549.** Find the area bounded by y = √x, the x-axis and the line x = 9.
 <!-- id: methods-6-3-12 -->
 
 - A. 27
@@ -10902,7 +10956,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 9
 - D. 18
 
-**Q1547.** Find the area enclosed by y = x + 2 and y = x².
+**Q1550.** Find the area enclosed by y = x + 2 and y = x².
 <!-- id: methods-6-3-13 -->
 
 - A. 9/2
@@ -10910,7 +10964,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 10/3
 - D. 5/2
 
-**Q1548.** f(x) ≥ 0 for a ≤ x ≤ b and f(x) ≤ 0 for b ≤ x ≤ c. The total area between y = f(x) and the x-axis from x = a to x = c is
+**Q1551.** f(x) ≥ 0 for a ≤ x ≤ b and f(x) ≤ 0 for b ≤ x ≤ c. The total area between y = f(x) and the x-axis from x = a to x = c is
 <!-- id: methods-6-3-14 -->
 
 - A. ∫ from a to c of f(x) dx
@@ -10918,7 +10972,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. (∫ from b to c of f(x) dx) − (∫ from a to b of f(x) dx)
 - D. |∫ from a to c of f(x) dx|
 
-**Q1549.** Find the area between y = eˣ and y = e^(−x) from x = 0 to x = 1.
+**Q1552.** Find the area between y = eˣ and y = e^(−x) from x = 0 to x = 1.
 <!-- id: methods-6-3-15 -->
 
 - A. e − 1/e
@@ -10926,7 +10980,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. e + 1/e − 2
 - D. 2 − e − 1/e
 
-**Q1550.** The region bounded by y = 2x, the x-axis and the line x = k (k > 0) has area 16. The value of k is
+**Q1553.** The region bounded by y = 2x, the x-axis and the line x = k (k > 0) has area 16. The value of k is
 <!-- id: methods-6-3-16 -->
 
 - A. 8
@@ -10934,7 +10988,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 16
 - D. 4
 
-**Q1551.** Find the total area enclosed between y = x³ and y = x.
+**Q1554.** Find the total area enclosed between y = x³ and y = x.
 <!-- id: methods-6-3-17 -->
 
 - A. 1/2
@@ -10942,7 +10996,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 1/4
 - D. 1
 
-**Q1552.** Find the area between y = cos(x) and y = sin(x) from x = 0 to x = π/4.
+**Q1555.** Find the area between y = cos(x) and y = sin(x) from x = 0 to x = π/4.
 <!-- id: methods-6-3-18 -->
 
 - A. √2
@@ -10950,44 +11004,58 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 1 − √2/2
 - D. √2 + 1
 
-**Q1553.** Find the area enclosed by y = x² − 1 and the x-axis.
+**Q1556.** Find the area enclosed by y = x² − 1 and the x-axis.
 <!-- id: methods-6-3-19 -->
 
 *Written answer*
 
-**Q1554.** Find the area enclosed between y = x² and y = 8 − x².
+**Q1557.** Find the area enclosed between y = x² and y = 8 − x².
 <!-- id: methods-6-3-20 -->
 
 *Written answer*
 
-**Q1555.** Find the area bounded by y = 1/x, the x-axis and the lines x = 1 and x = e².
+**Q1558.** Find the area bounded by y = 1/x, the x-axis and the lines x = 1 and x = e².
 <!-- id: methods-6-3-21 -->
 
 *Written answer*
 
-**Q1556.** Find the total area between y = sin(2x) and the x-axis for 0 ≤ x ≤ π.
+**Q1559.** Find the total area between y = sin(2x) and the x-axis for 0 ≤ x ≤ π.
 <!-- id: methods-6-3-22 -->
 
 *Written answer*
 
-**Q1557.** Find the total area enclosed by y = x(x − 2)(x + 1) and the x-axis.
+**Q1560.** Find the total area enclosed by y = x(x − 2)(x + 1) and the x-axis.
 <!-- id: methods-6-3-23 -->
 
 *Written answer*
 
-**Q1558.** Find k > 0 such that the area bounded by y = eˣ, the x-axis, x = 0 and x = k is 2.
+**Q1561.** Find k > 0 such that the area bounded by y = eˣ, the x-axis, x = 0 and x = k is 2.
 <!-- id: methods-6-3-24 -->
 
 *Written answer*
 
-**Q1559.** Explain why ∫₀^(2π) sin(x) dx does not give the area between y = sin(x) and the x-axis over that interval, and state the area.
+**Q1562.** Explain why ∫₀^(2π) sin(x) dx does not give the area between y = sin(x) and the x-axis over that interval, and state the area.
 <!-- id: methods-6-3-25 -->
 
 *Written answer*
 
+**Q1563.** Area between a parabola and a line
+<!-- id: methods-6-3-m1 -->
+*Multi-part question · 5 marks · Technology-free · Original SAC-style question*
+
+The graphs of \(f(x) = 4x - x^2\) and \(g(x) = x\) intersect at two points.
+
+**a.** Find the coordinates of the two points of intersection. *(1 mark)*
+
+**b.** Write down a definite integral whose value is the area of the region enclosed by the two graphs. *(1 mark)*
+
+**c.** Hence find the area of the region. *(2 marks)*
+
+**d.** Explain why the line \(x = \frac{3}{2}\) divides the region into two parts of equal area. *(1 mark)*
+
 #### Trapezium approximation and average value
 
-**Q1560.** Using the trapezium rule with strips of width 1, an approximation to ∫₀² x² dx is
+**Q1564.** Using the trapezium rule with strips of width 1, an approximation to ∫₀² x² dx is
 <!-- id: methods-6-4-1 -->
 
 - A. 8/3
@@ -10995,7 +11063,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 3
 - D. 6
 
-**Q1561.** Using the trapezium rule with two strips of equal width, an approximation to ∫₀⁴ √x dx is
+**Q1565.** Using the trapezium rule with two strips of equal width, an approximation to ∫₀⁴ √x dx is
 <!-- id: methods-6-4-2 -->
 
 - A. 16/3
@@ -11003,7 +11071,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 4√2 + 4
 - D. 2√2 + 2
 
-**Q1562.** If f″(x) > 0 for all x in [a, b], the trapezium rule approximation to ∫ₐᵇ f(x) dx will be
+**Q1566.** If f″(x) > 0 for all x in [a, b], the trapezium rule approximation to ∫ₐᵇ f(x) dx will be
 <!-- id: methods-6-4-3 -->
 
 - A. an overestimate
@@ -11011,7 +11079,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. exactly equal to the integral
 - D. impossible to classify
 
-**Q1563.** Using the trapezium rule with two strips of equal width, an approximation to ∫₁³ (1/x) dx is
+**Q1567.** Using the trapezium rule with two strips of equal width, an approximation to ∫₁³ (1/x) dx is
 <!-- id: methods-6-4-4 -->
 
 - A. log_e(3)
@@ -11019,7 +11087,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 5/6
 - D. 3/2
 
-**Q1564.** Using left-endpoint rectangles of width 1, an approximation to ∫₀³ (x² + 1) dx is
+**Q1568.** Using left-endpoint rectangles of width 1, an approximation to ∫₀³ (x² + 1) dx is
 <!-- id: methods-6-4-5 -->
 
 - A. 17
@@ -11027,7 +11095,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 8
 - D. 12.5
 
-**Q1565.** The average value of f(x) = x² over [0, 3] is
+**Q1569.** The average value of f(x) = x² over [0, 3] is
 <!-- id: methods-6-4-6 -->
 
 - A. 9
@@ -11035,7 +11103,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 1.5
 - D. 3
 
-**Q1566.** The average value of f(x) = sin(x) over [0, π] is
+**Q1570.** The average value of f(x) = sin(x) over [0, π] is
 <!-- id: methods-6-4-7 -->
 
 - A. 2/π
@@ -11043,7 +11111,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 2
 - D. π/2
 
-**Q1567.** The average value of f(x) = eˣ over [0, 1] is
+**Q1571.** The average value of f(x) = eˣ over [0, 1] is
 <!-- id: methods-6-4-8 -->
 
 - A. e
@@ -11051,7 +11119,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. (e − 1)/2
 - D. (e + 1)/2
 
-**Q1568.** The average value of a continuous function f over [a, b] is given by
+**Q1572.** The average value of a continuous function f over [a, b] is given by
 <!-- id: methods-6-4-9 -->
 
 - A. (1/2)(f(a) + f(b))
@@ -11059,7 +11127,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. (1/(b − a)) ∫ₐᵇ f(x) dx
 - D. (b − a) ∫ₐᵇ f(x) dx
 
-**Q1569.** The temperature in Melbourne on a spring day is modelled by T(t) = 15 + 5sin(πt/12) °C, where t is hours after 6 am. The average temperature over 0 ≤ t ≤ 24 is
+**Q1573.** The temperature in Melbourne on a spring day is modelled by T(t) = 15 + 5sin(πt/12) °C, where t is hours after 6 am. The average temperature over 0 ≤ t ≤ 24 is
 <!-- id: methods-6-4-10 -->
 
 - A. 20 °C
@@ -11067,7 +11135,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 10 °C
 - D. 15 °C
 
-**Q1570.** The average value of f(x) = 1/x over [1, e] is
+**Q1574.** The average value of f(x) = 1/x over [1, e] is
 <!-- id: methods-6-4-11 -->
 
 - A. 1/(e − 1)
@@ -11075,7 +11143,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. (1 + 1/e)/2
 - D. e − 1
 
-**Q1571.** The average value of f(x) = 2x + 1 over [1, 5] is
+**Q1575.** The average value of f(x) = 2x + 1 over [1, 5] is
 <!-- id: methods-6-4-12 -->
 
 - A. 28
@@ -11083,7 +11151,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 6
 - D. 11
 
-**Q1572.** If the average value of f over [0, 4] is 5, then ∫₀⁴ f(x) dx equals
+**Q1576.** If the average value of f over [0, 4] is 5, then ∫₀⁴ f(x) dx equals
 <!-- id: methods-6-4-13 -->
 
 - A. 5/4
@@ -11091,7 +11159,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 20
 - D. 10
 
-**Q1573.** For n strips of equal width h with endpoints x₀, x₁, …, xₙ, the trapezium rule approximation is
+**Q1577.** For n strips of equal width h with endpoints x₀, x₁, …, xₙ, the trapezium rule approximation is
 <!-- id: methods-6-4-14 -->
 
 - A. h[f(x₀) + f(x₁) + … + f(xₙ)]
@@ -11099,7 +11167,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 2h[f(x₀) + 2f(x₁) + … + 2f(xₙ₋₁) + f(xₙ)]
 - D. (h/2)[f(x₀) + 2f(x₁) + … + 2f(xₙ₋₁) + f(xₙ)]
 
-**Q1574.** Using the trapezium rule with two strips of equal width, an approximation to ∫₀^π sin(x) dx is
+**Q1578.** Using the trapezium rule with two strips of equal width, an approximation to ∫₀^π sin(x) dx is
 <!-- id: methods-6-4-15 -->
 
 - A. π/2
@@ -11107,7 +11175,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. π
 - D. π/4
 
-**Q1575.** A car's speed is recorded at t = 0, 10, 20 and 30 seconds as 0, 12, 18 and 20 m/s respectively. Using the trapezium rule, the distance travelled in the 30 seconds is approximately
+**Q1579.** A car's speed is recorded at t = 0, 10, 20 and 30 seconds as 0, 12, 18 and 20 m/s respectively. Using the trapezium rule, the distance travelled in the 30 seconds is approximately
 <!-- id: methods-6-4-16 -->
 
 - A. 500 m
@@ -11115,7 +11183,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 300 m
 - D. 800 m
 
-**Q1576.** The average value of f(x) = 3x² over [0, k], where k > 0, is 12. The value of k is
+**Q1580.** The average value of f(x) = 3x² over [0, k], where k > 0, is 12. The value of k is
 <!-- id: methods-6-4-17 -->
 
 - A. 12
@@ -11123,7 +11191,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 2√3
 - D. 144
 
-**Q1577.** When the number of equal-width trapezia used to approximate a definite integral of a smooth function is increased, the approximation
+**Q1581.** When the number of equal-width trapezia used to approximate a definite integral of a smooth function is increased, the approximation
 <!-- id: methods-6-4-18 -->
 
 - A. always becomes an underestimate
@@ -11131,37 +11199,37 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. does not change
 - D. generally becomes more accurate
 
-**Q1578.** Use the trapezium rule with strips of width 1 to approximate ∫₀⁴ x² dx. Is this an over- or under-estimate?
+**Q1582.** Use the trapezium rule with strips of width 1 to approximate ∫₀⁴ x² dx. Is this an over- or under-estimate?
 <!-- id: methods-6-4-19 -->
 
 *Written answer*
 
-**Q1579.** Find the average value of f(x) = cos(x) over [0, π/2].
+**Q1583.** Find the average value of f(x) = cos(x) over [0, π/2].
 <!-- id: methods-6-4-20 -->
 
 *Written answer*
 
-**Q1580.** Find the average value of f(x) = x³ over [0, 2], and the value of c in [0, 2] where f(c) equals this average.
+**Q1584.** Find the average value of f(x) = x³ over [0, 2], and the value of c in [0, 2] where f(c) equals this average.
 <!-- id: methods-6-4-21 -->
 
 *Written answer*
 
-**Q1581.** Use the trapezium rule with two strips of equal width to approximate ∫₁² (1/x) dx, and compare with the exact value.
+**Q1585.** Use the trapezium rule with two strips of equal width to approximate ∫₁² (1/x) dx, and compare with the exact value.
 <!-- id: methods-6-4-22 -->
 
 *Written answer*
 
-**Q1582.** Water flows from a rainwater tank at r(t) = 6 − t litres per minute for 0 ≤ t ≤ 4. Find the average flow rate over this time.
+**Q1586.** Water flows from a rainwater tank at r(t) = 6 − t litres per minute for 0 ≤ t ≤ 4. Find the average flow rate over this time.
 <!-- id: methods-6-4-23 -->
 
 *Written answer*
 
-**Q1583.** Use right-endpoint rectangles of width 0.5 to approximate ∫₀² (4 − x²) dx. State whether this is an over- or under-estimate.
+**Q1587.** Use right-endpoint rectangles of width 0.5 to approximate ∫₀² (4 − x²) dx. State whether this is an over- or under-estimate.
 <!-- id: methods-6-4-24 -->
 
 *Written answer*
 
-**Q1584.** Find the average value of f(x) = √x over [0, 9].
+**Q1588.** Find the average value of f(x) = √x over [0, 9].
 <!-- id: methods-6-4-25 -->
 
 *Written answer*
@@ -11170,7 +11238,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 #### Discrete random variables and distributions
 
-**Q1585.** A discrete random variable X has Pr(X = x) = kx for x = 1, 2, 3, 4. What is the value of k?
+**Q1589.** A discrete random variable X has Pr(X = x) = kx for x = 1, 2, 3, 4. What is the value of k?
 <!-- id: methods-7-1-1 -->
 
 - A. 0.1
@@ -11178,7 +11246,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 0.01
 - D. 0.2
 
-**Q1586.** A discrete random variable X has Pr(X = x) = k(x + 1) for x = 0, 1, 2. What is the value of k?
+**Q1590.** A discrete random variable X has Pr(X = x) = k(x + 1) for x = 0, 1, 2. What is the value of k?
 <!-- id: methods-7-1-2 -->
 
 - A. 1/3
@@ -11186,7 +11254,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 1/5
 - D. 1/2
 
-**Q1587.** Which of the following sets of probabilities could form the probability distribution of a discrete random variable with three possible values?
+**Q1591.** Which of the following sets of probabilities could form the probability distribution of a discrete random variable with three possible values?
 <!-- id: methods-7-1-3 -->
 
 - A. 0.4, 0.4, 0.3
@@ -11194,7 +11262,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 0.2, 0.3, 0.5
 - D. 0.3, 0.3, 0.3
 
-**Q1588.** X takes the values 0, 1, 2, 3 with probabilities 0.1, 0.3, 0.4 and 0.2 respectively. Find Pr(X ≥ 2).
+**Q1592.** X takes the values 0, 1, 2, 3 with probabilities 0.1, 0.3, 0.4 and 0.2 respectively. Find Pr(X ≥ 2).
 <!-- id: methods-7-1-4 -->
 
 - A. 0.4
@@ -11202,7 +11270,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 0.2
 - D. 0.6
 
-**Q1589.** X takes the values 0, 1, 2, 3 with probabilities 0.1, 0.3, 0.4 and 0.2 respectively. What is the mode of X?
+**Q1593.** X takes the values 0, 1, 2, 3 with probabilities 0.1, 0.3, 0.4 and 0.2 respectively. What is the mode of X?
 <!-- id: methods-7-1-5 -->
 
 - A. 2
@@ -11210,7 +11278,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 1
 - D. 1.5
 
-**Q1590.** X takes the values 1, 2, 3, 4 with probabilities 0.3, 0.15, 0.25 and 0.3 respectively. What is the median of X?
+**Q1594.** X takes the values 1, 2, 3, 4 with probabilities 0.3, 0.15, 0.25 and 0.3 respectively. What is the median of X?
 <!-- id: methods-7-1-6 -->
 
 - A. 2
@@ -11218,7 +11286,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 2.5
 - D. 4
 
-**Q1591.** X has Pr(X = x) = x²/30 for x = 1, 2, 3, 4. Find Pr(X = 3).
+**Q1595.** X has Pr(X = x) = x²/30 for x = 1, 2, 3, 4. Find Pr(X = 3).
 <!-- id: methods-7-1-7 -->
 
 - A. 1/10
@@ -11226,7 +11294,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 3/10
 - D. 8/15
 
-**Q1592.** Two fair coins are tossed and X is the number of heads. Find Pr(X = 1).
+**Q1596.** Two fair coins are tossed and X is the number of heads. Find Pr(X = 1).
 <!-- id: methods-7-1-8 -->
 
 - A. 1/4
@@ -11234,7 +11302,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 3/4
 - D. 1/2
 
-**Q1593.** Two fair six-sided dice are rolled and X is the sum of the numbers shown. Find Pr(X = 7).
+**Q1597.** Two fair six-sided dice are rolled and X is the sum of the numbers shown. Find Pr(X = 7).
 <!-- id: methods-7-1-9 -->
 
 - A. 1/6
@@ -11242,7 +11310,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 1/12
 - D. 5/36
 
-**Q1594.** Two fair six-sided dice are rolled and X is the larger of the two numbers shown. Find Pr(X = 3).
+**Q1598.** Two fair six-sided dice are rolled and X is the larger of the two numbers shown. Find Pr(X = 3).
 <!-- id: methods-7-1-10 -->
 
 - A. 1/4
@@ -11250,7 +11318,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 1/12
 - D. 7/36
 
-**Q1595.** A bag contains 3 red and 2 blue marbles. Two marbles are drawn without replacement and X is the number of red marbles drawn. Find Pr(X = 1).
+**Q1599.** A bag contains 3 red and 2 blue marbles. Two marbles are drawn without replacement and X is the number of red marbles drawn. Find Pr(X = 1).
 <!-- id: methods-7-1-11 -->
 
 - A. 3/10
@@ -11258,7 +11326,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 3/5
 - D. 2/5
 
-**Q1596.** A random variable X takes the values 0, 1, 2 with probabilities 0.2, a and 2a respectively. Find a.
+**Q1600.** A random variable X takes the values 0, 1, 2 with probabilities 0.2, a and 2a respectively. Find a.
 <!-- id: methods-7-1-12 -->
 
 - A. 2/5
@@ -11266,7 +11334,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 4/5
 - D. 4/15
 
-**Q1597.** X takes the values 1, 2, 3 and its cumulative probabilities are Pr(X ≤ 1) = 0.3, Pr(X ≤ 2) = 0.7 and Pr(X ≤ 3) = 1. Find Pr(X = 2).
+**Q1601.** X takes the values 1, 2, 3 and its cumulative probabilities are Pr(X ≤ 1) = 0.3, Pr(X ≤ 2) = 0.7 and Pr(X ≤ 3) = 1. Find Pr(X = 2).
 <!-- id: methods-7-1-13 -->
 
 - A. 0.4
@@ -11274,7 +11342,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 0.3
 - D. 0.35
 
-**Q1598.** Which of the following is a continuous random variable rather than a discrete one?
+**Q1602.** Which of the following is a continuous random variable rather than a discrete one?
 <!-- id: methods-7-1-14 -->
 
 - A. The number of passengers boarding a tram at Flinders Street
@@ -11282,7 +11350,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. The number of red lights a driver stops at on the way to school
 - D. The number of late trams on Route 96 in a week
 
-**Q1599.** X has Pr(X = x) = k/x for x = 1, 2, 3. Find k.
+**Q1603.** X has Pr(X = x) = k/x for x = 1, 2, 3. Find k.
 <!-- id: methods-7-1-15 -->
 
 - A. 1/3
@@ -11290,7 +11358,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 6/11
 - D. 3/11
 
-**Q1600.** X takes the values −1, 0, 2 with probabilities p, 2p and 0.4 respectively. Find Pr(X ≤ 0).
+**Q1604.** X takes the values −1, 0, 2 with probabilities p, 2p and 0.4 respectively. Find Pr(X ≤ 0).
 <!-- id: methods-7-1-16 -->
 
 - A. 0.2
@@ -11298,7 +11366,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 0.8
 - D. 0.6
 
-**Q1601.** Three fair coins are tossed. What is the probability of getting at least one head?
+**Q1605.** Three fair coins are tossed. What is the probability of getting at least one head?
 <!-- id: methods-7-1-17 -->
 
 - A. 7/8
@@ -11306,7 +11374,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 3/8
 - D. 1/2
 
-**Q1602.** X has Pr(X = x) = (5 − x)/10 for x = 1, 2, 3, 4. Find Pr(X > 2).
+**Q1606.** X has Pr(X = x) = (5 − x)/10 for x = 1, 2, 3, 4. Find Pr(X > 2).
 <!-- id: methods-7-1-18 -->
 
 - A. 0.7
@@ -11314,44 +11382,44 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 0.2
 - D. 0.5
 
-**Q1603.** X has Pr(X = x) = c(x² + 1) for x = 0, 1, 2. Find the value of c.
+**Q1607.** X has Pr(X = x) = c(x² + 1) for x = 0, 1, 2. Find the value of c.
 <!-- id: methods-7-1-19 -->
 
 *Written answer*
 
-**Q1604.** State the two conditions that a function p(x) must satisfy to be the probability function of a discrete random variable.
+**Q1608.** State the two conditions that a function p(x) must satisfy to be the probability function of a discrete random variable.
 <!-- id: methods-7-1-20 -->
 
 *Written answer*
 
-**Q1605.** X takes the values 1, 2, 3, 4 with probabilities 0.1, 0.2, 0.3 and 0.4 respectively. Find Pr(1 < X ≤ 3).
+**Q1609.** X takes the values 1, 2, 3, 4 with probabilities 0.1, 0.2, 0.3 and 0.4 respectively. Find Pr(1 < X ≤ 3).
 <!-- id: methods-7-1-21 -->
 
 *Written answer*
 
-**Q1606.** Two fair six-sided dice are rolled and X is the absolute difference of the two numbers. Find Pr(X = 0) and Pr(X = 1).
+**Q1610.** Two fair six-sided dice are rolled and X is the absolute difference of the two numbers. Find Pr(X = 0) and Pr(X = 1).
 <!-- id: methods-7-1-22 -->
 
 *Written answer*
 
-**Q1607.** A box contains 4 white and 6 black counters. Two counters are drawn without replacement and X is the number of white counters drawn. Write the probability distribution of X.
+**Q1611.** A box contains 4 white and 6 black counters. Two counters are drawn without replacement and X is the number of white counters drawn. Write the probability distribution of X.
 <!-- id: methods-7-1-23 -->
 
 *Written answer*
 
-**Q1608.** X takes the values 1, 2, 3, 4 with Pr(X = 1) = Pr(X = 2) = a and Pr(X = 3) = Pr(X = 4) = b. Given Pr(X ≤ 2) = 0.3, find a and b.
+**Q1612.** X takes the values 1, 2, 3, 4 with Pr(X = 1) = Pr(X = 2) = a and Pr(X = 3) = Pr(X = 4) = b. Given Pr(X ≤ 2) = 0.3, find a and b.
 <!-- id: methods-7-1-24 -->
 
 *Written answer*
 
-**Q1609.** X takes the values 0, 1, 2, 3 with probabilities 0.35, 0.25, 0.3 and 0.1 respectively. Find the mode and the median of X.
+**Q1613.** X takes the values 0, 1, 2, 3 with probabilities 0.35, 0.25, 0.3 and 0.1 respectively. Find the mode and the median of X.
 <!-- id: methods-7-1-25 -->
 
 *Written answer*
 
 #### Expected value and variance
 
-**Q1610.** X takes the values 0, 1, 2, 3 with probabilities 0.1, 0.3, 0.4 and 0.2 respectively. Find E(X).
+**Q1614.** X takes the values 0, 1, 2, 3 with probabilities 0.1, 0.3, 0.4 and 0.2 respectively. Find E(X).
 <!-- id: methods-7-2-1 -->
 
 - A. 1.5
@@ -11359,7 +11427,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 1.7
 - D. 1.2
 
-**Q1611.** X takes the values 0, 1, 2, 3 with probabilities 0.1, 0.3, 0.4 and 0.2 respectively, and E(X) = 1.7. Find Var(X).
+**Q1615.** X takes the values 0, 1, 2, 3 with probabilities 0.1, 0.3, 0.4 and 0.2 respectively, and E(X) = 1.7. Find Var(X).
 <!-- id: methods-7-2-2 -->
 
 - A. 3.7
@@ -11367,7 +11435,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 1.01
 - D. 0.81
 
-**Q1612.** E(X) = 4 and Var(X) = 2. Find E(3X − 1).
+**Q1616.** E(X) = 4 and Var(X) = 2. Find E(3X − 1).
 <!-- id: methods-7-2-3 -->
 
 - A. 11
@@ -11375,7 +11443,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 13
 - D. 3
 
-**Q1613.** E(X) = 4 and Var(X) = 2. Find Var(3X − 1).
+**Q1617.** E(X) = 4 and Var(X) = 2. Find Var(3X − 1).
 <!-- id: methods-7-2-4 -->
 
 - A. 6
@@ -11383,7 +11451,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 17
 - D. 5
 
-**Q1614.** A random variable X has E(X) = 2 and Var(X) = 5. Find E(X²).
+**Q1618.** A random variable X has E(X) = 2 and Var(X) = 5. Find E(X²).
 <!-- id: methods-7-2-5 -->
 
 - A. 7
@@ -11391,7 +11459,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 9
 - D. 1
 
-**Q1615.** X is the number shown when a fair six-sided die is rolled. Find E(X).
+**Q1619.** X is the number shown when a fair six-sided die is rolled. Find E(X).
 <!-- id: methods-7-2-6 -->
 
 - A. 3
@@ -11399,7 +11467,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 6
 - D. 3.5
 
-**Q1616.** X is the number shown when a fair six-sided die is rolled. Find Var(X).
+**Q1620.** X is the number shown when a fair six-sided die is rolled. Find Var(X).
 <!-- id: methods-7-2-7 -->
 
 - A. 35/12
@@ -11407,7 +11475,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 7/2
 - D. 35/6
 
-**Q1617.** At a school fete, it costs $5 to roll a fair die once. A player receives $12 if a six is rolled and nothing otherwise. What is the player's expected profit per game?
+**Q1621.** At a school fete, it costs $5 to roll a fair die once. A player receives $12 if a six is rolled and nothing otherwise. What is the player's expected profit per game?
 <!-- id: methods-7-2-8 -->
 
 - A. $2
@@ -11415,7 +11483,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. −$1
 - D. $7
 
-**Q1618.** A random variable has Var(X) = 0.64. What is the standard deviation of X?
+**Q1622.** A random variable has Var(X) = 0.64. What is the standard deviation of X?
 <!-- id: methods-7-2-9 -->
 
 - A. 0.4096
@@ -11423,7 +11491,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 0.8
 - D. 0.08
 
-**Q1619.** Var(X) = 3. Find Var(5 − 2X).
+**Q1623.** Var(X) = 3. Find Var(5 − 2X).
 <!-- id: methods-7-2-10 -->
 
 - A. −6
@@ -11431,7 +11499,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 17
 - D. 12
 
-**Q1620.** X takes the values 1, 2, 3 with probabilities 0.2, 0.5 and 0.3 respectively. Find E(X).
+**Q1624.** X takes the values 1, 2, 3 with probabilities 0.2, 0.5 and 0.3 respectively. Find E(X).
 <!-- id: methods-7-2-11 -->
 
 - A. 2.1
@@ -11439,7 +11507,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 1.9
 - D. 2.3
 
-**Q1621.** X has Pr(X = x) = x/10 for x = 1, 2, 3, 4. Find E(X).
+**Q1625.** X has Pr(X = x) = x/10 for x = 1, 2, 3, 4. Find E(X).
 <!-- id: methods-7-2-12 -->
 
 - A. 2.5
@@ -11447,7 +11515,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 2
 - D. 3.5
 
-**Q1622.** X takes the values 0, 1, 2 with probabilities p, 0.5 and 0.5 − p respectively. Given E(X) = 1.1, find p.
+**Q1626.** X takes the values 0, 1, 2 with probabilities p, 0.5 and 0.5 − p respectively. Given E(X) = 1.1, find p.
 <!-- id: methods-7-2-13 -->
 
 - A. 0.3
@@ -11455,7 +11523,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 0.2
 - D. 0.25
 
-**Q1623.** X takes the values 1, 2 and k with probabilities 0.3, 0.3 and 0.4 respectively. Given E(X) = 3, find k.
+**Q1627.** X takes the values 1, 2 and k with probabilities 0.3, 0.3 and 0.4 respectively. Given E(X) = 3, find k.
 <!-- id: methods-7-2-14 -->
 
 - A. 5
@@ -11463,7 +11531,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 4.5
 - D. 5.25
 
-**Q1624.** Which one of the following statements is always true for a random variable X?
+**Q1628.** Which one of the following statements is always true for a random variable X?
 <!-- id: methods-7-2-15 -->
 
 - A. Var(X + 5) = Var(X)
@@ -11471,7 +11539,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Var(2X) = 2Var(X)
 - D. E(X²) = [E(X)]²
 
-**Q1625.** An insurer charges a $400 premium for a policy. There is a 2% chance of a claim of $15 000 and otherwise no claim. What is the insurer's expected profit per policy?
+**Q1629.** An insurer charges a $400 premium for a policy. There is a 2% chance of a claim of $15 000 and otherwise no claim. What is the insurer's expected profit per policy?
 <!-- id: methods-7-2-16 -->
 
 - A. $300
@@ -11479,7 +11547,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. $400
 - D. $700
 
-**Q1626.** X has standard deviation 3. If Y = 2X + 4, what is the standard deviation of Y?
+**Q1630.** X has standard deviation 3. If Y = 2X + 4, what is the standard deviation of Y?
 <!-- id: methods-7-2-17 -->
 
 - A. 10
@@ -11487,7 +11555,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 6
 - D. 12
 
-**Q1627.** E(X) = 2 and E(X²) = 7. Find Var(2X + 1).
+**Q1631.** E(X) = 2 and E(X²) = 7. Find Var(2X + 1).
 <!-- id: methods-7-2-18 -->
 
 - A. 13
@@ -11495,44 +11563,44 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 29
 - D. 12
 
-**Q1628.** X takes the values −2, 0 and 3 with probabilities 0.25, 0.35 and 0.4 respectively. Find E(X) and Var(X).
+**Q1632.** X takes the values −2, 0 and 3 with probabilities 0.25, 0.35 and 0.4 respectively. Find E(X) and Var(X).
 <!-- id: methods-7-2-19 -->
 
 *Written answer*
 
-**Q1629.** Explain why Var(aX + b) = a²Var(X) does not depend on b.
+**Q1633.** Explain why Var(aX + b) = a²Var(X) does not depend on b.
 <!-- id: methods-7-2-20 -->
 
 *Written answer*
 
-**Q1630.** A school raffle sells 500 tickets at $2 each. There is one $300 prize and two $50 prizes. Find the expected net gain from buying one ticket.
+**Q1634.** A school raffle sells 500 tickets at $2 each. There is one $300 prize and two $50 prizes. Find the expected net gain from buying one ticket.
 <!-- id: methods-7-2-21 -->
 
 *Written answer*
 
-**Q1631.** X takes the values 1, 2, 3 with probabilities 0.25, 0.5 and 0.25 respectively. Find E(X) and the standard deviation of X, correct to three decimal places.
+**Q1635.** X takes the values 1, 2, 3 with probabilities 0.25, 0.5 and 0.25 respectively. Find E(X) and the standard deviation of X, correct to three decimal places.
 <!-- id: methods-7-2-22 -->
 
 *Written answer*
 
-**Q1632.** E(X) = 3 and Var(X) = 4. Find E(X²) and E((X − 1)²).
+**Q1636.** E(X) = 3 and Var(X) = 4. Find E(X²) and E((X − 1)²).
 <!-- id: methods-7-2-23 -->
 
 *Written answer*
 
-**Q1633.** X has Pr(X = x) = kx for x = 1, 2, 3. Find k and E(X).
+**Q1637.** X has Pr(X = x) = kx for x = 1, 2, 3. Find k and E(X).
 <!-- id: methods-7-2-24 -->
 
 *Written answer*
 
-**Q1634.** X takes the values 0, 1, 2 with probabilities a, b and 0.3 respectively. Given E(X) = 1, find a and b.
+**Q1638.** X takes the values 0, 1, 2 with probabilities a, b and 0.3 respectively. Given E(X) = 1, find a and b.
 <!-- id: methods-7-2-25 -->
 
 *Written answer*
 
 #### Binomial distribution
 
-**Q1635.** X ~ Bi(10, 0.3). Find E(X).
+**Q1639.** X ~ Bi(10, 0.3). Find E(X).
 <!-- id: methods-7-3-1 -->
 
 - A. 3
@@ -11540,7 +11608,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 2.1
 - D. 7
 
-**Q1636.** X ~ Bi(10, 0.3). Find Var(X).
+**Q1640.** X ~ Bi(10, 0.3). Find Var(X).
 <!-- id: methods-7-3-2 -->
 
 - A. 3
@@ -11548,7 +11616,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 0.21
 - D. 1.45
 
-**Q1637.** X ~ Bi(5, 0.5). Find Pr(X = 2).
+**Q1641.** X ~ Bi(5, 0.5). Find Pr(X = 2).
 <!-- id: methods-7-3-3 -->
 
 - A. 1/32
@@ -11556,7 +11624,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 5/16
 - D. 1/2
 
-**Q1638.** X ~ Bi(4, 0.2). Find Pr(X = 0).
+**Q1642.** X ~ Bi(4, 0.2). Find Pr(X = 0).
 <!-- id: methods-7-3-4 -->
 
 - A. 0.2
@@ -11564,7 +11632,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 0.8
 - D. 0.4096
 
-**Q1639.** X ~ Bi(4, 0.2). Find Pr(X ≥ 1).
+**Q1643.** X ~ Bi(4, 0.2). Find Pr(X ≥ 1).
 <!-- id: methods-7-3-5 -->
 
 - A. 0.5904
@@ -11572,7 +11640,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 0.2
 - D. 0.8
 
-**Q1640.** X ~ Bi(3, 0.4). Find Pr(X = 2).
+**Q1644.** X ~ Bi(3, 0.4). Find Pr(X = 2).
 <!-- id: methods-7-3-6 -->
 
 - A. 0.096
@@ -11580,7 +11648,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 0.432
 - D. 0.16
 
-**Q1641.** Which one of the following random variables is best modelled by a binomial distribution?
+**Q1645.** Which one of the following random variables is best modelled by a binomial distribution?
 <!-- id: methods-7-3-7 -->
 
 - A. The number of hearts when 5 cards are dealt without replacement from a deck
@@ -11588,7 +11656,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. The number of goals kicked from 10 independent shots, each with probability 0.7 of success
 - D. The time taken to complete 10 laps of a running track
 
-**Q1642.** X ~ Bi(n, p) with E(X) = 6 and Var(X) = 4.2. Find n.
+**Q1646.** X ~ Bi(n, p) with E(X) = 6 and Var(X) = 4.2. Find n.
 <!-- id: methods-7-3-8 -->
 
 - A. 10
@@ -11596,7 +11664,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 25
 - D. 20
 
-**Q1643.** X ~ Bi(n, 0.5) and Pr(X = 0) = 1/64. Find n.
+**Q1647.** X ~ Bi(n, 0.5) and Pr(X = 0) = 1/64. Find n.
 <!-- id: methods-7-3-9 -->
 
 - A. 6
@@ -11604,7 +11672,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 8
 - D. 32
 
-**Q1644.** A fair die is rolled 4 times. Correct to three decimal places, what is the probability of rolling at least one six?
+**Q1648.** A fair die is rolled 4 times. Correct to three decimal places, what is the probability of rolling at least one six?
 <!-- id: methods-7-3-10 -->
 
 - A. 0.482
@@ -11612,7 +11680,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 0.667
 - D. 0.167
 
-**Q1645.** Each ticket in a promotion has probability 0.2 of winning, independently. What is the smallest number of tickets needed so that the probability of at least one win exceeds 0.95?
+**Q1649.** Each ticket in a promotion has probability 0.2 of winning, independently. What is the smallest number of tickets needed so that the probability of at least one win exceeds 0.95?
 <!-- id: methods-7-3-11 -->
 
 - A. 13
@@ -11620,7 +11688,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 14
 - D. 15
 
-**Q1646.** X ~ Bi(12, 0.25). Find the standard deviation of X.
+**Q1650.** X ~ Bi(12, 0.25). Find the standard deviation of X.
 <!-- id: methods-7-3-12 -->
 
 - A. 2.25
@@ -11628,7 +11696,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 1.73
 - D. 1.5
 
-**Q1647.** X ~ Bi(7, 0.6). Which expression gives Pr(X = 3)?
+**Q1651.** X ~ Bi(7, 0.6). Which expression gives Pr(X = 3)?
 <!-- id: methods-7-3-13 -->
 
 - A. 7C3 (0.6)³ (0.4)⁴
@@ -11636,7 +11704,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. (0.6)³ (0.4)⁴
 - D. 7C3 (0.6)³ (0.4)³
 
-**Q1648.** X ~ Bi(6, 1/3). Find Pr(X = 6).
+**Q1652.** X ~ Bi(6, 1/3). Find Pr(X = 6).
 <!-- id: methods-7-3-14 -->
 
 - A. 1/243
@@ -11644,7 +11712,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 2/243
 - D. 64/729
 
-**Q1649.** X ~ Bi(3, 0.5). Find Pr(X ≤ 1).
+**Q1653.** X ~ Bi(3, 0.5). Find Pr(X ≤ 1).
 <!-- id: methods-7-3-15 -->
 
 - A. 3/8
@@ -11652,7 +11720,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 1/2
 - D. 7/8
 
-**Q1650.** About 15% of commuters in a Melbourne suburb cycle to work. If 20 commuters are chosen at random, what is the expected number who cycle?
+**Q1654.** About 15% of commuters in a Melbourne suburb cycle to work. If 20 commuters are chosen at random, what is the expected number who cycle?
 <!-- id: methods-7-3-16 -->
 
 - A. 2.55
@@ -11660,7 +11728,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 17
 - D. 3
 
-**Q1651.** For a fixed number of trials n, the variance of X ~ Bi(n, p) is largest when p equals
+**Q1655.** For a fixed number of trials n, the variance of X ~ Bi(n, p) is largest when p equals
 <!-- id: methods-7-3-17 -->
 
 - A. 0.5
@@ -11668,7 +11736,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 0
 - D. 0.25
 
-**Q1652.** X ~ Bi(5, p) and Pr(X = 0) = 0.32768. Find p.
+**Q1656.** X ~ Bi(5, p) and Pr(X = 0) = 0.32768. Find p.
 <!-- id: methods-7-3-18 -->
 
 - A. 0.8
@@ -11676,44 +11744,58 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 0.3
 - D. 0.25
 
-**Q1653.** X ~ Bi(5, 0.3). Find Pr(X = 2), correct to four decimal places.
+**Q1657.** X ~ Bi(5, 0.3). Find Pr(X = 2), correct to four decimal places.
 <!-- id: methods-7-3-19 -->
 
 *Written answer*
 
-**Q1654.** State the conditions required for a random variable to follow a binomial distribution.
+**Q1658.** State the conditions required for a random variable to follow a binomial distribution.
 <!-- id: methods-7-3-20 -->
 
 *Written answer*
 
-**Q1655.** A netballer makes 80% of her shots, independently. She takes 6 shots. Find the probability that she makes at least 5, correct to four decimal places.
+**Q1659.** A netballer makes 80% of her shots, independently. She takes 6 shots. Find the probability that she makes at least 5, correct to four decimal places.
 <!-- id: methods-7-3-21 -->
 
 *Written answer*
 
-**Q1656.** X ~ Bi(n, p) has mean 8 and standard deviation 2. Find n and p.
+**Q1660.** X ~ Bi(n, p) has mean 8 and standard deviation 2. Find n and p.
 <!-- id: methods-7-3-22 -->
 
 *Written answer*
 
-**Q1657.** A factory produces light globes, 5% of which are defective, independently. What is the minimum number of globes that must be tested so that the probability of finding at least one defective globe is at least 0.9?
+**Q1661.** A factory produces light globes, 5% of which are defective, independently. What is the minimum number of globes that must be tested so that the probability of finding at least one defective globe is at least 0.9?
 <!-- id: methods-7-3-23 -->
 
 *Written answer*
 
-**Q1658.** X ~ Bi(4, 0.5). Find Pr(X = 4 | X ≥ 3).
+**Q1662.** X ~ Bi(4, 0.5). Find Pr(X = 4 | X ≥ 3).
 <!-- id: methods-7-3-24 -->
 
 *Written answer*
 
-**Q1659.** A student guesses every answer on a 10-question multiple-choice quiz, each question having 4 options. Find the probability that exactly 3 answers are correct, correct to four decimal places.
+**Q1663.** A student guesses every answer on a 10-question multiple-choice quiz, each question having 4 options. Find the probability that exactly 3 answers are correct, correct to four decimal places.
 <!-- id: methods-7-3-25 -->
 
 *Written answer*
 
+**Q1664.** Pies at a bakery
+<!-- id: methods-7-3-m1 -->
+*Multi-part question · 7 marks · Technology-active (CAS) · Original SAC-style question*
+
+At a bakery, 20% of customers buy a pie. A random sample of 12 customers is taken, and \(X\) is the number of them who buy a pie. Assume that customers decide independently of each other.
+
+**a.** Find \(\Pr(X = 3)\), correct to four decimal places. *(1 mark)*
+
+**b.** Find \(\Pr(X \ge 2)\), correct to four decimal places. *(2 marks)*
+
+**c.** Find \(\Pr(X \ge 2 \mid X \le 4)\), correct to four decimal places. *(2 marks)*
+
+**d.** Find the smallest number of customers that must be sampled so that the probability that at least one of them buys a pie is greater than 0.99. *(2 marks)*
+
 #### Conditional probability and independence
 
-**Q1660.** Pr(A) = 0.5, Pr(B) = 0.4 and Pr(A ∩ B) = 0.2. Find Pr(A | B).
+**Q1665.** Pr(A) = 0.5, Pr(B) = 0.4 and Pr(A ∩ B) = 0.2. Find Pr(A | B).
 <!-- id: methods-7-4-1 -->
 
 - A. 0.4
@@ -11721,7 +11803,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 0.5
 - D. 0.1
 
-**Q1661.** A and B are independent events with Pr(A) = 0.3 and Pr(B) = 0.6. Find Pr(A ∩ B).
+**Q1666.** A and B are independent events with Pr(A) = 0.3 and Pr(B) = 0.6. Find Pr(A ∩ B).
 <!-- id: methods-7-4-3 -->
 
 - A. 0.18
@@ -11729,7 +11811,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 0.3
 - D. 0.5
 
-**Q1662.** A and B are mutually exclusive events with Pr(A) = 0.3 and Pr(B) = 0.5. Find Pr(A ∪ B).
+**Q1667.** A and B are mutually exclusive events with Pr(A) = 0.3 and Pr(B) = 0.5. Find Pr(A ∪ B).
 <!-- id: methods-7-4-5 -->
 
 - A. 0.65
@@ -11737,7 +11819,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 0.8
 - D. 0.5
 
-**Q1663.** A and B are mutually exclusive events, each with non-zero probability. Which statement is true?
+**Q1668.** A and B are mutually exclusive events, each with non-zero probability. Which statement is true?
 <!-- id: methods-7-4-6 -->
 
 - A. A and B are always independent
@@ -11745,7 +11827,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. A and B are independent if Pr(A) + Pr(B) = 1
 - D. A and B cannot be independent
 
-**Q1664.** Pr(A) = 0.4 and Pr(B | A) = 0.25. Find Pr(A ∩ B).
+**Q1669.** Pr(A) = 0.4 and Pr(B | A) = 0.25. Find Pr(A ∩ B).
 <!-- id: methods-7-4-7 -->
 
 - A. 0.1
@@ -11753,7 +11835,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 0.16
 - D. 0.625
 
-**Q1665.** For events A and B with Pr(B) > 0, the statement Pr(A | B) = Pr(A) means that
+**Q1670.** For events A and B with Pr(B) > 0, the statement Pr(A | B) = Pr(A) means that
 <!-- id: methods-7-4-8 -->
 
 - A. A and B are mutually exclusive
@@ -11761,7 +11843,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. B is a subset of A
 - D. A′ and B are mutually exclusive
 
-**Q1666.** A bag contains 5 red and 3 green balls. Two are drawn without replacement. Find the probability that both are red.
+**Q1671.** A bag contains 5 red and 3 green balls. Two are drawn without replacement. Find the probability that both are red.
 <!-- id: methods-7-4-9 -->
 
 - A. 25/64
@@ -11769,7 +11851,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 5/14
 - D. 3/14
 
-**Q1667.** A bag contains 5 red and 3 green balls. Two are drawn without replacement. Given the first ball is green, find the probability that the second ball is red.
+**Q1672.** A bag contains 5 red and 3 green balls. Two are drawn without replacement. Given the first ball is green, find the probability that the second ball is red.
 <!-- id: methods-7-4-10 -->
 
 - A. 5/8
@@ -11777,7 +11859,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 15/56
 - D. 5/7
 
-**Q1668.** 2% of a population has a condition. A screening test is positive for 95% of people with the condition and for 10% of people without it. Find the probability that a randomly chosen person tests positive.
+**Q1673.** 2% of a population has a condition. A screening test is positive for 95% of people with the condition and for 10% of people without it. Find the probability that a randomly chosen person tests positive.
 <!-- id: methods-7-4-11 -->
 
 - A. 0.117
@@ -11785,7 +11867,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 0.95
 - D. 0.019
 
-**Q1669.** 2% of a population has a condition. A screening test is positive for 95% of people with the condition and for 10% of people without it. Correct to three decimal places, find the probability that a person who tests positive has the condition.
+**Q1674.** 2% of a population has a condition. A screening test is positive for 95% of people with the condition and for 10% of people without it. Correct to three decimal places, find the probability that a person who tests positive has the condition.
 <!-- id: methods-7-4-12 -->
 
 - A. 0.950
@@ -11793,7 +11875,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 0.019
 - D. 0.838
 
-**Q1670.** Pr(A) = 0.6, Pr(B) = 0.5 and Pr(A ∪ B) = 0.8. Which one of the following is true?
+**Q1675.** Pr(A) = 0.6, Pr(B) = 0.5 and Pr(A ∪ B) = 0.8. Which one of the following is true?
 <!-- id: methods-7-4-13 -->
 
 - A. A and B are mutually exclusive
@@ -11801,7 +11883,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. A and B are independent
 - D. Pr(A ∩ B) = 0.1
 
-**Q1671.** Pr(A′) = 0.7, Pr(B) = 0.4 and Pr(A ∩ B) = 0.12. Find Pr(A ∩ B′).
+**Q1676.** Pr(A′) = 0.7, Pr(B) = 0.4 and Pr(A ∩ B) = 0.12. Find Pr(A ∩ B′).
 <!-- id: methods-7-4-14 -->
 
 - A. 0.28
@@ -11809,7 +11891,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 0.42
 - D. 0.18
 
-**Q1672.** Pr(A) = 0.3, Pr(B | A) = 0.6 and Pr(B | A′) = 0.2. Find Pr(B).
+**Q1677.** Pr(A) = 0.3, Pr(B | A) = 0.6 and Pr(B | A′) = 0.2. Find Pr(B).
 <!-- id: methods-7-4-15 -->
 
 - A. 0.32
@@ -11817,7 +11899,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 0.4
 - D. 0.26
 
-**Q1673.** Pr(A) = 0.3, Pr(B | A) = 0.6 and Pr(B | A′) = 0.2, so Pr(B) = 0.32. Find Pr(A | B).
+**Q1678.** Pr(A) = 0.3, Pr(B | A) = 0.6 and Pr(B | A′) = 0.2, so Pr(B) = 0.32. Find Pr(A | B).
 <!-- id: methods-7-4-16 -->
 
 - A. 0.6
@@ -11825,7 +11907,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 0.3
 - D. 0.18
 
-**Q1674.** Two fair dice are rolled. Given that the first die shows a 3, what is the probability that the sum is 8?
+**Q1679.** Two fair dice are rolled. Given that the first die shows a 3, what is the probability that the sum is 8?
 <!-- id: methods-7-4-17 -->
 
 - A. 5/36
@@ -11833,7 +11915,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 1/6
 - D. 1/5
 
-**Q1675.** A and B are independent events with Pr(A) = 0.5 and Pr(B) = 0.3. Find Pr(A′ ∩ B′).
+**Q1680.** A and B are independent events with Pr(A) = 0.5 and Pr(B) = 0.3. Find Pr(A′ ∩ B′).
 <!-- id: methods-7-4-18 -->
 
 - A. 0.15
@@ -11841,37 +11923,37 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 0.65
 - D. 0.35
 
-**Q1676.** Pr(A) = 0.4, Pr(B) = 0.25 and Pr(A ∪ B) = 0.55. Show that A and B are independent.
+**Q1681.** Pr(A) = 0.4, Pr(B) = 0.25 and Pr(A ∪ B) = 0.55. Show that A and B are independent.
 <!-- id: methods-7-4-19 -->
 
 *Written answer*
 
-**Q1677.** Explain the difference between mutually exclusive events and independent events.
+**Q1682.** Explain the difference between mutually exclusive events and independent events.
 <!-- id: methods-7-4-20 -->
 
 *Written answer*
 
-**Q1678.** On a given day in Melbourne the probability of rain is 0.3. If it rains, the probability that a student's tram is late is 0.4; otherwise it is 0.1. Find the probability the tram is late, and the probability it rained given the tram was late.
+**Q1683.** On a given day in Melbourne the probability of rain is 0.3. If it rains, the probability that a student's tram is late is 0.4; otherwise it is 0.1. Find the probability the tram is late, and the probability it rained given the tram was late.
 <!-- id: methods-7-4-21 -->
 
 *Written answer*
 
-**Q1679.** Pr(A) = 0.5, Pr(B) = 0.6 and Pr(A | B) = 0.4. Find Pr(A ∩ B) and Pr(B | A).
+**Q1684.** Pr(A) = 0.5, Pr(B) = 0.6 and Pr(A | B) = 0.4. Find Pr(A ∩ B) and Pr(B | A).
 <!-- id: methods-7-4-22 -->
 
 *Written answer*
 
-**Q1680.** In a Year 12 cohort, 60% study Mathematical Methods, 40% study Chemistry and 25% study both. Find the probability a Methods student also studies Chemistry, and determine whether the two subjects are chosen independently.
+**Q1685.** In a Year 12 cohort, 60% study Mathematical Methods, 40% study Chemistry and 25% study both. Find the probability a Methods student also studies Chemistry, and determine whether the two subjects are chosen independently.
 <!-- id: methods-7-4-23 -->
 
 *Written answer*
 
-**Q1681.** A and B are independent with Pr(A) = 0.3 and Pr(B) = 0.8. Find Pr(A ∪ B).
+**Q1686.** A and B are independent with Pr(A) = 0.3 and Pr(B) = 0.8. Find Pr(A ∪ B).
 <!-- id: methods-7-4-24 -->
 
 *Written answer*
 
-**Q1682.** A box of 12 batteries contains 3 faulty ones. Two are drawn without replacement. Find the probability that exactly one is faulty.
+**Q1687.** A box of 12 batteries contains 3 faulty ones. Two are drawn without replacement. Find the probability that exactly one is faulty.
 <!-- id: methods-7-4-25 -->
 
 *Written answer*
@@ -11880,7 +11962,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 #### Probability density functions
 
-**Q1683.** The continuous random variable X has probability density function f(x) = kx² for 0 ≤ x ≤ 3, and 0 elsewhere. The value of k is
+**Q1688.** The continuous random variable X has probability density function f(x) = kx² for 0 ≤ x ≤ 3, and 0 elsewhere. The value of k is
 <!-- id: methods-8-1-1 -->
 
 - A. 1/9
@@ -11888,7 +11970,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 1/27
 - D. 3
 
-**Q1684.** X has probability density function f(x) = 2x for 0 ≤ x ≤ 1, and 0 elsewhere. P(X < 0.5) is
+**Q1689.** X has probability density function f(x) = 2x for 0 ≤ x ≤ 1, and 0 elsewhere. P(X < 0.5) is
 <!-- id: methods-8-1-2 -->
 
 - A. 0.5
@@ -11896,7 +11978,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 0.75
 - D. 0.125
 
-**Q1685.** X has probability density function f(x) = 2x for 0 ≤ x ≤ 1, and 0 elsewhere. E(X) is
+**Q1690.** X has probability density function f(x) = 2x for 0 ≤ x ≤ 1, and 0 elsewhere. E(X) is
 <!-- id: methods-8-1-3 -->
 
 - A. 1/2
@@ -11904,7 +11986,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 2/3
 - D. 3/4
 
-**Q1686.** X has probability density function f(x) = 2x for 0 ≤ x ≤ 1, and 0 elsewhere. Var(X) is
+**Q1691.** X has probability density function f(x) = 2x for 0 ≤ x ≤ 1, and 0 elsewhere. Var(X) is
 <!-- id: methods-8-1-4 -->
 
 - A. 1/2
@@ -11912,7 +11994,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 1/6
 - D. 1/18
 
-**Q1687.** Each function below is defined on 0 ≤ x ≤ 2 and is 0 elsewhere. Which one is NOT a probability density function?
+**Q1692.** Each function below is defined on 0 ≤ x ≤ 2 and is 0 elsewhere. Which one is NOT a probability density function?
 <!-- id: methods-8-1-5 -->
 
 - A. f(x) = x − 1/2
@@ -11920,7 +12002,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. f(x) = 1/2
 - D. f(x) = 3x²/8
 
-**Q1688.** X is a continuous random variable with probability density function f. For any real number a, P(X = a) is equal to
+**Q1693.** X is a continuous random variable with probability density function f. For any real number a, P(X = a) is equal to
 <!-- id: methods-8-1-6 -->
 
 - A. f(a)
@@ -11928,7 +12010,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. ∫₋∞^a f(x) dx
 - D. 1/2
 
-**Q1689.** X has probability density function f(x) = (1/2)sin(x) for 0 ≤ x ≤ π, and 0 elsewhere. P(X < π/3) is
+**Q1694.** X has probability density function f(x) = (1/2)sin(x) for 0 ≤ x ≤ π, and 0 elsewhere. P(X < π/3) is
 <!-- id: methods-8-1-7 -->
 
 - A. 1/2
@@ -11936,7 +12018,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 1/4
 - D. √3/4
 
-**Q1690.** X has probability density function f(x) = 2x for 0 ≤ x ≤ 1, and 0 elsewhere. The median of X is
+**Q1695.** X has probability density function f(x) = 2x for 0 ≤ x ≤ 1, and 0 elsewhere. The median of X is
 <!-- id: methods-8-1-8 -->
 
 - A. 1/2
@@ -11944,7 +12026,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 1/4
 - D. 1/√2
 
-**Q1691.** The time, X hours, a customer waits on a phone help line has probability density function f(x) = 0.5e^(−0.5x) for x ≥ 0, and 0 elsewhere. P(X > 2) is
+**Q1696.** The time, X hours, a customer waits on a phone help line has probability density function f(x) = 0.5e^(−0.5x) for x ≥ 0, and 0 elsewhere. P(X > 2) is
 <!-- id: methods-8-1-9 -->
 
 - A. e^(−1)
@@ -11952,7 +12034,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. e^(−2)
 - D. 0.5e^(−1)
 
-**Q1692.** X has probability density function f(x) = 0.5e^(−0.5x) for x ≥ 0, and 0 elsewhere. E(X) is
+**Q1697.** X has probability density function f(x) = 0.5e^(−0.5x) for x ≥ 0, and 0 elsewhere. E(X) is
 <!-- id: methods-8-1-10 -->
 
 - A. 0.5
@@ -11960,7 +12042,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 4
 - D. 1
 
-**Q1693.** A continuous random variable X has E(X) = 5 and Var(X) = 4. Var(3X − 2) is
+**Q1698.** A continuous random variable X has E(X) = 5 and Var(X) = 4. Var(3X − 2) is
 <!-- id: methods-8-1-11 -->
 
 - A. 12
@@ -11968,7 +12050,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 36
 - D. 10
 
-**Q1694.** X has probability density function f(x) = 1/6 for 2 ≤ x ≤ 8, and 0 elsewhere. P(3 < X < 5) is
+**Q1699.** X has probability density function f(x) = 1/6 for 2 ≤ x ≤ 8, and 0 elsewhere. P(3 < X < 5) is
 <!-- id: methods-8-1-12 -->
 
 - A. 1/2
@@ -11976,7 +12058,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 2/3
 - D. 1/3
 
-**Q1695.** X has probability density function f(x) = 1/6 for 2 ≤ x ≤ 8, and 0 elsewhere. Var(X) is
+**Q1700.** X has probability density function f(x) = 1/6 for 2 ≤ x ≤ 8, and 0 elsewhere. Var(X) is
 <!-- id: methods-8-1-13 -->
 
 - A. 3
@@ -11984,7 +12066,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 12
 - D. √3
 
-**Q1696.** The probability density function of X is f(x) = k(4 − x) for 0 ≤ x ≤ 4, and 0 elsewhere. The value of k is
+**Q1701.** The probability density function of X is f(x) = k(4 − x) for 0 ≤ x ≤ 4, and 0 elsewhere. The value of k is
 <!-- id: methods-8-1-14 -->
 
 - A. 1/4
@@ -11992,7 +12074,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 1/16
 - D. 1/2
 
-**Q1697.** X has probability density function f(x) = 2x for 0 ≤ x ≤ 1, and 0 elsewhere. P(X > 0.5 | X > 0.25) is
+**Q1702.** X has probability density function f(x) = 2x for 0 ≤ x ≤ 1, and 0 elsewhere. P(X > 0.5 | X > 0.25) is
 <!-- id: methods-8-1-15 -->
 
 - A. 0.75
@@ -12000,7 +12082,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 0.8
 - D. 0.6
 
-**Q1698.** X has probability density function f(x) = 3x² for 0 ≤ x ≤ 1, and 0 elsewhere. The value of a such that P(X ≤ a) = 0.125 is
+**Q1703.** X has probability density function f(x) = 3x² for 0 ≤ x ≤ 1, and 0 elsewhere. The value of a such that P(X ≤ a) = 0.125 is
 <!-- id: methods-8-1-16 -->
 
 - A. 0.354
@@ -12008,7 +12090,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 0.042
 - D. 0.5
 
-**Q1699.** X has probability density function f(x) = 3x² for 0 ≤ x ≤ 1, and 0 elsewhere. E(X) is
+**Q1704.** X has probability density function f(x) = 3x² for 0 ≤ x ≤ 1, and 0 elsewhere. E(X) is
 <!-- id: methods-8-1-17 -->
 
 - A. 3/4
@@ -12016,7 +12098,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 3/5
 - D. 1/4
 
-**Q1700.** X has probability density function f(x) = 3x² for 0 ≤ x ≤ 1, and 0 elsewhere. Var(X) is
+**Q1705.** X has probability density function f(x) = 3x² for 0 ≤ x ≤ 1, and 0 elsewhere. Var(X) is
 <!-- id: methods-8-1-18 -->
 
 - A. 3/5
@@ -12024,44 +12106,44 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 9/16
 - D. 3/16
 
-**Q1701.** The probability density function of X is f(x) = k/x for 1 ≤ x ≤ e², and 0 elsewhere. Find the value of k.
+**Q1706.** The probability density function of X is f(x) = k/x for 1 ≤ x ≤ e², and 0 elsewhere. Find the value of k.
 <!-- id: methods-8-1-19 -->
 
 *Written answer*
 
-**Q1702.** X has probability density function f(x) = (x + 1)/4 for 0 ≤ x ≤ 2, and 0 elsewhere. Find P(X > 1).
+**Q1707.** X has probability density function f(x) = (x + 1)/4 for 0 ≤ x ≤ 2, and 0 elsewhere. Find P(X > 1).
 <!-- id: methods-8-1-20 -->
 
 *Written answer*
 
-**Q1703.** X has probability density function f(x) = (1/2)sin(x) for 0 ≤ x ≤ π, and 0 elsewhere. Find E(X).
+**Q1708.** X has probability density function f(x) = (1/2)sin(x) for 0 ≤ x ≤ π, and 0 elsewhere. Find E(X).
 <!-- id: methods-8-1-21 -->
 
 *Written answer*
 
-**Q1704.** The lifetime, X years, of a phone battery has probability density function f(x) = 0.5e^(−0.5x) for x ≥ 0, and 0 elsewhere. Find the exact median lifetime.
+**Q1709.** The lifetime, X years, of a phone battery has probability density function f(x) = 0.5e^(−0.5x) for x ≥ 0, and 0 elsewhere. Find the exact median lifetime.
 <!-- id: methods-8-1-22 -->
 
 *Written answer*
 
-**Q1705.** State the two conditions a function f must satisfy to be a probability density function of a continuous random variable.
+**Q1710.** State the two conditions a function f must satisfy to be a probability density function of a continuous random variable.
 <!-- id: methods-8-1-23 -->
 
 *Written answer*
 
-**Q1706.** A continuous random variable X has E(X) = 3 and Var(X) = 2. Find E(X²).
+**Q1711.** A continuous random variable X has E(X) = 3 and Var(X) = 2. Find E(X²).
 <!-- id: methods-8-1-24 -->
 
 *Written answer*
 
-**Q1707.** X has probability density function f(x) = 3x² for 0 ≤ x ≤ 1, and 0 elsewhere. Find P(0.2 < X < 0.6).
+**Q1712.** X has probability density function f(x) = 3x² for 0 ≤ x ≤ 1, and 0 elsewhere. Find P(0.2 < X < 0.6).
 <!-- id: methods-8-1-25 -->
 
 *Written answer*
 
 #### Normal distribution and standardisation
 
-**Q1708.** The mass of apples from a Goulburn Valley orchard is normally distributed with mean 70 g and variance 25 g². The probability that a randomly chosen apple has mass greater than 80 g is closest to
+**Q1713.** The mass of apples from a Goulburn Valley orchard is normally distributed with mean 70 g and variance 25 g². The probability that a randomly chosen apple has mass greater than 80 g is closest to
 <!-- id: methods-8-2-1 -->
 
 - A. 0.0455
@@ -12069,7 +12151,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 0.0228
 - D. 0.1587
 
-**Q1709.** Heights of Year 12 students at a Melbourne school are normally distributed with mean 172 cm and standard deviation 8 cm. Approximately 95% of students have heights between
+**Q1714.** Heights of Year 12 students at a Melbourne school are normally distributed with mean 172 cm and standard deviation 8 cm. Approximately 95% of students have heights between
 <!-- id: methods-8-2-2 -->
 
 - A. 164 cm and 180 cm
@@ -12077,7 +12159,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 168 cm and 176 cm
 - D. 156 cm and 188 cm
 
-**Q1710.** Scores on a SAC are normally distributed with mean 65 and standard deviation 10. The standardised score (z-score) of a student who scored 78 is
+**Q1715.** Scores on a SAC are normally distributed with mean 65 and standard deviation 10. The standardised score (z-score) of a student who scored 78 is
 <!-- id: methods-8-2-3 -->
 
 - A. 1.3
@@ -12085,7 +12167,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 13
 - D. −1.3
 
-**Q1711.** Jess scored 72 on a Methods test (mean 60, standard deviation 8) and 80 on an English test (mean 70, standard deviation 5). Relative to her classmates, which statement is correct?
+**Q1716.** Jess scored 72 on a Methods test (mean 60, standard deviation 8) and 80 on an English test (mean 70, standard deviation 5). Relative to her classmates, which statement is correct?
 <!-- id: methods-8-2-4 -->
 
 - A. She did better in Methods (z = 1.5 compared with z = 2)
@@ -12093,7 +12175,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. She did equally well in both tests
 - D. She did better in English because her raw score was higher
 
-**Q1712.** If Z is a standard normal random variable, P(Z < −1.5) is closest to
+**Q1717.** If Z is a standard normal random variable, P(Z < −1.5) is closest to
 <!-- id: methods-8-2-5 -->
 
 - A. 0.9332
@@ -12101,7 +12183,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 0.0668
 - D. 0.0228
 
-**Q1713.** X is normally distributed with mean 50. If P(X < a) = 0.3, then P(X > 100 − a) is
+**Q1718.** X is normally distributed with mean 50. If P(X < a) = 0.3, then P(X > 100 − a) is
 <!-- id: methods-8-2-6 -->
 
 - A. 0.7
@@ -12109,7 +12191,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 0.6
 - D. 0.3
 
-**Q1714.** X is normally distributed with mean 50 and P(X > 60) = 0.1. The standard deviation of X is closest to
+**Q1719.** X is normally distributed with mean 50 and P(X > 60) = 0.1. The standard deviation of X is closest to
 <!-- id: methods-8-2-7 -->
 
 - A. 7.80
@@ -12117,7 +12199,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 12.82
 - D. 11.11
 
-**Q1715.** If Z is a standard normal random variable, P(−0.5 < Z < 1.5) is closest to
+**Q1720.** If Z is a standard normal random variable, P(−0.5 < Z < 1.5) is closest to
 <!-- id: methods-8-2-8 -->
 
 - A. 0.6915
@@ -12125,7 +12207,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 0.3753
 - D. 0.5328
 
-**Q1716.** A Victorian dairy fills milk cartons with volumes normally distributed with mean 1000 mL and standard deviation 4 mL. The proportion of cartons containing between 996 mL and 1008 mL is closest to
+**Q1721.** A Victorian dairy fills milk cartons with volumes normally distributed with mean 1000 mL and standard deviation 4 mL. The proportion of cartons containing between 996 mL and 1008 mL is closest to
 <!-- id: methods-8-2-9 -->
 
 - A. 0.6827
@@ -12133,7 +12215,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 0.8186
 - D. 0.8413
 
-**Q1717.** Bags of coffee beans have masses normally distributed with mean 250 g and standard deviation 10 g. The mass exceeded by only 5% of bags is closest to
+**Q1722.** Bags of coffee beans have masses normally distributed with mean 250 g and standard deviation 10 g. The mass exceeded by only 5% of bags is closest to
 <!-- id: methods-8-2-10 -->
 
 - A. 233.6 g
@@ -12141,7 +12223,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 255.0 g
 - D. 266.4 g
 
-**Q1718.** If X ~ N(μ, σ²) and Z = (X − μ)/σ, then the mean and standard deviation of Z are
+**Q1723.** If X ~ N(μ, σ²) and Z = (X − μ)/σ, then the mean and standard deviation of Z are
 <!-- id: methods-8-2-11 -->
 
 - A. 0 and 1
@@ -12149,7 +12231,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 0 and σ
 - D. μ and 1
 
-**Q1719.** X is normally distributed with standard deviation 3 and P(X < 20) = 0.8. The mean of X is closest to
+**Q1724.** X is normally distributed with standard deviation 3 and P(X < 20) = 0.8. The mean of X is closest to
 <!-- id: methods-8-2-12 -->
 
 - A. 22.52
@@ -12157,7 +12239,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 19.16
 - D. 17.60
 
-**Q1720.** X is normally distributed with P(X < 40) = 0.2 and P(X > 60) = 0.1. The standard deviation of X is closest to
+**Q1725.** X is normally distributed with P(X < 40) = 0.2 and P(X > 60) = 0.1. The standard deviation of X is closest to
 <!-- id: methods-8-2-13 -->
 
 - A. 45.45
@@ -12165,7 +12247,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 9.42
 - D. 10.00
 
-**Q1721.** X is normally distributed with mean 20 and standard deviation 4. If Y = 3X + 5, then Y is normally distributed with
+**Q1726.** X is normally distributed with mean 20 and standard deviation 4. If Y = 3X + 5, then Y is normally distributed with
 <!-- id: methods-8-2-14 -->
 
 - A. mean 65 and standard deviation 17
@@ -12173,7 +12255,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. mean 65 and standard deviation 48
 - D. mean 65 and standard deviation 12
 
-**Q1722.** For any normal distribution, the proportion of values within 1.5 standard deviations of the mean is closest to
+**Q1727.** For any normal distribution, the proportion of values within 1.5 standard deviations of the mean is closest to
 <!-- id: methods-8-2-15 -->
 
 - A. 0.8664
@@ -12181,7 +12263,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 0.6827
 - D. 0.4332
 
-**Q1723.** If Z is a standard normal random variable, the value of c such that P(−c < Z < c) = 0.95 is closest to
+**Q1728.** If Z is a standard normal random variable, the value of c such that P(−c < Z < c) = 0.95 is closest to
 <!-- id: methods-8-2-16 -->
 
 - A. 1.645
@@ -12189,7 +12271,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 2.576
 - D. 2.00
 
-**Q1724.** IQ scores are normally distributed with mean 100 and standard deviation 15. Given that a person's IQ is above 115, the probability that it is above 130 is closest to
+**Q1729.** IQ scores are normally distributed with mean 100 and standard deviation 15. Given that a person's IQ is above 115, the probability that it is above 130 is closest to
 <!-- id: methods-8-2-17 -->
 
 - A. 0.0228
@@ -12197,7 +12279,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 0.1434
 - D. 0.8566
 
-**Q1725.** The life of a brand of torch battery is normally distributed with mean 500 hours and standard deviation 40 hours. The probability that a battery lasts less than 450 hours is closest to
+**Q1730.** The life of a brand of torch battery is normally distributed with mean 500 hours and standard deviation 40 hours. The probability that a battery lasts less than 450 hours is closest to
 <!-- id: methods-8-2-18 -->
 
 - A. 0.8944
@@ -12205,44 +12287,44 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 0.2113
 - D. 0.1056
 
-**Q1726.** X is normally distributed with mean 80 and standard deviation 6. Find P(74 < X < 92), correct to four decimal places.
+**Q1731.** X is normally distributed with mean 80 and standard deviation 6. Find P(74 < X < 92), correct to four decimal places.
 <!-- id: methods-8-2-19 -->
 
 *Written answer*
 
-**Q1727.** Explain why, for a normally distributed random variable X, P(X ≤ a) = P(X < a).
+**Q1732.** Explain why, for a normally distributed random variable X, P(X ≤ a) = P(X < a).
 <!-- id: methods-8-2-20 -->
 
 *Written answer*
 
-**Q1728.** X ~ N(30, 5²). Find k such that P(X > k) = 0.15, correct to two decimal places.
+**Q1733.** X ~ N(30, 5²). Find k such that P(X > k) = 0.15, correct to two decimal places.
 <!-- id: methods-8-2-21 -->
 
 *Written answer*
 
-**Q1729.** X ~ N(50, 4²). Use the 68–95–99.7% rule to estimate the percentage of values between 42 and 54.
+**Q1734.** X ~ N(50, 4²). Use the 68–95–99.7% rule to estimate the percentage of values between 42 and 54.
 <!-- id: methods-8-2-22 -->
 
 *Written answer*
 
-**Q1730.** The lengths of snapper caught in Port Phillip Bay are normally distributed with mean 32 cm and standard deviation 5 cm. The legal minimum length is 28 cm. Find the probability that a randomly caught snapper is of legal length, correct to four decimal places.
+**Q1735.** The lengths of snapper caught in Port Phillip Bay are normally distributed with mean 32 cm and standard deviation 5 cm. The legal minimum length is 28 cm. Find the probability that a randomly caught snapper is of legal length, correct to four decimal places.
 <!-- id: methods-8-2-23 -->
 
 *Written answer*
 
-**Q1731.** Using the snapper distribution N(32, 5²) with a legal minimum length of 28 cm, find the probability that three independently caught snapper are all of legal length, correct to three decimal places.
+**Q1736.** Using the snapper distribution N(32, 5²) with a legal minimum length of 28 cm, find the probability that three independently caught snapper are all of legal length, correct to three decimal places.
 <!-- id: methods-8-2-24 -->
 
 *Written answer*
 
-**Q1732.** X is normally distributed with standard deviation 2 and P(X < 15) = 0.05. Find the mean of X, correct to two decimal places.
+**Q1737.** X is normally distributed with standard deviation 2 and P(X < 15) = 0.05. Find the mean of X, correct to two decimal places.
 <!-- id: methods-8-2-25 -->
 
 *Written answer*
 
 #### Distribution of sample proportions
 
-**Q1733.** In a large population, the proportion of people with a certain trait is p = 0.4. For random samples of size 100, E(P̂) is
+**Q1738.** In a large population, the proportion of people with a certain trait is p = 0.4. For random samples of size 100, E(P̂) is
 <!-- id: methods-8-3-1 -->
 
 - A. 0.4
@@ -12250,7 +12332,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 0.24
 - D. 0.6
 
-**Q1734.** In a large population p = 0.4. For random samples of size 100, the standard deviation of P̂ is closest to
+**Q1739.** In a large population p = 0.4. For random samples of size 100, the standard deviation of P̂ is closest to
 <!-- id: methods-8-3-2 -->
 
 - A. 0.24
@@ -12258,7 +12340,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 0.0024
 - D. 0.49
 
-**Q1735.** If the sample size used to estimate a population proportion is multiplied by 4, the standard deviation of the sample proportion is
+**Q1740.** If the sample size used to estimate a population proportion is multiplied by 4, the standard deviation of the sample proportion is
 <!-- id: methods-8-3-3 -->
 
 - A. quartered
@@ -12266,7 +12348,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. halved
 - D. unchanged
 
-**Q1736.** Forty per cent of Victorian households own a cat. Using the normal approximation, the probability that a random sample of 100 households has a sample proportion greater than 0.5 is closest to
+**Q1741.** Forty per cent of Victorian households own a cat. Using the normal approximation, the probability that a random sample of 100 households has a sample proportion greater than 0.5 is closest to
 <!-- id: methods-8-3-4 -->
 
 - A. 0.0228
@@ -12274,7 +12356,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 0.9794
 - D. 0.0206
 
-**Q1737.** A random sample of 20 people is taken. Which of the following is NOT a possible value of the sample proportion P̂?
+**Q1742.** A random sample of 20 people is taken. Which of the following is NOT a possible value of the sample proportion P̂?
 <!-- id: methods-8-3-5 -->
 
 - A. 0.33
@@ -12282,7 +12364,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 0.05
 - D. 0.6
 
-**Q1738.** In a population p = 0.3. For random samples of size 10, the exact probability that P̂ = 0.2 is closest to
+**Q1743.** In a population p = 0.3. For random samples of size 10, the exact probability that P̂ = 0.2 is closest to
 <!-- id: methods-8-3-6 -->
 
 - A. 0.2668
@@ -12290,7 +12372,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 0.3000
 - D. 0.0900
 
-**Q1739.** A poll of 500 Victorian voters found that 42% supported a proposal. The value 0.42 is best described as
+**Q1744.** A poll of 500 Victorian voters found that 42% supported a proposal. The value 0.42 is best described as
 <!-- id: methods-8-3-7 -->
 
 - A. a population parameter
@@ -12298,7 +12380,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. a sample statistic
 - D. a margin of error
 
-**Q1740.** Which combination gives the smallest standard deviation of the sample proportion?
+**Q1745.** Which combination gives the smallest standard deviation of the sample proportion?
 <!-- id: methods-8-3-8 -->
 
 - A. p = 0.5, n = 100
@@ -12306,7 +12388,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. p = 0.9, n = 50
 - D. p = 0.5, n = 400
 
-**Q1741.** For a fixed sample size n, the standard deviation of P̂ is greatest when p equals
+**Q1746.** For a fixed sample size n, the standard deviation of P̂ is greatest when p equals
 <!-- id: methods-8-3-9 -->
 
 - A. 0.5
@@ -12314,7 +12396,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 1
 - D. 0.25
 
-**Q1742.** If p = 0.5, the sample size needed so that the standard deviation of P̂ is 0.02 is
+**Q1747.** If p = 0.5, the sample size needed so that the standard deviation of P̂ is 0.02 is
 <!-- id: methods-8-3-10 -->
 
 - A. 25
@@ -12322,7 +12404,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 1250
 - D. 2500
 
-**Q1743.** Twenty per cent of commuters on a Melbourne train line use a myki pass. For samples of 64 commuters, the normal approximation gives P(P̂ < 0.1) closest to
+**Q1748.** Twenty per cent of commuters on a Melbourne train line use a myki pass. For samples of 64 commuters, the normal approximation gives P(P̂ < 0.1) closest to
 <!-- id: methods-8-3-11 -->
 
 - A. 0.0455
@@ -12330,7 +12412,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 0.0228
 - D. 0.9772
 
-**Q1744.** A fair coin is tossed 4 times. The probability that the sample proportion of heads is at least 0.75 is
+**Q1749.** A fair coin is tossed 4 times. The probability that the sample proportion of heads is at least 0.75 is
 <!-- id: methods-8-3-12 -->
 
 - A. 0.25
@@ -12338,7 +12420,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 0.6875
 - D. 0.3125
 
-**Q1745.** In a population p = 0.3. For samples of size 50, Var(P̂) is
+**Q1750.** In a population p = 0.3. For samples of size 50, Var(P̂) is
 <!-- id: methods-8-3-13 -->
 
 - A. 0.0042
@@ -12346,7 +12428,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 0.21
 - D. 0.042
 
-**Q1746.** X is the number of successes in a random sample of size n, where X ~ Bi(n, p). The sample proportion P̂ is defined as
+**Q1751.** X is the number of successes in a random sample of size n, where X ~ Bi(n, p). The sample proportion P̂ is defined as
 <!-- id: methods-8-3-14 -->
 
 - A. np
@@ -12354,7 +12436,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. X/p
 - D. nX
 
-**Q1747.** A teacher simulates 1000 random samples, each of size 50, from a population with p = 0.3 and records each p̂. Which statement is true?
+**Q1752.** A teacher simulates 1000 random samples, each of size 50, from a population with p = 0.3 and records each p̂. Which statement is true?
 <!-- id: methods-8-3-15 -->
 
 - A. The spread of the p̂ values would decrease if 5000 samples were simulated instead
@@ -12362,7 +12444,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. The spread of the p̂ values would decrease if each sample had size 200
 - D. The p̂ values are exactly normally distributed
 
-**Q1748.** A researcher wants a random sample of students at a Geelong secondary school. Which method gives a random sample?
+**Q1753.** A researcher wants a random sample of students at a Geelong secondary school. Which method gives a random sample?
 <!-- id: methods-8-3-16 -->
 
 - A. Surveying the first 50 students at the canteen
@@ -12370,7 +12452,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Surveying the researcher's own Year 12 class
 - D. Using a random number generator to select students from the complete enrolment list
 
-**Q1749.** In a population p = 0.6. For samples of size 150, the normal approximation gives P(0.55 < P̂ < 0.65) closest to
+**Q1754.** In a population p = 0.6. For samples of size 150, the normal approximation gives P(0.55 < P̂ < 0.65) closest to
 <!-- id: methods-8-3-17 -->
 
 - A. 0.7887
@@ -12378,7 +12460,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 0.8944
 - D. 0.3944
 
-**Q1750.** For samples of size 100, the standard deviation of P̂ is 0.03. A possible value of p is
+**Q1755.** For samples of size 100, the standard deviation of P̂ is 0.03. A possible value of p is
 <!-- id: methods-8-3-18 -->
 
 - A. 0.3
@@ -12386,44 +12468,44 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 0.03
 - D. 0.09
 
-**Q1751.** Define the sample proportion P̂ and state its mean and standard deviation for random samples of size n from a large population with proportion p.
+**Q1756.** Define the sample proportion P̂ and state its mean and standard deviation for random samples of size n from a large population with proportion p.
 <!-- id: methods-8-3-19 -->
 
 *Written answer*
 
-**Q1752.** In a large population p = 0.15. Find the standard deviation of P̂ for samples of size 200, correct to four decimal places.
+**Q1757.** In a large population p = 0.15. Find the standard deviation of P̂ for samples of size 200, correct to four decimal places.
 <!-- id: methods-8-3-20 -->
 
 *Written answer*
 
-**Q1753.** In a population p = 0.4. For samples of size 5, find the exact probability that P̂ = 0.4.
+**Q1758.** In a population p = 0.4. For samples of size 5, find the exact probability that P̂ = 0.4.
 <!-- id: methods-8-3-21 -->
 
 *Written answer*
 
-**Q1754.** Explain why a normal approximation to the distribution of P̂ would be poor for samples of size 20 when p = 0.05.
+**Q1759.** Explain why a normal approximation to the distribution of P̂ would be poor for samples of size 20 when p = 0.05.
 <!-- id: methods-8-3-22 -->
 
 *Written answer*
 
-**Q1755.** Thirty-five per cent of Melbourne households have rooftop solar panels. For random samples of 400 households, use the normal approximation to find P(P̂ > 0.38), correct to three decimal places.
+**Q1760.** Thirty-five per cent of Melbourne households have rooftop solar panels. For random samples of 400 households, use the normal approximation to find P(P̂ > 0.38), correct to three decimal places.
 <!-- id: methods-8-3-23 -->
 
 *Written answer*
 
-**Q1756.** A pollster wants to halve the standard deviation of the sample proportion from her current sample of 100 people. What sample size is needed? Explain.
+**Q1761.** A pollster wants to halve the standard deviation of the sample proportion from her current sample of 100 people. What sample size is needed? Explain.
 <!-- id: methods-8-3-24 -->
 
 *Written answer*
 
-**Q1757.** A fair coin is tossed 10 times. Find the exact probability that the sample proportion of heads is at most 0.2, correct to four decimal places.
+**Q1762.** A fair coin is tossed 10 times. Find the exact probability that the sample proportion of heads is at most 0.2, correct to four decimal places.
 <!-- id: methods-8-3-25 -->
 
 *Written answer*
 
 #### Approximate confidence intervals for p
 
-**Q1758.** In a random sample of 400 Victorian adults, 30% said they cycle to work at least once a week. An approximate 95% confidence interval for the population proportion is closest to
+**Q1763.** In a random sample of 400 Victorian adults, 30% said they cycle to work at least once a week. An approximate 95% confidence interval for the population proportion is closest to
 <!-- id: methods-8-4-1 -->
 
 - A. (0.277, 0.323)
@@ -12431,7 +12513,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. (0.255, 0.345)
 - D. (0.210, 0.390)
 
-**Q1759.** The width of an approximate confidence interval p̂ ± M is
+**Q1764.** The width of an approximate confidence interval p̂ ± M is
 <!-- id: methods-8-4-2 -->
 
 - A. M
@@ -12439,7 +12521,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. p̂ + M
 - D. 2M
 
-**Q1760.** A 95% confidence interval for p is (0.31, 0.39). The best interpretation is
+**Q1765.** A 95% confidence interval for p is (0.31, 0.39). The best interpretation is
 <!-- id: methods-8-4-3 -->
 
 - A. If many such intervals were constructed from random samples, about 95% of them would contain p
@@ -12447,7 +12529,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 95% of the population has a value between 0.31 and 0.39
 - D. p equals 0.35 with 95% certainty
 
-**Q1761.** For a fixed sample, increasing the confidence level from 90% to 99% will
+**Q1766.** For a fixed sample, increasing the confidence level from 90% to 99% will
 <!-- id: methods-8-4-4 -->
 
 - A. narrow the interval
@@ -12455,7 +12537,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. move the centre of the interval
 - D. have no effect on the interval
 
-**Q1762.** The z-value used for an approximate 90% confidence interval is closest to
+**Q1767.** The z-value used for an approximate 90% confidence interval is closest to
 <!-- id: methods-8-4-5 -->
 
 - A. 1.282
@@ -12463,7 +12545,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 1.645
 - D. 2.576
 
-**Q1763.** An approximate confidence interval for p is (0.42, 0.58). The sample proportion and margin of error are
+**Q1768.** An approximate confidence interval for p is (0.42, 0.58). The sample proportion and margin of error are
 <!-- id: methods-8-4-6 -->
 
 - A. p̂ = 0.50, M = 0.16
@@ -12471,7 +12553,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. p̂ = 0.58, M = 0.16
 - D. p̂ = 0.50, M = 0.08
 
-**Q1764.** An approximate 95% confidence interval for p is (0.42, 0.58). The sample size used was closest to
+**Q1769.** An approximate 95% confidence interval for p is (0.42, 0.58). The sample size used was closest to
 <!-- id: methods-8-4-7 -->
 
 - A. 150
@@ -12479,7 +12561,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 38
 - D. 300
 
-**Q1765.** Using p̂ = 0.5, the smallest sample size giving a margin of error of at most 0.03 for an approximate 95% confidence interval is
+**Q1770.** Using p̂ = 0.5, the smallest sample size giving a margin of error of at most 0.03 for an approximate 95% confidence interval is
 <!-- id: methods-8-4-8 -->
 
 - A. 1067
@@ -12487,7 +12569,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 33
 - D. 534
 
-**Q1766.** To halve the width of an approximate confidence interval for p (with p̂ and confidence level unchanged), the sample size must be
+**Q1771.** To halve the width of an approximate confidence interval for p (with p̂ and confidence level unchanged), the sample size must be
 <!-- id: methods-8-4-9 -->
 
 - A. multiplied by 2
@@ -12495,7 +12577,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. multiplied by 4
 - D. halved
 
-**Q1767.** A council claims that 50% of residents support a new bike lane. A survey gives a 95% confidence interval of (0.38, 0.46). The most appropriate conclusion is
+**Q1772.** A council claims that 50% of residents support a new bike lane. A survey gives a 95% confidence interval of (0.38, 0.46). The most appropriate conclusion is
 <!-- id: methods-8-4-10 -->
 
 - A. The claim is supported because 0.5 is close to the interval
@@ -12503,7 +12585,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. The survey proves that exactly 42% of residents support the lane
 - D. The survey suggests the claim is not correct because 0.5 lies outside the interval
 
-**Q1768.** In a random sample of 200 Year 12 students, 15% study a language other than English. An approximate 99% confidence interval for p is closest to
+**Q1773.** In a random sample of 200 Year 12 students, 15% study a language other than English. An approximate 99% confidence interval for p is closest to
 <!-- id: methods-8-4-11 -->
 
 - A. (0.085, 0.215)
@@ -12511,7 +12593,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. (0.108, 0.192)
 - D. (0.125, 0.175)
 
-**Q1769.** For a large population, which of the following does NOT affect the width of an approximate confidence interval for p?
+**Q1774.** For a large population, which of the following does NOT affect the width of an approximate confidence interval for p?
 <!-- id: methods-8-4-12 -->
 
 - A. The sample size
@@ -12519,7 +12601,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. The confidence level
 - D. The sample proportion
 
-**Q1770.** Twenty independent random samples are each used to construct an approximate 95% confidence interval for the same p. The expected number of intervals that contain p is
+**Q1775.** Twenty independent random samples are each used to construct an approximate 95% confidence interval for the same p. The expected number of intervals that contain p is
 <!-- id: methods-8-4-13 -->
 
 - A. 20
@@ -12527,7 +12609,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 19
 - D. 18
 
-**Q1771.** Three independent approximate 95% confidence intervals are constructed for p. The probability that all three contain p is closest to
+**Q1776.** Three independent approximate 95% confidence intervals are constructed for p. The probability that all three contain p is closest to
 <!-- id: methods-8-4-14 -->
 
 - A. 0.950
@@ -12535,7 +12617,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 0.143
 - D. 0.857
 
-**Q1772.** An approximate 95% confidence interval for p is (0.210, 0.390). The sample size used was closest to
+**Q1777.** An approximate 95% confidence interval for p is (0.210, 0.390). The sample size used was closest to
 <!-- id: methods-8-4-15 -->
 
 - A. 100
@@ -12543,7 +12625,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 200
 - D. 400
 
-**Q1773.** Which statement about an approximate confidence interval for p is correct?
+**Q1778.** Which statement about an approximate confidence interval for p is correct?
 <!-- id: methods-8-4-16 -->
 
 - A. p varies from sample to sample, while the interval is fixed
@@ -12551,7 +12633,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Both p and the interval are fixed
 - D. p̂ is the unknown parameter being estimated
 
-**Q1774.** In a random sample of 500 Victorian adults, 160 had received a flu vaccination this year. An approximate 95% confidence interval for p is closest to
+**Q1779.** In a random sample of 500 Victorian adults, 160 had received a flu vaccination this year. An approximate 95% confidence interval for p is closest to
 <!-- id: methods-8-4-17 -->
 
 - A. (0.299, 0.341)
@@ -12559,7 +12641,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. (0.279, 0.361)
 - D. (0.300, 0.340)
 
-**Q1775.** Using the same sample data, an approximate 90% confidence interval for p compared with an approximate 95% interval is
+**Q1780.** Using the same sample data, an approximate 90% confidence interval for p compared with an approximate 95% interval is
 <!-- id: methods-8-4-18 -->
 
 - A. wider, with the same centre
@@ -12567,37 +12649,111 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. the same width, with a different centre
 - D. narrower, with the same centre
 
-**Q1776.** In a random sample of 600 VCE students, 390 had a part-time job. Find an approximate 95% confidence interval for the proportion of all VCE students with a part-time job, with endpoints correct to three decimal places.
+**Q1781.** In a random sample of 600 VCE students, 390 had a part-time job. Find an approximate 95% confidence interval for the proportion of all VCE students with a part-time job, with endpoints correct to three decimal places.
 <!-- id: methods-8-4-19 -->
 
 *Written answer*
 
-**Q1777.** A 95% confidence interval for the proportion of Victorians who walk daily is (0.47, 0.55). Interpret this interval.
+**Q1782.** A 95% confidence interval for the proportion of Victorians who walk daily is (0.47, 0.55). Interpret this interval.
 <!-- id: methods-8-4-20 -->
 
 *Written answer*
 
-**Q1778.** In a random sample of 250 people, p̂ = 0.4. Find the margin of error for an approximate 90% confidence interval, correct to three decimal places.
+**Q1783.** In a random sample of 250 people, p̂ = 0.4. Find the margin of error for an approximate 90% confidence interval, correct to three decimal places.
 <!-- id: methods-8-4-21 -->
 
 *Written answer*
 
-**Q1779.** A preliminary estimate gives p̂ = 0.2. Find the smallest sample size needed so that the margin of error of an approximate 95% confidence interval is at most 0.04.
+**Q1784.** A preliminary estimate gives p̂ = 0.2. Find the smallest sample size needed so that the margin of error of an approximate 95% confidence interval is at most 0.04.
 <!-- id: methods-8-4-22 -->
 
 *Written answer*
 
-**Q1780.** An approximate 95% confidence interval for p is (0.52, 0.60). Find p̂, the margin of error, and the approximate sample size used.
+**Q1785.** An approximate 95% confidence interval for p is (0.52, 0.60). Find p̂, the margin of error, and the approximate sample size used.
 <!-- id: methods-8-4-23 -->
 
 *Written answer*
 
-**Q1781.** A water authority claims that 70% of residents support water restrictions. A survey gives an approximate 95% confidence interval of (0.61, 0.67). Comment on the claim.
+**Q1786.** A water authority claims that 70% of residents support water restrictions. A survey gives an approximate 95% confidence interval of (0.61, 0.67). Comment on the claim.
 <!-- id: methods-8-4-24 -->
 
 *Written answer*
 
-**Q1782.** Explain why the confidence interval p̂ ± z√(p̂(1 − p̂)/n) is described as approximate.
+**Q1787.** Explain why the confidence interval p̂ ± z√(p̂(1 − p̂)/n) is described as approximate.
 <!-- id: methods-8-4-25 -->
 
 *Written answer*
+
+### Exam-style questions (mixed topics)
+
+**Q1788.** A cubic curve and a probability density function
+<!-- id: methods-x1 -->
+*Multi-part question · 14 marks · Technology-active (CAS) · Original question in the style of VCAA Exam 2, Section B*
+
+Let \(f: [0, 3] \to \mathbb{R}\), \(f(x) = x(x - 3)^2\). The graph of \(y = f(x)\) is shown below.
+
+*[Diagram: Graph of y = f(x) for x from 0 to 3. The curve starts at the origin, rises to a single peak, then falls to touch the x-axis at x = 3.]*
+
+**a.** Show that \(f'(x) = 3(x - 1)(x - 3)\). *(1 mark)*
+
+**b.** Find the coordinates of the stationary point of \(f\) in the interval \((0, 3)\), and state its nature. *(2 marks)*
+
+**c.** Find the equation of the tangent to the graph of \(f\) at the point where \(x = 2\). *(2 marks)*
+
+**d.** Find the area of the region enclosed by the graph of \(f\) and the \(x\)-axis. *(2 marks)*
+
+The continuous random variable \(X\) has probability density function \[g(x) = \begin{cases} k\,x(x - 3)^2 & 0 \le x \le 3 \\ 0 & \text{elsewhere} \end{cases}\] where \(k\) is a positive constant.
+
+**e.i.** Show that \(k = \frac{4}{27}\). *(1 mark)*
+
+**e.ii.** Find \(\Pr(X < 1)\). *(2 marks)*
+
+**f.** Find \(\text{E}(X)\). *(2 marks)*
+
+**g.** Find the median of \(X\), correct to three decimal places. *(2 marks)*
+
+**Q1789.** Seedlings in a nursery
+<!-- id: methods-x2 -->
+*Multi-part question · 12 marks · Technology-active (CAS) · Original question in the style of VCAA Exam 2, Section B*
+
+A nursery grows seedlings. The height, \(h\) cm, of a typical seedling \(t\) weeks after it is planted is modelled by \(h(t) = 20 - 18e^{-0.25t}\), \(t \ge 0\).
+
+**a.** Find the height of a seedling when it is planted. *(1 mark)*
+
+**b.** Find the rate at which the height is increasing when \(t = 4\), in cm per week, correct to two decimal places. *(2 marks)*
+
+**c.** Find how long after planting a seedling reaches a height of 15 cm. Give your answer in weeks, correct to one decimal place. *(2 marks)*
+
+**d.** State the height that the model predicts seedlings approach in the long term. *(1 mark)*
+
+Seeds are sown in trays of 10. Each seed germinates with probability 0.9, independently of the others. Let \(Y\) be the number of seeds in a tray that germinate.
+
+**e.i.** Find the probability that all 10 seeds in a tray germinate, correct to four decimal places. *(1 mark)*
+
+**e.ii.** Find the probability that at least 8 seeds in a tray germinate, correct to four decimal places. *(2 marks)*
+
+Individual seedlings vary. Ten weeks after planting, the heights of the seedlings are normally distributed with mean 18.5 cm and standard deviation 0.8 cm.
+
+**f.** Find the proportion of seedlings that are taller than 20 cm ten weeks after planting, correct to four decimal places. *(1 mark)*
+
+**g.** In a random sample of 200 seedlings, 174 were ready for sale. Find an approximate 95% confidence interval for the proportion of all the nursery's seedlings that are ready for sale. Give the end points correct to three decimal places. *(2 marks)*
+
+**Q1790.** A sine curve and a probability
+<!-- id: methods-x3 -->
+*Multi-part question · 10 marks · Technology-free · Original question in the style of VCAA Exam 1*
+
+Let \(f: [0, \pi] \to \mathbb{R}\), \(f(x) = \sin(2x)\).
+
+**a.** Solve \(f(x) = \frac{1}{2}\). *(2 marks)*
+
+**b.** Find the gradient of the graph of \(f\) at \(x = \frac{\pi}{6}\). *(1 mark)*
+
+**c.** Find the area of the region enclosed by the graph of \(f\) and the \(x\)-axis for \(0 \le x \le \frac{\pi}{2}\). *(2 marks)*
+
+The continuous random variable \(X\) has probability density function \[g(x) = \begin{cases} k\sin(2x) & 0 \le x \le \frac{\pi}{2} \\ 0 & \text{elsewhere} \end{cases}\] where \(k\) is a positive constant.
+
+**d.i.** Show that \(k = 1\). *(1 mark)*
+
+**d.ii.** Find \(\Pr\left(X < \frac{\pi}{6}\right)\). *(2 marks)*
+
+**d.iii.** Find \(\Pr\left(X < \frac{\pi}{6} \mid X < \frac{\pi}{4}\right)\). *(2 marks)*

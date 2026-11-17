@@ -6,9 +6,12 @@ OUT = os.path.join(ROOT, "questions")
 PREFIX = "const DATA = "
 line = next(l for l in open(os.path.join(ROOT, "index.html"), encoding="utf-8") if l.startswith(PREFIX))
 d = json.loads(line[len(PREFIX):].rstrip().rstrip(";"))
+X = d.get("X", {})  # exam-style questions: {subjectId: [multi-part question]}
 GCSE_REASON = "GCSE Edexcel Biology, not a VCE subject — needs your decision."
 LET = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 UNIT_ORDER = {"VCE · Units 1 & 2": 0, "VCE · Units 3 & 4": 1}
+TECH = {"free": "Technology-free", "active": "Technology-active (CAS)"}
+SUBNAME = {slug: name for s in d["S"] for _, _, subs in s[4] for slug, name, _ in subs}
 
 # folder -> subjects; GCSE goes to _unsorted, VCE units merge into one folder per subject
 folders = {}
@@ -18,7 +21,36 @@ for k, ss in folders.items():
     if k != "_unsorted":
         ss.sort(key=lambda s: UNIT_ORDER[s[2]])
 
+# Multi-part questions are objects with named fields; MCQ and written questions are positional arrays.
+def mk(n): return "%d mark%s" % (n, "" if n == 1 else "s")
+def mparts(r): return [p for p in r["pieces"] if p["kind"] == "part"]
+def mtotal(r): return sum(p["marks"] for p in mparts(r))
+
+def mq_body(r):
+    s = "*%s*\n\n" % " · ".join(x for x in ("Multi-part question", mk(mtotal(r)), TECH.get(r.get("tech"), ""), r["source"]) if x)
+    for p in r["pieces"]:
+        if p["kind"] == "part":
+            s += "**%s.** %s *(%s)*\n\n" % (p["label"], p["question"], mk(p["marks"]))
+            continue
+        if p.get("text"): s += p["text"] + "\n\n"
+        if p.get("table"):
+            rows = p["table"]["rows"]
+            s += "| %s |\n|%s\n" % (" | ".join(rows[0]), " --- |" * len(rows[0]))
+            s += "".join("| %s |\n" % " | ".join(row) for row in rows[1:]) + "\n"
+        if p.get("diagram"): s += "*[Diagram: %s]*\n\n" % p["diagram"]["alt"]
+    return s
+
+def ma_body(r):
+    s = "*Multi-part question · %s*\n\n" % mk(mtotal(r))
+    for p in mparts(r):
+        s += "**%s.** %s *(%s)*\n\n" % (p["label"], p["answer"], mk(p["marks"]))
+        s += "".join("%d. %s%s\n" % (k + 1, st["working"], " *(%s)*" % mk(st["marks"]) if st["marks"] else "") for k, st in enumerate(p["steps"])) + "\n"
+        s += "Common mistake: %s\n\nTopic: %s (%s)\n\n" % (p["mistake"], SUBNAME[p["topic"]], p["topic"])
+    return s
+
 def qblock(n, r):
+    if isinstance(r, dict):
+        return "**Q%d.** %s\n<!-- id: %s -->\n" % (n, r["title"], r["id"]) + mq_body(r)
     s = "**Q%d.** %s\n<!-- id: %s -->\n" % (n, r[2], r[0])
     if r[-1]: s += "*Higher tier only*\n"
     if r[1] == 0:
@@ -26,6 +58,8 @@ def qblock(n, r):
     return s + "\n*Written answer*\n\n"
 
 def ablock(n, r):
+    if isinstance(r, dict):
+        return "**A%d.** %s\n<!-- id: %s -->\n" % (n, r["title"], r["id"]) + ma_body(r)
     a, ex = ("%s. %s" % (LET[r[4]], r[3][r[4]]), r[5]) if r[1] == 0 else (r[3], r[4])
     return "**A%d.** %s\n<!-- id: %s -->\n\nExplanation:%s\n\n" % (n, a, r[0], (" " + ex) if ex else "")
 
@@ -48,6 +82,11 @@ def render(k, kind):
                 for r in d["Q"].get(slug, []):
                     order.append(r)
                     t += qblock(len(order), r) if kind == "q" else ablock(len(order), r)
+        if X.get(s[0]):
+            t += "### Exam-style questions (mixed topics)\n\n"
+            for r in X[s[0]]:
+                order.append(r)
+                t += qblock(len(order), r) if kind == "q" else ablock(len(order), r)
     return t.rstrip("\n") + "\n", order
 
 if os.path.exists(OUT): shutil.rmtree(OUT)
@@ -56,19 +95,22 @@ counts, orders = {}, {}
 for k in sorted(folders, key=lambda x: (x == "_unsorted", x)):
     os.makedirs(os.path.join(OUT, k))
     qt, qo = render(k, "q"); at, ao = render(k, "a")
-    assert [r[0] for r in qo] == [r[0] for r in ao]
+    rid = lambda r: r["id"] if isinstance(r, dict) else r[0]
+    assert [rid(r) for r in qo] == [rid(r) for r in ao]
     open(os.path.join(OUT, k, "questions.md"), "w", encoding="utf-8").write(qt)
     open(os.path.join(OUT, k, "answers.md"), "w", encoding="utf-8").write(at)
     counts[k], orders[k] = len(qo), qo
 
-rd = "# Questions\n\nThese files are generated from index.html's DATA; question and answer text is verbatim.\n\n"
+rd = "# Questions\n\nThese files are generated from index.html's DATA; question and answer text is verbatim. Maths is written in LaTeX between \\( \\) or \\[ \\], which the website typesets.\n\n"
 for k, c in counts.items():
-    rd += "- [%s](%s/questions.md) — %d questions ([answers](%s/answers.md))\n" % (k, k, c, k)
+    nm = sum(isinstance(r, dict) for r in orders[k])
+    rd += "- [%s](%s/questions.md) — %d questions%s ([answers](%s/answers.md))\n" % (k, k, c, " (%d multi-part)" % nm if nm else "", k)
 open(os.path.join(OUT, "README.md"), "w", encoding="utf-8").write(rd)
 
 # ---- self-check: parse files back and compare with the source ----
-allrows = {r[0]: r for rows in d["Q"].values() for r in rows}
-tot = sum(len(v) for v in d["Q"].values())
+allq = [r for rows in d["Q"].values() for r in rows] + [r for rows in X.values() for r in rows]
+allrows = {(r["id"] if isinstance(r, dict) else r[0]): r for r in allq}
+tot = len(allq)
 assert len(allrows) == tot, "duplicate question ids in DATA"
 mark = re.compile(r"^\*\*([QA])(\d+)\.\*\* ", re.M)
 seen = {"q": [], "a": []}
@@ -83,10 +125,14 @@ for k in counts:
             mm = re.match(r"(?s)(.*?)\n<!-- id: (.*?) -->\n(.*)", body)
             assert mm, (k, fn, i)
             pre, id_, rest = mm.groups()
-            assert id_ == orders[k][i][0], (k, fn, i)
+            r = orders[k][i]
+            assert id_ == (r["id"] if isinstance(r, dict) else r[0]), (k, fn, i)
             seen[kind].append(id_)
             r = allrows[id_]
-            if kind == "q":
+            if isinstance(r, dict):
+                assert pre == r["title"]
+                exp = (mq_body(r) if kind == "q" else ma_body(r)).rstrip("\n")
+            elif kind == "q":
                 assert pre == r[2]
                 exp = ("*Higher tier only*\n" if r[-1] else "") + "\n"
                 exp += "\n".join("- %s. %s" % (LET[j], o) for j, o in enumerate(r[3])) if r[1] == 0 else "*Written answer*"

@@ -5811,3 +5811,45 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 <!-- id: specialist-8-4-25 -->
 
 *Written answer*
+
+### Exam-style questions (mixed topics)
+
+**Q801.** A rational function, an integral and a solid
+<!-- id: specialist-x1 -->
+*Multi-part question · 11 marks · Technology-free · Original question in the style of VCAA Exam 1*
+
+Let \(f(x) = \dfrac{x + 5}{(x - 1)(x + 2)}\).
+
+**a.** Express \(f(x)\) in partial fractions. *(2 marks)*
+
+**b.** State the equations of all asymptotes of the graph of \(y = f(x)\). *(2 marks)*
+
+**c.** Show that \(\displaystyle\int_2^4 f(x)\,dx = \log_e 6\). *(2 marks)*
+
+**d.** The region enclosed by the graph of \(y = f(x)\), the \(x\)-axis and the lines \(x = 2\) and \(x = 4\) is rotated about the \(x\)-axis. Find the exact volume of the solid formed. *(3 marks)*
+
+**e.** Show that \(f'(x) < 0\) for all \(x > 1\). *(2 marks)*
+
+**Q802.** A parcel dropped from a drone
+<!-- id: specialist-x2 -->
+*Multi-part question · 13 marks · Technology-active (CAS) · Original question in the style of VCAA Exam 2, Section B*
+
+A parcel is dropped from a hovering drone. Taking downwards as positive, its velocity \(v\) m/s after \(t\) seconds satisfies \(\dfrac{dv}{dt} = 9.8 - 0.2v\), with \(v = 0\) when \(t = 0\).
+
+**a.** Show that \(v = 49\left(1 - e^{-0.2t}\right)\). *(2 marks)*
+
+**b.** State the parcel's limiting (terminal) velocity. *(1 mark)*
+
+**c.** Find the distance the parcel falls in the first 5 seconds, in metres correct to two decimal places. *(2 marks)*
+
+**d.** Using \(v\dfrac{dv}{dx} = 9.8 - 0.2v\), where \(x\) m is the distance fallen, find the distance the parcel falls before its velocity reaches 30 m/s. Give your answer correct to one decimal place. *(2 marks)*
+
+The drone carries 3 parcels at a time in a box of mass 0.5 kg. The masses of the parcels are independent and normally distributed with mean 2.4 kg and standard deviation 0.3 kg. Let \(T\) kg be the total mass of the box and its 3 parcels.
+
+**e.i.** Find \(\text{E}(T)\), and the standard deviation of \(T\) correct to three decimal places. *(2 marks)*
+
+**e.ii.** The drone can safely lift at most 8.5 kg. Find \(\Pr(T > 8.5)\), correct to three decimal places. *(1 mark)*
+
+The company says its deliveries take a mean of 25 minutes, with a standard deviation of 4 minutes. A random sample of 36 deliveries had a mean time of 26.3 minutes. Assume the standard deviation of 4 minutes is correct.
+
+**f.** Test at the 5% level of significance whether the mean delivery time is greater than 25 minutes. State the hypotheses, the p-value correct to four decimal places, and your conclusion. *(3 marks)*
