@@ -53,33 +53,33 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 **Q9.** Why is Jane locked in the red-room at Gateshead?
 <!-- id: vce-english34-jane-eyre-i1 -->
 
-- A. She fought back when John Reed attacked her
-- B. She stole a book from the library
-- C. She was ill and needed to be kept apart
-- D. She refused to go to Lowood
+- A. She stole a book from the library
+- B. She was ill and needed to be kept apart
+- C. She refused to go to Lowood
+- D. She fought back when John Reed attacked her
 
 **Q10.** Who at Lowood teaches Jane to endure suffering patiently through faith?
 <!-- id: vce-english34-jane-eyre-i2 -->
 
-- A. Helen Burns
-- B. Miss Temple
-- C. Mr Brocklehurst
-- D. Bessie
+- A. Miss Temple
+- B. Mr Brocklehurst
+- C. Bessie
+- D. Helen Burns
 
 **Q11.** Why does Jane leave Thornfield?
 <!-- id: vce-english34-jane-eyre-i3 -->
 
-- A. Rochester is already married to Bertha Mason, and Jane will not become his mistress
-- B. Rochester dismisses her after an argument
-- C. St John Rivers asks her to marry him
-- D. She inherits money and no longer needs to work
+- A. Rochester dismisses her after an argument
+- B. St John Rivers asks her to marry him
+- C. She inherits money and no longer needs to work
+- D. Rochester is already married to Bertha Mason, and Jane will not become his mistress
 
 **Q12.** What makes it possible for Jane and Rochester to marry as equals at the end?
 <!-- id: vce-english34-jane-eyre-i4 -->
 
-- A. Jane has inherited money of her own and Rochester has been humbled by the fire
-- B. Rochester has become a clergyman
-- C. St John Rivers gives his blessing
+- A. Rochester has become a clergyman
+- B. St John Rivers gives his blessing
+- C. Jane has inherited money of her own and Rochester has been humbled by the fire
 - D. Jane has returned to work as a governess
 
 **Q13.** How does Brontë use Bertha Mason in the novel?
@@ -102,25 +102,25 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 **Q16.** From which perspective is Jane Eyre narrated?
 <!-- id: vce-english34-jane-eyre-c1 -->
 
-- A. First person, by an adult Jane looking back on her life
-- B. Third person, by an all-knowing narrator
-- C. First person, by Rochester
+- A. Third person, by an all-knowing narrator
+- B. First person, by Rochester
+- C. First person, by an adult Jane looking back on her life
 - D. Through letters exchanged between characters
 
 **Q17.** After Rochester's proposal, the horse-chestnut tree in the orchard is split by lightning. This is an example of:
 <!-- id: vce-english34-jane-eyre-c2 -->
 
-- A. Foreshadowing through pathetic fallacy
-- B. Dramatic irony
+- A. Dramatic irony
+- B. Foreshadowing through pathetic fallacy
 - C. Flashback
 - D. Satire
 
 **Q18.** The novel follows Jane through Gateshead, Lowood, Thornfield, Moor House and Ferndean. Which form does this structure suit?
 <!-- id: vce-english34-jane-eyre-c3 -->
 
-- A. A bildungsroman (a novel of growth)
-- B. A detective story
-- C. An epistolary novel
+- A. A detective story
+- B. An epistolary novel
+- C. A bildungsroman (a novel of growth)
 - D. A tragedy in five acts
 
 **Q19.** What is the effect of Jane's direct addresses to the reader, such as 'Reader, I married him'?
@@ -202,32 +202,32 @@ How does Brontë use settings to show Jane's development?
 **Q31.** Why does Viola disguise herself as a young man?
 <!-- id: vce-english34-twelfth-night-i1 -->
 
-- A. She is shipwrecked alone in Illyria and wants protection and a place in Orsino's service
-- B. She wants to escape an arranged marriage
-- C. She is spying for her brother Sebastian
-- D. Olivia asks her to
+- A. She wants to escape an arranged marriage
+- B. She is spying for her brother Sebastian
+- C. Olivia asks her to
+- D. She is shipwrecked alone in Illyria and wants protection and a place in Orsino's service
 
 **Q32.** Who forges the letter that tricks Malvolio?
 <!-- id: vce-english34-twelfth-night-i2 -->
 
-- A. Maria
-- B. Sir Toby
+- A. Sir Toby
+- B. Maria
 - C. Feste
 - D. Olivia
 
 **Q33.** How is the confusion of identities finally resolved?
 <!-- id: vce-english34-twelfth-night-i3 -->
 
-- A. Viola and Sebastian appear together in the final scene
-- B. Orsino discovers the truth from the Captain
-- C. Feste reveals the disguise in a song
+- A. Orsino discovers the truth from the Captain
+- B. Feste reveals the disguise in a song
+- C. Viola and Sebastian appear together in the final scene
 - D. Olivia sees through Cesario's disguise
 
 **Q34.** Viola says Feste is 'wise enough to play the fool'. What role does Feste play in the play?
 <!-- id: vce-english34-twelfth-night-i4 -->
 
-- A. A wise fool who exposes other characters' folly
-- B. Olivia's steward and rival suitor
+- A. Olivia's steward and rival suitor
+- B. A wise fool who exposes other characters' folly
 - C. A comic villain who plots against Viola
 - D. Orsino's messenger to Olivia
 
@@ -251,24 +251,24 @@ How does Brontë use settings to show Jane's development?
 **Q38.** Olivia falls in love with Cesario while the audience knows Cesario is Viola. This is:
 <!-- id: vce-english34-twelfth-night-c1 -->
 
-- A. Dramatic irony
-- B. Soliloquy
-- C. Pathetic fallacy
-- D. Foreshadowing
+- A. Soliloquy
+- B. Pathetic fallacy
+- C. Foreshadowing
+- D. Dramatic irony
 
 **Q39.** In general, which characters speak in verse and which in prose?
 <!-- id: vce-english34-twelfth-night-c2 -->
 
-- A. The nobles in romantic scenes mostly speak verse; the comic characters mostly speak prose
-- B. Everyone speaks verse
-- C. The servants speak verse and the nobles speak prose
-- D. Only Feste speaks verse
+- A. Everyone speaks verse
+- B. The servants speak verse and the nobles speak prose
+- C. Only Feste speaks verse
+- D. The nobles in romantic scenes mostly speak verse; the comic characters mostly speak prose
 
 **Q40.** What does the title 'Twelfth Night' refer to?
 <!-- id: vce-english34-twelfth-night-c3 -->
 
-- A. The last night of the Christmas festivities, a time of revelry and turning order upside down
-- B. The twelfth night of Viola's journey
+- A. The twelfth night of Viola's journey
+- B. The last night of the Christmas festivities, a time of revelry and turning order upside down
 - C. Orsino's twelve nights of courtship
 - D. The night of the shipwreck
 
@@ -359,25 +359,25 @@ To what extent is Malvolio a victim rather than a fool?
 **Q54.** Where does Sybylla have her happiest time in the novel?
 <!-- id: vce-english34-my-brilliant-career-i2 -->
 
-- A. At her grandmother's home, Caddagat
-- B. As a governess at Barney's Gap
-- C. At Possum Gully during the drought
-- D. At school in Goulburn
+- A. As a governess at Barney's Gap
+- B. At Possum Gully during the drought
+- C. At school in Goulburn
+- D. At her grandmother's home, Caddagat
 
 **Q55.** Why is Sybylla sent to work for the M'Swat family?
 <!-- id: vce-english34-my-brilliant-career-i3 -->
 
-- A. To pay off a debt her father owes
-- B. To learn to keep house before marriage
-- C. Because her grandmother wants her to meet a husband
+- A. To learn to keep house before marriage
+- B. Because her grandmother wants her to meet a husband
+- C. To pay off a debt her father owes
 - D. To teach at the local school
 
 **Q56.** How does the novel end?
 <!-- id: vce-english34-my-brilliant-career-i4 -->
 
-- A. Sybylla refuses Harold Beecham and stays at Possum Gully, writing her story
-- B. Sybylla marries Harold and moves to Five-Bob Downs
-- C. Sybylla becomes a famous actress in Sydney
+- A. Sybylla marries Harold and moves to Five-Bob Downs
+- B. Sybylla becomes a famous actress in Sydney
+- C. Sybylla refuses Harold Beecham and stays at Possum Gully, writing her story
 - D. Sybylla marries Frank Hawden
 
 **Q57.** Why does Sybylla refuse to marry Harold Beecham?
@@ -400,25 +400,25 @@ To what extent is Malvolio a victim rather than a fool?
 **Q60.** Who narrates My Brilliant Career?
 <!-- id: vce-english34-my-brilliant-career-c1 -->
 
-- A. Sybylla Melvyn, in the first person
-- B. An omniscient third-person narrator
-- C. Harold Beecham
-- D. Sybylla's grandmother, through letters
+- A. An omniscient third-person narrator
+- B. Harold Beecham
+- C. Sybylla's grandmother, through letters
+- D. Sybylla Melvyn, in the first person
 
 **Q61.** The title 'My Brilliant Career' is best described as:
 <!-- id: vce-english34-my-brilliant-career-c2 -->
 
-- A. Ironic, because Sybylla's life seems to offer no career at all
-- B. Literal, because Sybylla becomes famous
-- C. A reference to Harold's success
-- D. A metaphor for the Australian landscape
+- A. Literal, because Sybylla becomes famous
+- B. A reference to Harold's success
+- C. A metaphor for the Australian landscape
+- D. Ironic, because Sybylla's life seems to offer no career at all
 
 **Q62.** Sybylla tells the reader 'This is not a romance'. What does this do?
 <!-- id: vce-english34-my-brilliant-career-c3 -->
 
-- A. It challenges readers' expectations of a conventional romantic ending
-- B. It reveals the ending of the novel
-- C. It introduces Harold as the hero
+- A. It reveals the ending of the novel
+- B. It introduces Harold as the hero
+- C. It challenges readers' expectations of a conventional romantic ending
 - D. It explains the setting of Possum Gully
 
 **Q63.** How does Franklin's use of sarcasm and humour shape our view of Sybylla?
@@ -490,33 +490,33 @@ How does Franklin present the limits placed on women in rural Australia?
 **Q73.** What happens on the island when something 'disappears'?
 <!-- id: vce-english34-memory-police-i1 -->
 
-- A. People lose their memory and feeling for it, and get rid of any remaining examples
-- B. The object becomes invisible but people still remember it
-- C. The Memory Police physically steal every example overnight
+- A. The object becomes invisible but people still remember it
+- B. The Memory Police physically steal every example overnight
+- C. People lose their memory and feeling for it, and get rid of any remaining examples
 - D. The object is moved to another island
 
 **Q74.** Why does the narrator hide R in a secret room in her house?
 <!-- id: vce-english34-memory-police-i2 -->
 
-- A. He is one of the few people who keep their memories, so the Memory Police would take him
-- B. He has committed a crime against the island's mayor
+- A. He has committed a crime against the island's mayor
+- B. He is one of the few people who keep their memories, so the Memory Police would take him
 - C. He is too ill to live alone
 - D. He wants to finish writing his own novel in secret
 
 **Q75.** What is the narrator's own profession?
 <!-- id: vce-english34-memory-police-i3 -->
 
-- A. Novelist
-- B. Sculptor
-- C. Ferry mechanic
-- D. Teacher of typing
+- A. Sculptor
+- B. Ferry mechanic
+- C. Teacher of typing
+- D. Novelist
 
 **Q76.** Which genre best describes The Memory Police?
 <!-- id: vce-english34-memory-police-i4 -->
 
-- A. Dystopian fiction
-- B. Historical romance
-- C. Detective fiction
+- A. Historical romance
+- B. Detective fiction
+- C. Dystopian fiction
 - D. Comic satire
 
 **Q77.** How does Ogawa present the Memory Police as a form of power?
@@ -547,9 +547,9 @@ How does Franklin present the limits placed on women in rural Australia?
 **Q81.** The story of the typist who loses her voice is an example of:
 <!-- id: vce-english34-memory-police-c2 -->
 
-- A. A story within a story (embedded narrative)
-- B. A flashback to the narrator's childhood
-- C. A dream sequence
+- A. A flashback to the narrator's childhood
+- B. A dream sequence
+- C. A story within a story (embedded narrative)
 - D. An epilogue
 
 **Q82.** Ogawa describes terrible events in a calm, understated way. What effect does this have?
@@ -663,10 +663,10 @@ How does the story of the typist who loses her voice deepen the ideas of The Mem
 **Q98.** What is the main source of conflict between Tara and her parents later in the memoir?
 <!-- id: vce-english34-educated-i4 -->
 
-- A. Her refusal to accept their version of events, especially about her brother Shawn's violence
-- B. Her decision to become a doctor
-- C. Her marriage to a man they disliked
-- D. Her choice to sell the family scrapyard
+- A. Her decision to become a doctor
+- B. Her marriage to a man they disliked
+- C. Her choice to sell the family scrapyard
+- D. Her refusal to accept their version of events, especially about her brother Shawn's violence
 
 **Q99.** How does Westover present the relationship between education and family loyalty?
 <!-- id: vce-english34-educated-i5 -->
@@ -688,9 +688,9 @@ How does the story of the typist who loses her voice deepen the ideas of The Mem
 **Q102.** Educated is best described as:
 <!-- id: vce-english34-educated-c1 -->
 
-- A. A memoir
-- B. A novel based on real events
-- C. A biography of Tara's father
+- A. A novel based on real events
+- B. A biography of Tara's father
+- C. A memoir
 - D. A collection of essays
 
 **Q103.** Why does Westover sometimes include footnotes noting that her siblings remember events differently?
@@ -704,10 +704,10 @@ How does the story of the typist who loses her voice deepen the ideas of The Mem
 **Q104.** The memoir moves from Buck's Peak to university in America and England. What does this structure emphasise?
 <!-- id: vce-english34-educated-c3 -->
 
-- A. Tara's journey of transformation away from her family's world
-- B. The history of Idaho
-- C. Her father's travels
-- D. The religious calendar
+- A. The history of Idaho
+- B. Her father's travels
+- C. The religious calendar
+- D. Tara's journey of transformation away from her family's world
 
 **Q105.** How does Westover use the landscape of Buck's Peak?
 <!-- id: vce-english34-educated-c4 -->
@@ -746,10 +746,10 @@ To what extent is Educated a story of loss as well as self-discovery?
 **Q109.** “Every one of us has a stake in this decision.” Which technique is this?
 <!-- id: vce-english34-arg-t1 -->
 
-- A. Inclusive language
-- B. Expert opinion
-- C. Hyperbole
-- D. Statistics
+- A. Expert opinion
+- B. Hyperbole
+- C. Statistics
+- D. Inclusive language
 
 **Q110.** “Would any parent accept a playground with broken glass on the ground?” Which technique is this?
 <!-- id: vce-english34-arg-t2 -->
@@ -762,8 +762,8 @@ To what extent is Educated a story of loss as well as self-discovery?
 **Q111.** “Last winter, I watched an eight-year-old shiver at a bus stop that had no roof.” Which technique is this, and what is its usual purpose?
 <!-- id: vce-english34-arg-t3 -->
 
-- A. An anecdote, to make the issue personal and arouse sympathy
-- B. A statistic, to prove the scale of the problem
+- A. A statistic, to prove the scale of the problem
+- B. An anecdote, to make the issue personal and arouse sympathy
 - C. An attack, to discredit an opponent
 - D. A pun, to add humour
 
@@ -778,10 +778,10 @@ To what extent is Educated a story of loss as well as self-discovery?
 **Q113.** “Some will say the cost is too high. But what is the cost of doing nothing?” What is the writer doing?
 <!-- id: vce-english34-arg-t5 -->
 
-- A. Acknowledging and rebutting an opposing view
-- B. Agreeing with the opposition
-- C. Using expert evidence
-- D. Changing the topic
+- A. Agreeing with the opposition
+- B. Using expert evidence
+- C. Changing the topic
+- D. Acknowledging and rebutting an opposing view
 
 **Q114.** “If we let this happen, our town's heart will be ripped out.” Which techniques are used?
 <!-- id: vce-english34-arg-t6 -->

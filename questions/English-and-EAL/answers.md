@@ -50,22 +50,22 @@ Explanation: Jane is the subject of the sentence: she married him, not 'he marri
 
 #### Characters, themes and values
 
-**A9.** A. She fought back when John Reed attacked her
+**A9.** D. She fought back when John Reed attacked her
 <!-- id: vce-english34-jane-eyre-i1 -->
 
 Explanation: After John Reed throws a book at her and she fights back, Mrs Reed has her locked in the red-room, where Jane becomes terrified and faints.
 
-**A10.** A. Helen Burns
+**A10.** D. Helen Burns
 <!-- id: vce-english34-jane-eyre-i2 -->
 
 Explanation: Helen Burns accepts punishment with Christian patience. Jane admires her but cannot share her passive acceptance.
 
-**A11.** A. Rochester is already married to Bertha Mason, and Jane will not become his mistress
+**A11.** D. Rochester is already married to Bertha Mason, and Jane will not become his mistress
 <!-- id: vce-english34-jane-eyre-i3 -->
 
 Explanation: When the wedding is stopped (Chapters 26–27), Jane learns of Bertha. She still loves Rochester but leaves rather than compromise her principles.
 
-**A12.** A. Jane has inherited money of her own and Rochester has been humbled by the fire
+**A12.** C. Jane has inherited money of her own and Rochester has been humbled by the fire
 <!-- id: vce-english34-jane-eyre-i4 -->
 
 Explanation: Her uncle's legacy gives Jane independence, and Rochester's injuries in the fire at Thornfield reduce his power. They meet on equal terms.
@@ -87,17 +87,17 @@ Explanation: This contrast is the backbone of many Section A essays: passion ver
 
 #### Structure, style and techniques
 
-**A16.** A. First person, by an adult Jane looking back on her life
+**A16.** C. First person, by an adult Jane looking back on her life
 <!-- id: vce-english34-jane-eyre-c1 -->
 
 Explanation: The novel is subtitled 'An Autobiography'. The older Jane narrates and sometimes comments on her younger self, which lets Brontë combine intense feeling with reflection.
 
-**A17.** A. Foreshadowing through pathetic fallacy
+**A17.** B. Foreshadowing through pathetic fallacy
 <!-- id: vce-english34-jane-eyre-c2 -->
 
 Explanation: Nature mirrors the coming disaster: the split tree foreshadows the separation of Jane and Rochester when the wedding is stopped.
 
-**A18.** A. A bildungsroman (a novel of growth)
+**A18.** C. A bildungsroman (a novel of growth)
 <!-- id: vce-english34-jane-eyre-c3 -->
 
 Explanation: Each setting marks a stage in Jane's development from abused child to independent woman, the defining feature of a bildungsroman.
@@ -209,22 +209,22 @@ Explanation: Malvolio's exit unsettles the comic resolution and invites the audi
 
 #### Characters, themes and values
 
-**A31.** A. She is shipwrecked alone in Illyria and wants protection and a place in Orsino's service
+**A31.** D. She is shipwrecked alone in Illyria and wants protection and a place in Orsino's service
 <!-- id: vce-english34-twelfth-night-i1 -->
 
 Explanation: Viola is alone in a strange country after the shipwreck, and the disguise as Cesario lets her serve Orsino safely.
 
-**A32.** A. Maria
+**A32.** B. Maria
 <!-- id: vce-english34-twelfth-night-i2 -->
 
 Explanation: Maria imitates Olivia's handwriting; Sir Toby, Sir Andrew and Fabian watch Malvolio read it.
 
-**A33.** A. Viola and Sebastian appear together in the final scene
+**A33.** C. Viola and Sebastian appear together in the final scene
 <!-- id: vce-english34-twelfth-night-i3 -->
 
 Explanation: When the twins stand on stage together in Act 5, Scene 1, everyone realises the mistake: Olivia has married Sebastian, and Orsino turns to Viola.
 
-**A34.** A. A wise fool who exposes other characters' folly
+**A34.** B. A wise fool who exposes other characters' folly
 <!-- id: vce-english34-twelfth-night-i4 -->
 
 Explanation: Feste moves between the households, mocks pretension and sings songs about time and love that comment on the action.
@@ -246,17 +246,17 @@ Explanation: Name a parallel (deception, foolish suitors) and a contrast (motive
 
 #### Structure, style and techniques
 
-**A38.** A. Dramatic irony
+**A38.** D. Dramatic irony
 <!-- id: vce-english34-twelfth-night-c1 -->
 
 Explanation: The audience knows more than the characters, which creates both comedy and tension.
 
-**A39.** A. The nobles in romantic scenes mostly speak verse; the comic characters mostly speak prose
+**A39.** D. The nobles in romantic scenes mostly speak verse; the comic characters mostly speak prose
 <!-- id: vce-english34-twelfth-night-c2 -->
 
 Explanation: Shakespeare shifts between verse and prose to mark status, mood and seriousness; switches between them are worth noticing.
 
-**A40.** A. The last night of the Christmas festivities, a time of revelry and turning order upside down
+**A40.** B. The last night of the Christmas festivities, a time of revelry and turning order upside down
 <!-- id: vce-english34-twelfth-night-c3 -->
 
 Explanation: Twelfth Night festivities involved feasting, disguise and role reversal, the spirit of the play's misrule.
@@ -373,17 +373,17 @@ Explanation: The dash dramatises the climax: being a woman is presented as the f
 
 Explanation: Dick Melvyn's failed stock dealing and drinking reduce the family to poverty and relentless farm work at Possum Gully.
 
-**A54.** A. At her grandmother's home, Caddagat
+**A54.** D. At her grandmother's home, Caddagat
 <!-- id: vce-english34-my-brilliant-career-i2 -->
 
 Explanation: Caddagat offers culture, music, books and company, everything Possum Gully lacks.
 
-**A55.** A. To pay off a debt her father owes
+**A55.** C. To pay off a debt her father owes
 <!-- id: vce-english34-my-brilliant-career-i3 -->
 
 Explanation: She becomes the M'Swats' governess at Barney's Gap to help with her father's debt, and finds the work miserable.
 
-**A56.** A. Sybylla refuses Harold Beecham and stays at Possum Gully, writing her story
+**A56.** C. Sybylla refuses Harold Beecham and stays at Possum Gully, writing her story
 <!-- id: vce-english34-my-brilliant-career-i4 -->
 
 Explanation: Franklin rejects the expected romantic ending: Sybylla turns Harold down, and the 'brilliant career' remains unfulfilled.
@@ -405,17 +405,17 @@ Explanation: Use 'But I was plain' and 'not a valuable article in the marriage m
 
 #### Structure, style and techniques
 
-**A60.** A. Sybylla Melvyn, in the first person
+**A60.** D. Sybylla Melvyn, in the first person
 <!-- id: vce-english34-my-brilliant-career-c1 -->
 
 Explanation: Sybylla's confiding, emotional, often sarcastic first-person voice is the novel's defining feature.
 
-**A61.** A. Ironic, because Sybylla's life seems to offer no career at all
+**A61.** D. Ironic, because Sybylla's life seems to offer no career at all
 <!-- id: vce-english34-my-brilliant-career-c2 -->
 
 Explanation: The phrase first appears in Chapter 5 as bitter irony about a life of drudgery.
 
-**A62.** A. It challenges readers' expectations of a conventional romantic ending
+**A62.** C. It challenges readers' expectations of a conventional romantic ending
 <!-- id: vce-english34-my-brilliant-career-c3 -->
 
 Explanation: Franklin sets up a novel that deliberately frustrates the marriage plot.
@@ -517,22 +517,22 @@ Explanation: The embedded story reflects the main plot. Use it to discuss voice,
 
 #### Characters, themes and values
 
-**A73.** A. People lose their memory and feeling for it, and get rid of any remaining examples
+**A73.** C. People lose their memory and feeling for it, and get rid of any remaining examples
 <!-- id: vce-english34-memory-police-i1 -->
 
 Explanation: A disappearance is a loss of meaning and memory: people wake knowing something is gone and dispose of what remains. The Memory Police enforce this.
 
-**A74.** A. He is one of the few people who keep their memories, so the Memory Police would take him
+**A74.** B. He is one of the few people who keep their memories, so the Memory Police would take him
 <!-- id: vce-english34-memory-police-i2 -->
 
 Explanation: R, her editor, can still remember disappeared things, which makes him a target. The narrator and the old man hide him.
 
-**A75.** A. Novelist
+**A75.** D. Novelist
 <!-- id: vce-english34-memory-police-i3 -->
 
 Explanation: She is a novelist; her mother was a sculptor, and her friend the old man once worked on the ferry. Her writing becomes a way of holding on to meaning.
 
-**A76.** A. Dystopian fiction
+**A76.** C. Dystopian fiction
 <!-- id: vce-english34-memory-police-i4 -->
 
 Explanation: It imagines an oppressive society that controls memory, though Ogawa's dreamlike, understated style makes it unlike many dystopias.
@@ -559,7 +559,7 @@ Explanation: Endings are rich for essays. Avoid over-claiming a single 'message'
 
 Explanation: The unnamed narrator's limited perspective keeps the regime mysterious and makes the losses personal.
 
-**A81.** A. A story within a story (embedded narrative)
+**A81.** C. A story within a story (embedded narrative)
 <!-- id: vce-english34-memory-police-c2 -->
 
 Explanation: The narrator's novel runs alongside the main plot and reflects its ideas about control and loss.
@@ -691,7 +691,7 @@ Explanation: Tyler had left for college himself and urged Tara to study for the 
 
 Explanation: She enrolled at BYU, later studied at Cambridge (where she completed a PhD) and spent time at Harvard.
 
-**A98.** A. Her refusal to accept their version of events, especially about her brother Shawn's violence
+**A98.** D. Her refusal to accept their version of events, especially about her brother Shawn's violence
 <!-- id: vce-english34-educated-i4 -->
 
 Explanation: When Tara insists on the truth of Shawn's abuse, her parents side with him, which leads to her estrangement.
@@ -713,7 +713,7 @@ Explanation: Avoid one-sided readings; the memoir's power comes from her mixed f
 
 #### Structure, style and techniques
 
-**A102.** A. A memoir
+**A102.** C. A memoir
 <!-- id: vce-english34-educated-c1 -->
 
 Explanation: It is Westover's own account of her life, which raises questions about memory and truth that she addresses directly.
@@ -723,7 +723,7 @@ Explanation: It is Westover's own account of her life, which raises questions ab
 
 Explanation: The footnotes show she is aware that memory is fallible, which builds the reader's trust.
 
-**A104.** A. Tara's journey of transformation away from her family's world
+**A104.** D. Tara's journey of transformation away from her family's world
 <!-- id: vce-english34-educated-c3 -->
 
 Explanation: Like a bildungsroman, the structure traces her growth, with each move taking her further from home.
@@ -793,7 +793,7 @@ Topic: Practice essays (vce-english34-educated-essays)
 
 #### Persuasive techniques
 
-**A109.** A. Inclusive language
+**A109.** D. Inclusive language
 <!-- id: vce-english34-arg-t1 -->
 
 Explanation: 'Us' and 'every one of us' position readers as part of a shared group, so they feel the issue is theirs too.
@@ -803,7 +803,7 @@ Explanation: 'Us' and 'every one of us' position readers as part of a shared gro
 
 Explanation: The question has an obvious answer ('no'), so readers are led to agree with the writer's conclusion.
 
-**A111.** A. An anecdote, to make the issue personal and arouse sympathy
+**A111.** B. An anecdote, to make the issue personal and arouse sympathy
 <!-- id: vce-english34-arg-t3 -->
 
 Explanation: A brief personal story makes an abstract issue concrete and emotional.
@@ -813,7 +813,7 @@ Explanation: A brief personal story makes an abstract issue concrete and emotion
 
 Explanation: Statistics and authoritative sources make an argument seem objective and credible.
 
-**A113.** A. Acknowledging and rebutting an opposing view
+**A113.** D. Acknowledging and rebutting an opposing view
 <!-- id: vce-english34-arg-t5 -->
 
 Explanation: Raising a counter-argument and answering it makes the writer seem fair while weakening the other side.
