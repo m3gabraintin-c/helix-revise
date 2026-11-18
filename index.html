@@ -334,12 +334,76 @@ details.elmore[open] summary { margin-bottom: 8px; }
   .brand span { position: static; width: auto; height: auto; overflow: visible; clip: auto; }
   nav.top { width: 100%; justify-content: space-between; }
   nav.top a[href="#about"] { display: none; }
+  /* With Dashboard added, Subjects goes too on phones: the logo opens the home page, which lists every subject. */
+  nav.top a[href="#topics"] { display: none; }
+  nav.top a { letter-spacing: .02em; padding: 0 6px; } nav.top a.pill-btn { padding: 0 12px; }
 }
+@media (max-width: 360px) { nav.top a { font-size: 0.64rem; padding: 0 5px; } nav.top a.pill-btn { padding: 0 9px; } }
 /* The sticky header is about 103px tall (one row on desktop, two on phones), so keep jumped-to and focused content below it. */
 html { scroll-padding-top: calc(120px + env(safe-area-inset-top, 0px)); }
 /* Display headings: heavy, soft, tight tracking. */
 .page-h1, .section-h, .topic-title b, .result .big, fieldset.pick .all, .subj b, .prose h2 { letter-spacing: -.02em; }
 .subj .call { color: var(--muted); }
+/* Dashboard: restrained charts in ink and mint, cards on paper. */
+.dsec { gap: 16px; }
+.dintro { max-width: 46rem; }
+.dnote { background: var(--surface-2); border-style: dashed; }
+.dtiles { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 9rem), 1fr)); gap: 12px; }
+.dtile { display: flex; flex-direction: column; gap: 4px; min-width: 0; }
+.dt-l { font-family: var(--font-display); font-size: 0.75rem; font-weight: 700; letter-spacing: .04em; text-transform: uppercase; color: var(--muted); }
+.dt-v { font-family: var(--font-display); font-size: 2.2rem; font-weight: 800; font-variation-settings: "SOFT" 100, "opsz" 96; line-height: 1.05; letter-spacing: -.02em; font-variant-numeric: tabular-nums; }
+.trend { display: grid; grid-template-columns: repeat(8, minmax(0, 1fr)); gap: 6px; align-items: end; }
+.tw { display: flex; flex-direction: column; align-items: center; gap: 4px; min-width: 0; }
+.tw-v { font-size: 0.75rem; font-weight: 600; font-variant-numeric: tabular-nums; min-height: 1.2em; }
+.tw-bar { position: relative; width: 100%; height: 120px; display: flex; align-items: flex-end; justify-content: center;
+  background: linear-gradient(to top, var(--line-soft) 1px, transparent 1px) 0 0 / 100% 50%; border-bottom: 1.5px solid var(--ink); }
+.tw-bar > div { width: min(100%, 36px); background: var(--grass); border: 1.5px solid var(--ink); border-bottom: 0; border-radius: 6px 6px 0 0; transition: height var(--dur) var(--ease); }
+.tw-few .tw-bar > div { background: transparent; border-style: dashed; }
+.tw-few .tw-v { color: var(--muted); font-weight: 400; }
+.tw-l { font-size: 0.7rem; line-height: 1.25; color: var(--muted); text-align: center; white-space: nowrap; overflow: hidden; max-width: 100%; }
+.dsubjs { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 22rem), 1fr)); gap: 12px; align-items: start; }
+.dsn { font-family: var(--font-display); font-size: 1.35rem; font-weight: 800; font-variation-settings: "SOFT" 100, "opsz" 48; line-height: 1.15; letter-spacing: -.02em; }
+.dsn a:hover { text-decoration: underline; }
+.dstats { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 8px; margin: 0; padding: 12px 0; border-block: 1px solid var(--line-soft); }
+.dstats dt { font-size: 0.75rem; color: var(--muted); }
+.dstats dd { margin: 0; }
+.dstats dd:not(.xs) { font-family: var(--font-display); font-size: 1.4rem; font-weight: 800; font-variant-numeric: tabular-nums; line-height: 1.2; }
+details.dtopics summary, details.dmore summary { cursor: pointer; list-style: none; font-weight: 600; font-size: 0.875rem; min-height: 32px; display: flex; align-items: center; gap: 8px; }
+details.dtopics summary::-webkit-details-marker, details.dmore summary::-webkit-details-marker { display: none; }
+details.dtopics summary::after, details.dmore summary::after { content: "+"; content: "+" / ""; color: var(--muted); font-size: 1.1rem; line-height: 1; transition: transform var(--dur) var(--ease); }
+details.dtopics[open] > summary::after, details.dmore[open] > summary::after { transform: rotate(45deg); }
+details.dtopics ul { list-style: none; margin: 8px 0 0; padding: 0; display: flex; flex-direction: column; gap: 10px; }
+details.dtopics li { display: flex; flex-direction: column; gap: 2px; }
+.dtn { font-weight: 500; }
+.dbuckets, .dbands, .drecent, .dnext { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 14rem), 1fr)); gap: 12px; align-items: start; }
+.dbucket .h2s { display: flex; align-items: baseline; gap: 8px; }
+.dcount { font-family: var(--font-display); font-weight: 800; font-variant-numeric: tabular-nums; border-radius: var(--r-pill); padding: 0 8px; font-size: 0.85rem; border: 1.5px solid var(--ink); }
+.db-strong .dcount { background: var(--good-soft); color: var(--good); border-color: var(--good); }
+.db-dev .dcount { background: var(--accent-soft); }
+.db-weak .dcount { background: var(--bad-soft); color: var(--bad); border-color: var(--bad); }
+.db-few .dcount { color: var(--muted); border-color: var(--field); }
+.dlist { list-style: none; margin: 8px 0 0; padding: 0; display: flex; flex-direction: column; }
+.dlist > li { display: flex; flex-direction: column; gap: 2px; padding: 8px 0; min-width: 0; }
+.dlist > li + li { border-top: 1px solid var(--line-soft); }
+.dlist .link { font-size: 0.875rem; overflow-wrap: anywhere; }
+.dql > li { flex-direction: row; align-items: flex-start; justify-content: space-between; gap: 12px; }
+.dql .score { flex-shrink: 0; width: auto; min-width: 48px; }
+.dq { font-size: 0.875rem; font-weight: 500; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; overflow-wrap: anywhere; }
+.dq:hover { text-decoration: underline; }
+.dsname { font-weight: 500; overflow-wrap: anywhere; }
+.drecent .card > .link { display: inline-block; margin-top: 8px; }
+.dmeter { position: relative; height: 10px; border-radius: var(--r-pill); background: var(--surface-2); border: 1px solid var(--line-soft); }
+.dm-fill { height: 100%; border-radius: var(--r-pill); background: var(--grass); border-right: 1.5px solid var(--ink); }
+.dm-mark { position: absolute; top: -5px; bottom: -5px; width: 2px; margin-left: -1px; background: var(--ink); }
+.btn-sm { min-height: 40px; padding: 8px 18px; font-size: 0.8rem; align-self: flex-start; margin-top: 4px; }
+.drec > li { padding: 12px 0; }
+.dempty { border: 1px dashed var(--field); border-radius: var(--r); padding: 16px; }
+.dfoot { border-top: 1px solid var(--line-soft); padding-top: 16px; }
+.dskel { display: flex; flex-direction: column; gap: 16px; }
+.sk { border-radius: var(--r-lg); background: var(--surface-2); animation: skp 1.4s ease-in-out infinite alternate; }
+.sk-row { height: 110px; } .sk-tall { height: 220px; }
+@keyframes skp { from { opacity: .45; } to { opacity: .9; } }
+@media (max-width: 420px) { .dt-v { font-size: 1.8rem; } .tw-bar { height: 96px; } .trend { gap: 3px; } .tw-l { font-size: 0.62rem; } }
 @media (prefers-reduced-motion: reduce) { * { transition: none !important; animation: none !important; } }
 </style>
 
@@ -352,6 +416,7 @@ html { scroll-padding-top: calc(120px + env(safe-area-inset-top, 0px)); }
     </a>
     <nav class="top" aria-label="Main">
       <a class="plain" href="#topics">Subjects</a>
+      <a class="plain" href="#dashboard">Dashboard</a>
       <a class="plain" href="#errors">Error log</a>
       <a class="plain" href="#about">About</a>
       <a class="pill-btn" href="#custom">Build a quiz</a>
@@ -546,6 +611,84 @@ const DATA = {"S":[["methods","Mathematical Methods","VCE · Units 3 & 4","VCE �
       { slug: p ? p.topic : slugOfQ[q.id], got, of, last: today(), times: (e ? e.times : 0) + 1, done: false }, extra || {});
     saveLog();
   }
+  // ---- activity history (per-browser), for the dashboard ----
+  // { since, legacy, trimmed, a: [attempt], s: [session] }, times in Unix seconds.
+  //   attempt: one per marked question, or per part of a multi-part question:
+  //     [time, questionId, part (index, or -1 for a whole question), subtopicSlug tested, got, of, seconds, sessionId]
+  //   session: one per finished quiz or exam page: [id, kind, ref, start, end, questions, got, of, seconds], where kind is
+  //     sub (a subtopic quiz, ref = slug), mix (a built quiz, ref = subject), err (error log practice), due (questions due for
+  //     revision), focus (a recommended focus quiz, ref = subject), exam (one exam-style question, ref = id) or test (ref = subject).
+  // Seconds count only while a question is on screen and the tab is visible, capped at three times its estimated time
+  // (at least 3 minutes), so a tab left open does not inflate study time. legacy is true when best scores or error log entries
+  // already existed when the history started, so the dashboard can say that older quizzes are not in it.
+  const AKEY = "helix-activity-v1", A_MAX = 20000, S_MAX = 2000;
+  const nowS = () => Math.floor(Date.now() / 1000);
+  const okA = r => Array.isArray(r) && r.length >= 8 && Number.isFinite(r[0]) && typeof r[1] === "string" && Number.isInteger(r[2]) && typeof r[3] === "string"
+    && Number.isFinite(r[4]) && Number.isFinite(r[5]) && r[5] > 0 && r[4] >= 0 && r[4] <= r[5] && Number.isFinite(r[6]) && r[6] >= 0;
+  const okS = r => Array.isArray(r) && r.length >= 9 && typeof r[1] === "string" && Number.isFinite(r[3]) && Number.isFinite(r[4]) && Number.isFinite(r[6]) && Number.isFinite(r[7]);
+  const freshAct = () => ({ since: nowS(), legacy: Object.keys(progress).length > 0 || Object.keys(elog.items).length > 0, trimmed: false, a: [], s: [] });
+  // actErr: "blocked" (the browser refuses storage: answers are counted for this visit only) or "corrupt" (the saved history
+  // could not be read: it is left untouched, and this visit is kept in memory, until the student chooses to start again).
+  const readAct = raw => { try { const o = JSON.parse(raw); if (o && Array.isArray(o.a) && Array.isArray(o.s))
+    return { since: Number.isFinite(o.since) ? o.since : nowS(), legacy: !!o.legacy, trimmed: !!o.trimmed, a: o.a.filter(okA), s: o.s.filter(okS) }; } catch {} return null; };
+  let act = null, actErr = "", actWarn = "";
+  try { const raw = localStorage.getItem(AKEY); if (raw) { act = readAct(raw); if (!act) actErr = "corrupt"; } } catch { actErr = "blocked"; }
+  if (!act) act = freshAct();
+  // Rows added in this tab since the last write. Each write starts from what is stored, so two open tabs never undo each
+  // other's answers; replace (after deleting or restarting the history) writes this tab's copy as it is.
+  let pend = { a: [], s: [] }, actTimer = 0;
+  const withPending = base => ({ ...base, a: base.a.concat(pend.a), s: base.s.concat(pend.s) });
+  function flushAct(replace) {
+    clearTimeout(actTimer); actTimer = 0;
+    if (actErr || (replace !== true && !pend.a.length && !pend.s.length)) return;
+    if (replace !== true) { let stored = null; try { stored = readAct(localStorage.getItem(AKEY)); } catch {} if (stored) act = withPending(stored); }
+    pend = { a: [], s: [] };
+    if (act.a.length > A_MAX) { act.a.splice(0, act.a.length - A_MAX); act.trimmed = true; }
+    if (act.s.length > S_MAX) act.s.splice(0, act.s.length - S_MAX);
+    for (;;) {
+      try { localStorage.setItem(AKEY, JSON.stringify(act)); actWarn = ""; return; }
+      catch { // storage full: drop the oldest quarter of the answers and try again
+        if (act.a.length <= 500) { actWarn = "full"; return; }
+        act.a.splice(0, Math.ceil(act.a.length / 4)); act.trimmed = true;
+      }
+    }
+  }
+  // Writes are batched (one write per half second at most) and flushed when the page is hidden or closed.
+  const saveAct = () => { if (!actTimer) actTimer = setTimeout(flushAct, 500); };
+  window.addEventListener("pagehide", () => flushAct());
+  // Another tab saved (or deleted) the history: take its copy, keeping this tab's unsaved rows.
+  window.addEventListener("storage", e => {
+    if (actErr || (e.key !== AKEY && e.key !== null)) return;
+    const o = e.key && e.newValue ? readAct(e.newValue) : null;
+    act = withPending(o || { ...freshAct(), a: [], s: [] });
+  });
+  // Time on screen: a clock that leaves out time while the tab is hidden.
+  let hidMs = 0, hidAt = document.hidden ? performance.now() : null;
+  document.addEventListener("visibilitychange", () => {
+    if (document.hidden) { hidAt = performance.now(); flushAct(); }
+    else if (hidAt !== null) { hidMs += performance.now() - hidAt; hidAt = null; }
+  });
+  const hidNow = () => hidMs + (hidAt === null ? 0 : performance.now() - hidAt);
+  const clock = () => { const t0 = performance.now(), h0 = hidNow(); return () => Math.max(0, (performance.now() - t0 - (hidNow() - h0)) / 1000); };
+  const estSecs = q => 60 * ((QT[q.id] && QT[q.id][2]) || (q.type === "multi" ? q.marks * 1.5 : 1.5));
+  const capSecs = (secs, est) => Math.min(secs, Math.max(180, 3 * est));
+  // The subtopic a question (or part) tests: a part's own tag, a Challenge-set question's tested subtopic, or where it is listed.
+  const testedSlug = (q, p) => p ? p.topic : QT[q.id] && QT[q.id][3] && subBySlug[QT[q.id][3]] ? QT[q.id][3] : slugOfQ[q.id] || "";
+  let sessN = 0;
+  const newSession = (kind, ref) => ({ id: nowS().toString(36) + "-" + (sessN++).toString(36), kind, ref: ref || "", start: nowS(), secs: 0 });
+  function addAttempt(sess, q, p, got, of, secs) {
+    const r = [nowS(), q.id, p ? p.n : -1, testedSlug(q, p), got, of, Math.round(secs), sess ? sess.id : ""];
+    act.a.push(r); pend.a.push(r);
+    if (sess) sess.secs += secs;
+    saveAct();
+  }
+  // A multi-part question's time is shared between its parts by marks.
+  const addMulti = (sess, q, gots, secs) => q.parts.forEach(p => addAttempt(sess, q, p, gots[p.n], p.marks, secs * p.marks / q.marks));
+  function endSession(sess, n, got, of) {
+    const r = [sess.id, sess.kind, sess.ref, sess.start, nowS(), n, got, of, Math.round(sess.secs)];
+    act.s.push(r); pend.s.push(r);
+    saveAct();
+  }
   const ratio = slug => { const s = progress[slug]; return s && s.total ? s.best / s.total : 0; };
   const bar = (v, label) => { const p = Math.round(Math.min(1, Math.max(0, v)) * 100); return `<div class="bar-row"><div class="bar" role="progressbar" aria-label="${esc(label)}" aria-valuenow="${p}" aria-valuemin="0" aria-valuemax="100"><div style="width:${p}%"></div></div><span class="bar-pct">${p}%</span></div>`; };
 
@@ -714,10 +857,15 @@ const DATA = {"S":[["methods","Mathematical Methods","VCE · Units 3 & 4","VCE �
   function runQuiz(host, initial, opts) {
     let pool = initial, order = shuffle(pool), i = 0, results = [], picked = null, revealed = false, mst = null, sdraft = "";
     let focusTo = null; // which part to focus after the next render, so keyboard users keep their place
+    // Activity history: each run of the quiz is a session, and each question is timed from when it first shows.
+    let sess = newSession(opts.kind || "mix", opts.ref), shown = -1, qClock = clock();
     const sum = (k) => results.reduce((a, r) => a + r[k], 0);
-    const commit = r => { results.push(r); if (results.length === order.length && opts.slug && pool === initial) saveScore(opts.slug, sum("got"), sum("of")); };
-    const record = got => { commit({ got, of: 1 }); focusTo = "after"; render(); };
-    const restart = p => { pool = p; order = shuffle(pool); i = 0; results = []; picked = null; revealed = false; mst = null; focusTo = "prompt"; render(); };
+    const commit = r => { results.push(r);
+      if (results.length !== order.length) return;
+      if (opts.slug && pool === initial) saveScore(opts.slug, sum("got"), sum("of"));
+      endSession(sess, order.length, sum("got"), sum("of")); };
+    const record = got => { const q = order[i]; addAttempt(sess, q, null, got, 1, capSecs(qClock(), estSecs(q))); commit({ got, of: 1 }); focusTo = "after"; render(); };
+    const restart = p => { pool = p; order = shuffle(pool); i = 0; results = []; picked = null; revealed = false; mst = null; sess = newSession(opts.kind || "mix", opts.ref); shown = -1; focusTo = "prompt"; render(); };
     const next = () => { picked = null; revealed = false; mst = null; i++; focusTo = i >= order.length ? "result" : "prompt"; render(); host.scrollIntoView({ block: "nearest" }); };
     const nextLabel = () => i + 1 === order.length ? "See results" : "Next question";
     const multiStatus = q => { const t = tally(mst); return t.marked === q.parts.length ? `All parts marked: ${t.got} of ${marksTxt(q.marks)}.${t.got < q.marks && elog.auto ? " Parts that lost marks go into your error log when you continue." : ""}` : `${t.marked} of ${q.parts.length} parts marked. Show each solution and give yourself a mark to continue.`; };
@@ -737,6 +885,7 @@ const DATA = {"S":[["methods","Mathematical Methods","VCE · Units 3 & 4","VCE �
         return;
       }
       const q = order[i], answered = results.length > i, res = results[i];
+      if (shown !== i) { shown = i; qClock = clock(); }
       const dots = order.map((_, k) => { const r = results[k]; return `<span class="${r ? (r.got === r.of ? "d-good" : r.got ? "d-part" : "d-bad") : k === i ? "d-cur" : ""}"></span>`; }).join("");
       let body;
       if (q.type === "multi") {
@@ -781,6 +930,7 @@ const DATA = {"S":[["methods","Mathematical Methods","VCE · Units 3 & 4","VCE �
             nx.innerHTML = `<button class="btn btn-primary" id="next">${nextLabel()}</button>`;
             nx.firstChild.onclick = () => {
               q.parts.forEach(p => logResult(q, p, mst.parts[p.n].got, p.marks, { draft: mst.parts[p.n].draft.trim() }));
+              addMulti(sess, q, mst.parts.map(x => x.got), capSecs(qClock(), estSecs(q)));
               commit({ got: tally(mst).got, of: q.marks }); next();
             };
           }
@@ -799,6 +949,7 @@ const DATA = {"S":[["methods","Mathematical Methods","VCE · Units 3 & 4","VCE �
   // ---- exam-style questions (DATA.X): listed under each subject, one per page or all together as a test ----
   const topicsOf = q => [...new Set(q.parts.map(p => subBySlug[p.topic].topicName))];
   const examStates = {}; // page key -> unfinished states, so leaving a page and coming back keeps your place this session
+  const examClocks = {}; // page key -> { acc, run }: time spent on the page, paused while you are on another page (see route)
   const examCard = q => { const b = progress["x:" + q.id];
     return `<li><a class="card subj" href="#x-${esc(q.id)}"><span class="call">${challenge.has(q.id) ? "Challenge · " : ""}${esc(TECH[q.tech] || "Extended response")}</span><b>${txt(q.title)}</b>
       <span class="xs muted">${q.parts.length} parts · ${marksTxt(q.marks)} · ${esc(topicsOf(q).join(", "))}</span>
@@ -825,6 +976,7 @@ const DATA = {"S":[["methods","Mathematical Methods","VCE · Units 3 & 4","VCE �
   function examPage(key, qs, title) {
     const sj = subjById[qs[0].subject], test = key.startsWith("t:"), back = `#s-${sj.id}`;
     const sts = examStates[key] || (examStates[key] = qs.map(multiState));
+    const ck = examClocks[key] || (examClocks[key] = { acc: 0, run: null }); ck.run = clock();
     const total = qs.reduce((a, q) => a + q.marks, 0), nparts = qs.reduce((a, q) => a + q.parts.length, 0);
     const sumAll = () => sts.reduce((a, st) => { const t = tally(st); return { got: a.got + t.got, marked: a.marked + t.marked }; }, { got: 0, marked: 0 });
     const statusText = () => { const t = sumAll(); return `${t.marked} of ${nparts} parts marked · ${t.got} of ${marksTxt(total)} so far`; };
@@ -851,6 +1003,11 @@ const DATA = {"S":[["methods","Mathematical Methods","VCE · Units 3 & 4","VCE �
       delete examStates[key];
       const got = sumAll().got;
       saveScore(key, got, total);
+      // Activity history: the page's time is shared between its questions by their estimated times.
+      const est = qs.reduce((a, q) => a + estSecs(q), 0), secs = capSecs(ck.acc + (ck.run ? ck.run() : 0), est), sess = newSession(test ? "test" : "exam", test ? sj.id : q0.id);
+      delete examClocks[key];
+      qs.forEach((q, j) => addMulti(sess, q, sts[j].parts.map(x => x.got), secs * estSecs(q) / est));
+      endSession(sess, qs.length, got, total);
       if (test) qs.forEach((q, j) => saveScore("x:" + q.id, tally(sts[j]).got, q.marks));
       let logged = 0;
       qs.forEach((q, j) => q.parts.forEach(p => { const g = sts[j].parts[p.n].got; if (g < p.marks && (elog.auto || inLog(q, p))) logged++; logResult(q, p, g, p.marks, { draft: sts[j].parts[p.n].draft.trim() }); }));
@@ -939,7 +1096,7 @@ const DATA = {"S":[["methods","Mathematical Methods","VCE · Units 3 & 4","VCE �
     if ($("#elpractise")) $("#elpractise").onclick = () => {
       app.innerHTML = `<div class="wrap w2 view stack-lg" style="gap:24px"><div class="stack" style="gap:4px"><button class="link" id="elback" style="align-self:flex-start">← Back to error log</button><h1 class="page-h1">Practise your error log</h1></div><div id="quiz"></div></div>`;
       $("#elback").onclick = () => errorsView("h1");
-      runQuiz($("#quiz"), practise, { onBack: () => errorsView("h1"), backLabel: "Back to error log" });
+      runQuiz($("#quiz"), practise, { onBack: () => errorsView("h1"), backLabel: "Back to error log", kind: "err" });
       const h = $(".qprompt"); if (h) { h.tabIndex = -1; h.focus(); }
     };
     const list = $(".ellist");
@@ -962,10 +1119,296 @@ const DATA = {"S":[["methods","Mathematical Methods","VCE · Units 3 & 4","VCE �
     if (focusSel) { const f = app.querySelector(focusSel); if (f) { if (f.matches("h1")) f.tabIndex = -1; f.focus(); } }
   }
 
+  // ---- dashboard (#dashboard) ----
+  // Worked out in the browser from what is already in memory: the activity history, best scores (progress) and the error log.
+  // One pass over the history per visit. Nothing is fetched, and nothing leaves the device.
+  const DAY = 86400;
+  const dayStart = t => { const d = new Date(t * 1000); d.setHours(0, 0, 0, 0); return Math.floor(d.getTime() / 1000); };
+  const weekStart = t => { const d = new Date(t * 1000); d.setHours(0, 0, 0, 0); d.setDate(d.getDate() - (d.getDay() + 6) % 7); return Math.floor(d.getTime() / 1000); };
+  const dateNum = s => { const [y, m, d] = String(s).split("-").map(Number); return Math.floor(new Date(y, m - 1, d).getTime() / 1000); };
+  const isSyllabus = s => !!subBySlug[s] && !s.endsWith("-challenge");
+  // Below these amounts a figure would mostly be noise, so the dashboard says there is not enough data instead.
+  const MIN_ACC = 10, MIN_SUB_MARKS = 6, MIN_SUB_QS = 3, MIN_WEEK = 10, MIN_BAND = 10;
+  const subjOfKey = k => k.startsWith("x:") ? (examById[k.slice(2)] || {}).subject : k.startsWith("t:") ? k.slice(2) : subBySlug[k] && subBySlug[k].subject;
+  const subjShort = sid => { const sj = subjById[sid]; if (!sj) return ""; const u = sj.label.split(" · ")[1]; return sj.group.startsWith("GCSE") || !u ? sj.name : `${sj.name} ${u}`; };
+  const fmtDur = s => { s = Math.round(s); if (s < 60) return s ? "Under 1 min" : "0 min"; const m = Math.round(s / 60); return m < 60 ? `${m} min` : `${Math.floor(m / 60)} h${m % 60 ? ` ${m % 60} min` : ""}`; };
+  const fmtDay = t => new Date(t * 1000).toLocaleDateString("en-AU", { day: "numeric", month: "short" });
+  const whenTxt = t => { const n = Math.round((dayStart(nowS()) - dayStart(t)) / DAY); return n <= 0 ? "Today" : n === 1 ? "Yesterday" : n < 7 ? `${n} days ago` : fmtDay(t); };
+  const pct = (got, of) => Math.round(got / of * 100);
+  const scoreBadge = (got, of) => { const p = pct(got, of); return `<span class="score ${p >= 80 ? "s-good" : p >= 50 ? "s-mid" : "s-bad"}" title="${got} of ${of}">${got}/${of}</span>`; };
+  const STATUS = { strong: ["Strong", "80% or more"], dev: ["Developing", "50 to 79%"], weak: ["Weak", "below 50%"], few: ["Not enough data yet", `under ${MIN_SUB_MARKS} marks or ${MIN_SUB_QS} questions`] };
+  const qText = q => q.type === "multi" ? q.title : q.prompt;
+  const qHref = id => examById[id] ? `#x-${id}` : slugOfQ[id] ? `#${slugOfQ[id]}` : "#dashboard";
+  const SESS = { sub: "Subtopic quiz", mix: "Built quiz", err: "Error log practice", due: "Due for revision", focus: "Focus quiz", exam: "Exam-style question", test: "Exam-style test" };
+  const sessName = (kind, ref) => {
+    const base = SESS[kind] || "Practice";
+    if (kind === "sub" && subBySlug[ref]) return `${base}: ${subBySlug[ref].name}`;
+    if (kind === "exam" && examById[ref]) return `${base}: ${examById[ref].title}`;
+    if ((kind === "mix" || kind === "focus" || kind === "test") && subjById[ref]) return `${base}: ${subjShort(ref)}`;
+    return base;
+  };
+
+  function dashData() {
+    const A = act.a, now = nowS(), d = { got: 0, of: 0, secs: 0, n: 0, ids: new Set(), subj: {}, subs: {}, latest: new Map() };
+    // The last eight weeks, Monday to Sunday, oldest first.
+    const wk = weekStart(now); d.weeks = [];
+    for (let k = 7; k >= 0; k--) { const x = new Date(wk * 1000); x.setDate(x.getDate() - 7 * k); d.weeks.push({ start: Math.floor(x.getTime() / 1000), got: 0, of: 0, n: 0 }); }
+    const wIdx = new Map(d.weeks.map((w, k) => [w.start, k]));
+    for (const r of A) {
+      const [t, id, part, slug, got, of, secs] = r, q = qById[id], whole = part <= 0;
+      const home = slugOfQ[id] && subBySlug[slugOfQ[id]];
+      const sid = (subBySlug[slug] && subBySlug[slug].subject) || (q && q.subject) || (home && home.subject);
+      d.got += got; d.of += of; d.secs += secs;
+      if (whole) { d.n++; d.ids.add(id); }
+      if (sid) {
+        const s = d.subj[sid] || (d.subj[sid] = { got: 0, of: 0, n: 0, last: 0, week: 0 });
+        s.got += got; s.of += of; if (t > s.last) s.last = t;
+        if (whole) { s.n++; if (t > now - 7 * DAY) s.week++; }
+      }
+      const w = wIdx.get(weekStart(t));
+      if (w !== undefined) { d.weeks[w].got += got; d.weeks[w].of += of; if (whole) d.weeks[w].n++; }
+      d.latest.set(id + "#" + part, r); // later rows replace earlier ones, so this ends as the latest answer to each question or part
+    }
+    // Subtopic performance uses the latest answer to each question, so it moves as you fix what you got wrong.
+    for (const r of d.latest.values()) {
+      const [t, id, , slug, got, of] = r; if (!isSyllabus(slug)) continue;
+      const s = d.subs[slug] || (d.subs[slug] = { slug, got: 0, of: 0, qs: new Set(), last: 0 });
+      s.got += got; s.of += of; s.qs.add(id); if (t > s.last) s.last = t;
+    }
+    // Mastery of a subtopic: the share of its marks you have shown you can get, from your best full-quiz score or your
+    // latest answers to its questions, whichever is higher. (Subject pages count full quizzes only.)
+    const right = {};
+    for (const r of d.latest.values()) { const home = slugOfQ[r[1]]; if (home) right[home] = (right[home] || 0) + r[4]; }
+    d.mastery = slug => { const m = slugMarks(slug); return m ? Math.max(ratio(slug), Math.min(1, (right[slug] || 0) / m)) : 0; };
+    for (const s of Object.values(d.subs)) {
+      s.pct = s.got / s.of;
+      s.status = s.of < MIN_SUB_MARKS || s.qs.size < MIN_SUB_QS ? "few" : s.pct >= .8 ? "strong" : s.pct >= .5 ? "dev" : "weak";
+    }
+    // Subjects with any activity, most recent first; subjects known only from best scores come after, in site order.
+    const known = new Set(Object.keys(d.subj));
+    Object.keys(progress).forEach(k => { const s = subjOfKey(k); if (s) known.add(s); });
+    const order = Object.fromEntries(subjects.map((s, k) => [s.id, k]));
+    d.subjects = [...known].filter(s => subjById[s]).sort((a, b) => ((d.subj[b] || {}).last || 0) - ((d.subj[a] || {}).last || 0) || order[a] - order[b]);
+    // Difficulty bands from the friend's ratings (DIFF), when the site has them.
+    d.hasDiff = typeof DIFF !== "undefined" && !!DIFF && Object.keys(DIFF).length > 0;
+    d.bands = [["Easy", "1 or 2 stars"], ["Medium", "3 stars"], ["Difficult", "4 or 5 stars"]].map(([name, stars]) => ({ name, stars, got: 0, of: 0, est: 0, qs: new Set() }));
+    if (d.hasDiff) for (const r of d.latest.values()) {
+      const df = diffOf(r[1]); if (!df) continue;
+      const b = d.bands[df[0] <= 2 ? 0 : df[0] === 3 ? 1 : 2]; b.got += r[4]; b.of += r[5]; b.est += df[1] * r[5]; b.qs.add(r[1]);
+    }
+    // Recent questions, newest first. The parts of a multi-part question are saved together, so they join back into one entry.
+    const groups = [];
+    for (let k = A.length - 1; k >= 0 && groups.length < 400; k--) {
+      const r = A[k], g = groups[groups.length - 1];
+      if (g && r[2] >= 0 && g.id === r[1] && g.sess === r[7] && g.t - r[0] <= 2 && !g.parts.includes(r[2])) { g.got += r[4]; g.of += r[5]; g.parts.push(r[2]); }
+      else groups.push({ t: r[0], id: r[1], sess: r[7], got: r[4], of: r[5], parts: [r[2]] });
+    }
+    d.recent = groups.filter(g => qById[g.id]).slice(0, 8);
+    d.wrong = groups.filter(g => qById[g.id] && g.got < g.of).slice(0, 6);
+    d.sessions = act.s.slice(-6).reverse();
+    // Due for revision: a question you lost marks on comes back a day later; once you get it right it comes back a week later,
+    // to check it stuck. Ticking Resolved in the error log stops it. Questions not in the error log (automatic adding off)
+    // come back a day after you last got them wrong.
+    const dueAt = new Map(), sooner = (id, at) => { if (!dueAt.has(id) || at < dueAt.get(id)) dueAt.set(id, at); };
+    for (const e of Object.values(elog.items)) {
+      if (e.done || !qById[e.id] || !e.last) continue;
+      const fixed = e.right && e.right >= e.last;
+      sooner(e.id, dateNum(fixed ? e.right : e.last) + (fixed ? 7 : 1) * DAY);
+    }
+    for (const r of d.latest.values()) {
+      const [t, id, part, , got, of] = r, q = qById[id]; if (!q || got >= of) continue;
+      if (elog.items[ekey(q, part >= 0 && q.type === "multi" ? q.parts[part] : null)]) continue; // the error log's dates decide
+      sooner(id, dayStart(t) + DAY);
+    }
+    const dueList = [...dueAt].sort((a, b) => a[1] - b[1]);
+    d.due = dueList.filter(([, at]) => at <= now).map(([id]) => qById[id]);
+    const later = dueList.filter(([, at]) => at > now);
+    d.nextDue = later.length ? later[0][1] : 0; d.later = later.length;
+    // Recommendations. Developing and weak subtopics, weakest first.
+    const weak = Object.values(d.subs).filter(s => s.status === "weak" || s.status === "dev").sort((a, b) => a.pct - b.pct || b.of - a.of);
+    const weakSet = new Set(weak.map(s => s.slug));
+    d.weakest = weak.slice(0, 3);
+    d.lastSubj = d.subjects.find(s => d.subj[s]) || d.subjects[0] || "";
+    d.rec = [];
+    const qRows = q => q.type === "multi" ? q.parts.map(p => d.latest.get(q.id + "#" + p.n)).filter(Boolean) : [d.latest.get(q.id + "#-1")].filter(Boolean);
+    if (weak.length) {
+      const sid = subBySlug[weak[0].slug].subject, slugs = weak.filter(s => subBySlug[s.slug].subject === sid).slice(0, 3).map(s => s.slug);
+      // Questions missed last time first, then ones not tried yet, then the rest.
+      const tiers = [[], [], []];
+      slugs.flatMap(sl => bank[sl] || []).forEach(q => { const rows = qRows(q); tiers[!rows.length ? 1 : rows.some(r => r[4] < r[5]) ? 0 : 2].push(q); });
+      const pool = tiers.flatMap(shuffle).slice(0, 10);
+      if (pool.length) d.rec.push({ act: "focus", sid, pool, title: `Focus quiz: ${subjShort(sid)}`,
+        text: `${pool.length} questions from ${slugs.map(sl => subBySlug[sl].name).join(", ")}, starting with ones you missed last time.`, cta: "Start focus quiz" });
+    }
+    const esid = weak.length ? subBySlug[weak[0].slug].subject : d.lastSubj;
+    const untried = (exams[esid] || []).filter(q => !progress["x:" + q.id] && !qRows(q).length);
+    const xq = untried.find(q => q.parts.some(p => weakSet.has(p.topic))) || untried[0];
+    if (xq) { const hit = xq.parts.map(p => p.topic).find(t => weakSet.has(t));
+      d.rec.push({ href: `#x-${xq.id}`, title: `Exam-style question: ${xq.title}`, cta: "Open question",
+        text: `${xq.parts.length} parts, ${marksTxt(xq.marks)}, not tried yet.${hit ? ` Includes ${subBySlug[hit].name}, one of your weaker subtopics.` : ""}` }); }
+    const ns = d.lastSubj && subjById[d.lastSubj].topics.flatMap(t => t.subtopics).find(s => count(s.slug) && isSyllabus(s.slug) && !d.subs[s.slug] && !progress[s.slug]);
+    if (ns) d.rec.push({ href: `#${ns.slug}`, title: `New subtopic: ${ns.name}`, text: `The next ${subjShort(d.lastSubj)} subtopic you have not tried, in topic ${ns.topic}: ${subBySlug[ns.slug].topicName}.`, cta: "Start quiz" });
+    return d;
+  }
+
+  const dsec = (id, title, intro, inner) => `<section class="stack dsec" aria-labelledby="${id}"><div class="stack" style="gap:4px"><h2 class="section-h" id="${id}">${title}</h2>${intro ? `<p class="small muted dintro">${intro}</p>` : ""}</div>${inner}</section>`;
+  const dempty = msg => `<p class="small muted dempty">${msg}</p>`;
+  function dashHtml() {
+    const d = dashData(), acts = {};
+    const hasAny = act.a.length || Object.keys(progress).length || Object.keys(elog.items).length;
+    const notes = [];
+    if (actErr === "blocked") notes.push("Your browser is not letting this site save anything (for example, in a private window), so this page only counts what you answer before you close the tab.");
+    if (actErr === "corrupt") notes.push(`Your saved activity history on this device could not be read, so it is not shown, and new answers are only kept until you close the tab. Your best scores and error log are not affected. <button class="link" data-act="reset">Start a new history</button>`);
+    if (actWarn === "full") notes.push("This browser's storage for the site is full, so your newest answers may not be saved.");
+    if (act.trimmed) notes.push("Your oldest answers were removed to make room, so totals cover only your more recent practice.");
+    if (act.legacy) notes.push(`Detailed history started on ${fmtDay(act.since)}. Quizzes before then still count towards mastery, but not towards accuracy, study time or trends.`);
+    acts.reset = () => { actErr = ""; flushAct(true); dashboardView("h1", "Started a new activity history."); };
+    acts.del = () => {
+      if (!confirm("Delete your activity history on this device? Your best scores and error log stay. This cannot be undone.")) return;
+      act = freshAct(); pend = { a: [], s: [] }; flushAct(true); dashboardView("h1", "Activity history deleted.");
+    };
+    const notesHtml = notes.length ? `<div class="card pad dnote stack" style="gap:8px" role="note">${notes.map(n => `<p class="small">${n}</p>`).join("")}</div>` : "";
+    if (!hasAny) return { acts, html: `${notesHtml}<div class="card pad dnone stack" style="gap:12px;align-items:flex-start"><h2 class="h2s">No practice yet</h2>
+      <p class="muted">Answer a few questions and this page will show your accuracy, study time, the topics you are strong and weak in, and what to practise next.</p>
+      <a class="btn btn-primary" href="#topics">Choose a subject</a></div>${footer()}` };
+
+    // 1. Overall performance
+    const accOk = d.of >= MIN_ACC, nSubs = Object.keys(d.subs).length;
+    const tile = (label, value, sub) => `<div class="card pad dtile"><p class="dt-l">${label}</p><p class="dt-v">${value}</p><p class="xs muted">${sub}</p></div>`;
+    const tiles = [
+      tile("Questions completed", d.n.toLocaleString("en-AU"), d.n ? `${d.ids.size.toLocaleString("en-AU")} different ${d.ids.size === 1 ? "question" : "questions"}` : "None in your history yet"),
+      tile("Overall accuracy", accOk ? `${pct(d.got, d.of)}%` : "—", accOk ? `${d.got.toLocaleString("en-AU")} of ${marksTxt(d.of)}, including self-marked answers` : `Shown after ${MIN_ACC} marks of questions (${d.of} so far)`),
+      tile("Total study time", d.n ? fmtDur(d.secs) : "—", "Time with a question on screen"),
+      tile("Subjects practised", String(d.subjects.length), d.subjects.length ? `${nSubs} ${nSubs === 1 ? "subtopic" : "subtopics"} answered` : "None yet"),
+    ].join("");
+    const okW = d.weeks.map((w, k) => ({ ...w, k })).filter(w => w.of >= MIN_WEEK);
+    let trendTxt;
+    if (okW.length >= 2) {
+      const a = okW[okW.length - 1], b = okW[okW.length - 2], pa = pct(a.got, a.of), pb = pct(b.got, b.of), diff = pa - pb;
+      trendTxt = `Week of ${fmtDay(a.start)}: ${pa}% from ${marksTxt(a.of)}, ${Math.abs(diff) < 5 ? "about the same as" : diff > 0 ? `up ${diff} points on` : `down ${-diff} points on`} the week of ${fmtDay(b.start)} (${pb}%).`;
+    } else trendTxt = okW.length ? `Only one recent week has enough answers (${MIN_WEEK} marks), so there is no trend yet.` : `Not enough recent answers for a trend. A week shows once it has at least ${MIN_WEEK} marks of questions.`;
+    const trend = `<div class="trend" role="img" aria-label="Weekly accuracy for the last eight weeks. ${esc(trendTxt)}">${d.weeks.map((w, k) => {
+      const ok = w.of >= MIN_WEEK, p = ok ? pct(w.got, w.of) : 0;
+      return `<div class="tw${ok ? "" : w.of ? " tw-few" : " tw-none"}" aria-hidden="true"><span class="tw-v">${ok ? p + "%" : w.of ? "Few" : ""}</span><div class="tw-bar"><div style="height:${ok ? Math.max(p, 2) : w.of ? 8 : 0}%"></div></div><span class="tw-l">${k === 7 ? "This<br>week" : `${new Date(w.start * 1000).getDate()}<br>${new Date(w.start * 1000).toLocaleDateString("en-AU", { month: "short" })}`}</span></div>`;
+    }).join("")}</div>
+      <table class="sr-only"><caption>Weekly accuracy</caption><thead><tr><th scope="col">Week starting</th><th scope="col">Questions</th><th scope="col">Marks</th><th scope="col">Accuracy</th></tr></thead><tbody>${d.weeks.map(w => `<tr><th scope="row">${fmtDay(w.start)}</th><td>${w.n}</td><td>${w.got} of ${w.of}</td><td>${w.of >= MIN_WEEK ? pct(w.got, w.of) + "%" : "not enough data"}</td></tr>`).join("")}</tbody></table>`;
+    const s1 = dsec("d-overall", "Overall performance", "", `<div class="dtiles">${tiles}</div>
+      <div class="card pad stack" style="gap:12px"><div class="row" style="justify-content:space-between;gap:4px 12px"><h3 class="h2s">Recent trend</h3><span class="xs muted">Accuracy each week, Monday to Sunday. "Few" means under ${MIN_WEEK} marks.</span></div>
+        ${d.n ? trend : ""}<p class="small">${esc(trendTxt)}</p></div>`);
+
+    // 2. Subject overview
+    const subjCard = (sid, k) => {
+      const sj = subjById[sid], s = d.subj[sid] || { got: 0, of: 0, n: 0, last: 0, week: 0 };
+      const totM = subjMarks(sj), done = subjSlugs(sj).reduce((a, sl) => a + d.mastery(sl) * slugMarks(sl), 0);
+      const topics = sj.topics.map(t => {
+        const subs = t.subtopics.filter(x => count(x.slug) && isSyllabus(x.slug)); if (!subs.length) return "";
+        const tTot = subs.reduce((a, x) => a + slugMarks(x.slug), 0), tDone = subs.reduce((a, x) => a + d.mastery(x.slug) * slugMarks(x.slug), 0);
+        const g = subs.reduce((a, x) => { const r = d.subs[x.slug]; return r ? { got: a.got + r.got, of: a.of + r.of } : a; }, { got: 0, of: 0 });
+        return `<li><span class="small dtn">${t.number}. ${esc(t.name)}</span>${bar(tTot ? tDone / tTot : 0, `Mastery of topic ${t.number}, ${t.name}`)}<span class="xs muted">${g.of >= MIN_SUB_MARKS ? `Accuracy ${pct(g.got, g.of)}% of ${marksTxt(g.of)}` : g.of ? `${marksTxt(g.of)} answered: not enough to rate` : "Not answered yet"}</span></li>`;
+      }).join("");
+      return `<div class="card pad dsubj stack" style="gap:12px">
+        <div class="row" style="justify-content:space-between;align-items:flex-start;gap:4px 12px"><div class="stack" style="gap:2px"><span class="call">${esc(sj.label)}</span><h3 class="dsn"><a href="#s-${esc(sid)}">${esc(sj.name)}</a></h3></div><span class="xs muted">${s.last ? `Last practised ${whenTxt(s.last).toLowerCase()}` : "Best scores only"}</span></div>
+        <dl class="dstats"><div><dt>Accuracy</dt><dd>${s.of >= MIN_ACC ? `${pct(s.got, s.of)}%` : "—"}</dd><dd class="xs muted">${s.of >= MIN_ACC ? `${s.got} of ${marksTxt(s.of)}` : `${s.of} of ${MIN_ACC} marks needed`}</dd></div>
+          <div><dt>Mastery</dt><dd>${totM ? Math.round(done / totM * 100) : 0}%</dd><dd class="xs muted">of the subject's marks</dd></div>
+          <div><dt>Last 7 days</dt><dd>${s.week}</dd><dd class="xs muted">${s.week === 1 ? "question" : "questions"}</dd></div></dl>
+        <details class="dtopics"${k === 0 ? " open" : ""}><summary>Topic mastery</summary><ul>${topics}</ul></details></div>`;
+    };
+    const s2 = dsec("d-subjects", "Subject overview", "Mastery is the share of a subject's marks you have shown you can get: your best full-quiz score on each subtopic or your latest answers to its questions, whichever is higher. Accuracy is the marks you got out of every mark you answered.",
+      d.subjects.length ? `<div class="dsubjs">${d.subjects.map(subjCard).join("")}</div>` : dempty("No subjects practised yet."));
+
+    // 3. Topic performance
+    const bucket = key => {
+      const list = Object.values(d.subs).filter(s => s.status === key).sort(key === "strong" ? (a, b) => b.pct - a.pct : key === "few" ? (a, b) => b.last - a.last : (a, b) => a.pct - b.pct);
+      const li = s => { const sb = subBySlug[s.slug]; return `<li><a class="link" href="#${esc(s.slug)}">${esc(sb.name)}</a><span class="xs muted">${esc(subjShort(sb.subject))} · ${key === "few" ? `${s.got} of ${marksTxt(s.of)} from ${s.qs.size} ${s.qs.size === 1 ? "question" : "questions"}` : `${Math.round(s.pct * 100)}% of ${marksTxt(s.of)}`}</span></li>`; };
+      return `<div class="card pad dbucket db-${key}"><h3 class="h2s">${STATUS[key][0]} <span class="dcount">${list.length}</span></h3><p class="xs muted">${STATUS[key][1]}</p>
+        ${list.length ? `<ul class="dlist">${list.slice(0, 6).map(li).join("")}</ul>${list.length > 6 ? `<details class="dmore"><summary>Show ${list.length - 6} more</summary><ul class="dlist">${list.slice(6).map(li).join("")}</ul></details>` : ""}` : `<p class="small muted">None yet.</p>`}</div>`;
+    };
+    const s3 = dsec("d-topics", "Topic performance", `Subtopics you have answered, rated on your latest answer to each question. A subtopic needs at least ${MIN_SUB_MARKS} marks from ${MIN_SUB_QS} different questions before it is rated.`,
+      nSubs ? `<div class="dbuckets">${["weak", "dev", "strong", "few"].map(bucket).join("")}</div>` : dempty("Subtopics appear here once you answer questions."));
+
+    // 4. Difficulty analysis
+    const band = b => {
+      const ok = b.of >= MIN_BAND, mine = ok ? pct(b.got, b.of) : 0, typ = b.of ? Math.round(b.est / b.of) : 0;
+      return `<div class="card pad dband stack" style="gap:8px"><div class="row" style="justify-content:space-between;gap:4px 12px"><h3 class="h2s">${b.name}</h3><span class="xs muted">${b.stars}</span></div>
+        ${ok ? `<div class="dmeter" role="img" aria-label="Your accuracy ${mine}%. Students typically get about ${typ}%."><div class="dm-fill" style="width:${mine}%"></div><div class="dm-mark" style="left:${typ}%"></div></div>
+          <p class="small"><b>${mine}%</b> from ${marksTxt(b.of)} on ${b.qs.size} ${b.qs.size === 1 ? "question" : "questions"}</p><p class="xs muted">Students typically get about ${typ}% (the tick).</p>`
+        : `<p class="small muted">Not enough data yet: ${marksTxt(b.of)} so far, ${MIN_BAND} needed.</p>`}</div>`;
+    };
+    const s4 = dsec("d-diff", "Difficulty analysis", d.hasDiff ? "Your latest answers, grouped by each question's difficulty rating." : "",
+      !d.hasDiff ? dempty("Difficulty ratings are not on the site yet. This section fills in once they are.")
+      : d.bands.some(b => b.of) ? `<div class="dbands">${d.bands.map(band).join("")}</div>` : dempty("None of the questions you have answered has a difficulty rating yet."));
+
+    // 5. Recent activity
+    const qItem = g => { const q = qById[g.id], home = slugOfQ[g.id] && subBySlug[slugOfQ[g.id]];
+      const where = home ? `${subjShort(home.subject)} · ${home.name}` : q.subject ? `${subjShort(q.subject)} · exam-style` : "";
+      const partTxt = q.type === "multi" && g.parts.length < q.parts.length ? ` · ${g.parts.length} of ${q.parts.length} parts` : "";
+      return `<li><div class="stack" style="gap:2px;min-width:0"><a class="dq" href="${qHref(g.id)}">${txt(qText(q))}</a><span class="xs muted">${esc(where)}${partTxt} · ${whenTxt(g.t)}</span></div>${scoreBadge(g.got, g.of)}</li>`; };
+    const sItem = r => { const [, kind, ref, , end, n, got, of, secs] = r;
+      return `<li><div class="stack" style="gap:2px;min-width:0"><span class="small dsname">${txt(sessName(kind, ref))}</span><span class="xs muted">${whenTxt(end)} · ${n} ${n === 1 ? "question" : "questions"} · ${fmtDur(secs).toLowerCase()}</span></div>${of ? scoreBadge(got, of) : ""}</li>`; };
+    const s5 = dsec("d-recent", "Recent activity", "", `<div class="drecent">
+      <div class="card pad"><h3 class="h2s">Recently attempted</h3>${d.recent.length ? `<ul class="dlist dql">${d.recent.map(qItem).join("")}</ul>` : `<p class="small muted">No questions answered yet.</p>`}</div>
+      <div class="card pad"><h3 class="h2s">Incorrect</h3>${d.wrong.length ? `<ul class="dlist dql">${d.wrong.map(qItem).join("")}</ul><a class="link" href="#errors">Open your error log →</a>` : `<p class="small muted">${d.recent.length ? "Nothing lost recently." : "Nothing yet."}</p>`}</div>
+      <div class="card pad"><h3 class="h2s">Completed sessions</h3>${d.sessions.length ? `<ul class="dlist dql">${d.sessions.map(sItem).join("")}</ul>` : `<p class="small muted">A quiz counts once you reach its results.</p>`}</div></div>`);
+
+    // 6. Recommended next steps
+    acts.due = () => dashQuiz("Questions due for revision", d.due.slice(0, 20), "due", "");
+    d.rec.forEach((r, k) => { if (r.act) acts["rec" + k] = () => dashQuiz(r.title, r.pool, r.act, r.sid); });
+    const weakHtml = d.weakest.length ? `<ul class="dlist">${d.weakest.map(s => { const sb = subBySlug[s.slug]; return `<li><div class="stack" style="gap:2px;min-width:0"><a class="link" href="#${esc(s.slug)}">${esc(sb.name)}</a><span class="xs muted">${esc(subjShort(sb.subject))} · ${Math.round(s.pct * 100)}% of ${marksTxt(s.of)}</span></div></li>`; }).join("")}</ul>`
+      : `<p class="small muted">${nSubs ? "No weak or developing subtopics with enough data. Keep going." : "Answer some questions first."}</p>`;
+    const dueHtml = d.due.length ? `<p><b class="dt-v" style="font-size:1.6rem">${d.due.length}</b> ${d.due.length === 1 ? "question is" : "questions are"} due now.</p><button class="btn btn-primary" data-act="due">Practise ${d.due.length > 20 ? "the first 20" : d.due.length === 1 ? "it" : `these ${d.due.length}`}</button>`
+      : `<p class="small muted">Nothing due right now.${d.later ? ` ${d.later} ${d.later === 1 ? "question comes" : "questions come"} back from ${whenTxt(d.nextDue).toLowerCase()}.` : ""}</p>`;
+    const recHtml = d.rec.length ? `<ul class="dlist drec">${d.rec.map((r, k) => `<li><div class="stack" style="gap:4px;min-width:0"><b class="small">${txt(r.title)}</b><span class="xs muted">${txt(r.text)}</span>
+        ${r.act ? `<button class="btn btn-ghost btn-sm" data-act="rec${k}">${r.cta}</button>` : `<a class="btn btn-ghost btn-sm" href="${esc(r.href)}">${r.cta}</a>`}</div></li>`).join("")}</ul>` : `<p class="small muted">Nothing to suggest yet.</p>`;
+    const s6 = dsec("d-next", "Recommended next steps", "", `<div class="dnext">
+      <div class="card pad stack" style="gap:10px"><h3 class="h2s">Weakest subtopics</h3>${weakHtml}</div>
+      <div class="card pad stack" style="gap:10px;align-items:flex-start"><h3 class="h2s">Due for revision</h3>${dueHtml}<p class="xs muted">Questions you lost marks on come back a day later. Once you get one right, it comes back a week later to check it stuck. Tick Resolved in the error log to stop it.</p></div>
+      <div class="card pad stack" style="gap:10px"><h3 class="h2s">Recommended practice</h3>${recHtml}</div></div>`);
+
+    return { acts, html: notesHtml + s1 + s2 + s3 + s4 + s5 + s6 + footer() };
+  }
+  const footer = () => `<div class="stack dfoot" style="gap:8px"><p class="small muted">Your answers, scores and study time are saved only in this browser and never leave your device. See <a class="link" href="#privacy">Privacy</a>.</p>
+    <div class="row" style="gap:16px">${act.a.length || act.s.length ? `<button class="link" data-act="del">Delete activity history</button>` : ""}<span class="small" id="dstatus" role="status"></span></div></div>`;
+
+  // A quiz started from the dashboard, with a way back.
+  function dashQuiz(title, qs, kind, ref) {
+    app.innerHTML = `<div class="wrap w2 view stack-lg" style="gap:24px"><div class="stack" style="gap:4px"><button class="link" id="dback" style="align-self:flex-start">← Back to dashboard</button><h1 class="page-h1">${txt(title)}</h1></div><div id="quiz"></div></div>`;
+    const back = () => { dashboardView("h1"); window.scrollTo(0, 0); };
+    app.querySelector("#dback").onclick = back;
+    runQuiz(app.querySelector("#quiz"), qs, { onBack: back, backLabel: "Back to dashboard", kind, ref });
+    window.scrollTo(0, 0);
+    const h = app.querySelector(".qprompt"); if (h) { h.tabIndex = -1; h.focus(); }
+  }
+  // The page shell (with its heading) renders at once and the figures a moment later, so a long history never blocks the page.
+  let dashTimer = 0;
+  function dashboardView(focusSel, msg) {
+    app.innerHTML = `<div class="wrap w5 view stack-lg dash"><div class="stack" style="gap:12px"><h1 class="page-h1">Your dashboard</h1>
+      <p class="muted" style="max-width:42rem">How your practice is going and what to work on next, from the questions you answer on this device.</p></div>
+      <div id="dbody" class="stack-lg" aria-busy="true"><div class="dskel" role="status"><span class="sr-only">Loading your dashboard</span><div class="sk sk-row"></div><div class="sk sk-tall"></div><div class="sk sk-tall"></div></div></div></div>`;
+    clearTimeout(dashTimer);
+    dashTimer = setTimeout(() => {
+      const body = document.getElementById("dbody"); if (!body) return; // the student has moved to another page
+      body.removeAttribute("aria-busy");
+      try {
+        const { html, acts } = dashHtml();
+        body.innerHTML = html;
+        body.onclick = e => { const b = e.target.closest("[data-act]"); if (b && acts[b.dataset.act]) acts[b.dataset.act](); };
+        typeset(body);
+      } catch (err) {
+        console.error(err);
+        body.innerHTML = `<div class="card pad stack" role="alert" style="gap:12px;align-items:flex-start"><h2 class="h2s">The dashboard could not be worked out</h2>
+          <p class="muted">Something in your saved history did not make sense to this page. Your best scores and error log are safe. Try again, and if it keeps happening, please report it.</p>
+          <div class="row"><button class="btn btn-primary" id="dretry">Try again</button><a class="link" href="${REPO}/issues/new">Report a problem</a></div></div>`;
+        body.querySelector("#dretry").onclick = () => dashboardView("h1");
+      }
+      if (msg) { const s = body.querySelector("#dstatus"); if (s) s.textContent = msg; }
+      if (focusSel) { const f = app.querySelector(focusSel); if (f) { f.tabIndex = -1; f.focus(); } }
+    }, 0);
+  }
+
   function quizView(slug) {
     const s = subBySlug[slug], sj = subjById[s.subject], back = `#s-${sj.id}`;
     app.innerHTML = `<div class="wrap w2 view stack-lg" style="gap:24px"><div class="stack" style="gap:4px"><a class="link" href="${back}">← ${esc(sj.name)}: ${esc(s.topicName)}</a><span class="call" style="margin-top:8px">${esc(sj.name)} · Topic ${s.topic}</span><h1 class="page-h1">${esc(s.name)}</h1></div><div id="quiz"></div></div>`;
-    runQuiz(app.querySelector("#quiz"), bank[slug], { slug, backHref: back });
+    runQuiz(app.querySelector("#quiz"), bank[slug], { slug, backHref: back, kind: "sub", ref: slug });
   }
 
   const selected = new Set(); let qCount = 10, customSubj = null;
@@ -995,7 +1438,7 @@ const DATA = {"S":[["methods","Mathematical Methods","VCE · Units 3 & 4","VCE �
         const qs = shuffle([...selected].flatMap(s => bank[s])).slice(0, qCount);
         body.innerHTML = `<div class="stack"><button class="link" id="back" style="align-self:flex-start">← Change selection</button><div id="quiz"></div></div>`;
         body.querySelector("#back").onclick = pick;
-        runQuiz(body.querySelector("#quiz"), qs, { backHref: `#s-${customSubj}` });
+        runQuiz(body.querySelector("#quiz"), qs, { backHref: `#s-${customSubj}`, kind: "mix", ref: customSubj });
         const first = body.querySelector(".qprompt"); if (first) { first.tabIndex = -1; first.focus(); }
       };
     }
@@ -1015,6 +1458,7 @@ const DATA = {"S":[["methods","Mathematical Methods","VCE · Units 3 & 4","VCE �
           <li><b>Check your progress.</b> Your best score for each subtopic shows on the subject page, so you can see what to revise next.</li>
           <li><b>Mix topics</b> with <a href="#custom">Build a quiz</a> when you want short questions from several subtopics in one quiz.</li>
           <li><b>Try long questions.</b> Some subtopic quizzes include multi-part questions, and the bottom of each subject page lists its exam-style questions, where one context runs through several topics, plus a full test. Each part has a worked solution showing the marks each step earns, and you give yourself the marks you earned.</li>
+          <li><b>See how you are going.</b> Your <a href="#dashboard">Dashboard</a> shows your accuracy, study time and weekly trend, which subtopics are strong, developing or weak, questions due for revision, and what to practise next. It only shows a figure once there are enough answers for it to mean something.</li>
           <li><b>Learn from mistakes.</b> Questions you lose marks on go into your <a href="#errors">Error log</a>. Note why you lost marks, practise them again, and tick them off when you can do them.</li></ol></section>
       <section class="stack" aria-labelledby="a-start"><h2 id="a-start">Getting started</h2>
         <p>There is nothing to install and no account to create. Open the site in any modern browser on a phone, tablet or computer and choose a subject. Your scores are saved in your browser on that device only, so they will not follow you to another device, and clearing your browser data resets them. See <a href="#privacy">Privacy</a>.</p></section>
@@ -1031,13 +1475,14 @@ const DATA = {"S":[["methods","Mathematical Methods","VCE · Units 3 & 4","VCE �
     </div>`;
   }
   function privacyView() {
-    app.innerHTML = `<div class="wrap w2 view stack"><h1 class="page-h1">Privacy</h1><p class="muted">Helix Revise has no accounts and sets no tracking cookies. Your quiz scores and your error log (including any notes you write in it) are saved in your browser's local storage and never leave your device. Clearing your browser's site data deletes them.</p><p class="muted">The page loads its fonts from Google Fonts and its maths typesetting (KaTeX) from the jsDelivr content network. As with any web request, those services receive your IP address.</p></div>`;
+    app.innerHTML = `<div class="wrap w2 view stack"><h1 class="page-h1">Privacy</h1><p class="muted">Helix Revise has no accounts and sets no tracking cookies. Your quiz scores, your error log (including any notes you write in it) and your activity history for the dashboard (which questions you answered, your marks, and how long each took) are saved in your browser's local storage and never leave your device. You can delete the activity history from the bottom of the dashboard. Clearing your browser's site data deletes them.</p><p class="muted">The page loads its fonts from Google Fonts and its maths typesetting (KaTeX) from the jsDelivr content network. As with any web request, those services receive your IP address.</p></div>`;
   }
   function notFound() {
     app.innerHTML = `<div class="wrap w2 view stack" style="text-align:center;align-items:center;padding-block:4rem"><h1 class="page-h1">Page not found</h1><a class="link" href="#topics">Back to all subjects</a></div>`;
   }
 
   function route(moveFocus) {
+    Object.values(examClocks).forEach(c => { if (c.run) { c.acc += c.run(); c.run = null; } }); // leaving an exam page pauses its clock
     const h = decodeURIComponent(location.hash.slice(1));
     if (!h) home();
     else if (h === "topics") subjectsView();
@@ -1047,6 +1492,7 @@ const DATA = {"S":[["methods","Mathematical Methods","VCE · Units 3 & 4","VCE �
     else if (h.startsWith("x-") && examById[h.slice(2)]) examPage("x:" + h.slice(2), [examById[h.slice(2)]], examById[h.slice(2)].title);
     else if (h.startsWith("test-") && (exams[h.slice(5)] || []).length) examPage("t:" + h.slice(5), exams[h.slice(5)], `${subjById[h.slice(5)].name}: exam-style test`);
     else if (h === "errors") errorsView();
+    else if (h === "dashboard") dashboardView();
     else if (h === "privacy") privacyView();
     else if (h === "about") aboutView();
     else if (bank[h] && subBySlug[h]) quizView(h);
