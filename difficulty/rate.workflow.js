@@ -61,7 +61,7 @@ const QA = { type: 'object', properties: { accept: { type: 'boolean' }, summary:
   redo: { type: 'array', items: { type: 'object', properties: { batch: { type: 'string' }, reason: { type: 'string' } }, required: ['batch', 'reason'] } } },
   required: ['accept', 'summary', 'redo'] }
 
-const runJson = (cmd, label, phase, schema) => H(`Run from ${ROOT}: ${cmd}\nIt prints one JSON line at the end. Return exactly that JSON (as the structured output). Do nothing else.`, label, phase, schema, 'low')
+const runJson = (cmd, label, phase, schema) => H(`Run from ${ROOT}: ${cmd}\nRun it in the foreground with the Bash timeout set to 600000 ms (report downloads can take minutes); never background it. It prints one JSON line at the end. Return exactly that JSON (as the structured output). Do nothing else.`, label, phase, schema, 'low')
 const patchRule = (pack, name) => `Write ONLY the patch file ${workDir(pack)}/${name}.json as {"patches": {"<eid>": {<fields>}}} (create the folder).
 Allowed fields: skill, examiner_note, area, verified, verify_note, verified_by, key_unconfirmed, key_note. Never change numbers or urls,
 and do not edit the pack itself (code applies patches). Return {"done": <entries patched>}.`
