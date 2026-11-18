@@ -37,6 +37,26 @@ Marks, times and relevance are estimates, not predictions. Question types were t
 
 **Error log** (`#errors`): every question, or part of a multi-part question, where you lose marks is saved automatically (this can be switched off). For each entry you can record why you lost marks and a note to yourself, practise the open entries again as a quiz, and tick them off as resolved. Questions you got right can be added by hand. The log lives in `localStorage` under `helix-errors-v1`.
 
+**Dashboard** (`#dashboard`): a personal overview built from what is saved on the device:
+
+- **Overall performance**: questions completed, overall accuracy (marks got out of marks answered, including self-marked answers), study time, subjects practised, and accuracy for each of the last eight weeks.
+- **Subject overview**: for each subject practised, its accuracy, mastery, questions in the last seven days and mastery for each topic. Mastery is the share of the subject's marks you have shown you can get, from your best full-quiz score on each subtopic or your latest answers to its questions, whichever is higher.
+- **Topic performance**: answered subtopics rated Strong (80% or more), Developing (50 to 79%) or Weak (under 50%) on the latest answer to each question.
+- **Difficulty analysis**: accuracy on easy, medium and difficult questions against the typical success rate, once the difficulty ratings (`const DIFF`) are on the site.
+- **Recent activity**: recent questions, recent questions that lost marks, and completed quizzes and exam pages.
+- **Recommended next steps**: the weakest subtopics, questions due for revision, and suggested practice. A question that lost marks comes back a day later, and once it is right it comes back a week later; ticking Resolved in the error log stops it.
+
+A figure only shows once it has enough data behind it; otherwise the page says how much more is needed:
+
+| Figure | Minimum |
+|---|---|
+| Accuracy | 10 marks |
+| A week in the trend | 10 marks |
+| A subtopic rating | 6 marks from 3 different questions |
+| A difficulty band | 10 marks |
+
+The history behind it is in `localStorage` under `helix-activity-v1`. It holds one row per marked question or part (question, subtopic, marks, seconds and session) and one row per finished quiz or exam page. Study time counts only while a question is on screen and the tab is visible, capped at three times the question's estimated time. Writes are batched, and each write adds to what is already stored, so two open tabs do not undo each other. Nothing is sent anywhere, and the history can be deleted from the bottom of the dashboard. History starts when this version is first opened, so earlier quizzes count towards mastery but not towards accuracy, time or trends.
+
 ## Question files
 
 `questions/` holds every question as Markdown, one folder per subject (`questions.md` + `answers.md`). It is generated from the `DATA` block in `index.html`, so after editing questions there, regenerate and check it:
