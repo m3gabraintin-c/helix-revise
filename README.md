@@ -78,8 +78,13 @@ Writes merge with what is stored (the later edit wins), so two open tabs never u
 **Dashboard** (`#dashboard`): a personal overview built from what is saved on the device:
 
 - **Overall performance**: questions completed, overall accuracy (marks got out of marks answered, including self-marked answers), study time, subjects practised, and accuracy for each of the last eight weeks.
-- **Subject overview**: for each subject practised, its accuracy, mastery, questions in the last seven days and mastery for each topic. Mastery is the share of the subject's marks you have shown you can get, from your best full-quiz score on each subtopic or your latest answers to its questions, whichever is higher.
-- **Topic performance**: answered subtopics rated Strong (80% or more), Developing (50 to 79%) or Weak (under 50%) on the latest answer to each question.
+- **Subject overview**: for each subject practised:
+  - accuracy;
+  - mastery and exam readiness, both from the topic mastery engine below;
+  - coverage: the share of the subject's marks you have shown you can get;
+  - questions in the last seven days;
+  - mastery for each topic.
+- **Topic mastery**: practised subtopics grouped as Beginning, Developing, Secure, Mastered or Not enough data yet. Each shows a rounded score with a likely range, its reliability, and its change since last week.
 - **Difficulty analysis**: accuracy on easy, medium and difficult questions against the typical success rate, once the difficulty ratings (`const DIFF`) are on the site.
 - **Recent activity**: recent questions, recent questions that lost marks, and completed quizzes and exam pages.
 - **Recommended next steps**: the weakest subtopics, questions due for revision, and suggested practice. A question that lost marks comes back a day later, and once it is right it comes back a week later; ticking Resolved in the error log stops it.
@@ -94,6 +99,83 @@ A figure only shows once it has enough data behind it; otherwise the page says h
 | A difficulty band | 10 marks |
 
 The history behind it is in `localStorage` under `helix-activity-v1`. It holds one row per marked question or part (question, subtopic, marks, seconds and session) and one row per finished quiz or exam page. Study time counts only while a question is on screen and the tab is visible, capped at three times the question's estimated time. Writes are batched, and each write adds to what is already stored, so two open tabs do not undo each other. Nothing is sent anywhere, and the history can be deleted from the bottom of the dashboard. History starts when this version is first opened, so earlier quizzes count towards mastery but not towards accuracy, time or trends.
+
+## Topic mastery
+
+`#mastery` explains the model to students and lists every practised subtopic's figures. The engine is a block in `index.html`, between `/* <mastery-engine> */` and `/* </mastery-engine> */`. It is pure: it has no page, storage or DOM, so the unit tests load it on its own. It is a transparent weighted statistical model, not machine learning:
+
+```
+M = 0.45 P + 0.25 R + 0.15 D + 0.15 K        (each 0-100)
+```
+
+- **P, performance:** recency-weighted accuracy on the subtopic.
+  - An attempt's weight halves every 30 days.
+  - Each different question counts once. A repeat adds only 25% of a question's weight, for at most two repeats, so drilling one question cannot inflate mastery.
+  - A question counts for at most 3 marks.
+  - A right answer the student says they guessed counts as half right.
+- **R, delayed retention:** accuracy on attempts made at least 3 days after the subtopic was last practised. It is kept apart from immediate accuracy.
+- **D, difficulty-adjusted:** P, moved up or down by how much harder or easier the questions were than one that 60% of students get right. This uses the difficulty ratings (`DIFF`).
+- **K, consistency:** the share of practice days in the subtopic (days with at least 2 marks) at 60% or more.
+
+**Smoothing and missing data:**
+- Every component is Bayesian-smoothed: a Beta prior worth 5 marks at 50%, so three right answers give about 69, not 100.
+- A component with no data (no delayed attempts, no ratings, or one practice day) is left out, and the other weights are rescaled. It is never counted as zero.
+
+**When a score is shown:**
+- **Not enough data:** no score until 3 different questions worth 6 marks. Repeats of a question do not count towards this.
+- **Display:** scores are rounded down to a multiple of 5, with an 80% range widened to multiples of 5. They are never shown as precise numbers.
+- **Levels:**
+
+  | Level | M |
+  |---|---|
+  | Beginning | under 40 |
+  | Developing | 40 to 59 |
+  | Secure | 60 to 79 |
+  | Mastered | 80 or more |
+
+  Mastered also needs R of at least 70 and at least moderate reliability; otherwise the subtopic is capped at Secure.
+- **Reliability:**
+  - low: under 6 questions, or no delayed attempt;
+  - moderate: from 6 questions and 1 delayed attempt;
+  - good: from 12 questions, 3 delayed attempts and 3 practice days.
+
+**Exam readiness** is separate from mastery. It covers every examinable subtopic in the course, weighted by its exam relevance (`DATA.M`). A subtopic without a rating counts as 0. The result is scaled from 85% to 100% by the share of answers within 1.5 times their estimated time. Units 1 & 2 have no external exam, so they show mastery only.
+
+The engine also tracks:
+- recent (21-day) and all-time accuracy;
+- accuracy by question type (`DATA.T`);
+- pace.
+
+**Inputs and storage.** Every input is in the browser:
+
+- **`helix-activity-v1`:** each attempt's marks, time and confidence, plus the number of attempts. Before a multiple-choice or written question, students can optionally say how sure they are: guessing, unsure or sure.
+- **`DATA.T` and `DATA.M`:** question types, time estimates and exam weights, exported from the question database.
+- **`DIFF`:** question difficulty.
+
+Mastery is worked out again shortly after every answer, and cached until the history changes. A snapshot is saved once a day in `helix-mastery-v1` (up to 180 days), so the dashboard can show change since last week.
+
+**Configuration.** Every weight and threshold is in `MasteryEngine.DEFAULTS`. Override them in one place, `MASTERY_CONFIG`; weights are rescaled to add up to 1.
+
+**Tests:**
+
+```bash
+node --test tests/*.test.mjs
+```
+
+The 21 tests cover these properties:
+
+- **Small samples:** smoothing, and one right answer not counting as mastery.
+- **Repeats:** they do not inflate mastery or count towards enough data.
+- **Accuracy:** recent and all-time are reported separately, and difficulty adjustment works.
+- **Retention:** it is tracked separately, with a configurable gap.
+- **Consistency and confidence:** good practice days and guessed answers count as described.
+- **Weights:** configurable, and missing components are rescaled rather than counted as zero.
+- **Levels and display:** Mastered needs retention, and scores are rounded with a range.
+- **Recalculation:** a new attempt changes the result.
+- **Long questions:** they are capped at 3 marks.
+- **Tracking:** question types and pace are recorded.
+- **Groups and readiness:** group mastery and exam readiness are calculated correctly.
+- **Snapshots:** saved and replaced as described.
 
 ## Question files
 
