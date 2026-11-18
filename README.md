@@ -35,7 +35,45 @@ Scores are counted in marks: multiple-choice and written questions are worth 1 m
 
 Marks, times and relevance are estimates, not predictions. Question types were tagged by rules and checked by sampling, so a few may be debatable; corrections are welcome.
 
-**Error log** (`#errors`): every question, or part of a multi-part question, where you lose marks is saved automatically (this can be switched off). For each entry you can record why you lost marks and a note to yourself, practise the open entries again as a quiz, and tick them off as resolved. Questions you got right can be added by hand. The log lives in `localStorage` under `helix-errors-v1`.
+**Error log** (`#errors`): every question, or part of a multi-part question, where you lose marks is saved automatically (this can be switched off). For each entry you can pick what went wrong and write a note to yourself, practise the open entries again as a quiz, and tick them off as resolved. Questions you got right can be added by hand. The log lives in `localStorage` under `helix-errors-v1`.
+
+**Mistake analysis** (`#mistakes`, a tab beside the error log): every attempt that loses marks is recorded automatically with its subject, topic and subtopic, whether or not the error log is on.
+
+Straight after a wrong answer, a panel asks what went wrong. The student can pick any number of these seven categories, or none, and add to them at any time:
+
+- conceptual misunderstanding
+- knowledge or formula recall
+- application error
+- calculation or algebra error (not offered in English or Chinese)
+- question interpretation
+- time management
+- incomplete answer
+
+They can also add optional details:
+
+- **Any question:** what confused them.
+- **Multiple choice:** why they chose that option. The option chosen is recorded automatically.
+- **Written questions:** where they got stuck (the model answer's points), and their answer side by side with those points.
+- **Multi-part questions:** which step of the worked solution they got stuck on. Each part that lost marks has its own panel.
+
+The page shows:
+
+- the most frequent categories (a mistake can count towards several);
+- mistakes by subject and by topic;
+- recurring mistakes (the same question wrong more than once, and the same category in the same subtopic);
+- questions still to get right, with a practice button;
+- questions corrected on a later attempt;
+- the wrong options chosen, with repeats flagged;
+- the full mistake history, which can be filtered to unclassified mistakes and classified there.
+
+Everything can be filtered by date, subject and topic.
+
+Records live in `localStorage` under `helix-mistakes-v1` and are never deleted by the site, so the history is kept. Only the oldest are dropped, past 3,000 records, and only the newest 300 keep the student's own working. The first time the page loads, it imports what is already on the device:
+
+- incorrect answers from the activity history;
+- error log entries, with their old single reason mapped to a category (for example "Wrong method or formula" becomes "Application error"), plus their chosen option and working.
+
+Writes merge with what is stored (the later edit wins), so two open tabs never undo each other.
 
 **Dashboard** (`#dashboard`): a personal overview built from what is saved on the device:
 

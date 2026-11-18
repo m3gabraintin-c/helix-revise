@@ -344,6 +344,50 @@ html { scroll-padding-top: calc(120px + env(safe-area-inset-top, 0px)); }
 /* Display headings: heavy, soft, tight tracking. */
 .page-h1, .section-h, .topic-title b, .result .big, fieldset.pick .all, .subj b, .prose h2 { letter-spacing: -.02em; }
 .subj .call { color: var(--muted); }
+/* Mistake analysis: the panel after a lost mark, the page's filters, bars and history. */
+.mpanel { display: flex; flex-direction: column; gap: 10px; align-self: stretch; border: 1px solid var(--line-soft); border-left: 3px solid var(--bad); background: var(--surface-2); border-radius: var(--r-sm); padding: 12px 14px; font-size: 0.875rem; }
+.mslot { align-self: stretch; } .mslot[hidden] { display: none; }
+.mfs { border: 0; margin: 0; padding: 0; min-width: 0; }
+.mfs legend { padding: 0; margin-bottom: 8px; font-weight: 600; }
+.mfs legend .muted, .mfield .muted { font-weight: 400; }
+.mchips { display: flex; flex-wrap: wrap; gap: 6px; }
+.mchip { position: relative; display: inline-flex; align-items: center; gap: 6px; min-height: 40px; padding: 6px 12px; border: 1px solid var(--field); border-radius: var(--r-pill); background: var(--surface); cursor: pointer; font-size: 0.8125rem; line-height: 1.3; }
+.mchip input { margin: 0; accent-color: var(--accent); }
+.mchip:has(input:checked) { background: var(--accent-soft); border-color: var(--ink); font-weight: 600; }
+.mchip:has(input:focus-visible) { outline: 2px solid var(--ink); outline-offset: 2px; }
+details.mmore summary, details.mcmp summary { cursor: pointer; color: var(--accent); font-weight: 600; min-height: 32px; display: flex; align-items: center; }
+details.mmore[open] > summary { margin-bottom: 8px; }
+.mfield { display: flex; flex-direction: column; gap: 6px; font-weight: 600; }
+.mfield textarea.ans { min-height: 64px; font-weight: 400; background: var(--surface); }
+.mstuck { display: flex; flex-direction: column; gap: 6px; }
+.mstuck label { display: flex; align-items: flex-start; gap: 8px; cursor: pointer; }
+.mstuck input { margin-top: 4px; accent-color: var(--accent); flex-shrink: 0; }
+.mstuck span { min-width: 0; overflow-wrap: anywhere; }
+.mcmpg { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 14rem), 1fr)); gap: 12px; margin-top: 8px; }
+.mcmpg > div { border: 1px solid var(--line-soft); border-radius: var(--r-sm); padding: 10px 12px; background: var(--surface); min-width: 0; }
+.mcmpg ol { margin: 6px 0; padding-left: 1.2rem; display: flex; flex-direction: column; gap: 4px; }
+.ltabs { display: flex; gap: 4px; border-bottom: 1px solid var(--line-soft); margin-bottom: -16px; }
+.ltabs a { display: inline-flex; align-items: center; min-height: 44px; padding: 0 14px; font-weight: 600; font-size: 0.9rem; color: var(--muted); border-bottom: 2px solid transparent; margin-bottom: -1px; }
+.ltabs a:hover { color: var(--ink); }
+.ltabs a[aria-current="page"] { color: var(--ink); border-bottom-color: var(--ink); }
+.mfilters { display: flex; flex-wrap: wrap; align-items: flex-end; gap: 12px 16px; }
+.mfilters label { display: flex; flex-direction: column; gap: 4px; font-size: 0.8125rem; font-weight: 600; flex: 1 1 11rem; min-width: 0; max-width: 18rem; }
+.mfilters .subj-sel { width: 100%; min-height: 40px; padding: 6px 10px; font-weight: 400; }
+.mfilters .link { min-height: 40px; }
+.mbars { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 12px; }
+.mbars li { display: grid; grid-template-columns: minmax(0, 13rem) minmax(0, 1fr) 2.5rem; align-items: center; gap: 4px 12px; }
+.mb-l { display: flex; flex-direction: column; font-size: 0.875rem; font-weight: 500; min-width: 0; overflow-wrap: anywhere; }
+.mb-t { height: 10px; border-radius: var(--r-pill); background: var(--surface-2); overflow: hidden; }
+.mb-t > span { display: block; height: 100%; background: var(--grass); border-right: 1.5px solid var(--ink); border-radius: var(--r-pill); }
+.mb-n { text-align: right; font-family: var(--font-display); font-weight: 800; font-variant-numeric: tabular-nums; }
+/* Narrow cards and phones: the label goes above its bar. */
+.dnext .mbars li { grid-template-columns: minmax(0, 1fr) 2.5rem; } .dnext .mb-l { grid-column: 1 / -1; }
+@media (max-width: 560px) { .mbars li { grid-template-columns: minmax(0, 1fr) 2.5rem; } .mb-l { grid-column: 1 / -1; } }
+.dcount.dc-ok { background: var(--good-soft); color: var(--good); border-color: var(--good); }
+.mrep { display: inline-block; border-radius: var(--r-pill); padding: 0 8px; font-size: 0.7rem; font-weight: 700; background: var(--bad-soft); color: var(--bad); }
+.mhist { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 12px; }
+.mh { display: flex; flex-direction: column; gap: 10px; min-width: 0; }
+.elitem > .mpanel { margin-top: 2px; }
 /* Dashboard: restrained charts in ink and mint, cards on paper. */
 .dsec { gap: 16px; }
 .dintro { max-width: 46rem; }
@@ -681,14 +725,94 @@ const DATA = {"S":[["methods","Mathematical Methods","VCE · Units 3 & 4","VCE �
     act.a.push(r); pend.a.push(r);
     if (sess) sess.secs += secs;
     saveAct();
+    return r;
   }
-  // A multi-part question's time is shared between its parts by marks.
-  const addMulti = (sess, q, gots, secs) => q.parts.forEach(p => addAttempt(sess, q, p, gots[p.n], p.marks, secs * p.marks / q.marks));
+  // A multi-part question's time is shared between its parts by marks. Returns the parts' rows.
+  const addMulti = (sess, q, gots, secs) => q.parts.map(p => addAttempt(sess, q, p, gots[p.n], p.marks, secs * p.marks / q.marks));
   function endSession(sess, n, got, of) {
     const r = [sess.id, sess.kind, sess.ref, sess.start, nowS(), n, got, of, Math.round(sess.secs)];
     act.s.push(r); pend.s.push(r);
     saveAct();
   }
+  // ---- mistake records (per-browser), for mistake analysis ----
+  // { imported, m: [record] }. A record is made automatically for every attempt that loses marks: a whole multiple-choice or
+  // written question, or one part of a multi-part question. The student can add to it then or later, or leave it alone:
+  //   { k (unique key), t (Unix seconds), id, part (index, or -1), slug (subtopic tested), got, of,
+  //     pick (the option chosen in a multiple-choice question, or null), cats (category keys, any number; empty = not classified),
+  //     note (what confused them), why (why they chose that option), stuck ("" not said, "start" could not start,
+  //     "none" did not get stuck, or the index of the step or answer point where they got stuck),
+  //     draft (their answer or working; kept on the newest records only), src (quiz | exam | log | history), ed (last edit) }
+  // The site never deletes records (except the oldest, past the storage limit), so the history is kept.
+  const MCATS = [["concept", "Conceptual misunderstanding", "I misunderstood the idea behind it"],
+    ["recall", "Knowledge or formula recall", "I could not remember a fact, definition or formula"],
+    ["apply", "Application error", "I knew the idea but used it wrongly or chose the wrong method"],
+    ["calc", "Calculation or algebra error", "An arithmetic, algebra, unit or rounding slip"],
+    ["interp", "Question interpretation", "I misread or misunderstood what the question asked"],
+    ["time", "Time management", "I rushed, ran out of time or guessed"],
+    ["incomplete", "Incomplete answer", "I left out a step, a detail or part of the answer"]];
+  const MCAT = Object.fromEntries(MCATS.map(c => [c[0], c]));
+  const NO_CALC = new Set(["vce-english34", "vce-chinese-sl34"]); // no calculations in these subjects
+  // The error log's earlier single reasons, carried over as categories when existing entries are imported.
+  const OLD_REASON = { concept: "concept", method: "apply", calc: "calc", misread: "interp", working: "incomplete", time: "time" };
+  const MKEY = "helix-mistakes-v1", M_MAX = 3000, M_DRAFTS = 300, TXT_MAX = 500, DRAFT_MAX = 1500;
+  const clip = (s, n) => String(s == null ? "" : s).slice(0, n || TXT_MAX);
+  const okM = r => !!r && typeof r === "object" && typeof r.k === "string" && Number.isFinite(r.t) && typeof r.id === "string"
+    && Number.isInteger(r.part) && Number.isFinite(r.got) && Number.isFinite(r.of) && Array.isArray(r.cats);
+  const readMis = raw => { try { const o = JSON.parse(raw); if (o && Array.isArray(o.m)) return { imported: !!o.imported, m: o.m.filter(okM) }; } catch {} return null; };
+  let mis = null, misErr = "", misWarn = "";
+  try { const raw = localStorage.getItem(MKEY); if (raw) { mis = readMis(raw); if (!mis) misErr = "corrupt"; } } catch { misErr = "blocked"; }
+  if (!mis) mis = { imported: false, m: [] };
+  let misIdx = new Map(mis.m.map(r => [r.k, r]));
+  const setMis = o => { mis = o; misIdx = new Map(mis.m.map(r => [r.k, r])); };
+  // Records added or edited in this tab since the last write. A write starts from what is stored and lays these on top
+  // (the later edit wins), so two open tabs never undo each other.
+  let misDirty = new Set(), misTimer = 0;
+  const mergeMis = base => {
+    const by = new Map(base.m.map(r => [r.k, r]));
+    for (const k of misDirty) { const r = misIdx.get(k), o = by.get(k); if (r && (!o || (o.ed || 0) <= (r.ed || 0))) by.set(k, r); }
+    return { imported: base.imported || mis.imported, m: [...by.values()].sort((a, b) => a.t - b.t) };
+  };
+  function flushMis() {
+    clearTimeout(misTimer); misTimer = 0;
+    if (misErr || !misDirty.size) return;
+    let stored = null; try { stored = readMis(localStorage.getItem(MKEY)); } catch {}
+    if (stored) setMis(mergeMis(stored));
+    misDirty = new Set();
+    if (mis.m.length > M_MAX) setMis({ ...mis, m: mis.m.slice(-M_MAX) });
+    mis.m.forEach((r, k) => { if (r.draft && k < mis.m.length - M_DRAFTS) delete r.draft; });
+    for (;;) {
+      try { localStorage.setItem(MKEY, JSON.stringify(mis)); misWarn = ""; return; }
+      catch { // storage full: drop working from all but the newest records, then the oldest fifth of the records
+        const before = JSON.stringify(mis).length;
+        mis.m.forEach((r, k) => { if (r.draft && k < mis.m.length - 30) delete r.draft; });
+        if (JSON.stringify(mis).length < before) continue;
+        if (mis.m.length <= 200) { misWarn = "full"; return; }
+        setMis({ ...mis, m: mis.m.slice(Math.ceil(mis.m.length / 5)) });
+      }
+    }
+  }
+  const saveMis = k => { misDirty.add(k); if (!misTimer) misTimer = setTimeout(flushMis, 500); };
+  window.addEventListener("pagehide", () => flushMis());
+  document.addEventListener("visibilitychange", () => { if (document.hidden) flushMis(); });
+  window.addEventListener("storage", e => {
+    if (misErr || (e.key !== MKEY && e.key !== null)) return;
+    const o = e.key && e.newValue ? readMis(e.newValue) : null;
+    if (o) setMis(mergeMis(o));
+  });
+  let misN = 0;
+  function addMistake(row, q, p, extra) {
+    const x = extra || {};
+    const r = { k: row[0].toString(36) + "-" + (misN++).toString(36) + Math.random().toString(36).slice(2, 6), t: row[0], id: q.id, part: p ? p.n : -1,
+      slug: row[3], got: row[4], of: row[5], pick: Number.isInteger(x.pick) ? x.pick : null, cats: (x.cats || []).filter(c => MCAT[c]),
+      note: clip(x.note), why: clip(x.why), stuck: x.stuck == null ? "" : String(x.stuck), src: x.src || "quiz", ed: nowS() };
+    if (x.draft) r.draft = clip(x.draft, DRAFT_MAX);
+    mis.m.push(r); misIdx.set(r.k, r); saveMis(r.k);
+    return r;
+  }
+  // Edits look the record up by key, in case another tab's write has replaced the objects since the panel was drawn.
+  function editMistake(k, change) { const r = misIdx.get(k); if (!r) return; Object.assign(r, change, { ed: nowS() }); saveMis(k); }
+  // The newest record for each question or part, keyed id + "#" + part.
+  const misLatest = () => { const m = new Map(); mis.m.forEach(r => m.set(r.id + "#" + r.part, r)); return m; };
   const ratio = slug => { const s = progress[slug]; return s && s.total ? s.best / s.total : 0; };
   const bar = (v, label) => { const p = Math.round(Math.min(1, Math.max(0, v)) * 100); return `<div class="bar-row"><div class="bar" role="progressbar" aria-label="${esc(label)}" aria-valuenow="${p}" aria-valuemin="0" aria-valuemax="100"><div style="width:${p}%"></div></div><span class="bar-pct">${p}%</span></div>`; };
 
@@ -818,7 +942,7 @@ const DATA = {"S":[["methods","Mathematical Methods","VCE · Units 3 & 4","VCE �
 
   // ---- multi-part questions ----
   // st = { parts: [{ open, got, draft }] } belongs to the caller, so re-rendering a question restores the student's place.
-  const multiState = q => ({ parts: q.parts.map(() => ({ open: false, got: null, draft: "" })) });
+  const multiState = q => ({ parts: q.parts.map(() => ({ open: false, got: null, draft: "", mis: { cats: [], note: "", stuck: "", k: "" } })) });
   const tally = st => ({ got: st.parts.reduce((a, s) => a + (s.got || 0), 0), marked: st.parts.filter(s => s.got !== null).length });
   const tableHtml = t => `<div class="tscroll"><table class="dtab"><tbody>${t.rows.map(r => `<tr>${r.map((c, k) => k ? `<td>${txt(c)}</td>` : `<th scope="row">${txt(c)}</th>`).join("")}</tr>`).join("")}</tbody></table></div>`;
   // Diagram SVGs come from DATA (checked by scripts/verify.py) and carry aria-hidden; the wrapper gives the text alternative.
@@ -829,7 +953,8 @@ const DATA = {"S":[["methods","Mathematical Methods","VCE · Units 3 & 4","VCE �
       ${p.mistake ? `<div class="mistake"><b>Common mistake</b><p>${txt(p.mistake)}</p></div>` : ""}`;
   const solHtml = (q, p, s) => `<div class="model sol" data-focus="sol-${p.n}">${solBody(p, q.stepsLabel)}</div>
     <fieldset class="marks"><legend>Your mark for part ${esc(p.label)}, out of ${p.marks}</legend><div class="mopts">${Array.from({ length: p.marks + 1 }, (_, k) =>
-      `<label><input type="radio" name="m-${esc(q.id)}-${p.n}" value="${k}" data-mark="${p.n}" ${s.got === k ? "checked" : ""}><span>${k}</span></label>`).join("")}</div></fieldset>`;
+      `<label><input type="radio" name="m-${esc(q.id)}-${p.n}" value="${k}" data-mark="${p.n}" ${s.got === k ? "checked" : ""}><span>${k}</span></label>`).join("")}</div></fieldset>
+    <div class="mslot" data-mslot="${p.n}"${s.got !== null && s.got < p.marks ? "" : " hidden"}>${mpartHtml(q, p, s)}</div>`;
   const partHtml = (q, p, s, hl) => { const id = `${esc(q.id)}-${p.n}`; return `<section class="part" data-part="${p.n}" aria-labelledby="ph-${id}">
       <h${hl} class="phead" id="ph-${id}"><span aria-hidden="true">${esc(p.label)}.</span><span class="sr-only">Part ${esc(p.label)}</span></h${hl}>
       <div class="pbody"><p class="pq">${txt(p.question)} <span class="pmarks">${marksTxt(p.marks)}</span></p>
@@ -846,8 +971,23 @@ const DATA = {"S":[["methods","Mathematical Methods","VCE · Units 3 & 4","VCE �
       const f = slot.querySelector("[data-focus]"); f.tabIndex = -1; f.focus(); // the pressed button is gone, so focus the solution
       onChange();
     };
-    host.onchange = e => { const r = e.target.closest("[data-mark]"); if (r) { st.parts[+r.dataset.mark].got = +r.value; onChange(); } };
-    host.oninput = e => { const t = e.target.closest("[data-w]"); if (t) st.parts[+t.dataset.w].draft = t.value; };
+    host.onchange = e => {
+      const t = e.target, r = t.closest("[data-mark]");
+      if (r) { const n = +r.dataset.mark, s = st.parts[n]; s.got = +r.value;
+        const ms = host.querySelector(`[data-mslot="${n}"]`); if (ms) ms.hidden = !(s.got < q.parts[n].marks); onChange(); return; }
+      // The part's mistake panel: kept with the part until it is saved, then edits go to the saved record too.
+      const mp = t.closest("[data-mp]"); if (!mp) return;
+      const m = st.parts[+mp.dataset.mp].mis;
+      if (t.matches("[data-mc]")) m.cats = [...mp.querySelectorAll("[data-mc]:checked")].map(x => x.dataset.mc);
+      else if (t.matches("[data-mf]")) m[t.dataset.mf] = t.dataset.mf === "stuck" ? t.value : clip(t.value);
+      else return;
+      if (m.k) { editMistake(m.k, { cats: m.cats, note: m.note, stuck: m.stuck }); const stx = mp.querySelector("[data-mstatus]"); if (stx) stx.textContent = "Saved."; }
+    };
+    host.oninput = e => {
+      const t = e.target.closest("[data-w]"); if (t) { st.parts[+t.dataset.w].draft = t.value; return; }
+      const f = e.target.closest("textarea[data-mf]"), mp = f && f.closest("[data-mp]");
+      if (mp) { const m = st.parts[+mp.dataset.mp].mis; m.note = clip(f.value); if (m.k) editMistake(m.k, { note: m.note }); }
+    };
     typeset(host);
   }
 
@@ -864,11 +1004,13 @@ const DATA = {"S":[["methods","Mathematical Methods","VCE · Units 3 & 4","VCE �
       if (results.length !== order.length) return;
       if (opts.slug && pool === initial) saveScore(opts.slug, sum("got"), sum("of"));
       endSession(sess, order.length, sum("got"), sum("of")); };
-    const record = got => { const q = order[i]; addAttempt(sess, q, null, got, 1, capSecs(qClock(), estSecs(q))); commit({ got, of: 1 }); focusTo = "after"; render(); };
-    const restart = p => { pool = p; order = shuffle(pool); i = 0; results = []; picked = null; revealed = false; mst = null; sess = newSession(opts.kind || "mix", opts.ref); shown = -1; focusTo = "prompt"; render(); };
-    const next = () => { picked = null; revealed = false; mst = null; i++; focusTo = i >= order.length ? "result" : "prompt"; render(); host.scrollIntoView({ block: "nearest" }); };
+    let mk = ""; // the mistake record for the current question, when it lost its mark
+    const record = (got, extra) => { const q = order[i], row = addAttempt(sess, q, null, got, 1, capSecs(qClock(), estSecs(q)));
+      mk = got < 1 ? addMistake(row, q, null, extra).k : ""; commit({ got, of: 1 }); focusTo = "after"; render(); };
+    const restart = p => { pool = p; order = shuffle(pool); i = 0; results = []; picked = null; revealed = false; mst = null; mk = ""; sess = newSession(opts.kind || "mix", opts.ref); shown = -1; focusTo = "prompt"; render(); };
+    const next = () => { picked = null; revealed = false; mst = null; mk = ""; i++; focusTo = i >= order.length ? "result" : "prompt"; render(); host.scrollIntoView({ block: "nearest" }); };
     const nextLabel = () => i + 1 === order.length ? "See results" : "Next question";
-    const multiStatus = q => { const t = tally(mst); return t.marked === q.parts.length ? `All parts marked: ${t.got} of ${marksTxt(q.marks)}.${t.got < q.marks && elog.auto ? " Parts that lost marks go into your error log when you continue." : ""}` : `${t.marked} of ${q.parts.length} parts marked. Show each solution and give yourself a mark to continue.`; };
+    const multiStatus = q => { const t = tally(mst); return t.marked === q.parts.length ? `All parts marked: ${t.got} of ${marksTxt(q.marks)}.${t.got < q.marks ? ` Parts that lost marks are saved to your mistake analysis${elog.auto ? " and error log" : ""} when you continue.` : ""}` : `${t.marked} of ${q.parts.length} parts marked. Show each solution and give yourself a mark to continue.`; };
     const logLine = q => inLog(q, null) ? `<p class="small muted" data-logline tabindex="-1">Saved to your <a class="link" href="#errors">error log</a>.</p>` : `<button class="link" id="addlog" style="align-self:flex-start">Add to error log</button>`;
     function render() {
       if (!order.length) { host.innerHTML = `<p class="muted">No questions yet for this subtopic.</p>`; return; }
@@ -904,16 +1046,16 @@ const DATA = {"S":[["methods","Mathematical Methods","VCE · Units 3 & 4","VCE �
         // The explanation sits with the model answer, so it is there while you mark yourself.
         body = `<div class="stack"><div class="model" data-focus="model"><b>Model answer</b><p>${txt(q.answer)}</p>${q.explanation ? `<b class="sub">Explanation</b><p>${txt(q.explanation)}</p>` : ""}</div>${answered ? "" : `<div class="row" style="gap:8px"><span class="small muted" style="width:100%">Did you get it?</span><button class="btn btn-good" id="got">Got it</button><button class="btn btn-bad" id="miss">Missed it</button></div>`}</div>`;
       }
-      const after = answered ? `<div class="stack" data-focus="after" style="margin-top:20px;align-items:flex-start">${q.type === "mcq" ? `<p class="verdict ${res.got ? "ok" : "no"}">${res.got ? "Correct!" : `Not quite. The answer is ${String.fromCharCode(65 + q.answer)}.`}</p>${q.explanation ? `<p class="small muted">${txt(q.explanation)}</p>` : ""}` : `<p class="verdict">${res.got ? "Marked as got it." : "Marked as missed."}</p>`}${logLine(q)}<button class="btn btn-primary" id="next">${nextLabel()}</button></div>` : "";
+      const after = answered ? `<div class="stack" data-focus="after" style="margin-top:20px;align-items:flex-start">${q.type === "mcq" ? `<p class="verdict ${res.got ? "ok" : "no"}">${res.got ? "Correct!" : `Not quite. The answer is ${String.fromCharCode(65 + q.answer)}.`}</p>${q.explanation ? `<p class="small muted">${txt(q.explanation)}</p>` : ""}` : `<p class="verdict">${res.got ? "Marked as got it." : "Marked as missed."}</p>`}${res.got < res.of && mk && misIdx.get(mk) ? mpanelHtml(misIdx.get(mk)) : ""}${logLine(q)}<button class="btn btn-primary" id="next">${nextLabel()}</button></div>` : "";
       const kind = q.type === "mcq" ? "Multiple choice" : q.type === "multi" ? `Multi-part · ${marksTxt(q.marks)}` : "Written · self-mark";
       host.innerHTML = `<div class="stack" style="gap:20px"><div class="dots" aria-hidden="true">${dots}</div>
         <div class="qcard"><div class="qmeta"><span>Question ${i + 1} of ${order.length}</span>${challenge.has(q.id) ? '<span class="chip chip-c">Challenge</span>' : ""}${q.higherOnly ? '<span class="chip chip-h">Higher</span>' : ""}<span class="chip">${kind}</span>${q.tech ? `<span class="chip">${esc(TECH[q.tech] || q.tech)}</span>` : ""}${diffChip(diffOf(q.id))}</div>
         <h2 class="qprompt" data-focus="prompt">${txt(q.type === "multi" ? q.title : q.prompt)}</h2>${q.type === "multi" ? "" : qinfoHtml(q)}${body}${after}</div></div>`;
-      host.querySelectorAll(".opt").forEach(b => b.onclick = () => { const k = +b.dataset.k, g = k === q.answer ? 1 : 0; picked = k; logResult(q, null, g, 1, { pick: k, draft: "" }); record(g); });
+      host.querySelectorAll(".opt").forEach(b => b.onclick = () => { const k = +b.dataset.k, g = k === q.answer ? 1 : 0; picked = k; logResult(q, null, g, 1, { pick: k, draft: "" }); record(g, { pick: k }); });
       const $ = id => host.querySelector("#" + id);
       if ($("reveal")) $("reveal").onclick = () => { sdraft = host.querySelector("textarea.ans").value.trim(); revealed = true; focusTo = "model"; render(); };
       if ($("got")) $("got").onclick = () => { logResult(q, null, 1, 1, { draft: sdraft }); record(1); };
-      if ($("miss")) $("miss").onclick = () => { logResult(q, null, 0, 1, { draft: sdraft }); record(0); };
+      if ($("miss")) $("miss").onclick = () => { logResult(q, null, 0, 1, { draft: sdraft }); record(0, { draft: sdraft }); };
       if ($("next")) $("next").onclick = next;
       if ($("addlog")) $("addlog").onclick = () => {
         logResult(q, null, res.got, 1, q.type === "mcq" ? { pick: picked, draft: "" } : { draft: sdraft }, true);
@@ -930,7 +1072,8 @@ const DATA = {"S":[["methods","Mathematical Methods","VCE · Units 3 & 4","VCE �
             nx.innerHTML = `<button class="btn btn-primary" id="next">${nextLabel()}</button>`;
             nx.firstChild.onclick = () => {
               q.parts.forEach(p => logResult(q, p, mst.parts[p.n].got, p.marks, { draft: mst.parts[p.n].draft.trim() }));
-              addMulti(sess, q, mst.parts.map(x => x.got), capSecs(qClock(), estSecs(q)));
+              const rows = addMulti(sess, q, mst.parts.map(x => x.got), capSecs(qClock(), estSecs(q)));
+              q.parts.forEach(p => { const s = mst.parts[p.n]; if (s.got < p.marks) addMistake(rows[p.n], q, p, { ...s.mis, draft: s.draft.trim() }); });
               commit({ got: tally(mst).got, of: q.marks }); next();
             };
           }
@@ -1006,7 +1149,9 @@ const DATA = {"S":[["methods","Mathematical Methods","VCE · Units 3 & 4","VCE �
       // Activity history: the page's time is shared between its questions by their estimated times.
       const est = qs.reduce((a, q) => a + estSecs(q), 0), secs = capSecs(ck.acc + (ck.run ? ck.run() : 0), est), sess = newSession(test ? "test" : "exam", test ? sj.id : q0.id);
       delete examClocks[key];
-      qs.forEach((q, j) => addMulti(sess, q, sts[j].parts.map(x => x.got), secs * estSecs(q) / est));
+      qs.forEach((q, j) => { const rows = addMulti(sess, q, sts[j].parts.map(x => x.got), secs * estSecs(q) / est);
+        q.parts.forEach(p => { const s = sts[j].parts[p.n]; if (s.got < p.marks) s.mis.k = addMistake(rows[p.n], q, p, { ...s.mis, draft: s.draft.trim(), src: "exam" }).k; }); });
+      app.querySelectorAll(".multi [data-mp] [data-mstatus]").forEach(x => { x.textContent = "Saved to your mistake analysis."; });
       endSession(sess, qs.length, got, total);
       if (test) qs.forEach((q, j) => saveScore("x:" + q.id, tally(sts[j]).got, q.marks));
       let logged = 0;
@@ -1031,16 +1176,14 @@ const DATA = {"S":[["methods","Mathematical Methods","VCE · Units 3 & 4","VCE �
   }
 
   // ---- error log page ----
-  const REASONS = [["", "Not sure yet"], ["concept", "Didn't understand the idea"], ["method", "Wrong method or formula"], ["calc", "Calculation or algebra slip"],
-    ["misread", "Misread the question"], ["working", "Not enough working or detail"], ["time", "Ran out of time or guessed"]];
-  const reasonName = r => (REASONS.find(x => x[0] === r) || REASONS[0])[1];
   let elFilter = { subject: "", show: "open" };
   let elRemoved = null; // the last removed entry, for Undo
   const elRows = () => Object.entries(elog.items).map(([k, e]) => {
     const q = qById[e.id], p = q && q.type === "multi" && e.part !== null ? q.parts[e.part] : null, sub = subBySlug[e.slug];
     return { k, e, q, p, sub, subject: sub ? sub.subject : q && q.subject };
   }).sort((a, b) => (b.e.last || "").localeCompare(a.e.last || "") || b.e.times - a.e.times);
-  function elItem({ k, e, q, p, sub }, n) {
+  function elItem({ k, e, q, p, sub }, n, lm) {
+    const mr = q && lm && lm.get(e.id + "#" + (Number.isInteger(e.part) ? e.part : -1));
     const where = sub ? `${esc(subjById[sub.subject].name)} · Topic ${sub.topic}: ${esc(sub.name)}` : "";
     if (!q) return `<li class="card pad elitem" data-k="${esc(k)}"><h2 class="h2s" id="eh-${n}" tabindex="-1">A question that is no longer on the site</h2><div class="row"><button class="btn btn-ghost" data-remove>Remove from log</button></div></li>`;
     const title = p ? `${q.title}, part ${p.label}` : q.prompt;
@@ -1057,8 +1200,8 @@ const DATA = {"S":[["methods","Mathematical Methods","VCE · Units 3 & 4","VCE �
       <p class="xs muted">Logged ${e.times} ${e.times === 1 ? "time" : "times"} · last on ${esc(e.last)} · scored ${e.got} of ${marksTxt(e.of)}${e.right && e.right >= e.last ? ` · <b>Right on ${esc(e.right)}</b>` : ""}${e.done ? " · <b>Resolved</b>" : ""}</p>
       ${yours}
       <details class="elmore"><summary>Show the ${q.type === "multi" ? "solution" : "answer"}</summary><div class="model">${sol}</div></details>
+      ${mr ? mpanelHtml(mr, { compare: false, status: false }) : ""}
       <div class="elfields">
-        <label>Why did you lose marks?<select class="subj-sel" data-reason>${REASONS.map(([v, t]) => `<option value="${v}" ${e.reason === v ? "selected" : ""}>${t}</option>`).join("")}</select></label>
         <label>Note to self<textarea class="ans" data-note placeholder="What will you do differently next time?">${esc(e.note || "")}</textarea></label>
       </div>
       <div class="row" style="gap:16px"><label class="row small" style="gap:8px;font-weight:600"><input type="checkbox" data-done ${e.done ? "checked" : ""}>Resolved: I can do this now</label><button class="link" data-remove>Remove from log</button></div>
@@ -1070,22 +1213,26 @@ const DATA = {"S":[["methods","Mathematical Methods","VCE · Units 3 & 4","VCE �
     const open = shown.filter(r => !r.e.done && r.q);
     const subjOpts = subjects.filter(sj => all.some(r => r.subject === sj.id));
     const count = (list, f) => list.reduce((m, r) => { const k = f(r); if (k) m[k] = (m[k] || 0) + 1; return m; }, {});
-    const reasons = Object.entries(count(open, r => reasonName(r.e.reason))).sort((a, b) => b[1] - a[1]);
+    // Why marks were lost, from the categories on each open entry's latest mistake (an entry can have several).
+    const lm = misLatest(), rc = {}; let unc = 0;
+    open.forEach(r => { const m = lm.get(r.e.id + "#" + (Number.isInteger(r.e.part) ? r.e.part : -1)), cs = m ? m.cats : [];
+      if (!cs.length) unc++; cs.forEach(c => { rc[c] = (rc[c] || 0) + 1; }); });
+    const reasons = [...Object.entries(rc).sort((a, b) => b[1] - a[1]).map(([c, n]) => [MCAT[c][1], n]), ...(unc ? [["Not classified yet", unc]] : [])];
     const hot = Object.entries(count(open, r => r.e.slug)).filter(([s]) => subBySlug[s]).sort((a, b) => b[1] - a[1]).slice(0, 3);
     const practise = [...new Map(open.map(r => [r.q.id, r.q])).values()];
     app.innerHTML = `<div class="wrap w3 view stack-lg" style="gap:24px">
-      <div class="stack" style="gap:12px"><h1 class="page-h1">Error log</h1>
-        <p class="muted">Questions and parts where you lost marks are saved here, on this device only. For each one, note why you lost marks and what you will do differently, then practise it again. Tick "Resolved" once you can do it.</p>
+      ${ltabs("errors")}<div class="stack" style="gap:12px"><h1 class="page-h1">Error log</h1>
+        <p class="muted">Questions and parts where you lost marks are saved here, on this device only. For each one, pick what went wrong (as many as fit, or none) and note what you will do differently, then practise it again. Tick "Resolved" once you can do it.</p>
         <label class="row small" style="gap:8px"><input type="checkbox" id="elauto" ${elog.auto ? "checked" : ""}>Add questions I lose marks on automatically</label></div>
       ${all.length ? `<div class="row elfilters">
           <label class="row small" style="gap:8px">Subject <select class="subj-sel" id="elsubj"><option value="">All subjects</option>${subjOpts.map(sj => `<option value="${esc(sj.id)}" ${elFilter.subject === sj.id ? "selected" : ""}>${esc(sj.name)} (${esc(sj.group.replace("VCE · ", ""))})</option>`).join("")}</select></label>
           <label class="row small" style="gap:8px">Show <select class="subj-sel" id="elshow">${[["open", "To review"], ["done", "Resolved"], ["all", "All"]].map(([v, t]) => `<option value="${v}" ${elFilter.show === v ? "selected" : ""}>${t}</option>`).join("")}</select></label></div>
         ${open.length ? `<div class="card pad stack" style="gap:12px">
           <div class="row" style="justify-content:space-between"><p><b>${open.length}</b> to review</p><button class="btn btn-primary" id="elpractise">Practise ${practise.length === 1 ? "this question" : `these ${practise.length} questions`}</button></div>
-          <div class="elsum"><div><p class="xs muted">Why you lost marks</p><ul>${reasons.map(([t, c]) => `<li>${esc(t)}: ${c}</li>`).join("")}</ul></div>
+          <div class="elsum"><div><p class="xs muted">Why you lost marks (<a class="link" href="#mistakes">full analysis</a>)</p><ul>${reasons.map(([t, c]) => `<li>${esc(t)}: ${c}</li>`).join("")}</ul></div>
             <div><p class="xs muted">Subtopics with the most entries</p><ul>${hot.map(([s, c]) => `<li><a class="link" href="#${esc(s)}">${esc(subBySlug[s].name)}</a>: ${c}</li>`).join("")}</ul></div></div></div>` : ""}
         <p class="small" id="elstatus" role="status"></p>
-        ${shown.length ? `<ul class="ellist">${shown.map(elItem).join("")}</ul>` : `<p class="muted">Nothing here with these filters.</p>`}`
+        ${shown.length ? `<ul class="ellist">${shown.map((r, n) => elItem(r, n, lm)).join("")}</ul>` : `<p class="muted">Nothing here with these filters.</p>`}`
       : `<p class="muted">Your error log is empty. When you lose marks on a question, it will appear here.</p><p class="small" id="elstatus" role="status"></p>`}
     </div>`;
     typeset(app);
@@ -1106,7 +1253,6 @@ const DATA = {"S":[["methods","Mathematical Methods","VCE · Units 3 & 4","VCE �
       const after = (li, msg) => { const n = [...list.children].indexOf(li); errorsView(); const items = app.querySelectorAll(".ellist > li"); const h = items[Math.min(n, items.length - 1)];
         (h ? h.querySelector("h2") : app.querySelector("h1")).focus(); app.querySelector("#elstatus").innerHTML = msg; wireUndo(); };
       list.onchange = ev => { const x = entry(ev.target); if (!x || !x.e) return;
-        if (ev.target.matches("[data-reason]")) { x.e.reason = ev.target.value; saveLog(); }
         if (ev.target.matches("[data-done]")) { x.e.done = ev.target.checked; saveLog();
           if (elFilter.show !== "all") after(x.li, x.e.done ? "Marked as resolved. It is now under Show: Resolved." : "Moved back to To review."); }
       };
@@ -1139,7 +1285,7 @@ const DATA = {"S":[["methods","Mathematical Methods","VCE · Units 3 & 4","VCE �
   const STATUS = { strong: ["Strong", "80% or more"], dev: ["Developing", "50 to 79%"], weak: ["Weak", "below 50%"], few: ["Not enough data yet", `under ${MIN_SUB_MARKS} marks or ${MIN_SUB_QS} questions`] };
   const qText = q => q.type === "multi" ? q.title : q.prompt;
   const qHref = id => examById[id] ? `#x-${id}` : slugOfQ[id] ? `#${slugOfQ[id]}` : "#dashboard";
-  const SESS = { sub: "Subtopic quiz", mix: "Built quiz", err: "Error log practice", due: "Due for revision", focus: "Focus quiz", exam: "Exam-style question", test: "Exam-style test" };
+  const SESS = { sub: "Subtopic quiz", mix: "Built quiz", err: "Error log practice", due: "Due for revision", focus: "Focus quiz", exam: "Exam-style question", test: "Exam-style test", mis: "Mistake practice" };
   const sessName = (kind, ref) => {
     const base = SESS[kind] || "Practice";
     if (kind === "sub" && subBySlug[ref]) return `${base}: ${subBySlug[ref].name}`;
@@ -1347,7 +1493,7 @@ const DATA = {"S":[["methods","Mathematical Methods","VCE · Units 3 & 4","VCE �
       return `<li><div class="stack" style="gap:2px;min-width:0"><span class="small dsname">${txt(sessName(kind, ref))}</span><span class="xs muted">${whenTxt(end)} · ${n} ${n === 1 ? "question" : "questions"} · ${fmtDur(secs).toLowerCase()}</span></div>${of ? scoreBadge(got, of) : ""}</li>`; };
     const s5 = dsec("d-recent", "Recent activity", "", `<div class="drecent">
       <div class="card pad"><h3 class="h2s">Recently attempted</h3>${d.recent.length ? `<ul class="dlist dql">${d.recent.map(qItem).join("")}</ul>` : `<p class="small muted">No questions answered yet.</p>`}</div>
-      <div class="card pad"><h3 class="h2s">Incorrect</h3>${d.wrong.length ? `<ul class="dlist dql">${d.wrong.map(qItem).join("")}</ul><a class="link" href="#errors">Open your error log →</a>` : `<p class="small muted">${d.recent.length ? "Nothing lost recently." : "Nothing yet."}</p>`}</div>
+      <div class="card pad"><h3 class="h2s">Incorrect</h3>${d.wrong.length ? `<ul class="dlist dql">${d.wrong.map(qItem).join("")}</ul><span class="row" style="gap:4px 16px;margin-top:8px"><a class="link" href="#errors">Error log →</a><a class="link" href="#mistakes">Mistake analysis →</a></span>` : `<p class="small muted">${d.recent.length ? "Nothing lost recently." : "Nothing yet."}</p>`}</div>
       <div class="card pad"><h3 class="h2s">Completed sessions</h3>${d.sessions.length ? `<ul class="dlist dql">${d.sessions.map(sItem).join("")}</ul>` : `<p class="small muted">A quiz counts once you reach its results.</p>`}</div></div>`);
 
     // 6. Recommended next steps
@@ -1405,6 +1551,249 @@ const DATA = {"S":[["methods","Mathematical Methods","VCE · Units 3 & 4","VCE �
     }, 0);
   }
 
+  // ---- mistake analysis (#mistakes) ----
+  // First run: bring in the mistakes already on this device. Incorrect answers from the activity history come first, with
+  // their exact times. Then error log entries (with their reason, chosen option and working) are added where the history
+  // does not already have that question's latest mistake. Nothing is classified for the student beyond the reason they
+  // already gave in the error log.
+  function importMistakes() {
+    if (mis.imported || misErr) return;
+    const recs = [], latest = new Map(), key = (id, part) => id + "#" + part;
+    for (const r of act.a) if (r[4] < r[5] && qById[r[1]]) {
+      const x = { k: "h" + r[0].toString(36) + "-" + recs.length.toString(36), t: r[0], id: r[1], part: r[2], slug: r[3], got: r[4], of: r[5],
+        pick: null, cats: [], note: "", why: "", stuck: "", src: "history", ed: r[0] };
+      recs.push(x); latest.set(key(x.id, x.part), x);
+    }
+    for (const e of Object.values(elog.items)) {
+      const q = qById[e.id]; if (!q || !e.last || !(e.got < e.of)) continue;
+      const part = Number.isInteger(e.part) ? e.part : -1, k = key(e.id, part);
+      let x = latest.get(k);
+      if (!x || dayStart(x.t) < dateNum(e.last)) { // the history does not have it: date it at midday on the day it was last logged
+        x = { k: "l" + recs.length.toString(36) + "-" + nowS().toString(36), t: dateNum(e.last) + 12 * 3600, id: e.id, part, slug: e.slug || "",
+          got: e.got, of: e.of, pick: null, cats: [], note: "", why: "", stuck: "", src: "log", ed: nowS() };
+        recs.push(x); latest.set(k, x);
+      }
+      if (OLD_REASON[e.reason] && !x.cats.length) x.cats = [OLD_REASON[e.reason]];
+      if (Number.isInteger(e.pick) && x.pick === null) x.pick = e.pick;
+      if (e.draft && !x.draft) x.draft = clip(e.draft, DRAFT_MAX);
+    }
+    recs.sort((a, b) => a.t - b.t);
+    setMis({ imported: true, m: recs });
+    recs.forEach(r => misDirty.add(r.k)); misDirty.add(""); // "" makes sure the imported flag is written even with nothing to import
+    flushMis();
+  }
+
+  // The answer points of a written question's model answer: its sentences, split where one ends and the next begins.
+  const answerPoints = s => String(s || "").replace(/([.;!?])\s+(?=[A-Z0-9(\\])/g, "$1\u0001").split("\u0001").map(x => x.trim()).filter(Boolean).slice(0, 10);
+  const misSub = r => subBySlug[r.slug] || (slugOfQ[r.id] && subBySlug[slugOfQ[r.id]]) || null;
+  const misSubj = r => { const s = misSub(r); return s ? s.subject : (qById[r.id] && qById[r.id].subject) || ""; };
+  const L = n => String.fromCharCode(65 + n);
+  const catChips = (sid, cats) => `<div class="mchips">${MCATS.filter(c => !(c[0] === "calc" && NO_CALC.has(sid))).map(([v, t, d]) =>
+    `<label class="mchip" title="${esc(d)}"><input type="checkbox" data-mc="${v}" ${cats.includes(v) ? "checked" : ""}><span>${esc(t)}</span></label>`).join("")}</div>`;
+  const stuckHtml = (name, steps, cur, label) => {
+    const opt = (v, html) => `<label><input type="radio" name="${esc(name)}" value="${v}" data-mf="stuck" ${cur === v ? "checked" : ""}><span>${html}</span></label>`;
+    return `<fieldset class="mfs"><legend>Where did you get stuck? <span class="muted">(optional)</span></legend><div class="mstuck">
+      ${opt("", "Not saying")}${opt("start", "I could not get started")}${steps.map((s, i) => opt(String(i), `<b>${label} ${i + 1}:</b> ${txt(s)}`)).join("")}${opt("none", "I did not get stuck: it was a slip, or I left something out")}</div></fieldset>`;
+  };
+  const compareHtml = (q, r) => { const pts = answerPoints(q.answer), mk = QT[q.id] && QT[q.id][1];
+    return `<details class="mcmp"><summary>Compare your answer with the model answer</summary><div class="mcmpg">
+      <div><b class="small">Your answer</b>${r.draft ? `<p class="small eldraft">${txt(r.draft)}</p>` : `<p class="small muted">You did not write an answer.</p>`}</div>
+      <div><b class="small">Points a full answer makes</b><ol class="small">${pts.map(x => `<li>${txt(x)}</li>`).join("")}</ol>
+        <p class="xs muted">${mk ? `Worth about ${marksTxt(mk)} in an exam. ` : ""}These points come from the model answer. They are a guide, not an official marking scheme.</p></div></div></details>`; };
+  // The panel for one mistake: categories (any number, or none), then optional detail. With opts.part the panel belongs
+  // to a part of a multi-part question that is not saved yet (it is saved when the student moves on).
+  function mpanelHtml(r, opts) {
+    const o = opts || {}, q = qById[r.id], p = q.type === "multi" && r.part >= 0 ? q.parts[r.part] : null;
+    const steps = p ? p.steps.map(x => x.working) : q.type === "short" ? answerPoints(q.answer) : [];
+    const lead = p ? `What went wrong in part ${esc(p.label)}?` : "What went wrong?";
+    const has = r.note || r.why || r.stuck;
+    return `<div class="mpanel" ${o.part ? `data-mp="${r.part}"` : `data-mk="${esc(r.k)}"`}>
+      <fieldset class="mfs"><legend>${lead} <span class="muted">Pick any that apply, or skip this.</span></legend>${catChips(misSubj(r), r.cats)}</fieldset>
+      <details class="mmore"${o.open ? " open" : ""}><summary>${has ? "More detail" : "Add more detail"}</summary><div class="stack" style="gap:14px">
+        ${q.type === "mcq" && Number.isInteger(r.pick) ? `<label class="mfield"><span>Why did you choose ${L(r.pick)}? <span class="muted">(optional)</span></span><textarea class="ans" data-mf="why" maxlength="${TXT_MAX}">${esc(r.why || "")}</textarea></label>` : ""}
+        ${steps.length ? stuckHtml(`ms-${r.id}-${r.part}-${r.k}`, steps, r.stuck || "", p ? (p.sample ? "Marking point" : "Step") : "Point") : ""}
+        ${q.type === "short" && o.compare !== false ? compareHtml(q, r) : ""}
+        <label class="mfield"><span>What confused you? <span class="muted">(optional)</span></span><textarea class="ans" data-mf="note" maxlength="${TXT_MAX}">${esc(r.note || "")}</textarea></label>
+      </div></details>
+      ${o.status === false ? "" : `<p class="xs muted" data-mstatus role="status">${o.status || `Saved to your <a class="link" href="#mistakes">mistake analysis</a>.`}</p>`}</div>`;
+  }
+  // A multi-part question's part, before it is saved: the panel edits the part's state, and the record once it exists.
+  const mpartHtml = (q, p, s) => mpanelHtml({ k: s.mis.k, id: q.id, part: p.n, slug: p.topic, cats: s.mis.cats, note: s.mis.note, why: "", stuck: s.mis.stuck },
+    { part: true, status: s.mis.k ? "" : "Saved to your mistake analysis when you continue." });
+  // Saved mistake panels anywhere on the page save as they change.
+  function onPanel(e) {
+    const t = e.target, pnl = t.closest && t.closest("[data-mk]"); if (!pnl || !pnl.dataset.mk) return;
+    if (t.matches("[data-mc]")) editMistake(pnl.dataset.mk, { cats: [...pnl.querySelectorAll("[data-mc]:checked")].map(x => x.dataset.mc) });
+    else if (t.matches("[data-mf]")) editMistake(pnl.dataset.mk, { [t.dataset.mf]: t.dataset.mf === "stuck" ? t.value : clip(t.value) });
+    else return;
+    const st = pnl.querySelector("[data-mstatus]"); if (st && e.type === "change") st.textContent = "Saved.";
+  }
+  app.addEventListener("change", onPanel);
+  app.addEventListener("input", e => { if (e.target.matches && e.target.matches("textarea[data-mf]")) onPanel(e); });
+
+  // The page. Filters apply to every section.
+  let mfil = { range: "all", from: "", to: "", subject: "", topic: "", only: false, limit: 20 };
+  const ltabs = cur => `<nav class="ltabs" aria-label="Mistakes"><a href="#errors"${cur === "errors" ? ' aria-current="page"' : ""}>Error log</a><a href="#mistakes"${cur === "mistakes" ? ' aria-current="page"' : ""}>Mistake analysis</a></nav>`;
+  const qLabel = (q, part) => q.type === "multi" ? (part >= 0 && q.parts[part] ? `${q.title}, part ${q.parts[part].label}` : q.title) : q.prompt;
+  const RANGES = [["all", "All time"], ["7", "Last 7 days"], ["30", "Last 30 days"], ["90", "Last 90 days"], ["custom", "Choose dates"]];
+  function misFiltered() {
+    const f = mfil; let lo = -Infinity, hi = Infinity;
+    if (f.range === "custom") { if (f.from) lo = dateNum(f.from); if (f.to) hi = dateNum(f.to) + DAY - 1; }
+    else if (f.range !== "all") lo = dayStart(nowS()) - (+f.range - 1) * DAY;
+    return mis.m.filter(r => qById[r.id] && r.t >= lo && r.t <= hi && (!f.subject || misSubj(r) === f.subject)
+      && (!f.topic || (misSub(r) && misSub(r).subject === f.subject && String(misSub(r).topic) === f.topic)));
+  }
+  // When each question or part was next answered with full marks: from the activity history, or the error log's "right" date.
+  function fixedAfter() {
+    const full = new Map();
+    for (const r of act.a) if (r[4] >= r[5]) { const k = r[1] + "#" + r[2]; if (!full.has(k)) full.set(k, []); full.get(k).push(r[0]); }
+    return (id, part, after) => {
+      for (const t of full.get(id + "#" + part) || []) if (t > after) return t;
+      const q = qById[id], e = q && elog.items[ekey(q, q.type === "multi" && part >= 0 ? q.parts[part] : null)];
+      if (e && e.right) { const t = dateNum(e.right) + 13 * 3600; if (t > after) return t; }
+      return 0;
+    };
+  }
+  function misPageHtml() {
+    const notes = [];
+    if (misErr === "blocked") notes.push("Your browser is not letting this site save anything (for example, in a private window), so mistakes are only kept until you close the tab.");
+    if (misErr === "corrupt") notes.push(`Your saved mistake history could not be read, so it is not shown, and new mistakes are only kept until you close the tab. <button class="link" data-ma="reset">Start a new mistake history</button>`);
+    if (misWarn === "full") notes.push("This browser's storage for the site is full, so your newest mistakes may not be saved.");
+    const notesHtml = notes.length ? `<div class="card pad dnote stack" style="gap:8px" role="note">${notes.map(n => `<p class="small">${n}</p>`).join("")}</div>` : "";
+    const all = mis.m.filter(r => qById[r.id]);
+    if (!all.length) return notesHtml + `<div class="card pad stack" style="gap:12px;align-items:flex-start"><h2 class="h2s">No mistakes recorded yet</h2>
+      <p class="muted">When you lose marks on a question, it is recorded here automatically, with its subject and topic. You can then say what went wrong, in as many categories as fit, or skip it.</p>
+      <a class="btn btn-primary" href="#topics">Choose a subject</a></div>`;
+
+    // Filters
+    const sids = [...new Set(all.map(misSubj))].filter(s => subjById[s]).sort((a, b) => subjects.indexOf(subjById[a]) - subjects.indexOf(subjById[b]));
+    if (mfil.subject && !sids.includes(mfil.subject)) mfil.subject = "";
+    const sj = subjById[mfil.subject];
+    const filters = `<div class="card pad mfilters" role="group" aria-label="Filters">
+      <label>Dates<select class="subj-sel" id="mrange">${RANGES.map(([v, t]) => `<option value="${v}" ${mfil.range === v ? "selected" : ""}>${t}</option>`).join("")}</select></label>
+      ${mfil.range === "custom" ? `<label>From<input type="date" class="subj-sel" id="mfrom" value="${esc(mfil.from)}"></label><label>To<input type="date" class="subj-sel" id="mto" value="${esc(mfil.to)}"></label>` : ""}
+      <label>Subject<select class="subj-sel" id="msubj"><option value="">All subjects</option>${sids.map(s => `<option value="${esc(s)}" ${mfil.subject === s ? "selected" : ""}>${esc(subjShort(s))}</option>`).join("")}</select></label>
+      <label>Topic<select class="subj-sel" id="mtopic" ${sj ? "" : "disabled"}><option value="">${sj ? "All topics" : "Choose a subject first"}</option>${sj ? sj.topics.map(t => `<option value="${t.number}" ${mfil.topic === String(t.number) ? "selected" : ""}>${t.number}. ${esc(t.name)}</option>`).join("") : ""}</select></label>
+      ${mfil.range !== "all" || mfil.subject ? `<button class="link" data-ma="clear">Clear filters</button>` : ""}</div>`;
+    const R = misFiltered();
+    if (!R.length) return notesHtml + filters + `<p class="small muted dempty">No mistakes match these filters.</p>`;
+
+    // Summary
+    const classified = R.filter(r => r.cats.length), fixedAt = fixedAfter();
+    const byKey = new Map(); R.forEach(r => { const k = r.id + "#" + r.part; if (!byKey.has(k)) byKey.set(k, []); byKey.get(k).push(r); });
+    const lastWrong = new Map(); mis.m.forEach(r => lastWrong.set(r.id + "#" + r.part, r.t)); // across all dates, so "corrected" is current
+    const status = [...byKey].map(([k, l]) => { const r0 = l[l.length - 1]; const fixed = fixedAt(r0.id, r0.part, lastWrong.get(k)); return { k, l, r: r0, fixed }; });
+    const nFixed = status.filter(s => s.fixed).length;
+    const tile = (label, value, sub) => `<div class="card pad dtile"><p class="dt-l">${label}</p><p class="dt-v">${value}</p><p class="xs muted">${sub}</p></div>`;
+    const s0 = `<div class="dtiles">${tile("Mistakes", R.length, `On ${byKey.size} ${byKey.size === 1 ? "question or part" : "questions and parts"}`)}
+      ${tile("Classified", `${Math.round(classified.length / R.length * 100)}%`, `${classified.length} of ${R.length} have a category`)}
+      ${tile("Corrected since", nFixed, `${byKey.size - nFixed} still to get right`)}</div>`;
+
+    // Most frequent categories. A mistake can have several, so the counts can add up to more than the number of mistakes.
+    const cc = {}; classified.forEach(r => r.cats.forEach(c => { cc[c] = (cc[c] || 0) + 1; }));
+    const cats = Object.entries(cc).sort((a, b) => b[1] - a[1]);
+    const maxC = Math.max(1, ...cats.map(c => c[1]));
+    const bars = (rows, max) => `<ul class="mbars">${rows.map(([label, n, sub]) => `<li><span class="mb-l">${label}${sub ? `<span class="xs muted">${sub}</span>` : ""}</span><span class="mb-t" aria-hidden="true"><span style="width:${Math.max(3, n / max * 100)}%"></span></span><span class="mb-n">${n}</span></li>`).join("")}</ul>`;
+    const nUn = R.length - classified.length;
+    const s1 = dsec("m-cats", "Most frequent mistake types", classified.length ? `Of the ${classified.length} classified ${classified.length === 1 ? "mistake" : "mistakes"}. A mistake can have more than one cause, so these can add up to more.` : "",
+      `<div class="card pad stack" style="gap:12px">${cats.length ? bars(cats.map(([c, n]) => [esc(MCAT[c][1]), n, `${Math.round(n / classified.length * 100)}% of classified`]), maxC) : `<p class="small muted">None of these mistakes has a category yet.</p>`}
+        ${nUn ? `<p class="small">${nUn} ${nUn === 1 ? "mistake is" : "mistakes are"} not classified. <button class="link" data-ma="unclass">Classify them</button></p>` : ""}</div>`);
+
+    // By subject and by topic
+    const cnt = (list, f) => { const m = new Map(); list.forEach(r => { const k = f(r); if (k) { const o = m.get(k) || { n: 0, cats: {} }; o.n++; r.cats.forEach(c => { o.cats[c] = (o.cats[c] || 0) + 1; }); m.set(k, o); } }); return [...m].sort((a, b) => b[1].n - a[1].n); };
+    const topCats = o => { const t = Object.entries(o.cats).sort((a, b) => b[1] - a[1]).slice(0, 2).map(([c]) => MCAT[c][1]); return t.length ? `Mostly ${t.join(", ").toLowerCase()}` : "Not classified"; };
+    const bySubj = cnt(R, misSubj), byTopic = cnt(R, r => { const s = misSub(r); return s ? `${s.subject}|${s.topic}` : ""; });
+    const topicName = k => { const [sid, n] = k.split("|"), t = subjById[sid] && subjById[sid].topics.find(x => String(x.number) === n); return `${esc(subjShort(sid))} · ${t ? `${t.number}. ${esc(t.name)}` : "Other"}`; };
+    const s2 = `<div class="dnext">
+      ${dsec("m-subj", "Mistakes by subject", "", `<div class="card pad">${bars(bySubj.map(([s, o]) => [esc(subjShort(s)), o.n, esc(topCats(o))]), bySubj[0][1].n)}</div>`)}
+      ${dsec("m-topic", "Mistakes by topic", byTopic.length > 10 ? "The ten topics with the most mistakes." : "", `<div class="card pad">${bars(byTopic.slice(0, 10).map(([k, o]) => [topicName(k), o.n, esc(topCats(o))]), byTopic[0][1].n)}</div>`)}</div>`;
+
+    // Recurring: the same question or part wrong more than once, and the same type of mistake in the same subtopic.
+    const again = status.filter(s => s.l.length >= 2).sort((a, b) => b.l.length - a.l.length).slice(0, 8);
+    const pairs = {}; R.forEach(r => { const s = misSub(r); if (s) r.cats.forEach(c => { const k = c + "|" + s.slug; pairs[k] = (pairs[k] || 0) + 1; }); });
+    const pairList = Object.entries(pairs).filter(([, n]) => n >= 2).sort((a, b) => b[1] - a[1]).slice(0, 8);
+    const qLink = (r, text) => `<a class="dq" href="${qHref(r.id)}">${txt(text)}</a>`;
+    const s3 = dsec("m-recur", "Recurring mistakes", "", `<div class="dnext">
+      <div class="card pad"><h3 class="h2s">Wrong more than once</h3>${again.length ? `<ul class="dlist dql">${again.map(s => `<li><div class="stack" style="gap:2px;min-width:0">${qLink(s.r, qLabel(qById[s.r.id], s.r.part))}<span class="xs muted">${s.l.length} times · last ${whenTxt(s.l[s.l.length - 1].t).toLowerCase()}${s.fixed ? " · since corrected" : ""}</span></div></li>`).join("")}</ul>` : `<p class="small muted">No question has been wrong more than once.</p>`}</div>
+      <div class="card pad"><h3 class="h2s">The same mistake in the same subtopic</h3>${pairList.length ? `<ul class="dlist">${pairList.map(([k, n]) => { const [c, sl] = k.split("|"), s = subBySlug[sl]; return `<li><span class="small"><b>${esc(MCAT[c][1])}</b> in <a class="link" href="#${esc(sl)}">${esc(s.name)}</a></span><span class="xs muted">${esc(subjShort(s.subject))} · ${n} times</span></li>`; }).join("")}</ul>` : `<p class="small muted">No mistake type has come up twice in the same subtopic${classified.length ? "" : " (classify some mistakes to see this)"}.</p>`}</div></div>`);
+
+    // Previously incorrect, and corrected on a later attempt
+    const open = status.filter(s => !s.fixed).sort((a, b) => b.r.t - a.r.t), fixed = status.filter(s => s.fixed).sort((a, b) => b.fixed - a.fixed);
+    const practise = [...new Map(open.map(s => [s.r.id, qById[s.r.id]])).values()];
+    const s4 = dsec("m-fix", "Previously incorrect and corrected", "A question or part counts as corrected once you get full marks on it after your last mistake.", `<div class="dnext">
+      <div class="card pad stack" style="gap:10px;align-items:flex-start"><h3 class="h2s">Still to get right <span class="dcount">${open.length}</span></h3>${open.length ? `<ul class="dlist dql" style="align-self:stretch">${open.slice(0, 8).map(s => `<li><div class="stack" style="gap:2px;min-width:0">${qLink(s.r, qLabel(qById[s.r.id], s.r.part))}<span class="xs muted">${esc(subjShort(misSubj(s.r)))} · wrong ${s.l.length === 1 ? "once" : `${s.l.length} times`} · last ${whenTxt(s.r.t).toLowerCase()}</span></div></li>`).join("")}</ul>
+        ${open.length > 8 ? `<p class="xs muted">And ${open.length - 8} more.</p>` : ""}<button class="btn btn-primary btn-sm" data-ma="practise">Practise ${practise.length > 20 ? "20 of them" : practise.length === 1 ? "it" : `these ${practise.length} questions`}</button>` : `<p class="small muted">Everything here has been corrected.</p>`}</div>
+      <div class="card pad"><h3 class="h2s">Corrected on a later attempt <span class="dcount dc-ok">${fixed.length}</span></h3>${fixed.length ? `<ul class="dlist dql">${fixed.slice(0, 8).map(s => `<li><div class="stack" style="gap:2px;min-width:0">${qLink(s.r, qLabel(qById[s.r.id], s.r.part))}<span class="xs muted">Wrong ${s.l.length === 1 ? "once" : `${s.l.length} times`} · right ${whenTxt(s.fixed).toLowerCase()}</span></div></li>`).join("")}</ul>${fixed.length > 8 ? `<p class="xs muted">And ${fixed.length - 8} more.</p>` : ""}` : `<p class="small muted">None yet. Practise the ones still to get right.</p>`}</div></div>`);
+
+    // Distractors: the wrong options chosen in multiple-choice questions.
+    const dq = new Map();
+    R.forEach(r => { const q = qById[r.id]; if (q.type !== "mcq" || !Number.isInteger(r.pick) || !q.options[r.pick]) return;
+      const o = dq.get(r.id) || { r, q, picks: {}, n: 0, last: 0, why: [] }; o.picks[r.pick] = (o.picks[r.pick] || 0) + 1; o.n++; if (r.t >= o.last) { o.last = r.t; o.r = r; } if (r.why) o.why.push(r.why); dq.set(r.id, o); });
+    const dl = [...dq.values()].sort((a, b) => b.n - a.n || b.last - a.last);
+    const repeat = dl.filter(o => Object.values(o.picks).some(n => n >= 2)).length;
+    const s5 = dsec("m-dist", "Wrong options you chose", dl.length ? `Multiple-choice questions where you picked a wrong option${repeat ? `. ${repeat} ${repeat === 1 ? "time" : "times"} you chose the same wrong option more than once` : ""}.` : "",
+      dl.length ? `<div class="card pad"><ul class="dlist">${dl.slice(0, 8).map(o => `<li><div class="stack" style="gap:4px;min-width:0">${qLink(o.r, o.q.prompt)}
+        ${Object.entries(o.picks).sort((a, b) => b[1] - a[1]).map(([k, n]) => `<span class="small">You chose <b>${L(+k)}</b>: ${txt(o.q.options[+k])}${n > 1 ? ` <span class="mrep">${n} times</span>` : ""}</span>`).join("")}
+        <span class="xs muted">Correct: ${L(o.q.answer)}. ${txt(o.q.options[o.q.answer])}</span>${o.why.length ? `<span class="xs">Your reason: “${txt(o.why[o.why.length - 1])}”</span>` : ""}</div></li>`).join("")}</ul>${dl.length > 8 ? `<p class="xs muted">And ${dl.length - 8} more.</p>` : ""}</div>`
+      : `<p class="small muted dempty">No multiple-choice mistakes with these filters.</p>`);
+
+    // History: every mistake, newest first, each editable.
+    const hist = R.slice().reverse().filter(r => !mfil.only || !r.cats.length), shown = hist.slice(0, mfil.limit);
+    const hItem = r => { const q = qById[r.id], s = misSub(r);
+      return `<li class="card pad mh"><div class="stack" style="gap:2px;min-width:0">${qLink(r, qLabel(q, r.part))}
+        <span class="xs muted">${esc(subjShort(misSubj(r)))}${s ? ` · Topic ${s.topic} · ${esc(s.name)}` : ""} · ${whenTxt(r.t)} · ${r.got}/${r.of}${r.src === "log" || r.src === "history" ? " · recorded before mistake analysis" : ""}</span>
+        ${q.type === "mcq" && Number.isInteger(r.pick) ? `<span class="small">You chose ${L(r.pick)}: ${txt(q.options[r.pick] || "")}</span>` : ""}</div>${mpanelHtml(r, { status: false })}</li>`; };
+    const s6 = dsec("m-hist", "Mistake history", "Every mistake is kept. Add or change categories and notes at any time.", `
+      <label class="row small" style="gap:8px"><input type="checkbox" id="monly" ${mfil.only ? "checked" : ""}>Only show mistakes without a category</label>
+      ${shown.length ? `<ul class="mhist">${shown.map(hItem).join("")}</ul>` : `<p class="small muted dempty">Every mistake here has a category.</p>`}
+      ${hist.length > shown.length ? `<button class="btn btn-ghost btn-sm" data-ma="more">Show ${Math.min(20, hist.length - shown.length)} more of ${hist.length - shown.length}</button>` : ""}`);
+    misPractise = practise.slice(0, 20);
+    return notesHtml + filters + s0 + s1 + s2 + s3 + s4 + s5 + s6;
+  }
+  let misPractise = [];
+  function mistakesView(focusSel) {
+    let body;
+    try { body = misPageHtml(); }
+    catch (err) {
+      console.error(err);
+      body = `<div class="card pad stack" role="alert" style="gap:12px;align-items:flex-start"><h2 class="h2s">The mistake analysis could not be worked out</h2>
+        <p class="muted">Something in your saved mistakes did not make sense to this page. Nothing has been deleted. Try again, and if it keeps happening, please report it.</p>
+        <div class="row"><button class="btn btn-primary" data-ma="retry">Try again</button><a class="link" href="${REPO}/issues/new">Report a problem</a></div></div>`;
+    }
+    app.innerHTML = `<div class="wrap w5 view stack-lg mis">${ltabs("mistakes")}<div class="stack" style="gap:12px"><h1 class="page-h1">Mistake analysis</h1>
+      <p class="muted" style="max-width:44rem">Why you lose marks, not just which answers were wrong. Every mistake is recorded automatically with its subject and topic. Say what went wrong in as many categories as fit, or none.</p></div>
+      <div id="mbody" class="stack-lg">${body}</div><p class="small muted">Your mistakes and notes are saved only in this browser. See <a class="link" href="#privacy">Privacy</a>.</p></div>`;
+    typeset(app);
+    const $ = s => app.querySelector(s), redo = sel => mistakesView(sel);
+    const on = (sel, f) => { const el = $(sel); if (el) el.onchange = f; };
+    on("#mrange", e => { mfil.range = e.target.value; mfil.limit = 20; redo("#mrange"); });
+    on("#mfrom", e => { mfil.from = e.target.value; redo("#mfrom"); });
+    on("#mto", e => { mfil.to = e.target.value; redo("#mto"); });
+    on("#msubj", e => { mfil.subject = e.target.value; mfil.topic = ""; mfil.limit = 20; redo("#msubj"); });
+    on("#mtopic", e => { mfil.topic = e.target.value; mfil.limit = 20; redo("#mtopic"); });
+    on("#monly", e => { mfil.only = e.target.checked; mfil.limit = 20; redo("#monly"); });
+    $("#mbody").onclick = e => {
+      const b = e.target.closest("[data-ma]"); if (!b) return;
+      const a = b.dataset.ma;
+      if (a === "clear") { mfil = { ...mfil, range: "all", from: "", to: "", subject: "", topic: "", limit: 20 }; redo("#mrange"); }
+      else if (a === "unclass") { mfil.only = true; mfil.limit = 20; redo("#monly"); const h = $("#m-hist"); if (h) h.scrollIntoView({ block: "start" }); }
+      else if (a === "more") { const n = app.querySelectorAll(".mhist > li").length; mfil.limit += 20; redo(); const li = app.querySelectorAll(".mhist > li")[n]; if (li) { const l = li.querySelector("a"); if (l) l.focus(); } }
+      else if (a === "retry") redo("h1");
+      else if (a === "reset") { // replace the unreadable copy: import what is on the device, keeping this visit's mistakes
+        const live = mis.m; misErr = ""; mis = { imported: false, m: [] }; importMistakes();
+        live.forEach(r => { if (!misIdx.has(r.k)) { mis.m.push(r); misIdx.set(r.k, r); } misDirty.add(r.k); });
+        mis.m.sort((x, y) => x.t - y.t); misDirty.add(""); flushMis(); redo("h1"); }
+      else if (a === "practise" && misPractise.length) {
+        app.innerHTML = `<div class="wrap w2 view stack-lg" style="gap:24px"><div class="stack" style="gap:4px"><button class="link" id="mback" style="align-self:flex-start">← Back to mistake analysis</button><h1 class="page-h1">Practise previous mistakes</h1></div><div id="quiz"></div></div>`;
+        const back = () => { mistakesView("h1"); window.scrollTo(0, 0); };
+        app.querySelector("#mback").onclick = back;
+        runQuiz(app.querySelector("#quiz"), misPractise, { onBack: back, backLabel: "Back to mistake analysis", kind: "mis" });
+        window.scrollTo(0, 0); const h = app.querySelector(".qprompt"); if (h) { h.tabIndex = -1; h.focus(); }
+      }
+    };
+    if (focusSel) { const f = app.querySelector(focusSel); if (f) { if (f.matches("h1")) f.tabIndex = -1; f.focus(); } }
+  }
+
   function quizView(slug) {
     const s = subBySlug[slug], sj = subjById[s.subject], back = `#s-${sj.id}`;
     app.innerHTML = `<div class="wrap w2 view stack-lg" style="gap:24px"><div class="stack" style="gap:4px"><a class="link" href="${back}">← ${esc(sj.name)}: ${esc(s.topicName)}</a><span class="call" style="margin-top:8px">${esc(sj.name)} · Topic ${s.topic}</span><h1 class="page-h1">${esc(s.name)}</h1></div><div id="quiz"></div></div>`;
@@ -1459,7 +1848,7 @@ const DATA = {"S":[["methods","Mathematical Methods","VCE · Units 3 & 4","VCE �
           <li><b>Mix topics</b> with <a href="#custom">Build a quiz</a> when you want short questions from several subtopics in one quiz.</li>
           <li><b>Try long questions.</b> Some subtopic quizzes include multi-part questions, and the bottom of each subject page lists its exam-style questions, where one context runs through several topics, plus a full test. Each part has a worked solution showing the marks each step earns, and you give yourself the marks you earned.</li>
           <li><b>See how you are going.</b> Your <a href="#dashboard">Dashboard</a> shows your accuracy, study time and weekly trend, which subtopics are strong, developing or weak, questions due for revision, and what to practise next. It only shows a figure once there are enough answers for it to mean something.</li>
-          <li><b>Learn from mistakes.</b> Questions you lose marks on go into your <a href="#errors">Error log</a>. Note why you lost marks, practise them again, and tick them off when you can do them.</li></ol></section>
+          <li><b>Learn from mistakes.</b> Every question you lose marks on is recorded. Say what went wrong (as many reasons as fit, or skip it), what confused you, and for written questions where you got stuck, then compare your answer with the solution. <a href="#mistakes">Mistake analysis</a> shows your most common mistake types, by subject and topic, mistakes that recur, and which ones you have since corrected. Your <a href="#errors">Error log</a> keeps the ones to practise until you tick them off.</li></ol></section>
       <section class="stack" aria-labelledby="a-start"><h2 id="a-start">Getting started</h2>
         <p>There is nothing to install and no account to create. Open the site in any modern browser on a phone, tablet or computer and choose a subject. Your scores are saved in your browser on that device only, so they will not follow you to another device, and clearing your browser data resets them. See <a href="#privacy">Privacy</a>.</p></section>
       <section class="stack" aria-labelledby="a-subj"><h2 id="a-subj">What's covered</h2>
@@ -1475,7 +1864,7 @@ const DATA = {"S":[["methods","Mathematical Methods","VCE · Units 3 & 4","VCE �
     </div>`;
   }
   function privacyView() {
-    app.innerHTML = `<div class="wrap w2 view stack"><h1 class="page-h1">Privacy</h1><p class="muted">Helix Revise has no accounts and sets no tracking cookies. Your quiz scores, your error log (including any notes you write in it) and your activity history for the dashboard (which questions you answered, your marks, and how long each took) are saved in your browser's local storage and never leave your device. You can delete the activity history from the bottom of the dashboard. Clearing your browser's site data deletes them.</p><p class="muted">The page loads its fonts from Google Fonts and its maths typesetting (KaTeX) from the jsDelivr content network. As with any web request, those services receive your IP address.</p></div>`;
+    app.innerHTML = `<div class="wrap w2 view stack"><h1 class="page-h1">Privacy</h1><p class="muted">Helix Revise has no accounts and sets no tracking cookies. Your quiz scores, your error log and mistake analysis (including any notes you write in them) and your activity history for the dashboard (which questions you answered, your marks, and how long each took) are saved in your browser's local storage and never leave your device. You can delete the activity history from the bottom of the dashboard. Clearing your browser's site data deletes them.</p><p class="muted">The page loads its fonts from Google Fonts and its maths typesetting (KaTeX) from the jsDelivr content network. As with any web request, those services receive your IP address.</p></div>`;
   }
   function notFound() {
     app.innerHTML = `<div class="wrap w2 view stack" style="text-align:center;align-items:center;padding-block:4rem"><h1 class="page-h1">Page not found</h1><a class="link" href="#topics">Back to all subjects</a></div>`;
@@ -1493,6 +1882,7 @@ const DATA = {"S":[["methods","Mathematical Methods","VCE · Units 3 & 4","VCE �
     else if (h.startsWith("test-") && (exams[h.slice(5)] || []).length) examPage("t:" + h.slice(5), exams[h.slice(5)], `${subjById[h.slice(5)].name}: exam-style test`);
     else if (h === "errors") errorsView();
     else if (h === "dashboard") dashboardView();
+    else if (h === "mistakes") mistakesView();
     else if (h === "privacy") privacyView();
     else if (h === "about") aboutView();
     else if (bank[h] && subBySlug[h]) quizView(h);
@@ -1506,6 +1896,7 @@ const DATA = {"S":[["methods","Mathematical Methods","VCE · Units 3 & 4","VCE �
   // Hash routing would treat "#app" as a page, so the skip link focuses <main> directly.
   document.querySelector(".skip").onclick = e => { e.preventDefault(); app.focus(); };
   window.addEventListener("hashchange", () => route(true));
+  importMistakes();
   route(false);
 })();
 </script>
