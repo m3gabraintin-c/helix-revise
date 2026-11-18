@@ -742,7 +742,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 4
 - D. 2
 
-**Q89.** A sequence has a₁ = 2 and a_(n+1) = 2aₙ − 1, and a_n = 2^(n−1) + 1 can be proved by induction. What is a₅?
+**Q89.** A sequence has a₁ = 2 and a_{n+1} = 2aₙ − 1, and a_{n} = 2^(n−1) + 1 can be proved by induction. What is a₅?
 <!-- id: specialist-1-4-11 -->
 *Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
@@ -850,7 +850,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. x is an integer
 - D. k is even
 
-**Q102.** A sequence has a₁ = 1 and a_(n+1) = 3aₙ + 2. Prove by induction that aₙ = 2·3^(n−1) − 1.
+**Q102.** A sequence has a₁ = 1 and a_{n+1} = 3aₙ + 2. Prove by induction that aₙ = 2·3^(n−1) − 1.
 <!-- id: specialist-1-4-24 -->
 *Info: Proof · about 3 marks · about 4.5 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
@@ -2651,10 +2651,10 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 <!-- id: specialist-4-1-5 -->
 *Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
-- A. log_e|cos(x)| + c
+- A. log_{e}|cos(x)| + c
 - B. sec²(x) + c
-- C. −log_e|sin(x)| + c
-- D. −log_e|cos(x)| + c
+- C. −log_{e}|sin(x)| + c
+- D. −log_{e}|cos(x)| + c
 
 **Q318.** The value of ∫₀¹ x(1 − x²)³ dx is
 <!-- id: specialist-4-1-6 -->
@@ -2689,23 +2689,23 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 1/3
 - D. 1/2
 
-**Q322.** ∫ (log_e(x))/x dx, x > 0, equals
+**Q322.** ∫ (log_{e}(x))/x dx, x > 0, equals
 <!-- id: specialist-4-1-10 -->
 *Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 1/x² + c
-- B. log_e(log_e(x)) + c
-- C. (log_e(x))² + c
-- D. ½(log_e(x))² + c
+- B. log_{e}(log_{e}(x)) + c
+- C. (log_{e}(x))² + c
+- D. ½(log_{e}(x))² + c
 
 **Q323.** ∫ 3x²/(x³ + 4) dx equals
 <!-- id: specialist-4-1-11 -->
 *Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
-- A. log_e|x³ + 4| + c
-- B. 3log_e|x³ + 4| + c
+- A. log_{e}|x³ + 4| + c
+- B. 3log_{e}|x³ + 4| + c
 - C. −1/(x³ + 4)² + c
-- D. x³log_e|x³ + 4| + c
+- D. x³log_{e}|x³ + 4| + c
 
 **Q324.** Using the substitution u = x + 1, find ∫ x√(x + 1) dx.
 <!-- id: specialist-4-1-12 -->
@@ -2736,9 +2736,9 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 *Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. tan⁻¹(eˣ) + c
-- B. eˣlog_e(1 + eˣ) + c
+- B. eˣlog_{e}(1 + eˣ) + c
 - C. 1/(1 + eˣ) + c
-- D. log_e(1 + eˣ) + c
+- D. log_{e}(1 + eˣ) + c
 
 **Q328.** Evaluate ∫₀^(π/2) cos(x) e^(sin(x)) dx.
 <!-- id: specialist-4-1-16 -->
@@ -2746,7 +2746,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 *Written answer*
 
-**Q329.** The value of ∫₁^e (log_e(x))²/x dx is
+**Q329.** The value of ∫₁^e (log_{e}(x))²/x dx is
 <!-- id: specialist-4-1-17 -->
 *Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
@@ -2804,7 +2804,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - A. 1/(1 + sin(x)) + c
 - B. −1/(1 + sin(x)) + c
 - C. −2/(1 + sin(x))³ + c
-- D. log_e|1 + sin(x)| + c
+- D. log_{e}|1 + sin(x)| + c
 
 **Q336.** Find ∫ cos²(x) dx.
 <!-- id: specialist-4-1-24 -->
@@ -2842,9 +2842,9 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 <!-- id: specialist-4-2-2 -->
 *Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
-- A. ½log_e|(x + 1)/(x − 1)| + c
-- B. ½log_e|(x − 1)/(x + 1)| + c
-- C. log_e|x² − 1| + c
+- A. ½log_{e}|(x + 1)/(x − 1)| + c
+- B. ½log_{e}|(x − 1)/(x + 1)| + c
+- C. log_{e}|x² − 1| + c
 - D. tan⁻¹(x) + c
 
 **Q341.** The correct partial fraction form for (2x + 3)/((x − 1)²(x + 4)) is
@@ -2875,10 +2875,10 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 <!-- id: specialist-4-2-6 -->
 *Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
-- A. log_e(4/3)
-- B. log_e(3/4)
-- C. log_e(3/2)
-- D. log_e(2)
+- A. log_{e}(4/3)
+- B. log_{e}(3/4)
+- C. log_{e}(3/2)
+- D. log_{e}(2)
 
 **Q345.** (3x + 1)/((x + 1)(x − 1)) expressed in partial fractions is
 <!-- id: specialist-4-2-7 -->
@@ -2899,19 +2899,19 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 <!-- id: specialist-4-2-9 -->
 *Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
-- A. x²/2 + x − 2log_e|x − 1| + c
-- B. x²/2 + 2log_e|x − 1| + c
-- C. x²/2 + x + 2log_e|x − 1| + c
-- D. x + 2log_e|x − 1| + c
+- A. x²/2 + x − 2log_{e}|x − 1| + c
+- B. x²/2 + 2log_{e}|x − 1| + c
+- C. x²/2 + x + 2log_{e}|x − 1| + c
+- D. x + 2log_{e}|x − 1| + c
 
 **Q348.** ∫ 5/((x + 2)(x − 3)) dx equals
 <!-- id: specialist-4-2-10 -->
 *Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
-- A. log_e|(x + 2)/(x − 3)| + c
-- B. 5log_e|(x + 2)(x − 3)| + c
-- C. log_e|(x + 2)(x − 3)| + c
-- D. log_e|(x − 3)/(x + 2)| + c
+- A. log_{e}|(x + 2)/(x − 3)| + c
+- B. 5log_{e}|(x + 2)(x − 3)| + c
+- C. log_{e}|(x + 2)(x − 3)| + c
+- D. log_{e}|(x − 3)/(x + 2)| + c
 
 **Q349.** If 1/(x(x + 1)²) = A/x + B/(x + 1) + C/(x + 1)², then
 <!-- id: specialist-4-2-11 -->
@@ -2922,7 +2922,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. A = 1, B = −1, C = 1
 - D. A = −1, B = 1, C = −1
 
-**Q350.** Evaluate ∫₂⁴ (x + 1)/(x(x − 1)) dx, giving your answer in the form log_e(k).
+**Q350.** Evaluate ∫₂⁴ (x + 1)/(x(x − 1)) dx, giving your answer in the form log_{e}(k).
 <!-- id: specialist-4-2-12 -->
 *Info: Calculation · about 2 marks · about 3 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
@@ -2932,19 +2932,19 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 <!-- id: specialist-4-2-13 -->
 *Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
-- A. log_e|x| − log_e|x + 1| − 1/(x + 1) + c
-- B. log_e|x| − log_e|x + 1| + 1/(x + 1) + c
-- C. log_e|x| + log_e|x + 1| + 1/(x + 1) + c
-- D. log_e|x| − log_e|x + 1| − log_e(x + 1)² + c
+- A. log_{e}|x| − log_{e}|x + 1| − 1/(x + 1) + c
+- B. log_{e}|x| − log_{e}|x + 1| + 1/(x + 1) + c
+- C. log_{e}|x| + log_{e}|x + 1| + 1/(x + 1) + c
+- D. log_{e}|x| − log_{e}|x + 1| − log_{e}(x + 1)² + c
 
 **Q352.** The value of ∫₀¹ 2/(x² + 3x + 2) dx is
 <!-- id: specialist-4-2-14 -->
 *Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
-- A. 2log_e(3/4)
-- B. log_e(4/3)
-- C. 2log_e(4/3)
-- D. 2log_e(3/2)
+- A. 2log_{e}(3/4)
+- B. log_{e}(4/3)
+- C. 2log_{e}(4/3)
+- D. 2log_{e}(3/2)
 
 **Q353.** To find ∫ x³/(x² − 4) dx using partial fractions, the first step should be to
 <!-- id: specialist-4-2-15 -->
@@ -2965,10 +2965,10 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 <!-- id: specialist-4-2-17 -->
 *Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
-- A. log_e(x² + 3x + 5) + c
-- B. 2log_e(x² + 3x + 5) + c
+- A. log_{e}(x² + 3x + 5) + c
+- B. 2log_{e}(x² + 3x + 5) + c
 - C. tan⁻¹(x² + 3x + 5) + c
-- D. (2x + 3)log_e(x² + 3x + 5) + c
+- D. (2x + 3)log_{e}(x² + 3x + 5) + c
 
 **Q356.** x/((x + 1)(x + 2)) expressed in partial fractions is
 <!-- id: specialist-4-2-18 -->
@@ -2983,10 +2983,10 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 <!-- id: specialist-4-2-19 -->
 *Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
-- A. 2log_e|x + 1| − log_e|x + 2| + c
-- B. log_e|x + 2| − log_e|x + 1| + c
-- C. 2log_e|x + 2| − log_e|x + 1| + c
-- D. 2log_e|x + 2| + log_e|x + 1| + c
+- A. 2log_{e}|x + 1| − log_{e}|x + 2| + c
+- B. log_{e}|x + 2| − log_{e}|x + 1| + c
+- C. 2log_{e}|x + 2| − log_{e}|x + 1| + c
+- D. 2log_{e}|x + 2| + log_{e}|x + 1| + c
 
 **Q358.** Evaluate ∫₀¹ 4/((x + 1)(x + 3)) dx exactly.
 <!-- id: specialist-4-2-20 -->
@@ -3007,19 +3007,19 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 <!-- id: specialist-4-2-22 -->
 *Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
-- A. ¼log_e(5/3)
-- B. ½log_e(5/3)
-- C. ¼log_e(3/5)
-- D. log_e(5/3)
+- A. ¼log_{e}(5/3)
+- B. ½log_{e}(5/3)
+- C. ¼log_{e}(3/5)
+- D. log_{e}(5/3)
 
 **Q361.** A kangaroo population on a reserve is modelled by a logistic equation, requiring ∫ 1/(P(100 − P)) dP for 0 < P < 100. This integral equals
 <!-- id: specialist-4-2-23 -->
 *Info: Application · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
-- A. (1/100)log_e((100 − P)/P) + c
-- B. (1/100)log_e(P/(100 − P)) + c
-- C. log_e(P(100 − P)) + c
-- D. 100log_e(P/(100 − P)) + c
+- A. (1/100)log_{e}((100 − P)/P) + c
+- B. (1/100)log_{e}(P/(100 − P)) + c
+- C. log_{e}(P(100 − P)) + c
+- D. 100log_{e}(P/(100 − P)) + c
 
 **Q362.** Find ∫ (3x − 1)/(x − 1)² dx.
 <!-- id: specialist-4-2-24 -->
@@ -3155,7 +3155,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. tan⁻¹(2x) + c
 - D. ¼tan⁻¹(x/2) + c
 
-**Q378.** Which integrand has antiderivative ½log_e(1 + x²)?
+**Q378.** Which integrand has antiderivative ½log_{e}(1 + x²)?
 <!-- id: specialist-4-3-14 -->
 *Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
@@ -3168,10 +3168,10 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 <!-- id: specialist-4-3-15 -->
 *Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
-- A. log_e(x² + 1) + tan⁻¹(x) + c
-- B. ½log_e(x² + 1) + x + c
+- A. log_{e}(x² + 1) + tan⁻¹(x) + c
+- B. ½log_{e}(x² + 1) + x + c
 - C. tan⁻¹(x) + c
-- D. ½log_e(x² + 1) + tan⁻¹(x) + c
+- D. ½log_{e}(x² + 1) + tan⁻¹(x) + c
 
 **Q380.** Evaluate ∫₀¹ 1/√(2 − x²) dx.
 <!-- id: specialist-4-3-16 -->
@@ -3397,7 +3397,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 *Written answer*
 
-**Q407.** The region bounded by y = log_e(x), the y-axis, y = 0 and y = 2 is rotated about the y-axis. The volume is
+**Q407.** The region bounded by y = log_{e}(x), the y-axis, y = 0 and y = 2 is rotated about the y-axis. The volume is
 <!-- id: specialist-4-4-17 -->
 *Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
@@ -3434,7 +3434,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 <!-- id: specialist-4-4-21 -->
 *Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
-- A. πlog_e(3)
+- A. πlog_{e}(3)
 - B. 2π
 - C. π/3
 - D. 2π/3
@@ -3457,7 +3457,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 8π m³
 - D. 9π/2 m³
 
-**Q414.** Given ∫sec(x) dx = log_e|sec(x) + tan(x)| + c, find the arc length of y = log_e(cos(x)) from x = 0 to x = π/4.
+**Q414.** Given ∫sec(x) dx = log_{e}|sec(x) + tan(x)| + c, find the arc length of y = log_{e}(cos(x)) from x = 0 to x = π/4.
 <!-- id: specialist-4-4-24 -->
 *Info: Application · about 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
@@ -3498,16 +3498,16 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - A. 3e
 - B. 6
 - C. 12
-- D. 3 + log_e(2)
+- D. 3 + log_{e}(2)
 
 **Q419.** The solution of dy/dx = e^(−y) with y(0) = 0 is:
 <!-- id: specialist-5-1-3 -->
 *Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
-- A. y = −log_e(x + 1)
+- A. y = −log_{e}(x + 1)
 - B. y = e^(−x) − 1
-- C. y = log_e(x + 1)
-- D. y = log_e(1 − x)
+- C. y = log_{e}(x + 1)
+- D. y = log_{e}(1 − x)
 
 **Q420.** Which of the following differential equations is separable?
 <!-- id: specialist-5-1-4 -->
@@ -3518,7 +3518,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. dy/dx = x² + y²
 - D. dy/dx = xy + x
 
-**Q421.** If dy/dx = 2y and y(0) = 5, then y(log_e 3) equals:
+**Q421.** If dy/dx = 2y and y(0) = 5, then y(log_{e} 3) equals:
 <!-- id: specialist-5-1-5 -->
 *Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
@@ -3558,10 +3558,10 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 <!-- id: specialist-5-1-9 -->
 *Info: Application · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
-- A. log_e(2)/5
-- B. 5 log_e(2)
+- A. log_{e}(2)/5
+- B. 5 log_{e}(2)
 - C. 2/5
-- D. log_e(5)/2
+- D. log_{e}(5)/2
 
 **Q426.** A radioactive isotope decays according to dN/dt = −kN and has a half-life of 30 years. The fraction remaining after 90 years is:
 <!-- id: specialist-5-1-10 -->
@@ -3576,10 +3576,10 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 <!-- id: specialist-5-1-11 -->
 *Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
-- A. y = log_e(1 − x²/2)
-- B. y = −log_e(1 + x²/2)
-- C. y = −log_e(1 − x²/2)
-- D. y = log_e(1 + x²/2)
+- A. y = log_{e}(1 − x²/2)
+- B. y = −log_{e}(1 + x²/2)
+- C. y = −log_{e}(1 − x²/2)
+- D. y = log_{e}(1 + x²/2)
 
 **Q428.** The solution of dy/dx = y² with y(0) = 1 is:
 <!-- id: specialist-5-1-12 -->
@@ -3608,14 +3608,14 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. e²
 - D. 2e^(π/2)
 
-**Q431.** Given dy/dx = y − 3 and y(0) = 5, the value of y(log_e 2) is:
+**Q431.** Given dy/dx = y − 3 and y(0) = 5, the value of y(log_{e} 2) is:
 <!-- id: specialist-5-1-15 -->
 *Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 10
 - B. 5
 - C. 7
-- D. 3 + 2 log_e(2)
+- D. 3 + 2 log_{e}(2)
 
 **Q432.** The solution curve of dy/dx = −x/y passing through (0, 3) has equation:
 <!-- id: specialist-5-1-16 -->
@@ -3642,7 +3642,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - A. y = e^x − 1
 - B. y = x
 - C. y = −x
-- D. y = log_e(2e^x − 1)
+- D. y = log_{e}(2e^x − 1)
 
 **Q435.** Solve dy/dx = xy² given y(0) = 1, stating y as a function of x.
 <!-- id: specialist-5-1-19 -->
@@ -3737,10 +3737,10 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 <!-- id: specialist-5-2-5 -->
 *Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
-- A. 0.4 log_e(9)
-- B. 2.5 log_e(9)
-- C. 2.5 log_e(10)
-- D. log_e(9)
+- A. 0.4 log_{e}(9)
+- B. 2.5 log_{e}(9)
+- C. 2.5 log_{e}(10)
+- D. log_{e}(9)
 
 **Q448.** The model dN/dt = 0.02N(500 − N) has carrying capacity:
 <!-- id: specialist-5-2-6 -->
@@ -3845,10 +3845,10 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 <!-- id: specialist-5-2-17 -->
 *Info: Application · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
-- A. (1/2)log_e(2)
-- B. (1/2)log_e(7/3)
-- C. log_e(7/3)
-- D. (1/2)log_e(3/7)
+- A. (1/2)log_{e}(2)
+- B. (1/2)log_{e}(7/3)
+- C. log_{e}(7/3)
+- D. (1/2)log_{e}(3/7)
 
 **Q460.** For dP/dt = 0.4P(1 − P/2000), the rate of change when P = 1500 is:
 <!-- id: specialist-5-2-18 -->
@@ -3982,7 +3982,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 <!-- id: specialist-5-3-8 -->
 *Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
-- A. log_e(2)
+- A. log_{e}(2)
 - B. 5/6
 - C. 0.75
 - D. 0.5
@@ -4113,7 +4113,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 *Written answer*
 
-**Q493.** Use Euler's method with step size 0.5 to estimate y(2) for dy/dx = log_e(x), y(1) = 2. Give your answer to two decimal places.
+**Q493.** Use Euler's method with step size 0.5 to estimate y(2) for dy/dx = log_{e}(x), y(1) = 2. Give your answer to two decimal places.
 <!-- id: specialist-5-3-25 -->
 *Info: Calculation · about 2 marks · about 3 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
@@ -4242,10 +4242,10 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 <!-- id: specialist-5-4-13 -->
 *Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
-- A. 0.2 log_e(5) hours
-- B. 5 log_e(4) hours
-- C. 5 log_e(5/4) hours
-- D. 5 log_e(5) hours
+- A. 0.2 log_{e}(5) hours
+- B. 5 log_{e}(4) hours
+- C. 5 log_{e}(5/4) hours
+- D. 5 log_{e}(5) hours
 
 **Q508.** Water drains from a tank so that dh/dt = −0.5√h, where h is in metres and t in minutes. If h(0) = 16, the tank empties at t equal to:
 <!-- id: specialist-5-4-14 -->
@@ -4469,9 +4469,9 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 *Info: Application · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 5 s
-- B. 10 log_e(2) ≈ 6.93 s
+- B. 10 log_{e}(2) ≈ 6.93 s
 - C. 10 s
-- D. log_e(2)/10 ≈ 0.069 s
+- D. log_{e}(2)/10 ≈ 0.069 s
 
 **Q535.** A boat cuts its engine at 20 m/s and then decelerates according to a = −0.1v. How far does it travel while slowing to 10 m/s?
 <!-- id: specialist-6-1-15 -->
@@ -5971,7 +5971,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. √13
 - D. 3
 
-**Q715.** Two particles have positions r_A = (2t + 1) i + (t + 3) j and r_B = (t + 3) i + (3t − 1) j for t ≥ 0. Which statement is true?
+**Q715.** Two particles have positions r_{A} = (2t + 1) i + (t + 3) j and r_{B} = (t + 3) i + (3t − 1) j for t ≥ 0. Which statement is true?
 <!-- id: specialist-7-4-13 -->
 *Info: Conceptual · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
@@ -5980,12 +5980,12 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. They collide at t = 2 at 5i + 5j
 - D. They never collide
 
-**Q716.** d/dt (e^(2t) i + log_e(t) j), t > 0, equals
+**Q716.** d/dt (e^(2t) i + log_{e}(t) j), t > 0, equals
 <!-- id: specialist-7-4-14 -->
 *Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. e^(2t) i + (1/t) j
-- B. 2e^(2t) i + log_e(t) j
+- B. 2e^(2t) i + log_{e}(t) j
 - C. 2te^(2t) i − (1/t²) j
 - D. 2e^(2t) i + (1/t) j
 
@@ -6061,7 +6061,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 *Written answer*
 
-**Q727.** Ship A has position r_A = t i + 2t j and ship B has r_B = (6 − t) i + (t + 1) j (in km, t in hours). Show that the ships do not collide, and find the distance between them at t = 2.
+**Q727.** Ship A has position r_{A} = t i + 2t j and ship B has r_{B} = (6 − t) i + (t + 1) j (in km, t in hours). Show that the ships do not collide, and find the distance between them at t = 2.
 <!-- id: specialist-7-4-25 -->
 *Info: Application · about 3 marks · about 4.5 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 

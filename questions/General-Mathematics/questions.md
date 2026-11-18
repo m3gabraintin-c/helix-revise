@@ -1102,7 +1102,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 *Exam relevance: High (comes up in most exams) · Prerequisites: Scatterplots, association and correlation; Mean and standard deviation; Gradient and intercept of a straight line*
 
-**Q131.** For a bivariate data set, r = 0.8, s_x = 2 and s_y = 5. The slope of the least squares regression line of y on x is:
+**Q131.** For a bivariate data set, r = 0.8, s_{x} = 2 and s_{y} = 5. The slope of the least squares regression line of y on x is:
 <!-- id: general-2-2-1 -->
 *Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 1*
 
@@ -1201,7 +1201,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. y = 2.3 + 0.65x
 - D. y = 40 − 2.3x
 
-**Q142.** For a bivariate data set, r = −0.6, s_x = 4 and s_y = 10. The slope of the least squares regression line of y on x is:
+**Q142.** For a bivariate data set, r = −0.6, s_{x} = 4 and s_{y} = 10. The slope of the least squares regression line of y on x is:
 <!-- id: general-2-2-12 -->
 *Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 1*
 
@@ -1210,7 +1210,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 1.5
 - D. −2.4
 
-**Q143.** For a data set, x̄ = 20, ȳ = 64, r = 0.9, s_x = 5 and s_y = 12. The equation of the least squares regression line of y on x is:
+**Q143.** For a data set, x̄ = 20, ȳ = 64, r = 0.9, s_{x} = 5 and s_{y} = 12. The equation of the least squares regression line of y on x is:
 <!-- id: general-2-2-13 -->
 *Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 1*
 
@@ -1264,7 +1264,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. extrapolating beyond the range of the data can give unrealistic predictions
 - D. the café sells drinks at a loss on hot days
 
-**Q149.** For a data set, x̄ = 5, ȳ = 30, r = 0.75, s_x = 2 and s_y = 8. Find the equation of the least squares regression line of y on x.
+**Q149.** For a data set, x̄ = 5, ȳ = 30, r = 0.75, s_{x} = 2 and s_{y} = 8. Find the equation of the least squares regression line of y on x.
 <!-- id: general-2-2-19 -->
 *Info: Calculation · about 2 marks · about 3 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 2*
 
@@ -3509,7 +3509,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 6.136%
 - D. 0.500%
 
-**Q419.** The value of a savings account is modelled by V₀ = 12 000, V_(n+1) = 1.0025 V_n, where n is the number of months. What is the nominal annual interest rate?
+**Q419.** The value of a savings account is modelled by V₀ = 12 000, V_{n+1} = 1.0025 V_{n}, where n is the number of months. What is the nominal annual interest rate?
 <!-- id: general-5-1-3 -->
 *Info: Application · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 1*
 
@@ -3527,14 +3527,14 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. Monthly
 - D. Daily
 
-**Q421.** Ben invests $8000 at 5.4% per annum, compounding quarterly. Which recurrence relation models the value V_n of the investment after n quarters?
+**Q421.** Ben invests $8000 at 5.4% per annum, compounding quarterly. Which recurrence relation models the value V_{n} of the investment after n quarters?
 <!-- id: general-5-1-5 -->
 *Info: Application · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 1*
 
-- A. V₀ = 8000, V_(n+1) = 1.0135 V_n
-- B. V₀ = 8000, V_(n+1) = 1.054 V_n
-- C. V₀ = 8000, V_(n+1) = 1.0045 V_n
-- D. V₀ = 8000, V_(n+1) = 1.135 V_n
+- A. V₀ = 8000, V_{n+1} = 1.0135 V_{n}
+- B. V₀ = 8000, V_{n+1} = 1.054 V_{n}
+- C. V₀ = 8000, V_{n+1} = 1.0045 V_{n}
+- D. V₀ = 8000, V_{n+1} = 1.135 V_{n}
 
 **Q422.** $10 000 is invested at 4% per annum, compounding annually. How much interest is earned during the third year?
 <!-- id: general-5-1-6 -->
@@ -3590,14 +3590,14 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. $16,709.91
 - D. $16,400.00
 
-**Q428.** Mia deposits $6000 into an account paying 4.2% per annum compounding monthly. Which rule gives the value V_n after n months?
+**Q428.** Mia deposits $6000 into an account paying 4.2% per annum compounding monthly. Which rule gives the value V_{n} after n months?
 <!-- id: general-5-1-12 -->
 *Info: Application · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 1*
 
-- A. V_n = 6000 × 1.042^n
-- B. V_n = 6000 + 21n
-- C. V_n = 6000 × 1.035^n
-- D. V_n = 6000 × 1.0035^n
+- A. V_{n} = 6000 × 1.042^n
+- B. V_{n} = 6000 + 21n
+- C. V_{n} = 6000 × 1.035^n
+- D. V_{n} = 6000 × 1.0035^n
 
 **Q429.** $10 000 is invested for 2 years at 5% per annum. How much more interest is earned with annual compounding than with simple interest?
 <!-- id: general-5-1-13 -->
@@ -3665,7 +3665,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 *Written answer*
 
-**Q437.** Write a recurrence relation for the value V_n of $3000 invested at 6.6% per annum compounding monthly, where n is the number of months.
+**Q437.** Write a recurrence relation for the value V_{n} of $3000 invested at 6.6% per annum compounding monthly, where n is the number of months.
 <!-- id: general-5-1-21 -->
 *Info: Application · about 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 2*
 
@@ -3718,14 +3718,14 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. $2,255.05
 - D. $2,507.51
 
-**Q444.** A car loan of $20 000 is charged 7.2% per annum compounding monthly, with repayments of $400 per month. Which recurrence relation models the balance B_n after n months?
+**Q444.** A car loan of $20 000 is charged 7.2% per annum compounding monthly, with repayments of $400 per month. Which recurrence relation models the balance B_{n} after n months?
 <!-- id: general-5-2-2 -->
 *Info: Application · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 1*
 
-- A. B₀ = 20 000, B_(n+1) = 1.072 B_n − 400
-- B. B₀ = 20 000, B_(n+1) = 1.006 B_n + 400
-- C. B₀ = 20 000, B_(n+1) = 0.994 B_n − 400
-- D. B₀ = 20 000, B_(n+1) = 1.006 B_n − 400
+- A. B₀ = 20 000, B_{n+1} = 1.072 B_{n} − 400
+- B. B₀ = 20 000, B_{n+1} = 1.006 B_{n} + 400
+- C. B₀ = 20 000, B_{n+1} = 0.994 B_{n} − 400
+- D. B₀ = 20 000, B_{n+1} = 1.006 B_{n} − 400
 
 **Q445.** A home loan of $280 000 is charged 5.4% per annum compounding monthly. How much interest is charged in the first month?
 <!-- id: general-5-2-3 -->
@@ -3862,7 +3862,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. $67,555
 - D. $150,000
 
-**Q460.** A loan balance is modelled by B₀ = 45 000, B_(n+1) = 1.0075 B_n − 900, where n is in months. Which statement is correct?
+**Q460.** A loan balance is modelled by B₀ = 45 000, B_{n+1} = 1.0075 B_{n} − 900, where n is in months. Which statement is correct?
 <!-- id: general-5-2-18 -->
 *Info: Conceptual · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 1*
 
@@ -3901,7 +3901,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 *Written answer*
 
-**Q466.** A loan is modelled by B₀ = 10 000, B_(n+1) = 1.008 B_n − 350. Find B₂ and state the annual interest rate.
+**Q466.** A loan is modelled by B₀ = 10 000, B_{n+1} = 1.008 B_{n} − 350. Find B₂ and state the annual interest rate.
 <!-- id: general-5-2-24 -->
 *Info: Application · about 2 marks · about 3 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 2*
 
@@ -3946,10 +3946,10 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 <!-- id: general-5-3-3 -->
 *Info: Application · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 1*
 
-- A. V₀ = 250 000, V_(n+1) = 1.054 V_n − 2000
-- B. V₀ = 250 000, V_(n+1) = 1.0045 V_n + 2000
-- C. V₀ = 250 000, V_(n+1) = 1.0045 V_n − 2000
-- D. V₀ = 250 000, V_(n+1) = 1.0045(V_n − 2000) + 2000
+- A. V₀ = 250 000, V_{n+1} = 1.054 V_{n} − 2000
+- B. V₀ = 250 000, V_{n+1} = 1.0045 V_{n} + 2000
+- C. V₀ = 250 000, V_{n+1} = 1.0045 V_{n} − 2000
+- D. V₀ = 250 000, V_{n+1} = 1.0045(V_{n} − 2000) + 2000
 
 **Q472.** A school sets up a scholarship of $8000 per year, paid forever. Interest is 3.2% per annum compounding annually. What is the minimum amount that must be invested?
 <!-- id: general-5-3-4 -->
@@ -3982,10 +3982,10 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 <!-- id: general-5-3-7 -->
 *Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 1*
 
-- A. V₀ = 200 000, V_(n+1) = 1.003 V_n − 800
-- B. V₀ = 200 000, V_(n+1) = 1.003 V_n + 600
-- C. V₀ = 200 000, V_(n+1) = 1.003 V_n − 600
-- D. V₀ = 200 000, V_(n+1) = 1.03 V_n − 600
+- A. V₀ = 200 000, V_{n+1} = 1.003 V_{n} − 800
+- B. V₀ = 200 000, V_{n+1} = 1.003 V_{n} + 600
+- C. V₀ = 200 000, V_{n+1} = 1.003 V_{n} − 600
+- D. V₀ = 200 000, V_{n+1} = 1.03 V_{n} − 600
 
 **Q476.** $360 000 is invested in a perpetuity at 4.4% per annum compounding quarterly. What is the quarterly payment?
 <!-- id: general-5-3-8 -->
@@ -4092,7 +4092,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 *Written answer*
 
-**Q488.** An annuity is modelled by V₀ = 100 000, V_(n+1) = 1.005 V_n − 1200 (n in months). Find V₂.
+**Q488.** An annuity is modelled by V₀ = 100 000, V_{n+1} = 1.005 V_{n} − 1200 (n in months). Find V₂.
 <!-- id: general-5-3-20 -->
 *Info: Calculation · about 2 marks · about 3 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 2*
 
@@ -4146,10 +4146,10 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 <!-- id: general-5-4-1 -->
 *Info: Application · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 1*
 
-- A. V₀ = 5000, V_(n+1) = 1.048 V_n + 200
-- B. V₀ = 5000, V_(n+1) = 1.004 V_n − 200
-- C. V₀ = 5000, V_(n+1) = 1.004 V_n + 200
-- D. V₀ = 5000, V_(n+1) = 1.004(V_n + 200) + 200
+- A. V₀ = 5000, V_{n+1} = 1.048 V_{n} + 200
+- B. V₀ = 5000, V_{n+1} = 1.004 V_{n} − 200
+- C. V₀ = 5000, V_{n+1} = 1.004 V_{n} + 200
+- D. V₀ = 5000, V_{n+1} = 1.004(V_{n} + 200) + 200
 
 **Q496.** $10 000 is invested at 4.2% per annum compounding monthly, with $300 added at the end of each month. What is the value after 5 years (nearest cent)?
 <!-- id: general-5-4-2 -->
@@ -4160,7 +4160,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. $31,860.81
 - D. $32,323.04
 
-**Q497.** A savings account is modelled by V₀ = 5000, V_(n+1) = 1.004 V_n + 200. What is V₁?
+**Q497.** A savings account is modelled by V₀ = 5000, V_{n+1} = 1.004 V_{n} + 200. What is V₁?
 <!-- id: general-5-4-3 -->
 *Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 1*
 
@@ -4214,7 +4214,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. PV = −5000, PMT = 200, FV positive
 - D. PV = 5000, PMT = −200, FV = 0
 
-**Q503.** A savings account is modelled by V₀ = 5000, V_(n+1) = 1.004 V_n + 200. How much interest is earned in the second month?
+**Q503.** A savings account is modelled by V₀ = 5000, V_{n+1} = 1.004 V_{n} + 200. How much interest is earned in the second month?
 <!-- id: general-5-4-9 -->
 *Info: Application · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 1*
 
@@ -4259,7 +4259,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. $596,201
 - D. $256,100
 
-**Q508.** An investment is modelled by V₀ = 8000, V_(n+1) = 1.0055 V_n + 150, where n is in months. Which description matches this model?
+**Q508.** An investment is modelled by V₀ = 8000, V_{n+1} = 1.0055 V_{n} + 150, where n is in months. Which description matches this model?
 <!-- id: general-5-4-14 -->
 *Info: Application · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 1*
 
@@ -4304,7 +4304,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. 9.1 years
 - D. 8.2 years
 
-**Q513.** An investment is modelled by V₀ = 1000, V_(n+1) = 1.003 V_n + 100. Find V₂, correct to the nearest cent.
+**Q513.** An investment is modelled by V₀ = 1000, V_{n+1} = 1.003 V_{n} + 100. Find V₂, correct to the nearest cent.
 <!-- id: general-5-4-19 -->
 *Info: Calculation · about 2 marks · about 3 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Exam 2*
 

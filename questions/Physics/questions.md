@@ -4323,7 +4323,7 @@ In a second test, the car moves at 10 m/s and hits a stationary 800 kg car. The 
 - C. quadruples
 - D. halves
 
-**Q512.** What is the gravitational force exerted by Earth on a 70 kg bushwalker standing at Earth's surface? (Use G = 6.67 × 10⁻¹¹ N m² kg⁻², M_Earth = 5.97 × 10²⁴ kg, R_Earth = 6.37 × 10⁶ m.)
+**Q512.** What is the gravitational force exerted by Earth on a 70 kg bushwalker standing at Earth's surface? (Use G = 6.67 × 10⁻¹¹ N m² kg⁻², M_{Earth} = 5.97 × 10²⁴ kg, R_{Earth} = 6.37 × 10⁶ m.)
 <!-- id: physics-1-1-3 -->
 *Info: Calculation · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
@@ -4371,7 +4371,7 @@ In a second test, the car moves at 10 m/s and hits a stationary 800 kg car. The 
 
 *Written answer*
 
-**Q518.** The Moon (mass 7.35 × 10²² kg) orbits Earth at a mean centre-to-centre distance of 3.84 × 10⁸ m. The gravitational force between Earth and the Moon is closest to: (G = 6.67 × 10⁻¹¹ N m² kg⁻², M_Earth = 5.97 × 10²⁴ kg)
+**Q518.** The Moon (mass 7.35 × 10²² kg) orbits Earth at a mean centre-to-centre distance of 3.84 × 10⁸ m. The gravitational force between Earth and the Moon is closest to: (G = 6.67 × 10⁻¹¹ N m² kg⁻², M_{Earth} = 5.97 × 10²⁴ kg)
 <!-- id: physics-1-1-9 -->
 *Info: Calculation · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
@@ -4404,7 +4404,7 @@ In a second test, the car moves at 10 m/s and hits a stationary 800 kg car. The 
 
 *Written answer*
 
-**Q522.** The Sun (mass 1.99 × 10³⁰ kg) is 1.50 × 10¹¹ m from Earth. The gravitational force of the Sun on Earth is closest to: (G = 6.67 × 10⁻¹¹ N m² kg⁻², M_Earth = 5.97 × 10²⁴ kg)
+**Q522.** The Sun (mass 1.99 × 10³⁰ kg) is 1.50 × 10¹¹ m from Earth. The gravitational force of the Sun on Earth is closest to: (G = 6.67 × 10⁻¹¹ N m² kg⁻², M_{Earth} = 5.97 × 10²⁴ kg)
 <!-- id: physics-1-1-13 -->
 *Info: Calculation · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
@@ -4437,7 +4437,7 @@ In a second test, the car moves at 10 m/s and hits a stationary 800 kg car. The 
 
 *Written answer*
 
-**Q526.** A 1500 kg satellite orbits at an altitude equal to one Earth radius above the surface. The gravitational force on it is closest to: (G = 6.67 × 10⁻¹¹ N m² kg⁻², M_Earth = 5.97 × 10²⁴ kg, R_Earth = 6.37 × 10⁶ m)
+**Q526.** A 1500 kg satellite orbits at an altitude equal to one Earth radius above the surface. The gravitational force on it is closest to: (G = 6.67 × 10⁻¹¹ N m² kg⁻², M_{Earth} = 5.97 × 10²⁴ kg, R_{Earth} = 6.37 × 10⁶ m)
 <!-- id: physics-1-1-17 -->
 *Info: Calculation · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
@@ -4523,7 +4523,7 @@ In a second test, the car moves at 10 m/s and hits a stationary 800 kg car. The 
 
 *Exam relevance: High (comes up in most exams) · Prerequisites: Newton's law of gravitation*
 
-**Q536.** Using g = GM/R², the gravitational field strength at Earth's surface is closest to: (Use G = 6.67 × 10⁻¹¹ N m² kg⁻², M_Earth = 5.97 × 10²⁴ kg, R_Earth = 6.37 × 10⁶ m.)
+**Q536.** Using g = GM/R², the gravitational field strength at Earth's surface is closest to: (Use G = 6.67 × 10⁻¹¹ N m² kg⁻², M_{Earth} = 5.97 × 10²⁴ kg, R_{Earth} = 6.37 × 10⁶ m.)
 <!-- id: physics-1-2-1 -->
 *Info: Calculation · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
@@ -4541,7 +4541,7 @@ In a second test, the car moves at 10 m/s and hits a stationary 800 kg car. The 
 - C. m s⁻¹
 - D. m s⁻²
 
-**Q538.** The International Space Station orbits about 400 km above Earth's surface. The gravitational field strength at its altitude is closest to: (Use G = 6.67 × 10⁻¹¹ N m² kg⁻², M_Earth = 5.97 × 10²⁴ kg, R_Earth = 6.37 × 10⁶ m.)
+**Q538.** The International Space Station orbits about 400 km above Earth's surface. The gravitational field strength at its altitude is closest to: (Use G = 6.67 × 10⁻¹¹ N m² kg⁻², M_{Earth} = 5.97 × 10²⁴ kg, R_{Earth} = 6.37 × 10⁶ m.)
 <!-- id: physics-1-2-3 -->
 *Info: Calculation · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
@@ -4616,7 +4616,7 @@ In a second test, the car moves at 10 m/s and hits a stationary 800 kg car. The 
 - C. 298 N
 - D. 3.73 N
 
-**Q547.** Planet X has 4 times the mass and 2 times the radius of Earth. Determine the gravitational field strength at its surface (g_Earth = 9.8 N kg⁻¹).
+**Q547.** Planet X has 4 times the mass and 2 times the radius of Earth. Determine the gravitational field strength at its surface (g_{Earth} = 9.8 N kg⁻¹).
 <!-- id: physics-1-2-12 -->
 *Info: Calculation · about 2 marks · about 2.5 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
@@ -4640,7 +4640,7 @@ In a second test, the car moves at 10 m/s and hits a stationary 800 kg car. The 
 - C. the gravitational potential energy of a 1 kg mass at that point
 - D. the speed a falling object reaches at that point
 
-**Q550.** At what altitude above Earth's surface is the gravitational field strength half its surface value? (R_Earth = 6.37 × 10⁶ m)
+**Q550.** At what altitude above Earth's surface is the gravitational field strength half its surface value? (R_{Earth} = 6.37 × 10⁶ m)
 <!-- id: physics-1-2-15 -->
 *Info: Calculation · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
@@ -4697,7 +4697,7 @@ In a second test, the car moves at 10 m/s and hits a stationary 800 kg car. The 
 - C. 16 kg
 - D. 62 kg
 
-**Q557.** Geostationary satellites orbit 4.22 × 10⁷ m from Earth's centre. The gravitational field strength at this radius is closest to: (G = 6.67 × 10⁻¹¹ N m² kg⁻², M_Earth = 5.97 × 10²⁴ kg)
+**Q557.** Geostationary satellites orbit 4.22 × 10⁷ m from Earth's centre. The gravitational field strength at this radius is closest to: (G = 6.67 × 10⁻¹¹ N m² kg⁻², M_{Earth} = 5.97 × 10²⁴ kg)
 <!-- id: physics-1-2-22 -->
 *Info: Calculation · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
@@ -4721,7 +4721,7 @@ In a second test, the car moves at 10 m/s and hits a stationary 800 kg car. The 
 
 *Written answer*
 
-**Q560.** A spacecraft lies on the line between Earth and the Moon, 3.0 × 10⁸ m from Earth's centre and 8.4 × 10⁷ m from the Moon's centre. Calculate the net gravitational field strength there and state its direction. (G = 6.67 × 10⁻¹¹ N m² kg⁻², M_Earth = 5.97 × 10²⁴ kg, M_Moon = 7.35 × 10²² kg)
+**Q560.** A spacecraft lies on the line between Earth and the Moon, 3.0 × 10⁸ m from Earth's centre and 8.4 × 10⁷ m from the Moon's centre. Calculate the net gravitational field strength there and state its direction. (G = 6.67 × 10⁻¹¹ N m² kg⁻², M_{Earth} = 5.97 × 10²⁴ kg, M_{Moon} = 7.35 × 10²² kg)
 <!-- id: physics-1-2-25 -->
 *Info: Calculation · about 3 marks · about 4 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
@@ -4741,7 +4741,7 @@ In a second test, the car moves at 10 m/s and hits a stationary 800 kg car. The 
 
 *Exam relevance: High (comes up in most exams) · Prerequisites: Gravitational field strength; Circular motion and banked tracks*
 
-**Q562.** The ISS orbits at a radius of 6.77 × 10⁶ m from Earth's centre. Its orbital speed is closest to: (G = 6.67 × 10⁻¹¹ N m² kg⁻², M_Earth = 5.97 × 10²⁴ kg)
+**Q562.** The ISS orbits at a radius of 6.77 × 10⁶ m from Earth's centre. Its orbital speed is closest to: (G = 6.67 × 10⁻¹¹ N m² kg⁻², M_{Earth} = 5.97 × 10²⁴ kg)
 <!-- id: physics-1-3-1 -->
 *Info: Calculation · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
@@ -4759,7 +4759,7 @@ In a second test, the car moves at 10 m/s and hits a stationary 800 kg car. The 
 - C. 24 hours
 - D. 46 minutes
 
-**Q564.** A geostationary satellite has a period of 24 hours. Its orbital radius from Earth's centre is closest to: (G = 6.67 × 10⁻¹¹ N m² kg⁻², M_Earth = 5.97 × 10²⁴ kg)
+**Q564.** A geostationary satellite has a period of 24 hours. Its orbital radius from Earth's centre is closest to: (G = 6.67 × 10⁻¹¹ N m² kg⁻², M_{Earth} = 5.97 × 10²⁴ kg)
 <!-- id: physics-1-3-3 -->
 *Info: Calculation · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
@@ -4801,7 +4801,7 @@ In a second test, the car moves at 10 m/s and hits a stationary 800 kg car. The 
 - C. directed along its velocity
 - D. directed outwards, balancing gravity
 
-**Q569.** A weather satellite is in a circular orbit with a period of 100 minutes. Calculate its altitude above Earth's surface. (Use G = 6.67 × 10⁻¹¹ N m² kg⁻², M_Earth = 5.97 × 10²⁴ kg, R_Earth = 6.37 × 10⁶ m.)
+**Q569.** A weather satellite is in a circular orbit with a period of 100 minutes. Calculate its altitude above Earth's surface. (Use G = 6.67 × 10⁻¹¹ N m² kg⁻², M_{Earth} = 5.97 × 10²⁴ kg, R_{Earth} = 6.37 × 10⁶ m.)
 <!-- id: physics-1-3-8 -->
 *Info: Calculation · about 3 marks · about 4 min · Exam relevance: High (comes up in most exams); short answer, as in Section B*
 
@@ -4840,7 +4840,7 @@ In a second test, the car moves at 10 m/s and hits a stationary 800 kg car. The 
 
 *Written answer*
 
-**Q574.** The Moon orbits Earth at a radius of 3.84 × 10⁸ m. Using Kepler's third law, its period is closest to: (G = 6.67 × 10⁻¹¹ N m² kg⁻², M_Earth = 5.97 × 10²⁴ kg)
+**Q574.** The Moon orbits Earth at a radius of 3.84 × 10⁸ m. Using Kepler's third law, its period is closest to: (G = 6.67 × 10⁻¹¹ N m² kg⁻², M_{Earth} = 5.97 × 10²⁴ kg)
 <!-- id: physics-1-3-13 -->
 *Info: Calculation · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
@@ -4891,7 +4891,7 @@ In a second test, the car moves at 10 m/s and hits a stationary 800 kg car. The 
 - C. GMm/r²
 - D. 2GMm/r
 
-**Q580.** Satellite A orbits Earth at radius r and satellite B at radius 4r. The ratio of their speeds v_A : v_B is:
+**Q580.** Satellite A orbits Earth at radius r and satellite B at radius 4r. The ratio of their speeds v_{A} : v_{B} is:
 <!-- id: physics-1-3-19 -->
 *Info: Calculation · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 
@@ -4906,7 +4906,7 @@ In a second test, the car moves at 10 m/s and hits a stationary 800 kg car. The 
 
 *Written answer*
 
-**Q582.** Two moons orbit the same planet. Moon Q's orbital radius is 9 times Moon P's. The ratio of their periods T_Q : T_P is:
+**Q582.** Two moons orbit the same planet. Moon Q's orbital radius is 9 times Moon P's. The ratio of their periods T_{Q} : T_{P} is:
 <!-- id: physics-1-3-21 -->
 *Info: Calculation · 1 mark · about 1 min · Exam relevance: High (comes up in most exams); multiple choice, as in Section A*
 

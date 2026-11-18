@@ -5142,7 +5142,7 @@ Topic: Redox reactions and half-equations (vce-chem12-redox-reactions-and-half-e
 **f.** 4.96 L *(2 marks)*
 
 1. n(Mg) = 0.200 mol and the mole ratio Mg : H₂ is 1 : 1, so n(H₂) = 0.200 mol. *(1 mark)*
-2. V(H₂) = n × V_m = 0.200 × 24.8 = 4.96 L. *(1 mark)*
+2. V(H₂) = n × V_{m} = 0.200 × 24.8 = 4.96 L. *(1 mark)*
 
 Common mistake: Using 22.4 L mol⁻¹, the molar volume at STP. At SLC the molar volume is 24.8 L mol⁻¹.
 
@@ -7317,7 +7317,7 @@ Explanation: n(e⁻) = 1930/96 500 = 0.0200 mol; n(metal) = 0.347/52.0 = 0.00667
 **A1380.** C. the charge carried by one mole of electrons
 <!-- id: chem-4-2-14 -->
 
-Explanation: F = N_A × e = 6.02 × 10²³ × 1.60 × 10⁻¹⁹ ≈ 96 500 C mol⁻¹.
+Explanation: F = N_{A} × e = 6.02 × 10²³ × 1.60 × 10⁻¹⁹ ≈ 96 500 C mol⁻¹.
 
 **A1381.** D. stay the same
 <!-- id: chem-4-2-15 -->

@@ -2348,7 +2348,7 @@ Explanation: Reaction distance: 25 × 0.80 = 20 m. Braking distance: v² = u² +
 **A458.** B. 4.0 m s⁻²
 <!-- id: physics12a3-nlm-1 -->
 
-Explanation: a = F_net/m = 12/3.0 = 4.0 m s⁻². 0.25 m s⁻² results from inverting the ratio.
+Explanation: a = F_{net}/m = 12/3.0 = 4.0 m s⁻². 0.25 m s⁻² results from inverting the ratio.
 
 **A459.** B. The gravitational force of the book on Earth.
 <!-- id: physics12a3-nlm-2 -->
@@ -2375,7 +2375,7 @@ Explanation: The component of weight along the slope is mg sin 30° = 0.5mg, so 
 
 Explanation:
 
-**A464.** (a) F_net = 3000 − 1000 = 2000 N, a = 2000/1200 = 1.67 m s⁻²; (b) v = u + at = 0 + 1.67 × 10 = 16.7 m s⁻¹; (c) s = ½at² = ½ × 1.67 × 10² = 83 m.
+**A464.** (a) F_{net} = 3000 − 1000 = 2000 N, a = 2000/1200 = 1.67 m s⁻²; (b) v = u + at = 0 + 1.67 × 10 = 16.7 m s⁻¹; (c) s = ½at² = ½ × 1.67 × 10² = 83 m.
 <!-- id: physics12a3-nlm-7 -->
 
 Explanation:
@@ -3000,7 +3000,7 @@ Explanation: F = GMm/r² = 6.67×10⁻¹¹ × 1.99×10³⁰ × 5.97×10²⁴ / (
 **A523.** C. about 90% of the way from Earth to the Moon
 <!-- id: physics-1-1-14 -->
 
-Explanation: Setting GM_E/x² = GM_M/(d − x)² gives x/(d − x) = √81 = 9, so x = 0.9d.
+Explanation: Setting GM_{E}/x² = GM_{M}/(d − x)² gives x/(d − x) = √81 = 9, so x = 0.9d.
 
 **A524.** D. It is always attractive and acts along the line joining their centres
 <!-- id: physics-1-1-15 -->
@@ -3117,9 +3117,9 @@ Explanation: Gravity attracts a test mass towards the centre of mass, so the fie
 **A546.** C. 298 N
 <!-- id: physics-1-2-11 -->
 
-Explanation: g_Mars = GM/R² ≈ 3.73 N kg⁻¹, so W = mg = 80 × 3.73 ≈ 298 N. 784 N is her weight on Earth.
+Explanation: g_{Mars} = GM/R² ≈ 3.73 N kg⁻¹, so W = mg = 80 × 3.73 ≈ 298 N. 784 N is her weight on Earth.
 
-**A547.** g ∝ M/R² = 4/2² = 1, so g_X = 9.8 N kg⁻¹, the same as Earth.
+**A547.** g ∝ M/R² = 4/2² = 1, so g_{X} = 9.8 N kg⁻¹, the same as Earth.
 <!-- id: physics-1-2-12 -->
 
 Explanation: Use ratios rather than full values.
@@ -3184,7 +3184,7 @@ Explanation: g ∝ 1/r², so at 3R it is (1/3)² = 1/9 of the surface value. Not
 
 Explanation: One clearly explained reason is enough.
 
-**A560.** g_Earth = GM_E/r² = 3.98×10¹⁴ / (3.0×10⁸)² ≈ 4.42×10⁻³ N kg⁻¹ towards Earth. g_Moon = GM_M/r² = 4.90×10¹² / (8.4×10⁷)² ≈ 6.95×10⁻⁴ N kg⁻¹ towards the Moon. Net ≈ 3.7×10⁻³ N kg⁻¹ towards Earth.
+**A560.** g_{Earth} = GM_{E}/r² = 3.98×10¹⁴ / (3.0×10⁸)² ≈ 4.42×10⁻³ N kg⁻¹ towards Earth. g_{Moon} = GM_{M}/r² = 4.90×10¹² / (8.4×10⁷)² ≈ 6.95×10⁻⁴ N kg⁻¹ towards the Moon. Net ≈ 3.7×10⁻³ N kg⁻¹ towards Earth.
 <!-- id: physics-1-2-25 -->
 
 Explanation: The fields point in opposite directions, so subtract them.
@@ -3271,7 +3271,7 @@ Explanation: M = 4π²r³/(GT²) = 4π² × (9.38×10⁶)³ / (6.67×10⁻¹¹ �
 
 Explanation: v ∝ 1/√r, so doubling r multiplies v by 1/√2 ≈ 0.71.
 
-**A577.** T_M/T_E = (r_M/r_E)^(3/2) = (2.28/1.50)^(3/2) = 1.52^1.5 ≈ 1.87, so T_Mars ≈ 1.87 years.
+**A577.** T_{M}/T_{E} = (r_{M}/r_{E})^(3/2) = (2.28/1.50)^(3/2) = 1.52^1.5 ≈ 1.87, so T_{Mars} ≈ 1.87 years.
 <!-- id: physics-1-3-16 -->
 
 Explanation: Using a ratio with Earth avoids needing the Sun's mass.
@@ -3289,7 +3289,7 @@ Explanation: mv²/r = GMm/r² gives mv² = GMm/r, so KE = ½mv² = GMm/(2r).
 **A580.** C. 2 : 1
 <!-- id: physics-1-3-19 -->
 
-Explanation: v ∝ 1/√r, so v_A/v_B = √(4r/r) = 2.
+Explanation: v ∝ 1/√r, so v_{A}/v_{B} = √(4r/r) = 2.
 
 **A581.** T = 27.3 × 86400 = 2.36×10⁶ s. v = 2πr/T = 2π × 3.84×10⁸ / 2.36×10⁶ ≈ 1.02×10³ m s⁻¹.
 <!-- id: physics-1-3-20 -->
@@ -3403,7 +3403,7 @@ Explanation: g = GM/r² is an inverse square relationship: it falls steeply at f
 
 Explanation: F = mg at every r, so ∫F dr = m∫g dr: the area is 500 times larger.
 
-**A603.** Average g ≈ (9.8 + 8.69)/2 = 9.245 N kg⁻¹. ΔU ≈ m × g_avg × Δh = 450 × 9.245 × 4.0×10⁵ ≈ 1.7×10⁹ J.
+**A603.** Average g ≈ (9.8 + 8.69)/2 = 9.245 N kg⁻¹. ΔU ≈ m × g_{avg} × Δh = 450 × 9.245 × 4.0×10⁵ ≈ 1.7×10⁹ J.
 <!-- id: physics-1-4-16 -->
 
 Explanation: Convert 400 km to 4.0×10⁵ m.
@@ -3577,12 +3577,12 @@ Explanation: Common error: forgetting to convert 5.0 mm to 5.0 × 10⁻³ m.
 
 Explanation: Rearrange F = qE.
 
-**A637.** Fₑ/F_g = ke²/(Gm²) = (8.99 × 10⁹ × (1.6 × 10⁻¹⁹)²)/(6.67 × 10⁻¹¹ × (1.67 × 10⁻²⁷)²) ≈ 1.2 × 10³⁶. The electric force is vastly larger, so gravity is negligible between subatomic particles.
+**A637.** Fₑ/F_{g} = ke²/(Gm²) = (8.99 × 10⁹ × (1.6 × 10⁻¹⁹)²)/(6.67 × 10⁻¹¹ × (1.67 × 10⁻²⁷)²) ≈ 1.2 × 10³⁶. The electric force is vastly larger, so gravity is negligible between subatomic particles.
 <!-- id: physics-2-1-24 -->
 
 Explanation: The distance cancels because both forces are inverse square.
 
-**A638.** Each charge is 0.10 m away: E = kq/r² = 8.99 × 10⁹ × 3.0 × 10⁻⁹/0.010 ≈ 2.7 × 10³ N C⁻¹. Both fields point towards the negative charge, so E_total ≈ 5.4 × 10³ N C⁻¹ directed towards the −3.0 nC charge.
+**A638.** Each charge is 0.10 m away: E = kq/r² = 8.99 × 10⁹ × 3.0 × 10⁻⁹/0.010 ≈ 2.7 × 10³ N C⁻¹. Both fields point towards the negative charge, so E_{total} ≈ 5.4 × 10³ N C⁻¹ directed towards the −3.0 nC charge.
 <!-- id: physics-2-1-25 -->
 
 Explanation: Students often subtract the fields; here they add because both point towards −3.0 nC.
@@ -5349,9 +5349,9 @@ Explanation: Rotating faster halves the time for each flux change, doubling the 
 **A984.** B. 325 V
 <!-- id: physics-5-3-7 -->
 
-Explanation: V_peak = √2 × V_RMS = 1.414 × 230 ≈ 325 V.
+Explanation: V_{peak} = √2 × V_{RMS} = 1.414 × 230 ≈ 325 V.
 
-**A985.** V_peak = √2 × 230 ≈ 325 V. Period T = 1/f = 1/50 = 0.020 s (20 ms).
+**A985.** V_{peak} = √2 × 230 ≈ 325 V. Period T = 1/f = 1/50 = 0.020 s (20 ms).
 <!-- id: physics-5-3-8 -->
 
 Explanation: Both values are needed for full marks.
@@ -5364,12 +5364,12 @@ Explanation: T = 1/f = 1/50 = 0.020 s = 20 ms.
 **A987.** C. 650 V
 <!-- id: physics-5-3-10 -->
 
-Explanation: V_peak = 230√2 ≈ 325 V, and peak-to-peak is twice the peak, about 650 V.
+Explanation: V_{peak} = 230√2 ≈ 325 V, and peak-to-peak is twice the peak, about 650 V.
 
 **A988.** A. 6.1 A
 <!-- id: physics-5-3-11 -->
 
-Explanation: I_RMS = P/V_RMS = 1000/230 = 4.35 A, so I_peak = √2 × 4.35 ≈ 6.1 A.
+Explanation: I_{RMS} = P/V_{RMS} = 1000/230 = 4.35 A, so I_{peak} = √2 × 4.35 ≈ 6.1 A.
 
 **A989.** Both are halved. The flux changes half as quickly, so the peak emf halves, and the coil completes half as many rotations per second, so the frequency halves.
 <!-- id: physics-5-3-12 -->
@@ -5384,14 +5384,14 @@ Explanation: RMS is defined by equivalent heating effect: it gives the same aver
 **A991.** C. 20 W
 <!-- id: physics-5-3-14 -->
 
-Explanation: V_RMS = 20/√2 = 14.1 V, so P = V_RMS²/R = 200/10 = 20 W. Using the peak voltage gives the wrong answer of 40 W.
+Explanation: V_{RMS} = 20/√2 = 14.1 V, so P = V_{RMS}²/R = 200/10 = 20 W. Using the peak voltage gives the wrong answer of 40 W.
 
 **A992.** A. 100 V
 <!-- id: physics-5-3-15 -->
 
 Explanation: ΔΦ = BA = 0.010 Wb per turn and a quarter turn takes 1/(4 × 25) = 0.010 s, so ε = 100 × 0.010 / 0.010 = 100 V.
 
-**A993.** I_RMS = P/V_RMS = 2400/230 ≈ 10.4 A. R = V_RMS²/P = 230²/2400 ≈ 22.0 Ω.
+**A993.** I_{RMS} = P/V_{RMS} = 2400/230 ≈ 10.4 A. R = V_{RMS}²/P = 230²/2400 ≈ 22.0 Ω.
 <!-- id: physics-5-3-16 -->
 
 Explanation: Use RMS values for power calculations with AC.
@@ -5429,14 +5429,14 @@ Explanation: With stationary output coils, the high output current is taken dire
 **A1000.** A. 240 V
 <!-- id: physics-5-3-23 -->
 
-Explanation: V_RMS = V_peak/√2 = 340/1.414 ≈ 240 V.
+Explanation: V_{RMS} = V_{peak}/√2 = 340/1.414 ≈ 240 V.
 
 **A1001.** After half a turn the flux reverses, so ΔΦ = 2BA = 2 × 0.20 × 0.030 = 0.012 Wb per turn. ε = NΔΦ/Δt = 50 × 0.012 / 0.010 = 60 V.
 <!-- id: physics-5-3-24 -->
 
 Explanation: Common error: using ΔΦ = BA and getting 30 V.
 
-**A1002.** The RMS value gives the equivalent DC value that delivers the same average power to a resistor, so power can be calculated directly with P = V_RMS I_RMS. Peak values would overstate the average power, since the voltage is only at its peak for an instant.
+**A1002.** The RMS value gives the equivalent DC value that delivers the same average power to a resistor, so power can be calculated directly with P = V_{RMS} I_{RMS}. Peak values would overstate the average power, since the voltage is only at its peak for an instant.
 <!-- id: physics-5-3-25 -->
 
 Explanation: Key idea: RMS links AC to the same heating effect as DC.
@@ -5451,7 +5451,7 @@ Explanation: Faster rotation changes the flux faster, doubling the emf (RMS goes
 **A1004.** A. 12 V
 <!-- id: physics-5-4-1 -->
 
-Explanation: V_s = V_p × N_s/N_p = 230 × 60/1150 = 12 V.
+Explanation: V_{s} = V_{p} × N_{s}/N_{p} = 230 × 60/1150 = 12 V.
 
 **A1005.** A. a steady current produces a constant flux, so no emf is induced in the secondary
 <!-- id: physics-5-4-2 -->
@@ -5461,7 +5461,7 @@ Explanation: Transformers rely on a changing flux in the core; once a DC current
 **A1006.** C. 2.5 A
 <!-- id: physics-5-4-3 -->
 
-Explanation: For an ideal transformer, I_s = I_p × N_p/N_s = 50 × 1/20 = 2.5 A, so power in equals power out.
+Explanation: For an ideal transformer, I_{s} = I_{p} × N_{p}/N_{s} = 50 × 1/20 = 2.5 A, so power in equals power out.
 
 **A1007.** An alternating current in the primary coil produces a changing magnetic flux in the iron core. The core carries this changing flux through the secondary coil, and by Faraday's law the changing flux induces an alternating emf in the secondary.
 <!-- id: physics-5-4-4 -->
@@ -5476,14 +5476,14 @@ Explanation: Insulated laminations break up current paths in the core, reducing 
 **A1009.** C. I²R
 <!-- id: physics-5-4-6 -->
 
-Explanation: The heat loss in the line depends on the current through it and its resistance, P_loss = I²R.
+Explanation: The heat loss in the line depends on the current through it and its resistance, P_{loss} = I²R.
 
 **A1010.** D. reduced to 1/100 of its original value
 <!-- id: physics-5-4-7 -->
 
-Explanation: I = P/V falls by a factor of 10, and P_loss = I²R falls by a factor of 10² = 100.
+Explanation: I = P/V falls by a factor of 10, and P_{loss} = I²R falls by a factor of 10² = 100.
 
-**A1011.** N_s = N_p × V_s/V_p = 1800 × 11/66 = 300 turns.
+**A1011.** N_{s} = N_{p} × V_{s}/V_{p} = 1800 × 11/66 = 300 turns.
 <!-- id: physics-5-4-8 -->
 
 Explanation: Check that the ratio is inverted correctly for a step-down transformer.
@@ -5491,7 +5491,7 @@ Explanation: Check that the ratio is inverted correctly for a step-down transfor
 **A1012.** D. 10 kW
 <!-- id: physics-5-4-9 -->
 
-Explanation: I = P/V = 500 000/10 000 = 50 A, so P_loss = I²R = 50² × 4.0 = 10 000 W = 10 kW.
+Explanation: I = P/V = 500 000/10 000 = 50 A, so P_{loss} = I²R = 50² × 4.0 = 10 000 W = 10 kW.
 
 **A1013.** C. 9.8 kV
 <!-- id: physics-5-4-10 -->
@@ -5503,7 +5503,7 @@ Explanation: I = 50 A, so the voltage drop is IR = 50 × 4.0 = 200 V, leaving 10
 
 Explanation: P = V²/R requires the voltage across the resistance itself, which is the voltage drop along the lines, not the supply voltage.
 
-**A1015.** For a given power, P = VI, so a higher voltage means a smaller current. The power lost as heat in the lines is P_loss = I²R, so reducing the current greatly reduces losses (halving the current reduces losses by a factor of 4).
+**A1015.** For a given power, P = VI, so a higher voltage means a smaller current. The power lost as heat in the lines is P_{loss} = I²R, so reducing the current greatly reduces losses (halving the current reduces losses by a factor of 4).
 <!-- id: physics-5-4-12 -->
 
 Explanation: Must link high voltage to low current and to I²R.
@@ -5511,19 +5511,19 @@ Explanation: Must link high voltage to low current and to I²R.
 **A1016.** B. 240
 <!-- id: physics-5-4-13 -->
 
-Explanation: N_s = N_p × V_s/V_p = 4800 × 12/240 = 240 turns.
+Explanation: N_{s} = N_{p} × V_{s}/V_{p} = 4800 × 12/240 = 240 turns.
 
 **A1017.** D. 0.25 A
 <!-- id: physics-5-4-14 -->
 
-Explanation: Power in equals power out, so I_p = P/V_p = 60/240 = 0.25 A.
+Explanation: Power in equals power out, so I_{p} = P/V_{p} = 60/240 = 0.25 A.
 
 **A1018.** A. is easily magnetised and concentrates the changing flux so it links both coils
 <!-- id: physics-5-4-15 -->
 
 Explanation: The core channels the changing flux produced by the primary through the secondary, improving flux linkage.
 
-**A1019.** (a) I = 100 000/415 ≈ 241 A, P_loss = 241² × 0.50 ≈ 2.9 × 10⁴ W (29 kW). (b) I = 100 000/11 000 ≈ 9.09 A, P_loss = 9.09² × 0.50 ≈ 41 W.
+**A1019.** (a) I = 100 000/415 ≈ 241 A, P_{loss} = 241² × 0.50 ≈ 2.9 × 10⁴ W (29 kW). (b) I = 100 000/11 000 ≈ 9.09 A, P_{loss} = 9.09² × 0.50 ≈ 41 W.
 <!-- id: physics-5-4-16 -->
 
 Explanation: The comparison shows how much higher voltage reduces losses.
@@ -5541,7 +5541,7 @@ Explanation: The secondary emf is induced by the same changing flux, so it has t
 **A1022.** C. one quarter of its original value
 <!-- id: physics-5-4-19 -->
 
-Explanation: Doubling V halves I, and P_loss = I²R becomes (1/2)² = 1/4 of the original.
+Explanation: Doubling V halves I, and P_{loss} = I²R becomes (1/2)² = 1/4 of the original.
 
 **A1023.** The changing flux induces eddy currents in the iron core, which waste energy as heat. Laminations (thin sheets insulated from each other) break up the paths for these currents, reducing eddy currents and so reducing energy loss.
 <!-- id: physics-5-4-20 -->
@@ -5551,7 +5551,7 @@ Explanation: Key idea: insulation between layers increases the resistance of edd
 **A1024.** D. 0.63%
 <!-- id: physics-5-4-21 -->
 
-Explanation: I = 2.0 × 10⁶/40 000 = 50 A, P_loss = 50² × 5.0 = 12.5 kW, which is 12.5/2000 × 100 ≈ 0.63%.
+Explanation: I = 2.0 × 10⁶/40 000 = 50 A, P_{loss} = 50² × 5.0 = 12.5 kW, which is 12.5/2000 × 100 ≈ 0.63%.
 
 **A1025.** B. AC voltages can be easily stepped up and down using transformers
 <!-- id: physics-5-4-22 -->
@@ -5561,9 +5561,9 @@ Explanation: Transformers require a changing current, so AC allows efficient hig
 **A1026.** D. 53 : 1
 <!-- id: physics-5-4-23 -->
 
-Explanation: N_p/N_s = V_p/V_s = 22 000/415 ≈ 53, so the ratio is about 53 : 1.
+Explanation: N_{p}/N_{s} = V_{p}/V_{s} = 22 000/415 ≈ 53, so the ratio is about 53 : 1.
 
-**A1027.** Power = 24 × 4.0 = 96 W, so I_p = 96/240 = 0.40 A. The turns ratio N_p : N_s = 240 : 24 = 10 : 1.
+**A1027.** Power = 24 × 4.0 = 96 W, so I_{p} = 96/240 = 0.40 A. The turns ratio N_{p} : N_{s} = 240 : 24 = 10 : 1.
 <!-- id: physics-5-4-24 -->
 
 Explanation: Power in equals power out for an ideal transformer.
@@ -7081,7 +7081,7 @@ Explanation: A constant offset in every measurement shifts the line, giving a no
 **A1324.** A. The threshold frequency
 <!-- id: physics-8-4-9 -->
 
-Explanation: Since E_k = hf − φ, E_k = 0 when f = f₀, the threshold frequency.
+Explanation: Since E_{k} = hf − φ, E_{k} = 0 when f = f₀, the threshold frequency.
 
 **A1325.** B. 3.0 m/s²
 <!-- id: physics-8-4-10 -->
@@ -7386,8 +7386,8 @@ Topic: Transformers and transmission losses (physics-5-4)
 
 **e.** 10 kW *(2 marks)*
 
-1. P_loss = I²R. *(1 mark)*
-2. P_loss = 50² × 4.0 = 10 000 W = 10 kW. *(1 mark)*
+1. P_{loss} = I²R. *(1 mark)*
+2. P_{loss} = 50² × 4.0 = 10 000 W = 10 kW. *(1 mark)*
 
 Common mistake: Using P = V²/R with the 5.00 kV supply voltage, which gives a huge, wrong value.
 
@@ -7395,8 +7395,8 @@ Topic: Transformers and transmission losses (physics-5-4)
 
 **f.** 100 W; the current is 10 times smaller, and power loss depends on current squared. *(2 marks)*
 
-1. New current: I = 250 000 ÷ 50 000 = 5.0 A, so P_loss = 5.0² × 4.0 = 100 W. *(1 mark)*
-2. Raising the voltage tenfold lowers the current tenfold; since P_loss = I²R, the loss falls by a factor of 100. *(1 mark)*
+1. New current: I = 250 000 ÷ 50 000 = 5.0 A, so P_{loss} = 5.0² × 4.0 = 100 W. *(1 mark)*
+2. Raising the voltage tenfold lowers the current tenfold; since P_{loss} = I²R, the loss falls by a factor of 100. *(1 mark)*
 
 Common mistake: Saying the loss falls by a factor of 10. The loss depends on the square of the current.
 
@@ -7404,7 +7404,7 @@ Topic: Transformers and transmission losses (physics-5-4)
 
 **g.** 7.07 kV *(1 mark)*
 
-1. V_peak = √2 × V_RMS = √2 × 5.00 = 7.07 kV. *(1 mark)*
+1. V_{peak} = √2 × V_{RMS} = √2 × 5.00 = 7.07 kV. *(1 mark)*
 
 Common mistake: Dividing by √2. The peak is larger than the RMS value.
 
@@ -7451,7 +7451,7 @@ Topic: Photoelectric effect and photons (physics-7-1)
 
 **e.** 0.23 eV *(1 mark)*
 
-1. E_k max = hf − φ = 2.33 − 2.10 = 0.23 eV. *(1 mark)*
+1. E_{k} max = hf − φ = 2.33 − 2.10 = 0.23 eV. *(1 mark)*
 
 Common mistake: Adding the work function. It is the energy needed to release the electron, so it is subtracted.
 
