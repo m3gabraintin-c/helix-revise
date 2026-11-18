@@ -1,16 +1,22 @@
 # Export every question in index.html's DATA into judge-sized batches: difficulty/batches/<course>/NNN.json
 # plus difficulty/batches/manifest.json (what the rating workflow takes as args). Run: python3 scripts/difficulty_batches.py [size]
-# --remaining: only questions not yet in difficulty/ratings/, as r2-NNN.json + manifest-remaining.json. Batch files that
-# already have a ratings file are kept (QA reads them); other old batch files are stale and removed. Nothing rated is redone.
+# --remaining --prefix rN-: only questions not yet rated, as <prefix>NNN.json + manifest-remaining.json. Use a new prefix
+# each round so a new batch can never take the name of an older one. Kept: batch files that have a ratings file (QA reads
+# them) and batch files with judge work in difficulty/work/ (in progress; listed in the manifest again so the run finishes
+# them). Other old batch files are stale and removed. Nothing rated or in progress is redone.
 import glob, json, os, re, shutil, sys
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 OUT = os.path.join(ROOT, "difficulty", "batches")
 REMAINING = "--remaining" in sys.argv
-args = [a for a in sys.argv[1:] if a != "--remaining"]
+PREFIX = sys.argv[sys.argv.index("--prefix") + 1] if "--prefix" in sys.argv else ""
+args = [a for i, a in enumerate(sys.argv[1:], 1) if a not in ("--remaining", "--prefix") and sys.argv[i - 1] != "--prefix"]
 SIZE = int(args[0]) if args else 60
+if REMAINING and not re.fullmatch(r"r\d+-", PREFIX): sys.exit("--remaining needs --prefix rN- (a prefix not used before, e.g. r3-)")
 rated = {it["id"] for f in glob.glob(os.path.join(ROOT, "difficulty", "ratings", "*", "*.json"))
          for it in json.load(open(f, encoding="utf-8"))["items"]} if REMAINING else set()
+work = lambda f: os.path.join(ROOT, "difficulty", "work", os.path.basename(os.path.dirname(f)), os.path.basename(f)[:-5])
+rating = lambda f: f.replace(os.sep + "batches" + os.sep, os.sep + "ratings" + os.sep)
 line = next(l for l in open(os.path.join(ROOT, "index.html"), encoding="utf-8") if l.startswith("const DATA = "))
 d = json.loads(line[len("const DATA = "):].rstrip().rstrip(";"))
 
@@ -21,11 +27,17 @@ PACK = {"methods": "methods", "general": "general", "specialist": "specialist", 
         "vce-psych12": "psychology", "vce-methods12": "methods", "vce-physics12": "physics", "gcse-bio": None}
 MARKS = re.compile(r"\((\d+) marks?\)\s*$")
 
+manifest, total, skipped, held = [], 0, 0, set()
 if REMAINING:
-    for f in glob.glob(os.path.join(OUT, "*", "*.json")):
-        if not os.path.exists(f.replace(os.sep + "batches" + os.sep, os.sep + "ratings" + os.sep)): os.remove(f)
+    for f in sorted(glob.glob(os.path.join(OUT, "*", "*.json"))):
+        if os.path.exists(rating(f)): continue
+        if os.path.exists(work(f) + ".a.json") or os.path.exists(work(f) + ".b.json"):  # in progress: keep and finish
+            b = json.load(open(f, encoding="utf-8"))
+            held |= {q["id"] for q in b["questions"]}
+            manifest.append({"course": b["course"], "pack": b["pack"], "batch": os.path.relpath(f, ROOT), "n": len(b["questions"]), "in_progress": True})
+        else: os.remove(f)
 elif os.path.exists(OUT): shutil.rmtree(OUT)
-manifest, total, skipped = [], 0, 0
+held -= rated
 for sid, name, label, group, T in d["S"]:
     qs = []
     for num, tname, subs in T:
@@ -45,15 +57,19 @@ for sid, name, label, group, T in d["S"]:
                     m = MARKS.search(r[2])
                     q.update(type="written", prompt=r[2], model_answer=r[3], marks=int(m.group(1)) if m else 1)
                 qs.append(q)
-    skipped += sum(q["id"] in rated for q in qs)
-    qs = [q for q in qs if q["id"] not in rated]
+    skipped += sum(q["id"] in rated or q["id"] in held for q in qs)
+    qs = [q for q in qs if q["id"] not in rated and q["id"] not in held]
     os.makedirs(os.path.join(OUT, sid), exist_ok=True)
     for b in range(0, len(qs), SIZE):
-        rel = "difficulty/batches/%s/%s%03d.json" % (sid, "r2-" if REMAINING else "", b // SIZE)
+        rel = "difficulty/batches/%s/%s%03d.json" % (sid, PREFIX, b // SIZE)
+        f = os.path.join(ROOT, rel)  # a new batch must never reuse the name of a rated or in-progress one
+        assert not (os.path.exists(f) or os.path.exists(rating(f)) or glob.glob(work(f) + ".*")), "name collision: " + rel
         json.dump({"course": sid, "course_name": "%s (%s)" % (name, label), "pack": PACK[sid], "questions": qs[b:b + SIZE]},
                   open(os.path.join(ROOT, rel), "w", encoding="utf-8"), ensure_ascii=False, indent=1)
         manifest.append({"course": sid, "pack": PACK[sid], "batch": rel, "n": len(qs[b:b + SIZE])})
     total += len(qs)
-assert sum(m["n"] for m in manifest) == total and total + skipped == sum(len(v) for v in d["Q"].values())
+new = [m for m in manifest if not m.get("in_progress")]
+assert sum(m["n"] for m in new) == total and total + skipped == sum(len(v) for v in d["Q"].values())
 json.dump(manifest, open(os.path.join(OUT, "manifest-remaining.json" if REMAINING else "manifest.json"), "w"), indent=1)
-print(len(manifest), "batches,", total, "questions", "(%d already rated, skipped)" % skipped if REMAINING else "")
+print(len(new), "new batches,", total, "questions;", len(manifest) - len(new), "in-progress batches kept;",
+      "%d questions already rated or in progress" % skipped if REMAINING else "")

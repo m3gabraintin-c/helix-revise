@@ -1,7 +1,7 @@
 export const meta = {
   name: 'rate-question-difficulty',
   description: 'Rate quiz questions 1-5 stars from VCAA report evidence: Haiku workers (research, verify, rewrite, judge, tie-break), Sonnet reviewers, code merges',
-  whenToUse: 'After scripts/difficulty_batches.py --remaining. args {root, packs, courses, qaOnly?}. Then run scripts/build_difficulty.py.',
+  whenToUse: 'After scripts/difficulty_batches.py --remaining. args {root, packs, courses: [[course, pack, [batches]]], qaOnly?}. Then run scripts/build_difficulty.py.',
   phases: [
     { title: 'Evidence', detail: 'Haiku workers research, fetch, verify and reword; code applies patches', model: 'haiku' },
     { title: 'Evidence review', detail: 'Sonnet accepts each pack or returns issues for a Haiku fixer', model: 'sonnet' },
@@ -12,7 +12,7 @@ export const meta = {
 
 // args: { root,
 //   packs: [[pack, needsResearch]]                       evidence packs to finish before their courses are judged
-//   courses: [[course, pack|null, batchCount]]           remaining batches difficulty/batches/<course>/r2-NNN.json
+//   courses: [[course, pack|null, [batch paths]]]        batches to rate, from manifest-remaining.json (any prefix)
 //   qaOnly?: [[course, pack|null, [batch paths]]]        rated earlier, only reviewed now }
 // Workers read and write files themselves and return only small counts, so this script's state stays small.
 const ROOT = args.root
@@ -141,8 +141,13 @@ Write ${work}.${who}.json as {"items": [{"id", "p", "confidence", "evidence": [e
 (create the folder). Work independently. Return {"done": <items written>}.`, `judge:${who}:${batch}`, 'Judge', COUNT)
   const merge = tag => runJson(`python3 scripts/merge_judges.py ${batch}`, `merge:${batch}:${tag}`, 'Judge', MERGE)
 
-  await Promise.all([judge('a'), judge('b')])
-  let m = await merge(0)
+  // Resume: a fresh run (no note) merges what is on disk first and only judges what is missing. A QA redo judges anew.
+  let m = note ? null : await merge('pre')
+  if (m?.written) return { batch, written: true }
+  if (!m || m.missing_a.length || m.missing_b.length) {
+    await Promise.all([(!m || m.missing_a.length) && judge('a'), (!m || m.missing_b.length) && judge('b')].filter(Boolean))
+    m = await merge(0)
+  }
   if (m && (m.missing_a.length || m.missing_b.length)) {
     stats.retries.push(`${batch}: re-judge (${m.missing_a.length}/${m.missing_b.length} missing)`)
     await Promise.all([m.missing_a.length && judge('a', `A previous attempt missed ${m.missing_a.length} questions. Write the complete file again.`),
@@ -181,18 +186,17 @@ Put a batch (its /batches/ path) in redo only for a real defect, with a one-line
   return { course, qa_groups: ok.length, accepted: ok.every(q => q.accept), redo: redo.length, redone_ok: redone.filter(x => x?.written).length }
 }
 
-async function course(c, pack, count) {
-  const batches = Array.from({ length: count }, (_, i) => `difficulty/batches/${c}/r2-${String(i).padStart(3, '0')}.json`)
+async function course(c, pack, batches) {
   const rated = await parallel(batches.map(b => () => rateBatch(c, pack, b)))
   const qa = await qaCourse(c, pack, batches.filter((_, i) => rated[i]?.written))
-  return { course: c, batches: count, written: rated.filter(x => x?.written).length, ...qa }
+  return { course: c, batches: batches.length, written: rated.filter(x => x?.written).length, ...qa }
 }
 
 const packs = args.packs || []
 const out = await Promise.all([
   pipeline(packs, ([pack, research]) => evidence(pack, research).then(accepted => ({ pack, accepted })),
-    ev => parallel((args.courses || []).filter(([, p]) => p === ev.pack).map(([c, p, n]) => () => course(c, p, n))).then(cs => ({ ...ev, courses: cs }))),
-  parallel((args.courses || []).filter(([, p]) => !p || !packs.some(([q]) => q === p)).map(([c, p, n]) => () => course(c, p, n))),
+    ev => parallel((args.courses || []).filter(([, p]) => p === ev.pack).map(([c, p, bs]) => () => course(c, p, bs))).then(cs => ({ ...ev, courses: cs }))),
+  parallel((args.courses || []).filter(([, p]) => !p || !packs.some(([q]) => q === p)).map(([c, p, bs]) => () => course(c, p, bs))),
   parallel((args.qaOnly || []).map(([c, p, bs]) => () => qaCourse(c, p, bs))),
 ])
 return { results: out, retries: stats.retries, failed: stats.failed }

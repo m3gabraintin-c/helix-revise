@@ -5,12 +5,12 @@ Every quiz question gets 1–5 stars and an estimated percentage of students who
 ## Pipeline
 
 ```bash
-python3 scripts/difficulty_batches.py --remaining   # unrated questions only -> difficulty/batches/<course>/r2-NNN.json + manifest-remaining.json
-# run difficulty/rate.workflow.js with args {root, packs: [[pack, needsResearch]], courses: [[course, pack|null, batchCount]], qaOnly?}
+python3 scripts/difficulty_batches.py --remaining --prefix r3-   # unrated questions -> difficulty/batches/<course>/r3-NNN.json + manifest-remaining.json
+# run difficulty/rate.workflow.js with args {root, packs: [[pack, needsResearch]], courses: [[course, pack|null, [batch paths from the manifest]]], qaOnly?}
 python3 scripts/build_difficulty.py                  # ratings -> checks -> `const DIFF = {...};` line in index.html
 ```
 
-Run `build_difficulty.py` again after any re-rating. Questions without a rating show no chip. `--remaining` never re-batches a question that is already rated. Every step writes its result to disk, so a stopped run resumes by running these commands again.
+Run `build_difficulty.py` again after any re-rating. Questions without a rating show no chip. Use a new `--prefix` each round, so a new batch never takes the name of an older one (the script checks). `--remaining` never re-batches a question that is already rated, and keeps batches that have judge files in `work/` (in progress) in the manifest. Every step writes its result to disk, and the workflow merges what is already on disk before it judges, so a stopped run resumes by running these commands again: only missing judges and tie-breaks run.
 
 ## Who does what
 
