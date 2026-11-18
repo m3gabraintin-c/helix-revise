@@ -3500,14 +3500,14 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. −25
 - D. −10
 
-**Q436.** 2 log_a 3 + log_a 4 − log_a 6 simplifies to
+**Q436.** 2 log_{a} 3 + log_{a} 4 − log_{a} 6 simplifies to
 <!-- id: methods12a2-log-4 -->
 *Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
-- A. log_a 4
-- B. log_a 6
-- C. log_a 30
-- D. log_a 18
+- A. log_{a} 4
+- B. log_{a} 6
+- C. log_{a} 30
+- D. log_{a} 18
 
 **Q437.** The inverse of f(x) = 2^x + 1 is f⁻¹(x) =
 <!-- id: methods12a2-log-5 -->
@@ -3650,7 +3650,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 - A. x³
 - B. 3^x
-- C. log_x 3
+- C. log_{x} 3
 - D. 1/log₃ x
 
 **Q454.** Given log₁₀ 2 = p, log₁₀ 5 equals
@@ -3689,7 +3689,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. y = 3
 - D. x = 3
 
-**Q458.** If log_a x = 2 and log_a y = 3, then log_a(x²y) equals
+**Q458.** If log_{a} x = 2 and log_{a} y = 3, then log_{a}(x²y) equals
 <!-- id: methods12a2-log-26 -->
 *Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
@@ -3728,7 +3728,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 *Written answer*
 
-**Q464.** Given log_a 2 = 0.35 and log_a 3 = 0.55, find (a) log_a 12 and (b) log_a(2/3). (3 marks)
+**Q464.** Given log_{a} 2 = 0.35 and log_{a} 3 = 0.55, find (a) log_{a} 12 and (b) log_{a}(2/3). (3 marks)
 <!-- id: methods12a2-log-32 -->
 *Info: Calculation · about 3 marks · about 4.5 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
@@ -3740,7 +3740,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 *Written answer*
 
-**Q466.** Use the log laws to show that log_a(1/b) = −log_a b for a > 0, a ≠ 1, b > 0. (2 marks)
+**Q466.** Use the log laws to show that log_{a}(1/b) = −log_{a} b for a > 0, a ≠ 1, b > 0. (2 marks)
 <!-- id: methods12a2-log-34 -->
 *Info: Calculation · about 2 marks · about 3 min · Exam relevance: High (core content that Units 3 & 4 build on); short answer, as in school exams and SACs*
 
@@ -3764,7 +3764,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 *Written answer*
 
-**Q470.** Given log_a 5 = m, what is log_a(25a) in terms of m?
+**Q470.** Given log_{a} 5 = m, what is log_{a}(25a) in terms of m?
 <!-- id: methods12a2-log-38 -->
 *Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
@@ -3929,7 +3929,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 <!-- id: methods12a2-expm-17 -->
 *Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
-- A. x = log_e 7
+- A. x = log_{e} 7
 - B. x = 7/e
 - C. x = e^7
 - D. x = log₇ e
@@ -4002,8 +4002,8 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 *Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (core content that Units 3 & 4 build on); multiple choice, as in school exams*
 
 - A. x = 1 and x = 2
-- B. x = 0 and x = log_e 2
-- C. x = log_e 1 and x = log_e 3
+- B. x = 0 and x = log_{e} 2
+- C. x = log_{e} 1 and x = log_{e} 3
 - D. x = 0 and x = 2
 
 **Q498.** A quantity decays as N = 400e^(−0.2t). The value of N when t = 5 is closest to
@@ -8818,7 +8818,7 @@ Let \(p(x) = x^3 + ax^2 - 4x + b\), where \(a\) and \(b\) are real constants. Wh
 
 - A. y = −e^x
 - B. y = −e^(−x)
-- C. y = log_e(x)
+- C. y = log_{e}(x)
 - D. y = e^(−x)
 
 **Q1089.** The graph of y = 1/x is reflected in the x-axis and then translated 2 units to the left. What is the rule of the image?
@@ -8920,7 +8920,7 @@ Let \(p(x) = x^3 + ax^2 - 4x + b\), where \(a\) and \(b\) are real constants. Wh
 - C. x = 3 and y = 2
 - D. x = 1 and y = 3
 
-**Q1101.** What is the equation of the vertical asymptote of y = log_e(x + 2) − 1?
+**Q1101.** What is the equation of the vertical asymptote of y = log_{e}(x + 2) − 1?
 <!-- id: methods-1-3-18 -->
 *Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
@@ -8977,7 +8977,7 @@ Let \(p(x) = x^3 + ax^2 - 4x + b\), where \(a\) and \(b\) are real constants. Wh
 
 *Written answer*
 
-**Q1108.** The graph of y = log_e(x) is dilated by a factor of 3 from the y-axis and then reflected in the x-axis. Find the rule of the image and state its domain.
+**Q1108.** The graph of y = log_{e}(x) is dilated by a factor of 3 from the y-axis and then reflected in the x-axis. Find the rule of the image and state its domain.
 <!-- id: methods-1-3-25 -->
 *Info: Calculation · about 3 marks · about 4.5 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
@@ -9114,7 +9114,7 @@ Let \(p(x) = x^3 + ax^2 - 4x + b\), where \(a\) and \(b\) are real constants. Wh
 - C. y = (2/3)x + 1/3
 - D. y = 6x + 1
 
-**Q1124.** What is the domain of the image of y = log_e(x) under T(x, y) = (−x, y + 4)?
+**Q1124.** What is the domain of the image of y = log_{e}(x) under T(x, y) = (−x, y + 4)?
 <!-- id: methods-1-4-15 -->
 *Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
@@ -9235,7 +9235,7 @@ Let \(p(x) = x^3 + ax^2 - 4x + b\), where \(a\) and \(b\) are real constants. Wh
 - C. y = 0
 - D. y = −3
 
-**Q1138.** What is the maximal domain of f(x) = log_e(2x − 6)?
+**Q1138.** What is the maximal domain of f(x) = log_{e}(2x − 6)?
 <!-- id: methods-2-1-3 -->
 *Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
@@ -9250,7 +9250,7 @@ Let \(p(x) = x^3 + ax^2 - 4x + b\), where \(a\) and \(b\) are real constants. Wh
 
 *Written answer*
 
-**Q1140.** What is the equation of the vertical asymptote of y = log_e(x + 4) − 2?
+**Q1140.** What is the equation of the vertical asymptote of y = log_{e}(x + 4) − 2?
 <!-- id: methods-2-1-5 -->
 *Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
@@ -9263,10 +9263,10 @@ Let \(p(x) = x^3 + ax^2 - 4x + b\), where \(a\) and \(b\) are real constants. Wh
 <!-- id: methods-2-1-6 -->
 *Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
-- A. f⁻¹(x) = ½log_e(x) − 1, x > 0
-- B. f⁻¹(x) = ½log_e(x − 1), x > 1
-- C. f⁻¹(x) = 2log_e(x − 1), x > 1
-- D. f⁻¹(x) = log_e(2x − 2), x > 1
+- A. f⁻¹(x) = ½log_{e}(x) − 1, x > 0
+- B. f⁻¹(x) = ½log_{e}(x − 1), x > 1
+- C. f⁻¹(x) = 2log_{e}(x − 1), x > 1
+- D. f⁻¹(x) = log_{e}(2x − 2), x > 1
 
 **Q1142.** For y = 2 − e^x, state the equation of the asymptote, the axis intercepts and the range.
 <!-- id: methods-2-1-7 -->
@@ -9274,7 +9274,7 @@ Let \(p(x) = x^3 + ax^2 - 4x + b\), where \(a\) and \(b\) are real constants. Wh
 
 *Written answer*
 
-**Q1143.** Find the inverse of f: (2, ∞) → R, f(x) = log_e(x − 2) + 3.
+**Q1143.** Find the inverse of f: (2, ∞) → R, f(x) = log_{e}(x − 2) + 3.
 <!-- id: methods-2-1-8 -->
 *Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
@@ -9292,7 +9292,7 @@ Let \(p(x) = x^3 + ax^2 - 4x + b\), where \(a\) and \(b\) are real constants. Wh
 - C. (0, −8)
 - D. (0, 3)
 
-**Q1145.** Find the x-intercept of y = log_e(x) + 2.
+**Q1145.** Find the x-intercept of y = log_{e}(x) + 2.
 <!-- id: methods-2-1-10 -->
 *Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
@@ -9301,7 +9301,7 @@ Let \(p(x) = x^3 + ax^2 - 4x + b\), where \(a\) and \(b\) are real constants. Wh
 - C. x = e^(−2)
 - D. x = e²
 
-**Q1146.** For g: (1, ∞) → R, g(x) = log_e(x − 1) + 1, find the x-intercept and the asymptote, and explain why there is no y-intercept.
+**Q1146.** For g: (1, ∞) → R, g(x) = log_{e}(x − 1) + 1, find the x-intercept and the asymptote, and explain why there is no y-intercept.
 <!-- id: methods-2-1-11 -->
 *Info: Calculation · about 3 marks · about 4.5 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
@@ -9311,9 +9311,9 @@ Let \(p(x) = x^3 + ax^2 - 4x + b\), where \(a\) and \(b\) are real constants. Wh
 <!-- id: methods-2-1-12 -->
 *Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
-- A. x = log_e(2)
-- B. x = log_e(6)
-- C. x = log_e(3)
+- A. x = log_{e}(2)
+- B. x = log_{e}(6)
+- C. x = log_{e}(3)
 - D. x = 3
 
 **Q1148.** The graph of y = e^x is reflected in the y-axis and then translated 2 units up. The rule of the image is
@@ -9331,14 +9331,14 @@ Let \(p(x) = x^3 + ax^2 - 4x + b\), where \(a\) and \(b\) are real constants. Wh
 
 *Written answer*
 
-**Q1150.** The graph of y = log_e(x) is dilated by a factor of 3 from the y-axis. The rule of the image is
+**Q1150.** The graph of y = log_{e}(x) is dilated by a factor of 3 from the y-axis. The rule of the image is
 <!-- id: methods-2-1-15 -->
 *Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
-- A. y = (1/3)log_e(x)
-- B. y = log_e(x/3)
-- C. y = log_e(3x)
-- D. y = 3log_e(x)
+- A. y = (1/3)log_{e}(x)
+- B. y = log_{e}(x/3)
+- C. y = log_{e}(3x)
+- D. y = 3log_{e}(x)
 
 **Q1151.** What is the range of f: [0, 2] → R, f(x) = e^x − 1?
 <!-- id: methods-2-1-16 -->
@@ -9353,9 +9353,9 @@ Let \(p(x) = x^3 + ax^2 - 4x + b\), where \(a\) and \(b\) are real constants. Wh
 <!-- id: methods-2-1-17 -->
 *Info: Application · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
-- A. 0.2log_e(4) hours
-- B. log_e(4)/5 hours
-- C. 5log_e(4) hours
+- A. 0.2log_{e}(4) hours
+- B. log_{e}(4)/5 hours
+- C. 5log_{e}(4) hours
 - D. 20 hours
 
 **Q1153.** Describe a sequence of transformations that maps the graph of y = e^x onto the graph of y = 2e^(x − 1) + 3.
@@ -9378,11 +9378,11 @@ Let \(p(x) = x^3 + ax^2 - 4x + b\), where \(a\) and \(b\) are real constants. Wh
 *Info: Application · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 1/20
-- B. log_e(2)/10
-- C. 10log_e(2)
-- D. log_e(10)/2
+- B. log_{e}(2)/10
+- C. 10log_{e}(2)
+- D. log_{e}(10)/2
 
-**Q1156.** The graph of y = a log_e(x) + b passes through (1, 4) and (e, 10). Find a and b.
+**Q1156.** The graph of y = a log_{e}(x) + b passes through (1, 4) and (e, 10). Find a and b.
 <!-- id: methods-2-1-21 -->
 *Info: Calculation · about 2 marks · about 3 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
@@ -9397,7 +9397,7 @@ Let \(p(x) = x^3 + ax^2 - 4x + b\), where \(a\) and \(b\) are real constants. Wh
 - C. a = 1, b = 3
 - D. a = 3e², b = 1
 
-**Q1158.** The graphs of y = e^x and y = log_e(x) are reflections of each other in the line
+**Q1158.** The graphs of y = e^x and y = log_{e}(x) are reflections of each other in the line
 <!-- id: methods-2-1-23 -->
 *Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
@@ -9406,7 +9406,7 @@ Let \(p(x) = x^3 + ax^2 - 4x + b\), where \(a\) and \(b\) are real constants. Wh
 - C. x = 0 (the y-axis)
 - D. y = −x
 
-**Q1159.** What is the maximal domain of f(x) = log_e(4 − x²)?
+**Q1159.** What is the maximal domain of f(x) = log_{e}(4 − x²)?
 <!-- id: methods-2-1-24 -->
 *Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
@@ -9415,7 +9415,7 @@ Let \(p(x) = x^3 + ax^2 - 4x + b\), where \(a\) and \(b\) are real constants. Wh
 - C. (0, 2)
 - D. (−2, 2)
 
-**Q1160.** Find the range of h: (0, e²] → R, h(x) = 1 − log_e(x).
+**Q1160.** Find the range of h: (0, e²] → R, h(x) = 1 − log_{e}(x).
 <!-- id: methods-2-1-25 -->
 *Info: Calculation · about 2 marks · about 3 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
@@ -9432,7 +9432,7 @@ Let \(p(x) = x^3 + ax^2 - 4x + b\), where \(a\) and \(b\) are real constants. Wh
 
 *Exam relevance: High (comes up in most exams) · Prerequisites: Logarithms and log laws (Mathematical Methods, Units 1 & 2); Exponential equations and modelling (Mathematical Methods, Units 1 & 2)*
 
-**Q1162.** Evaluate log_2(32).
+**Q1162.** Evaluate log_{2}(32).
 <!-- id: methods-2-2-1 -->
 *Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
@@ -9441,21 +9441,21 @@ Let \(p(x) = x^3 + ax^2 - 4x + b\), where \(a\) and \(b\) are real constants. Wh
 - C. 4
 - D. 5
 
-**Q1163.** log_e(8) − log_e(2) is equal to
+**Q1163.** log_{e}(8) − log_{e}(2) is equal to
 <!-- id: methods-2-2-2 -->
 *Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
-- A. log_e(4)
-- B. log_e(8)/log_e(2)
-- C. log_e(6)
-- D. log_e(16)
+- A. log_{e}(4)
+- B. log_{e}(8)/log_{e}(2)
+- C. log_{e}(6)
+- D. log_{e}(16)
 
-**Q1164.** Evaluate 2log_3(6) − log_3(4).
+**Q1164.** Evaluate 2log_{3}(6) − log_{3}(4).
 <!-- id: methods-2-2-3 -->
 *Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 2
-- B. log_3(8)
+- B. log_{3}(8)
 - C. 3
 - D. 1
 
@@ -9469,9 +9469,9 @@ Let \(p(x) = x^3 + ax^2 - 4x + b\), where \(a\) and \(b\) are real constants. Wh
 <!-- id: methods-2-2-5 -->
 *Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
-- A. x = log_e(3.5)
-- B. x = ½log_e(7)
-- C. x = 2log_e(7)
+- A. x = log_{e}(3.5)
+- B. x = ½log_{e}(7)
+- C. x = 2log_{e}(7)
 - D. x = e^(7/2)
 
 **Q1167.** Solve 3^x = 10 for x.
@@ -9479,17 +9479,17 @@ Let \(p(x) = x^3 + ax^2 - 4x + b\), where \(a\) and \(b\) are real constants. Wh
 *Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. x = 10/3
-- B. x = log_e(10/3)
-- C. x = log_e(10)/log_e(3)
-- D. x = log_e(3)/log_e(10)
+- B. x = log_{e}(10/3)
+- C. x = log_{e}(10)/log_{e}(3)
+- D. x = log_{e}(3)/log_{e}(10)
 
-**Q1168.** Solve log_2(x) + log_2(x + 2) = 3.
+**Q1168.** Solve log_{2}(x) + log_{2}(x + 2) = 3.
 <!-- id: methods-2-2-7 -->
 *Info: Calculation · about 2 marks · about 3 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
-**Q1169.** Solve log_2(x + 3) = 4.
+**Q1169.** Solve log_{2}(x + 3) = 4.
 <!-- id: methods-2-2-8 -->
 *Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
@@ -9498,7 +9498,7 @@ Let \(p(x) = x^3 + ax^2 - 4x + b\), where \(a\) and \(b\) are real constants. Wh
 - C. x = 16
 - D. x = 1
 
-**Q1170.** Solve log_e(x) + log_e(x − 3) = log_e(10).
+**Q1170.** Solve log_{e}(x) + log_{e}(x − 3) = log_{e}(10).
 <!-- id: methods-2-2-9 -->
 *Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
@@ -9512,9 +9512,9 @@ Let \(p(x) = x^3 + ax^2 - 4x + b\), where \(a\) and \(b\) are real constants. Wh
 *Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. x = 2 or x = 3
-- B. x = log_e(6)
-- C. x = −log_e(2) or x = −log_e(3)
-- D. x = log_e(2) or x = log_e(3)
+- B. x = log_{e}(6)
+- C. x = −log_{e}(2) or x = −log_{e}(3)
+- D. x = log_{e}(2) or x = log_{e}(3)
 
 **Q1172.** Solve e^x − 6e^(−x) = 1 for x.
 <!-- id: methods-2-2-11 -->
@@ -9527,11 +9527,11 @@ Let \(p(x) = x^3 + ax^2 - 4x + b\), where \(a\) and \(b\) are real constants. Wh
 *Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. x = 4 or x = −3
-- B. x = log_e(4) only
-- C. x = log_e(3) only
-- D. x = log_e(4) or x = log_e(−3)
+- B. x = log_{e}(4) only
+- C. x = log_{e}(3) only
+- D. x = log_{e}(4) or x = log_{e}(−3)
 
-**Q1174.** For x > 0, e^(3log_e(x)) simplifies to
+**Q1174.** For x > 0, e^(3log_{e}(x)) simplifies to
 <!-- id: methods-2-2-13 -->
 *Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
@@ -9540,13 +9540,13 @@ Let \(p(x) = x^3 + ax^2 - 4x + b\), where \(a\) and \(b\) are real constants. Wh
 - C. x³
 - D. 3x
 
-**Q1175.** Find the exact value of log_e(e²) + log_e(1) − 3log_e(e^(−1)).
+**Q1175.** Find the exact value of log_{e}(e²) + log_{e}(1) − 3log_{e}(e^(−1)).
 <!-- id: methods-2-2-14 -->
 *Info: Calculation · about 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
-**Q1176.** Evaluate log_e(√e).
+**Q1176.** Evaluate log_{e}(√e).
 <!-- id: methods-2-2-15 -->
 *Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
@@ -9555,7 +9555,7 @@ Let \(p(x) = x^3 + ax^2 - 4x + b\), where \(a\) and \(b\) are real constants. Wh
 - C. ½
 - D. √e
 
-**Q1177.** If log_a(2) = p and log_a(3) = q, then log_a(12) equals
+**Q1177.** If log_{a}(2) = p and log_{a}(3) = q, then log_{a}(12) equals
 <!-- id: methods-2-2-16 -->
 *Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
@@ -9564,14 +9564,14 @@ Let \(p(x) = x^3 + ax^2 - 4x + b\), where \(a\) and \(b\) are real constants. Wh
 - C. p + 2q
 - D. 2p + q
 
-**Q1178.** log_e(x) − 2log_e(y) + log_e(z) can be written as
+**Q1178.** log_{e}(x) − 2log_{e}(y) + log_{e}(z) can be written as
 <!-- id: methods-2-2-17 -->
 *Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
-- A. log_e(xz/y²)
-- B. log_e(x/(y²z))
-- C. log_e(xz/(2y))
-- D. log_e(x − 2y + z)
+- A. log_{e}(xz/y²)
+- B. log_{e}(x/(y²z))
+- C. log_{e}(xz/(2y))
+- D. log_{e}(x − 2y + z)
 
 **Q1179.** Solve 5^(2x) = 3^(x + 1) for x, giving an exact answer and a value correct to three decimal places.
 <!-- id: methods-2-2-18 -->
@@ -9583,12 +9583,12 @@ Let \(p(x) = x^3 + ax^2 - 4x + b\), where \(a\) and \(b\) are real constants. Wh
 <!-- id: methods-2-2-19 -->
 *Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
-- A. x = log_e(2)/log_e(2.5)
-- B. x = 1/log_e(2.5)
-- C. x = log_e(5)/log_e(2) − 1
-- D. x = log_e(2)/log_e(5)
+- A. x = log_{e}(2)/log_{e}(2.5)
+- B. x = 1/log_{e}(2.5)
+- C. x = log_{e}(5)/log_{e}(2) − 1
+- D. x = log_{e}(2)/log_{e}(5)
 
-**Q1181.** Solve log_e(2x − 1) = 3.
+**Q1181.** Solve log_{e}(2x − 1) = 3.
 <!-- id: methods-2-2-20 -->
 *Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
@@ -9597,7 +9597,7 @@ Let \(p(x) = x^3 + ax^2 - 4x + b\), where \(a\) and \(b\) are real constants. Wh
 - C. x = 2
 - D. x = e³/2 + 1
 
-**Q1182.** Solve log_e(x + 1) − log_e(x) = log_e(3).
+**Q1182.** Solve log_{e}(x + 1) − log_{e}(x) = log_{e}(3).
 <!-- id: methods-2-2-21 -->
 *Info: Calculation · about 2 marks · about 3 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
@@ -9607,12 +9607,12 @@ Let \(p(x) = x^3 + ax^2 - 4x + b\), where \(a\) and \(b\) are real constants. Wh
 <!-- id: methods-2-2-22 -->
 *Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
-- A. x = log_2(3)
+- A. x = log_{2}(3)
 - B. x = 2 or x = 0
 - C. x = 4
 - D. x = 2
 
-**Q1184.** Solve log_3(x) = −2.
+**Q1184.** Solve log_{3}(x) = −2.
 <!-- id: methods-2-2-23 -->
 *Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
@@ -9621,14 +9621,14 @@ Let \(p(x) = x^3 + ax^2 - 4x + b\), where \(a\) and \(b\) are real constants. Wh
 - C. x = 9
 - D. x = −9
 
-**Q1185.** For x > 0, log_e(1/x²) is equal to
+**Q1185.** For x > 0, log_{e}(1/x²) is equal to
 <!-- id: methods-2-2-24 -->
 *Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
-- A. 1/(2log_e(x))
-- B. −log_e(2x)
-- C. −2log_e(x)
-- D. ½log_e(x)
+- A. 1/(2log_{e}(x))
+- B. −log_{e}(2x)
+- C. −2log_{e}(x)
+- D. ½log_{e}(x)
 
 **Q1186.** Two towns have populations P = 1200e^(0.04t) and Q = 900e^(0.07t), t years from now. Find when the populations are equal, correct to two decimal places.
 <!-- id: methods-2-2-25 -->
@@ -10091,7 +10091,7 @@ Let \(p(x) = x^3 + ax^2 - 4x + b\), where \(a\) and \(b\) are real constants. Wh
 - C. x ≤ 4
 - D. x < 2
 
-**Q1241.** What is the maximal domain of f(x) = log_e(x − 3)?
+**Q1241.** What is the maximal domain of f(x) = log_{e}(x − 3)?
 <!-- id: methods-3-1-2 -->
 *Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
@@ -10181,7 +10181,7 @@ Let \(p(x) = x^3 + ax^2 - 4x + b\), where \(a\) and \(b\) are real constants. Wh
 
 *Written answer*
 
-**Q1252.** Let g: (0, ∞) → R, g(x) = log_e(x) and f: D → R, f(x) = x². For g(f(x)) to be defined, which of the following could be D?
+**Q1252.** Let g: (0, ∞) → R, g(x) = log_{e}(x) and f: D → R, f(x) = x². For g(f(x)) to be defined, which of the following could be D?
 <!-- id: methods-3-1-13 -->
 *Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
@@ -10208,13 +10208,13 @@ Let \(p(x) = x^3 + ax^2 - 4x + b\), where \(a\) and \(b\) are real constants. Wh
 - C. (1, ∞)
 - D. [1, ∞)
 
-**Q1255.** Find the maximal domain of f(x) = log_e(5 − x) + √(x + 2).
+**Q1255.** Find the maximal domain of f(x) = log_{e}(5 − x) + √(x + 2).
 <!-- id: methods-3-1-16 -->
 *Info: Calculation · about 2 marks · about 3 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
 *Written answer*
 
-**Q1256.** What is the maximal domain of f(x) = log_e(x² − 4x)?
+**Q1256.** What is the maximal domain of f(x) = log_{e}(x² − 4x)?
 <!-- id: methods-3-1-17 -->
 *Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
@@ -10256,7 +10256,7 @@ Let \(p(x) = x^3 + ax^2 - 4x + b\), where \(a\) and \(b\) are real constants. Wh
 - C. 6x − 4
 - D. 9x − 8
 
-**Q1261.** What is the range of f: (1, e³] → R, f(x) = log_e(x)?
+**Q1261.** What is the range of f: (1, e³] → R, f(x) = log_{e}(x)?
 <!-- id: methods-3-1-22 -->
 *Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
@@ -10274,7 +10274,7 @@ Let \(p(x) = x^3 + ax^2 - 4x + b\), where \(a\) and \(b\) are real constants. Wh
 - C. f: [0, 2π] → R, f(x) = cos(x)
 - D. f: R → R, f(x) = |x|
 
-**Q1263.** Let f(x) = e^(2x) and g: (0, ∞) → R, g(x) = log_e(x). Find the rule, domain and range of f(g(x)).
+**Q1263.** Let f(x) = e^(2x) and g: (0, ∞) → R, g(x) = log_{e}(x). Find the rule, domain and range of f(g(x)).
 <!-- id: methods-3-1-24 -->
 *Info: Calculation · about 3 marks · about 4.5 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
@@ -10313,12 +10313,12 @@ Let \(p(x) = x^3 + ax^2 - 4x + b\), where \(a\) and \(b\) are real constants. Wh
 <!-- id: methods-3-2-2 -->
 *Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
-- A. f⁻¹(x) = log_e(x) − 2
-- B. f⁻¹(x) = log_e(x + 2)
+- A. f⁻¹(x) = log_{e}(x) − 2
+- B. f⁻¹(x) = log_{e}(x + 2)
 - C. f⁻¹(x) = e^(x − 2)
-- D. f⁻¹(x) = log_e(x − 2)
+- D. f⁻¹(x) = log_{e}(x − 2)
 
-**Q1268.** Let f: (0, ∞) → R, f(x) = log_e(2x). The rule of f⁻¹ is
+**Q1268.** Let f: (0, ∞) → R, f(x) = log_{e}(2x). The rule of f⁻¹ is
 <!-- id: methods-3-2-3 -->
 *Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
@@ -10408,7 +10408,7 @@ Let \(p(x) = x^3 + ax^2 - 4x + b\), where \(a\) and \(b\) are real constants. Wh
 - C. line y = −x
 - D. line y = x
 
-**Q1279.** Let f: (1, ∞) → R, f(x) = log_e(x − 1) + 2. The domain and range of f⁻¹ are
+**Q1279.** Let f: (1, ∞) → R, f(x) = log_{e}(x − 1) + 2. The domain and range of f⁻¹ are
 <!-- id: methods-3-2-14 -->
 *Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
@@ -10445,10 +10445,10 @@ Let \(p(x) = x^3 + ax^2 - 4x + b\), where \(a\) and \(b\) are real constants. Wh
 <!-- id: methods-3-2-18 -->
 *Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
-- A. f⁻¹(x) = (log_e(x) − 1)/2
-- B. f⁻¹(x) = log_e(2x − 1)
-- C. f⁻¹(x) = 2log_e(x) + 1
-- D. f⁻¹(x) = (log_e(x) + 1)/2
+- A. f⁻¹(x) = (log_{e}(x) − 1)/2
+- B. f⁻¹(x) = log_{e}(2x − 1)
+- C. f⁻¹(x) = 2log_{e}(x) + 1
+- D. f⁻¹(x) = (log_{e}(x) + 1)/2
 
 **Q1284.** Which one of the following functions does NOT have an inverse function?
 <!-- id: methods-3-2-19 -->
@@ -10459,7 +10459,7 @@ Let \(p(x) = x^3 + ax^2 - 4x + b\), where \(a\) and \(b\) are real constants. Wh
 - C. f: R → R, f(x) = e^(−x)
 - D. f: [0, ∞) → R, f(x) = √x
 
-**Q1285.** Let f: (−3, ∞) → R, f(x) = log_e(x + 3) − 1. Find f⁻¹ and state its range.
+**Q1285.** Let f: (−3, ∞) → R, f(x) = log_{e}(x + 3) − 1. Find f⁻¹ and state its range.
 <!-- id: methods-3-2-20 -->
 *Info: Calculation · about 2 marks · about 3 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
@@ -10524,7 +10524,7 @@ Let \(p(x) = x^3 + ax^2 - 4x + b\), where \(a\) and \(b\) are real constants. Wh
 - C. (0, ∞)
 - D. R \ {0}
 
-**Q1293.** Let f(x) = log_e(x) and g(x) = √(4 − x), each with its maximal domain. The domain of f + g is
+**Q1293.** Let f(x) = log_{e}(x) and g(x) = √(4 − x), each with its maximal domain. The domain of f + g is
 <!-- id: methods-3-3-2 -->
 *Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
@@ -10571,11 +10571,11 @@ Let \(p(x) = x^3 + ax^2 - 4x + b\), where \(a\) and \(b\) are real constants. Wh
 *Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
 - A. f(x) = e^x
-- B. f(x) = log_e(x)
+- B. f(x) = log_{e}(x)
 - C. f(x) = x²
 - D. f(x) = 2x
 
-**Q1299.** Show that f(x) = log_e(x) satisfies f(x/y) = f(x) − f(y) for all x, y > 0.
+**Q1299.** Show that f(x) = log_{e}(x) satisfies f(x/y) = f(x) − f(y) for all x, y > 0.
 <!-- id: methods-3-3-8 -->
 *Info: Proof · about 3 marks · about 4.5 min · Exam relevance: Medium (comes up regularly in exams); short answer, as in Exam 1 or Exam 2*
 
@@ -10603,16 +10603,16 @@ Let \(p(x) = x^3 + ax^2 - 4x + b\), where \(a\) and \(b\) are real constants. Wh
 - A. f(x) = 2x
 - B. f(x) = x²
 - C. f(x) = e^x
-- D. f(x) = log_e(x)
+- D. f(x) = log_{e}(x)
 
-**Q1303.** If f(x) = log_e(x), then for a, b > 0, f(a) + f(b) is equal to
+**Q1303.** If f(x) = log_{e}(x), then for a, b > 0, f(a) + f(b) is equal to
 <!-- id: methods-3-3-15 -->
 *Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
-- A. log_e(a + b)
-- B. log_e(a)·log_e(b)
-- C. log_e(a/b)
-- D. log_e(ab)
+- A. log_{e}(a + b)
+- B. log_{e}(a)·log_{e}(b)
+- C. log_{e}(a/b)
+- D. log_{e}(ab)
 
 **Q1304.** Find the value of n such that f(x) = xⁿ satisfies f(2x) = 8f(x) for all real x.
 <!-- id: methods-3-3-16 -->
@@ -10653,7 +10653,7 @@ Let \(p(x) = x^3 + ax^2 - 4x + b\), where \(a\) and \(b\) are real constants. Wh
 
 *Written answer*
 
-**Q1309.** Let f(x) = 1/x and g(x) = log_e(x + 2), each with its maximal domain. The domain of fg is
+**Q1309.** Let f(x) = 1/x and g(x) = log_{e}(x + 2), each with its maximal domain. The domain of fg is
 <!-- id: methods-3-3-21 -->
 *Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
@@ -11368,21 +11368,21 @@ Let \(p(x) = x^3 + ax^2 - 4x + b\), where \(a\) and \(b\) are real constants. Wh
 - C. (1/3)e^(3x)
 - D. 3xe^(3x)
 
-**Q1394.** If y = log_e(5x), x > 0, then dy/dx equals:
+**Q1394.** If y = log_{e}(5x), x > 0, then dy/dx equals:
 <!-- id: methods-4-3-2 -->
 *Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 5/x
 - B. 1/x
 - C. 1/(5x)
-- D. log_e(5)/x
+- D. log_{e}(5)/x
 
-**Q1395.** If y = log_e(x² + 1), then dy/dx equals:
+**Q1395.** If y = log_{e}(x² + 1), then dy/dx equals:
 <!-- id: methods-4-3-3 -->
 *Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 1/(x² + 1)
-- B. 2x·log_e(x² + 1)
+- B. 2x·log_{e}(x² + 1)
 - C. 2x/(x² + 1)
 - D. (x² + 1)/(2x)
 
@@ -11431,14 +11431,14 @@ Let \(p(x) = x^3 + ax^2 - 4x + b\), where \(a\) and \(b\) are real constants. Wh
 - C. 2e^(x²)
 - D. 2xe^(x²)
 
-**Q1401.** The derivative of log_e(x)/x, x > 0, is:
+**Q1401.** The derivative of log_{e}(x)/x, x > 0, is:
 <!-- id: methods-4-3-9 -->
 *Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
-- A. (1 − log_e x)/x²
-- B. (log_e x − 1)/x²
+- A. (1 − log_{e} x)/x²
+- B. (log_{e} x − 1)/x²
 - C. 1/x²
-- D. (1 + log_e x)/x²
+- D. (1 + log_{e} x)/x²
 
 **Q1402.** If f(x) = sin²(x), then f′(x) equals:
 <!-- id: methods-4-3-10 -->
@@ -11458,7 +11458,7 @@ Let \(p(x) = x^3 + ax^2 - 4x + b\), where \(a\) and \(b\) are real constants. Wh
 - C. e^(−x)(cos x − sin x)
 - D. e^(−x)(sin x − cos x)
 
-**Q1404.** If f(x) = log_e(cos x), for 0 < x < π/2, then f′(x) equals:
+**Q1404.** If f(x) = log_{e}(cos x), for 0 < x < π/2, then f′(x) equals:
 <!-- id: methods-4-3-12 -->
 *Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
@@ -11485,7 +11485,7 @@ Let \(p(x) = x^3 + ax^2 - 4x + b\), where \(a\) and \(b\) are real constants. Wh
 - C. 3
 - D. −3π/2
 
-**Q1407.** For x > 1, the derivative of log_e((x − 1)/(x + 1)) is:
+**Q1407.** For x > 1, the derivative of log_{e}((x − 1)/(x + 1)) is:
 <!-- id: methods-4-3-15 -->
 *Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
@@ -11512,14 +11512,14 @@ Let \(p(x) = x^3 + ax^2 - 4x + b\), where \(a\) and \(b\) are real constants. Wh
 - C. 3π/4
 - D. 0
 
-**Q1410.** The derivative of log_e(e^(3x) + 1) is:
+**Q1410.** The derivative of log_{e}(e^(3x) + 1) is:
 <!-- id: methods-4-3-18 -->
 *Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. e^(3x)/(e^(3x) + 1)
 - B. 3e^(3x)/(e^(3x) + 1)
 - C. 1/(e^(3x) + 1)
-- D. 3e^(3x)·log_e(e^(3x) + 1)
+- D. 3e^(3x)·log_{e}(e^(3x) + 1)
 
 **Q1411.** Differentiate y = x²e^(−2x) and find the x-values of its stationary points.
 <!-- id: methods-4-3-19 -->
@@ -11527,7 +11527,7 @@ Let \(p(x) = x^3 + ax^2 - 4x + b\), where \(a\) and \(b\) are real constants. Wh
 
 *Written answer*
 
-**Q1412.** For y = log_e(x² − 4x + 5), find dy/dx and the value of x where the gradient is zero.
+**Q1412.** For y = log_{e}(x² − 4x + 5), find dy/dx and the value of x where the gradient is zero.
 <!-- id: methods-4-3-20 -->
 *Info: Calculation · about 3 marks · about 4.5 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
@@ -11551,7 +11551,7 @@ Let \(p(x) = x^3 + ax^2 - 4x + b\), where \(a\) and \(b\) are real constants. Wh
 
 *Written answer*
 
-**Q1416.** For f(x) = log_e(√(2x + 1)), find f′(x) and f′(4).
+**Q1416.** For f(x) = log_{e}(√(2x + 1)), find f′(x) and f′(4).
 <!-- id: methods-4-3-24 -->
 *Info: Calculation · about 2 marks · about 3 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
@@ -11613,7 +11613,7 @@ Let \(p(x) = x^3 + ax^2 - 4x + b\), where \(a\) and \(b\) are real constants. Wh
 - C. y = x − 1
 - D. y = x + 1
 
-**Q1423.** The equation of the tangent to y = log_e(x) at x = e is:
+**Q1423.** The equation of the tangent to y = log_{e}(x) at x = e is:
 <!-- id: methods-4-4-5 -->
 *Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
@@ -11769,7 +11769,7 @@ Let \(p(x) = x^3 + ax^2 - 4x + b\), where \(a\) and \(b\) are real constants. Wh
 
 *Written answer*
 
-**Q1442.** Find the equation of the tangent to y = log_e(x) at x = e², and its x-intercept.
+**Q1442.** Find the equation of the tangent to y = log_{e}(x) at x = e², and its x-intercept.
 <!-- id: methods-4-4-24 -->
 *Info: Calculation · about 2 marks · about 3 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
@@ -11839,7 +11839,7 @@ Let \(p(x) = x^3 + ax^2 - 4x + b\), where \(a\) and \(b\) are real constants. Wh
 - C. (0, 0)
 - D. (−1, −e)
 
-**Q1450.** For f(x) = x log_e(x), x > 0, the stationary point occurs at x =
+**Q1450.** For f(x) = x log_{e}(x), x > 0, the stationary point occurs at x =
 <!-- id: methods-5-1-6 -->
 *Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
@@ -11924,10 +11924,10 @@ Let \(p(x) = x^3 + ax^2 - 4x + b\), where \(a\) and \(b\) are real constants. Wh
 <!-- id: methods-5-1-15 -->
 *Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
-- A. log_e(2)
-- B. 2 log_e(2)
-- C. ½ log_e(2)
-- D. log_e(½)
+- A. log_{e}(2)
+- B. 2 log_{e}(2)
+- C. ½ log_{e}(2)
+- D. log_{e}(½)
 
 **Q1460.** For y = x + 4/x, x > 0, the minimum turning point is
 <!-- id: methods-5-1-16 -->
@@ -11986,7 +11986,7 @@ Let \(p(x) = x^3 + ax^2 - 4x + b\), where \(a\) and \(b\) are real constants. Wh
 
 *Written answer*
 
-**Q1468.** Find the stationary point of y = log_e(x) − x and determine its nature.
+**Q1468.** Find the stationary point of y = log_{e}(x) − x and determine its nature.
 <!-- id: methods-5-1-24 -->
 *Info: Calculation · about 2 marks · about 3 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
@@ -12254,7 +12254,7 @@ Let \(p(x) = x^3 + ax^2 - 4x + b\), where \(a\) and \(b\) are real constants. Wh
 - C. (−∞, 0]
 - D. [−1, 1]
 
-**Q1500.** The function f(x) = log_e(x) − 2x, x > 0, is strictly increasing on
+**Q1500.** The function f(x) = log_{e}(x) − 2x, x > 0, is strictly increasing on
 <!-- id: methods-5-3-4 -->
 *Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
@@ -12440,10 +12440,10 @@ Let \(p(x) = x^3 + ax^2 - 4x + b\), where \(a\) and \(b\) are real constants. Wh
 <!-- id: methods-5-4-1 -->
 *Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Low (comes up less often in exams); multiple choice, as in Exam 2 Section A*
 
-- A. x_(n+1) = x_n − f(x_n)/f′(x_n)
-- B. x_(n+1) = x_n + f(x_n)/f′(x_n)
-- C. x_(n+1) = x_n − f′(x_n)/f(x_n)
-- D. x_(n+1) = f(x_n)/f′(x_n)
+- A. x_{n+1} = x_{n} − f(x_{n})/f′(x_{n})
+- B. x_{n+1} = x_{n} + f(x_{n})/f′(x_{n})
+- C. x_{n+1} = x_{n} − f′(x_{n})/f(x_{n})
+- D. x_{n+1} = f(x_{n})/f′(x_{n})
 
 **Q1523.** Using Newton's method on f(x) = x² − 5 with x₀ = 2, the value of x₁ is
 <!-- id: methods-5-4-2 -->
@@ -12544,14 +12544,14 @@ Let \(p(x) = x^3 + ax^2 - 4x + b\), where \(a\) and \(b\) are real constants. Wh
 - C. give x₁ exactly equal to the root
 - D. give an x₁ far from x₀, because the tangent is nearly horizontal
 
-**Q1534.** Using Newton's method on f(x) = log_e(x) − 1 with x₀ = 2, the exact value of x₁ is
+**Q1534.** Using Newton's method on f(x) = log_{e}(x) − 1 with x₀ = 2, the exact value of x₁ is
 <!-- id: methods-5-4-13 -->
 *Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Low (comes up less often in exams); multiple choice, as in Exam 2 Section A*
 
-- A. 4 − 2log_e(2)
-- B. 2 − 2log_e(2)
-- C. 2 + log_e(2)
-- D. 2log_e(2)
+- A. 4 − 2log_{e}(2)
+- B. 2 − 2log_{e}(2)
+- C. 2 + log_{e}(2)
+- D. 2log_{e}(2)
 
 **Q1535.** If f(x₀) = 0 exactly and f′(x₀) ≠ 0, Newton's method gives x₁ =
 <!-- id: methods-5-4-14 -->
@@ -12677,17 +12677,17 @@ Let \(p(x) = x^3 + ax^2 - 4x + b\), where \(a\) and \(b\) are real constants. Wh
 
 - A. −1/x² + c
 - B. 1/(2x²) + c
-- C. log_e(x) + c
+- C. log_{e}(x) + c
 - D. e^x + c
 
 **Q1551.** For x > −1/2, ∫ 1/(2x + 1) dx is
 <!-- id: methods-6-1-4 -->
 *Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
-- A. 2log_e(2x + 1) + c
-- B. log_e(2x + 1) + c
+- A. 2log_{e}(2x + 1) + c
+- B. log_{e}(2x + 1) + c
 - C. −1/(2x + 1)² + c
-- D. (1/2)log_e(2x + 1) + c
+- D. (1/2)log_{e}(2x + 1) + c
 
 **Q1552.** Find ∫ sin(2x) dx.
 <!-- id: methods-6-1-5 -->
@@ -12732,7 +12732,7 @@ Let \(p(x) = x^3 + ax^2 - 4x + b\), where \(a\) and \(b\) are real constants. Wh
 - A. −1/x + c
 - B. 1/x + c
 - C. −2/x³ + c
-- D. log_e(x²) + c
+- D. log_{e}(x²) + c
 
 **Q1557.** Given f′(x) = 6x² − 2 and f(1) = 5, the rule for f(x) is
 <!-- id: methods-6-1-10 -->
@@ -12743,14 +12743,14 @@ Let \(p(x) = x^3 + ax^2 - 4x + b\), where \(a\) and \(b\) are real constants. Wh
 - C. f(x) = 6x³ − 2x + 1
 - D. f(x) = 2x³ − 2x
 
-**Q1558.** Given that d/dx(x log_e(x)) = log_e(x) + 1, ∫ log_e(x) dx for x > 0 is
+**Q1558.** Given that d/dx(x log_{e}(x)) = log_{e}(x) + 1, ∫ log_{e}(x) dx for x > 0 is
 <!-- id: methods-6-1-11 -->
 *Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
-- A. x log_e(x) + c
+- A. x log_{e}(x) + c
 - B. 1/x + c
-- C. x log_e(x) − x + c
-- D. x log_e(x) + x + c
+- C. x log_{e}(x) − x + c
+- D. x log_{e}(x) + x + c
 
 **Q1559.** Given that d/dx(x e^x) = e^x + x e^x, ∫ x e^x dx is
 <!-- id: methods-6-1-12 -->
@@ -12774,10 +12774,10 @@ Let \(p(x) = x^3 + ax^2 - 4x + b\), where \(a\) and \(b\) are real constants. Wh
 <!-- id: methods-6-1-14 -->
 *Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
-- A. 2log_e(1 − 2x) + c
-- B. −2log_e(1 − 2x) + c
-- C. −4log_e(1 − 2x) + c
-- D. −8log_e(1 − 2x) + c
+- A. 2log_{e}(1 − 2x) + c
+- B. −2log_{e}(1 − 2x) + c
+- C. −4log_{e}(1 − 2x) + c
+- D. −8log_{e}(1 − 2x) + c
 
 **Q1562.** Which of the following is an antiderivative of 2sin(x)cos(x)?
 <!-- id: methods-6-1-15 -->
@@ -12792,10 +12792,10 @@ Let \(p(x) = x^3 + ax^2 - 4x + b\), where \(a\) and \(b\) are real constants. Wh
 <!-- id: methods-6-1-16 -->
 *Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
-- A. x + log_e(x) + c
+- A. x + log_{e}(x) + c
 - B. x²/2 − 1/x² + c
-- C. (x³/3 + x)log_e(x) + c
-- D. x²/2 + log_e(x) + c
+- C. (x³/3 + x)log_{e}(x) + c
+- D. x²/2 + log_{e}(x) + c
 
 **Q1564.** Water flows into a Gippsland farm tank at dV/dt = 20 − 2t litres per minute, for 0 ≤ t ≤ 10. The tank initially holds 50 L. The volume after 5 minutes is
 <!-- id: methods-6-1-17 -->
@@ -12851,7 +12851,7 @@ Let \(p(x) = x^3 + ax^2 - 4x + b\), where \(a\) and \(b\) are real constants. Wh
 
 *Written answer*
 
-**Q1572.** Show that log_e(x² + 1) is an antiderivative of 2x/(x² + 1), and hence find ∫ x/(x² + 1) dx.
+**Q1572.** Show that log_{e}(x² + 1) is an antiderivative of 2x/(x² + 1), and hence find ∫ x/(x² + 1) dx.
 <!-- id: methods-6-1-25 -->
 *Info: Proof · about 3 marks · about 4.5 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
@@ -12975,7 +12975,7 @@ Let \(p(x) = x^3 + ax^2 - 4x + b\), where \(a\) and \(b\) are real constants. Wh
 *Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
 - A. 1
-- B. log_e(2)
+- B. log_{e}(2)
 - C. e − 1
 - D. 2
 
@@ -13024,14 +13024,14 @@ Let \(p(x) = x^3 + ax^2 - 4x + b\), where \(a\) and \(b\) are real constants. Wh
 - C. 16/3
 - D. 32/3
 
-**Q1591.** Given that d/dx log_e(x² + 1) = 2x/(x² + 1), evaluate ∫₀¹ x/(x² + 1) dx.
+**Q1591.** Given that d/dx log_{e}(x² + 1) = 2x/(x² + 1), evaluate ∫₀¹ x/(x² + 1) dx.
 <!-- id: methods-6-2-18 -->
 *Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
-- A. log_e(2)
-- B. 2log_e(2)
+- A. log_{e}(2)
+- B. 2log_{e}(2)
 - C. 1/2
-- D. (1/2)log_e(2)
+- D. (1/2)log_{e}(2)
 
 **Q1592.** Evaluate ∫₁² (x³ − 2x) dx.
 <!-- id: methods-6-2-19 -->
@@ -13039,7 +13039,7 @@ Let \(p(x) = x^3 + ax^2 - 4x + b\), where \(a\) and \(b\) are real constants. Wh
 
 *Written answer*
 
-**Q1593.** Evaluate ∫₀^(log_e 3) eˣ dx.
+**Q1593.** Evaluate ∫₀^(log_{e} 3) eˣ dx.
 <!-- id: methods-6-2-20 -->
 *Info: Calculation · about 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); short answer, as in Exam 1 or Exam 2*
 
@@ -13147,10 +13147,10 @@ Let \(p(x) = x^3 + ax^2 - 4x + b\), where \(a\) and \(b\) are real constants. Wh
 <!-- id: methods-6-3-7 -->
 *Info: Calculation · 1 mark · about 1.5 min · Exam relevance: High (comes up in most exams); multiple choice, as in Exam 2 Section A*
 
-- A. log_e(3)
+- A. log_{e}(3)
 - B. 3/4
-- C. 2log_e(2)
-- D. 4log_e(2)
+- C. 2log_{e}(2)
+- D. 4log_{e}(2)
 
 **Q1607.** Find the total area bounded by y = x³, the x-axis, x = −1 and x = 2.
 <!-- id: methods-6-3-8 -->
@@ -13350,7 +13350,7 @@ The graphs of \(f(x) = 4x - x^2\) and \(g(x) = x\) intersect at two points.
 <!-- id: methods-6-4-4 -->
 *Info: Calculation · 1 mark · about 1.5 min · Exam relevance: Medium (comes up regularly in exams); multiple choice, as in Exam 2 Section A*
 
-- A. log_e(3)
+- A. log_{e}(3)
 - B. 7/6
 - C. 5/6
 - D. 3/2

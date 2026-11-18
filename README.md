@@ -162,7 +162,7 @@ Mastery is worked out again shortly after every answer, and cached until the his
 node --test tests/*.test.mjs
 ```
 
-The 21 tests cover these properties:
+This runs the 21 mastery tests below and the maths-formatting tests. The mastery tests cover these properties:
 
 - **Small samples:** smoothing, and one right answer not counting as mastery.
 - **Repeats:** they do not inflate mastery or count towards enough data.
@@ -176,6 +176,17 @@ The 21 tests cover these properties:
 - **Tracking:** question types and pace are recorded.
 - **Groups and readiness:** group mastery and exam readiness are calculated correctly.
 - **Snapshots:** saved and replaced as described.
+
+## Writing maths in questions
+
+- **Unicode:** most maths is plain Unicode (x², √, ×, −, ≤), which needs nothing special.
+- **Powers:** may also be typed with a caret, and the site shows them as real superscripts:
+  - a bracketed group: `e^(3x)`, `(x + 1)^(−1/2)`, `∫₀^(π/2)`;
+  - a single number or symbol: `x^2`, `e^x`, `10^-19`, `e^π`;
+  - an explicit group: `x^{...}`.
+- **Subscripts:** need the explicit form `_{...}`, for example `log_{e}(x)`, `V_{RMS}` or `x_{n+1}`. A bare underscore is shown as it is, because Biology uses it for "any allele" (`A_bb`), Psychology for a missing letter (`ch_ir`) and Chinese for blanks (`___`).
+- **KaTeX:** anything inside `\( \)` or `\[ \]` is typeset by KaTeX as before.
+- **Code and tests:** the formatter is the `supsub` block between `/* <maths-text> */` markers in `index.html`, tested in `tests/maths-text.test.mjs`.
 
 ## Question files
 

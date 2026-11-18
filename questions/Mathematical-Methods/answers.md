@@ -2211,10 +2211,10 @@ Explanation: 18 = 2 × 3², so log₁₀ 18 = log₁₀ 2 + 2 log₁₀ 3 = p + 
 
 Explanation: log₅ x = −2 means x = 5⁻² = 1/25. The log of a positive number can be negative, but x itself must be positive.
 
-**A436.** B. log_a 6
+**A436.** B. log_{a} 6
 <!-- id: methods12a2-log-4 -->
 
-Explanation: 2 log_a 3 = log_a 9. Then log_a(9 × 4 / 6) = log_a 6.
+Explanation: 2 log_{a} 3 = log_{a} 9. Then log_{a}(9 × 4 / 6) = log_{a} 6.
 
 **A437.** A. log₂(x − 1)
 <!-- id: methods12a2-log-5 -->
@@ -2249,7 +2249,7 @@ Explanation: 0.001 = 10⁻³, so log₁₀ 0.001 = −3. The answer is negative 
 **A443.** C. 4³ = 64
 <!-- id: methods12a2-log-11 -->
 
-Explanation: log_a b = c means a^c = b, so log₄ 64 = 3 gives 4³ = 64. Writing 3⁴ swaps the base and the logarithm.
+Explanation: log_{a} b = c means a^c = b, so log₄ 64 = 3 gives 4³ = 64. Writing 3⁴ swaps the base and the logarithm.
 
 **A444.** D. 2
 <!-- id: methods12a2-log-12 -->
@@ -2324,7 +2324,7 @@ Explanation: The argument x − 2 is zero at x = 2, so the asymptote is x = 2. T
 **A458.** C. 7
 <!-- id: methods12a2-log-26 -->
 
-Explanation: log_a(x²y) = 2 log_a x + log_a y = 4 + 3 = 7. Doing 2 × 3 = 6 mistreats the product.
+Explanation: log_{a}(x²y) = 2 log_{a} x + log_{a} y = 4 + 3 = 7. Doing 2 × 3 = 6 mistreats the product.
 
 **A459.** log₂(1/8) = log₂ 2⁻³ = −3. [1]
 <!-- id: methods12a2-log-27 -->
@@ -2351,7 +2351,7 @@ Explanation:
 
 Explanation:
 
-**A464.** (a) 12 = 2² × 3, so log_a 12 = 2(0.35) + 0.55. [1] = 1.25. [1] (b) log_a(2/3) = 0.35 − 0.55 = −0.2. [1]
+**A464.** (a) 12 = 2² × 3, so log_{a} 12 = 2(0.35) + 0.55. [1] = 1.25. [1] (b) log_{a}(2/3) = 0.35 − 0.55 = −0.2. [1]
 <!-- id: methods12a2-log-32 -->
 
 Explanation:
@@ -2361,7 +2361,7 @@ Explanation:
 
 Explanation:
 
-**A466.** log_a(1/b) = log_a 1 − log_a b by the quotient law. [1] Since log_a 1 = 0, this equals −log_a b. [1]
+**A466.** log_{a}(1/b) = log_{a} 1 − log_{a} b by the quotient law. [1] Since log_{a} 1 = 0, this equals −log_{a} b. [1]
 <!-- id: methods12a2-log-34 -->
 
 Explanation:
@@ -2384,7 +2384,7 @@ Explanation:
 **A470.** D. 2m + 1
 <!-- id: methods12a2-log-38 -->
 
-Explanation: log_a(25a) = log_a 25 + log_a a = 2m + 1. The term log_a a equals 1 and cannot be dropped.
+Explanation: log_{a}(25a) = log_{a} 25 + log_{a} a = 2m + 1. The term log_{a} a equals 1 and cannot be dropped.
 
 **A471.** log₃[(x + 2)(x − 4)] = 3 so (x + 2)(x − 4) = 27 [1]. x² − 2x − 35 = 0 so x = 7 or x = −5 [1]. x = −5 is rejected because x − 4 must be positive, so x = 7 [1].
 <!-- id: methods12a2-log-39 -->
@@ -2478,10 +2478,10 @@ Explanation: The multiplier 0.9 means 90% of the previous value is kept, so a 10
 
 Explanation: 1/16 = (1/2)⁴, so four half-lives are needed: 4 × 3 = 12 hours. Multiplying 16 by 3 confuses the number of half-lives with the fraction.
 
-**A489.** A. x = log_e 7
+**A489.** A. x = log_{e} 7
 <!-- id: methods12a2-expm-17 -->
 
-Explanation: Taking natural logarithms of both sides gives x = log_e 7 ≈ 1.946. The value e^7 is what x would be if the equation were log_e x = 7.
+Explanation: Taking natural logarithms of both sides gives x = log_{e} 7 ≈ 1.946. The value e^7 is what x would be if the equation were log_{e} x = 7.
 
 **A490.** B. 0
 <!-- id: methods12a2-expm-18 -->
@@ -2501,7 +2501,7 @@ Explanation: P = 100 × 2^2.5 ≈ 100 × 5.657 ≈ 566. Using 100 × 2.5 × 2 tr
 **A493.** B. x = 2.54
 <!-- id: methods12a2-expm-21 -->
 
-Explanation: x = log₁₀ 350 ≈ 2.544 (between 2 and 3 since 100 < 350 < 1000). The value 5.86 is log_e 350, the wrong base.
+Explanation: x = log₁₀ 350 ≈ 2.544 (between 2 and 3 since 100 < 350 < 1000). The value 5.86 is log_{e} 350, the wrong base.
 
 **A494.** C. $6719.58
 <!-- id: methods12a2-expm-22 -->
@@ -2518,10 +2518,10 @@ Explanation: Solve 1.07^t = 2: t = log 2 / log 1.07 ≈ 10.24 years. The 14.29 y
 
 Explanation: At x = 0, a = 3. Then 3b² = 48, so b² = 16 and b = 4 (b > 0). The value 16 is b², not b.
 
-**A497.** B. x = 0 and x = log_e 2
+**A497.** B. x = 0 and x = log_{e} 2
 <!-- id: methods12a2-expm-25 -->
 
-Explanation: Let u = e^x: (u − 1)(u − 2) = 0, so e^x = 1 or 2, giving x = 0 or x = log_e 2. The values u = 1, 2 must still be converted back to x.
+Explanation: Let u = e^x: (u − 1)(u − 2) = 0, so e^x = 1 or 2, giving x = 0 or x = log_{e} 2. The values u = 1, 2 must still be converted back to x.
 
 **A498.** C. 147.2
 <!-- id: methods12a2-expm-26 -->
@@ -2558,7 +2558,7 @@ Explanation:
 
 Explanation:
 
-**A505.** e^(3x) = 5, so 3x = log_e 5 and x = (log_e 5)/3 [1]; x ≈ 0.536 [1].
+**A505.** e^(3x) = 5, so 3x = log_{e} 5 and x = (log_{e} 5)/3 [1]; x ≈ 0.536 [1].
 <!-- id: methods12a2-expm-33 -->
 
 Explanation:
@@ -2573,7 +2573,7 @@ Explanation:
 
 Explanation:
 
-**A508.** (a) e^(3k) = 2 [1], so k = (log_e 2)/3 ≈ 0.231 [1]; (b) 9 hours is three doublings, so the factor is 2³ = 8 [1].
+**A508.** (a) e^(3k) = 2 [1], so k = (log_{e} 2)/3 ≈ 0.231 [1]; (b) 9 hours is three doublings, so the factor is 2³ = 8 [1].
 <!-- id: methods12a2-expm-36 -->
 
 Explanation:
@@ -2583,7 +2583,7 @@ Explanation:
 
 Explanation: P = 15 000 × 1.04⁸ ≈ 15 000 × 1.3686 ≈ 20 500. Adding 4% of 15 000 for each year (simple growth) would give about 19 800, ignoring compounding.
 
-**A510.** At t = 0, T = 20 + 70 = 90 °C [1]. 70e^(−0.1t) = 20 so e^(−0.1t) = 2/7 [1]. t = 10 log_e(3.5) ≈ 12.5 minutes [1].
+**A510.** At t = 0, T = 20 + 70 = 90 °C [1]. 70e^(−0.1t) = 20 so e^(−0.1t) = 2/7 [1]. t = 10 log_{e}(3.5) ≈ 12.5 minutes [1].
 <!-- id: methods12a2-expm-38 -->
 
 Explanation:
@@ -5907,7 +5907,7 @@ Explanation: y = 1/x has asymptotes x = 0 and y = 0; translating 3 right and 1 u
 **A1101.** B. x = −2
 <!-- id: methods-1-3-18 -->
 
-Explanation: y = log_e(x) has asymptote x = 0; translating 2 units left moves it to x = −2.
+Explanation: y = log_{e}(x) has asymptote x = 0; translating 2 units left moves it to x = −2.
 
 **A1102.** C. A dilation by a factor of ½ from the y-axis
 <!-- id: methods-1-3-19 -->
@@ -5939,10 +5939,10 @@ Explanation: The image is y = 4 − e^x. Since e^x > 0, y < 4.
 
 Explanation: The dilation does not move the asymptotes; the translation moves x = 0 to x = 2 and y = 0 to y = 1.
 
-**A1108.** y = −log_e(x/3), with domain (0, ∞).
+**A1108.** y = −log_{e}(x/3), with domain (0, ∞).
 <!-- id: methods-1-3-25 -->
 
-Explanation: Dilation: y = log_e(x/3); reflection in the x-axis multiplies by −1. Equivalently y = log_e(3/x). The domain is unchanged because neither transformation affects x-values' sign.
+Explanation: Dilation: y = log_{e}(x/3); reflection in the x-axis multiplies by −1. Equivalently y = log_{e}(3/x). The domain is unchanged because neither transformation affects x-values' sign.
 
 **A1109.** A. Reflection in the \(y\)-axis, translation 2 units right, dilation by factor 3 from the \(x\)-axis, translation 1 unit up
 <!-- id: methods-1-3-c1 -->
@@ -6100,22 +6100,22 @@ Explanation: As x → ∞, e^(−x) → 0, so y → 3.
 
 Explanation: The argument must be positive: 2x − 6 > 0 gives x > 3.
 
-**A1139.** f⁻¹(x) = 2log_e((x + 1)/3), with domain (−1, ∞).
+**A1139.** f⁻¹(x) = 2log_{e}((x + 1)/3), with domain (−1, ∞).
 <!-- id: methods-2-1-4 -->
 
-Explanation: Swap x and y: (x + 1)/3 = e^(y/2), so y = 2log_e((x + 1)/3). The domain of f⁻¹ is the range of f, which is (−1, ∞).
+Explanation: Swap x and y: (x + 1)/3 = e^(y/2), so y = 2log_{e}((x + 1)/3). The domain of f⁻¹ is the range of f, which is (−1, ∞).
 
 **A1140.** B. x = −4
 <!-- id: methods-2-1-5 -->
 
 Explanation: The argument x + 4 approaches 0 as x → −4, so the asymptote is x = −4.
 
-**A1141.** B. f⁻¹(x) = ½log_e(x − 1), x > 1
+**A1141.** B. f⁻¹(x) = ½log_{e}(x − 1), x > 1
 <!-- id: methods-2-1-6 -->
 
-Explanation: Swap x and y: x = e^(2y) + 1, so e^(2y) = x − 1 and y = ½log_e(x − 1). The domain of f⁻¹ is the range of f, (1, ∞).
+Explanation: Swap x and y: x = e^(2y) + 1, so e^(2y) = x − 1 and y = ½log_{e}(x − 1). The domain of f⁻¹ is the range of f, (1, ∞).
 
-**A1142.** Asymptote y = 2; y-intercept (0, 1); x-intercept (log_e(2), 0); range (−∞, 2).
+**A1142.** Asymptote y = 2; y-intercept (0, 1); x-intercept (log_{e}(2), 0); range (−∞, 2).
 <!-- id: methods-2-1-7 -->
 
 Explanation: At x = 0, y = 2 − 1 = 1. Setting y = 0 gives e^x = 2. Since e^x > 0, y < 2.
@@ -6123,7 +6123,7 @@ Explanation: At x = 0, y = 2 − 1 = 1. Setting y = 0 gives e^x = 2. Since e^x >
 **A1143.** D. f⁻¹(x) = e^(x − 3) + 2
 <!-- id: methods-2-1-8 -->
 
-Explanation: Swap x and y: x − 3 = log_e(y − 2), so y = e^(x − 3) + 2, with domain R.
+Explanation: Swap x and y: x − 3 = log_{e}(y − 2), so y = e^(x − 3) + 2, with domain R.
 
 **A1144.** A. (0, −2)
 <!-- id: methods-2-1-9 -->
@@ -6133,29 +6133,29 @@ Explanation: At x = 0, y = 3e⁰ − 5 = 3 − 5 = −2.
 **A1145.** C. x = e^(−2)
 <!-- id: methods-2-1-10 -->
 
-Explanation: log_e(x) = −2 gives x = e^(−2).
+Explanation: log_{e}(x) = −2 gives x = e^(−2).
 
 **A1146.** x-intercept x = 1 + e^(−1); vertical asymptote x = 1; there is no y-intercept because x = 0 is not in the domain.
 <!-- id: methods-2-1-11 -->
 
-Explanation: log_e(x − 1) = −1 gives x − 1 = e^(−1). The domain requires x > 1.
+Explanation: log_{e}(x − 1) = −1 gives x − 1 = e^(−1). The domain requires x > 1.
 
-**A1147.** C. x = log_e(3)
+**A1147.** C. x = log_{e}(3)
 <!-- id: methods-2-1-12 -->
 
-Explanation: 2e^x = 6 gives e^x = 3, so x = log_e(3).
+Explanation: 2e^x = 6 gives e^x = 3, so x = log_{e}(3).
 
 **A1148.** D. y = e^(−x) + 2
 <!-- id: methods-2-1-13 -->
 
 Explanation: Reflection in the y-axis replaces x with −x; translating up adds 2.
 
-**A1149.** t = log_e(2)/0.15 ≈ 4.62 years.
+**A1149.** t = log_{e}(2)/0.15 ≈ 4.62 years.
 <!-- id: methods-2-1-14 -->
 
-Explanation: e^(−0.15t) = ½ gives 0.15t = log_e(2) ≈ 0.6931, so t ≈ 4.62. The answer does not depend on the initial value.
+Explanation: e^(−0.15t) = ½ gives 0.15t = log_{e}(2) ≈ 0.6931, so t ≈ 4.62. The answer does not depend on the initial value.
 
-**A1150.** B. y = log_e(x/3)
+**A1150.** B. y = log_{e}(x/3)
 <!-- id: methods-2-1-15 -->
 
 Explanation: A dilation by factor 3 from the y-axis replaces x with x/3.
@@ -6165,10 +6165,10 @@ Explanation: A dilation by factor 3 from the y-axis replaces x with x/3.
 
 Explanation: f is increasing, f(0) = 0 and f(2) = e² − 1, so the range is [0, e² − 1].
 
-**A1152.** C. 5log_e(4) hours
+**A1152.** C. 5log_{e}(4) hours
 <!-- id: methods-2-1-17 -->
 
-Explanation: e^(0.2t) = 4, so 0.2t = log_e(4) and t = 5log_e(4) ≈ 6.93 hours.
+Explanation: e^(0.2t) = 4, so 0.2t = log_{e}(4) and t = 5log_{e}(4) ≈ 6.93 hours.
 
 **A1153.** A dilation by a factor of 2 from the x-axis, then a translation of 1 unit in the positive x-direction and 3 units in the positive y-direction.
 <!-- id: methods-2-1-18 -->
@@ -6180,15 +6180,15 @@ Explanation: Replacing x by x − 1 is a shift right by 1; multiplying by 2 dila
 
 Explanation: As t → ∞, e^(−0.05t) → 0, so T → 20°C (room temperature).
 
-**A1155.** B. log_e(2)/10
+**A1155.** B. log_{e}(2)/10
 <!-- id: methods-2-1-20 -->
 
-Explanation: e^(−10k) = ½ gives −10k = −log_e(2), so k = log_e(2)/10.
+Explanation: e^(−10k) = ½ gives −10k = −log_{e}(2), so k = log_{e}(2)/10.
 
 **A1156.** a = 6, b = 4.
 <!-- id: methods-2-1-21 -->
 
-Explanation: At x = 1, log_e(1) = 0 so b = 4. At x = e, a + 4 = 10 so a = 6.
+Explanation: At x = 1, log_{e}(1) = 0 so b = 4. At x = e, a + 4 = 10 so a = 6.
 
 **A1157.** A. a = 3, b = 2
 <!-- id: methods-2-1-22 -->
@@ -6220,37 +6220,37 @@ Explanation: \(2x - 4 > 0\) gives \(x > 2\), so the vertical asymptote is \(x = 
 **A1162.** D. 5
 <!-- id: methods-2-2-1 -->
 
-Explanation: 2⁵ = 32, so log_2(32) = 5.
+Explanation: 2⁵ = 32, so log_{2}(32) = 5.
 
-**A1163.** A. log_e(4)
+**A1163.** A. log_{e}(4)
 <!-- id: methods-2-2-2 -->
 
-Explanation: Using log_e(a) − log_e(b) = log_e(a/b), we get log_e(8/2) = log_e(4).
+Explanation: Using log_{e}(a) − log_{e}(b) = log_{e}(a/b), we get log_{e}(8/2) = log_{e}(4).
 
 **A1164.** A. 2
 <!-- id: methods-2-2-3 -->
 
-Explanation: 2log_3(6) = log_3(36), and log_3(36/4) = log_3(9) = 2.
+Explanation: 2log_{3}(6) = log_{3}(36), and log_{3}(36/4) = log_{3}(9) = 2.
 
-**A1165.** x = (1/3)log_e(7)
+**A1165.** x = (1/3)log_{e}(7)
 <!-- id: methods-2-2-4 -->
 
-Explanation: 2e^(3x) = 14 gives e^(3x) = 7, so 3x = log_e(7).
+Explanation: 2e^(3x) = 14 gives e^(3x) = 7, so 3x = log_{e}(7).
 
-**A1166.** B. x = ½log_e(7)
+**A1166.** B. x = ½log_{e}(7)
 <!-- id: methods-2-2-5 -->
 
-Explanation: Take natural logs: 2x = log_e(7), so x = ½log_e(7).
+Explanation: Take natural logs: 2x = log_{e}(7), so x = ½log_{e}(7).
 
-**A1167.** C. x = log_e(10)/log_e(3)
+**A1167.** C. x = log_{e}(10)/log_{e}(3)
 <!-- id: methods-2-2-6 -->
 
-Explanation: Taking natural logs: x log_e(3) = log_e(10), so x = log_e(10)/log_e(3) ≈ 2.096.
+Explanation: Taking natural logs: x log_{e}(3) = log_{e}(10), so x = log_{e}(10)/log_{e}(3) ≈ 2.096.
 
 **A1168.** x = 2
 <!-- id: methods-2-2-7 -->
 
-Explanation: log_2(x(x + 2)) = 3 gives x² + 2x = 8, so (x + 4)(x − 2) = 0. Reject x = −4 because it is outside the domain.
+Explanation: log_{2}(x(x + 2)) = 3 gives x² + 2x = 8, so (x + 4)(x − 2) = 0. Reject x = −4 because it is outside the domain.
 
 **A1169.** B. x = 13
 <!-- id: methods-2-2-8 -->
@@ -6260,27 +6260,27 @@ Explanation: x + 3 = 2⁴ = 16, so x = 13.
 **A1170.** B. x = 5 only
 <!-- id: methods-2-2-9 -->
 
-Explanation: x(x − 3) = 10 gives x² − 3x − 10 = 0, so (x − 5)(x + 2) = 0. x = −2 is rejected because log_e(−2) is undefined.
+Explanation: x(x − 3) = 10 gives x² − 3x − 10 = 0, so (x − 5)(x + 2) = 0. x = −2 is rejected because log_{e}(−2) is undefined.
 
-**A1171.** D. x = log_e(2) or x = log_e(3)
+**A1171.** D. x = log_{e}(2) or x = log_{e}(3)
 <!-- id: methods-2-2-10 -->
 
-Explanation: Let u = e^x: u² − 5u + 6 = 0 gives u = 2 or u = 3, so x = log_e(2) or x = log_e(3).
+Explanation: Let u = e^x: u² − 5u + 6 = 0 gives u = 2 or u = 3, so x = log_{e}(2) or x = log_{e}(3).
 
-**A1172.** x = log_e(3)
+**A1172.** x = log_{e}(3)
 <!-- id: methods-2-2-11 -->
 
 Explanation: Multiply by e^x: e^(2x) − e^x − 6 = 0, so (e^x − 3)(e^x + 2) = 0. Since e^x > 0, e^x = 3.
 
-**A1173.** B. x = log_e(4) only
+**A1173.** B. x = log_{e}(4) only
 <!-- id: methods-2-2-12 -->
 
-Explanation: (e^x − 4)(e^x + 3) = 0. Since e^x > 0, only e^x = 4 is valid, so x = log_e(4).
+Explanation: (e^x − 4)(e^x + 3) = 0. Since e^x > 0, only e^x = 4 is valid, so x = log_{e}(4).
 
 **A1174.** C. x³
 <!-- id: methods-2-2-13 -->
 
-Explanation: 3log_e(x) = log_e(x³), and e^(log_e(x³)) = x³.
+Explanation: 3log_{e}(x) = log_{e}(x³), and e^(log_{e}(x³)) = x³.
 
 **A1175.** 5
 <!-- id: methods-2-2-14 -->
@@ -6290,27 +6290,27 @@ Explanation: 2 + 0 − 3(−1) = 5.
 **A1176.** C. ½
 <!-- id: methods-2-2-15 -->
 
-Explanation: √e = e^(1/2), so log_e(e^(1/2)) = ½.
+Explanation: √e = e^(1/2), so log_{e}(e^(1/2)) = ½.
 
 **A1177.** D. 2p + q
 <!-- id: methods-2-2-16 -->
 
-Explanation: 12 = 2² × 3, so log_a(12) = 2log_a(2) + log_a(3) = 2p + q.
+Explanation: 12 = 2² × 3, so log_{a}(12) = 2log_{a}(2) + log_{a}(3) = 2p + q.
 
-**A1178.** A. log_e(xz/y²)
+**A1178.** A. log_{e}(xz/y²)
 <!-- id: methods-2-2-17 -->
 
-Explanation: 2log_e(y) = log_e(y²). Adding logs multiplies and subtracting divides, giving log_e(xz/y²).
+Explanation: 2log_{e}(y) = log_{e}(y²). Adding logs multiplies and subtracting divides, giving log_{e}(xz/y²).
 
-**A1179.** x = log_e(3)/(2log_e(5) − log_e(3)) = log_e(3)/log_e(25/3) ≈ 0.518
+**A1179.** x = log_{e}(3)/(2log_{e}(5) − log_{e}(3)) = log_{e}(3)/log_{e}(25/3) ≈ 0.518
 <!-- id: methods-2-2-18 -->
 
-Explanation: 2x log_e(5) = (x + 1)log_e(3), so x(2log_e(5) − log_e(3)) = log_e(3). Equivalent exact forms are acceptable.
+Explanation: 2x log_{e}(5) = (x + 1)log_{e}(3), so x(2log_{e}(5) − log_{e}(3)) = log_{e}(3). Equivalent exact forms are acceptable.
 
-**A1180.** A. x = log_e(2)/log_e(2.5)
+**A1180.** A. x = log_{e}(2)/log_{e}(2.5)
 <!-- id: methods-2-2-19 -->
 
-Explanation: (x + 1)log_e(2) = x log_e(5), so x(log_e(5) − log_e(2)) = log_e(2) and x = log_e(2)/log_e(2.5) ≈ 0.756.
+Explanation: (x + 1)log_{e}(2) = x log_{e}(5), so x(log_{e}(5) − log_{e}(2)) = log_{e}(2) and x = log_{e}(2)/log_{e}(2.5) ≈ 0.756.
 
 **A1181.** A. x = (e³ + 1)/2
 <!-- id: methods-2-2-20 -->
@@ -6320,7 +6320,7 @@ Explanation: 2x − 1 = e³, so x = (e³ + 1)/2.
 **A1182.** x = ½
 <!-- id: methods-2-2-21 -->
 
-Explanation: log_e((x + 1)/x) = log_e(3) gives x + 1 = 3x, so x = ½. This is valid because x > 0.
+Explanation: log_{e}((x + 1)/x) = log_{e}(3) gives x + 1 = 3x, so x = ½. This is valid because x > 0.
 
 **A1183.** D. x = 2
 <!-- id: methods-2-2-22 -->
@@ -6332,15 +6332,15 @@ Explanation: Let u = 2^x: u² − 3u − 4 = 0 gives (u − 4)(u + 1) = 0. Since
 
 Explanation: x = 3^(−2) = 1/9.
 
-**A1185.** C. −2log_e(x)
+**A1185.** C. −2log_{e}(x)
 <!-- id: methods-2-2-24 -->
 
-Explanation: log_e(x^(−2)) = −2log_e(x).
+Explanation: log_{e}(x^(−2)) = −2log_{e}(x).
 
-**A1186.** t = (100/3)log_e(4/3) ≈ 9.59 years
+**A1186.** t = (100/3)log_{e}(4/3) ≈ 9.59 years
 <!-- id: methods-2-2-25 -->
 
-Explanation: 1200/900 = e^(0.03t), so 0.03t = log_e(4/3) ≈ 0.2877 and t ≈ 9.59.
+Explanation: 1200/900 = e^(0.03t), so 0.03t = log_{e}(4/3) ≈ 0.2877 and t ≈ 9.59.
 
 **A1187.** \(x = 4\)
 <!-- id: methods-2-2-c1 -->
@@ -6623,7 +6623,7 @@ Explanation: Require 4 − 2x ≥ 0, so x ≤ 2 (x = 2 is included since √0 = 
 **A1241.** B. (3, ∞)
 <!-- id: methods-3-1-2 -->
 
-Explanation: The argument of log_e must be strictly positive: x − 3 > 0 gives x > 3.
+Explanation: The argument of log_{e} must be strictly positive: x − 3 > 0 gives x > 3.
 
 **A1242.** C. [2, ∞)
 <!-- id: methods-3-1-3 -->
@@ -6723,14 +6723,14 @@ Explanation: f(f(x)) = 3(3x − 2) − 2 = 9x − 6 − 2 = 9x − 8.
 **A1261.** A. (0, 3]
 <!-- id: methods-3-1-22 -->
 
-Explanation: log_e is increasing, log_e(1) = 0 (excluded since 1 is not in the domain) and log_e(e³) = 3 (included).
+Explanation: log_{e} is increasing, log_{e}(1) = 0 (excluded since 1 is not in the domain) and log_{e}(e³) = 3 (included).
 
 **A1262.** B. f: R → R, f(x) = x³
 <!-- id: methods-3-1-23 -->
 
 Explanation: x³ is strictly increasing on R, so each y-value comes from exactly one x-value; the others fail the horizontal line test.
 
-**A1263.** f(g(x)) = e^(2 log_e(x)) = e^(log_e(x²)) = x², with domain (0, ∞) and range (0, ∞).
+**A1263.** f(g(x)) = e^(2 log_{e}(x)) = e^(log_{e}(x²)) = x², with domain (0, ∞) and range (0, ∞).
 <!-- id: methods-3-1-24 -->
 
 Explanation: The domain of f∘g is the domain of g, which restricts x² to positive inputs and outputs.
@@ -6752,15 +6752,15 @@ Explanation: \(f(g(x)) = \sqrt{2 - x^2}\) needs \(g(x) \ge 1\): \(3 - x^2 \ge 1\
 
 Explanation: Swap x and y: x = 3y − 6, so y = (x + 6)/3.
 
-**A1267.** D. f⁻¹(x) = log_e(x − 2)
+**A1267.** D. f⁻¹(x) = log_{e}(x − 2)
 <!-- id: methods-3-2-2 -->
 
-Explanation: Swap: x = e^y + 2, so e^y = x − 2 and y = log_e(x − 2), with domain (2, ∞).
+Explanation: Swap: x = e^y + 2, so e^y = x − 2 and y = log_{e}(x − 2), with domain (2, ∞).
 
 **A1268.** A. f⁻¹(x) = e^x/2
 <!-- id: methods-3-2-3 -->
 
-Explanation: Swap: x = log_e(2y), so 2y = e^x and y = e^x/2.
+Explanation: Swap: x = log_{e}(2y), so 2y = e^x and y = e^x/2.
 
 **A1269.** f⁻¹: [0, ∞) → R, f⁻¹(x) = 2 − √x.
 <!-- id: methods-3-2-4 -->
@@ -6782,10 +6782,10 @@ Explanation: Swap: (y + 2)² = x − 3; since y ≤ −2, y + 2 ≤ 0, so take t
 
 Explanation: The domain of f⁻¹ equals the range of f; f is increasing on [0, 2] so its range is [f(0), f(2)] = [1, 5].
 
-**A1273.** f⁻¹(x) = 2log_e((x + 1)/3), with domain (−1, ∞).
+**A1273.** f⁻¹(x) = 2log_{e}((x + 1)/3), with domain (−1, ∞).
 <!-- id: methods-3-2-8 -->
 
-Explanation: Swap: x + 1 = 3e^(y/2), e^(y/2) = (x + 1)/3, y = 2log_e((x + 1)/3). The domain is ran f = (−1, ∞).
+Explanation: Swap: x + 1 = 3e^(y/2), e^(y/2) = (x + 1)/3, y = 2log_{e}((x + 1)/3). The domain is ran f = (−1, ∞).
 
 **A1274.** A. (−∞, 0]
 <!-- id: methods-3-2-9 -->
@@ -6832,10 +6832,10 @@ Explanation: f is increasing, so intersections lie on y = x: x³ = x gives x(x �
 
 Explanation: f is increasing, so the graphs meet on y = x: 2x − 3 = x gives x = 3.
 
-**A1283.** D. f⁻¹(x) = (log_e(x) + 1)/2
+**A1283.** D. f⁻¹(x) = (log_{e}(x) + 1)/2
 <!-- id: methods-3-2-18 -->
 
-Explanation: Swap: x = e^(2y − 1), so 2y − 1 = log_e(x) and y = (log_e(x) + 1)/2.
+Explanation: Swap: x = e^(2y − 1), so 2y − 1 = log_{e}(x) and y = (log_{e}(x) + 1)/2.
 
 **A1284.** A. f: R → R, f(x) = x² − 2x
 <!-- id: methods-3-2-19 -->
@@ -6845,7 +6845,7 @@ Explanation: x² − 2x is not one-to-one on R, e.g. f(0) = f(2) = 0; the others
 **A1285.** f⁻¹: R → R, f⁻¹(x) = e^(x + 1) − 3, with range (−3, ∞).
 <!-- id: methods-3-2-20 -->
 
-Explanation: Swap: x + 1 = log_e(y + 3), so y = e^(x + 1) − 3. The range of f⁻¹ is the domain of f.
+Explanation: Swap: x + 1 = log_{e}(y + 3), so y = e^(x + 1) − 3. The range of f⁻¹ is the domain of f.
 
 **A1286.** B. f⁻¹(x) = (3x + 1)/(x − 2)
 <!-- id: methods-3-2-21 -->
@@ -6909,12 +6909,12 @@ Explanation: (f + g)(2) = f(2) + g(2) = 6 + 4 = 10. (24 is the product (fg)(2).)
 
 Explanation: 5(x + y) = 5x + 5y. For 5x + 1 the left side has +1 but the right side has +2.
 
-**A1298.** B. f(x) = log_e(x)
+**A1298.** B. f(x) = log_{e}(x)
 <!-- id: methods-3-3-7 -->
 
-Explanation: By the log law log_e(xy) = log_e(x) + log_e(y).
+Explanation: By the log law log_{e}(xy) = log_{e}(x) + log_{e}(y).
 
-**A1299.** f(x/y) = log_e(x/y) = log_e(x) − log_e(y) = f(x) − f(y), by the quotient law of logarithms.
+**A1299.** f(x/y) = log_{e}(x/y) = log_{e}(x) − log_{e}(y) = f(x) − f(y), by the quotient law of logarithms.
 <!-- id: methods-3-3-8 -->
 
 Explanation: A full answer starts from one side and uses a log law to reach the other.
@@ -6924,7 +6924,7 @@ Explanation: A full answer starts from one side and uses a log law to reach the 
 
 Explanation: Only even powers appear, so replacing x by −x leaves x⁴ − 3x² unchanged (an even function).
 
-**A1301.** k = log_e(2)
+**A1301.** k = log_{e}(2)
 <!-- id: methods-3-3-12 -->
 
 Explanation: f(x + 1) = e^(kx)·e^k, so e^k·e^(kx) = 2e^(kx) gives e^k = 2.
@@ -6934,10 +6934,10 @@ Explanation: f(x + 1) = e^(kx)·e^k, so e^k·e^(kx) = 2e^(kx) gives e^k = 2.
 
 Explanation: e^(2x) = (e^x)². For x², (2x)² = 4x² but (x²)² = x⁴.
 
-**A1303.** D. log_e(ab)
+**A1303.** D. log_{e}(ab)
 <!-- id: methods-3-3-15 -->
 
-Explanation: The product law of logarithms: log_e(a) + log_e(b) = log_e(ab).
+Explanation: The product law of logarithms: log_{e}(a) + log_{e}(b) = log_{e}(ab).
 
 **A1304.** n = 3
 <!-- id: methods-3-3-16 -->
@@ -7402,12 +7402,12 @@ Explanation: d/dx e^(kx) = ke^(kx), so the derivative is 3e^(3x).
 **A1394.** B. 1/x
 <!-- id: methods-4-3-2 -->
 
-Explanation: log_e(5x) = log_e 5 + log_e x, so dy/dx = 1/x (or chain rule: 5/(5x)).
+Explanation: log_{e}(5x) = log_{e} 5 + log_{e} x, so dy/dx = 1/x (or chain rule: 5/(5x)).
 
 **A1395.** C. 2x/(x² + 1)
 <!-- id: methods-4-3-3 -->
 
-Explanation: d/dx log_e(f(x)) = f′(x)/f(x) = 2x/(x² + 1).
+Explanation: d/dx log_{e}(f(x)) = f′(x)/f(x) = 2x/(x² + 1).
 
 **A1396.** D. 2cos(2x)
 <!-- id: methods-4-3-4 -->
@@ -7434,10 +7434,10 @@ Explanation: Product rule: e^x + xe^x = (x + 1)e^x.
 
 Explanation: Chain rule: e^(x²) × 2x.
 
-**A1401.** A. (1 − log_e x)/x²
+**A1401.** A. (1 − log_{e} x)/x²
 <!-- id: methods-4-3-9 -->
 
-Explanation: Quotient rule: [x(1/x) − log_e x(1)]/x² = (1 − log_e x)/x².
+Explanation: Quotient rule: [x(1/x) − log_{e} x(1)]/x² = (1 − log_{e} x)/x².
 
 **A1402.** B. sin(2x)
 <!-- id: methods-4-3-10 -->
@@ -7509,7 +7509,7 @@ Explanation: Divide by e^(kx), which is never zero.
 
 Explanation: Treat cos³x as (cos x)³ and apply the chain rule.
 
-**A1416.** f(x) = (1/2)log_e(2x + 1), so f′(x) = (1/2) × 2/(2x + 1) = 1/(2x + 1). f′(4) = 1/9.
+**A1416.** f(x) = (1/2)log_{e}(2x + 1), so f′(x) = (1/2) × 2/(2x + 1) = 1/(2x + 1). f′(4) = 1/9.
 <!-- id: methods-4-3-24 -->
 
 Explanation: Using log laws first simplifies the differentiation.
@@ -7688,7 +7688,7 @@ Explanation: f′(x) = e^(−x)(1 − x) = 0 gives x = 1, and f(1) = e^(−1) = 
 **A1450.** B. 1/e
 <!-- id: methods-5-1-6 -->
 
-Explanation: f′(x) = log_e(x) + 1 = 0 gives log_e(x) = −1, so x = 1/e.
+Explanation: f′(x) = log_{e}(x) + 1 = 0 gives log_{e}(x) = −1, so x = 1/e.
 
 **A1451.** C. x = 0 and x = −2
 <!-- id: methods-5-1-7 -->
@@ -7730,10 +7730,10 @@ Explanation: f′(x) = 3x² + k = 0 has two distinct solutions only when −k/3 
 
 Explanation: f′(x) = (x − 2)(2x + 2 + x − 2) = 3x(x − 2); the sign changes from + to − at x = 0 and f(0) = 4.
 
-**A1459.** C. ½ log_e(2)
+**A1459.** C. ½ log_{e}(2)
 <!-- id: methods-5-1-15 -->
 
-Explanation: f′(x) = 2e^(2x) − 4 = 0 gives e^(2x) = 2, so x = ½ log_e(2).
+Explanation: f′(x) = 2e^(2x) − 4 = 0 gives e^(2x) = 2, so x = ½ log_{e}(2).
 
 **A1460.** D. (2, 4)
 <!-- id: methods-5-1-16 -->
@@ -8051,10 +8051,10 @@ Explanation: \(f'(x) = 3(x - 3)(x + 1) \le 0\) for \(-1 \le x \le 3\), and is ze
 
 #### Newton's method
 
-**A1522.** A. x_(n+1) = x_n − f(x_n)/f′(x_n)
+**A1522.** A. x_{n+1} = x_{n} − f(x_{n})/f′(x_{n})
 <!-- id: methods-5-4-1 -->
 
-Explanation: Each step moves to the x-intercept of the tangent at x_n, which is x_n − f(x_n)/f′(x_n).
+Explanation: Each step moves to the x-intercept of the tangent at x_{n}, which is x_{n} − f(x_{n})/f′(x_{n}).
 
 **A1523.** B. 2.25
 <!-- id: methods-5-4-2 -->
@@ -8111,10 +8111,10 @@ Explanation: f(3) = 2, f′(3) = 6, so x₁ = 3 − 2/6 = 8/3.
 
 Explanation: A small f′(x₀) makes f(x₀)/f′(x₀) very large, so the next estimate jumps a long way.
 
-**A1534.** A. 4 − 2log_e(2)
+**A1534.** A. 4 − 2log_{e}(2)
 <!-- id: methods-5-4-13 -->
 
-Explanation: f(2) = log_e(2) − 1, f′(2) = 1/2, so x₁ = 2 − 2(log_e(2) − 1) = 4 − 2log_e(2).
+Explanation: f(2) = log_{e}(2) − 1, f′(2) = 1/2, so x₁ = 2 − 2(log_{e}(2) − 1) = 4 − 2log_{e}(2).
 
 **A1535.** B. x₀
 <!-- id: methods-5-4-14 -->
@@ -8161,7 +8161,7 @@ Explanation: Let f(x) = e^x + x − 3, f′(x) = e^x + 1. x₁ = 1 − (e − 2)
 
 Explanation: Use f(x) = x² − 10, f′(x) = 2x: x₁ = 3 − (−1)/6 = 19/6, then x₂ = 19/6 − (1/36)/(19/3) = 19/6 − 1/228 ≈ 3.16228.
 
-**A1544.** Stop when successive approximations agree to three decimal places, e.g. when |x_(n+1) − x_n| < 0.0005.
+**A1544.** Stop when successive approximations agree to three decimal places, e.g. when |x_{n+1} − x_{n}| < 0.0005.
 <!-- id: methods-5-4-23 -->
 
 Explanation: Any sensible tolerance tied to the required accuracy is acceptable.
@@ -8195,15 +8195,15 @@ Explanation: Integrate term by term: increase each power by one and divide by th
 
 Explanation: ∫e^(kx) dx = (1/k)e^(kx) + c, so with k = 3 the antiderivative is (1/3)e^(3x).
 
-**A1550.** C. log_e(x) + c
+**A1550.** C. log_{e}(x) + c
 <!-- id: methods-6-1-3 -->
 
-Explanation: The power rule fails for n = −1; since d/dx log_e(x) = 1/x, the antiderivative is log_e(x) + c.
+Explanation: The power rule fails for n = −1; since d/dx log_{e}(x) = 1/x, the antiderivative is log_{e}(x) + c.
 
-**A1551.** D. (1/2)log_e(2x + 1) + c
+**A1551.** D. (1/2)log_{e}(2x + 1) + c
 <!-- id: methods-6-1-4 -->
 
-Explanation: ∫1/(ax + b) dx = (1/a)log_e(ax + b) + c; here a = 2.
+Explanation: ∫1/(ax + b) dx = (1/a)log_{e}(ax + b) + c; here a = 2.
 
 **A1552.** A. −(1/2)cos(2x) + c
 <!-- id: methods-6-1-5 -->
@@ -8235,10 +8235,10 @@ Explanation: Write 1/x² = x^(−2); its antiderivative is x^(−1)/(−1) = −
 
 Explanation: Antidifferentiating gives f(x) = 2x³ − 2x + c; f(1) = 2 − 2 + c = 5 so c = 5.
 
-**A1558.** C. x log_e(x) − x + c
+**A1558.** C. x log_{e}(x) − x + c
 <!-- id: methods-6-1-11 -->
 
-Explanation: Integrating both sides: x log_e(x) = ∫log_e(x) dx + x, so ∫log_e(x) dx = x log_e(x) − x + c.
+Explanation: Integrating both sides: x log_{e}(x) = ∫log_{e}(x) dx + x, so ∫log_{e}(x) dx = x log_{e}(x) − x + c.
 
 **A1559.** D. x e^x − e^x + c
 <!-- id: methods-6-1-12 -->
@@ -8250,20 +8250,20 @@ Explanation: Integrating gives x e^x = e^x + ∫x e^x dx, so ∫x e^x dx = x e^x
 
 Explanation: ∫e^(−x) dx = −e^(−x), so the sum integrates to e^x − e^(−x) + c.
 
-**A1561.** B. −2log_e(1 − 2x) + c
+**A1561.** B. −2log_{e}(1 − 2x) + c
 <!-- id: methods-6-1-14 -->
 
-Explanation: ∫1/(ax + b) dx = (1/a)log_e(ax + b) with a = −2, so 4 × (−1/2) = −2.
+Explanation: ∫1/(ax + b) dx = (1/a)log_{e}(ax + b) with a = −2, so 4 × (−1/2) = −2.
 
 **A1562.** C. sin²(x)
 <!-- id: methods-6-1-15 -->
 
 Explanation: By the chain rule, d/dx sin²(x) = 2sin(x)cos(x). Note cos²(x) differentiates to −2sin(x)cos(x).
 
-**A1563.** D. x²/2 + log_e(x) + c
+**A1563.** D. x²/2 + log_{e}(x) + c
 <!-- id: methods-6-1-16 -->
 
-Explanation: Split the fraction: (x² + 1)/x = x + 1/x, which integrates to x²/2 + log_e(x) + c.
+Explanation: Split the fraction: (x² + 1)/x = x + 1/x, which integrates to x²/2 + log_{e}(x) + c.
 
 **A1564.** A. 125 L
 <!-- id: methods-6-1-17 -->
@@ -8295,17 +8295,17 @@ Explanation: f(x) = (1/2)e^(2x) + c; f(0) = 1/2 + c = 3 gives c = 5/2.
 
 Explanation: Integrate the derivative result: x sin x = ∫sin x dx + ∫x cos x dx = −cos x + ∫x cos x dx, then rearrange.
 
-**A1570.** (1/3)log_e(3x − 2) + c
+**A1570.** (1/3)log_{e}(3x − 2) + c
 <!-- id: methods-6-1-23 -->
 
-Explanation: Use ∫1/(ax + b) dx = (1/a)log_e(ax + b) + c with a = 3.
+Explanation: Use ∫1/(ax + b) dx = (1/a)log_{e}(ax + b) + c with a = 3.
 
 **A1571.** x(t) = t³ − 12t + 4; x(2) = −12 m
 <!-- id: methods-6-1-24 -->
 
 Explanation: Position is the antiderivative of velocity: x = t³ − 12t + c with c = 4; x(2) = 8 − 24 + 4 = −12.
 
-**A1572.** d/dx log_e(x² + 1) = 2x/(x² + 1) by the chain rule, so ∫x/(x² + 1) dx = (1/2)log_e(x² + 1) + c
+**A1572.** d/dx log_{e}(x² + 1) = 2x/(x² + 1) by the chain rule, so ∫x/(x² + 1) dx = (1/2)log_{e}(x² + 1) + c
 <!-- id: methods-6-1-25 -->
 
 Explanation: The integrand is half of the given derivative, so halve the antiderivative.
@@ -8340,7 +8340,7 @@ Explanation: [sin x] from 0 to π/2 = sin(π/2) − sin(0) = 1.
 **A1578.** C. 1
 <!-- id: methods-6-2-5 -->
 
-Explanation: [log_e x] from 1 to e = 1 − 0 = 1.
+Explanation: [log_{e} x] from 1 to e = 1 − 0 = 1.
 
 **A1579.** D. 15
 <!-- id: methods-6-2-6 -->
@@ -8372,10 +8372,10 @@ Explanation: By the fundamental theorem of calculus, d/dx ∫ₐˣ f(t) dt = f(x
 
 Explanation: ∫₀ᵃ 2x dx = a², so a² = 9 and a = 3.
 
-**A1585.** B. log_e(2)
+**A1585.** B. log_{e}(2)
 <!-- id: methods-6-2-12 -->
 
-Explanation: eᵏ − 1 = 1, so eᵏ = 2 and k = log_e(2).
+Explanation: eᵏ − 1 = 1, so eᵏ = 2 and k = log_{e}(2).
 
 **A1586.** C. 0
 <!-- id: methods-6-2-13 -->
@@ -8402,10 +8402,10 @@ Explanation: ∫₀² 3x dx = [3x²/2] from 0 to 2 = 6, so the result is 5 − 6
 
 Explanation: [(2/3)x^(3/2)] from 0 to 4 = (2/3)(8) = 16/3.
 
-**A1591.** D. (1/2)log_e(2)
+**A1591.** D. (1/2)log_{e}(2)
 <!-- id: methods-6-2-18 -->
 
-Explanation: An antiderivative is (1/2)log_e(x² + 1); evaluating gives (1/2)log_e 2 − (1/2)log_e 1 = (1/2)log_e 2.
+Explanation: An antiderivative is (1/2)log_{e}(x² + 1); evaluating gives (1/2)log_{e} 2 − (1/2)log_{e} 1 = (1/2)log_{e} 2.
 
 **A1592.** 3/4
 <!-- id: methods-6-2-19 -->
@@ -8415,7 +8415,7 @@ Explanation: [x⁴/4 − x²] from 1 to 2 = (4 − 4) − (1/4 − 1) = 3/4.
 **A1593.** 2
 <!-- id: methods-6-2-20 -->
 
-Explanation: [eˣ] from 0 to log_e 3 = 3 − 1 = 2.
+Explanation: [eˣ] from 0 to log_{e} 3 = 3 − 1 = 2.
 
 **A1594.** 1/3
 <!-- id: methods-6-2-21 -->
@@ -8425,7 +8425,7 @@ Explanation: [(1/3)sin(3x)] from 0 to π/6 = (1/3)sin(π/2) − 0 = 1/3.
 **A1595.** k = e²
 <!-- id: methods-6-2-22 -->
 
-Explanation: log_e(k) − log_e(1) = log_e(k) = 2, so k = e².
+Explanation: log_{e}(k) − log_{e}(1) = log_{e}(k) = 2, so k = e².
 
 **A1596.** (a) 4  (b) −16
 <!-- id: methods-6-2-23 -->
@@ -8479,10 +8479,10 @@ Explanation: Intercepts x = ±2: ∫₋₂² (4 − x²) dx = [4x − x³/3] fro
 
 Explanation: ∫₀² eˣ dx = e² − e⁰ = e² − 1.
 
-**A1606.** C. 2log_e(2)
+**A1606.** C. 2log_{e}(2)
 <!-- id: methods-6-3-7 -->
 
-Explanation: ∫₁⁴ (1/x) dx = log_e 4 = 2log_e 2.
+Explanation: ∫₁⁴ (1/x) dx = log_{e} 4 = 2log_{e} 2.
 
 **A1607.** D. 17/4
 <!-- id: methods-6-3-8 -->
@@ -8552,7 +8552,7 @@ Explanation: They intersect at x = ±2; ∫₋₂² (8 − 2x²) dx = [8x − 2x
 **A1620.** 2 square units
 <!-- id: methods-6-3-21 -->
 
-Explanation: ∫₁^(e²) (1/x) dx = log_e(e²) − log_e 1 = 2.
+Explanation: ∫₁^(e²) (1/x) dx = log_{e}(e²) − log_{e} 1 = 2.
 
 **A1621.** 2 square units
 <!-- id: methods-6-3-22 -->
@@ -8564,7 +8564,7 @@ Explanation: ∫₀^(π/2) sin(2x) dx = 1; the region on [π/2, π] lies below t
 
 Explanation: Expand to x³ − x² − 2x. ∫₋₁⁰ gives 5/12 (above the axis); ∫₀² gives −8/3 (below). Total area = 5/12 + 32/12 = 37/12.
 
-**A1623.** k = log_e(3)
+**A1623.** k = log_{e}(3)
 <!-- id: methods-6-3-24 -->
 
 Explanation: ∫₀ᵏ eˣ dx = eᵏ − 1 = 2, so eᵏ = 3.
@@ -8725,7 +8725,7 @@ Explanation: (1/(π/2))∫₀^(π/2) cos x dx = (2/π)(1) = 2/π.
 
 Explanation: (1/2)∫₀² x³ dx = (1/2)(4) = 2. Solve c³ = 2.
 
-**A1648.** 17/24 ≈ 0.708; exact value log_e 2 ≈ 0.693, so it is an overestimate
+**A1648.** 17/24 ≈ 0.708; exact value log_{e} 2 ≈ 0.693, so it is an overestimate
 <!-- id: methods-6-4-22 -->
 
 Explanation: h = 0.5: (0.25)[1 + 2(2/3) + 1/2] = 17/24. 1/x is concave up for x > 0.
@@ -9131,7 +9131,7 @@ Explanation: Var = 4, so 1 − p = 4/8 = 0.5, giving p = 0.5 and n = 8/0.5 = 16.
 **A1727.** 45
 <!-- id: methods-7-3-23 -->
 
-Explanation: Need 1 − 0.95ⁿ ≥ 0.9, i.e. 0.95ⁿ ≤ 0.1, so n ≥ log_e(0.1)/log_e(0.95) ≈ 44.9. Hence n = 45 (0.95⁴⁵ ≈ 0.099).
+Explanation: Need 1 − 0.95ⁿ ≥ 0.9, i.e. 0.95ⁿ ≤ 0.1, so n ≥ log_{e}(0.1)/log_{e}(0.95) ≈ 44.9. Hence n = 45 (0.95⁴⁵ ≈ 0.099).
 
 **A1728.** 1/5
 <!-- id: methods-7-3-24 -->
@@ -9403,7 +9403,7 @@ Explanation: E(X) = ∫₀¹ 3x³ dx = [3x⁴/4]₀¹ = 3/4.
 
 Explanation: E(X²) = ∫₀¹ 3x⁴ dx = 3/5, so Var(X) = 3/5 − (3/4)² = 48/80 − 45/80 = 3/80.
 
-**A1774.** ∫₁^(e²) k/x dx = k[log_e(x)]₁^(e²) = 2k = 1, so k = 1/2.
+**A1774.** ∫₁^(e²) k/x dx = k[log_{e}(x)]₁^(e²) = 2k = 1, so k = 1/2.
 <!-- id: methods-8-1-19 -->
 
 Explanation: Set the total area under the pdf equal to 1.
@@ -9418,7 +9418,7 @@ Explanation: Integrate the pdf from 1 to 2. Check: the total area is (1/4)(2 + 2
 
 Explanation: Use integration by parts, or note that the pdf is symmetric about x = π/2.
 
-**A1777.** Solve 1 − e^(−m/2) = 1/2, so e^(−m/2) = 1/2 and m = 2 log_e(2) ≈ 1.39 years.
+**A1777.** Solve 1 − e^(−m/2) = 1/2, so e^(−m/2) = 1/2 and m = 2 log_{e}(2) ≈ 1.39 years.
 <!-- id: methods-8-1-22 -->
 
 Explanation: Set ∫₀^m f(x) dx = 0.5 and solve for m.

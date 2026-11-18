@@ -673,7 +673,7 @@ Explanation: Correlation does not imply causation; a lurking variable such as po
 **A131.** B. 2
 <!-- id: general-2-2-1 -->
 
-Explanation: b = r × s_y / s_x = 0.8 × 5 / 2 = 2.
+Explanation: b = r × s_{y} / s_{x} = 0.8 × 5 / 2 = 2.
 
 **A132.** C. 20
 <!-- id: general-2-2-2 -->
@@ -728,7 +728,7 @@ Explanation: The slope of the least squares line always has the same sign as r, 
 **A142.** A. −1.5
 <!-- id: general-2-2-12 -->
 
-Explanation: b = r × s_y / s_x = −0.6 × 10 / 4 = −1.5.
+Explanation: b = r × s_{y} / s_{x} = −0.6 × 10 / 4 = −1.5.
 
 **A143.** B. y = 20.8 + 2.16x
 <!-- id: general-2-2-13 -->
@@ -763,7 +763,7 @@ Explanation: 35°C lies outside the data range; the linear trend cannot continue
 **A149.** b = 0.75 × 8 / 2 = 3, a = 30 − 3 × 5 = 15, so y = 15 + 3x.
 <!-- id: general-2-2-19 -->
 
-Explanation: Use b = r s_y / s_x then a = ȳ − b x̄.
+Explanation: Use b = r s_{y} / s_{x} then a = ȳ − b x̄.
 
 **A150.** On average, the hourly wage increases by $1.60 for each additional year of experience.
 <!-- id: general-2-2-20 -->
@@ -2136,7 +2136,7 @@ Explanation: Monthly rate = 4.8 ÷ 12 = 0.4%, so V = 5000 × 1.004^36 = $5,772.7
 **A418.** B. 6.168%
 <!-- id: general-5-1-2 -->
 
-Explanation: r_eff = (1 + 0.06/12)^12 − 1 = 6.168%. 6.136% is the quarterly result.
+Explanation: r_{eff} = (1 + 0.06/12)^12 − 1 = 6.168%. 6.136% is the quarterly result.
 
 **A419.** C. 3.00%
 <!-- id: general-5-1-3 -->
@@ -2148,7 +2148,7 @@ Explanation: The monthly rate is 0.25%, so the nominal annual rate is 0.25% × 1
 
 Explanation: For a fixed nominal rate, the more frequently interest compounds, the higher the effective rate, so daily compounding is highest.
 
-**A421.** A. V₀ = 8000, V_(n+1) = 1.0135 V_n
+**A421.** A. V₀ = 8000, V_{n+1} = 1.0135 V_{n}
 <!-- id: general-5-1-5 -->
 
 Explanation: Quarterly rate = 5.4 ÷ 4 = 1.35%, so the multiplier is 1 + 0.0135 = 1.0135.
@@ -2183,7 +2183,7 @@ Explanation: (1 + 0.072/4)^4 − 1 = 1.018⁴ − 1 ≈ 7.40%. 7.44% is the mont
 
 Explanation: PV = 20 000 ÷ 1.003^60 = $16,709.91.
 
-**A428.** D. V_n = 6000 × 1.0035^n
+**A428.** D. V_{n} = 6000 × 1.0035^n
 <!-- id: general-5-1-12 -->
 
 Explanation: Monthly rate = 4.2 ÷ 12 = 0.35%, giving the multiplier 1.0035.
@@ -2218,7 +2218,7 @@ Explanation: Solve 4000 × 1.055^n > 6000: n > ln 1.5 ÷ ln 1.055 ≈ 7.57, so 8
 
 Explanation: The effective rate converts any nominal rate and compounding frequency into an equivalent annual rate, so rates can be compared fairly.
 
-**A435.** r_eff = (1 + 0.054/12)^12 − 1 = 1.0045^12 − 1 ≈ 5.54%
+**A435.** r_{eff} = (1 + 0.054/12)^12 − 1 = 1.0045^12 − 1 ≈ 5.54%
 <!-- id: general-5-1-19 -->
 
 Explanation: Divide the nominal rate by 12, compound over 12 periods and subtract 1.
@@ -2228,7 +2228,7 @@ Explanation: Divide the nominal rate by 12, compound over 12 periods and subtrac
 
 Explanation: Quarterly rate 1.1%, 6 × 4 = 24 compounding periods.
 
-**A437.** V₀ = 3000, V_(n+1) = 1.0055 V_n
+**A437.** V₀ = 3000, V_{n+1} = 1.0055 V_{n}
 <!-- id: general-5-1-21 -->
 
 Explanation: Monthly rate = 6.6 ÷ 12 = 0.55%. A full answer must state V₀.
@@ -2265,7 +2265,7 @@ Explanation: (1 + 0.06/12)¹² − 1 = 1.005¹² − 1 ≈ 0.0617, so about 6.17
 
 Explanation: Using a finance solver with N = 300, I% = 6, PV = 350 000, FV = 0 and P/Y = C/Y = 12 gives PMT ≈ −$2,255.05.
 
-**A444.** D. B₀ = 20 000, B_(n+1) = 1.006 B_n − 400
+**A444.** D. B₀ = 20 000, B_{n+1} = 1.006 B_{n} − 400
 <!-- id: general-5-2-2 -->
 
 Explanation: Monthly rate = 0.6%, so the balance is multiplied by 1.006 and then reduced by the $400 repayment.
@@ -2402,7 +2402,7 @@ Explanation: Perpetuity payment = 500 000 × 0.042 ÷ 12 = $1750, the monthly in
 
 Explanation: Required investment = 2500 ÷ 0.004 = $625 000.
 
-**A471.** C. V₀ = 250 000, V_(n+1) = 1.0045 V_n − 2000
+**A471.** C. V₀ = 250 000, V_{n+1} = 1.0045 V_{n} − 2000
 <!-- id: general-5-3-3 -->
 
 Explanation: Monthly rate 0.45% gives the multiplier 1.0045, and each withdrawal of $2000 is subtracted.
@@ -2422,7 +2422,7 @@ Explanation: N = 240, I% = 4.5, PV = −400 000, FV = 0 gives PMT ≈ $2,530.60.
 
 Explanation: V = 300 000 × 1.00425^60 − 2500(1.00425^60 − 1) ÷ 0.00425 ≈ $216,479.64.
 
-**A475.** C. V₀ = 200 000, V_(n+1) = 1.003 V_n − 600
+**A475.** C. V₀ = 200 000, V_{n+1} = 1.003 V_{n} − 600
 <!-- id: general-5-3-7 -->
 
 Explanation: Interest each period is 0.003 × 200 000 = $600, which equals the withdrawal, so the balance stays at $200 000.
@@ -2524,7 +2524,7 @@ Explanation: A perpetuity pays only the interest: 1000 = P × 0.048/12 = 0.004P,
 
 #### Investments with regular additions
 
-**A495.** C. V₀ = 5000, V_(n+1) = 1.004 V_n + 200
+**A495.** C. V₀ = 5000, V_{n+1} = 1.004 V_{n} + 200
 <!-- id: general-5-4-1 -->
 
 Explanation: Monthly rate 0.4% gives the multiplier 1.004, and the deposit of $200 is added each month.
@@ -3460,7 +3460,7 @@ Explanation: Row 1 gives the average number of female offspring born to a female
 **A678.** B. on the diagonal directly below the main diagonal (the subdiagonal)
 <!-- id: general-7-3-2 -->
 
-Explanation: Survival rate s_i sits in row i+1, column i, moving females from one age group into the next.
+Explanation: Survival rate s_{i} sits in row i+1, column i, moving females from one age group into the next.
 
 **A679.** C. 160
 <!-- id: general-7-3-3 -->
@@ -3766,7 +3766,7 @@ Explanation: 'Simple' means there are no loops and at most one edge between any 
 **A738.** D. 15
 <!-- id: general-8-1-10 -->
 
-Explanation: K_n has n(n − 1)/2 edges, so K6 has 6 × 5 ÷ 2 = 15.
+Explanation: K_{n} has n(n − 1)/2 edges, so K6 has 6 × 5 ÷ 2 = 15.
 
 **A739.** C. 2
 <!-- id: general-8-1-11 -->

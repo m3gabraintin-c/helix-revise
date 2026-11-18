@@ -519,7 +519,7 @@ Explanation: Multiplying cos(kθ) + i sin(kθ) by cos θ + i sin θ gives real a
 
 Explanation: Multiplying an inequality by a positive quantity keeps its direction, so x > −1 is needed. Then (1 + kx)(1 + x) = 1 + (k + 1)x + kx² ≥ 1 + (k + 1)x.
 
-**A102.** Base: 2·3⁰ − 1 = 1 = a₁. Assume a_k = 2·3^(k−1) − 1. Then a_(k+1) = 3(2·3^(k−1) − 1) + 2 = 2·3ᵏ − 3 + 2 = 2·3ᵏ − 1, which is the formula for n = k + 1. Hence true for all n ∈ N.
+**A102.** Base: 2·3⁰ − 1 = 1 = a₁. Assume a_{k} = 2·3^(k−1) − 1. Then a_{k+1} = 3(2·3^(k−1) − 1) + 2 = 2·3ᵏ − 3 + 2 = 2·3ᵏ − 1, which is the formula for n = k + 1. Hence true for all n ∈ N.
 <!-- id: specialist-1-4-24 -->
 
 Explanation: Substitute the hypothesis into the recurrence and simplify to the target form.
@@ -1618,10 +1618,10 @@ Explanation: Let u = sin(x), du = cos(x) dx, giving ∫u³ du = u⁴/4 + c.
 
 Explanation: With u = x³ − 1, du = 3x² dx: ⅓∫u^(1/2) du = ⅓ × ⅔u^(3/2) = (2/9)u^(3/2). Award a mark for the correct substitution and one for the coefficient.
 
-**A317.** D. −log_e|cos(x)| + c
+**A317.** D. −log_{e}|cos(x)| + c
 <!-- id: specialist-4-1-5 -->
 
-Explanation: tan(x) = sin(x)/cos(x); with u = cos(x), du = −sin(x) dx, so the integral is −∫du/u = −log_e|cos(x)| + c.
+Explanation: tan(x) = sin(x)/cos(x); with u = cos(x), du = −sin(x) dx, so the integral is −∫du/u = −log_{e}|cos(x)| + c.
 
 **A318.** A. 1/8
 <!-- id: specialist-4-1-6 -->
@@ -1633,25 +1633,25 @@ Explanation: Let u = 1 − x², du = −2x dx; terminals 1 → 0, so the integra
 
 Explanation: x = (u − 1)/2 and dx = du/2, so the integrand becomes ((u − 1)/2)√u × ½ = ¼(u^(3/2) − u^(1/2)).
 
-**A320.** ½log_e(2)
+**A320.** ½log_{e}(2)
 <!-- id: specialist-4-1-8 -->
 
-Explanation: With u = x² + 1 (terminals 1 to 2), the integral is ½∫₁² du/u = ½log_e(2).
+Explanation: With u = x² + 1 (terminals 1 to 2), the integral is ½∫₁² du/u = ½log_{e}(2).
 
 **A321.** C. 1/3
 <!-- id: specialist-4-1-9 -->
 
 Explanation: Let u = cos(x), du = −sin(x) dx; terminals 1 → 0, giving ∫₀¹ u² du = 1/3.
 
-**A322.** D. ½(log_e(x))² + c
+**A322.** D. ½(log_{e}(x))² + c
 <!-- id: specialist-4-1-10 -->
 
-Explanation: Let u = log_e(x), du = dx/x, so the integral is ∫u du = u²/2 + c.
+Explanation: Let u = log_{e}(x), du = dx/x, so the integral is ∫u du = u²/2 + c.
 
-**A323.** A. log_e|x³ + 4| + c
+**A323.** A. log_{e}|x³ + 4| + c
 <!-- id: specialist-4-1-11 -->
 
-Explanation: The numerator is exactly the derivative of the denominator, so the integral is log_e|x³ + 4| + c.
+Explanation: The numerator is exactly the derivative of the denominator, so the integral is log_{e}|x³ + 4| + c.
 
 **A324.** (2/5)(x + 1)^(5/2) − (2/3)(x + 1)^(3/2) + c
 <!-- id: specialist-4-1-12 -->
@@ -1668,10 +1668,10 @@ Explanation: x dx = ½du and the terminals change from x = 0, 2 to u = 1, 5.
 
 Explanation: Let u = tan(x), du = sec²(x) dx, so ∫u du = u²/2.
 
-**A327.** D. log_e(1 + eˣ) + c
+**A327.** D. log_{e}(1 + eˣ) + c
 <!-- id: specialist-4-1-15 -->
 
-Explanation: Let u = 1 + eˣ, du = eˣ dx, so ∫du/u = log_e(1 + eˣ) + c (1 + eˣ > 0). The tan⁻¹ form applies to eˣ/(1 + e^(2x)).
+Explanation: Let u = 1 + eˣ, du = eˣ dx, so ∫du/u = log_{e}(1 + eˣ) + c (1 + eˣ > 0). The tan⁻¹ form applies to eˣ/(1 + e^(2x)).
 
 **A328.** e − 1
 <!-- id: specialist-4-1-16 -->
@@ -1681,7 +1681,7 @@ Explanation: Let u = sin(x): terminals 0 to 1, so ∫₀¹ eᵘ du = e − 1.
 **A329.** A. 1/3
 <!-- id: specialist-4-1-17 -->
 
-Explanation: With u = log_e(x), terminals 0 → 1, the integral is ∫₀¹ u² du = 1/3.
+Explanation: With u = log_{e}(x), terminals 0 → 1, the integral is ∫₀¹ u² du = 1/3.
 
 **A330.** B. 1/(2cos²(x)) + c
 <!-- id: specialist-4-1-18 -->
@@ -1718,10 +1718,10 @@ Explanation: Let u = 1 + sin(x), du = cos(x) dx, so ∫u⁻² du = −u⁻¹ + c
 
 Explanation: Use cos²(x) = ½(1 + cos(2x)), then integrate term by term: ½x + ¼sin(2x) + c.
 
-**A337.** 2log_e(3/2)
+**A337.** 2log_{e}(3/2)
 <!-- id: specialist-4-1-25 -->
 
-Explanation: du = dx/(2√x), so dx/√x = 2du; terminals become 2 and 3, giving 2∫₂³ du/u = 2log_e(3/2) = log_e(9/4).
+Explanation: du = dx/(2√x), so dx/√x = 2du; terminals become 2 and 3, giving 2∫₂³ du/u = 2log_{e}(3/2) = log_{e}(9/4).
 
 **A338.** \(\dfrac{2}{5}(x - 1)^{5/2} + \dfrac{2}{3}(x - 1)^{3/2} + c\)
 <!-- id: specialist-4-1-c1 -->
@@ -1735,10 +1735,10 @@ Explanation: \(x = u + 1\) and \(dx = du\): \(\int (u + 1)u^{1/2}\,du = \int (u^
 
 Explanation: 1 = A(x + 2) + B(x − 1); substituting x = 1 gives 1 = 3A, so A = 1/3.
 
-**A340.** B. ½log_e|(x − 1)/(x + 1)| + c
+**A340.** B. ½log_{e}|(x − 1)/(x + 1)| + c
 <!-- id: specialist-4-2-2 -->
 
-Explanation: 1/(x² − 1) = ½(1/(x − 1) − 1/(x + 1)), which integrates to ½(log_e|x − 1| − log_e|x + 1|) + c.
+Explanation: 1/(x² − 1) = ½(1/(x − 1) − 1/(x + 1)), which integrates to ½(log_{e}|x − 1| − log_{e}|x + 1|) + c.
 
 **A341.** C. A/(x − 1) + B/(x − 1)² + C/(x + 4)
 <!-- id: specialist-4-2-3 -->
@@ -1755,27 +1755,27 @@ Explanation: From x + 5 = A(x² + 4) + (Bx + C)(x + 1): x = −1 gives A = 4/5; 
 
 Explanation: An irreducible quadratic factor needs a linear numerator Bx + C; x² + 4 cannot be factorised over R.
 
-**A344.** A. log_e(4/3)
+**A344.** A. log_{e}(4/3)
 <!-- id: specialist-4-2-6 -->
 
-Explanation: 1/(x(x − 1)) = 1/(x − 1) − 1/x, so the value is [log_e|x − 1| − log_e|x|]₂³ = (log_e2 − log_e3) + log_e2 = log_e(4/3).
+Explanation: 1/(x(x − 1)) = 1/(x − 1) − 1/x, so the value is [log_{e}|x − 1| − log_{e}|x|]₂³ = (log_{e}2 − log_{e}3) + log_{e}2 = log_{e}(4/3).
 
 **A345.** B. 1/(x + 1) + 2/(x − 1)
 <!-- id: specialist-4-2-7 -->
 
 Explanation: 3x + 1 = A(x − 1) + B(x + 1): x = 1 gives B = 2, x = −1 gives A = 1.
 
-**A346.** (4/5)log_e|x + 1| − (2/5)log_e(x² + 4) + (9/10)tan⁻¹(x/2) + c
+**A346.** (4/5)log_{e}|x + 1| − (2/5)log_{e}(x² + 4) + (9/10)tan⁻¹(x/2) + c
 <!-- id: specialist-4-2-8 -->
 
 Explanation: Split (9 − 4x)/(5(x² + 4)) into −(4/5)·x/(x² + 4), giving a log term, and (9/5)·1/(x² + 4), giving (9/5)(1/2)tan⁻¹(x/2).
 
-**A347.** C. x²/2 + x + 2log_e|x − 1| + c
+**A347.** C. x²/2 + x + 2log_{e}|x − 1| + c
 <!-- id: specialist-4-2-9 -->
 
 Explanation: Division gives (x² + 1)/(x − 1) = x + 1 + 2/(x − 1), which then integrates term by term.
 
-**A348.** D. log_e|(x − 3)/(x + 2)| + c
+**A348.** D. log_{e}|(x − 3)/(x + 2)| + c
 <!-- id: specialist-4-2-10 -->
 
 Explanation: 5/((x + 2)(x − 3)) = 1/(x − 3) − 1/(x + 2).
@@ -1785,32 +1785,32 @@ Explanation: 5/((x + 2)(x − 3)) = 1/(x − 3) − 1/(x + 2).
 
 Explanation: 1 = A(x + 1)² + Bx(x + 1) + Cx: x = 0 gives A = 1, x = −1 gives C = −1, and the x² coefficient gives A + B = 0, so B = −1.
 
-**A350.** log_e(9/2)
+**A350.** log_{e}(9/2)
 <!-- id: specialist-4-2-12 -->
 
-Explanation: (x + 1)/(x(x − 1)) = −1/x + 2/(x − 1); [2log_e|x − 1| − log_e|x|]₂⁴ = (2log_e3 − log_e4) − (0 − log_e2) = log_e(9/2).
+Explanation: (x + 1)/(x(x − 1)) = −1/x + 2/(x − 1); [2log_{e}|x − 1| − log_{e}|x|]₂⁴ = (2log_{e3} − log_{e}4) − (0 − log_{e}2) = log_{e}(9/2).
 
-**A351.** B. log_e|x| − log_e|x + 1| + 1/(x + 1) + c
+**A351.** B. log_{e}|x| − log_{e}|x + 1| + 1/(x + 1) + c
 <!-- id: specialist-4-2-13 -->
 
 Explanation: Using 1/x − 1/(x + 1) − 1/(x + 1)², the last term integrates to +1/(x + 1).
 
-**A352.** C. 2log_e(4/3)
+**A352.** C. 2log_{e}(4/3)
 <!-- id: specialist-4-2-14 -->
 
-Explanation: 2/((x + 1)(x + 2)) = 2/(x + 1) − 2/(x + 2); evaluating gives 2log_e2 − 2log_e3 + 2log_e2 = 2log_e(4/3).
+Explanation: 2/((x + 1)(x + 2)) = 2/(x + 1) − 2/(x + 2); evaluating gives 2log_{e2} − 2log_{e3} + 2log_{e2} = 2log_{e}(4/3).
 
 **A353.** D. divide, since the numerator's degree is not less than the denominator's
 <!-- id: specialist-4-2-15 -->
 
 Explanation: Partial fractions apply directly only to proper rational functions; division gives x + 4x/(x² − 4).
 
-**A354.** x + ½log_e|(x − 1)/(x + 1)| + c
+**A354.** x + ½log_{e}|(x − 1)/(x + 1)| + c
 <!-- id: specialist-4-2-16 -->
 
 Explanation: Divide first: x²/(x² − 1) = 1 + 1/(x² − 1) = 1 + ½(1/(x − 1) − 1/(x + 1)).
 
-**A355.** A. log_e(x² + 3x + 5) + c
+**A355.** A. log_{e}(x² + 3x + 5) + c
 <!-- id: specialist-4-2-17 -->
 
 Explanation: The numerator is the derivative of the denominator, and x² + 3x + 5 > 0 for all x, so no modulus is needed.
@@ -1820,40 +1820,40 @@ Explanation: The numerator is the derivative of the denominator, and x² + 3x + 
 
 Explanation: x = A(x + 2) + B(x + 1): x = −1 gives A = −1; x = −2 gives B = 2.
 
-**A357.** C. 2log_e|x + 2| − log_e|x + 1| + c
+**A357.** C. 2log_{e}|x + 2| − log_{e}|x + 1| + c
 <!-- id: specialist-4-2-19 -->
 
 Explanation: Using −1/(x + 1) + 2/(x + 2), integrate each term to a logarithm.
 
-**A358.** 2log_e(3/2) (equivalently log_e(9/4))
+**A358.** 2log_{e}(3/2) (equivalently log_{e}(9/4))
 <!-- id: specialist-4-2-20 -->
 
-Explanation: 4/((x + 1)(x + 3)) = 2/(x + 1) − 2/(x + 3); evaluating gives (2log_e2 − 2log_e4) − (0 − 2log_e3) = 2log_e(3/2).
+Explanation: 4/((x + 1)(x + 3)) = 2/(x + 1) − 2/(x + 3); evaluating gives (2log_{e2} − 2log_{e4}) − (0 − 2log_{e3}) = 2log_{e}(3/2).
 
 **A359.** D. 4/5
 <!-- id: specialist-4-2-21 -->
 
 Explanation: Substituting x = −1 into x + 5 = A(x² + 4) + (Bx + C)(x + 1) gives 4 = 5A.
 
-**A360.** A. ¼log_e(5/3)
+**A360.** A. ¼log_{e}(5/3)
 <!-- id: specialist-4-2-22 -->
 
-Explanation: 1/(x² − 4) = ¼(1/(x − 2) − 1/(x + 2)), so the value is ¼[log_e|(x − 2)/(x + 2)|]₃⁴ = ¼(log_e(1/3) − log_e(1/5)) = ¼log_e(5/3).
+Explanation: 1/(x² − 4) = ¼(1/(x − 2) − 1/(x + 2)), so the value is ¼[log_{e}|(x − 2)/(x + 2)|]₃⁴ = ¼(log_{e}(1/3) − log_{e}(1/5)) = ¼log_{e}(5/3).
 
-**A361.** B. (1/100)log_e(P/(100 − P)) + c
+**A361.** B. (1/100)log_{e}(P/(100 − P)) + c
 <!-- id: specialist-4-2-23 -->
 
-Explanation: 1/(P(100 − P)) = (1/100)(1/P + 1/(100 − P)), and ∫1/(100 − P) dP = −log_e(100 − P).
+Explanation: 1/(P(100 − P)) = (1/100)(1/P + 1/(100 − P)), and ∫1/(100 − P) dP = −log_{e}(100 − P).
 
-**A362.** 3log_e|x − 1| − 2/(x − 1) + c
+**A362.** 3log_{e}|x − 1| − 2/(x − 1) + c
 <!-- id: specialist-4-2-24 -->
 
 Explanation: (3x − 1)/(x − 1)² = 3/(x − 1) + 2/(x − 1)², since 3(x − 1) + 2 = 3x − 1; the second term integrates to −2/(x − 1).
 
-**A363.** log_e(N/(1 − N)) + c
+**A363.** log_{e}(N/(1 − N)) + c
 <!-- id: specialist-4-2-25 -->
 
-Explanation: Combining gives ((1 − N) + N)/(N(1 − N)) = 1/(N(1 − N)). Integrating: log_e N − log_e(1 − N) + c. Watch the sign from the chain rule on 1 − N.
+Explanation: Combining gives ((1 − N) + N)/(N(1 − N)) = 1/(N(1 − N)). Integrating: log_{e} N − log_{e}(1 − N) + c. Watch the sign from the chain rule on 1 − N.
 
 **A364.** C. \(\frac{1}{2}\log_e\left|\dfrac{x - 1}{x + 1}\right| + c\)
 <!-- id: specialist-4-2-c1 -->
@@ -1897,10 +1897,10 @@ Explanation: d/dx cos⁻¹(x) = −1/√(1 − x²).
 
 Explanation: d/dx sin⁻¹(3x) = 3/√(1 − 9x²), so a factor of 1/3 is needed.
 
-**A372.** log_e(x² + 1) + 3tan⁻¹(x) + c
+**A372.** log_{e}(x² + 1) + 3tan⁻¹(x) + c
 <!-- id: specialist-4-3-8 -->
 
-Explanation: Split into 2x/(x² + 1), which gives log_e(x² + 1), and 3/(x² + 1), which gives 3tan⁻¹(x).
+Explanation: Split into 2x/(x² + 1), which gives log_{e}(x² + 1), and 3/(x² + 1), which gives 3tan⁻¹(x).
 
 **A373.** C. ½tan⁻¹((x + 1)/2) + c
 <!-- id: specialist-4-3-9 -->
@@ -1930,9 +1930,9 @@ Explanation: d/dx tan⁻¹(2x) = 2/(1 + 4x²), so divide by 2.
 **A378.** C. x/(1 + x²)
 <!-- id: specialist-4-3-14 -->
 
-Explanation: d/dx ½log_e(1 + x²) = ½ × 2x/(1 + x²) = x/(1 + x²); 1/(1 + x²) instead gives tan⁻¹(x).
+Explanation: d/dx ½log_{e}(1 + x²) = ½ × 2x/(1 + x²) = x/(1 + x²); 1/(1 + x²) instead gives tan⁻¹(x).
 
-**A379.** D. ½log_e(x² + 1) + tan⁻¹(x) + c
+**A379.** D. ½log_{e}(x² + 1) + tan⁻¹(x) + c
 <!-- id: specialist-4-3-15 -->
 
 Explanation: Split into x/(x² + 1) + 1/(x² + 1): a log term and an inverse tangent term.
@@ -2097,7 +2097,7 @@ Explanation: x² = 4y, so V = π∫₀⁹ 4y dy = 2π × 81 = 162π ≈ 508.9 cm
 **A411.** D. 2π/3
 <!-- id: specialist-4-4-21 -->
 
-Explanation: V = π∫₁³ x⁻² dx = π[−1/x]₁³ = π(1 − 1/3) = 2π/3. Forgetting to square y gives πlog_e(3).
+Explanation: V = π∫₁³ x⁻² dx = π[−1/x]₁³ = π(1 − 1/3) = 2π/3. Forgetting to square y gives πlog_{e}(3).
 
 **A412.** A. ∫₀^π √(1 + cos²(x)) dx
 <!-- id: specialist-4-4-22 -->
@@ -2109,10 +2109,10 @@ Explanation: L = ∫√(1 + (dy/dx)²) dx with dy/dx = cos(x).
 
 Explanation: x² = 4 − y, so V = π∫₀³ (4 − y) dy = π(12 − 9/2) = 15π/2 m³.
 
-**A414.** log_e(√2 + 1)
+**A414.** log_{e}(√2 + 1)
 <!-- id: specialist-4-4-24 -->
 
-Explanation: dy/dx = −tan(x), so √(1 + tan²(x)) = sec(x) and L = [log_e|sec(x) + tan(x)|]₀^(π/4) = log_e(√2 + 1) ≈ 0.881.
+Explanation: dy/dx = −tan(x), so √(1 + tan²(x)) = sec(x) and L = [log_{e}|sec(x) + tan(x)|]₀^(π/4) = log_{e}(√2 + 1) ≈ 0.881.
 
 **A415.** (π/27)(10√10 − 1)
 <!-- id: specialist-4-4-25 -->
@@ -2131,17 +2131,17 @@ Explanation: \(\frac{dy}{dx} = x^{1/2}\), so \(L = \int_0^3 \sqrt{1 + x}\,dx = \
 **A417.** A. y = Ae^(x³)
 <!-- id: specialist-5-1-1 -->
 
-Explanation: Separate: ∫(1/y) dy = ∫3x² dx gives log_e|y| = x³ + c, so y = Ae^(x³).
+Explanation: Separate: ∫(1/y) dy = ∫3x² dx gives log_{e}|y| = x³ + c, so y = Ae^(x³).
 
 **A418.** B. 6
 <!-- id: specialist-5-1-2 -->
 
-Explanation: log_e|y| = log_e|x| + c gives y = Ax; y(1) = 3 gives A = 3, so y(2) = 6.
+Explanation: log_{e}|y| = log_{e}|x| + c gives y = Ax; y(1) = 3 gives A = 3, so y(2) = 6.
 
-**A419.** C. y = log_e(x + 1)
+**A419.** C. y = log_{e}(x + 1)
 <!-- id: specialist-5-1-3 -->
 
-Explanation: e^y dy = dx gives e^y = x + c; y(0) = 0 gives c = 1, so y = log_e(x + 1).
+Explanation: e^y dy = dx gives e^y = x + c; y(0) = 0 gives c = 1, so y = log_{e}(x + 1).
 
 **A420.** D. dy/dx = xy + x
 <!-- id: specialist-5-1-4 -->
@@ -2151,7 +2151,7 @@ Explanation: xy + x factorises as x(y + 1), a product of a function of x and a f
 **A421.** A. 45
 <!-- id: specialist-5-1-5 -->
 
-Explanation: y = 5e^(2x), so y(log_e 3) = 5e^(2 log_e 3) = 5 × 9 = 45.
+Explanation: y = 5e^(2x), so y(log_{e} 3) = 5e^(2 log_{e} 3) = 5 × 9 = 45.
 
 **A422.** B. y = tan(x)
 <!-- id: specialist-5-1-6 -->
@@ -2168,20 +2168,20 @@ Explanation: y dy = x dx gives y² = x² + 4, so y = √(5 + 4) = 3.
 
 Explanation: d/dx e^(−x²) = −2x e^(−x²) = −2xy.
 
-**A425.** A. log_e(2)/5
+**A425.** A. log_{e}(2)/5
 <!-- id: specialist-5-1-9 -->
 
-Explanation: P = P₀e^(kt) with e^(5k) = 2 gives k = log_e(2)/5.
+Explanation: P = P₀e^(kt) with e^(5k) = 2 gives k = log_{e}(2)/5.
 
 **A426.** B. 1/8
 <!-- id: specialist-5-1-10 -->
 
 Explanation: 90 years is three half-lives, so the fraction remaining is (1/2)³ = 1/8.
 
-**A427.** C. y = −log_e(1 − x²/2)
+**A427.** C. y = −log_{e}(1 − x²/2)
 <!-- id: specialist-5-1-11 -->
 
-Explanation: e^(−y) dy = x dx gives −e^(−y) = x²/2 + c; c = −1, so e^(−y) = 1 − x²/2 and y = −log_e(1 − x²/2).
+Explanation: e^(−y) dy = x dx gives −e^(−y) = x²/2 + c; c = −1, so e^(−y) = 1 − x²/2 and y = −log_{e}(1 − x²/2).
 
 **A428.** D. y = 1/(1 − x)
 <!-- id: specialist-5-1-12 -->
@@ -2196,12 +2196,12 @@ Explanation: The solution has a vertical asymptote at x = 1, and the interval mu
 **A430.** B. 2e
 <!-- id: specialist-5-1-14 -->
 
-Explanation: log_e|y| = sin(x) + c gives y = 2e^(sin x), so y(π/2) = 2e¹ = 2e.
+Explanation: log_{e}|y| = sin(x) + c gives y = 2e^(sin x), so y(π/2) = 2e¹ = 2e.
 
 **A431.** C. 7
 <!-- id: specialist-5-1-15 -->
 
-Explanation: y − 3 = Ae^x with A = 2, so y = 3 + 2e^x and y(log_e 2) = 3 + 4 = 7.
+Explanation: y − 3 = Ae^x with A = 2, so y = 3 + 2e^x and y(log_{e} 2) = 3 + 4 = 7.
 
 **A432.** D. x² + y² = 9
 <!-- id: specialist-5-1-16 -->
@@ -2228,12 +2228,12 @@ Explanation: Check: the constant must be found before rearranging; award marks f
 
 Explanation: Verification requires substituting into both sides and showing they are identical.
 
-**A437.** ∫ 1/(1 + y) dy = ∫ 1/x dx gives log_e|1 + y| = log_e(x) + c, so 1 + y = Ax. y(1) = 1 gives A = 2, so y = 2x − 1.
+**A437.** ∫ 1/(1 + y) dy = ∫ 1/x dx gives log_{e}|1 + y| = log_{e}(x) + c, so 1 + y = Ax. y(1) = 1 gives A = 2, so y = 2x − 1.
 <!-- id: specialist-5-1-21 -->
 
 Explanation: Check by substitution: dy/dx = 2 and (1 + 2x − 1)/x = 2.
 
-**A438.** N = 500e^(kt) with e^(2k) = 3, so k = log_e(3)/2 and N = 500 × 3^(t/2). For 10 000: 3^(t/2) = 20, so t = 2 log_e(20)/log_e(3) ≈ 5.45 hours.
+**A438.** N = 500e^(kt) with e^(2k) = 3, so k = log_{e}(3)/2 and N = 500 × 3^(t/2). For 10 000: 3^(t/2) = 20, so t = 2 log_{e}(20)/log_{e}(3) ≈ 5.45 hours.
 <!-- id: specialist-5-1-22 -->
 
 Explanation: Exact value of k should be kept until the final calculation to avoid rounding error.
@@ -2243,12 +2243,12 @@ Explanation: Exact value of k should be kept until the final calculation to avoi
 
 Explanation: Check: dy/dx = 4x(x² + 1) = 4x√y.
 
-**A440.** ∫ 1/(y − 1) dy = ∫ 2x dx gives log_e|y − 1| = x² + c, so y − 1 = Ae^(x²). y(0) = 4 gives A = 3, so y = 1 + 3e^(x²).
+**A440.** ∫ 1/(y − 1) dy = ∫ 2x dx gives log_{e}|y − 1| = x² + c, so y − 1 = Ae^(x²). y(0) = 4 gives A = 3, so y = 1 + 3e^(x²).
 <!-- id: specialist-5-1-24 -->
 
 Explanation: Check: dy/dx = 6x e^(x²) = 2x(3e^(x²)) = 2x(y − 1).
 
-**A441.** e^y dy = x dx gives e^y = x²/2 + c. y(0) = 0 gives c = 1, so y = log_e(x²/2 + 1).
+**A441.** e^y dy = x dx gives e^y = x²/2 + c. y(0) = 0 gives c = 1, so y = log_{e}(x²/2 + 1).
 <!-- id: specialist-5-1-25 -->
 
 Explanation: Valid for all real x since x²/2 + 1 > 0.
@@ -2280,10 +2280,10 @@ Explanation: At P = K/2, dP/dt = rK/4 = 0.4 × 2000/4 = 200.
 
 Explanation: P = K/(1 + Ae^(−rt)) with A = (K − P₀)/P₀ = 1800/200 = 9.
 
-**A447.** B. 2.5 log_e(9)
+**A447.** B. 2.5 log_{e}(9)
 <!-- id: specialist-5-2-5 -->
 
-Explanation: 1 + 9e^(−0.4t) = 2 gives e^(0.4t) = 9, so t = log_e(9)/0.4 = 2.5 log_e(9) ≈ 5.49.
+Explanation: 1 + 9e^(−0.4t) = 2 gives e^(0.4t) = 9, so t = log_{e}(9)/0.4 = 2.5 log_{e}(9) ≈ 5.49.
 
 **A448.** C. 500
 <!-- id: specialist-5-2-6 -->
@@ -2340,32 +2340,32 @@ Explanation: P = 5000/(1 + 9e^(−0.6t)), so P(5) = 5000/(1 + 9e^(−3)) ≈ 500
 
 Explanation: If P/K ≈ 0 then 1 − P/K ≈ 1, giving dP/dt ≈ rP.
 
-**A459.** B. (1/2)log_e(7/3)
+**A459.** B. (1/2)log_{e}(7/3)
 <!-- id: specialist-5-2-17 -->
 
-Explanation: A = 350/50 = 7; 100 = 400/(1 + 7e^(−2r)) gives e^(−2r) = 3/7, so r = (1/2)log_e(7/3) ≈ 0.424.
+Explanation: A = 350/50 = 7; 100 = 400/(1 + 7e^(−2r)) gives e^(−2r) = 3/7, so r = (1/2)log_{e}(7/3) ≈ 0.424.
 
 **A460.** C. 150
 <!-- id: specialist-5-2-18 -->
 
 Explanation: 0.4 × 1500 × (1 − 0.75) = 600 × 0.25 = 150.
 
-**A461.** Using partial fractions, (1/P + 1/(1000 − P)) dP = 0.5 dt, so log_e(P/(1000 − P)) = 0.5t + c. With P(0) = 100, P/(1000 − P) = (1/9)e^(0.5t), giving P = 1000/(1 + 9e^(−0.5t)).
+**A461.** Using partial fractions, (1/P + 1/(1000 − P)) dP = 0.5 dt, so log_{e}(P/(1000 − P)) = 0.5t + c. With P(0) = 100, P/(1000 − P) = (1/9)e^(0.5t), giving P = 1000/(1 + 9e^(−0.5t)).
 <!-- id: specialist-5-2-19 -->
 
 Explanation: Check: P(0) = 1000/10 = 100 and P → 1000 as t → ∞.
 
-**A462.** 1 + 9e^(−0.5t) = 10/9, so 9e^(−0.5t) = 1/9 and e^(−0.5t) = 1/81. Thus t = 2 log_e(81) = 8 log_e(3) ≈ 8.79.
+**A462.** 1 + 9e^(−0.5t) = 10/9, so 9e^(−0.5t) = 1/9 and e^(−0.5t) = 1/81. Thus t = 2 log_{e}(81) = 8 log_{e}(3) ≈ 8.79.
 <!-- id: specialist-5-2-20 -->
 
-Explanation: Exact form required; 2 log_e(81) is equally acceptable.
+Explanation: Exact form required; 2 log_{e}(81) is equally acceptable.
 
 **A463.** Let f(P) = rP − rP²/K. f′(P) = r − 2rP/K = 0 gives P = K/2. f″(P) = −2r/K < 0, so this is a maximum, with maximum rate rK/4.
 <!-- id: specialist-5-2-21 -->
 
 Explanation: This corresponds to the point of inflection on the P–t logistic curve.
 
-**A464.** r = 0.0001 × 10 000 = 1, K = 10 000, A = 9990/10 = 999, so N = 10 000/(1 + 999e^(−t)). N = 5000 when 999e^(−t) = 1, so t = log_e(999) ≈ 6.91 days.
+**A464.** r = 0.0001 × 10 000 = 1, K = 10 000, A = 9990/10 = 999, so N = 10 000/(1 + 999e^(−t)). N = 5000 when 999e^(−t) = 1, so t = log_{e}(999) ≈ 6.91 days.
 <!-- id: specialist-5-2-22 -->
 
 Explanation: Students should identify r and K before applying the standard solution.
@@ -2380,7 +2380,7 @@ Explanation: Factorising to logistic form is the key step.
 
 Explanation: Both parameters must be interpreted in context for full marks.
 
-**A467.** A = 800/200 = 4. 400 = 1000/(1 + 4e^(−3r)) gives 1 + 4e^(−3r) = 2.5, so e^(−3r) = 3/8 and r = (1/3)log_e(8/3) ≈ 0.327.
+**A467.** A = 800/200 = 4. 400 = 1000/(1 + 4e^(−3r)) gives 1 + 4e^(−3r) = 2.5, so e^(−3r) = 3/8 and r = (1/3)log_{e}(8/3) ≈ 0.327.
 <!-- id: specialist-5-2-25 -->
 
 Explanation: Check: 1000/(1 + 4 × 0.375) = 1000/2.5 = 400.
@@ -2512,10 +2512,10 @@ Explanation: Also undefined (vertical segments) along y = 0.
 
 Explanation: Percentage error = |exact − approx|/exact × 100%.
 
-**A493.** y₁ = 2 + 0.5 log_e(1) = 2; y₂ = 2 + 0.5 log_e(1.5) ≈ 2 + 0.2027 = 2.20.
+**A493.** y₁ = 2 + 0.5 log_{e}(1) = 2; y₂ = 2 + 0.5 log_{e}(1.5) ≈ 2 + 0.2027 = 2.20.
 <!-- id: specialist-5-3-25 -->
 
-Explanation: Note the first step adds nothing because log_e(1) = 0.
+Explanation: Note the first step adds nothing because log_{e}(1) = 0.
 
 **A494.** \(y(0.2) \approx 1.22\)
 <!-- id: specialist-5-3-c1 -->
@@ -2557,7 +2557,7 @@ Explanation: dQ/dt = −20Q/500 = −Q/25, so Q = 50e^(−t/25).
 **A501.** B. 17.3 minutes
 <!-- id: specialist-5-4-7 -->
 
-Explanation: e^(−t/25) = 1/2 gives t = 25 log_e(2) ≈ 17.3 minutes.
+Explanation: e^(−t/25) = 1/2 gives t = 25 log_{e}(2) ≈ 17.3 minutes.
 
 **A502.** C. 0.5 kg/L
 <!-- id: specialist-5-4-8 -->
@@ -2584,10 +2584,10 @@ Explanation: T = 25 + Ae^(−0.1t) → 25 as t → ∞, the ambient temperature.
 
 Explanation: dA/dt = 5 − 0.2A = 0 gives A = 25.
 
-**A507.** D. 5 log_e(5) hours
+**A507.** D. 5 log_{e}(5) hours
 <!-- id: specialist-5-4-13 -->
 
-Explanation: A = 25(1 − e^(−0.2t)); 20 = 25(1 − e^(−0.2t)) gives e^(−0.2t) = 0.2, so t = 5 log_e(5) ≈ 8.05 h.
+Explanation: A = 25(1 − e^(−0.2t)); 20 = 25(1 − e^(−0.2t)) gives e^(−0.2t) = 0.2, so t = 5 log_{e}(5) ≈ 8.05 h.
 
 **A508.** A. 16 minutes
 <!-- id: specialist-5-4-14 -->
@@ -2619,15 +2619,15 @@ Explanation: Q/V is the uniform concentration, which requires instantaneous perf
 
 Explanation: Marks for the DE, the separation/solution, and the evaluation.
 
-**A514.** V = 100 − 2t, so dQ/dt = −5Q/(100 − 2t). Separating: log_e Q = (5/2)log_e(100 − 2t) + c. With Q(0) = 10, Q = 10((100 − 2t)/100)^(5/2).
+**A514.** V = 100 − 2t, so dQ/dt = −5Q/(100 − 2t). Separating: log_{e} Q = (5/2)log_{e}(100 − 2t) + c. With Q(0) = 10, Q = 10((100 − 2t)/100)^(5/2).
 <!-- id: specialist-5-4-20 -->
 
-Explanation: Check: d/dt log_e Q = (5/2)(−2)/(100 − 2t) = −5/(100 − 2t).
+Explanation: Check: d/dt log_{e} Q = (5/2)(−2)/(100 − 2t) = −5/(100 − 2t).
 
-**A515.** 1 − e^(−t/50) = 0.75 gives e^(−t/50) = 0.25, so t = 50 log_e(4) = 100 log_e(2) ≈ 69.3 minutes.
+**A515.** 1 − e^(−t/50) = 0.75 gives e^(−t/50) = 0.25, so t = 50 log_{e}(4) = 100 log_{e}(2) ≈ 69.3 minutes.
 <!-- id: specialist-5-4-21 -->
 
-Explanation: Exact answer 50 log_e(4) or 100 log_e(2).
+Explanation: Exact answer 50 log_{e}(4) or 100 log_{e}(2).
 
 **A516.** dA/dt = 10 − 0.25A. Solving gives A = 40(1 − e^(−0.25t)). As t → ∞, A → 40 mg.
 <!-- id: specialist-5-4-22 -->
@@ -2639,12 +2639,12 @@ Explanation: Steady state can be found directly by setting dA/dt = 0.
 
 Explanation: Any two valid assumptions earn full marks.
 
-**A518.** T = 20 + 160e^(−kt). 80 = 160e^(−10k) gives k = log_e(2)/10 ≈ 0.0693. For 30°C: e^(−kt) = 1/16, so t = 4 × 10 = 40 minutes.
+**A518.** T = 20 + 160e^(−kt). 80 = 160e^(−10k) gives k = log_{e}(2)/10 ≈ 0.0693. For 30°C: e^(−kt) = 1/16, so t = 4 × 10 = 40 minutes.
 <!-- id: specialist-5-4-24 -->
 
 Explanation: The temperature difference halves every 10 minutes; 160 → 10 is four halvings.
 
-**A519.** Equilibrium is A = 500 000, so A = 500 000 + (400 000 − 500 000)e^(0.04t) = 500 000 − 100 000e^(0.04t). A = 0 when e^(0.04t) = 5, so t = 25 log_e(5) ≈ 40.2 years.
+**A519.** Equilibrium is A = 500 000, so A = 500 000 + (400 000 − 500 000)e^(0.04t) = 500 000 − 100 000e^(0.04t). A = 0 when e^(0.04t) = 5, so t = 25 log_{e}(5) ≈ 40.2 years.
 <!-- id: specialist-5-4-25 -->
 
 Explanation: Because A(0) is below equilibrium, the balance decreases and eventually reaches zero.
@@ -2681,7 +2681,7 @@ Explanation: ½v² = −2x² + c with v = 0 at x = 3 gives c = 18, so v² = 36 �
 **A525.** A. v = e^(2t)
 <!-- id: specialist-6-1-5 -->
 
-Explanation: dv/dt = 2v gives ∫dv/v = ∫2 dt, so log_e(v) = 2t (using v(0) = 1) and v = e^(2t).
+Explanation: dv/dt = 2v gives ∫dv/v = ∫2 dt, so log_{e}(v) = 2t (using v(0) = 1) and v = e^(2t).
 
 **A526.** B. v = 4e^(−x)
 <!-- id: specialist-6-1-6 -->
@@ -2723,10 +2723,10 @@ Explanation: ½v² = x²/2 + x, so v² = x² + 2x = 8 at x = 2, giving v = 2√2
 
 Explanation: dt/dx = x + 2, so t = x²/2 + 2x. At x = 2, t = 2 + 4 = 6 s.
 
-**A534.** B. 10 log_e(2) ≈ 6.93 s
+**A534.** B. 10 log_{e}(2) ≈ 6.93 s
 <!-- id: specialist-6-1-14 -->
 
-Explanation: dv/dt = −0.1v gives v = 20e^(−0.1t). Setting v = 10 gives t = 10 log_e(2) ≈ 6.93 s.
+Explanation: dv/dt = −0.1v gives v = 20e^(−0.1t). Setting v = 10 gives t = 10 log_{e}(2) ≈ 6.93 s.
 
 **A535.** C. 100 m
 <!-- id: specialist-6-1-15 -->
@@ -3652,7 +3652,7 @@ Explanation: 2t + 1 = t + 3 gives t = 2, and t + 3 = 3t − 1 also gives t = 2. 
 **A716.** D. 2e^(2t) i + (1/t) j
 <!-- id: specialist-7-4-14 -->
 
-Explanation: Differentiate each component: d/dt e^(2t) = 2e^(2t) and d/dt log_e(t) = 1/t.
+Explanation: Differentiate each component: d/dt e^(2t) = 2e^(2t) and d/dt log_{e}(t) = 1/t.
 
 **A717.** A. 12i + 4j
 <!-- id: specialist-7-4-15 -->
@@ -3684,7 +3684,7 @@ Explanation: Speed is the magnitude of the velocity.
 
 Explanation: When the speed is constant, distance = speed × time.
 
-**A723.** v_y = 19.6 − 9.8t = 0 at t = 2 s. y = 19.6t − 4.9t², so y(2) = 39.2 − 19.6 = 19.6 m.
+**A723.** v_{y} = 19.6 − 9.8t = 0 at t = 2 s. y = 19.6t − 4.9t², so y(2) = 39.2 − 19.6 = 19.6 m.
 <!-- id: specialist-7-4-21 -->
 
 Explanation: First find when the vertical velocity is zero, then substitute into y(t).

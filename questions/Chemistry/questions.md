@@ -973,7 +973,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. the same conductivity, because the delocalised electrons are unaffected.
 - D. no electrical conductivity, because the bonding becomes covalent.
 
-**Q117.** How many delocalised electrons are present in 0.50 mol of magnesium metal? (N_A = 6.02 × 10²³ mol⁻¹)
+**Q117.** How many delocalised electrons are present in 0.50 mol of magnesium metal? (N_{A} = 6.02 × 10²³ mol⁻¹)
 <!-- id: chem12a1-mb-18 -->
 *Info: Calculation · 1 mark · about 1 min · Exam relevance: Medium (core content for school assessments); multiple choice, as in school exams*
 
@@ -1036,7 +1036,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 - C. mobile cations, and delocalised electrons that are fixed in place, respectively.
 - D. mobile delocalised electrons, and non-directional bonding that lets layers of cations slide, respectively.
 
-**Q124.** Calculate the number of delocalised electrons in 2.70 g of aluminium. (M(Al) = 27.0 g mol⁻¹; N_A = 6.02 × 10²³ mol⁻¹) (3 marks)
+**Q124.** Calculate the number of delocalised electrons in 2.70 g of aluminium. (M(Al) = 27.0 g mol⁻¹; N_{A} = 6.02 × 10²³ mol⁻¹) (3 marks)
 <!-- id: chem12a1-mb-25 -->
 *Info: Calculation · about 3 marks · about 4 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
@@ -1356,7 +1356,7 @@ Answers: [answers.md](answers.md). Question numbers match answer numbers.
 
 *Written answer*
 
-**Q163.** Calculate the total number of ions in 5.30 g of sodium carbonate, Na₂CO₃. (M = 106.0 g mol⁻¹; N_A = 6.02 × 10²³ mol⁻¹) (3 marks)
+**Q163.** Calculate the total number of ions in 5.30 g of sodium carbonate, Na₂CO₃. (M = 106.0 g mol⁻¹; N_{A} = 6.02 × 10²³ mol⁻¹) (3 marks)
 <!-- id: chem12a1-ib-32 -->
 *Info: Calculation · about 3 marks · about 4 min · Exam relevance: Medium (core content for school assessments); short answer, as in school exams and SACs*
 
