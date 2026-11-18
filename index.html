@@ -344,6 +344,28 @@ html { scroll-padding-top: calc(120px + env(safe-area-inset-top, 0px)); }
 /* Display headings: heavy, soft, tight tracking. */
 .page-h1, .section-h, .topic-title b, .result .big, fieldset.pick .all, .subj b, .prose h2 { letter-spacing: -.02em; }
 .subj .call { color: var(--muted); }
+/* Topic mastery: the confidence question, level badges, the figures table and the explanation. */
+fieldset.conf { border: 0; margin: -8px 0 16px; padding: 0; display: flex; flex-wrap: wrap; align-items: center; gap: 6px 8px; min-width: 0; }
+fieldset.conf legend { float: left; margin-right: 4px; padding: 0; font-size: 0.8125rem; font-weight: 600; }
+fieldset.conf legend .muted { font-weight: 400; }
+fieldset.conf label { position: relative; display: inline-flex; }
+fieldset.conf input { position: absolute; inset: 0; width: 100%; height: 100%; margin: 0; opacity: 0; cursor: pointer; }
+fieldset.conf label span { display: inline-flex; align-items: center; min-height: 36px; padding: 0 12px; border: 1px solid var(--field); border-radius: var(--r-pill); background: var(--surface); font-size: 0.8125rem; }
+fieldset.conf input:checked + span { background: var(--accent); border-color: var(--accent); color: var(--accent-ink); font-weight: 600; }
+fieldset.conf input:focus-visible + span { outline: 2px solid var(--ink); outline-offset: 2px; }
+.lv { display: inline-block; border-radius: var(--r-pill); padding: 1px 10px; font-size: 0.75rem; font-weight: 700; border: 1px solid var(--field); white-space: nowrap; }
+.lv-m { background: var(--good-soft); color: var(--good); border-color: var(--good); } .lv-s { background: var(--accent-soft); }
+.lv-d { background: var(--surface-2); } .lv-b { background: var(--bad-soft); color: var(--bad); border-color: var(--bad); }
+.mtab td, .mtab th { white-space: nowrap; } .mtab tbody th { white-space: normal; min-width: 14rem; }
+.mtab td b { font-family: var(--font-display); font-size: 1.1rem; margin-right: 6px; } .mtab td .xs, .mtab th .xs { display: block; }
+.mtab td:nth-child(n+4):nth-child(-n+7) { font-variant-numeric: tabular-nums; text-align: right; }
+.mformula { font-family: var(--font-display); font-weight: 700; font-size: 1.05rem; padding: 10px 14px; border-radius: var(--r-sm); background: var(--surface-2); overflow-wrap: anywhere; }
+.mdefs { margin: 0; display: grid; gap: 6px 16px; grid-template-columns: minmax(0, 14rem) minmax(0, 1fr); }
+.mdefs dt { font-weight: 700; } .mdefs dd { margin: 0; }
+@media (max-width: 640px) { .mdefs { grid-template-columns: minmax(0, 1fr); } .mdefs dd { margin-bottom: 8px; } }
+.mhow p { max-width: 50rem; } .mhow code { font-size: 0.85em; }
+.spark { display: block; overflow: visible; }
+.dstats { grid-template-columns: repeat(auto-fit, minmax(6.5rem, 1fr)); }
 /* Mistake analysis: the panel after a lost mark, the page's filters, bars and history. */
 .mpanel { display: flex; flex-direction: column; gap: 10px; align-self: stretch; border: 1px solid var(--line-soft); border-left: 3px solid var(--bad); background: var(--surface-2); border-radius: var(--r-sm); padding: 12px 14px; font-size: 0.875rem; }
 .mslot { align-self: stretch; } .mslot[hidden] { display: none; }
@@ -655,10 +677,161 @@ const DATA = {"S":[["methods","Mathematical Methods","VCE · Units 3 & 4","VCE �
       { slug: p ? p.topic : slugOfQ[q.id], got, of, last: today(), times: (e ? e.times : 0) + 1, done: false }, extra || {});
     saveLog();
   }
+  /* <mastery-engine> */
+  // ---- topic mastery engine ----
+  // A transparent weighted model, not machine learning. It is pure (no page, storage or DOM), so tests/mastery.test.mjs
+  // loads this block on its own. Input: the attempts on one subtopic, each
+  //   { t (Unix seconds), day (whole local day number), q (question id), part (-1 or index), got, of,
+  //     secs (time on screen, 0 if unknown), est (expected seconds), p (typical share of students right, 0-1, or null),
+  //     type (question type, or ""), conf (0 guessed, 1 unsure, 2 sure, or null) }
+  // Output: four components on 0-100, their weighted mastery M, a range and a reliability, or "not enough data".
+  //   P  performance: recency-weighted accuracy, Bayesian-smoothed
+  //   R  delayed retention: accuracy on attempts made after a gap from the subtopic's previous attempt, smoothed
+  //   D  difficulty-adjusted: P moved up or down by how much harder or easier the questions were than a reference question
+  //   K  consistency: the share of practice days in the subtopic that went well, smoothed
+  //   M = wP·P + wR·R + wD·D + wK·K, over the components that have data (their weights rescaled to add up to 1).
+  const MasteryEngine = (() => {
+    const DEFAULTS = {
+      weights: { P: 0.45, R: 0.25, D: 0.15, K: 0.15 }, // the suggested formula; rescaled if they do not add up to 1
+      priorMean: 0.5,       // Bayesian prior: every estimate starts as if from priorStrength marks at 50%
+      priorStrength: 5,
+      halfLifeDays: 30,     // an attempt's weight halves every 30 days, so recent work counts more
+      recentDays: 21,       // "recent accuracy" covers the last 21 days
+      maxMarksWeight: 3,    // a question counts for at most 3 marks of evidence, so long questions cannot swamp a subtopic
+      repeatBonus: 0.25,    // each repeat of the same question adds a quarter of a question's evidence...
+      maxRepeatBonus: 2,    // ...for at most two repeats, so drilling one question cannot inflate mastery
+      guessCredit: 0.5,     // a correct answer the student says they guessed counts as half right
+      refSuccess: 0.6,      // the reference question for D: one that 60% of students get right
+      retentionGapDays: 3,  // an attempt tests retention when the subtopic was last practised at least 3 days before
+      goodDay: 0.6,         // a practice day "went well" at 60% or more...
+      minDayMarks: 2,       // ...counting days with at least 2 marks in the subtopic
+      dayPrior: 2,          // consistency is smoothed as if from 2 extra days, half of them good
+      minQuestions: 3, minMarks: 6, // below these the subtopic is "not enough data" and gets no score
+      paceSlack: 1.5,       // an answer is "on pace" within 1.5 times its estimated time
+      band: 1.28,           // the range shown is about an 80% interval
+      levels: [[80, "Mastered"], [60, "Secure"], [40, "Developing"], [0, "Beginning"]],
+      masteredNeedsRetention: 70, // "Mastered" also needs R of at least 70 and at least moderate reliability
+    };
+    // Merge overrides with the defaults. Weights are rescaled so they add up to 1.
+    function config(over) {
+      const c = { ...DEFAULTS, ...(over || {}), weights: { ...DEFAULTS.weights, ...((over && over.weights) || {}) } };
+      const sum = Object.values(c.weights).reduce((a, w) => a + Math.max(0, w), 0) || 1;
+      c.weights = Object.fromEntries(Object.entries(c.weights).map(([k, w]) => [k, Math.max(0, w) / sum]));
+      return c;
+    }
+    const clamp = (x, lo = 0, hi = 1) => Math.min(hi, Math.max(lo, x));
+    const credit = (a, c) => { const x = a.of > 0 ? clamp(a.got / a.of) : 0; return a.conf === 0 && x > 0 ? x * c.guessCredit : x; };
+    // Beta-binomial smoothing: (evidence + prior) / (weight + prior strength).
+    const smooth = (sum, weight, c) => (sum + c.priorMean * c.priorStrength) / (weight + c.priorStrength);
+    // One evidence unit per question: its attempts are averaged (recent ones weighted more), and repeats add only a little weight.
+    function perQuestion(atts, now, c, decay) {
+      const by = new Map();
+      for (const a of atts) { const k = a.q + "#" + a.part; if (!by.has(k)) by.set(k, []); by.get(k).push(a); }
+      const out = [];
+      for (const list of by.values()) {
+        list.sort((x, y) => x.t - y.t);
+        let num = 0, den = 0, rec = 0;
+        for (const a of list) { const d = decay ? Math.pow(0.5, Math.max(0, now - a.t) / 86400 / c.halfLifeDays) : 1; num += d * credit(a, c); den += d; rec = Math.max(rec, d); }
+        const last = list[list.length - 1];
+        const w = Math.min(last.of, c.maxMarksWeight) * rec * (1 + c.repeatBonus * Math.min(list.length - 1, c.maxRepeatBonus));
+        out.push({ key: last.q + "#" + last.part, x: den ? num / den : 0, w, p: last.p, n: list.length });
+      }
+      return out;
+    }
+    const wmean = qs => { const W = qs.reduce((a, q) => a + q.w, 0); return W ? qs.reduce((a, q) => a + q.w * q.x, 0) / W : null; };
+    function subtopic(atts, now, over) {
+      const c = over && over.__cfg ? over : config(over);
+      const A = atts.filter(a => a && a.of > 0).slice().sort((x, y) => x.t - y.t);
+      const qs = perQuestion(A, now, c, true);
+      // Marks of evidence count each different question once, so repeats cannot make a subtopic look well tested.
+      const marks = [...new Map(A.map(a => [a.q + "#" + a.part, a.of])).values()].reduce((x, y) => x + y, 0), nQ = qs.length;
+      const r = { nAttempts: A.length, nQuestions: nQ, marks, sufficient: nQ >= c.minQuestions && marks >= c.minMarks };
+      // Raw accuracies for display: historical (every question, no decay) and recent (questions attempted in the window).
+      const hist = perQuestion(A, now, c, false), recentA = A.filter(a => now - a.t <= c.recentDays * 86400), recent = perQuestion(recentA, now, c, false);
+      r.historical = wmean(hist); r.recent = recent.length ? wmean(recent) : null; r.recentQuestions = recent.length;
+      // P: smoothed, recency-weighted accuracy, and how sure we can be of it.
+      const W = qs.reduce((a, q) => a + q.w, 0), S = qs.reduce((a, q) => a + q.w * q.x, 0);
+      const pm = smooth(S, W, c);
+      r.P = 100 * pm; r.evidence = W;
+      r.sd = 100 * Math.sqrt(pm * (1 - pm) / (W + c.priorStrength + 1));
+      // D: P adjusted by how much harder (or easier) the rated questions were than the reference, scaled by the share rated.
+      const rated = qs.filter(q => q.p != null && isFinite(q.p));
+      if (rated.length) {
+        const RW = rated.reduce((a, q) => a + q.w, 0), meanP = rated.reduce((a, q) => a + q.w * q.p, 0) / (RW || 1);
+        r.typical = 100 * meanP; r.D = 100 * clamp(pm + (c.refSuccess - meanP) * (RW / (W || 1)));
+      } else { r.D = null; r.typical = null; }
+      // R: attempts made at least retentionGapDays after the subtopic's previous attempt.
+      const delayed = [];
+      for (let i = 1; i < A.length; i++) if (A[i].t - A[i - 1].t >= c.retentionGapDays * 86400) delayed.push(A[i]);
+      const dq = perQuestion(delayed, now, c, false);
+      r.nDelayed = dq.length;
+      r.R = dq.length ? 100 * smooth(dq.reduce((a, q) => a + q.w * q.x, 0), dq.reduce((a, q) => a + q.w, 0), c) : null;
+      r.immediate = wmean(perQuestion(A.filter(a => !delayed.includes(a)), now, c, false));
+      // K: practice days in this subtopic that went well.
+      const days = new Map();
+      for (const a of A) { const d = days.get(a.day) || { got: 0, of: 0 }; d.got += credit(a, c) * a.of; d.of += a.of; days.set(a.day, d); }
+      const counted = [...days.values()].filter(d => d.of >= c.minDayMarks), good = counted.filter(d => d.got / d.of >= c.goodDay).length;
+      r.days = counted.length; r.goodDays = good;
+      r.K = counted.length >= 2 ? 100 * (good + 0.5 * c.dayPrior) / (counted.length + c.dayPrior) : null;
+      // M: the weighted sum over components with data. D falls back to P when no question has a difficulty rating.
+      const comp = { P: r.P, R: r.R, D: r.D == null ? r.P : r.D, K: r.K };
+      let num = 0, den = 0;
+      for (const [k, w] of Object.entries(c.weights)) if (comp[k] != null) { num += w * comp[k]; den += w; }
+      r.M = den ? num / den : null; r.used = Object.keys(c.weights).filter(k => comp[k] != null && (k !== "D" || r.D != null));
+      r.lo = r.M == null ? null : clamp(r.M - c.band * r.sd, 0, 100); r.hi = r.M == null ? null : clamp(r.M + c.band * r.sd, 0, 100);
+      // Reliability, and the level a student sees. No level without enough data; Mastered needs retention shown.
+      r.reliability = !r.sufficient ? "insufficient" : nQ >= 12 && r.nDelayed >= 3 && r.days >= 3 ? "good" : nQ >= 6 && r.nDelayed >= 1 ? "moderate" : "low";
+      if (!r.sufficient) r.level = null;
+      else {
+        let lvl = c.levels.find(([min]) => r.M >= min)[1];
+        if (lvl === c.levels[0][1] && (r.R == null || r.R < c.masteredNeedsRetention || r.reliability === "low")) { lvl = c.levels[1][1]; r.capped = true; }
+        r.level = lvl;
+      }
+      // By question type, and pace (answers within paceSlack times their estimate), for display and exam readiness.
+      r.types = {};
+      for (const a of A) if (a.type) { const t = r.types[a.type] || (r.types[a.type] = { got: 0, of: 0, n: 0 }); t.got += credit(a, c) * a.of; t.of += a.of; t.n++; }
+      const timed = A.filter(a => a.secs > 0 && a.est > 0);
+      r.pace = timed.length ? timed.filter(a => a.secs <= c.paceSlack * a.est).length / timed.length : null; r.timed = timed.length;
+      return r;
+    }
+    // Every subtopic at once. byRef groups attempts (already normalised) by subtopic slug.
+    function all(bySlug, now, over) { const c = config(over); c.__cfg = true; const out = {}; for (const [slug, atts] of Object.entries(bySlug)) out[slug] = subtopic(atts, now, c); return out; }
+    // Mastery of a group (a topic or a subject): rated subtopics only, weighted by their evidence.
+    function group(results) {
+      const rated = results.filter(r => r && r.sufficient);
+      const W = rated.reduce((a, r) => a + r.evidence, 0);
+      return { rated: rated.length, total: results.length, M: W ? rated.reduce((a, r) => a + r.evidence * r.M, 0) / W : null };
+    }
+    // Exam readiness, kept apart from mastery: every examinable subtopic counts by its exam weight, and a subtopic without a
+    // rating counts as 0 (you cannot be ready on what you have not shown). Then a pace factor: 85% to 100% by the share on pace.
+    function readiness(subs, over) {
+      const c = config(over);
+      let num = 0, den = 0, onPace = 0, timed = 0;
+      for (const { weight, result } of subs) {
+        den += weight; if (result && result.sufficient) num += weight * result.M;
+        if (result && result.pace != null) { onPace += result.pace * result.timed; timed += result.timed; }
+      }
+      if (!den) return null;
+      const pace = timed ? onPace / timed : null;
+      return { score: num / den * (pace == null ? 1 : 0.85 + 0.15 * pace), base: num / den, pace, coveredWeight: subs.filter(s => s.result && s.result.sufficient).reduce((a, s) => a + s.weight, 0) / den };
+    }
+    // Snapshots: one per day (the same day is replaced), oldest dropped past max.
+    function snapshot(snaps, dayKey, data, max) {
+      const out = snaps.filter(s => s[0] !== dayKey).concat([[dayKey, data]]).sort((a, b) => a[0] < b[0] ? -1 : a[0] > b[0] ? 1 : 0);
+      return out.slice(-(max || 120));
+    }
+    // A rounded, honest display: down to a multiple of 5 (so a shown score never crosses into a higher level), and a range
+    // widened outwards to multiples of 5.
+    const show = r => r && r.sufficient ? { value: Math.floor(r.M / 5) * 5, lo: Math.floor(r.lo / 5) * 5, hi: Math.ceil(r.hi / 5) * 5 } : null;
+    return { DEFAULTS, config, subtopic, all, group, readiness, snapshot, show };
+  })();
+  /* </mastery-engine> */
+
   // ---- activity history (per-browser), for the dashboard ----
   // { since, legacy, trimmed, a: [attempt], s: [session] }, times in Unix seconds.
   //   attempt: one per marked question, or per part of a multi-part question:
-  //     [time, questionId, part (index, or -1 for a whole question), subtopicSlug tested, got, of, seconds, sessionId]
+  //     [time, questionId, part (index, or -1 for a whole question), subtopicSlug tested, got, of, seconds, sessionId, confidence?]
+  //     where confidence, when the student gave one before answering, is 0 (guessing), 1 (unsure) or 2 (sure)
   //   session: one per finished quiz or exam page: [id, kind, ref, start, end, questions, got, of, seconds], where kind is
   //     sub (a subtopic quiz, ref = slug), mix (a built quiz, ref = subject), err (error log practice), due (questions due for
   //     revision), focus (a recommended focus quiz, ref = subject), exam (one exam-style question, ref = id) or test (ref = subject).
@@ -720,11 +893,12 @@ const DATA = {"S":[["methods","Mathematical Methods","VCE · Units 3 & 4","VCE �
   const testedSlug = (q, p) => p ? p.topic : QT[q.id] && QT[q.id][3] && subBySlug[QT[q.id][3]] ? QT[q.id][3] : slugOfQ[q.id] || "";
   let sessN = 0;
   const newSession = (kind, ref) => ({ id: nowS().toString(36) + "-" + (sessN++).toString(36), kind, ref: ref || "", start: nowS(), secs: 0 });
-  function addAttempt(sess, q, p, got, of, secs) {
+  function addAttempt(sess, q, p, got, of, secs, conf) {
     const r = [nowS(), q.id, p ? p.n : -1, testedSlug(q, p), got, of, Math.round(secs), sess ? sess.id : ""];
+    if (Number.isInteger(conf)) r.push(conf);
     act.a.push(r); pend.a.push(r);
     if (sess) sess.secs += secs;
-    saveAct();
+    saveAct(); scheduleMastery();
     return r;
   }
   // A multi-part question's time is shared between its parts by marks. Returns the parts' rows.
@@ -814,7 +988,7 @@ const DATA = {"S":[["methods","Mathematical Methods","VCE · Units 3 & 4","VCE �
   // The newest record for each question or part, keyed id + "#" + part.
   const misLatest = () => { const m = new Map(); mis.m.forEach(r => m.set(r.id + "#" + r.part, r)); return m; };
   const ratio = slug => { const s = progress[slug]; return s && s.total ? s.best / s.total : 0; };
-  const bar = (v, label) => { const p = Math.round(Math.min(1, Math.max(0, v)) * 100); return `<div class="bar-row"><div class="bar" role="progressbar" aria-label="${esc(label)}" aria-valuenow="${p}" aria-valuemin="0" aria-valuemax="100"><div style="width:${p}%"></div></div><span class="bar-pct">${p}%</span></div>`; };
+  const bar = (v, label, unit = "%") => { const p = Math.round(Math.min(1, Math.max(0, v)) * 100); return `<div class="bar-row"><div class="bar" role="progressbar" aria-label="${esc(label)}" aria-valuenow="${p}" aria-valuemin="0" aria-valuemax="100"><div style="width:${p}%"></div></div><span class="bar-pct">${p}${unit}</span></div>`; };
 
   // ---- views ----
   // Dune grass on a misty shoreline. Stems: [baseX, tipX, tipY, bend, headLength, opacity]
@@ -858,7 +1032,7 @@ const DATA = {"S":[["methods","Mathematical Methods","VCE · Units 3 & 4","VCE �
   function subjGrid(group) {
     return `<div class="subj-grid">${subjects.filter(s => !group || s.group === group).map(sj => {
       const n = subjQs(sj), m = subjMarks(sj), done = subjSlugs(sj).reduce((a, s) => a + ratio(s) * slugMarks(s), 0);
-      return `<a class="card subj" href="#s-${sj.id}"><span class="call">${esc(sj.label)}</span><b>${esc(sj.name)}</b><span class="xs muted">${sj.topics.length} topics · ${n} questions${done ? ` · ${Math.round(done / m * 100)}% mastered` : ""}</span></a>`;
+      return `<a class="card subj" href="#s-${sj.id}"><span class="call">${esc(sj.label)}</span><b>${esc(sj.name)}</b><span class="xs muted">${sj.topics.length} topics · ${n} questions${done ? ` · best scores ${Math.round(done / m * 100)}%` : ""}</span></a>`;
     }).join("")}</div>`;
   }
   const groups = () => [...new Set(subjects.map(s => s.group))];
@@ -908,7 +1082,7 @@ const DATA = {"S":[["methods","Mathematical Methods","VCE · Units 3 & 4","VCE �
       }).join("")}</ul>` : "";
       return `<div class="card topic ${isOpen ? "open" : ""}"><button class="topic-head" data-topic="${t.number}" aria-expanded="${isOpen}">
         <span class="num">${t.number}</span>
-        <span class="topic-title"><b>${esc(t.name)}</b><span class="xs muted">${t.subtopics.length} subtopics${tTot ? ` · ${Math.round(tDone / tTot * 100)}% mastered` : ""}</span></span>
+        <span class="topic-title"><b>${esc(t.name)}</b><span class="xs muted">${t.subtopics.length} subtopics${tTot ? ` · best scores ${Math.round(tDone / tTot * 100)}%` : ""}</span></span>
         <span class="chev" aria-hidden="true">▾</span></button>${subs}</div>`;
     }).join("");
     app.innerHTML = `<div class="wrap w5 view stack-lg">
@@ -1005,10 +1179,11 @@ const DATA = {"S":[["methods","Mathematical Methods","VCE · Units 3 & 4","VCE �
       if (opts.slug && pool === initial) saveScore(opts.slug, sum("got"), sum("of"));
       endSession(sess, order.length, sum("got"), sum("of")); };
     let mk = ""; // the mistake record for the current question, when it lost its mark
-    const record = (got, extra) => { const q = order[i], row = addAttempt(sess, q, null, got, 1, capSecs(qClock(), estSecs(q)));
+    let conf = null; // how sure the student said they were, before answering (optional)
+    const record = (got, extra) => { const q = order[i], row = addAttempt(sess, q, null, got, 1, capSecs(qClock(), estSecs(q)), conf);
       mk = got < 1 ? addMistake(row, q, null, extra).k : ""; commit({ got, of: 1 }); focusTo = "after"; render(); };
-    const restart = p => { pool = p; order = shuffle(pool); i = 0; results = []; picked = null; revealed = false; mst = null; mk = ""; sess = newSession(opts.kind || "mix", opts.ref); shown = -1; focusTo = "prompt"; render(); };
-    const next = () => { picked = null; revealed = false; mst = null; mk = ""; i++; focusTo = i >= order.length ? "result" : "prompt"; render(); host.scrollIntoView({ block: "nearest" }); };
+    const restart = p => { pool = p; order = shuffle(pool); i = 0; results = []; picked = null; revealed = false; mst = null; mk = ""; conf = null; sess = newSession(opts.kind || "mix", opts.ref); shown = -1; focusTo = "prompt"; render(); };
+    const next = () => { picked = null; revealed = false; mst = null; mk = ""; conf = null; i++; focusTo = i >= order.length ? "result" : "prompt"; render(); host.scrollIntoView({ block: "nearest" }); };
     const nextLabel = () => i + 1 === order.length ? "See results" : "Next question";
     const multiStatus = q => { const t = tally(mst); return t.marked === q.parts.length ? `All parts marked: ${t.got} of ${marksTxt(q.marks)}.${t.got < q.marks ? ` Parts that lost marks are saved to your mistake analysis${elog.auto ? " and error log" : ""} when you continue.` : ""}` : `${t.marked} of ${q.parts.length} parts marked. Show each solution and give yourself a mark to continue.`; };
     const logLine = q => inLog(q, null) ? `<p class="small muted" data-logline tabindex="-1">Saved to your <a class="link" href="#errors">error log</a>.</p>` : `<button class="link" id="addlog" style="align-self:flex-start">Add to error log</button>`;
@@ -1048,11 +1223,15 @@ const DATA = {"S":[["methods","Mathematical Methods","VCE · Units 3 & 4","VCE �
       }
       const after = answered ? `<div class="stack" data-focus="after" style="margin-top:20px;align-items:flex-start">${q.type === "mcq" ? `<p class="verdict ${res.got ? "ok" : "no"}">${res.got ? "Correct!" : `Not quite. The answer is ${String.fromCharCode(65 + q.answer)}.`}</p>${q.explanation ? `<p class="small muted">${txt(q.explanation)}</p>` : ""}` : `<p class="verdict">${res.got ? "Marked as got it." : "Marked as missed."}</p>`}${res.got < res.of && mk && misIdx.get(mk) ? mpanelHtml(misIdx.get(mk)) : ""}${logLine(q)}<button class="btn btn-primary" id="next">${nextLabel()}</button></div>` : "";
       const kind = q.type === "mcq" ? "Multiple choice" : q.type === "multi" ? `Multi-part · ${marksTxt(q.marks)}` : "Written · self-mark";
+      // Asked before the answer is seen, so it reflects how sure the student really was. It feeds topic mastery.
+      const confHtml = q.type !== "multi" && !answered && !(q.type === "short" && revealed) ? `<fieldset class="conf"><legend>How sure are you? <span class="muted">(optional)</span></legend>${[[0, "Guessing"], [1, "Unsure"], [2, "Sure"]].map(([v, t]) =>
+        `<label><input type="radio" name="conf-${esc(q.id)}" value="${v}" data-conf ${conf === v ? "checked" : ""}><span>${t}</span></label>`).join("")}</fieldset>` : "";
       host.innerHTML = `<div class="stack" style="gap:20px"><div class="dots" aria-hidden="true">${dots}</div>
         <div class="qcard"><div class="qmeta"><span>Question ${i + 1} of ${order.length}</span>${challenge.has(q.id) ? '<span class="chip chip-c">Challenge</span>' : ""}${q.higherOnly ? '<span class="chip chip-h">Higher</span>' : ""}<span class="chip">${kind}</span>${q.tech ? `<span class="chip">${esc(TECH[q.tech] || q.tech)}</span>` : ""}${diffChip(diffOf(q.id))}</div>
-        <h2 class="qprompt" data-focus="prompt">${txt(q.type === "multi" ? q.title : q.prompt)}</h2>${q.type === "multi" ? "" : qinfoHtml(q)}${body}${after}</div></div>`;
+        <h2 class="qprompt" data-focus="prompt">${txt(q.type === "multi" ? q.title : q.prompt)}</h2>${q.type === "multi" ? "" : qinfoHtml(q)}${confHtml}${body}${after}</div></div>`;
       host.querySelectorAll(".opt").forEach(b => b.onclick = () => { const k = +b.dataset.k, g = k === q.answer ? 1 : 0; picked = k; logResult(q, null, g, 1, { pick: k, draft: "" }); record(g, { pick: k }); });
       const $ = id => host.querySelector("#" + id);
+      host.querySelectorAll("[data-conf]").forEach(x => x.onchange = () => { conf = +x.value; });
       if ($("reveal")) $("reveal").onclick = () => { sdraft = host.querySelector("textarea.ans").value.trim(); revealed = true; focusTo = "model"; render(); };
       if ($("got")) $("got").onclick = () => { logResult(q, null, 1, 1, { draft: sdraft }); record(1); };
       if ($("miss")) $("miss").onclick = () => { logResult(q, null, 0, 1, { draft: sdraft }); record(0, { draft: sdraft }); };
@@ -1282,7 +1461,6 @@ const DATA = {"S":[["methods","Mathematical Methods","VCE · Units 3 & 4","VCE �
   const whenTxt = t => { const n = Math.round((dayStart(nowS()) - dayStart(t)) / DAY); return n <= 0 ? "Today" : n === 1 ? "Yesterday" : n < 7 ? `${n} days ago` : fmtDay(t); };
   const pct = (got, of) => Math.round(got / of * 100);
   const scoreBadge = (got, of) => { const p = pct(got, of); return `<span class="score ${p >= 80 ? "s-good" : p >= 50 ? "s-mid" : "s-bad"}" title="${got} of ${of}">${got}/${of}</span>`; };
-  const STATUS = { strong: ["Strong", "80% or more"], dev: ["Developing", "50 to 79%"], weak: ["Weak", "below 50%"], few: ["Not enough data yet", `under ${MIN_SUB_MARKS} marks or ${MIN_SUB_QS} questions`] };
   const qText = q => q.type === "multi" ? q.title : q.prompt;
   const qHref = id => examById[id] ? `#x-${id}` : slugOfQ[id] ? `#${slugOfQ[id]}` : "#dashboard";
   const SESS = { sub: "Subtopic quiz", mix: "Built quiz", err: "Error log practice", due: "Due for revision", focus: "Focus quiz", exam: "Exam-style question", test: "Exam-style test", mis: "Mistake practice" };
@@ -1293,6 +1471,69 @@ const DATA = {"S":[["methods","Mathematical Methods","VCE · Units 3 & 4","VCE �
     if ((kind === "mix" || kind === "focus" || kind === "test") && subjById[ref]) return `${base}: ${subjShort(ref)}`;
     return base;
   };
+
+  // ---- topic mastery on the site: inputs, recalculation and snapshots ----
+  // The engine (MasteryEngine, above) is fed from the activity history. Question difficulty comes from the difficulty
+  // ratings (DIFF) when the site has them, question types and time estimates from DATA.T, exam weights from DATA.M.
+  // Change the model here: anything in MasteryEngine.DEFAULTS can be overridden, for example
+  //   const MASTERY_CONFIG = { weights: { P: 0.5, R: 0.2, D: 0.15, K: 0.15 }, halfLifeDays: 45 };
+  const MASTERY_CONFIG = {};
+  const MCFG = MasteryEngine.config(MASTERY_CONFIG);
+  const typeOf = id => { const t = QT[id]; return t ? [].concat(t[0])[0] || "" : ""; };
+  const hasExam = sj => sj.group.startsWith("GCSE") || /Units 3/.test(sj.label);
+  // Every attempt in the history, normalised for the engine and grouped by the subtopic it tested.
+  function masteryInputs() {
+    const by = {};
+    for (const r of act.a) {
+      const [t, id, part, slug, got, of, secs] = r, q = qById[id];
+      if (!q || !isSyllabus(slug)) continue;
+      const p = q.type === "multi" && part >= 0 ? q.parts[part] : null, df = diffOf(id);
+      (by[slug] || (by[slug] = [])).push({ t, day: Math.round(dayStart(t) / DAY), q: id, part, got, of, secs,
+        est: estSecs(q) * (p && q.marks ? p.marks / q.marks : 1), p: df ? df[1] / 100 : null, type: typeOf(id), conf: Number.isInteger(r[8]) ? r[8] : null });
+    }
+    return by;
+  }
+  // Worked out once per change to the history (and once a day, as recency moves on), then reused.
+  let mCache = null;
+  function masteryNow() {
+    const last = act.a.length ? act.a[act.a.length - 1] : null, key = `${act.a.length}:${last ? last[0] : 0}:${today()}`;
+    if (mCache && mCache.key === key) return mCache;
+    const subs = MasteryEngine.all(masteryInputs(), nowS(), MASTERY_CONFIG);
+    const topic = (sid, num) => { const t = subjById[sid].topics.find(x => x.number === num);
+      return MasteryEngine.group(t.subtopics.filter(s => count(s.slug) && isSyllabus(s.slug)).map(s => subs[s.slug]).filter(Boolean)); };
+    const subject = sid => MasteryEngine.group(subjSlugs(subjById[sid]).filter(isSyllabus).map(sl => subs[sl]).filter(Boolean));
+    const readiness = sid => { const sj = subjById[sid]; if (!hasExam(sj)) return null;
+      return MasteryEngine.readiness(subjSlugs(sj).filter(sl => isSyllabus(sl) && count(sl)).map(sl => ({ weight: (QMETA[sl] && QMETA[sl][0]) || 2, result: subs[sl] || null })), MASTERY_CONFIG); };
+    mCache = { key, subs, topic, subject, readiness };
+    return mCache;
+  }
+  // Snapshots, one a day, so improvement can be shown: { snaps: [[YYYY-MM-DD, { s: { slug: [M, reliability] }, j: { subject: [mastery, readiness] } }]] }.
+  const SNAP_KEY = "helix-mastery-v1", SNAP_MAX = 180;
+  let snaps = [];
+  try { const o = JSON.parse(localStorage.getItem(SNAP_KEY) || "null"); if (o && Array.isArray(o.snaps)) snaps = o.snaps.filter(x => Array.isArray(x) && typeof x[0] === "string" && x[1] && typeof x[1] === "object"); } catch {}
+  function saveSnapshot() {
+    if (!act.a.length) return;
+    const m = masteryNow(), s = {}, j = {};
+    for (const [slug, r] of Object.entries(m.subs)) if (r.sufficient) s[slug] = [Math.round(r.M * 10) / 10, r.reliability[0]];
+    for (const sj of subjects) { const g = m.subject(sj.id), rd = m.readiness(sj.id);
+      if (g.rated) j[sj.id] = [Math.round(g.M * 10) / 10, rd && rd.coveredWeight ? Math.round(rd.score * 10) / 10 : null]; }
+    if (!Object.keys(s).length) return;
+    try { const o = JSON.parse(localStorage.getItem(SNAP_KEY) || "null"); if (o && Array.isArray(o.snaps)) snaps = o.snaps; } catch {} // another tab may have saved
+    snaps = MasteryEngine.snapshot(snaps, today(), { s, j }, SNAP_MAX);
+    try { localStorage.setItem(SNAP_KEY, JSON.stringify({ snaps })); } catch {}
+  }
+  // Recalculated a moment after each new attempt (answers often come in quick succession).
+  let snapTimer = 0;
+  function scheduleMastery() { clearTimeout(snapTimer); snapTimer = setTimeout(saveSnapshot, 1500); }
+  // The latest snapshot at least `days` old, for "since" comparisons.
+  const snapBefore = days => { const cut = new Date(); cut.setDate(cut.getDate() - days); const k = `${cut.getFullYear()}-${String(cut.getMonth() + 1).padStart(2, "0")}-${String(cut.getDate()).padStart(2, "0")}`;
+    for (let i = snaps.length - 1; i >= 0; i--) if (snaps[i][0] <= k) return snaps[i]; return null; };
+  const snapDay = k => { const [y, m, d] = k.split("-").map(Number); return new Date(y, m - 1, d).toLocaleDateString("en-AU", { day: "numeric", month: "short" }); };
+  const changeTxt = (now, then, day) => { if (then == null || now == null) return ""; const d = Math.round((now - then) / 5) * 5;
+    return d >= 5 ? `up about ${d} since ${snapDay(day)}` : d <= -5 ? `down about ${-d} since ${snapDay(day)}` : `about the same since ${snapDay(day)}`; };
+  const LEVEL_CLASS = { Mastered: "lv-m", Secure: "lv-s", Developing: "lv-d", Beginning: "lv-b" };
+  const RELY = { low: "low reliability", moderate: "moderate reliability", good: "good reliability" };
+  const masteryTxt = r => { const s = MasteryEngine.show(r); return s ? `about ${s.value} (likely ${s.lo} to ${s.hi})` : ""; };
 
   function dashData() {
     const A = act.a, now = nowS(), d = { got: 0, of: 0, secs: 0, n: 0, ids: new Set(), subj: {}, subs: {}, latest: new Map() };
@@ -1371,7 +1612,9 @@ const DATA = {"S":[["methods","Mathematical Methods","VCE · Units 3 & 4","VCE �
     const later = dueList.filter(([, at]) => at > now);
     d.nextDue = later.length ? later[0][1] : 0; d.later = later.length;
     // Recommendations. Developing and weak subtopics, weakest first.
-    const weak = Object.values(d.subs).filter(s => s.status === "weak" || s.status === "dev").sort((a, b) => a.pct - b.pct || b.of - a.of);
+    d.m = masteryNow();
+    const weak = Object.entries(d.m.subs).filter(([, r]) => r.level === "Beginning" || r.level === "Developing")
+      .map(([slug, r]) => ({ slug, r })).sort((a, b) => a.r.M - b.r.M || b.r.evidence - a.r.evidence);
     const weakSet = new Set(weak.map(s => s.slug));
     d.weakest = weak.slice(0, 3);
     d.lastSubj = d.subjects.find(s => d.subj[s]) || d.subjects[0] || "";
@@ -1446,31 +1689,38 @@ const DATA = {"S":[["methods","Mathematical Methods","VCE · Units 3 & 4","VCE �
     const subjCard = (sid, k) => {
       const sj = subjById[sid], s = d.subj[sid] || { got: 0, of: 0, n: 0, last: 0, week: 0 };
       const totM = subjMarks(sj), done = subjSlugs(sj).reduce((a, sl) => a + d.mastery(sl) * slugMarks(sl), 0);
+      const g = d.m.subject(sid), rdy = d.m.readiness(sid), old = snapBefore(7), then = old && old[1].j && old[1].j[sid];
       const topics = sj.topics.map(t => {
         const subs = t.subtopics.filter(x => count(x.slug) && isSyllabus(x.slug)); if (!subs.length) return "";
         const tTot = subs.reduce((a, x) => a + slugMarks(x.slug), 0), tDone = subs.reduce((a, x) => a + d.mastery(x.slug) * slugMarks(x.slug), 0);
-        const g = subs.reduce((a, x) => { const r = d.subs[x.slug]; return r ? { got: a.got + r.got, of: a.of + r.of } : a; }, { got: 0, of: 0 });
-        return `<li><span class="small dtn">${t.number}. ${esc(t.name)}</span>${bar(tTot ? tDone / tTot : 0, `Mastery of topic ${t.number}, ${t.name}`)}<span class="xs muted">${g.of >= MIN_SUB_MARKS ? `Accuracy ${pct(g.got, g.of)}% of ${marksTxt(g.of)}` : g.of ? `${marksTxt(g.of)} answered: not enough to rate` : "Not answered yet"}</span></li>`;
+        const tm = d.m.topic(sid, t.number);
+        return `<li><span class="small dtn">${t.number}. ${esc(t.name)}</span>${tm.M != null ? bar(Math.floor(tm.M / 5) * 5 / 100, `Mastery of topic ${t.number}, ${t.name}`, "") : ""}<span class="xs muted">${tm.M != null ? `Mastery about ${Math.floor(tm.M / 5) * 5}, from ${tm.rated} of ${tm.total} practised ${tm.total === 1 ? "subtopic" : "subtopics"}` : tm.total ? "Mastery: not enough data yet" : "Not practised yet"} · Coverage ${Math.round(tTot ? tDone / tTot * 100 : 0)}%</span></li>`;
       }).join("");
       return `<div class="card pad dsubj stack" style="gap:12px">
         <div class="row" style="justify-content:space-between;align-items:flex-start;gap:4px 12px"><div class="stack" style="gap:2px"><span class="call">${esc(sj.label)}</span><h3 class="dsn"><a href="#s-${esc(sid)}">${esc(sj.name)}</a></h3></div><span class="xs muted">${s.last ? `Last practised ${whenTxt(s.last).toLowerCase()}` : "Best scores only"}</span></div>
         <dl class="dstats"><div><dt>Accuracy</dt><dd>${s.of >= MIN_ACC ? `${pct(s.got, s.of)}%` : "—"}</dd><dd class="xs muted">${s.of >= MIN_ACC ? `${s.got} of ${marksTxt(s.of)}` : `${s.of} of ${MIN_ACC} marks needed`}</dd></div>
-          <div><dt>Mastery</dt><dd>${totM ? Math.round(done / totM * 100) : 0}%</dd><dd class="xs muted">of the subject's marks</dd></div>
+          <div><dt>Mastery</dt><dd>${g.M != null ? Math.floor(g.M / 5) * 5 : "—"}</dd><dd class="xs muted">${g.M != null ? `${g.rated} ${g.rated === 1 ? "subtopic" : "subtopics"} rated${then && then[0] != null ? `, ${esc(changeTxt(g.M, then[0], old[0]))}` : ""}` : "Not enough data yet"}</dd></div>
+          <div><dt>Exam readiness</dt><dd>${rdy && rdy.coveredWeight ? Math.floor(rdy.score / 5) * 5 : "—"}</dd><dd class="xs muted">${!rdy ? "No external exam" : rdy.coveredWeight ? `${Math.round(rdy.coveredWeight * 100)}% of the course shown` : "Not enough data yet"}</dd></div>
+          <div><dt>Coverage</dt><dd>${totM ? Math.round(done / totM * 100) : 0}%</dd><dd class="xs muted">of the subject's marks</dd></div>
           <div><dt>Last 7 days</dt><dd>${s.week}</dd><dd class="xs muted">${s.week === 1 ? "question" : "questions"}</dd></div></dl>
         <details class="dtopics"${k === 0 ? " open" : ""}><summary>Topic mastery</summary><ul>${topics}</ul></details></div>`;
     };
-    const s2 = dsec("d-subjects", "Subject overview", "Mastery is the share of a subject's marks you have shown you can get: your best full-quiz score on each subtopic or your latest answers to its questions, whichever is higher. Accuracy is the marks you got out of every mark you answered.",
+    const s2 = dsec("d-subjects", "Subject overview", `Mastery estimates how well you understand the subtopics you have practised. Exam readiness covers the whole course, weighted by how often each subtopic comes up, so unpractised subtopics hold it down. Coverage is the share of the subject's marks you have shown you can get. Accuracy is the marks you got out of every mark you answered. <a class="link" href="#mastery">How mastery is calculated</a>`,
       d.subjects.length ? `<div class="dsubjs">${d.subjects.map(subjCard).join("")}</div>` : dempty("No subjects practised yet."));
 
-    // 3. Topic performance
+    // 3. Topic mastery, from the mastery engine, by level
+    const oldSnap = snapBefore(7);
+    const LV = { Mastered: ["Mastered", "80 or more, with a delayed check", "strong"], Secure: ["Secure", "60 to 79", "dev"], Developing: ["Developing", "40 to 59", "dev"], Beginning: ["Beginning", "under 40", "weak"], few: ["Not enough data yet", `fewer than ${MCFG.minQuestions} questions or ${MCFG.minMarks} marks`, "few"] };
     const bucket = key => {
-      const list = Object.values(d.subs).filter(s => s.status === key).sort(key === "strong" ? (a, b) => b.pct - a.pct : key === "few" ? (a, b) => b.last - a.last : (a, b) => a.pct - b.pct);
-      const li = s => { const sb = subBySlug[s.slug]; return `<li><a class="link" href="#${esc(s.slug)}">${esc(sb.name)}</a><span class="xs muted">${esc(subjShort(sb.subject))} · ${key === "few" ? `${s.got} of ${marksTxt(s.of)} from ${s.qs.size} ${s.qs.size === 1 ? "question" : "questions"}` : `${Math.round(s.pct * 100)}% of ${marksTxt(s.of)}`}</span></li>`; };
-      return `<div class="card pad dbucket db-${key}"><h3 class="h2s">${STATUS[key][0]} <span class="dcount">${list.length}</span></h3><p class="xs muted">${STATUS[key][1]}</p>
+      const list = Object.entries(d.m.subs).filter(([sl, r]) => subBySlug[sl] && (key === "few" ? !r.sufficient : r.level === key)).map(([slug, r]) => ({ slug, r }))
+        .sort(key === "few" ? (a, b) => b.r.nQuestions - a.r.nQuestions : (a, b) => b.r.M - a.r.M);
+      const li = ({ slug, r }) => { const sb = subBySlug[slug], then = oldSnap && oldSnap[1].s[slug];
+        return `<li><a class="link" href="#${esc(slug)}">${esc(sb.name)}</a><span class="xs muted">${esc(subjShort(sb.subject))} · ${key === "few" ? `${r.nQuestions} ${r.nQuestions === 1 ? "question" : "questions"} so far` : `${masteryTxt(r)}, ${RELY[r.reliability]}${r.capped ? ", needs a delayed check" : ""}${then ? `, ${esc(changeTxt(r.M, then[0], oldSnap[0]))}` : ""}`}</span></li>`; };
+      return `<div class="card pad dbucket db-${LV[key][2]}"><h3 class="h2s">${LV[key][0]} <span class="dcount">${list.length}</span></h3><p class="xs muted">${LV[key][1]}</p>
         ${list.length ? `<ul class="dlist">${list.slice(0, 6).map(li).join("")}</ul>${list.length > 6 ? `<details class="dmore"><summary>Show ${list.length - 6} more</summary><ul class="dlist">${list.slice(6).map(li).join("")}</ul></details>` : ""}` : `<p class="small muted">None yet.</p>`}</div>`;
     };
-    const s3 = dsec("d-topics", "Topic performance", `Subtopics you have answered, rated on your latest answer to each question. A subtopic needs at least ${MIN_SUB_MARKS} marks from ${MIN_SUB_QS} different questions before it is rated.`,
-      nSubs ? `<div class="dbuckets">${["weak", "dev", "strong", "few"].map(bucket).join("")}</div>` : dempty("Subtopics appear here once you answer questions."));
+    const s3 = dsec("d-topics", "Topic mastery", `An estimate for each subtopic you have practised, from your accuracy, how well you remember it after a break, how hard the questions were, and how consistent you are. Scores are rounded, with a likely range. <a class="link" href="#mastery">How mastery is calculated, and every subtopic's figures</a>`,
+      Object.keys(d.m.subs).length ? `<div class="dbuckets">${["Beginning", "Developing", "Secure", "Mastered", "few"].map(bucket).join("")}</div>` : dempty("Subtopics appear here once you answer questions."));
 
     // 4. Difficulty analysis
     const band = b => {
@@ -1499,8 +1749,8 @@ const DATA = {"S":[["methods","Mathematical Methods","VCE · Units 3 & 4","VCE �
     // 6. Recommended next steps
     acts.due = () => dashQuiz("Questions due for revision", d.due.slice(0, 20), "due", "");
     d.rec.forEach((r, k) => { if (r.act) acts["rec" + k] = () => dashQuiz(r.title, r.pool, r.act, r.sid); });
-    const weakHtml = d.weakest.length ? `<ul class="dlist">${d.weakest.map(s => { const sb = subBySlug[s.slug]; return `<li><div class="stack" style="gap:2px;min-width:0"><a class="link" href="#${esc(s.slug)}">${esc(sb.name)}</a><span class="xs muted">${esc(subjShort(sb.subject))} · ${Math.round(s.pct * 100)}% of ${marksTxt(s.of)}</span></div></li>`; }).join("")}</ul>`
-      : `<p class="small muted">${nSubs ? "No weak or developing subtopics with enough data. Keep going." : "Answer some questions first."}</p>`;
+    const weakHtml = d.weakest.length ? `<ul class="dlist">${d.weakest.map(s => { const sb = subBySlug[s.slug]; return `<li><div class="stack" style="gap:2px;min-width:0"><a class="link" href="#${esc(s.slug)}">${esc(sb.name)}</a><span class="xs muted">${esc(subjShort(sb.subject))} · ${s.r.level}, mastery ${masteryTxt(s.r)}</span></div></li>`; }).join("")}</ul>`
+      : `<p class="small muted">${nSubs ? "No subtopic is rated Beginning or Developing. Keep going." : "Answer some questions first."}</p>`;
     const dueHtml = d.due.length ? `<p><b class="dt-v" style="font-size:1.6rem">${d.due.length}</b> ${d.due.length === 1 ? "question is" : "questions are"} due now.</p><button class="btn btn-primary" data-act="due">Practise ${d.due.length > 20 ? "the first 20" : d.due.length === 1 ? "it" : `these ${d.due.length}`}</button>`
       : `<p class="small muted">Nothing due right now.${d.later ? ` ${d.later} ${d.later === 1 ? "question comes" : "questions come"} back from ${whenTxt(d.nextDue).toLowerCase()}.` : ""}</p>`;
     const recHtml = d.rec.length ? `<ul class="dlist drec">${d.rec.map((r, k) => `<li><div class="stack" style="gap:4px;min-width:0"><b class="small">${txt(r.title)}</b><span class="xs muted">${txt(r.text)}</span>
@@ -1535,7 +1785,7 @@ const DATA = {"S":[["methods","Mathematical Methods","VCE · Units 3 & 4","VCE �
       const body = document.getElementById("dbody"); if (!body) return; // the student has moved to another page
       body.removeAttribute("aria-busy");
       try {
-        const { html, acts } = dashHtml();
+        const { html, acts } = dashHtml(); saveSnapshot();
         body.innerHTML = html;
         body.onclick = e => { const b = e.target.closest("[data-act]"); if (b && acts[b.dataset.act]) acts[b.dataset.act](); };
         typeset(body);
@@ -1794,6 +2044,61 @@ const DATA = {"S":[["methods","Mathematical Methods","VCE · Units 3 & 4","VCE �
     if (focusSel) { const f = app.querySelector(focusSel); if (f) { if (f.matches("h1")) f.tabIndex = -1; f.focus(); } }
   }
 
+  // ---- topic mastery page (#mastery): how it is worked out, and every subtopic's figures ----
+  let mpSubj = "";
+  function masteryView() {
+    const m = masteryNow(), c = MCFG, w = c.weights, pc = x => Math.round(x * 100);
+    const practised = Object.entries(m.subs).filter(([sl]) => subBySlug[sl]);
+    const sids = [...new Set(practised.map(([sl]) => subBySlug[sl].subject))].sort((a, b) => subjects.indexOf(subjById[a]) - subjects.indexOf(subjById[b]));
+    if (mpSubj && !sids.includes(mpSubj)) mpSubj = "";
+    const sid = mpSubj || sids[0] || "";
+    const old = snapBefore(7);
+    const n0 = x => x == null ? "—" : String(Math.round(x));
+    const rows = practised.filter(([sl]) => subBySlug[sl].subject === sid).sort((a, b) => subBySlug[a[0]].topic - subBySlug[b[0]].topic || (b[1].M || 0) - (a[1].M || 0));
+    const row = ([sl, r]) => { const s = subBySlug[sl], sh = MasteryEngine.show(r), then = old && old[1].s[sl];
+      const types = Object.entries(r.types).map(([t, v]) => `${QTYPES[t] ? QTYPES[t][0] : t} ${pct(v.got, v.of)}% (${v.n})`).join(", ");
+      return `<tr><th scope="row"><a class="link" href="#${esc(sl)}">${esc(s.name)}</a><span class="xs muted">Topic ${s.topic} · ${r.nQuestions} ${r.nQuestions === 1 ? "question" : "questions"}${types ? ` · ${esc(types)}` : ""}</span></th>
+        <td>${sh ? `<b>${sh.value}</b><span class="xs muted">${sh.lo}–${sh.hi}</span>` : `<span class="xs muted">Not enough data</span>`}</td>
+        <td>${r.level ? `<span class="lv ${LEVEL_CLASS[r.level]}">${r.level}</span>${r.capped ? `<span class="xs muted">needs a delayed check</span>` : ""}` : "—"}</td>
+        <td>${n0(r.P)}</td><td>${n0(r.R)}</td><td>${r.D == null ? `<span class="muted" title="No difficulty ratings yet">—</span>` : n0(r.D)}</td><td>${n0(r.K)}</td>
+        <td>${r.recent == null ? "—" : pc(r.recent) + "%"} / ${pc(r.historical || 0)}%</td><td>${r.sufficient ? r.reliability : "—"}</td>
+        <td class="xs">${r.sufficient && then ? esc(changeTxt(r.M, then[0], old[0])) : "—"}</td></tr>`; };
+    const subjTrend = sj => { const pts = snaps.filter(x => x[1].j && x[1].j[sj]).slice(-12); if (pts.length < 2) return "";
+      const vals = pts.map(x => x[1].j[sj][0]), W = 160, H = 36, xs = i => 4 + i * (W - 8) / (pts.length - 1), ys = v => H - 4 - v / 100 * (H - 8);
+      return `<svg class="spark" viewBox="0 0 ${W} ${H}" width="${W}" height="${H}" role="img" aria-label="Mastery over the last ${pts.length} snapshots, from about ${Math.round(vals[0] / 5) * 5} to about ${Math.round(vals[vals.length - 1] / 5) * 5}"><polyline points="${vals.map((v, i) => `${xs(i).toFixed(1)},${ys(v).toFixed(1)}`).join(" ")}" fill="none" stroke="var(--ink)" stroke-width="1.5" stroke-linejoin="round"/><circle cx="${xs(vals.length - 1).toFixed(1)}" cy="${ys(vals[vals.length - 1]).toFixed(1)}" r="2.5" fill="var(--ink)"/></svg>`; };
+    const g = sid ? m.subject(sid) : null, rd = sid ? m.readiness(sid) : null;
+    app.innerHTML = `<div class="wrap w5 view stack-lg prose-wide">
+      <div class="stack" style="gap:12px"><a class="link" href="#dashboard">← Dashboard</a><h1 class="page-h1">Topic mastery</h1>
+        <p class="muted" style="max-width:44rem">An estimate of how well you understand each subtopic, from your answers on this device. It is an estimate with a range, not an exact measurement, and it only appears once there is enough evidence.</p></div>
+      ${dsec("mp-yours", "Your subtopics", "", sids.length ? `
+        <div class="row" style="gap:12px 24px;align-items:flex-end"><label class="stack small" style="gap:4px;font-weight:600">Subject<select class="subj-sel" id="mpsubj">${sids.map(s => `<option value="${esc(s)}" ${s === sid ? "selected" : ""}>${esc(subjShort(s))}</option>`).join("")}</select></label>
+          <div class="stack" style="gap:2px"><span class="small"><b>Mastery</b> ${g && g.M != null ? `about ${Math.floor(g.M / 5) * 5}, from ${g.rated} rated ${g.rated === 1 ? "subtopic" : "subtopics"}` : "not rated yet"}</span>
+            <span class="small"><b>Exam readiness</b> ${rd ? (rd.coveredWeight ? `about ${Math.floor(rd.score / 5) * 5}${rd.pace != null ? `, ${Math.round(rd.pace * 100)}% of answers on pace` : ""}` : "not rated yet") : "no external exam"}</span></div>${subjTrend(sid)}</div>
+        <div class="tscroll"><table class="rtab mtab"><thead><tr><th scope="col">Subtopic</th><th scope="col">Mastery</th><th scope="col">Level</th><th scope="col" title="Performance">P</th><th scope="col" title="Delayed retention">R</th><th scope="col" title="Difficulty-adjusted">D</th><th scope="col" title="Consistency">K</th><th scope="col">Recent / all-time accuracy</th><th scope="col">Reliability</th><th scope="col">Change</th></tr></thead>
+          <tbody>${rows.map(row).join("")}</tbody></table></div>
+        <p class="xs muted">P, R, D and K are on a 0 to 100 scale; "—" means no data for that part yet. Recent accuracy covers the last ${c.recentDays} days. Change compares with your snapshot from at least a week ago.</p>`
+        : `<p class="small muted dempty">Answer some questions and your subtopics appear here.</p>`)}
+      ${dsec("mp-how", "How mastery is calculated", "", `<div class="card pad stack mhow" style="gap:14px">
+        <p>Mastery combines four parts, each on a 0 to 100 scale:</p>
+        <p class="mformula">Mastery = ${pc(w.P)}% × P + ${pc(w.R)}% × R + ${pc(w.D)}% × D + ${pc(w.K)}% × K</p>
+        <dl class="mdefs">
+          <dt>P: performance</dt><dd>Your accuracy on the subtopic's questions. Recent answers count more: an answer's weight halves every ${c.halfLifeDays} days. Each different question counts once. Repeating a question adds only a little extra weight (${pc(c.repeatBonus)}% per repeat, for at most ${c.maxRepeatBonus} repeats), so drilling one question cannot inflate your score. A question counts for at most ${c.maxMarksWeight} marks, so one long question cannot outweigh the rest.</dd>
+          <dt>R: delayed retention</dt><dd>Your accuracy when you come back to the subtopic after at least ${c.retentionGapDays} days away. This shows what you remember, not just what you can do straight after practising. It is kept apart from your immediate accuracy.</dd>
+          <dt>D: difficulty-adjusted performance</dt><dd>P, moved up when your questions were harder than a typical question (one that ${pc(c.refSuccess)}% of students get right) and down when they were easier. It uses the questions' difficulty ratings. Until the site has them, D is left out.</dd>
+          <dt>K: consistency</dt><dd>The share of your practice days in the subtopic that went well (${pc(c.goodDay)}% or more, counting days with at least ${c.minDayMarks} marks). It needs at least two practice days.</dd>
+        </dl>
+        <p><b>Small samples.</b> Every part is smoothed with a Bayesian prior: it starts as if you had already answered ${c.priorStrength} marks at ${pc(c.priorMean)}%, and your own answers take over as they add up. So three right answers in a row give about ${Math.round((3 + c.priorMean * c.priorStrength) / (3 + c.priorStrength) * 100)}, not 100.</p>
+        <p><b>Missing parts.</b> If a part has no data yet (no delayed attempts, no ratings, or only one practice day), it is left out and the other weights are scaled up, rather than counting it as zero.</p>
+        <p><b>Confidence.</b> Before answering a multiple-choice or written question, you can say how sure you are. A right answer you say you guessed counts as ${pc(c.guessCredit)}% right.</p>
+        <p><b>Not enough data.</b> A subtopic gets no score until you have answered at least ${c.minQuestions} different questions worth ${c.minMarks} marks. One right answer is never treated as mastery.</p>
+        <p><b>Ranges and levels.</b> Scores are shown to the nearest 5 with a likely range, which narrows as evidence grows. The levels are Beginning (under 40), Developing (40 to 59), Secure (60 to 79) and Mastered (80 or more). Mastered also needs a delayed check (R of ${c.masteredNeedsRetention} or more) and at least moderate reliability; otherwise the subtopic stays at Secure. Reliability is low until you have answered 6 different questions and come back after a gap. It is good from 12 questions, 3 delayed attempts and 3 practice days.</p>
+        <p><b>Mastery is not exam readiness.</b> Mastery is about the subtopics you have practised. Exam readiness covers the whole course: every examinable subtopic counts by how often it comes up in the exam, a subtopic you have not shown counts as 0, and answering within ${c.paceSlack} times the estimated time moves readiness by up to 15%. Units 1 and 2 have no external exam, so they show mastery only.</p>
+        <p><b>Updates and history.</b> Mastery is worked out again after every answer. A snapshot is saved once a day, so the dashboard can show how you have improved.</p>
+        <p class="small muted">Everything is worked out in your browser from your own answers, and nothing is sent anywhere. This is a simple, open statistical model, not machine learning. The weights and thresholds are set in one place in the site's code (<code>MASTERY_CONFIG</code>).</p></div>`)}
+    </div>`;
+    const sel = app.querySelector("#mpsubj"); if (sel) sel.onchange = e => { mpSubj = e.target.value; masteryView(); app.querySelector("#mpsubj").focus(); };
+  }
+
   function quizView(slug) {
     const s = subBySlug[slug], sj = subjById[s.subject], back = `#s-${sj.id}`;
     app.innerHTML = `<div class="wrap w2 view stack-lg" style="gap:24px"><div class="stack" style="gap:4px"><a class="link" href="${back}">← ${esc(sj.name)}: ${esc(s.topicName)}</a><span class="call" style="margin-top:8px">${esc(sj.name)} · Topic ${s.topic}</span><h1 class="page-h1">${esc(s.name)}</h1></div><div id="quiz"></div></div>`;
@@ -1847,7 +2152,7 @@ const DATA = {"S":[["methods","Mathematical Methods","VCE · Units 3 & 4","VCE �
           <li><b>Check your progress.</b> Your best score for each subtopic shows on the subject page, so you can see what to revise next.</li>
           <li><b>Mix topics</b> with <a href="#custom">Build a quiz</a> when you want short questions from several subtopics in one quiz.</li>
           <li><b>Try long questions.</b> Some subtopic quizzes include multi-part questions, and the bottom of each subject page lists its exam-style questions, where one context runs through several topics, plus a full test. Each part has a worked solution showing the marks each step earns, and you give yourself the marks you earned.</li>
-          <li><b>See how you are going.</b> Your <a href="#dashboard">Dashboard</a> shows your accuracy, study time and weekly trend, which subtopics are strong, developing or weak, questions due for revision, and what to practise next. It only shows a figure once there are enough answers for it to mean something.</li>
+          <li><b>See how you are going.</b> Your <a href="#dashboard">Dashboard</a> shows your accuracy, study time and weekly trend, your mastery of each subtopic and your exam readiness, questions due for revision, and what to practise next. It only shows a figure once there are enough answers for it to mean something. <a href="#mastery">Topic mastery</a> explains exactly how mastery is worked out.</li>
           <li><b>Learn from mistakes.</b> Every question you lose marks on is recorded. Say what went wrong (as many reasons as fit, or skip it), what confused you, and for written questions where you got stuck, then compare your answer with the solution. <a href="#mistakes">Mistake analysis</a> shows your most common mistake types, by subject and topic, mistakes that recur, and which ones you have since corrected. Your <a href="#errors">Error log</a> keeps the ones to practise until you tick them off.</li></ol></section>
       <section class="stack" aria-labelledby="a-start"><h2 id="a-start">Getting started</h2>
         <p>There is nothing to install and no account to create. Open the site in any modern browser on a phone, tablet or computer and choose a subject. Your scores are saved in your browser on that device only, so they will not follow you to another device, and clearing your browser data resets them. See <a href="#privacy">Privacy</a>.</p></section>
@@ -1883,6 +2188,7 @@ const DATA = {"S":[["methods","Mathematical Methods","VCE · Units 3 & 4","VCE �
     else if (h === "errors") errorsView();
     else if (h === "dashboard") dashboardView();
     else if (h === "mistakes") mistakesView();
+    else if (h === "mastery") masteryView();
     else if (h === "privacy") privacyView();
     else if (h === "about") aboutView();
     else if (bank[h] && subBySlug[h]) quizView(h);
