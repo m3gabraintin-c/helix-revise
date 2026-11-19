@@ -30,11 +30,13 @@ def merge(batch):
     for i in ids:
         a, b = A.get(i), B.get(i)
         if a and b and abs(star(a["p"]) - star(b["p"])) <= 1 and abs(a["p"] - b["p"]) <= 12:
-            final.append({"id": i, "p": round((a["p"] + b["p"]) / 2), "confidence": LV[min(LV.index(a["confidence"]), LV.index(b["confidence"]))],
-                          "evidence": sorted(set(a.get("evidence", [])) | set(b.get("evidence", []))), "basis": b.get("basis") or a.get("basis", ""),
+            c = LV[min(LV.index(a["confidence"]), LV.index(b["confidence"]))]
+            final.append({"id": i, "p": round((a["p"] + b["p"]) / 2), "confidence": c,  # low means no statistic: evidence []
+                          "evidence": [] if c == "low" else sorted(set(a.get("evidence", [])) | set(b.get("evidence", []))), "basis": b.get("basis") or a.get("basis", ""),
                           "judges": {"a": [a["p"], a["confidence"]], "b": [b["p"], b["confidence"]]}, "resolved_by": "agree"})
         elif a and b and i in T:
-            final.append({**{k: T[i][k] for k in ("id", "p", "confidence", "evidence") if k in T[i]}, "basis": T[i].get("basis", ""),
+            final.append({**{k: T[i][k] for k in ("id", "p", "confidence", "evidence") if k in T[i]},
+                          **({"evidence": []} if T[i]["confidence"] == "low" else {}), "basis": T[i].get("basis", ""),
                           "judges": {"a": [a["p"], a["confidence"]], "b": [b["p"], b["confidence"]]}, "resolved_by": "tiebreak"})
         elif a and b:
             disputes.append({"id": i, "a": a, "b": b})
