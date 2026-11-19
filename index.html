@@ -202,7 +202,8 @@ details.faq p { margin-top: 8px; font-size: 0.875rem; color: var(--muted); }
 .qmeta .chip { border: 1.5px solid var(--ink); border-radius: var(--r-pill); padding: 2px 10px; background: transparent; color: var(--ink); }
 .qmeta .chip-h { background: var(--accent-soft); color: var(--ink); }
 .qmeta .chip-c { background: var(--ink); color: var(--bg); font-weight: 600; }
-.qmeta .chip-diff { letter-spacing: .08em; text-transform: none; white-space: nowrap; }
+.qmeta .chip-diff { letter-spacing: .08em; text-transform: none; }
+@media (max-width: 420px) { .qmeta .chip-diff .dc-word { display: none; } }
 .qprompt { font-size: 1.2rem; font-weight: 600; line-height: 1.45; margin-bottom: 20px; }
 /* Question info: a collapsed panel under each question with its topic, marks, time, exam relevance, prerequisites and type. */
 details.qinfo { margin: -8px 0 20px; border: 1px solid var(--line-soft); border-radius: var(--r-sm); background: var(--surface-2); font-size: 0.875rem; }
@@ -337,8 +338,6 @@ details.elmore[open] summary { margin-bottom: 8px; }
   .brand span { position: static; width: auto; height: auto; overflow: visible; clip: auto; }
   nav.top { width: 100%; justify-content: space-between; }
   nav.top a[href="#about"] { display: none; }
-  /* With Dashboard added, Subjects goes too on phones: the logo opens the home page, which lists every subject. */
-  nav.top a[href="#topics"] { display: none; }
   nav.top a { letter-spacing: .02em; padding: 0 6px; } nav.top a.pill-btn { padding: 0 12px; }
 }
 @media (max-width: 360px) { nav.top a { font-size: 0.64rem; padding: 0 5px; } nav.top a.pill-btn { padding: 0 9px; } }
@@ -558,8 +557,8 @@ const DIFF = {"chem-1-1-1":[1,88,"m"],"chem-1-1-2":[3,59,"m"],"chem-1-1-3":[2,78
   const diffChip = d => {
     if (!d) return "";
     const est = d[2] === "l", conf = { h: "high", m: "medium", l: "low" }[d[2]];
-    const label = `Difficulty ${d[0]} of 5. About ${d[1]}% of students get this right${est ? " (estimate: no close VCAA data)" : ""}.`;
-    return `<span class="chip chip-diff" role="img" aria-label="${label}" title="${label} Confidence: ${conf}.">${"★".repeat(d[0])}${"☆".repeat(5 - d[0])}<span aria-hidden="true"> ~${d[1]}%${est ? " est." : ""}</span></span>`;
+    const label = `Difficulty ${d[0]} of 5 (1 star = easiest, 5 stars = hardest). About ${d[1]}% of students get this right${est ? " (estimate: no close VCAA data)" : ""}.`;
+    return `<span class="chip chip-diff" role="img" aria-label="${label}" title="${label} Confidence: ${conf}."><span aria-hidden="true">Difficulty </span>${"★".repeat(d[0])}${"☆".repeat(5 - d[0])}<span aria-hidden="true"> · ~${d[1]}%<span class="dc-word"> correct</span>${est ? " est." : ""}</span></span>`;
   };
   const esc = s => String(s).replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
   // Visible question text goes through txt(): escaped, with runs of Chinese characters (and CJK punctuation)
@@ -1778,7 +1777,7 @@ const DIFF = {"chem-1-1-1":[1,88,"m"],"chem-1-1-2":[3,59,"m"],"chem-1-1-3":[2,78
       return `<div class="card pad dband stack" style="gap:8px"><div class="row" style="justify-content:space-between;gap:4px 12px"><h3 class="h2s">${b.name}</h3><span class="xs muted">${b.stars}</span></div>
         ${ok ? `<div class="dmeter" role="img" aria-label="Your accuracy ${mine}%. Students typically get about ${typ}%."><div class="dm-fill" style="width:${mine}%"></div><div class="dm-mark" style="left:${typ}%"></div></div>
           <p class="small"><b>${mine}%</b> from ${marksTxt(b.of)} on ${b.qs.size} ${b.qs.size === 1 ? "question" : "questions"}</p><p class="xs muted">Students typically get about ${typ}% (the tick).</p>`
-        : `<p class="small muted">Not enough data yet: ${marksTxt(b.of)} so far, ${MIN_BAND} needed.</p>`}</div>`;
+        : `<p class="small muted">Not enough data yet: ${marksTxt(b.of)} so far, ${MIN_BAND} needed.</p>`}<a class="link" href="#custom?band=${d.bands.indexOf(b)}">Practise these →</a></div>`;
     };
     const s4 = dsec("d-diff", "Difficulty analysis", d.hasDiff ? "Your latest answers, grouped by each question's difficulty rating." : "",
       !d.hasDiff ? dempty("Difficulty ratings are not on the site yet. This section fills in once they are.")
@@ -2155,12 +2154,17 @@ const DIFF = {"chem-1-1-1":[1,88,"m"],"chem-1-1-2":[3,59,"m"],"chem-1-1-3":[2,78
     runQuiz(app.querySelector("#quiz"), bank[slug], { slug, backHref: back, kind: "sub", ref: slug });
   }
 
-  const selected = new Set(); let qCount = 10, customSubj = null;
-  function customView() {
+  const selected = new Set(); let qCount = 10, customSubj = null, cBands = new Set([0, 1, 2]), cEasyFirst = false;
+  const BANDS = [["Easy", "★1–2"], ["Medium", "★3"], ["Difficult", "★4–5"]];
+  const bandOf = id => { const df = diffOf(id); return df ? (df[0] <= 2 ? 0 : df[0] === 3 ? 1 : 2) : -1; };
+  // unrated questions only pass when every band is ticked
+  const inBands = q => cBands.size === 3 || cBands.has(bandOf(q.id));
+  function customView(bandArg) {
+    if (bandArg != null) { cBands = new Set([bandArg]); cEasyFirst = false; }
     if (!customSubj) customSubj = subjects[0].id;
     const sj = subjById[customSubj];
     const avail = sj.topics.map(t => ({ ...t, subtopics: t.subtopics.filter(s => count(s.slug)) })).filter(t => t.subtopics.length);
-    const poolSize = () => [...selected].reduce((a, s) => a + count(s), 0);
+    const poolSize = () => [...selected].reduce((a, s) => a + bank[s].filter(inBands).length, 0);
     app.innerHTML = `<div class="wrap w3 view stack" style="gap:24px"><div class="stack" style="gap:4px"><h1 class="page-h1">Build your own quiz</h1><p class="muted">Choose a subject and the subtopics to mix together. Questions are shuffled each time.</p></div><div id="cbody" class="stack" style="gap:24px"></div></div>`;
     const body = app.querySelector("#cbody");
     function pick() {
@@ -2171,15 +2175,20 @@ const DIFF = {"chem-1-1-1":[1,88,"m"],"chem-1-1-2":[3,59,"m"],"chem-1-1-3":[2,78
         return `<fieldset class="pick"><legend class="sr">${esc(t.name)}</legend><label class="all"><input type="checkbox" id="t-${t.number}" data-all="${t.number}" ${all ? "checked" : ""}>${t.number}. ${esc(t.name)}</label>
           <div class="grid">${t.subtopics.map(s => `<label><input type="checkbox" id="s-${s.slug}" data-sub="${s.slug}" ${selected.has(s.slug) ? "checked" : ""}>${esc(s.name)}</label>`).join("")}</div></fieldset>`;
       }).join("")}</div>
+      <fieldset class="pick"><legend class="small" style="font-weight:500">Difficulty</legend><div class="grid">${BANDS.map(([n, st], i) => `<label><input type="checkbox" data-band="${i}" ${cBands.has(i) ? "checked" : ""}>${n} <span class="xs muted">${st}</span></label>`).join("")}</div></fieldset>
+      <label class="stack small" style="gap:6px;font-weight:500" for="corder">Order<select class="subj-sel" id="corder"><option value="mix">Mixed</option><option value="easy" ${cEasyFirst ? "selected" : ""}>Easiest first</option></select></label>
       <div class="dock"><label class="row small" style="gap:8px" for="qcount">Questions <select id="qcount">${[5, 10, 20, 30, 50].map(n => `<option ${n === qCount ? "selected" : ""}>${n}</option>`).join("")}</select></label>
         <span class="small muted" id="avail">${poolSize()} available</span><button class="btn btn-primary go" id="start" ${poolSize() ? "" : "disabled"}>Start quiz</button></div>`;
       body.querySelector("#csubj").onchange = e => { customSubj = e.target.value; selected.clear(); customView(); app.querySelector("#csubj").focus(); };
       body.querySelectorAll("[data-all]").forEach(c => c.onchange = () => { const t = avail.find(x => x.number === +c.dataset.all); t.subtopics.forEach(s => c.checked ? selected.add(s.slug) : selected.delete(s.slug)); pick(); });
       body.querySelectorAll("[data-sub]").forEach(c => c.onchange = () => { c.checked ? selected.add(c.dataset.sub) : selected.delete(c.dataset.sub); pick(); });
+      body.querySelectorAll("[data-band]").forEach(c => c.onchange = () => { c.checked ? cBands.add(+c.dataset.band) : cBands.delete(+c.dataset.band); pick(); });
+      body.querySelector("#corder").onchange = e => { cEasyFirst = e.target.value === "easy"; };
       body.querySelector("#qcount").onchange = e => { qCount = +e.target.value; };
       if (keep && document.getElementById(keep)) document.getElementById(keep).focus();
       body.querySelector("#start").onclick = () => {
-        const qs = shuffle([...selected].flatMap(s => bank[s])).slice(0, qCount);
+        let qs = shuffle([...selected].flatMap(s => bank[s]).filter(inBands)).slice(0, qCount);
+        if (cEasyFirst) qs = qs.map((q, i) => [q, i]).sort((a, b) => ((diffOf(a[0].id) || [6])[0] - (diffOf(b[0].id) || [6])[0]) || a[1] - b[1]).map(x => x[0]);
         body.innerHTML = `<div class="stack"><button class="link" id="back" style="align-self:flex-start">← Change selection</button><div id="quiz"></div></div>`;
         body.querySelector("#back").onclick = pick;
         runQuiz(body.querySelector("#quiz"), qs, { backHref: `#s-${customSubj}`, kind: "mix", ref: customSubj });
@@ -2209,6 +2218,8 @@ const DIFF = {"chem-1-1-1":[1,88,"m"],"chem-1-1-2":[3,59,"m"],"chem-1-1-3":[2,78
       <section class="stack" aria-labelledby="a-subj"><h2 id="a-subj">What's covered</h2>
         <p>${totalQs.toLocaleString("en-AU")} questions across ${subjects.length} subjects and ${subCount} subtopics (question counts in brackets${examCount ? `, including ${examCount} exam-style questions` : ""}):</p><ul>${rows}</ul>
         <p>VCE questions follow the VCAA study design areas of study. They are original practice questions, not past exam questions, so use them alongside official past papers.</p></section>
+      <section class="stack" aria-labelledby="a-diff"><h2 id="a-diff">Difficulty ratings</h2>
+        <p>Each question shows a difficulty from 1 star (easiest) to 5 stars (hardest), with the estimated percentage of students who answer it fully correctly. Stars follow that percentage: ★ 85% or more, ★★ 70–84%, ★★★ 50–69%, ★★★★ 30–49%, ★★★★★ under 30%. Estimates are based on statistics in VCAA examination reports where a close match exists. When there is no close VCAA statistic, the percentage is a reasoned estimate and is marked “est.”. Units 1 &amp; 2 courses have no VCAA exam, so their ratings are estimates based on similar Units 3 &amp; 4 questions, and GCSE ratings are estimates.</p></section>
       <section class="stack" aria-labelledby="a-acc"><h2 id="a-acc">Accuracy and reporting mistakes</h2>
         <p>Questions are written for this site. Some were drafted with AI help and then checked by a reviewer for correct answers, level and duplicates. Mistakes can still slip through. If you spot one, please <a href="${REPO}/issues/new">report it on GitHub</a> with the subject, the question text and what you think is wrong.</p></section>
       <section class="stack" aria-labelledby="a-contrib"><h2 id="a-contrib">Contributing</h2>
@@ -2231,7 +2242,7 @@ const DIFF = {"chem-1-1-1":[1,88,"m"],"chem-1-1-2":[3,59,"m"],"chem-1-1-3":[2,78
     if (!h) home();
     else if (h === "topics") subjectsView();
     else if (h.startsWith("s-") && subjById[h.slice(2)]) subjectView(h.slice(2));
-    else if (h === "custom") customView();
+    else if (h === "custom" || h.startsWith("custom?band=")) { const n = h.slice(12); customView(/^[0-2]$/.test(n) ? +n : null); }
     else if (h === "exam") examListView();
     else if (h.startsWith("x-") && examById[h.slice(2)]) examPage("x:" + h.slice(2), [examById[h.slice(2)]], examById[h.slice(2)].title);
     else if (h.startsWith("test-") && (exams[h.slice(5)] || []).length) examPage("t:" + h.slice(5), exams[h.slice(5)], `${subjById[h.slice(5)].name}: exam-style test`);
