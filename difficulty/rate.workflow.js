@@ -166,6 +166,9 @@ Write ${work}.tie.json as {"items": [...]} (same item shape). Return {"done": <i
   return { batch, written: !!m?.written }
 }
 
+// Reviewers name batches loosely (absolute, /ratings/, or without "difficulty/"); match on <course>/<name>.json.
+const matchBatch = (p, batches) => { const k = p.replace('/ratings/', '/batches/').split('/').slice(-2).join('/'); return batches.find(b => b.endsWith('/' + k)) }
+
 // ---------- Sonnet QA in groups of 6 rating files; flagged batches re-judged once ----------
 async function qaCourse(course, pack, batches) {
   const groups = Array.from({ length: Math.ceil(batches.length / 6) }, (_, i) => batches.slice(i * 6, i * 6 + 6))
@@ -180,8 +183,8 @@ Put a batch (its /batches/ path) in redo only for a real defect, with a one-line
     { label: `qa:${course}:${i}`, phase: 'QA', model: 'sonnet', schema: QA, agentType: 'general-purpose' })))
   const ok = qas.filter(Boolean)
   if (ok.length < groups.length) stats.failed.push(`qa ${course}: ${groups.length - ok.length} group(s) failed`)
-  const redo = ok.flatMap(q => q.redo).map(r => ({ ...r, batch: r.batch.replace(`${ROOT}/`, '').replace('/ratings/', '/batches/') }))
-    .filter(r => batches.includes(r.batch))
+  const redo = ok.flatMap(q => q.redo).map(r => ({ ...r, batch: matchBatch(r.batch, batches) }))
+    .filter(r => r.batch || (stats.failed.push(`qa ${course}: redo path not in this run: ${r.reason.slice(0, 80)}`), false))
   const redone = await parallel(redo.map(r => () => { stats.retries.push(`qa redo ${r.batch}: ${r.reason}`); return rateBatch(course, pack, r.batch, `A reviewer rejected the previous rating: ${r.reason}`) }))
   return { course, qa_groups: ok.length, accepted: ok.every(q => q.accept), redo: redo.length, redone_ok: redone.filter(x => x?.written).length }
 }
