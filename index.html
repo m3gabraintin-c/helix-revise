@@ -9,6 +9,7 @@
 <meta property="og:locale" content="en_AU">
 <meta name="twitter:card" content="summary">
 <meta name="theme-color" content="#e3ddd0">
+<script>try{var t=localStorage.getItem("helix-theme");if(t==="light"||t==="dark"){document.documentElement.dataset.theme=t;document.querySelector('meta[name=theme-color]').content=t==="dark"?"#1b1c19":"#e3ddd0"}else if(matchMedia("(prefers-color-scheme: dark)").matches)document.querySelector('meta[name=theme-color]').content="#1b1c19"}catch(e){}</script>
 <meta name="claude:viewport-fit-sides" content="cover">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -337,7 +338,7 @@ details.elmore[open] summary { margin-bottom: 8px; }
   header.site .wrap { flex-wrap: wrap; row-gap: 2px; }
   .brand span { position: static; width: auto; height: auto; overflow: visible; clip: auto; }
   nav.top { width: 100%; justify-content: space-between; }
-  nav.top a[href="#about"] { display: none; }
+  nav.top a[href="#about"], nav.top a[href="#errors"] { display: none; } /* both are in the footer */
   nav.top a { letter-spacing: .02em; padding: 0 6px; } nav.top a.pill-btn { padding: 0 12px; }
 }
 @media (max-width: 360px) { nav.top a { font-size: 0.64rem; padding: 0 5px; } nav.top a.pill-btn { padding: 0 9px; } }
@@ -487,6 +488,7 @@ details.dtopics li { display: flex; flex-direction: column; gap: 2px; }
     <nav class="top" aria-label="Main">
       <a class="plain" href="#topics">Subjects</a>
       <a class="plain" href="#dashboard">Dashboard</a>
+      <a class="plain" href="#settings">Settings</a>
       <a class="plain" href="#errors">Error log</a>
       <a class="plain" href="#about">About</a>
       <a class="pill-btn" href="#custom">Build a quiz</a>
@@ -497,7 +499,7 @@ details.dtopics li { display: flex; flex-direction: column; gap: 2px; }
 <footer class="site">
   <div class="wrap w5">
     <p>Helix Revise is a free, independent revision tool. Not affiliated with or endorsed by the VCAA, Pearson Edexcel or any other exam board or revision provider. Questions are original practice questions written for this site, some drafted with AI help and then reviewed.</p>
-    <p><a href="#about">About</a> · <a href="#privacy">Privacy</a> · <a href="https://github.com/m3gabraintin-c/helix-revise">Source on GitHub</a> · <a href="https://github.com/m3gabraintin-c/helix-revise/issues/new">Report a problem</a></p>
+    <p><a href="#about">About</a> · <a href="#errors">Error log</a> · <a href="#settings">Settings</a> · <a href="#privacy">Privacy</a> · <a href="https://github.com/m3gabraintin-c/helix-revise">Source on GitHub</a> · <a href="https://github.com/m3gabraintin-c/helix-revise/issues/new">Report a problem</a></p>
     <p>Code: <a href="https://github.com/m3gabraintin-c/helix-revise/blob/main/LICENSE">MIT licence</a>. Questions: <a href="https://github.com/m3gabraintin-c/helix-revise/blob/main/LICENSE-QUESTIONS.md">CC BY-NC 4.0</a>. Progress is stored only in your browser.</p>
   </div>
 </footer>
@@ -2229,6 +2231,18 @@ const DIFF = {"chem-1-1-1":[1,88,"m"],"chem-1-1-2":[3,59,"m"],"chem-1-1-3":[2,78
         <p class="small muted">Helix Revise is independent and not affiliated with or endorsed by the VCAA, Pearson Edexcel or any other exam board.</p></section>
     </div>`;
   }
+  function settingsView() {
+    let cur = ""; try { cur = localStorage.getItem("helix-theme") || ""; } catch {}
+    if (cur !== "light" && cur !== "dark") cur = "";
+    app.innerHTML = `<div class="wrap w2 view stack"><h1 class="page-h1">Settings</h1>
+      <fieldset class="pick"><legend class="small" style="font-weight:500">Appearance</legend><div style="display:flex;flex-wrap:wrap;gap:12px 24px">${[["", "System"], ["light", "Light"], ["dark", "Dark"]].map(([v, n]) => `<label><input type="radio" name="theme" value="${v}" ${cur === v ? "checked" : ""}>${n}</label>`).join("")}</div></fieldset></div>`;
+    app.querySelector("fieldset").addEventListener("change", e => {
+      const v = e.target.value;
+      if (v) document.documentElement.dataset.theme = v; else delete document.documentElement.dataset.theme;
+      try { v ? localStorage.setItem("helix-theme", v) : localStorage.removeItem("helix-theme"); } catch {}
+      document.querySelector('meta[name="theme-color"]').content = (v || (matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light")) === "dark" ? "#1b1c19" : "#e3ddd0";
+    });
+  }
   function privacyView() {
     app.innerHTML = `<div class="wrap w2 view stack"><h1 class="page-h1">Privacy</h1><p class="muted">Helix Revise has no accounts and sets no tracking cookies. Your quiz scores, your error log and mistake analysis (including any notes you write in them) and your activity history for the dashboard (which questions you answered, your marks, and how long each took) are saved in your browser's local storage and never leave your device. You can delete the activity history from the bottom of the dashboard. Clearing your browser's site data deletes them.</p><p class="muted">The page loads its fonts from Google Fonts and its maths typesetting (KaTeX) from the jsDelivr content network. As with any web request, those services receive your IP address.</p></div>`;
   }
@@ -2248,6 +2262,7 @@ const DIFF = {"chem-1-1-1":[1,88,"m"],"chem-1-1-2":[3,59,"m"],"chem-1-1-3":[2,78
     else if (h.startsWith("test-") && (exams[h.slice(5)] || []).length) examPage("t:" + h.slice(5), exams[h.slice(5)], `${subjById[h.slice(5)].name}: exam-style test`);
     else if (h === "errors") errorsView();
     else if (h === "dashboard") dashboardView();
+    else if (h === "settings") settingsView();
     else if (h === "mistakes") mistakesView();
     else if (h === "mastery") masteryView();
     else if (h === "privacy") privacyView();
