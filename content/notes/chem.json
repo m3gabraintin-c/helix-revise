@@ -1,0 +1,621 @@
+{
+ "chem-1-1": {
+  "points": [
+   "Fossil fuels (coal, oil, natural gas) formed from ancient organisms over millions of years, so they are non-renewable. Biofuels come from recently grown biomass and are renewable.",
+   "Bioethanol: yeast ferments glucose, \\(\\text{C}_{6}\\text{H}_{12}\\text{O}_{6}\\text{(aq)}  \\to  2 \\text{C}_{2}\\text{H}_{5}\\text{O}\\text{H}\\text{(aq)} + 2 \\text{C}\\text{O}_{2}\\text{(g)}\\). Biodiesel: transesterification of a triglyceride with methanol (KOH or NaOH catalyst) gives methyl esters and glycerol.",
+   "Biogas, mostly \\(\\text{C}\\text{H}_{4}\\), forms when bacteria break down organic waste without oxygen (anaerobic digestion).",
+   "Biofuels are close to carbon neutral because the \\(\\text{C}\\text{O}_{2}\\) released on burning was absorbed by the plants as they grew."
+  ],
+  "example": {
+   "question": "Explain why bioethanol from sugar cane is renewable but not completely carbon neutral.",
+   "steps": [
+    "Sugar cane regrows within a season, so the fuel source is renewable.",
+    "The \\(\\text{C}\\text{O}_{2}\\) released when ethanol burns was taken in by the cane during photosynthesis, which offsets the emissions.",
+    "But fossil fuels are burnt to run farm machinery, make fertiliser, and transport and distil the ethanol."
+   ],
+   "answer": "Net emissions are lower than for petrol, but the fossil energy inputs mean the cycle is not fully carbon neutral."
+  },
+  "watch": "Do not say biofuels are carbon neutral without qualification. Fossil energy used in production adds net emissions."
+ },
+ "chem-1-2": {
+  "points": [
+   "Complete combustion (excess oxygen) of a hydrocarbon gives only \\(\\text{C}\\text{O}_{2}\\) and \\(\\text{H}_{2}\\text{O}\\). Limited oxygen gives incomplete combustion: \\(\\text{C}\\text{O}\\) and/or soot (C) as well as water.",
+   "A thermochemical equation is balanced, has states, and shows \\(\\Delta  \\text{H}\\) for the amounts as written. Combustion is exothermic, so \\(\\Delta  \\text{H}\\) is negative.",
+   "Molar heat of combustion is the energy released when 1 mol of fuel burns completely at SLC (25 °C, 100 kPa). Water is liquid at SLC.",
+   "Doubling the equation doubles \\(\\Delta  \\text{H}\\). Reversing it changes the sign."
+  ],
+  "example": {
+   "question": "Write the thermochemical equation for complete combustion of propane (molar heat of combustion 2220 \\(\\text{kJ mol}^{-1}\\)), then rewrite it for 2 mol of propane.",
+   "steps": [
+    "Balance C then H then O: \\(\\text{C}_{3}\\text{H}_{8}\\text{(g)} + 5 \\text{O}_{2}\\text{(g)}  \\to  3 \\text{C}\\text{O}_{2}\\text{(g)} + 4 \\text{H}_{2}\\text{O}\\text{(l)}\\).",
+    "Oxygen check: 10 on the left, 6 + 4 = 10 on the right.",
+    "Add \\(\\Delta  \\text{H}\\) = −2220 \\(\\text{kJ mol}^{-1}\\) (exothermic, so negative).",
+    "For 2 mol, double everything: \\(2 \\text{C}_{3}\\text{H}_{8}\\text{(g)} + 10 \\text{O}_{2}\\text{(g)}  \\to  6 \\text{C}\\text{O}_{2}\\text{(g)} + 8 \\text{H}_{2}\\text{O}\\text{(l)}\\), \\(\\Delta  \\text{H}\\) = −4440 kJ."
+   ],
+   "answer": "\\(\\text{C}_{3}\\text{H}_{8}\\text{(g)} + 5 \\text{O}_{2}\\text{(g)}  \\to  3 \\text{C}\\text{O}_{2}\\text{(g)} + 4 \\text{H}_{2}\\text{O}\\text{(l)}\\), \\(\\Delta  \\text{H}\\) = −2220 \\(\\text{kJ mol}^{-1}\\)"
+  },
+  "watch": "Leaving out states or writing a positive \\(\\Delta  \\text{H}\\) for combustion. Also check you used H2O(l), not H2O(g), at SLC."
+ },
+ "chem-1-3": {
+  "points": [
+   "Moles from mass: \\(n = \\frac{m}{M}\\). Energy released = \\(n \\times |\\Delta_c H|\\).",
+   "Energy per gram (specific energy) = \\(\\frac{|\\Delta_c H|}{M}\\), giving \\(\\text{kJ g}^{-1}\\). Fuels are compared per gram or per mole.",
+   "Convert units carefully: 1 MJ = 1000 kJ and 1 kg = 1000 g.",
+   "Give answers to the same significant figures as the data, usually three, with units."
+  ],
+  "example": {
+   "question": "Methanol has a molar heat of combustion of 726 \\(\\text{kJ mol}^{-1}\\) and \\(M = 32.0\\ \\text{g mol}^{-1}\\). How much energy is released by burning 10.0 g?",
+   "steps": [
+    "\\(n = \\frac{10.0}{32.0} = 0.3125\\ \\text{mol}\\).",
+    "Energy = \\(0.3125 \\times 726 = 226.9\\ \\text{kJ}\\).",
+    "Round to three significant figures."
+   ],
+   "answer": "227 kJ released"
+  },
+  "watch": "Using mass directly in energy = mass × \\(\\Delta H\\). You must convert to moles first."
+ },
+ "chem-1-4": {
+  "points": [
+   "Energy absorbed by water: \\(q = mc\\Delta T\\), with \\(c = 4.18\\ \\text{J g}^{-1}\\,{}^\\circ\\text{C}^{-1}\\). Use the mass of the water (1 mL = 1 g), not the fuel.",
+   "A calorimeter is calibrated with a heater: \\(E = VIt\\) (time in seconds), then calibration factor \\(= \\frac{E}{\\Delta T}\\) in \\(\\text{J }{}^\\circ\\text{C}^{-1}\\).",
+   "Reaction energy = calibration factor × \\(\\Delta T\\). Then \\(\\Delta H = \\frac{q}{n}\\), per mole of fuel.",
+   "Heat losses to the surroundings make a measured molar enthalpy smaller than the data-book value."
+  ],
+  "example": {
+   "question": "Burning 1.15 g of ethanol (\\(M = 46.0\\)) raises the temperature of 200 g of water by 40.0 °C. Calculate the experimental molar heat of combustion.",
+   "steps": [
+    "\\(q = mc\\Delta T = 200 \\times 4.18 \\times 40.0 = 33\\,440\\ \\text{J} = 33.4\\ \\text{kJ}\\).",
+    "\\(n = \\frac{1.15}{46.0} = 0.0250\\ \\text{mol}\\).",
+    "\\(\\frac{33.4}{0.0250} = 1.34 \\times 10^3\\ \\text{kJ mol}^{-1}\\)."
+   ],
+   "answer": "About 1.34 × 10³ \\(\\text{kJ mol}^{-1}\\), a bit below the data-book 1364 because of heat loss."
+  },
+  "watch": "Using the mass of fuel in \\(mc\\Delta T\\), or leaving minutes unconverted in \\(VIt\\). Time must be in seconds."
+ },
+ "chem-2-1": {
+  "points": [
+   "The electrochemical series ranks half-equations by \\(E^\\circ\\) (volts, SLC, 1 M). Oxidising agents are on the left, reducing agents on the right.",
+   "The strongest oxidising agent has the most positive \\(E^\\circ\\). The strongest reducing agent has the most negative \\(E^\\circ\\).",
+   "A reaction is predicted when the oxidising agent is higher (more positive \\(E^\\circ\\)) than the reducing agent's half-equation.",
+   "Metals below \\(\\text{H}^{+}/\\text{H}_{2}\\) (\\(E^\\circ = 0.00\\) V) react with dilute acid to give hydrogen gas."
+  ],
+  "example": {
+   "question": "Will copper metal react with 1.0 M silver nitrate solution?",
+   "steps": [
+    "\\(\\text{Ag}^{+} + e^{-}  \\to  \\text{Ag}\\) has \\(E^\\circ = +0.80\\) V; \\(\\text{Cu}^{2+} + 2 e^{-}  \\to  \\text{Cu}\\) has \\(E^\\circ = +0.34\\) V.",
+    "\\(\\text{Ag}^{+}\\) is the stronger oxidising agent, and \\(\\text{Cu}\\) is the reducing agent, so it is predicted to react.",
+    "Reaction: \\(2 \\text{Ag}^{+}\\text{(aq)} + \\text{Cu}\\text{(s)}  \\to  2 \\text{Ag}\\text{(s)} + \\text{Cu}^{2+}\\text{(aq)}\\)."
+   ],
+   "answer": "Yes, silver forms on the copper and the solution turns blue."
+  },
+  "watch": "The series predicts only whether a reaction can happen, not how fast. A predicted reaction may be too slow to see."
+ },
+ "chem-2-2": {
+  "points": [
+   "Galvanic cells turn chemical energy into electrical energy by a spontaneous redox reaction. Oxidation at the anode (negative), reduction at the cathode (positive).",
+   "Electrons flow anode to cathode through the external wire. In the salt bridge, anions move toward the anode and cations toward the cathode.",
+   "\\(E^\\circ_{\\text{cell}} = E^\\circ_{\\text{cathode}} - E^\\circ_{\\text{anode}}\\). A positive value means the cell reaction is spontaneous.",
+   "Balance electrons by multiplying half-equations, but never multiply \\(E^\\circ\\)."
+  ],
+  "example": {
+   "question": "A galvanic cell has a Zn/\\(\\text{Zn}^{2+}\\) half-cell (\\(-0.76\\) V) and an Ag/\\(\\text{Ag}^{+}\\) half-cell (+0.80 V). Find the cathode, overall equation and \\(E^\\circ_{\\text{cell}}\\).",
+   "steps": [
+    "Higher \\(E^\\circ\\): silver is reduced, so Ag is the cathode and Zn is the anode.",
+    "Anode: \\(\\text{Zn}\\text{(s)}  \\to  \\text{Zn}^{2+}\\text{(aq)} + 2 e^{-}\\). Cathode (multiplied by 2): \\(\\text{Ag}^{+}\\text{(aq)} + e^{-}  \\to  \\text{Ag}\\text{(s)}\\).",
+    "Overall: \\(\\text{Zn}\\text{(s)} + 2 \\text{Ag}^{+}\\text{(aq)}  \\to  \\text{Zn}^{2+}\\text{(aq)} + 2 \\text{Ag}\\text{(s)}\\).",
+    "\\(E^\\circ_{\\text{cell}} = 0.80 - (-0.76) = 1.56\\ \\text{V}\\)."
+   ],
+   "answer": "Cathode Ag; overall \\(\\text{Zn}\\text{(s)} + 2 \\text{Ag}^{+}\\text{(aq)}  \\to  \\text{Zn}^{2+}\\text{(aq)} + 2 \\text{Ag}\\text{(s)}\\); 1.56 V."
+  },
+  "watch": "Doubling the silver half-equation does not double its \\(E^\\circ\\). Voltage is not multiplied by coefficients."
+ },
+ "chem-2-3": {
+  "points": [
+   "A fuel cell is a galvanic cell with reactants (fuel and oxygen) supplied continuously from outside, so it does not go flat while supplied.",
+   "Acidic hydrogen cell: anode \\(\\text{H}_{2}\\text{(g)}  \\to  2 \\text{H}^{+}\\text{(aq)} + 2 e^{-}\\); cathode \\(\\text{O}_{2}\\text{(g)} + 4 \\text{H}^{+}\\text{(aq)} + 4 e^{-}  \\to  2 \\text{H}_{2}\\text{O}\\text{(l)}\\).",
+   "Alkaline hydrogen cell: anode \\(\\text{H}_{2}\\text{(g)} + 2 \\text{O}\\text{H}^{-}\\text{(aq)}  \\to  2 \\text{H}_{2}\\text{O}\\text{(l)} + 2 e^{-}\\); cathode \\(\\text{O}_{2}\\text{(g)} + 2 \\text{H}_{2}\\text{O}\\text{(l)} + 4 e^{-}  \\to  4 \\text{O}\\text{H}^{-}\\text{(aq)}\\).",
+   "Electrodes are porous and coated with a catalyst, giving a large surface area and faster reactions. Overall: \\(2 \\text{H}_{2}\\text{(g)} + \\text{O}_{2}\\text{(g)}  \\to  2 \\text{H}_{2}\\text{O}\\text{(l)}\\)."
+  ],
+  "example": {
+   "question": "Write the overall equation for an alkaline hydrogen fuel cell from its half-equations.",
+   "steps": [
+    "Anode: \\(\\text{H}_{2}\\text{(g)} + 2 \\text{O}\\text{H}^{-}\\text{(aq)}  \\to  2 \\text{H}_{2}\\text{O}\\text{(l)} + 2 e^{-}\\), multiplied by 2 gives \\(2 \\text{H}_{2}\\text{(g)} + 4 \\text{O}\\text{H}^{-}\\text{(aq)}  \\to  4 \\text{H}_{2}\\text{O}\\text{(l)} + 4 e^{-}\\).",
+    "Cathode: \\(\\text{O}_{2}\\text{(g)} + 2 \\text{H}_{2}\\text{O}\\text{(l)} + 4 e^{-}  \\to  4 \\text{O}\\text{H}^{-}\\text{(aq)}\\).",
+    "Add: 4 electrons cancel, 4 \\(\\text{O}\\text{H}^{-}\\) cancel, and 2 \\(\\text{H}_{2}\\text{O}\\) cancel from the right."
+   ],
+   "answer": "\\(2 \\text{H}_{2}\\text{(g)} + \\text{O}_{2}\\text{(g)}  \\to  2 \\text{H}_{2}\\text{O}\\text{(l)}\\), the same overall reaction as in an acidic cell."
+  },
+  "watch": "Matching the half-equation to the electrolyte. Do not use \\(\\text{H}^{+}\\) in an alkaline cell or \\(\\text{O}\\text{H}^{-}\\) in an acidic cell."
+ },
+ "chem-2-4": {
+  "points": [
+   "Green hydrogen is made by electrolysis of water using renewable electricity: \\(2 \\text{H}_{2}\\text{O}\\text{(l)}  \\to  2 \\text{H}_{2}\\text{(g)} + \\text{O}_{2}\\text{(g)}\\). It has no carbon emissions in production.",
+   "Grey hydrogen comes from natural gas by steam reforming, \\(\\text{C}\\text{H}_{4}\\text{(g)} + \\text{H}_{2}\\text{O}\\text{(g)}  \\to  \\text{C}\\text{O}\\text{(g)} + 3 \\text{H}_{2}\\text{(g)}\\), and releases \\(\\text{C}\\text{O}_{2}\\). Blue hydrogen is the same, but captures the \\(\\text{C}\\text{O}_{2}\\).",
+   "The hydrogen itself is identical in each case. The colour describes how it was made.",
+   "Challenges: cost, large renewable electricity demand, and storing and transporting a low-density gas."
+  ],
+  "example": {
+   "question": "What mass of hydrogen can be made by electrolysing 1.00 kg of water? Use \\(M(\\text{H}_2\\text{O}) = 18.0\\) and \\(M(\\text{H}_2) = 2.02\\ \\text{g mol}^{-1}\\).",
+   "steps": [
+    "\\(n(\\text{H}_2\\text{O}) = \\frac{1000}{18.0} = 55.6\\ \\text{mol}\\).",
+    "The ratio \\(\\text{H}_{2}\\text{O} : \\text{H}_{2}\\) is 2 : 2, so \\(n(\\text{H}_2) = 55.6\\ \\text{mol}\\).",
+    "\\(m = 55.6 \\times 2.02 = 112\\ \\text{g}\\)."
+   ],
+   "answer": "About 112 g of hydrogen"
+  },
+  "watch": "Calling hydrogen green because it burns cleanly. Green depends on how it is made, using renewable electricity."
+ },
+ "chem-3-1": {
+  "points": [
+   "Collision theory: reactant particles must collide with energy at least the activation energy (\\(E_a\\)) and with the correct orientation. Only these are successful collisions.",
+   "Higher concentration, pressure (gases) or surface area means more frequent collisions, so a faster rate.",
+   "Higher temperature gives particles more kinetic energy, so collisions are more frequent and a greater proportion are successful. The proportion effect is the main one.",
+   "Rate = change in concentration or mass per unit time. A catalyst lowers \\(E_a\\)."
+  ],
+  "example": {
+   "question": "Explain, using collision theory, why zinc powder reacts faster than zinc granules with the same acid.",
+   "steps": [
+    "Powder has a much larger surface area exposed to the acid.",
+    "More zinc atoms can be hit by \\(\\text{H}^{+}\\) ions at once, so collisions per second increase.",
+    "The energy and \\(E_a\\) are unchanged, so the proportion of successful collisions is the same, but the number per second is greater."
+   ],
+   "answer": "The greater collision frequency gives a faster rate. The total amount of product is unchanged."
+  },
+  "watch": "Saying higher concentration increases the energy of particles. It only increases how often they collide."
+ },
+ "chem-3-2": {
+  "points": [
+   "A Maxwell–Boltzmann curve plots number of particles against kinetic energy. The area under the curve is the total number of particles.",
+   "At higher temperature the peak moves right and gets lower and broader. The area is the same, but more particles are beyond \\(E_a\\).",
+   "A catalyst gives an alternative pathway with lower \\(E_a\\). The curve does not change, but the \\(E_a\\) line moves left, so more particles can react.",
+   "A catalyst is not consumed and does not change \\(\\Delta H\\) or the equilibrium position."
+  ],
+  "example": {
+   "question": "Use a Maxwell–Boltzmann distribution to explain how a catalyst increases reaction rate.",
+   "steps": [
+    "The catalyst provides an alternative pathway with a lower activation energy.",
+    "On the curve, the \\(E_a\\) line moves to the left.",
+    "The area to the right of the line is larger, so a greater proportion of collisions are successful, and the rate increases."
+   ],
+   "answer": "More particles have energy at least \\(E_a\\), giving more successful collisions per second, at the same temperature."
+  },
+  "watch": "Do not shift the whole curve for a catalyst. Only temperature changes the curve; a catalyst moves the \\(E_a\\) line."
+ },
+ "chem-3-3": {
+  "points": [
+   "Kc = [products] raised to coefficients ÷ [reactants] raised to coefficients, at equilibrium. Include gases and aqueous species only; leave out solids and liquids.",
+   "Units come from the expression. For \\(\\text{N}_{2}\\text{(g)} + 3 \\text{H}_{2}\\text{(g)}  \\rightleftharpoons  2 \\text{N}\\text{H}_{3}\\text{(g)}\\), \\(K_c\\) has units \\(\\text{M}^{-2}\\).",
+   "Reverse the equation: \\(K' = \\frac{1}{K}\\). Multiply coefficients by \\(n\\): \\(K' = K^n\\).",
+   "Kc depends only on temperature. Compare \\(Q\\) with \\(K\\): if \\(Q < K\\), the reaction goes forward."
+  ],
+  "example": {
+   "question": "1.00 mol of \\(\\text{N}_{2}\\text{O}_{4}\\) is placed in a 2.00 L vessel. At equilibrium \\(\\text{N}\\text{O}_{2}\\) is 0.200 M. Find \\(K_c\\) for \\(\\text{N}_{2}\\text{O}_{4}\\text{(g)}  \\rightleftharpoons  2 \\text{N}\\text{O}_{2}\\text{(g)}\\).",
+   "steps": [
+    "Initial \\([\\text{N}_2\\text{O}_4] = \\frac{1.00}{2.00} = 0.500\\ \\text{M}\\).",
+    "\\(\\text{N}\\text{O}_{2}\\) is 0.200 M, so \\(\\text{N}_{2}\\text{O}_{4}\\) used = 0.100 M and \\([\\text{N}_2\\text{O}_4] = 0.400\\ \\text{M}\\).",
+    "\\(K_c = \\frac{[\\text{NO}_2]^2}{[\\text{N}_2\\text{O}_4]} = \\frac{0.200^2}{0.400} = 0.100\\ \\text{M}\\)."
+   ],
+   "answer": "\\(K_c = 0.100\\ \\text{M}\\)"
+  },
+  "watch": "Changing concentration, pressure or adding a catalyst does not change K. Only a temperature change does."
+ },
+ "chem-3-4": {
+  "points": [
+   "Le Chatelier: if an equilibrium is disturbed, the system shifts to partly oppose the change.",
+   "Adding reactant shifts right. Increasing pressure (smaller volume) favours the side with fewer gas moles. Adding water dilutes and favours the side with more particles.",
+   "Increasing temperature favours the endothermic direction and changes K. A catalyst speeds both directions equally and does not change yield or K.",
+   "Industry compromises: a moderate temperature gives acceptable yield at an economical rate."
+  ],
+  "example": {
+   "question": "For \\(2 \\text{S}\\text{O}_{2}\\text{(g)} + \\text{O}_{2}\\text{(g)}  \\rightleftharpoons  2 \\text{S}\\text{O}_{3}\\text{(g)}\\), \\(\\Delta  \\text{H}\\) = −198 kJ. How does decreasing temperature affect rate, yield and K?",
+   "steps": [
+    "The forward reaction is exothermic.",
+    "Lower temperature favours the exothermic direction, so the equilibrium shifts right: yield of \\(\\text{S}\\text{O}_{3}\\) and K increase.",
+    "Lower temperature also lowers the collision energy, so the rate decreases."
+   ],
+   "answer": "Yield and K go up, but the reaction is slower. This is why a compromise temperature is used."
+  },
+  "watch": "Saying a catalyst increases yield. It only helps the system reach equilibrium sooner."
+ },
+ "chem-4-1": {
+  "points": [
+   "Electrolytic cells use an external power supply to drive a non-spontaneous reaction. Oxidation at the anode (positive), reduction at the cathode (negative).",
+   "Molten salts contain only their own ions: for example, molten NaCl gives Na(l) at the cathode and \\(\\text{Cl}_{2}\\text{(g)}\\) at the anode.",
+   "In aqueous solution, water competes. Ions of reactive metals such as \\(\\text{K}^{+}\\) and \\(\\text{Na}^{+}\\) are not reduced; water is reduced to \\(\\text{H}_{2}\\) and \\(\\text{O}\\text{H}^{-}\\) instead.",
+   "At the anode, the strongest reductant is oxidised: a halide or water with inert electrodes."
+  ],
+  "example": {
+   "question": "Predict the products when 1 M KI(aq) is electrolysed with graphite electrodes.",
+   "steps": [
+    "Cathode: \\(\\text{K}^{+}\\) cannot be reduced in water, so \\(2 \\text{H}_{2}\\text{O}\\text{(l)} + 2 e^{-}  \\to  \\text{H}_{2}\\text{(g)} + 2 \\text{O}\\text{H}^{-}\\text{(aq)}\\) (\\(-0.83\\) V).",
+    "Anode: \\(\\text{I}^{-}\\) (+0.54 V) is a stronger reductant than water (+1.23 V): \\(2 \\text{I}^{-}\\text{(aq)}  \\to  \\text{I}_{2}\\text{(aq)} + 2 e^{-}\\).",
+    "Overall: \\(2 \\text{H}_{2}\\text{O}\\text{(l)} + 2 \\text{I}^{-}\\text{(aq)}  \\to  \\text{H}_{2}\\text{(g)} + \\text{I}_{2}\\text{(aq)} + 2 \\text{O}\\text{H}^{-}\\text{(aq)}\\), needing more than \\(0.54 - (-0.83) = 1.37\\) V."
+   ],
+   "answer": "\\(\\text{H}_{2}\\) at the cathode and \\(\\text{I}_{2}\\) at the anode."
+  },
+  "watch": "Writing \\(\\text{K}^{+}  \\to  \\text{K}\\) or \\(\\text{Na}^{+}  \\to  \\text{Na}\\) in aqueous solution. Water is reduced instead."
+ },
+ "chem-4-2": {
+  "points": [
+   "Charge: \\(Q = It\\), with current in amps and time in seconds. Moles of electrons: \\(n(e^-) = \\frac{Q}{F}\\), where \\(F = 96\\,500\\ \\text{C mol}^{-1}\\).",
+   "Use the half-equation ratio to get moles of product, then \\(m = nM\\). Gas volume at SLC: \\(V = n \\times 24.8\\ \\text{L}\\).",
+   "Cells in series carry the same charge, so the same number of moles of electrons.",
+   "Plan: \\(I,t \\to Q \\to n(e^-) \\to n(\\text{product}) \\to m\\)."
+  ],
+  "example": {
+   "question": "A current of 3.00 A flows for 20.0 minutes through \\(\\text{Ag}\\text{N}\\text{O}_{3}\\text{(aq)}\\). What mass of silver is deposited?",
+   "steps": [
+    "\\(t = 20.0 \\times 60 = 1200\\ \\text{s}\\), so \\(Q = 3.00 \\times 1200 = 3600\\ \\text{C}\\).",
+    "\\(n(e^-) = \\frac{3600}{96\\,500} = 0.0373\\ \\text{mol}\\).",
+    "\\(\\text{Ag}^{+}\\text{(aq)} + e^{-}  \\to  \\text{Ag}\\text{(s)}\\): ratio 1 : 1, so \\(n(\\text{Ag}) = 0.0373\\ \\text{mol}\\).",
+    "\\(m = 0.0373 \\times 107.9 = 4.03\\ \\text{g}\\)."
+   ],
+   "answer": "4.03 g of silver"
+  },
+  "watch": "Using minutes in \\(Q = It\\). Always convert to seconds first."
+ },
+ "chem-4-3": {
+  "points": [
+   "Secondary cells are rechargeable. Discharging is a galvanic cell. Recharging is an electrolytic cell driven by an external supply.",
+   "They work because the discharge products stay on the electrodes, so the reverse reaction can regenerate the reactants.",
+   "On recharge, connect positive to positive and negative to negative. The anode and cathode roles swap, but each electrode keeps its + or − sign.",
+   "Lead–acid discharge overall: \\(\\text{Pb}\\text{(s)} + \\text{Pb}\\text{O}_{2}\\text{(s)} + 4 \\text{H}^{+}\\text{(aq)} + 2 \\text{S}\\text{O}_{4}^{2-}\\text{(aq)}  \\to  2 \\text{Pb}\\text{S}\\text{O}_{4}\\text{(s)} + 2 \\text{H}_{2}\\text{O}\\text{(l)}\\)."
+  ],
+  "example": {
+   "question": "Write the half-equation at the negative electrode and the overall reaction when a lead–acid battery is recharged.",
+   "steps": [
+    "At the negative electrode, \\(\\text{Pb}\\text{S}\\text{O}_{4}\\) is reduced back to lead: \\(\\text{Pb}\\text{S}\\text{O}_{4}\\text{(s)} + 2 e^{-}  \\to  \\text{Pb}\\text{(s)} + \\text{S}\\text{O}_{4}^{2-}\\text{(aq)}\\).",
+    "At the positive electrode: \\(\\text{Pb}\\text{S}\\text{O}_{4}\\text{(s)} + 2 \\text{H}_{2}\\text{O}\\text{(l)}  \\to  \\text{Pb}\\text{O}_{2}\\text{(s)} + 4 \\text{H}^{+}\\text{(aq)} + \\text{S}\\text{O}_{4}^{2-}\\text{(aq)} + 2 e^{-}\\).",
+    "Add: \\(2 \\text{Pb}\\text{S}\\text{O}_{4}\\text{(s)} + 2 \\text{H}_{2}\\text{O}\\text{(l)}  \\to  \\text{Pb}\\text{(s)} + \\text{Pb}\\text{O}_{2}\\text{(s)} + 4 \\text{H}^{+}\\text{(aq)} + 2 \\text{S}\\text{O}_{4}^{2-}\\text{(aq)}\\)."
+   ],
+   "answer": "The overall equation is the reverse of discharge, and the sulfuric acid concentration increases."
+  },
+  "watch": "Thinking the negative electrode becomes the anode on recharge. It stays negative, but it is now the cathode."
+ },
+ "chem-4-4": {
+  "points": [
+   "Electroplating: the object to be plated is the cathode (negative). The plating metal is usually the anode (positive). The electrolyte contains ions of the plating metal.",
+   "Cathode: \\(\\text{Cu}^{2+}\\text{(aq)} + 2 e^{-}  \\to  \\text{Cu}\\text{(s)}\\). Anode: \\(\\text{Cu}\\text{(s)}  \\to  \\text{Cu}^{2+}\\text{(aq)} + 2 e^{-}\\). The electrolyte concentration stays roughly constant.",
+   "Galvanic cells are spontaneous with a negative anode. Electrolytic cells need a power supply and have a positive anode.",
+   "In both types, oxidation is at the anode, reduction at the cathode, and electrons move anode to cathode through the wire."
+  ],
+  "example": {
+   "question": "Describe how to copper-plate a steel key, and find the mass deposited by 2.00 A for 965 s.",
+   "steps": [
+    "Key is the cathode (negative); copper is the anode (positive); electrolyte is \\(\\text{Cu}\\text{S}\\text{O}_{4}\\text{(aq)}\\).",
+    "Cathode: \\(\\text{Cu}^{2+}\\text{(aq)} + 2 e^{-}  \\to  \\text{Cu}\\text{(s)}\\). Anode: \\(\\text{Cu}\\text{(s)}  \\to  \\text{Cu}^{2+}\\text{(aq)} + 2 e^{-}\\).",
+    "\\(Q = 2.00 \\times 965 = 1930\\ \\text{C}\\); \\(n(e^-) = \\frac{1930}{96\\,500} = 0.0200\\ \\text{mol}\\); \\(n(\\text{Cu}) = 0.0100\\ \\text{mol}\\).",
+    "\\(m = 0.0100 \\times 63.5 = 0.635\\ \\text{g}\\)."
+   ],
+   "answer": "0.635 g of copper deposits on the key (the cathode)."
+  },
+  "watch": "Putting the object on the anode. The object being plated is always the cathode."
+ },
+ "chem-5-1": {
+  "points": [
+   "Prefixes for chain length: meth-, eth-, prop-, but-, pent-, hex-, hept-, oct-. Find the longest carbon chain containing the main functional group.",
+   "Suffixes: -ane (alkane), -ene (alkene), -anol (alcohol), -anal (aldehyde), -anone (ketone), -anoic acid, -anamine, -anamide. Esters: alkyl alkanoate.",
+   "Number the chain so the main functional group gets the lowest number, then name side groups in alphabetical order with their numbers.",
+   "Haloalkanes use prefixes such as chloro- and bromo-, for example 2-chloropropane."
+  ],
+  "example": {
+   "question": "Name \\(\\text{C}\\text{H}_{3}\\text{C}\\text{H}(\\text{C}\\text{H}_{3})\\text{C}\\text{H}_{2}\\text{C}\\text{H}_{2}\\text{O}\\text{H}\\).",
+   "steps": [
+    "The longest chain containing the carbon with –OH has four carbons: butane.",
+    "Number from the –OH end so it gets 1: butan-1-ol.",
+    "The methyl group is on carbon 3 (counting from the –OH end)."
+   ],
+   "answer": "3-methylbutan-1-ol"
+  },
+  "watch": "Numbering from the end nearest a side group instead of the functional group. The functional group gets the lowest number."
+ },
+ "chem-5-2": {
+  "points": [
+   "Structural isomers have the same molecular formula but different bonding arrangements: chain, position or functional group isomers.",
+   "Cis–trans (geometric) isomers need a C=C with two different groups on each carbon. Cis has similar groups on the same side.",
+   "Optical isomers (enantiomers) arise from a chiral carbon, one bonded to four different groups. They are mirror images that cannot be superimposed.",
+   "To count isomers, systematically shorten the main chain, then move branches and functional groups."
+  ],
+  "example": {
+   "question": "How many alcohol structural isomers have the formula \\(\\text{C}_{4}\\text{H}_{9}\\text{O}\\text{H}\\), and which is chiral?",
+   "steps": [
+    "Four-carbon chain: butan-1-ol and butan-2-ol.",
+    "Three-carbon chain with a methyl: 2-methylpropan-1-ol and 2-methylpropan-2-ol.",
+    "Butan-2-ol has carbon 2 bonded to –H, –OH, –\\(\\text{C}\\text{H}_{3}\\) and –\\(\\text{C}\\text{H}_{2}\\text{C}\\text{H}_{3}\\), four different groups."
+   ],
+   "answer": "4 isomers; butan-2-ol is chiral."
+  },
+  "watch": "Counting a drawing that is rotated or flipped as a new isomer. Check whether the atom connections have actually changed."
+ },
+ "chem-5-3": {
+  "points": [
+   "Addition: an alkene adds \\(\\text{H}_{2}\\) (Ni or Pt), \\(\\text{Br}_{2}\\), HX or \\(\\text{H}_{2}\\text{O}\\) (steam, \\(\\text{H}_{3}\\text{P}\\text{O}_{4}\\)) across C=C to give a saturated product.",
+   "Substitution: an alkane reacts with \\(\\text{Cl}_{2}\\) in UV light, replacing H with Cl. A haloalkane reacts with \\(\\text{O}\\text{H}^{-}\\) to give an alcohol.",
+   "Oxidation: primary alcohol to aldehyde to carboxylic acid; secondary alcohol to ketone; tertiary alcohols do not oxidise. Reagents: acidified \\(\\text{Cr}_{2}\\text{O}_{7}^{2-}\\) (orange to green) or acidified \\(\\text{Mn}\\text{O}_{4}^{-}\\).",
+   "Condensation joins two molecules and releases water (esters, amides). Hydrolysis splits a molecule using water."
+  ],
+  "example": {
+   "question": "What is formed when propan-2-ol is heated with acidified potassium dichromate, and what is the colour change?",
+   "steps": [
+    "Propan-2-ol is a secondary alcohol (OH on a carbon bonded to two other carbons).",
+    "Secondary alcohols are oxidised to ketones. Oxidation stops there.",
+    "\\(\\text{Cr}_{2}\\text{O}_{7}^{2-}\\) is reduced to \\(\\text{Cr}^{3+}\\)."
+   ],
+   "answer": "Propanone is formed; orange to green."
+  },
+  "watch": "Thinking all alcohols oxidise to acids. Secondary give ketones and tertiary do not react."
+ },
+ "chem-5-4": {
+  "points": [
+   "Reaction pathways link families: alkene to alkane (\\(\\text{H}_{2}\\)), alkanol (\\(\\text{H}_{2}\\text{O}\\)) or haloalkane (HX); haloalkane to alkanol (\\(\\text{O}\\text{H}^{-}\\)) or amine (\\(\\text{N}\\text{H}_{3}\\)); alkanol to alkanoic acid by oxidation.",
+   "Esterification: carboxylic acid + alkanol \\( \\rightleftharpoons \\) ester + water, with concentrated \\(\\text{H}_{2}\\text{S}\\text{O}_{4}\\) catalyst and heat. It is reversible, so yield is below 100%.",
+   "Name an ester as alkyl (from the alcohol) then alkanoate (from the acid): methanol and butanoic acid give methyl butanoate.",
+   "Overall yield for a multi-step pathway is the product of the step yields."
+  ],
+  "example": {
+   "question": "Outline a three-step pathway from ethene to ethyl ethanoate.",
+   "steps": [
+    "Step 1: hydration with steam, \\(\\text{H}_{3}\\text{P}\\text{O}_{4}\\) catalyst: ethene gives ethanol.",
+    "Step 2: oxidise some ethanol by heating under reflux with acidified \\(\\text{Cr}_{2}\\text{O}_{7}^{2-}\\) to give ethanoic acid.",
+    "Step 3: warm ethanol and ethanoic acid with concentrated \\(\\text{H}_{2}\\text{S}\\text{O}_{4}\\): \\(\\text{C}\\text{H}_{3}\\text{C}\\text{O}\\text{O}\\text{H} + \\text{C}_{2}\\text{H}_{5}\\text{O}\\text{H}  \\rightleftharpoons  \\text{C}\\text{H}_{3}\\text{C}\\text{O}\\text{O}\\text{C}_{2}\\text{H}_{5} + \\text{H}_{2}\\text{O}\\)."
+   ],
+   "answer": "Ethyl ethanoate is made from ethanol (the ethyl part) and ethanoic acid."
+  },
+  "watch": "Swapping the parent molecules in the name. The alcohol supplies the alkyl group, and the acid supplies the -oate part."
+ },
+ "chem-5-5": {
+  "points": [
+   "Intermolecular forces in order of strength: dispersion (all molecules, stronger with larger size and surface contact), dipole–dipole, hydrogen bonding (O–H or N–H).",
+   "For similar molar mass, boiling point rises: alkane, then ester/aldehyde/ketone, then alcohol, then carboxylic acid. Branching lowers boiling point.",
+   "Small alcohols, acids and amines dissolve in water through hydrogen bonding. Solubility falls as the non-polar chain gets longer.",
+   "Boiling breaks intermolecular forces, not covalent bonds."
+  ],
+  "example": {
+   "question": "Rank butane, propanone, propan-1-ol and ethanoic acid (all about 58–60 \\(\\text{g mol}^{-1}\\)) by boiling point and explain.",
+   "steps": [
+    "Butane is non-polar, so only dispersion forces: lowest.",
+    "Propanone is polar, so it has dipole–dipole forces as well.",
+    "Propan-1-ol has hydrogen bonding through its –OH.",
+    "Ethanoic acid forms stronger hydrogen-bonded pairs (dimers): highest."
+   ],
+   "answer": "Butane < propanone < propan-1-ol < ethanoic acid."
+  },
+  "watch": "Saying covalent bonds break on boiling. Compare intermolecular forces, not bond strengths."
+ },
+ "chem-6-1": {
+  "points": [
+   "In mass spectrometry the molecule is ionised, fragmented, and the positive ions are separated by mass-to-charge ratio, \\(m/z\\).",
+   "The molecular ion peak \\(\\text{M}^{+}\\) has \\(m/z\\) equal to the molar mass. The base peak is the tallest peak (100%) and is not always \\(\\text{M}^{+}\\).",
+   "Fragment ion peaks are found by subtracting from M, for example 15 for \\(\\text{C}\\text{H}_{3}\\) and 29 for \\(\\text{C}_{2}\\text{H}_{5}\\). Compare with the data book.",
+   "Chlorine gives M and M+2 peaks in a 3 : 1 ratio. Bromine gives M and M+2 peaks about 1 : 1."
+  ],
+  "example": {
+   "question": "Ethanol has a molecular ion peak at \\(m/z = 46\\) and peaks at 31 and 29. Assign them.",
+   "steps": [
+    "\\(\\text{C}_{2}\\text{H}_{5}\\text{O}\\text{H}\\): \\(2 \\times 12 + 6 \\times 1 + 16 = 46\\), so the peak at 46 is \\(\\text{C}_{2}\\text{H}_{5}\\text{O}\\text{H}^{+}\\).",
+    "31: \\(\\text{C}\\text{H}_{2}\\text{O}\\text{H}^{+}\\) = 12 + 2 + 16 + 1 = 31.",
+    "29: \\(\\text{C}_{2}\\text{H}_{5}^{+}\\) = 2 × 12 + 5 = 29."
+   ],
+   "answer": "46 is \\(\\text{C}_{2}\\text{H}_{5}\\text{O}\\text{H}^{+}\\), 31 is \\(\\text{C}\\text{H}_{2}\\text{O}\\text{H}^{+}\\) and 29 is \\(\\text{C}_{2}\\text{H}_{5}^{+}\\)."
+  },
+  "watch": "Forgetting the + charge on fragments, or assuming the tallest peak is the molecular ion."
+ },
+ "chem-6-2": {
+  "points": [
+   "IR spectroscopy shows which bonds are present. A bond absorbs when its vibration changes the dipole moment. The axis is wavenumber in \\(\\text{cm}^{-1}\\).",
+   "Key absorptions: alcohol O–H 3200–3550 (broad); acid O–H 2500–3000 (very broad); C=O 1670–1750 (strong); N–H 3300–3500.",
+   "Check for what is absent as well as present. No C=O means no aldehyde, ketone, acid or ester.",
+   "The fingerprint region, below about 1500 \\(\\text{cm}^{-1}\\), is unique to each compound."
+  ],
+  "example": {
+   "question": "A compound \\(\\text{C}_{3}\\text{H}_{6}\\text{O}_{2}\\) shows a strong peak near 1710 \\(\\text{cm}^{-1}\\) and a very broad band from 2500 to 3000 \\(\\text{cm}^{-1}\\). Is it propanoic acid or methyl ethanoate?",
+   "steps": [
+    "The 1710 peak shows a C=O bond. Both candidates have it.",
+    "The very broad band at 2500–3000 is an O–H in a carboxylic acid.",
+    "Methyl ethanoate has no O–H bond."
+   ],
+   "answer": "Propanoic acid"
+  },
+  "watch": "Using one peak alone. C=O at about 1700 appears in several families, so check for O–H and other bonds."
+ },
+ "chem-6-3": {
+  "points": [
+   "\\(^{1}\\text{H}\\) NMR: the number of signals equals the number of different hydrogen environments. Chemical shift (ppm) is measured from TMS at 0 ppm.",
+   "Peak area (integration) gives the ratio of hydrogens in each environment.",
+   "Splitting (high resolution): \\(n\\) hydrogens on neighbouring carbons give \\(n + 1\\) peaks (singlet, doublet, triplet, quartet).",
+   "\\(^{13}\\text{C}\\) NMR: one signal for each different carbon environment. Symmetry makes some carbons equivalent."
+  ],
+  "example": {
+   "question": "Predict the \\(^{1}\\text{H}\\) and \\(^{13}\\text{C}\\) NMR spectra for ethyl ethanoate, \\(\\text{C}\\text{H}_{3}\\text{C}\\text{O}\\text{O}\\text{C}\\text{H}_{2}\\text{C}\\text{H}_{3}\\).",
+   "steps": [
+    "\\(^{1}\\text{H}\\): three environments, so three signals: \\(\\text{C}\\text{H}_{3}\\text{C}\\text{O}\\) (3H, singlet, about 2 ppm), \\(\\text{O}\\text{C}\\text{H}_{2}\\) (2H, quartet, about 4 ppm), \\(\\text{C}\\text{H}_{3}\\) (3H, triplet, about 1 ppm).",
+    "Splitting: \\(\\text{O}\\text{C}\\text{H}_{2}\\) has 3 neighbouring H (quartet); \\(\\text{C}\\text{H}_{3}\\) has 2 (triplet); \\(\\text{C}\\text{H}_{3}\\text{C}\\text{O}\\) has none (singlet).",
+    "\\(^{13}\\text{C}\\): four different carbons (C=O, \\(\\text{C}\\text{H}_{3}\\text{C}\\text{O}\\), \\(\\text{O}\\text{C}\\text{H}_{2}\\), \\(\\text{C}\\text{H}_{3}\\)), so four signals."
+   ],
+   "answer": "3 signals in \\(^{1}\\text{H}\\) (3 : 2 : 3 area ratio) and 4 signals in \\(^{13}\\text{C}\\)."
+  },
+  "watch": "Counting hydrogens on the same carbon for splitting. Splitting depends only on hydrogens on adjacent carbons."
+ },
+ "chem-6-4": {
+  "points": [
+   "HPLC separates a mixture: a liquid mobile phase carries it through a column. Components held more strongly by the stationary phase have longer retention times.",
+   "Reversed-phase: non-polar stationary phase, polar mobile phase, so the most polar component elutes first.",
+   "Quantitative HPLC: peak area compared to a calibration curve of standards of known concentration.",
+   "Titration: \\(n = cV\\) (V in L). Use the average of concordant titres (within 0.10 mL) and the mole ratio from the balanced equation."
+  ],
+  "example": {
+   "question": "20.00 mL of NaOH solution is neutralised by 18.50 mL of 0.100 M HCl. Find \\(c(\\text{NaOH})\\).",
+   "steps": [
+    "\\(\\text{H}\\text{Cl} + \\text{Na}\\text{O}\\text{H}  \\to  \\text{Na}\\text{Cl} + \\text{H}_{2}\\text{O}\\): ratio 1 : 1.",
+    "\\(n(\\text{HCl}) = 0.100 \\times 0.01850 = 1.850 \\times 10^{-3}\\ \\text{mol}\\), so \\(n(\\text{NaOH}) = 1.850 \\times 10^{-3}\\ \\text{mol}\\).",
+    "\\(c = \\frac{1.850 \\times 10^{-3}}{0.02000} = 0.0925\\ \\text{M}\\)."
+   ],
+   "answer": "\\(c(\\text{NaOH}) = 0.0925\\ \\text{M}\\)"
+  },
+  "watch": "Leaving volumes in mL when using \\(n = cV\\). Convert to litres."
+ },
+ "chem-7-1": {
+  "points": [
+   "A 2-amino acid has an amino group (–\\(\\text{N}\\text{H}_{2}\\)) and carboxyl group (–COOH) on the same carbon, plus a side chain R that differs between amino acids.",
+   "Amino acids join by condensation, losing water to form a peptide (amide) bond. A chain of \\(n\\) residues has \\(n - 1\\) peptide bonds.",
+   "Protein structure: primary (sequence), secondary (α-helix and β-pleated sheet, hydrogen bonds in the backbone), tertiary (3D fold from R-group interactions).",
+   "Heat or pH changes break the weak interactions and denature the protein. Peptide bonds stay intact."
+  ],
+  "example": {
+   "question": "Glycine (75.0) and alanine (89.0 \\(\\text{g mol}^{-1}\\)) form a dipeptide. What is its molar mass?",
+   "steps": [
+    "One condensation reaction, so one water (18.0) is lost.",
+    "\\(M = 75.0 + 89.0 - 18.0\\)."
+   ],
+   "answer": "146.0 \\(\\text{g mol}^{-1}\\)"
+  },
+  "watch": "Subtracting 18.0 for every amino acid. Subtract 18.0 once per peptide bond, which is one fewer than the residues."
+ },
+ "chem-7-2": {
+  "points": [
+   "Carbohydrates: monosaccharides (glucose, fructose, galactose, \\(\\text{C}_{6}\\text{H}_{12}\\text{O}_{6}\\)) join by condensation into disaccharides: sucrose = glucose + fructose, lactose = glucose + galactose, maltose = glucose + glucose.",
+   "Polysaccharides (starch, glycogen, cellulose) are long chains of glucose units. Hydrolysis breaks them back down.",
+   "A triglyceride is glycerol joined to three fatty acids by ester bonds. Hydrolysis gives glycerol and three fatty acids.",
+   "Saturated fats pack tightly, so they are solid. Unsaturated oils have C=C kinks that weaken dispersion forces, so they are liquid at room temperature."
+  ],
+  "example": {
+   "question": "Explain why olive oil is liquid at room temperature but beef fat is solid.",
+   "steps": [
+    "Olive oil is rich in unsaturated fatty acids, which contain C=C double bonds.",
+    "The double bonds bend the chains, so molecules cannot pack closely, giving weaker dispersion forces.",
+    "Beef fat is mostly saturated, with straight chains packing tightly and stronger dispersion forces."
+   ],
+   "answer": "Weaker forces between oil molecules give a lower melting point, so olive oil is liquid."
+  },
+  "watch": "Mixing up the reactions. Condensation joins molecules and releases water; hydrolysis splits them using water."
+ },
+ "chem-7-3": {
+  "points": [
+   "Enzymes are protein catalysts that lower activation energy by providing an alternative pathway. They are specific to their substrate and are not consumed.",
+   "The substrate binds at the active site. Induced fit says the active site changes shape slightly when the substrate binds.",
+   "Enzymes have an optimum temperature and pH. Extremes break weak interactions, changing the active site shape (denaturation).",
+   "Vitamins: water-soluble (B group, C) are needed regularly. Fat-soluble (A, D, E, K) can be stored. Some vitamins act as coenzymes."
+  ],
+  "example": {
+   "question": "An enzyme works best at 37 °C. Explain what happens to the rate of reaction at 70 °C.",
+   "steps": [
+    "Higher temperature first increases collisions, but 70 °C is well above the optimum.",
+    "The weak bonds holding the tertiary structure break, so the active site changes shape.",
+    "The substrate no longer fits: the enzyme is denatured."
+   ],
+   "answer": "The rate drops sharply, and the damage is usually irreversible."
+  },
+  "watch": "Saying denaturation breaks peptide bonds. It breaks weak interactions in the tertiary structure; the amino acid sequence remains."
+ },
+ "chem-7-4": {
+  "points": [
+   "Food energy values: carbohydrate 16 \\(\\text{kJ g}^{-1}\\), protein 17 \\(\\text{kJ g}^{-1}\\), fat 37 \\(\\text{kJ g}^{-1}\\).",
+   "Total energy = sum of (mass × energy value) for each nutrient.",
+   "Digestion is hydrolysis: carbohydrates to glucose and other monosaccharides, proteins to amino acids, fats to glycerol and fatty acids.",
+   "Food energy can be measured in a calorimeter, using \\(q = mc\\Delta T\\) or calibration factor × \\(\\Delta T\\)."
+  ],
+  "example": {
+   "question": "100 g of a snack contains 10.0 g protein, 12.0 g fat and 50.0 g carbohydrate. Estimate the energy content.",
+   "steps": [
+    "Protein: \\(10.0 \\times 17 = 170\\ \\text{kJ}\\).",
+    "Fat: \\(12.0 \\times 37 = 444\\ \\text{kJ}\\).",
+    "Carbohydrate: \\(50.0 \\times 16 = 800\\ \\text{kJ}\\).",
+    "Total = 170 + 444 + 800 = 1414 kJ."
+   ],
+   "answer": "About 1.41 × 10³ kJ per 100 g"
+  },
+  "watch": "Using one energy value for the whole mass. Multiply each nutrient's mass by its own value."
+ },
+ "chem-8-1": {
+  "points": [
+   "Green chemistry aims to reduce hazards and waste. Principles include prevention of waste, atom economy, less hazardous synthesis, safer chemicals and solvents, and energy efficiency.",
+   "More principles: renewable feedstocks, reducing derivatives, catalysis, design for degradation, real-time pollution monitoring, and accident prevention.",
+   "Prevention is better than treating waste, because treatment costs energy and money and may create more waste.",
+   "Catalysts save energy and are not consumed, so they support green chemistry."
+  ],
+  "example": {
+   "question": "A factory replaces a stoichiometric reagent with a recyclable catalyst. Which green chemistry principles are supported?",
+   "steps": [
+    "Catalysis: the catalyst is regenerated and used in small amounts.",
+    "Prevention and atom economy: less reagent waste is produced.",
+    "Energy efficiency: a catalyst often allows lower temperatures."
+   ],
+   "answer": "Catalysis, waste prevention and energy efficiency."
+  },
+  "watch": "Saying catalysts increase yield at equilibrium. They speed up the reaction but do not change the equilibrium position."
+ },
+ "chem-8-2": {
+  "points": [
+   "Atom economy = \\(\\frac{M(\\text{desired product}) \\times \\text{coefficient}}{\\text{total } M \\text{ of all reactants}} \\times 100\\), using the balanced equation.",
+   "It measures how much of the reactant mass ends up in the desired product. A high value means less waste.",
+   "Addition reactions that make only one product have 100% atom economy.",
+   "Atom economy is different from percentage yield. It depends only on the equation, not on what you collect."
+  ],
+  "example": {
+   "question": "Iron is made by \\(\\text{Fe}_{2}\\text{O}_{3}\\text{(s)} + 3 \\text{C}\\text{O}\\text{(g)}  \\to  2 \\text{Fe}\\text{(s)} + 3 \\text{C}\\text{O}_{2}\\text{(g)}\\). Calculate the atom economy for iron (Fe = 55.8, O = 16.0, C = 12.0).",
+   "steps": [
+    "\\(M(\\text{Fe}_2\\text{O}_3) = 2 \\times 55.8 + 3 \\times 16.0 = 159.6\\); \\(M(\\text{CO}) = 28.0\\).",
+    "Reactants: \\(159.6 + 3 \\times 28.0 = 243.6\\).",
+    "Desired product: \\(2 \\times 55.8 = 111.6\\).",
+    "\\(\\frac{111.6}{243.6} \\times 100 = 45.8\\%\\)."
+   ],
+   "answer": "45.8%"
+  },
+  "watch": "Forgetting coefficients. Multiply each molar mass by its coefficient, and use reactants only in the denominator."
+ },
+ "chem-8-3": {
+  "points": [
+   "Percentage yield = \\(\\frac{\\text{actual mass}}{\\text{theoretical mass}} \\times 100\\).",
+   "Theoretical yield: convert the limiting reactant to moles, use the mole ratio, then convert the product to mass.",
+   "Yield is below 100% because of incomplete reactions, side reactions and losses during separation and purification.",
+   "Multi-step overall yield = product of the step yields. Fewer steps usually means less waste."
+  ],
+  "example": {
+   "question": "10.0 g of ethene is hydrated to ethanol: \\(\\text{C}_{2}\\text{H}_{4} + \\text{H}_{2}\\text{O}  \\to  \\text{C}_{2}\\text{H}_{5}\\text{O}\\text{H}\\). 12.6 g of ethanol is collected. Find the percentage yield (M of ethene 28.0, ethanol 46.0 \\(\\text{g mol}^{-1}\\)).",
+   "steps": [
+    "\\(n(\\text{C}_2\\text{H}_4) = \\frac{10.0}{28.0} = 0.357\\ \\text{mol}\\).",
+    "Ratio 1 : 1, so \\(n(\\text{C}_2\\text{H}_5\\text{OH}) = 0.357\\ \\text{mol}\\).",
+    "Theoretical mass = \\(0.357 \\times 46.0 = 16.4\\ \\text{g}\\).",
+    "Yield = \\(\\frac{12.6}{16.4} \\times 100 = 76.7\\%\\)."
+   ],
+   "answer": "76.7%"
+  },
+  "watch": "Ignoring the mole ratio or comparing actual mass with the starting reactant mass."
+ },
+ "chem-8-4": {
+  "points": [
+   "A linear economy is take, make, use, dispose. A circular economy keeps materials in use as long as possible and designs out waste.",
+   "Strategies: reduce, reuse, repair, recycle, recover, and redesign products. Renewable energy supports circular systems.",
+   "Chemistry examples: recovering and reusing solvents, finding uses for by-products (such as glycerol from biodiesel), and recycling PET, glass and batteries.",
+   "Victoria's container deposit scheme returns bottles and cans to be reprocessed."
+  ],
+  "example": {
+   "question": "Explain how recycling aluminium cans is an example of a circular economy.",
+   "steps": [
+    "Cans are collected and melted down rather than discarded as waste.",
+    "The recycled aluminium makes new cans, so the material stays in use.",
+    "Recycling needs far less energy than extracting aluminium from bauxite, so it also saves resources."
+   ],
+   "answer": "Aluminium stays in a closed loop, with less waste and lower energy use than the linear model."
+  },
+  "watch": "Equating recycling alone with a circular economy. Designing out waste, reuse and repair also matter."
+ },
+ "chem-challenge": {
+  "points": [
+   "Identify the type of question first: calorimetry, equilibrium, electrolysis, organic, analysis or green chemistry. Then pick the right formula or rule.",
+   "Show the unit conversions: minutes to seconds, mL to L, kJ to MJ, mass to moles.",
+   "For equilibrium, compare \\(Q\\) with \\(K\\). If \\(Q < K\\), the system moves forward; if \\(Q > K\\), it moves in reverse.",
+   "Check the answer is sensible, with correct significant figures and units."
+  ],
+  "example": {
+   "question": "For \\(\\text{H}_{2}\\text{(g)} + \\text{I}_{2}\\text{(g)}  \\rightleftharpoons  2 \\text{H}\\text{I}\\text{(g)}\\), \\(K = 50.0\\). A mixture has \\(\\text{H}_{2}\\) = \\(\\text{I}_{2}\\) = 0.020 M and \\(\\text{H}\\text{I}\\) = 0.060 M. Which way does it shift?",
+   "steps": [
+    "\\(Q = \\frac{[\\text{HI}]^2}{[\\text{H}_2][\\text{I}_2]} = \\frac{0.060^2}{0.020 \\times 0.020}\\).",
+    "\\(Q = \\frac{0.0036}{0.00040} = 9.0\\).",
+    "\\(Q < K\\), so there is too little product for equilibrium."
+   ],
+   "answer": "It shifts forward (right), making more HI, until \\(Q = 50.0\\)."
+  },
+  "watch": "Using K instead of Q for a mixture that is not at equilibrium. Compute Q from the given concentrations."
+ }
+}

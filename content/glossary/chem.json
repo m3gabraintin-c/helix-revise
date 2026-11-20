@@ -1,0 +1,670 @@
+{
+ "terms": [
+  {
+   "term": "activation energy",
+   "aliases": [
+    "activation energies"
+   ],
+   "def": "The smallest amount of energy that colliding particles need to have so that they can react."
+  },
+  {
+   "term": "active site",
+   "aliases": [
+    "active sites"
+   ],
+   "def": "The special part of an enzyme where the substrate attaches and the reaction happens."
+  },
+  {
+   "term": "addition reaction",
+   "aliases": [
+    "addition reactions"
+   ],
+   "def": "A reaction where a small molecule joins onto a C=C double bond, so the double bond becomes a single bond."
+  },
+  {
+   "term": "alcohol",
+   "aliases": [
+    "alcohols"
+   ],
+   "def": "An organic compound that has an –OH (hydroxyl) group bonded to a carbon atom."
+  },
+  {
+   "term": "alkane",
+   "aliases": [
+    "alkanes"
+   ],
+   "def": "A hydrocarbon with only single bonds between its carbon atoms."
+  },
+  {
+   "term": "alkene",
+   "aliases": [
+    "alkenes"
+   ],
+   "def": "A hydrocarbon that has at least one C=C double bond."
+  },
+  {
+   "term": "amine",
+   "aliases": [
+    "amines"
+   ],
+   "def": "An organic compound that contains a nitrogen atom bonded to carbon atoms, such as the –NH₂ group."
+  },
+  {
+   "term": "amino acid",
+   "aliases": [
+    "amino acids"
+   ],
+   "def": "A small molecule with an amine group and a carboxyl group. Many of them join together to make proteins."
+  },
+  {
+   "term": "amylase",
+   "aliases": [],
+   "def": "An enzyme that breaks down starch into smaller sugar molecules."
+  },
+  {
+   "term": "anode",
+   "aliases": [
+    "anodes"
+   ],
+   "def": "The electrode where oxidation happens. It is positive in an electrolytic cell and negative in a galvanic cell."
+  },
+  {
+   "term": "atom economy",
+   "aliases": [],
+   "def": "A measure of how much of the total mass of the reactants ends up in the wanted product, shown as a percentage."
+  },
+  {
+   "term": "balanced equation",
+   "aliases": [],
+   "def": "A chemical equation with the same number of each type of atom on both sides."
+  },
+  {
+   "term": "biodiesel",
+   "aliases": [],
+   "def": "A renewable fuel made by reacting plant oils or animal fats with an alcohol, forming esters."
+  },
+  {
+   "term": "bioethanol",
+   "aliases": [],
+   "def": "Ethanol made from plant material, such as by fermenting glucose, and used as a renewable fuel."
+  },
+  {
+   "term": "biogas",
+   "aliases": [],
+   "def": "A renewable fuel gas, mostly methane, made when bacteria break down organic waste without oxygen."
+  },
+  {
+   "term": "calibration factor",
+   "aliases": [],
+   "def": "A number that links a temperature rise in a calorimeter to the energy added, found using a known amount of electrical energy."
+  },
+  {
+   "term": "calorimeter",
+   "aliases": [
+    "calorimeters"
+   ],
+   "def": "A device used to measure the energy released or absorbed in a reaction by measuring a temperature change."
+  },
+  {
+   "term": "carboxylic acid",
+   "aliases": [
+    "carboxylic acids"
+   ],
+   "def": "An organic compound that contains the carboxyl group, –COOH."
+  },
+  {
+   "term": "catalyst",
+   "aliases": [
+    "catalysts"
+   ],
+   "def": "A substance that makes a reaction faster by giving it a lower-energy pathway, and is not used up."
+  },
+  {
+   "term": "cathode",
+   "aliases": [],
+   "def": "The electrode where reduction happens. It is negative in an electrolytic cell and positive in a galvanic cell."
+  },
+  {
+   "term": "cellulose",
+   "aliases": [],
+   "def": "A polymer of glucose that makes up plant cell walls. Humans cannot digest it."
+  },
+  {
+   "term": "chiral",
+   "aliases": [],
+   "def": "Describes a molecule that cannot be placed on top of its mirror image, for example one with a carbon bonded to four different groups."
+  },
+  {
+   "term": "chromatography",
+   "aliases": [],
+   "def": "A method of separating the parts of a mixture because they move at different speeds through a stationary phase."
+  },
+  {
+   "term": "collision theory",
+   "aliases": [],
+   "def": "The idea that particles react only if they collide with enough energy and with the correct orientation."
+  },
+  {
+   "term": "combustion",
+   "aliases": [],
+   "def": "A reaction where a substance burns in oxygen and releases energy."
+  },
+  {
+   "term": "concentration",
+   "aliases": [
+    "concentrations"
+   ],
+   "def": "The amount of a substance dissolved in a given volume of solution, often in mol L⁻¹."
+  },
+  {
+   "term": "condensation reaction",
+   "aliases": [
+    "condensation"
+   ],
+   "def": "A reaction where two molecules join and a small molecule, usually water, is released."
+  },
+  {
+   "term": "covalent bond",
+   "aliases": [
+    "covalent bonds"
+   ],
+   "def": "A bond formed when two atoms share a pair of electrons."
+  },
+  {
+   "term": "dehydration",
+   "aliases": [],
+   "def": "A reaction in which water is removed from a molecule."
+  },
+  {
+   "term": "dipole",
+   "aliases": [],
+   "def": "A separation of partial positive and partial negative charge across a bond or molecule."
+  },
+  {
+   "term": "dispersion forces",
+   "aliases": [],
+   "def": "Weak attractions between all molecules, caused by short-lived shifts in electron positions. They get stronger in larger molecules."
+  },
+  {
+   "term": "electrode",
+   "aliases": [
+    "electrodes"
+   ],
+   "def": "A solid conductor, such as a metal or graphite rod, where electrons enter or leave a cell."
+  },
+  {
+   "term": "electrolysis",
+   "aliases": [],
+   "def": "The use of electrical energy to force a non-spontaneous chemical reaction to happen."
+  },
+  {
+   "term": "electrolyte",
+   "aliases": [
+    "electrolytes"
+   ],
+   "def": "A liquid or solution containing ions that can move, so it can conduct electricity."
+  },
+  {
+   "term": "electrolytic cell",
+   "aliases": [
+    "electrolytic cells"
+   ],
+   "def": "A cell that uses electrical energy from an outside power supply to cause a non-spontaneous reaction."
+  },
+  {
+   "term": "endothermic",
+   "aliases": [],
+   "def": "Describes a reaction that takes in energy from the surroundings. Its ΔH is positive."
+  },
+  {
+   "term": "enthalpy change",
+   "aliases": [
+    "enthalpy",
+    "ΔH"
+   ],
+   "def": "The heat energy change of a reaction at constant pressure. It is negative if energy is released."
+  },
+  {
+   "term": "enzyme",
+   "aliases": [
+    "enzymes"
+   ],
+   "def": "A protein that acts as a biological catalyst, making reactions in living things faster."
+  },
+  {
+   "term": "equilibrium",
+   "aliases": [],
+   "def": "The state of a reversible reaction in a closed system where the forward and reverse rates are equal and concentrations stay constant."
+  },
+  {
+   "term": "equilibrium constant",
+   "aliases": [],
+   "def": "A number that compares product concentrations with reactant concentrations at equilibrium. It changes only with temperature."
+  },
+  {
+   "term": "equilibrium position",
+   "aliases": [],
+   "def": "How far a reversible reaction has gone, showing whether the mixture contains more reactants or more products."
+  },
+  {
+   "term": "ester",
+   "aliases": [
+    "esters"
+   ],
+   "def": "An organic compound with the –COO– group, made from a carboxylic acid and an alcohol."
+  },
+  {
+   "term": "esterification",
+   "aliases": [],
+   "def": "A reaction between a carboxylic acid and an alcohol that forms an ester and water."
+  },
+  {
+   "term": "exothermic",
+   "aliases": [],
+   "def": "Describes a reaction that releases energy to the surroundings. Its ΔH is negative."
+  },
+  {
+   "term": "Faraday constant",
+   "aliases": [],
+   "def": "The electric charge carried by one mole of electrons, about 96 500 coulombs per mole."
+  },
+  {
+   "term": "fatty acid",
+   "aliases": [
+    "fatty acids"
+   ],
+   "def": "A carboxylic acid with a long hydrocarbon chain. It is a building block of fats and oils."
+  },
+  {
+   "term": "fermentation",
+   "aliases": [],
+   "def": "A process where microbes such as yeast break down sugars without oxygen and make ethanol and carbon dioxide."
+  },
+  {
+   "term": "fossil fuel",
+   "aliases": [
+    "fossil fuels"
+   ],
+   "def": "A non-renewable fuel, such as coal, oil or natural gas, formed over millions of years from ancient living things."
+  },
+  {
+   "term": "fuel cell",
+   "aliases": [
+    "fuel cells"
+   ],
+   "def": "A cell that changes the chemical energy of a fuel directly into electrical energy while fuel and oxygen are supplied."
+  },
+  {
+   "term": "functional group",
+   "aliases": [
+    "functional groups"
+   ],
+   "def": "A specific group of atoms in a molecule that decides how the compound behaves in reactions."
+  },
+  {
+   "term": "galvanic cell",
+   "aliases": [
+    "galvanic cells"
+   ],
+   "def": "A cell in which a spontaneous redox reaction produces electrical energy."
+  },
+  {
+   "term": "glucose",
+   "aliases": [],
+   "def": "A simple sugar, C₆H₁₂O₆, that cells use as a source of energy."
+  },
+  {
+   "term": "glycerol",
+   "aliases": [],
+   "def": "An alcohol with three –OH groups. It is part of the structure of triglycerides."
+  },
+  {
+   "term": "glycosidic link",
+   "aliases": [
+    "glycosidic bond",
+    "glycosidic links"
+   ],
+   "def": "The bond that joins two sugar units together in a carbohydrate."
+  },
+  {
+   "term": "green chemistry",
+   "aliases": [],
+   "def": "Designing chemical products and processes so that they use less energy, make less waste and use fewer hazardous substances."
+  },
+  {
+   "term": "Haber process",
+   "aliases": [],
+   "def": "The industrial process that makes ammonia from nitrogen and hydrogen."
+  },
+  {
+   "term": "half-equation",
+   "aliases": [
+    "half-equations"
+   ],
+   "def": "An equation that shows only the oxidation or only the reduction part of a redox reaction, with electrons."
+  },
+  {
+   "term": "heat of combustion",
+   "aliases": [
+    "molar heat of combustion",
+    "enthalpy of combustion"
+   ],
+   "def": "The energy released when a substance burns completely in oxygen, usually given per mole or per gram."
+  },
+  {
+   "term": "heterogeneous catalyst",
+   "aliases": [
+    "heterogeneous"
+   ],
+   "def": "A catalyst that is in a different phase from the reactants, such as a solid catalyst for gases."
+  },
+  {
+   "term": "homogeneous catalyst",
+   "aliases": [],
+   "def": "A catalyst that is in the same phase as the reactants."
+  },
+  {
+   "term": "hydrocarbon",
+   "aliases": [
+    "hydrocarbons"
+   ],
+   "def": "A compound made only of carbon and hydrogen atoms."
+  },
+  {
+   "term": "hydrogen bond",
+   "aliases": [
+    "hydrogen bonds",
+    "hydrogen bonding"
+   ],
+   "def": "A strong attraction between a hydrogen atom attached to O, N or F and a lone pair on O, N or F in another molecule."
+  },
+  {
+   "term": "hydrolysis",
+   "aliases": [
+    "hydrolyse",
+    "hydrolysed"
+   ],
+   "def": "A reaction where a molecule is broken down by reacting with water."
+  },
+  {
+   "term": "incomplete combustion",
+   "aliases": [],
+   "def": "Burning in a limited supply of oxygen, which makes carbon monoxide or soot and releases less energy."
+  },
+  {
+   "term": "infrared spectroscopy",
+   "aliases": [
+    "IR spectroscopy",
+    "infrared spectrum",
+    "IR spectrum"
+   ],
+   "def": "A method that uses the absorption of infrared light to show which bonds and functional groups are in a molecule."
+  },
+  {
+   "term": "isomer",
+   "aliases": [
+    "isomers",
+    "structural isomers"
+   ],
+   "def": "Compounds with the same molecular formula but different arrangements of atoms."
+  },
+  {
+   "term": "IUPAC name",
+   "aliases": [
+    "IUPAC"
+   ],
+   "def": "The standard systematic name of a compound, set by the International Union of Pure and Applied Chemistry."
+  },
+  {
+   "term": "Le Chatelier's principle",
+   "aliases": [
+    "Le Chatelier"
+   ],
+   "def": "If a system at equilibrium is disturbed, it shifts to partly oppose the change."
+  },
+  {
+   "term": "limiting reactant",
+   "aliases": [],
+   "def": "The reactant that is completely used up first, which limits the amount of product that can form."
+  },
+  {
+   "term": "mass spectrum",
+   "aliases": [
+    "mass spectrometry"
+   ],
+   "def": "A graph from a technique that separates ions by mass-to-charge ratio. It shows the molecular mass and fragments."
+  },
+  {
+   "term": "Maxwell–Boltzmann distribution",
+   "aliases": [
+    "Boltzmann distribution"
+   ],
+   "def": "A graph showing how the energies of the particles in a sample are spread out."
+  },
+  {
+   "term": "mobile phase",
+   "aliases": [],
+   "def": "The liquid or gas that moves through the stationary phase in chromatography and carries the sample."
+  },
+  {
+   "term": "molar mass",
+   "aliases": [],
+   "def": "The mass of one mole of a substance, in grams per mole."
+  },
+  {
+   "term": "mole",
+   "aliases": [
+    "moles"
+   ],
+   "def": "The amount of substance that contains 6.02 × 10²³ particles."
+  },
+  {
+   "term": "molecular ion",
+   "aliases": [
+    "molecular ion peak"
+   ],
+   "def": "The ion formed when a molecule loses one electron in mass spectrometry. Its m/z gives the molecular mass."
+  },
+  {
+   "term": "NMR spectroscopy",
+   "aliases": [
+    "NMR spectrum",
+    "¹H NMR",
+    "NMR"
+   ],
+   "def": "A method that uses the behaviour of hydrogen nuclei in a magnetic field to show how atoms are arranged in a molecule."
+  },
+  {
+   "term": "non-polar",
+   "aliases": [],
+   "def": "Describes a molecule or bond with no significant uneven sharing of electrons, and so no partial charges."
+  },
+  {
+   "term": "non-renewable",
+   "aliases": [],
+   "def": "Describes a resource that is used up much faster than it can be replaced."
+  },
+  {
+   "term": "non-spontaneous",
+   "aliases": [],
+   "def": "Describes a reaction that does not happen by itself and needs energy to be supplied."
+  },
+  {
+   "term": "oxidant",
+   "aliases": [
+    "oxidising agent",
+    "oxidising"
+   ],
+   "def": "A substance that takes electrons from another species, so it is reduced."
+  },
+  {
+   "term": "oxidation",
+   "aliases": [],
+   "def": "A reaction in which a species loses electrons."
+  },
+  {
+   "term": "peptide bond",
+   "aliases": [
+    "peptide bonds"
+   ],
+   "def": "The bond that joins two amino acids together, formed between a carboxyl group and an amine group."
+  },
+  {
+   "term": "percentage yield",
+   "aliases": [],
+   "def": "The actual mass of product obtained divided by the theoretical mass, then multiplied by 100%."
+  },
+  {
+   "term": "phase",
+   "aliases": [],
+   "def": "A physical form of matter, such as solid, liquid or gas, with uniform properties."
+  },
+  {
+   "term": "polar",
+   "aliases": [],
+   "def": "Describes a molecule or bond with uneven sharing of electrons, so it has a partly positive end and a partly negative end."
+  },
+  {
+   "term": "polymer",
+   "aliases": [
+    "polymers"
+   ],
+   "def": "A very large molecule made of many small repeating units joined together."
+  },
+  {
+   "term": "primary cell",
+   "aliases": [],
+   "def": "A galvanic cell that cannot be recharged because its reactions cannot be reversed efficiently."
+  },
+  {
+   "term": "product",
+   "aliases": [
+    "products"
+   ],
+   "def": "A substance that is made in a chemical reaction."
+  },
+  {
+   "term": "protein",
+   "aliases": [
+    "proteins"
+   ],
+   "def": "A large molecule made of amino acids joined by peptide bonds. It is needed for structure and many functions in living things."
+  },
+  {
+   "term": "rate of reaction",
+   "aliases": [
+    "reaction rate"
+   ],
+   "def": "How fast reactants are used up or products are formed, per unit of time."
+  },
+  {
+   "term": "reactant",
+   "aliases": [
+    "reactants"
+   ],
+   "def": "A substance that is used up in a chemical reaction."
+  },
+  {
+   "term": "redox reaction",
+   "aliases": [
+    "redox"
+   ],
+   "def": "A reaction in which electrons are transferred, so one species is oxidised and another is reduced."
+  },
+  {
+   "term": "reductant",
+   "aliases": [
+    "reducing agent",
+    "reducing"
+   ],
+   "def": "A substance that gives electrons to another species, so it is oxidised."
+  },
+  {
+   "term": "reduction",
+   "aliases": [],
+   "def": "A reaction in which a species gains electrons."
+  },
+  {
+   "term": "reflux",
+   "aliases": [],
+   "def": "Heating a mixture with a condenser attached so that vapours turn back to liquid and return to the flask."
+  },
+  {
+   "term": "renewable",
+   "aliases": [],
+   "def": "Describes a resource that can be replaced at about the same rate as it is used."
+  },
+  {
+   "term": "retention time",
+   "aliases": [],
+   "def": "In chromatography, the time a substance takes to pass through the column."
+  },
+  {
+   "term": "salt bridge",
+   "aliases": [],
+   "def": "A link between two half-cells that lets ions move so the solutions stay electrically neutral."
+  },
+  {
+   "term": "secondary cell",
+   "aliases": [
+    "secondary cells",
+    "rechargeable"
+   ],
+   "def": "A galvanic cell that can be recharged because its reactions can be reversed by applying electricity."
+  },
+  {
+   "term": "specific heat capacity",
+   "aliases": [],
+   "def": "The energy needed to raise the temperature of 1 g of a substance by 1 °C."
+  },
+  {
+   "term": "starch",
+   "aliases": [],
+   "def": "A carbohydrate polymer of glucose that plants use to store energy."
+  },
+  {
+   "term": "stationary phase",
+   "aliases": [],
+   "def": "The solid or liquid that stays fixed in chromatography while the sample passes over it."
+  },
+  {
+   "term": "substrate",
+   "aliases": [
+    "substrates"
+   ],
+   "def": "The substance that an enzyme acts on."
+  },
+  {
+   "term": "surface area",
+   "aliases": [],
+   "def": "The total area of a solid that is exposed and can touch other reactants."
+  },
+  {
+   "term": "theoretical yield",
+   "aliases": [],
+   "def": "The maximum mass of product that could form from the reactants if the reaction went to completion."
+  },
+  {
+   "term": "titration",
+   "aliases": [],
+   "def": "A method that finds the concentration of a solution by reacting it with a known volume of another solution of known concentration."
+  },
+  {
+   "term": "titre",
+   "aliases": [],
+   "def": "The volume of solution added from the burette to reach the end point in a titration."
+  },
+  {
+   "term": "triglyceride",
+   "aliases": [
+    "triglycerides"
+   ],
+   "def": "A molecule made from one glycerol and three fatty acids, which is the main part of fats and oils."
+  },
+  {
+   "term": "voltage",
+   "aliases": [],
+   "def": "The electrical energy per unit charge that pushes electrons through a circuit, measured in volts."
+  }
+ ]
+}

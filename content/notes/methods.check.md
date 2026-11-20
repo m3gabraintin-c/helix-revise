@@ -1,0 +1,35 @@
+# Verification of worked examples (methods.json)
+Python (math, fractions; sympy/numpy not installed), numerical checks unless stated.
+- methods-1-1: P(0)=4, roots and sign change/touch behaviour checked by sampling.
+- methods-1-2: expansion of (x+1)(x-2)(x-3) matches x^3-4x^2+x+6 at 11 integer points; P(-1)=0.
+- methods-1-3: point (3,9) mapped through each step lands on the rule at (11,-8).
+- methods-1-4: inverse mapping checked at sample points.
+- methods-2-1: 2e^x-3 at x=ln(3/2) equals 0; f(0)=-1; asymptote by inspection.
+- methods-2-2: log2(4)+log2(2)=3; x=-2 rejected by domain.
+- methods-2-3: g(0)=-1, g(pi/3)=3 (max), period 2pi/3 checked numerically.
+- methods-2-4: all four x satisfy sin(2x)=1/2; sign-change count on [0,2pi] is exactly 4.
+- methods-3-1: equivalence g(x)>=-1 <=> x^2-4>=0 tested at sample points.
+- methods-3-2: f(f^-1(x))=x checked at x=3,4,7,12.
+- methods-3-3: g(x)=ln(2-x)=0 at x=1 checked; domains by inspection.
+- methods-3-4: det 36-k^2=0; k=6 proportional (infinite), k=-6 inconsistent (none), checked.
+- methods-4-1: difference quotient vs 3x^2 numerically.
+- methods-4-2: central difference matches (3x-1)^3(15x-1).
+- methods-4-3: central difference matches e^(2x)(2cos3x-3sin3x).
+- methods-4-4: y(2)=4, y'(2)=10 numerically.
+- methods-5-1: f(1)=4, f(3)=0, f'(1)=0, neighbouring values confirm max/min.
+- methods-5-2: brute-force scan max A = 450 at x=15.
+- methods-5-3: sign of numerical derivative at x=-1,1,3.
+- methods-5-4: exact Fractions give x1=8/3, x2=127/48; close to sqrt7.
+- methods-6-1: derivative of the antiderivative matches the integrand.
+- methods-6-2: Simpson's rule gives sqrt3.
+- methods-6-3: Simpson's rule gives 4.5.
+- methods-6-4: Fractions give 7/6 > ln3 (overestimate, convex).
+- methods-7-1: 4+3+2+1=10.
+- methods-7-2: E=2.1, Var=0.49 computed.
+- methods-7-3: binomial terms computed with math.comb; 0.66304.
+- methods-7-4: 0.6+0.5-0.8=0.3, 0.3/0.5=0.6, 0.6*0.5=0.3.
+- methods-8-1: Simpson's rule gives total 1 and Pr(X>2)=0.25.
+- methods-8-2: Phi via erf gives 0.8186.
+- methods-8-3: sd=0.03240, z=1.543, tail=0.0614 via erf.
+- methods-8-4: M=0.05294, interval (0.187,0.293).
+- methods-challenge: tangent condition -ln a=-1 gives a=e (by hand; ln e=1 checked).

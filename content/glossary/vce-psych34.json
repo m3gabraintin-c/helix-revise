@@ -1,0 +1,628 @@
+{
+ "terms": [
+  {
+   "term": "acquisition",
+   "aliases": [],
+   "def": "In classical conditioning, the stage where a neutral stimulus is repeatedly paired with an unconditioned stimulus until it triggers a response."
+  },
+  {
+   "term": "adrenaline",
+   "aliases": [],
+   "def": "A hormone released in the fight-flight-freeze response that increases heart rate and gets the body ready for action."
+  },
+  {
+   "term": "alarm reaction",
+   "aliases": [
+    "alarm stage"
+   ],
+   "def": "The first stage of the General Adaptation Syndrome, when the body detects a stressor and the fight-flight-freeze response starts."
+  },
+  {
+   "term": "Alzheimer's disease",
+   "aliases": [
+    "Alzheimer"
+   ],
+   "def": "A progressive brain disease where neurons are lost, causing worsening memory loss and other thinking problems."
+  },
+  {
+   "term": "amygdala",
+   "aliases": [],
+   "def": "A small brain structure that processes emotions, especially fear, and helps form emotional memories."
+  },
+  {
+   "term": "aphantasia",
+   "aliases": [],
+   "def": "The inability to create mental images in the mind."
+  },
+  {
+   "term": "appraisal",
+   "aliases": [
+    "appraisals"
+   ],
+   "def": "In the Transactional Model, the way a person judges a situation, first for threat and then for ability to cope."
+  },
+  {
+   "term": "attention",
+   "aliases": [],
+   "def": "Focusing on certain information while ignoring other information. It decides what moves from sensory memory to short-term memory."
+  },
+  {
+   "term": "autobiographical memory",
+   "aliases": [
+    "autobiographical memories"
+   ],
+   "def": "Memory of events and facts from your own life."
+  },
+  {
+   "term": "autonomic nervous system",
+   "aliases": [
+    "autonomic"
+   ],
+   "def": "The part of the peripheral nervous system that controls involuntary body functions, such as heart rate and digestion."
+  },
+  {
+   "term": "avoidance",
+   "aliases": [],
+   "def": "Staying away from a feared object or situation. It stops a person learning that the fear is not needed."
+  },
+  {
+   "term": "biological factors",
+   "aliases": [],
+   "def": "Body-based influences on mental health, such as genes, brain chemicals and physical health."
+  },
+  {
+   "term": "central nervous system",
+   "aliases": [
+    "CNS"
+   ],
+   "def": "The brain and spinal cord."
+  },
+  {
+   "term": "cerebellum",
+   "aliases": [],
+   "def": "A brain structure at the back of the head that controls balance and coordinates movement. It stores procedural memories."
+  },
+  {
+   "term": "circadian rhythm",
+   "aliases": [
+    "circadian rhythms",
+    "circadian"
+   ],
+   "def": "A body cycle of about 24 hours, such as the sleep-wake cycle, that is controlled by an internal clock."
+  },
+  {
+   "term": "classical conditioning",
+   "aliases": [
+    "classically conditioned"
+   ],
+   "def": "Learning that happens when a neutral stimulus is paired with an unconditioned stimulus, so it comes to trigger a response by itself."
+  },
+  {
+   "term": "cognitive",
+   "aliases": [],
+   "def": "Relating to mental processes such as thinking, remembering, paying attention and problem-solving."
+  },
+  {
+   "term": "conditioned response",
+   "aliases": [
+    "CR"
+   ],
+   "def": "The learned response to a conditioned stimulus in classical conditioning."
+  },
+  {
+   "term": "conditioned stimulus",
+   "aliases": [
+    "CS"
+   ],
+   "def": "A stimulus that was once neutral but now triggers a response because it was paired with a stimulus that triggers the response naturally."
+  },
+  {
+   "term": "consolidation",
+   "aliases": [],
+   "def": "The process of turning new short-term memories into stable long-term memories."
+  },
+  {
+   "term": "control group",
+   "aliases": [],
+   "def": "The group in an experiment that does not get the independent variable, so it can be compared with the experimental group."
+  },
+  {
+   "term": "coping flexibility",
+   "aliases": [],
+   "def": "The ability to change coping strategies to suit the situation, and to stop strategies that are not working."
+  },
+  {
+   "term": "coping strategy",
+   "aliases": [
+    "coping strategies"
+   ],
+   "def": "An action or thought a person uses to manage the demands of a stressor."
+  },
+  {
+   "term": "cortisol",
+   "aliases": [],
+   "def": "A stress hormone released over a longer time in the stress response. It raises blood sugar and gives the body energy."
+  },
+  {
+   "term": "delayed sleep phase",
+   "aliases": [
+    "delayed sleep phase disorder",
+    "DSPD"
+   ],
+   "def": "A circadian rhythm sleep disorder where a person falls asleep and wakes much later than normal."
+  },
+  {
+   "term": "dependent variable",
+   "aliases": [
+    "DV"
+   ],
+   "def": "The variable that is measured in an experiment to see if it was affected by the change the researcher made."
+  },
+  {
+   "term": "distress",
+   "aliases": [],
+   "def": "Stress that is negative and harmful, and that overwhelms a person's ability to cope."
+  },
+  {
+   "term": "episodic memory",
+   "aliases": [
+    "episodic memories"
+   ],
+   "def": "Explicit memory for personal events and experiences, including when and where they happened."
+  },
+  {
+   "term": "exhaustion",
+   "aliases": [],
+   "def": "The last stage of the General Adaptation Syndrome, when long-term stress uses up the body's resources and the person is at higher risk of illness."
+  },
+  {
+   "term": "explicit memory",
+   "aliases": [
+    "explicit memories"
+   ],
+   "def": "Long-term memory that you can consciously recall, including episodic and semantic memory."
+  },
+  {
+   "term": "extinction",
+   "aliases": [],
+   "def": "In classical conditioning, the fading of a conditioned response when the conditioned stimulus is repeatedly presented without the unconditioned stimulus."
+  },
+  {
+   "term": "extraneous variable",
+   "aliases": [
+    "extraneous variables"
+   ],
+   "def": "A variable other than the independent variable that could affect the results, but is not the one being tested."
+  },
+  {
+   "term": "fight-flight-freeze",
+   "aliases": [
+    "fight-flight-freeze response"
+   ],
+   "def": "The body's automatic response to a threat, preparing a person to fight, run away or stay still."
+  },
+  {
+   "term": "flooding",
+   "aliases": [],
+   "def": "A treatment for phobias where a person is exposed to the feared object at full strength until the fear reduces."
+  },
+  {
+   "term": "GABA",
+   "aliases": [],
+   "def": "The main inhibitory neurotransmitter in the brain. It reduces the chance that the next neuron will fire."
+  },
+  {
+   "term": "General Adaptation Syndrome",
+   "aliases": [
+    "GAS"
+   ],
+   "def": "Selye's model of the body's response to long-term stress, with three stages: alarm reaction, resistance and exhaustion."
+  },
+  {
+   "term": "glutamate",
+   "aliases": [],
+   "def": "The main excitatory neurotransmitter in the brain. It makes the next neuron more likely to fire."
+  },
+  {
+   "term": "gut microbiota",
+   "aliases": [
+    "microbiota"
+   ],
+   "def": "The community of bacteria and other tiny organisms that live in the gut."
+  },
+  {
+   "term": "gut-brain axis",
+   "aliases": [],
+   "def": "The two-way communication between the gut and the brain, using nerves, hormones and chemical messengers."
+  },
+  {
+   "term": "hippocampus",
+   "aliases": [],
+   "def": "A brain structure that is important for forming new explicit long-term memories."
+  },
+  {
+   "term": "hypothesis",
+   "aliases": [],
+   "def": "A testable prediction about the relationship between the variables in a study."
+  },
+  {
+   "term": "implicit memory",
+   "aliases": [
+    "implicit memories"
+   ],
+   "def": "Long-term memory that affects behaviour without conscious effort, such as skills and conditioned responses."
+  },
+  {
+   "term": "independent variable",
+   "aliases": [
+    "IV"
+   ],
+   "def": "The variable that the researcher changes in an experiment to see its effect."
+  },
+  {
+   "term": "inhibitory",
+   "aliases": [
+    "inhibitory neurotransmitter"
+   ],
+   "def": "Describes a neurotransmitter that makes the next neuron less likely to fire."
+  },
+  {
+   "term": "interneuron",
+   "aliases": [
+    "interneurons"
+   ],
+   "def": "A neuron in the central nervous system that connects sensory neurons to motor neurons."
+  },
+  {
+   "term": "long-term memory",
+   "aliases": [
+    "long-term"
+   ],
+   "def": "The memory store with unlimited capacity that holds information for a long time, possibly for life."
+  },
+  {
+   "term": "long-term potentiation",
+   "aliases": [
+    "LTP"
+   ],
+   "def": "A lasting increase in the strength of a synapse after repeated activity, thought to be the basis of learning and memory."
+  },
+  {
+   "term": "melatonin",
+   "aliases": [],
+   "def": "A hormone made by the pineal gland that makes you sleepy. More is released in darkness."
+  },
+  {
+   "term": "mental disorder",
+   "aliases": [
+    "mental disorders"
+   ],
+   "def": "A condition with significant disturbance in thinking, emotion or behaviour that causes distress or problems in daily life."
+  },
+  {
+   "term": "mental health",
+   "aliases": [],
+   "def": "A state of wellbeing where a person can cope with normal stress, work well and take part in their community."
+  },
+  {
+   "term": "mnemonic",
+   "aliases": [
+    "mnemonics"
+   ],
+   "def": "A memory aid, such as a rhyme or acronym, that helps you remember information."
+  },
+  {
+   "term": "motor neuron",
+   "aliases": [
+    "motor neurons"
+   ],
+   "def": "A neuron that carries messages from the central nervous system to muscles or glands."
+  },
+  {
+   "term": "negative reinforcement",
+   "aliases": [],
+   "def": "Removing an unpleasant stimulus after a behaviour, which makes the behaviour more likely to happen again."
+  },
+  {
+   "term": "neuron",
+   "aliases": [
+    "neurons"
+   ],
+   "def": "A nerve cell that sends information as electrical and chemical signals."
+  },
+  {
+   "term": "neurotransmitter",
+   "aliases": [
+    "neurotransmitters"
+   ],
+   "def": "A chemical messenger released by a neuron that crosses the synapse to affect the next neuron."
+  },
+  {
+   "term": "neutral stimulus",
+   "aliases": [
+    "NS"
+   ],
+   "def": "A stimulus that does not trigger the response of interest before conditioning."
+  },
+  {
+   "term": "NREM sleep",
+   "aliases": [
+    "NREM"
+   ],
+   "def": "The sleep stages without rapid eye movement. They include light sleep (stages 1 and 2) and deep sleep (stage 3)."
+  },
+  {
+   "term": "observational learning",
+   "aliases": [],
+   "def": "Learning by watching the behaviour of a model and its consequences, then copying it later."
+  },
+  {
+   "term": "operant conditioning",
+   "aliases": [],
+   "def": "Learning where the likelihood of a behaviour changes because of its consequences, such as reinforcement or punishment."
+  },
+  {
+   "term": "parasympathetic nervous system",
+   "aliases": [
+    "parasympathetic"
+   ],
+   "def": "The part of the autonomic nervous system that calms the body and restores normal function after a stressor."
+  },
+  {
+   "term": "participant",
+   "aliases": [
+    "participants"
+   ],
+   "def": "A person who takes part in a research study."
+  },
+  {
+   "term": "peripheral nervous system",
+   "aliases": [
+    "PNS"
+   ],
+   "def": "All the nerves outside the brain and spinal cord, connecting the central nervous system to the rest of the body."
+  },
+  {
+   "term": "phobia",
+   "aliases": [
+    "phobias",
+    "specific phobia"
+   ],
+   "def": "An intense, irrational fear of a specific object or situation that causes distress and avoidance."
+  },
+  {
+   "term": "pineal gland",
+   "aliases": [],
+   "def": "A small gland in the brain that releases melatonin."
+  },
+  {
+   "term": "placebo",
+   "aliases": [],
+   "def": "A fake treatment with no active ingredient, used to check whether results are due to the real treatment."
+  },
+  {
+   "term": "population",
+   "aliases": [],
+   "def": "The whole group of people that a researcher wants to study."
+  },
+  {
+   "term": "positive reinforcement",
+   "aliases": [],
+   "def": "Adding something pleasant after a behaviour, which makes the behaviour more likely to happen again."
+  },
+  {
+   "term": "postsynaptic neuron",
+   "aliases": [
+    "postsynaptic"
+   ],
+   "def": "The neuron that receives the neurotransmitter across the synapse."
+  },
+  {
+   "term": "presynaptic neuron",
+   "aliases": [
+    "presynaptic"
+   ],
+   "def": "The neuron that sends the neurotransmitter into the synapse."
+  },
+  {
+   "term": "primary appraisal",
+   "aliases": [],
+   "def": "In the Transactional Model, a person's first judgment of whether a situation is irrelevant, positive or a threat (stressful)."
+  },
+  {
+   "term": "procedural memory",
+   "aliases": [
+    "procedural memories"
+   ],
+   "def": "Implicit memory for how to do skills and actions, such as riding a bike."
+  },
+  {
+   "term": "punishment",
+   "aliases": [],
+   "def": "A consequence that makes a behaviour less likely to happen again."
+  },
+  {
+   "term": "random allocation",
+   "aliases": [],
+   "def": "Putting participants into groups by chance, so each person has an equal chance of being in each group."
+  },
+  {
+   "term": "recall",
+   "aliases": [],
+   "def": "Retrieving information from memory without being given cues, such as in a short-answer test."
+  },
+  {
+   "term": "reflex",
+   "aliases": [
+    "spinal reflex"
+   ],
+   "def": "A fast, automatic response to a stimulus that is processed in the spinal cord without needing the brain first."
+  },
+  {
+   "term": "rehearsal",
+   "aliases": [],
+   "def": "Repeating information over and over, which helps keep it in short-term memory and move it to long-term memory."
+  },
+  {
+   "term": "reinforcement",
+   "aliases": [],
+   "def": "A consequence that makes a behaviour more likely to happen again."
+  },
+  {
+   "term": "REM sleep",
+   "aliases": [
+    "REM"
+   ],
+   "def": "A sleep stage with rapid eye movements, vivid dreams and an active brain, and a very relaxed body."
+  },
+  {
+   "term": "resistance",
+   "aliases": [],
+   "def": "The second stage of the General Adaptation Syndrome, when the body tries to cope with a continuing stressor."
+  },
+  {
+   "term": "retrieval",
+   "aliases": [],
+   "def": "Getting stored information out of memory so it can be used."
+  },
+  {
+   "term": "secondary appraisal",
+   "aliases": [],
+   "def": "In the Transactional Model, a person's judgment of whether they have the resources to cope with a stressor."
+  },
+  {
+   "term": "semantic memory",
+   "aliases": [
+    "semantic memories"
+   ],
+   "def": "Explicit memory for general facts and knowledge, such as the capital of a country."
+  },
+  {
+   "term": "sensory memory",
+   "aliases": [],
+   "def": "The memory store that holds sensory information for a very short time, less than a few seconds."
+  },
+  {
+   "term": "sensory neuron",
+   "aliases": [
+    "sensory neurons"
+   ],
+   "def": "A neuron that carries information from the senses or body to the central nervous system."
+  },
+  {
+   "term": "short-term memory",
+   "aliases": [
+    "short-term"
+   ],
+   "def": "The memory store with limited capacity and duration that holds information currently being used."
+  },
+  {
+   "term": "sleep deprivation",
+   "aliases": [],
+   "def": "Not getting enough sleep, which can harm mood, attention and thinking."
+  },
+  {
+   "term": "sleep onset",
+   "aliases": [],
+   "def": "The time at which a person goes from being awake to being asleep."
+  },
+  {
+   "term": "sleep-wake cycle",
+   "aliases": [],
+   "def": "The daily pattern of being asleep and being awake, controlled by the circadian rhythm."
+  },
+  {
+   "term": "social support",
+   "aliases": [],
+   "def": "Help and care from other people, such as family and friends, that helps a person cope with stress."
+  },
+  {
+   "term": "somatic nervous system",
+   "aliases": [
+    "somatic"
+   ],
+   "def": "The part of the peripheral nervous system that controls voluntary muscle movements and carries sensory information."
+  },
+  {
+   "term": "spinal cord",
+   "aliases": [],
+   "def": "A bundle of nerves in the spine that carries messages between the brain and the body, and controls reflexes."
+  },
+  {
+   "term": "stimulus",
+   "aliases": [
+    "stimuli"
+   ],
+   "def": "Something in the environment that causes a response."
+  },
+  {
+   "term": "stressor",
+   "aliases": [
+    "stressors"
+   ],
+   "def": "Anything that causes stress, such as an event, a situation or a demand."
+  },
+  {
+   "term": "suprachiasmatic nucleus",
+   "aliases": [
+    "SCN"
+   ],
+   "def": "A small area of the hypothalamus that acts as the body's main clock and controls the circadian rhythm."
+  },
+  {
+   "term": "sympathetic nervous system",
+   "aliases": [
+    "sympathetic"
+   ],
+   "def": "The part of the autonomic nervous system that prepares the body for action in a stressful situation."
+  },
+  {
+   "term": "synapse",
+   "aliases": [
+    "synapses",
+    "synaptic"
+   ],
+   "def": "The tiny gap between two neurons where neurotransmitters pass from one to the other."
+  },
+  {
+   "term": "systematic desensitisation",
+   "aliases": [
+    "desensitisation"
+   ],
+   "def": "A treatment for phobias where a person learns relaxation and is exposed to the feared object step by step."
+  },
+  {
+   "term": "Transactional Model of Stress and Coping",
+   "aliases": [
+    "transactional model"
+   ],
+   "def": "Lazarus and Folkman's model that says stress depends on how a person appraises a situation and their ability to cope."
+  },
+  {
+   "term": "unconditioned response",
+   "aliases": [
+    "UCR"
+   ],
+   "def": "A response that happens naturally, without learning, to an unconditioned stimulus."
+  },
+  {
+   "term": "unconditioned stimulus",
+   "aliases": [
+    "UCS"
+   ],
+   "def": "A stimulus that triggers a response naturally, without any learning."
+  },
+  {
+   "term": "validity",
+   "aliases": [],
+   "def": "How well a study measures what it says it measures, and whether its conclusions are correct."
+  },
+  {
+   "term": "zeitgeber",
+   "aliases": [
+    "zeitgebers"
+   ],
+   "def": "An outside cue, such as light, that helps set the body's internal clock."
+  }
+ ]
+}

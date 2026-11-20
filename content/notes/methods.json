@@ -1,0 +1,609 @@
+{
+ "methods-1-1": {
+  "points": [
+   "A polynomial of degree \\(n\\) has at most \\(n\\) x-intercepts and at most \\(n-1\\) turning points.",
+   "A factor \\((x-a)\\) gives an x-intercept at \\(x=a\\): the graph crosses for an odd power and touches (turns) for an even power.",
+   "A repeated factor \\((x-a)^3\\) gives a stationary point of inflection at \\(x=a\\).",
+   "For large \\(|x|\\), the leading term decides the end behaviour; the y-intercept is \\(P(0)\\)."
+  ],
+  "example": {
+   "question": "Sketch key features of \\(y=(x+1)(x-2)^2\\).",
+   "steps": [
+    "x-intercepts: \\(x=-1\\) and \\(x=2\\)",
+    "\\((x+1)\\) has power 1, so the graph crosses at \\(x=-1\\)",
+    "\\((x-2)\\) has power 2, so the graph touches and turns at \\(x=2\\)",
+    "y-intercept: \\(y=(1)(-2)^2=4\\); cubic with positive leading coefficient"
+   ],
+   "answer": "Crosses at \\((-1,0)\\), touches at \\((2,0)\\), y-intercept \\((0,4)\\)."
+  },
+  "watch": "Treating every x-intercept as a crossing point. An even power means the graph only touches the axis."
+ },
+ "methods-1-2": {
+  "points": [
+   "Remainder theorem: when \\(P(x)\\) is divided by \\((x-a)\\), the remainder is \\(P(a)\\).",
+   "Factor theorem: \\((x-a)\\) is a factor of \\(P(x)\\) if and only if \\(P(a)=0\\).",
+   "For \\((ax-b)\\), evaluate \\(P\\left(\\tfrac{b}{a}\\right)\\).",
+   "Find one root by testing factors of the constant term, then divide to get the quadratic factor."
+  ],
+  "example": {
+   "question": "Factorise \\(P(x)=x^3-4x^2+x+6\\) fully.",
+   "steps": [
+    "\\(P(-1)=-1-4-1+6=0\\), so \\((x+1)\\) is a factor",
+    "Divide: \\(P(x)=(x+1)(x^2-5x+6)\\)",
+    "Factorise the quadratic: \\(x^2-5x+6=(x-2)(x-3)\\)"
+   ],
+   "answer": "\\(P(x)=(x+1)(x-2)(x-3)\\)"
+  },
+  "watch": "Testing \\(P(-a)\\) when the factor is \\((x-a)\\). The factor \\((x-2)\\) means test \\(P(2)\\), not \\(P(-2)\\)."
+ },
+ "methods-1-3": {
+  "points": [
+   "Translation \\(h\\) right, \\(k\\) up: replace \\(x\\) with \\(x-h\\) and add \\(k\\) to give \\(y=f(x-h)+k\\).",
+   "Dilation by factor \\(a\\) from the x-axis: \\(y=af(x)\\). Dilation by factor \\(b\\) from the y-axis: \\(y=f\\left(\\tfrac{x}{b}\\right)\\).",
+   "Reflection in the x-axis: \\(y=-f(x)\\). Reflection in the y-axis: \\(y=f(-x)\\).",
+   "Apply the transformations in the order given, since changing the order can change the answer."
+  ],
+  "example": {
+   "question": "\\(y=x^2\\) is dilated by factor 3 from the y-axis, reflected in the x-axis, then translated 2 right and 1 up. Find the rule.",
+   "steps": [
+    "Dilation from y-axis: replace \\(x\\) with \\(\\tfrac{x}{3}\\), so \\(y=\\tfrac{x^2}{9}\\)",
+    "Reflection in x-axis: \\(y=-\\tfrac{x^2}{9}\\)",
+    "Translation: replace \\(x\\) with \\(x-2\\), add 1: \\(y=-\\tfrac{(x-2)^2}{9}+1\\)",
+    "Check: \\((3,9)\\to(9,9)\\to(9,-9)\\to(11,-8)\\), and the rule gives \\(-\\tfrac{81}{9}+1=-8\\)"
+   ],
+   "answer": "\\(y=-\\tfrac{(x-2)^2}{9}+1\\)"
+  },
+  "watch": "Dilating from the y-axis by factor 3 means replacing \\(x\\) with \\(\\tfrac{x}{3}\\), not \\(3x\\)."
+ },
+ "methods-1-4": {
+  "points": [
+   "A transformation can be written as a mapping \\(T(x,y)=(x',y')\\), for example \\(T(x,y)=(2x+1,-y)\\).",
+   "The first coordinate \\(x'\\) describes horizontal changes (dilation from y-axis, translation, reflection in y-axis); \\(y'\\) describes vertical ones.",
+   "To find the image of a curve, solve for \\(x\\) and \\(y\\) in terms of \\(x'\\) and \\(y'\\), then substitute into the original rule.",
+   "Finally rename \\(x'\\) and \\(y'\\) back to \\(x\\) and \\(y\\)."
+  ],
+  "example": {
+   "question": "Find the image of \\(y=x^2\\) under \\(T(x,y)=(2x+1,-y)\\).",
+   "steps": [
+    "\\(x'=2x+1\\) gives \\(x=\\tfrac{x'-1}{2}\\); \\(y'=-y\\) gives \\(y=-y'\\)",
+    "Substitute into \\(y=x^2\\): \\(-y'=\\left(\\tfrac{x'-1}{2}\\right)^2\\)",
+    "Rearrange: \\(y'=-\\tfrac{(x'-1)^2}{4}\\)",
+    "Check: \\((2,4)\\mapsto(5,-4)\\) and \\(-\\tfrac{16}{4}=-4\\)"
+   ],
+   "answer": "\\(y=-\\tfrac{(x-1)^2}{4}\\)"
+  },
+  "watch": "Substituting \\(x'\\) straight into the original rule. You must first write the old \\(x\\) and \\(y\\) in terms of the new ones."
+ },
+ "methods-2-1": {
+  "points": [
+   "For \\(y=a^x\\) with \\(a>1\\): the graph increases, passes through \\((0,1)\\) and has horizontal asymptote \\(y=0\\).",
+   "For \\(y=\\log_a(x)\\): x-intercept \\((1,0)\\), vertical asymptote \\(x=0\\), domain \\((0,\\infty)\\). It is the reflection of \\(a^x\\) in \\(y=x\\).",
+   "For \\(y=ae^{x}+k\\), the asymptote is \\(y=k\\) and the range is \\((k,\\infty)\\) if \\(a>0\\).",
+   "Find intercepts by setting \\(x=0\\) (y-intercept) and \\(y=0\\) (x-intercept)."
+  ],
+  "example": {
+   "question": "For \\(f(x)=2e^x-3\\), find the asymptote, range and intercepts.",
+   "steps": [
+    "Asymptote: \\(y=-3\\), so range \\((-3,\\infty)\\)",
+    "y-intercept: \\(f(0)=2-3=-1\\)",
+    "x-intercept: \\(2e^x=3\\), so \\(e^x=\\tfrac32\\)",
+    "Take \\(\\log_e\\): \\(x=\\log_e\\left(\\tfrac32\\right)\\)"
+   ],
+   "answer": "Asymptote \\(y=-3\\); range \\((-3,\\infty)\\); intercepts \\((0,-1)\\) and \\(\\left(\\log_e\\tfrac32,0\\right)\\)."
+  },
+  "watch": "Giving the range as \\((0,\\infty)\\). Vertical shifts move the asymptote and the range with them."
+ },
+ "methods-2-2": {
+  "points": [
+   "\\(\\log_a(xy)=\\log_a x+\\log_a y\\) and \\(\\log_a\\left(\\tfrac{x}{y}\\right)=\\log_a x-\\log_a y\\).",
+   "\\(\\log_a(x^n)=n\\log_a x\\), \\(\\log_a 1=0\\), \\(\\log_a a=1\\), and \\(a^{\\log_a x}=x\\).",
+   "\\(a^x=b\\) means \\(x=\\log_a b\\). For equations with \\(e^x\\) or \\(a^x\\), you can take logs of both sides.",
+   "Quadratic-type equations: let \\(u=e^x\\) (or \\(a^x\\)), solve for \\(u\\), then reject any \\(u\\le0\\)."
+  ],
+  "example": {
+   "question": "Solve \\(\\log_2(x)+\\log_2(x-2)=3\\).",
+   "steps": [
+    "Combine: \\(\\log_2\\big(x(x-2)\\big)=3\\)",
+    "Convert: \\(x(x-2)=2^3=8\\)",
+    "Rearrange: \\(x^2-2x-8=0\\), so \\((x-4)(x+2)=0\\)",
+    "Check domain: need \\(x>2\\), so reject \\(x=-2\\)"
+   ],
+   "answer": "\\(x=4\\)"
+  },
+  "watch": "Forgetting to check solutions in the original log equation. Every log argument must be positive."
+ },
+ "methods-2-3": {
+  "points": [
+   "For \\(y=a\\sin(n(x-h))+k\\) or \\(a\\cos(n(x-h))+k\\): amplitude \\(|a|\\), period \\(\\tfrac{2\\pi}{n}\\), horizontal shift \\(h\\), vertical shift \\(k\\).",
+   "The range is \\([k-|a|,\\,k+|a|]\\).",
+   "For \\(y=\\tan(n(x-h))+k\\), the period is \\(\\tfrac{\\pi}{n}\\), there is no amplitude and there are vertical asymptotes.",
+   "A negative \\(a\\) reflects the graph in its midline (the line \\(y=k\\))."
+  ],
+  "example": {
+   "question": "For \\(y=-2\\cos(3x)+1\\), find the amplitude, period, range and the y-intercept.",
+   "steps": [
+    "Amplitude \\(=|-2|=2\\)",
+    "Period \\(=\\tfrac{2\\pi}{3}\\)",
+    "Midline \\(y=1\\), so range \\([1-2,\\,1+2]=[-1,3]\\)",
+    "y-intercept: \\(-2\\cos 0+1=-1\\) (a minimum, because of the reflection)"
+   ],
+   "answer": "Amplitude 2; period \\(\\tfrac{2\\pi}{3}\\); range \\([-1,3]\\); y-intercept \\((0,-1)\\)."
+  },
+  "watch": "Using \\(\\tfrac{\\pi}{n}\\) or \\(2\\pi n\\) for the period of sine and cosine. It is \\(\\tfrac{2\\pi}{n}\\)."
+ },
+ "methods-2-4": {
+  "points": [
+   "Know exact values at \\(0,\\tfrac{\\pi}{6},\\tfrac{\\pi}{4},\\tfrac{\\pi}{3},\\tfrac{\\pi}{2}\\): for example \\(\\sin\\tfrac{\\pi}{6}=\\tfrac12\\), \\(\\cos\\tfrac{\\pi}{4}=\\tfrac{\\sqrt2}{2}\\), \\(\\tan\\tfrac{\\pi}{3}=\\sqrt3\\).",
+   "Use the unit circle (or CAST) for other quadrants: find the reference angle, then fix the sign.",
+   "General solutions: \\(\\sin x=c\\) gives \\(x=\\theta+2n\\pi\\) or \\(\\pi-\\theta+2n\\pi\\); \\(\\cos x=c\\) gives \\(x=\\pm\\theta+2n\\pi\\); \\(\\tan x=c\\) gives \\(x=\\theta+n\\pi\\).",
+   "When solving \\(\\sin(nx)=c\\) on \\([0,b]\\), first find all values of \\(nx\\) on \\([0,nb]\\)."
+  ],
+  "example": {
+   "question": "Solve \\(\\sin(2x)=\\tfrac12\\) for \\(x\\in[0,2\\pi]\\).",
+   "steps": [
+    "Let \\(u=2x\\), so \\(u\\in[0,4\\pi]\\)",
+    "\\(\\sin u=\\tfrac12\\): \\(u=\\tfrac{\\pi}{6},\\tfrac{5\\pi}{6},\\tfrac{13\\pi}{6},\\tfrac{17\\pi}{6}\\)",
+    "Divide by 2 to get \\(x\\)"
+   ],
+   "answer": "\\(x=\\tfrac{\\pi}{12},\\tfrac{5\\pi}{12},\\tfrac{13\\pi}{12},\\tfrac{17\\pi}{12}\\)"
+  },
+  "watch": "Only finding solutions for \\(u\\in[0,2\\pi]\\). Dilating \\(x\\) by \\(n\\) stretches the \\(u\\)-interval, so you find more solutions."
+ },
+ "methods-3-1": {
+  "points": [
+   "The domain is the set of allowed inputs and the range is the set of outputs. The maximal domain excludes division by zero, square roots of negatives and logs of non-positives.",
+   "\\(f(g(x))\\) exists only if the range of \\(g\\) is a subset of the domain of \\(f\\).",
+   "If it is not, restrict the domain of \\(g\\) so that \\(g(x)\\) lands in the domain of \\(f\\).",
+   "The domain of \\(f\\circ g\\) is the set of \\(x\\) in \\(\\text{dom}\\,g\\) with \\(g(x)\\in\\text{dom}\\,f\\)."
+  ],
+  "example": {
+   "question": "Let \\(f(x)=\\sqrt{x+1}\\) and \\(g(x)=x^2-5\\), \\(g:\\mathbb R\\to\\mathbb R\\). Find the largest domain of \\(f(g(x))\\) and its rule.",
+   "steps": [
+    "Rule: \\(f(g(x))=\\sqrt{x^2-5+1}=\\sqrt{x^2-4}\\)",
+    "Need \\(g(x)\\ge-1\\), i.e. \\(x^2-4\\ge0\\)",
+    "So \\((x-2)(x+2)\\ge0\\), giving \\(x\\le-2\\) or \\(x\\ge2\\)"
+   ],
+   "answer": "\\(f(g(x))=\\sqrt{x^2-4}\\) with domain \\((-\\infty,-2]\\cup[2,\\infty)\\)."
+  },
+  "watch": "Simplifying the rule first and reading the domain from the simplified form. Always use the domain of the inner function too."
+ },
+ "methods-3-2": {
+  "points": [
+   "A function has an inverse function only if it is one-to-one (passes the horizontal line test).",
+   "To find \\(f^{-1}\\): swap \\(x\\) and \\(y\\), then solve for \\(y\\). Domain of \\(f^{-1}\\) = range of \\(f\\), and range of \\(f^{-1}\\) = domain of \\(f\\).",
+   "\\(f(f^{-1}(x))=x\\) and \\(f^{-1}(f(x))=x\\). The graphs are reflections in \\(y=x\\).",
+   "Intersections of \\(f\\) and \\(f^{-1}\\) lie on \\(y=x\\) (when \\(f\\) is increasing), so solve \\(f(x)=x\\)."
+  ],
+  "example": {
+   "question": "Find \\(f^{-1}\\) for \\(f:[1,\\infty)\\to\\mathbb R\\), \\(f(x)=(x-1)^2+3\\).",
+   "steps": [
+    "Swap: \\(x=(y-1)^2+3\\)",
+    "Solve: \\((y-1)^2=x-3\\), so \\(y=1\\pm\\sqrt{x-3}\\)",
+    "Range of \\(f^{-1}\\) is \\([1,\\infty)\\), so take the positive root",
+    "Domain of \\(f^{-1}\\) = range of \\(f\\) = \\([3,\\infty)\\)"
+   ],
+   "answer": "\\(f^{-1}:[3,\\infty)\\to\\mathbb R\\), \\(f^{-1}(x)=1+\\sqrt{x-3}\\)"
+  },
+  "watch": "Leaving the \\(\\pm\\) in, or omitting the domain. The domain of \\(f\\) decides which branch you keep."
+ },
+ "methods-3-3": {
+  "points": [
+   "\\((f+g)(x)=f(x)+g(x)\\) and \\((fg)(x)=f(x)g(x)\\), both with domain \\(\\text{dom}\\,f\\cap\\text{dom}\\,g\\).",
+   "\\(\\left(\\tfrac fg\\right)(x)\\) has the same domain, but also excludes any \\(x\\) where \\(g(x)=0\\).",
+   "Functional equations: \\(f(x)=e^x\\) satisfies \\(f(x+y)=f(x)f(y)\\); \\(f(x)=\\log_e x\\) satisfies \\(f(xy)=f(x)+f(y)\\); \\(f(x)=ax\\) satisfies \\(f(x+y)=f(x)+f(y)\\).",
+   "To test a functional equation, substitute both sides into the given rule and compare."
+  ],
+  "example": {
+   "question": "Let \\(f(x)=\\sqrt{x+3}\\) and \\(g(x)=\\log_e(2-x)\\). Find the domains of \\(f+g\\) and \\(\\tfrac fg\\).",
+   "steps": [
+    "dom \\(f=[-3,\\infty)\\); dom \\(g=(-\\infty,2)\\)",
+    "dom \\((f+g)=[-3,2)\\)",
+    "\\(g(x)=0\\) when \\(2-x=1\\), so \\(x=1\\)",
+    "Exclude \\(x=1\\) for \\(\\tfrac fg\\)"
+   ],
+   "answer": "dom \\((f+g)=[-3,2)\\); dom \\(\\tfrac fg=[-3,1)\\cup(1,2)\\)."
+  },
+  "watch": "Forgetting to exclude zeros of the denominator function when finding the domain of a quotient."
+ },
+ "methods-3-4": {
+  "points": [
+   "Two linear equations in \\(x\\) and \\(y\\) are two lines: one solution (different gradients), none (parallel, different intercepts) or infinitely many (same line).",
+   "For \\(ax+by=e\\), \\(cx+dy=f\\): a unique solution exists when \\(ad-bc\\ne0\\).",
+   "If \\(ad-bc=0\\), check consistency: the equations are the same line (infinite solutions) or parallel (no solution).",
+   "Set the determinant \\(ad-bc\\) to zero to find the parameter values, then test each one."
+  ],
+  "example": {
+   "question": "For \\(3x+ky=6\\) and \\(kx+12y=12\\), find \\(k\\) for no solution and for infinitely many solutions.",
+   "steps": [
+    "\\(ad-bc=36-k^2=0\\), so \\(k=\\pm6\\)",
+    "\\(k=6\\): \\(3x+6y=6\\) and \\(6x+12y=12\\); second is 2 times first, so same line",
+    "\\(k=-6\\): \\(3x-6y=6\\) and \\(-6x+12y=12\\); times \\(-2\\) gives \\(-6x+12y=-12\\ne12\\)"
+   ],
+   "answer": "Infinitely many solutions for \\(k=6\\); no solution for \\(k=-6\\)."
+  },
+  "watch": "Stopping at \\(k=\\pm6\\). You must test each value to see which gives none and which gives infinitely many."
+ },
+ "methods-4-1": {
+  "points": [
+   "First principles: \\(f'(x)=\\lim_{h\\to0}\\dfrac{f(x+h)-f(x)}{h}\\).",
+   "Expand, simplify so that \\(h\\) cancels from the numerator, then let \\(h\\to0\\).",
+   "\\(f\\) is differentiable at \\(x=a\\) only if it is continuous there and the left and right gradients are equal.",
+   "Not differentiable at sharp corners (e.g. \\(|x|\\) at 0), cusps, jumps or vertical tangents."
+  ],
+  "example": {
+   "question": "Use first principles to find \\(f'(x)\\) for \\(f(x)=x^3\\).",
+   "steps": [
+    "\\(\\tfrac{(x+h)^3-x^3}{h}=\\tfrac{3x^2h+3xh^2+h^3}{h}\\)",
+    "Cancel \\(h\\): \\(3x^2+3xh+h^2\\)",
+    "Let \\(h\\to0\\): \\(3x^2\\)"
+   ],
+   "answer": "\\(f'(x)=3x^2\\)"
+  },
+  "watch": "Substituting \\(h=0\\) before cancelling. You get \\(\\tfrac00\\) unless you simplify first."
+ },
+ "methods-4-2": {
+  "points": [
+   "Chain rule: \\(\\dfrac{d}{dx}f(g(x))=f'(g(x))\\cdot g'(x)\\). Differentiate the outside, then multiply by the derivative of the inside.",
+   "Product rule: \\((uv)'=u'v+uv'\\).",
+   "Quotient rule: \\(\\left(\\dfrac uv\\right)'=\\dfrac{u'v-uv'}{v^2}\\).",
+   "Simplify by factoring out common brackets; this makes stationary points easier to find."
+  ],
+  "example": {
+   "question": "Differentiate \\(y=x(3x-1)^4\\).",
+   "steps": [
+    "Product: \\(u=x\\), \\(v=(3x-1)^4\\)",
+    "Chain rule: \\(v'=4(3x-1)^3\\cdot3=12(3x-1)^3\\)",
+    "\\(y'=(3x-1)^4+12x(3x-1)^3\\)",
+    "Factor: \\((3x-1)^3\\big[(3x-1)+12x\\big]\\)"
+   ],
+   "answer": "\\(y'=(3x-1)^3(15x-1)\\)"
+  },
+  "watch": "Forgetting to multiply by the inside derivative in the chain rule (here the factor 3)."
+ },
+ "methods-4-3": {
+  "points": [
+   "\\(\\dfrac{d}{dx}e^{ax}=ae^{ax}\\) and \\(\\dfrac{d}{dx}\\log_e(x)=\\dfrac1x\\) for \\(x>0\\).",
+   "\\(\\dfrac{d}{dx}\\sin(ax)=a\\cos(ax)\\) and \\(\\dfrac{d}{dx}\\cos(ax)=-a\\sin(ax)\\).",
+   "\\(\\dfrac{d}{dx}\\tan(x)=\\dfrac{1}{\\cos^2(x)}\\).",
+   "\\(\\dfrac{d}{dx}\\log_e(f(x))=\\dfrac{f'(x)}{f(x)}\\). Combine with the chain, product and quotient rules."
+  ],
+  "example": {
+   "question": "Differentiate \\(y=e^{2x}\\cos(3x)\\).",
+   "steps": [
+    "Product: \\(u=e^{2x}\\), \\(v=\\cos(3x)\\)",
+    "\\(u'=2e^{2x}\\), \\(v'=-3\\sin(3x)\\)",
+    "\\(y'=2e^{2x}\\cos(3x)-3e^{2x}\\sin(3x)\\)"
+   ],
+   "answer": "\\(y'=e^{2x}\\big(2\\cos(3x)-3\\sin(3x)\\big)\\)"
+  },
+  "watch": "Writing \\(\\tfrac{d}{dx}\\cos(ax)=a\\sin(ax)\\). The sign is negative, and the factor \\(a\\) must be included."
+ },
+ "methods-4-4": {
+  "points": [
+   "The gradient of the tangent at \\(x=a\\) is \\(f'(a)\\). Tangent: \\(y-f(a)=f'(a)(x-a)\\).",
+   "The normal is perpendicular to the tangent, so its gradient is \\(-\\dfrac{1}{f'(a)}\\) (if \\(f'(a)\\ne0\\)).",
+   "The derivative \\(\\tfrac{dy}{dx}\\) is the instantaneous rate of change; the average rate over \\([a,b]\\) is \\(\\tfrac{f(b)-f(a)}{b-a}\\).",
+   "If a gradient is given, solve \\(f'(x)=m\\) to find the point of contact."
+  ],
+  "example": {
+   "question": "Find the tangent and the gradient of the normal to \\(y=x^3-2x\\) at \\(x=2\\).",
+   "steps": [
+    "\\(y(2)=8-4=4\\), so the point is \\((2,4)\\)",
+    "\\(y'=3x^2-2\\), so \\(y'(2)=10\\)",
+    "Tangent: \\(y-4=10(x-2)\\), so \\(y=10x-16\\)",
+    "Normal gradient: \\(-\\tfrac1{10}\\)"
+   ],
+   "answer": "Tangent \\(y=10x-16\\); normal gradient \\(-\\tfrac1{10}\\)."
+  },
+  "watch": "Using the tangent gradient or just its negative for the normal. You need the negative reciprocal: flip and change sign."
+ },
+ "methods-5-1": {
+  "points": [
+   "Stationary points occur where \\(f'(x)=0\\). Find the x-values, then substitute into \\(f\\) to get the y-values.",
+   "Nature test 1: sign of \\(f'\\) either side. Positive to negative is a local maximum; negative to positive is a local minimum.",
+   "Nature test 2: \\(f''(a)>0\\) gives a local minimum; \\(f''(a)<0\\) gives a local maximum. If \\(f''(a)=0\\), use the sign test.",
+   "A stationary point of inflection has \\(f'=0\\) but \\(f'\\) does not change sign."
+  ],
+  "example": {
+   "question": "Find and classify the stationary points of \\(f(x)=x^3-6x^2+9x\\).",
+   "steps": [
+    "\\(f'(x)=3x^2-12x+9=3(x-1)(x-3)=0\\), so \\(x=1,3\\)",
+    "\\(f(1)=4\\), \\(f(3)=0\\)",
+    "\\(f''(x)=6x-12\\): \\(f''(1)=-6<0\\), \\(f''(3)=6>0\\)"
+   ],
+   "answer": "Local maximum at \\((1,4)\\); local minimum at \\((3,0)\\)."
+  },
+  "watch": "Giving only the x-value. Coordinates need the y-value from \\(f\\), not \\(f'\\)."
+ },
+ "methods-5-2": {
+  "points": [
+   "Define the variable, then write the quantity to optimise (area, volume, cost) as a function of one variable.",
+   "Use the constraint to eliminate the other variable, and state the domain from the context.",
+   "Solve \\(f'(x)=0\\), confirm a maximum or minimum (second derivative or sign test), and check the endpoints of the domain.",
+   "Answer the question asked, with units, in a sentence."
+  ],
+  "example": {
+   "question": "A rectangular paddock uses a wall for one side and 60 m of fencing for the other three. Find the maximum area.",
+   "steps": [
+    "Let the sides at right angles to the wall be \\(x\\); the parallel side is \\(60-2x\\), with \\(0<x<30\\)",
+    "\\(A=x(60-2x)=60x-2x^2\\)",
+    "\\(A'=60-4x=0\\), so \\(x=15\\); \\(A''=-4<0\\), so a maximum",
+    "\\(A=15\\times30=450\\)"
+   ],
+   "answer": "Maximum area is \\(450\\ \\text{m}^2\\) (sides 15 m and 30 m)."
+  },
+  "watch": "Giving \\(x\\) as the answer when the question asks for the maximum value of the area."
+ },
+ "methods-5-3": {
+  "points": [
+   "\\(f'(x)>0\\) on an interval means \\(f\\) is strictly increasing there; \\(f'(x)<0\\) means strictly decreasing.",
+   "Intervals are usually written with the stationary points as closed endpoints, e.g. \\([0,2]\\).",
+   "On the graph of \\(f'\\): x-intercepts are stationary points of \\(f\\); above the axis means \\(f\\) increasing; below the axis means decreasing.",
+   "A turning point of \\(f'\\) (a max or min) is where \\(f\\) has a point of inflection."
+  ],
+  "example": {
+   "question": "Find where \\(f(x)=x^3-3x^2\\) is increasing and decreasing.",
+   "steps": [
+    "\\(f'(x)=3x^2-6x=3x(x-2)\\)",
+    "\\(f'=0\\) at \\(x=0,2\\)",
+    "\\(f'>0\\) for \\(x<0\\) and \\(x>2\\); \\(f'<0\\) for \\(0<x<2\\)"
+   ],
+   "answer": "Increasing on \\((-\\infty,0]\\) and \\([2,\\infty)\\); decreasing on \\([0,2]\\)."
+  },
+  "watch": "Mixing up the graph of \\(f'\\) with the graph of \\(f\\). Only the sign of \\(f'\\) matters for increasing or decreasing."
+ },
+ "methods-5-4": {
+  "points": [
+   "Newton's method estimates a solution of \\(f(x)=0\\) by repeating \\(x_{n+1}=x_n-\\dfrac{f(x_n)}{f'(x_n)}\\).",
+   "Each step uses the tangent at \\(x_n\\) and finds where that tangent meets the x-axis.",
+   "It works best when \\(x_0\\) is close to the solution. It fails if \\(f'(x_n)=0\\) (horizontal tangent).",
+   "Technology can do the repeats; set up the first one by hand with exact values when asked."
+  ],
+  "example": {
+   "question": "Use Newton's method with \\(f(x)=x^2-7\\) and \\(x_0=3\\) to find \\(x_1\\) and \\(x_2\\).",
+   "steps": [
+    "\\(f'(x)=2x\\)",
+    "\\(x_1=3-\\tfrac{9-7}{6}=3-\\tfrac13=\\tfrac83\\)",
+    "\\(x_2=\\tfrac83-\\tfrac{64/9-7}{16/3}=\\tfrac83-\\tfrac1{48}=\\tfrac{127}{48}\\)"
+   ],
+   "answer": "\\(x_1=\\tfrac83\\), \\(x_2=\\tfrac{127}{48}\\approx2.6458\\), close to \\(\\sqrt7\\)."
+  },
+  "watch": "Adding \\(\\tfrac{f(x_n)}{f'(x_n)}\\) instead of subtracting it."
+ },
+ "methods-6-1": {
+  "points": [
+   "\\(\\int x^n\\,dx=\\dfrac{x^{n+1}}{n+1}+c\\) for \\(n\\ne-1\\); \\(\\int\\dfrac1x\\,dx=\\log_e|x|+c\\).",
+   "\\(\\int e^{ax}dx=\\dfrac1ae^{ax}+c\\); \\(\\int\\sin(ax)dx=-\\dfrac1a\\cos(ax)+c\\); \\(\\int\\cos(ax)dx=\\dfrac1a\\sin(ax)+c\\).",
+   "\\(\\int(ax+b)^n dx=\\dfrac{(ax+b)^{n+1}}{a(n+1)}+c\\) and \\(\\int\\dfrac{1}{ax+b}dx=\\dfrac1a\\log_e|ax+b|+c\\).",
+   "Always add \\(+c\\) for indefinite integrals. You can check by differentiating your answer."
+  ],
+  "example": {
+   "question": "Find \\(\\int\\left(6\\sqrt x+e^{-2x}+\\dfrac1{2x+1}\\right)dx\\).",
+   "steps": [
+    "\\(6x^{1/2}\\to6\\cdot\\tfrac{x^{3/2}}{3/2}=4x^{3/2}\\)",
+    "\\(e^{-2x}\\to-\\tfrac12e^{-2x}\\)",
+    "\\(\\tfrac1{2x+1}\\to\\tfrac12\\log_e|2x+1|\\)"
+   ],
+   "answer": "\\(4x^{3/2}-\\tfrac12e^{-2x}+\\tfrac12\\log_e|2x+1|+c\\)"
+  },
+  "watch": "Forgetting to divide by the inside coefficient \\(a\\) when integrating \\(e^{ax}\\) or \\(\\tfrac1{ax+b}\\)."
+ },
+ "methods-6-2": {
+  "points": [
+   "Fundamental theorem: \\(\\int_a^b f(x)\\,dx=F(b)-F(a)\\), where \\(F\\) is any antiderivative of \\(f\\). No \\(+c\\) needed.",
+   "\\(\\int_a^b f=-\\int_b^a f\\), and \\(\\int_a^b f+\\int_b^c f=\\int_a^c f\\).",
+   "\\(\\int_a^b kf(x)\\,dx=k\\int_a^b f(x)\\,dx\\), and integrals of sums split into sums of integrals.",
+   "\\(\\dfrac{d}{dx}\\int_a^x f(t)\\,dt=f(x)\\)."
+  ],
+  "example": {
+   "question": "Evaluate \\(\\int_0^{\\pi/6}4\\cos(2x)\\,dx\\).",
+   "steps": [
+    "Antiderivative: \\(4\\cdot\\tfrac12\\sin(2x)=2\\sin(2x)\\)",
+    "Substitute: \\(2\\sin\\tfrac{\\pi}{3}-2\\sin0\\)",
+    "\\(=2\\times\\tfrac{\\sqrt3}{2}-0\\)"
+   ],
+   "answer": "\\(\\sqrt3\\)"
+  },
+  "watch": "Calculating \\(F(a)-F(b)\\) the wrong way round. It is always upper limit minus lower limit."
+ },
+ "methods-6-3": {
+  "points": [
+   "Area between \\(f\\) and the x-axis is \\(\\int_a^b|f(x)|\\,dx\\). Split the integral at x-intercepts, since areas below the axis come out negative.",
+   "Area between curves with \\(f\\ge g\\): \\(\\int_a^b\\big(f(x)-g(x)\\big)dx\\).",
+   "Find intersections by solving \\(f(x)=g(x)\\); these give the limits.",
+   "Sketch first so you know which curve is on top."
+  ],
+  "example": {
+   "question": "Find the area enclosed by \\(y=x+2\\) and \\(y=x^2\\).",
+   "steps": [
+    "Solve \\(x^2=x+2\\): \\((x-2)(x+1)=0\\), so \\(x=-1,2\\)",
+    "Line is above the parabola in between: \\(\\int_{-1}^{2}(x+2-x^2)\\,dx\\)",
+    "\\(=\\left[\\tfrac{x^2}{2}+2x-\\tfrac{x^3}{3}\\right]_{-1}^{2}=\\tfrac{10}{3}-\\left(-\\tfrac76\\right)\\)"
+   ],
+   "answer": "\\(\\tfrac92\\) square units"
+  },
+  "watch": "Integrating a function that crosses the axis over the whole interval, so positive and negative areas cancel."
+ },
+ "methods-6-4": {
+  "points": [
+   "Trapezium rule: \\(\\int_a^b f\\,dx\\approx\\dfrac h2\\big[y_0+2(y_1+\\dots+y_{n-1})+y_n\\big]\\), with strip width \\(h=\\tfrac{b-a}{n}\\).",
+   "It overestimates when the curve is concave up and underestimates when concave down.",
+   "Average value of \\(f\\) on \\([a,b]\\): \\(\\dfrac1{b-a}\\int_a^bf(x)\\,dx\\).",
+   "Use more strips for a better approximation."
+  ],
+  "example": {
+   "question": "Use two strips to estimate \\(\\int_1^3\\dfrac1x\\,dx\\). Is it an over- or underestimate?",
+   "steps": [
+    "\\(h=1\\); \\(y_0=1\\), \\(y_1=\\tfrac12\\), \\(y_2=\\tfrac13\\)",
+    "\\(\\approx\\tfrac12\\left[1+2\\times\\tfrac12+\\tfrac13\\right]=\\tfrac12\\times\\tfrac73\\)",
+    "\\(\\tfrac1x\\) is concave up, so the trapezia lie above the curve"
+   ],
+   "answer": "\\(\\tfrac76\\approx1.167\\), an overestimate (exact value \\(\\log_e3\\approx1.099\\))."
+  },
+  "watch": "Using the wrong strip width, or doubling the wrong terms. Only the middle values \\(y_1,\\dots,y_{n-1}\\) are doubled."
+ },
+ "methods-7-1": {
+  "points": [
+   "A discrete random variable takes countable values. Its probability distribution lists \\(\\Pr(X=x)\\) for each value.",
+   "Every probability satisfies \\(0\\le\\Pr(X=x)\\le1\\), and \\(\\sum\\Pr(X=x)=1\\).",
+   "Use the sum-to-1 rule to find an unknown constant such as \\(k\\).",
+   "For ranges, add the relevant probabilities, e.g. \\(\\Pr(X\\ge3)=\\Pr(X=3)+\\Pr(X=4)\\)."
+  ],
+  "example": {
+   "question": "\\(\\Pr(X=x)=k(5-x)\\) for \\(x=1,2,3,4\\). Find \\(k\\) and \\(\\Pr(X\\ge3)\\).",
+   "steps": [
+    "Values: \\(4k,3k,2k,k\\)",
+    "Sum: \\(10k=1\\), so \\(k=\\tfrac1{10}\\)",
+    "\\(\\Pr(X\\ge3)=2k+k=3k\\)"
+   ],
+   "answer": "\\(k=\\tfrac1{10}\\); \\(\\Pr(X\\ge3)=\\tfrac3{10}\\)"
+  },
+  "watch": "Not checking that all probabilities are between 0 and 1 after finding \\(k\\)."
+ },
+ "methods-7-2": {
+  "points": [
+   "\\(E(X)=\\sum x\\Pr(X=x)\\) is the long-run average (the mean, \\(\\mu\\)).",
+   "\\(\\text{Var}(X)=E\\big((X-\\mu)^2\\big)=E(X^2)-\\mu^2\\), where \\(E(X^2)=\\sum x^2\\Pr(X=x)\\). Standard deviation \\(\\sigma=\\sqrt{\\text{Var}(X)}\\).",
+   "\\(E(aX+b)=aE(X)+b\\) and \\(\\text{Var}(aX+b)=a^2\\text{Var}(X)\\).",
+   "Adding \\(b\\) does not change spread; multiplying by \\(a\\) multiplies the variance by \\(a^2\\)."
+  ],
+  "example": {
+   "question": "\\(X\\) takes values 1, 2, 3 with probabilities 0.2, 0.5, 0.3. Find \\(E(X)\\) and \\(\\text{Var}(X)\\).",
+   "steps": [
+    "\\(E(X)=0.2+1.0+0.9=2.1\\)",
+    "\\(E(X^2)=0.2+2.0+2.7=4.9\\)",
+    "\\(\\text{Var}(X)=4.9-2.1^2=4.9-4.41\\)"
+   ],
+   "answer": "\\(E(X)=2.1\\); \\(\\text{Var}(X)=0.49\\)."
+  },
+  "watch": "Writing \\(\\text{Var}(aX+b)=a\\,\\text{Var}(X)+b\\). It is \\(a^2\\,\\text{Var}(X)\\), with no \\(b\\)."
+ },
+ "methods-7-3": {
+  "points": [
+   "\\(X\\sim\\text{Bi}(n,p)\\): \\(n\\) independent trials, each success or failure with the same probability \\(p\\); \\(X\\) counts successes.",
+   "\\(\\Pr(X=x)=\\binom nx p^x(1-p)^{n-x}\\).",
+   "\\(E(X)=np\\) and \\(\\text{Var}(X)=np(1-p)\\).",
+   "Use CAS (binomPdf, binomCdf) for sums. For \\(\\Pr(X\\ge k)\\), use \\(1-\\Pr(X\\le k-1)\\)."
+  ],
+  "example": {
+   "question": "\\(X\\sim\\text{Bi}(5,0.4)\\). Find \\(\\Pr(X\\ge2)\\), \\(E(X)\\) and \\(\\text{Var}(X)\\).",
+   "steps": [
+    "\\(\\Pr(X\\ge2)=1-\\Pr(X=0)-\\Pr(X=1)\\)",
+    "\\(\\Pr(X=0)=0.6^5=0.07776\\); \\(\\Pr(X=1)=5(0.4)(0.6)^4=0.2592\\)",
+    "\\(\\Pr(X\\ge2)=1-0.33696=0.66304\\)",
+    "\\(E(X)=5(0.4)=2\\); \\(\\text{Var}(X)=5(0.4)(0.6)=1.2\\)"
+   ],
+   "answer": "\\(\\Pr(X\\ge2)=0.66304\\); \\(E(X)=2\\); \\(\\text{Var}(X)=1.2\\)."
+  },
+  "watch": "Using \\(1-\\Pr(X\\le2)\\) for \\(\\Pr(X\\ge2)\\). That removes \\(X=2\\) too; you want \\(1-\\Pr(X\\le1)\\)."
+ },
+ "methods-7-4": {
+  "points": [
+   "Conditional probability: \\(\\Pr(A|B)=\\dfrac{\\Pr(A\\cap B)}{\\Pr(B)}\\), the probability of \\(A\\) given \\(B\\) has occurred.",
+   "Addition rule: \\(\\Pr(A\\cup B)=\\Pr(A)+\\Pr(B)-\\Pr(A\\cap B)\\).",
+   "\\(A\\) and \\(B\\) are independent if \\(\\Pr(A\\cap B)=\\Pr(A)\\Pr(B)\\), equivalently \\(\\Pr(A|B)=\\Pr(A)\\).",
+   "Independent is not the same as mutually exclusive: exclusive events have \\(\\Pr(A\\cap B)=0\\)."
+  ],
+  "example": {
+   "question": "\\(\\Pr(A)=0.6\\), \\(\\Pr(B)=0.5\\), \\(\\Pr(A\\cup B)=0.8\\). Find \\(\\Pr(A|B)\\) and decide if \\(A,B\\) are independent.",
+   "steps": [
+    "\\(\\Pr(A\\cap B)=0.6+0.5-0.8=0.3\\)",
+    "\\(\\Pr(A|B)=\\tfrac{0.3}{0.5}=0.6\\)",
+    "\\(\\Pr(A)\\Pr(B)=0.6\\times0.5=0.3=\\Pr(A\\cap B)\\)"
+   ],
+   "answer": "\\(\\Pr(A|B)=0.6\\); \\(A\\) and \\(B\\) are independent."
+  },
+  "watch": "Dividing by \\(\\Pr(A)\\) instead of \\(\\Pr(B)\\). The denominator is the event that is given."
+ },
+ "methods-8-1": {
+  "points": [
+   "A pdf \\(f\\) satisfies \\(f(x)\\ge0\\) for all \\(x\\) and \\(\\int_{-\\infty}^{\\infty}f(x)\\,dx=1\\).",
+   "\\(\\Pr(a<X<b)=\\int_a^bf(x)\\,dx\\). For a continuous variable, \\(\\Pr(X=a)=0\\), so \\(<\\) and \\(\\le\\) give the same answer.",
+   "Mean: \\(E(X)=\\int xf(x)\\,dx\\). Median \\(m\\): \\(\\int_{-\\infty}^m f(x)\\,dx=\\tfrac12\\).",
+   "Variance: \\(E(X^2)-\\mu^2\\), where \\(E(X^2)=\\int x^2f(x)\\,dx\\)."
+  ],
+  "example": {
+   "question": "\\(f(x)=k(4-x)\\) for \\(0\\le x\\le4\\), and 0 elsewhere. Find \\(k\\) and \\(\\Pr(X>2)\\).",
+   "steps": [
+    "\\(\\int_0^4k(4-x)dx=k\\left[4x-\\tfrac{x^2}{2}\\right]_0^4=8k=1\\), so \\(k=\\tfrac18\\)",
+    "\\(\\Pr(X>2)=\\tfrac18\\int_2^4(4-x)dx\\)",
+    "\\(=\\tfrac18\\left[4x-\\tfrac{x^2}2\\right]_2^4=\\tfrac18(8-6)\\)"
+   ],
+   "answer": "\\(k=\\tfrac18\\); \\(\\Pr(X>2)=\\tfrac14\\)."
+  },
+  "watch": "Integrating a rule outside its interval. Use only the interval where the rule applies, since \\(f=0\\) elsewhere."
+ },
+ "methods-8-2": {
+  "points": [
+   "\\(X\\sim N(\\mu,\\sigma^2)\\) is symmetric about \\(\\mu\\). The standard normal is \\(Z\\sim N(0,1)\\), with \\(Z=\\dfrac{X-\\mu}{\\sigma}\\).",
+   "About 68% of values lie within \\(1\\sigma\\) of the mean, 95% within \\(2\\sigma\\), 99.7% within \\(3\\sigma\\).",
+   "Use CAS: normCdf(lower, upper, \\(\\mu\\), \\(\\sigma\\)) for probabilities; invNorm for a value with a given probability to its left.",
+   "The second parameter in \\(N(\\mu,\\sigma^2)\\) is the variance, so \\(\\sigma\\) is its square root."
+  ],
+  "example": {
+   "question": "\\(X\\sim N(50,16)\\). Find \\(\\Pr(46<X<58)\\).",
+   "steps": [
+    "\\(\\sigma=\\sqrt{16}=4\\)",
+    "\\(z\\) values: \\(\\tfrac{46-50}{4}=-1\\) and \\(\\tfrac{58-50}{4}=2\\)",
+    "\\(\\Pr(-1<Z<2)=\\Pr(-1<Z<0)+\\Pr(0<Z<2)\\approx0.3413+0.4772\\)"
+   ],
+   "answer": "\\(\\approx0.8186\\)"
+  },
+  "watch": "Using the variance as \\(\\sigma\\). For \\(N(50,16)\\), the standard deviation is 4, not 16."
+ },
+ "methods-8-3": {
+  "points": [
+   "The sample proportion \\(\\hat P=\\dfrac Xn\\) varies from sample to sample; \\(X\\sim\\text{Bi}(n,p)\\) counts successes.",
+   "\\(E(\\hat P)=p\\) and \\(\\text{sd}(\\hat P)=\\sqrt{\\dfrac{p(1-p)}n}\\).",
+   "For large \\(n\\), \\(\\hat P\\) is approximately normal with this mean and standard deviation.",
+   "A larger sample size gives a smaller standard deviation, so the distribution is narrower."
+  ],
+  "example": {
+   "question": "\\(p=0.3\\), \\(n=200\\). Find the mean and standard deviation of \\(\\hat P\\), and approximate \\(\\Pr(\\hat P>0.35)\\).",
+   "steps": [
+    "\\(E(\\hat P)=0.3\\)",
+    "\\(\\text{sd}=\\sqrt{\\tfrac{0.3\\times0.7}{200}}=\\sqrt{0.00105}\\approx0.0324\\)",
+    "\\(z=\\tfrac{0.35-0.3}{0.0324}\\approx1.543\\)",
+    "\\(\\Pr(Z>1.543)\\approx0.0614\\)"
+   ],
+   "answer": "Mean 0.3; sd \\(\\approx0.0324\\); \\(\\Pr(\\hat P>0.35)\\approx0.061\\)."
+  },
+  "watch": "Using \\(\\sqrt{np(1-p)}\\) as the sd of \\(\\hat P\\). That is the sd of the count; the proportion divides by \\(n\\) inside the root."
+ },
+ "methods-8-4": {
+  "points": [
+   "An approximate 95% confidence interval for \\(p\\) is \\(\\left(\\hat p-1.96\\sqrt{\\tfrac{\\hat p(1-\\hat p)}n},\\ \\hat p+1.96\\sqrt{\\tfrac{\\hat p(1-\\hat p)}n}\\right)\\).",
+   "The margin of error is \\(M=z\\sqrt{\\tfrac{\\hat p(1-\\hat p)}n}\\); use \\(z\\approx1.96\\) for 95%.",
+   "It means: about 95% of intervals made this way contain the true \\(p\\). It does not say \\(p\\) is in this interval with 95% probability.",
+   "A larger \\(n\\) gives a smaller margin of error; a higher confidence level gives a wider interval."
+  ],
+  "example": {
+   "question": "In a sample of 250 students, 60 walk to school. Find an approximate 95% confidence interval for \\(p\\).",
+   "steps": [
+    "\\(\\hat p=\\tfrac{60}{250}=0.24\\)",
+    "\\(M=1.96\\sqrt{\\tfrac{0.24\\times0.76}{250}}\\approx1.96\\times0.0270\\approx0.0529\\)",
+    "Interval: \\(0.24\\pm0.0529\\)"
+   ],
+   "answer": "\\(\\approx(0.187,\\ 0.293)\\)"
+  },
+  "watch": "Using the population \\(p\\) in the formula. You only have \\(\\hat p\\) from the sample."
+ },
+ "methods-challenge": {
+  "points": [
+   "Challenge questions mix topics: read for which tools are needed (derivatives, integrals, log laws, probability) before calculating.",
+   "For tangents through a given point, let the point of contact be \\(x=a\\), write the tangent equation, and substitute the given point.",
+   "Sketch graphs to find limits, intersections and which function is larger.",
+   "Check that answers fit the domain and the context."
+  ],
+  "example": {
+   "question": "Find \\(k\\) so that the line \\(y=kx\\) is tangent to \\(y=\\log_e x\\), and the point of contact.",
+   "steps": [
+    "Tangent at \\(x=a\\): \\(y-\\log_e a=\\tfrac1a(x-a)\\)",
+    "Passes through \\((0,0)\\): \\(-\\log_e a=-1\\), so \\(a=e\\)",
+    "Gradient \\(k=\\tfrac1a=\\tfrac1e\\); point \\((e,\\log_e e)=(e,1)\\)"
+   ],
+   "answer": "\\(k=\\tfrac1e\\), point of contact \\((e,1)\\)."
+  },
+  "watch": "Assuming the point of contact is the given point. A line through the origin touches the curve elsewhere, so find \\(a\\) first."
+ }
+}

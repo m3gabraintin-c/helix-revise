@@ -12,23 +12,31 @@ Topic-by-topic practice quizzes for:
 - **VCE Units 1 & 2:** Chemistry, Biology, Psychology, Mathematical Methods, Physics
 - **GCSE (Edexcel, Triple Higher):** Biology
 
-Each subject is split into topics and subtopics. You can quiz one subtopic at a time or use **Build a quiz** to mix several. Progress is stored only in your browser (`localStorage`). Nothing is sent to a server.
+Each subject is split into topics and subtopics. Each subtopic shows its mastery level (Not started, Not enough data yet, Beginning, Developing, Secure or Mastered), and each topic shows how many of its subtopics are Secure or better, out of all the subtopics in the topic header. You can quiz one subtopic at a time or use **Build a quiz** to mix several. Progress is stored only in your browser (`localStorage`). Nothing is sent to a server.
+
+**Backing up progress**: because progress lives only in one browser, clearing the browser's data or switching phones loses it. **Settings** (`#settings`) has a **Download backup** button that saves every `helix-` key from `localStorage` to a `helix-revise-backup-YYYY-MM-DD.json` file. **Restore from a backup** checks the file (a Helix Revise backup under 5 MB, with only `helix-` keys and string values), asks for confirmation, then replaces the progress on the device and reloads the page. The check is `backupCheck` in `index.html`, between `/* <backup-check> */` and `/* </backup-check> */`, and `tests/backup.test.mjs` covers it.
+
+**Shared quizzes:** after building a quiz, choose **Share this quiz** to get a link (up to 30 questions). The question ids are stored in the link itself (`#share=…`), so anyone can open the same quiz with no account and nothing sent to a server. Exam-style questions are not included, and questions that have since been removed are skipped with a note. When a shared quiz ends, **Share your score** lets a friend try to beat it.
 
 Question types:
 
 - **Multiple choice**, marked instantly, with an explanation.
 - **Written**, where you compare your answer with a model answer and its explanation, then mark yourself.
 - **Multi-part** (SAC-style, inside a subtopic quiz): a short context followed by parts a, b, c… Each part has a model answer, a worked solution whose steps show the marks they earn, and a common mistake. You give yourself the marks you earned for each part.
-- **Exam-style** (listed at the bottom of each subject page): long multi-part questions where one context runs through several topics, like the extended-response section of a VCE exam. Each opens on its own page (`#x-<id>`), and **Full exam-style test** (`#test-<subject>`) puts all of a subject's exam-style questions on one page. The results show marks by question and which subtopics lost marks. Every VCE maths and science subject, plus Biology and Psychology (Units 1 & 2 and Units 3 & 4), has six, two of them Challenge questions; Units 3 & 4 Mathematical Methods has seven. English and EAL and Chinese Second Language keep their long tasks (essays, argument analysis, reading passages, writing tasks) inside their subtopics instead. GCSE Biology has none, so its page has no exam-style section.
+- **Exam-style** (listed at the bottom of each subject page): long multi-part questions where one context runs through several topics, like the extended-response section of a VCE exam. Each opens on its own page (`#x-<id>`), and **Full exam-style test** (`#test-<subject>`) puts all of a subject's exam-style questions on one page. Each page has an optional **Timed mode**: reading time (15 minutes on a full test; on a single question min(15, max(2, ceil(writing minutes ÷ 6)))) with answers and solutions locked, then writing time (the questions' estimated minutes added up, rounded up to the minute), with a sticky countdown that announces 5 minutes left and time's up. Plain practice stays the default, and a part's worked solution can be shown one step at a time. The results show marks by question and which subtopics lost marks. Every VCE maths and science subject, plus Biology and Psychology (Units 1 & 2 and Units 3 & 4), has six, two of them Challenge questions; Units 3 & 4 Mathematical Methods has seven. English and EAL and Chinese Second Language keep their long tasks (essays, argument analysis, reading passages, writing tasks) inside their subtopics instead. GCSE Biology has none, so its page has no exam-style section.
 - **Challenge** questions are harder than the rest and carry a Challenge tag wherever they appear. Every subtopic ends with one, every subject ends with a **Challenge questions** topic holding a 10-question Challenge set, and every subject with an exam-style section has two Challenge exam-style questions (666 challenge questions in all).
 
 Scores are counted in marks: multiple-choice and written questions are worth 1 mark each, multi-part questions the sum of their parts.
 
-**Keyboard shortcuts**: in any quiz, 1–9 or A–I choose an option, R shows the model answer (Ctrl/⌘+Enter while typing in the answer box), G and M mark a written answer as got it or missed it, and Enter goes to the next question. A hint under each question lists the keys for its type; it is hidden on touch screens. Anywhere on the site, `/` or Ctrl/⌘+K jumps to the search box in the header, which finds subjects, topics, subtopics and exam-style questions by name; ↑/↓ move through the results, Enter opens one and Esc clears it. The full list is under the dashboard (`#dashboard`).
+**Sprints**: subtopic quizzes and Build a quiz run as short sprints. The default is 10 questions; before the first answer you can choose 5, 10, 20 or All (remembered in `localStorage` under `helix-sprint-v1`). A multi-part question counts as one question. Quizzes started from the dashboard, error log or mistake analysis keep the length of the list they were given. The summary screen shows marks, time taken, the weakest subtopic and, for each subtopic practised, mastery before and after (shown as "about 55 → about 60", or "Not enough answers yet"). **One more sprint** draws the next questions from the same pool, preferring ones not yet answered this session, then ones answered wrongly. A subtopic's best score is not set from a partial sprint. Instead, after any subtopic quiz its progress bar is raised to the marks of the distinct questions in that subtopic you have ever answered fully right, out of the subtopic's full marks, so the bar reads "how much of this subtopic you have got right" and only rises. A full run (All) still records its own best score. Sprints also count towards the dashboard, error log, mistake analysis and mastery. Developers: `runQuiz` takes `opts.onDone({ got, of, n })`, called once on the results screen, and `opts.ordered` to keep the given question order.
+
+**Focus mode**: while a quiz question is on screen the site header and footer are hidden, leaving a slim bar with a **Leave quiz** link and a progress bar ("Question 4 of 10"). The header returns on the summary screen and on any page change. The search shortcuts (`/`, Ctrl/⌘+K) do nothing during a quiz question. A correct answer gets a brief pulse (off when your device asks for reduced motion).
+
+**Keyboard shortcuts**: in any quiz, 1–9 or A–I choose an option, R shows the model answer (Ctrl/⌘+Enter while typing in the answer box), on a multi-part question R shows the full worked solution and N the next step, G and M mark a written answer as got it or missed it, and Enter goes to the next question. A hint under each question lists the keys for its type; it is hidden on touch screens. Anywhere on the site, `/` or Ctrl/⌘+K jumps to the search box in the header, which finds subjects, topics, subtopics and exam-style questions by name; ↑/↓ move through the results, Enter opens one and Esc clears it. The full list is under the dashboard (`#dashboard`).
 
 **Pick up where you left off**: once you have answered a question, the home page links to the subtopic of the last question you answered and, when questions are due for revision, offers to practise them.
 
-**Question info**: under every question a collapsible panel gives six things:
+**Question info**: under every question a row of summary chips shows its marks, estimated time, exam relevance and main question type, and a collapsible "More about this question" panel below gives six things:
 
 - **Topic**: the subtopic the question tests, linked to its quiz, and its topic. Exam-style questions list every subtopic their parts test.
 - **Marks**: the marks it would be worth in an exam. This is 1 for multiple choice and the sum of the parts for multi-part questions. For written questions it is an estimate, taken from the "(n marks)" in the prompt where there is one; they still score 1 mark on the site. Chinese conversation questions are marked as a whole.
@@ -88,7 +96,8 @@ Writes merge with what is stored (the later edit wins), so two open tabs never u
   - coverage: the share of the subject's marks you have shown you can get;
   - questions in the last seven days;
   - mastery for each topic.
-- **Topic mastery**: practised subtopics grouped as Beginning, Developing, Secure, Mastered or Not enough data yet. Each shows a rounded score with a likely range, its reliability, and its change since last week.
+- **Topic mastery**: practised subtopics grouped as Beginning, Developing, Secure, Mastered or Not enough data yet. Each shows a rounded score with a likely range, its reliability, and its change since last week. Each also carries a text level: the engine's own level, or Not started (no attempts) or Not enough data yet.
+- **Milestones**: six badges (first quiz finished, 100 questions answered, first subtopic Secure, first subtopic Mastered, a whole topic Mastered, studied on 7 different days). They are worked out from the history on each visit, with nothing new stored; unearned badges say "Not yet".
 - **Difficulty analysis**: accuracy on easy, medium and difficult questions against the typical success rate, once the difficulty ratings (`const DIFF`) are on the site.
 - **Recent activity**: recent questions, recent questions that lost marks, and completed quizzes and exam pages.
 - **Recommended next steps**: the weakest subtopics, questions due for revision, and suggested practice. A question that lost marks comes back a day later, and once it is right it comes back a week later; ticking Resolved in the error log stops it.
@@ -103,6 +112,14 @@ A figure only shows once it has enough data behind it; otherwise the page says h
 | A difficulty band | 10 marks |
 
 The history behind it is in `localStorage` under `helix-activity-v1`. It holds one row per marked question or part (question, subtopic, marks, seconds and session) and one row per finished quiz or exam page. Study time counts only while a question is on screen and the tab is visible, capped at three times the question's estimated time. Writes are batched, and each write adds to what is already stored, so two open tabs do not undo each other. Nothing is sent anywhere, and the history can be deleted from the bottom of the dashboard. History starts when this version is first opened, so earlier quizzes count towards mastery but not towards accuracy, time or trends.
+
+## Exam dates and the weekly plan
+
+Settings has an **Exam dates** section with a date box for each of your subjects that has an external exam (Units 1 and 2 subjects have none). Dates are saved on the device under `helix-exams-v1` as `{subjectId: "YYYY-MM-DD"}`, and you can clear any of them. The dashboard's **Your exam plan** section then shows each exam's countdown, this week's target and progress, and the next two or three subtopics to work on. Nothing else is stored: the plan is worked out each time. Weeks left is the days to the exam divided by 7, rounded up (at least 1). The target this week is the number of subtopics not yet Secure divided by the weeks left, rounded up and capped at 6, shown as sprints (one sprint per subtopic). In the final 7 days the plan switches to review: mixed sprints, focusing on weak spots. Progress counts the quizzes finished in that subject since Monday. Past dates are shown as finished and left out of the plan. `planSummaryHtml()` returns a one-line summary for the Today card, or an empty string when no dates are set.
+
+## My subjects
+
+Students usually take four to six subjects, so Settings has a **My subjects** section where you tick yours. Once you have, the home page, subjects list, header search, dashboard subject cards and mastery lists, and the quiz builder's subject picker show only those subjects (each has a "Show all subjects" way out, and search falls back to every subject when nothing in yours matches). The choice is saved on the device under `helix-subjects-v1`; choosing nothing shows every subject, and links to any subject still work.
 
 ## Topic mastery
 
@@ -191,6 +208,10 @@ This runs the 21 mastery tests below and the maths-formatting tests. The mastery
 - **Subscripts:** need the explicit form `_{...}`, for example `log_{e}(x)`, `V_{RMS}` or `x_{n+1}`. A bare underscore is shown as it is, because Biology uses it for "any allele" (`A_bb`), Psychology for a missing letter (`ch_ir`) and Chinese for blanks (`___`).
 - **KaTeX:** anything inside `\( \)` or `\[ \]` is typeset by KaTeX as before.
 - **Code and tests:** the formatter is the `supsub` block between `/* <maths-text> */` markers in `index.html`, tested in `tests/maths-text.test.mjs`.
+
+## Refreshers, hints and glossary
+
+Three AI-written pilots live in `content/` and are fetched only when a page needs them: a "60-second refresher" on subtopic pages (and after a wrong answer), a "Show a hint" button on multi-part questions, and glossary pop-ups on key terms in questions. Methods and Chemistry have notes and hints; Chemistry and Psychology Units 3 & 4 have a glossary. Subjects without a file simply show nothing. Each is labelled as AI-written with a link to report a mistake. The matching helpers sit between `/* <content-helpers> */` markers in `index.html` and are tested in `tests/content.test.mjs`.
 
 ## Question files
 

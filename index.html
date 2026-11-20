@@ -218,12 +218,12 @@ details.faq p { margin-top: 8px; font-size: 0.875rem; color: var(--muted); }
 @media (max-width: 420px) { .qmeta .chip-diff .dc-word { display: none; } }
 .qprompt { font-size: 1.2rem; font-weight: 600; line-height: 1.45; margin-bottom: 20px; }
 /* Question info: a collapsed panel under each question with its topic, marks, time, exam relevance, prerequisites and type. */
-details.qinfo { margin: -8px 0 20px; border: 1px solid var(--line-soft); border-radius: var(--r-sm); background: var(--surface-2); font-size: 0.875rem; }
+details.qinfo { margin: 0 0 20px; border: 1px solid var(--line-soft); border-radius: var(--r-sm); background: var(--surface-2); font-size: 0.875rem; }
 details.qinfo.qinfo-h { margin: 4px 0 0; }
-details.qinfo summary { cursor: pointer; list-style: none; display: grid; grid-template-columns: auto minmax(0, 1fr) auto; align-items: center; gap: 2px 10px; min-height: 44px; padding: 8px 12px; }
+.qchips { list-style: none; margin-top: 0; padding: 0; } /* summary chips above the panel; styled as the .qmeta chips */
+details.qinfo summary { cursor: pointer; list-style: none; display: grid; grid-template-columns: minmax(0, 1fr) auto; align-items: center; gap: 2px 10px; min-height: 44px; padding: 8px 12px; }
 details.qinfo summary::-webkit-details-marker { display: none; }
 .qinfo .qi-h { font-weight: 600; }
-.qinfo .qi-s { color: var(--muted); }
 .qinfo .qi-x { color: var(--muted); font-size: 1.1rem; line-height: 1; transition: transform var(--dur) var(--ease); }
 details.qinfo[open] .qi-x { transform: rotate(45deg); }
 .qinfo dl { margin: 0; padding: 12px; border-top: 1px solid var(--line-soft); display: grid; grid-template-columns: max-content minmax(0, 1fr); gap: 8px 16px; }
@@ -231,8 +231,6 @@ details.qinfo[open] .qi-x { transform: rotate(45deg); }
 .qinfo dd { margin: 0; min-width: 0; overflow-wrap: anywhere; }
 .qinfo .qt { display: block; }
 @media (max-width: 560px) {
-  details.qinfo summary { grid-template-columns: minmax(0, 1fr) auto; }
-  .qinfo .qi-s { grid-column: 1; grid-row: 2; } .qinfo .qi-x { grid-column: 2; grid-row: 1; }
   .qinfo dl { grid-template-columns: minmax(0, 1fr); gap: 2px; } .qinfo dd + dt { margin-top: 10px; }
 }
 .opts { display: grid; gap: 8px; }
@@ -366,6 +364,19 @@ fieldset.conf legend { float: left; margin-right: 4px; padding: 0; font-size: 0.
 fieldset.conf legend .muted { font-weight: 400; }
 @media (max-width: 480px) { fieldset.conf legend { float: none; width: 100%; margin: 0 0 6px; } }
 .qend { align-self: center; font-size: 0.8125rem; }
+/* Focus mode (see focusMode in the script): the site header and footer give way to a slim quiz bar. */
+html.quizzing header.site, html.quizzing footer.site { display: none; }
+html.quizzing { scroll-padding-top: calc(80px + env(safe-area-inset-top, 0px)); }
+.qbar { position: sticky; top: 0; z-index: 20; display: flex; flex-wrap: wrap; align-items: center; gap: 0 16px; margin-bottom: 16px; padding: env(safe-area-inset-top, 0px) 0 8px; background: var(--bg); }
+.qleave { display: inline-flex; align-items: center; min-height: 44px; }
+.qtrack { flex: 0 0 100%; height: 4px; border-radius: var(--r-pill); background: var(--line-soft); overflow: hidden; }
+.qtrack span { display: block; height: 100%; background: var(--accent); transition: width var(--dur) var(--ease); }
+.mlist { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 10px; }
+.mbar { height: 6px; margin-top: 4px; border-radius: var(--r-pill); background: var(--line-soft); overflow: hidden; }
+.mbar span { display: block; height: 100%; background: var(--accent); transition: width 900ms var(--ease); }
+@keyframes pop { 50% { transform: scale(1.04); } }
+.opt.right.hit, .verdict.ok, #mstatus.pulse { animation: pop 450ms var(--ease); }
+.verdict.ok { display: inline-block; }
 fieldset.conf label { position: relative; display: inline-flex; }
 fieldset.conf input { position: absolute; inset: 0; width: 100%; height: 100%; margin: 0; opacity: 0; cursor: pointer; }
 fieldset.conf label span { display: inline-flex; align-items: center; min-height: 36px; padding: 0 12px; border: 1px solid var(--field); border-radius: var(--r-pill); background: var(--surface); font-size: 0.8125rem; }
@@ -374,6 +385,8 @@ fieldset.conf input:focus-visible + span { outline: 2px solid var(--ink); outlin
 .lv { display: inline-block; border-radius: var(--r-pill); padding: 1px 10px; font-size: 0.75rem; font-weight: 700; border: 1px solid var(--field); white-space: nowrap; }
 .lv-m { background: var(--good-soft); color: var(--good); border-color: var(--good); } .lv-s { background: var(--accent-soft); }
 .lv-d { background: var(--surface-2); } .lv-b { background: var(--bad-soft); color: var(--bad); border-color: var(--bad); }
+.lv-n { color: var(--muted); border-style: dashed; } .subs .lv { display: table; margin-top: 4px; }
+.dmiles { list-style: none; margin: 0; padding: 0; } .dmile-no { border-style: dashed; }
 .mtab td, .mtab th { white-space: nowrap; } .mtab tbody th { white-space: normal; min-width: 14rem; }
 .mtab td b { font-family: var(--font-display); font-size: 1.1rem; margin-right: 6px; } .mtab td .xs, .mtab th .xs { display: block; }
 .mtab td:nth-child(n+4):nth-child(-n+7) { font-variant-numeric: tabular-nums; text-align: right; }
@@ -459,7 +472,7 @@ details.dtopics[open] > summary::after, details.dmore[open] > summary::after { t
 details.dtopics ul { list-style: none; margin: 8px 0 0; padding: 0; display: flex; flex-direction: column; gap: 10px; }
 details.dtopics li { display: flex; flex-direction: column; gap: 2px; }
 .dtn { font-weight: 500; }
-.dbuckets, .dbands, .drecent, .dnext { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 14rem), 1fr)); gap: 12px; align-items: start; }
+.dbuckets, .dbands, .drecent, .dnext, .dmiles { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 14rem), 1fr)); gap: 12px; align-items: start; }
 .dkeys { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 16rem), 1fr)); gap: 12px; align-items: start; }
 .keys-list { display: grid; grid-template-columns: max-content 1fr; gap: 8px 12px; align-items: baseline; margin: 0; }
 .keys-list > div { display: contents; } /* each row's dt and dd join the list's grid, so key columns line up */
@@ -494,6 +507,17 @@ kbd { display: inline-block; min-width: 1.6em; padding: 2px 6px; border: 1.5px s
 @keyframes skp { from { opacity: .45; } to { opacity: .9; } }
 @media (max-width: 420px) { .dt-v { font-size: 1.8rem; } .tw-bar { height: 96px; } .trend { gap: 3px; } .tw-l { font-size: 0.62rem; } }
 @media (prefers-reduced-motion: reduce) { * { transition: none !important; animation: none !important; } }
+.gl { font: inherit; color: inherit; background: none; border: 0; border-bottom: 1px dotted currentColor; padding: 0 0 1px; margin: 0; cursor: help; }
+.gl:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+.gl-tip { display: inline-block; position: relative; width: 0; height: 0; }
+.gl-pop { position: absolute; top: 1.2em; left: 0; z-index: 20; width: max-content; max-width: min(18rem, calc(100vw - 32px)); box-sizing: border-box; background: var(--surface); color: var(--ink); border: 1px solid var(--ink); border-radius: var(--r-lg); padding: 10px 12px; font-size: 0.8125rem; font-weight: 400; line-height: 1.45; text-align: left; box-shadow: 0 4px 16px rgba(0,0,0,.18); display: block; }
+.gl-pop .xs { display: block; margin-top: 4px; }
+.note { border: 1px solid var(--line-soft); border-radius: var(--r-lg); background: var(--surface); }
+.note > summary { cursor: pointer; padding: 12px 16px; font-weight: 600; font-family: var(--font-display); }
+.note > div, .note-in { padding: 0 16px 14px; font-size: 0.875rem; }
+.note ul, .note ol, .note-in ul, .note-in ol { margin: 6px 0; padding-left: 1.25rem; }
+.note-in { border: 1px solid var(--line-soft); border-left: 3px solid var(--accent); border-radius: var(--r-lg); background: var(--accent-soft); padding-top: 12px; }
+.hint { margin-top: 8px; font-size: 0.8125rem; }
 </style>
 
 <a class="skip" href="#app">Skip to main content</a>
@@ -535,6 +559,12 @@ const DIFF = {"chem-1-1-1":[1,88,"m"],"chem-1-1-2":[3,59,"m"],"chem-1-1-3":[2,78
   const subjects = DATA.S.map(([id, name, label, group, T]) => ({ id, name, label, group,
     topics: T.map(([number, tname, subs]) => ({ number, name: tname, subtopics: subs.map(([slug, sname, triple]) => ({ slug, name: sname, tripleOnly: !!triple, topic: number, subject: id })) })) }));
   const subjById = {}; subjects.forEach(s => { subjById[s.id] = s; });
+  // "My subjects": the ids the student chose (helix-subjects-v1). None chosen, or only unknown ids, means every subject.
+  let mineIds = []; try { const a = JSON.parse(localStorage.getItem("helix-subjects-v1")); if (Array.isArray(a)) mineIds = a; } catch {}
+  const hasMine = () => subjects.some(s => mineIds.includes(s.id));
+  const mySubjects = () => hasMine() ? subjects.filter(s => mineIds.includes(s.id)) : subjects;
+  const myIds = () => new Set(mySubjects().map(s => s.id));
+  const saveMine = ids => { mineIds = ids; try { ids.length ? localStorage.setItem("helix-subjects-v1", JSON.stringify(ids)) : localStorage.removeItem("helix-subjects-v1"); } catch {} };
   // DATA.Q: { slug: [question] }. MCQ and written questions are positional arrays:
   //   MCQ [id, 0, prompt, options, answerIndex, explanation, higherOnly]; written [id, 1, prompt, answer, explanation, higherOnly].
   // Multi-part questions are objects with named fields (also used for DATA.X, the exam-style questions):
@@ -670,8 +700,8 @@ const DIFF = {"chem-1-1-1":[1,88,"m"],"chem-1-1-2":[3,59,"m"],"chem-1-1-3":[2,78
     const prior = [...new Set(metas.map(m => m[2]).filter(Boolean))];
     const marksShort = kind === "short" ? (t[1] ? `about ${marksTxt(t[1])}` : "marked as a whole") : marksTxt(t[1]);
     return {
-      sum: [types.map(x => QTYPES[x][0]).join(", "), marksShort, `about ${t[2]} min`].join(" · "),
       topic,
+      chips: [marksShort, `about ${t[2]} min`, `${REL[w - 1]} relevance`, types.length ? QTYPES[types[0]][0] : ""].filter(Boolean),
       marks: kind === "short" ? (t[1] ? `About ${marksTxt(t[1])} in an exam. Here you mark it as 1 mark: got it or missed it.` : "Marked as part of the whole conversation, not question by question.")
         : kind === "mcq" ? "1 mark" : marksTxt(t[1]),
       time: `About ${t[2]} minute${t[2] === 1 ? "" : "s"}`,
@@ -687,7 +717,8 @@ const DIFF = {"chem-1-1-1":[1,88,"m"],"chem-1-1-2":[3,59,"m"],"chem-1-1-3":[2,78
     qinfoOpen = e.target.open; try { localStorage.setItem("helix-qinfo", qinfoOpen ? "1" : "0"); } catch {}
   }, true);
   const qinfoHtml = (q, cls) => { const i = qinfo(q); if (!i) return "";
-    return `<details class="qinfo${cls ? " " + cls : ""}"${qinfoOpen ? " open" : ""}><summary><span class="qi-h">Question info</span><span class="qi-s">${esc(i.sum)}</span><span class="qi-x" aria-hidden="true">+</span></summary>
+    return `<ul class="qmeta qchips" aria-label="Question summary">${i.chips.map(c => `<li class="chip">${esc(c)}</li>`).join("")}</ul>
+      <details class="qinfo${cls ? " " + cls : ""}"${qinfoOpen ? " open" : ""}><summary><span class="qi-h">More about this question</span><span class="qi-x" aria-hidden="true">+</span></summary>
       <dl><dt>Topic</dt><dd>${i.topic}</dd><dt>Marks</dt><dd>${i.marks}</dd><dt>Estimated time</dt><dd>${i.time}</dd><dt>Exam relevance</dt><dd>${i.rel}</dd><dt>Prerequisites</dt><dd>${i.pre}</dd><dt>Question type</dt><dd>${i.type}</dd></dl></details>`; };
 
   // ---- maths (KaTeX) ----
@@ -695,8 +726,83 @@ const DIFF = {"chem-1-1-1":[1,88,"m"],"chem-1-1-2":[3,59,"m"],"chem-1-1-3":[2,78
   // Every view replaces innerHTML, so call typeset on whatever was just rendered.
   const MATH = [{ left: "\\[", right: "\\]", display: true }, { left: "\\(", right: "\\)", display: false }];
   const typeset = el => { if (el && window.renderMathInElement) try { window.renderMathInElement(el, { delimiters: MATH, throwOnError: false }); } catch {} };
+  // ---- study content: 60-second refreshers, hints and glossary (AI-written pilots in content/<kind>/<subjectId>.json) ----
+  // Each file is fetched once, on demand. A missing file, or opening the site from file://, resolves to null and the feature stays hidden.
+  const contentCache = {};
+  const loadContent = (kind, sid) => contentCache[kind + "/" + sid] || (contentCache[kind + "/" + sid] = fetch(`content/${kind}/${sid}.json`).then(r => r.ok ? r.json() : null).catch(() => null));
+  const sidOf = q => q.subject || (slugOfQ[q.id] && subBySlug[slugOfQ[q.id]].subject);
+  const issueLink = what => `<a class="link" href="${REPO}/issues/new?title=${encodeURIComponent("Mistake in " + what)}">report a mistake</a>`;
+  const aiNote = what => `AI-written. Check it against your notes; ${issueLink(what)}.`;
+  const hintMap = {}; // "<question id>#<part>" -> hint text, filled as each subject's hints load
+
+  /* <content-helpers> */
+  // Glossary matching. glossBuild makes one regex of every term and alias, longest first, whole words, case-insensitive.
+  // glossFind lists the matches in text that are the first for their term (seen is shared across a question), up to max terms in all.
+  const glossBuild = terms => {
+    const map = new Map();
+    for (const t of terms) for (const n of [t.term, ...(t.aliases || [])]) if (n && !map.has(n.toLowerCase())) map.set(n.toLowerCase(), t);
+    const names = [...map.keys()].sort((a, b) => b.length - a.length).map(n => (/^\w/.test(n) ? "\\b" : "") + n.replace(/[.*+?^${}()|[\]\\]/g, "\\$&") + (/\w$/.test(n) ? "\\b" : ""));
+    return { map, re: names.length ? new RegExp(names.join("|"), "gi") : null };
+  };
+  const glossFind = (text, g, seen, max) => {
+    const out = []; if (!g.re) return out;
+    g.re.lastIndex = 0;
+    for (let m; seen.size < max && (m = g.re.exec(text));) {
+      const t = g.map.get(m[0].toLowerCase());
+      if (t && !seen.has(t)) { seen.add(t); out.push({ start: m.index, end: m.index + m[0].length, def: t.def }); }
+    }
+    return out;
+  };
+  /* </content-helpers> */
+
+  // Glossary toggletip: a button followed by a role="status" span. Activating the button fills the span, so screen readers announce the definition.
+  const glossaries = {};
+  async function glossify(root, sid) {
+    const d = await loadContent("glossary", sid); if (!d || !d.terms) return;
+    const g = glossaries[sid] || (glossaries[sid] = glossBuild(d.terms));
+    for (const card of root.querySelectorAll(".qcard")) {
+      const seen = new Set(), nodes = [];
+      for (const el of card.querySelectorAll(".qprompt, .info, .pq")) {
+        const w = document.createTreeWalker(el, NodeFilter.SHOW_TEXT);
+        for (let n; (n = w.nextNode());) if (!n.parentElement.closest(".katex, a, button, input, textarea, .gl, .gl-tip")) nodes.push(n);
+      }
+      for (const n of nodes) {
+        const hits = glossFind(n.nodeValue, g, seen, 6); if (!hits.length) continue;
+        const f = document.createDocumentFragment(); let at = 0;
+        for (const h of hits) {
+          f.append(n.nodeValue.slice(at, h.start));
+          const b = document.createElement("button"); b.type = "button"; b.className = "gl"; b.setAttribute("aria-expanded", "false"); b.dataset.def = h.def; b.textContent = n.nodeValue.slice(h.start, h.end);
+          const s = document.createElement("span"); s.className = "gl-tip"; s.setAttribute("role", "status");
+          f.append(b, s); at = h.end;
+        }
+        f.append(n.nodeValue.slice(at)); n.replaceWith(f);
+      }
+    }
+  }
+  const glClose = except => document.querySelectorAll(".gl[aria-expanded=true]").forEach(b => { if (b !== except) { b.setAttribute("aria-expanded", "false"); b.nextElementSibling.textContent = ""; } });
+  document.addEventListener("click", e => {
+    const b = e.target.closest(".gl"); glClose(b);
+    if (!b) return;
+    if (b.getAttribute("aria-expanded") === "true") { glClose(); return; }
+    b.setAttribute("aria-expanded", "true");
+    const tip = b.nextElementSibling;
+    tip.innerHTML = `<span class="gl-pop"><b>${esc(b.textContent)}</b>: ${esc(b.dataset.def)}<span class="xs muted">AI-written definition. Check it against your notes.</span></span>`;
+    const p = tip.firstChild, r = p.getBoundingClientRect(); // keep the popover inside the viewport
+    p.style.left = Math.max(8 - r.left, Math.min(0, document.documentElement.clientWidth - 8 - r.right)) + "px";
+  });
+  document.addEventListener("keydown", e => { if (e.key !== "Escape") return; const o = document.querySelector(".gl[aria-expanded=true]"); if (o) { glClose(); o.focus(); } });
+
+  // 60-second refresher: the card on subtopic pages and the inline copy after a wrong answer.
+  const noteBody = (n, slug) => { const ex = n.example;
+    return `<ul>${n.points.map(p => `<li>${txt(p)}</li>`).join("")}</ul>
+      ${ex ? `<b class="sub">Worked example</b><p>${txt(ex.question)}</p><ol class="steps">${ex.steps.map(x => `<li>${txt(x)}</li>`).join("")}</ol><p><b>Answer:</b> ${txt(ex.answer)}</p>` : ""}
+      ${n.watch ? `<p><b>Watch out:</b> ${txt(n.watch)}</p>` : ""}
+      <p class="xs muted">AI-written summary. Check it against your notes; ${issueLink("60-second refresher: " + subBySlug[slug].name)}.</p>`; };
+  const getNote = async slug => { const d = await loadContent("notes", subBySlug[slug].subject); return d && d[slug] && d[slug].points ? d[slug] : null; };
   window.helixTypeset = () => typeset(app);
 
+  // Set while a backup is being restored: no page write may run until the page reloads, or it would merge stale data back in.
+  let restoring = false;
   // ---- progress (per-browser) ----
   // v2: { key: { best, total, attempts } } where best/total is the best attempt as marks earned out of marks available.
   // Keys are subtopic slugs, or "x:" + id for exam-style questions. v1 stored questions right out of questions asked;
@@ -717,6 +823,19 @@ const DIFF = {"chem-1-1-1":[1,88,"m"],"chem-1-1-2":[3,59,"m"],"chem-1-1-3":[2,78
     const prev = progress[key];
     const better = !prev || got * prev.total > prev.best * of; // compare got/of with best/total without dividing
     progress = { ...progress, [key]: { best: better ? got : prev.best, total: better ? of : prev.total, attempts: (prev && prev.attempts || 0) + 1 } };
+    try { if (!restoring) localStorage.setItem(KEY, JSON.stringify(progress)); } catch {}
+  }
+  // Short sprints rarely cover a whole subtopic, so the subtopic bar would never move. After any subtopic quiz, raise best to the marks
+  // of the distinct questions (or parts) in the subtopic that have ever been answered fully right, out of the subtopic's full marks.
+  // The history (act.a rows: time, question id, part, slug, got, of) already holds this session's answers. It only ever rises.
+  function raiseCover(slug) {
+    const tot = slugMarks(slug), ok = new Map();
+    for (const r of act.a) if (slugOfQ[r[1]] === slug && r[4] >= r[5]) ok.set(r[1] + "#" + r[2], r[5]);
+    let got = 0; ok.forEach(v => { got += v; });
+    got = Math.min(got, tot);
+    const prev = progress[slug];
+    if (!tot || !got || (prev && got * prev.total <= prev.best * tot)) return;
+    progress = { ...progress, [slug]: { best: got, total: tot, attempts: (prev && prev.attempts) || 1 } };
     try { localStorage.setItem(KEY, JSON.stringify(progress)); } catch {}
   }
 
@@ -729,7 +848,7 @@ const DIFF = {"chem-1-1-1":[1,88,"m"],"chem-1-1-2":[3,59,"m"],"chem-1-1-3":[2,78
     const s = JSON.parse(localStorage.getItem(EKEY) || "null");
     if (s && s.items && typeof s.items === "object") elog = { auto: s.auto !== false, items: s.items };
   } catch {}
-  const saveLog = () => { try { localStorage.setItem(EKEY, JSON.stringify(elog)); } catch {} };
+  const saveLog = () => { try { if (!restoring) localStorage.setItem(EKEY, JSON.stringify(elog)); } catch {} };
   const today = () => { const d = new Date(); return `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, "0")}-${String(d.getDate()).padStart(2, "0")}`; };
   const ekey = (q, p) => p ? `${q.id}#${p.label}` : q.id;
   const inLog = (q, p) => { const e = elog.items[ekey(q, p)]; return !!e && !e.done; };
@@ -923,7 +1042,7 @@ const DIFF = {"chem-1-1-1":[1,88,"m"],"chem-1-1-2":[3,59,"m"],"chem-1-1-3":[2,78
   const withPending = base => ({ ...base, a: base.a.concat(pend.a), s: base.s.concat(pend.s) });
   function flushAct(replace) {
     clearTimeout(actTimer); actTimer = 0;
-    if (actErr || (replace !== true && !pend.a.length && !pend.s.length)) return;
+    if (restoring || actErr || (replace !== true && !pend.a.length && !pend.s.length)) return;
     if (replace !== true) { let stored = null; try { stored = readAct(localStorage.getItem(AKEY)); } catch {} if (stored) act = withPending(stored); }
     pend = { a: [], s: [] };
     if (act.a.length > A_MAX) { act.a.splice(0, act.a.length - A_MAX); act.trimmed = true; }
@@ -1014,7 +1133,7 @@ const DIFF = {"chem-1-1-1":[1,88,"m"],"chem-1-1-2":[3,59,"m"],"chem-1-1-3":[2,78
   };
   function flushMis() {
     clearTimeout(misTimer); misTimer = 0;
-    if (misErr || !misDirty.size) return;
+    if (restoring || misErr || !misDirty.size) return;
     let stored = null; try { stored = readMis(localStorage.getItem(MKEY)); } catch {}
     if (stored) setMis(mergeMis(stored));
     misDirty = new Set();
@@ -1095,13 +1214,14 @@ const DIFF = {"chem-1-1-1":[1,88,"m"],"chem-1-1-2":[3,59,"m"],"chem-1-1-3":[2,78
       ${g}
     </svg>`;
   }
-  function subjGrid(group) {
-    return `<div class="subj-grid">${subjects.filter(s => !group || s.group === group).map(sj => {
+  function subjGrid(group, list = subjects) {
+    return `<div class="subj-grid">${list.filter(s => !group || s.group === group).map(sj => {
       const n = subjQs(sj), m = subjMarks(sj), done = subjSlugs(sj).reduce((a, s) => a + ratio(s) * slugMarks(s), 0);
       return `<a class="card subj" href="#s-${sj.id}"><span class="call">${esc(sj.label)}</span><b>${esc(sj.name)}</b><span class="xs muted">${sj.topics.length} topics · ${n} questions${done ? ` · best scores ${Math.round(done / m * 100)}%` : ""}</span></a>`;
     }).join("")}</div>`;
   }
-  const groups = () => [...new Set(subjects.map(s => s.group))];
+  const groups = (list = subjects) => [...new Set(list.map(s => s.group))];
+  const groupedGrids = (list, h = "h2") => groups(list).map(g => `<section class="stack" style="gap:12px"><${h} class="section-h">${esc(g)}</${h}>${subjGrid(g, list)}</section>`).join("");
   function home() {
     app.innerHTML = `<div class="wrap w5 view stack-lg"><div class="hero-wrap"><div class="hero">
       <span class="call">VCE Units 1–4 · GCSE Biology</span>
@@ -1110,7 +1230,11 @@ const DIFF = {"chem-1-1-1":[1,88,"m"],"chem-1-1-2":[3,59,"m"],"chem-1-1-3":[2,78
       <div class="row"><a class="btn btn-primary btn-lg" href="#topics">Choose a subject</a><a class="btn btn-ghost btn-lg" href="#custom">Build a quiz</a></div>
       <p class="small muted">Free · No sign-up · ${subCount} subtopics · ${totalQs.toLocaleString("en-AU")} questions</p>
     </div><div class="shore">${shoreSvg()}</div></div><div id="cont"></div>
-    ${groups().map(g => `<section class="stack" style="gap:12px"><h2 class="section-h">${esc(g)}</h2>${subjGrid(g)}</section>`).join("")}</div>`;
+    ${hasMine() ? "" : `<section class="card pad row" id="mypr" aria-labelledby="mypr-h" style="justify-content:space-between"><h2 class="h2s" id="mypr-h">Choose your subjects to see only what you study</h2><span class="row"><a class="btn btn-primary" href="#settings">Choose subjects</a><button class="btn btn-ghost" id="mypx">Dismiss</button></span></section>`}
+    ${groupedGrids(mySubjects())}${hasMine() ? `<a class="link" href="#topics">Show all subjects →</a>` : ""}</div>`;
+    let hid = false; try { hid = !!localStorage.getItem("helix-subjects-prompt-v1"); } catch {}
+    const pr = app.querySelector("#mypr"); if (pr && hid) pr.remove();
+    else if (pr) pr.querySelector("#mypx").onclick = () => { try { localStorage.setItem("helix-subjects-prompt-v1", "1"); } catch {} pr.remove(); app.querySelector(".hero a").focus(); };
     continueCard(app.querySelector("#cont"));
   }
   // "Pick up where you left off": the subtopic of the last question answered, and the questions due for revision.
@@ -1131,7 +1255,7 @@ const DIFF = {"chem-1-1-1":[1,88,"m"],"chem-1-1-2":[3,59,"m"],"chem-1-1-3":[2,78
   function subjectsView() {
     app.innerHTML = `<div class="wrap w5 view stack-lg"><div class="stack" style="gap:12px"><h1 class="page-h1">Subjects</h1>
       <p class="muted" style="max-width:42rem">Pick a subject, then any subtopic, and test yourself with quick self-marking questions. Your best score for each subtopic is saved on this device.</p><a class="link" href="#custom">Build your own mixed quiz →</a></div>
-      ${groups().map(g => `<section class="stack" style="gap:12px"><h2 class="section-h">${esc(g)}</h2>${subjGrid(g)}</section>`).join("")}</div>`;
+      ${hasMine() ? `<h2 class="section-h">My subjects</h2>${groupedGrids(mySubjects(), "h3")}<details class="stack" style="gap:12px"><summary>Other subjects</summary>${groupedGrids(subjects.filter(s => !myIds().has(s.id)), "h3")}</details>` : groupedGrids(subjects)}</div>`;
   }
 
   const openTopics = {};
@@ -1149,22 +1273,25 @@ const DIFF = {"chem-1-1-1":[1,88,"m"],"chem-1-1-2":[3,59,"m"],"chem-1-1-3":[2,78
     const slugs = subjSlugs(sj), tot = subjBankQs(sj), totM = subjMarks(sj), xs = exams[id] || [];
     const nLog = Object.values(elog.items).filter(e => !e.done && subBySlug[e.slug] && subBySlug[e.slug].subject === id).length;
     const done = slugs.reduce((s, slug) => s + ratio(slug) * slugMarks(slug), 0);
+    const mm = masteryNow(); // one pass for every row on the page
     const allOpen = open.size === topics.length;
     const topicHtml = topics.map(t => {
       const isOpen = open.has(t.number);
       const avail = t.subtopics.filter(s => count(s.slug));
       const tTot = avail.reduce((a, s) => a + slugMarks(s.slug), 0);
       const tDone = avail.reduce((a, s) => a + ratio(s.slug) * slugMarks(s.slug), 0);
+      // Same subtopics as the header count (t.subtopics): "Coming soon" ones have no level, so they count as not Secure.
+      const nSolid = t.subtopics.filter(s => solidPlus(masteryLevel(mm.subs[s.slug]))).length;
       const subs = isOpen ? `<ul class="subs">${t.subtopics.map(s => {
         const n = count(s.slug); const sc = progress[s.slug];
         const pct = sc && sc.total ? Math.round(sc.best / sc.total * 100) : null;
         const badge = pct === null ? `<span class="score s-none">—</span>` : `<span class="score ${pct >= 80 ? "s-good" : pct >= 50 ? "s-mid" : "s-bad"}">${pct}%</span>`;
-        const label = `<span class="name">${esc(s.name)}${s.tripleOnly ? '<span class="mini">Triple</span>' : ""}</span>`;
+        const label = `<span class="name">${esc(s.name)}${s.tripleOnly ? '<span class="mini">Triple</span>' : ""}${n ? levelPill(mm.subs[s.slug]) : ""}</span>`;
         return n ? `<li><a href="#${s.slug}">${label}<span class="xs muted">${n} Qs</span>${badge}</a></li>` : `<li><a class="muted" aria-disabled="true">${label}<span class="xs">Coming soon</span></a></li>`;
       }).join("")}</ul>` : "";
       return `<div class="card topic ${isOpen ? "open" : ""}"><button class="topic-head" data-topic="${t.number}" aria-expanded="${isOpen}">
         <span class="num">${t.number}</span>
-        <span class="topic-title"><b>${esc(t.name)}</b><span class="xs muted">${t.subtopics.length} subtopics${tDone ? ` · best scores ${Math.round(tDone / tTot * 100)}%` : ""}</span></span>
+        <span class="topic-title"><b>${esc(t.name)}</b><span class="xs muted">${t.subtopics.length} subtopics${tDone ? ` · best scores ${Math.round(tDone / tTot * 100)}%` : ""}${t.subtopics.length ? ` · ${nSolid} of ${t.subtopics.length} ${t.subtopics.length === 1 ? "subtopic" : "subtopics"} Secure or better` : ""}</span></span>
         <span class="chev" aria-hidden="true">▾</span></button>${subs}</div>`;
     }).join("");
     app.innerHTML = `<div class="wrap w5 view stack-lg">
@@ -1198,33 +1325,52 @@ const DIFF = {"chem-1-1-1":[1,88,"m"],"chem-1-1-2":[3,59,"m"],"chem-1-1-3":[2,78
 
   // ---- multi-part questions ----
   // st = { parts: [{ open, got, draft }] } belongs to the caller, so re-rendering a question restores the student's place.
-  const multiState = q => ({ parts: q.parts.map(() => ({ open: false, got: null, draft: "", mis: { cats: [], note: "", stuck: "", k: "" } })) });
+  const multiState = q => ({ parts: q.parts.map(() => ({ open: false, shown: 0, got: null, draft: "", mis: { cats: [], note: "", stuck: "", k: "" } })) });
   const tally = st => ({ got: st.parts.reduce((a, s) => a + (s.got || 0), 0), marked: st.parts.filter(s => s.got !== null).length });
   const tableHtml = t => `<div class="tscroll"><table class="dtab"><tbody>${t.rows.map(r => `<tr>${r.map((c, k) => k ? `<td>${txt(c)}</td>` : `<th scope="row">${txt(c)}</th>`).join("")}</tr>`).join("")}</tbody></table></div>`;
   // Diagram SVGs come from DATA (checked by scripts/verify.py) and carry aria-hidden; the wrapper gives the text alternative.
   const infoHtml = p => `<div class="info">${p.text ? `<p>${txt(p.text)}</p>` : ""}${p.table ? tableHtml(p.table) : ""}${p.diagram ? `<div class="dia" role="img" aria-label="${esc(p.diagram.alt)}">${p.diagram.svg}</div>` : ""}</div>`;
+  const stepLi = (x, marks) => `<li>${txt(x.working)}${marks && x.marks ? ` <span class="mk">${marksTxt(x.marks)}</span>` : ""}</li>`;
   const solBody = (p, label) => `<b>Answer</b><p>${txt(p.answer)}</p>
       ${p.sample ? `<b class="sub">Sample response</b><div class="sample">${p.sample.map(x => `<p>${txt(x)}</p>`).join("")}</div>` : ""}
-      <b class="sub">${p.sample ? "Marking guide" : label}</b><ol class="steps">${p.steps.map(x => `<li>${txt(x.working)}${x.marks ? ` <span class="mk">${marksTxt(x.marks)}</span>` : ""}</li>`).join("")}</ol>
+      <b class="sub">${p.sample ? "Marking guide" : label}</b><ol class="steps">${p.steps.map(x => stepLi(x, true)).join("")}</ol>
       ${p.mistake ? `<div class="mistake"><b>Common mistake</b><p>${txt(p.mistake)}</p></div>` : ""}`;
   const solHtml = (q, p, s) => `<div class="model sol" data-focus="sol-${p.n}">${solBody(p, q.stepsLabel)}</div>
     <fieldset class="marks"><legend>Your mark for part ${esc(p.label)}, out of ${p.marks}</legend><div class="mopts">${Array.from({ length: p.marks + 1 }, (_, k) =>
       `<label><input type="radio" name="m-${esc(q.id)}-${p.n}" value="${k}" data-mark="${p.n}" ${s.got === k ? "checked" : ""}><span>${k}</span></label>`).join("")}</div></fieldset>
     <div class="mslot" data-mslot="${p.n}"${s.got !== null && s.got < p.marks ? "" : " hidden"}>${mpartHtml(q, p, s)}</div>`;
+  // An unrevealed part offers its steps one at a time (s.shown of them so far) or the full solution. Sample responses and one-step parts keep the single button.
+  // The answer comes after the last step, since it is the result of the working. Marks per step appear with the full solution.
+  const slotHtml = (q, p, s) => {
+    if (s.open) return solHtml(q, p, s);
+    const h = hintMap[q.id + "#" + p.n], hb = h && !s.hint && !s.shown ? `<button class="btn btn-ghost" data-hint="${p.n}">Show a hint<span class="sr-only"> for part ${esc(p.label)}</span></button>` : "",
+      hh = h && s.hint ? `<div class="model hint" data-hintbox tabindex="-1"><b class="sub">Hint</b><p>${txt(h)}</p><p class="xs muted">${aiNote("hint for " + q.id + " part " + p.label)}</p></div>` : "";
+    const full = `<button class="btn btn-ghost" data-open="${p.n}">${p.sample ? "Show sample response" : p.steps.length > 1 ? "Show full solution" : "Show solution"}<span class="sr-only"> for part ${esc(p.label)}</span></button>`;
+    if (p.sample || p.steps.length < 2) return hb || hh ? `${hh}<div class="row" style="gap:8px">${hb}${full}</div>` : full;
+    return `${hh}${s.shown ? `<div class="model sol"><b class="sub">${q.stepsLabel}</b><ol class="steps">${p.steps.slice(0, s.shown).map(x => stepLi(x, false)).join("")}</ol></div>` : ""}
+      <div class="row" style="gap:8px">${hb}<button class="btn btn-ghost" data-step="${p.n}">${s.shown ? "Show next step" : "Show first step"}<span class="sr-only"> for part ${esc(p.label)}</span></button>${full}</div>`;
+  };
   const partHtml = (q, p, s, hl) => { const id = `${esc(q.id)}-${p.n}`; return `<section class="part" data-part="${p.n}" aria-labelledby="ph-${id}">
       <h${hl} class="phead" id="ph-${id}"><span aria-hidden="true">${esc(p.label)}.</span><span class="sr-only">Part ${esc(p.label)}</span></h${hl}>
       <div class="pbody"><p class="pq">${txt(p.question)} <span class="pmarks">${marksTxt(p.marks)}</span></p>
         <label class="sr" for="w-${id}">Your working for part ${esc(p.label)}</label>
         <textarea class="ans" id="w-${id}" data-w="${p.n}" placeholder="Your working (optional)">${esc(s.draft)}</textarea>
-        <div class="slot" data-slot="${p.n}">${s.open ? solHtml(q, p, s) : `<button class="btn btn-ghost" data-open="${p.n}">${p.sample ? "Show sample response" : "Show solution"}<span class="sr-only"> for part ${esc(p.label)}</span></button>`}</div></div></section>`; };
+        <div class="slot" data-slot="${p.n}">${slotHtml(q, p, s)}</div></div></section>`; };
   // Render q's pieces into host and wire them up. hl is the heading level for parts. onChange runs after every reveal or mark.
   function mountMulti(host, q, st, hl, onChange) {
-    host.innerHTML = q.pieces.map(p => p.kind === "part" ? partHtml(q, p, st.parts[p.n], hl) : infoHtml(p)).join("");
+    host.innerHTML = q.pieces.map(p => p.kind === "part" ? partHtml(q, p, st.parts[p.n], hl) : infoHtml(p)).join("") + `<div class="sr-only" aria-live="polite"></div>`;
     host.onclick = e => {
-      const b = e.target.closest("[data-open]"); if (!b) return;
-      const n = +b.dataset.open, slot = host.querySelector(`[data-slot="${n}"]`);
-      st.parts[n].open = true; slot.innerHTML = solHtml(q, q.parts[n], st.parts[n]); typeset(slot);
-      const f = slot.querySelector("[data-focus]"); f.tabIndex = -1; f.focus(); // the pressed button is gone, so focus the solution
+      const hb = e.target.closest("[data-hint]");
+      if (hb) { const n = +hb.dataset.hint, slot = host.querySelector(`[data-slot="${n}"]`); st.parts[n].hint = true;
+        slot.innerHTML = slotHtml(q, q.parts[n], st.parts[n]); typeset(slot); slot.querySelector("[data-hintbox]").focus(); return; }
+      const b = e.target.closest("[data-open], [data-step]"); if (!b) return;
+      const step = "step" in b.dataset, n = +(step ? b.dataset.step : b.dataset.open), p = q.parts[n], s = st.parts[n], slot = host.querySelector(`[data-slot="${n}"]`);
+      if (step) s.shown++;
+      s.open = !step || s.shown >= p.steps.length; // the last step shows the full solution
+      slot.innerHTML = slotHtml(q, p, s); typeset(slot);
+      // the pressed button is gone, so focus the new step or the solution
+      const f = slot.querySelector(step ? ".steps li:last-child" : "[data-focus]"); f.tabIndex = -1; f.focus();
+      host.lastElementChild.textContent = step ? `Step ${s.shown} of ${p.steps.length}, part ${p.label}` : `Full solution shown, part ${p.label}`;
       onChange();
     };
     host.onchange = e => {
@@ -1245,44 +1391,86 @@ const DIFF = {"chem-1-1-1":[1,88,"m"],"chem-1-1-2":[3,59,"m"],"chem-1-1-3":[2,78
       if (mp) { const m = st.parts[+mp.dataset.mp].mis; m.note = clip(f.value); if (m.k) editMistake(m.k, { note: m.note }); }
     };
     typeset(host);
+    // Hints arrive after the first render: add the button to each part that has one and is still untouched.
+    const sid = sidOf(q);
+    if (sid) loadContent("hints", sid).then(h => { if (!h) return;
+      q.parts.forEach(p => { if (h[q.id + "#" + p.n]) hintMap[q.id + "#" + p.n] = h[q.id + "#" + p.n]; });
+      q.parts.forEach(p => { const s = st.parts[p.n], slot = host.querySelector(`[data-slot="${p.n}"]`);
+        if (slot && hintMap[q.id + "#" + p.n] && !s.open && !s.shown && !slot.contains(document.activeElement)) { slot.innerHTML = slotHtml(q, p, s); typeset(slot); } }); });
   }
+
+  // Focus mode: html.quizzing hides the site header and footer while a question is on screen. route() and the results screen
+  // turn it off, and the observer does too if the quiz's host leaves the page without a route change (for example a back button that redraws the view).
+  const htmlEl = document.documentElement; let fmHost = null;
+  const focusMode = h => { fmHost = h; htmlEl.classList.toggle("quizzing", !!h); };
+  new MutationObserver(() => { if (fmHost && !fmHost.isConnected) focusMode(null); }).observe(app, { childList: true, subtree: true });
 
   // Quiz runner. Renders into `host`. opts: { slug, backHref } or { onBack, backLabel } for a button instead of a link.
   // Each result is { got, of } in marks: MCQ and written questions are worth 1 mark, multi-part questions the sum of their parts.
   // Lost marks go to the error log (logResult) as each question is marked.
   function runQuiz(host, initial, opts) {
-    let pool = initial, order = shuffle(pool), i = 0, results = [], picked = null, revealed = false, mst = null, sdraft = "";
+    // Sprints (opts.sprint): the quiz is a slice of the pool of 5, 10, 20 or all (0) questions, remembered in localStorage.
+    // Only a run that covers the whole pool can set a subtopic's best score, so a best-of-10 never stands in for the subtopic.
+    const mix = l => opts.ordered ? [...l] : shuffle(l); // opts.ordered keeps the given order (Build a quiz, easy first)
+    let pool = initial, queue = mix(pool), cap = 0, i = 0, results = [], picked = null, revealed = false, mst = null, sdraft = "";
+    const sprintOn = !!opts.sprint && initial.length > 5, seen = new Map(), SPK = "helix-sprint-v1";
+    if (sprintOn) { try { const v = localStorage.getItem(SPK); cap = v === "all" ? 0 : [5, 10, 20].includes(+v) ? +v : 10; } catch { cap = 10; } }
+    let told = false; // opts.onDone has been called for this run
+    const take = () => cap ? queue.slice(0, cap) : queue;
+    let order = take(), m0 = opts.sprint ? masteryNow() : null; // mastery before this sprint: read once here, compared once at the end
     let focusTo = null; // which part to focus after the next render, so keyboard users keep their place
     // Activity history: each run of the quiz is a session, and each question is timed from when it first shows.
     let sess = newSession(opts.kind || "mix", opts.ref), shown = -1, qClock = clock();
     const sum = (k) => results.reduce((a, r) => a + r[k], 0);
-    const commit = r => { results.push(r);
+    const commit = r => { results.push(r); seen.set(order[i].id, r.got >= r.of);
       if (results.length !== order.length) return;
-      if (opts.slug && pool === initial) saveScore(opts.slug, sum("got"), sum("of"));
+      if (opts.slug && pool === initial && order.length === initial.length) saveScore(opts.slug, sum("got"), sum("of"));
+      if (opts.slug) raiseCover(opts.slug);
       endSession(sess, order.length, sum("got"), sum("of")); };
     let mk = ""; // the mistake record for the current question, when it lost its mark
     let conf = null; // how sure the student said they were, before answering (optional)
     const record = (got, extra) => { const q = order[i], row = addAttempt(sess, q, null, got, 1, capSecs(qClock(), estSecs(q)), conf);
-      mk = got < 1 ? addMistake(row, q, null, extra).k : ""; commit({ got, of: 1 }); focusTo = "after"; render(); };
+      mk = got < 1 ? addMistake(row, q, null, extra).k : ""; commit({ got, of: 1, by: [[testedSlug(q, null), got, 1]] }); focusTo = "after"; render(); };
     let early = false; // finished before the end: results cover the questions answered, and the best score is not saved
-    const restart = p => { pool = p; order = shuffle(pool); i = 0; results = []; picked = null; revealed = false; mst = null; mk = ""; conf = null; early = false; sess = newSession(opts.kind || "mix", opts.ref); shown = -1; focusTo = "prompt"; render(); };
-    const finishEarly = () => { order = order.slice(0, results.length); i = order.length; early = true; mst = null; mk = ""; conf = null;
+    const restart = (p, c, q2) => { pool = p; queue = q2 || mix(pool); cap = c; told = false; order = take(); m0 = opts.sprint ? masteryNow() : null; i = 0; results = []; picked = null; revealed = false; mst = null; mk = ""; conf = null; early = false; sess = newSession(opts.kind || "mix", opts.ref); shown = -1; focusTo = "prompt"; render(); };
+    const finishEarly = () => { if (opts.slug) raiseCover(opts.slug); order = order.slice(0, results.length); i = order.length; early = true; mst = null; mk = ""; conf = null;
       endSession(sess, order.length, sum("got"), sum("of")); focusTo = "result"; render(); host.scrollIntoView({ block: "nearest" }); };
     const next = () => { picked = null; revealed = false; mst = null; mk = ""; conf = null; i++; focusTo = i >= order.length ? "result" : "prompt"; render(); host.scrollIntoView({ block: "nearest" }); };
     const nextLabel = () => i + 1 === order.length ? "See results" : "Next question";
     const multiStatus = q => { const t = tally(mst); return t.marked === q.parts.length ? `All parts marked: ${t.got} of ${marksTxt(q.marks)}.${t.got < q.marks ? ` Parts that lost marks are saved to your mistake analysis${elog.auto ? " and error log" : ""} when you continue.` : ""}` : `${t.marked} of ${q.parts.length} parts marked. Show each solution and give yourself a mark to continue.`; };
     const logLine = q => inLog(q, null) ? `<p class="small muted" data-logline tabindex="-1">Saved to your <a class="link" href="#errors">error log</a>.</p>` : `<button class="link" id="addlog" style="align-self:flex-start">Add to error log</button>`;
+    // Time, weakest subtopic and mastery change for this sprint. Mastery is read once now and compared with m0 from the start.
+    function sprintSummary() {
+      const by = {};
+      results.forEach(r => (r.by || []).forEach(([sl, g, o]) => { const b = by[sl] || (by[sl] = { got: 0, of: 0 }); b.got += g; b.of += o; }));
+      const slugs = Object.keys(by).filter(sl => subBySlug[sl]), weak = slugs.filter(sl => by[sl].of > by[sl].got).sort((a, b) => (by[b].of - by[b].got) - (by[a].of - by[a].got))[0];
+      const m1 = slugs.length ? masteryNow() : null, MS = MasteryEngine.show;
+      const row = sl => { const a = MS(m0.subs[sl]), b = MS(m1.subs[sl]);
+        return `<li><span>${esc(subBySlug[sl].name)}</span> <span class="small muted">${b ? `${a ? `about ${a.value}` : "not rated before"} → about ${b.value}` : "Not enough answers yet"}</span>${b ? `<div class="mbar" aria-hidden="true"><span data-to="${b.value}" style="width:${a ? a.value : 0}%"></span></div>` : ""}</li>`; };
+      return `<p class="small">Time taken: ${fmtDur(sess.secs)}</p>
+        <p class="small">${weak ? `Weakest this sprint: ${esc(subBySlug[weak].name)} (${by[weak].of - by[weak].got} ${by[weak].of - by[weak].got === 1 ? "mark" : "marks"} lost).` : "You lost no marks this sprint."}</p>
+        ${slugs.length ? `<div class="stack" style="width:100%;text-align:left;gap:8px"><h3 class="h2s">Mastery change</h3><ul class="mlist">${slugs.map(row).join("")}</ul></div>` : ""}`;
+    }
     function render() {
       if (!order.length) { host.innerHTML = `<p class="muted">No questions yet for this subtopic.</p>`; return; }
       if (i >= order.length) {
+        focusMode(null);
         const got = sum("got"), of = sum("of"), pct = Math.round(got / of * 100);
+        const more = sprintOn && cap && cap < pool.length && pool === initial; // another sprint is left in the pool
         const missed = order.filter((_, k) => results[k].got < results[k].of);
         host.innerHTML = `<div class="card result" data-focus="result"><p class="eyebrow">${early ? "Quiz ended early" : "Quiz complete"}</p><div><p class="big">${got}/${of}</p><p class="small muted" style="margin-top:6px">${of === order.length ? (of === 1 ? "mark" : "marks") : `marks from ${order.length} questions`}</p></div>
           <p class="muted">${pct >= 80 ? "Excellent work." : pct >= 50 ? "Good effort. Review the ones you missed." : "Keep going. Try the missed questions again."}</p>
           ${early && opts.slug ? `<p class="small muted">Your answers count towards your dashboard and mastery. The best score for this subtopic is only saved when you finish the whole quiz.</p>` : ""}
-          <div class="row" style="justify-content:center">${missed.length ? `<button class="btn btn-primary" id="rMissed">Retry ${missed.length} missed</button>` : ""}<button class="btn btn-ghost" id="rAll">Restart quiz</button>${opts.onBack ? `<button class="btn btn-ghost" id="rBack">${esc(opts.backLabel)}</button>` : `<a class="btn btn-ghost" href="${opts.backHref}">All topics</a>`}</div></div>`;
-        if (missed.length) host.querySelector("#rMissed").onclick = () => restart(missed);
-        host.querySelector("#rAll").onclick = () => restart(initial);
+          ${!early && opts.slug && order.length < initial.length ? `<p class="small muted">Your answers count towards your dashboard, mastery and this subtopic's progress bar, which shows how much of this subtopic you have got right so far.</p>` : ""}
+          ${opts.sprint ? sprintSummary() : ""}
+          <div class="row" style="justify-content:center">${more ? `<button class="btn btn-primary" id="rMore">One more sprint</button>` : ""}${missed.length ? `<button class="btn ${more ? "btn-ghost" : "btn-primary"}" id="rMissed">Retry ${missed.length} missed</button>` : ""}<button class="btn btn-ghost" id="rAll">Restart quiz</button>${opts.onBack ? `<button class="btn btn-ghost" id="rBack">${esc(opts.backLabel)}</button>` : `<a class="btn btn-ghost" href="${opts.backHref}">${esc(opts.backLabel || "All topics")}</a>`}</div></div>`;
+        if (opts.onDone && !told) { told = true; opts.onDone({ got, of, n: order.length }); }
+        host.querySelectorAll(".mbar span[data-to]").forEach(b => { void b.offsetWidth; b.style.width = b.dataset.to + "%"; }); // animate from the old mastery to the new
+        if (more) host.querySelector("#rMore").onclick = () => { // the questions not answered yet this session, then the ones answered wrongly, then the rest
+          const pr = x => seen.has(x.id) ? (seen.get(x.id) ? 2 : 1) : 0;
+          restart(initial, cap, [0, 1, 2].flatMap(k => mix(initial.filter(x => pr(x) === k)))); };
+        if (missed.length) host.querySelector("#rMissed").onclick = () => restart(missed, 0);
+        host.querySelector("#rAll").onclick = () => restart(initial, cap);
         if (opts.onBack) host.querySelector("#rBack").onclick = opts.onBack;
         applyFocus();
         return;
@@ -1297,7 +1485,7 @@ const DIFF = {"chem-1-1-1":[1,88,"m"],"chem-1-1-2":[3,59,"m"],"chem-1-1-3":[2,78
           <div class="stack" data-focus="after" style="margin-top:20px;align-items:flex-start"><p class="small muted" id="mstatus" role="status">${esc(multiStatus(q))}</p><div id="mnext"></div></div>`;
       } else if (q.type === "mcq") {
         body = `<div class="opts">${q.options.map((o, k) => {
-          let cls = ""; if (answered && k === q.answer) cls = "right"; else if (answered && k === picked) cls = "wrong";
+          let cls = ""; if (answered && k === q.answer) cls = k === picked ? "right hit" : "right"; else if (answered && k === picked) cls = "wrong";
           const note = answered ? (k === q.answer ? " (correct answer)" : k === picked ? " (your answer)" : "") : "";
           return `<button class="opt ${cls}" data-k="${k}" ${answered ? "disabled" : ""}><span class="letter">${String.fromCharCode(65 + k)}</span><span>${txt(o)}${note ? `<span class="sr-only">${note}</span>` : ""}</span></button>`;
         }).join("")}</div>`;
@@ -1307,19 +1495,28 @@ const DIFF = {"chem-1-1-1":[1,88,"m"],"chem-1-1-2":[3,59,"m"],"chem-1-1-3":[2,78
         // The explanation sits with the model answer, so it is there while you mark yourself.
         body = `<div class="stack"><div class="model" data-focus="model"><b>Model answer</b><p>${txt(q.answer)}</p>${q.explanation ? `<b class="sub">Explanation</b><p>${txt(q.explanation)}</p>` : ""}</div>${answered ? "" : `<div class="row" style="gap:8px"><span class="small muted" style="width:100%">Did you get it?</span><button class="btn btn-good" id="got">Got it</button><button class="btn btn-bad" id="miss">Missed it</button></div>`}</div>`;
       }
-      const after = answered ? `<div class="stack" data-focus="after" style="margin-top:20px;align-items:flex-start">${q.type === "mcq" ? `<p class="verdict ${res.got ? "ok" : "no"}">${res.got ? "Correct!" : `Not quite. The answer is ${String.fromCharCode(65 + q.answer)}.`}</p>${q.explanation ? `<p class="small muted">${txt(q.explanation)}</p>` : ""}` : `<p class="verdict">${res.got ? "Marked as got it." : "Marked as missed."}</p>`}${res.got < res.of && mk && misIdx.get(mk) ? mpanelHtml(misIdx.get(mk)) : ""}${logLine(q)}<button class="btn btn-primary" id="next">${nextLabel()}</button></div>` : "";
+      const after = answered ? `<div class="stack" data-focus="after" style="margin-top:20px;align-items:flex-start">${q.type === "mcq" ? `<p class="verdict ${res.got ? "ok" : "no"}">${res.got ? "Correct!" : `Not quite. The answer is ${String.fromCharCode(65 + q.answer)}.`}</p>${q.explanation ? `<p class="small muted">${txt(q.explanation)}</p>` : ""}` : `<p class="verdict ${res.got ? "ok" : "no"}">${res.got ? "Marked as got it." : "Marked as missed."}</p>`}${res.got < res.of && mk && misIdx.get(mk) ? mpanelHtml(misIdx.get(mk)) : ""}${logLine(q)}<button class="btn btn-primary" id="next">${nextLabel()}</button></div>` : "";
       const kind = q.type === "mcq" ? "Multiple choice" : q.type === "multi" ? `Multi-part · ${marksTxt(q.marks)}` : "Written · self-mark";
       // Asked before the answer is seen, so it reflects how sure the student really was. It feeds topic mastery.
       const confHtml = q.type !== "multi" && !answered && !(q.type === "short" && revealed) ? `<fieldset class="conf"><legend>How sure are you? <span class="muted">(optional)</span></legend>${[[0, "Guessing"], [1, "Unsure"], [2, "Sure"]].map(([v, t]) =>
         `<label><input type="radio" name="conf-${esc(q.id)}" value="${v}" data-conf ${conf === v ? "checked" : ""}><span>${t}</span></label>`).join("")}</fieldset>` : "";
-      host.innerHTML = `<div class="stack" style="gap:20px"><div class="dots" aria-hidden="true">${dots}</div>
-        <div class="qcard"><div class="qmeta"><span>Question ${i + 1} of ${order.length}</span>${challenge.has(q.id) ? '<span class="chip chip-c">Challenge</span>' : ""}${q.higherOnly ? '<span class="chip chip-h">Higher</span>' : ""}<span class="chip">${kind}</span>${q.tech ? `<span class="chip">${esc(TECH[q.tech] || q.tech)}</span>` : ""}${diffChip(diffOf(q.id))}</div>
+      focusMode(host);
+      const lenHtml = sprintOn && !results.length ? `<fieldset class="conf" style="margin:0"><legend>Quiz length</legend>${[[5, "5"], [10, "10"], [20, "20"], [0, "All"]].map(([v, t]) =>
+        `<label><input type="radio" name="sp-len" value="${v}" ${cap === v ? "checked" : ""}><span>${t}</span></label>`).join("")}</fieldset>` : "";
+      const bar = `<div class="qbar">${opts.onBack ? `<button class="link qleave" id="qleave">Leave quiz</button>` : `<a class="link qleave" href="${opts.backHref}">Leave quiz</a>`}<span class="small" style="font-weight:600">Question ${i + 1} of ${order.length}</span>
+        <div class="qtrack" role="progressbar" aria-label="Quiz progress" aria-valuemin="0" aria-valuemax="${order.length}" aria-valuenow="${i + 1}" aria-valuetext="Question ${i + 1} of ${order.length}"><span style="width:${(i + 1) / order.length * 100}%"></span></div></div>`;
+      host.innerHTML = `${bar}<div class="stack" style="gap:20px">${lenHtml}<div class="dots" aria-hidden="true">${dots}</div>
+        <div class="qcard"><div class="qmeta">${challenge.has(q.id) ? '<span class="chip chip-c">Challenge</span>' : ""}${q.higherOnly ? '<span class="chip chip-h">Higher</span>' : ""}<span class="chip">${kind}</span>${q.tech ? `<span class="chip">${esc(TECH[q.tech] || q.tech)}</span>` : ""}${diffChip(diffOf(q.id))}</div>
         <h2 class="qprompt" data-focus="prompt">${txt(q.type === "multi" ? q.title : q.prompt)}</h2>${q.type === "multi" ? "" : qinfoHtml(q)}${confHtml}${body}${after}</div>
         ${results.length && results.length < order.length && order.length > 5 ? `<button class="link qend" id="endq">Finish now and see results for the ${results.length} ${results.length === 1 ? "question" : "questions"} answered</button>` : ""}
         <p class="xs muted keys">Keys: ${q.type === "mcq" ? "1–9 or A–I choose · " : q.type === "short" ? "R show answer (Ctrl/⌘+Enter while typing) · G got it · M missed it · " : ""}Enter next</p></div>`;
       host.querySelectorAll(".opt").forEach(b => b.onclick = () => { const k = +b.dataset.k, g = k === q.answer ? 1 : 0; picked = k; logResult(q, null, g, 1, { pick: k, draft: "" }); record(g, { pick: k }); });
       const $ = id => host.querySelector("#" + id);
       host.querySelectorAll("[data-conf]").forEach(x => x.onchange = () => { conf = +x.value; });
+      if ($("qleave")) $("qleave").onclick = () => { focusMode(null); opts.onBack(); };
+      host.querySelectorAll("[name=sp-len]").forEach(x => x.onchange = () => { cap = +x.value; order = take();
+        try { localStorage.setItem(SPK, cap ? String(cap) : "all"); } catch {}
+        render(); host.querySelector("[name=sp-len]:checked").focus(); });
       if ($("reveal")) $("reveal").onclick = () => { sdraft = host.querySelector("textarea.ans").value.trim(); revealed = true; focusTo = "model"; render(); };
       if ($("got")) $("got").onclick = () => { logResult(q, null, 1, 1, { draft: sdraft }); record(1); };
       if ($("miss")) $("miss").onclick = () => { logResult(q, null, 0, 1, { draft: sdraft }); record(0, { draft: sdraft }); };
@@ -1336,18 +1533,27 @@ const DIFF = {"chem-1-1-1":[1,88,"m"],"chem-1-1-2":[3,59,"m"],"chem-1-1-3":[2,78
         const status = $("mstatus"), nx = $("mnext");
         mountMulti($("multi"), q, mst, 3, () => {
           const s = multiStatus(q); if (status.textContent !== s) status.textContent = s;
+          status.classList.toggle("pulse", tally(mst).marked === q.parts.length && tally(mst).got === q.marks);
           if (tally(mst).marked === q.parts.length && !nx.firstChild) {
             nx.innerHTML = `<button class="btn btn-primary" id="next">${nextLabel()}</button>`;
             nx.firstChild.onclick = () => {
               q.parts.forEach(p => logResult(q, p, mst.parts[p.n].got, p.marks, { draft: mst.parts[p.n].draft.trim() }));
               const rows = addMulti(sess, q, mst.parts.map(x => x.got), capSecs(qClock(), estSecs(q)));
               q.parts.forEach(p => { const s = mst.parts[p.n]; if (s.got < p.marks) addMistake(rows[p.n], q, p, { ...s.mis, draft: s.draft.trim() }); });
-              commit({ got: tally(mst).got, of: q.marks }); next();
+              commit({ got: tally(mst).got, of: q.marks, by: q.parts.map(p => [p.topic, mst.parts[p.n].got, p.marks]) }); next();
             };
           }
         });
       }
       applyFocus();
+      glossify(host, sidOf(q));
+      // After a wrong answer, offer the subtopic's refresher inline.
+      const slug = slugOfQ[q.id];
+      if (answered && q.type !== "multi" && res.got < res.of && slug) getNote(slug).then(n => { const a = host.querySelector('[data-focus="after"]');
+        if (!n || order[i] !== q || !a || a.querySelector("[data-rev]")) return;
+        a.insertAdjacentHTML("afterbegin", `<button type="button" class="link" data-rev aria-expanded="false">Review the key idea (60 s)</button><div class="note-in" hidden>${noteBody(n, slug)}</div>`);
+        const b = a.querySelector("[data-rev]"), box = a.querySelector(".note-in"); typeset(box);
+        b.onclick = () => { box.hidden = !box.hidden; b.setAttribute("aria-expanded", String(!box.hidden)); }; });
     }
     function applyFocus() {
       const t = focusTo && host.querySelector(`[data-focus="${focusTo}"]`);
@@ -1360,6 +1566,10 @@ const DIFF = {"chem-1-1-1":[1,88,"m"],"chem-1-1-2":[3,59,"m"],"chem-1-1-3":[2,78
   // ---- exam-style questions (DATA.X): listed under each subject, one per page or all together as a test ----
   const topicsOf = q => [...new Set(q.parts.map(p => subBySlug[p.topic].topicName))];
   const examStates = {}; // page key -> unfinished states, so leaving a page and coming back keeps your place this session
+  let timedTick = null; // the timed-mode interval; only ever one, cleared on every route change
+  // Timed-mode rules. These are an assumption the owner can change. Writing time is the sum of estSecs rounded up to the minute.
+  // Reading time is 15 minutes on a full test, as in VCE exams; a single question gets min(15, max(2, ceil(writing minutes / 6))).
+  const timedMins = (secs, test) => { const w = Math.ceil(secs / 60); return [test ? 15 : Math.min(15, Math.max(2, Math.ceil(w / 6))), w]; };
   const examClocks = {}; // page key -> { acc, run }: time spent on the page, paused while you are on another page (see route)
   const examCard = q => { const b = progress["x:" + q.id];
     return `<li><a class="card subj" href="#x-${esc(q.id)}"><span class="call">${challenge.has(q.id) ? "Challenge · " : ""}${esc(TECH[q.tech] || "Extended response")}</span><b>${txt(q.title)}</b>
@@ -1386,6 +1596,7 @@ const DIFF = {"chem-1-1-1":[1,88,"m"],"chem-1-1-2":[3,59,"m"],"chem-1-1-3":[2,78
   // One exam-style question (key "x:" + id) or a subject's whole test (key "t:" + subject id) on one page.
   function examPage(key, qs, title) {
     const sj = subjById[qs[0].subject], test = key.startsWith("t:"), back = `#s-${sj.id}`;
+    clearInterval(timedTick);
     const sts = examStates[key] || (examStates[key] = qs.map(multiState));
     const ck = examClocks[key] || (examClocks[key] = { acc: 0, run: null }); ck.run = clock();
     const total = qs.reduce((a, q) => a + q.marks, 0), nparts = qs.reduce((a, q) => a + q.parts.length, 0);
@@ -1398,12 +1609,52 @@ const DIFF = {"chem-1-1-1":[1,88,"m"],"chem-1-1-2":[3,59,"m"],"chem-1-1-3":[2,78
         <h1 class="page-h1">${txt(title)}</h1>
         <div class="row" style="gap:8px"><span class="tag tag-accent">${marksTxt(total)}</span>${test ? `<span class="tag tag-line">${qs.length} questions</span>` : ""}<span class="tag tag-line">${nparts} parts</span>${!test && challenge.has(q0.id) ? `<span class="tag tag-accent">Challenge</span>` : ""}${!test && q0.tech ? `<span class="tag tag-line">${esc(TECH[q0.tech] || q0.tech)}</span>` : ""}</div>
         <p class="small muted">${test ? "Every exam-style question for this subject, one after another." : esc(q0.source) + "."} Write your working for each part, show its solution, then give yourself the marks you earned.</p>${test ? "" : qinfoHtml(q0, "qinfo-h")}</div>
+      <div id="tm" class="card pad stack"></div><p class="sr-only" id="tlive" role="status" aria-live="polite"></p>
+      <fieldset id="xlock" style="border:0;padding:0;margin:0;min-width:0"><div class="stack-lg" style="gap:24px">
       ${qs.map((q, j) => `<div class="qcard">${test ? `<h2 class="qprompt">Question ${j + 1}: ${txt(q.title)} <span class="pmarks">${marksTxt(q.marks)}</span>${challenge.has(q.id) ? ` <span class="pmarks">Challenge</span>` : ""}</h2><p class="small muted qsrc">${txt(q.source)}${q.tech ? ` · ${esc(TECH[q.tech] || q.tech)}` : ""}</p>${qinfoHtml(q)}` : ""}<div class="multi" data-q="${j}"></div></div>`).join("")}
       <div id="xend"><div class="dock"><p class="small" id="xstatus" role="status">${esc(statusText())}</p><button class="btn btn-primary go" id="finish">See my marks</button><p class="small" id="xwarn" role="alert" style="width:100%"></p></div></div>
+      </div></fieldset>
     </div>`;
     const end = app.querySelector("#xend"), status = app.querySelector("#xstatus"), warn = app.querySelector("#xwarn");
     const box = j => app.querySelector(`[data-q="${j}"]`);
     qs.forEach((q, j) => mountMulti(box(j), q, sts[j], test ? 3 : 2, () => { status.textContent = statusText(); if (sumAll().marked === nparts) warn.textContent = ""; }));
+    glossify(app, sj.id);
+    // Timed mode: optional. A disabled fieldset around the questions locks every answer, reveal and marking control in reading time.
+    const [readMin, writeMin] = timedMins(qs.reduce((a, q) => a + estSecs(q), 0), test);
+    const tmBox = app.querySelector("#tm"), lockBox = app.querySelector("#xlock"), live = m => { app.querySelector("#tlive").textContent = m; };
+    const clockText = ms => { const s = Math.max(0, Math.ceil(ms / 1000)); return `${Math.floor(s / 60)}:${String(s % 60).padStart(2, "0")}`; };
+    const showStart = () => {
+      clearInterval(timedTick); lockBox.disabled = false;
+      tmBox.className = "card pad stack"; tmBox.style.cssText = ""; tmBox.parentNode.style.paddingBottom = "";
+      tmBox.innerHTML = `<h2 class="h2s">Timed mode (optional)</h2><p class="small">Practise under exam conditions: ${readMin} minutes of reading time, then ${writeMin} minutes of writing time. Answer boxes, solutions and marking are locked while you read. Your work is kept when time is up. Leave this alone to practise without a timer.</p><div><button class="btn btn-ghost" id="tgo">Start timed mode</button></div>`;
+      tmBox.querySelector("#tgo").onclick = startTimed;
+    };
+    const startTimed = () => {
+      // pinned to the bottom of the viewport, clear of the sticky header at any width; the page gets bottom padding so it never covers the last question or the marks dock
+      tmBox.className = "dock"; tmBox.style.cssText = "position:fixed;left:0;right:0;bottom:0;border-radius:0;padding-bottom:calc(12px + env(safe-area-inset-bottom, 0px))";
+      tmBox.innerHTML = `<p class="small" style="margin:0"><b id="tph"></b> <span id="tclk" role="timer" style="font-family:var(--font-display);font-size:1.25rem;font-weight:700"></span></p><button class="btn btn-ghost" id="tstop">Stop timer</button><p class="small" id="tnote" style="width:100%;margin:0"></p>`;
+      const ph = tmBox.querySelector("#tph"), clk = tmBox.querySelector("#tclk"), note = tmBox.querySelector("#tnote");
+      let phase = "read", end = 0, warned = true;
+      const set = (next, msg) => { phase = next; ph.textContent = msg[0]; note.textContent = msg[1]; live(msg[2]); lockBox.disabled = next === "read"; };
+      const begin = next => {
+        const mins = next === "read" ? readMin : writeMin; end = Date.now() + mins * 60000; warned = mins <= 5;
+        set(next, next === "read"
+          ? ["Reading time", "You can read and scroll. Answer boxes, solutions and marking are locked until writing time starts.", `Reading time started. ${readMin} minutes.`]
+          : ["Writing time", "Everything is unlocked. You will hear when 5 minutes are left.", `Writing time started. ${writeMin} minutes.`]);
+      };
+      const paint = () => {
+        tmBox.parentNode.style.paddingBottom = tmBox.offsetHeight + 16 + "px";
+        const left = end - Date.now(); clk.textContent = clockText(left);
+        if (left > 0) { if (!warned && left <= 300000) { warned = true; live("5 minutes left"); } return; }
+        if (phase === "read") { begin("write"); paint(); return; }
+        clearInterval(timedTick); phase = "done";
+        set("done", ["Time's up", "Stop writing. Your work is kept. Show each solution, mark your answers, then press See my marks.", "Time's up. Stop writing and mark your answers."]);
+      };
+      tmBox.querySelector("#tstop").onclick = () => { showStart(); live("Timer stopped."); tmBox.querySelector("#tgo").focus(); };
+      begin("read"); paint(); timedTick = setInterval(paint, 1000);
+      tmBox.tabIndex = -1; tmBox.focus();
+    };
+    showStart();
     app.querySelector("#finish").onclick = () => {
       const left = qs.flatMap((q, j) => q.parts.filter(p => sts[j].parts[p.n].got === null).map(p => ({ j, p })));
       if (left.length) {
@@ -1412,7 +1663,7 @@ const DIFF = {"chem-1-1-1":[1,88,"m"],"chem-1-1-2":[3,59,"m"],"chem-1-1-3":[2,78
         const f = box(left[0].j).querySelector(`[data-part="${left[0].p.n}"] [data-open], [data-part="${left[0].p.n}"] input[type=radio]`); if (f) f.focus();
         return;
       }
-      delete examStates[key];
+      delete examStates[key]; clearInterval(timedTick); tmBox.style.display = "none"; tmBox.parentNode.style.paddingBottom = "";
       const got = sumAll().got;
       saveScore(key, got, total);
       // Activity history: the page's time is shared between its questions by their estimated times.
@@ -1553,7 +1804,7 @@ const DIFF = {"chem-1-1-1":[1,88,"m"],"chem-1-1-2":[3,59,"m"],"chem-1-1-3":[2,78
   const scoreBadge = (got, of) => { const p = pct(got, of); return `<span class="score ${p >= 80 ? "s-good" : p >= 50 ? "s-mid" : "s-bad"}" title="${got} of ${of}">${got}/${of}</span>`; };
   const qText = q => q.type === "multi" ? q.title : q.prompt;
   const qHref = id => examById[id] ? `#x-${id}` : slugOfQ[id] ? `#${slugOfQ[id]}` : "#dashboard";
-  const SESS = { sub: "Subtopic quiz", mix: "Built quiz", err: "Error log practice", due: "Due for revision", focus: "Focus quiz", exam: "Exam-style question", test: "Exam-style test", mis: "Mistake practice" };
+  const SESS = { sub: "Subtopic quiz", mix: "Built quiz", err: "Error log practice", due: "Due for revision", focus: "Focus quiz", exam: "Exam-style question", test: "Exam-style test", mis: "Mistake practice", share: "Shared quiz" };
   const sessName = (kind, ref) => {
     const base = SESS[kind] || "Practice";
     if (kind === "sub" && subBySlug[ref]) return `${base}: ${subBySlug[ref].name}`;
@@ -1602,7 +1853,7 @@ const DIFF = {"chem-1-1-1":[1,88,"m"],"chem-1-1-2":[3,59,"m"],"chem-1-1-3":[2,78
   let snaps = [];
   try { const o = JSON.parse(localStorage.getItem(SNAP_KEY) || "null"); if (o && Array.isArray(o.snaps)) snaps = o.snaps.filter(x => Array.isArray(x) && typeof x[0] === "string" && x[1] && typeof x[1] === "object"); } catch {}
   function saveSnapshot() {
-    if (!act.a.length) return;
+    if (restoring || !act.a.length) return;
     const m = masteryNow(), s = {}, j = {};
     for (const [slug, r] of Object.entries(m.subs)) if (r.sufficient) s[slug] = [Math.round(r.M * 10) / 10, r.reliability[0]];
     for (const sj of subjects) { const g = m.subject(sj.id), rd = m.readiness(sj.id);
@@ -1624,15 +1875,74 @@ const DIFF = {"chem-1-1-1":[1,88,"m"],"chem-1-1-2":[3,59,"m"],"chem-1-1-3":[2,78
   const LEVEL_CLASS = { Mastered: "lv-m", Secure: "lv-s", Developing: "lv-d", Beginning: "lv-b" };
   const RELY = { low: "low reliability", moderate: "moderate reliability", good: "good reliability" };
   const masteryTxt = r => { const s = MasteryEngine.show(r); return s ? `about ${s.value} (likely ${s.lo} to ${s.hi})` : ""; };
+  // The engine's own levels (MasteryEngine.DEFAULTS.levels), shown as text with a subtle accent. Without enough data the
+  // engine gives no level, so the label says so.
+  const LEVEL_PILL = { "Not started": "lv-n", "Not enough data yet": "lv-n", Beginning: "lv-b", Developing: "lv-d", Secure: "lv-s", Mastered: "lv-m" };
+  const masteryLevel = r => !r || !r.nAttempts ? "Not started" : r.sufficient && r.level ? r.level : "Not enough data yet";
+  const solidPlus = lvl => lvl === "Secure" || lvl === "Mastered";
+  const levelPill = r => { const n = masteryLevel(r); return `<span class="lv ${LEVEL_PILL[n]}">${n}</span>`; };
+
+  // ---- exam dates and the weekly plan ----
+  // Dates are kept as { subjectId: "YYYY-MM-DD" } in helix-exams-v1. The plan is worked out each time and stores nothing.
+  /* <exam-plan> */
+  // days: whole days until the exam (negative = already held); gap: syllabus subtopics not yet Secure.
+  // The last 7 days are review. Before that: the gap spread over the weeks left, at one subtopic (one sprint) each, at most 6 a week.
+  const planMaths = (days, gap) => {
+    if (days < 0) return { finished: true };
+    const weeks = Math.max(1, Math.ceil(days / 7)), review = days <= 7;
+    return { weeks, review, target: review ? 0 : Math.min(6, Math.ceil(gap / weeks)) };
+  };
+  /* </exam-plan> */
+  const EXAMS_KEY = "helix-exams-v1", DATE_RE = /^\d{4}-\d\d-\d\d$/;
+  const examDates = () => { try { const o = JSON.parse(localStorage.getItem(EXAMS_KEY) || "null"); return o && typeof o === "object" && !Array.isArray(o) ? o : {}; } catch { return {}; } };
+  const saveExam = (sid, v) => { const o = examDates(); if (DATE_RE.test(v)) o[sid] = v; else delete o[sid]; try { localStorage.setItem(EXAMS_KEY, JSON.stringify(o)); } catch {} };
+  const examDay = v => { const [y, m, d] = v.split("-").map(Number); return new Date(y, m - 1, d); };
+  const examDayTxt = v => examDay(v).toLocaleDateString("en-AU", { weekday: "short", day: "numeric", month: "short" }).replace(",", "");
+  const daysTo = v => Math.round((examDay(v) - new Date(dayStart(nowS()) * 1000)) / (DAY * 1000));
+  const LEVEL_RANK = { "Not started": 0, "Not enough data yet": 1, Beginning: 2, Developing: 3 };
+  // One entry per subject of mine with a date today or later, soonest first.
+  function examPlan() {
+    const dates = examDates(), m = masteryNow(), wk = weekStart(nowS()), out = [];
+    for (const sj of mySubjects()) {
+      const v = dates[sj.id]; if (!hasExam(sj) || typeof v !== "string" || !DATE_RE.test(v)) continue;
+      const days = daysTo(v);
+      const open = subjSlugs(sj).filter(isSyllabus).map(sl => [sl, masteryLevel(m.subs[sl])]).filter(([, l]) => !solidPlus(l));
+      const pm = planMaths(days, open.length); if (pm.finished) continue;
+      const done = act.s.filter(r => r[3] >= wk && (r[1] === "sub" ? subBySlug[r[2]] && subBySlug[r[2]].subject === sj.id : ["mix", "focus", "test"].includes(r[1]) && r[2] === sj.id)).length;
+      const focus = open.map(([sl, l], k) => [LEVEL_RANK[l], k, sl]).sort((a, b) => a[0] - b[0] || a[1] - b[1]).slice(0, 3).map(x => x[2]);
+      out.push({ sj, v, days, done, focus, ...pm });
+    }
+    return out.sort((a, b) => a.days - b.days);
+  }
+  const inDays = n => n === 0 ? "today" : n === 1 ? "tomorrow" : `in ${n} days`;
+  const sprintsTxt = n => `${n} ${n === 1 ? "sprint" : "sprints"}`;
+  // A short summary for the Today card: the nearest exam and this week's sprints overall. "" when no dates are set.
+  function planSummaryHtml() {
+    const p = examPlan(); if (!p.length) return "";
+    const n = p[0], tot = p.filter(x => !x.review), t = tot.reduce((a, x) => a + x.target, 0), d = tot.reduce((a, x) => a + Math.min(x.done, x.target), 0);
+    return `<p class="small">${esc(subjShort(n.sj.id))} exam ${inDays(n.days)}${tot.length ? ` · this week ${d} of ${sprintsTxt(t)}` : " · review week: mixed sprints"}</p>`;
+  }
+  function examPlanHtml() {
+    const p = examPlan(), dates = examDates(), past = mySubjects().filter(sj => hasExam(sj) && DATE_RE.test(dates[sj.id] || "") && daysTo(dates[sj.id]) < 0);
+    const body = !p.length && !past.length ? `<p class="small muted">Set your exam dates in <a class="link" href="#settings">Settings</a> to get a weekly plan.</p>`
+      : `<div class="dnext">${p.map(x => `<div class="card pad stack" style="gap:10px"><h3 class="h2s">${esc(subjShort(x.sj.id))} exam ${inDays(x.days)} (${examDayTxt(x.v)})</h3>
+        <p class="small">${x.review ? `This week: review. Do mixed sprints and focus on your weak spots. Sprints done this week: ${x.done}.`
+          : `This week: ${Math.min(x.done, x.target)} of ${sprintsTxt(x.target)}${x.target === 0 ? " (nothing left to cover; keep reviewing)" : ""}${x.done > x.target ? ` (${x.done} done)` : ""}.`}</p>
+        ${x.review || !x.target ? "" : `<div class="bar-row" aria-hidden="true"><div class="bar"><div style="width:${Math.min(100, Math.round(x.done / x.target * 100))}%"></div></div></div>`}
+        ${x.focus.length ? `<div><p class="xs muted">Focus on next</p><ul class="dlist">${x.focus.map(sl => `<li><a class="link" href="#${esc(sl)}">${esc(subBySlug[sl].name)}</a></li>`).join("")}</ul></div>` : `<p class="xs muted">Every subtopic is Secure or better. Keep it fresh with mixed sprints.</p>`}</div>`).join("")}
+        ${past.map(sj => `<div class="card pad"><h3 class="h2s">${esc(subjShort(sj.id))} exam: finished</h3><p class="xs muted">${examDayTxt(dates[sj.id])}</p></div>`).join("")}</div>`;
+    return dsec("d-plan", "Your exam plan", "", body);
+  }
 
   function dashData() {
-    const A = act.a, now = nowS(), d = { got: 0, of: 0, secs: 0, n: 0, ids: new Set(), subj: {}, subs: {}, latest: new Map() };
+    const A = act.a, now = nowS(), d = { got: 0, of: 0, secs: 0, n: 0, ids: new Set(), days: new Set(), subj: {}, subs: {}, latest: new Map() };
     // The last eight weeks, Monday to Sunday, oldest first.
     const wk = weekStart(now); d.weeks = [];
     for (let k = 7; k >= 0; k--) { const x = new Date(wk * 1000); x.setDate(x.getDate() - 7 * k); d.weeks.push({ start: Math.floor(x.getTime() / 1000), got: 0, of: 0, n: 0 }); }
     const wIdx = new Map(d.weeks.map((w, k) => [w.start, k]));
     for (const r of A) {
       const [t, id, part, slug, got, of, secs] = r, q = qById[id], whole = part <= 0;
+      d.days.add(dayStart(t));
       const home = slugOfQ[id] && subBySlug[slugOfQ[id]];
       const sid = (subBySlug[slug] && subBySlug[slug].subject) || (q && q.subject) || (home && home.subject);
       d.got += got; d.of += of; d.secs += secs;
@@ -1665,7 +1975,9 @@ const DIFF = {"chem-1-1-1":[1,88,"m"],"chem-1-1-2":[3,59,"m"],"chem-1-1-3":[2,78
     const known = new Set(Object.keys(d.subj));
     Object.keys(progress).forEach(k => { const s = subjOfKey(k); if (s) known.add(s); });
     const order = Object.fromEntries(subjects.map((s, k) => [s.id, k]));
-    d.subjects = [...known].filter(s => subjById[s]).sort((a, b) => ((d.subj[b] || {}).last || 0) - ((d.subj[a] || {}).last || 0) || order[a] - order[b]);
+    d.nSubjects = [...known].filter(s => subjById[s]).length; // totals count every subject; the cards below show only my subjects
+    const mine = myIds();
+    d.subjects = [...known].filter(s => subjById[s] && mine.has(s)).sort((a, b) => ((d.subj[b] || {}).last || 0) - ((d.subj[a] || {}).last || 0) || order[a] - order[b]);
     // Difficulty bands from the friend's ratings (DIFF), when the site has them.
     d.hasDiff = typeof DIFF !== "undefined" && !!DIFF && Object.keys(DIFF).length > 0;
     d.bands = [["Easy", "1 or 2 stars"], ["Medium", "3 stars"], ["Difficult", "4 or 5 stars"]].map(([name, stars]) => ({ name, stars, got: 0, of: 0, est: 0, qs: new Set() }));
@@ -1703,7 +2015,7 @@ const DIFF = {"chem-1-1-1":[1,88,"m"],"chem-1-1-2":[3,59,"m"],"chem-1-1-3":[2,78
     d.nextDue = later.length ? later[0][1] : 0; d.later = later.length;
     // Recommendations. Developing and weak subtopics, weakest first.
     d.m = masteryNow();
-    const weak = Object.entries(d.m.subs).filter(([, r]) => r.level === "Beginning" || r.level === "Developing")
+    const weak = Object.entries(d.m.subs).filter(([sl]) => subBySlug[sl] && mine.has(subBySlug[sl].subject)).filter(([, r]) => r.level === "Beginning" || r.level === "Developing")
       .map(([slug, r]) => ({ slug, r })).sort((a, b) => a.r.M - b.r.M || b.r.evidence - a.r.evidence);
     const weakSet = new Set(weak.map(s => s.slug));
     d.weakest = weak.slice(0, 3);
@@ -1758,7 +2070,7 @@ const DIFF = {"chem-1-1-1":[1,88,"m"],"chem-1-1-2":[3,59,"m"],"chem-1-1-3":[2,78
       tile("Questions completed", d.n.toLocaleString("en-AU"), d.n ? `${d.ids.size.toLocaleString("en-AU")} different ${d.ids.size === 1 ? "question" : "questions"}` : "None in your history yet"),
       tile("Overall accuracy", accOk ? `${pct(d.got, d.of)}%` : "—", accOk ? `${d.got.toLocaleString("en-AU")} of ${marksTxt(d.of)}, including self-marked answers` : `Shown after ${MIN_ACC} marks of questions (${d.of} so far)`),
       tile("Total study time", d.n ? fmtDur(d.secs) : "—", "Time with a question on screen"),
-      tile("Subjects practised", String(d.subjects.length), d.subjects.length ? `${nSubs} ${nSubs === 1 ? "subtopic" : "subtopics"} answered` : "None yet"),
+      tile("Subjects practised", String(d.nSubjects), d.nSubjects ? `${nSubs} ${nSubs === 1 ? "subtopic" : "subtopics"} answered` : "None yet"),
     ].join("");
     const okW = d.weeks.map((w, k) => ({ ...w, k })).filter(w => w.of >= MIN_WEEK);
     let trendTxt;
@@ -1802,15 +2114,31 @@ const DIFF = {"chem-1-1-1":[1,88,"m"],"chem-1-1-2":[3,59,"m"],"chem-1-1-3":[2,78
     const oldSnap = snapBefore(7);
     const LV = { Mastered: ["Mastered", "80 or more, with a delayed check", "strong"], Secure: ["Secure", "60 to 79", "dev"], Developing: ["Developing", "40 to 59", "dev"], Beginning: ["Beginning", "under 40", "weak"], few: ["Not enough data yet", `fewer than ${MCFG.minQuestions} questions or ${MCFG.minMarks} marks`, "few"] };
     const bucket = key => {
-      const list = Object.entries(d.m.subs).filter(([sl, r]) => subBySlug[sl] && (key === "few" ? !r.sufficient : r.level === key)).map(([slug, r]) => ({ slug, r }))
+      const mine = myIds(), list = Object.entries(d.m.subs).filter(([sl, r]) => subBySlug[sl] && mine.has(subBySlug[sl].subject) && (key === "few" ? !r.sufficient : r.level === key)).map(([slug, r]) => ({ slug, r }))
         .sort(key === "few" ? (a, b) => b.r.nQuestions - a.r.nQuestions : (a, b) => b.r.M - a.r.M);
       const li = ({ slug, r }) => { const sb = subBySlug[slug], then = oldSnap && oldSnap[1].s[slug];
-        return `<li><a class="link" href="#${esc(slug)}">${esc(sb.name)}</a><span class="xs muted">${esc(subjShort(sb.subject))} · ${key === "few" ? `${r.nQuestions} ${r.nQuestions === 1 ? "question" : "questions"} so far` : `${masteryTxt(r)}, ${RELY[r.reliability]}${r.capped ? ", needs a delayed check" : ""}${then ? `, ${esc(changeTxt(r.M, then[0], oldSnap[0]))}` : ""}`}</span></li>`; };
+        return `<li><a class="link" href="#${esc(slug)}">${esc(sb.name)}</a>${levelPill(r)}<span class="xs muted">${esc(subjShort(sb.subject))} · ${key === "few" ? `${r.nQuestions} ${r.nQuestions === 1 ? "question" : "questions"} so far` : `${masteryTxt(r)}, ${RELY[r.reliability]}${r.capped ? ", needs a delayed check" : ""}${then ? `, ${esc(changeTxt(r.M, then[0], oldSnap[0]))}` : ""}`}</span></li>`; };
       return `<div class="card pad dbucket db-${LV[key][2]}"><h3 class="h2s">${LV[key][0]} <span class="dcount">${list.length}</span></h3><p class="xs muted">${LV[key][1]}</p>
         ${list.length ? `<ul class="dlist">${list.slice(0, 6).map(li).join("")}</ul>${list.length > 6 ? `<details class="dmore"><summary>Show ${list.length - 6} more</summary><ul class="dlist">${list.slice(6).map(li).join("")}</ul></details>` : ""}` : `<p class="small muted">None yet.</p>`}</div>`;
     };
     const s3 = dsec("d-topics", "Topic mastery", `An estimate for each subtopic you have practised, from your accuracy, how well you remember it after a break, how hard the questions were, and how consistent you are. Scores are rounded, with a likely range. <a class="link" href="#mastery">How mastery is calculated, and every subtopic's figures</a>`,
       Object.keys(d.m.subs).length ? `<div class="dbuckets">${["Beginning", "Developing", "Secure", "Mastered", "few"].map(bucket).join("")}</div>` : dempty("Subtopics appear here once you answer questions."));
+
+    // 3b. Milestones: badges worked out from the history and mastery levels above, so nothing extra is stored.
+    const lvAll = Object.values(d.m.subs).map(masteryLevel);
+    const topicsReady = subjects.reduce((n, sj) => n + sj.topics.filter(t => { const subs = t.subtopics.filter(x => count(x.slug) && isSyllabus(x.slug));
+      return subs.length && subs.every(x => masteryLevel(d.m.subs[x.slug]) === "Mastered"); }).length, 0);
+    const miles = [
+      ["First quiz finished", "Finish a quiz or exam page to its results.", Math.min(act.s.length, 1), 1],
+      ["100 questions answered", "Answer 100 questions.", Math.min(d.n, 100), 100],
+      ["First subtopic Secure", "Reach Secure in any subtopic.", Math.min(lvAll.filter(solidPlus).length, 1), 1],
+      ["First subtopic Mastered", "Reach Mastered in any subtopic.", Math.min(lvAll.filter(l => l === "Mastered").length, 1), 1],
+      ["A whole topic Mastered", "Reach Mastered in every practised subtopic of one topic.", Math.min(topicsReady, 1), 1],
+      ["Studied on 7 different days", "Answer questions on 7 different days.", Math.min(d.days.size, 7), 7],
+    ];
+    const milesHtml = miles.map(([name, how, got, need]) => { const ok = got >= need;
+      return `<li class="card pad stack dmile${ok ? "" : " dmile-no"}" style="gap:4px"><b class="small">${name}</b><span class="xs"><b>${ok ? "Earned" : "Not yet"}</b>${need > 1 ? ` · ${got.toLocaleString("en-AU")} of ${need.toLocaleString("en-AU")}` : ""}</span><span class="xs muted">${how}</span></li>`; }).join("");
+    const s3b = dsec("d-miles", "Milestones", "Badges for what you have done. They are worked out from your history, and nothing extra is saved.", `<ul class="dmiles">${milesHtml}</ul>`);
 
     // 4. Difficulty analysis
     const band = b => {
@@ -1839,7 +2167,7 @@ const DIFF = {"chem-1-1-1":[1,88,"m"],"chem-1-1-2":[3,59,"m"],"chem-1-1-3":[2,78
     // 6. Recommended next steps
     acts.due = () => dashQuiz("Questions due for revision", d.due.slice(0, 20), "due", "");
     d.rec.forEach((r, k) => { if (r.act) acts["rec" + k] = () => dashQuiz(r.title, r.pool, r.act, r.sid); });
-    const weakHtml = d.weakest.length ? `<ul class="dlist">${d.weakest.map(s => { const sb = subBySlug[s.slug]; return `<li><div class="stack" style="gap:2px;min-width:0"><a class="link" href="#${esc(s.slug)}">${esc(sb.name)}</a><span class="xs muted">${esc(subjShort(sb.subject))} · ${s.r.level}, mastery ${masteryTxt(s.r)}</span></div></li>`; }).join("")}</ul>`
+    const weakHtml = d.weakest.length ? `<ul class="dlist">${d.weakest.map(s => { const sb = subBySlug[s.slug]; return `<li><div class="stack" style="gap:2px;min-width:0"><a class="link" href="#${esc(s.slug)}">${esc(sb.name)}</a>${levelPill(s.r)}<span class="xs muted">${esc(subjShort(sb.subject))} · ${s.r.level}, mastery ${masteryTxt(s.r)}</span></div></li>`; }).join("")}</ul>`
       : `<p class="small muted">${nSubs ? "No subtopic is rated Beginning or Developing. Keep going." : "Answer some questions first."}</p>`;
     const dueHtml = d.due.length ? `<p><b class="dt-v" style="font-size:1.6rem">${d.due.length}</b> ${d.due.length === 1 ? "question is" : "questions are"} due now.</p><button class="btn btn-primary" data-act="due">Practise ${d.due.length > 20 ? "the first 20" : d.due.length === 1 ? "it" : `these ${d.due.length}`}</button>`
       : `<p class="small muted">Nothing due right now.${d.later ? ` ${d.later} ${d.later === 1 ? "question comes" : "questions come"} back from ${whenTxt(d.nextDue).toLowerCase()}.` : ""}</p>`;
@@ -1850,7 +2178,7 @@ const DIFF = {"chem-1-1-1":[1,88,"m"],"chem-1-1-2":[3,59,"m"],"chem-1-1-3":[2,78
       <div class="card pad stack" style="gap:10px;align-items:flex-start"><h3 class="h2s">Due for revision</h3>${dueHtml}<p class="xs muted">Questions you lost marks on come back a day later. Once you get one right, it comes back a week later to check it stuck. Tick Resolved in the error log to stop it.</p></div>
       <div class="card pad stack" style="gap:10px"><h3 class="h2s">Recommended practice</h3>${recHtml}</div></div>`);
 
-    return { acts, html: notesHtml + s1 + s2 + s3 + s4 + s5 + s6 + footer() };
+    return { acts, html: notesHtml + examPlanHtml() + s1 + s2 + s3 + s3b + s4 + s5 + s6 + footer() };
   }
   const footer = () => `<div class="stack dfoot" style="gap:8px"><p class="small muted">Your answers, scores and study time are saved only in this browser and never leave your device. See <a class="link" href="#privacy">Privacy</a>.</p>
     <div class="row" style="gap:16px">${act.a.length || act.s.length ? `<button class="link" data-act="del">Delete activity history</button>` : ""}<span class="small" id="dstatus" role="status"></span></div></div>`;
@@ -1867,8 +2195,8 @@ const DIFF = {"chem-1-1-1":[1,88,"m"],"chem-1-1-2":[3,59,"m"],"chem-1-1-3":[2,78
   // Keyboard shortcuts, listed under the dashboard. Keep in step with the keydown handlers near route().
   const SHORTCUTS = [
     ["Search", [
-      [["/"], "Jump to the search box (when you are not typing)"],
-      [["Ctrl", "K"], "Jump to the search box from anywhere (⌘ K on a Mac)"],
+      [["/"], "Jump to the search box (when you are not typing; not during a quiz question)"],
+      [["Ctrl", "K"], "Jump to the search box from anywhere (⌘ K on a Mac); not during a quiz question"],
       [["↑", "↓"], "Move through the search results"],
       [["Enter"], "Open the highlighted result"],
       [["Esc"], "Clear the search; press again to leave the box"]]],
@@ -1880,6 +2208,9 @@ const DIFF = {"chem-1-1-1":[1,88,"m"],"chem-1-1-2":[3,59,"m"],"chem-1-1-3":[2,78
       [["Ctrl", "Enter"], "Show the model answer while typing in the answer box (⌘ Enter on a Mac)"],
       [["G"], "Mark it as got it"],
       [["M"], "Mark it as missed it"]]],
+    ["Multi-part questions", [
+      [["N"], "Show the next step of a worked solution"],
+      [["R"], "Show the full worked solution"]]],
     ["Any quiz", [
       [["Enter"], "Go to the next question, or see your results after the last one"]]],
   ];
@@ -2215,17 +2546,68 @@ const DIFF = {"chem-1-1-1":[1,88,"m"],"chem-1-1-2":[3,59,"m"],"chem-1-1-3":[2,78
   function quizView(slug) {
     const s = subBySlug[slug], sj = subjById[s.subject], back = `#s-${sj.id}`;
     app.innerHTML = `<div class="wrap w2 view stack-lg" style="gap:24px"><div class="stack" style="gap:4px"><a class="link" href="${back}">← ${esc(sj.name)}: ${esc(s.topicName)}</a><span class="call" style="margin-top:8px">${esc(sj.name)} · Topic ${s.topic}</span><h1 class="page-h1">${esc(s.name)}</h1></div><div id="quiz"></div></div>`;
-    runQuiz(app.querySelector("#quiz"), bank[slug], { slug, backHref: back, kind: "sub", ref: slug });
+    runQuiz(app.querySelector("#quiz"), bank[slug], { slug, backHref: back, backLabel: `Back to ${sj.name}`, kind: "sub", ref: slug, sprint: true });
+    getNote(slug).then(n => { const quiz = app.querySelector("#quiz"); if (!n || !quiz || !quiz.isConnected || app.querySelector("details.note")) return;
+      quiz.insertAdjacentHTML("beforebegin", `<details class="note"><summary>60-second refresher</summary><div>${noteBody(n, slug)}</div></details>`); typeset(quiz.previousElementSibling); });
   }
 
-  const selected = new Set(); let qCount = 10, customSubj = null, cBands = new Set([0, 1, 2]), cEasyFirst = false;
+  /* <share-codec> */
+  // Shared quiz links: "#share=<ids joined by .>&n=<name>". Ids are [A-Za-z0-9_-], so they are URL-safe as they are (about 14 characters each).
+  const SHARE_MAX = 30, SHARE_ID = /^[A-Za-z0-9_-]{1,60}$/;
+  const shareEncode = (ids, name) => "share=" + [...new Set(ids)].filter(id => SHARE_ID.test(id)).slice(0, SHARE_MAX).join(".") + (name ? "&n=" + encodeURIComponent(String(name).slice(0, 40)) : "");
+  const shareDecode = hash => {
+    const m = /^share=([^&]*)(?:&n=(.*))?$/.exec(hash);
+    if (!m) return null;
+    const ids = m[1].split("."); let name = "";
+    try { name = m[2] ? decodeURIComponent(m[2]).slice(0, 40) : ""; } catch (e) { /* bad name: ignore it */ }
+    return ids.length <= SHARE_MAX && ids.every(id => SHARE_ID.test(id)) ? { ids, name } : null;
+  };
+  /* </share-codec> */
+  const shareUrl = ids => location.origin + location.pathname + location.search + "#" + shareEncode(ids);
+  // Share button with a polite status line; falls back to a selectable read-only field when nothing can be shared or copied.
+  function shareBox(label, text, url, shareData) {
+    const box = document.createElement("div"); box.className = "stack"; box.style.gap = "8px";
+    box.innerHTML = `<div class="row" style="justify-content:center"><button class="btn btn-ghost" type="button">${esc(label)}</button></div><p class="small" role="status"></p>`;
+    const st = box.querySelector("p");
+    box.querySelector("button").onclick = async () => {
+      try {
+        if (navigator.share) { await navigator.share(shareData); return; }
+        await navigator.clipboard.writeText(text);
+        st.textContent = "Link copied";
+      } catch (e) {
+        if (e && e.name === "AbortError") return;
+        st.innerHTML = `<label class="stack small" style="gap:6px">Copy this link<input class="subj-sel" readonly value="${esc(text)}"></label>`;
+        const inp = st.querySelector("input"); inp.focus(); inp.select();
+      }
+    };
+    return box;
+  }
+  function sharedView(sh) {
+    const qs = sh && sh.ids.map(id => qById[id]).filter(q => q && !examById[q.id]);
+    if (!qs || !qs.length) {
+      app.innerHTML = `<div class="wrap w2 view stack" style="text-align:center;align-items:center;padding-block:4rem"><h1 class="page-h1">This quiz link does not work</h1><p class="muted">The link may be cut short, or its questions may have been removed.</p><a class="btn btn-primary" href="#custom">Build a quiz</a></div>`;
+      return;
+    }
+    const gone = sh.ids.length - qs.length, title = sh.name || "Shared quiz", url = shareUrl(qs.map(q => q.id)) + (sh.name ? "&n=" + encodeURIComponent(sh.name) : "");
+    app.innerHTML = `<div class="wrap w2 view stack-lg" style="gap:24px"><div class="stack" style="gap:4px"><h1 class="page-h1">${esc(title)}</h1>${gone ? `<p class="small muted">${gone} ${gone === 1 ? "question" : "questions"} in this link no longer ${gone === 1 ? "exists" : "exist"}.</p>` : ""}</div><div id="quiz"></div></div>`;
+    const host = app.querySelector("#quiz");
+    // "Share your score" goes on the results card, via runQuiz's onDone hook.
+    runQuiz(host, qs, { backHref: "#custom", kind: "share", ref: "", onDone: ({ got, of }) => {
+      const card = host.querySelector(".result"); if (!card || card.querySelector("[data-sharescore]")) return;
+      const text = `I scored ${got} out of ${of} on this Helix Revise quiz. Can you beat it? ${url}`;
+      const b = shareBox("Share your score", text, url, { text }); b.dataset.sharescore = "1"; card.append(b);
+    } });
+    const first = host.querySelector(".qprompt"); if (first) { first.tabIndex = -1; first.focus(); }
+  }
+  const selected = new Set(); let customSubj = null, cAll = false, cBands = new Set([0, 1, 2]), cEasyFirst = false;
   const BANDS = [["Easy", "★1–2"], ["Medium", "★3"], ["Difficult", "★4–5"]];
   const bandOf = id => { const df = diffOf(id); return df ? (df[0] <= 2 ? 0 : df[0] === 3 ? 1 : 2) : -1; };
   // unrated questions only pass when every band is ticked
   const inBands = q => cBands.size === 3 || cBands.has(bandOf(q.id));
   function customView(bandArg) {
     if (bandArg != null) { cBands = new Set([bandArg]); cEasyFirst = false; }
-    if (!customSubj) customSubj = subjects[0].id;
+    const myList = () => cAll ? subjects : mySubjects();
+    if (!customSubj || !myList().some(s => s.id === customSubj)) { if (customSubj) selected.clear(); customSubj = myList()[0].id; }
     const sj = subjById[customSubj];
     const avail = sj.topics.map(t => ({ ...t, subtopics: t.subtopics.filter(s => count(s.slug)) })).filter(t => t.subtopics.length);
     const poolSize = () => [...selected].reduce((a, s) => a + bank[s].filter(inBands).length, 0);
@@ -2233,7 +2615,7 @@ const DIFF = {"chem-1-1-1":[1,88,"m"],"chem-1-1-2":[3,59,"m"],"chem-1-1-3":[2,78
     const body = app.querySelector("#cbody");
     function pick() {
       const keep = document.activeElement && body.contains(document.activeElement) ? document.activeElement.id : null;
-      body.innerHTML = `<label class="stack small" style="gap:6px;font-weight:500" for="csubj">Subject<select class="subj-sel" id="csubj">${groups().map(g => `<optgroup label="${esc(g)}">${subjects.filter(s => s.group === g).map(s => `<option value="${s.id}" ${s.id === customSubj ? "selected" : ""}>${esc(s.name)}</option>`).join("")}</optgroup>`).join("")}</select></label>
+      body.innerHTML = `<label class="stack small" style="gap:6px;font-weight:500" for="csubj">Subject<select class="subj-sel" id="csubj">${groups(myList()).map(g => `<optgroup label="${esc(g)}">${myList().filter(s => s.group === g).map(s => `<option value="${s.id}" ${s.id === customSubj ? "selected" : ""}>${esc(s.name)}</option>`).join("")}</optgroup>`).join("")}</select></label>${hasMine() ? `<label class="row small" style="gap:8px"><input type="checkbox" id="call" ${cAll ? "checked" : ""}>Show all subjects</label>` : ""}
       <div class="stack" style="gap:12px">${avail.map(t => {
         const all = t.subtopics.every(s => selected.has(s.slug));
         return `<fieldset class="pick"><legend class="sr">${esc(t.name)}</legend><label class="all"><input type="checkbox" id="t-${t.number}" data-all="${t.number}" ${all ? "checked" : ""}>${t.number}. ${esc(t.name)}</label>
@@ -2241,21 +2623,25 @@ const DIFF = {"chem-1-1-1":[1,88,"m"],"chem-1-1-2":[3,59,"m"],"chem-1-1-3":[2,78
       }).join("")}</div>
       <fieldset class="pick"><legend class="small" style="font-weight:500">Difficulty</legend><div class="grid">${BANDS.map(([n, st], i) => `<label><input type="checkbox" data-band="${i}" ${cBands.has(i) ? "checked" : ""}>${n} <span class="xs muted">${st}</span></label>`).join("")}</div></fieldset>
       <label class="stack small" style="gap:6px;font-weight:500" for="corder">Order<select class="subj-sel" id="corder"><option value="mix">Mixed</option><option value="easy" ${cEasyFirst ? "selected" : ""}>Easiest first</option></select></label>
-      <div class="dock"><label class="row small" style="gap:8px" for="qcount">Questions <select id="qcount">${[5, 10, 20, 30, 50].map(n => `<option ${n === qCount ? "selected" : ""}>${n}</option>`).join("")}</select></label>
+      <div class="dock">
         <span class="small muted" id="avail">${poolSize()} available</span><button class="btn btn-primary go" id="start" ${poolSize() ? "" : "disabled"}>Start quiz</button></div>`;
+      const ca = body.querySelector("#call"); if (ca) ca.onchange = () => { cAll = ca.checked; if (!cAll && !myIds().has(customSubj)) { customView(); app.querySelector("#call").focus(); } else pick(); };
       body.querySelector("#csubj").onchange = e => { customSubj = e.target.value; selected.clear(); customView(); app.querySelector("#csubj").focus(); };
       body.querySelectorAll("[data-all]").forEach(c => c.onchange = () => { const t = avail.find(x => x.number === +c.dataset.all); t.subtopics.forEach(s => c.checked ? selected.add(s.slug) : selected.delete(s.slug)); pick(); });
       body.querySelectorAll("[data-sub]").forEach(c => c.onchange = () => { c.checked ? selected.add(c.dataset.sub) : selected.delete(c.dataset.sub); pick(); });
       body.querySelectorAll("[data-band]").forEach(c => c.onchange = () => { c.checked ? cBands.add(+c.dataset.band) : cBands.delete(+c.dataset.band); pick(); });
       body.querySelector("#corder").onchange = e => { cEasyFirst = e.target.value === "easy"; };
-      body.querySelector("#qcount").onchange = e => { qCount = +e.target.value; };
       if (keep && document.getElementById(keep)) document.getElementById(keep).focus();
       body.querySelector("#start").onclick = () => {
-        let qs = shuffle([...selected].flatMap(s => bank[s]).filter(inBands)).slice(0, qCount);
+        let qs = shuffle([...selected].flatMap(s => bank[s]).filter(inBands)); // the whole pool: runQuiz cuts it into sprints
         if (cEasyFirst) qs = qs.map((q, i) => [q, i]).sort((a, b) => ((diffOf(a[0].id) || [6])[0] - (diffOf(b[0].id) || [6])[0]) || a[1] - b[1]).map(x => x[0]);
         body.innerHTML = `<div class="stack"><button class="link" id="back" style="align-self:flex-start">← Change selection</button><div id="quiz"></div></div>`;
         body.querySelector("#back").onclick = pick;
-        runQuiz(body.querySelector("#quiz"), qs, { backHref: `#s-${customSubj}`, kind: "mix", ref: customSubj });
+        const shareIds = qs.map(q => q.id).filter(id => !examById[id]);
+        const sb = shareBox("Share this quiz", shareUrl(shareIds), null, { title: "Helix Revise quiz", url: shareUrl(shareIds) });
+        sb.insertAdjacentHTML("afterbegin", `<p class="small muted" style="text-align:center">Shared links hold up to ${SHARE_MAX} questions${shareIds.length > SHARE_MAX ? `, so only the first ${SHARE_MAX} of these are included` : ""}.</p>`);
+        body.querySelector(".stack").append(sb);
+        runQuiz(body.querySelector("#quiz"), qs, { onBack: pick, backLabel: "Back to Build a quiz", kind: "mix", ref: customSubj, sprint: true, ordered: cEasyFirst });
         const first = body.querySelector(".qprompt"); if (first) { first.tabIndex = -1; first.focus(); }
       };
     }
@@ -2271,7 +2657,7 @@ const DIFF = {"chem-1-1-1":[1,88,"m"],"chem-1-1-2":[3,59,"m"],"chem-1-1-3":[2,78
       <section class="stack" aria-labelledby="a-how"><h2 id="a-how">How it works</h2>
         <ol><li><b>Pick a subject</b> from <a href="#topics">Subjects</a>, then a topic and a subtopic.</li>
           <li><b>Answer the questions.</b> Multiple-choice questions are marked instantly, with an explanation. For written questions, write your answer, show the model answer, then mark yourself.</li>
-          <li><b>Check the question info.</b> Under each question, <b>Question info</b> gives its topic, the marks it would be worth in an exam, an estimated time, its exam relevance (how often the topic comes up and how close the question is to the exam's format), what to know first, with links to those subtopics, and the question type. Times, marks and relevance are estimates, not predictions.</li>
+          <li><b>Check the question info.</b> Under each question, <b>More about this question</b> gives its topic, the marks it would be worth in an exam, an estimated time, its exam relevance (how often the topic comes up and how close the question is to the exam's format), what to know first, with links to those subtopics, and the question type. Times, marks and relevance are estimates, not predictions.</li>
           <li><b>Check your progress.</b> Your best score for each subtopic shows on the subject page, so you can see what to revise next.</li>
           <li><b>Mix topics</b> with <a href="#custom">Build a quiz</a> when you want short questions from several subtopics in one quiz.</li>
           <li><b>Try long questions.</b> Some subtopic quizzes include multi-part questions, and the bottom of each subject page lists its exam-style questions, where one context runs through several topics, plus a full test. Each part has a worked solution showing the marks each step earns, and you give yourself the marks you earned.</li>
@@ -2297,13 +2683,79 @@ const DIFF = {"chem-1-1-1":[1,88,"m"],"chem-1-1-2":[3,59,"m"],"chem-1-1-3":[2,78
     let cur = ""; try { cur = localStorage.getItem("helix-theme") || ""; } catch {}
     if (cur !== "light" && cur !== "dark") cur = "";
     app.innerHTML = `<div class="wrap w2 view stack"><h1 class="page-h1">Settings</h1>
-      <fieldset class="pick"><legend class="small" style="font-weight:500">Appearance</legend><div style="display:flex;flex-wrap:wrap;gap:12px 24px">${[["", "System"], ["light", "Light"], ["dark", "Dark"]].map(([v, n]) => `<label><input type="radio" name="theme" value="${v}" ${cur === v ? "checked" : ""}>${n}</label>`).join("")}</div></fieldset></div>`;
+      <fieldset class="pick"><legend class="small" style="font-weight:500">Appearance</legend><div style="display:flex;flex-wrap:wrap;gap:12px 24px">${[["", "System"], ["light", "Light"], ["dark", "Dark"]].map(([v, n]) => `<label><input type="radio" name="theme" value="${v}" ${cur === v ? "checked" : ""}>${n}</label>`).join("")}</div></fieldset>
+      <section class="stack" style="gap:12px" aria-labelledby="my-h"><h2 class="h2s" id="my-h">My subjects</h2><p class="small muted">Tick the subjects you study and the site shows only those on the home page, subjects list, search, dashboard and quiz builder. Tick none to see every subject. Changes save straight away.</p>
+        <div class="stack" id="mysubj" style="gap:12px">${groups().map(g => `<fieldset class="pick"><legend class="small" style="font-weight:500">${esc(g)}</legend><div class="grid">${subjects.filter(s => s.group === g).map(s => `<label><input type="checkbox" value="${s.id}" ${mineIds.includes(s.id) ? "checked" : ""}>${esc(s.name)}</label>`).join("")}</div></fieldset>`).join("")}</div>
+        <p class="small muted" id="mymsg" role="status"></p></section>
+      <section class="stack" style="gap:12px" aria-labelledby="ex-h"><h2 class="h2s" id="ex-h">Exam dates</h2><p class="small muted">Add the date of each exam and the dashboard shows a countdown and a weekly plan. Dates are saved on this device only.</p>
+        <div class="stack" id="exams" style="gap:12px">${mySubjects().filter(hasExam).map(sj => { const v = examDates()[sj.id] || "", old = DATE_RE.test(v) && daysTo(v) < 0;
+          return `<div class="row" style="gap:12px;flex-wrap:wrap"><label for="ex-${esc(sj.id)}">${esc(subjShort(sj.id))}</label><input type="date" id="ex-${esc(sj.id)}" data-sid="${esc(sj.id)}" value="${esc(v)}"><button class="btn btn-ghost btn-sm" type="button" data-clear="${esc(sj.id)}">Clear</button>${old ? `<span class="small muted">Finished</span>` : ""}</div>`; }).join("") || `<p class="small muted">None of your subjects has an exam to set.</p>`}</div>
+        <p class="small muted" id="exmsg" role="status"></p></section>
+      <section class="stack" aria-labelledby="bk-h"><h2 id="bk-h" class="h2s">Back up your progress</h2>
+        <p class="small muted">The backup holds your quiz scores, error log, mistake analysis, activity history and settings. It contains no personal details. To move your progress to another device, download a backup here and restore it there.</p>
+        <button class="btn btn-primary" id="bkDown" type="button">Download backup</button>
+        <div class="stack" style="gap:8px"><label for="bkFile">Restore from a backup</label><input type="file" id="bkFile" accept=".json,application/json"></div>
+        <p class="small" id="bkMsg" role="alert"></p></section></div>`;
+    app.querySelector("#mysubj").addEventListener("change", () => {
+      saveMine([...app.querySelectorAll("#mysubj input:checked")].map(i => i.value));
+      app.querySelector("#mymsg").textContent = hasMine() ? `Saved: showing ${mySubjects().length} ${mySubjects().length === 1 ? "subject" : "subjects"}.` : "Saved: showing all subjects.";
+    });
+    const exs = app.querySelector("#exams"), exSaved = sid => { app.querySelector("#exmsg").textContent = examDates()[sid] ? `Saved: ${subjShort(sid)} exam on ${examDayTxt(examDates()[sid])}.` : `Cleared the ${subjShort(sid)} exam date.`; };
+    exs.addEventListener("change", e => { const i = e.target.closest("input[data-sid]"); if (i) { saveExam(i.dataset.sid, i.value); exSaved(i.dataset.sid); } });
+    exs.addEventListener("click", e => { const b = e.target.closest("[data-clear]"); if (b) { const i = exs.querySelector(`input[data-sid="${b.dataset.clear}"]`); i.value = ""; saveExam(b.dataset.clear, ""); exSaved(b.dataset.clear); } });
+    app.querySelector("#bkDown").addEventListener("click", downloadBackup);
+    app.querySelector("#bkFile").addEventListener("change", e => { if (e.target.files[0]) restoreBackup(e.target.files[0]); });
     app.querySelector("fieldset").addEventListener("change", e => {
       const v = e.target.value;
       if (v) document.documentElement.dataset.theme = v; else delete document.documentElement.dataset.theme;
       try { v ? localStorage.setItem("helix-theme", v) : localStorage.removeItem("helix-theme"); } catch {}
       document.querySelector('meta[name="theme-color"]').content = (v || (matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light")) === "dark" ? "#1b1c19" : "#e3ddd0";
     });
+  }
+  /* <backup-check> */
+  // Checks a backup file's text before anything changes: { data, exported } if usable, otherwise { error }.
+  const BK_MAX = 5 * 1024 * 1024;
+  const backupCheck = (size, text) => {
+    if (size >= BK_MAX) return { error: "That file is too big to be a Helix Revise backup, so nothing was changed." };
+    let o = null; try { o = JSON.parse(text); } catch {}
+    if (!o || typeof o !== "object" || o.app !== "helix-revise" || !o.data || typeof o.data !== "object" || Array.isArray(o.data))
+      return { error: "That file is not a Helix Revise backup, so nothing was changed." };
+    if (!Object.entries(o.data).every(([k, v]) => k.startsWith("helix-") && typeof v === "string"))
+      return { error: "That backup holds data Helix Revise does not recognise, so nothing was changed." };
+    return { data: o.data, exported: typeof o.exported === "string" ? o.exported : "" };
+  };
+  /* </backup-check> */
+  function backupMsg(text) { app.querySelector("#bkMsg").textContent = text; }
+  const helixKeys = () => { const ks = []; for (let i = 0; i < localStorage.length; i++) { const k = localStorage.key(i); if (k.startsWith("helix-")) ks.push(k); } return ks; };
+  function downloadBackup() {
+    backupMsg("");
+    flushAct(); flushMis(); saveSnapshot(); // write out answers still waiting in memory, so the backup is current
+    let data;
+    try { data = Object.fromEntries(helixKeys().map(k => [k, localStorage.getItem(k)])); }
+    catch { backupMsg("Your browser is not letting this site read its saved progress, so there is no backup to download."); return; }
+    const url = URL.createObjectURL(new Blob([JSON.stringify({ app: "helix-revise", version: 1, exported: new Date().toISOString(), data }, null, 2)], { type: "application/json" }));
+    const a = Object.assign(document.createElement("a"), { href: url, download: `helix-revise-backup-${today()}.json` });
+    document.body.append(a); a.click(); a.remove();
+    setTimeout(() => URL.revokeObjectURL(url), 1000);
+  }
+  async function restoreBackup(file) {
+    backupMsg("");
+    const r = backupCheck(file.size, await file.text().catch(() => ""));
+    if (r.error) return backupMsg(r.error);
+    const when = new Date(r.exported || ""), from = isNaN(when) ? "an unknown date" : when.toLocaleDateString("en-AU", { day: "numeric", month: "long", year: "numeric" });
+    if (!confirm(`Replace the progress on this device with the backup from ${from}? This can't be undone.`)) return;
+    restoring = true; // stops every page write now, including the ones on pagehide, until the reload below
+    let old = null;
+    try {
+      old = Object.fromEntries(helixKeys().map(k => [k, localStorage.getItem(k)]));
+      helixKeys().forEach(k => localStorage.removeItem(k));
+      for (const [k, v] of Object.entries(r.data)) localStorage.setItem(k, v);
+    } catch { // storage refused part of the backup: put back what was there
+      restoring = false;
+      if (old) try { helixKeys().forEach(k => localStorage.removeItem(k)); for (const [k, v] of Object.entries(old)) localStorage.setItem(k, v); } catch {}
+      return backupMsg("Your browser would not save the backup, so your progress has not been changed.");
+    }
+    location.reload();
   }
   function privacyView() {
     app.innerHTML = `<div class="wrap w2 view stack"><h1 class="page-h1">Privacy</h1><p class="muted">Helix Revise has no accounts and sets no tracking cookies. Your quiz scores, your error log and mistake analysis (including any notes you write in them) and your activity history for the dashboard (which questions you answered, your marks, and how long each took) are saved in your browser's local storage and never leave your device. You can delete the activity history from the bottom of the dashboard. Clearing your browser's site data deletes them.</p><p class="muted">The page loads its fonts from Google Fonts and its maths typesetting (KaTeX) from the jsDelivr content network. As with any web request, those services receive your IP address.</p></div>`;
@@ -2313,9 +2765,12 @@ const DIFF = {"chem-1-1-1":[1,88,"m"],"chem-1-1-2":[3,59,"m"],"chem-1-1-3":[2,78
   }
 
   function route(moveFocus) {
+    clearInterval(timedTick); // leaving a page ends its timed-mode timer
+    focusMode(null); // any route change leaves focus mode; a quiz view turns it back on
     Object.values(examClocks).forEach(c => { if (c.run) { c.acc += c.run(); c.run = null; } }); // leaving an exam page pauses its clock
-    const h = decodeURIComponent(location.hash.slice(1));
+    const h = location.hash.startsWith("#share=") ? location.hash.slice(1) : decodeURIComponent(location.hash.slice(1)); // a share link keeps its encoding so the name survives "&"
     if (!h) home();
+    else if (h.startsWith("share=")) sharedView(shareDecode(h));
     else if (h === "topics") subjectsView();
     else if (h.startsWith("s-") && subjById[h.slice(2)]) subjectView(h.slice(2));
     else if (h === "custom" || h.startsWith("custom?band=")) { const n = h.slice(12); customView(/^[0-2]$/.test(n) ? +n : null); }
@@ -2346,10 +2801,10 @@ const DIFF = {"chem-1-1-1":[1,88,"m"],"chem-1-1-2":[3,59,"m"],"chem-1-1-3":[2,78
   // Subjects share names across units (Chemistry U1/2 and U3/4), so results name the unit too.
   const hsSj = sj => esc(`${sj.name} · ${sj.group}`);
   const hsIndex = () => hsItems || (hsItems = [
-    ...subjects.flatMap(sj => sj.topics.flatMap(t => t.subtopics.filter(s => count(s.slug)).map(s => ({ name: s.name, sub: sj.name, html: esc(s.name), meta: `${hsSj(sj)} · Topic ${t.number}`, hash: s.slug })))),
-    ...subjects.flatMap(sj => sj.topics.map(t => ({ name: t.name, sub: sj.name, html: esc(t.name), meta: `Topic ${t.number} · ${hsSj(sj)}`, hash: "s-" + sj.id, open: [sj.id, t.number] }))),
-    ...subjects.map(sj => ({ name: sj.name, sub: sj.group || "", html: esc(sj.name), meta: `Subject · ${esc(sj.group)}`, hash: "s-" + sj.id })),
-    ...subjects.flatMap(sj => (exams[sj.id] || []).map(q => ({ name: q.title, sub: sj.name, html: txt(q.title), meta: `Exam-style question · ${hsSj(sj)}`, hash: "x-" + q.id }))),
+    ...subjects.flatMap(sj => sj.topics.flatMap(t => t.subtopics.filter(s => count(s.slug)).map(s => ({ name: s.name, sub: sj.name, html: esc(s.name), meta: `${hsSj(sj)} · Topic ${t.number}`, hash: s.slug, sid: sj.id })))),
+    ...subjects.flatMap(sj => sj.topics.map(t => ({ name: t.name, sub: sj.name, html: esc(t.name), meta: `Topic ${t.number} · ${hsSj(sj)}`, hash: "s-" + sj.id, open: [sj.id, t.number], sid: sj.id }))),
+    ...subjects.map(sj => ({ name: sj.name, sub: sj.group || "", html: esc(sj.name), meta: `Subject · ${esc(sj.group)}`, hash: "s-" + sj.id, sid: sj.id })),
+    ...subjects.flatMap(sj => (exams[sj.id] || []).map(q => ({ name: q.title, sub: sj.name, html: txt(q.title), meta: `Exam-style question · ${hsSj(sj)}`, hash: "x-" + q.id, sid: sj.id }))),
   ].map(it => ({ ...it, lc: it.name.toLowerCase(), hay: (it.name + " " + it.sub).toLowerCase() })));
   const hsClose = () => { hsres.hidden = true; hs.setAttribute("aria-expanded", "false"); hs.removeAttribute("aria-activedescendant"); hsAct = -1; };
   const hsSet = i => {
@@ -2362,7 +2817,10 @@ const DIFF = {"chem-1-1-1":[1,88,"m"],"chem-1-1-2":[3,59,"m"],"chem-1-1-3":[2,78
     const q = hs.value.trim().toLowerCase();
     if (!q) { hsShown = []; return hsClose(); }
     const terms = q.split(/\s+/), rank = it => it.lc.startsWith(q) ? 0 : it.lc.split(/\s+/).some(w => w.startsWith(terms[0])) ? 1 : 2;
-    hsShown = hsIndex().filter(it => terms.every(t => it.hay.includes(t))).map(it => [rank(it), it]).sort((a, b) => a[0] - b[0]).slice(0, 8).map(r => r[1]); // sort is stable, so ties keep type then site order
+    const found = hsIndex().filter(it => terms.every(t => it.hay.includes(t))), mine = myIds(); // the index covers every subject, so a changed choice needs no rebuild
+    let hits = found.filter(it => mine.has(it.sid)), other = false;
+    if (!hits.length && hasMine()) { hits = found; other = true; }
+    hsShown = hits.map(it => other ? { ...it, meta: `${it.meta} · Not in your subjects` } : it).map(it => [rank(it), it]).sort((a, b) => a[0] - b[0]).slice(0, 8).map(r => r[1]); // sort is stable, so ties keep type then site order
     hsres.innerHTML = hsShown.length ? hsShown.map((it, i) => `<li role="option" id="hsr${i}" data-i="${i}" aria-selected="false"><b>${it.html}</b><small>${it.meta}</small></li>`).join("") : `<li role="option" aria-disabled="true">No matches</li>`;
     hsAct = -1; hs.removeAttribute("aria-activedescendant");
     hsres.hidden = false; hs.setAttribute("aria-expanded", "true");
@@ -2388,6 +2846,7 @@ const DIFF = {"chem-1-1-1":[1,88,"m"],"chem-1-1-2":[3,59,"m"],"chem-1-1-3":[2,78
   document.addEventListener("keydown", e => {
     const slash = e.key === "/" && !e.ctrlKey && !e.metaKey && !e.altKey && !(e.target.matches && e.target.matches("textarea, select, [contenteditable], input:not([type=radio]):not([type=checkbox])"));
     if (!slash && !((e.ctrlKey || e.metaKey) && e.key.toLowerCase() === "k")) return;
+    if (htmlEl.classList.contains("quizzing")) return; // the search box is hidden in focus mode
     e.preventDefault(); hs.focus(); hs.select();
   });
   window.addEventListener("hashchange", hsClose);
@@ -2401,6 +2860,10 @@ const DIFF = {"chem-1-1-1":[1,88,"m"],"chem-1-1-2":[3,59,"m"],"chem-1-1-3":[2,78
     if (e.ctrlKey || e.metaKey) return;
     const k = e.key.toLowerCase();
     if (k === "enter") { if (!t.matches("button, a, summary, input")) press(btn("next")); return; }
+    if (k === "r" || k === "n") { // multi-part questions: R shows the full solution, N the next step, of the focused part or else the first one still hidden
+      const sel = k === "r" ? "[data-open]" : "[data-step]", own = t.closest && t.closest("[data-part]");
+      if (press((own && own.querySelector(sel)) || app.querySelector(".multi " + sel))) return;
+    }
     if (press({ r: btn("reveal"), g: btn("got"), m: btn("miss") }[k])) return;
     const opts = app.querySelectorAll("#quiz .opt:not(:disabled)");
     const n = /^[1-9]$/.test(k) ? +k - 1 : /^[a-i]$/.test(k) ? k.charCodeAt(0) - 97 : -1;

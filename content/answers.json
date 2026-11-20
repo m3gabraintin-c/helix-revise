@@ -1,0 +1,1936 @@
+{
+ "bio12a1-ap-25": {
+  "tol": 0.5,
+  "unit": "%",
+  "units": [
+   "%",
+   "percent"
+  ],
+  "v": 6.0
+ },
+ "chem-1-2-16": {
+  "tol": 0.5,
+  "unit": "kJ mol^-1",
+  "units": [
+   "kJ mol^-1",
+   "kJ mol⁻¹",
+   "kJ/mol"
+  ],
+  "v": 4440.0
+ },
+ "chem-1-2-24": {
+  "tol": 0.5,
+  "unit": "kJ mol^-1",
+  "units": [
+   "kJ mol^-1",
+   "kJ mol⁻¹",
+   "kJ/mol"
+  ],
+  "v": -802.0
+ },
+ "chem-1-3-4": {
+  "tol": 0.05,
+  "unit": "kJ g^-1",
+  "units": [
+   "kJ g^-1",
+   "kJ g⁻¹",
+   "kJ/g"
+  ],
+  "v": 50.5
+ },
+ "chem-1-3-c1": {
+  "tol": 0.5,
+  "unit": "kJ",
+  "units": [
+   "kJ"
+  ],
+  "v": 359.0
+ },
+ "chem-3-1-12": {
+  "tol": 0.5,
+  "unit": "kJ mol^-1",
+  "units": [
+   "kJ mol^-1",
+   "kJ mol⁻¹",
+   "kJ/mol"
+  ],
+  "v": 277.0
+ },
+ "chem-3-3-c1": {
+  "tol": 0.0005,
+  "unit": "M",
+  "units": [
+   "M"
+  ],
+  "v": 0.051
+ },
+ "chem-4-1-20": {
+  "tol": 0.005,
+  "unit": "V",
+  "units": [
+   "V"
+  ],
+  "v": 1.37
+ },
+ "chem-4-2-c1": {
+  "tol": 0.05,
+  "unit": "minutes",
+  "units": [
+   "minutes"
+  ],
+  "v": 19.9
+ },
+ "chem-5-3-24": {
+  "tol": 0.05,
+  "unit": "%",
+  "units": [
+   "%",
+   "percent"
+  ],
+  "v": 44.0
+ },
+ "chem-5-4-25": {
+  "tol": 0.5,
+  "unit": "%",
+  "units": [
+   "%",
+   "percent"
+  ],
+  "v": 54.0
+ },
+ "chem-5-4-c1": {
+  "tol": 0.05,
+  "unit": "g",
+  "units": [
+   "g"
+  ],
+  "v": 14.4
+ },
+ "chem-6-4-19": {
+  "tol": 0.05,
+  "unit": "mg L^-1",
+  "units": [
+   "mg L^-1",
+   "mg L⁻¹",
+   "mg/L"
+  ],
+  "v": 28.0
+ },
+ "chem-6-4-c1": {
+  "tol": 0.0005,
+  "unit": "M",
+  "units": [
+   "M"
+  ],
+  "v": 0.86
+ },
+ "chem-7-1-25": {
+  "tol": 0.5,
+  "unit": "g",
+  "units": [
+   "g"
+  ],
+  "v": 900.0
+ },
+ "chem-7-2-22": {
+  "tol": 0.05,
+  "unit": "g",
+  "units": [
+   "g"
+  ],
+  "v": 36.0
+ },
+ "chem-8-2-20": {
+  "tol": 0.05,
+  "unit": "%",
+  "units": [
+   "%",
+   "percent"
+  ],
+  "v": 93.3
+ },
+ "chem-8-2-25": {
+  "tol": 0.05,
+  "unit": "%",
+  "units": [
+   "%",
+   "percent"
+  ],
+  "v": 52.3
+ },
+ "chem-8-2-4": {
+  "tol": 0.05,
+  "unit": "%",
+  "units": [
+   "%",
+   "percent"
+  ],
+  "v": 58.0
+ },
+ "chem-8-3-c1": {
+  "tol": 0.05,
+  "unit": "%",
+  "units": [
+   "%",
+   "percent"
+  ],
+  "v": 80.0
+ },
+ "chem-challenge-4": {
+  "tol": 0.0005,
+  "unit": "g",
+  "units": [
+   "g"
+  ],
+  "v": 0.318
+ },
+ "chem-cx1#1": {
+  "tol": 0.5,
+  "unit": "kJ mol^-1",
+  "units": [
+   "kJ mol^-1",
+   "kJ mol⁻¹",
+   "kJ/mol"
+  ],
+  "v": -301.0
+ },
+ "chem-cx1#4": {
+  "tol": 50.0,
+  "unit": "kJ",
+  "units": [
+   "kJ"
+  ],
+  "v": 11300.0
+ },
+ "chem-cx2#2": {
+  "tol": 0.0005,
+  "unit": "mol",
+  "units": [
+   "mol"
+  ],
+  "v": 0.667
+ },
+ "chem-cx2#4": {
+  "tol": 0.05,
+  "unit": "%",
+  "units": [
+   "%",
+   "percent"
+  ],
+  "v": 83.0
+ },
+ "chem-x1#1": {
+  "tol": 0.5,
+  "unit": "kJ",
+  "units": [
+   "kJ"
+  ],
+  "v": 148.0
+ },
+ "chem-x1#2": {
+  "tol": 0.5,
+  "unit": "kJ mol^-1",
+  "units": [
+   "kJ mol^-1",
+   "kJ mol⁻¹",
+   "kJ/mol"
+  ],
+  "v": 861.0
+ },
+ "chem-x1#6": {
+  "tol": 0.05,
+  "unit": "%",
+  "units": [
+   "%",
+   "percent"
+  ],
+  "v": 51.1
+ },
+ "chem-x2#1": {
+  "tol": 0.005,
+  "unit": "g",
+  "units": [
+   "g"
+  ],
+  "v": 3.73
+ },
+ "chem-x2#5": {
+  "tol": 0.0005,
+  "unit": "M^-2",
+  "units": [
+   "M^-2",
+   "M⁻²"
+  ],
+  "v": 0.521
+ },
+ "chem-x3#2": {
+  "tol": 0.5,
+  "v": 74.0
+ },
+ "chem-x3#5": {
+  "tol": 0.05,
+  "unit": "%",
+  "units": [
+   "%",
+   "percent"
+  ],
+  "v": 70.0
+ },
+ "chem-x4#3": {
+  "tol": 5e-05,
+  "unit": "mol",
+  "units": [
+   "mol"
+  ],
+  "v": 0.0933
+ },
+ "chem-x4#4": {
+  "tol": 0.005,
+  "unit": "g",
+  "units": [
+   "g"
+  ],
+  "v": 9.66
+ },
+ "chem12a2-sol-23": {
+  "tol": 0.0005,
+  "unit": "g",
+  "units": [
+   "g"
+  ],
+  "v": 0.717
+ },
+ "chem12a2-sol-26": {
+  "tol": 0.5,
+  "unit": "g",
+  "units": [
+   "g"
+  ],
+  "v": 30.0
+ },
+ "co-3": {
+  "tol": 0.5,
+  "unit": "cm^3",
+  "units": [
+   "cm^3",
+   "cm³"
+  ],
+  "v": 80.0
+ },
+ "gcse-bio-challenge-1": {
+  "tol": 0.5,
+  "unit": "µm",
+  "units": [
+   "µm"
+  ],
+  "v": 30.0
+ },
+ "gcse-bio-sampling-with-quadrats-c1": {
+  "tol": 0.0,
+  "unit": "daisies",
+  "units": [
+   "daisies"
+  ],
+  "v": 2800.0
+ },
+ "gcse-bio-transpiration-c1": {
+  "tol": 0.05,
+  "unit": "mm^3 min^-1",
+  "units": [
+   "mm^3 min^-1",
+   "mm³ min⁻¹",
+   "mm^3/min"
+  ],
+  "v": 2.4
+ },
+ "general-1-1-21": {
+  "tol": 0.005,
+  "v": 4.7
+ },
+ "general-1-1-22": {
+  "tol": 0.5,
+  "unit": "%",
+  "units": [
+   "%",
+   "percent"
+  ],
+  "v": 28.0
+ },
+ "general-1-3-21": {
+  "tol": 0.5,
+  "unit": "$",
+  "units": [
+   "$"
+  ],
+  "v": 1250.0
+ },
+ "general-1-3-24": {
+  "tol": 0.5,
+  "v": 14.0
+ },
+ "general-1-4-23": {
+  "tol": 0.5,
+  "v": 73.0
+ },
+ "general-1-4-24": {
+  "tol": 0.005,
+  "unit": "%",
+  "units": [
+   "%",
+   "percent"
+  ],
+  "v": 97.35
+ },
+ "general-2-4-19": {
+  "tol": 0.05,
+  "v": 316.2
+ },
+ "general-2-4-20": {
+  "tol": 0.5,
+  "v": 51.0
+ },
+ "general-2-4-22": {
+  "tol": 0.0,
+  "unit": "hours",
+  "units": [
+   "hours"
+  ],
+  "v": 7.0
+ },
+ "general-2-4-25": {
+  "tol": 0.5,
+  "v": 5.0
+ },
+ "general-3-2-c1": {
+  "tol": 0.005,
+  "v": 14.25
+ },
+ "general-3-4-25": {
+  "tol": 0.5,
+  "unit": "million",
+  "units": [
+   "million"
+  ],
+  "v": 3.0
+ },
+ "general-4-2-22": {
+  "tol": 0.0,
+  "unit": "years",
+  "units": [
+   "years"
+  ],
+  "v": 6.0
+ },
+ "general-4-2-23": {
+  "tol": 0.005,
+  "unit": "%",
+  "units": [
+   "%",
+   "percent"
+  ],
+  "v": 7.4
+ },
+ "general-4-2-24": {
+  "tol": 0.5,
+  "unit": "years",
+  "units": [
+   "years"
+  ],
+  "v": 5.0
+ },
+ "general-4-3-23": {
+  "tol": 0.5,
+  "unit": "$",
+  "units": [
+   "$"
+  ],
+  "v": 7060.0
+ },
+ "general-4-4-20": {
+  "tol": 0.0,
+  "unit": "years",
+  "units": [
+   "years"
+  ],
+  "v": 10.0
+ },
+ "general-4-4-21": {
+  "tol": 0.5,
+  "unit": "%",
+  "units": [
+   "%",
+   "percent"
+  ],
+  "v": 20.0
+ },
+ "general-4-4-c1": {
+  "tol": 0.0,
+  "unit": "years",
+  "units": [
+   "years"
+  ],
+  "v": 5.0
+ },
+ "general-5-1-19": {
+  "tol": 0.005,
+  "unit": "%",
+  "units": [
+   "%",
+   "percent"
+  ],
+  "v": 5.54
+ },
+ "general-5-1-20": {
+  "tol": 0.005,
+  "unit": "$",
+  "units": [
+   "$"
+  ],
+  "v": 9751.89
+ },
+ "general-5-1-22": {
+  "tol": 0.005,
+  "unit": "$",
+  "units": [
+   "$"
+  ],
+  "v": 2579.12
+ },
+ "general-5-4-22": {
+  "tol": 0.0,
+  "unit": "months",
+  "units": [
+   "months"
+  ],
+  "v": 51.0
+ },
+ "general-5-4-c1": {
+  "tol": 0.0,
+  "unit": "months",
+  "units": [
+   "months"
+  ],
+  "v": 69.0
+ },
+ "general-6-2-25": {
+  "tol": 0.5,
+  "v": 5.0
+ },
+ "general-7-1-22": {
+  "tol": 0.0,
+  "unit": "drivers",
+  "units": [
+   "drivers"
+  ],
+  "v": 60.0
+ },
+ "general-7-2-25": {
+  "tol": 0.0,
+  "unit": "students",
+  "units": [
+   "students"
+  ],
+  "v": 40.0
+ },
+ "general-7-3-22": {
+  "tol": 0.0,
+  "v": 160.0
+ },
+ "general-7-3-23": {
+  "tol": 0.005,
+  "unit": "%",
+  "units": [
+   "%",
+   "percent"
+  ],
+  "v": 3.03
+ },
+ "general-7-4-19": {
+  "tol": 0.5,
+  "v": 394.0
+ },
+ "general-7-4-25": {
+  "tol": 0.5,
+  "v": 1350.0
+ },
+ "general-8-2-24": {
+  "tol": 0.0,
+  "unit": "vertices",
+  "units": [
+   "vertices"
+  ],
+  "v": 21.0
+ },
+ "general-8-3-19": {
+  "tol": 0.5,
+  "v": 9.0
+ },
+ "general-8-3-25": {
+  "tol": 0.5,
+  "v": 25.0
+ },
+ "general-8-4-20": {
+  "tol": 0.5,
+  "unit": "week",
+  "units": [
+   "week"
+  ],
+  "v": 1.0
+ },
+ "general-8-4-25": {
+  "tol": 0.5,
+  "unit": "day",
+  "units": [
+   "day"
+  ],
+  "v": 1.0
+ },
+ "general-cx1#3": {
+  "tol": 0.005,
+  "unit": "$",
+  "units": [
+   "$"
+  ],
+  "v": 4812.34
+ },
+ "general-cx2#0": {
+  "tol": 0.5,
+  "v": 70.0
+ },
+ "general-cx2#3": {
+  "tol": 0.5,
+  "v": 6.0
+ },
+ "general-cx2#4": {
+  "tol": 0.05,
+  "v": 0.9
+ },
+ "general-x1#4": {
+  "tol": 0.05,
+  "v": -2.3
+ },
+ "general-x2#0": {
+  "tol": 0.5,
+  "unit": "days",
+  "units": [
+   "days"
+  ],
+  "v": 8.0
+ },
+ "general-x2#2": {
+  "tol": 0.5,
+  "unit": "days",
+  "units": [
+   "days"
+  ],
+  "v": 4.0
+ },
+ "general-x2#3": {
+  "tol": 0.5,
+  "unit": "days",
+  "units": [
+   "days"
+  ],
+  "v": 8.0
+ },
+ "general-x2#7": {
+  "tol": 0.0,
+  "v": 120.0
+ },
+ "general-x3#0": {
+  "tol": 0.5,
+  "v": -2.0
+ },
+ "general-x3#1": {
+  "tol": 0.5,
+  "unit": "%",
+  "units": [
+   "%",
+   "percent"
+  ],
+  "v": 16.0
+ },
+ "general-x3#2": {
+  "tol": 0.05,
+  "unit": "%",
+  "units": [
+   "%",
+   "percent"
+  ],
+  "v": 81.5
+ },
+ "general-x3#3": {
+  "tol": 0.005,
+  "v": 1.0
+ },
+ "general-x3#4": {
+  "tol": 0.0,
+  "v": 120.0
+ },
+ "general-x3#7": {
+  "tol": 0.005,
+  "unit": "$",
+  "units": [
+   "$"
+  ],
+  "v": 1129.17
+ },
+ "general-x4#1": {
+  "tol": 0.5,
+  "unit": "km",
+  "units": [
+   "km"
+  ],
+  "v": 10.0
+ },
+ "general-x4#3": {
+  "tol": 0.5,
+  "v": 10.0
+ },
+ "general-x4#6": {
+  "tol": 0.0,
+  "v": 667.0
+ },
+ "methods-1-2-16": {
+  "tol": 0.5,
+  "v": 55.0
+ },
+ "methods-2-2-25": {
+  "tol": 0.005,
+  "unit": "years",
+  "units": [
+   "years"
+  ],
+  "v": 9.59
+ },
+ "methods-2-3-25": {
+  "tol": 0.005,
+  "unit": "minutes",
+  "units": [
+   "minutes"
+  ],
+  "v": 6.67
+ },
+ "methods-3-2-25": {
+  "tol": 0.05,
+  "v": 6.5
+ },
+ "methods-3-3-16": {
+  "tol": 0.5,
+  "v": 3.0
+ },
+ "methods-4-1-22": {
+  "tol": 0.5,
+  "v": 4.0
+ },
+ "methods-4-2-23": {
+  "tol": 0.5,
+  "v": -10.0
+ },
+ "methods-5-2-23": {
+  "tol": 0.5,
+  "unit": "cm^2",
+  "units": [
+   "cm^2",
+   "cm²"
+  ],
+  "v": 100.0
+ },
+ "methods-6-2-19": {
+  "tol": 1e-09,
+  "v": 0.75
+ },
+ "methods-6-2-20": {
+  "tol": 0.5,
+  "v": 2.0
+ },
+ "methods-6-2-21": {
+  "tol": 0.0005,
+  "v": 0.333333333333
+ },
+ "methods-6-2-24": {
+  "tol": 0.5,
+  "v": 10.0
+ },
+ "methods-6-4-23": {
+  "tol": 0.5,
+  "unit": "L min^-1",
+  "units": [
+   "L min^-1",
+   "L min⁻¹",
+   "L/min"
+  ],
+  "v": 4.0
+ },
+ "methods-6-4-25": {
+  "tol": 0.5,
+  "v": 2.0
+ },
+ "methods-7-1-19": {
+  "tol": 1e-09,
+  "v": 0.125
+ },
+ "methods-7-3-19": {
+  "tol": 5e-05,
+  "v": 0.3087
+ },
+ "methods-7-3-21": {
+  "tol": 5e-05,
+  "v": 0.6554
+ },
+ "methods-7-3-24": {
+  "tol": 1e-09,
+  "v": 0.2
+ },
+ "methods-7-3-25": {
+  "tol": 5e-05,
+  "v": 0.2503
+ },
+ "methods-7-3-m1#0": {
+  "tol": 5e-05,
+  "v": 0.2362
+ },
+ "methods-7-3-m1#1": {
+  "tol": 5e-05,
+  "v": 0.7251
+ },
+ "methods-7-3-m1#2": {
+  "tol": 5e-05,
+  "v": 0.7036
+ },
+ "methods-7-4-24": {
+  "tol": 0.005,
+  "v": 0.86
+ },
+ "methods-7-4-25": {
+  "tol": 0.0005,
+  "v": 0.409
+ },
+ "methods-8-1-19": {
+  "tol": 1e-09,
+  "v": 0.5
+ },
+ "methods-8-1-24": {
+  "tol": 0.5,
+  "v": 11.0
+ },
+ "methods-8-2-24": {
+  "tol": 0.0005,
+  "v": 0.49
+ },
+ "methods-8-2-25": {
+  "tol": 0.005,
+  "v": 18.29
+ },
+ "methods-8-3-20": {
+  "tol": 5e-05,
+  "v": 0.0252
+ },
+ "methods-challenge-9": {
+  "tol": 0.0,
+  "v": 29.0
+ },
+ "methods-cx1#5": {
+  "tol": 0.0005,
+  "v": 0.444444444444
+ },
+ "methods-cx1#6": {
+  "tol": 0.0005,
+  "v": 0.555555555556
+ },
+ "methods-cx2#0": {
+  "tol": 5e-05,
+  "v": 0.1284
+ },
+ "methods-cx2#1": {
+  "tol": 5e-05,
+  "v": 0.8228
+ },
+ "methods-cx2#2": {
+  "tol": 5e-05,
+  "v": 0.532
+ },
+ "methods-cx2#3": {
+  "tol": 0.005,
+  "unit": "mL",
+  "units": [
+   "mL"
+  ],
+  "v": 503.21
+ },
+ "methods-x1#5": {
+  "tol": 0.0005,
+  "v": 0.407407407407
+ },
+ "methods-x1#6": {
+  "tol": 1e-09,
+  "v": 1.2
+ },
+ "methods-x1#7": {
+  "tol": 0.0005,
+  "v": 1.157
+ },
+ "methods-x2#0": {
+  "tol": 0.5,
+  "unit": "cm",
+  "units": [
+   "cm"
+  ],
+  "v": 2.0
+ },
+ "methods-x2#4": {
+  "tol": 5e-05,
+  "v": 0.3487
+ },
+ "methods-x2#5": {
+  "tol": 5e-05,
+  "v": 0.9298
+ },
+ "methods-x2#6": {
+  "tol": 5e-05,
+  "v": 0.0304
+ },
+ "methods-x3#4": {
+  "tol": 1e-09,
+  "v": 0.25
+ },
+ "methods-x3#5": {
+  "tol": 1e-09,
+  "v": 0.5
+ },
+ "methods-x4#0": {
+  "tol": 0.5,
+  "unit": "°C",
+  "units": [
+   "°C"
+  ],
+  "v": 90.0
+ },
+ "methods-x4#3": {
+  "tol": 0.005,
+  "unit": "°C",
+  "units": [
+   "°C"
+  ],
+  "v": 64.25
+ },
+ "methods-x4#4": {
+  "tol": 5e-05,
+  "v": 0.1056
+ },
+ "methods-x4#5": {
+  "tol": 0.005,
+  "v": 69.87
+ },
+ "methods-x4#6": {
+  "tol": 5e-05,
+  "v": 0.0798
+ },
+ "methods12a2-log-27": {
+  "tol": 0.5,
+  "v": -3.0
+ },
+ "methods12a3-cp-29": {
+  "tol": 0.0005,
+  "v": 0.467
+ },
+ "methods12a3-cp-31": {
+  "tol": 0.05,
+  "v": 0.6
+ },
+ "methods12a3-cp-36": {
+  "tol": 0.005,
+  "v": 0.54
+ },
+ "methods12a3-rc-33": {
+  "tol": 0.5,
+  "unit": "cm per week",
+  "units": [
+   "cm per week"
+  ],
+  "v": 3.0
+ },
+ "ncd-4": {
+  "tol": 0.05,
+  "v": 22.2
+ },
+ "physics-1-1-25": {
+  "tol": 0.05,
+  "unit": "m",
+  "units": [
+   "m"
+  ],
+  "v": 4.1
+ },
+ "physics-1-1-4": {
+  "tol": 0.05,
+  "unit": "N",
+  "units": [
+   "N"
+  ],
+  "v": 7.5
+ },
+ "physics-1-2-20": {
+  "tol": 5e+21,
+  "unit": "kg",
+  "units": [
+   "kg"
+  ],
+  "v": 6.4e+23
+ },
+ "physics-1-2-4": {
+  "tol": 0.05,
+  "unit": "N kg^-1",
+  "units": [
+   "N kg^-1",
+   "N kg⁻¹",
+   "N/kg"
+  ],
+  "v": 25.9
+ },
+ "physics-1-3-16": {
+  "tol": 0.005,
+  "unit": "years",
+  "units": [
+   "years"
+  ],
+  "v": 1.87
+ },
+ "physics-1-3-24": {
+  "tol": 5e+28,
+  "unit": "kg",
+  "units": [
+   "kg"
+  ],
+  "v": 2e+30
+ },
+ "physics-1-4-24": {
+  "tol": 0.5,
+  "unit": "m s^-1",
+  "units": [
+   "m s^-1",
+   "m s⁻¹",
+   "m/s"
+  ],
+  "v": 75.0
+ },
+ "physics-2-1-23": {
+  "tol": 5e-09,
+  "unit": "C",
+  "units": [
+   "C"
+  ],
+  "v": 3e-07
+ },
+ "physics-2-2-24": {
+  "tol": 0.5,
+  "unit": "mT",
+  "units": [
+   "mT"
+  ],
+  "v": 10.0
+ },
+ "physics-2-3-22": {
+  "tol": 0.005,
+  "unit": "N",
+  "units": [
+   "N"
+  ],
+  "v": 0.45
+ },
+ "physics-2-3-c1": {
+  "tol": 5e-05,
+  "unit": "m",
+  "units": [
+   "m"
+  ],
+  "v": 0.0023
+ },
+ "physics-2-4-21": {
+  "tol": 500000.0,
+  "unit": "m s^-1",
+  "units": [
+   "m s^-1",
+   "m s⁻¹",
+   "m/s"
+  ],
+  "v": 32000000.0
+ },
+ "physics-3-1-21": {
+  "tol": 0.5,
+  "unit": "N",
+  "units": [
+   "N"
+  ],
+  "v": 715.0
+ },
+ "physics-3-1-25": {
+  "tol": 0.05,
+  "unit": "m s^-2",
+  "units": [
+   "m s^-2",
+   "m s⁻²",
+   "m/s^2"
+  ],
+  "v": 2.4
+ },
+ "physics-4-2-19": {
+  "tol": 0.005,
+  "v": 2.29
+ },
+ "physics-4-2-25": {
+  "tol": 0.5,
+  "unit": "minutes",
+  "units": [
+   "minutes"
+  ],
+  "v": 50.0
+ },
+ "physics-4-3-c1": {
+  "tol": 0.05,
+  "unit": "km",
+  "units": [
+   "km"
+  ],
+  "v": 6.6
+ },
+ "physics-5-1-8": {
+  "tol": 5e-05,
+  "unit": "Wb",
+  "units": [
+   "Wb"
+  ],
+  "v": 0.0047
+ },
+ "physics-5-1-c1": {
+  "tol": 0.05,
+  "unit": "V",
+  "units": [
+   "V"
+  ],
+  "v": 5.0
+ },
+ "physics-5-4-8": {
+  "tol": 0.0,
+  "unit": "turns",
+  "units": [
+   "turns"
+  ],
+  "v": 300.0
+ },
+ "physics-6-1-21": {
+  "tol": 0.005,
+  "unit": "m",
+  "units": [
+   "m"
+  ],
+  "v": 0.12
+ },
+ "physics-6-2-20": {
+  "tol": 0.005,
+  "unit": "mm",
+  "units": [
+   "mm"
+  ],
+  "v": 0.4
+ },
+ "physics-6-2-21": {
+  "tol": 0.5,
+  "unit": "nm",
+  "units": [
+   "nm"
+  ],
+  "v": 320.0
+ },
+ "physics-7-2-20": {
+  "tol": 50.0,
+  "unit": "m s^-1",
+  "units": [
+   "m s^-1",
+   "m s⁻¹",
+   "m/s"
+  ],
+  "v": 4000.0
+ },
+ "physics-8-3-22": {
+  "tol": 0.005,
+  "unit": "mm",
+  "units": [
+   "mm"
+  ],
+  "v": 1.24
+ },
+ "physics-challenge-4": {
+  "tol": 0.05,
+  "unit": "m s^-1",
+  "units": [
+   "m s^-1",
+   "m s⁻¹",
+   "m/s"
+  ],
+  "v": 6.3
+ },
+ "physics-cx1#0": {
+  "tol": 5e-18,
+  "unit": "J",
+  "units": [
+   "J"
+  ],
+  "v": 3.2e-16
+ },
+ "physics-cx1#1": {
+  "tol": 500000.0,
+  "unit": "m s^-1",
+  "units": [
+   "m s^-1",
+   "m s⁻¹",
+   "m/s"
+  ],
+  "v": 27000000.0
+ },
+ "physics-cx1#3": {
+  "tol": 0.0005,
+  "unit": "m",
+  "units": [
+   "m"
+  ],
+  "v": 0.075
+ },
+ "physics-cx1#5": {
+  "tol": 5e-13,
+  "unit": "m",
+  "units": [
+   "m"
+  ],
+  "v": 2.7e-11
+ },
+ "physics-cx2#0": {
+  "tol": 0.5,
+  "unit": "V",
+  "units": [
+   "V"
+  ],
+  "v": 160.0
+ },
+ "physics-x1#0": {
+  "tol": 0.005,
+  "unit": "N kg^-1",
+  "units": [
+   "N kg^-1",
+   "N kg⁻¹",
+   "N/kg"
+  ],
+  "v": 8.21
+ },
+ "physics-x1#1": {
+  "tol": 5.0,
+  "unit": "m s^-1",
+  "units": [
+   "m s^-1",
+   "m s⁻¹",
+   "m/s"
+  ],
+  "v": 7560.0
+ },
+ "physics-x1#2": {
+  "tol": 0.05,
+  "unit": "minutes",
+  "units": [
+   "minutes"
+  ],
+  "v": 96.5
+ },
+ "physics-x1#4": {
+  "tol": 50000.0,
+  "unit": "m",
+  "units": [
+   "m"
+  ],
+  "v": 42300000.0
+ },
+ "physics-x1#5": {
+  "tol": 0.0005,
+  "unit": "m",
+  "units": [
+   "m"
+  ],
+  "v": 0.2
+ },
+ "physics-x2#1": {
+  "tol": 5e-19,
+  "unit": "J",
+  "units": [
+   "J"
+  ],
+  "v": 3.2e-16
+ },
+ "physics-x2#3": {
+  "tol": 0.0005,
+  "unit": "m",
+  "units": [
+   "m"
+  ],
+  "v": 0.03
+ },
+ "physics-x2#5": {
+  "tol": 5e-14,
+  "unit": "m",
+  "units": [
+   "m"
+  ],
+  "v": 2.75e-11
+ },
+ "physics-x2#6": {
+  "tol": 0.05,
+  "unit": "keV",
+  "units": [
+   "keV"
+  ],
+  "v": 45.2
+ },
+ "physics-x3#0": {
+  "tol": 0.0005,
+  "unit": "Wb",
+  "units": [
+   "Wb"
+  ],
+  "v": 0.02
+ },
+ "physics-x3#1": {
+  "tol": 0.5,
+  "unit": "V",
+  "units": [
+   "V"
+  ],
+  "v": 160.0
+ },
+ "physics-x3#3": {
+  "tol": 0.5,
+  "unit": "A",
+  "units": [
+   "A"
+  ],
+  "v": 50.0
+ },
+ "physics-x3#4": {
+  "tol": 0.5,
+  "unit": "kW",
+  "units": [
+   "kW"
+  ],
+  "v": 10.0
+ },
+ "physics-x3#6": {
+  "tol": 0.005,
+  "unit": "kV",
+  "units": [
+   "kV"
+  ],
+  "v": 7.07
+ },
+ "physics-x4#0": {
+  "tol": 0.005,
+  "unit": "mm",
+  "units": [
+   "mm"
+  ],
+  "v": 4.26
+ },
+ "physics-x4#3": {
+  "tol": 0.005,
+  "unit": "eV",
+  "units": [
+   "eV"
+  ],
+  "v": 2.33
+ },
+ "physics-x4#4": {
+  "tol": 0.005,
+  "unit": "eV",
+  "units": [
+   "eV"
+  ],
+  "v": 0.23
+ },
+ "specialist-2-4-20": {
+  "tol": 0.5,
+  "v": 6.0
+ },
+ "specialist-4-4-20": {
+  "tol": 0.05,
+  "unit": "cm^3",
+  "units": [
+   "cm^3",
+   "cm³"
+  ],
+  "v": 508.9
+ },
+ "specialist-4-4-8": {
+  "tol": 0.0005,
+  "v": 4.66666666667
+ },
+ "specialist-5-3-c1": {
+  "tol": 0.005,
+  "v": 1.22
+ },
+ "specialist-6-2-20": {
+  "tol": 0.005,
+  "unit": "m s^-1",
+  "units": [
+   "m s^-1",
+   "m s⁻¹",
+   "m/s"
+  ],
+  "v": 7.35
+ },
+ "specialist-6-3-20": {
+  "tol": 0.005,
+  "unit": "N",
+  "units": [
+   "N"
+  ],
+  "v": 23.54
+ },
+ "specialist-6-3-22": {
+  "tol": 0.005,
+  "unit": "N",
+  "units": [
+   "N"
+  ],
+  "v": 83.15
+ },
+ "specialist-6-3-23": {
+  "tol": 0.005,
+  "unit": "N",
+  "units": [
+   "N"
+  ],
+  "v": 17.64
+ },
+ "specialist-6-4-21": {
+  "tol": 0.05,
+  "unit": "m s^-1",
+  "units": [
+   "m s^-1",
+   "m s⁻¹",
+   "m/s"
+  ],
+  "v": 10.5
+ },
+ "specialist-7-3-23": {
+  "tol": 0.05,
+  "unit": "°",
+  "units": [
+   "°"
+  ],
+  "v": 63.6
+ },
+ "specialist-7-3-24": {
+  "tol": 0.0005,
+  "unit": "units",
+  "units": [
+   "units"
+  ],
+  "v": 1.33333333333
+ },
+ "specialist-8-1-24": {
+  "tol": 0.5,
+  "v": 36.0
+ },
+ "specialist-8-1-c1": {
+  "tol": 5e-05,
+  "v": 0.1151
+ },
+ "specialist-8-2-25": {
+  "tol": 0.5,
+  "v": 15.0
+ },
+ "specialist-cx1#1": {
+  "tol": 0.005,
+  "unit": "m",
+  "units": [
+   "m"
+  ],
+  "v": 20.41
+ },
+ "specialist-cx1#2": {
+  "tol": 0.005,
+  "unit": "m",
+  "units": [
+   "m"
+  ],
+  "v": 81.63
+ },
+ "specialist-cx1#4": {
+  "tol": 0.05,
+  "unit": "°",
+  "units": [
+   "°"
+  ],
+  "v": 27.0
+ },
+ "specialist-cx2#2": {
+  "tol": 0.005,
+  "unit": "°C",
+  "units": [
+   "°C"
+  ],
+  "v": 70.41
+ },
+ "specialist-x2#2": {
+  "tol": 0.005,
+  "unit": "m",
+  "units": [
+   "m"
+  ],
+  "v": 90.13
+ },
+ "specialist-x2#3": {
+  "tol": 0.05,
+  "unit": "m",
+  "units": [
+   "m"
+  ],
+  "v": 82.1
+ },
+ "specialist-x2#5": {
+  "tol": 0.0005,
+  "v": 0.062
+ },
+ "specialist-x3#1": {
+  "tol": 0.5,
+  "v": 64.0
+ },
+ "specialist-x3#4": {
+  "tol": 0.0005,
+  "v": 0.444444444444
+ },
+ "specialist-x4#0": {
+  "tol": 0.5,
+  "unit": "N",
+  "units": [
+   "N"
+  ],
+  "v": 146.0
+ },
+ "specialist-x4#1": {
+  "tol": 0.005,
+  "unit": "m s^-2",
+  "units": [
+   "m s^-2",
+   "m s⁻²",
+   "m/s^2"
+  ],
+  "v": 2.14
+ },
+ "specialist-x4#2": {
+  "tol": 0.005,
+  "unit": "m s^-1",
+  "units": [
+   "m s^-1",
+   "m s⁻¹",
+   "m/s"
+  ],
+  "v": 3.61
+ },
+ "trn-5": {
+  "tol": 0.5,
+  "unit": "mm min^-1",
+  "units": [
+   "mm min^-1",
+   "mm min⁻¹",
+   "mm/min"
+  ],
+  "v": 6.0
+ },
+ "vce-bio12-cx2#2": {
+  "tol": 0.0005,
+  "v": 0.666666666667
+ },
+ "vce-bio12-x3#4": {
+  "tol": 0.0,
+  "v": 64.0
+ },
+ "vce-bio34-cx2#4": {
+  "tol": 0.5,
+  "unit": "%",
+  "units": [
+   "%",
+   "percent"
+  ],
+  "v": 75.0
+ },
+ "vce-chem12-challenge-4": {
+  "tol": 0.005,
+  "unit": "g",
+  "units": [
+   "g"
+  ],
+  "v": 1.43
+ },
+ "vce-chem12-challenge-5": {
+  "tol": 0.005,
+  "v": 2.0
+ },
+ "vce-chem12-cx1#1": {
+  "tol": 5.0,
+  "unit": "ppm",
+  "units": [
+   "ppm"
+  ],
+  "v": 1420.0
+ },
+ "vce-chem12-cx1#4": {
+  "tol": 0.005,
+  "v": 3.3
+ },
+ "vce-chem12-cx2#1": {
+  "tol": 0.005,
+  "unit": "kg",
+  "units": [
+   "kg"
+  ],
+  "v": 6.6
+ },
+ "vce-chem12-cx2#2": {
+  "tol": 5.0,
+  "unit": "L",
+  "units": [
+   "L"
+  ],
+  "v": 3720.0
+ },
+ "vce-chem12-cx2#3": {
+  "tol": 5.0,
+  "unit": "L",
+  "units": [
+   "L"
+  ],
+  "v": 6210.0
+ },
+ "vce-chem12-ga-c1": {
+  "tol": 0.005,
+  "unit": "g L^-1",
+  "units": [
+   "g L^-1",
+   "g L⁻¹",
+   "g/L"
+  ],
+  "v": 1.42
+ },
+ "vce-chem12-gl-c1": {
+  "tol": 0.0005,
+  "unit": "mol",
+  "units": [
+   "mol"
+  ],
+  "v": 0.12
+ },
+ "vce-chem12-mo-c1": {
+  "tol": 5e+22,
+  "unit": "atoms",
+  "units": [
+   "atoms"
+  ],
+  "v": 1.8e+24
+ },
+ "vce-chem12-ph-c1": {
+  "tol": 0.05,
+  "v": 12.0
+ },
+ "vce-chem12-rm-c1": {
+  "tol": 0.05,
+  "v": 10.8
+ },
+ "vce-chem12-uv-c1": {
+  "tol": 0.5,
+  "unit": "mg L^-1",
+  "units": [
+   "mg L^-1",
+   "mg L⁻¹",
+   "mg/L"
+  ],
+  "v": 45.0
+ },
+ "vce-chem12-va-c1": {
+  "tol": 5e-05,
+  "unit": "M",
+  "units": [
+   "M"
+  ],
+  "v": 0.046
+ },
+ "vce-chem12-x1#2": {
+  "tol": 0.005,
+  "unit": "g",
+  "units": [
+   "g"
+  ],
+  "v": 8.06
+ },
+ "vce-chem12-x1#5": {
+  "tol": 0.005,
+  "unit": "L",
+  "units": [
+   "L"
+  ],
+  "v": 4.96
+ },
+ "vce-chem12-x2#4": {
+  "tol": 5e-05,
+  "unit": "M",
+  "units": [
+   "M"
+  ],
+  "v": 0.0184
+ },
+ "vce-chem12-x4#1": {
+  "tol": 0.05,
+  "unit": "%",
+  "units": [
+   "%",
+   "percent"
+  ],
+  "v": 30.6
+ },
+ "vce-chem12-x4#5": {
+  "tol": 0.0005,
+  "unit": "g",
+  "units": [
+   "g"
+  ],
+  "v": 0.635
+ },
+ "vce-methods12-cx1#5": {
+  "tol": 0.5,
+  "v": -8.0
+ },
+ "vce-methods12-cx2#1": {
+  "tol": 0.5,
+  "unit": "minutes",
+  "units": [
+   "minutes"
+  ],
+  "v": 20.0
+ },
+ "vce-methods12-cx2#2": {
+  "tol": 0.005,
+  "unit": "minutes",
+  "units": [
+   "minutes"
+  ],
+  "v": 6.67
+ },
+ "vce-methods12-cx2#3": {
+  "tol": 0.005,
+  "unit": "minutes",
+  "units": [
+   "minutes"
+  ],
+  "v": 6.67
+ },
+ "vce-methods12-cx2#4": {
+  "tol": 0.0005,
+  "v": 0.745
+ },
+ "vce-methods12-ee-c1": {
+  "tol": 0.0,
+  "unit": "years",
+  "units": [
+   "years"
+  ],
+  "v": 15.0
+ },
+ "vce-methods12-x1#5": {
+  "tol": 0.5,
+  "v": 0.0
+ },
+ "vce-methods12-x2#0": {
+  "tol": 0.0,
+  "v": 500.0
+ },
+ "vce-methods12-x2#1": {
+  "tol": 0.0,
+  "v": 2000.0
+ },
+ "vce-methods12-x2#5": {
+  "tol": 0.0005,
+  "v": 0.466666666667
+ },
+ "vce-methods12-x3#1": {
+  "tol": 0.5,
+  "unit": "m",
+  "units": [
+   "m"
+  ],
+  "v": 11.0
+ },
+ "vce-methods12-x3#4": {
+  "tol": 0.5,
+  "unit": "minutes",
+  "units": [
+   "minutes"
+  ],
+  "v": 10.0
+ },
+ "vce-physics12-ca-c1": {
+  "tol": 0.05,
+  "unit": "m",
+  "units": [
+   "m"
+  ],
+  "v": 82.5
+ },
+ "vce-physics12-challenge-9": {
+  "tol": 50.0,
+  "unit": "J",
+  "units": [
+   "J"
+  ],
+  "v": 6500.0
+ },
+ "vce-physics12-cx1#4": {
+  "tol": 0.005,
+  "unit": "$",
+  "units": [
+   "$"
+  ],
+  "v": 8.64
+ },
+ "vce-physics12-cx2#3": {
+  "tol": 0.05,
+  "unit": "m s^-1",
+  "units": [
+   "m s^-1",
+   "m s⁻¹",
+   "m/s"
+  ],
+  "v": 6.0
+ },
+ "vce-physics12-lh-c1": {
+  "tol": 5000.0,
+  "unit": "J",
+  "units": [
+   "J"
+  ],
+  "v": 220000.0
+ },
+ "vce-physics12-nf-c1": {
+  "tol": 5e-13,
+  "unit": "J",
+  "units": [
+   "J"
+  ],
+  "v": 2.8e-11
+ },
+ "vce-physics12-x1#1": {
+  "tol": 500.0,
+  "unit": "J",
+  "units": [
+   "J"
+  ],
+  "v": 504000.0
+ },
+ "vce-physics12-x1#2": {
+  "tol": 0.5,
+  "unit": "s",
+  "units": [
+   "s"
+  ],
+  "v": 252.0
+ },
+ "vce-physics12-x1#3": {
+  "tol": 500.0,
+  "unit": "J",
+  "units": [
+   "J"
+  ],
+  "v": 226000.0
+ },
+ "vce-physics12-x2#0": {
+  "tol": 0.05,
+  "unit": "m s^-2",
+  "units": [
+   "m s^-2",
+   "m s⁻²",
+   "m/s^2"
+  ],
+  "v": 2.0
+ },
+ "vce-physics12-x2#1": {
+  "tol": 0.5,
+  "unit": "m",
+  "units": [
+   "m"
+  ],
+  "v": 25.0
+ },
+ "vce-physics12-x2#2": {
+  "tol": 0.5,
+  "unit": "N",
+  "units": [
+   "N"
+  ],
+  "v": 200.0
+ },
+ "vce-physics12-x2#3": {
+  "tol": 50.0,
+  "unit": "J",
+  "units": [
+   "J"
+  ],
+  "v": 4000.0
+ },
+ "vce-physics12-x2#4": {
+  "tol": 0.5,
+  "unit": "m s^-1",
+  "units": [
+   "m s^-1",
+   "m s⁻¹",
+   "m/s"
+  ],
+  "v": 14.0
+ },
+ "vce-physics12-x3#0": {
+  "tol": 0.5,
+  "unit": "MBq",
+  "units": [
+   "MBq"
+  ],
+  "v": 50.0
+ },
+ "vce-physics12-x4#0": {
+  "tol": 0.5,
+  "unit": "°",
+  "units": [
+   "°"
+  ],
+  "v": 25.0
+ },
+ "vce-physics12-x4#1": {
+  "tol": 5000000.0,
+  "unit": "m s^-1",
+  "units": [
+   "m s^-1",
+   "m s⁻¹",
+   "m/s"
+  ],
+  "v": 200000000.0
+ },
+ "vce-physics12-x4#2": {
+  "tol": 0.05,
+  "unit": "°",
+  "units": [
+   "°"
+  ],
+  "v": 41.8
+ },
+ "vce-physics12-x4#5": {
+  "tol": 0.05,
+  "unit": "m",
+  "units": [
+   "m"
+  ],
+  "v": 3.0
+ }
+}
