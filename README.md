@@ -24,6 +24,10 @@ Question types:
 
 Scores are counted in marks: multiple-choice and written questions are worth 1 mark each, multi-part questions the sum of their parts.
 
+**Keyboard shortcuts**: in any quiz, 1–9 or A–I choose an option, R shows the model answer (Ctrl/⌘+Enter while typing in the answer box), G and M mark a written answer as got it or missed it, and Enter goes to the next question. A hint under each question lists the keys for its type; it is hidden on touch screens. Anywhere on the site, `/` or Ctrl/⌘+K jumps to the search box in the header, which finds subjects, topics, subtopics and exam-style questions by name; ↑/↓ move through the results, Enter opens one and Esc clears it. The full list is under the dashboard (`#dashboard`).
+
+**Pick up where you left off**: once you have answered a question, the home page links to the subtopic of the last question you answered and, when questions are due for revision, offers to practise them.
+
 **Question info**: under every question a collapsible panel gives six things:
 
 - **Topic**: the subtopic the question tests, linked to its quiz, and its topic. Exam-style questions list every subtopic their parts test.

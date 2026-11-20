@@ -94,6 +94,7 @@ p { margin: 0; }
 .section-h { font-family: var(--font-display); font-size: 1.6rem; font-weight: 800; font-variation-settings: "SOFT" 100, "opsz" 48; line-height: 1.15; }
 .muted { color: var(--muted); }
 .small { font-size: 0.875rem; } .xs { font-size: 0.75rem; }
+@media (hover: none) { .keys { display: none; } }
 .link { color: var(--accent); font-weight: 500; font-size: 0.875rem; background: none; border: 0; padding: 0; }
 .link:hover { text-decoration: underline; }
 
@@ -103,10 +104,10 @@ header.site .wrap { display: flex; align-items: center; justify-content: space-b
 .brand { display: flex; align-items: center; gap: 8px; font-weight: 600; }
 .brand svg { width: 28px; height: 28px; }
 nav.top { display: flex; align-items: center; gap: 4px; }
-nav.top a { display: inline-flex; align-items: center; min-height: 44px; padding: 0 12px; border-radius: var(--r-pill); font-family: var(--font-display); font-size: 0.8rem; font-weight: 700; letter-spacing: .04em; text-transform: uppercase; transition: background-color var(--dur) var(--ease), color var(--dur) var(--ease); }
+nav.top a { display: inline-flex; align-items: center; min-height: 44px; padding: 0 8px; border-radius: var(--r-pill); font-family: var(--font-display); font-size: 0.8rem; font-weight: 700; letter-spacing: .04em; text-transform: uppercase; transition: background-color var(--dur) var(--ease), color var(--dur) var(--ease); }
 nav.top a.plain { color: var(--ink); } nav.top a.plain:hover { text-decoration: underline; text-decoration-thickness: 2px; text-underline-offset: 4px; }
 .pill-btn { background: transparent; color: var(--ink); border: 1.5px solid var(--ink); border-radius: var(--r-pill); box-shadow: none; }
-nav.top a.pill-btn { padding: 0 20px; }
+nav.top a.pill-btn { padding: 0 16px; }
 @media (max-width: 420px) { nav.top a.pill-btn { padding: 0 8px; } }
 .pill-btn:hover { background: var(--ink); color: var(--accent-ink); }
 nav.top a, .brand span { white-space: nowrap; }
@@ -117,6 +118,16 @@ html { scroll-padding-top: calc(80px + env(safe-area-inset-top, 0px)); } /* keep
   .brand span { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); }
   nav.top { gap: 0; } nav.top a { font-size: 0.72rem; padding: 0 8px; }
 }
+.hsearch { position: relative; flex: 1 1 12rem; min-width: 10rem; max-width: 20rem; }
+.hsearch input { width: 100%; min-height: 44px; padding: 0 14px; background: var(--surface); color: var(--ink); border: 1.5px solid var(--field); border-radius: var(--r-pill); font: inherit; font-size: 0.9rem; }
+.hsearch input:focus { border-color: var(--ink); }
+#hsres { position: absolute; top: calc(100% + 6px); left: 0; width: min(24rem, calc(100vw - 32px)); margin: 0; padding: 4px; list-style: none; background: var(--surface); border: 1.5px solid var(--ink); border-radius: var(--r-sm); max-height: 70vh; overflow-y: auto; z-index: 30; }
+#hsres li { display: flex; flex-direction: column; justify-content: center; min-height: 44px; padding: 4px 10px; border-radius: var(--r-sm); cursor: pointer; }
+#hsres li b { font-weight: 700; } #hsres li small { color: var(--muted); font-size: 0.75rem; }
+#hsres li[aria-selected="true"], #hsres li:hover { background: var(--accent-soft); }
+#hsres li[aria-disabled="true"] { color: var(--muted); cursor: default; background: none; }
+/* Below 1060px logo, search and six links cannot share a row, so the nav takes its own row. */
+@media (max-width: 1060px) { header.site .wrap { flex-wrap: wrap; row-gap: 2px; } nav.top { width: 100%; justify-content: space-between; } #hsres { left: auto; right: 0; } }
 main { flex: 1; overflow-x: clip; } /* clips the hero glow so it cannot cause horizontal scroll */
 .view { padding-block: 2.5rem; }
 @media (max-width: 599px) { .view { padding-block: 1.5rem; } }
@@ -338,12 +349,14 @@ details.elmore[open] summary { margin-bottom: 8px; }
   header.site .wrap { flex-wrap: wrap; row-gap: 2px; }
   .brand span { position: static; width: auto; height: auto; overflow: visible; clip: auto; }
   nav.top { width: 100%; justify-content: space-between; }
-  nav.top a[href="#about"], nav.top a[href="#errors"] { display: none; } /* both are in the footer */
-  nav.top a { letter-spacing: .02em; padding: 0 6px; } nav.top a.pill-btn { padding: 0 12px; }
 }
-@media (max-width: 360px) { nav.top a { font-size: 0.64rem; padding: 0 5px; } nav.top a.pill-btn { padding: 0 9px; } }
+/* All six links need about 660px on their own row, so below 720px drop the two that the footer also has. */
+@media (max-width: 720px) { nav.top a[href="#about"], nav.top a[href="#errors"] { display: none; } }
+@media (max-width: 520px) { nav.top a { letter-spacing: 0; padding: 0 4px; font-size: 0.68rem; } nav.top a.pill-btn { padding: 0 10px; } } /* four links fit 375px inside the body frame */
+@media (max-width: 374px) { nav.top a[href="#settings"] { display: none; } } /* also in the footer; the other links stay readable */
 /* The sticky header is about 103px tall (one row on desktop, two on phones), so keep jumped-to and focused content below it. */
 html { scroll-padding-top: calc(120px + env(safe-area-inset-top, 0px)); }
+@media (max-width: 1060px) { html { scroll-padding-top: calc(170px + env(safe-area-inset-top, 0px)); } } /* the search box adds a header row */
 /* Display headings: heavy, soft, tight tracking. */
 .page-h1, .section-h, .topic-title b, .result .big, fieldset.pick .all, .subj b, .prose h2 { letter-spacing: -.02em; }
 .subj .call { color: var(--muted); }
@@ -447,6 +460,11 @@ details.dtopics ul { list-style: none; margin: 8px 0 0; padding: 0; display: fle
 details.dtopics li { display: flex; flex-direction: column; gap: 2px; }
 .dtn { font-weight: 500; }
 .dbuckets, .dbands, .drecent, .dnext { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 14rem), 1fr)); gap: 12px; align-items: start; }
+.dkeys { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 16rem), 1fr)); gap: 12px; align-items: start; }
+.keys-list { display: grid; grid-template-columns: max-content 1fr; gap: 8px 12px; align-items: baseline; margin: 0; }
+.keys-list > div { display: contents; } /* each row's dt and dd join the list's grid, so key columns line up */
+.keys-list dd { margin: 0; font-size: 0.875rem; }
+kbd { display: inline-block; min-width: 1.6em; padding: 2px 6px; border: 1.5px solid var(--ink); border-bottom-width: 3px; border-radius: var(--r-sm); background: var(--surface); font: 700 0.75rem/1.4 var(--font-display); text-align: center; }
 .dbucket .h2s { display: flex; align-items: baseline; gap: 8px; }
 .dcount { font-family: var(--font-display); font-weight: 800; font-variant-numeric: tabular-nums; border-radius: var(--r-pill); padding: 0 8px; font-size: 0.85rem; border: 1.5px solid var(--ink); }
 .db-strong .dcount { background: var(--good-soft); color: var(--good); border-color: var(--good); }
@@ -485,6 +503,10 @@ details.dtopics li { display: flex; flex-direction: column; gap: 2px; }
       <svg viewBox="0 0 32 32" aria-hidden="true"><rect width="32" height="32" rx="12" fill="var(--accent)"/><path d="M10 7c0 6 12 6 12 12s-12 0-12 6M22 7c0 6-12 6-12 12s12 0 12 6" fill="none" stroke="var(--accent-ink)" stroke-width="2.2" stroke-linecap="round"/></svg>
       <span>Helix Revise</span>
     </a>
+    <div class="hsearch">
+      <input type="search" id="hsearch" role="combobox" aria-expanded="false" aria-controls="hsres" aria-autocomplete="list" aria-label="Search subjects and topics" placeholder="Search topics…" autocomplete="off">
+      <ul id="hsres" role="listbox" aria-label="Search results" hidden></ul>
+    </div>
     <nav class="top" aria-label="Main">
       <a class="plain" href="#topics">Subjects</a>
       <a class="plain" href="#dashboard">Dashboard</a>
@@ -1087,8 +1109,24 @@ const DIFF = {"chem-1-1-1":[1,88,"m"],"chem-1-1-2":[3,59,"m"],"chem-1-1-3":[2,78
       <p class="lead">Self-marking quizzes for ${subjects.length} subjects, from VCE Methods, Chemistry and Psychology to GCSE Biology, organised by topic, with your progress saved on your device.</p>
       <div class="row"><a class="btn btn-primary btn-lg" href="#topics">Choose a subject</a><a class="btn btn-ghost btn-lg" href="#custom">Build a quiz</a></div>
       <p class="small muted">Free · No sign-up · ${subCount} subtopics · ${totalQs.toLocaleString("en-AU")} questions</p>
-    </div><div class="shore">${shoreSvg()}</div></div>
+    </div><div class="shore">${shoreSvg()}</div></div><div id="cont"></div>
     ${groups().map(g => `<section class="stack" style="gap:12px"><h2 class="section-h">${esc(g)}</h2>${subjGrid(g)}</section>`).join("")}</div>`;
+    continueCard(app.querySelector("#cont"));
+  }
+  // "Pick up where you left off": the subtopic of the last question answered, and the questions due for revision.
+  function continueCard(host) {
+    if (!act || !act.a.length) return;
+    const last = act.a[act.a.length - 1], slug = slugOfQ[last[1]], s = slug && bank[slug] && subBySlug[slug];
+    // dashData also works out mastery, so it runs after the page has drawn, as the dashboard does.
+    setTimeout(() => {
+      if (!host.isConnected) return;
+      const due = dashData().due;
+      if (!s && !due.length) return;
+      host.innerHTML = `<section class="card pad stack" style="gap:12px" aria-labelledby="cont-h"><h2 class="section-h" id="cont-h">Pick up where you left off</h2><div class="row">
+        ${s ? `<a class="btn btn-primary" href="#${slug}">Continue: ${esc(s.name)}</a><span class="small muted">${esc(subjById[s.subject].name)} · Topic ${s.topic}</span>` : ""}
+        ${due.length ? `<button class="btn btn-ghost" id="cdue">Practise ${due.length} due for revision</button>` : ""}</div></section>`;
+      if (due.length) host.querySelector("#cdue").onclick = () => dashQuiz("Questions due for revision", due.slice(0, 20), "due", "");
+    }, 0);
   }
   function subjectsView() {
     app.innerHTML = `<div class="wrap w5 view stack-lg"><div class="stack" style="gap:12px"><h1 class="page-h1">Subjects</h1>
@@ -1277,7 +1315,8 @@ const DIFF = {"chem-1-1-1":[1,88,"m"],"chem-1-1-2":[3,59,"m"],"chem-1-1-3":[2,78
       host.innerHTML = `<div class="stack" style="gap:20px"><div class="dots" aria-hidden="true">${dots}</div>
         <div class="qcard"><div class="qmeta"><span>Question ${i + 1} of ${order.length}</span>${challenge.has(q.id) ? '<span class="chip chip-c">Challenge</span>' : ""}${q.higherOnly ? '<span class="chip chip-h">Higher</span>' : ""}<span class="chip">${kind}</span>${q.tech ? `<span class="chip">${esc(TECH[q.tech] || q.tech)}</span>` : ""}${diffChip(diffOf(q.id))}</div>
         <h2 class="qprompt" data-focus="prompt">${txt(q.type === "multi" ? q.title : q.prompt)}</h2>${q.type === "multi" ? "" : qinfoHtml(q)}${confHtml}${body}${after}</div>
-        ${results.length && results.length < order.length && order.length > 5 ? `<button class="link qend" id="endq">Finish now and see results for the ${results.length} ${results.length === 1 ? "question" : "questions"} answered</button>` : ""}</div>`;
+        ${results.length && results.length < order.length && order.length > 5 ? `<button class="link qend" id="endq">Finish now and see results for the ${results.length} ${results.length === 1 ? "question" : "questions"} answered</button>` : ""}
+        <p class="xs muted keys">Keys: ${q.type === "mcq" ? "1–9 or A–I choose · " : q.type === "short" ? "R show answer (Ctrl/⌘+Enter while typing) · G got it · M missed it · " : ""}Enter next</p></div>`;
       host.querySelectorAll(".opt").forEach(b => b.onclick = () => { const k = +b.dataset.k, g = k === q.answer ? 1 : 0; picked = k; logResult(q, null, g, 1, { pick: k, draft: "" }); record(g, { pick: k }); });
       const $ = id => host.querySelector("#" + id);
       host.querySelectorAll("[data-conf]").forEach(x => x.onchange = () => { conf = +x.value; });
@@ -1825,12 +1864,35 @@ const DIFF = {"chem-1-1-1":[1,88,"m"],"chem-1-1-2":[3,59,"m"],"chem-1-1-3":[2,78
     window.scrollTo(0, 0);
     const h = app.querySelector(".qprompt"); if (h) { h.tabIndex = -1; h.focus(); }
   }
+  // Keyboard shortcuts, listed under the dashboard. Keep in step with the keydown handlers near route().
+  const SHORTCUTS = [
+    ["Search", [
+      [["/"], "Jump to the search box (when you are not typing)"],
+      [["Ctrl", "K"], "Jump to the search box from anywhere (⌘ K on a Mac)"],
+      [["↑", "↓"], "Move through the search results"],
+      [["Enter"], "Open the highlighted result"],
+      [["Esc"], "Clear the search; press again to leave the box"]]],
+    ["Multiple choice", [
+      [["1–9"], "Choose an option by number: 1 is A, 2 is B, and so on"],
+      [["A–I"], "Choose an option by its letter"]]],
+    ["Written questions", [
+      [["R"], "Show the model answer"],
+      [["Ctrl", "Enter"], "Show the model answer while typing in the answer box (⌘ Enter on a Mac)"],
+      [["G"], "Mark it as got it"],
+      [["M"], "Mark it as missed it"]]],
+    ["Any quiz", [
+      [["Enter"], "Go to the next question, or see your results after the last one"]]],
+  ];
+  const shortcutsHtml = () => `<section class="stack dsec" aria-labelledby="d-keys"><h2 class="section-h" id="d-keys">Keyboard shortcuts</h2>
+    <p class="muted" style="max-width:42rem">Shortcuts work on a computer keyboard. Quiz keys work in every quiz, and are ignored while you are typing in a box.</p>
+    <div class="dkeys">${SHORTCUTS.map(([h, rows]) => `<div class="card pad stack" style="gap:8px"><h3 class="h2s">${h}</h3><dl class="keys-list">${rows.map(([ks, what]) =>
+      `<div><dt>${ks.map(k => `<kbd>${esc(k)}</kbd>`).join(" ")}</dt><dd>${esc(what)}</dd></div>`).join("")}</dl></div>`).join("")}</div></section>`;
   // The page shell (with its heading) renders at once and the figures a moment later, so a long history never blocks the page.
   let dashTimer = 0;
   function dashboardView(focusSel, msg) {
     app.innerHTML = `<div class="wrap w5 view stack-lg dash"><div class="stack" style="gap:12px"><h1 class="page-h1">Your dashboard</h1>
       <p class="muted" style="max-width:42rem">How your practice is going and what to work on next, from the questions you answer on this device.</p></div>
-      <div id="dbody" class="stack-lg" aria-busy="true"><div class="dskel" role="status"><span class="sr-only">Loading your dashboard</span><div class="sk sk-row"></div><div class="sk sk-tall"></div><div class="sk sk-tall"></div></div></div></div>`;
+      <div id="dbody" class="stack-lg" aria-busy="true"><div class="dskel" role="status"><span class="sr-only">Loading your dashboard</span><div class="sk sk-row"></div><div class="sk sk-tall"></div><div class="sk sk-tall"></div></div></div>${shortcutsHtml()}</div>`;
     clearTimeout(dashTimer);
     dashTimer = setTimeout(() => {
       const body = document.getElementById("dbody"); if (!body) return; // the student has moved to another page
@@ -2278,6 +2340,72 @@ const DIFF = {"chem-1-1-1":[1,88,"m"],"chem-1-1-2":[3,59,"m"],"chem-1-1-3":[2,78
   // Hash routing would treat "#app" as a page, so the skip link focuses <main> directly.
   document.querySelector(".skip").onclick = e => { e.preventDefault(); app.focus(); };
   window.addEventListener("hashchange", () => route(true));
+  // Site search: header combobox over subtopics, topics, subjects and exam-style questions (names only).
+  const hs = document.getElementById("hsearch"), hsres = document.getElementById("hsres");
+  let hsItems = null, hsShown = [], hsAct = -1;
+  // Subjects share names across units (Chemistry U1/2 and U3/4), so results name the unit too.
+  const hsSj = sj => esc(`${sj.name} · ${sj.group}`);
+  const hsIndex = () => hsItems || (hsItems = [
+    ...subjects.flatMap(sj => sj.topics.flatMap(t => t.subtopics.filter(s => count(s.slug)).map(s => ({ name: s.name, sub: sj.name, html: esc(s.name), meta: `${hsSj(sj)} · Topic ${t.number}`, hash: s.slug })))),
+    ...subjects.flatMap(sj => sj.topics.map(t => ({ name: t.name, sub: sj.name, html: esc(t.name), meta: `Topic ${t.number} · ${hsSj(sj)}`, hash: "s-" + sj.id, open: [sj.id, t.number] }))),
+    ...subjects.map(sj => ({ name: sj.name, sub: sj.group || "", html: esc(sj.name), meta: `Subject · ${esc(sj.group)}`, hash: "s-" + sj.id })),
+    ...subjects.flatMap(sj => (exams[sj.id] || []).map(q => ({ name: q.title, sub: sj.name, html: txt(q.title), meta: `Exam-style question · ${hsSj(sj)}`, hash: "x-" + q.id }))),
+  ].map(it => ({ ...it, lc: it.name.toLowerCase(), hay: (it.name + " " + it.sub).toLowerCase() })));
+  const hsClose = () => { hsres.hidden = true; hs.setAttribute("aria-expanded", "false"); hs.removeAttribute("aria-activedescendant"); hsAct = -1; };
+  const hsSet = i => {
+    hsAct = i;
+    [...hsres.children].forEach((li, k) => li.setAttribute("aria-selected", k === i));
+    if (i < 0) return hs.removeAttribute("aria-activedescendant");
+    hs.setAttribute("aria-activedescendant", "hsr" + i); hsres.children[i].scrollIntoView({ block: "nearest" });
+  };
+  const hsRender = () => {
+    const q = hs.value.trim().toLowerCase();
+    if (!q) { hsShown = []; return hsClose(); }
+    const terms = q.split(/\s+/), rank = it => it.lc.startsWith(q) ? 0 : it.lc.split(/\s+/).some(w => w.startsWith(terms[0])) ? 1 : 2;
+    hsShown = hsIndex().filter(it => terms.every(t => it.hay.includes(t))).map(it => [rank(it), it]).sort((a, b) => a[0] - b[0]).slice(0, 8).map(r => r[1]); // sort is stable, so ties keep type then site order
+    hsres.innerHTML = hsShown.length ? hsShown.map((it, i) => `<li role="option" id="hsr${i}" data-i="${i}" aria-selected="false"><b>${it.html}</b><small>${it.meta}</small></li>`).join("") : `<li role="option" aria-disabled="true">No matches</li>`;
+    hsAct = -1; hs.removeAttribute("aria-activedescendant");
+    hsres.hidden = false; hs.setAttribute("aria-expanded", "true");
+  };
+  const hsGo = it => {
+    hs.value = ""; hsClose();
+    if (it.open) (openTopics[it.open[0]] || (openTopics[it.open[0]] = new Set())).add(it.open[1]);
+    if (location.hash === "#" + it.hash) route(true); else location.hash = it.hash;
+  };
+  hs.addEventListener("input", hsRender);
+  hs.addEventListener("focus", () => { if (hs.value.trim()) hsRender(); });
+  hs.addEventListener("blur", hsClose);
+  hs.addEventListener("keydown", e => {
+    const n = hsShown.length, open = !hsres.hidden;
+    if (e.key === "ArrowDown" || e.key === "ArrowUp") {
+      e.preventDefault(); if (!open) hsRender();
+      if (n) hsSet(e.key === "ArrowDown" ? (hsAct + 1) % n : (hsAct < 0 ? n - 1 : (hsAct - 1 + n) % n));
+    } else if (e.key === "Enter") { if (open && n) { e.preventDefault(); hsGo(hsShown[Math.max(hsAct, 0)]); } }
+    else if (e.key === "Escape") { e.preventDefault(); if (open) { hs.value = ""; hsShown = []; hsClose(); } else hs.blur(); }
+  });
+  hsres.addEventListener("mousedown", e => e.preventDefault()); // keep focus so blur does not close the list before the click lands
+  hsres.addEventListener("click", e => { const li = e.target.closest("li[data-i]"); if (li) hsGo(hsShown[+li.dataset.i]); });
+  document.addEventListener("keydown", e => {
+    const slash = e.key === "/" && !e.ctrlKey && !e.metaKey && !e.altKey && !(e.target.matches && e.target.matches("textarea, select, [contenteditable], input:not([type=radio]):not([type=checkbox])"));
+    if (!slash && !((e.ctrlKey || e.metaKey) && e.key.toLowerCase() === "k")) return;
+    e.preventDefault(); hs.focus(); hs.select();
+  });
+  window.addEventListener("hashchange", hsClose);
+  // Quiz keyboard shortcuts. They act on the quiz's own buttons, so every quiz (subtopic, custom, dashboard, error log) gets them.
+  document.addEventListener("keydown", e => {
+    if (e.altKey || e.defaultPrevented) return;
+    const t = e.target, typing = t.matches && t.matches("textarea, select, [contenteditable], input:not([type=radio]):not([type=checkbox])");
+    const btn = id => app.querySelector("#quiz #" + id);
+    const press = b => { if (!b) return false; e.preventDefault(); b.click(); return true; };
+    if (typing) { if (e.key === "Enter" && (e.ctrlKey || e.metaKey) && t.matches("textarea.ans")) press(btn("reveal")); return; }
+    if (e.ctrlKey || e.metaKey) return;
+    const k = e.key.toLowerCase();
+    if (k === "enter") { if (!t.matches("button, a, summary, input")) press(btn("next")); return; }
+    if (press({ r: btn("reveal"), g: btn("got"), m: btn("miss") }[k])) return;
+    const opts = app.querySelectorAll("#quiz .opt:not(:disabled)");
+    const n = /^[1-9]$/.test(k) ? +k - 1 : /^[a-i]$/.test(k) ? k.charCodeAt(0) - 97 : -1;
+    if (n >= 0 && n < opts.length) press(opts[n]);
+  });
   importMistakes();
   route(false);
 })();
