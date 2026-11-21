@@ -22,6 +22,7 @@ Question types:
 
 - **Multiple choice**, marked instantly, with an explanation.
 - **Written**, where you compare your answer with a model answer and its explanation, then mark yourself.
+- **Auto-marked answers.** Written questions and multi-part parts whose answer is a single number (listed in `content/answers.json`, made by `scripts/extract_answers.py`) show a number box and a Check button instead of a free-text box. Checking accepts decimals, fractions, `3.2×10^-4`, `%` and `$`, and counts an answer correct if it is within the tolerance in that file (set from the decimal places or significant figures of the model answer). A wrong unit only adds a gentle note and never changes the mark. The mark goes through the same path as self-marking, and a small "Mark it myself instead" link on written questions falls back to self-marking in case the answer was misread. For a part, Check shows the solution and fills in the marks (full marks if correct, 0 if not) and you can still change them. Questions with no entry stay self-marked, and so does everything when the page is opened from a file, because the answers file cannot be loaded. On phones and tablets (coarse pointer) a row of keys above the box inserts `−`, `.`, `/`, `×10^`, `^`, `%` (and `$` for money) at the cursor.
 - **Multi-part** (SAC-style, inside a subtopic quiz): a short context followed by parts a, b, c… Each part has a model answer, a worked solution whose steps show the marks they earn, and a common mistake. You give yourself the marks you earned for each part.
 - **Exam-style** (listed at the bottom of each subject page): long multi-part questions where one context runs through several topics, like the extended-response section of a VCE exam. Each opens on its own page (`#x-<id>`), and **Full exam-style test** (`#test-<subject>`) puts all of a subject's exam-style questions on one page. Each page has an optional **Timed mode**: reading time (15 minutes on a full test; on a single question min(15, max(2, ceil(writing minutes ÷ 6)))) with answers and solutions locked, then writing time (the questions' estimated minutes added up, rounded up to the minute), with a sticky countdown that announces 5 minutes left and time's up. Plain practice stays the default, and a part's worked solution can be shown one step at a time. The results show marks by question and which subtopics lost marks. Every VCE maths and science subject, plus Biology and Psychology (Units 1 & 2 and Units 3 & 4), has six, two of them Challenge questions; Units 3 & 4 Mathematical Methods has seven. English and EAL and Chinese Second Language keep their long tasks (essays, argument analysis, reading passages, writing tasks) inside their subtopics instead. GCSE Biology has none, so its page has no exam-style section.
 - **Challenge** questions are harder than the rest and carry a Challenge tag wherever they appear. Every subtopic ends with one, every subject ends with a **Challenge questions** topic holding a 10-question Challenge set, and every subject with an exam-style section has two Challenge exam-style questions (666 challenge questions in all).
@@ -98,7 +99,7 @@ Writes merge with what is stored (the later edit wins), so two open tabs never u
   - mastery for each topic.
 - **Topic mastery**: practised subtopics grouped as Beginning, Developing, Secure, Mastered or Not enough data yet. Each shows a rounded score with a likely range, its reliability, and its change since last week. Each also carries a text level: the engine's own level, or Not started (no attempts) or Not enough data yet.
 - **Milestones**: six badges (first quiz finished, 100 questions answered, first subtopic Secure, first subtopic Mastered, a whole topic Mastered, studied on 7 different days). They are worked out from the history on each visit, with nothing new stored; unearned badges say "Not yet".
-- **Difficulty analysis**: accuracy on easy, medium and difficult questions against the typical success rate, once the difficulty ratings (`const DIFF`) are on the site.
+- **Difficulty analysis**: accuracy on easy, medium and difficult questions against the typical success rate, once the difficulty ratings (`DIFF` in the data files) are on the site.
 - **Recent activity**: recent questions, recent questions that lost marks, and completed quizzes and exam pages.
 - **Recommended next steps**: the weakest subtopics, questions due for revision, and suggested practice. A question that lost marks comes back a day later, and once it is right it comes back a week later; ticking Resolved in the error log stops it.
 
@@ -115,7 +116,7 @@ The history behind it is in `localStorage` under `helix-activity-v1`. It holds o
 
 ## Exam dates and the weekly plan
 
-Settings has an **Exam dates** section with a date box for each of your subjects that has an external exam (Units 1 and 2 subjects have none). Dates are saved on the device under `helix-exams-v1` as `{subjectId: "YYYY-MM-DD"}`, and you can clear any of them. The dashboard's **Your exam plan** section then shows each exam's countdown, this week's target and progress, and the next two or three subtopics to work on. Nothing else is stored: the plan is worked out each time. Weeks left is the days to the exam divided by 7, rounded up (at least 1). The target this week is the number of subtopics not yet Secure divided by the weeks left, rounded up and capped at 6, shown as sprints (one sprint per subtopic). In the final 7 days the plan switches to review: mixed sprints, focusing on weak spots. Progress counts the quizzes finished in that subject since Monday. Past dates are shown as finished and left out of the plan. `planSummaryHtml()` returns a one-line summary for the Today card, or an empty string when no dates are set.
+Settings has an **Exam dates** section with a date box for each of your subjects that has an external exam (Units 1 and 2 subjects have none). Dates are saved on the device under `helix-exams-v1` as `{subjectId: "YYYY-MM-DD"}`, and you can clear any of them. The dashboard's **Your exam plan** section then shows each exam's countdown, this week's target and progress, and the next two or three subtopics to work on. Nothing else is stored: the plan is worked out each time. Weeks left is the days to the exam divided by 7, rounded up (at least 1). The target this week is the number of subtopics not yet Secure divided by the weeks left, rounded up and capped at 6, shown as sprints (one sprint per subtopic). In the final 7 days the plan switches to review: mixed sprints, focusing on weak spots. Progress counts the quizzes finished in that subject since Monday. **Add to calendar (.ics)** under the plan downloads `helix-exams.ics`, built on the device, with an all-day event for each future exam and a weekly all-day revision reminder until the day before it. Past dates are shown as finished and left out of the plan. `planSummaryHtml()` returns a one-line summary for the Today card, or an empty string when no dates are set.
 
 ## My subjects
 
@@ -215,7 +216,7 @@ Three AI-written pilots live in `content/` and are fetched only when a page need
 
 ## Question files
 
-`questions/` holds every question as Markdown, one folder per subject (`questions.md` + `answers.md`). It is generated from the `DATA` block in `index.html`, so after editing questions there, regenerate and check it:
+`questions/` holds every question as Markdown, one folder per subject (`questions.md` + `answers.md`). It is generated from the question data in `data/` (see below), so after editing questions there, regenerate and check it:
 
 ```bash
 python3 scripts/build_questions.py && python3 scripts/verify.py
@@ -238,29 +239,56 @@ python scripts/db.py build && python admin/server.py
 
 ## Running it
 
-No build step. Open `index.html` in a browser, or serve the folder:
+No build step, but **opening `index.html` straight from the file system (`file://`) no longer works**: the page loads its questions with `fetch()`, which browsers only allow over http. Serve the folder instead:
 
 ```bash
 python3 -m http.server 8000
 ```
 
-Then visit http://localhost:8000. Web fonts load from Google Fonts. Without a connection the page falls back to system fonts.
+Then visit http://localhost:8000. (Opened as a file, the page says so and shows how to fix it.) Web fonts load from Google Fonts. Without a connection the page falls back to system fonts.
 
 The one third-party script is [KaTeX](https://katex.org/) 0.19.1 (MIT licence), which typesets maths. It loads from the jsDelivr CDN at a pinned version with subresource integrity hashes; to upgrade, change the version and the three `integrity` values together. Without a connection the quizzes still work, but maths shows as raw LaTeX.
 
+## Offline use
+
+A service worker (`sw.js`, registered from `index.html` only over http(s)) makes the site work without internet after the first visit. Request by request:
+
+- The page (`index.html`, navigations): network first, cached copy if offline, so updates arrive as soon as you are online.
+- `data/` and `content/` JSON: stale-while-revalidate. The cached copy is served at once and refreshed in the background. A 404 (most `content/` files are optional) is never cached.
+- Fonts (Google Fonts, KaTeX) and the icons and manifest: cache first.
+- Precached on install: the page, `data/index.json`, the manifest, the icons and the KaTeX files. Subject files are cached when first opened, or all at once with **Settings > Offline use > Download all subjects**.
+- Nothing else is cached: no non-GET requests and no other hosts.
+
+**Bump `CACHE` in `sw.js` (`helix-v1`, `helix-v2`, ...) whenever the precached shell assets change** (icons, manifest, KaTeX version). The page and data refresh on their own without a bump. A new worker activates immediately and deletes older caches. `file://` still does not work, and service workers do not run there. The PNG icons come from `python3 scripts/make-icons.py`.
+
+## Data layout
+
+`index.html` is only the app (about 300 KB). The questions live in `data/`, per subject, and are fetched on demand:
+
+- `data/index.json` (about 150 KB, 30 KB compressed) is the catalogue, the only data file fetched at startup. It holds `S` (subjects, topics, subtopics), `E` (how each subject words exam relevance), `C` (challenge-question ids), `M` (each subtopic's exam weight and prerequisites), and what the home page, subject lists, topic pages, search and progress bars need without any question: `N` (per subtopic `[question count, marks]`), `X` (per subject, a stub for each exam-style question: `[id, title, tech, marks, parts, topic slugs]`), `P` (the question-id stem, meaning the id without its trailing digits, mapped to an index into `S`, so the site can tell which subject file holds a question id from a share link or the student's history) and `D` (how many difficulty ratings exist).
+- `data/<subjectId>.json` (65 KB to 580 KB each, 15 files) holds that subject's `Q` (`{slug: [question]}`), `X` (its exam-style questions, left out when it has none), `T` (`{id: [type, exam marks, minutes, topic?]}`) and `DIFF` (`{id: [stars, % correct, confidence]}`). Every `T` and `DIFF` id belongs to a question in the same file, and `tests/data-split.test.mjs` checks that.
+
+The page loads the subject files a view needs with `ensureSubjects(ids)` (cached; a failed fetch shows a message with **Try again**). A subject, subtopic or exam page loads that one subject. The quiz builder loads the subject being built. Shared links (`#share=`) load the subjects their question ids belong to. The dashboard, error log, mistake analysis, mastery page and the Today card load the subjects the student's history, error log, mistake records and best scores refer to, plus (for the Today card) their chosen My subjects. Home, Subjects, the exam-style list and search use the catalogue alone.
+
+The previous `DATA` and `DIFF` objects are rebuilt exactly by `scripts/helix_data.py` (`read_data()`, `read_diff()`), which is the one place that knows the file layout. `write_data(d)` and `write_diff(diff)` split them back into the files, and every script that used to read the `DATA` line of `index.html` goes through it: `build_questions.py`, `build_difficulty.py` (writes the `DIFF` parts), `difficulty_batches.py`, `extract_answers.py`, `verify.py` and `db.py`. To regenerate: edit via the admin page (`python3 admin/server.py`, then **Publish to files**) or `python3 scripts/db.py export`, then `python3 scripts/build_questions.py && python3 scripts/verify.py`. Run `python3 scripts/helix_data.py` for a round-trip self-check.
+
 ## Hosting
 
-`index.html` sits at the repo root, so GitHub Pages works as is: **Settings → Pages → Deploy from a branch → `main` / root**.
+`index.html` and `data/` sit at the repo root, so GitHub Pages works as is: **Settings → Pages → Deploy from a branch → `main` / root**.
 
 ## Accessibility
 
 The site targets WCAG 2.1 AA: semantic headings, a skip link, full keyboard use with visible focus, focus moved to the new heading on every page change, AA colour contrast in light and dark themes, text (not just colour) for right and wrong answers, labelled form controls, and no animation when the system asks for reduced motion. Please report any barrier as an issue.
 
+Questions, parts, model answers and solutions have a **Listen** button that reads them aloud with the browser's own speech (an Australian English voice when there is one), with maths read as words. It shows only in browsers that support speech.
+
+The Settings page has a **Reading** section for text size, line spacing, an easy-to-read font (Atkinson Hyperlegible, loaded from Google Fonts only when chosen) and a narrower line length. Choices are saved in your browser (`helix-reading-v1`) and applied before the page is drawn.
+
 ## Contributing
 
-Corrections and new questions are welcome as [issues](https://github.com/m3gabraintin-c/helix-revise/issues) or pull requests. Edit questions in the `DATA` block of `index.html`, then regenerate `questions/` with the command above.
+Corrections and new questions are welcome as [issues](https://github.com/m3gabraintin-c/helix-revise/issues) or pull requests. Edit questions through the admin page, or directly in the subject's file in `data/` (see Data layout), then regenerate `questions/` with the command above.
 
-`DATA.Q` maps each subtopic slug to its questions. Multiple-choice and written questions are positional arrays (see the comment above the data mapping in `index.html`). Multi-part questions are objects with named fields, and they also make up `DATA.X`, the exam-style questions keyed by subject id:
+`Q` in a subject file maps each of its subtopic slugs to its questions (`DATA.Q`). Multiple-choice and written questions are positional arrays (see the comment above the data loading code in `index.html`). Multi-part questions are objects with named fields, and they also make up `X`, the subject's exam-style questions (`DATA.X`, keyed by subject id):
 
 ```json
 {"id": "methods-6-3-m1", "type": "multi", "title": "Area between a parabola and a line",
@@ -277,13 +305,13 @@ Corrections and new questions are welcome as [issues](https://github.com/m3gabra
 - A part's step marks must add up to its `marks`; the question's total is the sum of its parts. `topic` is the subtopic slug that the part tests, which is how results show where marks were lost.
 - Write maths in LaTeX between `\( \)` (inline) or `\[ \]` (display). `$` is not a maths delimiter, because many questions use it for money. In the JSON every LaTeX backslash must be doubled (`\\frac`, not `\frac`, which JSON reads as a form feed); `scripts/verify.py` reports any string holding a control character.
 - A part can also have `sample`, a list of paragraphs shown as a "Sample response" (used for essays and writing tasks); its steps are then headed "Marking guide". A question can set `steps_label` (for example `"Marking points"`) to replace the default "Worked solution" heading, as English and Chinese do.
-- `DATA.C` lists the ids of the challenge questions. The quiz, exam-style and full-test pages tag those questions "Challenge", and `questions.md` marks them with *Challenge question*. `scripts/verify.py` checks that every listed id exists and that the marks in `questions.md` match the list.
-- Question info lives in three maps:
+- `C` (in `data/index.json`) lists the ids of the challenge questions. The quiz, exam-style and full-test pages tag those questions "Challenge", and `questions.md` marks them with *Challenge question*. `scripts/verify.py` checks that every listed id exists and that the marks in `questions.md` match the list.
+- Question info lives in three maps (`M` and `E` in the catalogue, `T` in each subject file; written below as `DATA.M`, `DATA.T` and `DATA.E`):
   - `DATA.M` maps each subtopic slug to `[weight, [prerequisite slugs], "prior knowledge", "format note"?]`. The weight is 3 (high), 2 (medium) or 1 (low). The optional format note replaces the subject's wording for the question format, as the English essay subtopics do.
   - `DATA.T` maps each question id to `[type or [types], exam marks, minutes]`. The types are the codes in `QTYPES` in `index.html`. Challenge-set questions add a fourth element: the subtopic slug they test, or the name of a syllabus area that has no subtopic.
   - `DATA.E` maps each subject id to `{"w": [low, medium, high], "mcq", "short", "multi", "free"?}`, how that subject words exam relevance.
 
-  A new question needs an entry in `DATA.T`, and a new subtopic an entry in `DATA.M`. `scripts/verify.py` checks all three maps and the *Info* line that `questions.md` prints under each question.
+  A new question needs an entry in `DATA.T`, and a new subtopic an entry in `DATA.M`; the counts, stubs and id stems in the catalogue are filled in by `write_data`. `scripts/verify.py` checks all three maps and the *Info* line that `questions.md` prints under each question.
 - Vary the position of the correct option in multiple-choice questions, and keep distractors about as long and detailed as the answer, so the answer is not given away by its position or length.
 - Chinese text needs no markup: the page wraps runs of Chinese characters in `lang="zh-Hans"` so screen readers pronounce them correctly.
 - Source labels must not claim a question is a VCAA question. Write original questions; past papers and textbooks may only guide the style.

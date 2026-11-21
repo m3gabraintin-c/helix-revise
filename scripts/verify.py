@@ -1,10 +1,10 @@
-# Independent check that questions/ matches index.html, and that multi-part questions are well formed.
+# Independent check that questions/ matches data/, and that multi-part questions are well formed.
 # Run from anywhere: python3 scripts/verify.py
 import json, os, re
+import helix_data
 
 repo = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-line = next(l for l in open(os.path.join(repo, "index.html"), encoding="utf-8") if l.startswith("const DATA = "))
-d = json.loads(line[len("const DATA = "):].rstrip().rstrip(";"))
+d = helix_data.read_data()
 X = d.get("X", {})
 errs = []
 TECH = {"free": "Technology-free", "active": "Technology-active (CAS)"}
@@ -24,9 +24,8 @@ for sid, name, label, g, T in d["S"]:
 for sid in X:
     if not any(s[0] == sid for s in d["S"]): errs.append(f"DATA.X: unknown subject {sid}")
 
-# ---- the DATA line must not end the <script> early, and no string may hold a control character ----
+# ---- no string may hold a control character ----
 # (A control character usually means a LaTeX backslash was not doubled in the JSON: "\frac" is a form feed plus "rac".)
-if "</script" in line.lower() or "<!--" in line: errs.append("DATA contains </script or <!--")
 def strings(o, path):
     if isinstance(o, str): yield path, o
     elif isinstance(o, list):

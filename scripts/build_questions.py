@@ -1,11 +1,10 @@
-# Regenerate questions/ from the DATA block in index.html. Run from anywhere: python3 scripts/build_questions.py
+# Regenerate questions/ from the question data in data/ (see scripts/helix_data.py). Run from anywhere: python3 scripts/build_questions.py
 import json, math, os, re, shutil
+import helix_data
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 OUT = os.path.join(ROOT, "questions")
-PREFIX = "const DATA = "
-line = next(l for l in open(os.path.join(ROOT, "index.html"), encoding="utf-8") if l.startswith(PREFIX))
-d = json.loads(line[len(PREFIX):].rstrip().rstrip(";"))
+d = helix_data.read_data()
 X = d.get("X", {})  # exam-style questions: {subjectId: [multi-part question]}
 GCSE_REASON = "GCSE Edexcel Biology, not a VCE subject — needs your decision."
 LET = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
@@ -151,7 +150,7 @@ for k in sorted(folders, key=lambda x: (x == "_unsorted", x)):
     open(os.path.join(OUT, k, "answers.md"), "w", encoding="utf-8").write(at)
     counts[k], orders[k] = len(qo), qo
 
-rd = "# Questions\n\nThese files are generated from index.html's DATA; question and answer text is verbatim. Maths is written in LaTeX between \\( \\) or \\[ \\], which the website typesets.\n\n"
+rd = "# Questions\n\nThese files are generated from the data/ files; question and answer text is verbatim. Maths is written in LaTeX between \\( \\) or \\[ \\], which the website typesets.\n\n"
 for k, c in counts.items():
     nm = sum(isinstance(r, dict) for r in orders[k])
     rd += "- [%s](%s/questions.md) — %d questions%s ([answers](%s/answers.md))\n" % (k, k, c, " (%d multi-part)" % nm if nm else "", k)

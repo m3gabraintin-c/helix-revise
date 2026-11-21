@@ -1,13 +1,11 @@
-# Merge difficulty/ratings/**.json, enforce the evidence rules, and embed `const DIFF = {...};` into index.html.
+# Merge difficulty/ratings/**.json, enforce the evidence rules, and write it into the DIFF part of each data/<subject>.json.
 # Run: python3 scripts/build_difficulty.py   (safe to re-run; unrated questions simply show no chip)
 import glob, json, os
 from urllib.parse import urlparse
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-HTML = os.path.join(ROOT, "index.html")
-lines = open(HTML, encoding="utf-8").read().split("\n")
-di = next(i for i, l in enumerate(lines) if l.startswith("const DATA = "))
-d = json.loads(lines[di][len("const DATA = "):].rstrip().rstrip(";"))
+import helix_data
+d = helix_data.read_data()
 
 # Star bands on p = estimated % of that course's exam cohort answering fully correctly (mean % of marks for multi-mark).
 BANDS = [(85, 1), (70, 2), (50, 3), (30, 4), (0, 5)]
@@ -40,10 +38,7 @@ for f in sorted(glob.glob(os.path.join(ROOT, "difficulty", "ratings", "*", "*.js
             c = CAP[course_of[qid]]; notes["capped"] += 1
         out[qid] = [stars(p), round(p), c[0]]
 
-line = "const DIFF = " + json.dumps(out, separators=(",", ":"), ensure_ascii=False) + ";"
-if lines[di + 1].startswith("const DIFF = "): lines[di + 1] = line
-else: lines.insert(di + 1, line)
-open(HTML, "w", encoding="utf-8").write("\n".join(lines))
+helix_data.write_diff(out)
 
 missing = [q for q in course_of if q not in out]
 by = {}
@@ -55,5 +50,4 @@ print("rated %d / %d, missing %d" % (len(out), len(course_of), len(missing)), no
 
 # self-check: band edges and the embedded line round-trips
 assert [stars(p) for p in (100, 85, 84.9, 70, 69, 50, 49, 30, 29, 0)] == [1, 1, 2, 2, 3, 3, 4, 4, 5, 5]
-back = next(l for l in open(HTML, encoding="utf-8") if l.startswith("const DIFF = "))
-assert json.loads(back[len("const DIFF = "):].rstrip().rstrip(";")) == out
+assert helix_data.read_diff() == out

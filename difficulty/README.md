@@ -7,7 +7,7 @@ Every quiz question gets 1–5 stars and an estimated percentage of students who
 ```bash
 python3 scripts/difficulty_batches.py --remaining --prefix r3-   # unrated questions -> difficulty/batches/<course>/r3-NNN.json + manifest-remaining.json
 # run difficulty/rate.workflow.js with args {root, packs: [[pack, needsResearch]], courses: [[course, pack|null, [batch paths from the manifest]]], qaOnly?}
-python3 scripts/build_difficulty.py                  # ratings -> checks -> `const DIFF = {...};` line in index.html
+python3 scripts/build_difficulty.py                  # ratings -> checks -> DIFF in data/<subject>.json
 ```
 
 Run `build_difficulty.py` again after any re-rating. Questions without a rating show no chip. Use a new `--prefix` each round, so a new batch never takes the name of an older one (the script checks). `--remaining` never re-batches a question that is already rated, and keeps batches that have judge files in `work/` (in progress) in the manifest. Every step writes its result to disk, and the workflow merges what is already on disk before it judges, so a stopped run resumes by running these commands again: only missing judges and tie-breaks run.
@@ -28,7 +28,7 @@ Orchestrators plan and review; Haiku workers do all per-batch and per-chunk work
 | Merge | code (`merge_judges.py`) | Agreeing judges (star gap ≤1 and `p` within 12): mean `p`, weaker confidence, union of evidence. Missing items are re-judged; disagreements go to the tie-break. A tie-break older than a re-judge is ignored. | `ratings/<course>/<batch>.json` |
 | Tie-break | Haiku | Reads both judges' outputs for disputed questions and decides | `.tie.json` |
 | QA | Sonnet | Reviews rating files in groups of 6; flagged batches are re-judged once with the reason | — |
-| Enforce | `build_difficulty.py` | Turns `p` into stars, downgrades to `low` any rating whose cited evidence is not verified, VCAA-hosted and numeric, caps confidence by course, and embeds the result | `index.html` |
+| Enforce | `build_difficulty.py` | Turns `p` into stars, downgrades to `low` any rating whose cited evidence is not verified, VCAA-hosted and numeric, caps confidence by course, and writes the result | `data/<subject>.json` (`DIFF`) |
 
 The models never output stars. Stars come from `p` in code, so the bands are applied the same way everywhere.
 
@@ -80,7 +80,7 @@ The models never output stars. Stars come from `p` in code, so the bands are app
             "basis": "one sentence", "judges": {"a": [80, "high"], "b": [84, "high"]}, "resolved_by": "agree" | "tiebreak"}]}
 ```
 
-Embedded in `index.html` (compact): `const DIFF = {"methods-1-1-1": [2, 82, "h"], ...};` which holds stars, % and confidence `h|m|l`.
+Stored per subject in `data/<subject>.json` (compact), under `DIFF`: `{"methods-1-1-1": [2, 82, "h"], ...}`, which holds stars, % and confidence `h|m|l`.
 
 ## Prompts
 

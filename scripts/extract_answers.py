@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Extract machine-checkable single-number answers from the DATA line of index.html.
+"""Extract machine-checkable single-number answers from the question data in data/.
 
 Writes content/answers.json and content/answers.review.md. Stdlib only, rerunnable.
   python3 scripts/extract_answers.py            # extract
@@ -170,8 +170,8 @@ def extract(prompt, answer):
 
 
 def load():
-    l = next(l for l in open(os.path.join(ROOT, 'index.html'), encoding='utf-8') if l.startswith('const DATA = '))
-    return json.loads(l[len('const DATA = '):].rstrip().rstrip(';'))
+    import helix_data
+    return helix_data.read_data()
 
 
 def candidates(d):

@@ -1,7 +1,7 @@
 # Local admin page for the Helix Revise question database.
 #   python admin/server.py            then open the address it prints (http://127.0.0.1:8790/...)
 # It only listens on this computer, and every API call needs the token in the page, so other websites cannot use it.
-# Edits go into db/helix.sqlite straight away; "Publish to files" writes db/data.sql, index.html and questions/,
+# Edits go into db/helix.sqlite straight away; "Publish to files" writes db/data.sql, data/*.json and questions/,
 # which you then commit and push as usual.
 import json, os, secrets, sqlite3, sys, threading
 from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
@@ -187,7 +187,7 @@ def publish():
         buf = io.StringIO()
         try:
             with contextlib.redirect_stdout(buf):
-                db.write_html(db.export_data(CON)); db.dump(CON); db.run_scripts()
+                db.write_files(db.export_data(CON)); db.dump(CON); db.run_scripts()
         except SystemExit as e:
             return {"ok": False, "errors": [str(e)], "log": buf.getvalue()}
         STATE["unpublished"] = 0
@@ -239,6 +239,6 @@ if __name__ == "__main__":
     try: srv = ThreadingHTTPServer(("127.0.0.1", port), Handler)
     except OSError: raise SystemExit(f"Port {port} is in use. Choose another, e.g. set HELIX_ADMIN_PORT=8791")
     print(f"Helix Revise admin: http://127.0.0.1:{port}/?t={TOKEN}")
-    print("Edits are saved to db/helix.sqlite. Use 'Publish to files' to update db/data.sql, index.html and questions/. Ctrl+C to stop.")
+    print("Edits are saved to db/helix.sqlite. Use 'Publish to files' to update db/data.sql, data/*.json and questions/. Ctrl+C to stop.")
     try: srv.serve_forever()
     except KeyboardInterrupt: pass

@@ -1,4 +1,4 @@
-# Export every question in index.html's DATA into judge-sized batches: difficulty/batches/<course>/NNN.json
+# Export every question in data/ into judge-sized batches: difficulty/batches/<course>/NNN.json
 # plus difficulty/batches/manifest.json (what the rating workflow takes as args). Run: python3 scripts/difficulty_batches.py [size]
 # --remaining --prefix rN-: only questions not yet rated, as <prefix>NNN.json + manifest-remaining.json. Use a new prefix
 # each round so a new batch can never take the name of an older one. Kept: batch files that have a ratings file (QA reads
@@ -17,8 +17,8 @@ rated = {it["id"] for f in glob.glob(os.path.join(ROOT, "difficulty", "ratings",
          for it in json.load(open(f, encoding="utf-8"))["items"]} if REMAINING else set()
 work = lambda f: os.path.join(ROOT, "difficulty", "work", os.path.basename(os.path.dirname(f)), os.path.basename(f)[:-5])
 rating = lambda f: f.replace(os.sep + "batches" + os.sep, os.sep + "ratings" + os.sep)
-line = next(l for l in open(os.path.join(ROOT, "index.html"), encoding="utf-8") if l.startswith("const DATA = "))
-d = json.loads(line[len("const DATA = "):].rstrip().rstrip(";"))
+import helix_data
+d = helix_data.read_data()
 
 # course id -> VCAA evidence pack (Units 1&2 have no VCAA exam, so they borrow the 3&4 pack; GCSE has none).
 # Deliberately strict: a new subject must be added here, or this script stops with a KeyError.

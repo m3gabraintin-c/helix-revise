@@ -1,6 +1,6 @@
 # Questions
 
-These files are generated from index.html's DATA; question and answer text is verbatim. Maths is written in LaTeX between \( \) or \[ \], which the website typesets.
+These files are generated from the data/ files; question and answer text is verbatim. Maths is written in LaTeX between \( \) or \[ \], which the website typesets.
 
 - [Biology](Biology/questions.md) — 1274 questions (12 multi-part) ([answers](Biology/answers.md))
 - [Chemistry](Chemistry/questions.md) — 2005 questions (12 multi-part) ([answers](Chemistry/answers.md))
